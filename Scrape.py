@@ -1,6 +1,8 @@
 import xml.etree.ElementTree as ET
 import requests
 import re
+import os
+# from wikiextractor import WikiExtractor as WE
 
 # top5_dict = {
 # "Premier_League" : ["A.F.C._Bournemouth",
@@ -77,7 +79,7 @@ import re
 # }
 
 prem_teams = ["A.F.C._Bournemouth",
-              "Brighton_&_Hove_Albion_F.C.",
+              "Brighton_%26_Hove_Albion_F.C.",
               "Liverpool_F.C.",
               "Manchester_City_F.C.",
               "Tottenham_Hotspur_F.C.",
@@ -97,7 +99,7 @@ prem_teams = ["A.F.C._Bournemouth",
               "Fulham_F.C.",
               "Huddersfield_Town_A.F.C."]
 
-get main premier league page
+# get main premier league page
 params = (
     ('title', 'Special:Export'),
     ('pages', 'Premier_League'),
@@ -107,30 +109,37 @@ response = requests.get('https://en.wikipedia.org/w/index.php', params=params)
 with open("Premier_League.xml", "w") as f:
     f.write(response.text)
 
-#get all team pages and player
-for team in prem_teams:
-    params = (
-        ('title', 'Special:Export'),
-        ('pages', team),
-    )
-    response = requests.get('https://en.wikipedia.org/w/index.php', params=params)
-    f_name = 'teams/'+ team + '.xml'
+response = requests.get('https://en.wikipedia.org/w/index.php?title=Special:Export&pages=' + '%0A'.join(prem_teams))
+f_name = 'teams.xml'
+with open(f_name, "w") as f:
+    f.write(response.text)
+
+tree = ET.parse(f_name)
+root = tree.getroot()
+for ch in root:
+    try:
+        text = ch[3][-2].text
+        team = ch[0].text.replace(' ','_')
+    except:
+        continue
+    players = re.findall('player\|.+name=(?:\[\[)?(\w*) ([\w \']*)', text)
+    player_list = ['_'.join(player).replace('\'\'', '').strip() for player in players]
+    response = requests.get('https://en.wikipedia.org/w/index.php?title=Special:Export&pages=' + '%0A'.join(player_list))
+    f_name = team + '/players.xml'
+    if not os.path.exists(os.path.dirname(f_name)):
+        try:
+            os.makedirs(os.path.dirname(f_name))
+        except OSError as exc: # Guard against race condition
+            if exc.errno != errno.EEXIST:
+                raise
     with open(f_name, "w") as f:
         f.write(response.text)
-    tree = ET.parse(f_name)
-    root = tree.getroot()
+    os.system('python wikiextractor/WikiExtractor.py -o ' + team + ' ' + team + '/players.xml')
 
-    text = root[1][3][-2].text
-    players = re.findall('player\|.+name=(?:\[\[)?(\w*) ([\w \']*)', text)
-    for player in players:
-        p_name = ' '.join(player).replace('\'\'', '').strip()
-        params = (
-            ('title', 'Special:Export'),
-            ('pages', p_name),
-        )
-        response = requests.get('https://en.wikipedia.org/w/index.php', params=params)
-        f_name = 'players/'+ p_name + '.xml'
-        with open(f_name, "w") as f:
-            f.write(response.text)
+os.system('python wikiextractor/WikiExtractor.py -o league Premier_League.xml')
+os.system('python wikiextractor/WikiExtractor.py -o teams teams.xml')
+
+
+
 
 
