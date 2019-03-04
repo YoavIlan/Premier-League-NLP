@@ -1,0 +1,369 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Virgil van Dijk</title>
+    <ns>0</ns>
+    <id>35611957</id>
+    <revision>
+      <id>885956123</id>
+      <parentid>885952563</parentid>
+      <timestamp>2019-03-03T11:52:20Z</timestamp>
+      <contributor>
+        <username>Daemonickangaroo2018</username>
+        <id>34033838</id>
+      </contributor>
+      <comment>Remove uncited POV</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="41375">{{EngvarB|date=January 2019}}
+{{Use dmy dates|date=January 2019}}
+{{Dutch name|Van Dijk|Dijk}}
+{{Infobox football biography
+| name           = Virgil van Dijk
+| image          = 20160604 AUT NED 8876 2.jpg
+| image_size     = 200
+| caption        = Van Dijk lining up for the [[Netherlands national football team|Netherlands]] in 2016
+| fullname       = Virgil van Dijk&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/84136 |title=Squads for 2016/17 Premier League confirmed |publisher=Premier League |date=1 September 2016 |accessdate=11 September 2016}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1991|7|8|df=y}}&lt;ref&gt;{{cite web |url=https://www.11v11.com/players/virgil-van-dijk-247921/ |title=Virgil Van Dijk |website=11v11.com |publisher=AFS Enterprises |accessdate=7 January 2018}}&lt;/ref&gt;
+| birth_place    = [[Breda]], Netherlands
+| height         = 1.93 m&lt;ref&gt;{{cite web |url=https://southamptonfc.com/first-team/virgil-van-dijk |title=Virgil van Dijk |publisher=Southampton F.C. |archiveurl=https://web.archive.org/web/20170311031725/https://southamptonfc.com/first-team/virgil-van-dijk |archivedate=11 March 2017 |deadurl=yes}}&lt;/ref&gt;
+| position       = [[Centre-back]]
+| currentclub    = [[Liverpool F.C.|Liverpool]]
+| clubnumber     = 4
+| youthyears1    = 2009–2010
+| youthclubs1    = [[Willem II (football club)|Willem II]]
+| youthyears2    = 2010–2011
+| youthclubs2    = [[FC Groningen|Groningen]]
+| years1         = 2011–2013
+| clubs1         = [[FC Groningen|Groningen]]
+| caps1          = 62
+| goals1         = 7
+| years2         = 2013–2015
+| clubs2         = [[Celtic F.C.|Celtic]]
+| caps2          = 76
+| goals2         = 9
+| years3         = 2015–2018
+| clubs3         = [[Southampton F.C.|Southampton]]
+| caps3          = 67
+| goals3         = 4
+| years4         = 2018–
+| clubs4         = [[Liverpool F.C.|Liverpool]]
+| caps4          = 42
+| goals4         = 3&lt;!-- The Everton goal DOES NOT COUNT in this section, this is for league only.--&gt;
+| nationalyears1 = 2011
+| nationalteam1  = [[Netherlands national under-19 football team|Netherlands U19]]
+| nationalcaps1  = 1
+| nationalgoals1 = 0
+| nationalyears2 = 2011–2013
+| nationalteam2  = [[Netherlands national under-21 football team|Netherlands U21]]
+| nationalcaps2  = 3
+| nationalgoals2 = 0
+| nationalyears3 = 2015–
+| nationalteam3  = [[Netherlands national football team|Netherlands]]
+| nationalcaps3  = 24
+| nationalgoals3 = 3
+| club-update    = 09:44, 27 February 2019 (UTC)
+| nationalteam-update = 22:33, 19 January 2019 (UTC)
+}}
+'''Virgil van Dijk''' ({{IPA-nl|vɑn ˈdɛik}}; born 8 July 1991) is a Dutch professional [[Association football|footballer]] who plays as a [[centre back]] for English {{English football updater|Liverpool}} club [[Liverpool F.C.|Liverpool]] and [[captain (association football)|captains]] the [[Netherlands national football team|Netherlands national team]].
+
+After beginning his career with [[FC Groningen|Groningen]], he moved to [[Celtic F.C.|Celtic]] in 2013, where he won the [[Scottish Premiership]] and was named in the [[PFA Scotland Team of the Year]] in both of his seasons, also winning the [[Scottish League Cup]] in the latter. In September 2015, he joined [[Southampton F.C.|Southampton]]. He joined Liverpool in January 2018 for £75&amp;nbsp;million, a [[List of most expensive association football transfers|world record transfer fee]] for a defender.&lt;ref name=BBCLiverpool/&gt; Van Dijk was involved in reaching the [[2018 UEFA Champions League Final]] during his first spring at Liverpool.
+
+Van Dijk made his international debut for the Netherlands in 2015 and became captain of his country in 2018.
+
+==Club career==
+===Groningen===
+Van Dijk was born in [[Breda]] to a Dutch father and Surinamese mother.&lt;ref&gt;{{cite web |url=http://www.celticfc.net/newsstory?item=4174 |title=News |publisher=Celtic F.C. |accessdate=16 May 2014 |archiveurl=https://web.archive.org/web/20131029210911/http://www.celticfc.net/newsstory?item=4174 |archivedate=29 October 2013 |deadurl=yes}}&lt;/ref&gt; He began his career with a right-back, but moved to centre-back after growing 18 centimetres during the summer.&lt;ref name="bbc.co.uk"&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/47283936|title=Virgil van Dijk wants to be 'a legend of Liverpool' - in-depth wide-ranging BBC interview|date=21 February 2019|publisher=|via=www.bbc.co.uk}}&lt;/ref&gt;
+
+He started his career with [[Willem II (football club)|Willem II]] before transferring to [[FC Groningen|Groningen]] in 2010.&lt;ref name="bbc.co.uk"/&gt; As a youth player he initially combined playing with his job as a dishwasher in a restaurant.&lt;ref name="bbc.co.uk"/&gt;
+
+He made his professional debut for Groningen coming on as a 72nd-minute substitute for [[Petter Andersson]] during the 4–2 victory against [[ADO Den Haag]] on 1 May 2011.&lt;ref&gt;{{cite web |url=https://uk.soccerway.com/matches/2011/05/01/netherlands/eredivisie/hfc-ado-den-haag/stichting-fc-groningen/941703/ |title=ADO Den Haag VS. Groningen 2–4 |website=Soccerway |publisher=Perform group |accessdate=7 January 2018}}&lt;/ref&gt; During the 2011–12 season, Van Dijk made 23 league appearances for the [[Eredivisie]] team, scoring his first professional goal during the 6–0 victory against [[Feyenoord]] on 30 October 2011.&lt;ref&gt;{{cite web |url=http://www.soccerbox.com/blog/virgil-van-dijk-premier-league/ |title=Virgil van Dijk One of the Finest Centre-Backs in the Premier League |website=Soccer Box}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.fcupdate.nl/voetbaluitslagen/152437/eredivisie-fc-groningen-feyenoord/ |title=Wedstrijd: FC Groningen – Feyenoord |website=FCUpdate.nl}}&lt;/ref&gt; He scored his second professional goal for Groningen on 22 January 2012 against [[Heracles Almelo]] in a 2–1 victory before scoring again the following week during a 4–1 defeat to [[FC Twente]]. Van Dijk scored his first goal of the season on 7 October 2012, in a 2–2 draw with Feyenoord.&lt;ref&gt;{{Cite web |url=https://int.soccerway.com/matches/2012/10/07/netherlands/eredivisie/stichting-fc-groningen/feyenoord-rotterdam-nv/1290489/ |title=Groningen vs. Feyenoord – 7 October 2012 |website=Soccerway |accessdate=2 July 2018}}&lt;/ref&gt; He also scored in the reverse fixture against Feyenoord, on 23 December, in a 1–2 defeat.&lt;ref&gt;{{Cite web |url=https://int.soccerway.com/matches/2012/12/23/netherlands/eredivisie/feyenoord-rotterdam-nv/stichting-fc-groningen/1290578/ |title=Feyenoord vs. Groningen – 23 December 2012 |website=Soccerway |accessdate=2 July 2018}}&lt;/ref&gt;
+
+===Celtic===
+====2013–14 season====
+On 21 June 2013, Van Dijk signed with [[Celtic F.C.|Celtic]] for a fee of around £2.6&amp;nbsp;million, on a four-year deal including a 10% selling-on fee for Groningen.&lt;ref&gt;{{cite news |title=Virgil van Dijk: Dutch defender joins Celtic |url=https://www.bbc.co.uk/sport/football/23004736 |publisher=BBC Sport |date=21 June 2013 |accessdate=7 January 2018}}&lt;/ref&gt; He made his debut on 17 August, replacing [[Efe Ambrose]] for the final 13 minutes of a 2–0 [[Scottish Premiership]] win over [[Aberdeen F.C.|Aberdeen]] at [[Pittodrie Stadium]].&lt;ref&gt;{{cite news |first=Keir |last=Murray |title=Aberdeen 0–2 Celtic |url=https://www.bbc.co.uk/sport/football/23644812 |publisher=BBC Sport |date=17 August 2013 |accessdate=7 January 2018}}&lt;/ref&gt; A week later, he made his first start, in a 2–2 draw with [[Inverness Caledonian Thistle F.C.|Inverness Caledonian Thistle]] at [[Celtic Park]].&lt;ref&gt;{{cite news |title=Celtic 2–2 Inverness CT |url=https://www.bbc.co.uk/sport/football/23737036 |publisher=BBC Sport |date=24 August 2013 |accessdate=7 January 2018}}&lt;/ref&gt; On 9 November, Van Dijk scored his first Celtic goals, heading one in each half of a 4–1 win against [[Ross County F.C.|Ross County]].&lt;ref&gt;{{cite news |first=Martin |last=Conaghan |title=Ross County 1–4 Celtic |url=https://www.bbc.co.uk/sport/football/24783003 |publisher=BBC Sport |date=9 November 2013 |accessdate=7 January 2018}}&lt;/ref&gt; After a solo run, he scored within five minutes the only goal of a victory over [[St Johnstone F.C.|St Johnstone]] on 26 December.&lt;ref&gt;{{cite news |first=Andy |last=Campbell |title=St Johnstone 0–1 Celtic |url=https://www.bbc.co.uk/sport/football/25442036 |publisher=BBC Sport |date=26 December 2013 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+Van Dijk scored again on 26 January 2014, in a 4–0 win versus [[Hibernian F.C.|Hibernian]] for Celtic's 11th consecutive league win.&lt;ref&gt;{{cite news |first=Keir |last=Murray |title=Hibernian 0–4 Celtic |url=https://www.bbc.co.uk/sport/football/25798579 |publisher=BBC Sport |date=26 January 2014 |accessdate=7 January 2018}}&lt;/ref&gt; On 25 February, he was sent off after 13 minutes of an eventual 2–1 loss at Aberdeen, for a professional foul on [[Peter Pawlett]]; it was Celtic's first defeat of the season.&lt;ref&gt;{{cite news |first=Andrew |last=Southwick |title=Aberdeen 2–1 Celtic |url=https://www.bbc.co.uk/sport/football/25892139 |publisher=BBC Sport |date=25 February 2014 |accessdate=7 January 2018}}&lt;/ref&gt; With Celtic having already won the league, Van Dijk netted again on 7 May to put his team 3–1 up away to St Johnstone, in an eventual 3–3 draw.&lt;ref&gt;{{cite news |first=Cheri |last=Burns |title=St Johnstone 3–3 Celtic |url=https://www.bbc.co.uk/sport/football/27216459 |publisher=BBC Sport |date=7 May 2014 |accessdate=17 October 2015}}&lt;/ref&gt; He was one of three Celtic players named in the [[PFA Scotland Team of the Year]].&lt;ref name=1314PFA&gt;{{cite news |title=Celtic and Dundee United trios in SPFL Premiership team of year |url=https://www.bbc.co.uk/sport/football/27080030 |publisher=BBC Sport |date=18 April 2014 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+====2014–15 season====
+[[File:Virgil van Dijk 2015.jpg|thumb|upright|Van Dijk playing for [[Celtic F.C.|Celtic]] in 2015]]
+
+On 22 July 2014, Van Dijk and [[Teemu Pukki]] each scored twice in a 4–0 home win over [[Knattspyrnufélag Reykjavíkur|KR]] in a [[UEFA Champions League]] qualifier, putting their team into the next round 5–0 on aggregate.&lt;ref&gt;{{cite news |first=Ben |last=Burrows |title=Celtic 4–0 KR Reykjavik: Hoops ease into next Champions League round in comfortable fashion |url=https://www.mirror.co.uk/sport/football/news/celtic-4-0-kr-reykjavik-hoops-3897700 |newspaper=Daily Mirror |location=London |date=22 July 2014 |accessdate=17 October 2015}}&lt;/ref&gt; His first goal of the [[2014–15 Scottish Premiership|Premiership season]] came on 9 November, finishing from [[Stefan Johansen]]'s last-minute corner for a 2–1 win at Aberdeen.&lt;ref&gt;{{cite news |first=Colin |last=Moffat |title=Aberdeen 1–2 Celtic |url=https://www.bbc.co.uk/sport/football/29868766 |publisher=BBC Sport |date=9 November 2014 |accessdate=7 January 2018}}&lt;/ref&gt; Three weeks later, Van Dijk scored the first and last goals of Celtic's 4–0 win versus [[Heart of Midlothian F.C.|Heart of Midlothian]] in the fourth round of the [[Scottish Cup]].&lt;ref&gt;{{cite news |first=Andrew |last=Southwick |title=Heart of Midlothian 0–4 Celtic |url=https://www.bbc.co.uk/sport/football/30166217 |publisher=BBC Sport |date=30 November 2014 |accessdate=7 January 2018}}&lt;/ref&gt; Four days after that, his sixth goal of the season was enough for victory in a home match against [[Glasgow]] neighbours [[Partick Thistle F.C.|Partick Thistle]].&lt;ref&gt;{{cite news |first=Richard |last=Wilson |title=Celtic 1–0 Partick Thistle |url=https://www.bbc.co.uk/sport/football/28647040 |publisher=BBC Sport |date=4 December 2014 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+Van Dijk was again on target on 21 January 2015, opening a 4–0 home win over [[Motherwell F.C.|Motherwell]].&lt;ref&gt;{{cite news |first=Colin |last=Moffat |title=Celtic 4–0 Motherwell |url=https://www.bbc.co.uk/sport/football/30808448 |publisher=BBC Sport |date=21 January 2015 |accessdate=7 January 2018}}&lt;/ref&gt; On 26 February, he was sent off in the 36th minute against [[Inter Milan]] for a foul on [[Mauro Icardi]], as Celtic lost 1–0 on the night, 4–3 on aggregate in the last 32 of the [[UEFA Europa League]].&lt;ref&gt;{{cite news |first=Craig |last=Swan |title=Inter 1 Celtic 0 (4–3 agg): Late strike finishes off battling ten-man Celtic and ends their Europa League run |url=http://www.dailyrecord.co.uk/sport/football/football-match-reports/inter-1-celtic-0-4-3-5239236 |newspaper=Daily Record |location=Glasgow |date=26 February 2015 |accessdate=7 January 2018}}&lt;/ref&gt; He was again sent off on 8 March in the Cup quarter-final away to [[Dundee United F.C.|Dundee United]] at [[Tannadice Park]], receiving a red card after eleven minutes for a confrontation with [[Calum Butcher]].&lt;ref&gt;{{cite news |first=Keir |last=Murray |title=Dundee United 1–1 Celtic |url=https://www.bbc.co.uk/sport/football/31680308 |publisher=BBC Sport |date=8 March 2015 |accessdate=7 January 2018}}&lt;/ref&gt; His suspension for the following week's [[2015 Scottish League Cup Final|Scottish League Cup Final]] was overturned on appeal, as was that of [[Paul Paton]], who was sent off when mistaken for Butcher.&lt;ref&gt;{{cite news |title=Van Dijk and Paton cleared to play in League Cup final |url=https://www.bbc.co.uk/sport/football/31858622 |publisher=BBC Sport |date=12 March 2015 |accessdate=18 October 2015}}&lt;/ref&gt; Van Dijk played the full 90 minutes of the final at [[Hampden Park]], which Celtic won 2–0.&lt;ref name=2015SLC&gt;{{cite news |first=Richard |last=Wilson |title=Dundee United 0–2 Celtic |url=https://www.bbc.co.uk/sport/football/31785677 |publisher=BBC Sport |date=15 March 2015 |accessdate=7 January 2018}}&lt;/ref&gt; On 18 March, Celtic's third consecutive match against Dundee United, Van Dijk scored in the last minute to confirm a 4–0 win in a Cup replay.&lt;ref&gt;{{cite news |title=Celtic 4–0 Dundee United |url=https://www.bbc.co.uk/sport/football/31826157 |publisher=BBC Sport |date=18 March 2015 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+On 19 April, Celtic contested the Cup semi-final against Inverness at Hampden, and Van Dijk opened the scoring with a free kick. After the dismissal of goalkeeper [[Craig Gordon]], Celtic fell 3–2, ending their chance of a [[Treble (association football)|treble]].&lt;ref&gt;{{cite news |first=Clive |last=Lindsay |title=Inverness Caledonian Thistle 3–2 Celtic |url=https://www.bbc.co.uk/sport/football/32089585 |publisher=BBC Sport |date=19 April 2015 |accessdate=7 January 2018}}&lt;/ref&gt; Three days later, again from a free kick, he confirmed a 2–1 win away to [[Dundee F.C.|Dundee]].&lt;ref&gt;{{cite news |first=Andrew |last=Southwick |title=Celtic 1–2 Dundee |url=https://www.bbc.co.uk/sport/football/31827990 |publisher=BBC Sport |date=22 April 2015 |accessdate=7 January 2018}}&lt;/ref&gt; His team again won the league, and Van Dijk was included in the league's Team of the Season for the second consecutive campaign.&lt;ref name=1415PFA&gt;{{cite news |first=Gregor |last=Kyle |title=The SPFL dream team: PFA Scotland announce their teams of the year |url=http://www.dailyrecord.co.uk/sport/football/football-news/spfl-dream-team-pfa-scotland-5616035 |newspaper=Daily Record |location=Glasgow |date=1 May 2015 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+Van Dijk was reportedly "considering his future" in Glasgow after Celtic were knocked out of the [[2015–16 UEFA Champions League]] in the qualifying rounds to [[Malmö FF|Malmö]] of Sweden.&lt;ref&gt;{{cite news |title=Virgil van Dijk: Celtic defender considers future after defeat |url=https://www.bbc.co.uk/sport/football/34060123 |publisher=BBC Sport |date=26 August 2015 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+===Southampton===
+On 1 September 2015, Van Dijk signed a five-year contract with [[Premier League]] club [[Southampton F.C.|Southampton]] for a reported £13&amp;nbsp;million transfer fee.&lt;ref&gt;{{cite web |title=Saints complete deadline-day deal for van Dijk |url=https://southamptonfc.com/news/2015-09-01/saints-complete-deadline-day-deal-for-van-dijk |publisher=Southampton F.C. |date=1 September 2015 |accessdate=7 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Virgil van Dijk: Southampton sign Celtic defender for £13m |url=https://www.bbc.co.uk/sport/football/34115519 |publisher=BBC Sport |date=1 September 2015 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+==== 2015–16 season ====
+He made his debut for Southampton on 12 September in a 0–0 draw against [[West Bromwich Albion F.C.|West Bromwich Albion]] at [[The Hawthorns]].&lt;ref name="sb1516" /&gt; Two weeks later, Van Dijk marked his third Premier League appearance with his first goal for the club, which came in the form of a header in the 11th minute to put Southampton in front, following a set-piece from [[James Ward-Prowse]] in a 3–1 home win over [[Swansea City A.F.C.|Swansea City]].&lt;ref&gt;{{cite news |first=Saj |last=Chowdhury |title=Southampton 3–1 Swansea City |url=https://www.bbc.co.uk/sport/football/34299542 |publisher=BBC Sport |date=26 August 2015 |accessdate=7 January 2018}}&lt;/ref&gt; On 7 May 2016, Van Dijk signed a new six-year contract with the Saints.&lt;ref&gt;{{cite news |title=Virgil van Dijk: Dutch defender signs new six-year deal at Southampton |url=https://www.bbc.co.uk/sport/football/36236667 |publisher=BBC Sport |date=7 May 2016 |accessdate=8 May 2016}}&lt;/ref&gt;
+
+==== 2016–17 season ====
+On 22 January 2017, he was named team captain of Southampton, after the departure of [[José Fonte]].&lt;ref&gt;{{cite web |url=https://southamptonfc.com/news/2017-01-22/claude-puel-captains-southampton-virgil-van-dijk-steven-davis |title=Puel confirms Saints' new captains |publisher=Southampton F.C. |date=22 January 2017 |accessdate=7 January 2018}}&lt;/ref&gt; On the same day, he suffered an ankle injury against [[Leicester City F.C.|Leicester City]].&lt;ref&gt;{{cite news |first=Andy |last=Charles |title=Southampton's Virgil van Dijk out for at least two months with ankle injury |url=http://www.skysports.com/football/news/11700/10753362/southamptons-virgil-van-dijk-out-for-at-least-two-months-with-ankle-injury |publisher=Sky Sports |date=2 February 2017 |accessdate=28 December 2017}}&lt;/ref&gt; This ruled him out of the [[2017 EFL Cup Final]], which Southampton lost to [[Manchester United F.C.|Manchester United]] at [[Wembley Stadium]].&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=Manchester United 3–2 Southampton |url=https://www.bbc.co.uk/sport/football/39018813 |publisher=BBC Sport |date=26 February 2017 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+After a successful [[2016–17 Southampton F.C. season|2016–17 season]] at Southampton, Van Dijk was subject to interest from [[Liverpool F.C.|Liverpool]], who apologised to Southampton for an illegal approach for the player after having reportedly made clear his interest in a move to Liverpool.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/40194862 |title=Virgil van Dijk: Liverpool apologise &amp; end interest in Southampton defender |publisher=BBC Sport |date=7 June 2017 |accessdate=7 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/40164572 |title=Virgil van Dijk: Southampton defender keen on Liverpool move |first=Phil |last=McNulty |publisher=BBC Sport |date=5 June 2017 |accessdate=7 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/40170351 |title=Virgin van Dijk: Southampton to report Liverpool over approach |publisher=BBC Sport |date=6 June 2017 |accessdate=7 January 2018}}&lt;/ref&gt; On 7 August 2017, Van Dijk handed in a transfer request to Southampton and released a statement along with it, emphasising his wish to join a different club in the transfer window.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/40855579 |title=Virgil van Dijk: Southampton defender hands in transfer request |publisher=BBC Sport |date=7 August 2017 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+==== 2017–18 season ====
+Van Dijk remained with Southampton for the start of the [[2017–18 Southampton F.C. season|2017–18 season]] and made his first appearance since being injured in January, coming on as a late substitute in a 1–0 victory at [[Crystal Palace F.C.|Crystal Palace]] on 26 September.&lt;ref&gt;{{cite news |first=Luke |last=Reddy |title=Crystal Palace 1–0 Southampton |url=https://www.bbc.co.uk/sport/football/41210053 |publisher=BBC Sport |date=16 September 2017 |accessdate=25 September 2017}}&lt;/ref&gt; He made what turned out to be his final appearance for Southampton on 13 December 2017, in a 4–1 home defeat to Leicester.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/42247116 |title=Southampton 1–4 Leicester City |first=Phil |last=McNulty |publisher=BBC Sport |date=13 December 2017 |accessdate=7 January 2018}}&lt;/ref&gt; It was also his last appearance in any of Southampton's matchday squads, as he was omitted from the squad for the rest of his tenure at the club in light of speculation surrounding his future.&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/transfers/virgil-van-dijk-transfer-news-manchester-city-liverpool-left-out-of-squad-60m-latest-updates-a8128666.html |title=Virgil van Dijk left out of Southampton squad as Mauricio Pellegrino refuses to draw on Manchester City interest |first=Jack |last=De Menezes |newspaper=The Independent |location=London |date=26 December 2017 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+===Liverpool===
+On 27 December 2017, it was announced that Van Dijk would join Liverpool when the winter transfer window opened on 1 January 2018&lt;ref name=pressLiverpool&gt;{{cite web |title=Liverpool agree deal to sign Virgil van Dijk |url=http://www.liverpoolfc.com/news/first-team/285500-liverpool-agree-deal-to-sign-virgil-van-dijk |publisher=Liverpool F.C. |date=27 December 2017 |accessdate=28 December 2017}}&lt;/ref&gt;&lt;ref name=southamptonpress&gt;{{cite web |url=https://southamptonfc.com/news/2017-12-27/virgil-van-dijk-southampton-liverpool-transfer-agreement-announcement |title=Van Dijk deal agreed |publisher=Southampton F.C. |date=27 December 2017 |accessdate=28 December 2017}}&lt;/ref&gt; for a reported fee of £75&amp;nbsp;million.&lt;ref name=BBCLiverpool&gt;{{cite news |title=Virgil van Dijk: Liverpool to sign Southampton defender for world record £75m |url=https://www.bbc.co.uk/sport/football/42496637 |publisher=BBC Sport |date=27 December 2017 |accessdate=7 January 2018}}&lt;/ref&gt; Former club Celtic would receive 10% of Van Dijk's transfer fee, due to a sell-on clause placed in his Southampton contract.&lt;ref name=BBCLiverpool/&gt;&lt;ref&gt;{{Cite news |url=http://www.skysports.com/football/news/11787/10906958/virgil-van-dijk-transfer-would-land-celtic-bumper-windfall |title=Virgil van Dijk transfer would land Celtic bumper windfall |first=Peter |last=Gilbert |publisher=Sky Sports |date=8 June 2017 |accessdate=28 December 2017}}&lt;/ref&gt; Southampton claimed the undisclosed transfer fee would constitute a world record fee in football for a defender.&lt;ref name=southamptonpress/&gt;
+
+==== 2017–18 season ====
+He made his debut for Liverpool on 5 January in the third round of the [[FA Cup]] and scored the winning goal with a late header in a 2–1 victory against local rivals [[Everton F.C.|Everton]].&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=Liverpool 2–1 Everton |url=https://www.bbc.co.uk/sport/football/42508636 |publisher=BBC Sport |date=5 January 2018 |accessdate=7 January 2018}}&lt;/ref&gt; In doing so, he became the first player since [[Bill White (footballer, born 1877)|Bill White]] in 1901 to score on his debut in the [[Merseyside derby]].&lt;ref&gt;{{cite news |url=http://www.liverpoolecho.co.uk/sport/football/football-news/how-virgil-van-dijk-keeps-14120970 |title=How Virgil van Dijk keeps on creating Liverpool history – and the remarkable numbers behind derby triumph |work=Liverpool Echo |last=Doyle |first=Ian |date=6 January 2018 |accessdate=7 January 2018}}&lt;/ref&gt; Van Dijk and [[Dejan Lovren]] built a strong partnership at the heart of Liverpool's defence, with the Dutchman being credited for improving Liverpool's previous defensive issues.&lt;ref&gt;{{Cite news |url=https://uk.reuters.com/article/uk-soccer-champions-final-vandijk/van-dijk-has-made-me-a-better-player-says-liverpools-lovren-idUKKCN1IN301 |title=Van Dijk has made me a better player, says Liverpool's Lovren |last=Robinson |first=Neil |agency=Reuters |date=22 May 2018 |accessdate=29 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2018/apr/09/virgil-van-dijk-brings-calm-and-confidence-to-liverpool |title=Virgil van Dijk brings calm and collective spirit to Liverpool's defence |last=Hunter |first=Andy |date=9 April 2018 |work=The Guardian |accessdate=29 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |url=https://www.mirror.co.uk/sport/football/news/how-virgil-van-dijk-redefined-12213864 |title=How dominant Virgil van Dijk has redefined Liverpool's defence |last=Maddock |first=David |date=19 March 2018 |work=Daily Mirror |accessdate=29 June 2018}}&lt;/ref&gt;
+
+Van Dijk was included in the [[2017–18 UEFA Champions League#Squad of the Season|UEFA Champions League Squad of the Season]], despite playing just half of the season in the [[2017–18 UEFA Champions League|Champions League]], with the ''UEFA Technical Observers'' saying: "Van Dijk arrived at [[Anfield]] and provided composure and stability in the [[2017–18 UEFA Champions League knockout phase|competition's knockout stages]]." Van Dijk played the full 90 minutes in the [[2018 UEFA Champions League Final]] against [[Real Madrid C.F.|Real Madrid]], which Liverpool lost 1–3.&lt;ref&gt;{{Cite web |url=https://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000885/match=2021711/index.html |title=UEFA Champions League – Real Madrid-Liverpool |publisher=UEFA |accessdate=6 July 2018}}&lt;/ref&gt; Van Dijk played 22 games in all competitions in his first season with the club, scoring 1 goal.&lt;ref&gt;{{Cite web |url=https://us.soccerway.com/players/virgil-van-dijk/188624/ |title=Netherlands – V. van Dijk – Profile |website=soccerway |accessdate=6 July 2018}}&lt;/ref&gt;
+
+==== 2018–19 season ====
+On 20 August 2018, Van Dijk was voted [[Player of the match|Man of the Match]] by [[BBC Sport]] and [[Sky Sports]] for his performance in a 2–0 win over [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/45165666 |title=Crystal Palace 0–2 Liverpool: James Milner and Sadio Mane score as Reds move to six points |date=20 August 2018 |publisher=BBC Sport |accessdate=22 September 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=https://www.skysports.com/football/c-palace-vs-liverpool/390771 |title=Crystal Palace 0–2 Liverpool: James Milner and Sadio Mane see off 10-man Eagles |publisher=Sky Sports |accessdate=22 September 2018}}&lt;/ref&gt; Van Dijk received the [[2018–19 Liverpool F.C. season#Liverpool Standard Chartered Player of the Month award|Liverpool Standard Chartered Player of the Month]] award for his performances in August.&lt;ref&gt;{{Cite web |url=https://www.liverpoolfc.com/news/first-team/316051-virgil-van-dijk-standard-chartered-player-of-the-month |title=Virgil van Dijk named Standard Chartered Player of the Month |publisher=Liverpool F.C. |accessdate=22 September 2018}}&lt;/ref&gt; On 2 December, Van Dijk was awarded an assist for the winning goal in a [[Merseyside derby|derby]] match against city rivals Everton. Liverpool won 1–0 thanks to Divock Origi's 96th minute goal, set up by a Van Dijk volley and a subsequent error from Everton goalkeeper [[Jordan Pickford]].&lt;ref&gt;{{cite web |url=http://www.espn.com/soccer/blog/the-toe-poke/65/post/3716494/liverpools-virgil-van-dijk-gets-assist-vs-everton-despite-ball-hitting-crossbar-twice |title=Van Dijk gets 'assist' despite ball hitting crossbar TWICE |date=3 December 2018 |publisher=ESPN |accessdate=21 December 2018}}&lt;/ref&gt; The Dutchman was ultimately awarded the [[Professional Footballers' Association|PFA]] Player of the Month for November 2018.&lt;ref name="LFCPFA"&gt;{{cite web |url=https://www.liverpoolfc.com/news/first-team/327733-virgil-van-dijk-pfa-player-of-the-month |title=Van Dijk wins PFA Player of the Month award |author=Carroll, James |publisher=Liverpool F.C. |date=3 December 2018 |accessdate=21 December 2018}}&lt;/ref&gt; On 21 December, Van Dijk scored his first goal in the Premier League for Liverpool in a 2–0 away win against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].&lt;ref name="Guardian"&gt;{{cite news |url=https://www.theguardian.com/football/2018/dec/21/wolves-liverpool-premier-league-match-report |title=Liverpool's Mohamed Salah and Virgil van Dijk put Wolves in their place |last=James |first=Stuart |work=The Guardian |date=21 December 2018 |accessdate=22 December 2018}}&lt;/ref&gt; The Dutchman continued his impressive form in the 2018–19 season by winning the Premier League Player of the Month prize for December 2018. &lt;ref&gt;{{cite web |last1=Matchett |first1=Karl |title=Liverpool scoop double Manager and Player of the Month awards for December |url=https://www.thisisanfield.com/2019/01/liverpool-scoop-double-manager-and-player-of-the-month-awards-for-impressive-december-form/ |website=thisisanfield.com |publisher=Soccer Publishing Limited|accessdate=20 January 2019}}&lt;/ref&gt;
+
+On 27 February 2019, Van Dijk scored twice in a 5&amp;ndash;0 win against [[Watford F.C.|Watford]].&lt;ref&gt;{{cite news |url=https://www.skysports.com/football/liverpool-vs-watford/391033 |title=Liverpool 5-0 Watford |work=SkySports |accessdate=28 February 2019}}&lt;/ref&gt;
+
+==International career==
+Van Dijk made his full international debut for [[Netherlands national football team|Netherlands]] on 10 October 2015, in a 2–1 victory away from home against [[Kazakhstan national football team|Kazakhstan]] in a [[UEFA Euro 2016]] qualifier.&lt;ref&gt;{{cite web |title=Successful Saturday for Saints stars |url=https://southamptonfc.com/news/2015-10-10/successful-saturday-for-saints-stars |publisher=Southampton F.C. |date=10 October 2015 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+He was awarded the [[captain (association football)|captain]]cy of his country by manager [[Ronald Koeman]] on 22 March 2018,&lt;ref&gt;{{cite news |title=Van Dijk named new Netherlands captain |first=Daniel |last=Karell |date=22 March 2018 |accessdate=22 March 2018 |work=soccer.nbcsports.com |publisher=NBC Sports |url=http://soccer.nbcsports.com/2018/03/22/van-dijk-named-new-netherlands-captain/}}&lt;/ref&gt; and his first match as captain was a 1–0 home friendly defeat by [[England national football team|England]] the next day.&lt;ref&gt;{{cite news |title=Netherlands 0–1 England |first=Phil |last=McNulty |date=23 March 2018 |accessdate=24 March 2018 |publisher=BBC Sport |url=https://www.bbc.com/sport/football/43380175}}&lt;/ref&gt; On 26 March, he scored his first international goal to conclude a 3–0 win over European champions [[Portugal national football team|Portugal]] at the [[Stade de Genève]].&lt;ref&gt;{{cite news |title=Soccer – Portugal suffer first-half collapse in 3–0 loss to Dutch |url=https://uk.reuters.com/article/uk-soccer-friendly-por-ned/soccer-portugal-suffer-first-half-collapse-in-3-0-loss-to-dutch-idUKKBN1H22S7 |accessdate=26 March 2018 |agency=Reuters |date=26 March 2018}}&lt;/ref&gt; On 13 October, he scored in a 3–0 win over [[2014 FIFA World Cup|2014 World Cup]] champions [[Germany national football team|Germany]] in the [[2018–19 UEFA Nations League|UEFA Nations League]].&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/45851123 |title=Netherlands 3–0 Germany: Liverpool's Virgil van Dijk and Georginio Wijnaldum score for hosts |date=13 October 2018 |publisher=BBC Sport |accessdate=13 October 2018}}&lt;/ref&gt;
+
+==Style of play==
+Van Dijk is a right-footed [[centre back]], who usually features on the left-hand side of central defence, although he can also play as a right-sided centre back.&lt;ref name=NMcG&gt;{{cite news |title=Virgil van Dijk 'can be a great' as Liverpool agree to pay £75m for defender |url=https://www.bbc.co.uk/sport/football/40730793 |publisher=BBC Sport |date=27 December 2017 |accessdate=7 January 2018}}&lt;/ref&gt;
+
+Neil McGuinness, senior scout at Celtic when Van Dijk was signed, called him "everything you would want if you could create a profile of the ideal central defender", praising him as a "very smooth ball-playing defender" who possesses aerial prowess, skills from dead ball situations, and "strong leadership qualities", while commenting that since his move to England, he is "more tactically aware now [...] his anticipation and timing has improved and he is a lot more of an all-rounder".&lt;ref name=NMcG/&gt; McGuinness believes Van Dijk's "biggest problem" is that he "can switch off when the game is comfortable".&lt;ref name=NMcG/&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 27 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup{{efn|Includes [[KNVB Cup]], [[Scottish Cup]] and [[FA Cup]]}}
+!colspan=2|League Cup{{efn|Includes [[Scottish League Cup]] and [[EFL Cup|League Cup/EFL Cup]]}}
+!colspan=2|Europe
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[FC Groningen|Groningen]]
+|[[2010–11 Eredivisie|2010–11]]&lt;ref name=Soccerway&gt;{{cite web |url=https://uk.soccerway.com/players/virgil-van-dijk/188624/ |title=V. Van Dijk: Summary |website=Soccerway |publisher=Perform Group |accessdate=21 December 2018}}&lt;/ref&gt;
+|[[Eredivisie]]
+|5||2||0||0||colspan=2|—||colspan=2|—||5||2
+|-
+|[[2011–12 Eredivisie|2011–12]]&lt;ref name=Soccerway/&gt;
+|Eredivisie
+|23||3||1||0||colspan=2|—||colspan=2|—||24||3
+|-
+|[[2012–13 Eredivisie|2012–13]]&lt;ref name=Soccerway/&gt;
+|Eredivisie
+|34||2||3||0||colspan=2|—||colspan=2|—||37||2
+|-
+!colspan=2|Total
+!62||7||4||0||colspan=2|—||colspan=2|—||66||7
+|-
+|rowspan=4|[[Celtic F.C.|Celtic]]
+|[[2013–14 Celtic F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|59442|2013|accessdate=29 September 2016}}&lt;/ref&gt;
+|[[Scottish Premiership]]
+|36||5||2||0||1||0||8{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||47||5
+|-
+|[[2014–15 Celtic F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|59442|2014|accessdate=29 September 2016}}&lt;/ref&gt;
+|Scottish Premiership
+|35||4||5||4||4||0||14{{efn|Six appearances in UEFA Champions League, eight in [[UEFA Europa League]]}}||2||58||10
+|-
+|[[2015–16 Celtic F.C. season|2015–16]]&lt;ref name=sb1516/&gt;
+|Scottish Premiership
+|5||0||colspan=2|—||colspan=2|—||5{{efn|name=UCL}}||0||10||0
+|-
+!colspan=2|Total
+!76||9||7||4||5||0||27||2||115||15
+|-
+|rowspan=4|[[Southampton F.C.|Southampton]]
+|[[2015–16 Southampton F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|59442|2015|accessdate=7 January 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|34||3||1||0||3||0||colspan=2|—||38||3
+|-
+|[[2016–17 Southampton F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|59442|2016|accessdate=7 January 2018}}&lt;/ref&gt;
+|Premier League
+|21||1||1||1||2||0||6{{efn|Appearances in UEFA Europa League}}||2||30||4
+|-
+|[[2017–18 Southampton F.C. season|2017–18]]&lt;ref name=sb1718/&gt;
+|Premier League
+|12||0||colspan=2|—||0||0||colspan=2|—||12||0
+|-
+!colspan=2|Total
+!67||4||2||1||5||0||6||2||80||7
+|-
+|rowspan=3|[[Liverpool F.C.|Liverpool]]
+|[[2017–18 Liverpool F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|59442|2017|accessdate=12 August 2018}}&lt;/ref&gt;
+|Premier League
+|14||0||2||1||colspan=2|—||6{{efn|name=UCL}}||0||22||1
+|-
+|[[2018–19 Liverpool F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|59442|2018|accessdate=23 February 2019}}&lt;/ref&gt;
+|Premier League
+|28||3||0||0||0||0||6{{efn|name=UCL}}||0||34||3
+|-
+!colspan=2|Total
+!42||3||2||1||0||0||12||0||56||4
+|-
+!colspan=3|Career total
+!247||23||15||6||10||0||45||4||317||33
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 19 November 2018}}&lt;ref name=NFT&gt;{{NFT player |id=60815 |name=Van Dijk, Virgil |accessdate=19 January 2019}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=4|[[Netherlands national football team|Netherlands]]
+|2015||3||0
+|-
+|2016||9||0
+|-
+|2017||4||0
+|-
+|2018||8||3
+|-
+!colspan=2|Total||24||3
+|}
+
+===International goals===
+: ''As of match played on 19 November 2018. Netherlands score listed first, score column indicates score after each Van Dijk goal.''&lt;ref name=NFT/&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row style=text-align:center|1
+|26 March 2018||[[Stade de Genève]], Geneva, Switzerland||align=center|18||{{fb|POR}}||align=center|3–0||align=center|3–0||[[Exhibition game#Association football|Friendly]]
+|-
+!scope=row style=text-align:center|2
+|13 October 2018||[[Johan Cruyff Arena]], Amsterdam, Netherlands||align=center|22||{{fb|GER}}||align=center|1–0||align=center|3–0||[[2018–19 UEFA Nations League A]]
+|-
+!scope=row style=text-align:center|3
+|19 November 2018||[[Arena AufSchalke]], Gelsenkirchen, Germany||align=center|24||{{fb|GER}}||align=center|2–2||align=center|2–2||[[2018–19 UEFA Nations League A]]
+|}
+
+==Honours==
+'''Celtic'''
+*[[Scottish Premiership]]: [[2013–14 Scottish Premiership|2013–14]], [[2014–15 Scottish Premiership|2014–15]]&lt;ref&gt;{{cite web |url=https://www.eurosport.com/football/virgil-van-dijk_prs276965/person.shtml |title=Virgil van Dijk |publisher=Eurosport |accessdate=7 January 2018}}&lt;/ref&gt;
+*[[Scottish League Cup]]: [[2014–15 Scottish League Cup|2014–15]]&lt;ref name=2015SLC/&gt;
+
+'''Liverpool'''
+*[[UEFA Champions League]] runner-up: [[2017–18 UEFA Champions League|2017–18]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44258022 |title=Real Madrid 3–1 Liverpool |first=Phil |last=McNulty |publisher=BBC Sport |date=26 May 2018 |accessdate=27 May 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*[[PFA Scotland Team of the Year]]: [[PFA Scotland Team of the Year#Premiership|2013–14]],&lt;ref name="1314PFA" /&gt; [[PFA Scotland Team of the Year#Premiership 2|2014–15]]&lt;ref name="1415PFA" /&gt;
+*[[Southampton F.C. Player of the Season|Southampton Player of the Season]]: [[2015–16 Southampton F.C. season|2015–16]]&lt;ref&gt;{{cite web |url=https://southamptonfc.com/news/2016-05-11/van-dijk-the-big-winner-at-saints-player-awards |title=Van Dijk the big winner at Saints' Player Awards |publisher=Southampton F.C. |date=11 May 2016 |accessdate=7 January 2018}}&lt;/ref&gt;
+*UEFA Champions League Squad of the Season: [[2017–18 UEFA Champions League#Squad of the Season|2017–18]]&lt;ref&gt;{{cite web |url=https://www.uefa.com/uefachampionsleague/news/newsid=2560100.html |title=UEFA Champions League Squad of the Season |publisher=UEFA |date=27 May 2018 |accessdate=27 May 2018}}&lt;/ref&gt;
+*[[FIFPro World XI|FIFA FIFPro World XI]] 5th Team: [[The Best FIFA Football Awards 2018#FIFA FIFPro World11|2018]]&lt;ref&gt;{{cite web |url=https://www.fifpro.org/news/world-11-the-reserve-teams-for-2017-18/en/ |title=World 11: The Reserve Team for 2017–18 |publisher=FIFPro |date=24 September 2018 |accessdate=25 September 2018}}&lt;/ref&gt;
+*[[Professional Footballers' Association|PFA Player of the Month]]: November 2018&lt;ref&gt;{{Cite web |url=https://www.liverpoolfc.com/news/first-team/327733-virgil-van-dijk-pfa-player-of-the-month |title=Van Dijk wins PFA Player of the Month award |publisher=Liverpool F.C. |accessdate=2 January 2019}}&lt;/ref&gt;
+*[[Premier League Player of the Month]]: [[2018–19 Premier League|December 2018]]&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/5140/Virgil-van-Dijk/overview |title=Virgil van Dijk: Overview |publisher=Premier League |accessdate=11 January 2019}}&lt;/ref&gt;
+*[[UEFA Team of the Year]]: [[UEFA Team of the Year#Team of the Year 2018|2018]]&lt;ref&gt;{{cite web |url=https://www.uefa.com/uefachampionsleague/news/newsid=2589223.html |title=UEFA.com fans' Team of the Year 2018 revealed |publisher=UEFA |date=11 January 2019 |accessdate=11 January 2019}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.liverpoolfc.com/team/first-team/player/virgil-van-dijk Profile] at the Liverpool F.C. website
+*{{Soccerbase}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2013–14 PFA Scotland Scottish Premiership Team of the Year}}
+{{2014–15 PFA Scotland Scottish Premiership Team of the Year}}
+{{2018 UEFA Team of the Year}}
+{{Southampton F.C. Player of the Season}}
+}}
+{{Liverpool F.C. squad}}
+
+{{DEFAULTSORT:Dijk, Virgil Van}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Breda]]
+[[Category:Dutch footballers]]
+[[Category:Netherlands youth international footballers]]
+[[Category:Netherlands under-21 international footballers]]
+[[Category:Netherlands international footballers]]
+[[Category:Association football defenders]]
+[[Category:Willem II Tilburg players]]
+[[Category:FC Groningen players]]
+[[Category:Celtic F.C. players]]
+[[Category:Southampton F.C. players]]
+[[Category:Liverpool F.C. players]]
+[[Category:Eredivisie players]]
+[[Category:Scottish Professional Football League players]]
+[[Category:Premier League players]]
+[[Category:Dutch expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Scotland]]
+[[Category:Dutch expatriate sportspeople in England]]
+[[Category:Dutch expatriate sportspeople in Scotland]]
+[[Category:Dutch people of Surinamese descent]]</text>
+      <sha1>0t8a20oz2ujbcpj0tbxlohr18gw15fc</sha1>
+    </revision>
+  </page>
+</mediawiki>

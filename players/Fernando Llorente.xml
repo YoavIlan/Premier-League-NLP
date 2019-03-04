@@ -1,0 +1,487 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Fernando Llorente</title>
+    <ns>0</ns>
+    <id>6049880</id>
+    <revision>
+      <id>885731375</id>
+      <parentid>885265325</parentid>
+      <timestamp>2019-03-01T23:23:50Z</timestamp>
+      <contributor>
+        <ip>2600:8800:A580:DAC0:9430:AB42:5DC4:3037</ip>
+      </contributor>
+      <comment>corrected IPA of Torres to show the long rhotic</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="62062">{{For|the Spanish footballer born in 1990|Fernando Llorente Mañas}}
+{{Use dmy dates|date=January 2019}}
+{{Spanish name|Llorente|Torres}}
+{{Infobox football biography
+| name = Fernando Llorente
+| image = Sev tren 2016 (8).jpg
+| caption = Llorente with [[Sevilla FC|Sevilla]] in 2016
+| fullname = Fernando Javier Llorente Torres&lt;ref&gt;{{cite web|url=https://www.fifa.com/mm/document/tournament/competition/01/22/85/78/fwc_2010_squadlists.pdf|title=FIFA World Cup South Africa 2010: List of players|publisher=FIFA|page=29|format=PDF|date=4 June 2010|accessdate=13 September 2013}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1985|2|26|df=y}}
+| birth_place = [[Pamplona]], Spain
+| height = 1.93m&lt;ref&gt;{{cite news|url=http://www.elmundo.es/elmundodeporte/envivos/fichas/1/103/4199.html|title=Fernando LLORENTE Torres|newspaper=[[El Mundo (Spain)|El Mundo]]|language=Spanish|accessdate=20 April 2018}}&lt;/ref&gt;
+| position = [[Forward (association football)#Striker|Striker]]
+| currentclub = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| clubnumber = 18
+| youthyears1 = 1994–1995 | youthclubs1 = Funes
+| youthyears2 = 1995–1996 | youthclubs2 = [[CA River Ebro|River Ebro]]
+| youthyears3 = 1996–2003 | youthclubs3 = [[Athletic Bilbao cantera|Athletic Bilbao]]
+| years1 = 2003–2004 | clubs1 = [[CD Basconia|Basconia]] | caps1 = 33 | goals1 = 12
+| years2 = 2004–2005 | clubs2 = [[Athletic Bilbao B|Bilbao Athletic]] | caps2 = 16 | goals2 = 4
+| years3 = 2005–2013 | clubs3 = [[Athletic Bilbao]] | caps3 = 262 | goals3 = 85
+| years4 = 2013–2015 | clubs4 = [[Juventus F.C.|Juventus]] | caps4 = 66 | goals4 = 23
+| years5 = 2015–2016 | clubs5 = [[Sevilla FC|Sevilla]] | caps5 = 23 | goals5 = 4
+| years6 = 2016–2017 | clubs6 = [[Swansea City A.F.C.|Swansea City]] | caps6 = 33 | goals6 = 15
+| years7 = 2017– | clubs7 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]] | caps7 = 27 | goals7 = 2
+| totalcaps = | totalgoals = 
+| nationalyears1 = 2003 | nationalteam1 = [[Spain national under-17 football team|Spain U17]] | nationalcaps1 = 3 | nationalgoals1 = 2
+| nationalyears2 = 2005 | nationalteam2 = [[Spain national under-20 football team|Spain U20]] | nationalcaps2 = 4 | nationalgoals2 = 5
+| nationalyears3 = 2005–2006 | nationalteam3 = [[Spain national under-21 football team|Spain U21]] | nationalcaps3 = 9 | nationalgoals3 = 5
+| nationalyears4 = 2008– | nationalteam4 = [[Spain national football team|Spain]] | nationalcaps4 = 24 | nationalgoals4 = 7
+| nationalyears5 = 2005–2007 | nationalteam5 = [[Basque Country national football team|Basque Country]] | nationalcaps5 = 5 | nationalgoals5 = 1
+| club-update = 08:12, 24 February 2019 (UTC)
+| nationalteam-update = 12:41, 31 January 2019 (UTC)
+| medaltemplates = {{MedalCountry|{{fb|ESP}}}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{Medal|W|[[2010 FIFA World Cup|2010 South Africa]]|}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|W|[[UEFA Euro 2012|2012 Poland-Ukraine]]|}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{Medal|3rd|[[2009 FIFA Confederations Cup|2009 South Africa]]|}}
+}}
+
+'''Fernando Javier Llorente Torres''' ({{IPA-es|feɾˈnando ʎoˈɾente ˈtorːes}}; born 26 February 1985), nicknamed ''El Rey León'' ("[[The Lion King]]" in [[Spanish language|Spanish]]),&lt;ref&gt;{{cite news|url=http://www.as.com/futbol/articulo/rey-leon-area/dasftb/20100526dasdaiftb_40/Tes|title=Un 'rey león' en el área|trans-title=A 'lion king' in the box|newspaper=[[Diario AS]]|first=P. P.|last=San Martín|language=Spanish|date=26 May 2010|accessdate=12 September 2010}}&lt;/ref&gt; is a Spanish professional [[Association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for English club [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and the [[Spain national football team|Spain national team]].
+
+He started his career with [[Athletic Bilbao]], working his way through the various youth ranks and, after making his first team debut in 2005, becoming one of the most important offensive players for the club in the following decade. He scored 29 goals in all competitions in the [[2011–12 Athletic Bilbao season|2011–12 season]], and was described as a "Bilbao legend".&lt;ref name="Standard"&gt;{{cite news|url=https://www.standard.co.uk/sport/football/chelsea-on-high-alert-after-striker-fernando-llorente-rejects-new-deal-with-athletic-bilbao-8026359.html|title=Chelsea on high alert after striker Fernando Llorente rejects new deal with Athletic Bilbao|newspaper=[[London Evening Standard]]|date=9 August 2012|accessdate=10 August 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://athletic.elcorreo.com/noticias/201510/08/pichichi-reune-goleadores-rojiblancos-20151008210636.html|title=Los discípulos de Pichichi|trans-title=Pichichi's disciples|newspaper=[[El Correo]]|first=Javier|last=Ortiz de Lazcano|language=Spanish|date=9 October 2015|accessdate=11 February 2016}}&lt;/ref&gt; He signed with [[Juventus F.C.|Juventus]] in 2013, winning the [[Serie A]] title twice during his two-year spell there. Subsequently, he spent the [[2015–16 La Liga|2015–16 campaign]] back in Spain with [[Sevilla FC|Sevilla]], then competed in the [[Premier League]] with [[Swansea City A.F.C.|Swansea City]] and Tottenham Hotspur.
+
+A [[Spain national football team|Spain international]] since late 2008, Llorente was a member of the squads which won the [[2010 FIFA World Cup|2010 World Cup]] and [[UEFA Euro 2012|Euro 2012]].
+
+==Early years==
+Born in [[Pamplona]], Llorente grew up in the municipality of [[Rincón de Soto]] in [[La Rioja (Spain)|La Rioja]].&lt;ref name="navarra"&gt;{{cite news|url=http://www.diariodenavarra.es/actualidad/noticia.asp?not=2009040901275783&amp;dia=20090409&amp;seccion=deportes&amp;seccion2=osasunaFutbol|title=Llorente nació en la capital navarra "de casualidad"|trans-title=Llorente was born in Navarre capital "by chance"|newspaper=Diario de Navarra|language=Spanish|date=9 April 2009|accessdate=12 September 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20110724011342/http://www.diariodenavarra.es/actualidad/noticia.asp?not=2009040901275783&amp;dia=20090409&amp;seccion=deportes&amp;seccion2=osasunaFutbol|archivedate=24 July 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://hemeroteca.elmundodeportivo.es/preview/2005/01/18/pagina-24/1532732/pdf.html|title=Fue todo tan rápido que ni me lo creía|trans-title=Everything was so fast i could not believe it|newspaper=[[Mundo Deportivo]]|first=Alberto|last=García|language=Spanish|date=18 January 2005|accessdate=12 September 2010}}&lt;/ref&gt; He joined [[Athletic Bilbao]]'s youth system in 1996 at the age of 11, [[Athletic Bilbao signing policy|being eligible]] through his [[Navarre]]se roots.
+
+==Club career==
+
+===Athletic Bilbao===
+[[File:Fernando Llorente contra el Hércules en el estadio José Rico Pérez.jpg|150px|thumb|left|Llorente in action for Athletic against [[Hércules CF|Hércules]], when he scored the first goal of [[2010–11 La Liga|2010–11]]]]
+Llorente spent several seasons in the various junior levels of the club, playing alongside [[Fernando Amorebieta]]&lt;ref&gt;{{cite news|url=http://athletic.elcorreo.com/noticias/2012-03-01/amistoso-entre-llorente-amorebieta-20120301.html|title=Amistoso entre Llorente y Amorebieta|trans-title=Friendly between Llorente and Amorebieta|newspaper=El Correo|first=J.|last=Gómez Peña|language=Spanish|date=1 March 2012|accessdate=24 July 2017}}&lt;/ref&gt; and moving to their farm team [[CD Basconia]] in [[Tercera División]] in 2003.&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=1056&amp;idi=2|title=Staff restructuring|publisher=Athletic Bilbao|date=26 June 2003|accessdate=14 December 2008}}&lt;/ref&gt; He gradually improved, leading to promotion to [[Bilbao Athletic]] – Athletic's reserves – in [[Segunda División B]].&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=1956&amp;idi=2|title=Incorporations of Bilbao Athletic|publisher=Athletic Bilbao|date=1 June 2004|accessdate=14 December 2008}}&lt;/ref&gt;
+
+After scoring four goals for the B's in the first half of the season, Llorente was rewarded with a contract extension until June 2008.&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=2523&amp;idi=2|title=Fernando Llorente's contract extension|publisher=Athletic Bilbao|date=11 December 2004|accessdate=14 December 2008}}&lt;/ref&gt; On 16 January 2005, he made his first-team and [[La Liga]] debut in a 1–1 home draw against [[RCD Espanyol]].&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=2648&amp;idi=2|title=Athletic Club 1-Espanyol 1: No luck|publisher=Athletic Bilbao|date=16 January 2005|accessdate=14 December 2008}}&lt;/ref&gt; Three days later, in a [[Copa del Rey]] match against [[UD Lanzarote]], he scored a [[hat-trick]] in a [[2004–05 Copa del Rey|6–0 victory]].&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=2664&amp;idi=2|title=Athletic Club 6-Lanzarote 0: It advanced|publisher=Athletic Bilbao|date=20 January 2005|accessdate=14 December 2008}}&lt;/ref&gt; He went on to feature in all but five of the nineteen remaining league games, scoring three goals, and also played in four domestic cup matches and the [[UEFA Europa League|UEFA Cup]] [[2004–05 UEFA Cup|round of 32 clash]] against [[FK Austria Wien]].
+
+Before [[2005–06 La Liga|2005–06]], Llorente exchanged his squad number of 32 for the number 9 jersey.&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=3369&amp;idi=2|title=Numbers for the 2005–2006 season|publisher=Athletic Bilbao|date=29 July 2005|accessdate=14 December 2008}}&lt;/ref&gt; He scored on the opening day, a [[Basque Country (autonomous community)|Basque]] [[Local derby|derby]] 3–0 win over [[Real Sociedad]]&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=3466&amp;idi=2|title=Athletic Club 3 Real Sociedad 0: An excellent start to the season|publisher=Athletic Bilbao|date=28 August 2005|accessdate=14 December 2008}}&lt;/ref&gt; but, throughout the campaign, found goals hard to come by. This could be partly attributed to a series of injuries including a [[knee]] strain,&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=3639&amp;idi=2|title=Urzaiz fit to play, Prieto, Guerrero and Llorente sidelined|publisher=Athletic Bilbao|date=19 October 2005|accessdate=14 December 2008}}&lt;/ref&gt; [[gastroenteritis]]&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=3905&amp;idi=2|title=Several players injured as a result of the match|publisher=Athletic Bilbao|date=8 January 2006|accessdate=14 December 2008}}&lt;/ref&gt; and a muscle injury.&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=4253&amp;idi=2|title=Llorente and Lacruz: Muscle overload|publisher=Athletic Bilbao|date=24 April 2006|accessdate=14 December 2008}}&lt;/ref&gt; He ended the season with just four goals, two in the league and as many in the Cup, both against [[CE L'Hospitalet]].&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=3724&amp;idi=2|title=L'Hospitalet 1-Athletic Club 3: To the Round of 16|publisher=Athletic Bilbao|date=9 November 2005|accessdate=14 December 2008}}&lt;/ref&gt;
+
+On 13 July 2006, Llorente signed a new contract until June 2011, which included a buy-out clause of between [[Euro|€]]30 and 50 million.&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=4416&amp;idi=2|title=Llorente's renewal: press conference|publisher=Athletic Bilbao|date=13 July 2006|accessdate=14 December 2008}}&lt;/ref&gt; He started [[2006–07 La Liga|the season]] as arguably the club's fourth-choice striker, behind [[Aritz Aduriz]], [[Joseba Etxeberria]] and veteran [[Ismael Urzaiz]]. The team's poor form and lack of goals led to coach [[Félix Sarriugarte]] rotating the players, allowing Llorente to force his way back into the side; he ended the campaign with only two goals in 23 matches, although he did score an important one in the closing minutes of a 1–1 draw at [[Valencia CF]].&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/report/_/id/203868?cc=5739|title=Valencia 1–1 Athletic Bilbao|publisher=[[ESPN FC|ESPN Soccernet]]|date=11 November 2006|accessdate=2 August 2012}}&lt;/ref&gt;
+
+In preparation for [[2007–08 La Liga|2007–08]], Llorente scored six goals in as many pre-season matches, and another against [[CD Numancia]] in the ''Caja Duero'' Trophy. His form led to him becoming Athletic's first-choice forward, and although he started the campaign poorly, he ended it with a total of 11 league goals as the side finished in mid-table. His tally included four goals in two games against Valencia, both impressive wins,&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=6217&amp;idi=2|title=Valencia 0 – Athletic Club 3: A perfect match|publisher=Athletic Bilbao|date=2 December 2007|accessdate=14 December 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=6731&amp;idi=2|title=Athletic Club 5 Valencia 1: A perfect night|publisher=Athletic Bilbao|date=20 April 2008|accessdate=14 December 2008}}&lt;/ref&gt; and further strikes against [[FC Barcelona]],&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=6417&amp;idi=2|title=Athletic Club 1-FC Barcelona 1: A proud point|publisher=Athletic Bilbao|date=27 January 2008|accessdate=14 December 2008}}&lt;/ref&gt; [[Villarreal CF]]&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=6518&amp;idi=2|title=Athletic Club 1-Villarreal 2: From better to worse|publisher=Athletic Bilbao|date=22 February 2008|accessdate=14 December 2008}}&lt;/ref&gt; and [[Atlético Madrid]].&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=6494&amp;idi=2|title=Atlético de Madrid 1-Athletic Club 2: A step in the right direction|publisher=Athletic Bilbao|date=17 February 2008|accessdate=14 December 2008}}&lt;/ref&gt;
+
+Before [[2008–09 La Liga|2008–09]], Llorente was confident of a successful season. "I know that I am capable of scoring goals and having a good year and I want to start this term in the same form that I ended the last one in" he said.&lt;ref&gt;{{cite web|url=http://www.allthingsmallorca.com/news/?p=324|title=Aduriz move surprised everyone – Llorente|publisher=All Things Mallorca|date=2 September 2008|accessdate=14 December 2008|deadurl=yes|archiveurl=https://web.archive.org/web/20111003045327/http://www.allthingsmallorca.com/news/?p=324|archivedate=3 October 2011}}&lt;/ref&gt; Despite the team's modest start he scored 14 league goals – a career-best – with another four in [[2008–09 Copa del Rey|the Cup]], helping his team reach [[2009 Copa del Rey Final|the final]] against Barcelona (a 1–4 loss).&lt;ref&gt;{{cite news|url=http://www.marca.com/2009/05/13/futbol/copa_rey/1242251735.html|title=El Barça se corona por aplastamiento|trans-title=Barça crowned through crushing|newspaper=[[Marca (newspaper)|Marca]]|first=Delfín|last=Melero|language=Spanish|date=13 May 2009|accessdate=23 January 2018}}&lt;/ref&gt;
+
+In the [[2009–10 La Liga|2009–10 season]], Llorente again reached double figures. He led all scorers in the [[2009–10 UEFA Europa League|Europa League]] for a long period with eight goals, and added fourteen in the league as Athletic eventually finished in eighth place.&lt;ref&gt;{{cite news|url=https://elpais.com/deportes/2010/02/08/actualidad/1265617316_850215.html|title=Llorente, el goleador silencioso|trans-title=Llorente, the silent scorer|newspaper=[[El País]]|first=Eduardo|last=Rodrigálvarez|language=Spanish|date=8 February 2010|accessdate=1 March 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://sevilla.abc.es/deportes/orgullodenervion/noticias/sevilla-fc/fernando-llorente-casi-20-goles-de-media-por-temporada-89388-1440672433.html|title=Fernando Llorente: casi 20 goles de media por temporada|trans-title=Fernando Llorente: an average of nearly 20 goals per season|newspaper=[[ABC (newspaper)|ABC]]|language=Spanish|date=27 August 2015|accessdate=1 March 2018}}&lt;/ref&gt;
+
+[[File:Fernando Llorente CAMP NOU 2012 (cropped).jpg|thumb|Llorente playing against [[FC Barcelona|Barcelona]] (2012)]]
+On 28 August 2010, Llorente scored the first goal of the [[2010–11 La Liga|2010–11 campaign]], in a 1–0 win at [[Hércules CF]].&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/report/_/id/301988?cc=5739|title=Llorente lifts Bilbao|publisher=ESPN Soccernet|date=28 August 2010|accessdate=23 April 2011}}&lt;/ref&gt; His form continued in the next ten league fixtures as he found the net seven times, eventually finishing the season with 18 goals (19 overall) as Athletic qualified for the Europa League.
+
+In January/February 2012, Llorente scored five goals in two away matches in only four days: he started with a hat-trick in a 3–2 win against [[Rayo Vallecano]],&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/report/_/id/323841?cc=5739|title=Llorente hits hat-trick in Athletic win|publisher=ESPN Soccernet|date=28 January 2012|accessdate=1 February 2012}}&lt;/ref&gt; and added two in a 2–1 defeat of [[CD Mirandés]] in the [[2011–12 Copa del Rey|Spanish Cup semi-finals]].&lt;ref&gt;{{cite news|url=http://www.marca.com/marcador/futbol/2011_12/copa/semifinal/ida/mir_ath/|title=El 'Rey León' saca las garras en Anduva|trans-title='Lion King' shows claws in Anduva|newspaper=Marca|first=Diego|last=Acedo|language=Spanish|date=1 February 2012|accessdate=1 February 2012}}&lt;/ref&gt; In the next two matches, both at home, he scored three more, one against Espanyol in the league&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/report/_/id/323832?cc=5739|title=Albin's late strike earns Espanyol a point|publisher=ESPN Soccernet|date=4 February 2012|accessdate=7 February 2012}}&lt;/ref&gt; and two against Mirandés.&lt;ref&gt;{{cite news|url=http://www.marca.com/marcador/futbol/2011_12/copa/semifinal/vuelta/ath_mir/|title=Grandes y gigantes|trans-title=Great ones and giants|newspaper=Marca|first=Delfín|last=Melero|language=Spanish|date=6 February 2012|accessdate=7 February 2012}}&lt;/ref&gt;
+
+Llorente scored in both legs of the [[2011–12 UEFA Europa League|2011–12 Europa League round of 16]] against [[Manchester United F.C.|Manchester United]], as Athletic won both games and went through 5–3 on aggregate.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2012/matches/round=2000274/match=2007459/postmatch/report/index.html|title=Enterprising Athletic stun United at Old Trafford|publisher=UEFA|date=8 March 2012|accessdate=27 March 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2012/matches/round=2000274/match=2007467/postmatch/report/index.html|title=Athletic see off United with room to spare|publisher=UEFA|date=15 March 2012|accessdate=27 March 2012}}&lt;/ref&gt; In the next round he scored twice at [[FC Schalke 04]] in a 4–2 win,&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2012/matches/round=2000275/match=2007469/postmatch/report/index.html|title=Schalke stunned by late Athletic fightback|publisher=UEFA|date=29 March 2012|accessdate=21 August 2012}}&lt;/ref&gt; helping the team eventually reach [[2012 UEFA Europa League Final|the final]]. His seven goals in the tournament also made him the club's [[Athletic Bilbao in European football|highest scorer in European competition]], beating the total of 11 set by [[Daniel Ruiz|Dani]] in the 1980s,&lt;ref&gt;{{cite web|url=https://www.vavel.com/es/futbol/athletic-de-bilbao/123102.html |title=Llorente supera a Dani como máximo goleador del Athletic en Europa|trans-title=Llorente overtakes Dani as Athletic's top scorer in Europe|publisher=[[Vavel]]|first=Yolanda|last=Espinosa|language=Spanish|date=16 March 2012|accessdate=18 July 2017}}&lt;/ref&gt; later surpassed by Aduriz in 2016.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/news/newsid=2410926.html|title=Aduriz, 'Pichichi' rojiblanco en Europa|trans-title=Aduriz, red-and-white 'Pichichi' in Europe|publisher=UEFA|language=Spanish|date=3 November 2016|accessdate=18 July 2017}}&lt;/ref&gt;
+
+In August 2012, Llorente refused to sign a new deal with Athletic Bilbao, fuelling speculation that he might be leaving.&lt;ref name="Standard"/&gt; Following a 0–2 [[Basque derby]] loss at Real Sociedad on 29 September, in which he was a late [[Substitute (association football)|substitute]], he got into an argument with manager [[Marcelo Bielsa]]; two days later he walked out of training early and was sent to practice with the youth squad&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/news/story/_/id/1176799/fernando-llorente-walks-out-of-training-after-bielsa-row?cc=5901|title=Llorente walks out of training|publisher=ESPN FC|first=Dermot|last=Corrigan|date=1 October 2012|accessdate=2 October 2012}}&lt;/ref&gt; and, as a result, his relationship with the club's supporters and president [[Josu Urrutia]] further deteriorated.&lt;ref&gt;{{cite web|url=http://espnfc.com/news/story/_/id/1233014/fernando-llorente-and-bilbao-clash-over-no-show?cc=5739|title=Llorente and Bilbao clash over no-show|publisher=ESPN FC|first=Dermot|last=Corrigan|date=20 November 2012|accessdate=27 December 2013}}&lt;/ref&gt;
+
+On 3 January 2013, Athletic confirmed that Llorente would be holding talks with [[Juventus F.C.]]&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2013/jan/03/fernando-llorente-juventus-athletic-bilbao|title=Fernando Llorente to hold talks with Juventus, Athletic Bilbao confirm|newspaper=[[The Guardian]]|date=3 January 2013|accessdate=21 January 2013}}&lt;/ref&gt; On the 21st the [[Italy|Italians]]' sporting director, [[Giuseppe Marotta]], stated that he was "very optimistic" that the player would join on 1 July, with Urrutia believed to be unwilling to allow him to leave in the January [[transfer window]].&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/news/story/_/id/1307464/juventus-confident-signing-llorente?cc=5739|title=Juventus confident of signing Llorente|publisher=ESPN FC|date=21 January 2013|accessdate=21 January 2013}}&lt;/ref&gt; Three days later the club formalized the signing, and announced he would sign a four-year contract on 1 July when his contract with Bilbao expired;&lt;ref&gt;{{cite web|url=http://www.juventus.com/juve/en/news/24_gen2013_llorente|title=Llorente to join Juventus|publisher=Juventus F.C|date=24 January 2013|accessdate=24 January 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130127005217/http://www.juventus.com/juve/en/news/24_gen2013_llorente|archivedate=27 January 2013}}&lt;/ref&gt; Juventus also paid his agent €3.038&amp;nbsp;million.&lt;ref&gt;{{cite web|url=http://www.juventus.com/wps/wcm/connect/8a80cb53-b24f-46b1-966e-73f0eb2787bd/Relazione+finanziaria+semestrale+31+dicembre+2013+definitiva.pdf?MOD=AJPERES&amp;CACHEID=8a80cb53-b24f-46b1-966e-73f0eb2787bd|title=Relazione finanziaria semestrale al 31 dicembre 2013|trans-title=Semestral financial report up to 31 December 2013|publisher=Juventus F.C|language=Italian|date=28 February 2014|accessdate=27 March 2014}}{{dead link|date=December 2016|bot=InternetArchiveBot|fix-attempted=yes}}&lt;/ref&gt;
+
+Llorente scored just 5 goals in 36 competitive matches in [[2012–13 Athletic Bilbao season|his final year with Athletic]], playing mainly as a back-up for Aduriz.&lt;ref&gt;{{cite news|url=http://www.marca.com/2012/12/27/futbol/equipos/athletic/1356597969.html|title=Aduriz eclipsa a Llorente|trans-title=Aduriz eclipses Llorente|newspaper=Marca|first=Macu|last=Briones|language=Spanish|date=27 December 2012|accessdate=1 July 2013}}&lt;/ref&gt;&lt;ref name=FE&gt;{{cite web|url=http://www.football-espana.net/32286/llorente-unveiled-juve-player|title=Llorente unveiled as a Juve player|publisher=Football España|date=2 July 2013|accessdate=2 July 2013}}&lt;/ref&gt;
+
+===Juventus===
+[[File:Arturo Vidal and Fernando Llorente, Real Madrid vs Juventus, 24 October 2013 Champions League.JPG|thumb|upright|Llorente (right) before a [[UEFA Champions League|Champions League]] match against [[Real Madrid C.F.|Real Madrid]] in 2013]]
+Llorente officially became a Juventus player on 1 July 2013 after passing a medical at the club.&lt;ref name=ESPN&gt;{{cite web|url=http://espnfc.com/news/story/_/id/1489465/juventus-unveil-fernando-llorente---live?campaign=rss&amp;source=soccernet&amp;cc=5739#|title=Llorente relishing Tevez link-up|publisher=ESPN FC|first=Ben|last=Gladwell|date=2 July 2013|accessdate=2 July 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://bleacherreport.com/articles/1502839-juventus-sign-fernando-llorente-on-a-free-transfer|title=Juventus sign Fernando Llorente on a free transfer|publisher=[[Bleacher Report]]|first=Adrian|last=Agius|date=26 January 2013|accessdate=1 July 2013}}&lt;/ref&gt; He was given the number 14 shirt,&lt;ref name=FE/&gt;&lt;ref&gt;{{cite web|url=http://www.football-italia.net/35963/llorente-picks-no-14-shirt|title=Llorente picks No 14 shirt?|publisher=Football Italia|date=1 July 2013|accessdate=1 July 2013}}&lt;/ref&gt; and scored his first goal in [[Serie A]] on 22 September when he started in a 2–1 home win against [[Hellas Verona F.C.]]
+
+Llorente found the net in his second and third ever appearances in the [[UEFA Champions League]], both times against [[Real Madrid C.F.|Real Madrid]] in the [[2013–14 UEFA Champions League|2013–14 group stage]] (a 1–2 away loss, and a 2–2 home draw).&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2014/matches/round=2000479/match=2011793/index.html|title=Ronaldo double sinks ten-man Juventus|publisher=UEFA|date=23 October 2013|accessdate=6 November 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2014/matches/round=2000479/match=2011817/index.html|title=Juventus fight back to hold Madrid|publisher=UEFA|date=5 November 2013|accessdate=6 November 2013}}&lt;/ref&gt; In November 2013 he spoke critically about his relationship with former manager Bielsa in an exclusive interview with ''[[La Gazzetta dello Sport]]''.&lt;ref&gt;{{cite web|url=http://www.goal.com/es/news/27/liga-de-espa%C3%B1a/2013/11/16/4411985/fernando-llorente-carga-contra-marcelo-bielsa|title=Fernando Llorente carga contra Marcelo Bielsa|trans-title=Fernando Llorente blasts Marcelo Bielsa|publisher=[[Goal (website)|Goal]]|language=Spanish|date=16 November 2013|accessdate=27 December 2013}}&lt;/ref&gt; On 1 December he scored in injury time, the only goal of the match at home against [[Udinese Calcio]].&lt;ref&gt;{{cite web|url=http://espnfc.com/uk/en/report/377178/report.html?soccernet=true&amp;cc=5739|title=Last-gasp Llorente winner|publisher=ESPN FC|date=1 December 2013|accessdate=2 December 2013}}&lt;/ref&gt; 
+
+Llorente's first two goals of 2014 came on 12 January, from a header and from close range as Juventus defeated [[Cagliari Calcio]] 4–1 away to extend their winning league run to 11 matches.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/25630488|title=Cagliari 1–4 Juventus|publisher=[[BBC Sport]]|date=12 January 2014|accessdate=18 August 2014}}&lt;/ref&gt; On 7 April, he scored both of his team's goals in a 2–0 home win over [[A.S. Livorno Calcio]], guaranteeing at least second place and Champions League qualification.&lt;ref&gt;{{cite web|url=http://www.fourfourtwo.com/au/news/serie-juventus-2-livorno-0|title=Serie A: Juventus 2 Livorno 0|publisher=[[FourFourTwo]]|date=7 April 2014|accessdate=18 August 2014}}&lt;/ref&gt; On the final day of [[2013–14 Serie A|the season]], again against Cagliari, he contributed with one goal as Juve won 3–0 and clinched the championship, finishing with a record 102 points in a Serie A season.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/27463440|title=Juventus 3–0 Cagliari|publisher=BBC Sport|date=18 May 2014|accessdate=18 August 2014}}&lt;/ref&gt;
+
+On 6 June 2015, Llorente came off the bench and played five minutes in [[2015 UEFA Champions League Final|the final]] of the [[2014–15 UEFA Champions League|Champions League]], which Juventus lost 1–3 to Barcelona at Berlin's [[Olympiastadion (Berlin)|Olympiastadion]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000552/match=2015227/postmatch/report/index.html|title=Barcelona see off Juventus to claim fifth title|publisher=UEFA|date=6 June 2015|accessdate=7 June 2015}}&lt;/ref&gt;
+
+===Sevilla===
+On 27 August 2015, [[free agent]] Llorente signed a three-year contract with [[Sevilla FC]] with a buyout clause of €20&amp;nbsp;million.&lt;ref&gt;{{cite web|url=http://www.football-italia.net/71669/official-llorente-sevilla-free|title=Official: Llorente to Sevilla for free|publisher=Football Italia|date=27 August 2015|accessdate=27 August 2015}}&lt;/ref&gt; He made his league debut three days later, playing the full 90 minutes in a 0–3 home defeat against Atlético Madrid.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2015/aug/30/atletico-madrid-sevilla-match-report|title=Atlético Madrid enjoy easy win over Sevilla as Koke ends his goal drought|newspaper=The Guardian|date=30 August 2015|accessdate=9 November 2015}}&lt;/ref&gt; He scored his first goal for the club in a 1–2 loss to [[RC Celta de Vigo]], also at the [[Ramón Sánchez Pizjuán Stadium]], on 20 September.&lt;ref&gt;{{cite web|url=http://www.espnfc.us/spanish-primera-division/match/433941/sevilla-fc-celta-vigo/report|title=Sevilla's early season struggles continue with home defeat to Celta Vigo|publisher=ESPN FC|date=20 September 2015|accessdate=9 November 2015}}&lt;/ref&gt;
+
+On 8 November 2015, after [[Substitute (association football)|replacing]] newly-signed [[Ciro Immobile]] for the final 20 minutes of the league game against Real Madrid, Llorente headed home after only four minutes in an eventual 3–2 win.&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-3309458/Sevilla-3-2-Real-Madrid-Ciro-Immobile-Banega-Fernando-Llorente-goals-visitors-lose-time-Rafa-Benitez.html|title=Sevilla 3–2 Real Madrid: Ciro Immobile, Ever Banega and Fernando Llorente goals as visitors lose for the first time under Rafa Benitez|newspaper=[[Daily Mail]]|first=Rik|last=Sharma|date=8 November 2015|accessdate=8 December 2015}}&lt;/ref&gt; Exactly one month later, also at home, he scored the only goal in a 1–0 victory over his former club Juventus in the final match of the [[2015–16 UEFA Champions League group stage|Champions League group stage]], which meant Sevilla overtook [[Borussia Mönchengladbach]] into third spot and [[2015–16 UEFA Europa League|qualification for the Europa League knockout phase]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000634/match=2015752/postmatch/report/index.html|title=Llorente deals Juve blow to earn Sevilla third place|publisher=UEFA|date=8 December 2015|accessdate=8 December 2015}}&lt;/ref&gt; The club went on to win the competition for the third time in a row, with Llorente being an unused substitute in [[2016 UEFA Europa League Final|the final]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2016/matches/round=2000663/match=2017222/postmatch/report/index.html|title=Sevilla make it three in row at Liverpool's expense|publisher=UEFA|date=18 May 2016|accessdate=17 January 2018}}&lt;/ref&gt; He came off the bench during extra time in the [[2016 Copa del Rey Final|Copa del Rey Final]] four days later, which they lost to Barcelona.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2016/may/22/barcelona-sevilla-copa-del-rey-match-report|title= Jordi Alba and Neymar secure Barcelona Copa del Rey victory|newspaper=The Guardian|first=Sid|last=Lowe|date=22 May 2016|accessdate=17 January 2018}}&lt;/ref&gt;
+
+===Swansea City===
+On 4 August 2016, it was announced that Llorente had signed a two-year deal with [[Swansea City A.F.C.|Swansea City]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2016/aug/04/swansea-agree-sign-fernando-llorente-sevilla|title=Swansea agree terms to sign Fernando Llorente from Sevilla on two-year deal|newspaper=The Guardian|date=4 August 2016|accessdate=4 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.swanseacity.com/news/article/2016-17/spain-fernando-llorente-joins-swansea-city-sevilla-3227792.aspx|title=World Cup winner Llorente joins Swans|publisher=Swansea City A.F.C|date=5 August 2016|accessdate=5 August 2016}}&lt;/ref&gt; He made his [[Premier League]] debut nine days later, playing the full ninety minutes in a 1–0 away win against [[Burnley F.C.|Burnley]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/36994442|title=Burnley 0–1 Swansea City|publisher=BBC Sport|first=Tim|last=Oscroft|date=13 August 2016|accessdate=13 August 2016}}&lt;/ref&gt;
+
+On 26 November 2016, Llorente scored two injury-time goals to help the hosts defeat [[Crystal Palace F.C.|Crystal Palace]] 5–4;&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2016/nov/26/swansea-city-crystal-palace-premier-league-match-report|title=Swansea City stun Crystal Palace as Fernando Llorente settles 5–4 thriller|newspaper=The Guardian|first=Stuart|last=James|date=27 November 2016|accessdate=11 December 2016}}&lt;/ref&gt; he also scored twice two matches later, again at the [[Liberty Stadium]], against [[Sunderland A.F.C.|Sunderland]] (3–0).&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/sport/football/premier-league/swansea-vs-sunderland-match-report-a7467436.html|title=Swansea vs Sunderland match report: Fernando Llorente brace puts Black Cats to the sword|newspaper=[[The Independent]]|first=Graham|last=Clutton|date=10 December 2016|accessdate=11 December 2016}}&lt;/ref&gt; He finished [[2016–17 Swansea City A.F.C. season|his first season]] with 15 goals, as the team avoided relegation.&lt;ref&gt;{{cite web|url=http://www.walesonline.co.uk/sport/football/football-news/swansea-city-striker-fernando-llorente-13089593|title=Swansea City striker Fernando Llorente will 'wait and see' what happens in the summer amid expected transfer interest|publisher=[[Media Wales#WalesOnline|Wales Online]]|first=Chris|last=Wathan|date=25 May 2017|accessdate=6 June 2017}}&lt;/ref&gt;
+
+A fractured [[arm]] sustained while cycling during his summer holiday caused Llorente to miss the opening weeks of the [[2017–18 Premier League|2017–18 campaign]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/40448715|title=Fernando Llorente: Swansea City striker likely to miss season start with broken arm|publisher=BBC Sport|date=31 July 2017|accessdate=1 September 2017}}&lt;/ref&gt;
+
+===Tottenham Hotspur===
+On 31 August 2017, Llorente joined [[Tottenham Hotspur F.C.|Tottenham Hotspur]] on a two-year deal for a reported fee of £12.1&amp;nbsp;million.&lt;ref&gt;{{cite web|url=http://www.tottenhamhotspur.com/news/fernando-llorente-first-interview-310817/|title='I can do more in my career, and my dream is to do that here' – Fernando Llorente|publisher=Tottenham Hotspur F.C|date=31 August 2017|accessdate=31 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.skysports.com/football/news/11675/11013439/fernando-llorente-joins-tottenham-from-swansea|title=Fernando Llorente joins Tottenham from Swansea|publisher=[[Sky Sports]]|date=1 September 2017|accessdate=2 January 2018}}&lt;/ref&gt; He made his debut for the club on 13 September, replacing [[Harry Kane]] for the last minutes of a 3–1 home win over [[Borussia Dortmund]] in the [[2017–18 UEFA Champions League|Champions League group stage]].&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/mauricio-pochettino-call-swayed-me-away-from-chelsea/cpmsdgc8rqu51uj759w3m3cwe|title=Tottenham striker Llorente reveals reason behind Chelsea snub|publisher=Goal|first=Matt|last=Dorman|date=15 September 2017|accessdate=15 September 2017}}&lt;/ref&gt; He made his first start in the [[2017–18 EFL Cup|EFL Cup]] tie against [[Barnsley F.C.|Barnsley]] on 20 September,&lt;ref&gt;{{cite news|url=https://www.mirror.co.uk/sport/football/news/llorente-asks-tottenham-fans-patience-11207894|title=Tottenham new boy Fernando Llorente begs fans for time after unimpressive first start against Championship Barnsley|newspaper=[[Daily Mirror]]|first=Darren|last=Lewis|date=20 September 2017|accessdate=27 October 2017}}&lt;/ref&gt; then played in the [[2017–18 UEFA Champions League|Champions League group stage]] match at Real Madrid which ended 1–1.&lt;ref&gt;{{cite news|url=https://www.standard.co.uk/sport/football/real-madrid-1-tottenham-1-cristiano-ronaldo-penalty-denies-spurs-famous-champions-league-win-a3661216.html|title=Real Madrid 1 Tottenham 1: Cristiano Ronaldo penalty denies Spurs famous UEFA Champions League win|newspaper=London Evening Standard|first=James|last=Olley|date=17 October 2017|accessdate=21 October 2017}}&lt;/ref&gt;
+
+Llorente scored his first goal for Spurs on 6 December 2017, playing the full 90 minutes in a 3–0 Champions League win over [[APOEL FC]] after his team had already progressed to the knockout stage as group winners.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2017/dec/06/tottenham-hotspur-apoel-nicosia-champions-league-match-report|title=Fernando Llorente off the mark for Tottenham in stroll against Apoel|newspaper=The Guardian|first=David|last=Hytner|date=6 December 2017|accessdate=6 December 2017}}&lt;/ref&gt; He made his first league start the following January, scoring in a 2–0 away win against his former club Swansea.&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/football/2018/01/02/swansea-0-tottenham-2-fernando-llorente-scores-return-wales/|title=Swansea 0 Tottenham 2: Fernando Llorente scores on return to Wales as Spurs leapfrog Arsenal|newspaper=[[The Daily Telegraph]]|first=Alex|last=Bywater|date=2 January 2018|accessdate=2 January 2018}}&lt;/ref&gt; 
+
+Llorente scored a hat-trick in Spurs' 6–1 victory over [[Rochdale A.F.C.|Rochdale]] in [[2017–18 FA Cup|the fifth round]] of the [[FA Cup]], on 28 February 2018.&lt;ref&gt;{{cite news|url=https://www.standard.co.uk/sport/football/tottenham-6-rochdale-1-fa-cup-var-fernando-llorente-hat-trick-wembley-snow-a3778491.html|title=Tottenham 6 Rochdale 1: Fernando Llorente hat-trick seals FA Cup win amid VAR woe and Wembley snow|newspaper=London Evening Standard|first=Jack|last=Rosser|date=28 February 2018|accessdate=28 February 2018}}&lt;/ref&gt; On 4 January 2019, in [[2018–19 FA Cup|the third round]] of the next season's competition, he repeated the feat in a 7–0 away rout of [[Tranmere Rovers F.C.|Tranmere Rovers]],&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2019/jan/04/tranmere-tottenham-fa-cup-match-report|title=Fernando Llorente hits hat-trick as Spurs steamroller Tranmere|newspaper=The Guardian|first=Paul|last=Wilson|date=4 January 2019|accessdate=4 January 2019}}&lt;/ref&gt; and helped the club record its biggest ever away win.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/46697997|title=Tranmere Rovers 0–7 Tottenham: Fernando Llorente scores hat-trick in thrashing|publisher=BBC Sport|first=Matthew|last=Henry|date=4 January 2019|accessdate=5 January 2019}}&lt;/ref&gt; His first league start of [[2018–19 Premier League|the season]] took place 16 days later due to an injury to Kane, when Llorente scored an [[own goal]] in a 2–1 away win at [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/46853938|title=Fulham 1–2 Tottenham Hotspur|publisher=BBC Sport|first=Mantej|last=Mann|date=20 January 2019|accessdate=31 January 2019}}&lt;/ref&gt; In the following league game against [[Watford F.C.|Watford]], he scored a late winner as Tottenham won 2–1 at [[Wembley Stadium]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/46968493|title=Tottenham Hotspur 2–1 Watford|publisher=BBC Sport|first=Saj|last=Chowdhury|date=30 January 2019|accessdate=31 January 2019}}&lt;/ref&gt; 
+
+On 13 February 2019, Llorente scored the last goal in a [[2018–19 UEFA Champions League knockout phase|3–0 Champions League]] win over Borussia Dortmund, only three minutes after coming off the bench.&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/football/2019/02/13/tottenham-vs-borussia-dortmund-champions-league-live-score-goals/|title=White-hot Tottenham as Son leads Dortmund destruction to put one foot in Champions League quarter-finals|newspaper=The Daily Telegraph|first=Jason|last=Burt|date=13 February 2019|accessdate=14 February 2019}}&lt;/ref&gt; It was his first career goal in the knockout stages of that competition, for a total of 11.&lt;ref&gt;{{cite news|url=https://www.marca.com/futbol/champions-league/2019/02/14/5c649effca4741f7098b461d.html|title=Fernando Llorente, el goleador fiel a la Champions|trans-title=Fernando Llorente, the scorer married to the Champions|newspaper=Marca|first=Luis Alberto|last=Díaz|language=Spanish|date=14 February 2019|accessdate=22 February 2019}}&lt;/ref&gt;
+
+==International career==
+[[Image:Spain vs England.jpg|thumb|300px|Llorente (right, with number 16, marked by [[Peter Crouch]]) moments before his first goal for [[Spain national football team|Spain]]]]
+Llorente represented [[Spain national under-20 football team|Spain]] at the [[2005 FIFA World Youth Championship]], his five goals winning him the silver boot as the competition's second highest scorer.&lt;ref name="Silver Boot"&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=4085&amp;idi=2|title=Silver Boot|publisher=Athletic Bilbao|date=2 March 2006|accessdate=14 December 2008}}&lt;/ref&gt; He was also [[Cap (sport)|capped]] at [[Spain national under-18 football team|under-18]] and [[Spain national under-19 football team|under-19]] levels.
+
+On 14 November 2008, [[Spain national football team|senior national team]] manager [[Vicente del Bosque]] called Llorente up for a [[Exhibition game|friendly]] against [[Chile national football team|Chile]];&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=7340&amp;idi=2|title=The Spanish national team: Call up|publisher=Athletic Bilbao|date=14 November 2008|accessdate=14 December 2008}}&lt;/ref&gt; he was brought on as a substitute in the 72nd minute of the 3–0 win.&lt;ref&gt;{{cite news|url=http://www.iht.com/articles/ap/2008/11/19/sports/SOC-Spain-Chile.php|title=Spain beats Chile 3–0 to cap historic season|newspaper=[[The New York Times International Edition|International Herald Tribune]]|date=19 November 2008|accessdate=14 December 2008}}&lt;/ref&gt; He scored his first goal in the 64th minute of a 2–0 friendly win over [[England national football team|England]] on 11 February 2009, after coming off the bench.&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport1/hi/football/internationals/7874902.stm|title=Spain 2–0 England|first=Mandeep|last=Sanghera|publisher=BBC Sport|date=11 February 2009|accessdate=20 June 2009}}&lt;/ref&gt; After scoring 14 goals for Athletic in 2008–09, Llorente was named by del Bosque in his 23-man squad for the [[2009 FIFA Confederations Cup]]. He was used as a substitute against hosts [[South Africa national football team|South Africa]], and scored in a 2–0 victory.&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/internationals/8108987.stm|title=Spain 2–0 South Africa|publisher=BBC Sport|date=20 June 2009|accessdate=5 January 2019}}&lt;/ref&gt;
+
+Llorente was not selected during the 2009–10 season, as del Bosque favoured [[Álvaro Negredo]]. He was, however, selected for the [[2010 FIFA World Cup]] in South Africa as third-choice striker, where he played in one match for the eventual champions, the last thirty minutes of the 1–0 [[Single-elimination tournament|round of 16]] win over [[Portugal national football team|Portugal]].&lt;ref&gt;{{Cite web|url=http://www.skysports.com/football/spain-vs-portugal/218253|title=Spain send Portugal packing|publisher=Sky Sports|first=Ben|last=Collins|date=30 June 2010|accessdate=23 January 2018}}&lt;/ref&gt;
+
+On 8 October 2010, benefiting from an injury to [[Fernando Torres]], Llorente started in a [[UEFA Euro 2012|Euro 2012]] [[UEFA Euro 2012 qualifying|qualifier]] against [[Lithuania national football team|Lithuania]] in [[Salamanca]], scoring with two headers in a 3–1 win.&lt;ref&gt;{{Cite news|url=http://www.publico.es/actualidad/goles-llorente-y-silva-dan.html|title=3–1. Dos goles de Llorente y uno de Silva dan el triunfo a España frente a Lituania|trans-title=3–1. Two goals from Llorente and one from Silva give Spain win against Lithuania|newspaper=[[Público (Spain)|Público]]|language=Spanish|date=9 October 2010|accessdate=23 January 2018}}&lt;/ref&gt; Four days later, as a substitute, he scored the winner against [[Scotland national football team|Scotland]] in a 3–2 win at [[Hampden Park]].&lt;ref&gt;{{Cite news|url=https://elpais.com/diario/2010/10/13/deportes/1286920802_850215.html|title=Llorente, el otro 'siete' de España|trans-title=Llorente, Spain's other 'seven'|newspaper=El País|first=José|last=Sámano|language=Spanish|date=13 October 2010|accessdate=23 January 2018}}&lt;/ref&gt; He was selected for the final stages in [[Poland]] and [[Ukraine]], and was an unused squad member as Spain won another tournament.&lt;ref&gt;{{Cite web|url=http://www.spherasports.com/ganar-la-eurocopa-sin-jugar-ni-un-minuto-69788/|title=Ganar la Eurocopa sin jugar ni un minuto|trans-title=Winning the Eurocup without playing one single minute|publisher=Sphera Sports|language=Spanish|date=9 June 2016|accessdate=23 January 2018}}&lt;/ref&gt;
+
+Llorente was one of seven players dropped from the final squad for the [[2014 FIFA World Cup|2014 World Cup]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/27647635|title=World Cup 2014: Spain drop Alvaro Negredo and Jesus Navas|publisher=[[BBC Sport]]|date=31 May 2014|accessdate=31 May 2014}}&lt;/ref&gt; 
+
+He also represented the [[Basque Country national football team|Basque Country national team]] five times. He made his debut against [[Cameroon national football team|Cameroon]] in 2005, and scored one goal for the ''Euskadi'', against [[Catalonia national football team|Catalonia]] at the [[Camp Nou]] the following year. His last appearance was in December 2007.&lt;ref name="ATHLETIC"&gt;{{Athletic Bilbao profile|id=571/llorente}}&lt;/ref&gt;
+
+==Style of play==
+A tall, large, and physically powerful player, Llorente's main traits are his heading ability and strength in the air, which enable him to function effectively as a [[Forward (association football)#Centre-forward|target-man]] in the centre of his team's attacking line.&lt;ref name="Gazzetta"&gt;{{cite news|url=http://www.gazzetta.it/Calcio/Squadre/Juventus/25-01-2013/tutto-llorente-qualita-difetti-ecco-chi-basco-juventus-913982304034.shtml|title=Tutto su Llorente, qualità e difetti – Ecco chi è il basco della Juventus|trans-title=Everything about Llorente, strengths and faults – Here is Juventus' Basque|newspaper=[[La Gazzetta dello Sport]]|language=Italian|date=25 January 2013|accessdate=10 November 2014}}&lt;/ref&gt;&lt;ref name="Arrives"&gt;{{cite web|url=http://www.espn.co.uk/football/blog/name/93/post/1852302/headline|title=Fernando Llorente finally arrives|publisher=ESPN FC|first=Mina|last=Rzouki|date=2 July 2013|accessdate=25 February 2017}}&lt;/ref&gt;&lt;ref name="Big"&gt;{{cite web|url=http://www.espnfc.us/english-premier-league/23/blog/post/3045616/fernando-llorente-peter-crouch-show-that-traditional-strikers-still-have-a-place-in-premier-league|title=The 'big man' is back as Fernando Llorente, Peter Crouch are thriving|publisher=ESPN FC|first=Michael|last=Cox|date=24 January 2017|accessdate=25 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.standard.co.uk/sport/football/antonio-conte-wary-of-swansea-boss-paul-clement-and-transfer-target-fernando-llorente-haunting-a3475561.html|title=Antonio Conte wary of Swansea boss Paul Clement and transfer target Fernando Llorente haunting Chelsea|newspaper=London Evening Standard|first=Simon|last=Johnson|date=24 February 2017|accessdate=25 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/36910960|title=Fernando Llorente: Swansea City complete signing of Sevilla striker|publisher=BBC Sport|first=Dafydd|last=Pritchard|date=5 August 2016|accessdate=25 February 2017}}&lt;/ref&gt; He is also known for his offensive movement, positional sense, and goalscoring ability inside the penalty area;&lt;ref name="Gazzetta"/&gt;&lt;ref name="Arrives"/&gt;&lt;ref name="Big"/&gt;&lt;ref name="Top"&gt;{{cite web|url=http://www.espnfc.us/club/swansea-city/318/blog/post/3006325/sigurdsson-llorente-earn-top-marks-as-swansea-claim-nine-goal-thriller|title=Sigurdsson, Llorente earn top marks as Swansea win nine goal thriller|publisher=ESPN FC|first=Max|last=Hicks|date=27 November 2016|accessdate=25 February 2017}}&lt;/ref&gt; additionally, he is also gifted with good technical skills and link-up play, which allows him to play well with his back to goal and hold up the ball for his teammates in order to create space and scoring opportunities.&lt;ref name="Gazzetta"/&gt;&lt;ref name="Arrives"/&gt;&lt;ref name="Big"/&gt;&lt;ref name="Top"/&gt;&lt;ref&gt;{{cite web|url=http://www.canalejuve.it/news/conosciamoli-meglio-fernando-llorente-56567|title=Conosciamoli meglio: Fernando Llorente|trans-title=Let's know him better: Fernando Llorente|publisher=Canale Juve|language=Italian|date=1 July 2013|accessdate=10 November 2014|dead-url=yes|archive-url=https://archive.is/20141110020154/http://www.canalejuve.it/news/conosciamoli-meglio-fernando-llorente-56567|archive-date=10 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tuttojuve.com/gli-eroi-bianconeri/gli-eroi-in-bianconero-fernando-llorente-359211|title=Gli eroi in bianconero: Fernando Llorente|trans-title=The heroes in black and white: Fernando Llorente|publisher=Tutto Juve|language=Italian|first=Stefano|last=Bedeschi|date=1 March 2017|accessdate=9 March 2017}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 23 February 2019}}&lt;ref name="ATHLETIC"/&gt;&lt;ref name=SW&gt;{{Soccerway|fernando-llorente-torres/3153|accessdate=2 January 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+|rowspan=2|[[CD Basconia|Basconia]]
+|[[2003–04 Tercera División#Grupo IV|2003–04]]
+|[[Tercera División]]
+|33||12||—||—||—||—||—||—||—||—||33||12
+|-
+!colspan=2|Total
+!33||12||—||—||—||—||—||—||—||—||33||12
+|-
+|rowspan=2|[[Bilbao Athletic]]
+|[[2004–05 Segunda División B#Group II|2004–05]]
+|[[Segunda División B]]
+|16||4||—||—||—||—||—||—||—||—||16||4
+|-
+!colspan=2|Total
+!16||4||—||—||—||—||—||—||—||—||16||4
+|-
+|rowspan=10|[[Athletic Bilbao]]
+|[[2004–05 La Liga|2004–05]]
+|rowspan=9|[[La Liga]]
+|15||3||4||3||—||—||1&lt;ref group=lower-alpha&gt;Appearance in the [[UEFA Europa League|UEFA Cup]]&lt;/ref&gt;||0||—||—||20||6
+|-
+|[[2005–06 La Liga|2005–06]]
+|22||2||3||2||—||—||—||—||—||—||25||4
+|-
+|[[2006–07 La Liga|2006–07]]
+|23||2||1||0||—||—||—||—||—||—||24||2
+|-
+|[[2007–08 La Liga|2007–08]]
+|35||11||5||1||—||—||—||—||—||—||40||12
+|-
+|[[2008–09 La Liga|2008–09]]
+|34||14||9||4||—||—||—||—||—||—||43||18
+|-
+|[[2009–10 La Liga|2009–10]]
+|37||14||2||1||—||—||11&lt;ref group=lower-alpha name="UEL"&gt;Appearances in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||8||1&lt;ref group=lower-alpha&gt;Appearance in the [[Supercopa de España]]&lt;/ref&gt;||0||51||23
+|-
+|[[2010–11 Athletic Bilbao season|2010–11]]
+||38||18||3||1||—||—||—||—||—||—||41||19
+|-
+|[[2011–12 Athletic Bilbao season|2011–12]]
+|32||17||6||5||—||—||15&lt;ref group=lower-alpha name="UEL"/&gt;||7||—||—||53||29
+|-
+|[[2012–13 Athletic Bilbao season|2012–13]]
+||26||4||2||0||—||—||8&lt;ref group=lower-alpha name="UEL"/&gt;||1||—||—||36||5
+|-
+!colspan=2|Total
+!262||85||35||17||—||—||35||16||1||0||333||118
+|-
+|rowspan=4|[[Juventus F.C.|Juventus]]
+|[[2013–14 Juventus F.C. season|2013–14]]
+|rowspan=3|[[Serie A]]
+|34||16||1||0||—||—||10&lt;ref group=lower-alpha&gt;Five appearances in the [[UEFA Champions League|Champions League]] and five in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||2||—||—||45||18
+|-
+|[[2014–15 Juventus F.C. season|2014–15]]
+|31||7||4||1||—||—||9&lt;ref group=lower-alpha name="UCL"&gt;Appearances in the [[UEFA Champions League|Champions League]]&lt;/ref&gt;||1||1&lt;ref group=lower-alpha name="SCI"&gt;Appearances in the [[Supercoppa Italiana]]&lt;/ref&gt;||0||45||9
+|-
+|[[2015–16 Juventus F.C. season|2015–16]]
+|1||0||0||0||—||—||0||0||1&lt;ref group=lower-alpha name="SCI"/&gt;||0||2||0
+|-
+!colspan=2|Total
+!66||23||5||1||—||—||19||3||2||0||92||27
+|-
+|rowspan=2|[[Sevilla FC|Sevilla]]
+|[[2015–16 Sevilla FC season|2015–16]]
+|La Liga
+|23||4||6||0||—||—||7&lt;ref group=lower-alpha&gt;Three appearances in the [[UEFA Champions League|Champions League]] and four in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||3||—||—||36||7
+|-
+!colspan=2|Total
+!23||4||6||0||—||—||7||3||—||—||36||7
+|-
+|rowspan=2|[[Swansea City A.F.C.|Swansea City]]
+|[[2016–17 Swansea City A.F.C. season|2016–17]]
+|[[Premier League]]
+|33||15||1||0||1||0||0||0||—||—||35||15
+|-
+!colspan=2|Total
+!33||15||1||0||1||0||0||0||—||—||35||15
+|-
+|rowspan=3|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[2017–18 Tottenham Hotspur F.C. season|2017–18]]
+|rowspan=2|Premier League
+|16||1||6||3||2||0||6&lt;ref group=lower-alpha name="UCL"/&gt;||1||—||—||30||5
+|-
+|[[2018–19 Tottenham Hotspur F.C. season|2018–19]]
+|11||1||2||3||4||2||4&lt;ref group=lower-alpha name="UCL"/&gt;||1||—||—||21||7
+|-
+!colspan=2|Total
+!27||2||8||6||6||2||10||2||—||—||51||12
+|-
+!colspan=3|Career total
+!460||145||54||21||7||2||68||24||3||0||596||195
+|}
+{{reflist|group=lower-alpha}}
+
+===International===
+{{updated|19 November 2013}}&lt;ref&gt;{{cite web|url=http://eu-football.info/_player.php?id=25666|title=Fernando Llorente|publisher=European Football|accessdate=14 June 2016}}&lt;/ref&gt;
+[[File:Spain and Portugal match at the FIFA World Cup 2010-06-29.jpg|thumb|right|Llorente joins [[Andrés Iniesta]] and goalscorer [[David Villa]] in celebration of Spain's goal against [[Portugal national football team|Portugal]] at the [[2010 FIFA World Cup]].]]
+{| class=wikitable style="text-align:center"
+!colspan=3|[[Spain national football team|Spain]]
+|-
+!Year||Apps||Goals
+|-
+|-
+|2008||1||0
+|-
+|2009||4||2
+|-
+|2010||8||5
+|-
+|2011||6||0
+|-
+|2012||2||0
+|-
+|2013||3||0
+|-
+!Total||24||7
+|}
+
+===Representative===
+{{updated|13 August 2012}}&lt;ref name="ATHLETIC"/&gt;
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan=3|[[Basque Country national football team|Basque Country]]
+|-
+!Year||Apps||Goals
+|-
+|2005||1||0
+|-
+|2006||2||1
+|-
+|2007||2||0
+|-
+|}
+
+===International goals===
+{{Ig header|n=Fernando Llorente}}
+{{Ig match
+| n = 1&lt;ref&gt;{{cite web|url=http://www.rtve.es/mediateca/videos/20090212/segundo-gol-llorente/405389.shtml|title=Segundo gol de Llorente|trans-title=Second Llorente goal|publisher=[[RTVE]]|language=Spanish|date=11 February 2010|accessdate=29 September 2010}}&lt;/ref&gt;
+| d= 11 February 2009
+| st= Ramón Sánchez Pizjuán Stadium | ci= [[Seville]] | co= Spain
+| o= ENG
+| sc= '''2'''–0
+| fr= 2–0
+| comp= [[Exhibition game|Friendly]]}}
+{{Ig match
+| n = 2&lt;ref&gt;{{cite web|url=http://mitele.telecinco.es/informativos/copa-confederaciones/81568.shtml|title=Llorente marca el segundo tanto, min 71'|trans-title=Llorente scores second goal, min 71'|publisher=[[Telecinco]]|language=Spanish|date=20 June 2009|accessdate=12 November 2010}}&lt;/ref&gt;
+| d= 20 June 2009
+| st= Free State Stadium | ci= [[Bloemfontein]] | co= South Africa
+| o= RSA
+| sc= '''2'''–0
+| fr= 2–0
+| comp= [[2009 FIFA Confederations Cup]]}}
+{{Ig match
+| n = 3&lt;ref&gt;{{cite web|url=http://www.rtve.es/mediateca/videos/20100529/espana-3-2-arabia-saudi-llorente/785671.shtml|title=España 3–2 Arabia Saudí (Llorente)|trans-title=Spain 3–2 Saudi Arabia (Llorente)|publisher=RTVE|language=Spanish|date=28 March 2009|accessdate=29 September 2010}}&lt;/ref&gt;
+| d= 28 May 2010
+| st= Tivoli-Neu | ci= [[Innsbruck]] | co= Austria
+| o= KSA
+| sc= '''3'''–2
+| fr= 3–2
+| comp= Friendly}}
+{{Ig match
+| n = 4&lt;ref&gt;{{cite web|url=http://www.rtve.es/mediateca/videos/20100907/llorente-acorta-distancias-3-1/870671.shtml|title=Llorente acorta distancias 3–1|trans-title=Llorente shortens the gap 3–1|publisher=RTVE|language=Spanish|date=7 September 2010|accessdate=29 September 2010}}&lt;/ref&gt;
+| d= 7 September 2010
+| st= Estadio Monumental Antonio Vespucio Liberti | ci= [[Buenos Aires]] | co= Argentina
+| o= ARG
+| sc= 3–'''1'''
+| fr= 4–1
+| comp= Friendly}}
+{{Ig match
+| n = 5&lt;ref&gt;{{cite web|url=http://www.rtve.es/mediateca/videos/20101008/llorente-abre-lata-1-0/897696.shtml|title=Llorente abre la lata 1–0|trans-title=Llorente opens can 1–0|publisher=RTVE|language=Spanish|date=8 October 2010|accessdate=9 October 2010}}&lt;/ref&gt;
+| d= 8 October 2010
+| st= Estadio El Helmántico | ci= [[Salamanca]] | co= Spain
+| o= LTU
+| sc= '''1'''–0
+| fr= 3–1
+| comp= [[UEFA Euro 2012 qualifying Group I|Euro 2012 qualifying]]}}
+{{Ig match
+| n = 6&lt;ref&gt;{{cite web|url=http://www.rtve.es/mediateca/videos/20101008/llorente-adelanta-nuevo-a-espana-2-1/897686.shtml|title=Llorente adelanta de nuevo a España 2–1|trans-title=Llorente puts Spain ahead again 2–1|publisher=RTVE|language=Spanish|date=8 October 2010|accessdate=9 October 2010}}&lt;/ref&gt;
+| d= 8 October 2010
+| st= Estadio El Helmántico | ci= Salamanca | co= Spain
+| o= LTU
+| sc= '''2'''–1
+| fr= 3–1
+| comp= Euro 2012 qualifying}}
+{{Ig match
+| n = 7&lt;ref&gt;{{cite web|url=http://www.telecinco.es/informativos/deportes/VideoViewer/VideoViewer.shtml?videoURL=25106|title=2–3. Cabezazo de oro|trans-title=2–3. Golden header|publisher=Telecinco|language=Spanish|date=12 October 2010|accessdate=21 October 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20101016045921/http://www.telecinco.es/informativos/deportes/VideoViewer/VideoViewer.shtml?videoURL=25106|archivedate=16 October 2010}}&lt;/ref&gt;
+| d = 12 October 2010
+| st= Hampden Park | ci= [[Glasgow]] | co= Scotland
+| o= SCO
+| sc= 2–'''3'''
+| fr= 2–3
+| comp= Euro 2012 qualifying}}
+{{Ig footer}}
+
+==Honours==
+
+===Club===
+'''Juventus'''&lt;ref name=SW/&gt;&lt;ref name=WO&gt;{{Cite web|url=http://www.walesonline.co.uk/sport/football/football-news/fernando-llorente-swansea-city-antonio-11868286|title=Fernando Llorente on Swansea City, Antonio Conte's Chelsea and why his team must improve from Leicester City defeat|publisher=Wales Online|first=Chris|last=Wathan|date=10 September 2016|accessdate=22 June 2017}}&lt;/ref&gt;&lt;ref name=ES&gt;{{Cite web|url=http://www.eurosport.com/football/fernando-llorente_prs46607/person.shtml|title=Fernando Llorente|publisher=[[Eurosport]]|accessdate=22 June 2017}}&lt;/ref&gt;
+*[[Serie A]]: [[2013–14 Serie A|2013–14]], [[2014–15 Serie A|2014–15]], [[2015–16 Serie A|2015–16]]&lt;ref&gt;Having played in one match at the start of the title-winning season, by local counting methods he is considered to have contributed to that win sufficiently to be credited with the honour.&lt;/ref&gt;
+*[[Coppa Italia]]: [[2014–15 Coppa Italia|2014–15]]
+*[[Supercoppa Italiana]]: [[2013 Supercoppa Italiana|2013]], [[2015 Supercoppa Italiana|2015]]
+
+'''Sevilla'''&lt;ref name=SW/&gt;&lt;ref name=ES/&gt;
+*[[UEFA Europa League]]: [[2015–16 UEFA Europa League|2015–16]]
+
+===International===
+'''Spain'''&lt;ref name=SW/&gt;&lt;ref name=WO/&gt;&lt;ref name=ES/&gt;
+*[[FIFA World Cup]]: [[2010 FIFA World Cup|2010]]
+*[[UEFA European Championship]]: [[UEFA Euro 2012|2012]]
+*[[FIFA Confederations Cup]]: Third-place [[2009 FIFA Confederations Cup|2009]]
+
+===Individual===
+*[[FIFA U-20 World Cup]]: [[FIFA U-20 World Cup#Golden Shoe|Silver Shoe]] [[2005 FIFA World Youth Championship#Awards|2005]]&lt;ref name="Silver Boot"/&gt;
+
+===Decorations===
+*[[Royal Order of Sports Merit|Gold Medal of the Royal Order of Sporting Merit]]: 2011&lt;ref&gt;{{Cite news|url=http://www.mundodeportivo.com/20111005/futbol/seleccion-espanola/las-campeones-del-mundo-de-futbol-ya-tienen-la-real-orden-del-merito-deportivo_54226408413.html|title=Los campeones del mundo de fútbol ya tienen la Real Orden del Mérito Deportivo|trans-title=The football World Champions already have the Royal Order of Sporting Merit|newspaper=Mundo Deportivo|first=Manel|last=Bruña|language=Spanish|date=5 January 2011|accessdate=5 March 2013}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{Athletic Bilbao profile|id=571/llorente}}
+* {{BDFutbol|757}}
+* {{Soccerbase|40672}}
+* {{NFT player|28692}}
+* {{FIFA player|233029}}
+* {{UEFA player|69176}}
+* {{Official website|http://fernandollorente.es/}}
+
+{{Tottenham Hotspur F.C. squad}}
+{{Navboxes colour
+|title = Spain squads
+|bg = #db000d
+|fg = #fbea0e
+|bordercolor = Black
+|list1 =
+{{Spain squad 2009 Confederations Cup}}
+{{Spain Squad 2010 World Cup}}
+{{Spain squad UEFA Euro 2012}}
+}}
+
+{{DEFAULTSORT:Llorente, Fernando}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:Footballers from Pamplona]]
+[[Category:Spanish footballers]]
+[[Category:Riojan footballers]]
+[[Category:Navarrese footballers]]
+[[Category:Association football forwards]]
+[[Category:La Liga players]]
+[[Category:Segunda División B players]]
+[[Category:Tercera División players]]
+[[Category:CD Basconia footballers]]
+[[Category:Bilbao Athletic footballers]]
+[[Category:Athletic Bilbao footballers]]
+[[Category:Sevilla FC players]]
+[[Category:Serie A players]]
+[[Category:Juventus F.C. players]]
+[[Category:Premier League players]]
+[[Category:Swansea City A.F.C. players]]
+[[Category:Tottenham Hotspur F.C. players]]
+[[Category:Spain youth international footballers]]
+[[Category:Spain under-21 international footballers]]
+[[Category:Spain international footballers]]
+[[Category:2009 FIFA Confederations Cup players]]
+[[Category:2010 FIFA World Cup players]]
+[[Category:UEFA Euro 2012 players]]
+[[Category:FIFA World Cup-winning players]]
+[[Category:UEFA European Championship-winning players]]
+[[Category:Spanish expatriate footballers]]
+[[Category:Expatriate footballers in Italy]]
+[[Category:Expatriate footballers in Wales]]
+[[Category:Expatriate footballers in England]]
+[[Category:Spanish expatriate sportspeople in Italy]]
+[[Category:Spanish expatriate sportspeople in Wales]]
+[[Category:Spanish expatriate sportspeople in England]]
+[[Category:UEFA Europa League winning players]]</text>
+      <sha1>dxapn4tf4kgpuasqfhwjqchovmoe8mw</sha1>
+    </revision>
+  </page>
+</mediawiki>

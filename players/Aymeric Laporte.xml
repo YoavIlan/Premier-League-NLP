@@ -1,0 +1,248 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Aymeric Laporte</title>
+    <ns>0</ns>
+    <id>37835680</id>
+    <revision>
+      <id>885511311</id>
+      <parentid>884915348</parentid>
+      <timestamp>2019-02-28T13:57:20Z</timestamp>
+      <contributor>
+        <ip>193.137.135.2</ip>
+      </contributor>
+      <comment>/* Honours */ Spacings.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27037">{{Use dmy dates|date=August 2018}}
+{{Infobox football biography
+| name = Aymeric Laporte
+| image = Aymeric Laporte and Leo Messi.jpg
+| image_size = 200
+| caption = Laporte (left) playing for [[Athletic Bilbao]] in 2014
+| fullname = Aymeric Jean Louis Gerard Alphonse Laporte&lt;ref&gt;{{cite web|url=https://www.thefa.com/-/media/files/thefaportal/governance-docs/registrations/january-2018.ashx|title=List of Players under Written Contract Registered Between 01/01/2018 and 31/01/2018|publisher=[[The Football Association]]|page=5|format=PDF|accessdate=21 April 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1994|5|27|df=y}}&lt;ref&gt;{{cite web|url=https://www.11v11.com/players/aymeric-laporte-254251/|title=Aymeric Laporte|website=11v11.com|publisher=AFS Enterprises|accessdate=11 July 2018}}&lt;/ref&gt;
+| birth_place = [[Agen]], France
+| height = 1.91 m&lt;ref&gt;{{cite web|url=https://uk.soccerway.com/players/aymeric--laporte/182904/|title=A. Laporte|website=Soccerway|publisher=Perform Group|accessdate=11 July 2018}}&lt;/ref&gt;
+| position = [[Defender (association football)#Centre-back|Centre back]]
+| currentclub = [[Manchester City F.C.|Manchester City]] 
+| clubnumber = 14
+| youthyears1 = 2000–2009 | youthclubs1 = [[SU Agen Football|SU Agen]]
+| youthyears2 = 2009–2010 | youthclubs2 = [[Aviron Bayonnais FC|Bayonne]]
+| youthyears3 = 2010–2011 | youthclubs3 = [[Athletic Bilbao cantera|Athletic Bilbao]]
+| years1 = 2011–2012 | clubs1 = [[CD Basconia|Basconia]] | caps1 = 33 | goals1 = 2
+| years2 = 2012 | clubs2 = [[Bilbao Athletic]] | caps2 = 8 | goals2 = 0
+| years3 = 2012–2018 | clubs3 = [[Athletic Bilbao]] | caps3 = 161 | goals3 = 7
+| years4 = 2018– | clubs4 = [[Manchester City F.C.|Manchester City]] | caps4 = 35 | goals4 = 2
+| nationalyears1 = 2011 | nationalteam1 = [[France national under-17 football team|France U17]] | nationalcaps1 = 11 | nationalgoals1 = 1
+| nationalyears2 = 2011–2012 | nationalteam2 = [[France national under-18 football team|France U18]] | nationalcaps2 = 9 | nationalgoals2 = 0
+| nationalyears3 = 2012–2013 | nationalteam3 = [[France national under-19 football team|France U19]] | nationalcaps3 = 12 | nationalgoals3 = 1
+| nationalyears4 = 2013–2016 | nationalteam4 = [[France national under-21 football team|France U21]] | nationalcaps4 = 19 | nationalgoals4 = 1
+| club-update = 10:45, 7 February 2019 (UTC)
+| nationalteam-update =
+}}
+'''Aymeric Jean Louis Gerard Alphonse Laporte''' ({{IPA-fr|ɛməʁik lapɔʁt}}; born 27 May 1994) is a French professional [[Association football|footballer]] who plays as a [[Defender (association football)#Centre-back|centre back]] for {{English football updater|ManchesC}} club [[Manchester City F.C.|Manchester City]].
+
+After joining [[Athletic Bilbao]] in 2010 at the age of 16, he became only the second French player – after [[Bixente Lizarazu]] – to play for them,&lt;ref&gt;{{cite web|url=http://msn.foxsports.com/foxsoccer/europaleague/story/apoel-kiryat-shmona-0-2-athletic-bilbao-europa-league-match-report-112812h|title=Athletic Bilbao makes easy work of Hapoel IKS|publisher=[[Fox Sports]]|date=29 November 2012|accessdate=8 December 2012}}&lt;/ref&gt; going on to make 220 competitive appearances for the club and score ten goals. In January 2018, he signed for Manchester City.&lt;ref&gt;{{cite news|url=http://www.abc.es/deportes/futbol/abci-laporte-posa-como-jugador-5722453230001-20180130015032_video.html|title=Laporte ya posa como jugador del Manchester City|trans-title=Laporte already posing as a Manchester City player|newspaper=[[ABC (newspaper)|ABC]]|location=Madrid|language=Spanish|date=30 January 2018|accessdate=30 January 2018}}&lt;/ref&gt;
+
+Laporte won 51 [[Cap (sport)|caps]] for [[France national youth football team|France at youth level]].
+
+==Club career==
+===Athletic Bilbao===
+Laporte was born in [[Agen]], [[Aquitaine]] and is of [[Basques|Basque]] descent through his great-grandparents.&lt;ref name=Blood&gt;{{cite web|url=http://bizkaia.eldesmarque.com/athletic-club/noticias/36668-laporte-tengo-sangre-vasca-por-parte-de-mis-bisabuelos|title=Laporte: "Tengo sangre vasca por parte de mis bisabuelos"|trans-title=Laporte: "I have Basque blood through my great-grandparents"|publisher=El Desmarque|first=Javi|last=Beltrán|language=Spanish|date=25 July 2013|accessdate=11 April 2016}}&lt;/ref&gt; He started playing football and [[Rugby football|rugby]] at the age of five, and began his development at [[SU Agen Football]].&lt;ref&gt;{{cite web|url=http://www.footmercato.net/liga/entretien-avec-aymeric-laporte-s-entrainer-avec-fernando-llorente-ce-n-est-pas-donne-a-tout-le_94518|title=Entretien avec... Aymeric Laporte|trans-title=Interview with... Aymeric Laporte|website=Foot Mercato|first=Khaled|last=Karouri|language=French|date=4 November 2012|accessdate=26 May 2013}}&lt;/ref&gt;&lt;ref name=Among&gt;{{cite web|url=http://onlyfootball.fr/?p=513|title=Aymeric Laporte, un Basque parmi les Basques|trans-title=Aymeric Laporte, a Basque among the Basques|website=Only Football|language=French|date=14 May 2013|accessdate=12 July 2017}}&lt;/ref&gt;&lt;ref name=Bio&gt;{{cite web|url=http://www.aymericlaporte.com/en/bio/|title=Biography – Athletic Bilbao signing and beginnings|publisher=Official website|accessdate=22 June 2017}}&lt;/ref&gt; In 2009 he was invited to join [[Athletic Bilbao]] after being scouted,&lt;ref name=Among/&gt;&lt;ref name=Bio/&gt; prompting debate over whether his signing met the criteria of [[Athletic Bilbao signing policy|their policy]] due to his tenuous links to the [[Basque Country (greater region)|Basque region]];&lt;ref name=Blood/&gt;&lt;ref name=Among/&gt;&lt;ref name=Butterflies&gt;{{cite web|url=http://www.sofoot.com/aymeric-laporte-a-arrete-de-regarder-les-papillons-173450.html|title=Aymeric Laporte a "arrêté de regarder les papillons"|trans-title=Aymeric Laporte "stopped watching the butterflies"|website=So Foot|language=French|date=26 September 2013|accessdate=12 July 2017}}&lt;/ref&gt; by arrangement with the club, he spent a season with [[Aviron Bayonnais FC]]&lt;ref name=Bio/&gt;&lt;ref name=Butterflies/&gt; as he was too young to move outside France at the time.
+
+Laporte arrived in [[Bilbao]] formally in 2010, joining Athletic's youth setup at [[Lezama Facilities|Lezama]] and going on to play for its [[CD Basconia|farm]] and [[Bilbao Athletic|reserve teams]].&lt;ref&gt;{{cite news|url=http://www.lavanguardia.com/deportes/20120428/54286365543/aymeric-laporte-cachorro-valioso.html|title=Aymeric Laporte, el cachorro más valioso|trans-title=Aymeric Laporte, most valuable pup|newspaper=[[La Vanguardia]]|first=Roberto|last=Rodríguez|location=Barcelona|language=Spanish|date=28 April 2012|accessdate=15 May 2013}}&lt;/ref&gt; On 28 November 2012 he was given his debut with the main squad by manager [[Marcelo Bielsa]],&lt;ref&gt;{{cite web|url=https://sport.sfr.fr/football/premier-league/de-bielsa-a-guardiola-laporte-raconte-ses-mentors.html|title=De Bielsa à Guardiola: Laporte raconte ses mentors|trans-title=From Bielsa to Guardiola: Laporte tells his mentors|publisher=[[SFR]]|language=French|date=25 February 2018|accessdate=5 June 2018}}&lt;/ref&gt; playing the full 90 minutes in a 2–0 away win against [[Hapoel Ironi Kiryat Shmona F.C.]] for [[2012–13 UEFA Europa League|the season]]'s [[UEFA Europa League]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2013/matches/round=2000356/match=2010004/index.html|title=Athletic post comfortable Kiryat Shmona win|publisher=UEFA|date=28 November 2012|accessdate=5 December 2012}}&lt;/ref&gt;
+
+Laporte made his first [[La Liga]] appearance on 9 December 2012, appearing one minute in a 1–0 home win over [[Celta de Vigo]].&lt;ref&gt;{{cite news|url=http://www.marca.com/eventos/marcador/futbol/2012_13/primera/jornada_15/ath_cel/|title=El Athletic tiene suficiente con Aduriz|trans-title=Athletic have enough with Aduriz|newspaper=[[Marca (newspaper)|Marca]]|first=Delfín|last=Melero|location=Madrid|language=Spanish|date=9 December 2012|accessdate=10 December 2012}}&lt;/ref&gt; He was inserted in the starting XI the following week, helping the ''Lions'' to the same result at [[RCD Mallorca]],&lt;ref&gt;{{cite web|url=http://espnfc.com/uk/en/report/348361/report.html?soccernet=true&amp;cc=5739|title=Aduriz wins it for Bilbao|publisher=[[ESPN FC|ESPN Soccernet]]|date=15 December 2012|accessdate=16 December 2012}}&lt;/ref&gt; and was definitely promoted to the first team shortly after, signing a new contract until 2015;&lt;ref&gt;{{cite web|url=http://www.athletic-club.eus/cas/noticias/12731/laporte-jugador-de-la-primera-plantilla.html|title=Laporte, jugador de la primera plantilla|trans-title=Laporte, first-team player|publisher=Athletic Bilbao|language=Spanish|date=17 December 2012|accessdate=21 January 2015}}&lt;/ref&gt; on 14 January 2013, he was given the number 4 jersey previously worn by [[Ustaritz Aldekoaotalora|Ustaritz]],&lt;ref&gt;{{cite web|url=http://www.athletic-club.eus/cas/noticias/12779/dorsal-de-aymeric-laporte.html|title=Dorsal de Aymeric Laporte|trans-title=Aymeric Laporte's number|publisher=Athletic Bilbao|language=Spanish|date=14 January 2013|accessdate=21 January 2015}}&lt;/ref&gt; and late in the month he renewed his contract, running until 2016 and with a €27.5&amp;nbsp;million release clause.&lt;ref&gt;{{cite news|url=http://www.marca.com/2013/01/28/futbol/equipos/athletic/1359380216.html|title=Laporte renueva hasta 2016|trans-title=Laporte renews until 2016|newspaper=Marca|first=Rafa|last=Beato|location=Madrid|language=Spanish|date=28 January 2013|accessdate=22 April 2014}}&lt;/ref&gt;
+
+Laporte became an undisputed starter under new coach [[Ernesto Valverde]], also being deployed as [[Defender (association football)#Full-back|left back]] on occasion.&lt;ref&gt;{{cite web|url=http://www.ligabbva.es/3228_athletic-de-bilbao/2160744_valverde-prueba-a-laporte-de-lateral-y-saborit-de-interior.html|title=Valverde prueba a Laporte de lateral y Saborit de interior|trans-title=Valverde tries Laporte as fullback and Saborit as winger|publisher=Liga BBVA|language=Spanish|date=6 August 2013|accessdate=22 October 2016|deadurl=yes|archiveurl=https://archive.is/20131212163520/http://www.ligabbva.es/3228_athletic-de-bilbao/2160744_valverde-prueba-a-laporte-de-lateral-y-saborit-de-interior.html|archivedate=12 December 2013|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.marca.com/2013/10/03/futbol/equipos/athletic/1380786727.html|title=Charla de Valverde con Laporte|trans-title=Valverde lectures Laporte|newspaper=Marca|first=M.|last=Uriarte|location=Madrid|language=Spanish|date=3 October 2013|accessdate=12 December 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.mundodeportivo.com/20131207/athletic-bilbao/un-descanso-para-laporte-y-entran-aduriz-moran-y-etxeita_54395264363.html|title=Un descanso para Laporte y entran Aduriz, Morán y Etxeita|trans-title=Rest for Laporte, in with Aduriz, Morán and Etxeita|newspaper=[[Mundo Deportivo]]|first=Alberto|last=García|location=Barcelona|language=Spanish|date=7 December 2013|accessdate=12 December 2013}}&lt;/ref&gt; He scored his first goal as a professional on 28 October 2013, netting the game's only at [[Getafe CF]].&lt;ref&gt;{{cite web|url=http://espnfc.com/en/report/373118/report.html?soccernet=true&amp;cc=null|title=Laporte earns win for Bilbao|publisher=ESPN FC|date=28 October 2013|accessdate=22 October 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20131207132838/http://espnfc.com/en/report/373118/report.html?soccernet=true&amp;cc=null|archivedate=7 December 2013|df=dmy-all}}&lt;/ref&gt; At the end of [[2013–14 La Liga|the campaign]], he was voted into the [[LFP Awards#Team of the Year|La Liga Team of the Year]] by the reporters of the [[Liga de Fútbol Profesional]].&lt;ref name=2014a&gt;{{cite web|url=http://www.laliga.es/en/news/the-liga-bbva-team-of-the-season|title=The Liga BBVA team of the season|publisher=[[La Liga]]|date=19 May 2014|accessdate=24 January 2016}}&lt;/ref&gt;&lt;ref name=2014b&gt;{{cite web|url=http://www.insidespanishfootball.com/108784/lfp-reporters-choose-their-la-liga-ideal-eleven-for-2013-14/|title=LFP reporters choose their La Liga 'Ideal Eleven' for 2013–14|publisher=Inside Spanish Football|first=Heath|last=Chesters|date=19 May 2014|accessdate=24 January 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160130072042/http://www.insidespanishfootball.com/108784/lfp-reporters-choose-their-la-liga-ideal-eleven-for-2013-14/|archivedate=30 January 2016}}&lt;/ref&gt;
+
+In June 2015, Laporte extended his link until 2019 with a release clause of €50&amp;nbsp;million.&lt;ref&gt;{{Cite web|url=http://www.espnfc.com/athletic-bilbao/story/2480397/aymeric-laporte-signs-four-year-athletic-bilbao-deal|title=Aymeric Laporte signs four-year deal to remain at Athletic Bilbao|publisher=ESPN FC|date=5 June 2015|accessdate=28 August 2015}}&lt;/ref&gt; After [[2015 Copa del Rey Final|losing the final]] of the [[Copa del Rey]] to [[FC Barcelona]],&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2015/may/30/athletic-bilbao-barcelona-copa-del-rey-final-match-report|title=Lionel Messi double gives Barcelona Cup final win over Athletic Bilbao|newspaper=[[The Guardian]]|first=Sid|last=Lowe|date=30 May 2015|accessdate=31 January 2018}}&lt;/ref&gt; he played both legs of [[2015 Supercopa de España|the year]]'s [[Supercopa de España]] triumph against the same opposition, Athletic's first silverware for 31 years.&lt;ref&gt;{{cite web|url=http://www.espnfc.co.uk/spanish-super-cup/match/427686/athletic-bilbao-barcelona/report|title=Barcelona stunned 4–0 by Athletic Bilbao in first leg of Super Cup|publisher=ESPN FC|date=14 August 2015|accessdate=11 April 2016}}&lt;/ref&gt;&lt;ref name=SUPERCUP&gt;{{cite web|url=http://www.espnfc.co.uk/spanish-super-cup/match/427685/barcelona-athletic-bilbao/report|title=Athletic Bilbao manage draw at Barcelona to win Spanish Super Cup|publisher=ESPN FC|date=17 August 2015|accessdate=11 April 2016}}&lt;/ref&gt;
+
+On 13 June 2016, Laporte renewed his contract until 2020, with his buyout clause rising to an initial €65&amp;nbsp;million.&lt;ref&gt;{{Cite web|url=http://www.espnfc.co.uk/story/2892534/aymeric-laporte-signs-new-athletic-bilbao-contract|title=Aymeric Laporte signs new Athletic Bilbao contract until 2020|publisher=ESPN FC|date=13 June 2016|access-date=14 June 2016}}&lt;/ref&gt;
+
+===Manchester City===
+Near the end of the winter transfer window of January 2018, Laporte signed for [[Manchester City F.C.|Manchester City]] for a reported fee of £57&amp;nbsp;million (his contractual [[release clause]] amount and a record-breaking figure for both clubs). He was given the number 14 jersey,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42873612|title=Aymeric Laporte: Manchester City sign French defender for club-record £57m|publisher=[[BBC Sport]]|date=30 January 2018|accessdate=30 January 2018}}&lt;/ref&gt; while Athletic immediately spent around half of the fee on [[Iñigo Martínez]] as a replacement.&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/athletic-bilbao-sign-martinez-from-real-sociedad/g2qcqw6nfa8t1fj74qrh862fb|title=Athletic Bilbao sign Inigo Martinez to replace Aymeric Laporte|publisher=[[Goal (website)|Goal]]|date=30 January 2018|accessdate=30 January 2018}}&lt;/ref&gt; He made his [[Premier League]] debut the following day, playing the entire 3–0 home win against [[West Bromwich Albion F.C.|West Bromwich Albion]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42799045|title=Manchester City 3–0 West Bromwich Albion|publisher=BBC Sport|first=Mike|last=Henson|date=31 January 2018|accessdate=31 January 2018}}&lt;/ref&gt;
+
+Laporte scored his first goal for City on 25 August 2018, equalising against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in a 1–1 away draw.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45230636|title=Wolverhampton Wanderers 1–1 Manchester City|publisher=BBC Sport|first=Phil|last=McNulty|date=25 August 2018|accessdate=25 August 2018}}&lt;/ref&gt;
+
+==International career==
+Laporte represented [[France national football team|France]] at [[France national under-17 football team|under-17]], [[France national under-18 football team|under-18]], [[France national under-19 football team|under-19]] and [[France national under-21 football team|under-21 levels]],&lt;ref&gt;{{cite news|url=http://www.mundodeportivo.com/20140227/futbol/laporte-convocado-para-la-sub-21-por-francia_54402647025.html|title=Laporte, convocado para la sub 21 por Francia|trans-title=Laporte, called up to France under-21|newspaper=Mundo Deportivo|location=Barcelona|language=Spanish|date=27 February 2014|accessdate=22 April 2014}}&lt;/ref&gt; [[Captain (association football)|captaining]] each side.&lt;ref name=Spain&gt;{{cite news|url=http://www.espnfc.co.uk/european-championship-qualifying/story/2652467/athletic-bilbao-aymeric-laporte-would-consider-spain-call|title=Athletic Bilbao's Aymeric Laporte would consider Spain call|publisher=ESPN FC|date=7 October 2015|accessdate=11 April 2016}}&lt;/ref&gt; He was part of the under-19 team that came runners-up to [[Serbia national under-19 football team|Serbia]] in the [[2013 UEFA European Under-19 Championship|2013 UEFA European Championship]] in Lithuania, and was selected in the Team of the Tournament.&lt;ref name=UEFA&gt;{{cite web|url=http://www.uefa.com/under19/season=2013/technical-report/tr-under19-2013.pdf|title=Technical report|publisher=UEFA|pages=18&amp;ndash;19|format=PDF|accessdate=11 April 2016}}&lt;/ref&gt;
+
+On 24 March 2016, in a [[2017 UEFA European Under-21 Championship qualification|2017 European Under-21 Championship qualifier]] against [[Scotland national under-21 football team|Scotland]] in [[Angers]], Laporte was stretchered off with a fracture and dislocation to his right [[fibula]] and ankle, concluding his season prematurely.&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/sport/football/transfers/aymeric-laporte-injury-manchester-city-transfer-plans-dealt-a-blow-as-top-target-suffers-serious-a6951786.html|title=Aymeric Laporte injury: Manchester City transfer plans dealt a blow as top target suffers fractured ankle|newspaper=[[The Independent]]|location=London|last=De Menezes|first=Jack|date=25 March 2016|accessdate=11 April 2016}}&lt;/ref&gt; Previously, in October 2015, he stated that he would consider representing [[Spain national football team|Spain]] if rejected by France for [[UEFA Euro 2016]].&lt;ref name=Spain/&gt;
+
+In August 2016, at the behest of new national manager [[Julen Lopetegui]], Laporte began the process of making himself eligible for Spain.&lt;ref&gt;{{cite news|url=http://www.marca.com/futbol/seleccion/2016/08/30/57c489e146163f72308b4591.html|title=Lopetegui 'ficha' a Laporte|trans-title=Lopetegui 'signs' Laporte|newspaper=Marca|first=Enrique|last=Ortego|location=Madrid|language=Spanish|date=30 August 2016|accessdate=18 September 2016}}&lt;/ref&gt; A month later, he was called up to the senior France squad for [[2018 FIFA World Cup]] [[2018 FIFA World Cup qualification (UEFA)|qualifiers]] against [[Bulgaria national football team|Bulgaria]] and the [[Netherlands national football team|Netherlands]] in October,&lt;ref&gt;{{cite news|url=http://sport24.lefigaro.fr/football/euro-2012/equipe-de-france/actualites/deschamps-appelle-laporte-et-laisse-giroud-a-la-maison-826710|title=Équipe de France: Laporte arrive, Fekir revient|trans-title=France team: Laporte arrives, Fekir returns|newspaper=[[Le Figaro]]|location=Paris|language=French|date=29 September 2016|accessdate=30 September 2016}}&lt;/ref&gt; and stated he had decided not to apply for Spanish nationality with the continued aim of playing for France.&lt;ref&gt;{{cite news|url=http://rmcsport.bfmtv.com/football/aymeric-laporte-je-pouvais-prendre-la-nationalite-espagnole-je-ne-l-ai-pas-fait-1043930.html |title=Aymeric Laporte: "Je pouvais prendre la nationalité espagnole, je ne l’ai pas fait"|trans-title=Aymeric Laporte: "I could take Spanish nationality, I did not do so"|publisher=[[BFM TV]]|language=French|date=3 October 2016|accessdate=16 June 2017}}&lt;/ref&gt; He did not take part in either match.
+
+==Style of play==
+Spanish football journalist [[Guillem Balagué]] described Laporte as a "centre-back who can play from the back and is strong", adding that "he is certainly a powerful defender".&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/news/12037/11220803/man-city-likely-to-sign-aymeric-laporte-for-60m-says-guillem-balague|title=Man City likely to sign Aymeric Laporte for £60m, says Guillem Balagué|publisher=[[Sky Sports]]|first=Guillem|last=Balagué|date=24 January 2018|accessdate=22 February 2018}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 6 February 2019}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup{{efn|Includes [[Copa del Rey]] and [[FA Cup]]}}
+!colspan="2"|League Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[CD Basconia|Basconia]] 
+|[[2011–12 Tercera División|2011–12]]&lt;ref&gt;{{cite web|url=https://www.athletic-club.eus/en/players/2006/laporte.html|title=Laporte|publisher=Athletic Bilbao|accessdate=8 August 2018}}&lt;/ref&gt;
+|[[Tercera División]]
+|33||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||33||2
+|-
+|[[Bilbao Athletic]] 
+|[[2012–13 Segunda División B|2012–13]]&lt;ref name="BD1213"/&gt;
+|[[Segunda División B]]
+|8||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0||8||0
+|-
+|rowspan="7"|[[Athletic Bilbao]] 
+|[[2012–13 Athletic Bilbao season|2012–13]]&lt;ref name="BD1213"&gt;{{cite web |url=https://www.bdfutbol.com/en/p/j201979.html?temp=2012-13 |title=Laporte: Aymeric Laporte: Matches: 2012–13 |publisher=BDFutbol |accessdate=8 August 2018}}&lt;/ref&gt;
+|[[La Liga]]
+|15||0||0||0||colspan="2"|—||2{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||17||0
+|-
+|[[2013–14 Athletic Bilbao season|2013–14]]&lt;ref name="BD1314"&gt;{{cite web |url=https://www.bdfutbol.com/en/p/j201979.html?temp=2013-14 |title=Laporte: Aymeric Laporte: Matches: 2013–14 |publisher=BDFutbol |accessdate=8 August 2018}}&lt;/ref&gt;
+|La Liga
+|35||2||3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||38||2
+|-
+|[[2014–15 Athletic Bilbao season|2014–15]]&lt;ref name="BD1415"&gt;{{cite web |url=https://www.bdfutbol.com/en/p/j201979.html?temp=2014-15 |title=Laporte: Aymeric Laporte: Matches: 2014–15 |publisher=BDFutbol |accessdate=8 August 2018}}&lt;/ref&gt;
+|La Liga
+|33||0||7||0||colspan="2"|—||9{{efn|Seven appearances in [[UEFA Champions League]], two appearances in UEFA Europa League}}||0||colspan="2"|—||49||0
+|-
+|[[2015–16 Athletic Bilbao season|2015–16]]&lt;ref name="BD1516"&gt;{{cite web |url=https://www.bdfutbol.com/en/p/j201979.html?temp=2015-16 |title=Laporte: Aymeric Laporte: Matches: 2015–16 |publisher=BDFutbol |accessdate=8 August 2018}}&lt;/ref&gt;
+|La Liga
+|26||3||5||2||colspan="2"|—||12{{efn|name=UEL}}||0||2{{efn|name=SDE|Appearances in [[Supercopa de España]]}}||0||45||5
+|-
+|[[2016–17 Athletic Bilbao season|2016–17]]&lt;ref name="BD1617"&gt;{{cite web |url=https://www.bdfutbol.com/en/p/j201979.html?temp=2016-17 |title=Laporte: Aymeric Laporte: Matches: 2016–17 |publisher=BDFutbol |accessdate=8 August 2018}}&lt;/ref&gt;
+|La Liga
+|33||2||4||0||colspan="2"|—||6{{efn|name=UEL}}||0||colspan="2"|—||43||2
+|-
+|[[2017–18 Athletic Bilbao season|2017–18]]&lt;ref name="BD1718"&gt;{{cite web |url=https://www.bdfutbol.com/en/p/j201979.html?temp=2017-18 |title=Laporte: Aymeric Laporte: Matches: 2017–18 |publisher=BDFutbol |accessdate=8 August 2018}}&lt;/ref&gt;
+|La Liga
+|19||0||1||0||colspan="2"|—||10{{efn|name=UEL}}||1||colspan="2"|—||30||1
+|-
+!colspan="2"|Total
+!161||7||20||2||colspan="2"|—||39||1||2||0||222||10
+|-
+|rowspan=3|[[Manchester City F.C.|Manchester City]] 
+|[[2017–18 Manchester City F.C. season|2017–18]]&lt;ref name="sb1718"&gt;{{soccerbase season|68462|2017|accessdate=8 August 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|9||0||1||0||0||0||3{{efn|name=UCL|Appearances in UEFA Champions League}}||0||colspan="2"|—||13||0
+|-
+|[[2018–19 Manchester City F.C. season|2018–19]]&lt;ref name="sb1819"&gt;{{soccerbase season|68462|2018|accessdate=25 November 2018}}&lt;/ref&gt;
+|Premier League
+|26||2||0||0||0||0||6{{efn|name=UCL}}||2||1{{efn|Appearance in [[FA Community Shield]]}}||0||33||4
+|-
+!colspan="2"|Total
+!35||2||1||0||0||0||9||2||1||0||46||4
+|-
+!colspan="3"|Career total
+!237||11||21||2||0||0||48||3||3||0||309||16
+|}
+
+{{notelist}}
+
+==Honours==
+'''Athletic Bilbao'''
+*[[Supercopa de España]]: [[2015 Supercopa de España|2015]]&lt;ref name=SUPERCUP/&gt;
+
+'''Manchester City'''
+*[[Premier League]]: [[2017–18 Premier League|2017–18]]&lt;ref&gt;{{cite web|url=https://www.premierleague.com/players/11044/Aymeric-Laporte/overview|title=Aymeric Laporte: Overview|publisher=Premier League|accessdate=15 May 2018}}&lt;/ref&gt;
+*[[EFL Cup]]: [[2017–18 EFL Cup|2017–18]],&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/43101681|title=Arsenal 0–3 Manchester City|publisher=BBC Sport|first=Phil|last=McNulty|date=25 February 2018|accessdate=25 February 2018}}&lt;/ref&gt; [[2018–19 EFL Cup|2018–19]]&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/47268861|title=Chelsea 0–0 Manchester City|first=Phil|last=McNulty|publisher=BBC Sport|date=24 February 2019|accessdate=24 February 2019}}&lt;/ref&gt;
+*[[FA Community Shield]]: [[2018 FA Community Shield|2018]]&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44995783|title=Chelsea 0–2 Manchester City|publisher=BBC Sport|first=Chris|last=Bevan|date=5 August 2018|accessdate=7 August 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*[[UEFA European Under-19 Championship]] Team of the Tournament: [[2013 UEFA European Under-19 Championship#Team of the Tournament|2013]]&lt;ref name="UEFA"/&gt;
+*[[LFP Awards#Team of the Year|La Liga Team of the Year]]: [[2013–14 La Liga|2013–14]]&lt;ref name="2014a"/&gt;&lt;ref name="2014b"/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Athletic Bilbao profile|id=2006/laporte}}
+*{{BDFutbol}}
+*{{soccerbase|68462}}
+*[http://www.fff.fr/equipes-de-france/tous-les-joueurs/fiche-joueur/300536374-aymeric-laporte French Football Federation profile] {{fr icon}}
+*{{UEFA player}}
+*{{FIFA player}}
+
+{{Manchester City F.C. squad}}
+{{2013–14 La Liga Team of the Year}}
+
+{{DEFAULTSORT:Laporte, Aymeric}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Agen]]
+[[Category:French people of Basque descent]]
+[[Category:French footballers]]
+[[Category:Association football defenders]]
+[[Category:Aviron Bayonnais FC players]]
+[[Category:La Liga players]]
+[[Category:Segunda División B players]]
+[[Category:Tercera División players]]
+[[Category:CD Basconia footballers]]
+[[Category:Bilbao Athletic footballers]]
+[[Category:Athletic Bilbao footballers]]
+[[Category:Premier League players]]
+[[Category:Manchester City F.C. players]]
+[[Category:France youth international footballers]]
+[[Category:France under-21 international footballers]]
+[[Category:French expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:French expatriate sportspeople in England]]
+[[Category:French expatriate sportspeople in Spain]]</text>
+      <sha1>jdct80x8ckdm7kdqes4nkt0wce0enpl</sha1>
+    </revision>
+  </page>
+</mediawiki>

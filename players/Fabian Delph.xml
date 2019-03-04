@@ -1,0 +1,347 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Fabian Delph</title>
+    <ns>0</ns>
+    <id>11098110</id>
+    <revision>
+      <id>884933902</id>
+      <parentid>884916630</parentid>
+      <timestamp>2019-02-24T23:12:01Z</timestamp>
+      <contributor>
+        <username>Iggy the Swan</username>
+        <id>31885086</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/141.8.50.119|141.8.50.119]] ([[User talk:141.8.50.119|talk]]): You'd need sources for those ([[WP:TW|2019 Swan]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="42078">{{Use British English|date=November 2017}}
+{{Use dmy dates|date=November 2017}}
+{{Infobox football biography
+| name                = Fabian Delph
+| image               = MC-Shahter (1).jpg
+| image_size          = 200
+| caption             = Delph playing for [[Manchester City F.C.|Manchester City]] in 2017
+| fullname            = Fabian Delph&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=12 February 2018}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1989|11|21|df=y}}&lt;ref&gt;{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |location=Edinburgh |isbn=978-1-84596-601-0 |page=114}}&lt;/ref&gt;
+| birth_place         = [[Bradford]], England
+| height              = {{convert|1.74|m|order=flip}}&lt;ref name=Soccerway&gt;{{cite web |url=https://uk.soccerway.com/players/fabian-delph/53097/ |title=F. Delph: Summary |website=Soccerway |publisher=Perform Group |accessdate=25 November 2018}}&lt;/ref&gt;
+| position            = [[Midfielder]] / [[Left-back]]
+| currentclub         = [[Manchester City F.C.|Manchester City]]
+| clubnumber          = 18
+| youthyears1         = 2000–2001
+| youthclubs1         = [[Bradford City A.F.C.|Bradford City]]
+| youthyears2         = 2001–2006
+| youthclubs2         = [[Leeds United F.C.|Leeds United]]
+| years1              = 2006–2009
+| clubs1              = [[Leeds United F.C.|Leeds United]]
+| caps1               = 44
+| goals1              = 6
+| years2              = 2009–2015
+| clubs2              = [[Aston Villa F.C.|Aston Villa]]
+| caps2               = 112
+| goals2              = 3
+| years3              = 2012
+| clubs3              = → [[Leeds United F.C.|Leeds United]] (loan)
+| caps3               = 5
+| goals3              = 0
+| years4              = 2015–
+| clubs4              = [[Manchester City F.C.|Manchester City]]
+| caps4               = 57
+| goals4              = 4
+| nationalyears1      = 2008
+| nationalteam1       = [[England national under-19 football team|England U19]]
+| nationalcaps1       = 2
+| nationalgoals1      = 0
+| nationalyears2      = 2008–2009
+| nationalteam2       = [[England national under-21 football team|England U21]]
+| nationalcaps2       = 4
+| nationalgoals2      = 0
+| nationalyears3      = 2014–
+| nationalteam3       = [[England national football team|England]]
+| nationalcaps3       = 18
+| nationalgoals3      = 0
+| club-update         = 12:51, 27 January 2019 (UTC)
+| nationalteam-update = 00:41, 25 November 2018 (UTC)
+}}
+'''Fabian Delph''' (born 21 November 1989) is an English professional [[Association football|footballer]] who plays as a [[midfielder]] or a [[left-back]] for {{English football updater|ManchesC}} club [[Manchester City F.C.|Manchester City]] and the [[England national football team|English national team]].
+
+He was on the books of [[Bradford City A.F.C.|Bradford City]] as a youngster until he moved to [[Leeds United F.C.|Leeds United]] aged 11. Having played 45 matches for Leeds at [[EFL League One|League One]] level and once in the [[EFL Championship|Championship]], he transferred to Premier League club [[Aston Villa F.C.|Aston Villa]] in August 2009 for £6&amp;nbsp;million. In 2012, he returned to Leeds for a short loan spell. Delph had a successful start to the [[2012–13 Premier League]] season, leading Villa manager [[Paul Lambert]] to call for his inclusion in the England squad.&lt;ref&gt;{{cite news |publisher=Sky Sports |date=6 October 2013 |title=Paul Lambert wants Fabian Delph to get called-up by England |url=http://www1.skysports.com/football/news/12016/8960270/paul-lambert-wants-fabian-delph-to-get-called-up-by-england}}&lt;/ref&gt; In July 2015, Delph joined Manchester City for £8 million.
+
+Delph represented England at under-19 and [[England national under-21 football team|under-21]] level and made his senior debut in a friendly against [[Norway national football team|Norway]] on 3 September 2014.
+
+==Club career==
+===Leeds United===
+[[File:Fabian Delph York City v. Leeds United 1.png|thumb|upright|Delph playing for [[Leeds United F.C.|Leeds United]] in 2009]]
+
+Born in [[Bradford]], West Yorkshire on 21 November 1989,&lt;ref name="leeds profile"&gt;{{cite web |url=http://origin-www.leedsunited.com/page/PlayerProfiles/0,,10273~39837,00.html |title=Fabian Delph |publisher=Leeds United F.C. |accessdate=30 March 2014 |archive-url=https://web.archive.org/web/20140331013825/http://origin-www.leedsunited.com/page/PlayerProfiles/0,,10273~39837,00.html |archive-date=31 March 2014 |dead-url=yes |df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{Cite book |title=Leeds United The Next Chapter: Official Handbook 2008/09 |publisher=Leeds United F.C. |year=2008}}&lt;/ref&gt; Delph started his career in football as a youngster at [[Bradford City A.F.C.|Bradford City]].&lt;ref&gt;{{cite news |url=http://www.thetelegraphandargus.co.uk/display.var.2034944.0.0.php |title=Youth team provide conveyor-belt of talent |accessdate=11 May 2008 |date=11 February 2008 |newspaper=Telegraph &amp; Argus |location=Bradford}}&lt;/ref&gt; Delph left City in September 2001 to join [[Leeds United F.C.|Leeds United]] after he was recommended to their academy coach [[Greg Abbott (footballer)|Greg Abbott]] by former Bradford manager [[Paul Jewell]], whose son played with Delph.&lt;ref&gt;{{Cite news |url=http://www.thetelegraphandargus.co.uk/sport/3674693.City_can_cash_in_on_Delph_progress/ |title=City can cash in on Delph progress |date=15 September 2008 |accessdate=30 March 2014 |newspaper=Telegraph &amp; Argus |location=Bradford |first=Simon |last=Parker}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |url=http://www.news-and-star.co.uk/carlisle_united/latest/1.339259|archive-url=https://archive.is/20120906133143/http://www.news-and-star.co.uk/carlisle_united/latest/1.339259|dead-url=yes|archivedate=6 September 2012 |title=Fab Leeds wonderkid set to take on Carlisle United |date=7 January 2009 |accessdate=16 January 2009 |newspaper=News and Star |location=Carlisle |first=Jon |last=Colman}}&lt;/ref&gt; He went to Tong Secondary School, which he left in 2006 to sign a two-year scholarship with Leeds United, at the age of 16 years.{{citation needed|date=April 2017}} He completed his studies at the partner school to Leeds, [[Boston Spa School]].{{citation needed|date=April 2017}}
+
+After a string of impressive performances in spring 2007, Delph was made [[captain (association football)|captain]] of the Leeds Reserves.&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-1083120/Leeds-insist-dodgy-deals-Delph-boy.html |title=Leeds insist there will be no dodgy deals for their Delph boy |first=Simon |last=Cass |newspaper=Daily Mail |date=5 November 2008 |accessdate=30 March 2014 |location=London}}{{Unreliable source?|date=April 2017}}&lt;/ref&gt; He was given his debut at Leeds as a substitute in the final match of the 2006–07 season against [[Derby County F.C.|Derby County]] on 6 May 2007, a match in which [[Robert Bayly]] was also given a debut for Leeds.&lt;ref name=sb0607/&gt; He was awarded his first professional contract on 11 January 2008,{{citation needed|date=April 2017}} and made two appearances for Leeds in the [[2007–08 Leeds United F.C. season|2007–08 season]], both as a substitute.&lt;ref name=sb0708/&gt;
+
+Delph impressed in the 2008–09 pre-season friendly against [[Barnet F.C.|Barnet]], earning praise from both manager [[Gary McAllister]]&lt;ref&gt;{{cite web |url=http://origin-www.leedsunited.com/news/fabs-chance-20080731_2247585_1355172 |archive-url=https://archive.today/20140331213122/http://origin-www.leedsunited.com/news/fabs-chance-20080731_2247585_1355172 |dead-url=yes |archive-date=31 March 2014 |title=Fab's chance |date=31 July 2008 |accessdate=30 March 2014 |publisher=Leeds United F.C. }}&lt;/ref&gt; and former Leeds player [[Eddie Gray (footballer, born 1948)|Eddie Gray]].&lt;ref&gt;{{cite web |url=http://109.228.17.149/phpbb/viewtopic.php?f=1&amp;t=774&amp;start=100#p18165|archive-url=https://web.archive.org/web/20140331011505/http://109.228.17.149/phpbb/viewtopic.php?f=1&amp;t=774&amp;start=100|dead-url=yes|archivedate=31 March 2014 |title=Mega News Men! Fab Fabian in Euro 2008 squad! |publisher=The Square Ball |date=26 July 2008 |accessdate=30 March 2014}}&lt;/ref&gt; He made his first [[EFL Cup|League Cup]] start in Leeds' 5–2 win away at [[Chester City F.C.|Chester City]] in the first round on 13 August 2008.{{citation needed|date=April 2017}} Having gained more first-team experience, on 5 September 2008, Delph signed a new four-year contract at Leeds.&lt;ref&gt;{{Cite web |url=http://origin-www.leedsunited.com/page/LatestNewsDetail/0,,10273~1385610,00.html |title=The future's Fab |date=5 September 2008 |accessdate=30 March 2014 |publisher=Leeds United F.C. }}{{Dead link|date=February 2019 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; He celebrated his new contract by scoring his first senior goal the following day as Leeds defeated [[Crewe Alexandra F.C.|Crewe Alexandra]] 5–2.&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_2/7588595.stm |title=Leeds 5–2 Crewe |date=6 September 2008 |accessdate=6 September 2008 |publisher=BBC Sport}}&lt;/ref&gt; He soon followed it up by scoring twice, both "superb goals" from long range, against [[Walsall F.C.|Walsall]] during a 3–0 win.&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_2/7674531.stm |title=Leeds 3–0 Walsall |date=25 October 2008 |accessdate=25 October 2008 |publisher=BBC Sport}}&lt;/ref&gt;
+
+Delph's form attracted the attention of Premier League managers, with [[Arsenal F.C.|Arsenal]]'s [[Arsène Wenger]] reported to be lining up a £6&amp;nbsp;million bid for the midfielder,&lt;ref&gt;{{Cite news |url=http://www.mirrorfootball.co.uk/news/Arsenal-weighing-up-pound-6m-bid-for-Leeds-star-Fabian-Delph-article33682.html |title=Arsenal weighing up £6m bid for Leeds star Fabian Delph |accessdate=30 March 2014 |newspaper=Daily Mirror |location=London}}&lt;/ref&gt; and [[Newcastle United F.C.|Newcastle United]] having a bid rejected by Leeds chairman [[Ken Bates]].&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-1082885/Leeds-reject-Newcastle-bid-midfield-maestro-Fabian-Delph-Arsenal-continue-circle.html |title=Leeds reject Newcastle bid for midfield maestro Fabian Delph as Arsenal continue to circle |date=4 November 2008 |accessdate=5 November 2008 |newspaper=Daily Mail |location=London}}{{Unreliable source?|date=April 2017}}&lt;/ref&gt; His performances also prompted [[Stuart Pearce]] to give Delph his first call-up to the [[England national under-21 football team|England under-21]] squad in November 2008.&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/s/sheff_utd/7722664.stm |title=England call for Blades' Naughton |date=11 November 2008 |accessdate=11 November 2008 |publisher=BBC Sport}}&lt;/ref&gt; He was a late substitute for [[Craig Gardner]] as England defeated [[Czech Republic national under-21 football team|Czech Republic]] to win his first under-21 cap on 18 November.&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/internationals/7736671.stm |title=England U21 2–0 Czech Rep U21 |date=18 November 2008 |accessdate=19 November 2008 |publisher=BBC Sport}}&lt;/ref&gt; During the January 2009 transfer window, Leeds rejected another two bids from Premier League for Delph, with Bates saying: "We explained to both clubs that we don't deal in petty cash."&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/l/leeds_united/7833086.stm |title=Leeds reject approaches for Delph |date=16 January 2009 |accessdate=16 January 2009 |publisher=BBC Sport}}&lt;/ref&gt; The following day he scored a "goal of genuine quality" against [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] by finding the top corner of the goal with a curling shot following a long run. Manager [[Simon Grayson]] said: "If he scores goals like that, his value is going to go up. It certainly won't go down."&lt;ref&gt;{{Cite news |url=http://www.thetelegraphandargus.co.uk/sport/football/footballleeds/4056468.Delph_strike_adds_to_growing_worth/ |title=Delph strike adds to growing worth |date=18 January 2009 |accessdate=18 January 2009 |newspaper=Telegraph &amp; Argus |location=Bradford}}&lt;/ref&gt; Despite the attention of Premier League managers, Delph remained with Leeds as the January transfer window closed.&lt;ref&gt;{{Cite news |url=http://www.yorkshirepost.co.uk/leeds/Leeds-hold-on-to-star.4937760.jp |title=Leeds hold on to star and make double signing |date=2 February 2009 |accessdate=2 February 2009 |newspaper=Yorkshire Post |location=Leeds |first=Richard |last=Sutcliffe}}&lt;/ref&gt;
+
+By March 2009, his performances during the 2008–09 season earned Delph a nomination for the League One player of the year, which was won by [[Leicester City F.C.|Leicester City's]] [[Matty Fryatt]], and helped him to win the young player of the year in the end of season [[Football League Awards]].&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/7971194.stm |title=Ebanks-Blake scoops League honour |date=30 March 2009 |accessdate=30 March 2009 |publisher=BBC Sport}}&lt;/ref&gt; The awards for the 2008–09 season did not end there, with Delph winning young player of the season, goal of the season, for his strike against Brighton and player's player of the season at the club awards.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/l/leeds_united/7999691.stm |title=Beckford and Delph win top awards |publisher=BBC Sport |date=15 April 2009 |accessdate=11 July 2015}}&lt;/ref&gt; After Leeds lost out in the playoff semi-finals against Millwall,&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/competitions/league-one/5325188/Leeds-United-1-Millwall-1-Agg-1-2-Match-report.html |location=London |newspaper=The Daily Telegraph |title=Leeds United 1 Millwall 1: Match report |date=14 May 2009}}&lt;/ref&gt; there was much speculation about Fabian's future at Leeds, however he did manage to play in Leeds' early pre-season matches, before ultimately Leeds turned down offers from other clubs and Delph completed his move to [[Aston Villa F.C.|Aston Villa]].{{citation needed|date=April 2017}}
+
+===Aston Villa===
+After Leeds failed to gain promotion from [[EFL League One|League One]], several [[Premier League]] clubs including [[Everton F.C.|Everton]],&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/l/leeds_united/8092928.stm |title=Leeds deny Delph link to Everton |publisher=BBC Sport |date=10 June 2009 |accessdate=11 July 2015}}&lt;/ref&gt; [[Manchester City F.C.|Manchester City]],&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/l/leeds_united/8143153.stm |title=Man City move for Leeds teenager |publisher=BBC Sport |date=1 August 2009 |accessdate=11 July 2015}}&lt;/ref&gt; [[Fulham F.C.|Fulham]], [[Sunderland A.F.C.|Sunderland]],&lt;ref&gt;{{cite news |url=http://www.skysports.com/story/0,19528,12876_5421672,00.html |title=Grayson – No bids for star duo |publisher=Sky Sports |accessdate=11 July 2015}}&lt;/ref&gt; [[Tottenham Hotspur F.C.|Tottenham Hotspur]]&lt;ref&gt;{{cite news |url=http://www1.skysports.com/football/news/11675/5455090 |title=Redknapp hails Delph |publisher=Sky Sports |accessdate=11 July 2015}}&lt;/ref&gt; and Aston Villa were linked with Delph. On 3 August 2009, Villa agreed an undisclosed fee with Leeds for the transfer of Delph to [[Villa Park]].&lt;ref&gt;{{Cite web |url=http://origin-www.leedsunited.com/news/fabian-delph-club-statement-20090803_2247585_1742285 |archive-url=https://archive.today/20140331213134/http://origin-www.leedsunited.com/news/fabian-delph-club-statement-20090803_2247585_1742285 |dead-url=yes |archive-date=31 March 2014 |title=Fabian Delph: Club statement |date=3 August 2009 |accessdate=30 March 2014 |publisher=Leeds United F.C. }}&lt;/ref&gt; The transfer was concluded the following day after Delph completed a medical and agreed personal terms.&lt;ref&gt;{{cite web |url=http://www.avfc.co.uk/page/NewsDetail/0,,10265~1743439,00.html |title=Webflash: Delph signs |publisher=Aston Villa F.C. |accessdate=11 July 2015 |archive-url=https://web.archive.org/web/20150713080607/http://www.avfc.co.uk/page/NewsDetail/0,,10265~1743439,00.html |archive-date=13 July 2015 |dead-url=yes |df=dmy-all }}&lt;/ref&gt;
+
+====Early career====
+Delph's full Premier League debut came at home against [[Wigan Athletic F.C.|Wigan Athletic]] on 15 August 2009, the first day of the [[2009–10 Premier League]] season.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2009/aug/16/aston-villa-wigan-athletic-match-report |title=Aston Villa haunted by stark reality of no Gareth Barry and Martin Laursen |newspaper=The Guardian |location=London |date=16 August 2009 |accessdate=9 April 2017}}&lt;/ref&gt; In a match that Villa lost 2–0, Delph received a yellow card and was replaced in the 61st minute by [[Steve Sidwell]].&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8197493.stm |publisher=BBC Sport |title=Aston Villa 0–2 Wigan |date=15 August 2009 |accessdate=2 May 2010}}&lt;/ref&gt; On 23 January 2010 Delph scored his first goal for Aston Villa in the [[FA Cup]] win at home against Brighton &amp; Hove Albion.&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/8468450.stm |title=Aston Villa 3–2 Brighton |publisher=BBC Sport |date=23 January 2010 |accessdate=24 January 2010 |first=Marc |last=Vesty}}&lt;/ref&gt;
+
+On 17 April 2010, Delph had to be carried away from training on a stretcher after picking up a "serious" knee injury. He was immediately taken for tests on the injury.&lt;ref&gt;{{cite web |url=http://www.avfc.co.uk/page/NewsDetail/0,,10265~2028597,00.html |title=Fabian Delph injury blow |publisher=Aston Villa F.C. |accessdate=11 July 2015 |archive-url=https://web.archive.org/web/20150713080602/http://www.avfc.co.uk/page/NewsDetail/0,,10265~2028597,00.html |archive-date=13 July 2015 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; It was later revealed on 19 April 2010 that Delph had suffered a [[cruciate ligament]] injury, set to keep him out of action for up to eight months.&lt;ref&gt;{{cite news |url=http://www.skysports.com/story/0,19528,11677_6104145,00.html |publisher=Sky Sports |title=Delph out for eight months |date=19 April 2010}}&lt;/ref&gt;
+
+Delph returned to action on 26 February 2011, in a Premier League victory over [[Blackburn Rovers F.C.|Blackburn Rovers]], when he came on as an impromptu left-back after [[Nathan Baker]] was injured in the first half.{{citation needed|date=April 2017}}
+
+On 3 March 2011, Delph signed a new deal with Aston Villa keeping him at the club until 2015.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/a/aston_villa/9413411.stm |publisher=BBC Sport |title=Delph signs extension with Villa |date=3 March 2011}}&lt;/ref&gt; He scored his second goal for Villa against [[Tranmere Rovers F.C.|Tranmere Rovers]] in the League Cup on 28 August 2012.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/19340518 |title=Aston Villa 3–0 Tranmere |publisher=BBC Sport |date=28 August 2012 |accessdate=28 August 2012}}&lt;/ref&gt;
+
+On 20 January 2012, Delph re-signed for Leeds United on loan, initially until 25 February 2012.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/16645060.stm |title=Leeds United re-sign Aston Villa's Fabian Delph on loan |publisher=BBC Sport |date=20 January 2012 |accessdate=11 July 2015}}&lt;/ref&gt; He made his second Leeds United debut against [[Ipswich Town F.C.|Ipswich Town]] on 21 January.{{citation needed|date=April 2017}} Delph picked up an ankle injury in Leeds' defeat to [[Coventry City F.C.|Coventry City]] and returned to Aston Villa for treatment on the injury.&lt;ref&gt;{{cite web |url=http://origin-www.leedsunited.com/news/20120216/fab-to-miss-rovers-clash_2247585_2613299 |title=Fab to miss Rovers clash |publisher=Leeds United F.C. |date=16 February 2012 |access-date=30 March 2014 |archive-url=https://web.archive.org/web/20140331010607/http://origin-www.leedsunited.com/news/20120216/fab-to-miss-rovers-clash_2247585_2613299 |archive-date=31 March 2014 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; It was revealed that Delph would miss the end of the season, so his loan at Leeds was not renewed and he returned to his parent club.&lt;ref&gt;{{cite web |url=http://origin-www.leedsunited.com/news/20120222/a-not-so-fab-ending-for-delph_2247585_2619530 |title=A not so Fab ending for Delph |publisher=Leeds United F.C. |date=22 February 2012 |access-date=30 March 2014 |archive-url=https://web.archive.org/web/20140331010612/http://origin-www.leedsunited.com/news/20120222/a-not-so-fab-ending-for-delph_2247585_2619530 |archive-date=31 March 2014 |dead-url=yes |df=dmy-all }}&lt;/ref&gt;
+
+During the 2012–13 Premier League season, Delph established himself as a regular in [[Paul Lambert]]'s team, finishing the season with 24 appearances.{{citation needed|date=April 2017}} In the later half of the season, Fabian put in some good performances and began to show a good partnership with [[Ashley Westwood (footballer, born 1990)|Ashley Westwood]] and [[Yacouba Sylla]] in the centre of midfield.{{citation needed|date=April 2017}}
+
+====2013–14 season====
+[[File:FabianDelph.JPG|thumb|upright|Delph playing for [[Aston Villa F.C.|Aston Villa]] in 2013]]
+
+Delph started the 2013–14 season very brightly, and put in some of his best performances in a Villa shirt.{{citation needed|date=April 2017}} In the 3–1 away win against Arsenal on the opening day of the season, Delph made a number of successful tackles and dribbles, as well as completing a large number of passes with a high accuracy percentage.{{citation needed|date=April 2017}} He saw a long range, low driven shot from his favoured left foot hit the inside of Arsenal goalkeeper [[Wojciech Szczęsny]]'s left post, coming very close to his first Premier League goal.{{citation needed|date=April 2017}} His good form continued four days later in a controversial 2–1 loss against Chelsea, and again the following weekend in a 0–1 loss against Liverpool.{{citation needed|date=April 2017}} His first goal of the season came in a 3–0 win over [[Rotherham United F.C.|Rotherham United]] in the League Cup third round.{{citation needed|date=April 2017}} He played a neat one-two with Benteke, took the first touch to control with his favoured left foot and finished with his right within the box.{{citation needed|date=April 2017}} His performances in the opening months of the season earned him the Aston Villa Player of the Month award for August, September and October 2013.{{citation needed|date=April 2017}}
+
+Delph scored for the first time in Premier League with "a goal of brutal brilliance" to complete a 3–2 win away at [[Southampton F.C.|Southampton]] on 4 December.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2013/dec/04/southampton-aston-villa-premier-league-match-report |title=Fabian Delph's late strike earns Aston Villa thrilling victory at Southampton |first=Dominic |last=Fifield |newspaper=The Guardian |location=London |date=4 December 2013 |accessdate=28 May 2014}}&lt;/ref&gt; His performances over the season including stand out performances against Everton, Liverpool and Chelsea, resulted in him being voted Player of the Year by Aston Villa supporters.&lt;ref&gt;{{cite web |url=http://www.avfc.co.uk/page/NewsDetail/0,,10265~3807173,00.html |title=He's fab! Villa fans vote Delph their player of the year |publisher=Aston Villa F.C. |accessdate=11 July 2015 |archive-url=https://web.archive.org/web/20150711064304/http://www.avfc.co.uk/page/NewsDetail/0,,10265~3807173,00.html |archive-date=11 July 2015 |dead-url=yes |df=dmy-all }}&lt;/ref&gt;
+
+====2014–15 season====
+After reports that he could leave the club at the end of the season due to his contract expiring, Delph signed a four-and-a-half-year contract on 25 January 2015, keeping him at Villa until 2019.&lt;ref&gt;{{cite news |title=Fabian Delph: Aston Villa midfielder extends contract |url=https://www.bbc.co.uk/sport/0/football/30974613 |accessdate=25 January 2015 |publisher=BBC Sport |date=25 January 2015}}&lt;/ref&gt;
+
+On 7 March, Delph scored the first goal as Villa defeated local rivals [[West Bromwich Albion F.C.|West Bromwich Albion]] 2–0 to reach their first [[FA Cup semi-final]] since 2010. The victory prompted a pitch invasion by fans, who Delph claimed stole his captain's armband while kissing and biting him.&lt;ref&gt;{{cite news |title=FA Cup pitch invasion: Villa Park scenes disgraceful – Tony Pulis |url=https://www.bbc.co.uk/sport/0/football/31784681 |accessdate=8 March 2015 |publisher=BBC Sport |date=7 March 2015}}&lt;/ref&gt; He scored the winning goal in the semi-final on 19 April, as Villa came from behind to defeat [[Liverpool F.C.|Liverpool]] 2–1 and reach their first [[FA Cup final]] since [[2000 FA Cup Final|2000]].&lt;ref&gt;{{cite news |title=Aston Villa 2–1 Liverpool |url=https://www.bbc.co.uk/sport/0/football/32273487 |accessdate=19 April 2015 |publisher=BBC Sport |date=19 April 2015}}&lt;/ref&gt; On 30 May, Delph captained Aston Villa in the [[2015 FA Cup Final]] at [[Wembley Stadium]], where the team were defeated 4–0 by Arsenal.&lt;ref name=2015FAC&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/32856754 |title=Arsenal 4–0 Aston Villa |first=Phil |last=McNulty |publisher=BBC Sport |date=30 May 2015 |accessdate=25 November 2018}}&lt;/ref&gt;
+
+On 10 July, Delph was reported to be having a medical ahead of an £8&amp;nbsp;million transfer to Manchester City.&lt;ref&gt;{{cite news |url=http://www1.skysports.com/football/news/11679/9909378/fabian-delph-to-have-manchester-city-medical-ahead-of-1638m-move-from-aston-villa |title=Fabian Delph to have Manchester City medical ahead of £8m move from Aston Villa |publisher=Sky Sports |accessdate=11 July 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/33486125 |title=Fabian Delph: Man City set to sign Aston Villa captain |publisher=BBC Sport |accessdate=11 July 2015}}&lt;/ref&gt; Delph never showed up for his scheduled medical, and subsequently released a statement on the Aston Villa website confirming he would be staying at the club and would not be moving to Manchester City.&lt;ref name=AVStatement&gt;{{cite web |archiveurl=https://web.archive.org/web/20150713080557/http://www.avfc.co.uk/page/NewsDetail/0%2C%2C10265~4856901%2C00.html |url=http://www.avfc.co.uk/page/NewsDetail/0,,10265~4856901,00.html |archivedate=13 July 2015 |date=11 July 2015 |title=Fabian Delph statement |publisher=Aston Villa F.C. |accessdate=17 November 2015 |deadurl=yes}}&lt;/ref&gt; However, reports a week later emerged that Delph had again changed his mind and was having a medical at Manchester City ahead of a prospective move.&lt;ref&gt;{{cite news |url=http://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-transfers-fabian-delph-9678724 |title=Delph deal back on |newspaper=Manchester Evening News |accessdate=17 July 2015}}&lt;/ref&gt;
+
+===Manchester City===
+====2015–17====
+On 17 July 2015, Delph signed a five-year contract with Premier League club Manchester City for a reported fee of £8&amp;nbsp;million, just six days after saying he would be staying at Aston Villa to captain them into the next season.&lt;ref name=AVStatement/&gt;&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/33571351 |title=Fabian Delph: Manchester City sign Aston Villa captain |publisher=BBC Sport |date=17 July 2015 |accessdate=17 July 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.espnfc.com/story/2526615/fabian-delph-moves-to-manchester-city-for-8-million |title=Fabian Delph moves to Manchester City from Aston Villa for £8&amp;nbsp;million |publisher=ESPN FC |date=17 July 2015 |accessdate=17 July 2015}}&lt;/ref&gt; He made his debut a week later against [[Real Madrid C.F.|Real Madrid]] in the [[2015 International Champions Cup]] at the [[Melbourne Cricket ground]], but was substituted after 18 minutes for [[Jesús Navas]] due to injury, and City lost 1–4.&lt;ref&gt;{{cite news |title=Man City: Fabian Delph injured on debut in defeat by Real Madrid |url=https://www.bbc.co.uk/sport/0/football/33651263 |accessdate=24 July 2015 |publisher=BBC Sport |date=24 July 2015}}&lt;/ref&gt; Delph scored his first goal for Manchester City on 28 November 2015 against Southampton, the second in an eventual 3–1 win.&lt;ref&gt;{{cite news |title=Aston Villa 0–0 Manchester City |url=https://www.bbc.com/sport/0/football/34691261 |accessdate=10 November 2015 |publisher=BBC Sport |date=8 November 2015}}&lt;/ref&gt; His third goal for the club came in a 1–0 win over [[FC Steaua București|Steaua Bucharest]] in a Champions League qualifier in August 2016.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2016/aug/24/manchester-city-steaua-bucharest-champions-league-match-report |title=Fabian Delph's header helps Manchester City push past Steaua Bucharest |last=Jackson |first=Jamie |date=24 August 2016 |newspaper=The Guardian |location=London |accessdate=27 October 2016}}&lt;/ref&gt;
+
+====2017–====
+After an injury to [[Benjamin Mendy]], Delph established himself as Manchester City's starting left-back in the first half of the team's record breaking start to the [[2017–18 Manchester City F.C. season|2017–18 season]].&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2017/10/21/fabian-delph-became-pep-guardiolas-born-again-full-back/ |title=How Fabian Delph became Pep Guardiola's born-again full-back |date=21 October 2017 |newspaper=The Daily Telegraph |location=London}}&lt;/ref&gt; He started 14 consecutive matches in the Premier League, scoring once against [[Crystal Palace F.C.|Crystal Palace]], as City set a new [[Premier League records and statistics|record]] of 18 consecutive league wins.&lt;ref&gt;{{cite news |url=http://www.skysports.com/football/news/11679/11186910/manchester-city-have-won-18-games-in-a-row-who-can-stop-them-now |title=Manchester City have won 18 games in a row: Who can stop them now? |date=27 December 2017 |publisher=Sky Sports}}&lt;/ref&gt; He was sent off in the [[2017–18 FA Cup|FA Cup]] defeat to [[Wigan Athletic]] in February 2018 and then suffered a muscle problem, not returning to fitness until April.&lt;ref&gt;{{cite web |url=https://www.mancity.com/news/first-team/first-team-news/2018/april/liverpool-man-city-injury-news-champions-league |title=Liverpool v City: Aguero, Delph injury latest |date=3 April 2018 |publisher=mancity.com |accessdate=16 April 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:Fabian Delph 2018-06-28 1.jpg|thumb|upright|Delph playing for [[England national football team|England]] at the [[2018 FIFA World Cup]]]]
+
+In March 2008, Delph started his international career, making his debut as a substitute for the [[England national under-19 football team|England national under-19 team]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/england/mens-u19s/News/2009/U19s_report_russia |title=Tomkins at the double |accessdate=30 March 2014 |date=25 March 2008 |publisher=The Football Association}}&lt;/ref&gt;
+
+On 28 August 2014, Delph was named in the senior [[England national football team|England]] squad for the first time, ahead of a friendly against Norway and the first [[UEFA Euro 2016 qualifying|Euro 2016 qualifier]] against [[Switzerland national football team|Switzerland]].&lt;ref&gt;{{cite web |title=Roy calls up four new faces for Norway and Switzerland |url=http://www.thefa.com/news/england/2014/aug/norway-switzerland-squad-announcement-rose-colback-delph-chambers |accessdate=28 August 2014 |publisher=The Football Association |date=28 August 2014}}&lt;/ref&gt; He made his international debut in the friendly against Norway on 3 September 2014, coming on as a 69th-minute substitute for [[Alex Oxlade-Chamberlain]] as England won 1–0.&lt;ref&gt;{{cite news |last1=McNulty |first1=Phil |title=England 1–0 Norway |url=https://www.bbc.co.uk/sport/0/football/28947896 |accessdate=3 September 2014 |publisher=BBC Sport |date=3 September 2014}}&lt;/ref&gt; Five days later, in England's first match of UEFA Euro 2016 qualification, Delph made his first start and played the entirety of a 2–0 victory away to Switzerland at [[St. Jakob-Park]], [[Basel]].&lt;ref&gt;{{cite news |title=Switzerland 0–2 England |url=https://www.bbc.co.uk/sport/0/football/29008534 |accessdate=8 September 2014 |publisher=BBC Sport |date=8 September 2014}}&lt;/ref&gt; On 16 May 2016, Delph was announced to have been selected for the provisional [[UEFA Euro 2016]] England squad.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/36300164 |title=Euro 2016: Marcus Rashford makes England provisional squad |publisher=BBC Sport|accessdate=21 May 2016}}&lt;/ref&gt; However, on 26 May he was ruled out of the tournament with a groin injury.&lt;ref&gt;{{cite web |url=http://metro.co.uk/2016/05/26/manchester-city-midfielder-fabian-delph-out-of-euro-2016-after-suffering-groin-injury-5906992/ |title=Manchester City midfielder Fabian Delph out of Euro 2016 after suffering groin injury |date=26 May 2016 |publisher=Metro |accessdate=16 April 2018}}&lt;/ref&gt;
+
+Delph was named in the 23-man squad for the [[2018 FIFA World Cup]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44138600 |title=England World Cup squad: Trent Alexander-Arnold in 23-man squad |publisher=BBC Sport |date=16 May 2018 |accessdate=17 May 2018}}&lt;/ref&gt; He made his World Cup debut against [[Panama national football team|Panama]], coming on as a 63rd-minute substitute in a 6–1 win.&lt;ref&gt;{{Cite web |title=World Cup Player Focus #9: Fabian Delph |first=Rob |last=Pollard |publisher=Manchester City F.C. |date=27 June 2018 |accessdate=5 July 2018 |url=https://www.mancity.com/news/first-team/first-team-news/2018/june/world-cup-russia-fabian-delph-man-city-profile}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=World Cup 2018: England put six past Panama to reach last 16 |first=Phil |last=McNulty |publisher=BBC Sport |date=24 June 2018 |accessdate=5 July 2018 |url=https://www.bbc.co.uk/sport/football/44439183}}&lt;/ref&gt; He played the full 90 minutes of the final group game, against [[Belgium national football team|Belgium]].&lt;ref&gt;{{Cite web |title=World Cup 2018: England lose 1-0 to Belgium in final group game |first=Phil |last=McNulty |publisher=BBC Sport |date=28 June 2018 |accessdate=5 July 2018 |url=https://www.bbc.co.uk/sport/football/44439312}}&lt;/ref&gt;
+
+Prior to his competitive debut for England, Delph was also eligible to represent [[Guyana national football team|Guyana]] through his ancestry.&lt;ref&gt;{{cite news |title=Where have the Golden Jaguars been hiding? |url=http://www.guyanatimesgy.com/?p=47039 |newspaper=Guyana Times |date=19 January 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140530002414/http://www.guyanatimesgy.com/?p=47039 |archivedate=30 May 2014}}&lt;/ref&gt;
+
+==Personal life==
+On 23 December 2008, Delph was arrested by police and charged for [[Driving under the influence|drink driving]] in [[Rothwell, West Yorkshire|Rothwell]], [[Leeds]], while driving home with four friends.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/england/west_yorkshire/7803336.stm |title=Footballer in drink drive charge |date=29 December 2008 |accessdate=29 December 2008 |publisher=BBC News}}&lt;/ref&gt; He pleaded guilty at Leeds Magistrates' Court to the charge of driving whilst over the limit; he was fined £1,400, disqualified from driving for 18 months and ordered to pay costs of £60.&lt;ref&gt;{{Cite news |url=http://www.yorkshireeveningpost.co.uk/leedsunited/VIDEO-Leeds-United-star-banned.4916199.jp |title=Leeds United star banned for drink driving |date=27 January 2009 |accessdate=28 January 2009 |newspaper=Yorkshire Evening Post |location=Leeds |first=Stuart |last=Robinson}}&lt;/ref&gt;
+
+Delph has three daughters, the youngest of whom was born during the 2018 World Cup.&lt;ref&gt;{{Cite web |title=World Cup 2018: England's Fabian Delph welcomes third daughter |publisher=BBC Sport |date=4 July 2018 |accessdate=5 July 2018 |url=https://www.bbc.co.uk/sport/football/44716124}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 23 January 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[Leeds United F.C.|Leeds United]]
+|[[2006–07 Leeds United A.F.C. season|2006–07]]&lt;ref name=sb0607&gt;{{soccerbase season|46509|2006|accessdate=7 April 2017}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|1||0||0||0||0||0||colspan=2|—||1||0
+|-
+|[[2007–08 Leeds United F.C. season|2007–08]]&lt;ref name=sb0708&gt;{{soccerbase season|46509|2007|accessdate=7 April 2017}}&lt;/ref&gt;
+|[[EFL League One|League One]]
+|1||0||0||0||1||0||0||0||2||0
+|-
+|[[2008–09 Leeds United F.C. season|2008–09]]&lt;ref name=sb0809&gt;{{soccerbase season|46509|2008|accessdate=1 April 2016}}&lt;/ref&gt;
+|League One
+|42||6||2||0||4||0||3{{efn|One appearance in [[EFL Trophy|Football League Trophy]], two in [[EFL League One play-offs|League One play-offs]]}}||0||51||6
+|-
+!colspan=2|Total
+!44||6||2||0||5||0||3||0||54||6
+|-
+|rowspan=7|[[Aston Villa F.C.|Aston Villa]]
+|[[2009–10 Aston Villa F.C. season|2009–10]]&lt;ref name=sb0910&gt;{{soccerbase season|46509|2009|accessdate=1 April 2016}}&lt;/ref&gt;
+|[[Premier League]]
+|8||0||4||1||2||0||1{{efn|Appearance in [[UEFA Europa League]]}}||0||15||1
+|-
+|[[2010–11 Aston Villa F.C. season|2010–11]]&lt;ref name=sb1011&gt;{{soccerbase season|46509|2010|accessdate=1 April 2016}}&lt;/ref&gt;
+|Premier League
+|7||0||1||0||0||0||0||0||8||0
+|-
+|[[2011–12 Aston Villa F.C. season|2011–12]]&lt;ref name=sb1112&gt;{{soccerbase season|46509|2011|accessdate=1 April 2016}}&lt;/ref&gt;
+|Premier League
+|11||0||0||0||0||0||colspan=2|—||11||0
+|-
+|[[2012–13 Aston Villa F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|46509|2012|accessdate=1 April 2016}}&lt;/ref&gt;
+|Premier League
+|24||0||2||0||6||1||colspan=2|—||32||1
+|-
+|[[2013–14 Aston Villa F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|46509|2013|accessdate=1 April 2016}}&lt;/ref&gt;
+|Premier League
+|34||3||1||0||1||1||colspan=2|—||36||4
+|-
+|[[2014–15 Aston Villa F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|46509|2014|accessdate=1 April 2016}}&lt;/ref&gt;
+|Premier League
+|28||0||4||2||0||0||colspan=2|—||32||2
+|-
+!colspan=2|Total
+!112||3||12||3||9||2||1||0||134||8
+|-
+|Leeds United (loan)
+|[[2011–12 Leeds United F.C. season|2011–12]]&lt;ref name=sb1112/&gt;
+|Championship
+|5||0||colspan=2|—||colspan=2|—||colspan=2|—||5||0
+|-
+|rowspan=5|[[Manchester City F.C.|Manchester City]]
+|[[2015–16 Manchester City F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|46509|2015|accessdate=14 June 2016}}&lt;/ref&gt;
+|Premier League
+|17||2||2||0||3||0||5{{efn|name=UCL|Appearance(s) in [[UEFA Champions League]]}}||0||27||2
+|-
+|[[2016–17 Manchester City F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|46509|2016|accessdate=19 July 2017}}&lt;/ref&gt;
+|Premier League
+|7||1||5||0||0||0||1{{efn|name=UCL}}||1||13||2
+|-
+|[[2017–18 Manchester City F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|46509|2017|accessdate=14 July 2018}}&lt;/ref&gt;
+|Premier League
+|22||1||1||0||1||0||5{{efn|name=UCL}}||0||29||1
+|-
+|[[2018–19 Manchester City F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|46509|2018|accessdate=25 November 2018}}&lt;/ref&gt;
+|Premier League
+|11||0||0||0||2||0||4{{efn|name=UCL}}||0||17||0
+|-
+!colspan=2|Total
+!57||4||8||0||6||0||15||1||86||5
+|-
+!colspan=3|Career total
+!218||13||22||3||20||2||19||1||279||19
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 18 November 2018}}&lt;ref&gt;{{NFT player |pid=56799 |name=Delph, Fabian |accessdate=25 November 2018}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=3|[[England national football team|England]]
+|2014||3||0
+|-
+|2015||6||0
+|-
+|2018||9||0
+|-
+!colspan=2|Total||18||0
+|}
+
+==Honours==
+'''Aston Villa'''
+*[[Football League Cup]] runner-up: [[2009–10 Football League Cup|2009–10]]&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/league_cup/8531179.stm |title=Aston Villa 1–2 Man Utd |first=Phil |last=McNulty |publisher=BBC Sport |date=28 February 2010 |accessdate=25 November 2018}}&lt;/ref&gt;
+*[[FA Cup]] runner-up: [[2014–15 FA Cup|2014–15]]&lt;ref name=2015FAC/&gt;
+
+'''Manchester City'''
+*[[Premier League]]: [[2017–18 Premier League|2017–18]]&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/3799/Fabian-Delph/overview |title=Fabian Delph: Overview |publisher=Premier League |accessdate=15 May 2018}}&lt;/ref&gt;
+
+'''England'''
+*[[FIFA World Cup]] fourth place: [[2018 FIFA World Cup|2018]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44748604 |title=Belgium 2–0 England |first=Phil |last=McNulty |publisher=BBC Sport |date=14 July 2018 |accessdate=11 September 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.mancity.com/fabian-delph Profile] at the Manchester City F.C. website
+*[http://www.thefa.com/england/mens-seniors/squad/fabian-delph Profile] at the Football Association website
+*{{Soccerbase}}
+
+{{Manchester City F.C. squad}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2008–09 Football League One Team of the Year}}
+{{The Football League Young Player of the Year}}
+{{Aston Villa F.C. Player of the Season}}
+}}
+{{England squad 2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Delph, Fabian}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Footballers from Bradford]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England international footballers]]
+[[Category:Association football defenders]]
+[[Category:Association football midfielders]]
+[[Category:Bradford City A.F.C. players]]
+[[Category:Leeds United F.C. players]]
+[[Category:Aston Villa F.C. players]]
+[[Category:Manchester City F.C. players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:Black English sportspeople]]
+[[Category:English people of Guyanese descent]]
+[[Category:2018 FIFA World Cup players]]</text>
+      <sha1>gqpwawyawnj02pbqw45y6adundzud4t</sha1>
+    </revision>
+  </page>
+</mediawiki>

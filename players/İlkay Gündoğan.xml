@@ -1,0 +1,394 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>İlkay Gündoğan</title>
+    <ns>0</ns>
+    <id>26641696</id>
+    <revision>
+      <id>885937860</id>
+      <parentid>885928604</parentid>
+      <timestamp>2019-03-03T08:32:29Z</timestamp>
+      <contributor>
+        <username>Kosack</username>
+        <id>4446447</id>
+      </contributor>
+      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Dhananjayan Sudhakar|Dhananjayan Sudhakar]] ([[User talk:Dhananjayan Sudhakar|talk]]): League stats only in the infobox ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34234">{{Use dmy dates|date=August 2018}}
+{{Infobox football biography
+| name           = İlkay Gündoğan
+| image          = 20180602 FIFA Friendly Match Austria vs. Germany İlkay Gündoğan 850 0728.jpg
+| image_size     = 200
+| caption        = Gündoğan with [[Germany national football team|Germany]] in 2018
+| fullname       = İlkay Gündoğan&lt;ref&gt;{{cite web |title=Squads for 2016/17 Premier League confirmed |url=https://www.premierleague.com/news/84136 |publisher=Premier League |date=1 September 2016 |accessdate=11 September 2016}}&lt;/ref&gt;
+| birth_date     = {{Birth date and age|1990|10|24|df=y}}&lt;ref&gt;{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=2018 FIFA World Cup Russia: List of players: Germany |publisher=FIFA |format=PDF |page=12 |date=10 June 2018 |accessdate=10 June 2018}}&lt;/ref&gt;
+| birth_place    = [[Gelsenkirchen]], Germany
+| height         = 1.80 m&lt;ref&gt;{{cite web | url = http://www.bvb.de/Mannschaften/Profis/Ilkay-Guendogan | title = Ilkay Guendogan | publisher = bvb.de | accessdate = 13 April 2014}}&lt;/ref&gt;
+| position       = [[Midfielder]]
+| currentclub    = [[Manchester City F.C.|Manchester City]]
+| clubnumber     = 8
+| youthyears1    = 1993–1998
+| youthclubs1    = SV Gelsenkirchen-Hessler 06
+| youthyears2    = 1998–1999
+| youthclubs2    = [[FC Schalke 04|Schalke 04]]
+| youthyears3    = 1999–2004
+| youthclubs3    = SV Gelsenkirchen-Hessler 06
+| youthyears4    = 2004–2005
+| youthclubs4    = SSV Buer
+| youthyears5    = 2005–2008
+| youthclubs5    = [[VfL Bochum]]
+| years1         = 2008–2009
+| clubs1         = [[VfL Bochum II]]
+| caps1          = 2
+| goals1         = 1
+| years2         = 2009–2011
+| clubs2         = [[1. FC Nürnberg]]
+| caps2          = 48
+| goals2         = 6
+| years3         = 2011–2016
+| clubs3         = [[Borussia Dortmund]]
+| caps3          = 105
+| goals3         = 10
+| years4         = 2012
+| clubs4         = [[Borussia Dortmund II]]
+| caps4          = 1
+| goals4         = 0
+| years5         = 2016–
+| clubs5         = [[Manchester City F.C.|Manchester City]]
+| caps5          = 61
+| goals5         = 12
+| nationalyears1 = 2008
+| nationalteam1  = [[Germany national youth football team|Germany U18]]
+| nationalcaps1  = 7
+| nationalgoals1 = 0
+| nationalyears2 = 2008–2009
+| nationalteam2  = [[Germany national youth football team|Germany U19]]
+| nationalcaps2  = 6
+| nationalgoals2 = 0
+| nationalyears3 = 2009–2010
+| nationalteam3  = [[Germany national youth football team|Germany U20]]
+| nationalcaps3  = 2
+| nationalgoals3 = 0
+| nationalyears4 = 2010–2012
+| nationalteam4  = [[Germany national under-21 football team|Germany U21]]
+| nationalcaps4  = 8
+| nationalgoals4 = 1
+| nationalyears5 = 2011–
+| nationalteam5  = [[Germany national football team|Germany]]
+| nationalcaps5  = 29
+| nationalgoals5 = 4
+| pcupdate       = 10:28, 24 February 2019 (UTC)
+| ntupdate       = 20:46, 9 September 2018 (UTC)
+| medaltemplates =
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|B|[[UEFA Euro 2012|2012]]|}}&lt;!--Though there was no third place playoff, UEFA decided in the 2012 edition to award the semi-final losers (Germany and Portugal) bronze medals for the first time: https://www.uefa.com/MultimediaFiles/Download/competitions/euro/91/87/57/918757_download.pdf--&gt;
+}}
+'''İlkay Gündoğan''' ({{IPA-de|ˈʔɪlkaɪ ˈɡʏndoːan}}, {{IPA-tr|ˈilkaj ˈɟyndoːan|lang|}}; born 24 October 1990) is a German professional [[Association football|footballer]] who plays as a [[midfielder]] for {{English football updater|ManchesC}} club [[Manchester City F.C.|Manchester City]] and the [[Germany national football team|German national team]].
+
+Born in [[Gelsenkirchen]], Gündoğan came through [[VfL Bochum]]'s youth academy. In 2008, he began playing for the club's [[VfL Bochum II|reserve side]] before joining [[1. FC Nürnberg]] the following season. He was then acquired by [[Borussia Dortmund]] in 2011, winning the double of [[Bundesliga]] and [[DFB-Pokal]] in his first season. In 2013, he helped ''die Borussen'' reach their first [[List of European Cup and UEFA Champions League finals|UEFA Champions League Final]] since 1996–97. After playing a total of 157 matches and scoring 15 goals for the club, Gündoğan signed for Manchester City for an estimated transfer fee of £21&amp;nbsp;million in the summer of 2016. He won the Premier League and [[EFL Cup]] in 2017–18.
+
+Gündoğan made his senior debut for Germany in 2011 after previously being [[Cap (sport)|capped]] by Germany youth teams at [[Germany national under-18 football team|under-18]], [[Germany national under-19 football team|under-19]], [[Germany national under-20 football team|under-20]] and [[Germany national under-21 football team|under-21]] levels. He was chosen in Germany's squads for [[UEFA Euro 2012]] and the [[2018 FIFA World Cup]].
+
+==Club career==
+===Early career===
+Gündoğan was born in [[Gelsenkirchen]] to [[Turks in Germany|Turkish parents]].&lt;ref&gt;{{cite web | url = http://www.uefa.com/news/newsid=1803642.html | title = İlkay Gündoğan | publisher = UEFA.com | date = 25 May 2012 | accessdate = 1 November 2012}}&lt;/ref&gt; His grandfather moved from [[Balıkesir]], Turkey, to the [[Ruhrgebiet|Ruhr region]] of Germany.&lt;ref&gt;{{Citation | last=Kramer|first=Jörg | title=Der Kurzpassmeister | publisher=Spiegel-Verlag Rudolf Augstein GmbH &amp; Co. KG (Ove Saffe) | publication-place=Hamburg | number=21 | year=2013 | pages=126–128 | url = http://www.spiegel.de/spiegel/print/d-95169332.html | accessdate=27 January 2015|language=de}}&lt;/ref&gt; Gündoğan moved from [[VfL Bochum]] to [[1. FC Nürnberg]] in 2009. In his fourth Bundesliga match, on 19 September 2009, away against [[FC Bayern Munich|Bayern Munich]], he made his first [[Assist (football)|assist]]. His first goal for the side came on 20 February 2010 in a home match, again against Bayern Munich.
+
+===Borussia Dortmund===
+[[File:Ilkay Gündogan 2013 in Wilhelmshaven.jpeg|thumb|left|upright|Gündoğan in action for [[Borussia Dortmund]] in 2013]]
+On 5 May 2011, it was announced Gündoğan had signed a four-year contract with [[Borussia Dortmund]] for an approximate transfer fee of €4&amp;nbsp;million.&lt;ref&gt;{{cite web|url=
+http://www.goal.com/en/news/11/transfer-zone/2011/05/05/2472669/borussia-dortmund-announce-signing-of-nurnbergs-ilkay|title=Borussia Dortmund announce signing of Nurnberg's Ilkay Gundogan|work=goal.com| date=5 May 2011 | accessdate = 12 June 2013}}&lt;/ref&gt; He made his debut on 23 July in the [[DFL-Supercup]] against [[FC Schalke 04|Schalke 04]]. After a goalless draw at the [[Veltins-Arena]], he scored their first attempt in the [[penalty shoot-out (association football)|penalty shootout]], although [[Kevin Großkreutz]] and [[Ivan Perišić]] missed to hand Schalke the victory.&lt;ref&gt;{{cite news|title=Fährmann bringt BVB zur Verzweiflung|trans-title=Fährmann brings BVB to despair |url=http://www.kicker.de/d-supercup-fb-1/2011/1/1139370/spielbericht_borussia-dortmund-17_fc-schalke-04-2.html|accessdate=27 April 2015|work=Kicker|date=23 July 2011|language=German}}&lt;/ref&gt;
+
+On 17 December, Gündoğan scored his first goal for Dortmund in a 4–1 victory away to [[SC Freiburg]].&lt;ref&gt;{{cite news|last1=Kotsev|first1=Vasil|title=Freiburg 1–4 Borussia Dortmund: Jurgen Klopp's men record emphatic win to close gap on Bayern Munich|url=http://www.goal.com/en-us/match/freiburg-vs-borussia-dortmund/1122093/report?ICID=MP_MS_5|accessdate=27 April 2015|work=Goal.com|date=17 December 2011}}&lt;/ref&gt; He played once for the [[Borussia Dortmund II|club's reserves]] on 22 February 2012, being replaced at half time by [[Rico Benatelli]] in an eventual 2–1 win over [[1. FC Kaiserslautern II]] at the [[Stadion Rote Erde]].&lt;ref&gt;{{cite web|title=BORUSSIA DORTMUND II VS. KAISERSLAUTERN II  2 – 1|url=https://int.soccerway.com/matches/2012/02/22/germany/regionalliga/borussia-dortmund-ii/1-fc-kaiserslautern-ii/1138925/|publisher=Soccerway|accessdate=27 April 2015}}&lt;/ref&gt; On 20 March, Gündoğan scored a 120th-minute goal to defeat [[SpVgg Greuther Fürth|Greuther Fürth]] and send Dortmund into the final of the [[2011–12 DFB-Pokal|DFB-Pokal]].&lt;ref&gt;{{cite web | url = https://www.sbnation.com/soccer/2012/3/20/2888404/borussia-dortmund-vs-spvgg-greuther-furth-2012-dfb-pokal-final-score-report | title = SpVgg Greuther Fürth Vs. Borussia Dortmund, 2012 DFB-Pokal: Der BVB Through With Winner At The Death | publisher = sbnation.com | date = 20 March 2012 | accessdate = 24 June 2012 | first = Kevin | last = McCauley}}&lt;/ref&gt; He played the entire [[2012 DFB-Pokal Final|final]] on 12 May, a 5–2 victory over Bayern Munich which gave Dortmund their first domestic [[Double (association football)|double]].&lt;ref&gt;{{cite news|last1=Webber|first1=Tom|title=Borussia Dortmund 5–2 Bayern Munich: Lewandowski hat-trick secures domestic double for Jurgen Klopp's men|url=http://www.goal.com/en/match/borussia-dortmund-vs-bayern-m%C3%BCnchen/1275349/report|accessdate=27 April 2015|work=Goal.com|date=12 May 2012}}&lt;/ref&gt;
+
+In the [[2012–13 Borussia Dortmund season|2012–13 season]], Gündoğan was one of the central figures of Borussia Dortmund as they reached the final of [[UEFA Champions League]]. He was praised for his play in two semi-final games against [[Real Madrid C.F.|Real Madrid]].&lt;ref&gt;{{cite web | url = http://www.goal.com/en/match/106422/borussia-dortmund-vs-real-madrid-cf/player-ratings | title = Player Ratings: Dortmund 4–1 Real Madrid | publisher = goal.com | date = 24 April 2013 | accessdate = 12 June 2013 | first = Robin | last = Bairner}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = http://www.goal.com/en/match/106423/real-madrid-cf-vs-borussia-dortmund/player-ratings | title = Player Ratings: Real Madrid 2–0 Borussia Dortmund (Agg 3–4) | publisher = goal.com | date = 30 April 2013 | accessdate = 12 June 2013 | first = Tom | last = Webber}}&lt;/ref&gt; On 25 May 2013, he scored the equaliser from the penalty spot in the 69th minute to keep Dortmund's hopes alive against Bayern Munich in the [[2013 UEFA Champions League Final]] played at [[Wembley Stadium]], [[London]]. This was his first penalty kick in a game for Dortmund. Bayern Munich went on to win the match 2–1.&lt;ref&gt;{{cite web | url = http://www.goal.com/en/match/107889/borussia-dortmund-vs-fc-bayern-m%C3%BCnchen/player-ratings | title = Player Ratings: Borussia Dortmund 1–2 Bayern Munich | publisher = goal.com | date = 25 May 2013 | accessdate = 12 June 2013 | first = Rafael | last = Corradino }}&lt;/ref&gt;
+
+On 27 July 2013, Gündoğan scored a goal when he won the [[2013 DFL-Supercup]] with Dortmund 4–2 against rivals Bayern Munich.&lt;ref&gt;{{cite web|url=http://www.bundesliga.com/en/tournaments/news/2013/0000262446.php|title=Dortmund prevail over Bayern in Supercup thriller | publisher = bundesliga.com | date = 27 July 2013 | accessdate = 23 December 2013}}&lt;/ref&gt; In August, a back injury while on international duty required surgery, which eventually ruled him out for a full year.&lt;ref name=back/&gt; In April 2014, he signed a new contract, to keep him at the club until 2016.&lt;ref&gt;{{cite news|title=GÜNDOGAN COMMITS FUTURE TO DORTMUND|url=http://www.bundesliga.com/en/liga/news/2013/0000291507.php|accessdate=27 April 2015|publisher=Bundesliga|date=15 April 2014}}&lt;/ref&gt;
+
+On 28 April 2015, Gündoğan and [[Sebastian Kehl]] scored in a [[penalty shoot-out (association football)|penalty shootout]] victory over Bayern Munich which sent Dortmund into the [[2015 DFB-Pokal Final|DFB-Pokal Final]].&lt;ref&gt;{{cite news|title=Bayern Mun 1–1 Bor Dortmd|url=https://www.bbc.co.uk/sport/0/football/32484226|accessdate=29 April 2015|work=BBC Sport|date=28 April 2015}}&lt;/ref&gt; Two days later, it was announced he and Borussia Dortmund would not be extending their contract after it expired after 30 July 2016.&lt;ref&gt;{{cite web|title=Ilkay Gundogan: Borussia Dortmund midfielder will leave club|url=https://www.bbc.co.uk/sport/0/football/32537619|accessdate=30 April 2015|date=30 April 2015}}&lt;/ref&gt; However, on 1 July 2015, he signed a contract extension to keep him at the club until 2017.&lt;ref&gt;{{cite web|title=Ilkay Gundogan signs extension, commits to Dortmund until 2017|url=http://www.espnfc.com/borussia-dortmund/story/2510044/ilkay-gundogan-signs-borussia-dortmund-contract-extension|accessdate=1 July 2015|date=1 July 2015}}&lt;/ref&gt;
+
+===Manchester City===
+{{wikinews|Gündogan signs with Manchester City}}
+On 2 June 2016, Gündoğan signed a four-year contract with [[Premier League]] side [[Manchester City F.C.|Manchester City]], for an estimated fee of £20&amp;nbsp;million. He was the club's first signing under former Bayern Munich manager [[Pep Guardiola]].&lt;ref&gt;{{cite news|last1=Ornstein|first1=David|title=Ilkay Gundogan: Man City sign midfielder from Borussia Dortmund|url=https://www.bbc.co.uk/sport/football/36430721|accessdate=2 June 2016|publisher=BBC Sport|date=2 June 2016}}&lt;/ref&gt; He made his debut on 14 September, playing for the first time in four months in a [[2016–17 UEFA Champions League group stage|UEFA Champions League]] group stage game at home to [[Borussia Mönchengladbach]]. City won 4–0, and he won a penalty which was converted by [[Sergio Agüero]].&lt;ref&gt;{{cite news|title=Manchester City 4–0 B M'gladbach|url=https://www.bbc.co.uk/sport/football/37331231|accessdate=17 September 2016|publisher=BBC Sport|date=14 September 2016}}&lt;/ref&gt; Three days later, Gündoğan started and scored with a low, right-foot shot against [[A.F.C. Bournemouth|AFC Bournemouth]] in a 4–0 win at the [[City of Manchester Stadium]].&lt;ref&gt;{{cite news|title=Manchester City 4–0 Bournemouth|url=https://www.bbc.co.uk/sport/football/37325835|accessdate= 17 September 2016|publisher= BBC Sport|date=17 September 2016}}&lt;/ref&gt; He scored a brace and set up an Agüero goal against [[West Bromwich Albion]] in a 4–0 win at [[The Hawthorns]] on 29 October 2016.&lt;ref&gt;{{cite news|title = West Bromwich Albion 0–4 Manchester City|url=https://www.bbc.com/sport/football/37737767|accessdate= 30 October 2016|publisher= BBC Sport|date= 29 October 2016}}&lt;/ref&gt; He continued his run of form by scoring twice against [[FC Barcelona|Barcelona]] in a 3–1 win at home in the group stages of the Champions League.&lt;ref&gt;{{cite news|title = Ilkay Gundogan scores brace, motors Man City midfield to win vs. Barcelona|url=http://www.espnfc.com/club/manchester-city/382/blog/post/2986393/manchester-city-barcelona-ilkay-gundogan-scores-brace-motors-midfield-to-win|accessdate= 2 November 2016|publisher= ESPN|date= 2 November 2016}}&lt;/ref&gt;
+
+On 14 December, in a [[2016–17 Premier League|Premier League]] match against [[Watford F.C.|Watford]], Gündoğan was substituted in the 44th minute with knee ligament damage, with Guardiola stating he would be out injured for several months.&lt;ref&gt;{{cite news|title=Manchester City midfielder facing injury lay-off|url=https://www.bbc.com/sport/football/38324586|accessdate=15 December 2016|publisher=BBC Sport|date=14 December 2016}}&lt;/ref&gt; It was later confirmed Gündoğan tore his cruciate ligaments in his right knee and would miss the remainder of [[2016–17 Manchester City F.C. season|the season]].&lt;ref&gt;{{cite web|last1=Jackson|first1=Jamie|title=Manchester City’s Ilkay Gündogan set to miss rest of season with cruciate injury|url=https://www.theguardian.com/football/2016/dec/16/manchester-city-ilkay-gundogan-ruled-out-season-cruciate-injury-knee|website=The Guardian|date=16 December 2016| access-date = 16 December 2016}}&lt;/ref&gt;
+
+On 16 September 2017, Gündoğan made his first appearance for Manchester City in nine months, appearing as a substitute in the team's 6–0 [[2017–18 Premier League|Premier League]] win at Watford.&lt;ref&gt;{{Cite web | url = http://au.eurosport.com/football/premier-league/2017-2018/watford-v-manchester-city-live_sto6334336/story.shtml | title = Manchester City hit six against Watford to go top | website = Eurosport | date = 16 September 2017 | access-date = 17 September 2017 | first = Alexander | last = Netherton}}&lt;/ref&gt; Three months later, he scored his first goal of the season with a header, assisted by [[Leroy Sané]], which gave City the lead in a 4–1 win against [[Tottenham Hotspur F.C.|Tottenham Hotspur]].&lt;ref&gt;{{Cite web|url=https://www.mancity.com/news/first-team/match-report/2017/december/manchester-city-v-spurs-premier-league-december-16-match-report|title=City v Spurs: Match report|website=MCFC |access-date=17 December 2017}}&lt;/ref&gt;  He scored a brace, one in each half, as City routed [[FC Basel]] in the away leg of their round of sixteen tie in the Champions League.&lt;ref&gt;{{cite web|url=http://www.espn.com/soccer/report?gameId=499538|title=Gundogan scores two as Man City thrash Basel in round of 16 |access-date=15 February 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:FIFA WC-qualification 2014 - Austria vs. Germany 2012-09-11 - İlkay Gündoğan 03.JPG|thumb|Gündoğan warming up for [[Germany national football team|Germany]] in September 2012]]
+After years of playing for the different youth teams, Gündoğan received his first call-up to the [[Germany national football team|Germany senior team]] in August 2011 for a [[friendly match]] against [[Brazil national football team|Brazil]], but did not feature in the game. On 11 October, he made his debut for Germany after coming on as a substitute for captain [[Philipp Lahm]] for the last six minutes of the 3–1 win against [[Belgium national football team|Belgium]] in a [[UEFA Euro 2012 qualifying]] match at the [[Esprit Arena]], [[Düsseldorf]].&lt;ref&gt;{{cite news|title=Germany stamp out Belgium's fire|url=http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002112/postmatch/report/index.html|accessdate=26 April 2015|publisher=UEFA|date=11 October 2011}}&lt;/ref&gt;
+
+In May 2012, he was selected by manager [[Joachim Löw]] for the German 23-man squad for [[UEFA Euro 2012]] and was given the number two shirt. Germany reached the semi-finals, but Gündoğan did not feature.
+
+On 26 March 2013, Gündoğan scored his first goal for Germany in a 4–1 [[2014 FIFA World Cup qualifying|2014 FIFA World Cup qualifier]] against [[Kazakhstan national football team|Kazakhstan]] at the [[Frankenstadion]], [[Nuremberg]].&lt;ref&gt;{{cite news|title=Dortmund-fired Germany too good for Kazakhstan|url=http://www.uefa.com/worldcup/season=2014/matches/round=2000294/match=2008586/postmatch/report/index.html|accessdate=26 April 2015|publisher=UEFA|date=26 March 2013}}&lt;/ref&gt; He scored his second goal in his next match, a friendly on 14 August at the [[Fritz-Walter-Stadion]], [[Kaiserslautern]], as Germany came from 0–2 down to draw 3–3 against [[Paraguay national football team|Paraguay]].&lt;ref&gt;{{cite news|title=Germany came from 2–0 down to down 3–3 with Paraguay in Kaiserslautern|url=http://www1.skysports.com/football/live/match/283619/report|accessdate=26 April 2015|work=Sky Sports|date=14 August 2013}}&lt;/ref&gt; However, he was taken off with a back injury in this match, ruling him out for an entire year, meaning he would miss the [[2014 FIFA World Cup|2014 World Cup]], which Germany would go on to win.&lt;ref name=back&gt;{{cite news|title=GÜNDOGAN DELIGHTED TO RETURN TO DORTMUND TRAINING|url=http://www.bundesliga.com/en/liga/news/2014/0000299560.php|accessdate=27 April 2015|publisher=Bundesliga|date=18 August 2014}}&lt;/ref&gt;
+
+Gündoğan returned to international football in a 2–2 friendly with [[Australia national soccer team|Australia]] on 25 March 2015.&lt;ref&gt;{{Cite news|url=http://www.espnfc.com.au/international-friendly/story/2372817/ilkay-gundogan-recovering-from-back-injury-like-a-personal-accolade|title=Ilkay Gundogan: Recovering from back injury like a personal accolade|date=30 March 2015|work=ESPN | access-date = 7 May 2016 | first = Stephan | last = Uersfeld}}&lt;/ref&gt; He participated in the [[UEFA Euro 2016 qualification|Euro 2016]] campaign, scoring in a 7–0 away win over [[Gibraltar national football team|Gibraltar]] on 14 June 2015&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/33122742|title=Armenia 2–3 Portugal|date=14 June 2015|work=BBC | access-date = 7 May 2016}}&lt;/ref&gt; and a 3–2 win against [[Scotland national football team|Scotland]] at [[Hampden Park]] on 7 September 2015.&lt;ref&gt;{{Cite news|url=https://www.bbc.com/sport/football/34063135|title=Scotland 2–3 Germany|date=7 September 2015|work=BBC | access-date = 7 May 2016 | first = Alasdair | last = Lamont}}&lt;/ref&gt;
+
+On 6 May 2016, it was announced Gündoğan would be unable to participate at the [[UEFA Euro 2016|Euro 2016 final stages]] due to injury.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/36229512|title=Euro 2016: Germany's Ilkay Gundogan set to miss tournament with knee injury|date=6 May 2016|work=BBC | access-date = 7 May 2016}}&lt;/ref&gt; He did, however, make the team's preliminary squad for the [[2018 FIFA World Cup|2018 World Cup in Russia]] which was announced in May 2018.&lt;ref&gt;{{cite web | url = http://www.kicker.de/news/fussball/wm/wmteams/weltmeisterschaft/2018/deutschland/kader.html | title = Deutschland – Weltmeisterschaft: der Kader der Saison 2018 | website = kicker.de | access-date = 2 June 2018}}&lt;/ref&gt; On 4 June 2018, Gündoğan was selected in Joachim Löw's final 23-man squad for the World Cup.&lt;ref&gt;{{cite web|url=http://www.dw.com/en/germany-announce-final-world-cup-squad-with-manuel-neuer-without-leroy-san%C3%A9/a-44064011|title=Germany announce final World Cup squad, with Manuel Neuer, without Leroy Sané|publisher=Deutsche Welle|accessdate=4 June 2018}}&lt;/ref&gt;
+
+==Style of play==
+[[Jürgen Klopp]], Gündoğan's former coach at Borussia Dortmund, described Gündoğan as an "intelligent and complete midfielder with numerous strengths".&lt;ref name=wright&gt;{{cite web|last1=Wright|first1=Nick|title=Ilkay Gundogan: We profile the Manchester United target|url=http://www1.skysports.com/football/news/21476/9821981/ilkay-gundogan-we-profile-the-midfielder-wanted-by-manchester-united|website=Sky Sports|publisher=Sky Sports|accessdate=27 April 2015}}&lt;/ref&gt; Although Gündoğan had a tough start at Dortmund, where he admitted "things hadn't gone as well as I had thought", his "willingness to learn" and "great attitude", according to Klopp, have allowed him to play a pivotal role in his later career at the club.&lt;ref name=wright/&gt; He was able to fit into Dortmund's explosive playing style "by combining creativity and outstanding passing with the defensive attributes and tireless energy needed".&lt;ref name=wright/&gt;
+
+==Personal life==
+Gündoğan's cousin [[Naz Aydemir]] is a [[volleyball]] player for [[Vakıfbank Spor Kulübü|Vakıfbank]] and the [[Turkey women's national volleyball team|Turkish women's national team]].&lt;ref&gt;{{cite web|url=http://www.bundesliga.com/en/liga/news/2012/0000257728.php|title=Ten things about Ilkay Gündogan|work=[[Bundesliga|bundesliga.com]]| date=19 June 2013 | accessdate=27 August 2013}}&lt;/ref&gt;
+
+In May 2018, Gündoğan met [[President of Turkey]] [[Recep Tayyip Erdoğan]] in London, along with [[Mesut Özil]] and [[Cenk Tosun]], two other English-based, German-born players of Turkish origin. Gündoğan was criticised for referring to the statesman as "my president", despite only being a citizen of Germany. The incident caused political controversy in Germany and Gündoğan was jeered by German fans when playing for the national team weeks later.&lt;ref&gt;{{cite news |title=Ilkay Gundogan, Mesut Ozil whistles must stop – Germany chief Oliver Bierhoff |url=http://www.espn.co.uk/football/germany/story/3520068/ilkay-gundogan-and-mesut-ozil-whistles-must-stop-germany-chief-oliver-bierhoff |accessdate=9 June 2018 |publisher=ESPN FC |date=8 June 2018}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 20 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup{{efn|Includes [[DFB-Pokal]] and [[FA Cup]]}}
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[VfL Bochum II]]
+|[[2008–09 Regionalliga|2008–09]]&lt;ref name=kicker0809&gt;{{cite web|title=Ilkay Gündogan, Spieler-Statistik 2008/09|url=https://www.kicker.de/news/fussball/bundesliga/vereine/2008-09/48408/vereinsspieler_ilkay-guendogan.html|website=kicker.de|publisher=kicker|accessdate=11 August 2018|language=German}}&lt;/ref&gt;
+|[[Regionalliga West]]
+|2||1||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||2||1
+|-
+|rowspan=4|[[1. FC Nürnberg]]
+|[[2008–09 2. Bundesliga|2008–09]]&lt;ref name=kicker0809/&gt;
+|[[2. Bundesliga]]
+|1||0||0||0||colspan=2|—||colspan=2|—||colspan=2|—||1||0
+|-
+|[[2009–10 1. FC Nürnberg season|2009–10]]&lt;ref&gt;{{cite web|title=Ilkay Gündogan, Spieler-Statistik 2009/10|url=https://www.kicker.de/news/fussball/bundesliga/vereine/2009-10/48408/vereinsspieler_ilkay-guendogan.html|website=kicker.de|publisher=kicker|accessdate=11 August 2018|language=German}}&lt;/ref&gt;
+|[[Bundesliga]]
+|22||1||2||1||colspan=2|—||colspan=2|—||2{{efn|Appearances in [[Bundesliga]] relegation play-offs}}||1||26||3
+|-
+|[[2010–11 1. FC Nürnberg season|2010–11]]&lt;ref&gt;{{cite web|title=Ilkay Gündogan, Spieler-Statistik 2010/11|url=https://www.kicker.de/news/fussball/bundesliga/vereine/2010-11/48408/vereinsspieler_ilkay-guendogan.html|website=kicker.de|publisher=kicker|accessdate=11 August 2018|language=German}}&lt;/ref&gt;
+|Bundesliga
+|25||5||1||0||colspan=2|—||colspan=2|—||colspan=2|—||26||5
+|-
+!colspan=2|Total
+!48||6||3||1||colspan=2|—||colspan=2|—||2||1||53||8
+|-
+|[[Borussia Dortmund II]]
+|[[2011–12 Regionalliga|2011–12]]&lt;ref name=kicker1112&gt;{{cite web|title=Ilkay Gündogan, Spieler-Statistik 2011/12|url=https://www.kicker.de/news/fussball/bundesliga/vereine/2011-12/48408/vereinsspieler_ilkay-guendogan.html|website=kicker.de|publisher=kicker|accessdate=11 August 2018|language=German}}&lt;/ref&gt;
+|Regionalliga West
+|1||0||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||1||0
+|-
+|rowspan=6|[[Borussia Dortmund]]
+|[[2011–12 Borussia Dortmund season|2011–12]]&lt;ref name=kicker1112/&gt;
+|Bundesliga
+|28||3||5||1||colspan=2|—||2{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||1{{efn|name=DFLS|Appearance in [[DFL-Supercup]]}}||0||36||4
+|-
+|[[2012–13 Borussia Dortmund season|2012–13]]&lt;ref&gt;{{cite web|title=Ilkay Gündogan, Spieler-Statistik 2012/13|url=https://www.kicker.de/news/fussball/bundesliga/vereine/2012-13/48408/vereinsspieler_ilkay-guendogan.html|website=kicker.de|publisher=kicker|accessdate=11 August 2018|language=German}}&lt;/ref&gt;
+|Bundesliga
+|28||3||4||0||colspan=2|—||12{{efn|name=UCL}}||1||1{{efn|name=DFLS}}||0||45||4
+|-
+|[[2013–14 Borussia Dortmund season|2013–14]]&lt;ref&gt;{{cite web|title=Ilkay Gündogan, Spieler-Statistik 2013/14|url=https://www.kicker.de/news/fussball/bundesliga/vereine/2013-14/48408/vereinsspieler_ilkay-guendogan.html|website=kicker.de|publisher=kicker|accessdate=11 August 2018|language=German}}&lt;/ref&gt;
+|Bundesliga
+|1||0||1||0||colspan=2|—||0||0||1{{efn|name=DFLS}}||1||3||1
+|-
+|[[2014–15 Borussia Dortmund season|2014–15]]&lt;ref&gt;{{cite web|title=Ilkay Gündogan, Spieler-Statistik 2014/15|url=https://www.kicker.de/news/fussball/bundesliga/vereine/2014-15/48408/vereinsspieler_ilkay-guendogan.html|website=kicker.de|publisher=kicker|accessdate=11 August 2018|language=German}}&lt;/ref&gt;
+|Bundesliga
+|23||3||4||0||colspan=2|—||6{{efn|name=UCL}}||0||colspan=2|—||33||3
+|-
+|[[2015–16 Borussia Dortmund season|2015–16]]&lt;ref&gt;{{cite web|title=Ilkay Gündogan, Spieler-Statistik 2015/16|url=https://www.kicker.de/news/fussball/bundesliga/vereine/2015-16/48408/vereinsspieler_ilkay-guendogan.html|website=kicker.de|publisher=kicker|accessdate=11 August 2018|language=German}}&lt;/ref&gt;
+|Bundesliga
+|25||1||5||1||colspan=2|—||10{{efn|Appearances in [[UEFA Europa League]]}}||1||colspan=2|—||40||3
+|-
+!colspan=2|Total
+!105||10||19||2||colspan=2|—||30||2||3||1||157||15
+|-
+|rowspan=4|[[Manchester City F.C.|Manchester City]]
+|[[2016–17 Manchester City F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|53392|2016|accessdate=28 January 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|10||3||0||0||0||0||6{{efn|name=UCL}}||2||colspan=2|—||16||5
+|-
+|[[2017–18 Manchester City F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|53392|2017|accessdate=28 January 2018}}&lt;/ref&gt;
+|Premier League
+|30||4||3||0||6||0||9{{efn|name=UCL}}||2||colspan=2|—||48||6
+|-
+|[[2018–19 Manchester City F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|53392|2018|accessdate=27 January 2019}}&lt;/ref&gt;
+|Premier League
+|21||5||3||0||3||0||5{{efn|name=UCL}}||0||1{{efn|Appearance in [[FA Community Shield]]}}||0||33||5
+|-
+!colspan=2|Total
+!61||12||6||0||9||0||20||4||1||0||97||16
+|-
+!colspan=3|Career total
+!217||29||28||3||9||0||50||6||6||2||310||40
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 9 September 2018}}&lt;ref name=NFT&gt;{{NFT player |id=44277 |name=Gündoğan, İlkay |accessdate=15 October 2018}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=8|[[Germany national football team|Germany]]
+|2011||1||0
+|-
+|2012||3||0
+|-
+|2013||4||2
+|-
+|2014||0||0
+|-
+|2015||8||2
+|-
+|2016||4||0
+|-
+|2017||2||0
+|-
+|2018||7||0
+|-
+!colspan=2|Total||29||4
+|}
+
+===International goals===
+''Scores and results list Germany's goal tally first, score column indicates score after each Gündogan goal.''&lt;ref name=NFT/&gt;&lt;ref&gt;{{cite web|title=İlkay Gündoğan|url=http://eu-football.info/_player.php?id=27343|publisher=European Football|accessdate=13 June 2015}}&lt;/ref&gt;
+
+{| class="wikitable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row style=text-align:center|1
+|26 March 2013||[[Frankenstadion]], [[Nuremberg]], Germany||align=center|7||{{fb|KAZ}}||align=center|3–0||align=center|4–1||[[2014 FIFA World Cup qualification]]
+|-
+!scope=row style=text-align:center|2
+|14 August 2013||[[Fritz-Walter-Stadion]], [[Kaiserslautern]], Germany||align=center|8||{{fb|PAR}}||align=center|1–2||align=center|3–3||[[Exhibition game#Association football|Friendly]]
+|-
+!scope=row style=text-align:center|3
+|13 June 2015||[[Estádio Algarve]], [[Faro, Portugal|Faro]], Portugal||align=center|11||{{fb|GIB}}||align=center|3–0||align=center|7–0||[[UEFA Euro 2016 qualifying]]
+|-
+!scope=row style=text-align:center|4
+|7 September 2015||[[Hampden Park]], [[Glasgow]], Scotland||align=center|13||{{fb|SCO}}||align=center|3–2||align=center|3–2||UEFA Euro 2016 qualifying
+|}
+
+==Honours==
+'''Borussia Dortmund'''&lt;ref name=SW&gt;{{soccerway|-gundogan/69050|accessdate=11 August 2018}}&lt;/ref&gt;
+*[[Bundesliga]]: [[2011–12 Bundesliga|2011–12]]
+*[[DFB-Pokal]]: [[2011–12 DFB-Pokal|2011–12]]
+*[[DFL-Supercup]]: [[2013 DFL-Supercup|2013]]
+*[[UEFA Champions League]] runner-up: [[2012–13 UEFA Champions League|2012–13]]
+
+'''Manchester City'''
+*[[Premier League]]: [[2017–18 Premier League|2017–18]]&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/5101/Ilkay-Gündogan/overview |title=Ilkay Gündogan: Overview |publisher=Premier League |accessdate=15 May 2018}}&lt;/ref&gt;
+*[[EFL Cup]]: [[2017–18 EFL Cup|2017–18]],&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/43101681 |title=Arsenal 0–3 Manchester City |first=Phil |last=McNulty |publisher=BBC Sport |date=25 February 2018 |accessdate=25 February 2018}}&lt;/ref&gt; [[2018–19 EFL Cup|2018–19]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/47268861 |title=Chelsea 0–0 Manchester City |first=Phil |last=McNulty |publisher=BBC Sport |date=24 February 2019 |accessdate=24 February 2019}}&lt;/ref&gt;
+*[[FA Community Shield]]: [[2018 FA Community Shield|2018]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44995783 |title=Chelsea 0–2 Manchester City |first=Chris |last=Bevan |publisher=BBC Sport |date=5 August 2018 |accessdate=7 August 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*[[European Sports Media#ESM Team of the Year|ESM Team of the Year]]: [[European Sports Magazines#2012–13|2013]]&lt;ref name="kicker.de_2013"&gt;{{cite web | url = http://www.kicker.de/news/fussball/intligen/startseite/543774/artikel_European-Sports-Magazines-Top-11.html | title = ESM-Top-11: Nur Torres und Ivanovic durchbrechen Bundesliga-Phalanx | language = German | publisher = kicker.de | date = 12 June 2013 | accessdate = 18 July 2014}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Official website}}
+*{{FIFA player}}
+*{{UEFA player}}
+*{{Fussballdaten}}
+*[http://www.kicker.de/news/fussball/bundesliga/vereine/1-bundesliga/2013-14/borussia-dortmund-17/48408/spieler_ilkay-guendogan.html kicker profile] {{De icon}}
+*{{Soccerbase}}
+
+{{Manchester City F.C. squad}}
+{{Navboxes
+| title = Germany squads
+| bg = white
+| fg = black
+| bordercolor = black
+| list1 =
+{{Germany squad UEFA Euro 2012}}
+{{Germany squad 2018 FIFA World Cup}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gundogan, Ilkay}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Gelsenkirchen]]
+[[Category:German people of Turkish descent]]
+[[Category:Footballers from North Rhine-Westphalia]]
+[[Category:German footballers]]
+[[Category:Germany under-21 international footballers]]
+[[Category:Germany youth international footballers]]
+[[Category:Germany international footballers]]
+[[Category:Association football midfielders]]
+[[Category:VfL Bochum II players]]
+[[Category:1. FC Nürnberg players]]
+[[Category:Borussia Dortmund players]]
+[[Category:Borussia Dortmund II players]]
+[[Category:Manchester City F.C. players]]
+[[Category:Regionalliga players]]
+[[Category:2. Bundesliga players]]
+[[Category:Bundesliga players]]
+[[Category:Premier League players]]
+[[Category:UEFA Euro 2012 players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:German expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:German expatriate sportspeople in England]]</text>
+      <sha1>om03mttr8q0g3kxinvwn06w3ratqekq</sha1>
+    </revision>
+  </page>
+</mediawiki>

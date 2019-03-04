@@ -1,0 +1,1092 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Leicester City F.C.</title>
+    <ns>0</ns>
+    <id>298602</id>
+    <revision>
+      <id>886052916</id>
+      <parentid>886052691</parentid>
+      <timestamp>2019-03-04T00:25:28Z</timestamp>
+      <contributor>
+        <username>SamCham10</username>
+        <id>29925587</id>
+      </contributor>
+      <comment>Undid revision 886052691 by [[Special:Contributions/SamCham11|SamCham11]] ([[User talk:SamCham11|talk]]) vandalism</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="136315">{{EngvarB|date=December 2016}}
+{{Use dmy dates|date=July 2018}}
+{{Infobox football club
+| nickname    = The Foxes
+| ground      = [[King Power Stadium]]
+| capacity    = 32,273&lt;ref&gt;{{Premier League Handbook Season 2018/19}}&lt;/ref&gt;
+| clubname    = Leicester City
+| image       = Leicester City crest.svg
+| fullname    = Leicester City Football Club
+| founded     = {{Start date and age|df=yes|1884}}&lt;br&gt;(as ''Leicester Fosse FC'')
+| owner       = [[King Power|King Power International Group]]
+| chairman    = [[Aiyawatt Srivaddhanaprabha]]
+| manager     = [[Brendan Rodgers]]
+| league      = {{English football updater|LeicestC}}
+| season      = {{English football updater|LeicestC2}}
+| position    = {{English football updater|LeicestC3}}
+| pattern_la1 = _leicester1819h
+| pattern_b1  = _leicester1819h
+| pattern_ra1 = _leicester1819h
+| pattern_sh1 = _white_stripes_adidas
+| pattern_so1 = _sch0810h
+| leftarm1    = 0101E8
+| body1       = 0101E8
+| rightarm1   = 0101E8
+| shorts1     = 0101E8
+| socks1      = 0101E8
+| pattern_la2 = _leicester1819a
+| pattern_b2  = _leicester1819a
+| pattern_ra2 = _leicester1819a
+| pattern_sh2 = _leicester1819a
+| pattern_so2 = _leicester1819a
+| leftarm2    = 6C8193
+| body2       = 6C8193
+| rightarm2   = 6C8193
+| shorts2     = 6C8193
+| socks2      = 6C8193
+| pattern_la3 = 
+| pattern_b3  = _lcfc1819t
+| pattern_ra3 = 
+| pattern_sh3 = _lcfc1819t
+| pattern_so3 = _3 stripes on white
+| leftarm3    = FFFFFF
+| body3       = FFFFFF
+| rightarm3   = FFFFFF
+| shorts3     = FFFFFF
+| socks3      = 0101E8
+| current     = 2018–19 Leicester City F.C. season
+| website     = http://www.lcfc.com
+}}
+&lt;!--
+{{Football squad end}}
+PLEASE NOTE:
+
+This section is the introduction. Please do not add too much detail here. Instead add it in the relevant section below or in the relevant daughter article. This especially applies to details of recent events. --&gt;
+
+'''Leicester City Football Club''' is an English professional [[association football|football]] club based in [[Leicester]] in the East Midlands. The club competes in the [[Premier League]], England's top division of football, and plays its home games at the [[King Power Stadium]].&lt;ref&gt;{{cite web|url=http://www.stadiumguide.com/kingpowerstadium/|title=Walkers Stadium |year=2004|work=The Stadium Guide website|publisher=The Stadium Guide|accessdate=31 October 2013}}&lt;/ref&gt;
+
+The club was founded in 1884 as '''Leicester Fosse F.C.''',&lt;ref name="An Indepth History of Leicester City"&gt;{{cite web|url=http://www.lcfc.premiumtv.co.uk/page/History/0,,10274,00.html |archiveurl=https://web.archive.org/web/20090621091515/http://www.lcfc.com/page/History/0%2C%2C10274%2C00.html |archivedate=21 June 2009 |title=The History of Leicester City Football Club |publisher=Leicester City F.C. |accessdate=31 October 2013 |deadurl=yes |df= }}&lt;/ref&gt; playing on a field near Fosse Road. They moved to [[Filbert Street]] in 1891, were elected to [[the Football League]] in 1894 and adopted the name Leicester City in 1919. They moved to the nearby Walkers Stadium in 2002,&lt;ref&gt;{{cite web |url=http://www.filbertstreet.net/filbert.php3 |title=A History of Filbert Street |publisher=Filbertstreet.net |accessdate=3 September 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110929231836/http://www.filbertstreet.net/filbert.php3 |archivedate=29 September 2011  }}&lt;/ref&gt; which was renamed the King Power Stadium in 2011.
+
+Leicester won the [[2015–16 Premier League]], their first [[List of English football champions|top-level football championship]]. They are one of only six clubs to have won the Premier League since its inception in 1992. A number of newspapers described Leicester's title win as the greatest sporting shock ever, considering at the start of the season they were favourites to face [[Promotion and relegation|relegation]].&lt;ref&gt;{{cite web|url=https://www.telegraph.co.uk/football/2016/05/03/leicester-citys-football-fairytale-touches-us-all/|title=Leicester City's football fairytale touches us all}}&lt;/ref&gt; Multiple [[bookmaker]]s had never paid out at such long odds for any sport.&lt;ref name="SL upset"&gt;{{cite news|title=Sport's greatest-ever upset|url=http://www.sportinglife.com/football/news/article/165/10266888/leicesters-premier-league-triumph-considered-the-greatest-ever-sporting-upset|accessdate=3 May 2016|work=Sporting Life|date=2 May 2016|archiveurl=https://web.archive.org/web/20160503123546/http://www.sportinglife.com/football/news/article/165/10266888/leicesters-premier-league-triumph-considered-the-greatest-ever-sporting-upset|archivedate=3 May 2016}}&lt;/ref&gt;&lt;ref name="Mail odds"&gt;{{cite news|last1=Harris|first1=Nick|title=Just what were the odds? Leicester City the bookie bashers|url=http://www.dailymail.co.uk/sport/football/article-3567742/Just-odds-Leicester-City-s-remarkable-rise-Premier-League-table-five-times-likely-man-moon.html|accessdate=3 May 2016|work=Daily Mail|date=1 May 2016|archiveurl=https://archive.today/20160503064132/http://www.dailymail.co.uk/sport/football/article-3567742/Just-odds-Leicester-City-s-remarkable-rise-Premier-League-table-five-times-likely-man-moon.html|archivedate=3 May 2016}}&lt;/ref&gt;&lt;ref name="ESPN long shot"&gt;{{cite news|last1=Markazi|first1=Arash|title=How longest of long shots could make history|url=http://espn.go.com/espn/feature/story/_/id/14759409/why-leicester-city-become-biggest-long-shot-champion-sports-history|accessdate=3 May 2016|publisher=ESPN|date=12 February 2016|archiveurl=https://web.archive.org/web/20160503041117/http://espn.go.com/espn/feature/story/_/id/14759409/why-leicester-city-become-biggest-long-shot-champion-sports-history|archivedate=3 May 2016}}&lt;/ref&gt; As a result, the team was dubbed "The Unbelievables", a spin-off harking back to [[Arsenal F.C.|Arsenal]]'s undefeated team "[[The Invincibles (football)#Arsenal|The Invincibles]]".&lt;ref&gt;Bevan, David "The Unbelievables: The Amazing Story of Leicester's 2015/16 Season", 30 June 2016.&lt;/ref&gt; The club's previous highest ever finish was second place in the top flight, in [[The Football League 1928–29|1928–29]], then known as Division One. Throughout Leicester's history, they have spent all but one season in the top two leagues of English football. They hold a joint-highest seven second-tier titles (six Second Division and one Championship).
+
+The club have been [[FA Cup]] finalists four times, in [[1948–49 FA Cup|1948–49]], [[1960–61 FA Cup|1960–61]], [[1962–63 FA Cup|1962–63]] and [[1968–69 FA Cup|1968–69]]. This is a tournament record for the most defeats in the final without having won the competition. Leicester have several promotions to their name, two play-off final wins, and one [[Football League One|League One]] [[List of winners of English Football League One and predecessors|title]]. In [[1971 FA Charity Shield|1971]], they won the [[FA Community Shield]], and in [[2016 FA Community Shield|2016]], they were runners-up. The club have won the [[Football League Cup|League Cup]] three times in [[1964 Football League Cup Final|1964]], [[1997 Football League Cup Final|1997]] and [[2000 Football League Cup Final|2000]], as well as being runners-up in [[1965 Football League Cup Final|1965]] and [[1999 Football League Cup Final|1999]]. Leicester City have also competed in European football, featuring in the [[1961–62 European Cup Winners' Cup]], [[1997–98 UEFA Cup]], [[2000–01 UEFA Cup]], and most recently the [[2016–17 UEFA Champions League]], reaching the quarter-finals of the competition in that year.
+
+==History==
+{{Main|History of Leicester City F.C.}}
+[[File:LeicFosse1892.jpg|thumb|right|The Leicester Fosse team of 1892]]
+
+===Founding and early years (1884-1949)===
+Formed in 1884 by a group of old boys of [[Wyggeston and Queen Elizabeth I College|Wyggeston School]] as "Leicester Fosse", the club joined [[The Football Association]] (FA) in 1890.&lt;ref name="OBAF"&gt;{{Cite book|last=Sewell|first=Albert|title=Observers Book of Association Football|publisher=Frederick Warne &amp; co. |location=London, England|year=1974|page=58|isbn=978-0-7232-1536-3}}&lt;/ref&gt; Before moving to [[Filbert Street]] in 1891, the club played at five different grounds, including [[Victoria Park, Leicester|Victoria Park]] south-east of the city centre and the [[Belgrave Road Cycle and Cricket Ground]].&lt;ref&gt;{{cite web|url=http://www.leicestermercury.co.uk/Short-sporting-lifetime/story-12030623-detail/story.html|work=Leicester Mercury|title=Short sporting lifetime|date=1 February 2010|accessdate=31 October 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20151002163351/http://www.leicestermercury.co.uk/Short-sporting-lifetime/story-12030623-detail/story.html|archivedate=2 October 2015}}&lt;/ref&gt; The club also joined the [[Midland League (1889)|Midland League]] in 1891, and were elected to Division Two of the [[Football League]] in 1894 after finishing second. Leicester's first ever Football League game was a 4–3 defeat at [[Grimsby Town F.C.|Grimsby Town]], with a first League win the following week, against [[Rotherham United F.C.|Rotherham United]] at Filbert Street. The same season also saw the club's largest win to date, a 13–0 victory over Notts Olympic in an [[FA Cup]] qualifying game.&lt;ref name="An Indepth History of Leicester City"/&gt; In [[1907–08 in English football|1907–08]] the club finished as Second Division runners-up, gaining [[promotion and relegation|promotion]] to the First Division, the highest level of English football. However, the club were relegated after a single season which included the club's record defeat, a 12–0 loss against [[Nottingham Forest F.C.|Nottingham Forest]].&lt;ref name="An Indepth History of Leicester City"/&gt;&lt;ref&gt;{{cite web|url=http://www.soccerbase.com/tournaments/tournament.sd?tourn_id=1271|title=Final 1908/1909 English Division 1 (old) Table|publisher=Football DataCo Limited|accessdate=31 October 2013}}&lt;/ref&gt;
+
+In 1919, when League football resumed after [[World War I]], Leicester Fosse ceased trading due to financial difficulties of which little is known. The club was reformed as "Leicester City Football Club", particularly appropriate as the borough of Leicester had recently been given [[City status in the United Kingdom|city status]]. Following the name change, the club enjoyed moderate success in the 1920s; under the management of Peter Hodge, who left in May 1926 to be replaced two months later by Willie Orr, and with record goalscorer [[Arthur Chandler (footballer)|Arthur Chandler]] in the side,&lt;ref name="Soceerbase profile"&gt;{{cite web|url=http://www.soccerbase.com/teams/team.sd?team_id=1527&amp;teamTabs=records |title=All Time Leicester Records &amp; Achievements |publisher=Soccerbase.com |accessdate=31 October 2013}}&lt;/ref&gt; they won the Division Two title in [[1924–25 in English football|1924–25]]&lt;ref&gt;{{cite web |url=http://www.statto.com/football/teams/leicester-city/1924-1925/table |title=Leicester City 1924–1925 : English Division Two (old) Table |publisher=Statto.com |accessdate=31 October 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131102113855/http://www.statto.com/football/teams/leicester-city/1924-1925/table |archivedate=2 November 2013  }}&lt;/ref&gt; and recorded their second-highest league finish in [[1928–29 in English football|1928–29]] as runners-up by a single point to [[Sheffield Wednesday F.C.|Sheffield Wednesday]].&lt;ref name="OBAF"/&gt; However the 1930s saw a downturn in fortunes, with the club relegated in [[1934–35 in English football|1934–35]]&lt;ref&gt;{{cite web |url=http://www.statto.com/football/teams/leicester-city/1934-1935/table |title=Leicester City 1934–1935 : English Division Two (old) Table |publisher=Statto.com |accessdate=31 October 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131102113859/http://www.statto.com/football/teams/leicester-city/1934-1935/table |archivedate=2 November 2013  }}&lt;/ref&gt; and, after promotion in [[1936–37 in English football|1936–37]],&lt;ref&gt;{{cite web |url=http://www.statto.com/football/teams/leicester-city/1936-1937/table |title=Leicester City 1936–1937 : English Division Two (old) Table |publisher=Statto.com |accessdate=31 October 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131102113934/http://www.statto.com/football/teams/leicester-city/1936-1937/table |archivedate=2 November 2013  }}&lt;/ref&gt; another relegation in [[1938–39 in English football|1938–39]] would see them finish the decade in Division Two.&lt;ref name="An Indepth History of Leicester City"/&gt;&lt;ref&gt;{{cite web |url=http://www.statto.com/football/teams/leicester-city/1938-1939/table |title=Leicester City 1938–1939 : English Division Two (old) Table |publisher=Statto.com |accessdate=31 October 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131102113825/http://www.statto.com/football/teams/leicester-city/1938-1939/table |archivedate=2 November 2013  }}&lt;/ref&gt;
+
+[[File:Leicester City FC League Performance.svg|350px|thumb|Historical league positions of Leicester City in the Football League]]
+
+===Post-World War II (1949-2000)===
+City reached the FA Cup final for the first time in their history in 1949,&lt;ref name="An Indepth History of Leicester City"/&gt;&lt;ref&gt;{{cite web|url=http://www.soccerbase.com/tournaments/tournament.sd?tourn_id=674 |title=Socerbase.com FA Cup 1949 |publisher=Soccerbase.com |accessdate=31 October 2013}}&lt;/ref&gt; losing 3–1 to [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]. The club, however, was celebrating a week later when a draw on the last day of the season ensured survival in Division Two.&lt;ref&gt;{{cite web |url=http://www.statto.com/football/teams/leicester-city/1948-1949/results |title=Leicester City 1948–1949 : Results |publisher=Statto.com |accessdate=31 October 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131102113822/http://www.statto.com/football/teams/leicester-city/1948-1949/results |archivedate=2 November 2013  }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.statto.com/football/teams/leicester-city/1948-1949/table |title=Leicester City 1948–1949 : English Division Two (old) Table |publisher=Statto.com |accessdate=31 October 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131102113820/http://www.statto.com/football/teams/leicester-city/1948-1949/table |archivedate=2 November 2013  }}&lt;/ref&gt; Leicester won the Division Two championship in 1954,&lt;ref&gt;{{cite web |url=http://www.statto.com/football/teams/leicester-city/1953-1954/table |title=Leicester City 1953–1954 : English Division Two (old) Table |publisher=Statto.com |accessdate=31 October 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131102113817/http://www.statto.com/football/teams/leicester-city/1953-1954/table |archivedate=2 November 2013  }}&lt;/ref&gt; with the help of Arthur Rowley, one of the club's most prolific strikers. Although they were relegated from Division One the next season, under [[Dave Halliday]] they returned in 1957,&lt;ref&gt;{{cite web|url=http://www.qosfc.com/new_legendsview.aspx?playerid=1048|title=QosFC: Legends – Dave Halliday|work=qosfc.com}}&lt;/ref&gt; with Rowley scoring a club record 44 goals in one season.&lt;ref name="Soceerbase profile" /&gt; Leicester remained in Division One until 1969,&lt;ref&gt;{{cite news|title=Leicester City drops into second division|url=https://news.google.com/newspapers?id=x_BUAAAAIBAJ&amp;sjid=sDwNAAAAIBAJ&amp;pg=2115%2C3843231|date=20 May 1969|accessdate=2 January 2013|newspaper=Leader-Post|location=Regina|agency=Reuters|page=21}}&lt;/ref&gt; their longest period ever in the top flight.
+
+Under the management of [[Matt Gillies]] and his assistant [[Bert Johnson (footballer)|Bert Johnson]], Leicester reached the FA Cup final on another two occasions, but lost in both [[1961 FA Cup Final|1961]] and [[1963 FA Cup Final|1963]].&lt;ref name="An Indepth History of Leicester City"/&gt; As they lost to double winners [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in 1961, they were England's representatives in the [[European Cup Winners' Cup 1961–62|1961–62 European Cup Winners' Cup]]. In the [[1963 in association football|1962–63 season]], the club led the First Division during the winter, thanks to a sensational run of form on icy and frozen pitches the club became nicknamed the ''[[1962–63 Leicester City F.C. season|"Ice Kings"]]'' eventually placed fourth, the club's best post-war finish. Gillies guided Leicester to their first piece of silverware in 1964, when Leicester beat [[Stoke City F.C.|Stoke City]] 4–3 on aggregate to win the [[EFL Cup|League Cup]] for the first time.&lt;ref name="An Indepth History of Leicester City"/&gt; Leicester also reached the League Cup final the following year, but lost 3–2 on aggregate to [[Chelsea F.C.|Chelsea]]. Gillies and Johnson received praise for their version of the "whirl" and the "switch" system, a system that had previously been used by the Austrian and Hungarian national teams.&lt;ref name="guardian"&gt;{{cite news|title=The forgotten story of ... Leicester City: Ice Kings|url=https://www.theguardian.com/football/blog/2011/oct/06/forgotten-story-leicester-city-ice-kings|work=The Guardian|accessdate=31 October 2013|location=London|first=Rob|last=Bagchi|date=6 October 2011}}&lt;/ref&gt; After a bad start to the season, Matt Gillies resigned in November 1968. His successor, [[Frank O'Farrell]] was unable to prevent relegation, but the club reached the FA Cup final in [[1969 FA Cup Final|1969]] for the last time to date, losing to Manchester City 1–0.
+
+[[File:Robbie Savage.jpg|thumb|[[Robbie Savage]] in action against [[Barnsley F.C.|Barnsley]] during the [[1997-98 in English football|1997–98]] season.]]
+In 1971, Leicester were promoted back to Division One, and won the [[1971 FA Charity Shield|Charity Shield]] for the only time.&lt;ref name="An Indepth History of Leicester City"/&gt; Unusually, due to [[Double (association football)|double]] winners [[Arsenal F.C.|Arsenal]]'s commitments in European competition, Division Two winners Leicester were invited to play FA Cup runners-up [[Liverpool F.C.|Liverpool]], beating them 1–0&lt;ref name="An Indepth History of Leicester City"/&gt; thanks to a goal by Steve Whitworth.&lt;ref name=nick&gt;{{cite news|url=https://www.theguardian.com/sport/blog/2016/aug/04/leicester-city-charity-shield-1971-forgotten-story|title=The forgotten story of ... Leicester City winning the 1971 Charity Shield|work=The Guardian|author=Nick Miller|date=4 August 2016|accessdate=4 August 2016}}&lt;/ref&gt; [[Jimmy Bloomfield]] was appointed for the new season, and his team remained in the First Division for his tenure. No period since Bloomfield has seen the club remain in the top division for so long. Leicester reached the FA Cup semi-final in [[1973–74 FA Cup|1973–74]].&lt;ref name="The Age 1975-04-05"&gt;{{Cite news|url=https://news.google.com/newspapers?id=kBAQAAAAIBAJ&amp;sjid=wpADAAAAIBAJ&amp;pg=5919,1069364&amp;dq=leicester+fa+cup+semi-final|title=Liverpool in 5th Cup Final|date=5 April 1975|work=The Age|page=26 |accessdate=16 September 2009}}&lt;/ref&gt;
+
+[[Frank McLintock]], a noted player for seven years for Leicester in a successful period from the late Fifties to the mid Sixties, succeeded Jimmy Bloomfield in 1977. City were relegated at the end of the 1977–78 season and McLintock resigned. [[Jock Wallace]] resumed the tradition of successful Scottish managers (after Peter Hodge and Matt Gillies) by steering Leicester to the Division Two championship in [[1979–80 in English football#Second Division|1980]].&lt;ref name="New Straights Times 1980-05-08"&gt;{{Cite news|url=https://news.google.com/newspapers?id=Kq4TAAAAIBAJ&amp;sjid=mY4DAAAAIBAJ&amp;pg=5450,1043042&amp;dq=leicester+championship|title=Liverpool finally get something|date=8 May 1980|work=New Straights Times|page=30|accessdate=17 September 2009}}&lt;/ref&gt; Unfortunately, Wallace was unable to keep Leicester in Division One, but they reached the FA Cup semi-final in 1982. Under Wallace, one of City's most famous home-grown players, [[Gary Lineker]], emerged into the first team squad. Leicester's next manager was Gordon Milne, who achieved promotion in 1983. Lineker helped Leicester maintain their place in the First Division but was sold to Everton in 1985 and two years later Leicester were relegated, having failed to find a suitable replacement to partner [[Alan Smith (footballer, born 1962)|Alan Smith]], who was sold to Arsenal after Leicester went down.
+
+Milne left in 1986 and was replaced in 1987 by David Pleat, who was sacked in January 1991 with Leicester in danger of relegation to the Third Division. [[Gordon Lee (footballer)|Gordon Lee]] was put in charge of the club until the end of the season. Leicester won their final game of the season, which guided them clear of relegation to the third tier of the football league.&lt;ref name="An Indepth History of Leicester City"/&gt;
+
+[[Brian Little (footballer)|Brian Little]] took over in 1991 and by the end of the 1991–92 season Leicester had reached the playoff final for a place in the new [[FA Premier League]], but lost to [[Blackburn Rovers F.C.|Blackburn Rovers]] and a penalty from former Leicester striker [[Mike Newell (footballer)|Mike Newell]]. The club also reached the playoff final the following year, losing 4–3 to [[Swindon Town F.C.|Swindon Town]], having come back from 3–0 down. In 1993–94 City were promoted from the playoffs, beating [[Derby County F.C.|Derby County]] 2–1 in the final.&lt;ref name="An Indepth History of Leicester City"/&gt; Little quit as Leicester manager the following November to take charge at [[Aston Villa F.C.|Aston Villa]], and his successor [[Mark McGhee]] was unable to save Leicester from finishing second from bottom in the 1994–95 season.
+
+McGhee left the club unexpectedly in December 1995 while Leicester were top of the [[1995–96 Football League#First Division|First Division]] to take charge of Wolverhampton Wanderers.&lt;ref name="The Independent 1995-12-14"&gt;{{Cite news|url=https://www.independent.co.uk/sport/mcghee-the-new-man-at-molineux-1525726.html|title= McGhee the new man at Molineux |date=14 December 1995|work=The Independent|accessdate=16 September 2009 | location=London}}&lt;/ref&gt; McGhee was replaced by [[Martin O'Neill]].&lt;ref name="An Indepth History of Leicester City"/&gt; Under O'Neill, Leicester qualified for the [[1996 Football League play-offs]] and beat [[Crystal Palace F.C.|Crystal Palace]] 2–1 in [[1996 Football League First Division play-off Final|the final]] through a 120th minute [[Steve Claridge]] goal to gain promotion to the [[Premier League|FA Premier League]]. Following promotion, Leicester established themselves in the Premier League with four successive top ten finishes. O'Neill ended Leicester's 33-year wait for a major trophy, winning the League Cup twice, in [[1996–97 Football League Cup|1997]] and [[1999–2000 Football League Cup|2000]], and Leicester were runners-up in [[1998–99 Football League Cup|1999]]. Thus, the club qualified for the [[UEFA Europa League|UEFA Cup]] in [[1997–98 UEFA Cup|1997–98]] and [[2000–01 UEFA Cup|2000–01]], the club's first European competition since 1961. In June 2000, O'Neill left Leicester City to take over as manager of [[Celtic F.C.|Celtic]].
+
+===Decline in the early 21st century (2000-2008) ===
+O'Neill was replaced by former [[England national under-21 football team|England under-21]] coach [[Peter John Taylor|Peter Taylor]]. During this time, one of Leicester's European appearances ended in a 3–1 defeat to [[Red Star Belgrade]] on 28 September 2000 in the [[2000–01 UEFA Cup|UEFA Cup]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/uefa_cup/945130.stm |title=Red Star end Leicester dreams |publisher=BBC News |date=28 September 2000 |accessdate=4 May 2016}}&lt;/ref&gt; Leicester began well under Taylor's management, topping the Premier League for two weeks in the autumn and remaining in contention for a European place for most of the campaign, before a late season collapse dragged them down to a 13th-place finish.
+
+Taylor was sacked after a poor start to the [[2001–02 Leicester City F.C. season|2001–02 season]], and his successor [[Dave Bassett]] lasted just six months before being succeeded by his assistant [[Micky Adams]], the change of management being announced just before relegation was confirmed. Leicester won just five league matches all season.
+
+[[File:PrWalkers 5.jpg|thumb|left|The East Stand, [[King Power Stadium]]]]
+Leicester moved into the new 32,500-seat [[King Power Stadium|Walkers Stadium]] at the start of the [[2002–03 Leicester City F.C. season|2002–03 season]], ending 111 years at Filbert Street. [[Walkers (snack foods)|Walkers]], the Leicestershire-based [[potato chip|crisp]] manufacturers, acquired the naming rights for a ten-year period.&lt;ref&gt;{{cite web |url=http://talkingballs.co.uk/showthread.php/2818-Questions-for-Mr-Davies?p=51973#post51973 |title=Statement by the Foxes Trust on an unofficial forum |publisher=Talkingballs.co.uk |date=24 November 2004 |accessdate=31 October 2013 |archive-url=https://web.archive.org/web/20160306154457/http://talkingballs.co.uk/showthread.php/2818-questions-for-mr-davies?p=51973#post51973 |archive-date=6 March 2016 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; In October 2002, the club went into administration with debts of £30&amp;nbsp;million. Some of the reasons were the loss of TV money ([[ITV Digital]], itself in administration, had promised money to First Division clubs for TV rights), the large wage bill, lower than expected fees for players transferred to other clubs and the £37&amp;nbsp;million cost of the new stadium.&lt;ref&gt;{{cite news| url=http://news.bbc.co.uk/1/hi/business/2349397.stm | publisher=BBC News | title=Leicester City put into administration | date=22 October 2002}}&lt;/ref&gt; Adams was banned from the transfer market for most of the season, even after the club was rescued with a takeover by a consortium led by Gary Lineker.&lt;ref name="An Indepth History of Leicester City"/&gt; Adams guided Leicester to the runners-up spot in Division One and automatic promotion back to the Premier League with more than 90 points. However, Leicester lasted only one season in the top flight and were relegated to the newly labelled [[EFL Championship|Championship]], previously known as Division One.
+
+When Adams resigned as manager in October 2004, [[Craig Levein]] was appointed boss. This would prove to be an unsuccessful period and after 15 months in charge, Levein was sacked, having failed to get ''the Foxes'' anywhere near the promotion places. Assistant manager [[Rob Kelly]] took over as caretaker manager, and after winning three out of four matches, was appointed to see out the rest of the season. Kelly steered Leicester to safety and in April 2006 was given the manager's job on a permanent basis.&lt;ref name="An Indepth History of Leicester City"/&gt;
+
+In October 2006, ex-[[Portsmouth F.C.|Portsmouth]] chairman [[Milan Mandarić]] was quoted as saying he was interested in buying the club, reportedly at a price of around £6&amp;nbsp;million, with the current playing squad valued at roughly £4.2&amp;nbsp;million. The takeover was formally announced on 13 February 2007.&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/sport1/hi/football/6355687.stm|title= Mandarić seals Leicester takeover |date=13 February 2007|publisher=BBC Sport |accessdate=31 October 2013}}&lt;/ref&gt; On 11 April 2007, Rob Kelly was sacked as manager and [[Nigel Worthington]] appointed as caretaker manager until the end of the season. Worthington saved the club from relegation, but was not offered the job on a permanent basis. On 25 May 2007, the club announced former [[Milton Keynes Dons F.C.|Milton Keynes Dons]] manager [[Martin Allen]] as their new manager with a three-year contract. Allen's relationship with Mandarić became tense and after only four matches, Allen left by mutual consent on 29 August 2007. On 13 September 2007, Mandarić announced [[Gary Megson]] as the new manager of the club, citing Megson's "wealth of experience" as a deciding factor in the appointment. However, Megson left on 24 October 2007 after only six weeks in charge, following an approach made for his services by [[Bolton Wanderers F.C.|Bolton Wanderers]]. Mandarić placed [[Frank Burrows]] and [[Gerry Taggart]] in the shared position as caretaker managers until a professional manager was appointed.
+[[File:Nigel and Milan.jpg|thumb|right|[[Nigel Pearson|Pearson]] and [[Milan Mandarić|Mandarić]] after winning the [[Football League One]] title.]]
+On 22 November, [[Ian Holloway]] was appointed manager, and he became the first Leicester manager in over 50 years to win his first league match in charge, beating [[Bristol City F.C.|Bristol City]] 2–0.&lt;ref name="The Independent 2007-11-26"&gt;{{Cite news|url=https://www.independent.co.uk/sport/football/football-league/bristol-city-0-leicester-city-2-flexible-fleming-makes-successful-start-760531.html|title= Bristol City 0 Leicester City 2: 'Hollywood' Holloway makes successful start|last=Nickless|first=Graham|date=26 November 2007|work=The Independent|accessdate=16 September 2009 | location=London}}&lt;/ref&gt; However, this success did not last, and Leicester were relegated from the Championship at the end of the [[2007–08 Leicester City F.C. season|2007–08 season]]. Holloway left by mutual consent after less than a season at the club, being replaced by [[Nigel Pearson]].
+
+===Third tier to Premier League and takeover (2008-2015)===
+The [[2008–09 Leicester City F.C. season|2008–09 campaign]] was Leicester's first season outside the top two [[English football league system#Promotion and relegation rules for the top eight levels|levels of English football]], but they hit this nadir only seven years before becoming the [[2015–16 Premier League|2015–16]] Premier League champions – the fastest seven-year rise to the top of the [[English football league system]] apart from [[Ipswich Town F.C.|Ipswich Town]] in [[1961–62 Ipswich Town F.C. season|1962]].&lt;ref name="538 Rise"&gt;{{cite web|last1=Roeder|first1=Oliver|title=Leicester City's Stunning Rise, In Two Charts|url=http://fivethirtyeight.com/features/leicester-citys-stunning-rise-in-two-charts/|website=FiveThirtyEight|accessdate=7 May 2016|date=3 May 2016}}&lt;/ref&gt; Following relegation to the third tier the previous season, Leicester returned to the Championship at the first attempt in [[2008–09 Football League One|2008–09]], finishing as champions of [[EFL League One|League One]] after a 2–0 win at [[Southend United F.C.|Southend United]], with two matches in hand. The [[2009–10 Leicester City F.C. season|2009–10 season]] saw Leicester's revival under manager Nigel Pearson continue, as the club finished fifth and reached the [[EFL Championship play-offs|Championship play-offs]] in their first season back in the second tier. Though coming from 2–0 down on aggregate, away to [[Cardiff City F.C.|Cardiff City]], to briefly lead 3–2, they eventually lost to a [[Penalty shootout (association football)|penalty shoot-out]] in the play-off semi-final. At the end of the season, Pearson left Leicester to become the manager of [[Hull City A.F.C.|Hull City]], claiming he felt the club seemed reluctant to keep him, and that [[Paulo Sousa]] had been the club's guest at both play-off games, hinting at a possible replacement. On 7 July 2010, Sousa was confirmed as Pearson's replacement.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/8793219.stm|title= Sousa confirmed as new Leicester boss|date=7 July 2010|publisher=BBC Sport |accessdate=31 October 2013}}&lt;/ref&gt;
+
+In August 2010, following agreement on a three-year shirt sponsorship deal with [[duty-free]] retailers the [[King Power|King Power Group]], Mandarić sold the club to Thai-led consortium Asian Football Investments (AFI), fronted by King Power Group's [[Vichai Srivaddhanaprabha]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/8890815.stm|title=Thai consortium eyes deal to buy Leicester for £39m|publisher=BBC Sport |date=5 August 2010|accessdate=31 October 2013}}&lt;/ref&gt; Mandarić, an investor in AFI,&lt;ref&gt;{{cite news|url=https://www.google.com/hostednews/afp/article/ALeqM5h96i-flVl-Zh-NQeBOoI1XoTi2tg|title=Thai group buys Leicester City|agency=Agence France-Presse  |date=12 August 2010|accessdate=12 August 2010}}&lt;/ref&gt; was retained as club chairman.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/8908211.stm|title=Thai-based consortium seal Leicester City deal|publisher=BBC Sport |date=12 August 2010|accessdate=31 October 2013}}&lt;/ref&gt; On 1 October 2010, after a poor start that saw Leicester bottom of the Championship with only one win out of the first nine league matches, Paulo Sousa was sacked by the club with immediate effect.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/9051656.stm|title=Leicester sack Paulo Sousa|publisher=BBC Sport |date=1 October 2010|accessdate=31 October 2013}}&lt;/ref&gt; Two days later, [[Sven-Göran Eriksson]], who had been approached by the club after the 6–1 loss to then bottom-of-the-table Portsmouth two weeks earlier, was appointed as his replacement, signing a two-year contract with the club.{{cn|date=November 2018}} On 10 February 2011, [[Vichai Raksriaksorn]], part of the Thai-based Asia Football Investments consortium, was appointed new chairman of the club after Mandarić left in November to take over [[Sheffield Wednesday F.C.|Sheffield Wednesday]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/9393953.stm|title=Vichai Raksriaksorn named Leicester City chairman|publisher=BBC Sport |date=10 February 2011|accessdate=31 October 2013}}&lt;/ref&gt;
+
+Leicester were viewed as one of the favourites for promotion in the 2011–12 season, but on 24 October 2011, following an inconsistent start with the Foxes winning just 5 out of their first 13 matches, Eriksson left the club by mutual consent.&lt;ref&gt;{{cite news|title=Sven-Goran Eriksson leaves his role as Leicester boss|url=https://www.bbc.co.uk/sport/0/football/15438896|publisher=BBC Sport|date=24 October 2011|accessdate=31 October 2013}}&lt;/ref&gt; Three weeks later, Nigel Pearson returned to the club as Eriksson's successor. Pearson would go on to lead ''the Foxes'' to a sixth-place finish in the 2012–13 season, ensuring Leicester were in the Championship play-offs. However, Leicester lost the playoff semi-final 3–2 on aggregate to [[Watford F.C.|Watford]] after [[Anthony Knockaert]] missed a late penalty and [[Troy Deeney]] scored right at the end after a swift counterattack from a [[Manuel Almunia]] double save.&lt;ref&gt;{{cite news|title=Leicester City appoint Hull City's Nigel Pearson as boss |url=https://www.bbc.co.uk/sport/0/football/15621888|publisher=BBC Sport|date=15 November 2011|accessdate=7 January 2015}}&lt;/ref&gt;
+
+In 2014, Leicester's march up the league system hit a breakthrough. Their 2–1 home win over Sheffield Wednesday, combined with losses by [[Queens Park Rangers F.C.|Queens Park Rangers]] and [[Derby County F.C.|Derby County]], allowed Leicester City to clinch promotion to the Premier League after a ten-year absence. Later that month, a win at Bolton saw Leicester become the champions of the [[2013–14 Football League Championship|2013–14 Championship]], the seventh time they had been champions of England's second tier.
+
+Leicester started their first season in the Premier League since 2004 with a good run of results in their first five league matches, starting with a 2–2 draw on the opening day against [[Everton F.C.|Everton]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/28917059|title=Leicester City 1–1 Arsenal|author=Mike Whalley|publisher=BBC Sport}}&lt;/ref&gt; ''The Foxes'' then claimed their first Premier League win since May 2004, with a 0–1 win at Stoke City.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/29090535|title=Stoke City 0–1 Leicester City|author=Steve Canavan|publisher=BBC Sport}}&lt;/ref&gt; On 21 September 2014, Leicester went on to produce one of the greatest comebacks in Premier League history to beat [[Manchester United F.C.|Manchester United]] 5–3 at the King Power Stadium after coming back from 3–1 down with 30 minutes left to score four goals. They also made Premier League history by becoming the first team to beat Manchester United from a two-goal deficit since the league's launch in 1992.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/29196081|title=Leicester City 5–3 Manchester United|author=Aimee Lewis|publisher=BBC Sport}}&lt;/ref&gt;
+
+During the [[2014–15 Leicester City F.C. season|2014–15 season]], a dismal run of form saw the team slip to the bottom of the league table with only 19 points from 29 matches. By 3 April 2015, they were seven points adrift from safety. This could have brought a sudden end to Leicester's seven-year rise, but seven wins from their final nine league matches meant ''the Foxes'' finished the season in 14th place with 41 points. They finished the season with a 5–1 thrashing of relegated Queens Park Rangers. Their upturn in results was described as one of the Premier League's greatest ever escapes from relegation.&lt;ref&gt;{{cite web|url=https://www.mirror.co.uk/sport/football/news/leicester-city-staying-up-incredible-5708532|title=The incredible run that secured Leicester City's Premier League survival|first=Liam|last=Corless|date=16 May 2015|work=The Mirror}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.independent.co.uk/sport/football/premier-league/sunderland-vs-leicester-city-reaction-foxes-secure-perhaps-the-greatest-escape-in-premier-league-10255964.html |title=Sunderland vs Leicester City reaction: Foxes secure perhaps the greatest escape in Premier League history |date=17 May 2015 |work=The Independent}}&lt;/ref&gt; They also became only the third team in Premier League history to survive after being bottom at Christmas (the other two being [[West Bromwich Albion F.C.|West Bromwich Albion]] in [[2004–05 FA Premier League|2005]] and [[Sunderland A.F.C.|Sunderland]] in [[2013–14 Premier League|2014]]), and no team with fewer than 20 points from 29 matches had previously stayed up.
+
+===Premier League champions (2015-16)===
+{{football squad on pitch|align=right
+| GK_nat  = Denmark|  GK = '''[[Kasper Schmeichel|Schmeichel]]'''
+| RB_nat  = England|  RB = '''[[Danny Simpson|Simpson]]'''
+| RCB_nat = Jamaica| RCB = '''[[Wes Morgan|Morgan]]'''
+| LCB_nat = Germany| LCB = '''[[Robert Huth|Huth]]'''
+| LB_nat  = Austria|  LB = '''[[Christian Fuchs|Fuchs]]'''
+| RM_nat  = Algeria|  RM = '''[[Riyad Mahrez|Mahrez]]'''
+| RCM_nat = England| RCM = '''[[Danny Drinkwater|Drinkwater]]'''
+| LCM_nat = France| LCM = '''[[N'Golo Kanté|Kanté]]'''
+| RCF_nat = Japan| RCF = '''[[Shinji Okazaki|Okazaki]]'''
+| LM_nat  = England|  LM = '''[[Marc Albrighton|Albrighton]]'''
+| LCF_nat = England| LCF = '''[[Jamie Vardy|Vardy]]'''
+| caption = The usual starting line-up of the Premier League winning team
+&lt;ref&gt;{{cite web|url=http://www.skysports.com/leicester-city-stats |title=Leicester city stats |publisher=Skysports.com |accessdate=17 May 2016}}&lt;/ref&gt;}}
+
+However, on 30 June 2015, Pearson was sacked, with the club stating, "[T]he working relationship between Nigel and the Board is no longer viable." The sacking was linked to a number of [[public relations]] issues involving Pearson throughout the season, with the final straw involving his son [[James Pearson (footballer, born 1993)|James]]' role in a "racist sex tape" made by three Leicester reserve players in Thailand during a post-season goodwill tour.&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/33339566 | title=Nigel Pearson: Leicester boss's sacking linked to son's actions | publisher=BBC Sport | date=1 July 2015 | accessdate=1 July 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.lcfc.com/news/article/leicester-city-parts-company-with-nigel-pearson-2515428.aspx|title=Leicester City parts company with Nigel Pearson|publisher=Leicester City FC|date=30 June 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/33338638|title=Nigel Pearson: Leicester City sack manager|publisher=BBC|date=30 June 2015}}&lt;/ref&gt; Leicester reacted by appointing former Chelsea manager [[Claudio Ranieri]] as their new manager for the new [[2015–16 Premier League|2015–16 Premier League season]].&lt;ref&gt;{{cite web|title=Claudio Ranieri: Leicester City appoint ex-Chelsea manager|url=https://www.bbc.co.uk/sport/0/football/33513290|publisher=BBC Sport|date=13 July 2015|accessdate=29 September 2015}}&lt;/ref&gt; Under Ranieri, the club made an exceptional start to the season. Striker [[Jamie Vardy]] scored 13 goals over 11 consecutive matches from August to November, breaking [[Ruud van Nistelrooy]]'s Premier League record of scoring in 10 consecutive matches.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/34953098 |title=Jamie Vardy breaks record for goals in consecutive games |publisher=[[BBC Sport]] |date=28 November 2015 |accessdate=4 May 2016}}&lt;/ref&gt; On 19 December, Leicester defeated Everton 3–2 at [[Goodison Park]] to top the Premier League on Christmas Day, having been bottom exactly 12 months earlier.&lt;ref&gt;{{cite web|last=Osborne |first=Chris |url=https://www.bbc.co.uk/sport/0/football/35078549 |title=Everton 2–3 Leicester City |publisher=[[BBC Sport]] |date=19 December 2015 |accessdate=4 May 2016}}&lt;/ref&gt; A 2–0 victory at Sunderland on 10 April, coupled with Tottenham Hotspur's 3–0 win over Manchester United, ensured Leicester's qualification for the [[UEFA Champions League]] for the first time in their history.&lt;ref&gt;{{cite news|last1=Clark|first1=Gill|title=Leicester qualify for Champions League|url=http://www.goal.com/en-gb/news/2896/premier-league/2016/04/10/22223602/leicester-qualify-for-champions-league|accessdate=10 April 2016|work=Goal.com|ref=CL qual}}&lt;/ref&gt;
+
+Leicester won the Premier League on 2 May 2016 after Tottenham threw away a 2–0 lead against Chelsea, drawing 2–2 at the "Battle of [[Stamford Bridge (stadium)|Stamford Bridge]]".&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/football/35988673|title=Leicester City win Premier League title after Tottenham draw at Chelsea|author=&lt;!--Staff writer(s); no by-line.--&gt;|date=2 May 2016|accessdate=2 May 2016}}&lt;/ref&gt;&lt;ref name="AL"&gt;{{cite news|last1=Lawrence|first1=Amy|title=Leicester celebrate first title after Chelsea recover for Tottenham draw|url=https://www.theguardian.com/football/2016/may/02/chelsea-tottenham-hotspur-premier-league-match-report|accessdate=2 May 2016|work=The Guardian}}&lt;/ref&gt; This completed the fastest seven-year rise to the title except for Ipswich Town in 1962, and Leicester faced a far more unequal top tier than Ipswich did back then.&lt;ref name="538 Rise" /&gt;&lt;ref name="Competitiveness"&gt;{{cite web|last1=Curley|first1=James|last2=Roeder|first2=Oliver|title=English Soccer's Mysterious Worldwide Popularity – Contexts|url=https://contexts.org/articles/english-soccers-mysterious-worldwide-popularity/|website=contexts.org|accessdate=7 May 2016}}&lt;/ref&gt; [[Bookmaker]]s thought Leicester's victory was so unlikely that [[Ladbrokes]] and [[William Hill (bookmaker)|William Hill]] offered odds of 5,000–1 for it at the start of the season. Neither bookmaker had ever paid out such long odds, and the trophy resulted in the largest payout in British sporting history with total winnings of £25&amp;nbsp;million.&lt;ref name="WillHill"&gt;{{cite news|url=http://www.itv.com/news/central/2016-05-02/bookies-set-to-hand-over-15m-if-leicester-win-title/|title=Bookies set to hand over £15m if Leicester win title|publisher=ITV News|date=2 May 2016|accessdate=3 May 2016}}&lt;/ref&gt;&lt;ref name="TelegraphBookies"&gt;{{cite news|last1=Rayner|first1=Gordon|last2=Brown|first2=Oliver|title=Leicester City win Premier League and cost bookies biggest ever payout|url=https://www.telegraph.co.uk/news/2016/05/02/leicester-city-win-premier-league-and-cost-bookies-biggest-ever/|work=The Daily Telegraph|accessdate=2 May 2016}}&lt;/ref&gt;&lt;ref name="Liabilities"&gt;{{cite news|last1=Wood|first1=Greg|title=The 5,000-1 payouts on Leicester only tell part of Premier League betting story|url=https://www.theguardian.com/football/2016/may/03/5000-1-outsider-leicester-city-bookmakers|accessdate=6 May 2016|work=The Guardian|date=3 May 2016}}&lt;/ref&gt; The scale of the surprise attracted global attention for the club and the city of Leicester.&lt;ref&gt;{{cite news|last1=Hinshelwood|first1=Colin|title=Thailand Cheers as Far-away Leicester City Clinches Unlikely Soccer Title|url=http://time.com/4314711/leicester-city-chelsea-football-club-tottenham-hotspur-fc/|work=[[Time (magazine)|TIME]]|accessdate=2 May 2016}}&lt;/ref&gt;&lt;ref name="Forbes, Social Media"&gt;{{cite web|last1=Granados|first1=Nelson|title=Leicester City Wins English Premier League And Takes Over Social Media|url=https://www.forbes.com/sites/nelsongranados/2016/05/03/leicester-city-wins-english-premier-league-and-takes-over-social-media/|website=Forbes|accessdate=7 May 2016}}&lt;/ref&gt; ''[[The Economist]]'' declared it would be "pored over for management lessons".&lt;ref&gt;{{cite news|url=https://www.economist.com/news/business-and-finance/21698059-leicester-city-management-lessons |title=The success of Leicester City will be pored over for management lessons |work=The Economist| date=7 May 2016 |accessdate=4 May 2016}}&lt;/ref&gt; Several commentators have viewed it as an inspiration to other clubs and fundamentally transforming the expectations similar sized clubs face in English football.&lt;ref name="BS hope"&gt;{{cite news|last1=Sharma|first1=Aabhas|title=Leicester City: The champions who were never meant to be|url=http://www.business-standard.com/article/opinion/leicester-city-the-champions-who-were-never-meant-to-be-116050300434_1.html|accessdate=3 May 2016|date=3 May 2016}}&lt;/ref&gt; Ranieri himself viewed the achievement as not the greatest of the Football League, reserving instead that honour to Brian Cough's Nottingham Forest, another provincial club that had won the English First Division two years in succession over the seasons 1977-79, and who went on to win the European cup in the 1977-79 season.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/37063137|title=leicesters-achievement-not-as-great-as-cloughs-forest|publisher=Goal|}}&lt;/ref&gt;
+
+Leicester became known for their counterattacking style of play, "incredible pace in the areas it is most essential" and defensive solidarity.&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/football/2016/12/21/return-4-4-2-non-striking-strikers-keepers-can-play-tactical/|title=The return of 4–4–2, non-striking strikers and keepers who can play: The tactical trends of 2016|author=JJ Bull|date=21 December 2016|accessdate=21 December 2016}}&lt;/ref&gt; Former boss [[Nigel Pearson]] was credited by several pundits and fans as having laid the foundations for Leicester's title winning season.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2016/may/09/leicester-city-fans-verdict-nigel-pearson-claudio-ranieri|title=Nigel Pearson verdict|author=Chris Whiting|date=9 May 2016|accessdate=9 May 2016}}&lt;/ref&gt; Players were often praised for their work ethic and togetherness which was apparent throughout the squad. Reacting to City winning the Premier League, Executive chairman [[Richard Scudamore]] said:
+
+{{cquote|If this was a once in every 5,000-year event, then we've effectively got another 5,000 years of hope ahead of us.}} A film has been planned of the story, centred on Jamie Vardy.&lt;ref name="Leicester Movie"&gt;{{cite news|last1=Hyde|first1=Marina|title=What will Hollywood make of Leicester's spellbinding season?|url=https://www.theguardian.com/football/blog/2016/may/04/jamie-vardy-leicester-hollywood-louis-tomlinson-vinnie-jones-premier-league-movie|accessdate=7 May 2016|work=The Guardian|date=4 May 2016}}&lt;/ref&gt;
+
+===Established Premier League side (2016–present)===
+Just ahead of the opening match of the [[2016–17 Leicester City F.C. season|2016–17 season]], Ranieri cautioned against excessive hope of City retaining the title arguing that the other clubs now understood Leicester's break tactics. His principal objective, as last season, was to avoid relegation. He also warned against overconfidence against relegation favourites – by implication, their next opponents, newly promoted Hull City.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2016/aug/11/claudio-ranieri-more-chance-et-landing-leicester-title|title=Claudio Ranieri: more chance of ET landing than Leicester retaining title|author=Paul MacInnes|work=Guardian newspapers|date=11 August 2016|accessdate=11 August 2016}}&lt;/ref&gt; His view on Leicester's chances were shared by Gary Lineker, who said that [[N'Golo Kanté]], who left the club during the summer to join Chelsea, had been Leicester's most important player and essential to Ranieri's system.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/37063137|title=Gary Lineker: Leicester City will not win title after N'Golo Kante exit|publisher=BBC Sport|date=12 August 2016|accessdate=12 August 2016}}&lt;/ref&gt;
+
+Leicester initially struggled in their domestic form during 2016–17, spending much of the first few months in the bottom half of the table. In December 2016, Ranieri was awarded [[BBC Sports Personality of the Year Coach Award|coach of the year]] and Leicester [[BBC Sports Personality Team of the Year Award|team of the year]] at the [[BBC Sports Personality of the Year]].&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/37063137|title=Sports Personality 2016: Leicester win Team of the Year, Claudio Ranieri top coach|publisher=BBC Sport|date=20 December 2016|accessdate=20 December 2016}}&lt;/ref&gt; However, on 23 February 2017, Ranieri was sacked due to the club's continuing poor form, resulting in them being only one point above the relegation zone. Gary Lineker called the sacking "very sad" and "inexplicable",&lt;ref name="ReferenceA"&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39072867|title=Claudio Ranieri: Leicester manager sacking made Gary Lineker 'shed a tear'|date=24 February 2017|publisher=BBC Sport}}&lt;/ref&gt; while Manchester United manager [[José Mourinho]] blamed it on "selfish players".&lt;ref name="ReferenceA"/&gt; Rumours began emerging some days later that players had been meeting with the owners to discuss Ranieri's sacking without Ranieri knowing, which sparked widespread outrage over social media.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/gossip|title=Football transfer gossip: Barkley, Vermaelen, Mahrez, Neymar, Sanchez|publisher=BBC Sport}}&lt;/ref&gt; Commenting on the collapse in form of the team and particularly Jamie Vardy during the first 20 matches of the 2016–17 season, [[Alan Shearer]] said Vardy had signed a "bumper new contract", but was no longer doing what brought him success last season, and that the entire club was "no longer doing the basics".&lt;ref&gt;{{cite news|url=http://www.leicestermercury.co.uk/alan-shearer-leicester-city-s-jamie-vardy-has-had-his-head-turned-by-success/story-30093574-detail/story.html|title=Alan Shearer: Leicester City's Jamie Vardy has 'had his head turned by success'|author=DanielJBird|work=Leicester Mercury|date=28 January 2017|accessdate=4 February 2017|deadurl=yes|archiveurl=https://web.archive.org/web/20170128120837/http://www.leicestermercury.co.uk/alan-shearer-leicester-city-s-jamie-vardy-has-had-his-head-turned-by-success/story-30093574-detail/story.html|archivedate=28 January 2017}}&lt;/ref&gt;
+
+Less than a week after Ranieri was sacked, [[Craig Shakespeare]] took over as caretaker manager, and in his first match in charge, Leicester won 3–1 against fifth-placed Liverpool, with Vardy scoring a brace.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39024318|title=Leicester City 3–1 Liverpool|date=27 February 2017|publisher=BBC Sport}}&lt;/ref&gt; In his second match as caretaker, Shakespeare led Leicester to another 3–1 victory, over Hull City.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39086672|title=Leicester City 3–1 Hull City|date=4 March 2017|publisher=BBC Sport}}&lt;/ref&gt; Following two impressive results and initiating "the type of positive response that we hoped change would bring", the club's owners then decided Shakespeare would become the club's manager until the end of the season.&lt;ref&gt;{{cite web|url=http://www.lcfc.com/news/article/2016-17/craig-shakespeare-lcfc-interim-manager-takes-charge-until-the-end-of-the-season-3619260.aspx|title=Craig Shakespeare Takes Charge of Leicester City Until The end of the Season|publisher=Leicester City F.C.|date=12 March 2017}}&lt;/ref&gt; 
+
+The 2016–17 campaign was also the first season in 15 years that Leicester qualified for European football. Leicester were placed in [[2016–17 UEFA Champions League group stage#Group G|Group G]] of the [[2016–17 UEFA Champions League]], alongside [[FC Porto|Porto]], [[F.C. Copenhagen|Copenhagen]] and [[Club Brugge KV|Club Brugge]]. In their inaugural Champions League campaign, they went undefeated in their first five matches to progress to the knockout stages as group winners.&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-3964590/Leicester-City-look-limp-Premier-League-brilliant-Champions-League-s-caused-flaky-form-here.html|title=Leicester City look limp in the Premier League but brilliant in the Champions League... so what's caused their flaky form and where do they go from here?|work=Daily Mail|date=23 November 2016|accessdate=20 December 2016}}&lt;/ref&gt; ''The Foxes'' then faced [[La Liga]] club [[Sevilla FC|Sevilla]] in the [[2016–17 UEFA Champions League knockout phase#Round of 16|round of 16]] and defeated the Spanish side 2–0 on the night, and 3–2 on aggregate to advance to the [[2016–17 UEFA Champions League knockout phase#Quarter-finals|quarter-finals]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39275115|title=Leicester reach Champions League quarter-finals and threaten to defy logic again|date=15 March 2017|publisher=BBC Sport}}&lt;/ref&gt; There they faced [[Atlético Madrid]], and drew 1–1 in the second leg, but lost 1–2 on aggregate after losing 1–0 in the first leg. This put an end to Leicester's 2016–17 European campaign, as they finished as Champions League quarter-finalists.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39611647|title=Leicester City 1–1 Atlético Madrid|date=18 April 2017|publisher=BBC Sport}}&lt;/ref&gt; Despite the loss, Leicester remained unbeaten at home in the 2016–17 Champions League campaign.
+
+Commenting on the first match of Leicester's [[2017–18 Leicester City F.C. season|2017–18 season]], a close-fought 4–3 loss to Arsenal, ''[[The Guardian]]'' newspaper reported that Vardy was extremely well-suited to the current Leicester team – the "embodiment of pure Leicester-ism" – but a much more difficult fit for other teams.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/blog/2017/aug/14/premier-league-10-talking-points-from-the-opening-weekends-action|title=Premier League: 10 talking points from the opening weekend's action:Outstanding Vardy embodies Leicester-ism|work=Guardian newspapers|date=14 August 2017|accessdate=14 August 2017}}&lt;/ref&gt; Shakespeare was sacked in October 2017 after four months officially in charge, with Leicester in 18th place in the table.
+&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/41656917|title=Craig Shakespeare: Leicester City sack manager four months after appointment|date=17 October 2017|accessdate=17 October 2017|publisher=BBC Sport}}&lt;/ref&gt; 
+
+[[Claude Puel]] was appointed as Leicester's new manager on 25 October 2017. By Christmas, Leicester were in 8th position in the Premier League and went on to finish one place lower in 9th at the end of the season. Despite rumors that Puel would leave, he remained at the club and from the first seven games in the [[2018–19 Premier League]] season, Puel's Leicester had accumulated 12 points, the same points tally after seven games as the [[2015–16 Premier League]] title winning campaign.&lt;ref&gt;https://www.leicestermercury.co.uk/sport/football/football-news/claude-puels-evolution-full-display-2059575&lt;/ref&gt; However, the team suffered a poor run of games which saw Leicester suffer 4 successive home defeats, and following a 4-1 home defeat to Crystal Palace, Puel was sacked on 24 February 2019 with the club in 12th place.&lt;ref&gt;https://www.lcfc.com/news/1062948/claude-puel-leaves-leicester-city/press-release&lt;/ref&gt; Two days later on 26 February 2019, [[Celtic F.C.|Celtic]] manager [[Brendan Rodgers]], who nearly won the Premier League title with [[Liverpool F.C.|Liverpool]], was appointed as his replacement. &lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/47368712|title=Brendan Rodgers: Leicester City appoint former Celtic boss as manager|date=26 February 2019|accessdate=26 February 2019|publisher=BBC Sport}}&lt;/ref&gt;
+
+==== Helicopter crash ====
+{{Main|2018 Leicester helicopter crash}}
+
+Club owner [[Vichai Srivaddhanaprabha]]'s helicopter crashed outside the King Power Stadium, shortly after taking off from the pitch on 27 October 2018, killing Srivaddhanaprabha and all four other people on board.&lt;ref&gt;{{cite news| title=Leicester City owner's helicopter crashes| url= https://www.bbc.co.uk/news/uk-england-leicestershire-46006470| newspaper=BBC News |date=27 October 2018}}&lt;/ref&gt; &lt;ref&gt;{{Cite news|url=https://www.bbc.com/news/uk-england-leicestershire-46013381|title=Leicester City confirm chairman's death|date=2018-10-28|work=BBC News|access-date=2018-10-28|language=en-GB}}&lt;/ref&gt;
+
+==Colours, crest, nicknames and traditions==
+{{Football kit box
+| align     =left
+| pattern_la = 
+| pattern_b  = _brightblueleftsash
+| pattern_ra = 
+| pattern_sh = _brightblueline
+| leftarm    = 000000
+| body       = 000000
+| rightarm   = 000000
+| shorts     = white
+| socks      = 000000
+| title      = Leicester City's first home colours worn from 1884 to 1886.
+}}
+[[File:LCFC1948shirt.jpg|thumb|right|This shirt, worn in 1948, was the first to bear a club badge.]]
+The club's home colours of royal blue shirts, white shorts, and either white or royal blue socks have been used for the team's kits throughout most of its history.&lt;ref&gt;{{cite web|url=http://www.historicalkits.co.uk/Leicester_City/Leicester_City.htm|title=Leicester City|publisher=Historical Football Kits|accessdate=17 September 2009}}&lt;/ref&gt; The first sponsorship logo to appear on a Leicester shirt was that of [[Ind Coope]] in 1983. British snack food manufacturer [[Walkers Crisps]] held a long association with the club, sponsoring them from 1987 to 2001.
+[[File:LCFC 125 Years.png|thumb|right|Leicester City's badge for the [[2009–10 in English football|2009–10 season]] to commemorate 125 years as a football club.]]
+
+The club have three main nicknames – The Foxes, The Blues and City. "The Foxes" is the most common nickname for the club, whereas "The Blues" and "City" are more local terms, usually used by supporters. Other names include "The Filberts" and "The Fossils".&lt;ref&gt;{{Cite web | title = Where Did Leicester City Get Their Nickname From? | first = Sam | last = Fletcher | work = ThoughtCo. | date = 30 April 2017 | accessdate = 8 June 2018 | url = https://www.thoughtco.com/leicester-city-called-the-foxes-3896512}}&lt;/ref&gt; An image of a [[fox]] was first incorporated into the club crest in 1948, as Leicestershire is known for foxes and fox hunting.&lt;ref&gt;{{cite web |url=http://www.lcfc.com/news/article/180712-city-shirts-a-potted-history-248065.aspx |title=City Shirts – A Potted History | first=John | last=Hutchinson |publisher=Leicester City F.C. |date=18 July 2012|accessdate=31 October 2013}}&lt;/ref&gt; This is the origin of the nickname "The Foxes".
+
+The club mascot is a character called "Filbert Fox". There are also secondary characters "Vickie Vixen" and "Cousin Dennis." Since 1992, the club's badge has featured a fox's head overlaid onto a Cinquefoil; the Cinquefoil is similar to the one used on the [[Leicester#Coat of arms|coat of arms of Leicester]]. Prior to 1992, the club's badge had a range of designs. In the [[2009–10 Leicester City F.C. season|2009–10 season]], the club's 125th anniversary year, the home kit featured no sponsor and a new central crest with "125 Years" written beneath it.&lt;ref name="Leicester Mercury 2009-04-25"&gt;{{Cite news|url=http://www.leicestermercury.co.uk/Leicester-City-unveil-new-home-kit/story-12036491-detail/story.html|title=Leicester City unveil new home kit|date=25 April 2009|work=Leicester Mercury|accessdate=31 October 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20150714213122/http://www.leicestermercury.co.uk/Leicester-City-unveil-new-home-kit/story-12036491-detail/story.html|archivedate=14 July 2015}}&lt;/ref&gt;
+
+In 1941, the club adopted the playing of the [[Post horn#The Post Horn Galop|Post Horn Galop]] prior to home matches.&lt;ref&gt;Official History DVD, 00:32:00&lt;/ref&gt; It was played over the PA system as the teams came out of the tunnel at all home games. The club since replaced it with a modern version, which is now played as teams emerge for the second half. For the first half, the post horn has been played live on pitch by Paul Hing since 2009.&lt;ref&gt;{{cite news |url=http://www.leicestermercury.co.uk/Rousing-tune-leads-way-City-victory/story-28948744-detail/story.html |title=Rousing tune leads way for City victory |newspaper=[[Leicester Mercury]] |date=18 March 2016 |accessdate=4 May 2016 }}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; "Foxes Never Quit" is the club's motto, which is placed above the tunnel entrance as the teams head out onto the pitch.
+
+On 8 July 2016, the club launched their new third away kit for the [[2016–17 Premier League]] season. It featured in their [[2016–17 UEFA Champions League]] campaign, and was also in use for Leicester's debut match in the competition. The design took inspiration from the 1983–84 kit, boasting a clean white design with thin blue pinstripes on the shirt and a textured form stripe design across both the shirt and shorts.
+
+===Kit manufacturers and sponsors===
+Since 2018, Leicester City's kit is manufactured by [[Adidas]].&lt;ref&gt;{{Cite news|url=https://www.footyheadlines.com/2018/05/no-more-puma-adidas-leicester-city-18-19-kit.html|title=No More Puma – Adidas Leicester City 18–19 Home Kit Revealed|work=Footy Headlines|date=1 June 2018|access-date=11 August 2018}}&lt;/ref&gt; Previous manufacturers have included [[Bukta]] (1962–64, 1990–92), [[Admiral Sportswear|Admiral]] (1976–79, 1983–88), [[Umbro]] (1979–83), Scoreline (1988–90), Fox Leisure (1992–2000), [[Le Coq Sportif]] (2000–05), [[JJB Sports|JJB]] (2005–07), [[Jako]] (2007–09), [[Joma]] (2009–10), Burrda (2010–12),&lt;ref&gt;{{cite web|url=http://www.lcfc.com/page/LatestNews/0,,10274~2090129,00.html |archiveurl=https://web.archive.org/web/20100715064409/http://www.lcfc.com/page/LatestNews/0%2C%2C10274~2090129%2C00.html |archivedate=15 July 2010 |title=Burrda Announced As Official Kit Supplier |publisher=LCFC.com |date=14 July 2010 |accessdate=31 October 2013 |deadurl=yes |df= }}&lt;/ref&gt; and [[Puma (brand)|Puma]] (2012–18).&lt;ref&gt;{{cite web |url=http://www.lcfc.com/news/article/060713-lcfc-puma-unveil-1314-home-kit-898080.aspx |title=LCFC &amp; PUMA Unveil 13/14 Home Kit|publisher=LCFC.com |date=6 July 2013|accessdate=31 October 2013}}&lt;/ref&gt;
+
+The main shirt sponsor is [[King Power]], a company also owned by the club's owners. The first sponsorship logo to appear on a Leicester shirt was that of [[Ind Coope]] in 1983. British snack food manufacturer [[Walkers Crisps]] held a long association with the club, sponsoring them from 1987 to 2001. Other sponsors have included [[Star Brewery|John Bull]] (1986–87), [[LG Corporation|LG]] (2001–03), [[Alliance &amp; Leicester]] (2003–07), [[Topps Tiles]] (2007–09), [[Jessops]] (2009–10), and Loros (2009–10). [[Siam Commercial Bank]] became their first sleeve sponsor. The deal was valid for the [[2017–18 Leicester City F.C. season|2017–18 season]].&lt;ref&gt;{{Cite news|url=https://www.lcfc.com/news/438270/siam-commercial-bank-to-be-leicester-city-sleeve-sponsor/press-release|title=Siam Commercial Bank To Be Leicester City Sleeve Sponsor|date=15 July 2017|publisher=Leicester City F.C.|access-date=1 June 2018}}&lt;/ref&gt; For the [[2018–19 Leicester City F.C. season|2018–19 season]], the sleeve sponsor is [[Sabeco Brewery|Bia Saigon]].&lt;ref&gt;{{Cite news|url=https://www.lcfc.com/news/792418/leicester-city-and-thaibev-agree-multiyear-global-partnership/press-release|title=Leicester City And ThaiBev Agree Multi-Year Global Partnership|access-date=2018-08-03|language=en}}&lt;/ref&gt;
+
+==Stadium==
+{{See also|King Power Stadium|Filbert Street}}
+In their early years, Leicester played at numerous grounds, but have only played at two since they joined the [[Football League]]. When first starting out they played on a field by the Fosse Road,&lt;ref name="Inglis"&gt;{{Cite book|last=Inglis |first=Simon |title=The Football Grounds of Great Britain (2nd ed.) |publisher=Collins Willow |location=London |year=1987 |isbn = 0-00-218249-1|page=136}}&lt;/ref&gt; hence the original name Leicester Fosse. They moved from there to [[Victoria Park, Leicester|Victoria Park]], and subsequently to Belgrave Road. Upon turning professional the club moved to Mill Lane.&lt;ref name="Inglis"/&gt; After eviction from Mill Lane the club played at the County Cricket ground while seeking a new ground. The club secured the use of an area of ground by [[Filbert Street]], and moved there in 1891.&lt;ref name="Inglis"/&gt;
+
+[[File:Double Decker Stand at Filbert Street.jpg|thumb|left|The "Double Decker" Stand at [[Filbert Street]]]]
+Some improvements by noted football architect [[Archibald Leitch]] occurred in the Edwardian era, and in 1927 a new two tier stand was built,&lt;ref name="Inglis"/&gt; named the Double Decker, a name it would keep till the ground's closure in 2002. The ground wasn't developed any further, apart from compulsory seating being added, till 1993 when work began on the new Carling Stand. The stand was impressive while the rest of the ground was untouched since at least the 1920s; this led manager [[Martin O'Neill]] to say he used to "lead new signings out backwards" so they only saw the Carling Stand.&lt;ref&gt;{{cite web|url=https://www.amazon.co.uk/dp/095235361X |title=Author notes on '&amp;#39;Farewell to Filbert Street'&amp;#39; |publisher=Amazon.com |accessdate=3 September 2011}}&lt;/ref&gt;
+
+The club moved away from Filbert Street in 2002 to a new 32,500 all-seater stadium.&lt;ref name="BBC Sport 2002-07-23"&gt;{{Cite news|url=http://news.bbc.co.uk/sport2/hi/football/2146706.stm|title=Lineker unveils new Foxes home|date=23 July 2002|publisher=BBC Sport |accessdate=31 October 2013}}&lt;/ref&gt; The stadium was originally named The [[Walkers Stadium]] in a deal with food manufacturers [[Walkers (snack foods)|Walkers]], whose brand logo can still be found in some areas around the outside of the stadium.&lt;ref name="The Guardian 2002-04-10"&gt;{{Cite news|url=https://www.theguardian.com/football/2002/apr/10/newsstory.sport1|title=Fans force Foxes stadium change|date=10 April 2002|work=The Guardian|accessdate=31 October 2013 | location=London}}&lt;/ref&gt; The first match hosted at Walkers was a 1–1 friendly draw against [[Athletic Bilbao]], with Bilbao's [[Tiko (footballer)|Tiko]] being the first scorer at the stadium and [[Jordan Stewart (footballer, born 1982)|Jordan Stewart]] being the first Leicester player to score.&lt;ref name="El Dia 2002-08-05"&gt;{{Cite news|url=http://www.eldia.es/2002-08-05/jornada/jornada15.htm|title=Empate del Athletic Bilbao|date=5 August 2002|work=El Dia|language=Spanish|accessdate=19 September 2009}}&lt;/ref&gt; The first competitive match was a 2–0 victory against Watford.&lt;ref name="The Independent 2002-08-11"&gt;{{Cite news|url=http://www.highbeam.com/doc/1P2-1708638.html|archive-url=https://web.archive.org/web/20131108172404/http://www.highbeam.com/doc/1P2-1708638.html|dead-url=yes|archive-date=8 November 2013|title=Leicester make a tidy profit from Deane double|last=Leach|first=Conrad|date=11 August 2002|work=The Independent |accessdate=31 October 2013 | location=London}}&lt;/ref&gt; The stadium has since hosted an [[England national football team|England]] international against [[Serbia and Montenegro national football team|Serbia and Montenegro]], which finished 2–1 to England, as well as internationals between [[Brazil national football team|Brazil]] and [[Jamaica national football team|Jamaica]], and Jamaica and [[Ghana national football team|Ghana]]. The stadium has been used to host the [[Heineken Cup]] European Rugby semi-finals for the [[Leicester Tigers]] rugby club, itself based within a mile of the King Power Stadium.
+[[File:King Power Stadium.JPG|thumbnail|right|The King Power Stadium, formerly known as the Walker's Stadium, has been Leicester's home ground since 2002]]
+On 19 August 2010, it emerged that the new owners [[King Power]] wanted to rename the stadium The [[King Power Stadium]], and had plans to increase the capacity to 42,000 should Leicester secure promotion.&lt;ref&gt;{{cite news|url=http://www.leicestermercury.co.uk/CHANGE-WALKERS-STADIUM/story-12075059-detail/story.html|title=Leicester City's Walkers Stadium could be renamed and increased in size|work=Leicester Mercury|accessdate=31 October 2013|date=19 August 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20151002171927/http://www.leicestermercury.co.uk/CHANGE-WALKERS-STADIUM/story-12075059-detail/story.html|archivedate=2 October 2015}}&lt;/ref&gt; On 7 July 2011, Leicester City confirmed the Walkers Stadium would now be known as the King Power Stadium. In 2015, vice-chairman [[Aiyawatt Srivaddhanaprabha]] stated plans were in place to increase the capacity of the stadium to around 42,000.&lt;ref&gt;{{cite web|url=http://www.leicestermercury.co.uk/Leicester-City-increase-capacity-King-Power/story-26656839-detail/story.html|title=Leicester City could increase capacity at the King Power Stadium to 42,000|work=Leicester Mercury|date=8 June 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20160102235844/http://www.leicestermercury.co.uk/Leicester-City-increase-capacity-King-Power/story-26656839-detail/story.html|archivedate=2 January 2016}}&lt;/ref&gt; Relocation to a bigger stadium has also been considered.&lt;ref&gt;{{cite web|url=http://www.leicestermercury.co.uk/leicester-city-look-ground-expansion-build-new/story-29238169-detail/story.html|title=Leicester City look at King Power stadium expansion – or may even build new ground|work=Leicester Mercury|date=6 May 2016}}&lt;/ref&gt; In April 2018, it was announced that initial planning for the expansion and development of the King Power Stadium is underway.&lt;ref&gt;{{cite press release| url=https://www.lcfc.com/news/657242/vice-chairman-confirms-king-power-stadium-expansion-ambitions/press-release| title=Vice Chairman Confirms King Power Stadium Expansion Ambitions| date=10 April 2018| publisher=Leicester City F.C.|accessdate=8 June 2018}}&lt;/ref&gt;
+
+The King Power Stadium has also honoured past greats of the club, by naming suites and lounges inside the stadium after the club's former players [[Gordon Banks]], [[Adam Black (footballer, born 1898)|Adam Black]], [[Arthur Chandler (footballer)|Arthur Chandler]], [[Gary Lineker]], [[Arthur Rowley]], [[Sep Smith]], [[Keith Weller]] and former manager [[Jimmy Bloomfield]].&lt;ref&gt;{{cite web|title=King Power Stadium – Function Suites|url=http://www.lcfcevents.co.uk/downloads/LCFC%20CE%20Insert%20-%20Room%20Plans.pdf#page=2|publisher=Leicester City Football Club Conference &amp; Events – Room Plans|accessdate=31 October 2013}}&lt;/ref&gt;
+
+==Financial Fair Play Rules Breach==
+Vichai Srivaddhanaprabha invested more than £140m over 14/15 to 16/17, including more than £40 million in the clubs's Premiership winning season.&lt;ref&gt;{{cite web|title=Ranking the Premier League clubs' spending |url=https://www.telegraph.co.uk/football/2017/04/25/ranking-premier-league-clubs-spending-past-three-seasons/leicester/|publisher=Daily Telegraph Newspaper}}&lt;/ref&gt; In 2018 the club paid £3.1m to settle the English Football League’s claim that the club breached financial fair play rules when they made a £21m loss (£12m over the guidelines) in their Championship winning 2013-14 season. &lt;ref&gt;{{cite web|title=Leicester make £3.1m settlement |url=https://www.theguardian.com/football/2018/feb/21/leicester-settlement-football-league-ffp|publisher=Guardian Newspaper}}&lt;/ref&gt;
+
+==Rival clubs==
+{{main|Leicester City F.C. and Nottingham Forest F.C. rivalry|Derby County F.C. and Leicester City F.C. rivalry|M69 derby}}
+
+Some Leicester fans consider [[Nottingham Forest F.C.|Nottingham Forest]] to be their main rivals. The club's other rivals are [[Derby County F.C.|Derby County]]. An East Midlands Derby is any match involving two of these three clubs.&lt;ref&gt;{{cite web |url=http://www.footballfanscensus.com/issueresults/Club_Rivalries_Uncovered_Results.pdf |archiveurl=https://web.archive.org/web/20131020074918/http://www.footballfanscensus.com/issueresults/Club_Rivalries_Uncovered_Results.pdf |archivedate=20 October 2013 |title=Club Rivalries Uncovered |publisher= Football Fans Census|date=December 2003 |accessdate=31 October 2013}}&lt;/ref&gt;
+
+Leicester also have a rivalry with [[Coventry City F.C.|Coventry City]], 24&amp;nbsp;miles away. The game between the two clubs has become known as the [[M69 derby]], named after the [[M69 motorway]] which connects the two cities together.&lt;ref name="Leicester Vs Coventry"&gt;{{Cite news|author=Sinclair, John | title=Leicester v Coventry | url=http://www.bbc.co.uk/leicester/content/articles/2007/02/16/lcfc_coventry_home_17feb2007_event_feature.shtml|publisher=BBC Sport| date=17 February 2007| accessdate=17 June 2009}}&lt;/ref&gt;
+
+==European record==
+{{Main|Leicester City F.C. in European football}}
+
+{{refbegin}}{{refend}}
+
+{| class="wikitable" style="text-align:left"
+|-
+! style="color:white; background:#2B55DB;"| Season
+! style="color:white; background:#2B55DB;"| Competition
+! style="color:white; background:#2B55DB;"| Round
+! style="color:white; background:#2B55DB;"| Club
+! style="color:white; background:#2B55DB;"| Home
+! style="color:white; background:#2B55DB;"| Away
+! style="color:white; background:#2B55DB;"| Aggregate
+|-
+| rowspan=2| [[1961-62 Leicester City F.C. season|1961–62]]
+| rowspan=2| [[1961–62 European Cup Winners' Cup|European Cup Winners' Cup]]
+| [[1961–62 European Cup Winners' Cup#Preliminary round|PR]]
+| {{flagicon|Northern Ireland}} [[Glenavon F.C.|Glenavon]]
+| bgcolor="#ddffdd" style="text-align:center;"| 3–1
+| bgcolor="#ddffdd" style="text-align:center;"| 4–1
+| bgcolor="#ddffdd" style="text-align:center;"| '''7–2'''
+|-
+| [[1961–62 European Cup Winners' Cup#First round|1R]]
+| {{flagicon|Spain}} [[Atlético Madrid]]
+| bgcolor="#ffffdd" style="text-align:center;"| 1–1
+| bgcolor="#ffdddd" style="text-align:center;"| 0–2
+| bgcolor="#ffdddd" style="text-align:center;"| 1–3
+|-
+| [[1997-98 Leicester City F.C. season|1997–98]]
+| [[1997–98 UEFA Cup|UEFA Cup]]
+| [[1997–98 UEFA Cup#First round|1R]]
+| {{flagicon|Spain}} [[Atlético Madrid]]
+| bgcolor="#ffdddd" style="text-align:center;"| 0–2
+| bgcolor="#ffdddd" style="text-align:center;"| 1–2
+| bgcolor="#ffdddd" style="text-align:center;"| 1–4
+|-
+| [[2000-01 Leicester City F.C. season|2000–01]]
+| [[2000–01 UEFA Cup|UEFA Cup]]
+| [[2000–01 UEFA Cup#First round|1R]]
+| {{flagicon|Serbia}} [[Red Star Belgrade]]
+| bgcolor="#ffffdd" style="text-align:center;"| 1–1
+| bgcolor="#ffdddd" style="text-align:center;"| 1–3&lt;ref group="nb"&gt;'Away' leg held at the [[Gerhard Hanappi Stadium]], [[Vienna]], [[Austria]]&lt;/ref&gt;
+| bgcolor="#ffdddd" style="text-align:center;"| 2–4
+|-
+| rowspan=5| [[2016-17 Leicester City F.C. season|2016–17]]
+| rowspan=5| [[2016–17 UEFA Champions League|UEFA Champions League]]
+| rowspan=3| [[2016–17 UEFA Champions League#Group G|GS]]
+| {{flagicon|Portugal}} [[FC Porto|Porto]]
+| bgcolor="#ddffdd" style="text-align:center;"| 1–0
+| bgcolor="#ffdddd" style="text-align:center;"| 0–5
+| rowspan=3 align="center"| '''1st place in Group G'''
+|-
+| {{flagicon|Belgium}} [[Club Brugge KV|Club Brugge]]
+| bgcolor="#ddffdd" style="text-align:center;"| 2–1
+| bgcolor="#ddffdd" style="text-align:center;"| 3–0
+|-
+| {{flagicon|Denmark}} [[F.C. Copenhagen|Copenhagen]]
+| bgcolor="#ddffdd" style="text-align:center;"| 1–0
+| bgcolor="#ffffdd" style="text-align:center;"| 0–0
+|-
+| [[2016–17 UEFA Champions League#Round of 16|R16]]
+| {{flagicon|ESP}} [[Sevilla FC|Sevilla]]
+| bgcolor="#ddffdd" style="text-align:center;"| 2–0
+| bgcolor="#ffdddd" style="text-align:center;"| 1–2
+| bgcolor="#ddffdd" style="text-align:center;"| '''3–2'''
+|-
+| [[2016–17 UEFA Champions League#Quarter-finals|QF]]
+| {{flagicon|ESP}} [[Atlético Madrid]]
+| bgcolor="#ffffdd" style="text-align:center;"| 1–1
+| bgcolor="#ffdddd" style="text-align:center;"| 0–1
+| bgcolor="#ffdddd" style="text-align:center;"| '''1–2'''
+|-
+|}
+;Notes
+*Goals by Leicester are listed first.
+*PR: Preliminary round
+*1R: First round
+*GS: Group stage
+*R16: Round of 16
+*QF: Quarter-final
+{{reflist|group=nb}}
+
+==Honours==
+[[File:LCFC lift the Premier League Trophy (26943755296) (cropped).jpg|thumb|Leicester City players lifting the Premier League trophy after the 2015–16 season.]]
+
+===Domestic===
+
+===League===
+* '''[[Football League First Division|First Division]]''' / '''[[Premier League]]''' (first tier)
+** '''Champions (1):''' [[2015–16 Premier League|2015–16]]
+** Runners-up (1): [[1928–29 in English football|1928–29]]
+* '''[[Football League Second Division|Second Division]]''' / '''[[Football League Championship]]''' (second tier)
+** '''Champions (7):''' [[1924–25 in English football|1924–25]], [[1936–37 in English football|1936–37]], [[1953–54 in English football|1953–54]], [[1956–57 in English football|1956–57]], [[1970–71 in English football|1970–71]], [[1979–80 in English football|1979–80]], [[2013–14 in English football|2013–14]]
+** Runners-up (2): [[1907-08 in English football|1907–08]], [[2002-03 in English football|2002–03]]
+** '''Play-off winners (2):''' [[1994 Football League First Division play-off Final|1993–94]], [[1996 Football League First Division play-off Final|1995–96]]
+* '''[[Football League One]]''' (third tier)
+** '''Champions (1):''' [[2008–09 in English football|2008–09]]
+
+====Cup====
+* '''[[EFL Cup|Football League Cup]]'''
+** '''Winners (3):''' [[1963–64 Football League Cup|1963–64]], [[1996–97 Football League Cup|1996–97]], [[1999–2000 Football League Cup|1999–2000]]
+** Runners-up (2): [[1964–65 Football League Cup|1964–65]], [[1998–99 Football League Cup|1998–99]]
+* '''[[FA Charity Shield]]''' / '''[[FA Community Shield]]'''
+** '''Winners (1):''' [[1971 FA Charity Shield|1971]]
+** Runners-up (1): [[2016 FA Community Shield|2016]]
+* '''[[FA Cup]]'''
+** Runners-up (4): [[1948-49 FA Cup|1948–49]], [[1960-61 FA Cup|1960–61]], [[1962-63 FA Cup|1962–63]], [[1968-69 FA Cup|1968–69]]
+
+====Regional competitions====
+* '''[[Wartime League|War League South]]'''
+** '''Champions (1):''' 1942&lt;ref&gt;{{Cite book| title=Saints – A complete record|last= Chalk|first= Gary|author2=Holley, Duncan  | publisher=Breedon Books| year=1987| isbn= 978-0-907969-22-8|pages=104–105}}&lt;/ref&gt;
+* '''[[Football League War Cup]]'''
+** '''Winners (1):''' 1941
+
+==Managerial history==
+{{Main|List of Leicester City F.C. managers}}
+Up until [[Peter Hodge]] was hired after World War I, the club had no official manager. A nominal role of secretary/manager was employed, though the board and the selection committee took control of most team affairs. It was Hodge who instated a system at the club for the manager having complete control over player and staff recruitment, team selection and tactics. Though Hodge was originally also titled "secretary/manager" he has retrospectively been named as the club's first official "manager".&lt;ref name="OFAF"&gt;{{Cite book|author=Dave Smith &amp; Paul Taylor|title=Of Fossils and Foxes|year=2010|isbn=1-905411-94-4}}&lt;/ref&gt;
+
+Leicester have had a total of nine permanent secretary/managers and 36 permanent managers (not including caretakers). [[Nigel Pearson]] and Peter Hodge have both had two separate spells in charge of the club. [[Dave Bassett]] also had a second spell as caretaker manager after his spell as permanent manager.&lt;ref&gt;{{cite web|url=http://www.lcfc.com/page/Records/0,,10274~1035220,00.html |archiveurl=https://web.archive.org/web/20120218091401/http://www.lcfc.com/page/Records/0%2C%2C10274~1035220%2C00.html |archivedate=18 February 2012 |title=Past Managers |publisher=Leicester City F.C. |date=20 June 2008 |accessdate=31 October 2013 |deadurl=yes |df= }}&lt;/ref&gt;
+
+==Records and statistics==
+{{Main|List of Leicester City F.C. records and statistics}}
+[[Graham Cross]] holds the record for the most Leicester appearances, with the defender playing 599 games between 1960–1976, although [[Adam Black (footballer, born 1898)|Adam Black]] holds the record for the most appearances in the league with 528 between 1920–1935.&lt;ref name="Most Appearances"&gt;{{cite web|url=http://www.lcfc.com/page/Records/0,,10274~1028896,00.html |archiveurl=https://web.archive.org/web/20120722013638/http://www.lcfc.com/page/Records/0%2C%2C10274~1028896%2C00.html |archivedate=22 July 2012 |title=Most Appearances |publisher=Leicester City F.C. |date=23 September 2009 |accessdate=31 October 2013 |deadurl=yes |df= }}&lt;/ref&gt;
+
+Striker [[Arthur Chandler (footballer)|Arthur Chandler]] is currently the club's all-time record goal scorer, netting 273 in his 12 years at the club; he also found the net in 8 consecutive matches in the 1924–25 season.&lt;ref name="OBAF"/&gt; The most goals managed in a single season for the club is 44 by [[Arthur Rowley]], in the 1956–57 season.&lt;ref name="OBAF"/&gt; The fastest goal in the club's history was scored by [[Matty Fryatt]], when he netted after just nine seconds against [[Preston North End F.C.|Preston North End]] in April 2006.&lt;ref name="Miscellaneous Records"&gt;{{cite web|url=http://www.lcfc.com/page/Records/0,,10274~1028984,00.html |archiveurl=https://web.archive.org/web/20090330135817/http://www.lcfc.com/page/Records/0%2C%2C10274~1028984%2C00.html |archivedate=30 March 2009 |title=Miscellaneous Records |publisher=Leicester City F.C. |date=30 May 2008 |accessdate=31 October 2013 |deadurl=yes |df= }}&lt;/ref&gt;
+
+[[Jamie Vardy]] broke the Premier League record for scoring 13 goals in 11 consecutive league games, in the 2015–16 Premier League season. Vardy is also the ninth player to score 20 top-flight goals in a season, following Arthur Chandler, Ernie Hine, Arthur Rowley, Jimmy Walsh, Ken Keyworth, Jackie Sinclair, Frank Worthington and Gary Lineker. Vardy's goal at Sunderland on 10 April 2016 saw him become the first player since Gary Lineker in 1984–85 to score 20 top flight goals for the club, having already become Leicester's highest Premier League scorer in a single season.&lt;ref name="auto"&gt;{{cite web|url=http://www.lcfc.com/news/article/champions-citys-record-breaking-season-3093033.aspx|title=CHAMPIONS: City's Record-Breaking Season|date=4 May 2016 |publisher=Leicester City F.C.}}&lt;/ref&gt;
+
+The record transfer fee paid by Leicester for a player was around £29&amp;nbsp;million for [[Sporting CP]] striker [[Islam Slimani]]. The highest transfer fee received for a Leicester player was approximately £60&amp;nbsp;million from Manchester City for midfielder [[Riyad Mahrez]].
+
+The club's record attendance is 47,298 against Tottenham Hotspur at [[Filbert Street]], in a fifth round [[FA Cup]] clash in 1928. The highest league record at their current home, the [[King Power Stadium]], was 32,242 for a competitive match against Sunderland on 8 August 2015. The highest ever attendance for a non-competitive football match of 32,188, was seen at a pre-season friendly against Spanish giants [[Real Madrid C.F.|Real Madrid]] on 30 July 2011.&lt;ref name="Highest Ever Attendance"&gt;{{cite news | title = Record crowd watch Leicester City play Real Madrid | url = https://www.bbc.co.uk/sport/0/football/14363378 | publisher = BBC Sport | date = 1 August 2011 | accessdate = 31 October 2013 | archive-url = https://web.archive.org/web/20121105144938/http://www.bbc.co.uk/sport/0/football/14363378 | archive-date = 5 November 2012 | dead-url = yes | df = dmy-all }}&lt;/ref&gt;
+
+Leicester's highest ever league finish is first in the Premier League in [[2015–16 Premier League|2015–16]]. Their lowest ever league finish was first in League One in [[2008–09 in English football|2008–09]]. Leicester are joint equal with [[Manchester City F.C.|Manchester City]] for having won the most [[List of winners of English Football League Championship and predecessors|English second tier]] titles (7). The club has reached four [[FA Cup]] finals, yet lost them all.&lt;ref name="OBAF"/&gt; This is the record for the most [[FA Cup]] final appearances without winning the trophy.
+
+Leicester's longest ever unbeaten run in the league was between 1 November 2008 and 7 March 2009, to which they remained unbeaten for 23 games on their way to the [[Football League One|League One]] title.&lt;ref name="Leicester Mercury 2009-03-12"&gt;{{Cite news|url=http://www.leicestermercury.co.uk/escape-act-time-City/story-12077324-detail/story.html|title=No escape act this time, City!|date=12 March 2009|work=Leicester Mercury|accessdate=31 October 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20151002163403/http://www.leicestermercury.co.uk/escape-act-time-City/story-12077324-detail/story.html|archivedate=2 October 2015}}&lt;/ref&gt; (This was their only ever season in the third tier of English football). Their longest run of consecutive victories in the league is nine, which they achieved between 21 December 2013 and 1 February 2014 (in the Championship).
+
+In the 2015–16 season, Leicester won what ''[[The Daily Telegraph]]'' described as "one of the most astonishing league titles of all-time"&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/football/2016/12/10/leicester-city-vs-man-city-premier-league-live/|title=Leicester City 4 Man City 2: Foxes find their ferocious side as Jamie Vardy hat-trick ends 16 match goal drought|author=Sam Wallace|date=10 December 2016|accessdate=11 December 2016}}&lt;/ref&gt; and achieved many new historical, club records. They had the fewest away defeats in any top flight season, as they were defeated only twice on their travels. They also recorded the fewest losses in any of the club's Premier League seasons, losing just three matches throughout their entire campaign. The club produced another record for the most consecutive wins in the top flight, each coming against [[Watford F.C.|Watford]], [[Newcastle United F.C.|Newcastle United]], [[Crystal Palace F.C.|Crystal Palace]], [[Southampton F.C.|Southampton]] and Sunderland. Coincidentally, they kept a record of five-straight clean sheets all set against each of the same five opponents. The King Power Stadium home crowd in 2015–16 saw City beaten just once in the Premier League all season.&lt;ref name="auto"/&gt;
+
+Leicester made their [[UEFA Champions League]] debut in the [[2016–17 UEFA Champions League|2016–17 season]], their fourth appearance in European football. The club became the third English team to win on their Champions League debut, after Manchester United in 1994 and Newcastle United in 1997. They are also the first English team to win away on their Champions League debut, and win all three of their opening games in the competition.&lt;ref&gt;{{cite tweet |user=TheOddsBible |number=788483770680745984 |date=18 October 2016 |title=Leicester are the first English side ever to win their first three Champions League games}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://metro.co.uk/2016/09/27/leicester-city-become-first-english-team-to-win-their-first-two-champions-league-games-6156977/|title=Leicester City make BEST EVER start to Champions League life by English club|first=Max |last=Miller |work=Metro.co.uk|date=27 September 2016}}&lt;/ref&gt; They are the first team in Champions League history to keep clean sheets in each of their opening four games in the competition.&lt;ref&gt;{{cite tweet |user=SkySportsStatto |number=793930648390078464 |date=2 November 2016 |title=@LCFC are the 1st team in Champions League history to keep clean sheets in their opening 4 games in the competition }}&lt;/ref&gt;
+
+In the club's [[2015–16 Premier League]] title winning season, between September 2015 and November 2016 the team went 20 league games unbeaten at home. The stint was ended by [[West Bromwich Albion]] on 6 November 2016 in a 1–2 defeat.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2016/nov/06/leicester-city-west-bromwich-albion-premier-league-match-report|title=West Bromwich's Matt Phillips pounces to end Leicester's unbeaten home run|first=Paul| last=Doyle|date=6 November 2016|work=The Guardian}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.skysports.com/transfer/news/11096/10641971/leicester8217s-unbeaten-premier-league-home-record-is-among-the-best-in-europe|title=Leicester's unbeaten Premier League home record is among the best in Europe|work=[[Sky Sports]]|date=3 November 2016|accessdate=3 December 2016}}
+&lt;/ref&gt;
+
+In March 2017, the club became the 50th team to reach the Champions League quarter-finals.
+
+==League history==
+{{See also|List of Leicester City F.C. seasons}}
+Since their election to the [[Football League]] in 1894, Leicester have spent much of their history within the top two tiers of English football. Leicester have played outside the top two tiers only once in their history to date; during the [[2008–09 in English football|2008–09]] season they played in [[Football League One|League One]], the third tier of English football, after relegation from [[Football League Championship|the Championship]] the season prior. However, they made a swift return to the second tier, as they were promoted as champions in the [[2008–09 in English football|2008–09 season]]. The club have never played lower than England's third tier.
+{| class="wikitable"
+|- style="vertical-align: top;"
+|
+* 1894–1908 [[Football League Second Division|Division 2]] (L2)
+* 1908–1909 [[Football League First Division|Division 1]] (L1)
+* 1909–1915 [[Football League Second Division|Division 2]] (L2)
+* 1919–1925 [[Football League Second Division|Division 2]] (L2)
+* 1925–1935 [[Football League First Division|Division 1]] (L1)
+* 1935–1937 [[Football League Second Division|Division 2]] (L2)
+|
+* 1937–1939 [[Football League First Division|Division 1]] (L1)
+* 1946–1954 [[Football League Second Division|Division 2]] (L2)
+* 1954–1955 [[Football League First Division|Division 1]] (L1)
+* 1955–1957 [[Football League Second Division|Division 2]] (L2)
+* 1957–1969 [[Football League First Division|Division 1]] (L1)
+* 1969–1971 [[Football League Second Division|Division 2]] (L2)
+|
+* 1971–1978 [[Football League First Division|Division 1]] (L1)
+* 1978–1980 [[Football League Second Division|Division 2]] (L2)
+* 1980–1981 [[Football League First Division|Division 1]] (L1)
+* 1981–1983 [[Football League Second Division|Division 2]] (L2)
+* 1983–1987 [[Football League First Division|Division 1]] (L1)
+* 1987–1992 [[Football League Second Division|Division 2]] (L2)
+|
+* 1992–1994 [[Football League First Division|Division 1]] (L2)
+* 1994–1995 [[Premier League]] (L1)
+* 1995–1996 [[Football League First Division|Division 1]] (L2)
+* 1996–2002 [[Premier League]] (L1)
+* 2002–2003 [[Football League First Division|Division 1]] (L2)
+* 2003–2004 [[Premier League]] (L1)
+|
+* 2004–2008 [[Football League Championship|Championship]] (L2)
+* 2008–2009 [[Football League One|League One]] (L3)
+* 2009–2014 [[Football League Championship|Championship]] (L2)
+* 2014–present [[Premier League]] (L1)
+|}
+{{refbegin}}L1 = Level 1 of the football league system; L2 = Level 2 of the football league system; L3 = Level 3 of the football league system.{{refend}}
+* Seasons spent at Level 1 of the [[English football league system|football league system]]: 50
+* Seasons spent at Level 2 of the football league system: 62
+* Seasons spent at Level 3 of the football league system: 1
+(up to and including 2017–18)
+
+==Players==
+===Current first-team squad===
+&lt;!----------------------------- READ THIS NOTICE FIRST BEFORE EDITING ----------------------------------
+ – Do NOT add new players before their signing is officially announced by the club, including medical or before a pre-contract comes into effect
+ – Do NOT remove players before their exit is officially announced by the club
+ – Do NOT add or change squad numbers until it is official on the Leicester City F.C. websites squad list
+ – Only add numberless players that are likely to become part of the first team
+ – Pre-season numbers can be added temporarily with A REFERENCE
+ – This is Wikipedia, not a football gazette. Anything unconfirmed and unsourced will be removed on sight
+ – Thanks in advance!
+ ------------------------------------------------------------------------------------------------------&gt;
+{{updated|31 January 2019}}&lt;ref&gt;{{cite web |title=First Team Players|url=https://www.lcfc.com/teams/first-team|publisher=Leicester City F.C. |accessdate=10 August  2018}}&lt;/ref&gt;
+
+{{Fs start}}
+{{Fs player | no=1 | nat=DEN | pos=GK | name=[[Kasper Schmeichel]]|other=[[vice captain (association football)|vice-captain]]}}
+{{Fs player | no=2 | nat=ENG | pos=DF | name=[[Danny Simpson]]}}
+{{Fs player | no=3 | nat=ENG | pos=DF | name=[[Ben Chilwell]]}}
+{{Fs player | no=4 | nat=TUR | pos=DF | name=[[Çağlar Söyüncü]]}}
+{{Fs player | no=5 | nat=JAM | pos=DF | name=[[Wes Morgan]]|other=[[Captain (association football)|captain]]}}
+{{fs player | no=6 | nat=NIR | pos=DF | name=[[Jonny Evans]]}}
+{{Fs player | no=7 | nat=ENG | pos=FW | name=[[Demarai Gray]]}}
+{{Fs player | no=8 | nat=NGR | pos=FW | name=[[Kelechi Iheanacho]]}}
+{{Fs player | no=9 | nat=ENG | pos=FW | name=[[Jamie Vardy]]}}
+{{Fs player | no=10 | nat=ENG | pos=MF | name=[[James Maddison]]}}
+{{Fs player | no=11 | nat=ENG | pos=MF | name=[[Marc Albrighton]]}}
+{{Fs player | no=12 | nat=WAL | pos=GK | name=[[Danny Ward (Welsh footballer)|Danny Ward]]}}
+{{Fs player | no=14 | nat=POR | pos=DF | name=[[Ricardo Pereira (footballer, born 1993)|Ricardo Pereira]]}}
+{{fs mid}}
+{{Fs player | no=15 | nat=ENG | pos=DF | name=[[Harry Maguire]]}}
+{{Fs player | no=17 | nat=SUI | pos=GK | name=[[Eldin Jakupović]]}}
+{{Fs player | no=18 | nat=GHA | pos=DF | name=[[Daniel Amartey]]}}
+{{Fs player | no=19 | nat=ENG | pos=MF | name=[[Harvey Barnes]]}}
+{{Fs player | no=20 | nat=JPN | pos=FW | name=[[Shinji Okazaki]]}}
+{{Fs player | no=21 | nat=BEL | pos=MF | name=[[Youri Tielemans]]|other=on loan from [[AS Monaco FC|Monaco]]}}
+{{Fs player | no=22 | nat=ENG | pos=MF | name=[[Matty James]]}}
+{{Fs player | no=24 | nat=FRA | pos=MF | name=[[Nampalys Mendy]]}}
+{{Fs player | no=25 | nat=NGR | pos=MF | name=[[Wilfred Ndidi]]}}
+{{Fs player | no=28 | nat=AUT | pos=DF | name=[[Christian Fuchs]]}}
+{{Fs player | no=31 | nat=ALG | pos=FW | name=[[Rachid Ghezzal]]}}
+{{Fs player | no=37 | nat=WAL | pos=MF | name=[[Andy King (footballer, born 1988)|Andy King]]}}
+{{Fs player | no=38 | nat=ENG | pos=MF | name=[[Hamza Choudhury]]}}
+{{Fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs player | no=16 | nat=HRV | pos=DF | name=[[Filip Benković]]|other=at [[Celtic F.C.|Celtic]] until 30 June 2019}}
+{{Fs player | no=23 | nat=POR | pos=MF | name=[[Adrien Silva]]|other=at [[AS Monaco FC|Monaco]] until 30 June 2019}}
+{{Fs player | no=27 | nat=MLI | pos=FW | name=[[Fousseni Diabaté]]|other=at [[Sivasspor|Sivasspor]] until 30 June 2019}}
+{{fs mid}}
+{{Fs player | no=33 | nat=POL | pos=MF | name=[[Bartosz Kapustka]]|other=at [[Oud-Heverlee Leuven|OH Leuven]] until 30 June 2019}}
+{{Fs player | no=35 | nat=AUS| pos=DF | name=[[Callum Elder]]|other=at [[Ipswich Town F.C.|Ipswich Town]] until 30 June 2019}}
+{{Fs player | no=— | nat=ALG | pos=FW | name=[[Islam Slimani]]|other=at [[Fenerbahçe S.K. (football)|Fenerbahçe]] until 30 June 2019}}
+{{Fs end}}
+
+===Reserves and Academy===
+{{main|Leicester City F.C. Reserves and Academy}}
+
+===Former players===
+{{main|List of Leicester City F.C. players}}
+
+==Club staff==
+''{{As of|2019|2|26}}&lt;ref&gt;https://www.lcfc.com/club/senior-management&lt;/ref&gt;&lt;ref&gt;https://www.premierleague.com/clubs/26/Leicester-City/directory&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.lcfc.com/team/the_academy/academy_staff.aspx|title=Academy Staff|publisher=Leicester City F.C.|accessdate=14 July 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130913135405/http://www.lcfc.com/team/the_academy/academy_staff.aspx|archivedate=13 September 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.lcfc.com/team/coaching_staff/|title=Coaching Staff|publisher = Leicester City F.C. |accessdate =14 July 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Leicester City Announce Restructure To Claude Puel's Coaching Staff |url=https://www.lcfc.com/news/768954 |accessdate=30 June 2018 |publisher=Leicester City Football Club |date=30 June 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:left;"
+|-
+!colspan=2 style="color:white; background:#2B55DB;"|Directors &amp; Senior Management
+|-
+! style="width:250px;"|Role !! style="width:210px;"|Person
+|-
+| Chairman|| {{Flagicon|Thailand}} [[Aiyawatt Srivaddhanaprabha]]
+|-
+| Executive Director || {{Flagicon|Thailand}} Apichet Srivaddhanaprabha
+|-
+| Chief Executive || {{Flagicon|Ireland}} Susan Whelan
+|-
+| Finance Director || {{Flagicon|England}} Simon Capper
+|-
+| Director of Football || {{Flagicon|England}} [[Jon Rudkin]]
+|-
+| Football Operations Director || {{Flagicon|England}} Andrew Neville
+|-
+| Commercial Director || {{Flagicon|England}} Jonathan Gregory
+|-
+| Director Estates and Infrastructure || {{Flagicon|England}} Mags Mernagh
+|-
+| General Counsel || {{Flagicon|England}} Caroline McGrory
+|-
+| Operations Director and Safety Officer || {{Flagicon|England}} Kevin Barclay
+|-
+| Communications Director || {{Flagicon|England}} Anthony Herlihy
+|}
+
+{| class="wikitable" style="text-align:left;"
+|-
+!colspan=2 style="color:white; background:#2B55DB;"|First Team Management
+|-
+! style="width:290px;"|Role !! style="width:150px;"|Person
+|-
+| First Team Manager || {{Flagicon|Northern Ireland}}       [[Brendan Rodgers]]
+|-
+| First Team Assistant Manager ||  {{Flagicon|Wales}}       [[Chris Davies (footballer)|Chris Davies]]
+|-
+| First Team Coach &amp; Goalkeeping Coach || {{Flagicon|England}} [[Mike Stowell]]
+|-
+| First Team Coach || {{Flagicon|England}} Adam Sadler 
+|-
+| First Team Coach || {{Flagicon|Ivory Coast}} [[Kolo Touré]]
+|-
+| First Team Fitness Coach || {{Flagicon|England}} Glen Driscoll
+|-
+| Head of Fitness &amp; Conditioning|| {{Flagicon|England}} Matt Reeves
+|-
+| Head of Senior Player Recruitment || {{Flagicon|Spain}} [[Eduardo Macià]]
+|-
+| Head Scout || {{Flagicon|England}} [[David Mills (footballer)|David Mills]]
+|-
+|Academy Director ||{{flagicon|England}} [[Jon Rudkin]]
+|-
+|Head Physiotherapist ||{{flagicon|England}} Dave Rennie
+|}
+
+==Player statistics==
+
+===Captains===
+{{unreferenced section|date=May 2016}}
+{| class="wikitable"
+|-
+! style="color:white; background:#2B55DB;"|Dates
+! style="color:white; background:#2B55DB;"|Name
+|-
+| 1987–1992
+| {{flagicon|SCO}} [[Ally Mauchlen]]
+|-
+| 1992–1993
+| {{flagicon|ENG}} [[Steve Walsh (footballer)|Steve Walsh]]
+|-
+| 1993–1994
+| {{flagicon|ENG}} [[Gary Mills (footballer born 1961)|Gary Mills]]
+|-
+| 1995–1996
+| {{flagicon|ENG}} [[Garry Parker]]
+|-
+| 1996–1999
+| {{flagicon|ENG}} [[Steve Walsh (footballer)|Steve Walsh]]
+|-
+| 1999–2005
+| {{flagicon|SCO}} [[Matt Elliott (footballer)|Matt Elliott]]
+|-
+| 2005–2006
+| {{flagicon|AUS}} [[Danny Tiatto]]
+|-
+| 2006–2007
+| {{flagicon|IRE}} [[Paddy McCarthy]]
+|-
+| 2007–2008
+| {{flagicon|ENG}} [[Stephen Clemence]]
+|-
+| 2008–2011
+| {{flagicon|ENG}} [[Matt Oakley]]
+|-
+| 2011–2012
+| {{flagicon|ENG}} [[Matt Mills]]
+|-
+| 2012–
+| {{flagicon|JAM}} [[Wes Morgan]]
+|}
+
+===Player of the Year===
+Leicester City's Player of the Year award is voted for by the club's supporters at the end of every season.&lt;ref name="OFAF"/&gt;
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable"
+|-
+! style="color:white; background:#2B55DB;"|Year
+! style="color:white; background:#2B55DB;"|Winner
+|-
+|[[1987–88 in English football|1987–88]]||{{flagicon|England}} [[Steve Walsh (footballer)|Steve Walsh]]
+|-
+|[[1988–89 in English football|1988–89]]||{{flagicon|England}} [[Alan Paris]]
+|-
+|[[1989–90 in English football|1989–90]]||{{flagicon|England}} [[Gary Mills (footballer born 1961)|Gary Mills]]
+|-
+|[[1990–91 in English football|1990–91]]||{{flagicon|England}} [[Tony James (footballer born 1967)|Tony James]]
+|-
+|[[1991–92 in English football|1991–92]]||{{flagicon|England}} [[Gary Mills (footballer born 1961)|Gary Mills]]
+|-
+|[[1992–93 in English football|1992–93]]||{{flagicon|Northern Ireland}} [[Colin Hill]]
+|-
+|[[1993–94 in English football|1993–94]]||{{flagicon|England}} [[Simon Grayson]]
+|-
+|[[1994–95 in English football|1994–95]]||{{flagicon|England}} [[Kevin Poole]]
+|-
+|[[1995–96 in English football|1995–96]]||{{flagicon|England}} [[Garry Parker]]
+|-
+|[[1996–97 in English football|1996–97]]||{{flagicon|England}} [[Simon Grayson]]
+|-
+|[[1997–98 in English football|1997–98]]||{{flagicon|Scotland}} [[Matt Elliott (footballer)|Matt Elliott]]
+|-
+|[[1998–99 in English football|1998–99]]||{{flagicon|England}} [[Tony Cottee]]
+|-
+|[[1999-2000 in English football|1999–2000]]||{{flagicon|Northern Ireland}} [[Gerry Taggart]]
+|-
+|[[2000–01 in English football|2000–01]]||{{flagicon|Wales}} [[Robbie Savage]]
+|}
+{{col-break|gap=1em}}
+{| class="wikitable"
+|-
+! style="color:white; background:#2B55DB;"|Year
+! style="color:white; background:#2B55DB;"|Winner
+|-
+|[[2001–02 in English football|2001–02]]||{{flagicon|Wales}} [[Robbie Savage]]
+|-
+|[[2002–03 in English football|2002–03]]||{{flagicon|Scotland}} [[Paul Dickov]]
+|-
+|[[2003–04 in English football|2003–04]]||{{flagicon|England}} [[Les Ferdinand]]
+|-
+|[[2004–05 in English football|2004–05]]||{{flagicon|Australia}} [[Danny Tiatto]]
+|-
+|[[2005–06 in English football|2005–06]]||{{flagicon|Iceland}} [[Joey Guðjónsson]]
+|-
+|[[2006–07 in English football|2006–07]]||{{flagicon|Canada}} [[Iain Hume]]
+|-
+|[[2007–08 in English football|2007–08]]||{{flagicon|England}} [[Richard Stearman]]
+|-
+|[[2008–09 in English football|2008–09]]||{{flagicon|Scotland}} [[Steve Howard]]
+|-
+|[[2009–10 in English football|2009–10]]||{{flagicon|England}} [[Jack Hobbs (footballer)|Jack Hobbs]]
+|-
+|[[2010–11 in English football|2010–11]]||{{flagicon|England}} [[Richie Wellens]]
+|-
+|[[2011–12 in English football|2011–12]]||{{flagicon|Denmark}} [[Kasper Schmeichel]]
+|-
+|[[2012–13 in English football|2012–13]]||{{flagicon|Jamaica}} [[Wes Morgan]]
+|-
+|[[2013–14 in English football|2013–14]]||{{flagicon|England}} [[Danny Drinkwater]]
+|-
+|[[2014–15 in English football|2014–15]]||{{flagicon|Argentina}} [[Esteban Cambiasso]]
+|}
+{{col-break|gap=1em}}
+{| class="wikitable"
+|-
+! style="color:white; background:#2B55DB;"|Year
+! style="color:white; background:#2B55DB;"|Winner
+|-
+|[[2015–16 in English football|2015–16]]||{{flagicon|Algeria}} [[Riyad Mahrez]]
+|-
+|[[2016–17 in English football|2016–17]]||{{flagicon|Denmark}} [[Kasper Schmeichel]]
+|-
+|[[2017–18 in English football|2017–18]]||{{flagicon|England}} [[Harry Maguire]]
+|}
+{{col-end}}
+
+===English Hall of Fame members===
+
+The following have played for Leicester and have been inducted into the [[English Football Hall of Fame]]:
+* {{Flagicon|ENG}} [[Gordon Banks]] 2002 (Inaugural Inductee)&lt;ref name="autogenerated2"&gt;{{cite web|url=http://news.bbc.co.uk/sport1/hi/football/2530733.stm |title=English football's finest honoured |publisher=BBC Sport |date=30 November 2002 |accessdate=12 May 2016}}&lt;/ref&gt;
+* {{Flagicon|ENG}} [[Peter Shilton]] 2002 (Inaugural Inductee)&lt;ref name="autogenerated2"/&gt;
+* {{Flagicon|ENG}} [[Gary Lineker]] 2003&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport1/hi/football/football_focus/3226950.stm |title=Football Focus &amp;#124; Robson joins Hall of Fame |publisher=BBC Sport |date=2 December 2003 |accessdate=12 May 2016}}&lt;/ref&gt;
+* {{Flagicon|ENG}} [[Don Revie]] 2004 (Inducted as a manager)&lt;ref&gt;{{cite web|last=Riach |first=James |url=http://www.skysports.com/football/news/11715/6820302/revie-remembered |title=Revie remembered |publisher=[[Sky Sports]] |accessdate=12 May 2016}}&lt;/ref&gt;
+* {{Flagicon|SCO}} [[Frank McLintock]] 2009&lt;ref&gt;{{cite news|author=Stephen Halliday |url=http://www.scotsman.com/sport/football/competitions/premiership/football-hall-of-fame-pat-stanton-and-gordon-mcqueen-among-five-new-inductees-1-2628476 |title=Football Hall of Fame: Pat Stanton and Gordon McQueen among five new inductees |newspaper=[[The Scotsman]] |date=12 November 2012 |accessdate=12 May 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nationalfootballmuseum.com/halloffame/frank-mclintock|title=Frank McLintock |publisher=National Football Museum}}&lt;/ref&gt;
+
+===Football League 100 Legends===
+
+The [[Football League 100 Legends]] is a list of "100 legendary football players" produced by [[The Football League]] in 1998, to celebrate the 100th season of League football.&lt;ref name="autogenerated1"&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/sport/football/144986.stm |title=Football &amp;#124; Legends list in full |publisher=BBC News |date=5 August 1998 |accessdate=6 May 2016}}&lt;/ref&gt; It also included [[Premier League]] players, and the following former Leicester City players were included:
+* {{Flagicon|ENG}} [[Arthur Rowley]]&lt;ref name="autogenerated1"/&gt;
+* {{Flagicon|ENG}} [[Gordon Banks]]&lt;ref name="autogenerated1"/&gt;
+* {{Flagicon|SCO}} [[Frank McLintock]]&lt;ref name="autogenerated1"/&gt;
+* {{Flagicon|ENG}} [[Peter Shilton]]&lt;ref name="autogenerated1"/&gt;
+* {{Flagicon|ENG}} [[Gary Lineker]]&lt;ref name="autogenerated1"/&gt;
+
+===World Cup players===
+{{unreferenced section|date=May 2016}}
+The following players have been selected by their country in the [[FIFA World Cup|World Cup]] Finals, while playing for Leicester.
+{{div col|colwidth=38em}}
+* {{Flagicon|SCO}} [[John Anderson (footballer born 1929)|John Anderson]] ([[1954 FIFA World Cup squads|1954]])
+* {{Flagicon|NIR}} [[Willie Cunningham (Northern Ireland footballer)|Willie Cunningham]] ([[1958 FIFA World Cup squads|1958]])
+* {{Flagicon|WAL}} [[Ken Leek]] ([[1958 FIFA World Cup squads|1958]])
+* {{Flagicon|ENG}} [[Gordon Banks]] ([[1966 FIFA World Cup squads|1966]]) – Won the [[1966 FIFA World Cup|1966 World Cup]] while at Leicester
+* {{Flagicon|NIR}} [[John O'Neill (Northern Ireland footballer)|John O'Neill]] ([[1982 FIFA World Cup squads|1982]], [[1986 FIFA World Cup squads|1986]])
+* {{Flagicon|NIR}} [[Paul Ramsey (footballer)|Paul Ramsey]] ([[1986 FIFA World Cup squads|1986]])
+* {{Flagicon|SCO}} [[Gary McAllister]] ([[1990 FIFA World Cup squads|1990]])
+* {{Flagicon|IRL}} [[David Kelly (association footballer)|David Kelly]] ([[1990 FIFA World Cup squads|1990]])
+* {{Flagicon|SCO}} [[Matt Elliott (footballer)|Matt Elliott]] ([[1998 FIFA World Cup squads|1998]])
+* {{Flagicon|USA}} [[Kasey Keller]] ([[1998 FIFA World Cup squads|1998]])
+* {{Flagicon|TUR}} [[Muzzy Izzet]] ([[2002 FIFA World Cup squads|2002]])
+* {{Flagicon|ALG}} [[Riyad Mahrez]] ([[2014 FIFA World Cup squads|2014]])
+* {{flagicon|DEN}} [[Kasper Schmeichel]] ([[2018 FIFA World Cup squads|2018]])
+* {{Flagicon|ENG}} [[Harry Maguire]] ([[2018 FIFA World Cup squads|2018]])
+* {{flagicon|ENG}} [[Jamie Vardy]] ([[2018 FIFA World Cup squads|2018]])
+* {{flagicon|JPN}} [[Shinji Okazaki]] ([[2018 FIFA World Cup squads|2018]])
+* {{flagicon|NGA}} [[Wilfred Ndidi]] ([[2018 FIFA World Cup squads|2018]]) 
+* {{flagicon|NGA}} [[Kelechi Iheanacho]] ([[2018 FIFA World Cup squads|2018]])
+* {{flagicon|NGA}} [[Ahmed Musa (footballer)|Ahmed Musa]] ([[2018 FIFA World Cup squads|2018]])
+* {{flagicon|POR}} [[Adrien Silva]] ([[2018 FIFA World Cup squads|2018]])
+* {{flagicon|POR}} [[Ricardo Pereira (footballer, born 1993)|Ricardo Pereira]] ([[2018 FIFA World Cup squads|2018]])
+* {{flagicon|TUN}} [[Yohan Benalouane]] ([[2018 FIFA World Cup squads|2018]])
+{{div col end}}
+
+===International honours===
+{{updated|20 November 2018}}
+The following players have been selected by their country while being playing for Leicester City (including players both on loan at and away from the club). The number of caps won whilst at the club are given, along with the date of the first cap being won while with Leicester City. Players listed in bold are current Leicester City players.
+
+{{div col|colwidth=38em}}
+* {{Flagicon|WAL}} Alfred Watkins (2 Caps, 19 March 1898)
+* {{Flagicon|WAL}} [[Richard Jones (footballer, born 1875)|Richard Jones]] (1 Cap, 19 March 1898)
+* {{Flagicon|NIR}} Mick Cochrane (1 Cap, 23 February 1901)
+* {{Flagicon|ENG}} [[Horace Bailey]] (5 Caps, 16 March 1908)
+* {{Flagicon|SCO}} [[Andy Aitken (footballer, born 1877)|Andy Aitken]] (3 Caps, 2 April 1910)
+* {{Flagicon|ENG}} [[Douglas McWhirter]] (4 Caps, 21 March 1913)
+* {{Flagicon|ENG}} [[Ronald Brebner]] (3 Caps, 15 November 1913)
+* {{Flagicon|SCO}} [[John Paterson (footballer)|John Paterson]] (1 Cap, 10 April 1920)
+* {{Flagicon|NIR}} [[Mick O'Brien (footballer, born 1893)|Mick O'Brien]] (3 Caps, 4 March 1922)
+* {{Flagicon|SCO}} [[Johnny Duncan (footballer)|John Duncan]] (1 Cap, 31 October 1925)
+* {{Flagicon|ENG}} [[Sid Bishop (footballer, born 1900)|Sid Bishop]] (4 Caps, 2 April 1927)
+* {{Flagicon|ENG}} [[Reg Osborne]] (1 Cap, 28 November 1927)
+* {{Flagicon|ENG}} [[Leonard Barry]] (5 Caps, 17 May 1928)
+* {{Flagicon|ENG}} [[Ernie Hine|Ernest Hine]] (6 Caps, 22 October 1928)
+* {{Flagicon|ENG}} [[Hugh Adcock]] (5 Caps, 9 May 1929)
+* {{Flagicon|WAL}} [[David Jones (footballer, born 1910)|David Jones]] (7 Caps, 4 November 1933)
+* {{Flagicon|WAL}} [[Tommy Mills (footballer)|Thomas Mills]] (1 Cap, 29 September 1934)
+* {{Flagicon|ENG}} [[Septimus Smith]] (1 Cap, 19 October 1935)
+* {{Flagicon|WAL}} [[Mal Griffiths|William Maldwyn Griffiths]] (11 Caps, 16 April 1947)
+* {{Flagicon|IRL}} [[Tommy Godwin (footballer)|Tommy Godwin]] (5 Caps, 9 October 1949)
+* {{Flagicon|WAL}} [[Arthur Lever (footballer)|Arthur Lever]] (1 Cap, 18 October 1952)
+* {{Flagicon|SCO}} [[John Anderson (footballer born 1929)|John Anderson]] (1 Cap, 25 May 1954)
+* {{Flagicon|NIR}} [[Willie Cunningham (Northern Ireland footballer)|Willie Cunningham]] (24 Caps, 3 November 1954)
+* {{Flagicon|WAL}} [[Kenneth Leek]] (16 Caps, 20 October 1960)
+* {{Flagicon|ENG}} [[Gordon Banks]] (35 Caps, 6 April 1963)
+* {{Flagicon|SCO}} [[Dave Gibson (Scottish footballer)|David Gibson]] (7 Caps, 4 May 1963)
+* {{Flagicon|SCO}} [[Frank McLintock]] (3 Caps, 4 May 1963)
+* {{Flagicon|NIR}} [[Derek Dougan]] (8 Caps, 2 October 1965)
+* {{Flagicon|WAL}} [[Peter Rodrigues]] (16 Caps, 30 March 1966)
+* {{Flagicon|SCO}} [[Jackie Sinclair]] (1 Cap, 18 June 1966)
+* {{Flagicon|ENG}} [[Peter Shilton]] (20 Caps, 25 November 1970)
+* {{Flagicon|ENG}} [[Keith Weller]] (4 Caps, 11 May 1974)
+* {{Flagicon|ENG}} [[Frank Worthington]] (8 Caps, 15 May 1974)
+* {{Flagicon|ENG}} [[Stephen Whitworth]] (7 Caps, 12 March 1975)
+* {{Flagicon|IRL}} [[Joe Waters]] (1 Cap, 13 October 1976)
+* {{Flagicon|NIR}} [[John O'Neill (Northern Ireland footballer)|John O'Neill]] (39 Caps, 26 March 1980)
+* {{Flagicon|IRL}} [[Gerry Daly]] (1 Cap, 22 September 1982)
+* {{Flagicon|NIR}} [[Paul Ramsey (footballer)|Paul Ramsey]] (14 Caps, 21 September 1983)
+* {{Flagicon|ENG}} [[Gary Lineker]] (7 Caps, 26 May 1984)
+* {{Flagicon|SCO}} [[Ian Wilson (footballer, born 1958)|Ian Wilson]] (2 Caps, 23 May 1987)
+* {{Flagicon|FIN}} [[Jari Rantanen]] (10 Caps, 9 September 1987)
+* {{Flagicon|WAL}} [[Robbie James|Robert James]] (2 Caps, 9 September 1987)
+* {{Flagicon|NIR}} [[Jimmy Quinn (footballer, born 1959)|James Quinn]] (4 Caps, 14 September 1988)
+* {{Flagicon|IRL}} [[David Kelly (association footballer)|David Kelly]] (7 Caps, 25 April 1990)
+* {{Flagicon|SCO}} [[Gary McAllister]] (3 Caps, 25 April 1990)
+* {{Flagicon|IRL}} [[Brian Carey]] (1 Cap, 23 March 1994)
+* {{Flagicon|WAL}} [[Iwan Roberts]] (3 Caps, 20 April 1994)
+* {{Flagicon|NIR}} [[Colin Hill]] (16 Caps, 29 March 1995)
+* {{Flagicon|AUS}} [[Željko Kalac]] (2 Caps, 25 February 1996)
+* {{Flagicon|NIR}} [[Neil Lennon]] (29 Caps, 27 March 1996)
+* {{Flagicon|USA}} [[Kasey Keller]] (21 Caps, 3 November 1996)
+* {{Flagicon|SWE}} [[Pontus Kåmark]] (17 Caps, 30 April 1997)
+* {{Flagicon|WAL}} [[Robbie Savage|Robert Savage]] (20 Caps, 20 August 1997)
+* {{Flagicon|SCO}} [[Matt Elliott (footballer)|Matt Elliott]] (18 Caps, 12 November 1997)
+* {{Flagicon|GRE}} [[Theodoros Zagorakis]] (18 Caps, 17 February 1998)
+* {{Flagicon|ISL}} [[Arnar Gunnlaugsson]] (3 Caps, 10 March 1999)
+* {{Flagicon|ENG}} [[Emile Heskey]] (5 Caps, 28 April 1999)
+* {{Flagicon|JAM}} [[Frank Sinclair]] (17 Caps, 26 May 1999)
+* {{Flagicon|ENG}} [[Stephen Guppy]] (1 Cap, 10 October 1999)
+* {{Flagicon|NIR}} [[Gerry Taggart|Gerald Taggart]] (6 Caps, 26 April 2000)
+* {{Flagicon|TUR}} [[Mustafa Izzet]] (8 Caps, 15 June 2000)
+* {{Flagicon|SCO}} [[Callum Davidson]] (5 Caps, 2 September 2000)
+* {{Flagicon|WAL}} [[Matt Jones (footballer, born 1980)|Matthew Jones]] (8 Caps, 24 March 2001)
+* {{Flagicon|JAM}} [[Trevor Benjamin]] (2 Caps (1 won while on loan to [[Gillingham F.C.|Gillingham]]), 20 November 2002)
+* {{Flagicon|NIR}} [[Keith Gillespie]] (9 Caps, 6 September 2003)
+* {{Flagicon|SCO}} [[Paul Dickov]] (5 Caps, 6 September 2003)
+* {{Flagicon|GRE}} [[Nikos Dabizas|Nikolaos Dabizas]] (6 Caps, 18 February 2004)
+* {{Flagicon|WAL}} [[Benjamin Thatcher]] (3 Caps, 31 March 2001)
+* {{Flagicon|WAL}} [[Danny Coyne]] (3 Caps, 31 March 2001)
+* {{Flagicon|SCO}} [[Peter Canero]] (1 Cap, 28 April 2004)
+* {{Flagicon|ENG}} [[Ian Walker (footballer)|Ian Walker]] (1 Cap, 5 June 2004)
+* {{Flagicon|ISL}} [[Joey Guðjónsson|Jóhannes Guðjónsson]] (6 Caps, 18 August 2004)
+* {{Flagicon|CAN}} [[Lars Hirschfeld]] (1 Cap, 26 March 2005)
+* {{Flagicon|IRL}} [[Alan Maybury]] (1 Cap, 29 March 2005)
+* {{Flagicon|AUS}} [[Danny Tiatto|Daniele Tiatto]] (1 Cap, 9 May 2005)
+* {{Flagicon|SCO}} [[Robert Douglas (footballer)|Robert Douglas]] (1 Cap, 17 August 2005)
+* {{Flagicon|CAN}} [[Iain Hume]] (7 Caps, 16 November 2005)
+* {{Flagicon|GUI}} [[Mohammed Sylla]] (3 Caps, 7 January 2006)
+* {{Flagicon|GHA}} [[Elvis Hammond]] (1 Cap, 1 March 2006)
+* {{Flagicon|AUS}} [[Patrick Kisnorbo]] (3 Caps, 14 November 2006)
+* {{Flagicon|IRI}} [[Hossein Kaebi]] (2 Caps, 15 July 2007)
+* {{Flagicon|HUN}} [[Márton Fülöp]] (7 Caps (won while on loan from [[Sunderland A.F.C.|Sunderland]]), 22 August 2007)
+* {{Flagicon|BUL}} [[Radostin Kishishev]] (4 Caps (2 won while on loan at [[Leeds United F.C.|Leeds United]]), 22 August 2007)
+* {{Flagicon|NIR}} [[Gareth McAuley]] (4 Caps, 17 October 2007)
+* {{Flagicon|BUL}} [[Aleksander Tunchev]] (5 Caps, 6 September 2008)
+* {{Flagicon|WAL}} '''[[Andy King (footballer, born 1988)|Andy King]]''' (50 Caps (3 won while on loan at [[Swansea City A.F.C.|Swansea City]]), 29 May 2009)
+* {{Flagicon|NIR}} [[Ryan McGivern]] (3 Caps (won while on loan from [[Manchester City F.C.|Manchester City]]), 14 October 2009)
+* {{Flagicon|JPN}} [[Yuki Abe]] (4 Caps), 8 October 2010)
+* {{Flagicon|IRL}} [[Greg Cunningham]] (1 Cap (won while on loan from [[Manchester City F.C.|Manchester City]]), 17 November 2010)
+* {{Flagicon|NED}} [[Jeffrey Bruma]] (1 Cap (won while on loan from [[Chelsea F.C.|Chelsea]]), 7 June 2011)
+* {{Flagicon|IRL}} [[Sean St Ledger]] (19 Caps (3 won while on loan at [[Millwall F.C.|Millwall]]), 10 August 2011)
+* {{Flagicon|SUI}} [[Gelson Fernandes]] (4 Caps (won while on loan from [[AS Saint-Étienne|Saint-Étienne]]), 6 September 2011)
+* {{Flagicon|GHA}} [[John Paintsil]] (8 Caps, 5 November 2011)
+* {{Flagicon|CIV}} [[Souleymane Bamba]] (8 Caps, 12 November 2011)
+* {{Flagicon|GHA}} [[Jeffrey Schlupp]] (15 Caps, 15 November 2011)
+* {{Flagicon|DEN}} '''[[Kasper Schmeichel]]''' (43 Caps, 6 February 2013)
+* {{Flagicon|NZL}} [[Chris Wood (footballer, born 1991)|Christopher Wood]] (9 Caps (1 won while on loan at [[Ipswich Town F.C.|Ipswich Town]]), 22 March 2013)
+* {{Flagicon|JAM}} [[Jermaine Beckford]] (5 Caps (won while on loan at [[Huddersfield Town A.F.C.|Huddersfield Town]]), 22 March 2013)
+* {{Flagicon|JAM}} '''[[Wes Morgan]]''' (30 Caps, 7 September 2013)
+* {{Flagicon|LTU}} [[Simonas Stankevičius]] (10 Caps, 18 November 2013)
+* {{Flagicon|HUN}} [[Márkó Futács]] (3 Caps (won while on loan at [[Diósgyőri VTK|Diósgyőr-Vasgyári Testgyakorlók Köre]]), 5 March 2014)
+* {{Flagicon|ALG}} [[Riyad Mahrez]] (39 Caps, 31 May 2014)
+* {{Flagicon|SKN}} [[Harry Panayiotou|Harrison Panayiotou]] (12 Caps (5 won while on loan at [[Raith Rovers F.C.|Raith Rovers]]), 8 October 2014)
+* {{Flagicon|SLE}} [[Alie Sesay]] (3 Caps, 11 October 2014)
+* {{Flagicon|CRO}} [[Andrej Kramarić]] (10 Caps (5 won while on loan at [[TSG 1899 Hoffenheim]]), 28 March 2015)
+* {{Flagicon|ENG}} '''[[Jamie Vardy]]''' (26 Caps, 7 June 2015)
+* {{Flagicon|JPN}} '''[[Shinji Okazaki]]''' (23 Caps, 3 September 2015)
+* {{Flagicon|AUT}} '''[[Christian Fuchs]]''' (11 Caps, 5 September 2015)
+* {{Flagicon|SUI}} [[Gökhan İnler]] (5 Caps, 8 September 2015)
+* {{Flagicon|WAL}} [[Tom Lawrence]] (6 Caps (2 won while on loan at [[Blackburn Rovers F.C.|Blackburn Rovers]], 2 won while on loan at [[Cardiff City F.C.|Cardiff City]] and 2 won while on loan at [[Ipswich Town F.C.|Ipswich Town]]), 13 October 2015)
+* {{Flagicon|GHA}} '''[[Daniel Amartey]]''' (18 Caps, 24 March 2016)
+* {{Flagicon|FRA}} [[N'Golo Kanté]] (8 Caps, 25 March 2016)
+* {{Flagicon|ENG}} [[Danny Drinkwater]] (3 Caps, 29 March 2016)
+* {{Flagicon|NGR}} [[Ahmed Musa (footballer)|Ahmed Musa]] (17 Caps (8 won while on loan at [[PFC CSKA Moscow]]), 3 September 2016)
+* {{Flagicon|POL}} '''[[Bartosz Kapustka]]''' (3 Caps, 4 September 2016)
+* {{Flagicon|ALG}} '''[[Islam Slimani]]''' (17 Caps (3 won while on loan at [[Newcastle United F.C.|Newcastle United]] and 1 won while on loan at [[Fenerbahçe S.K. (football)|Fenerbahçe S.K.]]), 4 September 2016)
+* {{Flagicon|BRU}} '''[[Faiq Jefri Bolkiah]]''' (6 Caps, 15 October 2016)
+* {{Flagicon|NGR}} '''[[Wilfred Ndidi]]''' (17 Caps, 23 March 2017)
+* {{Flagicon|NGR}} '''[[Kelechi Ịheanachọ|Kelechi Iheanacho]]''' (14 Caps, 1 September 2017)
+* {{Flagicon|AUT}} [[Aleksandar Dragović]] (8 Caps (won while on loan from [[Bayer 04 Leverkusen]]), 2 September 2017)
+* {{Flagicon|ENG}} '''[[Harry Maguire]]''' (16 Caps, 8 October 2017)
+* {{Flagicon|ZIM}} '''[[Admiral Muskwe]]''' (1 Cap, 8 November 2017)
+* {{Flagicon|TUN}} [[Yohan Benalouane]] (5 Caps, 23 March 2018)
+* {{Flagicon|POR}} '''[[Adrien Silva]]''' (6 Caps, 26 March 2018)
+* {{Flagicon|WAL}} '''[[George Thomas (footballer, born 1997)|George Thomas]]''' (2 Caps (1 won while on loan at [[Scunthorpe United F.C.|Scunthorpe United]]), 29 May 2018)
+* {{Flagicon|POR}} '''[[Ricardo Pereira (footballer, born 1993)|Ricardo Pereira]]''' (1 Cap, 30 June 2018)
+* {{Flagicon|TUR}} '''[[Çağlar Söyüncü]]''' (6 Caps, 7 September 2018)
+* {{Flagicon|NIR}} '''[[Jonny Evans|Jonathan Evans]]''' (6 Caps, 8 September 2018)
+* {{Flagicon|ALG}} '''[[Rachid Ghezzal]]''' (3 Caps, 8 September 2018)
+* {{Flagicon|ENG}} '''[[Ben Chilwell|Benjamin Chilwell]]''' (5 Caps, 11 September 2018)
+* {{Flagicon|WAL}} '''[[Danny Ward (Welsh footballer)|Daniel Ward]]''' (1 Cap, 20 November 2018)
+{{div col end}}
+
+===Players with over 300 appearances for Leicester===
+Includes competitive appearances only. Current players in bold.&lt;ref name="OFAF"/&gt;&lt;ref name="Most Appearances" /&gt;
+{{div col|colwidth=19em}}
+* {{flagicon|ENG}} [[Graham Cross]] 599
+* {{flagicon|SCO}} [[Adam Black (footballer born 1898)|Adam Black]] 557
+* {{flagicon|ENG}} [[Hugh Adcock]] 460
+* {{flagicon|ENG}} [[Mark Wallington (footballer)|Mark Wallington]] 460
+* {{flagicon|ENG}} [[Steve Walsh (footballer)|Steve Walsh]] 450
+* {{flagicon|ENG}} [[Arthur Chandler (footballer)|Arthur Chandler]] 419
+* {{flagicon|SCO}} [[John Sjoberg]] 413
+* {{flagicon|WAL}} [[Mal Griffiths]] 409
+* {{flagicon|ENG}} [[Steve Whitworth]] 400
+* {{flagicon|WAL}} '''[[Andy King (footballer, born 1988)|Andy King]] 377'''
+* {{flagicon|ENG}} [[Sep Smith]] 373
+* {{flagicon|ENG}} [[Mike Stringfellow]] 370
+* {{flagicon|ENG}} [[Richie Norman]] 365
+* {{flagicon|ENG}} [[Gordon Banks]] 356
+* {{flagicon|NIR}} [[John O'Neill (Northern Ireland footballer)|John O'Neill]] 345
+* {{flagicon|SCO}} [[Dave Gibson (Scottish footballer)|Dave Gibson]] 339
+* {{flagicon|ENG}} [[Peter Shilton]] 339
+* {{flagicon|ENG}} [[Colin Appleton]] 333
+* {{flagicon|DEN}} '''[[Kasper Schmeichel]] 324'''
+* {{flagicon|ENG}} [[Dennis Rofe]] 324
+* {{flagicon|NIR}} [[Paul Ramsey (footballer)|Paul Ramsey]] 322
+* {{flagicon|ENG}} [[Arthur Rowley]] 321
+* {{flagicon|SCO}} [[Arthur Lochhead]] 320
+* {{flagicon|TUR}} [[Muzzy Izzet]] 319
+* {{flagicon|SCO}} [[Ian Wilson (footballer, born 1958)|Ian Wilson]] 318
+* {{flagicon|ENG}} [[Derek Hines]] 317
+* {{flagicon|ENG}} [[Lenny Glover]] 305
+
+{{div col end}}
+
+===Players with 50 or more goals for Leicester===
+Includes competitive appearances only.
+Current players in bold.&lt;ref name="OFAF"/&gt;&lt;ref&gt;{{cite web|url=http://www.lcfc.com/page/Records/0,,10274~1028867,00.html |title=Archived copy |accessdate=20 February 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20120908051845/http://www.lcfc.com/page/Records/0%2C%2C10274~1028867%2C00.html |archivedate= 8 September 2012 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.foxeshistory.co.uk/players.php?sort%3Da |title=Archived copy |accessdate=4 May 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130712053754/http://www.foxeshistory.co.uk/players.php?sort=a |archivedate=12 July 2013 }}&lt;/ref&gt;
+{{div col|colwidth=18em}}
+* {{flagicon|ENG}} [[Arthur Chandler (footballer)|Arthur Chandler]] 273
+* {{flagicon|ENG}} [[Arthur Rowley]] 265
+* {{flagicon|ENG}} [[Ernie Hine]] 156
+* {{flagicon|ENG}} [[Derek Hines]] 117
+* {{flagicon|SCO}} [[Arthur Lochhead]] 114
+* {{flagicon|ENG}} [[Gary Lineker]] 103
+* {{flagicon|ENG}} '''[[Jamie Vardy]] 98'''
+* {{flagicon|ENG}} [[Mike Stringfellow]] 97
+* {{flagicon|SCO}} [[Johnny Duncan (footballer)|Johnny Duncan]] 95
+* {{flagicon|SCO}} [[Jimmy Walsh (footballer, born 1930)|Jimmy Walsh]] 91
+* {{flagicon|ENG}} [[Jack Lee (footballer, born 1920)|Jack Lee]] 84
+* {{flagicon|ENG}} [[Alan Smith (footballer, born 1962)|Alan Smith]] 84
+* {{flagicon|ENG}} [[Frank Worthington]] 78
+* {{flagicon|WAL}} [[Mal Griffiths]] 76
+* {{flagicon|ENG}} [[Ken Keyworth]] 76
+* {{flagicon|SCO}} [[Danny Liddle]] 71
+* {{flagicon|ENG}} Arthur Maw 64
+* {{flagicon|ENG}} [[Matty Fryatt]] 62
+* {{flagicon|WAL}} '''[[Andy King (footballer, born 1988)|Andy King]] 62'''
+* {{flagicon|ENG}} [[Steve Walsh (footballer)|Steve Walsh]] 62
+* {{flagicon|ENG}} [[Steve Lynex]] 60
+* {{flagicon|ENG}} [[David Nugent]] 59
+* {{flagicon|ENG}} [[Fred Shinton]] 58
+* {{flagicon|ENG}} [[Jack Bowers]] 56
+* {{flagicon|SCO}} [[Dave Gibson (Scottish footballer)|Dave Gibson]] 53
+* {{flagicon|SCO}} [[Jackie Sinclair]] 53
+* {{flagicon|ENG}} [[Hugh Adcock]] 52
+* {{flagicon|ENG}} [[George Dewis]] 51
+* {{flagicon|SCO}} [[Gary McAllister]] 51
+{{div col end}}
+
+==Personnel honours and awards==
+
+===Ballon d'Or nominees===
+The following players have been nominated for the [[Ballon d'Or]] while playing for Leicester; the award is also referred to as the World or European Footballer of the Year.
+* {{Flagicon|ENG}} [[Gordon Banks]] ([[1966 Ballon d'Or|1966]])&lt;ref&gt;{{cite web|url=http://www.rsssf.com/miscellaneous/europa-poy66.html |title=European Footballer of the Year ("Ballon d'Or") 1966 |publisher=Rec.Sport.Soccer Statistics Foundation |accessdate=4 May 2016}}&lt;/ref&gt;
+* {{Flagicon|ENG}} [[Jamie Vardy]] ([[2016 Ballon d'Or|2016]])&lt;ref name="bbc.co.uk"&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37748717|title=Ballon d'Or: Jamie Vardy, Riyad Mahrez, Gareth Bale &amp; Sergio Aguero on shortlist|date=24 October 2016|publisher=BBC Sport}}&lt;/ref&gt;
+* {{Flagicon|ALG}} [[Riyad Mahrez]] ([[2016 Ballon d'Or|2016]])&lt;ref name="bbc.co.uk"/&gt;
+
+===PFA Player of the Year===
+The following players have been named the [[PFA Player of the Year]] whilst playing for Leicester:
+* '''2016''' – {{flagicon|ALG}} [[Riyad Mahrez]]&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2016/apr/24/leicester-riyad-mahrez-pfa-player-of-the-year |title=Leicester City's Riyad Mahrez wins PFA Player of the Year award &amp;#124; Football |newspaper=[[The Guardian]] |date=24 April 2016 |accessdate=4 May 2016}}&lt;/ref&gt;
+
+===FWA Footballer of the Year===
+The following players have been named the [[FWA Footballer of the Year]] whilst playing for Leicester:
+* '''2016''' – {{flagicon|ENG}} [[Jamie Vardy]]&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36185497 |title=Jamie Vardy: Leicester striker wins writers' Footballer of the Year award |publisher=BBC Sport |accessdate=4 May 2016}}&lt;/ref&gt;
+
+===English Golden Boot===
+The following players have won the [[List of English football champions|English Golden Boot]] for being the country's top goalscorer, while at Leicester (Note: This applies only to players playing in the top tier of English football):
+* {{Flagicon|ENG}} [[Gary Lineker]] ([[1984–85 in English football|1984–85]]) (joint winner)&lt;ref&gt;{{cite web|url=http://en.espn.co.uk/espn/sport/story/10653.html |title=ESPNsoccernet's Dale Johnson looks at Gary Lineker, Golden Boot winner in 1986 |publisher=ESPN |date=7 March 2010 |accessdate=4 May 2016}}&lt;/ref&gt;
+
+===English Second Division Golden Boot===
+The following players have won the golden boot for being the top goalscorer in the second tier of English football while at Leicester:&lt;ref&gt;{{cite web|url=http://www.rsssf.com/tablese/engtops.html |title=English League Leading Goalscorers |publisher=Rec.Sport.Soccer Statistics Foundation |date=25 June 2015 |accessdate=4 May 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20110628202228/http://www.rsssf.com/tablese/engtops.html |archivedate=28 June 2011  }}&lt;/ref&gt;
+* {{Flagicon|ENG}} [[David Skea]] ([[1894–95 in English football|1894–95]])
+* {{Flagicon|ENG}} [[Arthur Chandler (footballer)|Arthur Chandler]] ([[1924–25 in English football|1924–25]])
+* {{Flagicon|ENG}} [[Jack Bowers]] ([[1936–37 in English football|1936–37]])
+* {{Flagicon|ENG}} [[Arthur Rowley]] ([[1952–53 in English football|1952–53]]), ([[1956–57 in English football|1956–57]])
+* {{Flagicon|SCO}} [[Willie Gardiner]] ([[1955–56 in English football|1955–56]])
+* {{Flagicon|ENG}} [[Gary Lineker]] ([[1982–83 in English football|1982–83]])
+
+===Football League Awards Player of the Year===
+The following players have been named the best player in their division in the Football League Awards while at Leicester:
+* {{Flagicon|ENG}} [[Matty Fryatt]] ([[Football League One|League One]], 2009)&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/7971194.stm |title=Ebanks-Blake scoops League honour |publisher=BBC Sport |date=29 March 2009 |accessdate=4 May 2016}}&lt;/ref&gt;
+
+===LMA Manager of the Year===
+The following managers have been named the [[LMA Manager of the Year]] or won their division award while at Leicester:
+* {{Flagicon|ENG}} [[Nigel Pearson]] ([[Football League Championship|Championship]], 2014)&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-2626576/Brendan-Rodgers-named-LMA-Manager-Year-stellar-season-Liverpool-Tony-Pulis-scoops-Barclays-Premier-League-prize-Crystal-Palace-miracle.html |title=Brendan Rodgers named LMA Manager of the Year after stellar season with Liverpool while Tony Pulis scoops Barclays Premier League prize for Crystal Palace 'miracle' |work=Daily Mail|date=12 May 2014| first=Elliott| last=Bretland| accessdate=4 May 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2014/may/13/liverpool-brendan-rodgers-lma-manager-of-the-year |title=Liverpool's Brendan Rodgers is named LMA's manager of the year |work=The Guardian| date=13 May 2014 |accessdate=4 May 2016}}&lt;/ref&gt;
+* {{Flagicon|ITA}} [[Claudio Ranieri]] (Overall, 2016; [[Premier League]], 2016)&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/claudio-ranieri-named-lma-manager-of-the-year-as-leicester-city-accolades-continue-a7033131.html|title=Claudio Ranieri named LMA manager of the year|work=The Independent|date=17 May 2016}}&lt;/ref&gt;
+
+===The Best FIFA Men's Player===
+The following players have been shortlisted for The Best FIFA Men's Player award, while playing for Leicester:
+* {{Flagicon|ENG}} [[Jamie Vardy]] (2016)&lt;ref name="fifa.com"&gt;{{cite web|url=https://www.fifa.com/the-best-fifa-football-awards/news/y=2016/m=11/news=keep-pending-who-will-be-the-best-fifa-men-s-player-2016-2847943.html|title=Who will be The Best FIFA Men's Player 2016?|publisher=FIFA|date=4 November 2016}}&lt;/ref&gt;
+* {{Flagicon|ALG}} [[Riyad Mahrez]] (2016)&lt;ref name="fifa.com"/&gt;
+
+===The Best FIFA Men's Coach===
+The following managers have been shortlisted and won, The Best FIFA Men's Coach award while managing Leicester:
+* {{Flagicon|ITA}} [[Claudio Ranieri]] (2016)&lt;ref&gt;{{cite web|url=https://www.fifa.com/the-best-fifa-football-awards/best-fifa-mens-coach/index.html|title=The Best FIFA Football Awards 2016 – The Best FIFA Men's Coach|publisher=FIFA}}&lt;/ref&gt;
+
+===The Best FIFA Goalkeeper===
+The following goalkeepers have been shortlisted for The Best FIFA Goalkeeper award, while playing for Leicester:
+* {{Flagicon|DEN}} [[Kasper Schmeichel]] ([[The Best FIFA Football Awards 2018#The Best FIFA Goalkeeper|2018]])&lt;ref&gt;https://www.fifa.com/the-best-fifa-football-awards/best-fifa-goalkeeper/&lt;/ref&gt;
+
+===BBC Sports Personality Coach of the Year Award===
+* {{Flagicon|ITA}} [[Claudio Ranieri]] (2016)&lt;ref name="ReferenceB"&gt;{{cite web|url=https://www.bbc.co.uk/sport/sports-personality/38322977|title=Sports Personality 2016: Leicester win Team of the Year, Claudio Ranieri top coach|date=17 December 2016|publisher=BBC Sport}}&lt;/ref&gt;
+
+===BBC Sports Personality Team of the Year Award===
+* {{Flagicon|ENG}} [[Leicester City]] (2016)&lt;ref name="ReferenceB"/&gt;
+
+===ESPN Team of the Year===
+* {{Flagicon|ENG}} [[Leicester City]] (2016)&lt;ref&gt;{{cite web|url=http://www.espnfc.com/blog/espn-fc-united-blog/68/post/3027749/espn-fc-awards-2016-belongs-to-ronaldo-leicester-and-ranieri|title=ESPN FC awards: 2016 belongs to Ronaldo, Leicester and Ranieri|publisher=ESPN|date=28 December 2016|first=Adam|last=Hurrey|accessdate=8 June 2018}}&lt;/ref&gt;
+
+===Laureus World Sports Award===
+* {{Flagicon|ENG}} [[Leicester City]] (2017)&lt;ref&gt;{{cite web|url=https://awards.laureus.com/awards-history/2017/winners/|archive-url=https://web.archive.org/web/20171109080825/https://awards.laureus.com/awards-history/2017/winners/|dead-url=yes|archive-date=9 November 2017|title=Laureus World Sports Awards 2017 Winners|publisher=Laureus|accessdate=10 September 2018}}&lt;/ref&gt;
+
+===FIFA FIFPro World11 nominees===
+The following players have been shortlisted for the FIFA FIFPro World11, while playing for Leicester:
+* {{Flagicon|ENG}} [[Jamie Vardy]] (2016)&lt;ref&gt;{{cite web|url=http://www.lcfc.com/news/article/2016-17/vardy-shortlisted-for-fifa-fifpro-world11-2016-3445934.aspx|title=Vardy Shortlisted For FIFA FIFPro World11 2016|publisher=Leicester City F.C.|date=1 December 2016|accessdate=8 June 2018}}&lt;/ref&gt;
+
+===PFA Team of the Year===
+The following players have been named in the [[PFA Team of the Year]] while at Leicester:
+* '''1979''' – [[Football League Second Division|Second Division]] – {{Flagicon|ENG}} [[Mark Wallington (footballer)|Mark Wallington]]
+* '''1982''' – [[Football League Second Division|Second Division]] – {{Flagicon|ENG}} [[Mark Wallington (footballer)|Mark Wallington]]
+* '''1989''' – [[Football League Second Division|Second Division]] – {{Flagicon|SCO}} [[Gary McAllister]]
+* '''1990''' – [[Football League Second Division|Second Division]] – {{Flagicon|SCO}} [[Gary McAllister]]
+* '''1996''' – [[Football League First Division|First Division]] – {{Flagicon|ENG}} [[Garry Parker]], {{Flagicon|ENG}} [[Steve Claridge]]
+* '''2003''' – [[Football League First Division|First Division]] – {{Flagicon|TUR}} [[Muzzy Izzet]], {{Flagicon|SCO}} [[Paul Dickov]]&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2003/apr/28/newsstory.premierleague200203 |title=Henry lands PFA award |newspaper=The Guardian|first=David| last=McKechnie|date=28 April 2003 |accessdate=6 May 2016}}&lt;/ref&gt;
+* '''2009''' – [[Football League One|League One]] – {{Flagicon|ENG}} [[Jack Hobbs (footballer)|Jack Hobbs]], {{Flagicon|ENG}} [[Matt Oakley]], {{Flagicon|ENG}} [[Matty Fryatt]]&lt;ref&gt;{{cite web|url=http://www.eurosport.co.uk/football/premier-league/2008-2009/giggs-wins-pfa-award_sto1920634/story.shtml |title=Giggs wins PFA award – Premier League 2008–2009 |publisher=Eurosport |date=27 April 2009 |accessdate=6 May 2016}}&lt;/ref&gt;
+* '''2011''' – [[Football League Championship|Championship]] – {{Flagicon|ENG}} [[Kyle Naughton]], {{Flagicon|WAL}} [[Andy King (footballer born 1988)|Andy King]]&lt;ref&gt;{{cite web|url=http://worldsoccertalk.com/2011/04/18/who-would-you-name-in-your-championship-team-of-the-year-2011/ |title=2011 PFA Championship Team of The Year |publisher=World Soccer Talk |date=18 April 2011 |accessdate=6 May 2016}}&lt;/ref&gt;
+* '''2013''' – [[Football League Championship|Championship]] – {{Flagicon|DEN}} [[Kasper Schmeichel]], {{Flagicon|JAM}} [[Wes Morgan]]&lt;ref&gt;{{cite news|url=http://www.manchestereveningnews.co.uk/sport/football/football-news/robin-van-persie-among-united-3186796 |title=Robin Van Persie among United quartet in PFA Team of the Year |newspaper=[[Manchester Evening News]] |date=29 April 2013 |accessdate=6 May 2016}}&lt;/ref&gt;
+* '''2014''' – [[Football League Championship|Championship]] – {{Flagicon|DEN}} [[Kasper Schmeichel]], {{Flagicon|JAM}} [[Wes Morgan]], {{Flagicon|ENG}} [[Danny Drinkwater]]&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/news/11712/9287088/championship-leicester-and-burnley-dominate-pfa-team-of-the-year |title=Championship: Leicester and Burnley dominate PFA Team of the Year  |publisher=Sky Sports |date=29 December 2013 |accessdate=4 May 2016}}&lt;/ref&gt;
+* '''2016''' – [[Premier League]] – {{flagicon|JAM}} [[Wes Morgan]], {{flagicon|FRA}} [[N'Golo Kanté]], {{flagicon|ALG}} [[Riyad Mahrez]], {{flagicon|ENG}} [[Jamie Vardy]]&lt;ref&gt;{{cite news|author=Mark Critchley |url=https://www.independent.co.uk/sport/football/premier-league/pfa-team-of-the-year-2016-tottenham-leicester-manchester-united-arsenal-a6995051.html |title=PFA Team of the Year 2016: Four Tottenham and four Leicester City players included |newspaper=The Independent |date=21 April 2016 |accessdate=4 May 2016}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}}
+* Dave Smith and Paul Taylor, ''Of Fossils and Foxes: The Official Definitive History of Leicester City Football Club'' (2001) ({{ISBN|978-1-899538-21-8}})
+* Dave Smith and Paul Taylor, ''The Foxes Alphabet: Complete Who's Who of Leicester City Football Club'' (1995) ({{ISBN|978-1-899538-06-5}})
+* Leicester City FC, ''The Official History of Leicester City Football Club'' DVD (2003) (Out of print)
+* John Hutchinson, ''From Shed to Stadium: Illustrated history of LCFC''. (2014) {{ISBN|978-1-909872-18-9}}
+* John Hutchinson, Neil Plumb, Rob O'Donnell, ''Leicester City Classic Shirts 1949–2016'' (2015) {{ISBN|978-1-909872-76-9}}
+{{refend}}
+
+==External links==
+{{Commons category|Leicester City F.C.}}
+* {{official website|http://www.lcfc.com}}
+* {{BBC football info|BBClinkname=leicester-city}}
+* [http://news.bbc.co.uk/local/leicester/hi/people_and_places/history/newsid_8328000/8328416.stm BBC Leicester – In pictures: 125 years of Leicester City]
+
+{{Leicester City F.C.}}
+{{Leicester City F.C. seasons}}
+{{Premier League}}
+{{Football League Championship}}
+{{Laureus Spirit of Sport Award}}
+
+{{Good article}}
+
+[[Category:Leicester City F.C.| ]]
+[[Category:Football clubs in England]]
+[[Category:Premier League clubs]]
+[[Category:Former English Football League clubs]]
+[[Category:Sport in Leicester]]
+[[Category:Association football clubs established in 1884]]
+[[Category:EFL Cup winners]]
+[[Category:Midland Football League (1889)]]
+[[Category:EFL Championship clubs]]
+[[Category:1884 establishments in England]]
+[[Category:Football clubs in Leicestershire]]
+[[Category:Laureus World Sports Awards winners]]
+[[Category:Companies that have entered administration in the United Kingdom]]</text>
+      <sha1>5k1xvvlajcccj9eqdfrm4epm04xs11j</sha1>
+    </revision>
+  </page>
+</mediawiki>

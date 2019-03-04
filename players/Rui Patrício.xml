@@ -1,0 +1,327 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rui Patrício</title>
+    <ns>0</ns>
+    <id>6545572</id>
+    <revision>
+      <id>885261231</id>
+      <parentid>884789576</parentid>
+      <timestamp>2019-02-26T23:36:14Z</timestamp>
+      <contributor>
+        <ip>82.23.42.196</ip>
+      </contributor>
+      <comment>/* Club */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29408">{{Use dmy dates|date=February 2013}}
+{{Portuguese name|Santos|Patrício}}
+{{Infobox football biography
+| name = Rui Patrício
+| image = Rui Patrício 2018.jpg
+| image_size = 200
+| caption = Patrício with [[Portugal national football team|Portugal]] at the [[2018 FIFA World Cup|2018 World Cup]]
+| fullname = Rui Pedro dos Santos Patrício&lt;ref&gt;{{cite web|url=http://tournament.fifadata.com/documents/FCC/2017/PDF/FCC_2017_SQUADLISTS.PDF|title=FIFA Confederations Cup Russia 2017: List of players: Portugal|publisher=FIFA|page=7|format=PDF|date=20 March 2018|accessdate=4 November 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1988|2|15|df=y}}&lt;ref&gt;{{cite web|url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF|title=FIFA World Cup Russia 2018: List of players: Portugal|publisher=FIFA|page=23|format=PDF|date=15 July 2018|accessdate=4 November 2018}}&lt;/ref&gt;
+| birth_place = Marrazes, Portugal
+| height= 1.90 m&lt;ref&gt;{{cite web|url=https://www.premierleague.com/players/11341/Rui-Patrício/overview|title=Rui Patrício: Overview|publisher=Premier League|accessdate=4 November 2018}}&lt;/ref&gt;
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| clubnumber = 11
+| youthyears1 = 1997–2000 | youthclubs1 = Leiria e Marrazes
+| youthyears2 = 2000–2006 | youthclubs2 = [[Sporting CP]]
+| years1 = 2006–2018 | clubs1 = [[Sporting CP]] | caps1 = 327 | goals1 = 0
+| years2 = 2018– | clubs2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] | caps2 = 26 | goals2 = 0
+| nationalyears1 = 2003–2004 | nationalteam1 = [[Portugal national under-16 football team|Portugal U16]] | nationalcaps1 = 5  | nationalgoals1 = 0
+| nationalyears2 = 2004–2005 | nationalteam2 = [[Portugal national under-17 football team|Portugal U17]] | nationalcaps2 = 11 | nationalgoals2 = 0
+| nationalyears3 = 2005–2006 | nationalteam3 = [[Portugal national under-18 football team|Portugal U18]] | nationalcaps3 = 4  | nationalgoals3 = 0
+| nationalyears4 = 2006–2007 | nationalteam4 = [[Portugal national under-19 football team|Portugal U19]] | nationalcaps4 = 10 | nationalgoals4 = 0
+| nationalyears5 = 2007–2008 | nationalteam5 = [[Portugal national under-20 football team|Portugal U20]] | nationalcaps5 = 8  | nationalgoals5 = 0
+| nationalyears6 = 2007–2010 | nationalteam6 = [[Portugal national under-21 football team|Portugal U21]] | nationalcaps6 = 14 | nationalgoals6 = 0
+| nationalyears7 = 2010– | nationalteam7 = [[Portugal national football team|Portugal]] | nationalcaps7 = 77 | nationalgoals7 = 0
+| club-update = 23:57, 11 February 2019 (UTC)
+| nationalteam-update = 17 November 2018
+| medaltemplates =
+{{medalCountry|[[Portugal national football team|Portugal]]}}
+{{medal|W|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2016|2016]]}}
+{{medalBronze|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2012|2012]]}}&lt;!--Though there was no third place playoff, UEFA decided in the 2012 edition to award the semi-final losers (Germany and Portugal) bronze medals.--&gt;
+{{medal|3rd|[[FIFA Confederations Cup|Confederations Cup]]|[[2017 FIFA Confederations Cup|2017]]}}
+}}
+'''Rui Pedro dos Santos Patrício''' {{small|[[Order of Merit (Portugal)|ComM]]}} ({{IPA-pt|ˈʁuj pɐˈtɾisju}}; born 15 February 1988) is a Portuguese professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for English club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] and the [[Portugal national football team|Portugal national team]].
+
+Before moving to England, he spent most of his career with [[Sporting CP]], making his debut with the first team at only 18 and going on to appear in 467 official games. He won five trophies during his 12-year spell there, including two [[Taça de Portugal|Portuguese Cups]].
+
+Patrício earned his first [[Cap (sport)|cap]] for Portugal in 2010, after [[Paulo Bento]]'s appointment as head coach. He represented the nation in two [[FIFA World Cup|World Cups]] and three [[UEFA European Championship|European Championships]], winning the [[UEFA Euro 2016|2016 edition]] of the latter tournament.
+
+==Club career==
+===Sporting===
+Born in Marrazes, [[Leiria]],&lt;ref&gt;{{cite web|url=http://www.maisfutebol.iol.pt/liga/sporting/patricio-inaugura-estatua-em-leiria-que-seja-exemplo-para-mais-novos|title=Patrício inaugura estátua em Leiria: "Que seja exemplo para mais novos"|trans-title=Patrício inaugurates statue in Leiria: «Let it be an example for the young ones»|publisher=Mais Futebol|language=pt|date=22 May 2017|accessdate=30 August 2018}}&lt;/ref&gt; Patrício played as a [[Forward (association football)#Striker|striker]] at a young age. Reportedly, a [[Sporting CP]] scout was in the area and saw him play [[Goalkeeper (association football)|in goal]], being impressed enough to sign the 12-year-old to the club's youth academy.&lt;ref&gt;{{cite news|url=https://www.cmjornal.pt/desporto/detalhe/heroi-ja-foi-avancado|title=Herói já foi avançado|trans-title=Hero used to be a forward|newspaper=[[Correio da Manhã]]|language=pt|date=6 August 2009|accessdate=7 April 2018}}&lt;/ref&gt; He made his [[Primeira Liga]] debut on 19 November 2006, in a 1–0 away win against [[C.S. Marítimo]] in the tenth round: standing in for habitual club and [[Portugal national football team|country]] first-choice [[Ricardo (footballer, born 1976)|Ricardo]], he saved a [[Penalty kick (association football)|penalty kick]] 15 minutes before the end of the game.&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/arquivo/interior.aspx?content_id=289099|title=Rui Patrício entra na história|trans-title=Rui Patrício makes history|newspaper=[[Record (newspaper)|Record]]|language=pt|date=20 November 2006|accessdate=15 February 2013}}&lt;/ref&gt;
+[[File:Rui Patrício.jpg|left|thumb|271x271px|Patrício with Sporting in 2012]]
+In the [[2007–08 Primeira Liga|2007–08 season]], after Ricardo's departure to [[Real Betis]], Patrício beat competition from Sporting veteran [[Tiago Ferreira (footballer, born 1975)|Tiago]] and new signing [[Vladimir Stojković]] to become the undisputed starter. He made his [[UEFA Champions League]] debut on 27 November 2007, in a [[2007–08 UEFA Champions League|1–2 group stage loss]] at [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2008/matches/round=15105/match=301234/postmatch/report/index.html|title=Ronaldo underlines United authority|publisher=UEFA|date=27 November 2007|accessdate=15 March 2016}}&lt;/ref&gt;
+
+During the 2008 off-season, Patrício was the subject of a rumored transfer to Italian giants [[Inter Milan]].&lt;ref&gt;{{cite news|url=http://www.record.pt/noticia.asp?id=791670&amp;idCanal=24|title=Rui Patrício por Toldo|trans-title=Rui Patrício for Toldo|newspaper=Record|language=pt|date=17 June 2008|accessdate=|deadurl=yes|archiveurl=https://web.archive.org/web/20080809164349/http://www.record.pt/noticia.asp?id=791670&amp;idCanal=24|archivedate=9 August 2008}}&lt;/ref&gt; Nothing came of it, however, and in [[2008 Supertaça Cândido de Oliveira|that year]]'s [[Supertaça Cândido de Oliveira|Portuguese Supercup]] final, against [[FC Porto]], he stopped a [[Lucho González]] penalty in a 2–0 final success,&lt;ref name=SUPERCUP&gt;{{cite web|url=http://www.uefa.com/memberassociations/news/newsid=739742.html|title=Djaló double steers Sporting success|publisher=UEFA|date=16 August 2008|accessdate=22 October 2013}}&lt;/ref&gt; also being an everpresent fixture in [[2008–09 Primeira Liga|the league]].
+
+In the qualifying rounds of the [[2009–10 UEFA Champions League|2009–10 Champions League]], at [[FC Twente]], Sporting were trailing 0–1 in the 94th minute, after a 0–0 tie in the first leg: Patrício rushed to the opposing area for a [[corner kick]], where he went up for a header with [[Nikita Rukavytsya]]. Both players seemed to make contact with the ball, and it was helped into the net for an [[own goal]] via the boot of [[Peter Wisgerhof]] as the latter side eventually qualified for the last games prior to the group stage.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/matches/season=2010/round=2000026/match=2000341/index.html|title=Sporting late show shatters Twente|publisher=UEFA|date=4 August 2009|accessdate=5 August 2009}}&lt;/ref&gt;
+
+On 20 December 2012, Patrício was awarded Sporting's Footballer of the Year award for a second consecutive year.&lt;ref name="POY12"&gt;{{cite news|url=http://www.record.xl.pt/Futebol/Nacional/1a_liga/Sporting//interior.aspx?content_id=795037|title=Vencedores dos prémios Stromp|trans-title=Stromp awards winners|newspaper=Record|language=pt|date=20 December 2012|accessdate=23 December 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20121226102314/http://www.record.xl.pt/Futebol/Nacional/1a_liga/Sporting/interior.aspx?content_id=795037|archivedate=26 December 2012}}&lt;/ref&gt; On 18 October 2014, with the score at 2–1 for his team, he saved a penalty by [[Jackson Martínez]] to help [[2014–15 Taça de Portugal|oust Porto]] from the [[Taça de Portugal|Portuguese Cup]] with a 3–1 win at the ''[[Estádio do Dragão]]''.&lt;ref&gt;{{cite web|url=http://www.portugoal.net/club-news/77-sporting-dump-porto-out-of-the-portuguese-cup|title=Sporting dump Porto out of the Portuguese Cup|publisher=PortuGOAL|date=18 October 2014|accessdate=21 October 2014}}&lt;/ref&gt;
+
+On 24 October 2016, Patrício was one of 30 players nominated for the 2016 [[Ballon d'Or]] award alongside [[Portugal national football team|Portugal]] teammates [[Pepe (footballer, born 1983)|Pepe]] and [[Cristiano Ronaldo]].&lt;ref&gt;{{cite web|url=http://www.espnfc.com/uefa-champions-league/story/2980138/ballon-dor-nominees-cristiano-ronaldo-and-lionel-messi-lead-list-of-30|title=Ballon d'Or: Cristiano Ronaldo and Lionel Messi lead list of 30 nominees|publisher=[[ESPN FC]]|last=Holyman|first=Ian|date=24 October 2016|accessdate=3 November 2016}}&lt;/ref&gt; The following 18 February he appeared in his 400th competitive game with Sporting, putting on a [[Man of the match]] performance in a 1–0 home win against [[Rio Ave F.C.|Rio Ave FC]].&lt;ref&gt;{{cite web|url=http://www.sporting.pt/en/news/football/main-team/2017-02-19/sporting-cp-1-rio-ave-0|title=Patrício secures 400th {{sic|nolink=y|apperance}} with fantastic performance|publisher=Sporting CP|date=18 February 2017|accessdate=19 February 2017}}&lt;/ref&gt;
+
+On 15 May 2018, Patrício and several of his teammates, including coaches, were injured following an attack by around 50 supporters of Sporting at the club's training ground after the team [[2017–18 Primeira Liga|finished third in the league]] and missed out on [[2018–19 UEFA Champions League|Champions League qualification]].&lt;ref&gt;{{cite news|url=https://www.abola.pt/Nnh/Noticias/Ver/730529|title=Jesus e jogadores agredidos na Academia|trans-title=Jesus and players attacked at the Academy|newspaper=[[A Bola]]|language=pt|date=15 May 2018|access-date=16 May 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.sportsjoe.ie/football/sporting-lisbon-attack-160186|title=Sporting Lisbon players attacked at training ground after failing to secure Champions League spot|publisher=Sports Joe|last=Kiley|first=Ben|date=15 May 2018|access-date=16 May 2018}}&lt;/ref&gt; Despite the events, he and the rest of the team agreed to play in the [[2018 Taça de Portugal Final|Portuguese Cup final]] scheduled for the following weekend,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/amp/football/44142885|title=Sporting Lisbon: Players agree to play Portuguese Cup final after attack|publisher=[[BBC Sport]]|date=16 May 2018|accessdate=18 May 2018}}&lt;/ref&gt; eventually losing to [[C.D. Aves]].&lt;ref&gt;{{cite news|url=https://www.ojogo.pt/futebol/taca-portugal/noticias/interior/aves-ganha-a-taca-de-portugal-gracas-a-bis-de-guedes-9360212.html|title=Aves ganha a Taça de Portugal graças a bis de Guedes|trans-title=Aves win Portuguese Cup thanks to Guedes brace|newspaper=[[O Jogo]]|language=pt|date=20 May 2018|accessdate=26 July 2018}}&lt;/ref&gt;
+
+===Wolverhampton Wanderers===
+On 1 June 2018, Patrício submitted a request to terminate his Sporting contract with grounds for just cause, due to the dressing room violence from supporters as well as seeing an €18&amp;nbsp;million move to newly promoted [[Premier League]] team [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] fall through, after Sporting president [[Bruno de Carvalho]] pulled out of negotiations at the last minute.&lt;ref&gt;{{cite news|url=https://www.abola.pt/img/carta-rui-patricio-A.pdf|title=Rescisão com justa causa do contrato de trabalho desportivo|trans-title=Just cause termination of sporting work contract|newspaper=A Bola|language=pt|date=31 May 2018|access-date=3 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://kwese.espn.com/football/soccer-transfers/story/3515658/rui-patricio-wants-sporting-deal-terminated-as-jorge-mendes-accused-of-blackmail|title=Rui Patricio wants Sporting deal terminated as Jorge Mendes accused of 'blackmail'|publisher=[[ESPN]]|date=2 June 2018|accessdate=3 June 2018}}&lt;/ref&gt; He completed the move on 18 June, on a four-year deal,&lt;ref&gt;{{cite web|url=https://www.wolves.co.uk/news/first-team/20180618-wolves-complete-patricio-signing/|title=Wolves complete Patricio signing|publisher=Wolverhampton Wanderers F.C|date=18 June 2018|accessdate=18 June 2018}}&lt;/ref&gt; and it was announced on 31 October that both clubs had agreed a €18&amp;nbsp;million deal as settlement of his departure to England.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/46052450|title=Rui Patricio: Wolves agree £16m fee with Sporting Lisbon for goalkeeper|publisher=BBC Sport|date=31 October 2018|accessdate=4 November 2018}}&lt;/ref&gt;
+
+Patrício opted to wear the No.11 shirt for Wolves as opposed to the habitual No.1, in honour of [[Carl Ikeme]], who had just retired following treatment for [[Acute leukemia|acute leukaemia]].&lt;ref&gt;{{cite web|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2018/08/10/rui-patricio-honours-carl-ikeme-as-wolves-reveal-new-kit-numbers/|title=Rui Patricio honours Carl Ikeme as Wolves reveal new kit numbers|newspaper=[[Express &amp; Star]]|last=Hatfield|first=Luke|date=10 August 2018|accessdate=14 August 2018}}&lt;/ref&gt; He made his league debut on 11 August 2018, in a 2–2 home draw against [[Everton F.C.|Everton]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45067374|title=Wolverhampton Wanderers 2–2 Everton|publisher=BBC Sport|last=Hafez|first=Shamoon|date=11 August 2018|accessdate=14 August 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:Rui Patrício 2017.jpg|left|thumb|285x285px|Patrício with Portugal at the [[2017 FIFA Confederations Cup|2017 Confederations Cup]]]]
+From 2007, Patrício started appearing for the [[Portugal national under-21 football team|Portuguese under-21 side]]. On 29 January of the following year, [[Portugal national football team|senior team]] coach [[Luiz Felipe Scolari]] called him up for a 1–3 [[Exhibition game|friendly]] defeat against [[Italy national football team|Italy]] in [[Zürich]],&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/arquivo/interior.aspx?content_id=331094|title=Rui Patrício chamado por Scolari|trans-title=Rui Patrício called by Scolari|newspaper=Record|language=pt|date=29 January 2008|accessdate=15 February 2013}}&lt;/ref&gt; although he did not leave the bench; on 12 May he was picked to the squad for [[UEFA Euro 2008]], but did not play in the tournament.
+
+Although not part of the provisional 24-player list for the [[2010 FIFA World Cup]] in South Africa,&lt;ref&gt;{{cite web|url=https://www.fpf.pt/portal/page/portal/PORTAL_FUTEBOL/SELECCOES/NOTICIA?notid=9126513|title=Convocados revelados|trans-title=Squad revealed|publisher=[[Portuguese Football Federation]]|language=pt|date=10 May 2010|accessdate=11 May 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20110615170243/http://www.fpf.pt/portal/page/portal/PORTAL_FUTEBOL/SELECCOES/NOTICIA?notid=9126513|archivedate=15 June 2011|df=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/news/newsid=1208424/index.html|title=Pepe in Portugal squad|publisher=FIFA|date=10 May 2010|accessdate=11 May 2010}}&lt;/ref&gt; Patrício was named in a backup list of six players.&lt;ref&gt;{{cite web|url=https://www.fifa.com/mm/document/tournament/competition/01/20/86/87/provisional1305.pdf|title=Release list of up to 30 players|publisher=FIFA|accessdate=14 May 2010}}&lt;/ref&gt; He made his debut on 17 November 2010, playing the second half of a 4–0 friendly win with [[Spain national football team|Spain]].&lt;ref&gt;{{cite web|url=http://www.espnstar.com/football/news/detail/item533498/Portugal-4-0-Spain/|title=Portugal 4–0 Spain|publisher=[[ESPN Star Sports]]|date=18 November 2010|accessdate=11 February 2014|deadurl=yes|archiveurl=https://archive.is/20120731010828/http://www.espnstar.com/football/news/detail/item533498/Portugal-4-0-Spain/|archivedate=31 July 2012}}&lt;/ref&gt;
+
+After [[Eduardo Carvalho|Eduardo]] was relegated to the bench at his new club, [[S.L. Benfica]], Patrício became the starter under national team boss [[Paulo Bento]], and both players finished the [[UEFA Euro 2012 qualifying|Euro 2012 qualifying campaign]] with five games (450 minutes) as Portugal qualified for the final stages. He was the starter in the finals in [[Poland]] and [[Ukraine]], conceding four goals in five matches in an eventual semi-final exit.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2012/matches/round=15174/match=2003378/postmatch/report/index.html#spain+survive+test+nerve+reach+final|title=Spain survive test of nerve to reach final|publisher=UEFA|date=27 June 2012|accessdate=26 June 2014}}&lt;/ref&gt;
+
+Patrício was included in Bento's 23-man squad for the [[2014 FIFA World Cup|2014 World Cup]] as first-choice,&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/portugal/10810443/Portugal-World-Cup-2014-squad.html|title=Portugal World Cup 2014 squad|newspaper=[[The Daily Telegraph]]|date=2 June 2014|accessdate=26 June 2014}}&lt;/ref&gt; and made his debut in [[FIFA World Cup|the competition]] in the first encounter against [[Germany national football team|Germany]], which ended with a 0–4 loss.&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=german-lessons-for-cr7-s-portugal-2373410.html|title=Muller-inspired Germany thrash ten-man Portugal|publisher=FIFA|date=16 June 2014|accessdate=26 June 2014}}&lt;/ref&gt; He missed the second game against the [[United States men's national soccer team|United States]], due to injury.&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/worldcup2014/article-2660580/Portugal-defender-Fabio-Coentrao-ruled-rest-World-Cup-thigh-injury.html|title=Portugal defender Fabio Coentrao ruled out for rest of the World Cup with thigh injury|newspaper=[[Daily Mail]]|date=17 June 2014|accessdate=26 June 2014}}&lt;/ref&gt;
+
+Patrício appeared in his 50th international on 30 June 2016, during [[UEFA Euro 2016|Euro 2016]]: after the 1–1 draw to [[Poland national football team|Poland]] at the ''[[Stade Vélodrome]]'' during the first 120 minutes, he saved [[Jakub Błaszczykowski]]'s attempt in a 5–3 [[Penalty shoot-out (association football)|penalty shootout]] win that qualified to the semi-finals.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017901/postmatch/report/index.html|title=Draw specialists Portugal beat Poland on penalties|publisher=UEFA|date=30 June 2016|accessdate=30 June 2016}}&lt;/ref&gt; Having won the tournament with a solid display in [[UEFA Euro 2016 Final|the final]],&lt;ref name=BBC&gt;{{cite web|url=https://www.bbc.com/sport/football/36696772|title=Portugal 1–0 France|publisher=BBC Sport|last=McNulty|first=Phil|date=10 July 2016|accessdate=18 May 2018}}&lt;/ref&gt; he also made the squad for the [[2018 FIFA World Cup|2018 World Cup]] in [[Russia]].&lt;ref&gt;{{cite web|url=https://www.sbs.com.au/news/portugal-world-cup-squad|title=Nearly half Portugal's Euro squad to miss World Cup|publisher=[[Special Broadcasting Service]]|date=17 May 2018|accessdate=17 May 2018}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|26 February 2019}}&lt;ref&gt;{{cite web|url=https://www.foradejogo.net/player.php?player=198802150001&amp;language=2|title=Rui Patrício|publisher=ForaDeJogo|accessdate=31 August 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/rui-pedro-dos-santos-patricio/16583/|title=Rui Patrício|publisher=Soccerway|accessdate=19 March 2014}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[Taça de Portugal|National Cup]]
+!colspan="2"|[[Taça da Liga|League Cup]]
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="13"|[[Sporting CP|Sporting]]
+|[[2006–07 Primeira Liga|2006–07]]
+|rowspan="12"|[[Primeira Liga]]
+|1||0||0||0||colspan="2"|—||0||0||colspan="2"|—||1||0
+|-
+|[[2007–08 Primeira Liga|2007–08]]
+|20||0||5||0||3||0||8&lt;ref group=lower-alpha&gt;Two appearances in [[2007–08 UEFA Champions League|UEFA Champions League]], six in [[2007–08 UEFA Cup|UEFA Cup]]&lt;/ref&gt;||0||0||0||36||0
+|-
+|[[2008–09 Primeira Liga|2008–09]]
+|26||0||1||0||0||0||6&lt;ref group=lower-alpha&gt;Appearances in [[UEFA Champions League]]&lt;/ref&gt;||0||1&lt;ref group=lower-alpha name=Supercup&gt;Appearance in [[Supertaça Cândido de Oliveira]]&lt;/ref&gt;||0||34||0
+|-
+|[[2009–10 Sporting Clube de Portugal season|2009–10]]
+|30||0||3||0||4||0||14&lt;ref group=lower-alpha&gt;Four appearances in [[2009–10 UEFA Champions League|UEFA Champions League]], ten in [[2009–10 UEFA Europa League|UEFA Europa League]]&lt;/ref&gt;||0||colspan="2"|—||51||0
+|-
+|[[2010–11 Sporting Clube de Portugal season|2010–11]]
+|30||0||2||0||3||0||8&lt;ref group=lower-alpha name=UEL&gt;Appearances in [[UEFA Europa League]]&lt;/ref&gt;||0||colspan="2"|—||43||0
+|-
+|[[2011–12 Sporting Clube de Portugal season|2011–12]]
+|28||0||6||0||0||0||13&lt;ref group=lower-alpha name=UEL/&gt;||0||colspan="2"|—||47||0
+|-
+|[[2012–13 Sporting Clube de Portugal season|2012–13]]
+|30||0||1||0||1||0||7&lt;ref group=lower-alpha name=UEL/&gt;||0||colspan="2"|—||39||0
+|-
+|[[2013–14 Sporting Clube de Portugal season|2013–14]]
+|30||0||1||0||0||0||colspan="2"|—||colspan="2"|—||31||0
+|-
+|[[2014–15 Sporting Clube de Portugal season|2014–15]]
+|33||0||4||0||0||0||8&lt;ref group=lower-alpha&gt;Six appearances in [[2014–15 UEFA Champions League|UEFA Champions League]], two in [[2014–15 UEFA Europa League|UEFA Europa League]]&lt;/ref&gt;||0||colspan="2"|—||45||0
+|-
+|[[2015–16 Sporting Clube de Portugal season|2015–16]]
+|34||0||2||0||0||0||9&lt;ref group=lower-alpha name=UEL/&gt;||0||1&lt;ref group=lower-alpha name=Supercup/&gt;||0||46||0
+|-
+|[[2016–17 Sporting Clube de Portugal season|2016–17]]
+|31||0||1||0||0||0||6||0||colspan="2"|—||38||0
+|-
+|[[2017–18 Sporting Clube de Portugal season|2017–18]]
+|34||0||5||0||3||0||14||0||colspan="2"|—||56||0
+|-
+!colspan="2"|Total
+!327!!0!!31!!0!!14!!0!!93!!0!!2!!0!!467!!0
+|-
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]
+|[[Premier League]]
+|28||0||0||0||0||0||colspan="2"|—||colspan="2"|—||28||0
+|-
+!colspan="3"|Career total
+!355!!0!!31!!0!!14!!0!!93!!0!!2!!0!!495!!0
+|}
+{{reflist|group=lower-alpha}}
+
+===International===
+{{updated|17 November 2018}}&lt;ref&gt;{{cite web|url=http://eu-football.info/_player.php?id=24739|title=Rui Patrício|website=EU-Football.info|accessdate=4 September 2015}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="9"|[[Portugal national football team|Portugal]]
+|2010||1||0
+|-
+|2011||8||0
+|-
+|2012||11||0
+|-
+|2013||9||0
+|-
+|2014||6||0
+|-
+|2015||7||0
+|-
+|2016||14||0
+|-
+|2017||12||0
+|-
+|2018||9||0
+|-
+!colspan="2"|Total!!77!!0
+|}
+
+==Honours==
+[[File:The dive of Rui Patricio.jpg|thumb|Statue of Patrício and the [[Henri Delaunay Trophy]], unveiled in Leiria in May 2017 to immortalise a save he made from [[Antoine Griezmann]] in the [[UEFA Euro 2016 Final|Euro 2016 final]].&lt;ref&gt;{{cite news|url=https://www.ojogo.pt/futebol/1a-liga/sporting/noticias/interior/rui-patricio-em-leiria-para-inaguracao-de-estatua-de-defesa-memoravel-8496300.html|title=Rui Patrício em Leiria para inaguração de estátua de defesa memorável|trans-title=Rui Patrício in Leiria for inauguration of statue of memorable save|newspaper=O Jogo|language=pt|date=22 May 2017|accessdate=4 April 2018}}&lt;/ref&gt;]]
+===Club===
+'''Sporting'''&lt;ref name=SW&gt;{{cite web|url=https://int.soccerway.com/players/rui-pedro-dos-santos-patricio/16583/|title=Rui Patrício – Trophies|publisher=Soccerway|accessdate=19 March 2014}}&lt;/ref&gt;
+*[[Taça de Portugal]]: [[2007–08 Taça de Portugal|2007–08]], [[2014–15 Taça de Portugal|2014–15]]
+*[[Supertaça Cândido de Oliveira]]: [[2008 Supertaça Cândido de Oliveira|2008]],&lt;ref name=SUPERCUP/&gt; [[2015 Supertaça Cândido de Oliveira|2015]]
+*[[Taça da Liga]]: [[2017–18 Taça da Liga|2017–18]]
+
+===International===
+'''Portugal'''
+*[[UEFA European Championship]]: [[UEFA Euro 2016|2016]]&lt;ref name=SW/&gt;&lt;ref name=BBC/&gt;
+*[[FIFA Confederations Cup]]: Third place [[2017 FIFA Confederations Cup|2017]]&lt;ref&gt;{{cite web|url=http://www.tsf.pt/desporto/interior/portugal-tenta-o-terceiro-lugar-na-despedida-da-taca-das-confederacoes-8607365.html|title="Portugal fez uma prova excelente", diz Fernando Santos|trans-title="Portugal had an excellent tournament", Fernando Santos says|publisher=[[TSF (radio station)|TSF]]|language=pt|date=2 July 2017|accessdate=4 July 2017}}&lt;/ref&gt;
+
+===Individual===
+*[[SJPF Player of the Month]]: [[2010–11 Primeira Liga#Awards|April 2011]]
+*[[SJPF Young Player of the Month]]: [[2007–08 Primeira Liga#Awards|January 2008]], [[2008–09 Primeira Liga#Awards|April 2009]], [[2010–11 Primeira Liga#Awards|November 2010]], [[2010–11 Primeira Liga#Awards|March 2011]], [[2010–11 Primeira Liga#Awards|April 2011]]
+*[[LPFP Awards#Primeira Liga Awards|LPFP Primeira Liga Goalkeeper of the Year]]: [[2011–12 Primeira Liga#Annual awards|2011–12]], [[2015–16 Primeira Liga#Annual awards|2015–16]]
+*[[Sporting CP#Player of the Year|Sporting CP Footballer of the Year]]: 2011, 2012&lt;ref name="POY12"/&gt;
+*[[UEFA European Championship Teams of the Tournament|UEFA European Championship Team of the Tournament]]: [[UEFA Euro 2016#Awards|2016]]&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/news/newsid=2389933.html |title=UEFA EURO 2016 Team of the Tournament revealed|publisher=UEFA|date=11 July 2016|accessdate=11 July 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160716200525/http://www.uefa.com/uefaeuro/news/newsid%3D2389933.html|archivedate=16 July 2016|df=}}&lt;/ref&gt;
+*[[UEFA Europa League]] Squad of the Season: [[2017–18 UEFA Europa League#Squad of the season|2017–18]]&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/news/newsid=2560036.html|title=UEFA Europa League Squad of the 2017/18 Season|publisher=UEFA|date=17 May 2018|accessdate=18 May 2018}}&lt;/ref&gt;
+
+===Orders===
+*[[File:POR_Ordem_do_Merito_Comendador_BAR.svg|60px]] Commander of the [[Order of Merit (Portugal)|Order of Merit]]&lt;ref&gt;{{cite news|url=https://www.dn.pt/desporto/euro-2016/interior/selecao-recebe-insignias-de-marcelo-no-porto-5356115.html|title=Seleção recebe insígnias de Marcelo no Porto|trans-title=National team receives insignia from Marcelo in Porto|newspaper=[[Diário de Notícias]]|language=pt|date=25 August 2016|accessdate=11 August 2017}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Zerozero}}
+*{{ForaDeJogo}}
+*{{Soccerbase|45653}}
+*{{NFT player}}
+*{{FIFA player}}
+
+{{Wolverhampton Wanderers F.C. squad}}
+{{Navboxes
+| title = Portugal squads
+| bg = #900020
+| fg = gold
+| bordercolor = #006600
+| list1 = 
+{{Portugal squad UEFA Euro 2008}}
+{{Portugal squad UEFA Euro 2012}}
+{{Portugal squad 2014 FIFA World Cup}}
+{{Portugal squad UEFA Euro 2016}}
+{{Portugal squad 2017 FIFA Confederations Cup}}
+{{Portugal squad 2018 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{UEFA Euro 2016 Team of the Tournament}}
+{{Sporting Clube de Portugal Player of the Year}}
+}}
+
+{{DEFAULTSORT:Patricio, Rui}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:People from Leiria]]
+[[Category:Portuguese footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Primeira Liga players]]
+[[Category:Sporting CP footballers]]
+[[Category:Premier League players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Portugal youth international footballers]]
+[[Category:Portugal under-21 international footballers]]
+[[Category:Portugal international footballers]]
+[[Category:UEFA Euro 2008 players]]
+[[Category:UEFA Euro 2012 players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:2017 FIFA Confederations Cup players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:UEFA European Championship-winning players]]
+[[Category:Portuguese expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Portuguese expatriate sportspeople in England]]
+[[Category:Commanders of the Order of Merit (Portugal)]]</text>
+      <sha1>9860q0x7xhc8nol13pqpumd0knsaio0</sha1>
+    </revision>
+  </page>
+</mediawiki>

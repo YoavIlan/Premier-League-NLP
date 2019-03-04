@@ -1,0 +1,93 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Nathan</title>
+    <ns>0</ns>
+    <id>2224457</id>
+    <revision>
+      <id>879534799</id>
+      <parentid>879534725</parentid>
+      <timestamp>2019-01-21T21:12:41Z</timestamp>
+      <contributor>
+        <username>Rubbish computer</username>
+        <id>23085006</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/71.114.25.125|71.114.25.125]] ([[User talk:71.114.25.125|talk]]) to last version by Boothsift</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1388">{{Wiktionary|Nathan}}
+'''Nathan''' or '''Natan''' may refer to:
+
+== People ==
+{{solename}}
+*[[Nathan (prophet)]], a person in the Hebrew Bible
+*[[Nathan (son of David)]], biblical figure, son of King David and Bathsheba
+*[[Nathan of Gaza]], a charismatic figure who spread the word of Eli the Prophet
+*[[Starboy Nathan]], a British singer who used the stage name "Nathan" from 2006 to 2011
+&lt;!-- Do not add other people here unless they are known simply as Nathan.  Instead, use the page linked above. --&gt;
+*[[Nathan (given name)]]
+*[[Nathan (surname)]]
+
+== Other uses ==
+*[[Nathan, Queensland]], a suburb of Brisbane in Australia
+*[[Nathan (band)]], an alt-country band from Winnipeg, Manitoba, Canada
+*[[Vethan]] or "Nathan", a deity in Ayyavazhi theology
+*[[Éditions Nathan]], a French publishing house, a subsidiary of Editis
+*[[Nathan Manufacturing]] (Airchime, Ltd.), a train horn manufacturer
+*[[Nathan Road]], the main thoroughfare in Kowloon, Hong Kong
+*The title character of ''[[Nathan the Wise]]'', a 1779 play by Gotthold Ephraim Lessing&lt;!-- previously linked as just "Nathan" in at least two articles --&gt;
+
+== See also ==
+*[[Special:Prefixindex/Nathan|All pages beginning with Nathan]]
+*[[Nate (disambiguation)]]
+*[[Na Tan District]] in Ubon Ratchathani Province, Thailand
+*Natan Couture, a Belgian fashion house created and owned by [[Édouard Vermeulen]]
+
+{{Disambiguation}}</text>
+      <sha1>jdwertcvfyklyp2wxsdep18f0f7rea8</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,387 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Adam Lallana</title>
+    <ns>0</ns>
+    <id>6632765</id>
+    <revision>
+      <id>885431769</id>
+      <parentid>885421452</parentid>
+      <timestamp>2019-02-28T00:14:51Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/2001:8003:34AB:3200:896B:A94F:B607:3FA8|2001:8003:34AB:3200:896B:A94F:B607:3FA8]] ([[User talk:2001:8003:34AB:3200:896B:A94F:B607:3FA8|talk]]): Incomplete ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="45393">{{EngvarB|date=December 2018}}
+{{Use dmy dates|date=December 2018}}
+{{Infobox football biography
+| name                = Adam Lallana
+| image               = Adam Lallana in Bangkok (19721313015).jpg
+| image_size          = 200
+| caption             = Lallana in 2015
+| fullname            = Adam David Lallana&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1988|5|10|df=y}}&lt;ref name=Hugman1011&gt;{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |location=Edinburgh |isbn=978-1-84596-601-0 |page=243}}&lt;/ref&gt;
+| birth_place         = [[St Albans]], England
+| height              = {{convert|1.72|m|order=flip}}&lt;ref&gt;{{cite web |url=https://uk.soccerway.com/players/adam-lallana/15497/ |title=A. Lallana: Summary |website=Soccerway |publisher=Perform Group |accessdate=30 December 2018}}&lt;/ref&gt;
+| position            = [[Midfielder#Attacking midfielder|Attacking midfielder]] / [[Midfielder#Central midfielder|Central midfielder]]
+| currentclub         = [[Liverpool F.C.|Liverpool]]
+| clubnumber          = 20
+| youthyears1         = {{0|0000}}–2000
+| youthclubs1         = [[AFC Bournemouth]]
+| youthyears2         = 2000–2006
+| youthclubs2         = [[Southampton F.C.|Southampton]]
+| years1              = 2006–2014
+| clubs1              = [[Southampton F.C.|Southampton]]
+| caps1               = 235
+| goals1              = 48
+| years2              = 2007
+| clubs2              = → [[AFC Bournemouth]] (loan)
+| caps2               = 3
+| goals2              = 0
+| years3              = 2014–
+| clubs3              = [[Liverpool F.C.|Liverpool]]
+| caps3               = 109
+| goals3              = 17
+| nationalyears1      = 2006
+| nationalteam1       = [[England national under-18 football team|England U18]]
+| nationalcaps1       = 2
+| nationalgoals1      = 1
+| nationalyears2      = 2006
+| nationalteam2       = [[England national under-19 football team|England U19]]
+| nationalcaps2       = 2
+| nationalgoals2      = 0
+| nationalyears3      = 2008
+| nationalteam3       = [[England national under-21 football team|England U21]]
+| nationalcaps3       = 1
+| nationalgoals3      = 0
+| nationalyears4      = 2013–
+| nationalteam4       = [[England national football team|England]]
+| nationalcaps4       = 34
+| nationalgoals4      = 3
+| club-update         = 09:59, 11 February 2019 (UTC)
+| nationalteam-update = 01:54, 30 December 2018 (UTC)
+}}
+'''Adam David Lallana''' ({{IPAc-en|l|ə|ˈ|l|ɑː|n|ə}} {{respell|lə|LAH|nə}};&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=hTDWhFxvJr0 |title=How to improve your weaker foot with Adam Lallana {{!}} Masterclass |publisher=The Football Association |date=11 June 2015 |accessdate=30 December 2018 |via=YouTube}}&lt;/ref&gt; born 10 May 1988) is an English professional [[Association football|footballer]] who plays as an [[Midfielder#Attacking midfielder|attacking midfielder]] for {{English football updater|Liverpoo}} club [[Liverpool F.C.|Liverpool]] and the [[England national football team|England national team]].
+
+Lallana began his youth career with [[AFC Bournemouth]] before transferring to [[Southampton F.C.|Southampton]] in 2000, where he developed in their academy and became a professional in 2006. After a brief loan back to Bournemouth he broke into Southampton's first team as they earned two promotions from [[EFL League One|League One]] to the Premier League, becoming captain in 2012. After two seasons in the top flight and an international breakthrough, he joined Liverpool for a reported £25&amp;nbsp;million in July 2014.
+
+Since his senior international debut in 2013, Lallana has made over 30 appearances for England and represented them at the [[2014 FIFA World Cup]] and [[UEFA Euro 2016]].
+
+==Early life==
+Lallana was born in [[St Albans]] in Hertfordshire&lt;ref name=Hugman1011/&gt; but moved to the [[Iford, Dorset|Iford]] area of [[Bournemouth]] when he was five years old. He attended [[Corpus Christi Church, Boscombe|Corpus Christi School]] followed by [[St Peter's Catholic Comprehensive School]].&lt;ref name = "Bank"&gt;{{cite news |title=Bank on Adam |newspaper=Bournemouth Daily Echo |url=http://www.bournemouthecho.co.uk/sport/3966295.BANK_ON_ADAM/ |date=11 December 2008 |accessdate=28 March 2016}}&lt;/ref&gt; As a child, Lallana supported [[Everton F.C.|Everton]], like his father.&lt;ref&gt;{{cite news |last1=Bascombe |first1=Chris |title=Liverpool v Everton: Boyhood Evertonian Adam Lallana closing in on his best form ahead of Merseyside derby |url=https://www.telegraph.co.uk/sport/football/teams/liverpool/11124085/Liverpool-v-Everton-Boyhood-Evertonian-Adam-Lallana-closing-in-on-his-best-form-ahead-of-Merseyside-derby.html |newspaper=The Daily Telegraph |location=London |accessdate=26 September 2014 |date=26 September 2014}}&lt;/ref&gt; He is of [[Spaniards|Spanish]] descent; his paternal grandfather is from Madrid.&lt;ref&gt;{{cite web |title=Lallana talks Zidane, BR and Spanish roots |publisher=Liverpool F.C. |url=http://www.liverpoolfc.com/news/latest-news/174513-lallana-talks-zidane-br-and-spanish-roots |date=17 November 2014 |accessdate=1 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=f9W3K5E6l40 |title=BTSP&amp;nbsp;– Mean Tweets&amp;nbsp;– Adam Lallana&amp;nbsp;– Southampton |last=BTSPOfficial |date=6 May 2014 |via=YouTube |access-date=20 May 2014 |archive-url=https://web.archive.org/web/20140528230530/http://www.youtube.com/watch?v=f9W3K5E6l40 |archive-date=28 May 2014 |dead-url=yes |df=dmy-all }}&lt;/ref&gt;
+
+==Club career==
+===Southampton===
+[[File:Adam Lallana Southampton FC Manchester United 2012,13.png|thumb|left|upright|Lallana in 2012]]
+
+Lallana was a member of the [[AFC Bournemouth]] Centre of Excellence, where he was spotted by a talent scout from [[Southampton F.C.|Southampton]]. He joined the [[Premier League]] club's [[Southampton F.C. Under-23s and Academy|Saints Academy]] as a 12-year-old in September 2000. Southampton paid £3,000 compensation to Bournemouth with further payments of £5,000 and £10,000 when he signed scholarship and professional contracts respectively.&lt;ref name=Bank/&gt;
+
+Lallana was involved in Southampton's [[FA Youth Cup]] squads of [[FA Youth Cup Finals of the 2000s#2004–05:_Ipswich_Town_vs_Southampton_(1–0_and_2–2,_3–2_Aggregate)|2004–05]] and [[2005-06 in English football|2005–06]], when they reached the final and semi-final respectively.{{citation needed|date=December 2018}}
+
+Lallana joined the first team squad in July 2006, making his debut on 23 August 2006, in a 5–2 victory over [[Yeovil Town F.C.|Yeovil Town]], in the [[EFL Cup|League Cup]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/league_cup/5266330.stm |title=Southampton 5–2 Yeovil |publisher=BBC Sport |date=23 August 2006 |accessdate=4 January 2014}}&lt;/ref&gt; On 31 October 2006 he signed a new contract to keep him at Southampton until December 2009.&lt;ref&gt;{{cite web |title=Lallana signs new deal |publisher=Southampton F.C. |url=http://www.saintsfc.co.uk/news/?page_id=7672 |date=31 October 2006 |accessdate=9 October 2007 |archiveurl=https://web.archive.org/web/20070929091417/http://www.saintsfc.co.uk/news/?page_id=7672 |archivedate=29 September 2007 |deadurl=no}}&lt;/ref&gt; On 9 October 2007 he joined Bournemouth on loan for one month.&lt;ref&gt;{{cite web |title=Lallana on loan |publisher=Southampton F.C. |url=http://www.saintsfc.co.uk/news/?page_id=9101 |date=9 October 2007 |accessdate=9 October 2007}}&lt;/ref&gt; On 28 April 2008, Lallana scored his first professional goal for Southampton against [[West Bromwich Albion F.C.|West Bromwich Albion]] in a crucial Championship match, with a well-placed finish into the bottom left corner.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/7356066.stm |title=West Brom 1–1 Southampton |publisher=BBC Sport |date=28 April 2008 |accessdate=4 September 2009}}&lt;/ref&gt;
+
+He became a regular in the first team at the start of the 2008–09 season. On 29 August 2008, he signed a new three-year deal with the Saints.{{citation needed|date=December 2018}}
+
+He finished the 2009–10 season with a total of twenty goals in all competitions, netting his 20th on the final day of the season against [[Southend United F.C.|Southend United]]. This made him the first Southampton midfielder to score twenty goals in a season since [[Matthew Le Tissier]]'s 30 in the 1994–95 season.{{citation needed|date=December 2018}}
+
+On 7 January 2011, Lallana signed a new contract with Southampton which would expire in the summer of 2015.&lt;ref&gt;{{cite web |title=Midfielder Signs Long Term Deal |url=http://www.saintsfc.co.uk/page/NewsDetail/0,,10280~2261409,00.html |publisher=Southampton F.C. |accessdate=8 January 2011 |date=7 January 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110110233558/http://www.saintsfc.co.uk/page/NewsDetail/0%2C%2C10280~2261409%2C00.html |archivedate=10 January 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Leitch |first=Adam |title=Lallana signs new Saints deal |url=http://www.dailyecho.co.uk/sport/8778862.Lallana_signs_new_Saints_deal/ |newspaper=Southern Daily Echo |location=Southampton |accessdate=8 January 2011 |date=7 January 2011}}&lt;/ref&gt; He was named in the League One [[PFA Team of the Year]] for the 2010–11 season after scoring 11 goals that season.&lt;ref name=PFATOTY1011&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/13110874 |title=Spurs' Gareth Bale wins PFA player of the year award |publisher=BBC Sport |date=17 April 2011 |accessdate=8 May 2018}}&lt;/ref&gt;
+
+[[File:AdamLallanaSouthamptonStoke (cropped).jpg|thumb|upright|Lallana playing for [[Southampton F.C.|Southampton]] in 2013]]
+
+He then scored on the opening day of the 2011–12 season, a 3–1 victory over [[Leeds United F.C.|Leeds United]] at [[St Mary's Stadium]] which broke a 12-year hoodoo of Southampton not winning on the opening day and secured a record-breaking seventh consecutive league win. He then scored twice in a 5–2 victory at [[Ipswich Town F.C.|Ipswich Town]]. His 150th start for the club came in a 1–1 draw at south coast rivals [[Portsmouth F.C.|Portsmouth]]. His tenth goal of the season came in a 4–0 victory over [[Derby County F.C.|Derby County]]. He then grabbed a brace in a 2–0 victory over [[Barnsley F.C.|Barnsley]]. He was nominated for the Player of the Year award but lost out to teammate [[Rickie Lambert]]. Along with Lambert and [[Kelvin Davis (footballer)|Kelvin Davis]], he was one of three Southampton players named in the Championship PFA Team of the Year for the 2011–12 season.&lt;ref name=PFATOTY1112&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/17797832 |title=Arsenal striker Robin van Persie named PFA Player of the Year |publisher=BBC Sport |date=22 April 2012 |accessdate=8 May 2018}}&lt;/ref&gt; He scored on the final day of the campaign to finish with 13 goals, 11 of which came in the league.{{citation needed|date=December 2018}}
+
+He made his first Premier League appearance on the opening day of the 2012–13 season, setting up a goal and wearing the captain's armband in a 3–2 defeat against 2011–12 champions [[Manchester City F.C.|Manchester City]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/19231354 "Man City 3–2 Southampton"] BBC Sport. 19 August 2012. Retrieved 25 November 2012.&lt;/ref&gt; He scored his first Premier League goal in a 4–1 defeat away to [[West Ham United F.C.|West Ham United]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/19939627 "West Ham 4–1 Southampton"] BBC Sport. 20 October 2012. Retrieved 25 November 2012.&lt;/ref&gt; His second goal of the season came on 25 November, as he opened the scoring in a 2–0 home win against [[Newcastle United F.C.|Newcastle United]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/20383440 "Southampton 2–0 Newcastle"] BBC Sport. 25 November 2012. Retrieved 25 November 2012.&lt;/ref&gt; The 50th goal of his career came in a 2–0 victory at [[Reading F.C.|Reading]].{{citation needed|date=December 2018}} On 11 April 2013, Lallana signed a new five-year contract with Southampton.&lt;ref&gt;{{cite web |title=Southampton: Adam Lallana signs a new five-year contract |url=https://www.bbc.co.uk/sport/0/football/22112980 |publisher=BBC Sport |accessdate=12 April 2013 |date=11 April 2013}}&lt;/ref&gt;
+
+In Southampton's 4–1 Premier League victory over [[Hull City A.F.C.|Hull City]] on 9 November 2013, Lallana started with the ball 30 yards from goal and dribbled his way past five players into the left-hand side of the 18-yard box, before slotting it past Hull goalkeeper [[Steve Harper]].&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2013/nov/09/southampton-hull-city-premier-league |title=Adam Lallana's brilliant goal helps Southampton crush feeble Hull City |date=9 November 2013 |newspaper=The Guardian |location=London |accessdate=30 April 2014}}&lt;/ref&gt; On 18 April 2014, he was named as one of the six players on the shortlist for the [[PFA Players' Player of the Year]] award.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/27076251 |title=PFA award: Liverpool's Suarez, Gerrard &amp; Sturridge on shortlist |date=18 April 2014 |accessdate=19 April 2014 |publisher=BBC Sport}}&lt;/ref&gt; On 27 April 2014, he was named alongside teammate [[Luke Shaw]] in the PFA Team of the Year.&lt;ref name=PFATOTY1314&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/27180793 |title=Luis Suarez: Liverpool striker wins PFA Player of the Year award |publisher=BBC Sport |date=28 April 2014 |accessdate=8 May 2018}}&lt;/ref&gt; On 6 May, he was crowned as both the Southampton Players' Player and Fans' Player of the year.&lt;ref&gt;{{cite web |last=Williams |first=Simon |title=2013/14 Player Awards The winners |url=http://www.saintsfc.co.uk/news/article/06052014-player-awards-201314-the-winners-1539729.aspx |publisher=Southampton F.C. |accessdate=10 May 2014 |date=6 May 2014}}&lt;/ref&gt;
+
+===Liverpool===
+====2014–2016====
+[[File:Adam Lallana v Arsenal 2014 (cropped).jpg|thumb|upright|Lallana playing for [[Liverpool F.C.|Liverpool]] in 2014]]
+
+Prior to the [[2014 FIFA World Cup]], Lallana was subject to interest from Premier League runners-up [[Liverpool F.C.|Liverpool]]. After long periods of negotiation Liverpool placed a reported £25&amp;nbsp;million bid which was accepted by Southampton.&lt;ref&gt;{{cite news |title=Liverpool bid for Lallana |url=https://www.theguardian.com/football/2014/jul/01/adam-lallana-move-southampton-liverpool |newspaper=The Guardian |location=London |accessdate=1 July 2014}}&lt;/ref&gt; Following England's return from the World Cup, Lallana signed for Liverpool, and was handed the number 20 shirt, the number he wore during his time at Southampton. Bournemouth, Lallana's youth team, had originally included a 25% sell-on-clause in his contract when he joined Southampton, but only received £4&amp;nbsp;million after agreeing to a reduced fee with Southampton.&lt;ref&gt;{{cite news |title=Bournemouth owner explains Lallana sell on clause |url=http://www.bournemouthecho.co.uk/sport/11312797.AFC_Bournemouth__Blake_reveals__small_sacrifices__over_Lallana_deal |newspaper=Bournemouth Daily Echo |accessdate=1 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Adam Lallana: Liverpool sign Southampton captain for £25m |url=https://www.bbc.co.uk/sport/0/football/27647888 |accessdate=1 July 2014 |publisher=BBC Sport |date=1 July 2014}}&lt;/ref&gt;
+
+On 25 July, Liverpool confirmed that Lallana had injured his knee while training with the club in [[Boston]], Massachusetts during pre-season and would be out for six weeks. He therefore missed the start of the league season, which began against former club Southampton.&lt;ref&gt;{{cite news |last1=Bascombe |first1=Chris |title=Liverpool suffer blow to preparations as Adam Lallana ruled out for six weeks with knee injury |url=https://www.telegraph.co.uk/sport/football/teams/liverpool/10992108/Liverpool-suffer-blow-to-preparations-as-Adam-Lallana-ruled-out-for-six-weeks-with-knee-injury.html |accessdate=21 August 2014 |newspaper=The Daily Telegraph |location=London |date=25 July 2014}}&lt;/ref&gt; He made his debut in Liverpool's fourth match on 13 September, starting and being substituted for [[Raheem Sterling]] after 61 minutes in a 1–0 home defeat to [[Aston Villa F.C.|Aston Villa]].&lt;ref&gt;{{cite web |last1=Bevan |first1=Chris |title=Liverpool 0–1 Aston Villa |url=https://www.bbc.co.uk/sport/0/football/29090587 |accessdate=13 September 2014 |publisher=BBC Sport |date=13 September 2014}}&lt;/ref&gt; On 4 October he scored his first goal for the club, opening a 2–1 home win against West Bromwich Albion seconds before half time.&lt;ref&gt;{{cite web |title=Liverpool 2–1 West Brom |url=https://www.bbc.co.uk/sport/0/football/29389680 |accessdate=4 October 2014 |publisher=BBC Sport |date=4 October 2014}}&lt;/ref&gt; Lallana scored his second goal for Liverpool on 2 December during Liverpool's 3–1 win at [[Leicester City F.C.|Leicester City]].&lt;ref&gt;{{cite web |last1=Johnston |first1=Neil |title=Leicester 1–3 Liverpool |url=https://www.bbc.co.uk/sport/0/football/30188283 |publisher=BBC Sport |accessdate=3 December 2014 |date=2 December 2014}}&lt;/ref&gt; On 29 December, he continued his fine form and scored two goals in a 4–1 win against [[Swansea City A.F.C.|Swansea City]] at Anfield.&lt;ref&gt;{{cite news |last1=Bascombe |first1=Chris |title=Liverpool 4 Swansea City 1: Adam Lallana shows his class as Liverpool cruise to victory |url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/11316920/Liverpool-4-Swansea-City-1-Adam-Lallana-shows-his-class-as-Liverpool-cruise-to-victory.html |newspaper=The Daily Telegraph |location=London |accessdate=30 December 2014 |date=29 December 2014}}&lt;/ref&gt; On 14 February, Lallana scored the winning goal in a [[2014–15 FA Cup|FA Cup Fifth Round]] match against [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{cite news |last1=Fifield |first1=Dominic |title=Liverpool fight back to edge past Crystal Palace with Adam Lallana winner |url=https://www.theguardian.com/football/2015/feb/14/crystal-palace-liverpool-fa-cup-match-report |accessdate=15 February 2015 |newspaper=The Guardian |location=London |date=14 February 2015}}&lt;/ref&gt; On 19 April 2015, Lallana was selected in [[Football League Awards#2015 Awards|the Football Manager Team of the Decade]] at the [[Football League Awards]].&lt;ref&gt;{{cite web |title=Winners announced for The Football League Awards 2015 |url=http://www.football-league.co.uk/news/article/2015/winners-announced-for-the-football-league-awards-2015-2412148.aspx |publisher=The Football League |accessdate=22 April 2015}}&lt;/ref&gt;
+
+On 17 September 2015, Lallana scored the opening goal in the new Europa League season opening group stage away match against Bordeaux at the Stade Chaban-Delmas, a match Liverpool went on to draw 1–1.&lt;ref&gt;{{cite web |title=Bordeaux 1–1 Liverpool |url=https://www.bbc.com/sport/0/football/34203664 |publisher=BBC Sport |accessdate=26 September 2015 |date=17 September 2015}}&lt;/ref&gt; On 1 October, Lallana scored in a second match in a row against [[FC Sion|Sion]] in the Europa League but the match ended in a 1–1 draw.&lt;ref&gt;{{cite web |title=Liverpool 1–1 Sion |url=https://www.bbc.com/sport/0/football/34404722 |publisher=BBC Sport |accessdate=5 October 2015 |date=1 October 2015}}&lt;/ref&gt; On 23 January 2016, he came on as a second-half substitute and scored an injury-time winner in Liverpool's 5–4 away win at [[Norwich City F.C.|Norwich City]].&lt;ref&gt;{{cite web |title=Norwich 4–5 Liverpool: Adam Lallana nets last-gasp winner in thrilling goalfest |url=http://www.skysports.com/football/norwich-vs-liverpool/341412 |publisher=Sky Sports |accessdate=23 January 2016}}&lt;/ref&gt; On 28 February 2016, Lallana came on as a second-half substitute and missed in the penalty shoot-out against Manchester City, resulting in Liverpool's loss in the [[2016 Football League Cup Final|2016 League Cup Final]].&lt;ref&gt;{{cite web |url=https://www.whoscored.com/Matches/1050433/Live/England-League-Cup-2015-2016-Liverpool-Manchester-City |title=Liverpool-Manchester City Live |publisher=whoscored.com |accessdate=10 March 2016}}&lt;/ref&gt; On 3 March 2016, he scored and assisted in Liverpool's 3–0 home win against Manchester City.&lt;ref&gt;{{cite web |url=https://www.whoscored.com/Matches/959903/Live/England-Premier-League-2015-2016-Liverpool-Manchester-City |title=Liverpool-Manchester City Live |publisher=whoscored.com |accessdate=10 March 2016}}&lt;/ref&gt; On 23 April, he scored Liverpool's second goal against [[Newcastle United F.C.|Newcastle United]], which took the Reds to a 2–0 half-time lead, but the match ended with a 2–2 draw.&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/36061096 |title=Liverpool 2–2 Newcastle United |date=23 April 2016 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt; On 5 May, he scored the third goal in Liverpool's second-leg win over [[Football in Spain|Spanish]] side [[Villarreal CF|Villarreal]] in the [[2015–16 UEFA Europa League|Europa League]] semi-finals, with the Reds advancing to the [[2016 UEFA Europa League Final|final]] with a 3–1 aggregate win.&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/36126028 |title=Liverpool 3–0 Villarreal (agg 3–1) |date=5 May 2016 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt;
+
+====2016–present====
+[[File:Adam Lallana.jpg|thumb|upright|Lallana in action against [[Real Madrid C.F.|Real Madrid]] during the [[2018 UEFA Champions League Final]]]]
+
+On 14 August 2016, during the opening match against [[Arsenal F.C.|Arsenal]], Lallana scored Liverpool's second goal, which took the Reds to a 2–1 lead, with the match eventually ending in a 4–3 win for Liverpool.&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/37001073 |title=Arsenal 3–4 Liverpool |date=14 August 2016 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt; On 10 September, Lallana scored in Liverpool's 4–1 win over [[2015–16 Premier League|last season's champions]] [[Leicester City F.C.|Leicester City]].&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/37263954 |title=Liverpool 4–1 Leicester City |date=10 September 2016 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt; Two weeks later, on 24 September, he scored in Liverpool's 5–1 win over [[2015–16 Football League Championship|newly-promoted]] [[Hull City A.F.C.|Hull City]].&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/37393500 |title=Liverpool 5–1 Hull City |date=24 September 2016 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt; On 11 December, he scored Liverpool's opening goal in the mach against [[West Ham United F.C.|West Ham United]],&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/38199047 |title=Liverpool 2–2 West Ham United |date=11 December 2016 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt; which eventually ended in a 2–2 draw. Three days later, he scored twice in a 3–0 defeat of [[Middlesbrough F.C.|Middlesbrough]],&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/38232292 |title=Middlesbrough 0–3 Liverpool |date=14 December 2016 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt; and on 27 December, he scored in Liverpool's 4–1 win over [[Stoke City F.C.|Stoke City]].&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/38375153 |title=Liverpool 4–1 Stoke City |date=27 December 2016 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt; On 22 February 2017, Lallana signed a new long-term contract with Liverpool.&lt;ref&gt;{{Cite web |url=https://www.liverpoolfc.com/news/first-team/254754-adam-lallana-signs-new-long-term-liverpool-fc-deal |title=Adam Lallana signs new long-term Liverpool FC deal |publisher=Liverpool F.C. |accessdate=15 June 2018}}&lt;/ref&gt; On 21 May 2017, on the final day of the season, Lallana scored Liverpool's third goal in their 3–0 win over Middlesbrough, which secured a top-four finish for the Reds and qualification to [[2017–18 UEFA Champions League|next year's UEFA Champions League]].&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/39912029 |title=Liverpool 3–0 Middlesbrough |date=21 May 2017 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt;
+
+In August 2017, Lallana suffered a long-term injury during the [[Audi Cup]] final against [[Atlético Madrid]], which would keep him out until mid-November.&lt;ref&gt;{{Cite web |url=https://www.liverpoolfc.com/news/first-team/270815-adam-lallana-facing-a-couple-of-months-out-with-injury |title=Adam Lallana facing 'a couple of months' out with injury |publisher=Liverpool F.C. |accessdate=15 June 2018}}&lt;/ref&gt; His first appearance of the season was in Liverpool's 1–1 draw with [[Chelsea F.C.|Chelsea]], coming on as an 89th minute substitute for [[Philippe Coutinho]].&lt;ref&gt;{{Cite web |url=https://www.bbc.com/sport/football/42035410 |title=Liverpool 1–1 Chelsea |date=15 November 2017 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt; On 31 March, during a match against [[Crystal Palace F.C.|Crystal Palace]], Lallana came on as a substitute in the 65th minute, but only several minutes after playing, he suffered another injury, which kept him out for "a number of weeks".&lt;ref&gt;{{Cite web |url=https://www.bbc.com/sport/football/43524303 |title=Crystal Palace 1–2 Liverpool |date=31 March 2018 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=https://www.liverpoolfc.com/news/first-team/296301-jurgen-klopp-adam-lallana-injury-liverpool-fc |title=Klopp provides update on Adam Lallana injury |publisher=Liverpool F.C. |accessdate=15 June 2018}}&lt;/ref&gt;  He returned to the squad on 13 May, on the final day of the Premier League season, coming on as a substitute for [[Sadio Mané]] in the 74th minute, playing against [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]. Liverpool won the match 4–0, which was enough to secure a top-four finish and a place in [[2018–19 UEFA Champions League|next year's UEFA Champions League group stages]], as finishing in fourth place now meant that clubs in the [[Premier League]] will automatically qualify for the [[2018–19 UEFA Champions League group stage|group stage]], rather than qualifying initially for the [[2018–19 UEFA Champions League#Play-off round|play-off round]].&lt;ref&gt;{{Cite web |url=https://www.bbc.com/sport/football/44020158 |title=Liverpool 4–0 Brighton &amp; Hove Albion |date=13 May 2018 |publisher=BBC Sport |accessdate=15 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last1=Dudko |first1=James |title=UEFA Announces Qualification Changes for Champions League, Europa League |url=https://bleacherreport.com/articles/2761824-uefa-announces-qualification-changes-for-champions-league-europa-league |website=Bleacher Report |accessdate=15 June 2018 |date=27 February 2018}}&lt;/ref&gt;
+
+On 26 May, during the [[2018 UEFA Champions League Final]] against [[Real Madrid]], Lallana came on as a substitute in the 31st minute for [[Mohamed Salah]], who had left the field in tears after suffering an injury, following a duel with [[Sergio Ramos]].&lt;ref&gt;{{Cite news |url=https://www.express.co.uk/sport/football/965534/Mohamed-Salah-injury-Liverpool-star-Sergio-Ramos-Real-Madrid-Champions-League-final |title=Mohamed Salah injury: Liverpool star subbed off after Sergio Ramos challenge |last=Short |first=Joe |date=26 May 2018 |newspaper=Daily Express |accessdate=15 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |url=https://www.express.co.uk/sport/football/965547/Mohamed-Salah-injury-Liverpool-diagnosis-amid-World-Cup-Champions-League-final |title=Mohamed Salah injury: Liverpool confirm diagnosis from Champions League final |last=Short |first=Joe |date=27 May 2018 |newspaper=Daily Express |accessdate=15 June 2018}}&lt;/ref&gt; Liverpool would go on lose the final by a scoreline of 3–1.&lt;ref&gt;{{cite web |url=http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000885/match=2021711/index.html |title=Long Term |publisher=UEFA |accessdate=15 June 2018}}&lt;/ref&gt; Lallana made only 13 appearances in the [[2017–18 Liverpool F.C. season|2017–18 season]], without scoring.&lt;ref name="sb1718" /&gt;
+
+==International career==
+[[File:Lallana England.png|thumb|125px|Lallana playing for [[England national football team|England]] in 2013]]
+
+Lallana played for [[England national under-18 football team|England Under-18s]], scoring on his debut against [[Slovenia national football team|Slovenia]], 18 months after undergoing an operation to correct an irregular heartbeat. He also played once each for [[England national under-19 football team|England Under-19s]] and [[England national under-21 football team|England Under-21s]]. On 10 September 2012, Lallana was called up to the senior [[England national football team|England]] squad for the first time for the [[2014 FIFA World Cup qualification|2014 World Cup qualifying]] match against [[Ukraine national football team|Ukraine]] although he was not selected for the match itself.&lt;ref&gt;{{cite news |title=Shock England call for trio |url=http://www1.skysports.com/football/news/12098/8069628/Shock-England-call-for-trio |publisher=Sky Sports |date=10 September 2012 |accessdate=10 September 2012}}&lt;/ref&gt;
+
+On 7 November 2013, along with Southampton teammates Rickie Lambert and fellow uncapped Saint [[Jay Rodriguez]], he was called up to the England team.&lt;ref&gt;{{cite news |title=England squad: Southampton striker Jay Rodriguez called up |url=https://www.bbc.co.uk/sport/0/football/24849964 |publisher=BBC Sport |accessdate=7 November 2013 |date=7 November 2013}}&lt;/ref&gt; Lallana won his first cap for England on 15 November by starting a friendly match against [[Chile national football team|Chile]] at [[Wembley Stadium]]. Although England lost 2–0,&lt;ref&gt;{{cite web |last=McNulty |first=Phil |title=England 0–2 Chile |url=https://www.bbc.co.uk/sport/0/football/24862578 |publisher=BBC Sport |accessdate=17 November 2013 |date=15 November 2013}}&lt;/ref&gt; Lallana's performance received generally favourable reviews.&lt;ref&gt;{{cite news |last=Burt |first=Jason |title=England v Chile: Adam Lallana flies flag high for Southampton |url=https://www.telegraph.co.uk/sport/football/teams/england/10453486/England-v-Chile-Adam-Lallana-flies-flag-high-for-Southampton.html |newspaper=The Daily Telegraph |location=London |accessdate=17 November 2013 |date=15 November 2013}}&lt;/ref&gt; He also started in England's defeat against [[Germany national football team|Germany]] four days later.&lt;ref&gt;{{cite news |title=England 0–1 Germany |url=https://www.bbc.co.uk/sport/0/football/24907635 |publisher=BBC Sport |date=19 November 2013 |accessdate=30 March 2014}}&lt;/ref&gt; He gained his third cap in a 1–0 friendly win against [[Denmark national football team|Denmark]] on 5 March 2014, coming on as a substitute for [[Jack Wilshere]] and crossing for [[Daniel Sturridge]] to head in the only goal of the match.&lt;ref&gt;{{cite news |title=England 1–0 Denmark |url=https://www.bbc.co.uk/sport/0/football/26349068 |accessdate=14 June 2014 |publisher=BBC Sport |date=5 March 2014}}&lt;/ref&gt;
+
+On 12 May 2014, Lallana was named in the 23-man England squad for the 2014 FIFA World Cup.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2014/may/12/england-world-cup-squad-hodgson-barkley-sterling |title=England World Cup squad 2014: Ross Barkley and Raheem Sterling called up |date=12 May 2014 |newspaper=The Guardian |location=London |accessdate=14 May 2014}}&lt;/ref&gt; He made his competitive debut on 14 June in the first group match against [[Italy national football team|Italy]], coming on for the last 10 minutes in place of Sturridge who had scored England's goal in the 1–2 defeat.&lt;ref&gt;{{cite news |last1=McNulty |first1=Phil |title=Italy 2–1 England |url=https://www.bbc.co.uk/sport/0/football/25285071 |accessdate=15 June 2014 |publisher=BBC Sport |date=14 June 2014}}&lt;/ref&gt;
+
+Lallana scored his first goal for England on 4 September 2016 in a [[2018 FIFA World Cup qualification|2018 FIFA World Cup qualification]] match away to [[Slovakia national football team|Slovakia]] at [[Štadión Antona Malatinského]]. It came during stoppage time and proved to be England's winning goal of the match.&lt;ref name = "goal 040916"&gt;{{cite news |title=Last-gasp Lallana gets Allardyce's England era off to a winning start |url=http://www.espn.co.uk/football/report?gameId=431886 |publisher=ESPN |date=4 September 2016 |accessdate=4 September 2016}}&lt;/ref&gt; He scored his second England goal on 11 November 2016 in a 2018 FIFA World Cup qualification match against [[Scotland national football team|Scotland]]. The score ended 3–0 to England, with [[Gary Cahill]] and Liverpool teammate Daniel Sturridge scoring the other goals.&lt;ref name="goal 111116"&gt;{{cite news |first=Phil |last=McNulty |title=England 3–0 Scotland |url=https://www.bbc.co.uk/sport/football/37868651 |publisher=BBC Sport |date=11 November 2016 |accessdate=12 November 2016}}&lt;/ref&gt;
+
+On 30 January 2017 it was announced that Lallana had won the [[The FA England Awards|England Player of the Year Award]] for 2016 after his performance for the national team.&lt;ref name=englandpoty&gt;{{cite web |first=Jim |last=Lucas |title=Lallana wins Vauxhall England Player of the Year award for 2016 |url=http://www.thefa.com/news/2017/jan/29/300117-adam-lallana-vauxhall-england-player-of-the-year-2016 |publisher=The Football Association |date=30 January 2017 |accessdate=5 December 2017}}&lt;/ref&gt;
+
+On 16 May 2018, he was one of five players named on standby for the 23-man [[England national football team|England national team]] squad for the [[2018 FIFA World Cup]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44138600 |title=England World Cup squad: Trent Alexander-Arnold in 23-man squad |publisher=BBC Sport |date=16 May 2018 |accessdate=17 May 2018}}&lt;/ref&gt;
+
+==Personal life==
+Lallana married his fiancée Emily Jubb on 24 December 2013. The couple, who had been dating for seven years, were due to marry on 14 June 2014, which coincided with England's opening World Cup match with Italy. They wed at Poole Register Office in Dorset.&lt;ref&gt;{{cite news |last=Richards |first=Chris |title=Southampton star Adam Lallana weds fiancee early to ensure he is available for England's World Cup bid |url=https://www.mirror.co.uk/sport/football/news/southampton-star-adam-lallana-weds-2959458 |newspaper=Daily Mirror |location=London |date=26 December 2013 |accessdate=1 April 2014}}&lt;/ref&gt; Together, they have two sons, Arthur Michael, born on 26 September 2012 and Albie George born on 3 June 2015.&lt;ref&gt;{{cite news |title=Southampton Football Club captain Adam Lallana celebrates after girlfriend gives birth to baby boy |url=http://www.dailyecho.co.uk/news/9955170.Baby_joy_for_Saints_captain_Adam_Lallana/?ref=rc |newspaper=Southern Daily Echo |location=Southampton |date=28 September 2012 |accessdate=1 April 2014}}&lt;/ref&gt;
+
+In 2014, Lallana was signed as a [[French Connection (clothing)|French Connection]] model, to promote their Autumn/Winter collection.&lt;ref&gt;{{cite web |title=Fashionable Football: Adam Lallana sporting latest FCUK collection |url=http://www.adamlallana.com/fashionable-football-adam-lallana-fcuk/ |publisher=AdamLallana.com |accessdate=18 November 2015 |date=3 May 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20151119035317/http://www.adamlallana.com/fashionable-football-adam-lallana-fcuk/ |archivedate=19 November 2015}}&lt;/ref&gt; He revealed his fashion photo shoot at an interview with ''[[Esquire (magazine)|Esquire]]'' magazine.&lt;ref&gt;{{cite web |title=Adam Lallana: From Winger To Fashion Model |url=http://www.esquire.co.uk/style/news/a6220/adam-lallana-from-winger-to-fashion-model/ |publisher=esquire.co.uk |accessdate=6 September 2017 |date=2 May 2014}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 29 December 2018}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=9|[[Southampton F.C.|Southampton]]
+|[[2006–07 Southampton F.C. season|2006–07]]&lt;ref&gt;{{soccerbase season|44463|2006|accessdate=12 December 2013}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|1||0||0||0||1||0||colspan=2|—||colspan=2|—||2||0
+|-
+|[[2007–08 Southampton F.C. season|2007–08]]&lt;ref name=sb0708&gt;{{soccerbase season|44463|2007|accessdate=12 December 2013}}&lt;/ref&gt;
+|Championship
+|5||1||0||0||0||0||colspan=2|—||colspan=2|—||5||1
+|-
+|[[2008–09 Southampton F.C. season|2008–09]]&lt;ref&gt;{{soccerbase season|44463|2008|accessdate=12 December 2013}}&lt;/ref&gt;
+|Championship
+|40||1||0||0||3||1||colspan=2|—||colspan=2|—||43||2
+|-
+|[[2009–10 Southampton F.C. season|2009–10]]&lt;ref&gt;{{soccerbase season|44463|2009|accessdate=12 December 2013}}&lt;/ref&gt;
+|[[EFL League One|League One]]
+|44||15||5||1||2||2||colspan=2|—||5{{efn|name=FLT|Appearance(s) in [[Football League Trophy]]}}||2||56||20
+|-
+|[[2010–11 Southampton F.C. season|2010–11]]&lt;ref name=sb1011&gt;{{soccerbase season|44463|2010|accessdate=18 June 2017}}&lt;/ref&gt;
+|League One
+|36||8||3||2||2||1||colspan=2|—||0||0||41||11
+|-
+|[[2011–12 Southampton F.C. season|2011–12]]&lt;ref&gt;{{soccerbase season|44463|2011|accessdate=12 December 2013}}&lt;/ref&gt;
+|Championship
+|41||11||2||1||3||1||colspan=2|—||colspan=2|—||46||13
+|-
+|[[2012–13 Southampton F.C. season|2012–13]]&lt;ref&gt;{{soccerbase season|44463|2012|accessdate=12 December 2013}}&lt;/ref&gt;
+|[[Premier League]]
+|30||3||0||0||0||0||colspan=2|—||colspan=2|—||30||3
+|-
+|[[2013–14 Southampton F.C. season|2013–14]]&lt;ref&gt;{{soccerbase season|44463|2013|accessdate=28 March 2016}}&lt;/ref&gt;
+|Premier League
+|38||9||3||1||1||0||colspan=2|—||colspan=2|—||42||10
+|-
+!colspan=2|Total
+!235||48||13||5||12||5||colspan=2|—||5||2||265||60
+|-
+|[[AFC Bournemouth]] (loan)
+|[[2007–08 A.F.C. Bournemouth season|2007–08]]&lt;ref name=sb0708/&gt;
+|League One
+|3||0||colspan=2|—||colspan=2|—||colspan=2|—||1{{efn|name=FLT}}||0||4||0
+|-
+|rowspan=6|[[Liverpool F.C.|Liverpool]]
+|[[2014–15 Liverpool F.C. season|2014–15]]&lt;ref&gt;{{soccerbase season|44463|2014|accessdate=28 March 2016}}&lt;/ref&gt;
+|Premier League
+|27||5||4||1||4||0||6{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||colspan=2|—||41||6
+|-
+|[[2015–16 Liverpool F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|44463|2015|accessdate=29 May 2016}}&lt;/ref&gt;
+|Premier League
+|30||4||0||0||6||0||13{{efn|Appearances in [[UEFA Europa League]]}}||3||colspan=2|—||49||7
+|-
+|[[2016–17 Liverpool F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|44463|2016|accessdate=19 July 2017}}&lt;/ref&gt;
+|Premier League
+|31||8||1||0||3||0||colspan=2|—||colspan=2|—||35||8
+|-
+|[[2017–18 Liverpool F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|44463|2017|accessdate=7 September 2018}}&lt;/ref&gt;
+|Premier League
+|12||0||1||0||0||0||2{{efn|name=UCL}}||0||colspan=2|—||15||0
+|-
+|[[2018–19 Liverpool F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|44463|2018|accessdate=30 December 2018}}&lt;/ref&gt;
+|Premier League
+|6||0||0||0||0||0||2{{efn|name=UCL}}||0||colspan=2|—||8||0
+|-
+!colspan=2|Total
+!106||17||6||1||13||0||23||3||colspan=2|—||148||21
+|-
+!colspan=3|Career total
+!344||65||19||6||25||5||23||3||6||2||417||81
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 27 March 2018}}&lt;ref name=NFT&gt;{{NFT player |id=54072 |name=Lallana, Adam |accessdate=30 December 2018}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=6|[[England national football team|England]]
+|2013||2||0
+|-
+|2014||11||0
+|-
+|2015||6||0
+|-
+|2016||10||3
+|-
+|2017||4||0
+|-
+|2018||1||0
+|-
+!colspan=2|Total||34||3
+|}
+
+===International goals===
+:''As of match played 27 March 2018. England score listed first, score column indicates score after each Lallana goal.''&lt;ref name=NFT/&gt;
+
+{| class="wikitable plainrowheaders sortable"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+!scope=col class=unsortable|{{abbr|Ref.|Reference}}
+|-
+!scope=row style=text-align:center|1
+|4 September 2016||[[Štadión Antona Malatinského]], Trnava, Slovakia||align=center|27||{{fb|Slovakia}}||align=center|1–0||align=center|1–0||[[2018 FIFA World Cup qualification]]||align=center|&lt;ref name="goal 040916"/&gt;
+|-
+!scope=row style=text-align:center|2
+|11 November 2016||[[Wembley Stadium]], London, England||align=center|28||{{fb|Scotland}}||align=center|2–0||align=center|3–0|||[[2018 FIFA World Cup qualification]]||align=center|&lt;ref name="goal 111116"/&gt;
+|-
+!scope=row style=text-align:center|3
+|15 November 2016||[[Wembley Stadium]], London, England||align=center|29||{{fb|Spain}}||align=center|1–0||align=center|2–2||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 2–2 Spain |url=https://www.bbc.co.uk/sport/football/37896472 |publisher=BBC Sport |date=15 November 2016 |accessdate=19 December 2016}}&lt;/ref&gt;
+|}
+
+==Honours==
+'''Southampton'''
+*[[Football League Trophy]]: [[2009–10 Football League Trophy|2009–10]]&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/8583783.stm |title=Carlisle 1–4 Southampton |first=Stephan |last=Shemilt |publisher=BBC Sport |date=28 March 2010 |accessdate=30 December 2018}}&lt;/ref&gt;
+*[[Football League One]] runner-up: [[2010–11 Football League One|2010–11]]&lt;ref&gt;{{cite book |editor1-first=Glenda |editor1-last=Rollin |editor2-first=Jack |editor2-last=Rollin |title=Sky Sports Football Yearbook 2011–2012 |year=2011 |publisher=Headline Publishing Group |location=London |isbn=978-0-7553-6231-8 |pages=39, 346–347}}&lt;/ref&gt;
+*[[Football League Championship]] runner-up: [[2011–12 Football League Championship|2011–12]]&lt;ref&gt;{{cite book |editor1-first=Glenda |editor1-last=Rollin |editor2-first=Jack |editor2-last=Rollin |title=Sky Sports Football Yearbook 2012–2013 |year=2012 |publisher=Headline Publishing Group |location=London |isbn=978-0-7553-6356-8 |pages=36, 346–347}}&lt;/ref&gt;
+
+'''Liverpool'''
+*[[Football League Cup]] runner-up: [[2015–16 Football League Cup|2015–16]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/35624164 |title=Liverpool 1–1 Manchester City |first=Phil |last=McNulty |publisher=BBC Sport |date=28 February 2016 |accessdate=27 May 2018}}&lt;/ref&gt;
+*[[UEFA Europa League]] runner-up: [[2015–16 UEFA Europa League|2015–16]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/36254631 |title=Liverpool 1–3 Sevilla |first=Phil |last=McNulty |publisher=BBC Sport |date=18 May 2016 |accessdate=27 May 2018}}&lt;/ref&gt;
+*[[UEFA Champions League]] runner-up: [[2017–18 UEFA Champions League|2017–18]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44258022 |title=Real Madrid 3–1 Liverpool |first=Phil |last=McNulty |publisher=BBC Sport |date=26 May 2018 |accessdate=27 May 2018}}&lt;/ref&gt;
+
+'''Individual''' 
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#League One 2|2010–11 League One]],&lt;ref name=PFATOTY1011/&gt; [[PFA Team of the Year (2010s)#Championship 3|2011–12 Championship]],&lt;ref name=PFATOTY1112/&gt; [[PFA Team of the Year (2010s)#Premier League 5|2013–14 Premier League]]&lt;ref name=PFATOTY1314/&gt;
+*[[Football League Awards|The Football Manager Team of the Decade: 2015]]&lt;ref&gt;{{cite web |url=https://www.efl.com/news/2015/april/the-football-league-announces-its-team-of-the-decade/ |title=The Football League announces its Team of the Decade |publisher=The Football League |date=19 April 2015 |accessdate=30 December 2018}}&lt;/ref&gt;
+*[[The FA England Awards#Senior Men's Player of the Year|England Player of the Year Award]]: 2016&lt;ref name=englandpoty/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.liverpoolfc.com/team/first-team/player/adam-lallana Profile] at the Liverpool F.C. website
+*{{Soccerbase}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2010–11 Football League One PFA Team of the Year}}
+{{2011–12 Football League Championship PFA Team of the Year}}
+{{2013–14 Premier League PFA Team of the Year}}
+{{Southampton F.C. Player of the Season}}
+{{England Player of the Year}}
+}}
+{{Navboxes
+| title = England squads
+| bg = white
+| fg = #0B0B3F
+| bordercolor = #0B0B3F
+| list1 = 
+{{England squad 2014 FIFA World Cup}}
+{{England squad UEFA Euro 2016}}
+}}
+{{Liverpool F.C. squad}}
+
+{{DEFAULTSORT:Lallana, Adam}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:People from St Albans]]
+[[Category:Sportspeople from Bournemouth]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England international footballers]]
+[[Category:Association football midfielders]]
+[[Category:A.F.C. Bournemouth players]]
+[[Category:Southampton F.C. players]]
+[[Category:Liverpool F.C. players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:English people of Spanish descent]]</text>
+      <sha1>hljd9ei7y3ftvc0hyftl616muigot6v</sha1>
+    </revision>
+  </page>
+</mediawiki>

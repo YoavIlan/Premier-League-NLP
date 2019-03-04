@@ -1,0 +1,358 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Willy Caballero</title>
+    <ns>0</ns>
+    <id>1026782</id>
+    <revision>
+      <id>885488025</id>
+      <parentid>885487316</parentid>
+      <timestamp>2019-02-28T09:46:34Z</timestamp>
+      <contributor>
+        <username>BPL2007</username>
+        <id>31680612</id>
+      </contributor>
+      <comment>/* Club */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34374">{{Use dmy dates|date=September 2012}}
+{{Spanish name|Caballero|Lazcano}}
+{{Infobox football biography
+| name = Willy Caballero
+| image = Wilfredo Caballero.jpg
+| image_size =
+| caption = Caballero with [[Argentina national football team|Argentina]] at the [[2018 FIFA World Cup]]
+| fullname = Wilfredo Daniel Caballero Lazcano&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/612828|title=Updated squads for 2017/18 Premier League confirmed|publisher=Premier League|date=2 February 2018|accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1981|9|28|df=y}}&lt;ref&gt;{{cite web|url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF|title=FIFA World Cup Russia 2018: List of players: Argentina|publisher=FIFA|page=1|format=PDF|date=15 July 2018|accessdate=5 October 2018}}&lt;/ref&gt;
+| birth_place = [[Santa Elena, Entre Ríos|Santa Elena]], Argentina
+| height = 1.86 m&lt;ref&gt;{{cite web|url=https://www.premierleague.com/players/10466/Willy-Caballero/overview|title=Willy Caballero: Overview|publisher=Premier League|accessdate=10 February 2018}}&lt;/ref&gt;
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Chelsea F.C.|Chelsea]]
+| clubnumber = 13
+| youthyears1 = | youthclubs1 = 
+| years1 = 2001–2004 | clubs1 = [[Boca Juniors]] | caps1 = 15 | goals1 = 0
+| years2 = 2004–2011 | clubs2 = [[Elche CF|Elche]] | caps2 = 186 | goals2 = 0
+| years3 = 2006 | clubs3 = → [[Arsenal de Sarandí|Arsenal Sarandí]] (loan) | caps3 = 13 | goals3 = 0
+| years4 = 2011–2014 | clubs4 = [[Málaga CF|Málaga]] | caps4 = 117 | goals4 = 0
+| years5 = 2014–2017 | clubs5 = [[Manchester City F.C.|Manchester City]] | caps5 = 23 | goals5 = 0
+| years6 = 2017– | clubs6 = [[Chelsea F.C.|Chelsea]] | caps6 = 4 | goals6 = 0
+| nationalyears1 = 2001 | nationalteam1 = [[Argentina national under-20 football team|Argentina U20]] | nationalcaps1 = 2 | nationalgoals1 = 0
+| nationalyears2 = 2018– | nationalteam2 = [[Argentina national football team|Argentina]] | nationalcaps2 = 5 | nationalgoals2 = 0
+| club-update = 27 February 2019 
+| nationalteam-update = 21 June 2018
+| medaltemplates = 
+{{MedalCountry|{{fb|ARG}}}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{Medal|RU|[[2005 FIFA Confederations Cup|2005 Germany]]|[[Argentina national football team|Team]]}}
+{{MedalSport|Men's [[Football at the Summer Olympics|football]]}}
+{{MedalGold|[[2004 Summer Olympics|2004 Athens]]|[[Football at the 2004 Summer Olympics|Team]]}}
+{{MedalCompetition|[[FIFA U-20 World Cup]]}}
+{{Medal|1st|[[2001 FIFA World Youth Championship|2001 Argentina]]|}}
+}}
+'''Wilfredo Daniel''' "'''Willy'''" '''Caballero Lazcano''' (born 28 September 1981) is an Argentine professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{English football updater|Chelsea}} club [[Chelsea F.C.|Chelsea]] and the [[Argentina national football team|Argentina national team]].
+
+He spent most of his career in Spain, representing [[Elche CF|Elche]] and [[Málaga CF|Málaga]] and competing in [[La Liga]] with the latter club. In the summer of 2014 he signed for [[Manchester City F.C.|Manchester City]], helping them win the [[2016 Football League Cup Final|2016 League Cup]].
+
+Caballero made his senior debut for [[Argentina national football team|Argentina]] in 2018. He represented the nation at the [[2018 FIFA World Cup|2018 World Cup]], and was also a non-playing member of the squads that won a gold medal at the [[Football at the 2004 Summer Olympics|2004 Summer Olympics]] and finished runners-up at the [[2005 FIFA Confederations Cup|2005 Confederations Cup]].
+
+==Club career==
+===Early career===
+Born in [[Santa Elena, Entre Ríos]], Caballero started his playing career with [[Boca Juniors]] in 2001, where he won three major titles in 2003. On 14 December of that year he witnessed&amp;nbsp;– from [[Substitute (association football)|the bench]]&amp;nbsp;– his team beat [[A.C. Milan]] 3–1 on [[Penalty shootout (association football)|penalties]], in the [[2003 Intercontinental Cup|2003]] [[Intercontinental Cup (football)|Intercontinental Cup]].&lt;ref name=ICUP&gt;{{cite news|url=http://mundod.lavoz.com.ar/futbol/10-anos-del-titulo-intercontinental-de-boca-ante-milan#!/login|title=A 10 años del título Intercontinental de Boca ante Milan|trans-title=10 years from Boca's Intercontinental title against Milan|newspaper=[[La Voz del Interior]]|language=es|date=14 December 2013|accessdate=6 January 2018}}&lt;/ref&gt;
+
+Caballero joined [[Elche CF|Elche]] of [[Spain]] in 2004, and when his daughter was diagnosed with cancer he agreed to a brief loan spell back in his country with [[Arsenal de Sarandí]] to care for her.&lt;ref&gt;{{cite web|url=http://www.ivoox.com/22436520|title=Padre antes que portero|trans-title=Father before goalkeeper|publisher=Ivoox|language=es|date=4 December 2017|accessdate=5 December 2017}}&lt;/ref&gt; With the former, after a rough [[2004–05 Segunda División|first season]], he went on to become the undisputed starter, appearing in nearly 200 [[Segunda División]] games.
+
+===Málaga===
+On 10 February 2011, Caballero was transferred to [[Málaga CF|Málaga]] in [[La Liga]] for [[Euro|€]]900,000 and two-and-a-half years, as an emergency transfer&amp;nbsp;– after the transfer deadline of 31 January&amp;nbsp;– due to a serious [[knee]] injury to [[Sergio Asenjo]] (their previous starter, [[Rubén Iván Martínez|Rubén]], was also unavailable due to physical problems);&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/11/transfer-zone/2011/02/11/2348382/official-malaga-sign-willy-caballero-from-elche|title=Official: Malaga sign Willy Caballero from Elche|publisher=[[Goal (website)|Goal]]|last=Mondal|first=Subhankar|date=11 February 2011|access-date=5 August 2015}}&lt;/ref&gt; he made his league debut on 20 February, starting in a 1–1 draw at [[Villarreal CF|Villarreal]],&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/report/_/id/302121?cc=5739|title=Villarreal left disappointed again|publisher=[[ESPN FC|ESPN Soccernet]]|date=20 February 2011|accessdate=28 February 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110628234200/http://soccernet.espn.go.com/report/_/id/302121?cc=5739|archivedate=28 June 2011}}&lt;/ref&gt; and played all the matches until the end of [[2010–11 La Liga|the campaign]], with the [[Andalusia]]ns finally escaping relegation.
+
+On 1 October 2011, Caballero entered Málaga's history books as he kept his [[Shutout|goal clean]] for 480 minutes, beating the club's previous record of 429 held by [[Pedro Contreras]] since the [[2001–02 La Liga|2001–02 season]].&lt;ref&gt;{{cite news|url=http://www.laopiniondemalaga.es/malagacf/2011/10/02/willy-caballero-historia-viva-malaga-cf/454131.html|title=Willy Caballero ya es historia viva del Málaga CF|trans-title=Willy Caballero becomes living history at Málaga CF|newspaper=La Opinión de Málaga|last=Puga|first=Manu|language=es|date=2 October 2011|accessdate=19 December 2014}}&lt;/ref&gt; On 16 October, he was [[Ejection (sports)|sent off]] midway through the first half of an away fixture against [[Levante UD|Levante]] after touching the ball with his hands just outside the box&amp;nbsp;– the hosts eventually won it 3–0.&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/report/_/id/323959?cc=5739|title=Levante go second|publisher=ESPN Soccernet|date=16 October 2011|accessdate=21 October 2011|archive-url=https://archive.is/20120720133452/http://soccernet.espn.go.com/report/_/id/323959?cc=5739|dead-url=yes|archive-date=20 July 2012}}&lt;/ref&gt;
+
+On 18 January 2012, Caballero signed a contract extension, tying him to the club until 2016.&lt;ref&gt;{{cite web|url=http://www.malagacf.com/es/noticia/actualidad/willy-caballero-amplia-su-vinculacion-malaga-club-futbol-temporada-20152016/131/56271|title=Willy Caballero amplía su vinculación con el Málaga Club de Fútbol hasta la temporada 2015–2016|trans-title=Willy Caballero extends Málaga Club de Fútbol link until 2015–2016 season|publisher=Málaga CF|language=es|date=18 January 2012|access-date=5 August 2015}}&lt;/ref&gt; On 25 March, playing against [[RCD Espanyol|Espanyol]], he fractured his left [[hand]] early into the game, being sidelined for the rest of [[2011–12 La Liga|the season]].&lt;ref&gt;{{cite news|url=http://www.marca.com/2012/03/27/futbol/equipos/malaga/1332875721.html|title=Caballero se operará de la fractura en su mano|trans-title=Caballero to undergo hand fracture surgery|newspaper=[[Marca (newspaper)|Marca]]|language=es|date=27 March 2012|access-date=5 August 2015}}&lt;/ref&gt;
+
+Caballero returned to full fitness for [[2012–13 La Liga|2012–13]], featuring in all but two games and helping the ''Boquerones'' to the sixth position. Goal.com named him as the best player in his position for the campaign.&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gb/news/3277/la-liga/2013/05/14/3977718/la-liga-team-of-the-season-messi-ronaldo-falcao-make-up-all-star-|title=La Liga Team of the Season: Messi, Ronaldo &amp; Falcao make up all-star front line|publisher=Goal|date=14 May 2013|access-date=5 August 2015}}&lt;/ref&gt; At the end of [[2013–14 La Liga|the following season]], he was nominated as the best goalkeeper in the league alongside [[Thibaut Courtois]] of [[Atlético Madrid]] and [[Keylor Navas]] of Levante.&lt;ref&gt;{{cite news|url=http://www.ibtimes.co.uk/chelsea-duo-thibaut-courtois-filipe-luis-nominated-la-liga-awards-1470026|title=Chelsea duo Thibaut Courtois and Filipe Luis nominated for La Liga awards|newspaper=[[International Business Times]]|last =Fernandez-Abascal|first=Eduardo|date=14 October 2014|access-date=5 August 2015}}&lt;/ref&gt;
+
+===Manchester City===
+[[file:Willy Caballero.jpg|thumb|Caballero warming up for [[Manchester City F.C.|Manchester City]] in 2014]]
+On 8 July 2014, Caballero signed a three-year deal with [[Manchester City F.C.|Manchester City]], for a fee believed to be in the region of [[Pound sterling|£]]6&amp;nbsp;million excluding add-ons. He reunited at his new club with former Málaga manager [[Manuel Pellegrini]],&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football-28195661|title=Willy Caballero: Man City sign Malaga goalkeeper for £4.4m|publisher=[[BBC Sport]]|date=8 July 2014|accessdate=5 August 2015|dead-url=yes|archive-url=https://archive.is/20140709172255/http://www.bbc.co.uk/sport/0/football-28195661|archive-date=9 July 2014}}&lt;/ref&gt; and his competitive debut came on 10 August in the [[2014 FA Community Shield]], playing the full 90 minutes in a 0–3 loss to [[Arsenal F.C.|Arsenal]] at [[Wembley Stadium]];&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/28647186|title=Arsenal 3–0 Manchester City|publisher=BBC Sport|last=Sanghera|first=Mandeep|date=10 August 2014|accessdate=10 August 2014}}&lt;/ref&gt; a week later, in the [[Premier League]] opener, he was an unused substitute at [[Newcastle United F.C.|Newcastle United]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/28730044|title=Newcastle United 0–2 Manchester City|publisher=BBC Sport|last=Chowdhury|first=Saj|date=17 August 2014|accessdate=17 August 2014}}&lt;/ref&gt;
+
+Caballero's second official appearance for City occurred on 24 September 2014, in the [[2014–15 Football League Cup|7–0 home routing]] of [[Sheffield Wednesday F.C.|Sheffield Wednesday]] for the [[Football League Cup]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/29233053|title=Manchester City 7–0 Sheffield Wednesday|publisher=BBC Sport|date=24 September 2014|accessdate=1 July 2018}}&lt;/ref&gt; He made his first league appearance away against [[Hull City A.F.C.|Hull City]] three days later, relegating longtime incumbent [[Joe Hart]] to the bench in a 4–2 win.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/29289927|title=Hull City 2–4 Manchester City|publisher=BBC Sport|last=Keegan|first=Mike|date=27 September 2014|accessdate=1 October 2014}}&lt;/ref&gt;
+
+Caballero's third league match was on 26 September 2015, a 1–4 defeat at [[Tottenham Hotspur F.C.|Tottenham Hotspur]] which was described as 'a day to forget'.&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-3250053/Harry-Kane-gets-mark-Willy-Caballero-day-forget-goal-Manchester-City-PLAYER-RATINGS.html|title=Harry Kane gets off the mark as Willy Caballero has a day to forget in goal for Manchester City – Player ratings|newspaper=[[Daily Mail]]|last=Al-Samarrai|first=Riath|date=26 September 2015|accessdate=28 September 2015}}&lt;/ref&gt; Throughout [[2015–16 Premier League|the season]], he was first-choice in the [[2015–16 Football League Cup|League Cup]], receiving criticism in the national press before [[2016 Football League Cup Final|the final]] following the [[2015–16 FA Cup|1–5 loss]] to [[Chelsea F.C.|Chelsea]] in the [[FA Cup]] where he was adjudged to be at fault for two goals;&lt;ref&gt;{{Cite news|url=http://www.dailymail.co.uk/sport/article-3465960/HOT-NOT-Manchester-City-huge-gamble-Willy-Caballero-Marc-Andre-Ter-Stegen-proves-worth-Barcelona.html|title=HOT OR NOT: Manchester City to take huge gamble on Willy Caballero while Marc-Andre Ter Stegen proves his worth for Barcelona|newspaper=Daily Mail|last=Ladyman|first=Ian|date=26 February 2016|accessdate=1 March 2016}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.dailymail.co.uk/sport/football/article-3467857/Manchester-City-goalkeeper-Willy-Caballero-shrugs-criticism-amid-calls-Joe-Hart-replace-Capital-One-Cup-final-don-t-care-people-think.html|title=Manchester City goalkeeper Willy Caballero shrugs off criticism amid calls for Joe Hart to replace him in Capital One Cup final: 'I don't care what people think'|newspaper=Daily Mail|last=Banerjee|first=Rohan|date=26 February 2016|accessdate=1 March 2016}}&lt;/ref&gt; in the decisive match at [[Wembley Stadium]], he saved three attempts in the 3–1 penalty shootout triumph against [[Liverpool F.C.|Liverpool]],&lt;ref name=LCUP&gt;{{cite web|url=https://www.bbc.com/sport/live/football/35264205|title=League Cup final: Man City win on penalties|publisher=BBC Sport|last=Rostance|first=Tom|date=28 February 2016|accessdate=28 February 2016}}&lt;/ref&gt; and Pellegrini subsequently said he would rather lose the match to keep his word, whilst several pundits added that both player and manager deserved an apology with some remarking the performance was a lesson in loyalty.&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/35683434|title=Capital One Cup: Manuel Pellegrini's selection policies pay off|publisher=BBC Sport|last=McNulty|first=Phil|date=29 February 2016|accessdate=1 March 2016}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.manchestereveningnews.co.uk/sport/football/match-reports/manchester-citys-willy-caballero-owed-10963105|title=Manchester City's Willy Caballero owed an apology after producing stunning League Cup winning display|newspaper=[[Manchester Evening News]]|last=Brennan|first=Stuart|date=1 March 2016|accessdate=1 March 2016}}&lt;/ref&gt;
+
+Following the appointment of manager [[Pep Guardiola]] in the 2016 off-season, Caballero became the starter over Hart.&lt;ref&gt;{{Cite news|url=https://www.independent.co.uk/sport/football/premier-league/manchester-city-news-pep-guardiola-defends-decision-to-drop-joe-hart-for-in-form-willy-caballero-a7189501.html|title=Manchester City news: Pep Guardiola defends decision to drop Joe Hart for 'in-form' Willy Caballero|newspaper=[[The Independent]]|last=Rich|first=Tim|date=13 August 2016|accessdate=17 August 2016}}&lt;/ref&gt; Soon after, with the signing of [[Claudio Bravo]], he returned to his backup role.&lt;ref&gt;{{Cite news|url=https://www.mirror.co.uk/sport/football/news/willy-caballero-lavishes-praise-joe-8765211|title=Willy Caballero lavishes praise on Joe Hart and backs him to succeed in Serie A with Torino|newspaper=[[Daily Mirror]]|last=McLeman|first=Neil|date=4 September 2016|accessdate=17 January 2017}}&lt;/ref&gt;
+
+On 19 October 2016, Caballero appeared as a [[Substitute (association football)|substitute]] in a 0–4 defeat by [[FC Barcelona|Barcelona]] at the [[Camp Nou]] in [[2016–17 UEFA Champions League|the group stage]] of the [[UEFA Champions League]]. After replacing the red-carded Bravo in goal, he saved a [[Penalty kick (association football)|penalty]] from [[Neymar]] in the 87th minute of the match.&lt;ref&gt;{{Cite news|url=http://www.smh.com.au/sport/soccer/barcelona-hand-manchester-city-champions-league-thrashing-as-lionel-messi-scores-treble-20161019-gs6bi6.html|title=Barcelona hand Manchester City Champions League thrashing as Lionel Messi scores treble|newspaper=[[The Sydney Morning Herald]]|date=20 October 2016|accessdate=22 February 2017}}&lt;/ref&gt; Two weeks later, he deputised for the suspended Bravo in the 3–1 home win over the same opponent for the same competition.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/37823784|title=Manchester City 3–1 Barcelona|publisher=BBC Sport|last=McNulty|first=Phil|date=1 November 2016|accessdate=22 February 2017}}&lt;/ref&gt;
+
+On 1 February 2017, Caballero replaced Bravo after a run of form which had seen the Chilean concede 28 goals from 22 appearances.&lt;ref&gt;{{Cite news|url=https://www.thesun.co.uk/sport/football/2749074/manchester-city-claudio-bravo-worst-goalkeeper-premier-league|title=Claudio Bravo dropped by Manchester City boss Pep Guardiola: Here is why he is officially the worst goalkeeper in the Premier League|newspaper=[[The Sun (United Kingdom)|The Sun]]|last=Fraser|first=Dave|date=31 January 2017|accessdate=22 February 2017}}&lt;/ref&gt; On his return to the starting XI, he kept a clean sheet in a 4–0 win over [[West Ham United F.C.|West Ham United]] at the [[London Olympic Stadium]].&lt;ref&gt;{{Cite web|url=https://www.bbc.com/sport/football/38740421|title=West Ham United 0–4 Manchester City|publisher=BBC Sport|last=Begley|first=Emlyn|date=1 February 2017|accessdate=22 February 2017}}&lt;/ref&gt; Late into the month, in a 5–3 Champions League [[2016–17 UEFA Champions League knockout phase#Round of 16|round of 16]] win over [[AS Monaco FC|Monaco]], he saved a penalty from [[Radamel Falcao]].&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/football/2017/02/21/manchester-city-vs-monaco-champions-league-live-score-updates/|title=Manchester City 5 Monaco 3: City stun manic visitors in showstopping eight goal thriller|newspaper=[[The Daily Telegraph]]|last=Wallace|first=Sam|date=21 February 2017|accessdate=22 February 2017}}&lt;/ref&gt;
+
+On 25 May 2017, it was announced Caballero would leave the club on the expiry of his contract, which occurred on 30 June.&lt;ref&gt;{{Cite web|url=https://www.mancity.com/news/first-team/2017/05/25/willy-caballero-leaves-man-city-news/1495554392043|title=Willy Caballero to leave Man City|publisher=Manchester City F.C|date=25 May 2017|access-date=25 May 2017}}&lt;/ref&gt;
+
+===Chelsea===
+On 1 July 2017, Caballero signed for [[2016–17 Premier League|title holders]] Chelsea on a [[Free transfer (association football)|free transfer]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/40466921|title=Willy Caballero: Chelsea sign former Manchester City goalkeeper|publisher=BBC Sport|date=1 July 2017|access-date=1 July 2017}}&lt;/ref&gt; He made his competitive debut on 20 September, in a [[2017–18 EFL Cup|5–1 home win]] against [[Nottingham Forest F.C.|Nottingham Forest]] for the League Cup.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/41249727|title=Chelsea 5–1 Nottingham Forest|publisher=BBC Sport|last=Phillips|first=Owen|date=20 September 2017|access-date=21 September 2017}}&lt;/ref&gt;
+
+On 17 January 2018, Caballero saved a penalty from [[Nélson Oliveira]] in the shootout of a [[2017–18 FA Cup|third round FA Cup replay win]] over [[Norwich City F.C.|Norwich City]], which had finished 1–1 after [[Overtime (sports)|extra time]].&lt;ref&gt;{{cite news|url=https://www.express.co.uk/sport/football/906252/Chelsea-1-Norwich-1-Batshuayi-FA-Cup-Conte-Caballero-Pedro-Morata|title=Chelsea 1 – Norwich City 1 (Blues win 5–3 on pens): Caballero the hero in FA Cup thriller|newspaper=The Independent|last=Dunn|first=Matthew|date=18 January 2018|accessdate=18 January 2018}}&lt;/ref&gt; Due to an ankle injury to first-choice [[Thibaut Courtois]], he made his Premier League debut away to [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] two days later, in a 4–0 success.&lt;ref&gt;{{cite news|url=https://www.londonnewsonline.co.uk/hazards-brace-inspires-blues-to-thump-brighton-4-0/|title=Hazard's brace inspires Blues to thump Brighton 4–0|newspaper=[[South London Press]]|last=Lagan|first=Paul|date=20 January 2018|accessdate=20 January 2018}}&lt;/ref&gt;
+
+On 24 February 2019 during the [[2019 EFL Cup Final]] against cup holders Manchester City, with the match at 0–0 and a penalty shootout imminent, Chelsea goalkeeper [[Kepa Arrizabalaga]] refused to be substituted off for Caballero to face his old club. Chelsea went on to lose the shoot-out 3–4.&lt;ref&gt;{{cite web |last1=Burt |first1=Jason |last2=Tyers |first2=Mike |title=Manchester City take the honours after Kepa Arrizabalaga antics overshadow otherwise drab League Cup final |url=https://www.telegraph.co.uk/football/2019/02/24/chelsea-vs-manchester-city-carabao-cup-final-2019-live-score/ |work=[[The Daily Telegraph]] |accessdate=25 February 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=WATCH: Kepa Arrizabalaga defies furious Chelsea boss Maurizio Sarri in Carabao Cup final |url=https://news.sky.com/story/watch-kepa-arrizabalaga-defies-furious-chelsea-boss-maurizio-sarri-in-carabao-cup-final-11647428 |publisher=[[Sky News]] |accessdate=25 February 2019}}&lt;/ref&gt;
+
+==International career==
+Caballero played for [[Argentina national football team|Argentina]] at [[Argentina national under-20 football team|under-20 level]], helping the nation win the [[2001 FIFA World Youth Championship]] by playing in the competition's last two games.&lt;ref&gt;{{FIFA player|181440}}&lt;/ref&gt; In 2004, he was picked for the [[Football at the 2004 Summer Olympics|gold medal]]-winning squad at the [[2004 Summer Olympics]] as backup to [[Germán Lux]] (also first-choice in the previous tournament).
+
+Caballero was an unused member for the senior squad at the [[2005 FIFA Confederations Cup]].&lt;ref&gt;{{cite news|url=https://www.lanacion.com.ar/711611-nos-debiamos-un-partido-asi|title="Nos debíamos un partido así"|trans-title="We had a game like this coming our way"|newspaper=[[La Nación]]|language=es|date=10 June 2005|accessdate=23 March 2018}}&lt;/ref&gt; In November 2014, he was called by manager [[Gerardo Martino]] for [[Exhibition game|friendlies]] against [[Croatia national football team|Croatia]] and [[Portugal national football team|Portugal]].&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/news/12026/9537920/tevez-earns-argentina-recall|title=International football: Argentina recall Carlos Tevez for Croatia and Portugal friendlies|publisher=[[Sky Sports]]|date=27 October 2014|accessdate=1 March 2016}}&lt;/ref&gt; He only won his first [[Cap (sport)|cap]] nearly four years later at the age of 36, starting in a 2–0 defeat of [[Italy national football team|Italy]] on 23 March 2018 in another exhibition game, played in [[Manchester]].&lt;ref&gt;{{cite news|url=https://www.lanacion.com.ar/2119543-argentina-italia-amistoso-internacional-rumbo-al-mundial-rusia-2018-horario-tv-y-formaciones|title=Con goles de Banega y Lanzini, y sin Messi, Argentina le ganó 2–0 a Italia|trans-title=With goals from Banega and Lanzini, and without Messi, Argentina beat Italy 2–0|newspaper=La Nación|language=es|date=23 March 2018|accessdate=23 March 2018}}&lt;/ref&gt;
+
+Caballero was included in the final squad for the [[2018 FIFA World Cup]] in Russia.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/44203700|title=World Cup 2018: Messi and Aguero in Argentina squad but Icardi out|publisher=BBC Sport|date=21 May 2018|accessdate=23 May 2018}}&lt;/ref&gt; He started the tournament due to the injury of habitual first-choice [[Sergio Romero]],&lt;ref&gt;{{cite web|url=https://sports.abs-cbn.com/2018fifaworldcup/news/2018/05/24/argentina-goalkeeper-romero-world-cup-injury-42025|title=Argentina goalkeeper Romero out of World Cup with injury|publisher=[[ABS-CBN]]|date=24 May 2018|accessdate=16 June 2018}}&lt;/ref&gt; and made his debut in [[FIFA World Cup|the competition]] on 16 June in a 1–1 group stage draw against [[Iceland national football team|Iceland]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/44422188|title=Argentina 1–1 Iceland|publisher=BBC Sport|last=Bevan|first=Chris|date=16 June 2018|accessdate=16 June 2018}}&lt;/ref&gt; In the next match against [[Croatia national football team|Croatia]], his mistake handed the opposition the first goal in a 0–3 defeat,&lt;ref&gt;{{cite news|url=https://www.thesun.co.uk/world-cup-2018/6594879/world-cup-2018-willy-caballero-mistake-argentina-croatia|title=CAB FOR WILLY World Cup 2018: Willy Caballero’s mistake slammed by fans as Croatia smash Argentina|newspaper=The Sun|last=Chapman|first=Anthony|date=21 June 2018|accessdate=22 June 2018}}&lt;/ref&gt; and he was subsequently dropped by manager [[Jorge Sampaoli]] in favour of [[Franco Armani]] for the team's final group match against [[Nigeria national football team|Nigeria]], which ended in a 2–1 win;&lt;ref&gt;{{cite web|url=https://www.reuters.com/article/us-soccer-worldcup-nga-arg/aguero-and-caballero-dropped-by-argentina-idUSKBN1JM2G8|title=Aguero and Caballero dropped by Argentina|publisher=[[Reuters]]|date=26 June 2018|accessdate=1 July 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44439263|title=Nigeria 1–2 Argentina|publisher=BBC Sport|last=Skelton|first=Jack|date=26 June 2018|accessdate=1 July 2018}}&lt;/ref&gt; he also did not feature in the round of 16 game, a 3–4 loss to [[France national football team|France]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/live/football/43976007|title=France 4–3 Argentina|publisher=BBC Sport|last=Begley|first=Emlyn|date=30 June 2018|accessdate=1 July 2018}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 27 February 2019}}&lt;ref name="SW-WC"&gt;{{cite web|url=https://uk.soccerway.com/players/wilfredo-daniel-caballero/58907/|title=W. Caballero: Summary|website=Soccerway|publisher=Perform Group|accessdate=22 March 2016}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|League Cup
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=5|[[Boca Juniors]]
+|[[2001–02 Argentine Primera División|2001–02]]
+|[[Argentine Primera División]]
+|4||0||0||0||colspan="2"|—||0||0||colspan="2"|—||4||0
+|-
+|[[2002–03 Argentine Primera División|2002–03]]
+|Argentine Primera División
+|4||0||0||0||colspan="2"|—||3||0||colspan="2"|—||7||0
+|-
+|[[2003–04 Argentine Primera División|2003–04]]
+|Argentine Primera División
+|1||0||0||0||colspan="2"|—||0||0||colspan="2"|—||1||0
+|-
+|[[2004–05 Argentine Primera División|2004–05]]
+|Argentine Primera División
+|6||0||0||0||colspan="2"|—||1||0||colspan="2"|—||7||0
+|-
+!colspan=2|Total
+!15!!0!!0!!0!!colspan="2"|—||4!!0!!colspan="2"|—!!19!!0
+|-
+|rowspan=7|[[Elche CF|Elche]]
+|[[2005–06 Segunda División|2005–06]]
+|[[Segunda División]]
+|10||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||10||0
+|-
+|[[2006–07 Segunda División|2006–07]]
+|Segunda División
+|39||0||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||41||0
+|-
+|[[2007–08 Segunda División|2007–08]]
+|Segunda División
+|38||0||4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||42||0
+|-
+|[[2008–09 Segunda División|2008–09]]
+|Segunda División
+|38||0||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||40||0
+|-
+|[[2009–10 Segunda División|2009–10]]
+|Segunda División
+|39||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||40||0
+|-
+|[[2010–11 Segunda División|2010–11]]
+|Segunda División
+|22||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||22||0
+|-
+!colspan=2|Total
+!186!!0!!9!!0!!colspan="2"|—||colspan="2"|—||colspan="2"|—!!195!!0
+|-
+|[[Arsenal de Sarandí|Arsenal Sarandí]] (loan)
+|[[2006–07 Argentine Primera División|2006–07]]
+|Argentine Primera División
+|13||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||13||0
+|-
+|rowspan=5|[[Málaga CF|Málaga]]
+|[[2010–11 La Liga|2010–11]]
+|[[La Liga]]
+|15||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||15||0
+|-
+|[[2011–12 La Liga|2011–12]]
+|La Liga
+|28||0||4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||32||0
+|-
+|[[2012–13 La Liga|2012–13]]
+|La Liga
+|36||0||0||0||colspan="2"|—||11&lt;ref group=lower-alpha name="UCL"&gt;Appearances in [[UEFA Champions League]]&lt;/ref&gt;||0||colspan="2"|—||47||0
+|-
+|[[2013–14 La Liga|2013–14]]
+|La Liga
+|38||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||39||0
+|-
+!colspan=2|Total
+!117!!0!!5!!0!!colspan="2"|—||11!!0!!colspan="2"|—!!133!!0
+|-
+|rowspan=4|[[Manchester City F.C.|Manchester City]]
+|[[2014–15 Manchester City F.C. season|2014–15]]&lt;ref&gt;{{soccerbase season|37239|2014|accessdate=2 October 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|2||0||2||0||2||0||0||0||1&lt;ref group=lower-alpha name="CommShield"&gt;Appearance in [[FA Community Shield]]&lt;/ref&gt;||0||7||0
+|-
+|[[2015–16 Manchester City F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|37239|2015|accessdate=2 October 2017}}&lt;/ref&gt;
+|Premier League
+|4||0||3||0||6||0||1&lt;ref group=lower-alpha name="UCL"/&gt;||0||colspan="2"|—||14||0
+|-
+|[[2016-17 Manchester City F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|37239|2016|accessdate=2 October 2017}}&lt;/ref&gt;
+|Premier League
+|16||0||2||0||2||0||6&lt;ref group=lower-alpha name="UCL"/&gt;||0||colspan="2"|—||26||0
+|-
+!colspan=2|Total
+!22!!0!!7!!0!!10!!0!!7!!0!!1!!0!!47!!0
+|-
+|rowspan=3|[[Chelsea F.C.|Chelsea]]
+|[[2017–18 Chelsea F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|37239|2017|accessdate=2 October 2017}}&lt;/ref&gt;
+|Premier League
+|3||0||6||0||4||0||0||0||0||0||13||0
+|-
+|[[2018–19 Chelsea F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|37239|2018|accessdate=5 August 2018}}&lt;/ref&gt;
+|Premier League
+|1||0||2||0||2||0||2||0||1&lt;ref group=lower-alpha name="CommShield"/&gt;||0||8||0
+|-
+!colspan=2|Total
+!4!!0!!8!!0!!6!!0!!2!!0!!1!!0!!21!!0
+|-
+!colspan=3|Career total
+!357!!0!!29!!0!!16!!0!!24!!0!!2!!0!!428!!0
+|}
+
+{{reflist|group=lower-alpha}}
+
+===International===
+{{updated|match played 21 June 2018}}&lt;ref name="SW-WC"/&gt;
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=2|[[Argentina national football team|Argentina]]
+|-
+|2018||5||0
+|-
+!colspan=2|Total||5||0
+|}
+
+==Honours==
+'''Boca Juniors'''
+*[[Argentine Primera División]]: [[2003–04 in Argentine football#Torneo Apertura .28.22Opening.22 Tournament.29|Apertura 2003]]&lt;ref name=DP&gt;{{cite news|url=https://www.diariopopular.com.ar/futbol/la-historia-caballero-un-senor-arquero-destino-mundial-n347629|title=La historia de Caballero, un señor arquero con destino Mundial|trans-title=The story of Caballero, a hell of a goalkeeper destined for the World (pun on World Cup)|newspaper=[[Diario Popular]]|last=González|first=Ricardo|language=es|date=24 March 2018|accessdate=21 June 2018}}&lt;/ref&gt;
+*[[Copa Libertadores]]: [[2003 Copa Libertadores|2003]]&lt;ref name=DP/&gt;
+*[[Intercontinental Cup (football)|Intercontinental Cup]]: [[2003 Intercontinental Cup|2003]]&lt;ref name=ICUP/&gt;
+
+'''Manchester City'''
+*[[EFL Cup|Football League Cup]]: [[2015–16 Football League Cup|2015–16]]&lt;ref name=LCUP/&gt;
+
+'''Chelsea'''
+*[[FA Cup]]: [[2017–18 FA Cup|2017–18]]&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44091559|title=Chelsea 1–0 Manchester United|publisher=BBC Sport|last=McNulty|first=Phil|date=19 May 2018|accessdate=19 May 2018}}&lt;/ref&gt;
+
+'''Argentina U20'''
+*[[FIFA U-20 World Cup|FIFA World Youth Championship]]: [[2001 FIFA World Youth Championship|2001]]&lt;ref&gt;{{cite web|url=http://www.rsssf.com/tablesw/wyc01.html|title=World Youth Cup (U-20) 2001 (Argentina, June 17 – July 8)|publisher=[[Rec.Sport.Soccer Statistics Foundation|RSSSF]]|accessdate=21 June 2018}}&lt;/ref&gt;
+
+'''Argentina U23'''
+*[[Summer Olympic Games]]: [[Football at the 2004 Summer Olympics – Men's tournament|2004]]&lt;ref&gt;{{cite news|url=https://www.lanacion.com.ar/1875383-willy-caballero-manchester-city-copa-de-la-liga|title=Las manos de Willy Caballero atajan, abrazan copas y también dibujan|trans-title=The hands of Willy Caballero save, lift cups and also draw|newspaper=La Nación|last=Mauri|first=Claudio|language=es|date=29 February 2016|accessdate=21 June 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.chelseafc.com/en/teams/first-team/willy-caballero?pageTab=biography Chelsea official profile]
+*{{BDFutbol}}
+*{{Soccerbase}}
+*{{NFT player}}
+
+{{Chelsea F.C. squad}}
+{{Navboxes
+| title = Argentina squads
+| bg = #75aadb
+| fg = white
+| bordercolor = silver
+| list1 = 
+{{Argentina men's football squad 2004 Summer Olympics}}
+{{Argentina squad 2005 FIFA Confederations Cup}}
+{{Argentina squad 2018 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Caballero, Willy}}
+[[Category:1981 births]]
+[[Category:Living people]]
+[[Category:People from Entre Ríos Province]]
+[[Category:Argentine people of Spanish descent]]
+[[Category:Argentine footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Argentine Primera División players]]
+[[Category:Boca Juniors footballers]]
+[[Category:Arsenal de Sarandí footballers]]
+[[Category:La Liga players]]
+[[Category:Segunda División players]]
+[[Category:Elche CF players]]
+[[Category:Málaga CF players]]
+[[Category:Premier League players]]
+[[Category:Manchester City F.C. players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Argentina under-20 international footballers]]
+[[Category:Argentina international footballers]]
+[[Category:2005 FIFA Confederations Cup players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:Olympic footballers of Argentina]]
+[[Category:Footballers at the 2004 Summer Olympics]]
+[[Category:Olympic medalists in football]]
+[[Category:Olympic gold medalists for Argentina]]
+[[Category:Medalists at the 2004 Summer Olympics]]
+[[Category:Argentine expatriate footballers]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Expatriate footballers in England]]
+[[Category:Argentine expatriate sportspeople in Spain]]
+[[Category:Argentine expatriate sportspeople in England]]</text>
+      <sha1>aqlqz1rqgd1vvu81ogntnjhdvsmqhnh</sha1>
+    </revision>
+  </page>
+</mediawiki>

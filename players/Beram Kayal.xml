@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Beram Kayal</title>
+    <ns>0</ns>
+    <id>6180457</id>
+    <revision>
+      <id>885835063</id>
+      <parentid>883621757</parentid>
+      <timestamp>2019-03-02T17:22:25Z</timestamp>
+      <contributor>
+        <username>Beeney xx</username>
+        <id>35180261</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29681">{{Use dmy dates|date=January 2018}}
+{{Infobox football biography
+| name = Beram Kayal
+| image = File:BHA v FC Nantes pre season 03 08 2018-18 (28915966987).jpg
+| image_size = 285
+| caption = Kayal playing for [[Brighton &amp; Hove Albion]] in 2017
+| fullname = Beram Kayal&lt;ref&gt;{{cite web |url=http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf |title=EFL: Retained list: 2015/16 |publisher=English Football League |page=11 |format=PDF |accessdate=26 June 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20161202052144/http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf |archivedate=2 December 2016 |df=dmy-all }}&lt;/ref&gt;
+| birth_date = {{birth date and age|1988|5|2|df=y}}
+| birth_place = [[Jadeidi-Makr|Jadeidi]], Israel
+| height = 1.78m
+| position = [[Midfielder#Central midfielder|Central Midfielder]]
+| currentclub = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+| clubnumber = 7
+| youthyears1 = 2002–2006
+| youthclubs1 = [[Maccabi Haifa F.C.|Maccabi Haifa]]
+| years1 = 2006–2010
+| clubs1 = [[Maccabi Haifa F.C.|Maccabi Haifa]]
+| caps1 = 92
+| goals1 = 6
+| years2 = 2010–2015
+| clubs2 = [[Celtic F.C.|Celtic]]
+| caps2 = 86
+| goals2 = 2
+| years3 = 2015–
+| clubs3 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+| caps3 = 113
+| goals3 = 4
+| club-update = 17:21, 2 March 2019 &lt;!-- This is the stats correct as of date: please update it --&gt;
+| nationalyears1 = 2004–2005
+| nationalteam1 = [[Israel national under-17 football team|Israel U17]]
+| nationalcaps1 = 12
+| nationalgoals1 = 1
+| nationalyears2 = 2006
+| nationalteam2 = [[Israel national under-18 football team|Israel U18]]
+| nationalcaps2 = 4
+| nationalgoals2 = 1
+| nationalyears3 = 2005–2007
+| nationalteam3 = [[Israel national under-19 football team|Israel U19]]
+| nationalcaps3 = 23
+| nationalgoals3 = 7
+| nationalyears4 = 2007–2010
+| nationalteam4 = [[Israel national under-21 football team|Israel U21]]
+| nationalcaps4 = 11
+| nationalgoals4 = 1
+| nationalyears5 = 2008–
+| nationalteam5 = [[Israel national football team|Israel]]
+| nationalcaps5 = 38
+| nationalgoals5 = 2
+| nationalteam-update = 21 November 2018
+}}
+
+'''Beram Kayal''' (or '''Biram Keyal''',&lt;ref&gt;[https://www.theguardian.com/football/2010/jul/29/celtic-transfer-israeli-midfielder-biram-kayal Celtic complete signing of Israeli midfielder Biram Kayal] guardian.co.uk, 29 July 2010&lt;/ref&gt; {{lang-ar|بيرم كيال}}, {{lang-he-n|בירם כיאל}}; born 2 May 1988) is an [[Arab-Israeli]] professional [[association football|footballer]] who plays as a [[Midfielder#Central midfielder|central midfielder]] for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and the [[Israel national football team|Israel national team]]. He has been a full international since 2008, and has 38 senior [[cap (sports)|caps]].
+
+Kayal joined [[Maccabi Haifa F.C.|Maccabi Haifa]] in 2002 and made his professional debut in 2006 at the age of 18. He made 125 appearances and scored eight goals before moving to Celtic in 2010. He has received plaudits from many Scottish football pundits and was named the [[Scottish Premier League monthly awards|SPL player of the month]] for January 2011.&lt;ref name=PoMJan11/&gt; In January 2015, he joined Brighton.
+
+==Club career==
+
+===Maccabi Haifa===
+Kayal started his career as a striker in the various Youth teams of Maccabi Haifa and scored many goals before taking on the role of a midfielder. Despite only being 16 years old at the time, he moved up to the Maccabi Haifa under-19 team for the 2004–05 campaign and excelled as part of the team that won a League and Cup double. Kayal was named the League's Outstanding Player.
+
+He made his first-team debut for Maccabi Haifa at the end of the 2005–06 season in a 2–1 win over [[Maccabi Petah Tikva F.C.|Maccabi Petah Tikva]] which sealed Maccabi's third League title in a row at the age of 17 making two appearances that season. In the 2006–07 season, he made six appearances in all competitions, but took on the role of captain of the under-19 team that won another League and Cup double. He scored a hat-trick in a league win against [[Beitar Jerusalem F.C.|Beitar Jerusalem]].
+
+In the 2007–08 season Kayal became a first team regular featuring 36 times in the first-team. After that he became an integral part of the team and enjoyed success in subsequent seasons winning the [[Israeli Premier League|Premier League]] and [[Toto Cup]].&lt;ref&gt;{{cite web |url = http://www.mhaifa.co.il/TheClub/Player.asp?id=462/07/PRIMAGIORVIAREGGIO.shtml |archive-url = https://web.archive.org/web/20110721140200/http://www.mhaifa.co.il/TheClub/Player.asp?id=462%2F07%2FPRIMAGIORVIAREGGIO.shtml |dead-url = yes |archive-date = 21 July 2011 |title = Biram Kayal |publisher = Maccabi Haifa FC |date = 1 June 2010 |accessdate = 1 June 2010 |language = Hebrew |df = dmy-all }}&lt;/ref&gt;
+
+During the [[Torneo di Viareggio 2007|2007 Torneo di Viareggio]] youth tournament in Italy, Kayal was praised by the Italian press for a [[Man of the match]] performance against their counterparts from [[ACF Fiorentina|Fiorentina]].&lt;ref&gt;{{cite news |url = http://www.gazzetta.it/Calcio/Altro_Calcio/Primo_Piano/2007/02_Febbraio/07/PRIMAGIORVIAREGGIO.shtml |title = Vincono Inter e Maccabi |publisher = Gazetta dello Sport |date = 7 February 2007 |accessdate = 2 August 2007 |language=Italian }}&lt;/ref&gt; Both ''[[Corriere della Sera]]'' and ''Gazzetta dello Sport'' seemed to be astonished to learn that he was an Arab on an Israeli team and took a great amount of time to learn more about him.&lt;ref&gt;{{cite web |url = http://maccabi-haifafc.walla.co.il/ts.cgi?tsscript=item&amp;id=7193 |script-title = he:ה"גזטה דלי ספורט" התלהב מחיפה: פיורנטינה טבעה בדממה |publisher = Maccabi Haifa FC |date = 8 February 2007 |accessdate = 2 August 2007 |language = Hebrew }}{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+===Celtic===
+[[File:Beram Kayal 2012.jpg|thumb|left|150px|Kayal playing for Celtic, 2012]]
+On 29 July 2010, Kayal signed a four-year deal with [[Scottish Premier League]] side [[Celtic F.C.|Celtic]]&lt;ref&gt;{{cite news|url=http://www.mirrorfootball.co.uk/news/Kayal-signs-for-Celtic-article541139.html|title=Kayal signs for Celtic|work=MirrorFootball|publisher=Trinity Mirror|date=29 July 2010|accessdate=27 March 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Celtic sign Israel midfielder Beram Kayal|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/8849942.stm|publisher=BBC Sport|accessdate=29 July 2010 | date=29 July 2010}}&lt;/ref&gt; and was given the number 33 shirt.&lt;ref name=CeltProf&gt;[http://www.celticfc.net/player.php?id=33 Beram Kayal] {{webarchive|url=https://web.archive.org/web/20110514194441/http://www.celticfc.net/player.php?id=33 |date=14 May 2011 }} Celtic FC&lt;/ref&gt;
+
+Kayal made his debut for Celtic against [[FC Utrecht]] on 19 August 2010 and showed his full potential by getting off to the best possible start, setting up the opening goal of the game for [[Efraín Juárez]] and winning the [[Man of the Match]] award.&lt;ref&gt;[http://www.celticfc.net/newsstory?item=255 Dominant Celts cruise to victory] Celtic FC, 19 August 2010&lt;/ref&gt;&lt;ref&gt;[https://www.theguardian.com/football/2010/aug/19/celtic-utrecht-europa-league Beram Kayal makes instant impact as Celtic build cushion over Utrecht] guardian.co.uk, 19 August 2010&lt;/ref&gt; In September 2010 he suffered a setback and was out of action for three months due to a hernia injury which required surgery.&lt;ref&gt;[http://sport.stv.tv/football/scottish-premier/celtic/201545-kayal-sidelined-for-two-months-with-hernia-injury/ Kayal sidelined for two months with hernia injury] STV Sport, 7 October 2010&lt;/ref&gt;&lt;ref&gt;[http://www.setanta.com/ien/Articles/2010/12/24/Preview-Celtic-v-St-Johnstone/gnid-84246/ Preview: Celtic v St Johnstone] {{webarchive|url=https://web.archive.org/web/20120329060130/http://www.setanta.com/ien/Articles/2010/12/24/Preview-Celtic-v-St-Johnstone/gnid-84246/ |date=29 March 2012 }} Setanta Sports, 24 December 2010&lt;/ref&gt; He made his return as a substitute on 26 December against [[St Johnstone F.C.|St Johnstone]],&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/scot_prem/9318611.stm Celtic   2 – 0   St Johnstone] BBC Sport, 26 December 2010&lt;/ref&gt; and was restored to the starting line-up in a 2–0 win over [[Rangers F.C.|Rangers]] at [[Ibrox Stadium|Ibrox]] on 2 January 2011.&lt;ref&gt;[http://www.dailymail.co.uk/sport/football/article-1343456/Rangers-0-Celtic-2-Georgios-Samaras-double-Bhoys-points-clear.html Rangers 0 Celtic 2: Georgios Samaras at the double as Bhoys see off Old Firm rivals to move four points clear] Mail Online, 2 January 2011&lt;/ref&gt;
+
+His performances won him the [[Scottish Premier League monthly awards|SPL Player of the Month award]] for January 2011,&lt;ref name=PoMJan11&gt;[http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/9395657.stm Celtic's Beram Kayal named player of the month] BBC Sport, 12 February 2011&lt;/ref&gt; and the praise of Celtic manager [[Neil Lennon]].&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/9396345.stm Celtic boss Neil Lennon praises Beram Kayal's workrate] BBC Sport, 13 February 2011&lt;/ref&gt; His determination and competitive attitude played a key part in his side's success in his [[2010–11 in Scottish football|first season in Scottish football]].&lt;ref&gt;[http://www.heraldscotland.com/sport/spl/celtic/kayal-has-battled-his-way-to-prominence-at-celtic-1.1081635 Kayal has battled his way to prominence at Celtic] Herald Scotland, 25 January 2011&lt;/ref&gt;&lt;ref&gt;[http://www.heraldscotland.com/sport/spl/celtic/impressed-you-ve-seen-nothing-yet-of-kayal-1.1089297 Impressed? You’ve seen nothing yet of Kayal] Herald Scotland, 9 March 2011&lt;/ref&gt; On 9 April 2011, Kayal captained the side in a 1–0 win over [[St Mirren F.C.|St Mirren]].&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/scot_prem/9450584.stm Celtic   1 – 0   St Mirren] BBC Sport, 9 April 2011&lt;/ref&gt; He scored his first goal for [[Celtic F.C.|Celtic]] in a 1–0 SPL win over [[St Johnstone F.C.|St Johnstone]] on 12 April 2011.&lt;ref&gt;[https://www.mirror.co.uk/sport/latest/2011/04/12/kayal-extends-hoops-lead-115875-23057259/ Kayal extends Hoops lead] Mirror.co.uk, 12 April 2011&lt;/ref&gt; His first home goal was a long range effort against [[Dundee United F.C.|Dundee United]] on 1 May 2011.&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/scot_prem/9470834.stm Celtic   4 – 1   Dundee Utd] BBC Sport, 1 May 2011&lt;/ref&gt; On 4 May, Kayal had to be taken off in the second half of an SPL match against [[Inverness Caledonian Thistle F.C.|Inverness Caledonian Thistle]] because of suspected concussion&lt;ref&gt;[http://www.u.tv/Sport/Lennon-rips-into-defence-as-Celtic-suffer-Inverness-defeat/0b46de6e-4d53-47e8-8d78-32a278c64f3c Lennon rips into defence as Celtic suffer Inverness defeat] {{webarchive|url=https://web.archive.org/web/20120928231931/http://www.u.tv/Sport/Lennon-rips-into-defence-as-Celtic-suffer-Inverness-defeat/0b46de6e-4d53-47e8-8d78-32a278c64f3c |date=28 September 2012 }} UTV Sport, 5 May 2011&lt;/ref&gt; after a collision with [[Ross Tokely]].&lt;ref name=SeasonOver&gt;[http://news.bbc.co.uk/sport1/hi/football/13295615.stm Beram Kayal's season is over following wrist injury] BBC Sport, 6 May 2011&lt;/ref&gt; Kayal sustained a fractured wrist in the same incident and subsequently missed the rest of the [[2010–11 in Scottish football|2010–11 season]].&lt;ref name=SeasonOver/&gt;&lt;ref&gt;[http://sport.scotsman.com/sport/Beram-Kayal-to-miss-Celtic39s.6763360.jp Beram Kayal to miss Celtic's title run-in] Scotsman.com, 6 May 2011&lt;/ref&gt;
+
+Kayal captained Celtic for the second time on 10 September 2011, against [[Motherwell F.C.|Motherwell]] in the SPL, leading the team to a 4–0 victory at [[Celtic Park]].&lt;ref&gt;{{cite news| url=http://www.skysports.com/football/match_report/0,19764,11065_3407484,00.html | publisher= Sky Sports | title=Hoops hammer sloppy Steelmen | date=10 September 2011}}&lt;/ref&gt; He was made captain while [[Scott Brown (footballer, born June 1985)|Scott Brown]] was out with an ankle injury.&lt;ref&gt;{{cite news| url=http://www.dailyrecord.co.uk/football/spl/celtic/2011/09/17/celtic-ace-beram-kayal-i-was-proud-to-be-captain-but-we-know-how-important-scott-brown-is-86908-23426464/ | work= Daily Record | title=Celtic ace Beram Kayal: I was proud to be captain but we know how important Scott Brown is | date=17 September 2011}}&lt;/ref&gt;
+
+Kayal suffered ankle ligament damage against Rangers on 28 December 2011 after a tackle by [[Lee McCulloch]] and was stretchered off with 13 minutes to play.&lt;ref&gt;{{cite news | url=http://local.stv.tv/glasgow/magazine/292612-celtics-beram-kayal-may-not-play-again-this-season/ | archive-url=https://archive.is/20130418190538/http://local.stv.tv/glasgow/magazine/292612-celtics-beram-kayal-may-not-play-again-this-season/ | dead-url=yes | archive-date=18 April 2013 | publisher=STV | title=Celtic's Beram Kayal may not play again this season | date=6 January 2012 }}&lt;/ref&gt; Celtic won the match 1–0 which sent them top of the SPL table.&lt;ref&gt;{{cite news| url=https://www.telegraph.co.uk/sport/football/teams/celtic/8987104/Celtic-turn-title-race-round-now-they-have-to-finish-Rangers-off.html | work=The Telegraph | first=Roddy | last=Forsyth | title=Celtic turn title race round, now they have to finish Rangers off | date=1 January 2012}}&lt;/ref&gt; The injury put Kayal out of action for over four months&lt;ref&gt;{{cite news| url=https://www.bbc.co.uk/sport/0/football/17705179 | publisher= BBC Sport| title=Beram Kayal's return softens James Forrest blow for Celtic | date=13 April 2012}}&lt;/ref&gt; and he returned to the side only in the last game of the season, a 5–0 win over [[Heart of Midlothian F.C.|Hearts]].&lt;ref&gt;{{cite news| url=https://www.bbc.co.uk/sport/0/football/17973176 | publisher= BBC Sport | first=Colin | last=Moffat | title=Celtic 5–0 Hearts | date=15 May 2012}}&lt;/ref&gt; Later, Kayal accused McCulloch of deliberately injuring him that he "have not forgotten that for a moment."&lt;ref&gt;{{cite news|title=Celtic midfielder Beram Kayal slams Scottish football for 'lack of technique' &amp; accuses Lee McCulloch of deliberately crocking him|url=http://www.dailyrecord.co.uk/sport/football/football-news/celtic-midfielder-beram-kayal-slams-3338953|publisher=Daily Record|date=2 April 2014|accessdate=10 April 2014}}&lt;/ref&gt;
+
+In the 2012 season, Kayal obtained European nationality and played an important role for the team during the Scottish League.
+On 22 October 2013 he scored his first goal in the [[UEFA Champions League]] against [[AFC Ajax]] in a 2–1 win.&lt;ref&gt;{{cite web|url = http://www.dailymail.co.uk/sport/football/article-2472133/Celtic-2-Ajax-1-Neil-Lennons-10-men-seal-famous-victory.html|title= Lennon's 10 men seal victory after goals from Forrest and Kayal|date=22 October 2013|work=Daily Mail|accessdate=23 October 2013}}&lt;/ref&gt;
+
+===Brighton &amp; Hove Albion===
+On 23 January 2015, Kayal signed for [[Brighton &amp; Hove Albion F.C|Brighton &amp; Hove Albion]] on a two-and-a-half-year deal, for an undisclosed fee.&lt;ref&gt;{{cite news | url=https://www.bbc.co.uk/sport/0/football/30961756 | work=BBC | title= Brighton sign Celtic midfielder Beram Kayal | date=23 January 2015}}&lt;/ref&gt; He made his debut on 7 February, scoring a consolation goal for Brighton in a 2–3 defeat at home against [[Nottingham Forest F.C.|Nottingham Forest]].&lt;ref&gt;{{cite web|last1=Shergold|first1=Adam|title=Brighton 2–3 Nottingham Forest: Danny Collins, Henri Lansbury and Ben Osborn net as Dougie Freedman earns first win as boss|url=http://www.dailymail.co.uk/sport/football/article-2943955/Brighton-2-3-Nottingham-Forest-Danny-Collins-Henri-Lansbury-Ben-Osborn-net-Dougie-Freedman-earns-win-boss.html|publisher=Mail Online|accessdate=7 February 2015|date=7 February 2015}}&lt;/ref&gt; On 18 August, he scored within 14 seconds away to [[Huddersfield Town F.C|Huddersfield Town]], albeit in a 1–1 draw.&lt;ref&gt;{{cite news|title=Huddersfield 1–1 Brighton|url=https://www.bbc.co.uk/sport/0/football/33857651|accessdate=19 August 2015|publisher=BBC Sport|date=18 August 2015}}&lt;/ref&gt; Brighton narrowly missed out on automatic promotion where Kayal played 43 games and scoring 2 goals in the league in the [[2015-16 Football League Championship|2015-16]] season.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36176217|title=Middlesbrough 1-1 Brighton &amp; Hove Albion - BBC Sport|publisher=BBC Sport|date= 7 May 2016|accessdate= 7 May 2016}}&lt;/ref&gt; Brighton were to face another season in the Championship after losing to [[Sheffield Wednesday F.C.|Sheffield Wednesday]] on aggregate in the play offs where Kayal played in both matches for the Albion.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36244725|title=Brighton &amp; Hove Albion 1-1 Sheffield Wednesday (1-3 agg) - BBC sport|publisher=BBC Sport|date= 16 May 2016|accessdate= 16 May 2016}}&lt;/ref&gt; 
+
+On 7 January 2017 Kayal played in his first ever [[FA Cup]] match where he scored in the 2-0 home win over [[Milton Keynes Dons F.C.|MK Dons]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/38474505|title=FA Cup: Brighton 2-0 Milton Keynes Dons - BBC Sport|publisher=BBC Sport|date= 7 January 2017|accessdate= 7 January 2017}}&lt;/ref&gt; On 17 April 2017 Kayal played in the 2-1 home win over [[Wigan Athletic F.C.|Wigan Athletic]] which secured automatic promotion to the [[Premier League]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39549523|title=Brighton &amp; Hove Albion 2-1 Wigan Athletic - BBC sport|publisher=BBC Sport|date= 17 April 2017|accessdate= 17 April 2017}}&lt;/ref&gt; 
+
+Kayal broke his leg in pre season in a friendly match against [[Atlético Madrid]] where he was sidelined for 10 weeks.&lt;ref&gt;{{cite web|url=https://www.theargus.co.uk/sport/15463996.kayal-injury-could-force-albion-back-into-midfield-market/|title=Beram Kayal injury could force Albion back into midfield market|publisher=The Argus|date= 10 August 2017|accessdate= 10 August 2017}}&lt;/ref&gt; Kayal made his Premier League debut on 13 December 2017 in a 2-0 away defeat to [[Tottenham Hotspur F.C.|Spurs]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42247117|title=Tottenham Hotspur 2-0 Brighton &amp; Hove Albion - BBC Sport|publisher=BBC Sport|date= 13 December 2017|accessdate= 13 December 2017}}&lt;/ref&gt; Kayal went on to make 18 more Premier League appearances and played in the 1-0 win over [[Manchester United F.C.|Manchester Utd]] which secured Albion's Premier League status.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/43916611|title=Brighton &amp; Hove Albion 1–0 Manchester United – BBC Sport|publisher=BBC Sport|date=4 May 2018}}&lt;/ref&gt;
+
+Kayal signed a one year contract extension on 28 September 2018 that keeps him at the Sussex club until June 2020.&lt;ref&gt;{{Cite news|url=https://www.skysports.com/football/news/11741/11511014/brighton-midfielder-beram-kayal-signs-one-year-contract-extension|title=Brighton midfielder Beram Kayal signs one-year contract extension|publisher=Sky Sports|date=28 September 2018}}&lt;/ref&gt; Kayal scored his first ever Premier League goal in a 1-0 away win against [[Newcastle United F.C.|Newcastle]] on 20 October 2018.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/45847415|title=Newcastle United 0–1 Brighton &amp; Hove Albion – BBC Sport|publisher=BBC Sport|date=20 October 2018}}&lt;/ref&gt;
+
+==International career==
+Throughout his career, Kayal has played many [[Israel national football team]] matches as first line-up.&lt;ref name=Boker&gt;{{cite news |title=Holding Triumvirate |first=Moshe |last=Boker |url=http://www.haaretz.com/print-edition/sports/soccer-holding-triumvirate-1.351228 |work=Ha'aretz |date=23 March 2011 |accessdate=8 June 2011}}&lt;/ref&gt; He made his full international debut for [[Israel national football team|Israel]] against [[Switzerland national football team|Switzerland]] on 6 September 2008.&lt;ref&gt;[https://web.archive.org/web/20120518010314/http://eng.football.org.il/NationalTeam/Pages/NationalTeamPlayerDetails.aspx?PLAYER_ID=9586&amp;NATIONAL_TEAM_ID=3 Kayal Beram] Israel Football Association&lt;/ref&gt;
+
+He scored his first international goal, in a [[UEFA Euro 2012 qualifying|Euro 2012 qualifying]] win over [[Latvia national football team|Latvia]] on 26 March 2011.&lt;ref&gt;[http://www.uefa.com/uefaeuro2012/matches/season=2012/round=15171/match=2002259/postmatch/report/index.html Israel indebted to Kayal against Latvia] UEFA.com, 26 March 2011&lt;/ref&gt;
+
+===International goals===
+:''Scores and results list Israel's goal tally first.''&lt;ref name="NFT"&gt;{{cite web|url=http://www.national-football-teams.com/player/27420/Biram_Kiyal.html|title=Kiyal, Biram|publisher=National Football Teams|accessdate=2 May 2017}}&lt;/ref&gt;
+{| class="wikitable"
+! Goal !!Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. ||26 March 2011 || [[Bloomfield Stadium]], [[Tel Aviv]], Israel || {{fb|Latvia}} ||align=center | '''2'''–1 || align=center | 2–1 || [[UEFA Euro 2012 qualifying Group F|UEFA Euro 2012 qualification]]
+|-
+| 2. ||21 November 2018 || [[Hampden Park]], [[Glasgow]], Scotland || {{fb|Scotland}} ||align=center | '''1'''–0 || align=center | 2–3 || [[2018–19 UEFA Nations League C]]
+|}
+
+==Style of play==
+Kayal is a [[central midfielder]] but he is capable of performing various different roles within the position. He can play as a [[defensive midfielder]], sitting in front of the back four and stifling the opposition or as a [[box-to-box mid]]fielder, protecting the defenders as well as supporting the forwards. Although he is more renowned for his defensive capabilities than attacking, he is still able to contribute well to going forward.&lt;ref name="STVtransfer" /&gt;
+
+Kayal is a tenacious, hard working midfielder, known for high stamina level, aggressive tackling and combative edge, he also has great passing ability and quick feet.&lt;ref name="STVtransfer"&gt;[http://sport.stv.tv/football/scottish-premier/celtic/189093-kayal-completes-celtic-transfer/ Biram Kayal completes Celtic transfer] STV Sport, 29 July 2010&lt;/ref&gt;&lt;ref&gt;[https://www.theguardian.com/football/2011/mar/12/beram-kayal-celtic-scottish-premier-league Coveted Beram Kayal in no hurry to leave Celtic with treble in sight] guardian.co.uk, 12 March 2011&lt;/ref&gt; Ex-Celtic and [[Israel national football team|Israel]] midfielder [[Eyal Berkovic]], described him as being: "Perfect for British football. He is strong technically, very aware but really competitive...He will have no problem adapting to the style in Scotland – he will love the speed and aggression.&lt;ref&gt;{{cite news  | url =  http://www.dailyrecord.co.uk/football/spl/celtic/2010/07/31/beram-kayal-won-t-flop-at-celtic-like-i-did-insists-eyal-berkovic-86908-22453480/  | title =  Beram Kayal won't flop at Celtic like I did, insists Eyal Berkovic | work = Daily Record  | date = 31 July 2010  | accessdate = 23 November 2011}}&lt;/ref&gt;
+
+==Personal life==
+Kayal is [[Muslim]].&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2015/nov/21/beram-kayal-tomer-hemed-israelis-brighton|title=Beram Kayal and Tomer Hemed: Israelis united in promoting Brighton’s cause|first=Jacob|last=Steinberg|date=21 November 2015|publisher=|via=www.theguardian.com}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|2 March 2019}}.&lt;ref&gt;{{cite news|title=Career History|url=http://www.seagulls.co.uk/team/player-profile/beram-kayal/7|accessdate=25 January 2016|publisher=Brighton &amp; Hove Albion F.C.|date=26 January 2016|archive-url=https://web.archive.org/web/20160219011756/http://www.seagulls.co.uk/team/player-profile/beram-kayal/7|archive-date=19 February 2016|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!rowspan="2"|League
+!colspan=2|League
+!colspan=2|Cup
+!colspan=2|League Cup
+!colspan=2|[[UEFA|Europe]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan=6|[[Maccabi Haifa F.C.|Maccabi Haifa]]
+|[[2005–06 Israeli Premier League|2005–06]]
+|rowspan="5"|[[Israeli Premier League]]
+|2||0||-||-||-||-||-||-||-||-||2||0
+|-
+|[[2006–07 Israeli Premier League|2006–07]]
+|4||0||2||0||-||-||-||-||-||-||6||0
+|-
+|[[2007–08 Israeli Premier League|2007–08]]
+|29||1||3||0||2||0||2||0||-||-||36||1
+|-
+|[[2008–09 Israeli Premier League|2008–09]]
+|30||4||4||1||5||1||0||0||-||-||39||6
+|-
+|[[2009–10 Israeli Premier League|2009–10]]
+|27||1||4||0||1||0||10||0||-||-||42||1
+|-
+!!!Total
+!92!!6!!13!!1!!8!!1!!12!!0!!0!!0!!125!!8
+|-
+|rowspan=6|[[Celtic F.C.|Celtic]]
+|[[2010–11 Scottish Premier League|2010–11]]&lt;ref&gt;{{Soccerbase season|44148|2010|name=Baram Kayal|access-date=28 January 2016}}&lt;/ref&gt;
+|rowspan=3|[[Scottish Premier League]]
+|21||2||5||0||2||0||2||0||-||-||30||2
+|-
+|[[2011–12 Scottish Premier League|2011–12]]&lt;ref&gt;{{Soccerbase season|44148|2011|name=Baram Kayal|access-date=28 January 2016}}&lt;/ref&gt;
+|19||0||0||0||2||0||7||0||-||-||28||0
+|-
+|[[2012–13 Scottish Premier League|2012–13]]&lt;ref&gt;{{Soccerbase season|44148|2012|name=Baram Kayal|access-date=28 January 2016}}&lt;/ref&gt;
+|27||0||5||0||1||0||8||0||-||-||41||0
+|-
+|[[2013–14 Scottish Premiership|2013–14]]&lt;ref&gt;{{Soccerbase season|44148|2013|name=Baram Kayal|access-date=28 January 2016}}&lt;/ref&gt;
+|rowspan=2|[[Scottish Premiership]]
+|13||0||0||0||0||0||7||1||-||-||20||1
+|-
+|[[2014–15 Scottish Premiership|2014–15]]&lt;ref name="Baram Kayal in 2014/2015"&gt;{{Soccerbase season|44148|2014|name=Baram Kayal|access-date=28 January 2016}}&lt;/ref&gt;
+|6||0||0||0||0||0||7||0||-||-||13||0
+|-
+!!!Total
+!86!!2!!10!!0!!5!!0!!31!!1!!0!!0!!132!!3
+|-
+|rowspan=6|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+|[[2014–15 Football League Championship|2014–15]]&lt;ref name="Baram Kayal in 2014/2015"/&gt;
+|rowspan=3|[[Football League Championship|Championship]]
+|18||1||0||0||0||0||-||-||-||-||18||1
+|-
+|[[2015–16 Football League Championship|2015–16]]&lt;ref&gt;{{Soccerbase season|44148|2015|name=Baram Kayal|access-date=28 January 2016}}&lt;/ref&gt;
+|43||2||0||0||0||0||-||-||2{{efn|name=CPO|Appearance in [[EFL Championship play-offs|Championship play-offs]]}}||0||45||2
+|-
+|[[2016–17 Football League Championship|2016–17]]&lt;ref&gt;{{Soccerbase season|44148|2016|name=Baram Kayal|access-date=25 February 2016}}&lt;/ref&gt;
+|20||0||1||1||0||0||-||-||-||-||21||1
+|-
+|[[2017–18 Premier League|2017–18]]&lt;ref&gt;{{Soccerbase season|44148|2017|name=Baram Kayal|access-date=14 May 2018}}&lt;/ref&gt;
+|rowspan=2|[[Premier League]]
+|19||0||2||0||0||0||-||-||-||-||21||0
+|-
+|[[2018–19 Premier League|2018–19]]
+|13||1||4||0||1||0||-||-||-||-||18||1
+|-
+!!!Total
+!113!!4!!7!!1!!1!!0!!0!!0!!2!!0!!123!!5
+|-
+!!!colspan="2"|Career Total
+!291!!12!!30!!2!!14!!1!!43!!1!!2!!0!!380!!16
+|}
+
+*Note: [[Scottish Premier League]] &amp; [[Scottish Premiership]] = Same league (Change of name)
+{{notelist}}
+
+==Honours==
+
+===Club===
+;[[Maccabi Haifa F.C.|Maccabi Haifa]]
+* [[Israeli Premier League]]: [[2005–06 Israeli Premier League|2005–06]], [[2008–09 Israeli Premier League|2008–09]]
+* [[Toto Cup]]: [[Toto Cup|2007–08]]
+
+;[[Celtic F.C.|Celtic]]
+* [[Scottish Premiership]]: [[2011–12 Scottish Premier League|2011–12]], [[2012–13 Scottish Premier League|2012–13]], [[2013-14 Scottish Premiership|2013–14]], [[2014-15 Scottish Premiership|2014–15]]
+* [[Scottish Cup]]: [[2010–11 Scottish Cup|2011]], [[2012–13 Scottish Cup|2013]]
+
+;[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+*[[EFL Championship]] Runners-up: [[2016–17 EFL Championship|2016–17]]
+
+===Individual===
+*[[Israeli Premier League|Israel U19 League]] Outstanding Player Award: (2004–05)
+*[[Israel national under-19 football team|Israel U19]] Most Valuable Player: (2006–07)
+*[[Scottish Premier League monthly awards|SPL Player of The Month]]: January 2011&lt;ref name=PoMJan11/&gt;
+*[[SPFA SPL Team of the Year]]: 2010–11
+
+==See also==
+*[[Sports in Israel]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Beram Kayal}}
+* {{CelticFC.net|id=player.php?id=33|title=Beram Kayal}}
+* {{Soccerbase}}
+* [https://web.archive.org/web/20120518010314/http://eng.football.org.il/NationalTeam/Pages/NationalTeamPlayerDetails.aspx?PLAYER_ID=9586&amp;NATIONAL_TEAM_ID=3 Kayal Beram] Israel Football Association
+* {{NFT player|id=27420}}
+* [https://web.archive.org/web/20110721140203/http://www.mhaifa.co.il/TheClub/Player.asp?id=462 Beram Kayal profile] Maccabi Haifa {{he icon}}
+* {{ESPN FC|96812/baram-kayal}}
+* {{UEFA|97874}}
+
+{{Navboxes colour
+|bg=gold
+|fg=navy
+|title= Awards
+|list1=
+{{2010–11 PFA Scotland SPL Team of the Year}}
+{{Brighton &amp; Hove Albion F.C. Player of the Year}}
+}}
+{{Brighton &amp; Hove Albion F.C. squad}}
+
+{{DEFAULTSORT:Kayal, Beram}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:People from Jadeidi-Makr]]
+[[Category:Football players from Jadeidi-Makr]]
+[[Category:Association football midfielders]]
+[[Category:Israeli footballers]]
+[[Category:Arab citizens of Israel]]
+[[Category:Arab-Israeli footballers]]
+[[Category:Israeli Muslims]]
+[[Category:Maccabi Haifa F.C. players]]
+[[Category:Celtic F.C. players]]
+[[Category:Brighton &amp; Hove Albion F.C. players]]
+[[Category:Expatriate footballers in Scotland]]
+[[Category:Expatriate footballers in England]]
+[[Category:Maccabiah Games footballers]]
+[[Category:Israel international footballers]]
+[[Category:Israel under-21 international footballers]]
+[[Category:Israeli expatriate footballers]]
+[[Category:Maccabiah Games competitors for Israel]]
+[[Category:Israeli Premier League players]]
+[[Category:Scottish Premier League players]]
+[[Category:Scottish Professional Football League players]]
+[[Category:English Football League players]]
+[[Category:Israeli expatriate sportspeople in Scotland]]
+[[Category:Israeli expatriate sportspeople in the United Kingdom]]</text>
+      <sha1>2xxk6mup97nbha0dhg8wdhd9i0n22yn</sha1>
+    </revision>
+  </page>
+</mediawiki>

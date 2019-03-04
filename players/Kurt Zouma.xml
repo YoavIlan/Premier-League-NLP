@@ -1,0 +1,348 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kurt Zouma</title>
+    <ns>0</ns>
+    <id>32939805</id>
+    <revision>
+      <id>885738816</id>
+      <parentid>885712799</parentid>
+      <timestamp>2019-03-02T00:39:55Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/2A02:2788:1004:1169:88CA:6D3:8B4A:E895|2A02:2788:1004:1169:88CA:6D3:8B4A:E895]] ([[User talk:2A02:2788:1004:1169:88CA:6D3:8B4A:E895|talk]]): Unsourced ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32853">{{Infobox football biography
+| name = Kurt Zouma
+| image = Chelsea 1 Everton 0 (15888380654).jpg
+| image_size = 200
+| caption = Zouma playing for [[Chelsea F.C.|Chelsea]] in 2015
+| fullname = Kurt Happy Zouma&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1994|10|27|df=y}}&lt;ref&gt;{{Hugman|26911|accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_place = [[Lyon]], France
+| height = 1.90 m&lt;ref name=premprofile&gt;{{cite web |url=https://www.premierleague.com/players/5175/Kurt-Zouma/overview |title=Kurt Zouma: Overview |publisher=Premier League |accessdate=26 August 2018}}&lt;/ref&gt;
+| position = [[Centre-back]]
+| currentclub = [[Everton F.C.|Everton]] (on loan from [[Chelsea F.C.|Chelsea]])
+| clubnumber = 5
+| youthyears1 = 2003–2009
+| youthclubs1 = Vaulx-en-Velin
+| youthyears2 = 2009–2011
+| youthclubs2 = [[AS Saint-Étienne|Saint-Étienne]]
+| years1 = 2011–2013
+| clubs1 = [[AS Saint-Étienne|Saint-Étienne B]]
+| caps1 = 10
+| goals1 = 2
+| years2 = 2011–2014
+| clubs2 = [[AS Saint-Étienne|Saint-Étienne]]
+| caps2 = 51
+| goals2 = 4
+| years3 = 2014–
+| clubs3 = [[Chelsea F.C.|Chelsea]]
+| caps3 = 47
+| goals3 = 1
+| years4 = 2014
+| clubs4 = → [[AS Saint-Étienne|Saint-Étienne]] (loan)
+| caps4 = 12
+| goals4 = 0
+| years5 = 2017–2018
+| clubs5 = → [[Stoke City F.C.|Stoke City]] (loan)
+| caps5 = 34
+| goals5 = 1
+| years6 = 2018–
+| clubs6 = → [[Everton F.C.|Everton]] (loan)
+| caps6 = 23
+| goals6 = 1
+| club-update = 9 February 2019 
+| nationalyears1 = 2010
+| nationalteam1 = [[France national under-16 football team|France U16]]
+| nationalcaps1 = 6
+| nationalgoals1 = 0
+| nationalyears2 = 2010–2011
+| nationalteam2 = [[France national under-17 football team|France U17]]
+| nationalcaps2 = 17
+| nationalgoals2 = 1
+| nationalyears3 = 2012
+| nationalteam3 = [[France national under-19 football team|France U19]]
+| nationalcaps3 = 1
+| nationalgoals3 = 0
+| nationalyears4 = 2013
+| nationalteam4 = [[France national under-20 football team|France U20]]
+| nationalcaps4 = 9
+| nationalgoals4 = 0
+| nationalyears5 = 2013–2014
+| nationalteam5 = [[France national under-21 football team|France U21]]
+| nationalcaps5 = 7
+| nationalgoals5 = 1
+| nationalyears6 = 2015–
+| nationalteam6 = [[France national football team|France]]
+| nationalcaps6 = 3
+| nationalgoals6 = 0
+| nationalteam-update = 20:57, 11 October 2018 (UTC)
+}}
+'''Kurt Happy Zouma''' (born 27 October 1994) is a French professional [[Association football|footballer]] who plays as a [[centre-back]] for [[Everton F.C.|Everton]], on loan from fellow [[Premier League]] club  [[Chelsea F.C.|Chelsea]], and the [[France national football team|France national team]].
+
+Zouma began his career at [[AS Saint-Étienne|Saint-Étienne]], making his professional debut aged 16. Zouma won the [[Coupe de la Ligue]] with the club [[2013 Coupe de la Ligue Final|in 2013]], and joined Chelsea for £12&amp;nbsp;million in January 2014. Chelsea loaned him back to his first club for the remainder of the season, and in his first full campaign in England, Zouma helped Chelsea win the [[EFL Cup|League Cup]] and the [[Premier League]]. In July 2017 Zouma joined [[Stoke City F.C.|Stoke City]] on loan for the [[2017–18 Premier League|2017–18]] season.
+
+Zouma represented France at youth levels, up to [[France national under-21 football team|under-21]]. He made his [[France national football team|senior international]] debut against [[Denmark national football team|Denmark]] on 29 March 2015.
+
+==Club career==
+
+===Early career===
+Born in [[Lyon]], Zouma began his career at age nine with Vaulx-en-Velin until he was 15. He played as a right winger and also as a striker before switching to his current position of a defender.&lt;ref&gt;{{cite news |title=Teenage kicks: Kurt Zouma |url=http://www.chelseafc.com/news/latest-news/2015/01/teenage-kicks--kurt-zouma.html |publisher=Chelsea F.C. |date=31 December 2014 |accessdate=25 February 2016}}&lt;/ref&gt;
+
+===Saint-Étienne===
+Zouma joined [[AS Saint-Étienne|Saint-Étienne]] in 2009. On 2 April 2011, he signed his first professional contract, agreeing to a three-year deal.&lt;ref&gt;{{cite news |title=Kurt Zouma signe pro à Saint-Etienne |url=http://www.footransferts.com/index.php/2011/04/kurt-zouma-signe-pro-a-saint-etienne/ |work=Foot Transferts |date=2 April 2011 |accessdate=31 August 2011 |language=French |deadurl=yes |archiveurl=https://archive.is/20120730094958/http://www.footransferts.com/index.php/2011/04/kurt-zouma-signe-pro-a-saint-etienne/ |archivedate=30 July 2012 |df= }}&lt;/ref&gt; He was subsequently promoted to the senior team by [[Coach (sport)|manager]] [[Christophe Galtier]] ahead of the [[2011–12 in French football|2011–12 season]], and initially played without a name on his shirt in order to protect him from media attention.&lt;ref name=four/&gt;
+
+Zouma made his professional debut at 16 years old, on 31 August 2011 in a [[Coupe de la Ligue]] match against [[FC Girondins de Bordeaux|Bordeaux]], playing the entire match in a 3–1 win.&lt;ref&gt;{{cite news |title=Saint-Étienne v. Bordeaux Match Report |url=http://new.lfp.fr/coupeLigue/feuille_match/75397 |work=[[Ligue de Football Professionnel]] |date=31 August 2011 |accessdate=31 August 2011 |language=French |deadurl=yes |archiveurl=https://web.archive.org/web/20120916074223/http://new.lfp.fr/coupeLigue/feuille_match/75397 |archivedate=16 September 2012 |df= }}&lt;/ref&gt; On 17 September, he made his [[Ligue 1]] debut in a 3–0 loss at [[FC Lorient|Lorient]]; his first professional goal came on 19 November, replacing [[Paulo Afonso Santos Júnior|Paulão]] after nine minutes and finishing a [[corner kick]] to confirm a 2–0 win before half time at [[OGC Nice]].&lt;ref&gt;{{cite news|title=NICE 0–2 SAINT-ETIENNE|url=http://www.ogcnice.com/fr/actualite/7201/nice-0-2-saint-etienne|accessdate=4 May 2016|publisher=OGC Nice|date=19 November 2011|language=French}}&lt;/ref&gt; He totalled 21 league games in his first season – 13 starts – and his other goal came on 14 January 2012, heading [[Banel Nicolita]]'s corner for the only goal against lowly [[FC Sochaux-Montbéliard|Sochaux]] at the [[Stade Geoffroy-Guichard]].&lt;ref&gt;{{cite news|title=St. Etienne edges troubled Sochaux|url=http://www.foxsports.com/soccer/story/st-etienne-1-0-sochaux-match-report-ligue-1-zouma-nets-game-winner-011412|accessdate=4 May 2016|publisher=Fox Sports|date=14 January 2012}}&lt;/ref&gt;
+
+On 20 April 2013, Zouma played in Saint-Étienne's 1–0 win over [[Stade Rennais F.C.|Rennes]] in the [[2013 Coupe de la Ligue Final|final]] of the Coupe de la Ligue.&lt;ref&gt;{{cite web|title=AS Saint-Etienne 1–0 Stade Rennais FC|url=http://www.ligue1.com/coupeLigue/feuille_match/77456|publisher=[[Ligue 1]]}}&lt;/ref&gt; Eight days later in the [[Derby du Rhone]] away to [[Olympique Lyonnais|Lyon]], he opened a 1–1 draw by heading [[Yohan Mollo]]'s corner after half an hour of play.&lt;ref&gt;{{cite news|title=Lyon on course for third|url=http://www.skysports.com/football/lyon-vs-st-etienne/285668|accessdate=4 May 2016|publisher=Sky Sports|date=28 April 2013}}&lt;/ref&gt; On 7 November 2013, Zouma was banned for ten games following a challenge that left [[FC Sochaux-Montbéliard|Sochaux]]'s [[Thomas Guerbert]] with a broken right leg and a dislocated ankle.&lt;ref&gt;{{cite news|last1=Devine|first1=Chris|title=Zouma given 10-match ban following horror tackle|url=http://www.goal.com/en/news/90/france/2013/11/07/4391643/zouma-given-10-match-ban-following-horror-tackle|accessdate=11 January 2015|work=Goal.com|date=7 November 2013}}&lt;/ref&gt;
+
+===Chelsea===
+====2014–15 season====
+[[File:Chelsea 1 lLiverpool 0 (2-1 agg) Capital One Cup semi final 2nd leg On our way to Wembley! (16204857347).jpg|thumb|right|175px|Zouma holding a banner celebrating Chelsea reaching the [[2015 Football League Cup Final]]]]
+On 31 January 2014, Zouma joined [[Chelsea F.C.|Chelsea]] on a five-and-a-half-year contract for a fee believed to be around £12&amp;nbsp;million (€14.6&amp;nbsp;million).&lt;ref name=twelve&gt;{{cite news|title=Transfer Deadline Day: Kurt Zouma joins Chelsea for £12m|url=https://www.bbc.co.uk/sport/0/football/25973862|accessdate=29 January 2015|publisher=BBC Sport|date=31 January 2014}}&lt;/ref&gt; He remained at Saint-Étienne on loan for the remainder of the [[2013–14 Ligue 1|2013–14 season]].&lt;ref name=twelve/&gt;
+
+Zouma first appeared as a first-half substitute for Chelsea in a pre-season friendly against [[Wycombe Wanderers F.C.|Wycombe Wanderers]]. He scored his first goal for the club in a 2–1 friendly win against Slovene club [[Olimpija Ljubljana|Olimpija]], on 27 July 2014.&lt;ref&gt;{{cite news|url=http://www.chelseafc.com/news/latest-news/2014/07/match-report--nk-olimpija-ljubljana-1-chelsea-2.html|title=Match report: NK Olimpija Ljubljana 1 Chelsea 2|publisher=[[Chelsea F.C.]]|date=27 July 2014|accessdate=27 July 2014}}&lt;/ref&gt; He was given the number 5 shirt, previously worn by [[Michael Essien]].&lt;ref&gt;{{cite web|title=Squad number changes|url=http://www.chelseafc.com/news/latest-news/2014/08/squad-number-changes.html?WT.mc_id=social_20140815_29820286|publisher=[[Chelsea F.C.]]|accessdate=15 August 2014}}&lt;/ref&gt;
+
+On 24 September, Zouma made his first competitive appearance for Chelsea, scoring the opener in a 2–1 win against [[Bolton Wanderers F.C.|Bolton Wanderers]] in the third round of the [[Football League Cup|League Cup]].&lt;ref&gt;{{cite news|title=Chelsea 2–1 Bolton|url=https://www.bbc.co.uk/sport/0/football/29233095|accessdate=24 September 2014|publisher=BBC Sport|date=24 September 2014}}&lt;/ref&gt; He made his second Chelsea start and first [[2014–15 UEFA Champions League|UEFA Champions League]] appearance on 21 October against [[NK Maribor|Maribor]], helping his side keep a clean sheet in a 6–0 win.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/29362738 |title=Didier Drogba scored his first goal since rejoining Chelsea as they recorded their biggest-ever Champions League win with a dominant victory against Maribor at Stamford Bridge. |publisher=BBC Sport |date=21 October 2014 |accessdate=21 October 2014 }}&lt;/ref&gt; He made his Premier League debut as an added-time substitute for [[Willian (footballer)|Willian]] in the 1–1 draw with [[Manchester United F.C.|Manchester United]] at [[Old Trafford]] on 26 October 2014.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/29679403 |title=Manchester United 1–1 Chelsea |publisher=BBC Sport |date=26 October 2014 |accessdate=26 October 2014 }}&lt;/ref&gt;
+
+On 4 January 2015, Zouma scored the third goal for Chelsea in the 3–0 victory over [[Watford F.C.|Watford]] in the [[FA Cup]].&lt;ref&gt;{{cite news|title=Chelsea 3–0 Watford|url=https://www.bbc.co.uk/sport/0/football/30614332|accessdate=11 January 2015|publisher=BBC Sport|date=4 January 2015}}&lt;/ref&gt; Six days later, he started in the Premier League for the first time, partnering [[John Terry]] in place of [[Gary Cahill]] and keeping a clean sheet in a 2–0 home win over [[Newcastle United F.C.|Newcastle United]], which put Chelsea back into first place in the league table.&lt;ref&gt;{{cite news|last1=Reddy|first1=Luke|title=Chelsea 2–0 Newcastle|url=https://www.bbc.co.uk/sport/0/football/30663822|accessdate=11 January 2015|publisher=BBC Sport|date=10 January 2015}}&lt;/ref&gt; With [[Nemanja Matić]] suspended and [[John Obi Mikel]] injured, Zouma played in defensive midfield as Chelsea won the [[2015 Football League Cup Final|League Cup Final]] on 1 March after a 2–0 victory over [[Tottenham Hotspur F.C.|Tottenham Hotspur]].&lt;ref&gt;{{cite news|last1=McNulty|first1=Phil|title=Chelsea 2–0 Tottenham|url=https://www.bbc.co.uk/sport/0/football/31572594|accessdate=2 March 2015|publisher=BBC Sport|date=1 March 2015}}&lt;/ref&gt; On 3 May, he featured as a substitute for the final five minutes in place of Willian as Chelsea defeated [[Crystal Palace F.C.|Crystal Palace]] 1–0 to win the league title.&lt;ref&gt;{{cite news|last1=McNulty|first1=Phil|title=Chelsea 1–0 Crystal Palace|url=https://www.bbc.co.uk/sport/0/football/32471261|accessdate=14 May 2015|publisher=BBC Sport|date=3 May 2015}}&lt;/ref&gt;
+
+====2015–17====
+[[File:Newcastle United vs Chelsea, 26 September 2015 (10).JPG|thumb|Zouma in action against Newcastle in September 2015]]
+On 2 August 2015, Zouma was a 69th-minute substitute for [[César Azpilicueta]] as Chelsea lost 1–0 to [[Arsenal F.C.–Chelsea F.C. rivalry|rivals]] [[Arsenal F.C.|Arsenal]] in the [[2015 FA Community Shield|Community Shield]].&lt;ref&gt;{{cite news|last1=Cryer|first1=Andy|title=Arsenal 1–0 Chelsea|url=https://www.bbc.co.uk/sport/0/football/33667216|accessdate=2 August 2015|publisher=BBC Sport|date=2 August 2015}}&lt;/ref&gt; Starting ahead of John Terry, he scored his first Premier League goal on 19 September, heading in [[Cesc Fàbregas]]' cross to open a 2–0 home win over the same opposition.&lt;ref&gt;{{cite news|last1=McNulty|first1=Phil|title=Chelsea 2–0 Arsenal|url=https://www.bbc.co.uk/sport/0/football/34191867|accessdate=20 September 2015|date=19 September 2015}}&lt;/ref&gt; On 24 November, as a late substitute for the injured Terry, he scored his first European goal to conclude a 4–0 win at [[Maccabi Tel Aviv]] in the Champions League [[2015–16 UEFA Champions League group stage|group stage]].&lt;ref&gt;{{cite news|last1=Rose|first1=Gary|title=M'bi Tel Aviv 0–4 Chelsea|url=https://www.bbc.co.uk/sport/0/football/34896622|accessdate=25 November 2015|publisher=BBC Sport|date=24 November 2015}}&lt;/ref&gt;
+
+Under interim manager [[Guus Hiddink]], Zouma regularly started alongside Terry as Chelsea's form improved. On 7 February 2016, Zouma ruptured the anterior cruciate ligament in his right knee after landing awkwardly from a jump in a match against [[Manchester United]]. He required surgery and was ruled out for six months.&lt;ref name=injury&gt;{{cite news|title=Kurt Zouma: Chelsea defender out for six months &amp; needs surgery|url=https://www.bbc.co.uk/sport/football/35527443|accessdate=9 February 2016|publisher=BBC Sport|date=8 February 2016}}&lt;/ref&gt;
+
+In the summer of 2016, Zouma traveled and trained with the first-team during preseason.&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news/latest-news/2016/07/zouma--coming-back-stronger.html |title=Zouma: Coming back stronger |date=20 July 2016 |publisher=Chelsea F.C.}}&lt;/ref&gt; Chelsea also rejected a loan offer from [[FC Schalke 04|Schalke 04]].&lt;ref&gt;{{cite web|url=http://www.express.co.uk/sport/football/704672/Chelsea-Antonio-Conte-Schalke-Kurt-Zouma-Premier-League-John-Terry-Gary-Cahill-News |title=Chelsea in talks with Schalke over transfer of young defender |date=28 August 2016|work=Daily Express}}&lt;/ref&gt; On 24 October, Zouma made his first competitive appearance after being out of action for nine months, playing 45 minutes for the [[Chelsea F.C. Reserves and Academy|Chelsea under-23]] side in a 2–2 draw against Derby County.&lt;ref&gt;{{cite web|url=https://www.chelseafc.com/news/latest-news/2016/10/pl2-report--chelsea-v-derby-county.html |title=PL2 report: Chelsea 2 Derby 2 |date=24 October 2016 |publisher=Chelsea F.C.}}&lt;/ref&gt; On 8 January 2017, Zouma made his first team comeback in Chelsea's 4–1 [[2016–17 FA Cup|FA Cup]] third-round win over [[Peterborough United F.C.|Peterborough United]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2017/jan/08/chelsea-peterborough-united-fa-cup-match-report|title=John Terry sees red but comfortable Chelsea ease past Peterborough|date=9 January 2017|work=The Guardian}}&lt;/ref&gt; On 4 February, he made his first appearance of the [[2016–17 Premier League]] season as a substitute in a 3–1 win against rivals [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/live/2017/feb/04/chelsea-arsenal-premier-league-live|title=Chelsea 3–1 Arsenal|date=1 March 2017|work=The Guardian}}&lt;/ref&gt;
+
+====2017–18 season: Loan to Stoke City====
+Following agreeing to a new six-year deal with Chelsea, on 21 July 2017, Zouma joined fellow Premier League side [[Stoke City F.C.|Stoke City]] on loan for the [[2017–18 Stoke City F.C. season|2017–18]] season.&lt;ref&gt;{{Cite news |title=Zouma signs new deal and heads to Stoke |url=http://www.chelseafc.com/news/latest-news/2017/07/new-contract-and-loan-for-zouma.html |publisher=Chelsea Official Site |date=21 July 2017 |accessdate=21 July 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Kurt Zouma: Chelsea defender joins Stoke on season-long loan|url=https://www.bbc.co.uk/sport/football/40684771|publisher=BBC Sport|accessdate=21 July 2017}}&lt;/ref&gt; On 12 August, he made his debut in a 1–0 loss at [[Everton F.C.|Everton]].&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/everton-vs-stoke/373101 |title=Everton 1–0 Stoke |date=12 August 2017 |publisher=SkySports}}&lt;/ref&gt;
+
+In November 2017, Stoke captain [[Ryan Shawcross]] expressed his surprise that Chelsea had loaned out Zouma, who had only missed one match, against his parent club.&lt;ref name=shawcross&gt;{{cite news|title=Ryan Shawcross surprised Chelsea allowed 'ultimate defender' Kurt Zouma to leave on loan|url=http://www.skysports.com/football/news/11701/11128404/ryan-shawcross-surprised-chelsea-allowed-ultimate-defender-kurt-zouma-to-leave-on-loan|accessdate=26 November 2017|publisher=Sky Sports|date=16 November 2017}}&lt;/ref&gt; On 20 November he headed his first goal for the Potters, in a 2–2 draw at [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].&lt;ref&gt;{{cite news|last1=Bysouth|first1=Alex|title=Brighton &amp; Hove Albion 2–2 Stoke City|url=https://www.bbc.co.uk/sport/football/41964596|accessdate=26 November 2017|publisher=BBC Sport|date=20 November 2017}}&lt;/ref&gt; Zouma played 37 matches for Stoke in 2017–18 as the club suffered relegation to the [[EFL Championship]].&lt;ref&gt;{{cite web|title=Swansea 1–2 Stoke|url=https://www.bbc.co.uk/sport/football/44020155|website=BBC Sport|accessdate=13 May 2018}}&lt;/ref&gt;
+
+====2018–19 season: Loan to Everton====
+On 10 August 2018, Zouma joined fellow Premier League side [[Everton F.C.|Everton]] on loan for the [[2018–19 Everton F.C. season|2018–19]] season.&lt;ref&gt;{{Cite news|url=http://www.evertonfc.com/news/2018/08/10/zouma|title=Zouma Joins Everton On Season-Long Loan|date=10 August 2018|accessdate=10 August 2018|publisher=Everton Official Site}}&lt;/ref&gt; He made his debut on 25 August as a last-minute substitute for the injured [[Michael Keane (footballer, born 1993)|Michael Keane]] in a 2–2 draw at [[A.F.C. Bournemouth|Bournemouth]].&lt;ref&gt;{{cite news |last1=Sutcliffe |first1=Steve |title=Bournemouth 2&amp;ndash;2 Everton |url=https://www.bbc.co.uk/sport/football/45230638 |accessdate=4 October 2018 |publisher=BBC Sport |date=25 August 2018}}&lt;/ref&gt;
+
+Zouma scored his first goal for Everton on 13 January 2019, a header to open a 2–0 home win also against Bournemouth.&lt;ref&gt;{{cite news |last1=Hunter |first1=Andy |title=Kurt Zouma nods home to steer Everton towards nervy win over Bournemouth |url=https://www.theguardian.com/football/2019/jan/13/everton-bournemouth-premier-league-match-report |accessdate=17 February 2019 |work=The Guardian |date=13 January 2019}}&lt;/ref&gt; He was sent off for dissent after the final whistle in a 1–0 loss at [[Watford F.C.|Watford]] on 9 February.&lt;ref&gt;{{cite news |last1=Prentice |first1=David |title=Everton defender Kurt Zouma red-carded AFTER the final whistle at Watford |url=https://www.liverpoolecho.co.uk/sport/football/football-news/everton-defender-kurt-zouma-red-15806796 |accessdate=17 February 2019 |work=Liverpool Echo |date=9 February 2019}}&lt;/ref&gt;
+
+==International career==
+Zouma is a [[France national youth football team|France youth international]] having represented his nation at [[France national under-16 football team|under-16]] and [[France national under-17 football team|under-17]] level. He played with the under-17 team at the [[2011 UEFA European Under-17 Football Championship]] and [[2011 FIFA U-17 World Cup]]. Zouma has been the captain for the [[France national under-21 football team|French under-21]] side.&lt;ref&gt;{{cite web|title=Zouma strike makes it a perfect six for France|url=http://www.uefa.com/under21/season=2015/matches/round=2000412/match=2011566/postmatch/report/index.html|publisher=UEFA|date=4 March 2014}}&lt;/ref&gt; He was part of the [[France national under-20 football team|under-20 team]] that won the [[2013 FIFA U-20 World Cup|2013 World Cup]] in Turkey. In the quarter-finals against [[Uzbekistan national under-20 football team|Uzbekistan]] in [[Rize]], he headed the last goal of a 4–0 victory.&lt;ref&gt;{{cite news|title=Uzbeks no match for in-form France|url=https://www.fifa.com/u20worldcup/matches/round=259231/match=300234903/match-report.html|accessdate=4 May 2016|publisher=FIFA|date=6 July 2013}}&lt;/ref&gt;
+
+Senior France manager [[Didier Deschamps]] wanted to build a defence around Zouma and fellow youngster [[Raphaël Varane]],&lt;ref name=four/&gt; and on 19 March 2015, he was called him up for the first time for friendlies against [[Brazil national football team|Brazil]] and [[Denmark national football team|Denmark]].&lt;ref&gt;{{cite news|last1=Holyman|first1=Ian|title=Nabil Fekir and Kurt Zouma named in France squad for friendlies|url=http://www.espnfc.co.uk/international-friendly/story/2356374/nabil-fekir-and-kurt-zouma-named-in-france-squad-for-friendlies|accessdate=20 March 2015|publisher=ESPN|date=19 March 2015}}&lt;/ref&gt; He made his debut in the latter match ten days later, a 2–0 win at his former club ground with Saint-Étienne, the [[Stade Geoffroy-Guichard]], replacing [[Morgan Schneiderlin]] for the last eight minutes of the game.&lt;ref&gt;{{cite news|title=France 2–0 Denmark: Lacazette and Giroud on target|url=http://www.goal.com/en/match/france-vs-denmark/1703395/report?ICID=MP_MS_5|accessdate=29 March 2015|work=Goal.com|date=29 March 2015}}&lt;/ref&gt; After his injury for Chelsea in February, Zouma missed France's hosting of [[UEFA Euro 2016]].&lt;ref name=injury/&gt;
+
+He returned to the squad in August 2017, replacing the injured [[Raphaël Varane]] for a [[2018 FIFA World Cup qualification (UEFA)|World Cup qualifier]] against the [[Netherlands national football team|Netherlands]].&lt;ref&gt;{{cite web|url=http://www.espnfc.com/world-cup-qualifying-uefa/story/3190974/stoke-defender-kurt-zouma-replaces-raphael-varane-in-france-squad |title=Stoke defender Kurt Zouma replaces Raphael Varane in France squad |date=28 August 2017 |publisher=ESPN}}&lt;/ref&gt; He was put on standby for France's squad at the [[2018 FIFA World Cup|final tournament]] in Russia.&lt;ref&gt;{{cite news|last1=Benson|first1=Michael|title=World Cup 2018: Chelsea, Manchester United and Manchester City stars included in France's squad for finals|url=https://talksport.com/football/world-cup-2018-chelsea-manchester-united-and-manchester-city-stars-included-frances-squad|accessdate=24 May 2018|publisher=Talksport|date=17 May 2018}}&lt;/ref&gt; Zouma earned his first France cap in over three years on 11 October 2018 as a substitute in a 2–2 friendly draw with [[Iceland national football team|Iceland]], coming on as a substitute and winning the equalising penalty.&lt;ref&gt;{{cite news |last1=Pringle |first1=Ben |title=Chelsea player ratings – International break: Morata and Giroud flop again, Ampadu injured |url=https://www.express.co.uk/sport/football/1030543/Chelsea-player-ratings-international-break-Morata-Giroud-Ampadu |accessdate=12 October 2018 |work=Daily Express |date=12 October 2018}}&lt;/ref&gt;
+
+==Style of play==
+[[File:Kurt Zouma (03-08-2011).jpg|thumb|right|150px|Zouma with Saint-Étienne in 2011]]
+A November 2013 report by ''[[FourFourTwo]]'' noted Zouma's strength, reading of the game, and aerial presence, while mentioning his occasional lapses in concentration.&lt;ref name=four&gt;{{cite news|last1=Simon|first1=Tim|title=Everything you need to know about... Kurt Zouma|url=http://www.fourfourtwo.com/features/everything-you-need-know-about-kurt-zouma#:LTIsiA1MqkpNyA|accessdate=4 May 2016|work=FourFourTwo|date=13 November 2013}}&lt;/ref&gt; In January 2014, Zouma was named by British newspaper ''[[The Observer]]'' as one of the ten most promising young players in Europe. The newspaper wrote, "Blessed with exceptional power and technique, Zouma is also coveted by many for his leadership qualities."&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/blog/2014/jan/19/next-10-big-things-europes-top-youngsters|title=The next 10 big things: Europe's top youngsters and stars of the future|date=18 January 2014|work=The Observer}}&lt;/ref&gt;
+
+''[[Match of the Day]]'' pundit, [[Danny Murphy (footballer, born 1977)|Danny Murphy]] linked Zouma to [[Marcel Desailly]], another Frenchman who played in defence for Chelsea. Writing after a draw with [[Manchester City F.C.|Manchester City]], which included a strong run and perfectly-executed sliding tackle on [[Sergio Agüero]], Murphy noted Zouma's reliability and confidence against the strong opponent, in addition to his pace. He predicted that Zouma could be a Chelsea mainstay for years to come, and would be an ideal replacement for captain [[John Terry]], then aged 34.&lt;ref&gt;{{cite news|last1=Murphy|first1=Danny|title=Chelsea 1–1 Man City: 'Kurt Zouma reminds me of Marcel Desailly'|url=https://www.bbc.co.uk/sport/0/football/31078757|accessdate=1 February 2015|publisher=BBC Sport|date=1 February 2015}}&lt;/ref&gt;
+
+Shawcross called Zouma the "ultimate defender" for his speed, jump, passing, shooting and tackling, and said that [[Tottenham Hotspur]]'s [[Toby Alderweireld]] was the only central defender on his level.&lt;ref name=shawcross/&gt;
+
+==Personal life==
+Zouma's parents emigrated to France from the [[Central African Republic]].&lt;ref&gt;{{cite news|title=France: Kurt Zouma parle de la paix en Centrafrique|trans-title=France: Kurt Zouma speaks of peace in the Central African Republic|url=http://www.journaldebangui.com/article.php?aid=7416|accessdate=28 August 2015|work=Journal de Bangui|date=8 October 2014|language=French}}&lt;/ref&gt; His older brother [[Lionel Zouma|Lionel]] plays in the same position for French club [[Football Bourg-en-Bresse Péronnas 01|Bourg-en Bresse]].&lt;ref&gt;{{cite news|title=Les retrouvailles des " jumeaux " Zouma|trans-title=The reunion of the Zouma "twins"|url=http://www.leparisien.fr/espace-premium/sports/les-retrouvailles-des-jumeaux-zouma-23-03-2014-3697943.php|accessdate=29 January 2015|work=[[Le Parisien]]|date=23 March 2014|language=French}}&lt;/ref&gt; Zouma is named after Kurt Sloane, [[Jean-Claude Van Damme]]'s character in the 1989 film [[Kickboxer (1989 film)|''Kickboxer'']], while his middle name Happy reflects an African tradition of using positive words as middle names.&lt;ref&gt;{{cite news|last1=de Menezes|first1=Jack|title=Chelsea vs Aston Villa: Kurt Zouma reveals he is named after Jean-Claude Van Damme...and why he has reason to smile all the time|url=https://www.independent.co.uk/sport/football/premier-league/chelsea-vs-aston-villa-kurt-zouma-reveals-he-is-named-after-jean-claude-van-dammeand-why-he-has-9755954.html|accessdate=4 May 2016|work=The Independent|date=25 September 2014}}&lt;/ref&gt; Zouma is married to Sandra, with whom he has two children.&lt;ref&gt;{{cite news|title=Photo: Chelsea star relaxes with his kids at Stamford Bridge|url=http://www.thesportreview.com/tsr/2015/12/photo-chelsea-star-relaxes-with-his-kids-at-stamford-bridge/|accessdate=9 February 2016|work=The Sports Review|date=20 December 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Chelsea star Kurt Zouma takes his family to Disneyland Paris|url=http://www.espnfc.us/blog/the-toe-poke/65/post/2794277/chelsea-star-kurt-zouma-takes-his-family-to-disneyland-paris|accessdate=9 February 2016|work=[[ESPN]] Soccer |author=Liam Twomey|date=26 January 2016}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 9 February 2019}}&lt;ref name="soccerway"&gt;{{soccerway|kurt-zouma/162511|accessdate=27 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news | title =Kurt Zouma Premier League Player Profile | url = http://www.premierleague.com/en-gb/players/profile.overview.html/kurt-zouma| work = [[Premier League]] official website | accessdate = 10 February 2015 }}&lt;/ref&gt;
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|League Cup
+!colspan=2|[[UEFA#Club|Europe]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[AS Saint-Étienne|Saint-Étienne B]]
+|[[2010–11 Championnat de France Amateur|2010–11]]
+|[[Championnat de France Amateur|CFA]]
+|7||1||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||7||1
+|-
+|[[2011–12 Championnat de France Amateur|2011–12]]
+|CFA
+|2||1||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||2||1
+|-
+|[[2012–13 Championnat de France Amateur|2012–13]]
+|CFA
+|1||0||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||1||0
+|-
+!colspan=2|Total
+!10!!2!!colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—!!10!!2
+|-
+|rowspan=4|[[AS Saint-Étienne|Saint-Étienne]]
+|[[2011–12 Ligue 1|2011–12]]
+|[[Ligue 1]]
+|21||2||1||0||1||0||colspan=2|—||colspan=2|—||23||2
+|-
+|[[2012–13 Ligue 1|2012–13]]
+|Ligue 1
+|18||2||4||0||1||0||colspan=2|—||colspan=2|—||23||2
+|-
+|[[2013–14 Ligue 1|2013–14]]
+|Ligue 1
+|24||0||0||0||0||0||3&lt;ref group="lower-alpha" name="UEL"&gt;Appearances in [[UEFA Europa League|Europa League]]&lt;/ref&gt;||0||colspan=2|—||27||0
+|-
+!colspan=2|Total
+!63!!4!!5!!0!!2!!0!!3!!0!!colspan=2|—!!73!!4
+|-
+|rowspan=4|[[Chelsea F.C.|Chelsea]]
+|[[2014–15 Chelsea F.C. season|2014–15]]
+|[[Premier League]]
+|15||0||2||1||5||1||4&lt;ref group="lower-alpha" name="UCL"&gt;Appearances in [[UEFA Champions League|Champions League]]&lt;/ref&gt;||0||colspan=2|—||26||2
+|-
+|[[2015–16 Chelsea F.C. season|2015–16]]
+|Premier League
+|23||1||1||0||1||0||6&lt;ref group="lower-alpha" name="UCL"/&gt;||1||1&lt;ref group="lower-alpha" name="FCS"&gt;Appearance in [[FA Community Shield|Community Shield]]&lt;/ref&gt;||0||32||2
+|-
+|[[2016–17 Chelsea F.C. season|2016–17]]
+|Premier League
+|9||0||4||0||0||0||colspan=2|—||colspan=2|—||13||0
+|-
+!colspan=2|Total
+!47!!1!!7!!1!!6!!1!!10!!1!!1!!0!!71!!4
+|-
+|[[Stoke City F.C.|Stoke City]] (loan)
+|[[2017–18 Stoke City F.C. season|2017–18]]
+|Premier League
+|34||1||1||0||2||0||colspan=2|—||colspan=2|—||37||1
+|-
+|[[Everton F.C.|Everton]] (loan)
+|[[2018–19 Everton F.C. season|2018–19]]
+|Premier League
+|23||1||2||0||2||0||colspan=2|—||colspan=2|—||27||1
+|-
+!colspan=3|Career total
+!177!!9!!15!!1!!12!!1!!13!!1!!1!!0!!218!!12
+|}
+
+{{reflist|group=lower-alpha}}
+
+===International===
+{{updated|match played 11 October 2018}}&lt;ref name="Zouma, Kurt"&gt;{{NFT player|id=58562|name=Zouma, Kurt|accessdate = 19 May 2017}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+! National team!!Year!!Apps!!Goals
+|-
+|rowspan=4|[[France national football team|France]]
+|2015||2||0
+|-
+|2016||0||0
+|-
+|2017||0||0
+|-
+|2018||1||0
+|-
+! colspan=2|Total!!3!!0
+|}
+
+==Honours==
+[[File:Chelsea 2 Spurs 0 Capital One Cup winners 2015 (16072913484).jpg|thumb|Zouma (second from left) celebrates winning the League Cup with Chelsea in 2015]]
+
+'''Saint-Étienne'''
+*[[Coupe de la Ligue]]: [[2012–13 Coupe de la Ligue|2012–13]]
+
+'''Chelsea '''
+*[[Premier League]] : [[2014–15 Premier League|2014–15]], [[2016–17 Premier League|2016–17]]&lt;ref name=premprofile/&gt;
+*[[EFL Cup|Football League Cup]]: [[2014–15 Football League Cup|2014–15]]
+
+'''France U20'''
+*[[FIFA U-20 World Cup]]: [[2013 FIFA U-20 World Cup|2013]]
+
+'''Individual'''
+*[[List of Chelsea F.C. players#Young Player of the Year|Chelsea Young Player of the Year]]: [[2014–15 Chelsea F.C. season|2014–15]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.fff.fr/equipes-de-france/tous-les-joueurs/fiche-joueur/2543094414-kurt-zouma France profile] at FFF
+*{{Soccerbase}}
+*{{LFP|id=zouma-kurt}}
+*{{Lequipe|id=40541}}
+*{{FIFA player|335997}}
+*{{ESPN FC|159319/kurt-zouma}}
+*{{Soccerway|kurt-zouma/162511}}
+
+{{Everton F.C. squad}}
+&lt;!--{{Chelsea F.C. squad}}--&gt;
+
+{{DEFAULTSORT:Zouma, Kurt}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Lyon]]
+[[Category:French footballers]]
+[[Category:France youth international footballers]]
+[[Category:France under-21 international footballers]]
+[[Category:France international footballers]]
+[[Category:French people of Central African Republic descent]]
+[[Category:Association football defenders]]
+[[Category:AS Saint-Étienne players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Stoke City F.C. players]]
+[[Category:Everton F.C. players]]
+[[Category:Ligue 1 players]]
+[[Category:Premier League players]]
+[[Category:French expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:French expatriate sportspeople in England]]
+[[Category:Black French sportspeople]]</text>
+      <sha1>3tv9rp2q7nzwhrem4s5hnxr34rlfgni</sha1>
+    </revision>
+  </page>
+</mediawiki>

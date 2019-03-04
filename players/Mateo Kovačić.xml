@@ -1,0 +1,334 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mateo Kovačić</title>
+    <ns>0</ns>
+    <id>29078287</id>
+    <revision>
+      <id>885984263</id>
+      <parentid>885460955</parentid>
+      <timestamp>2019-03-03T16:16:37Z</timestamp>
+      <contributor>
+        <username>Stt13</username>
+        <id>9671189</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52227">{{Use dmy dates|date=September 2010}}
+{{Infobox football biography
+| name               = Mateo Kovačić
+| image              = ISL-HRV (9) (cropped) Mateo Kovačić.jpg
+| image_size         = 200
+| caption            = Kovačić with [[Croatia national football team|Croatia]] at the [[2018 FIFA World Cup|2018 World Cup]]
+| fullname           = Mateo Kovačić&lt;ref&gt;{{cite web |url=https://www.fifadata.com/document/fwc/2014/pdf/fwc_2014_squadlists.pdf |title=2014 FIFA World Cup Brazil: List of Players: Croatia |publisher=FIFA |format=PDF |page=12 |date=14 July 2014 |accessdate=5 October 2018}}&lt;/ref&gt;
+| birth_date         = {{birth date and age|1994|5|6|df=y}}&lt;ref&gt;{{cite web |url=https://www.fifadata.com/documents/FCWC/2017/pdf/FCWC_2017_Squadlists.pdf |title=FIFA Club World Cup UAE 2017: List of players: Real Madrid CF |publisher=FIFA |format=PDF |page=5 |date=16 December 2017 |accessdate=5 October 2018}}&lt;/ref&gt;
+| birth_place        = [[Linz]], Austria
+| height             = 1.76 m&lt;ref&gt;{{cite web |url=https://www.chelseafc.com/en/teams/first-team/mateo-kovacic?pageTab=biography |title=Mateo Kovacic |publisher=Chelsea F.C. |accessdate=5 October 2018}}&lt;/ref&gt;
+| position           = [[Midfielder]]
+| currentclub        = [[Chelsea F.C.|Chelsea]]&lt;br /&gt;(on loan from [[Real Madrid C.F.|Real Madrid]])
+| clubnumber         = 17
+| youthyears1        = 2000–2007 | youthclubs1 = [[LASK Linz]]
+| youthyears2        = 2007–2010 | youthclubs2 = [[GNK Dinamo Zagreb Academy|Dinamo Zagreb]]
+| years1             = 2010–2013 | clubs1 = [[GNK Dinamo Zagreb|Dinamo Zagreb]] | caps1 = 43 | goals1 = 7
+| years2             = 2013–2015 | clubs2 = [[Inter Milan]]                     | caps2 = 80 | goals2 = 5
+| years3             = 2015–     | clubs3 = [[Real Madrid C.F.|Real Madrid]]    | caps3 = 73 | goals3 = 1
+| years4             = 2018–     | clubs4 = → [[Chelsea F.C.|Chelsea]] (loan)   | caps4 = 25 | goals4 = 0
+| nationalyears1     = 2008
+| nationalteam1      = Croatia U14 | nationalcaps1 = 2  | nationalgoals1 = 1
+| nationalyears2     = 2008
+| nationalteam2      = Croatia U15 | nationalcaps2 = 2  | nationalgoals2 = 0
+| nationalyears3     = 2009–2011
+| nationalteam3      = [[Croatia national under-17 football team|Croatia U17]] | nationalcaps3 = 15 | nationalgoals3= 0
+| nationalyears4     = 2011–2012
+| nationalteam4      = [[Croatia national under-19 football team|Croatia U19]] | nationalcaps4 = 6 | nationalgoals4 = 0
+| nationalyears5     = 2011–2014
+| nationalteam5      = [[Croatia national under-21 football team|Croatia U21]] | nationalcaps5 = 7 | nationalgoals5 = 0
+| nationalyears6     = 2013–
+| nationalteam6      = [[Croatia national football team|Croatia]] | nationalcaps6 = 49 | nationalgoals6 = 1
+| club-update        = 16:16, 3 March 2019 (UTC)
+| nationalteam-update = 17:25, 11 February 2019 (UTC)
+| medaltemplates     = 
+{{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|CRO}}}}
+{{Medal|Comp|[[FIFA World Cup]]}}
+{{Medal|RU|[[2018 FIFA World Cup|2018 Russia]]|}}
+}}
+'''Mateo Kovačić''' ({{IPA-sh|matěo kǒʋatʃitɕ|hr}};&lt;ref&gt;{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&amp;id=e1tnXBk%3D&amp;keyword=Sv.|title=Màtej|quote=Matèo|website=Hrvatski jezični portal|accessdate=17 March 2018|language=sh}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&amp;id=ellgUBQ%3D|title=kòvati|quote=Kòvačič|website=Hrvatski jezični portal|accessdate=17 March 2018|language=sh}}&lt;/ref&gt; born 6 May 1994) is a Croatian professional [[Association football|footballer]] who plays as a [[midfielder]] for English club [[Chelsea F.C.|Chelsea]], on loan from [[Real Madrid C.F.|Real Madrid]], and the [[Croatia national football team|Croatia national team]]. Kovačić is usually deployed as a [[Midfielder#Central midfielder|central midfielder]] or [[Midfielder#Deep-lying playmaker|deep-lying playmaker]], but he is considered to be a versatile midfielder, having played in different positions and adapted to playing either [[Midfielder#Winger|wide]] on the left or as an [[midfielder|attacking midfielder]].&lt;ref&gt;{{cite web |title=Who is Inter new boy Mateo Kovacic? |url=http://forzaitalianfootball.com/2013/02/who-is-inter-new-boy-mateo-kovacic/ |publisher=Forza Italian Football |date=3 February 2013 |accessdate=8 April 2013}}&lt;/ref&gt;
+
+Kovačić began his professional career with [[GNK Dinamo Zagreb|Dinamo Zagreb]] at the age of 16, with whom he won two consecutive league titles, before joining [[Inter Milan|Inter]] in 2013. After the [[2014–15 Inter Milan season|2014–15 season]], he moved to Real Madrid, where he has won the Champions League on three occasions. A full Croatian international since 2013, Kovačić represented the nation at the [[2014 FIFA World Cup]], [[UEFA Euro 2016]] and the [[2018 FIFA World Cup]], including a runner's up finish in the latter tournament. He is nicknamed ''Il Professore (The Professor).''&lt;ref&gt;{{cite news |title=Mateo Kovacic: Scout Report Inter’s creative midfield talent |url=http://outsideoftheboot.com/2014/01/23/mateo-kovacic-scout-report/ |publisher=Outside of the Boot |date=23 January 2014 |accessdate=22 September 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Kovavic il migliore con la Croazia, soprannominato dai compagni "il Professore" |url=http://www.diggita.it/story.php?title=Kovavic_il_migliore_con_la_Croazia_soprannominato_dai_compagni_il_Professore-1 |publisher=diggita.it |date=26 March 2013 |accessdate=22 September 2015}}&lt;/ref&gt;
+
+==Club career==
+===Youth career===
+Born in [[Linz]], Austria, to [[Bosnian Croat]] parents who had moved there from [[Kotor Varoš]] in Bosnia and Herzegovina, Kovačić began playing at an early age at the local [[LASK Linz]]'s academy.&lt;ref name="zidak"&gt;{{cite news |url=http://www.jutarnji.hr/mateo-kovacic-kao-maradona--modric--pele---/905740/ |title=Meteor Kovačić: Svi su ludi za dječakom koji je već sa 13 igrao zrelo kao nekad Maradona |last=Židak |first=Tomislav |work=[[Jutarnji list]] |date=22 November 2010 |language=Croatian |accessdate=22 November 2010}}&lt;/ref&gt; In 2007, when Kovačić was 13, he was spotted by scouts from several prominent European clubs, including [[AFC Ajax|Ajax]], [[Inter Milan]], [[Juventus F.C.|Juventus]] and [[FC Bayern Munich|Bayern Munich]], but his family opted to move to [[Zagreb]] instead, where he joined the [[GNK Dinamo Zagreb Academy|academy]] of Croatian giants [[NK Dinamo Zagreb|Dinamo Zagreb]].&lt;ref name="zidak"/&gt;&lt;ref&gt;{{cite news |url=http://www.jutarnji.hr/mateo-kovacic--kako-je-stvoren-igrac-od-100-milijuna-kuna/1082758/ |title=Cijela istina o Mateu Kovačiću |last=Cigoj |first=Mark |work=Jutarnji list |date=2 February 2013 |language=Croatian |accessdate=1 June 2014}}&lt;/ref&gt;
+Kovačić suffered a serious injury in 2009 in which his leg was broken, but he returned to the pitch after a lengthy recovery on 31 May 2010, appearing in the last match of the [[Prva HNL Academy|Croatian under-17 academy league]], a 5–0 win against [[RNK Split]] under-17s.&lt;ref name="kadeti"&gt;{{cite news |url=http://www.hrsport.net/vijesti/398143/nogomet-1-hnl/kadeti-dinama-za-naslov-prestigli-hajduk |title=Kadeti Dinama za naslov prestigli Hajduk |last=Rupnik |first=Borna |date=31 May 2010 |publisher=[[Sportnet.hr|Sportnet]] |language=Croatian |accessdate=22 November 2010}}&lt;/ref&gt;
+
+===Dinamo Zagreb===
+Kovačić started training with the club's senior squad under manager, [[Vahid Halilhodžić]], four months later, on 6 October 2010,&lt;ref name="vahid"&gt;{{cite news |url=http://sportske.jutarnji.hr/mateo-kovacic-od-danas-trenira-sa-seniorima-dinama--plasi-me-nadimak-hrvatski-messi/892846/ |title=Mateo Kovačić od danas trenira sa seniorima Dinama: Plaši me nadimak Hrvatski Messi |date=6 October 2010 |newspaper=[[Sportske novosti]] |language=Croatian |accessdate=20 November 2010}}&lt;/ref&gt; but continued to appear for the club in academy league matches during October. Later that month, it was reported by the local sports daily, ''[[Sportske novosti]]'', that [[Arsenal F.C.|Arsenal]]'s chief scout, Steve Rowley, had arrived in Zagreb to watch him perform in under-17 matches against [[HNK Cibalia|Cibalia]] and [[NK Zagreb]].&lt;ref name="sportske"&gt;{{cite news |url=http://sportske.jutarnji.hr/arsenal-dosao-po-matea-kovacica--dinamo-nasao-novo-cudo-od-djeteta---miralema-ramica/899213/ |title=Arsenal došao po Matea Kovačića, Dinamo našao novo čudo od djeteta&amp;nbsp;— Miralema Ramića |date=29 October 2010 |newspaper=Sportske novosti |language=Croatian |accessdate=22 November 2010}}&lt;/ref&gt;
+
+Kovačić eventually had his professional league debut in the [[2010–11 Prva HNL]] away match against [[NK Hrvatski dragovoljac|Hrvatski Dragovoljac]] on 20 November 2010, in which he scored Dinamo's fourth goal in their 6–0 win.&lt;ref name="debut"&gt;{{cite news |url=http://www.hrsport.net/vijesti/407740/nogomet-1-hnl/i-kovacic-strijelac-u-dinamovoj-sestici |title=I Kovačić strijelac u Dinamovoj šestici |last=Rupnik |first=Borna |date=20 November 2010 |publisher=Sportnet |language=Croatian |accessdate=20 November 2010}}&lt;/ref&gt; This made him the youngest goalscorer in the history of the league, at the age of 16 years and 198 days, breaking the record set only a week earlier by [[Dino Špehar]] who had scored for [[NK Osijek]] at the age of 16 years and 278 days on 13 November 2010.&lt;ref name="record"&gt;{{cite news |url=http://www.tportal.hr/sport/TcomPrvaHNL/97374/Mateo-Kovacic-najmladi-je-strijelac-Prve-HNL.html |title=Mateo Kovačić najmlađi je strijelac Prve HNL |date=20 November 2010 |publisher=TPortal |language=Croatian |accessdate=20 November 2010}}&lt;/ref&gt;&lt;ref name="spehar"&gt;{{cite news |url=http://www.hrsport.net/vijesti/407385/nogomet-1-hnl/spehar-spasio-bijelo-plave |title=Špehar spasio bijelo-plave |last=Plavčić |first=Mario |date=13 November 2010 |work=Sportnet.hr |language=Croatian |accessdate=22 November 2010}}&lt;/ref&gt; In his first senior season with Dinamo Zagreb he managed to appear in 7 matches, making a contribution in winning the league title.
+
+In the [[2011–12 Prva HNL|2011–12]] season, Kovačić rapidly established himself as a first team regular. He played mainly in the position of left midfielder in 4–2–3–1 system. In the beginning of the season, he helped the team reach the Group Stage of the season's [[2011–12 UEFA Champions League|Champions League]] for the first time in 12 years. Being only 17 years old, he appeared in the starting lineup of Dinamo's first group match against [[Real Madrid C.F.|Real Madrid]]. He finished his first European season with Dinamo by scoring a goal against [[Olympique Lyonnais]] in the last game of the Group Stage in [[Zagreb]] and thus became the second youngest ever scorer in the Champions League. In the domestic league, he was a regular starter, appearing in 25 league matches and scoring five goals in the process. During a league match against [[NK Lučko]], he became the youngest player to wear the captain's armband in Dinamo's history, taking the captaincy from [[Leandro Cufre]].&lt;ref&gt;{{cite web |title=Kvačić najmlađi kapetan u Dnamovoj povijesti |url=http://www.tportal.hr/sport/prvaliga/145385/Kovacic-najmladi-kapetan-Dinama-u-povijesti.html#.UQm78x32_Wo |date=27 August 2011 |work=Tportal.hr |accessdate=31 January 2013}}&lt;/ref&gt; It was another successful season for him in domestic competitions as he appeared in 32 domestic league and cup matches during that season, helping Dinamo to win their seventh consecutive league title. He also scored in the [[Croatian Football Cup|Croatian Cup]] final against [[NK Osijek]] on [[Maksimir Stadium]]. In December 2011, he was named [[Croatian Footballer of the Year#Hope of the Year|Croatian Football Hope of the Year]].&lt;ref&gt;{{cite news |title=Kovačiću trofej Nada godine: Liga prvaka je bila uživancija |url=http://www.24sata.hr/nogomet/kovacicu-trofej-nada-godine-liga-prvaka-je-bila-uzivancija-248104 |newspaper=[[24sata (Croatia)|24sata]] |date=31 December 2011 |language=Croatian |accessdate=31 December 2011}}&lt;/ref&gt;
+
+In the beginning of [[2012–13 Prva HNL|2012–13]] season, he suffered a metatarsal bone injury that caused him to miss several games on the club's qualifying road to another Champions League. He returned just in time to play in Dinamo's first Champions League game against [[FC Porto|Porto]]. Kovačić played in all six Dinamo Zagreb's matches in the [[2012–13 UEFA Champions League group stage]], against Porto, [[Paris Saint-Germain F.C.|Paris Saint-Germain]] and [[FC Dynamo Kyiv|Dynamo Kyiv]]. He continued to impress with his mature performances at a young age during the first half of the season. In October 2012, he was nominated for [[Golden Boy (award)|Golden Boy]], an award given by sports journalists to a young player from Europe perceived to have been the most impressive during a season.&lt;ref&gt;{{cite news |title=Kovačić kandidat za prestižnu nagradu "Golden Boy 2012." |url=http://www.24sata.hr/nogomet/kovacic-kandidat-za-prestiznu-nagradu-golden-boy-2012-287471 |newspaper=24sata |date=20 October 2012 |language=Croatian |accessdate=31 January 2013}}&lt;/ref&gt; During the season's winter break, Dinamo's board threw away the speculations about Kovačić leaving the club in the near future by saying they are building a new team around him and another rising star, [[Alen Halilović]].&lt;ref&gt;{{cite web |title=Kovačića i Halilovića nećemo prodati! |url=http://www.index.hr/sport/clanak/dinamo-sporting-nam-se-nije-javio-kovacica-i-halilovica-necemo-prodati/652404.aspx |publisher=index.hr |date=15 December 2012 |language=Croatian |accessdate=8 April 2013}}&lt;/ref&gt; However, on 30 January 2013, the media surprisingly revealed Kovačić was sold to Italian [[Serie A]] club Inter Milan.
+
+During his time with Dinamo, Kovačić won two domestic league titles and two Croatian Cup titles, appearing in a total of 73 official matches, including 12 appearances in the UEFA Champions League.
+
+===Inter Milan===
+[[File:Mateo Kovacic.jpg|170px|right|thumb|Kovačić with Inter in February 2013.]]
+On 31 January 2013, Kovačić agreed to a transfer to Inter Milan. It was revealed the deal was worth €15&amp;nbsp;million in total, with €11&amp;nbsp;million paid immediately and €4&amp;nbsp;million when and if Inter qualifies for the [[UEFA Champions League]].&lt;ref name="Maglia 10"&gt;{{cite news |title=Inter, Kovacic da 10, Maglia e calcio senza paura |url=http://www.gazzetta.it/Calcio/Squadre/Inter/02-02-2013/inter-kovacic-10-video-maglia-calcio-senza-paura-914107775713.shtml |first=Luca |last=Taidelli |newspaper=[[La Gazzetta dello Sport]] |date=2 February 2013 |language=Italian |accessdate=29 August 2014}}&lt;/ref&gt; Upon his arrival, Kovačić was given the number 10 shirt, previously worn by [[Wesley Sneijder]].&lt;ref name="Maglia 10"/&gt;
+
+====2012–13 season====
+Kovačić made his Inter Milan debut three days later on 3 February, coming on as a half-time substitute in a [[2012–13 Serie A|Serie A]] match against [[S.S. Robur Siena|Siena]].&lt;ref&gt;{{cite news |title=Siena-Inter 3-1, Stramaccioni affonda sotto i gol di Sestu e Emeghara |url=http://www.gazzetta.it/Calcio/Squadre/Siena/03-02-2013/siena-inter-3-1-male-nerazzurri-sestu-emeghara-dominano--914124870634.shtml |first=Valerio |last=Clari |newspaper=La Gazzetta dello Sport |date=3 February 2013 |language=Italian |accessdate=8 April 2013}}&lt;/ref&gt; On 14 February, Kovačić made his European debut before the home crowd at [[San Siro]] in [[2012–13 UEFA Europa League|UEFA Europa League]] match against [[CFR Cluj]]. He provided the winning assist for [[Rodrigo Palacio]], who made it 2–0 for Inter, impressing the crowd with his performance, and was given standing ovations while being substituted off in the 89th minute.&lt;ref&gt;{{cite news |title=Inter-Cluj 2-0: Doppio Palacio, ottimo Kovacic, ma infortunio per Milito |url=http://www.gazzetta.it/Calcio/Squadre/Inter/14-02-2013/inter-cluj-2-0-doppio-palacio-ottimo-kovacic-ma-infortunio-milito-923391317.shtml |first=Valerio |last=Clari |newspaper=La Gazzetta dello Sport |date=15 February 2013 |language=Italian |accessdate=29 August 2014}}&lt;/ref&gt; He also played full 90 minutes in the 3–0 away win against CFR Cluj as Inter proceeded to the next round of the [[2012–13 UEFA Europa League]].&lt;ref&gt;{{cite news |title=Europa League, Cluj-Inter 0-3: doppietta di Guarin, poi Benassi. Paura Ranocchia |url=http://www.gazzetta.it/Calcio/Squadre/Inter/21-02-2013/cluj-inter-0-3-doppietta-guarin-poi-benassi-ma-paura-ranocchia-92118521931.shtml |first=Valerio |last=Clari |newspaper=La Gazzetta dello Sport |date=21 February 2013 |language=Italian |accessdate=29 August 2014}}&lt;/ref&gt;
+
+Kovačić made his first domestic league start for Inter in the next round of Serie A in a 1–4 away loss against [[ACF Fiorentina|Fiorentina]]. In the round of 16 of the UEFA Europa League, Inter was drawn to play against [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. After a 3–0 loss in London, Inter needed a 4–0 win in [[Milan]] to proceed to the next round. The match ended in a 4–1 win for Inter after the match went into extra time, with Kovačić playing as a starter. He impressed with his composure and playmaking ability, once again receiving ovations by the fans.&lt;ref&gt;{{cite news |title=Inter-Tottenham 4-1, Cassano da applausi, ma non basta: Spurs ai quarti |url=http://www.gazzetta.it/Calcio/Squadre/Inter/14-03-2013/europa-league-inter-tottenham-92474067493.shtml |first=Valerio |last=Clari |newspaper=La Gazzetta dello Sport |date=14 March 2013 |language=Italian |accessdate=29 August 2014}}&lt;/ref&gt; Then-Inter manager [[Andrea Stramaccioni]] hailed his performances on several occasions, describing him as a "star for the future".&lt;ref&gt;{{cite web |title=Inter Milan coach Andrea Stramaccioni hails Mateo Kovacic |url=http://www.sportsmole.co.uk/football/inter-milan/news/stramaccioni-hails-kovacic_74900.html |last=Mondal |first=Subhankar |date=18 March 2013 |publisher=Sportsmole.co.uk |accessdate=8 April 2013}}&lt;/ref&gt;
+
+On 30 March, Kovačić was a starter in his first ''[[Derby d'Italia]]'' against Juventus at San Siro. The derby ended in a 1–2 win for Juventus, with Kovačić starting the action that resulted in Rodrigo Palacio's 1–1 equalizer.&lt;ref&gt;{{cite news |title=Inter-Juve. Con Kovacic e Pirlo, precisione al potere |url=http://www.gazzetta.it/Calcio/SerieA/Bigmatch/31-03-2013/inter-juve-kovacic-pirlo-precisione-potere-92754618835.shtml |first=Andrea |last=Schianchi |newspaper=La Gazzetta dello Sport |date=31 March 2013 |language=Italian |accessdate=31 March 2013}}&lt;/ref&gt; Kovačić was a starter in Inter's next Serie A match, a 0–2 away win against [[U.C. Sampdoria|Sampdoria]], as well as in their surprising 3–4 loss to [[Atalanta B.C.|Atalanta]] at San Siro, where he provided an assist for [[Ricky Álvarez]]'s goal.&lt;ref&gt;{{cite news |title=Sampdoria-Inter 0-2, decide la doppietta di Palacio |url=http://www.gazzetta.it/Calcio/Squadre/Sampdoria/03-04-2013/solito-palacio-stende-samp-inter-stramaccioni-respirano-92805504703.shtml |first=Jacopo |last=Gerna |newspaper=La Gazzetta dello Sport |date=4 April 2013 |language=Italian |accessdate=29 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Inter-Atalanta 3-4, tripletta di Denis fra errori, botte e rimonte |url=http://www.gazzetta.it/Calcio/Squadre/Inter/07-04-2013/inter-atalanta-3-4-tripletta-denis-errori-botte-rimonte-92875894700.shtml |first=Valerio |last=Clari |newspaper=La Gazzetta dello Sport |date=8 April 2013 |language=Italian |accessdate=29 August 2013}}&lt;/ref&gt; By the end of the second half of the season, he was a starter in all of the club's Serie A fixtures, as Inter finished in disappointing ninth place on the Serie A table. In May, he was given the "Gentleman Revelation of the Year" award, awarded by Inter fans.&lt;ref&gt;{{cite news |title=Zanetti fa 13: vince ancora il Gentleman Kovacic e De Sciglio i migliori giovani |url=http://archiviostorico.gazzetta.it/2013/maggio/09/Zanetti_vince_ancora_Gentleman_Kovacic_ga_0_20130509_a099669c-b86c-11e2-bc10-72b41185888f.shtml |first=Francesco |last=Velluzzi |newspaper=La Gazzetta dello Sport |date=9 May 2013 |language=Italian |accessdate=29 August 2013}}&lt;/ref&gt;
+
+====2013–14 season====
+Kovačić missed most of the pre-season training with the squad due to series of small injuries,&lt;ref&gt;{{cite web |title=Kovacic out seven days, will miss first friendly match |url=http://fedenerazzurra.com/2013/07/16/kovacic-out-seven-days-will-miss-first-friendly-match/ |newspaper=La Gazzetta dello Sport |date=16 July 2013 |publisher=fedenerazzurra.com |accessdate=31 January 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Kovacic to miss another 10 days, out against Hamburg and Chelsea |url=http://fedenerazzurra.com/2013/07/27/cds-kovacic-to-miss-another-10-days-out-against-hamburg-and-chelsea/ |newspaper=Corriere dello Sport |date=27 July 2013 |publisher=fedenerazzurra.com |accessdate=31 January 2014}}&lt;/ref&gt; and made his comeback just few days before the first official match of the new season, a Coppa Italia match against [[Cittadella]] at Stadio Giuseppe Meazza.&lt;ref&gt;{{cite web |title=Kovacic ready to return versus Cittadella |url=http://fedenerazzurra.com/2013/08/13/kovacic-ready-to-return-versus-cittadella/ |newspaper=La Gazzetta dello Sport |date=13 August 2013 |publisher=fedenerazzurra.com}}&lt;/ref&gt; During the pre-season interviews, new Inter manager [[Walter Mazzarri]] hinted Kovačić would be given a new role on the pitch, a role similar to [[Marek Hamšík]]'s in Napoli.&lt;ref&gt;{{cite web |title=Mazzarri: "Non vendo fumo, Kovacic alla Hamsik" |url=http://it.eurosport.yahoo.com/notizie/calcio-in-trentino-mazzarri-non-vendo-fumo-kovacic-110123735.html |publisher=Eurosport |date=11 July 2013 |language=Italian |accessdate=31 January 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140224144135/http://it.eurosport.yahoo.com/notizie/calcio-in-trentino-mazzarri-non-vendo-fumo-kovacic-110123735.html |archivedate=24 February 2014  }}&lt;/ref&gt; During the first half of the season, Kovačić played regularly, although he struggled with adjusting to his new tactical role.&lt;ref&gt;{{cite web |title=Mazzola: "Kovacic is still not ready" |url=http://fedenerazzurra.com/2013/10/31/mazzola-kovacic-is-still-not-ready/ |work=Novastadio |date=31 October 2013 |publisher=fedenerazzurra.com |accessdate=1 February 2014}}&lt;/ref&gt; Kovačić made his first assist of the season in the match against [[A.S. Livorno Calcio|Livorno]], when he delivered an assist for [[Yuto Nagatomo]].&lt;ref&gt;{{cite web |title=Zanetti was the main event but everyone forgot about Kovacic |url=http://fedenerazzurra.com/2013/11/10/zanetti-was-the-main-event-but-everyone-forgot-about-kovacic/ |work=Sky Italia |date=10 November 2013 |publisher=fedenerazzurra.com |accessdate=1 February 2014}}&lt;/ref&gt; Unlike the previous season under manager Andrea Stramaccioni, Kovačić was not a regular starter during the 2013–14 season. In 32 Serie A matches played, he started only 14, playing the entire 90 minutes on just eight occasions.&lt;ref&gt;{{cite web |last1=Ibrulj |first1=Saša |title=Can Mateo Kovacic Become a Regular at Inter Milan This Season? |url=http://bleacherreport.com/articles/2136193-can-mateo-kovacic-become-a-regular-at-inter-milan-this-season |publisher=bleacherreport.com |accessdate=15 September 2014}}&lt;/ref&gt; He received the chance to restore his confidence towards the end of the season, as he was Mazzarri's first-choice in the midfield in Inter's last six matches. On 10 May, in [[Javier Zanetti]]'s last competitive match at the San Siro, Kovačić made three assists in 4–1 victory over [[S.S. Lazio|Lazio]].&lt;ref&gt;{{cite web |title=Inter 4-1 Lazio |url=http://www.inter.it/en/match_center/4041 |publisher=inter.it |accessdate=13 May 2014}}&lt;/ref&gt;
+
+====2014–15 season====
+After being subjected to persistent transfer speculation over the summer, in September 2014, Kovačić was offered a contract extension until 2019.&lt;ref&gt;{{cite web |last1=Kemp |first1=Jamie |title=Barcelona bid for Mateo Kovačić rejected by Inter Milan |url=http://www.insidespanishfootball.com/123331/barcelona-bid-for-mateo-kovacic-rejected-by-inter-milan/ |website=insidespanishfootball |deadurl=yes |archiveurl=https://web.archive.org/web/20140915184540/http://www.insidespanishfootball.com/123331/barcelona-bid-for-mateo-kovacic-rejected-by-inter-milan/ |archivedate=15 September 2014  }}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Barcelona Transfer News: Dani Alves to Leave in 2015, Mateo Kovacic Bid Revealed |url=http://bleacherreport.com/articles/2184122-barcelona-transfer-news-dani-alves-to-leave-in-2015-mateo-kovacic-bid-revealed |publisher=bleacherreport.com |accessdate=15 September 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Inter to lock down Kovacic and Icardi until 2019 |url=http://forzaitalianfootball.com/2014/09/inter-to-lock-down-kovacic-and-icardi-until-2019/ |accessdate=15 September 2014}}&lt;/ref&gt; He started the season in strong fashion, scoring a [[hat-trick]] in the second leg of Europa League [[2014–15 UEFA Europa League qualifying phase and play-off round#Play-off round|play-off round]] against [[Stjarnan]] on 28 August.&lt;ref&gt;{{cite news |title=Inter, tutto facile: Stjarnan battuto 6-0 |url=http://www.gazzetta.it/Calcio/Serie-A/Inter/28-08-2014/inter-tutto-facile-stjarnan-battuto-6-0-90282903797.shtml |newspaper=La Gazzetta dello Sport |language=Italian |date=28 August 2014 |accessdate=29 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Mazzarri promuove Kovacic 'Cresce nel modo giusto' |url=http://www.gazzetta.it/Calcio/Serie-A/Inter/28-08-2014/inter-mazzarri-kovacic-sta-crescendmodo-giusto-90285455372.shtml |archive-url=https://archive.is/20140915074213/http://www.gazzetta.it/Calcio/Serie-A/Inter/28-08-2014/inter-mazzarri-kovacic-sta-crescendmodo-giusto-90285455372.shtml |dead-url=yes |archive-date=15 September 2014 |newspaper=La Gazzetta dello Sport |language=Italian |date=28 August 2014 |accessdate=29 August 2014 }}&lt;/ref&gt; He scored his first league goal for Inter and assisted twice in a 7–0 win over [[U.S. Sassuolo Calcio|Sassuolo]] on 14 September 2014.&lt;ref&gt;{{cite news |title=Inter Milan7-0 Sassuolo |url=https://www.bbc.co.uk/sport/0/football/29198823 |accessdate=14 September 2014 |publisher=BBC Sport |date=14 September 2014}}&lt;/ref&gt; He scored the club's only goal in a 1–1 away draw with [[U.S. Città di Palermo|Palermo]].&lt;ref&gt;{{cite news |title=Mateo Kovacic scored his second goal in as many matches as Inter Milan fought back from a goal down to draw with Palermo. |url=https://www.bbc.com/sport/0/football/29277861 |date=21 September 2014 |publisher=BBC Sport |accessdate=28 September 2014}}&lt;/ref&gt; He also scored the opening goal in a 2–0 win against [[A.C. ChievoVerona|Chievo]] and scored a wonder goal in a 2–2 drawn against Lazio. On 6 January 2015, he was sent-off in a 1–1 draw with Juventus for a foul on [[Stephan Lichtsteiner]].&lt;ref&gt;{{cite news |title=Juventus 1-1 Inter Milan |url=https://www.bbc.co.uk/sport/0/football/30687617 |accessdate=7 January 2015 |publisher=BBC Sport |date=6 January 2014}}&lt;/ref&gt; Three days later, Kovačić renewed his contract with Inter until June 2019.&lt;ref&gt;{{cite news |title=Kovačić extends Inter deal till 2019 |url=http://www.inter.it/en/news/47286 |accessdate=9 January 2015 |work=[[Inter Milan|inter.it]] |date=9 January 2014}}&lt;/ref&gt;
+
+===Real Madrid===
+[[File:Mateo Kovačić 2015.jpg|thumb|right|250px|Kovačić playing for Real Madrid in a Champions League match against Shakhtar Donetsk in 2015.]]
+On 16 August 2015, Inter manager [[Roberto Mancini]] confirmed the club was forced to sell Kovačić to [[Real Madrid C.F.|Real Madrid]] due to [[UEFA Financial Fair Play Regulations|Financial Fair Play]] regulations. Speaking during a press conference after a friendly against Greek club [[AEK Athens F.C.|AEK Athens]], Mancini said, "There are rules that have to be respected. I don't think anyone wanted this to happen but we have the Financial Fair Play regulations to follow. We're all sorry about it: myself, the president, the management and the players themselves."&lt;ref&gt;{{cite web |url=http://www.inter.it/en/news/48790 |title=Mancini: "We had our chances" |date=16 August 2015 |publisher=[[Inter Milan]] |accessdate=18 August 2015}}&lt;/ref&gt; Real Madrid also confirmed the transfer two days later, announcing Kovačić had signed a six-year contract with the club.&lt;ref&gt;{{cite web |url=http://www.realmadrid.com/en/news/2015/08/official-announcement-mateo-kova%C4%8Di%C4%87 |title=Official announcement: Mateo Kovačić |date=18 August 2015 |publisher=[[Real Madrid C.F.|Real Madrid Club de Fútbol]] |accessdate=18 August 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2015/aug/16/real-madrid-internazionale-mateo-kovacic |title=Real Madrid agree €32m fee with Internazionale to sign Mateo Kovacic |last1=Christenson |first1=Marcus |last2=Romano |first2=Fabrizio |date=16 August 2015 |accessdate=28 August 2015 |work=The Guardian}}&lt;/ref&gt; The transfer fee was €29&amp;nbsp;million, according to Inter's financial filing in the section Management Report ({{lang-it|Relazione sulla Gestione}}).&lt;ref&gt;F.C. Internazionale Milano S.p.A. ''bilancio'' (financial report and accounts) on 30 June 2015 PDF purchased from [[Camera di Commercio, Industria, Agricoltura e Artigianato|CCIAA]] (in Italian)&lt;/ref&gt; On 19 August, Kovačić was unveiled as a new player by Real Madrid at the [[Santiago Bernabéu Stadium]], where it was revealed he would wear the number 16 shirt for the club.&lt;ref&gt;{{cite web |url=http://www.realmadrid.com/en/news/2015/08/kovacic-being-at-the-biggest-club-in-the-world-is-really-special |title=Kovacic: "Being at the biggest club in the world is really special" |date=19 August 2015 |publisher=[[Real Madrid C.F.|Real Madrid Club de Fútbol]] |accessdate=19 August 2015}}&lt;/ref&gt; Kovačić became the fifth Croatian player, after [[Robert Prosinečki]], [[Davor Šuker]], [[Robert Jarni]] and [[Luka Modrić]], to join Real Madrid.&lt;ref&gt;{{cite web |title=Kovačić peti Hrvat u dresu Kraljevskog kluba |url=http://sport.hrt.hr/295444/kovacic-peti-hrvat-u-dresu-kraljevskog-kluba |website=HRT Sport |publisher=Hrt |accessdate=3 November 2015}}&lt;/ref&gt;
+
+[[File:Cristiano Ronaldo entrenando.jpg|thumb|left|Kovačić (left) warming up with [[Cristiano Ronaldo]] and [[Casemiro]] during the 2015–16 season]]
+Four days after his presentation, he made his debut as a 70th-minute substitute for [[Isco]] as Real Madrid began the [[La Liga|Liga]] [[2015–16 La Liga|season]] with a goalless draw at promoted [[Sporting de Gijón]].&lt;ref&gt;{{cite news |title=Sporting spoil Benítez debut |url=http://www.marca.com/en/2015/08/23/en/football/real_madrid/1440360649.html |accessdate=23 August 2015 |work=Marca|location=Spain |date=23 August 2015}}&lt;/ref&gt; He scored his first goal in an 8–0 home win over [[Malmö FF]] on 8 December 2015.&lt;ref&gt;{{cite web |url=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000634/match=2015746/postmatch/report/index.html |title=Ronaldo rampant as Madrid put eight past Malmö |publisher=[[UEFA]] |date=8 December 2015}}&lt;/ref&gt; On 3 January 2016, Kovačić received a straight red card in a 2–2 draw at [[Valencia CF|Valencia]] for a foul on [[João Cancelo]].&lt;ref&gt;{{cite news |last1=Begley |first1=Emlyn |title=Valencia 2–2 Real Madrid |url=https://www.bbc.co.uk/sport/0/football/35155362 |accessdate=3 January 2016 |publisher=BBC Sport |date=3 January 2016}}&lt;/ref&gt; Until the end of his first season with ''Los Blancos'', he made a total of 34 appearances. In the opening months of the season, he was used quite regularly by then Real Madrid manager [[Rafael Benítez]], playing in almost every midfield position there is&amp;nbsp;– sometimes central, sometimes wide, sometimes further forward. However, after [[Zinedine Zidane]] replaced Benítez in early January, Kovačić's appearances became increasingly infrequent. With the Frenchman preferring to use a very defined starting 11 whenever possible instead of the more specific-lineups-for-specific-opponents approach employed by his predecessor, there was little room for Kovačić. He made eight appearances and scored one goal en Real Madrid's route to the [[2015–16 UEFA Champions League]] title.&lt;ref&gt;{{cite web |url=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000638/match=2015789/postmatch/report/index.html |title=Spot-on Real Madrid defeat Atlético in final again |date=28 May 2016 |publisher=UEFA}}&lt;/ref&gt;
+
+Kovačić scored his first Liga goal on 29 January 2017 in a 3–0 win over [[Real Sociedad]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/38719239|title=Real Madrid 3–0 Real Sociedad|date=29 January 2017|publisher=bbc.co.uk}}&lt;/ref&gt; He was a part-time starter when Madrid won the [[2016–17 La Liga]]&lt;ref&gt;{{cite web|url=http://www.laliga.es/noticias/real-madrid-campeon-de-laliga-santander-2016-17|title=El Real Madrid, campeón de LaLiga Santander 2016/17|date=21 May 2017|work=laliga.es}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/39926301|title=Real Madrid win La Liga title with victory at Malaga|date=21 May 2017|work=bbc.com}}&lt;/ref&gt; and the [[2016–17 UEFA Champions League]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2017/matches/round=2000787/match=2019641/postmatch/report/index.html|title=Majestic Real Madrid win Champions League in Cardiff|date=3 June 2017|work=uefa.com}}&lt;/ref&gt;
+
+During the [[2017–18 UEFA Champions League]], Kovačić made six appearances when Madrid won their third consecutive—and 13th overall—UEFA Champions League title.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2018/matches/round=2000885/match=2021711/postmatch/report/index.html|title=Madrid beat Liverpool to complete hat-trick|date=26 May 2018|work=uefa.com}}&lt;/ref&gt;
+
+===Chelsea (loan)===
+On 8 August 2018, Kovačić joined [[Chelsea F.C.|Chelsea]] on a one-year loan.&lt;ref&gt;{{cite web|url=https://www.realmadrid.com/en/news/2018/08/official-announcement-mateo-kovacic|title=Official announcement: Mateo Kovacic|date=8 August 2018|work=realmadrid.com}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.chelseafc.com/en/news/2018/8/8/courtois-and-kovacic-deals-agreed|title=Courtois and Kovacic deals agreed|date=8 August 2018|work=chelseafc.com}}&lt;/ref&gt; He made his debut in a 3–2 home win against [[Arsenal F.C.|Arsenal]] on 18 August, appearing as a second-half substitute.&lt;ref&gt;{{cite web|url=https://www.givemesport.com/1374987-mateo-kovacics-individual-highlights-against-arsenal-have-now-emerged|title=Mateo Kovacic's individual highlights against Arsenal have now emerged|date=19 August 2018|work=GiveMeSport}}&lt;/ref&gt;
+
+==International career==
+[[File:Mateo Kovacic - Croatia vs. Portugal, 10th June 2013.jpg|290px|thumb|Kovačić with the national team in June 2013.]]
+Kovačić appeared for the Croatian national team at various youth levels, debuting in May 2008 in an under-14 friendly match against Slovakia.&lt;ref name="hns"&gt;{{cite web |url=http://www.hns-cff.hr/?ln=hr&amp;w=statistike&amp;repka=U&amp;id=156397 |title=Statistike&amp;nbsp;— Nastupi: Mateo Kovačić |publisher=[[Croatian Football Federation]] |language=Croatian |accessdate=20 November 2010}}&lt;/ref&gt; Since 2011, he was a regular member of the Croatia under-19 and under-21 teams. In August 2012, Kovačić received his first competitive call-up for the [[Croatia national football team|Croatian senior team]] match against [[Switzerland national football team|Switzerland]], but did not play because of injury.&lt;ref&gt;{{cite news |title=Štimac pozvao Kovačića |url=http://sportske.jutarnji.hr/igor-stimac-za-svicarsku-pozvao-malocu--vukusica--kovacica--sammir-jos-uvijek-na-cekanju/1044377/ |date=30 July 2012 |language=Croatian |accessdate=31 January 2013}}&lt;/ref&gt; Subsequently, he received a call up for [[2014 FIFA World Cup qualification]] matches in March 2013. He made his senior debut in a qualification match against [[Serbia national football team|Serbia]] on 22 March 2013, playing as a central midfielder alongside Luka Modrić, instead of a regular team starter, [[Ognjen Vukojević]].&lt;ref&gt;{{cite web |title=Štimac: "Odluku o Kovačiću 'prelomio' sam sinoć, odigrao je za desetku" |url=http://www.hrsport.net/vijesti/458465/nogomet-reprezentacija/stimac-odluku-o-kovacicu-prelomio-sam-sinoc-odigrao-je-za-desetku/ |publisher=Sportnet |date=22 March 2013 |language=Croatian |accessdate=23 March 2013}}&lt;/ref&gt; Four days later, he played against [[Wales national football team|Wales]] at [[Liberty Stadium]], coming on as a second-half substitute in a 1–2 win. His third match of the campaign came in June, when Croatia faced [[Scotland national football team|Scotland]] in Zagreb and suffered a frustrating defeat as they were unable to score despite a string of good chances. By the end of the qualifiers, Kovačić made two more competitive appearances for Croatia, as Croatia scraped into the [[2014 FIFA World Cup qualification&amp;nbsp;– UEFA Second Round|FIFA World Cup play-offs]] having taken only one point from their last four qualifiers. Although he didn't participate in the scoreless first leg of the play-off against [[Iceland national football team|Iceland]] in [[Reykjavík]], Kovačić started the second and decisive leg between the two national teams in Zagreb, making an assist for the team's second goal as they reached the [[2014 FIFA World Cup]] finals 2–0 on aggregate.&lt;ref&gt;{{cite news |title=Ten-man Croatia reached the 2014 World Cup finals |url=https://www.bbc.com/sport/0/football/24907602 |date=19 November 2013 |publisher=BBC Sport |accessdate=31 January 2014}}&lt;/ref&gt;
+
+On 2 June 2014, Kovačić was confirmed as a member of Croatia's [[2014 FIFA World Cup]] squad.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/croatia/10810185/Croatia-World-Cup-2014-squad.html |title=Croatia World Cup 2014 squad |date=2 June 2014 |work=The Telegraph |accessdate=19 June 2014}}&lt;/ref&gt; He was in Croatia's starting team for the opening game of the tournament, a 3–1 defeat to World Cup hosts [[Brazil national football team|Brazil]] at the [[Arena Corinthians]], São Paulo, where he played for his team for 60 minutes before being substituted.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/25285029 |title=Brazil 3-1 Croatia |date=12 June 2014 |publisher=BBC Sport |accessdate=20 June 2014}}&lt;/ref&gt; He went to play all the remaining games in the group stage, as Croatia was eliminated in a group stage. On 7 June 2015, he scored his first international goal in a 4–0 victory over [[Gibraltar national football team|Gibraltar]], coming in his 20th appearance for the team.&lt;ref&gt;{{cite web|url=https://www.croatiaweek.com/croatia-4-0-gibraltar-mission-accomplished-kovac|title=Croatia 4-0 Gibraltar: ‘Mission Accomplished’- Kovač|publisher=Croatia Week|accessdate=23 June 2018}}&lt;/ref&gt;
+
+On 4 June 2018, Kovačić was selected in Croatia's 23-man squad for the [[2018 FIFA World Cup]].&lt;ref&gt;{{cite web|url=https://www.sportsnet.ca/soccer/modric-rakitic-headline-croatias-world-cup-squad|title=Modric, Rakitic headline Croatia’s World Cup squad|publisher=Sportsnet|accessdate=23 June 2018}}&lt;/ref&gt; On 22 June, Kovačić provided an assist to his teammate [[Ivan Rakitić]] as he scored Croatia's third goal in a 3–0 win over [[Argentina national football team|Argentina]] in their second group stage match of the tournament.&lt;ref&gt;{{cite web|url=https://www.whoscored.com/Matches/1249922/Live/International-FIFA-World-Cup-2018-Argentina-Croatia|title=Argentina 0-3 Croatia - FIFA World Cup 2018 Live|publisher=Whoscored.com|accessdate=23 June 2018}}&lt;/ref&gt; Croatia was beaten 4–2 by [[France national football team|France]] in [[2018 FIFA World Cup Final|the final]] on 15 July.&lt;ref name="McNulty"&gt;{{cite news|url=https://www.bbc.com/sport/football/44754965|title=France 4–2 Croatia: France beat Croatia in thrilling World Cup final |publisher=BBC Sport |date=15 July 2018|access-date=15 July 2018|last=McNulty|first=Phil}}&lt;/ref&gt;
+
+==Style of play==
+[[File:Mateo Kovacic 21032013 2 Zagrebello roberta f.jpg|170px|left|thumb|Kovačić training with the [[Croatia national football team]] in March 2013]]
+Kovačić has been described as a great technician with excellent [[Dribbling#Association football|dribbling]] abilities.&lt;ref&gt;{{cite news |title=Kovacic compared with Roberto Baggio |url=http://www.football-italia.net/30222/kovacic-compared-baggio |date=1 February 2013 |publisher=football-italia.net |accessdate=17 February 2013}}&lt;/ref&gt;&lt;ref name="Mehrotra"&gt;{{cite web |last=Mehrotra |first=Aakriti |title=Mateo Kovacic: Scout Report&amp;nbsp;— Inter’s creative midfield talent |url=http://outsideoftheboot.com/2014/01/23/mateo-kovacic-scout-report/# |work=Outside of the Boot |accessdate=1 February 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Stats Show Mateo Kovacic As One Of Europe’s Best Dribblers |url=http://www.zimbio.com/Mateo+Kovacic/articles/Eyd0yinCbnH/Stats+Show+Mateo+Kovacic+One+Europe+Best+Dribblers |publisher=interfanclub.com |accessdate=1 February 2014}}&lt;/ref&gt; He is considered to be a versatile midfielder, having played in different midfield positions. He started off as an [[Midfielder#Attacking midfielder|attacking midfielder]] at Dinamo Zagreb, but he transformed his game at Inter where he was deployed out wide and also as a central midfielder, functioning as a deep-lying playmaker, while being coached by Andrea Stramaccioni.&lt;ref name="Mehrotra"/&gt; One of his trademarks is dropping deep to receive the ball and then driving forward, often performing his slalom runs.&lt;ref name="Mehrotra"/&gt; Under the coach, Walter Mazzarri, he was often used in a more advanced position. Former manager [[Giovanni Trapattoni]] once claimed that Kovačić knows how to really reach the ball from deep and drive up the pitch like a 'raging bull'.&lt;ref name=MM&gt;{{cite web |last=Higgins |first=Timm |title=Could Mateo Kovacic Be The Heir To Luka Modric’s Crown? |url=http://www.managingmadrid.com/2017/2/10/14557684/could-mateo-kovacic-be-the-heir-to-luka-modrics-crown |work=Managing Madrid |accessdate=12 February 2017 |date=10 February 2017}}&lt;/ref&gt; Proven by his pass completion percentages, Kovačić is known for distributing the ball up the pitch.&lt;ref name=MM /&gt;
+
+;Reception
+The Croatia under-17 manager, [[Martin Novoselac]], reportedly said of Kovačić, "I haven't seen a youngster with so much talent since the days of Robert Prosinečki," referring to his fast development and talent.&lt;ref name="zidak"/&gt;&lt;ref name="vahid"/&gt; Kovačić revealed that precisely Prosinečki is the player he admired the most while growing up.&lt;ref&gt;{{cite web |title=Kovačić otkrio Talijanima koga je 'snimao' |url=http://www.tportal.hr/sport/nogomet/242330/Kovacic-otkrio-Talijanima-koga-je-volio-gledati.html |publisher=Tportal.hr |date=8 February 2013 |language=Croatian |accessdate=12 May 2013}}&lt;/ref&gt; His compatriot, [[Zvonimir Boban]], who played for [[A.C. Milan|Milan]] for over a decade, in an interview with [[Sky Italia]] (in 2013) said, "He has talents that could make him even better than me, he is an incredibly serious professional for someone his age. Kovačić is a complete player. He is not a born regista but he is playing there now. He is a complete talent that can still grow&amp;nbsp;— he has incredible potential."&lt;ref&gt;{{cite news |title=Inter snap up Kovacic and Kuzmanovic |url=http://soccernet.espn.go.com/news/story/_/id/1320857/inter-snap-kovacic-kuzmanovic?cc=5739 |date=31 January 2013 |publisher=[[ESPN]] |accessdate=3 February 2013}}&lt;/ref&gt; Trapattoni described him as "a mixture of [[Kaká]] and [[Clarence Seedorf]]", because of his style of play and technical characteristics.&lt;ref&gt;{{cite news |title='Kovacic is a mix of Kaka and Seedorf' - Trapattoni |url=http://www.goal.com/en/news/10/italy/2013/11/24/4428536/kovacic-is-a-mix-of-kaka-and-seedorf-trapattoni |date=24 November 2013 |publisher=Goal.com |accessdate=5 December 2013}}&lt;/ref&gt; Long-time Inter captain [[Javier Zanetti]] stated that, with the exception of [[Ronaldo (Brazilian footballer)|Ronaldo]], who had arrived to Inter when he was 21, Kovačić was the most promising youngster he had seen in his 19 years at the club.&lt;ref&gt;{{cite web |title=Face to face: Javier Zanetti |url=http://www.worldsoccer.com/features/face-to-face-javier-zanetti |first=Jamie |last=Rainbow |date=12 August 2013 |publisher=WorldSoccer |accessdate=1 February 2014}}&lt;/ref&gt;
+
+==Personal life==
+Kovačić is a devout [[Catholicism|Roman Catholic]] and he attends church every Sunday.&lt;ref&gt;{{cite web |title=Mateo Kovačić: Hrvati, uzdajmo se u Boga! Dičimo se svojim i ne vrijeđajmo druge |url=http://www.zupa-svanastazija.com/novost/mateo-kovacic-hrvati-uzdajmo-se-u-boga-dicimo-se-svojim-i-ne-vrijedajmo-druge/582/ |accessdate=22 June 2016}}&lt;/ref&gt; He speaks five languages; English, Croatian, German, Spanish and Italian.&lt;ref&gt;{{cite news |title=El vídeo que demuestra que Kovacic habla ¡5 idiomas! |date=7 December 2016 |publisher=Marca |url=http://www.marca.com/futbol/real-madrid/2016/12/07/58474b82e5fdeaba688b464e.html}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 3 March 2019}}&lt;ref&gt;{{cite web |title=Mateo Kovacic |url=http://www.whoscored.com/Players/93894/Show/Mateo-Kovacic |website=WhoScored.com |accessdate=3 November 2015}}&lt;/ref&gt;&lt;ref name=Soccerway&gt;{{Soccerway|mateo-kovai/156567}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="2"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Europe
+!colspan="2"|Other{{efn|Includes [[Supercopa de España]], [[UEFA Super Cup]] and [[FIFA Club World Cup]]}}
+!colspan="2"|Total
+|-
+!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4" valign="center"|[[GNK Dinamo Zagreb|Dinamo Zagreb]]&lt;ref&gt;{{cite web |url=http://www.hrsport.net/nogomet/klubovi/dinamo/?igracID=16228&amp;sID=22 |title=Mateo Kovačić&amp;nbsp;— stats |publisher=hrsport.net |language=Croatian |accessdate=1 February 2013}}&lt;/ref&gt;
+|[[2010–11 Prva HNL|2010–11]]||7||1||2||0||colspan=2|–||0||0||colspan=2|–||9||1
+|-
+|[[2011–12 Prva HNL|2011–12]]||25||5||7||1||colspan=2|–||12&lt;ref group="lower-alpha" name="UCL"&gt;Appearances in [[UEFA Champions League]]&lt;/ref&gt;||1||colspan=2|–||44||7
+|-
+|[[2012–13 Prva HNL|2012–13]]||11||1||1||0||colspan=2|–||8&lt;ref group="lower-alpha" name="UCL"/&gt;||0||colspan=2|–||20||1
+|-
+!Total
+!43!!7!!10!!1!!colspan=2|–!!20!!1!!colspan=2|–!!73!!9
+|-
+|rowspan="4" align=center|[[Inter Milan]]
+|[[2012–13 Inter Milan season|2012–13]]||13||0||1||0||colspan=2|–||4&lt;ref group="lower-alpha" name="EL"&gt;Appearances in [[UEFA Europa League]]&lt;/ref&gt;||0||colspan=2|–||18||0
+|-
+|[[2013–14 Inter Milan season|2013–14]]||32||0||3||0||colspan=2|–||colspan=2|–||colspan=2|–||35||0
+|-
+|[[2014–15 Inter Milan season|2014–15]]||35||5||1||0||colspan=2|–||8&lt;ref group="lower-alpha" name="EL"/&gt;||3||colspan=2|–||44||8
+|-
+!Total
+!80!!5!!5!!0!!colspan=2|–!!12!!3!!colspan=2|–||97!!8
+|-
+|rowspan="4" align=center|[[Real Madrid C.F.|Real Madrid]]
+|[[2015–16 Real Madrid C.F. season|2015–16]]||25||0||1||0||colspan=2|–||8&lt;ref group="lower-alpha" name="UCL"/&gt;||1||colspan=2|–||34||1
+|-
+|[[2016–17 Real Madrid C.F. season|2016–17]]||27||1||4||0||colspan=2|–||6&lt;ref group="lower-alpha" name="UCL"/&gt;||1||2||0||39||2
+|-
+|[[2017–18 Real Madrid C.F. season|2017–18]]||21||0||5||0||colspan=2|–||8&lt;ref group="lower-alpha" name="UCL"/&gt;||0||3||0||37||0
+|-
+!Total
+!73!!1!!10!!0!!colspan=2|–!!22!!2!!5!!0!!110!!3
+|-
+|align=center|[[Chelsea F.C.|Chelsea]] (loan)
+|[[2018–19 Chelsea F.C. season|2018–19]]||25||0||2||0||5||0||5&lt;ref group="lower-alpha" name="EL"/&gt;||0||colspan=2|–||37||0
+|-
+!colspan="2"|Career total
+!221!!13!!27!!1!!5!!0!!59!!6!!5!!0!!317!!20
+|}
+
+{{Reflist|group=lower-alpha}}
+
+===International===
+{{updated|match played 12 October 2018}}&lt;ref name="NFT"&gt;{{NFT player |id=51885 |name=Kovačić, Mateo |accessdate=11 February 2019}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+! colspan=4 | [[Croatia national football team|Croatia]]
+|-
+!Year!!Apps!!Goals
+|-
+|2013||7||0
+|-
+|2014||12||0
+|-
+|2015||5||1
+|-
+|2016||8||0
+|-
+|2017||5||0
+|-
+|2018||12||0
+|-
+!Total||49||1
+|}
+
+===International goal===
+:''Scores and results list Croatia's goal tally first.''&lt;ref name="NFT"/&gt;
+
+{| class="wikitable"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1 || 7 June 2015 || [[Stadion Anđelko Herjavec]], Varaždin, Croatia || {{fb|GIB}} || align=center | 2–0 || align=center | 4–0 || [[Exhibition game#Association football|Friendly]]
+|}
+
+==Honours==
+===Club===
+'''Dinamo Zagreb'''&lt;ref name=Soccerway /&gt;
+*[[Prva HNL]]: [[2010–11 Prva HNL|2010–11]], [[2011–12 Prva HNL|2011–12]]
+*[[Croatian Football Cup|Croatian Cup]]: [[2010–11 Croatian Cup|2010–11]], [[2011–12 Croatian Cup|2011–12]]
+
+'''Real Madrid'''&lt;ref name=Soccerway /&gt;
+*[[La Liga]]: [[2016–17 La Liga|2016–17]]
+*[[Supercopa de España]]: [[2017 Supercopa de España|2017]]
+*[[UEFA Champions League]]: [[2015–16 UEFA Champions League|2015–16]], [[2016–17 UEFA Champions League|2016–17]], [[2017–18 UEFA Champions League|2017–18]]
+*[[UEFA Super Cup]]: [[2016 UEFA Super Cup|2016]], [[2017 UEFA Super Cup|2017]]
+*[[FIFA Club World Cup]]: [[2016 FIFA Club World Cup|2016]], [[2017 FIFA Club World Cup|2017]]
+
+===International===
+'''Croatia'''
+*[[FIFA World Cup]] runner-up: [[2018 FIFA World Cup|2018]]&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/44754965|title=France 4–2 Croatia|publisher=BBC |date=15 July 2018|access-date=15 July 2018|last=McNulty|first=Phil}}&lt;/ref&gt;
+
+===Individual===
+*[[Croatian Footballer of the Year#Hope of the Year|Croatian Football Hope of the Year]]: 2011&lt;ref&gt;{{cite web |url=http://hns-cff.hr/en/hns/individual-awards/ |title=Individual awards and accomplishments |accessdate=29 July 2016}}&lt;/ref&gt;
+
+===Orders===
+*[[File:Order of Prince Branimir.jpg|left|50px]] [[Order of Duke Branimir]] with Ribbon: 2018&lt;ref&gt;{{cite web|url=http://predsjednica.hr/objava/1/1/2707|title=News: President Decorates Croatian National Football Team Players and Coaching Staff|date=13 November 2018|publisher=Office of the President of the Republic of Croatia|accessdate=11 January 2019|quote=the Order of Prince Branimir with Ribbon was awarded to Mr. Mateo Kovačić...}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.realmadrid.com/en/football/squad/mateo-kovacic Profile] at the Real Madrid C.F. website
+*[https://www.chelseafc.com/en/teams/first-team/mateo-kovacic?pageTab=biography Profile] at the Chelsea C.F. website
+*{{UEFA player}}
+*{{FIFA player}}
+
+{{Chelsea F.C. squad}}
+{{Navboxes
+| title = Croatia squads
+| bg = white
+| fg = red
+| bordercolor= #171796
+| list1 = 
+{{Croatia squad 2014 FIFA World Cup}}
+{{Croatia squad UEFA Euro 2016}}
+{{Croatia squad 2018 FIFA World Cup}}
+}}
+{{Croatian Football Hope of the Year award}}
+
+{{DEFAULTSORT:Kovacic, Mateo}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Linz]]
+[[Category:Austrian people of Croatian descent]]
+[[Category:Croats of Bosnia and Herzegovina]]
+[[Category:Austrian people of Bosnia and Herzegovina descent]]
+[[Category:Croatian people of Bosnia and Herzegovina descent]]
+[[Category:Croatian footballers]]
+[[Category:Croatian First Football League players]]
+[[Category:Serie A players]]
+[[Category:GNK Dinamo Zagreb players]]
+[[Category:Inter Milan players]]
+[[Category:Croatia under-21 international footballers]]
+[[Category:Croatia international footballers]]
+[[Category:Croatian expatriate footballers]]
+[[Category:Expatriate footballers in Italy]]
+[[Category:Expatriate footballers in England]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:Croatian expatriate sportspeople in Italy]]
+[[Category:Croatian expatriate sportspeople in England]]
+[[Category:Real Madrid CF players]]
+[[Category:La Liga players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Croatian expatriate sportspeople in Spain]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:UEFA Champions League winning players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:Association football midfielders]]</text>
+      <sha1>rmhwhzgnjtuf87kfwjozxpg5kmj3t0g</sha1>
+    </revision>
+  </page>
+</mediawiki>

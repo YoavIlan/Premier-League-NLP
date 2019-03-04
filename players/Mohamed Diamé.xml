@@ -1,0 +1,355 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mohamed Diamé</title>
+    <ns>0</ns>
+    <id>19716267</id>
+    <revision>
+      <id>885939670</id>
+      <parentid>885850411</parentid>
+      <timestamp>2019-03-03T08:57:03Z</timestamp>
+      <contributor>
+        <username>GiantSnowman</username>
+        <id>1005449</id>
+      </contributor>
+      <minor/>
+      <comment>update - match played 2 March 2019</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22385">{{Use British English|date=April 2013}}
+{{Use dmy dates|date=April 2013}}
+{{Infobox football biography
+|name           = Mohamed Diamé
+|image          = Mohamed Diamé with West Ham United.jpg
+|image_size     = 200
+|caption        = Diamé playing for [[West Ham United F.C.|West Ham United]] in 2012
+|fullname       = Mohamed Diamé&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=15 February 2018}}&lt;/ref&gt;
+|birth_date     = {{birth date and age|1987|6|14|df=y}}&lt;ref name="Hugman2010/11"&gt;{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |location=Edinburgh |isbn=978-1-84596-601-0 |page=117}}&lt;/ref&gt;
+|birth_place    = [[Créteil]], France
+|height         = 1.84 m&lt;ref&gt;{{cite web |url=https://www.11v11.com/players/mo-diamé-224974/ |title=Mo Diamé |website=11v11.com |publisher=AFS Enterprises |accessdate=7 June 2016}}&lt;/ref&gt;
+|position       = [[Midfielder]]
+|currentclub    = [[Newcastle United F.C.|Newcastle United]]
+|clubnumber     = 10
+|youthyears1    = 2000–2003
+|youthclubs1    = [[INF Clairefontaine]]
+|youthyears2    = 2003–2005
+|youthclubs2    = [[RC Lens|Lens]]
+|years1         = 2005–2007
+|clubs1         = [[RC Lens|Lens B]]
+|caps1          = 28
+|goals1         = 1
+|years2         = 2007–2008
+|clubs2         = [[CD Linares|Linares]]
+|caps2          = 31
+|goals2         = 1
+|years3         = 2008–2009
+|clubs3         = [[Rayo Vallecano]]
+|caps3          = 35
+|goals3         = 1
+|years4         = 2009–2012
+|clubs4         = [[Wigan Athletic F.C.|Wigan Athletic]]
+|caps4          = 96
+|goals4         = 5
+|years5         = 2012–2014
+|clubs5         = [[West Ham United F.C.|West Ham United]]
+|caps5          = 71
+|goals5         = 7
+|years6         = 2014–2016
+|clubs6         = [[Hull City A.F.C.|Hull City]]
+|caps6          = 50
+|goals6         = 13
+|years7         = 2016–
+|clubs7         = [[Newcastle United F.C.|Newcastle United]]
+|caps7          = 92
+|goals7         = 5
+|nationalyears1 = 2012
+|nationalteam1  = [[Senegal national under-23 football team|Senegal Olympic]]
+|nationalcaps1  = 4
+|nationalgoals1 = 0
+|nationalyears2 = 2011–2017
+|nationalteam2  = [[Senegal national football team|Senegal]]
+|nationalcaps2  = 31
+|nationalgoals2 = 1
+|club-update    = 08:57, 3 March 2019 (UTC)
+|ntupdate       = 08:19, 14 January 2018 (UTC)
+}}
+'''Mohamed Diamé''' (born 14 June 1987), also known as '''Momo Diamé''',&lt;ref name="Momo"&gt;{{cite news|url=http://www.afrikansoccer.com/2011/05/sevilla-track-senegal-midfielder-momo-diame/|title=Sevilla track Senegal midfielder Momo Diame|accessdate=21 May 2011|date=18 May 2011|publisher=Afrikan Soccer|deadurl=yes|archiveurl=https://web.archive.org/web/20110606032345/http://www.afrikansoccer.com/2011/05/sevilla-track-senegal-midfielder-momo-diame/|archivedate=6 June 2011|df=dmy-all}}&lt;/ref&gt; is a professional [[Association football|footballer]] who plays as a [[midfielder]] for English club [[Newcastle United F.C.|Newcastle United]].
+
+Though born in France, Diamé represented [[Senegal national football team|Senegal]] at international level and made 31 appearances before retiring from national duty in 2017.
+
+==Club career==
+===Early career===
+Diamé was born in the Paris suburb of [[Créteil]] and he was selected to attend the [[INF Clairefontaine|Clairefontaine academy]] between 2000 and 2003.&lt;ref&gt;{{cite news|url=http://www.fff.fr/presentationfff/actualite/418646.shtml |title=INF, formateur de talents |accessdate=29 December 2012 |publisher=French Football Federationd |language=French |deadurl=yes |archiveurl=https://web.archive.org/web/20121114014916/http://www.fff.fr/presentationfff/actualite/418646.shtml |archivedate=14 November 2012 |df= }}&lt;/ref&gt; Diamé began his professional career in 2003 with [[RC Lens]], but left four years later after facing health problems.&lt;ref&gt;{{Cite news|url=http://descubrepromesas.blogspot.com/2008/09/mohamed-diame.html|title=Profile|accessdate=22 March 2011|date=21 September 2008|language=Spanish|publisher=descubrepromesas}}&lt;/ref&gt; After a full recovery, he signed for lowly Spanish side [[CD Linares]] in 30 July 2007,&lt;ref&gt;{{cite web|last1=García Caño|first1=Pablo|title=Diame convence a Braojos y se queda en el CD Linares|url=http://www.ideal.es/jaen/prensa/20070731/deportes_jaen/diame-convence-braojos-queda_20070731.html|website=Ideal|accessdate=3 August 2016|language=Spanish|date=31 July 2007}}&lt;/ref&gt; and moved to [[Rayo Vallecano]] the following year,&lt;ref&gt;{{cite web|author1=Agencia EFE|authorlink1=Agencia EFE|title=Diamé ficha por el Rayo Vallecano|url=http://www.lavozdigital.es/cadiz/20080621/deportes/mas-futbol/diame-ficha-rayo-vallecano-20080621.html|website=La Voz Digital|accessdate=3 August 2016|language=Spanish|date=21 January 2008}}&lt;/ref&gt; helping the [[Madrid]]-based team to a [[2008–09 Segunda División|mid-table position]] in the [[Segunda División]], after being promoted in the [[2007–08 Segunda División B|2007–08 season]]. During his time with Rayo it was reported that [[La Liga]] giants [[Real Madrid C.F.|Real Madrid]] and [[FC Barcelona|Barcelona]] were interested in signing the midfielder,&lt;ref&gt;{{Cite news|url=http://www.tribalfootball.com/articles/barcelona-real-madrid-battle-rayo-vallecano-star-mohamed-diame-217692|title=Barcelona, Real Madrid battle for Rayo Vallecano star Mohamed Diame|accessdate=22 March 2011|date=21 December 2008|publisher=Tribal Football}}&lt;/ref&gt; as well as [[Premier League]] side [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{Cite news|url=http://www.imscouting.com/global-news-article/the-lowdown-on-arsenal-target-mohamed-diame/1159/|title=The lowdown on Arsenal target Mohamed Diame|accessdate=22 March 2011|date=25 January 2009|publisher=IMScouting}}&lt;/ref&gt;
+
+===Wigan Athletic===
+On 22 August 2009, Diamé joined [[Wigan Athletic F.C.|Wigan Athletic]], signing a three-year contract.&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/wigan_athletic/8205476.stm|title=Wigan complete capture of Diame|accessdate=22 March 2011|date=22 August 2009|publisher=BBC Sport}}&lt;/ref&gt; The transfer had earlier been temporarily put on hold, after alleged heart problems were found.&lt;ref&gt;{{Cite news|url=http://www.marca.com/2009/08/14/futbol/equipos/rayo/1250232313.html|title=El corazón de Diamé frena su fichaje por el Wigan|trans-title=Diamé's heart halts signing with Wigan|accessdate=22 March 2011|date=14 August 2009|author=Froilán Mora|language=Spanish|newspaper=Marca|location=Madrid}}&lt;/ref&gt; Diamé made his debut the same day as his transfer, in a 5–0 defeat to [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8209298.stm|title=Wigan 0–5 Man Utd|accessdate=22 March 2011|date=22 August 2009|author=Chris Bevan|publisher=BBC Sport}}&lt;/ref&gt; He scored his first goal for Wigan against [[Sunderland A.F.C.|Sunderland]] on 6 February 2010.&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8493730.stm|title=Sunderland 1–1 Wigan|accessdate=22 March 2011|date=6 February 2010|publisher=BBC Sport}}&lt;/ref&gt; At the end of the 2011–12 season, he left Wigan after declining their offer to extend his contract.&lt;ref name=Bosman&gt;{{cite news|last=Jones|first=Simon|title=Liverpool and Spurs lead chase for Diame with midfielder set to leave Wigan for free|url=http://www.dailymail.co.uk/sport/football/article-2144709/Mohamed-Diame-leave-Wigan-Athletic.html|accessdate=13 June 2012|newspaper=Daily Mail|location=London|date=15 May 2012}}&lt;/ref&gt;
+
+===West Ham United===
+On 20 June 2012, Diamé joined [[West Ham United F.C.|West Ham United]], signing a three-year contract.&lt;ref&gt;{{cite web|url=http://www.whufc.com/articles/20120620/diame-deal-agreed_2236884_2817081|title=Diame deal agreed|date=20 June 2012|publisher=West Ham United F.C.|deadurl=yes|archiveurl=https://web.archive.org/web/20120622055808/http://www.whufc.com/articles/20120620/diame-deal-agreed_2236884_2817081|archivedate=22 June 2012|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/18521050|title=Mohamed Diame to join West Ham from Wigan on a three-year deal|date=20 June 2012|publisher=BBC Sport}}&lt;/ref&gt; Diamé made his debut for West Ham on 18 August 2012 in a 1–0 win against [[Aston Villa F.C.|Aston Villa]].&lt;ref&gt;{{cite web|title=West Ham 1–0 Aston Vila|url=https://www.bbc.co.uk/sport/0/football/19221467|publisher=BBC Sport|accessdate=19 August 2012}}&lt;/ref&gt; He scored his first goal for West Ham United in the 3–1 defeat to [[Arsenal F.C.|Arsenal]] on 6 October 2012.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/19768703|title=West Ham 1–3 Arsenal|date=6 October 2012|publisher=BBC Sport}}&lt;/ref&gt; His second goal for the club was scored in the 3–1 victory over [[Chelsea F.C.|Chelsea]] on 1 December 2012.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/20474474|title=West Ham 3–1 Chelsea|date=1 December 2012|publisher=BBC Sport}}&lt;/ref&gt; On 9 December 2012, Diamé was injured in a match against Liverpool; it was initially thought he could be out for up to 3 months.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/20661134|title=West Ham: Hamstring tear to sideline Mohamed Diame|date=9 December 2012|publisher=BBC Sport}}&lt;/ref&gt; In January 2013, after a number of clubs were purported to be interested in signing him, Diamé stated that he wished to stay with West Ham.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/21182797|title=Mohamed Diame 'very happy' at West Ham despite Arsenal link|date=24 January 2013|publisher=BBC Sport}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2013/jan/24/tottenham-mohamed-diame-west-ham|title=Tottenham aim to tempt Mohamed Diamé from West Ham for £3.5m|date=24 January 2013|author=David Hytner|newspaper=The Guardian|location=London}}&lt;/ref&gt; Diamé did not leave the club in the transfer window, and manager [[Sam Allardyce]] stated that it was an important decision.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/21299380|title=West Ham: It was vital Mohamed Diame stayed – Sam Allardyce|date=1 February 2013|publisher=BBC Sport}}&lt;/ref&gt;
+
+===Hull City===
+[[File:Mohamed Diame Hull City 2014.jpg|thumb|200px|Diame playing for [[Hull City A.F.C.|Hull City]] in 2014 against Everton]]
+On 1 September 2014, Diamé joined [[Hull City A.F.C.|Hull City]], signing a three-year contract.&lt;ref&gt;{{cite web|url=http://www.hullcitytigers.com/news/article/1415-diame-signing-1891684.aspx|title=Tigers Sign Mohamed Diame From West Ham|date=1 September 2014|accessdate=1 September 2014|publisher=Hull City A.F.C.|deadurl=yes|archiveurl=https://web.archive.org/web/20140903142317/http://www.hullcitytigers.com/news/article/1415-diame-signing-1891684.aspx|archivedate=3 September 2014|df=dmy-all}}&lt;/ref&gt; Two weeks later, he made his debut at the [[KC Stadium]], scoring against his former club West Ham in a 2–2 draw.&lt;ref&gt;{{cite news|title=Hull City 2–2 West Ham United|url=https://www.bbc.co.uk/sport/0/football/29105375|publisher=BBC Sport|accessdate=15 September 2014|date=15 September 2014}}&lt;/ref&gt;
+
+On 28 May 2016, Diamé scored in the [[2016 Football League Championship play-off Final|Championship play-off final]] in a 1–0 win against [[Sheffield Wednesday F.C.|Sheffield Wednesday]], giving Hull an immediate return to the [[Premier League]] after their relegation in the [[2014–15 Premier League|2014–15 season]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/36348885|title=Hull City 1–0 Sheffield Wednesday|publisher=BBC Sport|accessdate=28 May 2016|date=28 May 2016}}&lt;/ref&gt;
+
+===Newcastle United===
+On 3 August 2016, Diamé joined [[Newcastle United F.C.|Newcastle United]], signing a three-year contract.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2016/aug/03/newcastle-sign-mohame-diame-hull-city|title=Newcastle sign Mohamed Diamé from Hull City on a three-year contract|work=The Guardian|date=3 August 2016}}&lt;/ref&gt; Diamé scored his first goals for Newcastle when he scored twice in an [[EFL Cup]] win against [[Preston North End]] on 25 October 2016.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37686639|title=Newcastle 6–0 Preston North End|publisher=BBC|date=25 October 2016 |accessdate=26 October 2016}}&lt;/ref&gt;
+
+In October 2017 he had a training ground fight with teammate [[Jamaal Lascelles]]. The two players later apologised and offered to take the entire first team squad and staff out for lunch.&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/football/2017/10/13/newcastle-pair-say-sorry-training-ground-fight-offer-whole-squad/|title=Newcastle pair say sorry for training-ground fight and offer whole squad a free lunch|date=2017-10-13|work=The Telegraph|access-date=2018-04-06|language=en-GB|issn=0307-1235}}&lt;/ref&gt;
+
+==International career==
+On 22 March 2011, Diamé was called up to play for [[Senegal national football team|Senegal]], for whom he qualifies as his father was born in [[Dakar]].&lt;ref&gt;{{Cite news|url=http://www.wiganlatics.co.uk/page/NewsDetail/0,,10429~2322156,00.html|archive-url=https://archive.is/20120805212637/http://www.wiganlatics.co.uk/page/NewsDetail/0,,10429~2322156,00.html|dead-url=yes|archive-date=5 August 2012|title=International Rescue!|accessdate=22 March 2011|date=22 March 2011|publisher=Wigan Athletic F.C.}}&lt;/ref&gt; Diamé made his international debut later that month.&lt;ref name=NFT&gt;{{NFT player|pid=42803|accessdate=13 March 2017}}&lt;/ref&gt;
+
+In July 2012, Diamé was announced as one of three over-age players in Senegal's squad for the 2012 Olympics.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/18754732|title=Senegal leave Papiss Cisse out of Olympic squad|date=7 June 2012|publisher=BBC Sport}}&lt;/ref&gt; He scored his first international goal for Senegal on 26 March 2016 in a 2–0 win against Niger in a [[2017 Africa Cup of Nations qualification]] match.&lt;ref name = "Goal"&gt;{{cite web |url=https://int.soccerway.com/matches/2016/03/26/africa/africa-cup-of-nations-qualification/senegal/niger/2038151 |title=Senegal vs. Niger  2–0|work=Soccerway |publisher=Perform Group |accessdate=7 June 2016}}&lt;/ref&gt;
+
+He retired from international football in March 2017.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39256494|title=Mohamed Diame moves aside for new Senegal stars|date=13 March 2017|accessdate=13 March 2017|author=Oluwashina Okeleji|publisher=BBC Sport}}&lt;/ref&gt;
+
+==Personal life==
+Diamé is Muslim.&lt;ref&gt;{{cite news|last=Din|first=Tusdiq|url=https://www.independent.co.uk/sport/football/news-and-comment/fasting-and-football-how-do-topflight-muslims-cope-2342187.html|title=Fasting and football. How do top-flight Muslims cope? |newspaper=The Independent |location=London |date=23 August 2011|accessdate=10 July 2013}}&lt;/ref&gt;
+
+==Career statistics==
+[[File:Mohamed Diamé.jpg|thumb|200px|Diame playing for [[Wigan Athletic F.C.|Wigan Athletic]] in 2010.]]
+
+===Club===
+{{updated|match played 2 March 2019}}
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|League Cup
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[RC Lens|Lens B]]
+|2005–06&lt;ref name=NFT/&gt;
+|[[Championnat de France Amateur|CFA]]
+|28||1||colspan=2|—||colspan=2|—||colspan=2|—||28||1
+|-
+|2006–07&lt;ref name=NFT/&gt;
+|CFA
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+!colspan=2|Total
+!28!!1!!colspan=2|—||colspan=2|—||colspan=2|—!!28!!1
+|-
+|[[CD Linares|Linares]]
+|[[2007–08 Segunda División B|2007–08]]&lt;ref&gt;{{cite web |url=http://www.bdfutbol.com/en/p/j9406.html?temp=2007-08 |title=Diamé: Mohamed Diamé: 2007–08 |publisher=BDFutbol |accessdate=14 September 2014}}&lt;/ref&gt;
+|[[Segunda División B]]
+|31||1||1||1||colspan=2|—||1&lt;ref group=lower-alpha&gt;Appearance in [[2008 Segunda División B play-offs|Segunda División B play-offs]]&lt;/ref&gt;||0||33||2
+|-
+|[[Rayo Vallecano]]
+|[[2008–09 Segunda División B|2008–09]]&lt;ref&gt;{{cite web |url=http://www.bdfutbol.com/en/p/j9406.html?temp=2008-09 |title=Diamé: Mohamed Diamé: 2008–09 |publisher=BDFutbol |accessdate=14 September 2014}}&lt;/ref&gt;
+|[[Segunda División]]
+|35||1||2||0||colspan=2|—||colspan=2|—||37||1
+|-
+|rowspan=4|[[Wigan Athletic F.C.|Wigan Athletic]]
+|[[2009–10 Wigan Athletic F.C. season|2009–10]]&lt;ref&gt;{{soccerbase season|52080|2009|accessdate=7 June 2016}}&lt;/ref&gt;
+|[[Premier League]]
+|34||1||2||0||1||0||colspan=2|—||37||1
+|-
+|[[2010–11 Wigan Athletic F.C. season|2010–11]]&lt;ref&gt;{{soccerbase season|52080|2010|accessdate=7 June 2016}}&lt;/ref&gt;
+|Premier League
+|36||1||3||2||1||0||colspan=2|—||40||3
+|-
+|[[2011–12 Wigan Athletic F.C. season|2011–12]]&lt;ref&gt;{{soccerbase season|52080|2011|accessdate=7 June 2016}}&lt;/ref&gt;
+|Premier League
+|26||3||0||0||0||0||colspan=2|—||26||3
+|-
+!colspan=2|Total
+!96!!5!!5!!2!!2!!0!!colspan=2|—!!103!!7
+|-
+|rowspan=4|[[West Ham United F.C.|West Ham United]]
+|[[2012–13 West Ham United F.C. season|2012–13]]&lt;ref&gt;{{soccerbase season|52080|2012|accessdate=7 June 2016}}&lt;/ref&gt;
+|Premier League
+|33||3||1||0||0||0||colspan=2|—||34||3
+|-
+|[[2013–14 West Ham United F.C. season|2013–14]]&lt;ref&gt;{{soccerbase season|52080|2013|accessdate=7 June 2016}}&lt;/ref&gt;
+|Premier League
+|35||4||0||0||6||0||colspan=2|—||41||4
+|-
+|[[2014–15 West Ham United F.C. season|2014–15]]&lt;ref name = "2014-15"&gt;{{soccerbase season|52080|2014|accessdate=7 June 2016}}&lt;/ref&gt;
+|Premier League
+|3||0||0||0||1||0||colspan=2|—||4||0
+|-
+!colspan=2|Total
+!71!!7!!1!!0!!7!!0!!colspan=2|—!!79!!7
+|-
+|rowspan=3|[[Hull City A.F.C.|Hull City]]
+|[[2014–15 Hull City A.F.C. season|2014–15]]&lt;ref name = "2014-15"/&gt;
+|Premier League
+|12||4||0||0||0||0||colspan=2|—||12||4
+|-
+|[[2015–16 Hull City A.F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|52080|2015|accessdate=7 June 2016}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|38||9||1||0||3||0||3&lt;ref group=lower-alpha&gt;Appearances in [[2016 Football League play-offs#Championship|Championship play-offs]]&lt;/ref&gt;||1||45||10
+|-
+!colspan=2|Total
+!50!!13!!1!!0!!3!!0!!3!!1!!57!!14
+|-
+|rowspan=4|[[Newcastle United F.C.|Newcastle United]]
+|[[2016–17 Newcastle United F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|52080|2016|accessdate=3 August 2016}}&lt;/ref&gt;
+|Championship
+|37||3||0||0||4||3||colspan=2|—||41||6
+|-
+|[[2017–18 Newcastle United F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|52080|2017|accessdate=27 August 2017}}&lt;/ref&gt;
+|Premier League
+|31||2||1||0||1||0||colspan=2|—||33||2
+|-
+|[[2018–19 Newcastle United F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|52080|2018|accessdate=27 November 2018}}&lt;/ref&gt;
+|Premier League
+|24||0||0||0||0||0||colspan=2|—||24||0
+|-
+!colspan=2|Total
+!92!!5!!1!!0!!5!!3!!0!!0!!98!!8
+|-
+!colspan=3|Career total
+!403!!33!!11!!3!!17!!3!!4!!1!!435!!40
+|}
+
+{{reflist|group=lower-alpha}}
+
+===International===
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=7|[[Senegal national football team|Senegal]]&lt;ref name=NFT/&gt;
+|2011||5||0
+|-
+|2012||8||0
+|-
+|2013||5||0
+|-
+|2014||5||0
+|-
+|2015||1||0
+|-
+|2016||5||1
+|-
+|2017||2||0
+|-
+!colspan=2|Total!!31!!1
+|}
+
+===International goals===
+{{updated|25 September 2016}}
+:''Scores and results list Senegal's goal tally first.
+{|class="wikitable plainrowheaders sortable"
+|-
+!Goal!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| 1. || 26 March 2016 || [[Stade Léopold Sédar Senghor]], [[Dakar]], Senegal || {{fb|NIG}} || align=center | '''1'''–0 || align=center | 2–0 || [[2017 Africa Cup of Nations qualification Group K|2017 Africa Cup of Nations qualification]]&lt;ref name = "Goal"/&gt;
+|}
+
+==Honours==
+'''Hull City'''
+*[[Football League Championship play-offs]]: [[2016 Football League play-offs#Championship|2016]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/36348885 |title=Hull City 1–0 Sheffield Wednesday |first=Adam |last=Williams |publisher=BBC Sport |date=28 May 2016 |accessdate=5 June 2016}}&lt;/ref&gt;
+
+'''Newcastle United'''
+*[[EFL Championship]]: [[2016–17 EFL Championship|2016–17]]&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Sky Sports Football Yearbook 2017–2018 |year=2017 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-3397-4 |pages=254–255}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Mohamed Diamé}}
+*[https://web.archive.org/web/20160622091801/http://www.hullcitytigers.com/team/player-profile/mohamed-diame/17 Mohamed Diamé profile] at the official [[Hull City A.F.C.]] website
+*{{Soccerbase}}
+
+{{Navboxes
+| title = Senegal squads
+| bg = green
+| fg = yellow
+| bordercolor = silver
+| list1 = 
+{{Senegal squad 2012 Africa Cup of Nations}}
+{{Senegal men's football squad 2012 Summer Olympics}}
+{{Senegal squad 2017 Africa Cup of Nations}}
+}}
+{{Newcastle United F.C. squad}}
+
+{{DEFAULTSORT:Diame, Mohamed}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Créteil]]
+[[Category:French people of Senegalese descent]]
+[[Category:French footballers]]
+[[Category:French expatriate footballers]]
+[[Category:French Muslims]]
+[[Category:Senegalese footballers]]
+[[Category:Senegal international footballers]]
+[[Category:Association football midfielders]]
+[[Category:RC Lens players]]
+[[Category:Segunda División players]]
+[[Category:Segunda División B players]]
+[[Category:CD Linares players]]
+[[Category:Rayo Vallecano players]]
+[[Category:Premier League players]]
+[[Category:Wigan Athletic F.C. players]]
+[[Category:West Ham United F.C. players]]
+[[Category:Hull City A.F.C. players]]
+[[Category:English Football League players]]
+[[Category:Newcastle United F.C. players]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Senegalese expatriate sportspeople in Spain]]
+[[Category:Senegalese expatriate sportspeople in England]]
+[[Category:2012 Africa Cup of Nations players]]
+[[Category:Olympic footballers of Senegal]]
+[[Category:Footballers at the 2012 Summer Olympics]]
+[[Category:2017 Africa Cup of Nations players]]
+[[Category:INF Clairefontaine players]]</text>
+      <sha1>3o077gpglsmm1wjkko08lfb78vpa6ap</sha1>
+    </revision>
+  </page>
+</mediawiki>

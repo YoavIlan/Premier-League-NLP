@@ -1,0 +1,491 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jonathan Walters</title>
+    <ns>0</ns>
+    <id>6551358</id>
+    <revision>
+      <id>885177816</id>
+      <parentid>885177420</parentid>
+      <timestamp>2019-02-26T13:03:42Z</timestamp>
+      <contributor>
+        <username>Kosack</username>
+        <id>4446447</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/161.112.232.102|161.112.232.102]] ([[User talk:161.112.232.102|talk]]) to last revision by MillsyOnWiki ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="63031">{{Use British English|date=June 2017}}
+{{Use dmy dates|date=October 2012}}
+{{Infobox football biography
+| name           = Jonathan Walters
+| image          = FIFA WC-qualification 2014 - Austria vs Ireland 2013-09-10 - Jon Walters 02.jpg
+| image_size     = 200
+| caption        = Walters playing for the [[Republic of Ireland national football team|Republic of Ireland]] in 2013
+| fullname       = Jonathan Ronald Walters&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1983|9|20|df=y}}&lt;ref&gt;{{cite web |title=Jonathan Walters |url=https://www.11v11.com/players/jon-walters-19613/ |website=11v11.com |publisher=AFS Enterprises |accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_place    = [[Moreton, Merseyside|Moreton]], England
+| height         = {{convert|1.83|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/2047/Jonathan-Walters/overview |title=Jonathan Walters: Overview |publisher=Premier League |accessdate=10 February 2018}}&lt;/ref&gt;
+| position       = [[Forward (association football)|Striker]]
+| currentclub    =[[Burnley F.C.|Burnley]]
+| clubnumber     = 19
+| youthyears1    =           | youthclubs1 = Shaftesbury
+| youthyears2    = 1998–2000 | youthclubs2 = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+| years1         = 2000–2001 |clubs1  = [[Blackburn Rovers F.C.|Blackburn Rovers]]            |caps1  = 0   |goals1  = 0
+| years2         = 2001–2004 |clubs2  = [[Bolton Wanderers F.C.|Bolton Wanderers]]            |caps2  = 4   |goals2  = 0
+| years3         = 2003      |clubs3  = → [[Hull City A.F.C.|Hull City]] (loan)               |caps3  = 11  |goals3  = 5
+| years4         = 2003      |clubs4  = → [[Crewe Alexandra F.C.|Crewe Alexandra]] (loan)     |caps4  = 0   |goals4  = 0
+| years5         = 2003–2004 |clubs5  = → [[Barnsley F.C.|Barnsley]] (loan)                   |caps5  = 8   |goals5  = 0
+| years6         = 2004–2005 |clubs6  = [[Hull City A.F.C.|Hull City]]                        |caps6  = 37  |goals6  = 2
+| years7         = 2005      |clubs7  = → [[Scunthorpe United F.C.|Scunthorpe United]] (loan) |caps7  = 3   |goals7  = 0
+| years8         = 2005–2006 |clubs8  = [[Wrexham A.F.C.|Wrexham]]                            |caps8  = 38  |goals8  = 5
+| years9         = 2006–2007 |clubs9  = [[Chester City F.C.|Chester City]]                    |caps9  = 26  |goals9  = 9
+| years10        = 2007–2010 |clubs10 = [[Ipswich Town F.C.|Ipswich Town]]                    |caps10 = 136 |goals10 = 30
+| years11        = 2010–2017 |clubs11 = [[Stoke City F.C.|Stoke City]]                        |caps11 = 226 |goals11 = 43
+| years12        = 2017–     |clubs12 = [[Burnley F.C.|Burnley]]                              |caps12 = 3   |goals12 = 0
+| years13        = 2018      |clubs13 = → [[Ipswich Town F.C.|Ipswich Town]] (loan)           |caps13 = 3   |goals13 = 0
+| pcupdate       = 07:04, 16 September 2018 (UTC)
+| nationalyears1 = 2003      | nationalteam1 = [[Republic of Ireland under-21 national football team|Republic of Ireland U21]] | nationalcaps1 = 1  | nationalgoals1 = 2
+| nationalyears2 = 2007      | nationalteam2 = [[Republic of Ireland B national football team|Republic of Ireland B]]          | nationalcaps2 = 1  | nationalgoals2 = 0
+| nationalyears3 = 2010–     | nationalteam3 = [[Republic of Ireland national football team|Republic of Ireland]]              | nationalcaps3 = 54 | nationalgoals3 = 14
+| ntupdate       = 17:47, 24 September 2018 (UTC)
+}}
+'''Jonathan Ronald Walters''' (born 20 September 1983) is a professional [[Association football|footballer]] who plays as a [[Forward (association football)|striker]] for [[Premier League]] club [[Burnley F.C.|Burnley]], and the [[Republic of Ireland national football team|Republic of Ireland national team]].
+
+Walters started his career at [[Blackburn Rovers F.C.|Blackburn Rovers]] but failed to break into the first team and joined [[Bolton Wanderers F.C.|Bolton Wanderers]]. Again he failed to establish himself and went out on loan to [[Hull City A.F.C.|Hull City]], [[Crewe Alexandra F.C.|Crewe Alexandra]] and [[Barnsley F.C.|Barnsley]] before joining Hull permanently. He then went on to play for [[Wrexham A.F.C.|Wrexham]] and [[Chester City F.C.|Chester City]] before finally finding regular football at [[EFL Championship|Championship]] side [[Ipswich Town F.C.|Ipswich Town]]. Walters spent three years at [[Portman Road]] before joining [[Stoke City F.C.|Stoke City]] for £2.75 million in August 2010. He helped Stoke reach the [[2011 FA Cup Final]] after scoring twice in the semi-final against Bolton Wanderers as Stoke won 5–0. Walters played 54 matches during the [[2011–12 Stoke City F.C. season|2011–12]] season and then played in [[UEFA Euro 2012]] with the Republic of Ireland. Walters remained a regular at Stoke under [[Tony Pulis]] and [[Mark Hughes]], scoring 62 goals in 271 appearances before joining Burnley in July 2017.
+
+Walters scored five times for the Republic of Ireland in 2015 during their successful [[UEFA Euro 2016 qualifying]] campaign, and was acknowledged with that year's FAI Senior International Player of the Year award.&lt;ref&gt;{{cite web|url= http://www.independent.ie/sport/soccer/international-soccer/we-were-written-off-in-the-qualifiers-and-im-sure-it-will-be-the-same-at-the-euros-jon-walters-scoops-international-player-of-the-year-award-34557004.html|title='We were written off in the qualifiers and I’m sure it will be the same at the Euros' – Jon Walters scoops international Player of the Year award|date=20 March 2016|work=Irish Independent|accessdate=12 June 2016}}&lt;/ref&gt;
+
+== Club career ==
+=== Blackburn Rovers ===
+Walters was born in [[Moreton, Merseyside|Moreton]], Merseyside&lt;ref&gt;{{Hugman|20442|accessdate=10 February 2018}}&lt;/ref&gt; and started his career at [[Blackburn Rovers F.C.|Blackburn Rovers]] having been spotted by playing for Shaftesbury under 16s in the Eastham &amp; District Junior League by Rovers' scout for Wirral and Wales, Mike O'Brien who moved quickly to sign him.
+
+{{Quote|"He was at Shaftesbury under-16s when I first decided he had something. I had been watching him for the previous two years but his physique wasn't what it should be. But once he got to 16 you could see him developing. He was always quick. He played against [[Tranmere Rovers F.C.|Tranmere Rovers]] and scored three for Merseyside Schools, so I made the decision to bring him in and he scored two against [[Manchester United F.C.|Manchester United]] on the Saturday and we signed him on the Monday. If a player is a bit special you need to make a quick decision. And it paid off because the gaffer ([[Graeme Souness]]) thinks a lot of him. But I'll never predict what he can do or if he is close to making the first team. All I will say is the lad is scoring goals for the reserves and if he continues to do that he's got a chance."|Blackburn Rovers scout Mike O'Brien on why he signed 16-year-old Jonathan Walters.&lt;ref&gt;{{cite web|title=Wirral's footballing Rovers; Exclusive report: Youngsters from Peninsula snapped up by Blackburn's youth Academy to train as stars of future.|url=http://www.thefreelibrary.com/Wirral's+footballing+Rovers%3b+Exclusive+report%3a+Youngsters+from...-a080334344|work=Liverpool Daily Post|accessdate=6 January 2013}}&lt;/ref&gt;}}
+
+He played for Blackburn's youth and reserve teams where he scored prolifically, helping the club reach the [[FA Youth Cup]] final in 2001, losing 6–3 on aggregate to [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite web|title=Seconds for young Guns; Blackburn 3 Arsenal 1 (Agg: 3–6).|url=http://www.thefreelibrary.com/FOOTBALL%3a+Seconds+for+young+Guns%3b+Blackburn+3+Arsenal+1+(Agg%3a+3-6).-a074910692|work=The Mirror|accessdate=6 January 2013}}&lt;/ref&gt; However his promising career with Rovers was ended due to a 'serious breach of club discipline' which was described as 'totally out of character' and saw him suspended by the club.&lt;ref&gt;{{cite web|title=Blackburn suspend Irish star in new club scandal|url=http://www.thefreelibrary.com/Football%3a+Blackburn+suspend+Irish+star+in+new+club+scandal.-a084286468|work=The People|accessdate=6 January 2013}}&lt;/ref&gt;
+
+=== Bolton Wanderers ===
+He then joined [[Bolton Wanderers F.C.|Bolton Wanderers]] for a fee of £50,000 following interest from numerous clubs. He played in four Premier League games for Bolton making his professional debut as an 85th-minute substitute in a 2–1 defeat to [[Charlton Athletic F.C.|Charlton Athletic]], before signing for [[Hull City A.F.C.|Hull City]] on loan in 2003.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/2858585.stm|title=Hull keep Walters|accessdate=18 August 2010 |publisher=BBC Sport | date=21 March 2003}}&lt;/ref&gt; On his debut for Hull Walters scored twice in a 5–1 win over [[Carlisle United F.C.|Carlisle United]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/2789929.stm|title=Carlisle 1–5 Hull |accessdate=31 October 2010 |publisher=BBC Sport |date=1 March 2003}}&lt;/ref&gt; Following his loan spell at Hull, Walters returned to Bolton, where he again went out on loan, this time to [[Crewe Alexandra F.C.|Crewe Alexandra]]&lt;ref&gt;{{cite web|url=http://origin-www.crewealex.net/page/NewsDetail/0,,10414~409455,00.html |title=Walters keen to show what he can do |accessdate=18 August 2010 |publisher=crewealex.net }}{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; however he failed to make an appearance for Crewe due to a tooth infection. In the [[2003–04 Barnsley F.C. season|2003–04 season]] he joined [[Barnsley F.C.|Barnsley]] on loan and played eight league games for the "Tykes".&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/3264815.stm|title=Walters joins Tykes |publisher=BBC Sport |date=6 April 2011}}&lt;/ref&gt;
+
+=== Hull City ===
+Walters signed for [[Hull City A.F.C.|Hull City]] for a second time in 2004, this time on a permanent transfer.&lt;ref&gt;{{cite web|url=http://www.hullcityafc.net/page/NewsDetail/0,,10338~350371,00.html |title=Walters Included As Tigers Seek Victory |accessdate=18 August 2010 |publisher=hullcityafc.net |deadurl=yes |archiveurl=https://web.archive.org/web/20120329135210/http://www.hullcityafc.net/page/NewsDetail/0%2C%2C10338~350371%2C00.html |archivedate=29 March 2012 |df= }}&lt;/ref&gt; In February 2005, he joined [[Scunthorpe United F.C.|Scunthorpe United]] on a one-month loan deal and made three appearances for the "Iron".&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/4224123.stm|title=Scunthorpe snap up Angus on loan|accessdate=31 October 2010 |publisher=BBC Sport|date=31 January 2005}}&lt;/ref&gt;
+
+=== Wrexham ===
+After scoring only three goals for Hull in two seasons, Walters was sold to [[EFL League Two|League Two]] side [[Wrexham A.F.C.|Wrexham]].&lt;ref&gt;{{cite web |url=http://www.bbc.co.uk/humber/content/articles/2005/07/01/010705_hullcity_feature.shtml|title=Tigers sell striker|accessdate=18 August 2010 |publisher=BBC Sport}}&lt;/ref&gt; Upon signing for the cash-strapped club, Walters believed that he made the right choice moving closer to his Merseyside home.&lt;ref&gt;{{cite web|title=Walters upbeat on Wrexham future|url=http://news.bbc.co.uk/sport1/hi/football/4644673.stm|work=BBC Sport|accessdate=6 January 2013}}&lt;/ref&gt; He played in 41 matches for the "Dragons" in the [[2005–06 Wrexham F.C. season|2005–06]] season, scoring against [[Cheltenham Town F.C.|Cheltenham Town]], [[Stockport County F.C.|Stockport County]], [[Torquay United F.C.|Torquay United]] (twice) and [[Mansfield Town F.C.|Mansfield Town]].&lt;ref&gt;{{cite web|title=Wrexham 2–0 Cheltenham|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/4211094.stm|work=BBC Sport|accessdate=6 January 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Wrexham 4–2 Torquay|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/4322342.stm|work=BBC Sport|accessdate=6 January 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Wrexham 4–1 Mansfield|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/4494624.stm|work=BBC Sport|accessdate=6 January 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Wrexham 3–0 Stockport|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/4277930.stm|work=BBC Sport|accessdate=6 January 2013}}&lt;/ref&gt;
+
+=== Chester City ===
+He spent the 2005–06 season at Wrexham before he joined their [[Cross-border derby|rivals]] [[Chester City F.C.|Chester City]] in 2006.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/5105268.stm|title=Walters completes Chester switch|accessdate=18 August 2010 |publisher=BBC Sport | date=23 June 2006}}&lt;/ref&gt; Walters thrived under the management of [[Mark Wright (footballer, born 1963)|Mark Wright]] and scored ten goals in 33 matches.&lt;ref name="2006/07" /&gt; He impressed in an FA Cup tie against [[Ipswich Town F.C.|Ipswich Town]], prompting Ipswich manager [[Jim Magilton]] to make a £100,000 bid for Walters, which was accepted.&lt;ref&gt;{{cite web|title=Jonathan Walters: How Chester FC helped turn the striker into a Premier League star and Irish national hero|url=http://www.chesterchronicle.co.uk/sport/football/football-news/jonathan-walters-how-chester-fc-10456391?|website=The Chester Cronicle|accessdate=17 November 2015}}&lt;/ref&gt;
+
+=== Ipswich Town ===
+[[File:Jonathan Walters.png|thumb|right|Walters playing for Ipswich Town in 2007]]
+Walters agreed terms with Ipswich on a deal worth £100,000 plus add-ons in mid-January 2007, having impressed in [[FA Cup]] ties between the clubs earlier in the month.&lt;ref&gt;{{cite web|title=New boy Jon looking up |publisher=Ipswich Town Football Club |date=26 January 2007 |url=http://www.itfc.co.uk/page/NewsDetail/0,,10272~971363,00.html |accessdate=14 February 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120328113055/http://www.itfc.co.uk/page/NewsDetail/0%2C%2C10272~971363%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt; He made his debut for Ipswich on 30 January 2007 in a 0–0 draw at [[Stoke City F.C.|Stoke City]].&lt;ref&gt;{{cite web|url=http://www.itfc.co.uk/page/MatchReport/0,,10272~34280,00.html |title=Stoke City vs Ipswich Town |accessdate=4 June 2011 |publisher=itfc.com |deadurl=yes |archiveurl=https://web.archive.org/web/20120328112733/http://www.itfc.co.uk/page/MatchReport/0%2C%2C10272~34280%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt; Walters scored his first goal for Ipswich in their 2–1 victory over [[Queens Park Rangers F.C.|Queens Park Rangers]] at [[Portman Road]] on 3 March 2007.&lt;ref&gt;{{cite web|title=Ipswich Town 2–1 QPR |publisher=Ipswich Town Football Club |date=3 March 2007 |url=http://www.itfc.premiumtv.co.uk/page/MatchReport/0,,10272~33815,00.html |accessdate=14 February 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080516192312/http://www.itfc.premiumtv.co.uk/page/MatchReport/0%2C%2C10272~33815%2C00.html |archivedate=16 May 2008 |df= }}&lt;/ref&gt; Walters ended the [[2006–07 Ipswich Town F.C. season|2006–07 season]] with goals against [[Barnsley F.C.|Barnsley]] and a brace on the final day of the season against Cardiff City.&lt;ref&gt;{{cite web|title=Ipswich 5–1 Barnsley|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/6513491.stm|work=BBC Sport|accessdate=24 June 2013|date=7 April 2007}}&lt;/ref&gt;
+
+He scored his first ever senior hat-trick in the 6–0 win over [[Bristol City F.C.|Bristol City]] in November 2007 at Portman Road,&lt;ref&gt;{{cite web|title=Jon celebrates in style |publisher=Ipswich Town Football Club |date=10 November 2007 |url=http://www.itfc.co.uk/page/NewsDetail/0,,10272~1165040,00.html |accessdate=14 February 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120328113125/http://www.itfc.co.uk/page/NewsDetail/0%2C%2C10272~1165040%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Town 6–0 Bristol City |publisher=Ipswich Town Football Club |date=10 November 2007 |url=http://www.itfc.co.uk/page/NewsDetail/0,,10272~1164866,00.html |accessdate=14 February 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120328113159/http://www.itfc.co.uk/page/NewsDetail/0%2C%2C10272~1164866%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt; in the same week he received a call-up to the [[Republic of Ireland B national football team|Republic of Ireland B]] squad.&lt;ref name="Jon gets B call"&gt;{{cite web |url=http://origin-www.itfc.premiumtv.co.uk/page/NewsDetail/0,,10272~1163323,00.html|title=Jon gets B call  |accessdate=31 October 2010 |publisher=ipswichtownfc.com}}&lt;/ref&gt; On 12 January 2008, he extended his contract with Ipswich until 2011.&lt;ref&gt;{{cite web|title=Jon signs new deal |publisher=Ipswich Town Football Club |date=12 January 2008 |url=http://www.itfc.co.uk/page/NewsDetail/0,,10272~1213443,00.html |accessdate=14 February 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120328113244/http://www.itfc.co.uk/page/NewsDetail/0%2C%2C10272~1213443%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt; He had surgery on a niggling knee problem on 19 March 2008 and returned to action against [[Norwich City F.C.|Norwich City]] on 13 April in half the expected time. Walters played 41 times for Ipswich scoring 13 goals in [[2007–08 Ipswich Town F.C. season|2007–08]] as the Tractor Boys missed out on a play-off place by just one point.&lt;ref&gt;{{cite web|title=Ipswich 1–0 Hull|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/7368621.stm|work=BBC Sport|accessdate=24 June 2013|date=4 May 2008}}&lt;/ref&gt; His performances during the season earned him the [[Ipswich Town F.C. Player of the Year|Player of the Year]] and Players' Player of the Year awards.&lt;ref&gt;{{cite web|title=Jon Honoured |publisher=Ipswich Town Football Club |date=23 April 2008 |url=http://www.itfc.co.uk/page/NewsDetail/0,,10272~1296233,00.html |accessdate=23 April 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120328113258/http://www.itfc.co.uk/page/NewsDetail/0%2C%2C10272~1296233%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Double joy for Ipswich's Walters|url=http://news.bbc.co.uk/sport1/hi/football/7362403.stm|work=BBC Sport|accessdate=24 June 2013|date=23 April 2008}}&lt;/ref&gt;
+
+The [[2008–09 Ipswich Town F.C. season|2008–09 season]] saw Walters again play 41 matches, scoring seven goals as Ipswich failed to build on last season and finished in 9th position.
+
+The [[2009–10 Ipswich Town F.C. season|2009–10]] season under the management of [[Roy Keane]] saw Ipswich struggle to score goals with Walters top-scoring with only eight and Ipswich finished the season in a poor 15th position.&lt;ref&gt;{{cite web|title=Roy Keane eyes new Ipswich frontman|url=http://news.bbc.co.uk/sport1/hi/football/8688124.stm|work=BBC Sport|accessdate=24 June 2013|date=17 May 2010}}&lt;/ref&gt; In August 2010, Walters expressed to Roy Keane his desire to leave [[Portman Road]] after Stoke City made an offer for him.&lt;ref&gt;{{cite web|title=Ipswich Town yet to accept Jon Walters bid|url=http://news.bbc.co.uk/sport1/hi/football/8909508.stm|work=BBC Sport|accessdate=24 June 2013|date=12 August 2010}}&lt;/ref&gt;
+
+=== Stoke City ===
+On 18 August 2010, Walters joined [[Premier League]] side [[Stoke City F.C.|Stoke City]] for an initial £2.75 million fee on a four-year contract.&lt;ref&gt;{{cite web|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2126776,00.html |title=City Complete Swoop For Walters |accessdate=18 August 2010 |publisher=Stoke City F.C |deadurl=yes |archiveurl=https://web.archive.org/web/20100819224036/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2126776%2C00.html |archivedate=19 August 2010 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Stoke sign striker Jon Walters from Ipswich for £2.75m|url=http://news.bbc.co.uk/sport1/hi/football/8925794.stm|work=BBC Sport|accessdate=4 June 2013|date=18 August 2010}}&lt;/ref&gt; He made his Stoke debut on 21 August 2010 against [[Tottenham Hotspur F.C.|Tottenham Hotspur]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8928595.stm|title=Stoke 1–2 Tottenham|accessdate=21 August 2010 |publisher=BBC Sport | date=21 August 2010}}&lt;/ref&gt; He scored his first goal on 24 August 2010 in a 2–1 [[Football League Cup]] win over [[Shrewsbury Town F.C.|Shrewsbury Town]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/league_cup/8936716.stm|title=Stoke 2–1 Shrewsbury |publisher=BBC Sport |date=24 August 2010}}&lt;/ref&gt; He scored his first league goal for Stoke on 2 October 2010 in a 1–0 win over [[Blackburn Rovers F.C.|Blackburn Rovers]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9044216.stm|title=Stoke 1–0 Blackburn |publisher=BBC Sport |date=4 October 2010}}&lt;/ref&gt; After the match, Walters earned praise from his former manager [[Sam Allardyce]],&lt;ref&gt;{{cite news|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2172816,00.html |title=Allardyce Praise For Walters |publisher=Stoke City F.C |date=4 October 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101006022923/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2172816%2C00.html |archivedate= 6 October 2010 |df= }}&lt;/ref&gt; and City manager [[Tony Pulis]].&lt;ref&gt;{{cite news|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2173471,00.html |title=Walters An Inspiration To Others |publisher=Stoke City F.C |date=4 October 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101005050634/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2173471%2C00.html |archivedate= 5 October 2010 |df= }}&lt;/ref&gt; In November, Walters scored twice for Stoke in a 3–0 win over [[West Bromwich Albion F.C.|West Bromwich Albion]], the first goal coming from the penalty spot and the other via a rebound from [[Scott Carson]].&lt;ref&gt;{{cite news|url=http://www.stokecityfc.com/page/MatchReport/0,,10310~51845,00.html |title=Two-Goal Walters Seals City Triumph |publisher=Stoke City F.C |date=21 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110122105034/http://www.stokecityfc.com/page/MatchReport/0%2C%2C10310~51845%2C00.html |archivedate=22 January 2011 |df= }}&lt;/ref&gt;
+
+In January 2011, Walters scored twice for City in a 2–0 [[FA Cup]] third round replay win at [[Cardiff City F.C.|Cardiff City]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/9363849.stm|title=Cardiff 0–2 Stoke |publisher=BBC Sport |date=19 January 2011}}&lt;/ref&gt; It took him until the end of March 2011 to find the back of the net in the Premier League again, scoring in a 4–0 win over [[Newcastle United F.C.|Newcastle United]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9426553.stm|title=Stoke 4–0 Newcastle|publisher=BBC Sport |date=4 April 2011}}&lt;/ref&gt; He scored in the next match against [[Chelsea F.C.|Chelsea]] and was named as [[Man of the Match]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9439822.stm|title=Stoke 1–1 Chelsea|publisher=BBC Sport |date=4 April 2011}}&lt;/ref&gt; Following the match, Tony Pulis spoke of his delight at Walters' improved performances. "Jon's come from the Championship and sometimes it takes time to have the confidence and the belief to make the step up. He had an up-and-down start but he's been fantastic for us. He's certainly my type of player, he gives everything, he never stops and whatever you've paid him, you know he's earned it."&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/9445107.stm|title=Stoke City striker Jon Walters gets plaudits from Pulis|publisher=BBC Sport |date=4 April 2011}}&lt;/ref&gt;
+
+Walters scored twice in Stoke's 5–0 rout over former club [[Bolton Wanderers F.C.|Bolton Wanderers]] in the [[FA Cup semi-final]] at [[Wembley Stadium|Wembley]] to help Stoke into their first [[FA Cup Final]].&lt;ref&gt;{{cite web|url=http://www.stokecityfc.com/page/MatchReport/0,,10310~55033,00.html |title=Rampant City Make History |accessdate=18 April 2011 |publisher=Stoke City F.C |deadurl=yes |archiveurl=https://web.archive.org/web/20110421073119/http://www.stokecityfc.com/page/MatchReport/0%2C%2C10310~55033%2C00.html |archivedate=21 April 2011 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/9457501.stm|title=Bolton 0–5 Stoke|accessdate=18 April 2011|publisher=BBC Sport|date=17 April 2011}}&lt;/ref&gt; Walters described it as the pinnacle of his career.&lt;ref&gt;{{cite web|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2340913,00.html |title='The Pinnacle Of My Career' – Walters |accessdate=18 April 2011 |publisher=Stoke City F.C |deadurl=yes |archiveurl=https://web.archive.org/web/20110419190631/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2340913%2C00.html |archivedate=19 April 2011 |df= }}&lt;/ref&gt; Walters ended the [[2010–11 Stoke City F.C. season|2010–11 season]] as joint top goalscorer with [[Kenwyne Jones]], both having scored 12 goals.&lt;ref&gt;{{cite web|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2367930,00.html |title=Kenwyne's Aim |accessdate=6 June 2011 |publisher=Stoke City F.C |deadurl=yes |archiveurl=https://web.archive.org/web/20110601211957/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2367930%2C00.html |archivedate= 1 June 2011 |df= }}&lt;/ref&gt; His first goal against Bolton in the semi-final won Goal of the Season.&lt;ref&gt;{{cite web|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2365597,00.html |title=Huth And Walters Scoop Top Awards |accessdate=6 June 2011 |publisher=Stoke City F.C |deadurl=yes |archiveurl=https://web.archive.org/web/20110526235433/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2365597%2C00.html |archivedate=26 May 2011 |df= }}&lt;/ref&gt; He played in the [[2011 FA Cup Final]] against [[Manchester City F.C.|Manchester City]] as Stoke lost 1–0.&lt;ref&gt;{{cite web|title=Man City 1–0 Stoke|url=https://www.bbc.co.uk/sport/0/football/13346941|work=BBC Sport|accessdate=5 June 2013}}&lt;/ref&gt;
+
+Walters played in his first European match on 28 July against [[HNK Hajduk Split|Hajduk Split]] where he scored the only goal in a 1–0 Stoke win.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/europe/14321291.stm|title=Stoke 1–0 Hajduk Split|accessdate=29 July 2011|publisher=BBC Sport|date=28 July 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.skysports.com/football/match_report/0,19764,11065_3427718,00.html? |title=Stoke 1–0 Hajduk |accessdate=29 July 2011 |publisher=skysports |deadurl=yes |archiveurl=https://web.archive.org/web/20121023173050/http://www.skysports.com/football/match_report/0%2C19764%2C11065_3427718%2C00.html |archivedate=23 October 2012 |df= }}&lt;/ref&gt; He signed a 12-month contract extension in August 2011.&lt;ref&gt;{{cite web|title=Walters agrees extended stay|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Walters-agrees-extended-stay/story-13165195-detail/story.html#axzz2V5taEzKG|work=The Sentinel|accessdate=4 June 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20110914001753/http://www.thisisstaffordshire.co.uk/Stoke-City-Walters-agrees-extended-stay/story-13165195-detail/story.html#axzz2V5taEzKG|archivedate=14 September 2011|df=dmy-all}}&lt;/ref&gt; Walters went on to play in 31 matches during the first half of the [[2011–12 Stoke City F.C. season|2011–12 season]] scoring seven goals.&lt;ref&gt;{{cite web|title=I'm up for FA Cup trip, vows marathon man Walters|url=http://www.thisisstaffordshire.co.uk/story-14323823-detail/story.html?|work=The Sentinel|accessdate=4 January 2012}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Stoke striker Jonathan Walters: I don't need a break|url=http://news.bbc.co.uk/sport1/hi/football/16410386.stm|work=BBC Sport|accessdate=4 January 2012}}&lt;/ref&gt; In March 2012, Walters won the Sir Stanley Matthews Potteries Footballers of the Year award for 2012.&lt;ref&gt;{{cite web|title=Walters and Loft pick up prestigious Sir Stan Matthews award|url=http://www.thisisstaffordshire.co.uk/story-15516985-detail/story.html?|work=The Sentinel|accessdate=14 March 2012}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; Speaking after picking up the award, Walters revealed that he would like to remain at Stoke for the rest of his career.&lt;ref&gt;{{cite web|title=Top Potter Walters wants to stay a Stokie|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Potter-Walters-wants-stay-Stokie/story-15516920-detail/story.html|work=The Sentinel|accessdate=14 March 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120316221243/http://www.thisisstaffordshire.co.uk/Stoke-City-Potter-Walters-wants-stay-Stokie/story-15516920-detail/story.html|archivedate=16 March 2012|df=dmy-all}}&lt;/ref&gt; By 21 April 2012, Walters had played in 50 matches during the [[2011–12 Stoke City F.C. season|2011–12 campaign]] and scored nine goals of which five were penalties. This led to Walters being criticised by some Stoke supporters but he was backed by his manager.&lt;ref&gt;{{cite web|title=Pulis sticks with hard-working Walters|url=http://www.thisisstaffordshire.co.uk/story-15890985-detail/story.html?|work=The Sentinel|accessdate=23 April 2012}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; On his 100th appearance for Stoke, Walters scored twice against his old club Bolton Wanderers in a 2–2 draw, a result which relegated the "Trotters".&lt;ref&gt;{{cite web|title=Stoke 2–2 Bolton|url=https://www.bbc.co.uk/sport/0/football/17973085|work=BBC Sport|accessdate=13 May 2012}}&lt;/ref&gt;
+[[File:Nacho Monreal &amp; Jonathan Walters (8438734033).jpg|thumb|left|250px|Walters (right) playing for Stoke City in 2013]]
+
+Walters continued to be a virtual ever-present in the [[2012–13 Stoke City F.C. season|2012–13]] season as he went on to make a club-record 61 consecutive Premier League starts by 3 November 2012.&lt;ref&gt;{{cite web|title=Tony Pulis threatens axe ahead of QPR clash|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Tony-Pulis-threatens-axe-ahead-QPR/story-17246209-detail/story.html|work=The Sentinel|accessdate=1 December 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20121213150729/http://www.thisisstaffordshire.co.uk/Stoke-City-Tony-Pulis-threatens-axe-ahead-QPR/story-17246209-detail/story.html|archivedate=13 December 2012|df=dmy-all}}&lt;/ref&gt; He scored a well-worked set-piece in a 1–1 draw against [[West Ham United F.C.|West Ham United]] which earned praise from pundit [[Gary Neville]].&lt;ref&gt;{{cite web|title=Gary Neville was spot on, Jon Walters scored a good goal, says Tony Pulis|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Gary-Neville-spot-Jon-Walters-scored/story-17412272-detail/story.html|work=The Sentinel|accessdate=1 December 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20130116152609/http://www.thisisstaffordshire.co.uk/Stoke-City-Gary-Neville-spot-Jon-Walters-scored/story-17412272-detail/story.html|archivedate=16 January 2013|df=dmy-all}}&lt;/ref&gt; He scored twice against [[Liverpool F.C.|Liverpool]] on Boxing Day 2012 in a 3–1 victory.&lt;ref&gt;{{cite web|title=Stoke 3–1 Liverpool|url=https://www.bbc.co.uk/sport/0/football/20778968|work=BBC Sport|accessdate=26 December 2012}}&lt;/ref&gt;
+
+On 12 January 2013, whilst playing against [[Chelsea F.C.|Chelsea]], Walters scored two own goals becoming only the fourth player to do so in the Premier League, he also missed a penalty in the match as Stoke lost 4–0.&lt;ref&gt;{{cite web|title=Stoke 0–4 Chelsea|url=https://www.bbc.co.uk/sport/0/football/20919045|work=BBC Sport|accessdate=12 January 2013}}&lt;/ref&gt; He made amends three days later, scoring twice in an FA Cup third round replay victory over [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{cite web|title=Stoke 4–1 Crystal Palace|url=https://www.bbc.co.uk/sport/0/football/20942588|work=BBC Sport|accessdate=16 January 2013}}&lt;/ref&gt; Walters played in every match in the 2012–13 season and was the club's top-scorer with 11 goals. The final game of the season against Southampton was his 89th consecutive league start.&lt;ref&gt;{{cite web|title=Jon Walters aiming to sign off for season with 10 goals|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Jon-Walters-aiming-sign-season-10/story-19013745-detail/story.html#axzz2TooHwWzk|work=The Sentinel|accessdate=20 May 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130608115657/http://www.thisisstaffordshire.co.uk/Stoke-City-Jon-Walters-aiming-sign-season-10/story-19013745-detail/story.html#axzz2TooHwWzk|archivedate=8 June 2013|df=dmy-all}}&lt;/ref&gt;
+
+Walters made a bad start to the [[2013–14 Stoke City F.C. season|2013–14]] season against [[Liverpool F.C.|Liverpool]]. After being awarded a last-minute penalty, he saw his shot easily saved by [[Simon Mignolet]] and Stoke went on to lose the match 1–0.&lt;ref&gt;{{cite web|title=Geoff Cameron pays tribute to Walters after Anfield penalty miss|url=http://www.thisisstaffordshire.co.uk/story-19677036-detail/story.html?#axzz2cOe7XenU|work=The Sentinel|accessdate=19 August 2013}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; However, despite this Walters insisted that he would not shy away from taking penalties.&lt;ref&gt;{{cite web|title=Jon Walters ready to take Stoke City's next penalty|url=http://www.thisisstaffordshire.co.uk/Jon-Walters-ready-Stoke-City-s-penalty/story-19685947-detail/story.html#axzz2cOe7XenU|work=The Sentinel|accessdate=22 August 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130824061600/http://www.thisisstaffordshire.co.uk/Jon-Walters-ready-Stoke-City-s-penalty/story-19685947-detail/story.html#axzz2cOe7XenU|archivedate=24 August 2013|df=dmy-all}}&lt;/ref&gt; On 10 November 2013, Walters featured in his 100th consecutive Premier League match and marked the occasion by scoring in a 3–3 draw with [[Swansea City A.F.C.|Swansea City]].&lt;ref&gt;{{cite web|title=Swansea 3–3 Stoke|url=https://www.bbc.co.uk/sport/0/football/24792968|work=BBC Sport|accessdate=10 November 2013}}&lt;/ref&gt; His run of 102 consecutive league starts ended on 4 December 2013 against Cardiff City after picking up an injury.&lt;ref&gt;{{cite web|title=Stoke City v Cardiff City: Walters out, Arnautovic in|url=http://www.stokesentinel.co.uk/Stoke-City-v-Cardiff-City-Walters-Arnautovic/story-20259081-detail/story.html|work=Stoke Sentinel|accessdate=5 December 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131206090715/http://www.stokesentinel.co.uk/Stoke-City-v-Cardiff-City-Walters-Arnautovic/story-20259081-detail/story.html|archivedate=6 December 2013|df=dmy-all}}&lt;/ref&gt; Walters scored a penalty against [[Arsenal F.C.|Arsenal]] in a 1–0 win on 1 March 2014.&lt;ref&gt;{{cite web|title=Stoke 1–0 Arsenal|url=https://www.bbc.co.uk/sport/0/football/26301137|work=BBC Sport|accessdate=1 March 2014}}&lt;/ref&gt; He also scored from the spot in the next match against [[Norwich City F.C.|Norwich City]] but was later sent off for the first time in his career for a high challenge on [[Alexander Tettey]].&lt;ref&gt;{{cite web|title=Norwich 1–1 Stoke|url=https://www.bbc.co.uk/sport/0/football/26396250|work=BBC Sport|accessdate=8 March 2014}}&lt;/ref&gt; Walters ended the 2013–14 season with five goals in 36 matches as the Potters finished in 9th position.&lt;ref name="2013/14" /&gt;
+
+Walters opened his account for the [[2014–15 Stoke City F.C. season|2014–15 season]] with a brace against [[Portsmouth F.C.|Portsmouth]] in the [[EFL Cup|League Cup]].&lt;ref&gt;{{cite web|title=Stoke 3–0 Portsmouth|url=https://www.bbc.co.uk/sport/0/football/28862713|website=BBC Sport|accessdate=17 November 2014}}&lt;/ref&gt; He also scored winning goals against Swansea City, [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite web|title=Stoke 2–1 Swansea|url=https://www.bbc.co.uk/sport/0/football/29586592|website=BBC Sport|accessdate=17 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Tottenham 1–2 Stoke|url=https://www.bbc.co.uk/sport/0/football/29868773|website=BBC Sport|accessdate=17 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Stoke 3–2 Arsenal|url=https://www.bbc.co.uk/sport/0/football/30257121|website=Stoke Sentinel|accessdate=11 December 2014}}&lt;/ref&gt; On 31 January 2015, Walters became the first Stoke player to score a [[List of Premier League hat-tricks|Premier League hat-trick]] in a 3–1 victory over [[Queens Park Rangers F.C.|Queens Park Rangers]].&lt;ref&gt;{{cite web|title=Stoke 3–1 QPR|url=https://www.bbc.co.uk/sport/0/football/30963548|website=BBC Sport|accessdate=31 January 2015}}&lt;/ref&gt; Walters scored his 50th Stoke goal on 24 May 2015 in a 6–1 victory against Liverpool.&lt;ref&gt;{{cite web|title=Stoke 6–1 Liverpool|url=https://www.bbc.co.uk/sport/0/football/32770765|website=BBC Sport|accessdate=27 May 2015}}&lt;/ref&gt; In total, he scored 11 goals in 36 appearances in 2014–15 as Stoke finished in ninth position for a second consecutive season.&lt;ref name="2014/15" /&gt;
+
+With Walters entering into the final year of his contract, Stoke rejected a bid from [[Norwich City F.C.|Norwich City]] at the start of the [[2015–16 Stoke City F.C. season|2015–16]] season.&lt;ref&gt;{{cite web|title=Jon Walters: Stoke City reject Norwich City's £1.5m bid|url=https://www.bbc.co.uk/sport/0/football/34015361|website=BBC Sport|accessdate=29 August 2015}}&lt;/ref&gt; Walters vented his frustration with contract talks claiming the club were undervaluing him.&lt;ref&gt;{{cite web|title=Jon Walters: Stoke striker does not feel 'valued' by contract offer|url=https://www.bbc.co.uk/sport/0/football/34073598|website=BBC Sport|accessdate=29 August 2015}}&lt;/ref&gt; This led to him handing in a transfer request but despite this he failed to secure a move away from the club.&lt;ref&gt;{{cite web|title=Why fans will surely forgive Jon Walters for that transfer request|url=http://www.stokesentinel.co.uk/Stoke-City-fans-surely-forgive-Jon-Walters/story-27716915-detail/story.html|website=Stoke Sentinel|accessdate=1 September 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150904205631/http://www.stokesentinel.co.uk/Stoke-City-fans-surely-forgive-Jon-Walters/story-27716915-detail/story.html|archivedate=4 September 2015|df=dmy-all}}&lt;/ref&gt; Walters then scored in back-to-back matches against Leicester City and Bournemouth.&lt;ref&gt;{{cite web|title=Stoke 2–2 Leicester|url=https://www.bbc.co.uk/sport/0/football/34191895|website=BBC Sport|accessdate=1 October 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Stoke 2–1 Bournemouth|url=https://www.bbc.co.uk/sport/0/football/34299638|website=BBC Sport|accessdate=1 October 2015}}&lt;/ref&gt; Chief executive Tony Scholes stated that he hoped the club could reach a 'compromise' with Walters over his contract.&lt;ref&gt;{{cite web|title=Jon Walters: Stoke chief executive Tony Scholes keen to compromise|url=https://www.bbc.co.uk/sport/0/football/34392088|website=BBC Sport|accessdate=1 October 2015}}&lt;/ref&gt; His contract dispute was resolved and he signed a new two-and-a-half-year deal with Stoke on 7 November 2015.&lt;ref&gt;{{cite web|title=Jon Walters: Stoke City forward signs new contract|url=https://www.bbc.co.uk/sport/0/football/34756677|website=BBC Sport|accessdate=7 November 2015}}&lt;/ref&gt; Walters played 33 times in 2015–16, scoring eight goals as the Potters again finished in ninth position.&lt;ref name="2015/16" /&gt;
+
+Walters played 24 times in [[2016–17 Stoke City F.C. season|2016–17]], scoring four goals as Stoke finished in 13th.&lt;ref name="2016/17" /&gt;&lt;ref&gt;{{cite web|title=Stoke 2016/17 Premier League season review|url=http://www.skysports.com/football/news/11701/10887143/stoke-201617-premier-league-season-review|website=Sky Sports|accessdate=22 May 2017}}&lt;/ref&gt;
+
+=== Burnley ===
+On 7 July 2017, Walters joined fellow Premier League side [[Burnley F.C.|Burnley]] on a two-year contract for a fee of £3 million.&lt;ref&gt;{{cite web|title=Walters Waltzes Into Turf Moor|url=https://www.burnleyfootballclub.com/news/2017/july/walters-joins-the-clarets/|publisher=Burnley F.C.|date=7 July 2017|accessdate=7 July 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=City forward joins Burnley in a £3M deal...|url=http://www.stokecityfc.com/news/walters-bids-farewell|publisher=Stoke City F.C.|first=Mark|last=Mothershaw|date=7 July 2017|accessdate=7 July 2017}}&lt;/ref&gt; He was restricted to just five appearances in the [[2017–18 Burnley F.C. season|2017–18 season]] as he struggled with a recurring knee injury and on his return to action wasn't able to force his way into [[Sean Dyche]]'s plans.&lt;ref&gt;{{cite news|url=https://www.irishmirror.ie/sport/soccer/soccer-news/jon-walters-expecting-leave-burnley-12592235|title=Jon Walters expecting to leave Burnley this summer|newspaper=Irish Mirror|publisher=Trinity Mirror|first=Paul|last=O'Hehir|date=24 May 2018|accessdate=6 June 2018}}&lt;/ref&gt;
+==== Loan return to Ipswich Town ====
+Walters re-joined Ipswich Town, on loan, on 30 August 2018.&lt;ref&gt;{{Cite web | url = http://www.eadt.co.uk/sport/jon-walters-back-at-ipswich-town-1-5674733 | work = [[East Anglian Daily Times]] | title = Jon Walters is back at Ipswich Town – striker joins on loan from Burnley ahead of East Anglian derby | first = Stuart | last = Watson|date = 31 August 2018 | accessdate = 31 August 2018}}&lt;/ref&gt; However, after making only three appearances for the club, Walters was ruled out for six months due to an Achilles injury on 26 September, making him unavailable for the rest of his loan spell at the club.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45658889|title=Jon Walters: Ipswich Town's on-loan Burnley striker out for six months|date=26 September 2018|publisher=BBC News|accessdate=21 October 2018}}&lt;/ref&gt;
+
+== International career ==
+[[File:FIFA WC-qualification 2014 - Austria vs Ireland 2013-09-10 - Jon Walters 01.jpg|thumbnail|Walters in action for the Republic of Ireland, September 2013.]]
+Walters qualifies to play for the [[Republic of Ireland national football team]] through his Irish mother. He made his international debut for [[Republic of Ireland national under-21 football team|Republic of Ireland U-21]] against [[Switzerland national under-21 football team|Switzerland U-21]] in October 2003, scoring twice in a 2–0 win.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/internationals/republic_of_ireland/3180626.stm|title=Irish U21s stun Swiss
+|publisher=BBC Sport |date=10 October 2003}}&lt;/ref&gt; He also played for the [[Republic of Ireland B national football team|Republic of Ireland B team]] against [[Scotland B national football team|Scotland B team]] in 2007.&lt;ref name="Jon gets B call" /&gt; In 2010, Ireland manager [[Giovanni Trapattoni]] stated that he could give Walters a call up to the national side in the future.&lt;ref&gt;{{cite news |url=http://www.skysports.com/story/0,19528,11095_6436761,00.html|title=Walters set for Irish chance|publisher=Skysports |date=31 October 2010}}&lt;/ref&gt; He was called up in November 2010 for the friendly match against [[Norway national football team|Norway]]&lt;ref&gt;{{cite news|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2209603,00.html |title=Walters Receives Ireland Call-Up |publisher=stokecityfc.com |date=5 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101110023327/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2209603%2C00.html |archivedate=10 November 2010 |df= }}&lt;/ref&gt; and was brought on as a half-time substitute in that game to make his senior international début.&lt;ref&gt;{{cite news|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2223952,00.html |title=Mixed Emotions For Walters |publisher=stokecityfc.com |date=18 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101121025739/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2223952%2C00.html |archivedate=21 November 2010 |df= }}&lt;/ref&gt; Walters was given the nod ahead of [[Simon Cox (footballer born 1987)|Simon Cox]] in the crucial [[UEFA Euro 2012 qualifying play-offs|Play-off]] game against [[Estonia national football team|Estonia]] and Walters repaid by scoring his first international goal in the 4–0 victory over [[Estonia national football team|Estonia]] in [[Tallinn]] in the first leg of the [[UEFA Euro 2012 qualifying play-offs]].&lt;ref&gt;{{cite news|url=http://www.rte.ie/sport/soccer/2011/1111/estonia_ireland_report.html |last=Houston |first=Rory |title=Estonia 0–4 Republic of Ireland |date=11 November 2011 |publisher=RTÉ Sport |deadurl=yes |archiveurl=https://web.archive.org/web/20111113005410/http://www.rte.ie/sport/soccer/2011/1111/estonia_ireland_report.html |archivedate=13 November 2011 |df= }}&lt;/ref&gt; On 26 March 2013, Walters scored two goals against [[Austria national football team|Austria]] before a late strike from [[David Alaba]] give the Austrians a 2–2 draw.
+
+Walters scored twice in a [[UEFA Euro 2016]] play-off against [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] on 16 November 2015 to earn Ireland a 2–0 victory and qualification to [[UEFA Euro 2016]].&lt;ref&gt;{{cite web|title=Jon Walters underlines Martin O’Neill’s Republic of Ireland philosophy|url=https://www.theguardian.com/football/blog/2015/nov/16/jon-walters-martin-o-neill-republic-of-ireland-bosnia-herzegovina-euro-2016-play-off|website=The Guardian|accessdate=16 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Martin O'Neill hopes Republic of Ireland can repeat glory days|url=https://www.bbc.co.uk/sport/0/football/34836710|website=BBC Sport|accessdate=16 November 2015}}&lt;/ref&gt;
+
+== Personal life ==
+Walters was brought up in [[Moreton, Merseyside]] and the house in which he lived was opposite a number of community football pitches.&lt;ref&gt;Stoke City official matchday magazine 13 September 2010&lt;/ref&gt; He grew up supporting [[Everton F.C.|Everton]].&lt;ref&gt;{{cite news |url=http://www.chesterchronicle.co.uk/chester-sport/liverpool-fc-news/2011/09/12/everton-fc-supporting-jon-walters-delighted-to-score-winner-for-stoke-city-against-liverpool-fc-59067-29404180/?|title=Everton FC-supporting Jon Walters delighted to score winner for Stoke City against Liverpool FC|publisher=Chester Chronicle |date=12 September 2011}}&lt;/ref&gt; He is married and has two daughters and a son.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/9437870.stm|title=Five Republic players released for Uruguay friendly|publisher=BBC Sport |date=27 March 2011}}&lt;/ref&gt; One of his daughters, Scarlett was born with [[gastroschisis]].&lt;ref&gt;{{cite news |url=http://www.uefa.com/uefaeuro/news/newsid=1818073.html|title=Walters counts his blessings with Ireland|publisher=UEFA |date=14 June 2012}}&lt;/ref&gt; His mother died when he was young and was brought up by his father James, along with his brothers Aidan and James and his sister Samantha.&lt;ref&gt;{{cite web|title=Old loyalties put on hold as Walters goes gunning for club he supported as a boy|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Old-loyalties-hold-Walters-goes/story-14030030-detail/story.html|work=The Sentinel|accessdate=3 December 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20130116152634/http://www.thisisstaffordshire.co.uk/Stoke-City-Old-loyalties-hold-Walters-goes/story-14030030-detail/story.html|archivedate=16 January 2013|df=dmy-all}}&lt;/ref&gt;
+
+== Career statistics ==
+
+=== Club ===
+{{updated|match played 22 September 2018}}&lt;ref name="JW"&gt;{{cite web|title=Jonathan Walters|url=http://www.soccerbase.com/players/player.sd?player_id=32939|work=Soccerbase|accessdate=1 July 2013}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|[[2000–01 Blackburn Rovers F.C. season|2000–01]]&lt;ref name="JW" /&gt;
+|[[Football League First Division|First Division]]
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|rowspan="4"|[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|[[2001–02 Bolton Wanderers F.C. season|2001–02]]&lt;ref name="JW" /&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|[[2002–03 Bolton Wanderers F.C. season|2002–03]]&lt;ref name="2002/03"&gt;{{Soccerbase season|id=32939|season=2002|accessdate=19 April 2017}}&lt;/ref&gt;
+|Premier League
+|4||0||1||0||1||0||colspan="2"|—||6||0
+|-
+|[[2003–04 Bolton Wanderers F.C. season|2003–04]]&lt;ref name="2003/04" /&gt;
+|Premier League
+|0||0||colspan="2"|—||0||0||colspan="2"|—||6||0
+|-
+!colspan="2"|Total
+!4!!0!!1!!0!!1!!0!!colspan="2"|—||6!!0
+|-
+|[[Hull City A.F.C.|Hull City]] (loan)
+|[[2002–03 Hull City A.F.C. season|2002–03]]&lt;ref name="2002/03" /&gt;
+|[[Football League Third Division|Third Division]]
+|11||5||colspan="2"|—||colspan="2"|—||colspan="2"|—||11||5
+|-
+|[[Crewe Alexandra F.C.|Crewe Alexandra]] (loan)
+|[[2002–03 Crewe Alexandra F.C. season|2002–03]]&lt;ref name="2002/03" /&gt;
+|[[Football League Second Division|Second Division]]
+|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[Barnsley F.C.|Barnsley]] (loan)
+|[[2003–04 Barnsley F.C. season|2003–04]]&lt;ref name="2003/04"&gt;{{Soccerbase season|id=32939|season=2003|accessdate=19 April 2017}}&lt;/ref&gt;
+|Second Division
+|8||0||3||0||colspan="2"|—||1{{efn|name=FLT|Appearances in [[Football League Trophy]]}}||0||12||0
+|-
+|rowspan="3"|[[Hull City A.F.C.|Hull City]]
+|[[2003–04 Hull City A.F.C. season|2003–04]]&lt;ref name="2003/04" /&gt;
+|Third Division
+|16||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||16||1
+|-
+|[[2004–05 Hull City A.F.C. season|2004–05]]&lt;ref name="2004/05"&gt;{{Soccerbase season|id=32939|season=2004|accessdate=19 April 2017}}&lt;/ref&gt;
+|[[Football League One|League One]]
+|21||1||2||1||1||0||1{{efn|name=FLT}}||0||25||2
+|-
+!colspan="2"|Total
+!37!!2!!2!!1!!1!!0!!1!!0!!41!!3
+|-
+|[[Scunthorpe United F.C.|Scunthorpe United]] (loan)
+|[[2004–05 Scunthorpe United F.C. season|2004–05]]&lt;ref name ="2004/05" /&gt;
+|[[Football League Two|League Two]]
+|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[Wrexham A.F.C.|Wrexham]]
+|[[2005–06 Wrexham F.C. season|2005–06]]&lt;ref name="2005/06"&gt;{{Soccerbase season|id=32939|season=2005|accessdate=19 April 2017}}&lt;/ref&gt;
+|League Two
+|38||5||1||0||1||0||1{{efn|name=FLT}}||0||41||5
+|-
+|[[Chester City F.C.|Chester City]]
+|[[2006–07 Chester City F.C. season|2006–07]]&lt;ref name="2006/07"&gt;{{Soccerbase season|id=32939|season=2006|accessdate=19 April 2017}}&lt;/ref&gt;
+|League Two
+|26||9||5||1||1||0||1{{efn|name=FLT}}||0||33||10
+|-
+|rowspan="6"|[[Ipswich Town F.C.|Ipswich Town]]
+|[[2006–07 Ipswich Town F.C. season|2006–07]]&lt;ref name="2006/07" /&gt;
+|[[Football League Championship|Championship]]
+|16||4||0||0||0||0||colspan="2"|—||16||4
+|-
+|[[2007–08 Ipswich Town F.C. season|2007–08]]&lt;ref name="2007/08"&gt;{{Soccerbase season|id=32939|season=2007|accessdate=19 April 2017}}&lt;/ref&gt;
+|Championship
+|40||13||0||0||1||0||colspan="2"|—||41||13
+|-
+|[[2008–09 Football League|2008–09]]&lt;ref name="2008/09"&gt;{{Soccerbase season|id=32939|season=2008|accessdate=19 April 2017}}&lt;/ref&gt;
+|Championship
+|36||5||2||1||3||1||colspan="2"|—||41||7
+|-
+|[[2009–10 Ipswich Town F.C. season|2009–10]]&lt;ref name="2009/10"&gt;{{Soccerbase season|id=32939|season=2009|accessdate=19 April 2017}}&lt;/ref&gt;
+|Championship
+|43||8||2||0||2||0||colspan="2"|—||47||8
+|-
+|[[2010–11 Ipswich Town F.C. season|2010–11]]&lt;ref name="2010/11"&gt;{{Soccerbase season|id=32939|season=2010|accessdate=19 April 2017}}&lt;/ref&gt;
+|Championship
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!136!!30!!4!!1!!6!!1!!colspan="2"|—||146!!32
+|-
+|rowspan="8"|[[Stoke City F.C.|Stoke City]]
+|[[2010–11 Stoke City F.C. season|2010–11]]&lt;ref name="2010/11" /&gt;
+|Premier League
+|36||6||7||5||3||1||colspan="2"|—||46||12
+|-
+|[[2011–12 Stoke City F.C. season|2011–12]]&lt;ref name="2011/12"&gt;{{Soccerbase season|id=32939|season=2011|accessdate=19 April 2017}}&lt;/ref&gt;
+|Premier League
+|38||7||4||2||2||0||10{{efn|Appearances in [[UEFA Europa League]]|name=UEL}}||2||54||11
+|-
+|[[2012–13 Stoke City F.C. season|2012–13]]&lt;ref name="2012/13"&gt;{{Soccerbase season|id=32939|season=2012|accessdate=19 April 2017}}&lt;/ref&gt;
+|Premier League
+|38||8||3||2||1||1||colspan="2"|—||42||11
+|-
+|[[2013–14 Stoke City F.C. season|2013–14]]&lt;ref name="2013/14"&gt;{{Soccerbase season|id=32939|season=2013|accessdate=19 April 2017}}&lt;/ref&gt;
+|Premier League
+|32||5||2||0||2||0||colspan="2"|—||36||5
+|-
+|[[2014–15 Stoke City F.C. season|2014–15]]&lt;ref name="2014/15"&gt;{{Soccerbase season|id=32939|season=2014|accessdate=19 April 2017}}&lt;/ref&gt;
+|Premier League
+|32||8||2||1||2||2||colspan="2"|—||36||11
+|-
+|[[2015–16 Stoke City F.C. season|2015–16]]&lt;ref name="2015/16"&gt;{{Soccerbase season|id=32939|season=2015|accessdate=19 April 2017}}&lt;/ref&gt;
+|Premier League
+|27||5||1||1||5||2||colspan="2"|—||33||8
+|-
+|[[2016–17 Stoke City F.C. season|2016–17]]&lt;ref name="2016/17"&gt;{{Soccerbase season|id=32939|season=2016|accessdate=19 April 2017}}&lt;/ref&gt;
+|Premier League
+|23||4||0||0||1||0||colspan="2"|—||24||4
+|-
+!colspan="2"|Total
+!226!!43!!19!!11!!16!!6!!10!!2!!271!!62
+|-
+|rowspan="3"|[[Burnley F.C.|Burnley]]
+|[[2017–18 Burnley F.C. season|2017–18]]&lt;ref name="2017/18"&gt;{{Soccerbase season|id=32939|season=2017|accessdate=9 August 2017}}&lt;/ref&gt;
+|Premier League
+|3||0||1||0||1||0||colspan="2"|—||5||0
+|-
+|[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name="2018/19"&gt;{{Soccerbase season|id=32939|season=2018|accessdate=12 August 2018}}&lt;/ref&gt;
+|Premier League
+|0||0||0||0||0||0||1{{efn|name=UEL}}||0||1||0
+|-
+!colspan="2"|Total
+!3!!0!!1!!0!!1!!0!!1!!0!!6!!0
+|-
+|Ipswich Town (loan)
+|[[2018–19 Ipswich Town F.C. season|2018–19]]&lt;ref name="2018/19"/&gt;
+|Championship
+|3||0||0||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+!colspan="3"|Career total
+!495!!94!!36!!14!!27!!7!!15!!2!!573!!117
+|}
+{{notelist}}
+
+=== International ===
+{{updated|match played 6 September 2018}}&lt;ref&gt;{{NFT player|pid=40668|accessdate=6 June 2011 }}&lt;/ref&gt;&lt;ref name="EUFI"&gt;{{cite web|title=Jon Walters|url=http://eu-football.info/_player.php?id=26210|website=EU-Football|accessdate=9 September 2015}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=10|[[Republic of Ireland national football team|Republic of Ireland]]
+|-
+|2010||1||0
+|-
+|2011||3||1
+|-
+|2012||10||1
+|-
+|2013||10||2
+|-
+|2014||6||1
+|-
+|2015||8||5
+|-
+|2016||8||2
+|-
+|2017||5||2
+|-
+|2018||3||0
+|-
+!colspan=2|Total!!54!!14
+|}
+
+=== International goals ===
+:''As of match played 6 September 2018. Ireland score listed first, score column indicates score after each Walters goal.''&lt;ref name="EUFI" /&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+!scope=col class=unsortable|{{abbr|Ref.|Reference}}
+|-
+!scope=row style="text-align: center"|1
+|11 November 2011||[[A. Le Coq Arena]], [[Tallinn]], Estonia||align=center|4||{{fb|Estonia}}||align=center|2–0||align=center|4–0||[[UEFA Euro 2012 qualifying play-offs|UEFA Euro 2012 qualifying]]||align=center|&lt;ref&gt;{{cite web|title=Euro 2012 play-off: Estonia 0–4 Republic of Ireland|url=https://www.bbc.co.uk/sport/football/15572442|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
+|-
+!scope=row style="text-align: center"|2
+|16 October 2012||[[Tórsvøllur]], [[Tórshavn]], Faroe Islands||align=center|14||{{fb|Faroe Islands}}||align=center|2–0||align=center|4–1||[[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification]]||align=center|&lt;ref&gt;{{cite web|title=Faroe Islands 1–4 Republic of Ireland|url=https://www.bbc.co.uk/sport/football/19954418|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
+|-
+!scope=row style="text-align: center"|3
+|rowspan=2|26 March 2013||rowspan=2|[[Aviva Stadium]], [[Dublin]], Ireland||rowspan=2 align=center|17||rowspan=2|{{fb|Austria}}||align=center|1–1||rowspan=2 align=center|2–2||rowspan=2|[[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification]]||rowspan=2 align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 2–2 Austria|url=https://www.bbc.co.uk/sport/football/21881461|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
+|-
+!scope=row style="text-align: center"|4
+|align=center|2–1
+|-
+!scope=row style="text-align: center"|5
+|25 May 2014||[[Aviva Stadium]], [[Dublin]], Ireland||align=center|26||{{fb|Turkey}}||align=center|1–2||align=center|1–2||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 1–2 Turkey|url=https://www.bbc.co.uk/sport/football/27565946|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
+|-
+!scope=row style="text-align: center"|6
+|13 June 2015||[[Aviva Stadium]], [[Dublin]], Ireland||align=center|33||{{fb|Scotland}}||align=center|1–0||align=center|1–1||[[UEFA Euro 2016 qualifying Group D|UEFA Euro 2016 qualifying]]||align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 1–1 Scotland|url=https://www.bbc.co.uk/sport/football/33033758|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
+|-
+!scope=row style="text-align: center"|7
+|7 September 2015||[[Aviva Stadium]], [[Dublin]], Ireland||align=center|35||{{fb|Georgia}}||align=center|1–0||align=center|1–0||[[UEFA Euro 2016 qualifying Group D|UEFA Euro 2016 qualifying]]||align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 1–0 Georgia|url=https://www.bbc.co.uk/sport/football/34063056|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
+|-
+!scope=row style="text-align: center"|8
+|11 October 2015||[[National Stadium, Warsaw|National Stadium]], [[Warsaw]], Poland||align=center|37||{{fb|Poland}}||align=center|1–1||align=center|1–2||[[UEFA Euro 2016 qualifying Group D|UEFA Euro 2016 qualifying]]||align=center|&lt;ref&gt;{{cite web|title=Poland 2–1 Republic of Ireland|url=https://www.bbc.co.uk/sport/football/33544046|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
+|-
+!scope=row style="text-align: center"|9
+|rowspan=2|16 November 2015||rowspan=2|[[Aviva Stadium]], [[Dublin]], Ireland||rowspan=2 align=center|38||rowspan=2|{{fb|Bosnia}}||align=center|1–0||rowspan=2 align=center|2–0||rowspan=2|[[UEFA Euro 2016 qualifying play-offs|UEFA Euro 2016 qualifying]]||rowspan=2 align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 2–0 Bosnia|url=https://www.bbc.co.uk/sport/football/34827028|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
+|-
+!scope=row style="text-align: center"|10
+|align=center|2–0
+|-
+!scope=row style="text-align: center"|11
+|rowspan=2|31 August 2016||rowspan=2|[[Aviva Stadium]], [[Dublin]], Ireland||rowspan=2 align=center|42||rowspan=2|{{fb|Oman}}||align=center|3–0||rowspan=2 align=center|4–0||rowspan=2|[[Exhibition game#Association football|Friendly]]||rowspan=2 align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 4–0 Oman|url=https://www.bbc.co.uk/sport/football/37220510|website=BBC Sport|accessdate=7 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style="text-align: center"|12
+|align=center|4–0
+|-
+!scope=row style="text-align: center"|13
+|4 June 2017||[[Aviva Stadium]], [[Dublin]], Ireland||align=center|48||{{fb|URU}}||align=center|1–0||align=center|3–1||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 4–0 Oman|url=https://www.bbc.com/sport/football/40153591|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
+|-
+!scope=row style="text-align: center"|14
+|rowspan=2|11 June 2017||rowspan=2|[[Aviva Stadium]], [[Dublin]], Ireland||rowspan=2 align=center|49||rowspan=2|{{fb|Austria}}||align=center|1–1||rowspan=2 align=center|1–1||rowspan=2|[[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification]]||align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 1–1 Austria|url=https://www.bbc.com/sport/football/40223682|website=BBC Sport|accessdate=12 June 2017}}&lt;/ref&gt;
+|}
+
+== Honours ==
+'''Blackburn Rovers'''
+*[[FA Youth Cup]] runner-up: 2000–01&lt;ref name="Soccerway"&gt;{{cite web |url=https://int.soccerway.com/players/jonathan-walters/15748/ |title=J.WALTERS |website=Soccerway |publisher=Perform Group |accessdate=21 November 2015}}&lt;/ref&gt;
+
+'''Hull City''' 
+*[[Football League One]] runner-up: [[2004–05 Football League|2004–05]]&lt;ref name="Soccerway" /&gt;
+*[[Football League Third Division]] runner-up: [[2003–04 Football League|2003–04]]&lt;ref name="Soccerway" /&gt;
+
+'''Stoke City'''
+*[[FA Cup]] runner-up: [[2011 FA Cup Final|2010–11]]&lt;ref name="Soccerway" /&gt;
+
+'''Individual'''
+*[[Ipswich Town F.C. Player of the Year]]: [[2007–08 Ipswich Town F.C. season|2007]]
+*[[FAI International Football Awards]] – Senior International Player of the Year: 2015&lt;ref&gt;{{cite web|url= http://www.independent.ie/sport/soccer/international-soccer/we-were-written-off-in-the-qualifiers-and-im-sure-it-will-be-the-same-at-the-euros-jon-walters-scoops-international-player-of-the-year-award-34557004.html|title='We were written off in the qualifiers and I’m sure it will be the same at the Euros' – Jon Walters scoops international Player of the Year award|date=20 March 2016|work=Irish Independent|accessdate=24 March 2016}}&lt;/ref&gt;
+
+==See also==
+* [[List of Republic of Ireland international footballers born outside the Republic of Ireland]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category|Jonathan Walters}}
+*[https://www.burnleyfootballclub.com/teams/first-team/forward/jonathan-walters/ Profile] at the Burnley F.C. website
+*[http://www.fai.ie/ireland/player/74101 Profile] at the Football Association of Ireland website
+*{{Soccerbase}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{FAI Senior International Player of the Year}}
+{{Ipswich Town F.C. Player of the Year}}
+}}
+{{Navboxes
+| title = Republic of Ireland squads
+| bg = green
+| fg = white
+| bordercolor = silver
+| list1 = 
+{{Republic of Ireland squad UEFA Euro 2012}}
+{{Republic of Ireland squad UEFA Euro 2016}}
+}}
+{{Burnley F.C. squad}}
+
+{{DEFAULTSORT:Walters, Jonathan}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Merseyside]]
+[[Category:English footballers]]
+[[Category:Republic of Ireland association footballers]]
+[[Category:Republic of Ireland under-21 international footballers]]
+[[Category:Republic of Ireland B international footballers]]
+[[Category:Republic of Ireland international footballers]]
+[[Category:Association football forwards]]
+[[Category:Blackburn Rovers F.C. players]]
+[[Category:Bolton Wanderers F.C. players]]
+[[Category:Hull City A.F.C. players]]
+[[Category:Crewe Alexandra F.C. players]]
+[[Category:Barnsley F.C. players]]
+[[Category:Scunthorpe United F.C. players]]
+[[Category:Wrexham A.F.C. players]]
+[[Category:Chester City F.C. players]]
+[[Category:Ipswich Town F.C. players]]
+[[Category:Stoke City F.C. players]]
+[[Category:Burnley F.C. players]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:UEFA Euro 2012 players]]
+[[Category:UEFA Euro 2016 players]]</text>
+      <sha1>codyywf5a5tzjsifrw5nwy4jmbwtv26</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,378 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Toby Alderweireld</title>
+    <ns>0</ns>
+    <id>21160092</id>
+    <revision>
+      <id>885972533</id>
+      <parentid>885801932</parentid>
+      <timestamp>2019-03-03T14:40:19Z</timestamp>
+      <contributor>
+        <username>Colonies Chris</username>
+        <id>577301</id>
+      </contributor>
+      <minor/>
+      <comment>minor fixes, replaced: ’s → 's, Fenerbahce → Fenerbahçe, Atletico Madrid → Atlético Madrid (4), work=[[BBC Sport]] → publisher=[[BBC Sport]] (3), work=BBC Sport → publisher=BBC Sport (5),  -  →  – , [[Defender (association football</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36693">{{Use dmy dates|date=October 2012}}
+{{Infobox football biography
+| name = Toby Alderweireld
+| image = Toby Alderweireld 2018.jpg
+| image_size = 
+| caption = Alderweireld with [[Belgium national football team|Belgium]] at the [[2018 FIFA World Cup]]
+| fullname = Tobias Albertine Maurits Alderweireld&lt;ref&gt;{{cite web |url=https://www.bdfutbol.com/en/j/j15203.html |title=Alderweireld: Tobias Albertine Maurits Alderweireld: Player |publisher=BDFutbol |accessdate=2 May 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1989|3|2|df=y}}&lt;ref&gt;{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=FIFA World Cup Russia 2018: List of players: Belgium |publisher=FIFA |format=PDF |page=3 |date=15 July 2018 |accessdate=17 October 2018}}&lt;/ref&gt;
+| birth_place = [[Antwerp]], Belgium
+| height = 1.87 m&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/4916/Toby-Alderweireld/overview |title=Toby Alderweireld: Overview |publisher=Premier League |accessdate=17 October 2018}}&lt;/ref&gt;
+| position = [[Defender (association football)|Defender]]
+| currentclub = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| clubnumber = 4
+| youthclubs1 = [[Beerschot AC|Germinal Beerschot]]
+| youthclubs2 = [[AFC Ajax Youth Academy|Ajax]]
+| youthyears1 = 1999–2004
+| youthyears2 = 2004–2008
+| years1 = 2008–2013
+| clubs1 = [[AFC Ajax|Ajax]]
+| caps1 = 128
+| caps2 = 12
+| years2 = 2013–2015
+| clubs2 = [[Atlético Madrid]]
+| goals1 = 7
+| goals2 = 1
+| years3 = 2014–2015
+| clubs3 = → [[Southampton F.C.|Southampton]] (loan)
+| caps3 = 26
+| goals3 = 1
+| years4 = 2015–
+| clubs4 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| caps4 = 107
+| goals4 = 5
+| nationalteam1 = [[Belgium national youth football team|Belgium U15]]
+| nationalteam2 = [[Belgium national youth football team|Belgium U16]]
+| nationalyears1 = 2004
+| nationalyears2 = 2004
+| nationalcaps1 = 3
+| nationalcaps2 = 2
+| nationalgoals1 = 1
+| nationalgoals2 = 0
+| nationalyears3 = 2005–2006
+| nationalyears4 = 2006
+| nationalyears5 = 2006–2007
+| nationalyears6 = 2009–2010
+| nationalyears7 = 2009–
+| nationalteam3 = [[Belgium national under-17 football team|Belgium U17]]
+| nationalteam4 = [[Belgium national under-18 football team|Belgium U18]]
+| nationalteam5 = [[Belgium national under-19 football team|Belgium U19]]
+| nationalteam6 = [[Belgium national under-21 football team|Belgium U21]]
+| nationalcaps3 = 17
+| nationalcaps4 = 3
+| nationalcaps5 = 9
+| nationalcaps6 = 5
+| nationalcaps7 = 84
+| nationalgoals3 = 3
+| nationalgoals4 = 0
+| nationalgoals5 = 0
+| nationalgoals6 = 0
+| nationalteam7 = [[Belgium national football team|Belgium]]
+| nationalgoals7 = 3
+| medaltemplates = 
+{{Medal|Sport|Men's [[association football|football]]}}
+{{Medal|Country|{{fb|BEL}}}}
+{{Medal|Comp|[[FIFA World Cup]]}}
+{{Medal|3rd|[[2018 FIFA World Cup|2018 Russia]]|}}
+| club-update = 08:04, 24 February 2019 (UTC)
+| nationalteam-update = 22:15, 11 September 2018 (UTC)
+}}
+'''Tobias Albertine Maurits Alderweireld''' ({{IPA-nl|ˈtoːbi ˈɑldərβ̞ɛːrəlt}};&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=KnN8KhaL3eM|title=Toby: It's All In a Name!|publisher=Tottenham Hotspur Football Club (Spurs TV) |website=youtube.com |date=8 July 2015|accessdate=8 July 2015}}&lt;/ref&gt; born 2 March 1989) is a Belgian professional [[association football|footballer]] who plays for [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and the [[Belgium national football team|Belgium national team]]. Mainly a [[central defender]], he can also play as a [[right back (association football)|right back]].
+
+Alderweireld began his professional career at Dutch club [[AFC Ajax|Ajax]], where he won honours including three consecutive [[Eredivisie]] titles. In 2013, he moved to [[Atlético Madrid]], where he won [[La Liga]] and reached the [[UEFA Champions League]] final in his first season.
+
+A full international since 2009, Alderweireld has earned over 80 caps for Belgium and represented the country at the [[2014 FIFA World Cup]], [[UEFA Euro 2016]], and the [[2018 FIFA World Cup]].
+
+==Club career==
+===Ajax===
+Born in [[Antwerp]],&lt;ref&gt;{{Citation |title =Toby Alderweireld profile  | url=http://www.vi.nl/Spelers/Speler.htm?dbid=59198&amp;typeofpage=84137 |publisher=VI.nl| date = 18 January 2009 |accessdate= 19 January 2009}}&lt;/ref&gt; Alderweireld moved to [[AFC Ajax|Ajax]]'s [[AFC Ajax Youth Academy|youth academy]] in August 2004 from [[K.F.C. Germinal Beerschot|Germinal Beerschot]]. On 22 February 2007, he signed his first professional contract, tying him to the club until 30 June 2010.&lt;ref&gt;{{Citation|title=Ajax sign Toby Alderweireld|url=http://english.ajax.nl/web/show/id=154814/contentid=61844|publisher=AFC Ajax|date=22 February 2007|accessdate=19 January 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20081023213133/http://english.ajax.nl/web/show/id%3D154814/contentid%3D61844|archivedate=23 October 2008}}&lt;/ref&gt; He was promoted to the first team for the [[2008–09 Eredivisie|2008–09 season]], but only made his first team debut on 18 January, in the 4–2 victory over [[N.E.C. (football club)|NEC]].&lt;ref&gt;{{Citation  |title =Ajax win spectacular match  |url =http://english.ajax.nl/web/show/id=154814/contentid=68549  |publisher =AFC Ajax  |date =18 January 2009  |accessdate =19 January 2009  |deadurl =yes  |archiveurl =https://web.archive.org/web/20090125215547/http://english.ajax.nl/web/show/id%3D154814/contentid%3D68549  |archivedate =25 January 2009  |df =dmy-all  }}&lt;/ref&gt; On 26 February, he made his [[UEFA|European]] debut during a 1–1 draw against [[ACF Fiorentina|Fiorentina]] in the [[UEFA Europa League|UEFA Cup]].&lt;ref&gt;{{cite web|url=https://www.usatoday.com/sports/soccer/2009-02-26-3286180888_x.htm|title=Leonardo scores to help Ajax advance |work=USA Today}}&lt;/ref&gt; Although he only made several appearances for the remainder of the season, he was awarded a new long-term contract extension until 2014.&lt;ref&gt;{{cite news|title=Alderweireld langer bij Ajax|url=http://www.telegraaf.nl/telesport/voetbal/article4222177.ece|work=[[De Telegraaf]]|date=22 June 2009|accessdate=10 October 2009|language=Dutch}}&lt;/ref&gt;
+
+[[File:TobyAlderweireld.jpg|thumb|left|upright|Alderweireld with Ajax.]]
+During the early stages of the [[2009–10 Eredivisie|2009–10 season]], Alderweireld established himself in the first team and starting XI. He became first choice centre-back along with fellow Belgian [[Jan Vertonghen]] following the departure of former captain [[Thomas Vermaelen]] to [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite news|title='Wij hebben de beste selctie van Nederland'|last=Zwartkruis|first=Simon|work=Association football|date=30 September 2009}}&lt;/ref&gt; New Ajax coach [[Martin Jol]] praised the two defenders and kept faith in the duo after a string of good performances.&lt;ref&gt;{{cite news|url=http://www.gva.be/nieuws/sport/video/extern-jol-vertonghen-en-alderweireld-dat-ziet-iedereen.aspx|title=Jol: 'Vertonghen en Alderweireld, dat ziet iedereen'|work=Gazet van Antwerpen|date=17 October 2009|accessdate=27 October 2009|language=Dutch}}&lt;/ref&gt;&lt;ref&gt;{{Citation |last=Coerts|first=Stefan |title =Ajax Coach Martin Jol Praises Jan Vertonghen And Toby Alderweireld | url=http://www.goal.com/en/news/462/netherlands/2009/09/30/1532572/ajax-coach-martin-jol-praises-jan-vertonghen-and-toby |work=Goal| date = 13 October 2009 |accessdate=30 September 2009}}&lt;/ref&gt; During the 3–0 win against [[Heracles Almelo|Heracles]] on 4 September, he scored his first league goal for the club when he opened the scoring with a header from [[Luis Suárez]]'s corner-kick.&lt;ref&gt;{{cite web|url=http://www.espn.com/soccer/report?gameId=271817|title=SC Heracles Almelo vs. Ajax Amsterdam - Football Match Report - August 30, 2009 - ESPN|website=ESPN.com}}&lt;/ref&gt; On 27 January, he scored a late equaliser in extra time during the [[2009–10 KNVB Cup|KNVB Cup]] [[2009–10 KNVB Cup#Quarter finals|quarter-final]] against NEC; [[Siem de Jong]] scored five minutes before the final whistle to steal a 3–2 win for Ajax. At the end of the [[2009–10 Eredivisie|2009–10 season]], Alderweireld was named Ajax Talent of the Year.&lt;ref&gt;{{cite web|url=http://www.telegraaf.nl/telesport/voetbal/6550355/__Supporters_Ajax_eren_Suarez__.html |title=Supporters Ajax eren Suarez |work=De Telegraaf |date=18 April 2010 |accessdate=21 April 2010}}&lt;/ref&gt; He assured himself of a place in the Eredivisie giants' history books on 3 November 2011, heading in Ajax's 100th UEFA Champions League goal in the 2–1 Group G defeat by [[AJ Auxerre|Auxerre]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/memberassociations/association=ned/news/newsid=1590396.html |title=Ajax's Alderweireld thrives on art of defending |publisher=UEFA by Berend Scholten|date=5 February 2011 |accessdate=5 February 2011}}&lt;/ref&gt; In the [[2010–11 Eredivisie|2010–11 season]], he scored a stunning 25-yard strike at the [[San Siro]] against [[UEFA Champions League|Champions League]] group rivals [[A.C. Milan|Milan]] in a 2–0 away win. He followed this spectacular goal with an even more impressive 32-yard strike against [[Feyenoord]] in a 2–0 home win.
+In the [[2011–12 AFC Ajax season|2011–12 season]], Alderweireld made significant strides in his ability as a footballer, also forming a formidable partnership in the heart of the Ajax defensive with captain and fellow Belgian Jan Vertonghen. Alderweireld also showed some impressive offensive ability, scoring a remarkable goal against [[SC Heerenveen|Heerenveen]].
+
+On 5 August 2012, during the [[2012 Johan Cruyff Shield|Johan Cruyff Shield]] encounter against [[PSV Eindhoven|PSV]], Alderweireld managed to score for Ajax in the 44th minute, bringing his club back within a goals difference going into halftime 2–1. Unfortunately, it was a match Ajax would lose 4–2, making it the third Johan Cruyff Shield which Alderweireld participated in and finished as runners-up. The following [[2012–13 AFC Ajax season|2012–13 season]], however, would be a successful one, marking the third year in a row that Alderweireld would play Champions League football, and also winning his third consecutive [[Eredivisie]] title for Ajax and 32nd overall, having played as a starting centre-back for Ajax in all three championship pursuits. Alderweireld scored a further three goals that season for Ajax, including two goals during the regular season against [[PEC Zwolle]] and [[FC Twente|Twente]], as well as scoring another goal in a 2–0 home victory against [[FC Steaua București|Steaua București]] at the [[Amsterdam Arena]], in the first leg of the Round of 32 in the [[2012–13 UEFA Europa League knockout phase#First leg|2012–13 UEFA Europa League]]. Having been drawn into a group with [[Manchester City F.C.|Manchester City]], [[Real Madrid C.F.|Real Madrid]] and eventual runners-up [[Borussia Dortmund]] during its Champions League campaign, Ajax had entered into the Europa League at the knockout phase having secured third place in their group, but failed to advance, losing in the second leg match in Romania 4–2 on penalty kicks after extra time.
+
+[[File:Basis Elftal Ajax 14Sep2011.jpg|thumb|Alderweireld with Ajax teammates in 2011.]]
+With one more year remaining on his contract, Alderweireld opted not to extend his contract with Ajax, subsequently receiving plenty of interest during the off-season, with [[Bayer 04 Leverkusen|Bayer Leverkusen]], [[Liverpool F.C.|Liverpool]], [[S.S.C. Napoli|Napoli]] and [[Norwich City F.C.|Norwich City]] being mentioned as the most keen to sign the young defender.&lt;ref&gt;{{cite web|url=http://www.express.de/bayer-04-leverkusen/alderweireld-soll-kommen-kadlec-wechselt-zu-fenerbahce,3288,23318686.html |title=Alderweireld soll kommen Kadlec wechselt zu Fenerbahce |publisher=Express.de by Lars Werner.com|date=14 June 2013 |accessdate=19 June 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nieuws.be/nieuws/Napoli_wil_tien_miljoen_euro_betalen_voor_Toby_Alderweireld_6c3bab42.aspx |title=Napoli wil tien miljoen euro betalen voor Toby Alderweireld |publisher=Nieuws.be by Voetbal4U.com |date=18 June 2013 |accessdate=19 June 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20141024075930/http://www.nieuws.be/nieuws/Napoli_wil_tien_miljoen_euro_betalen_voor_Toby_Alderweireld_6c3bab42.aspx |archivedate=24 October 2014 }}&lt;/ref&gt;
+
+===Atlético Madrid===
+On 2 September 2013, Alderweireld joined [[Atlético Madrid]] on a four-year contract for an estimated €7&amp;nbsp;million (£6.16&amp;nbsp;million) transfer fee.&lt;ref&gt;{{cite web|title=Transfer deadline day: Atletico Madrid sign Toby Alderweireld and Josuha Guilavogui|url=http://www1.skysports.com/football/news/11838/8903655/transfer-deadline-day-atletico-madrid-sign-toby-alderweireld-and-josuha-guilavogui|publisher=Sky Sports|accessdate=31 August 2014|date=2 September 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Corrigan|first1=Dermot|title=Toby Alderweireld rejected Liverpool|url=http://www.espnfc.com/story/1543223/toby-alderweireld-rejected-liverpool-move-to-join-atletico-madrid|publisher=ESPN FC|accessdate=31 August 2014|date=3 September 2013}}&lt;/ref&gt; He played 12 matches as the club won [[La Liga]]; on 11 May, he headed his only goal of the season, an equaliser in a 1–1 home draw with [[Málaga CF|Málaga]] in the penultimate round of fixtures, ensuring that Atlético remained in the title race.&lt;ref&gt;{{cite news|title=Atlético Madrid 1–1 Málaga|url=https://www.bbc.co.uk/sport/0/football/27301114|accessdate=1 September 2014|publisher=[[BBC Sport]]|date=11 May 2014}}&lt;/ref&gt; Alderweireld played the final seven minutes and extra time of the [[2014 UEFA Champions League Final|2014 Champions League final]] for Atlético in place of [[Filipe Luís]]; the team was beating [[Madrid Derby|city rival]] Real Madrid 1–0 when he entered the field of play, but Atlético eventually lost 1–4.&lt;ref name="BBC"&gt;{{cite news|title=Real Madrid 4 Atlético Madrid 1|url=https://www.bbc.com/sport/0/football/27383593|accessdate=25 May 2014|newspaper=BBC Sport}}&lt;/ref&gt;
+
+====Southampton (loan)====
+Alderweireld was sent on a season-long loan to English [[Premier League]] side [[Southampton F.C.|Southampton]] on 1 September 2014, with the option for Southampton to buy him at the end of the season.&lt;ref&gt;{{cite news|title=Agreement with Southampton for the loan of Alderweireld|url=http://en.clubatleticodemadrid.com/noticias/agreement-with-southampton-for-the-loan-of-alderweireld|publisher=[[Atlético Madrid]]|date=2 September 2014|accessdate=12 September 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Southampton loan Toby Alderweireld from Atletico Madrid|url=https://www.bbc.co.uk/sport/0/football/29025087|accessdate=2 September 2014|publisher=[[BBC Sport]]|date=2 September 2014}}&lt;/ref&gt; He made his Southampton debut on 13 September, helping to keep a clean sheet in a 4–0 victory against [[Newcastle United F.C.|Newcastle United]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/29090536 |title=Striker Graziano Pelle scored twice as Southampton overwhelmed a poor Newcastle side at St Mary's Stadium. |publisher=BBC Sport |date=12 September 2014 |accessdate=14 September 2014 }}&lt;/ref&gt; On 26 December, he scored his first goal for the club, Southampton's third in a 3–1 away win away to [[Crystal Palace F.C.|Crystal Palace]] by heading [[James Ward-Prowse]]'s [[corner kick]].&lt;ref&gt;{{cite news|last1=Emons|first1=Michael|title=Crystal Palace 1–3 Southampton|url=https://www.bbc.co.uk/sport/0/football/30544147|accessdate=26 December 2014|publisher=BBC Sport|date=26 December 2014}}&lt;/ref&gt;
+
+Southampton had a £6.8&amp;nbsp;million option to buy Alderweireld, but in July 2015 Atlético cancelled the clause for £1.5&amp;nbsp;million in order to sell to the highest bidder.&lt;ref&gt;{{cite web|title=Tottenham agree £11.5m fee with Atletico Madrid for defender Toby Alderweireld|url=http://www.dailymail.co.uk/sport/football/article-3149989/Tottenham-agree-11-5m-fee-Atletico-Madrid-defender-Toby-Alderweireld.html|work=Mail online|accessdate=5 July 2015|date=5 July 2015}}&lt;/ref&gt; Subsequent reports claimed that Atlético failed to exercise their buy-out in time.&lt;ref&gt;{{cite news|last1=Smith|first1=Alan|title=Southampton ponder legal action if Toby Alderweireld joins Tottenham|url=https://www.theguardian.com/football/2015/jul/05/southampton-toby-alderweireld-atletico-madrid|accessdate=6 July 2015|work=The Guardian|date=5 July 2015}}&lt;/ref&gt;
+
+===Tottenham Hotspur===
+On 8 July 2015, Alderweireld joined [[Tottenham Hotspur F.C.|Tottenham Hotspur]] on a five-year contract which runs until the summer of 2020 at [[White Hart Lane]], despite Southampton threatening legal action over the transfer.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/33442272 |title=Toby Alderweireld: Tottenham sign Atletico Madrid defender |publisher=BBC Sport |date=8 July 2015 |accessdate=9 July 2015 }}&lt;/ref&gt; The transfer fee was estimated to be £11.5&amp;nbsp;million.&lt;ref&gt;{{cite news|title=Toby Alderweireld signs for Tottenham for £11.5m on five-year deal|url=http://www.dailymail.co.uk/sport/football/article-3153262/Toby-Alderweireld-signs-Tottenham-11-5m-five-year-deal.html?ITO=1490&amp;ns_mchannel=rss&amp;ns_campaign=1490 |work=Daily Mail |date=8 July 2015}}&lt;/ref&gt; At Spurs, he was reunited with former Ajax teammates [[Christian Eriksen]] and Jan Vertonghen, who previously joined the north London side from Ajax.  On 30 July, Alderweireld made his club debut in the [[2015 MLS All-Star Game]] in [[Denver]], [[Colorado]]. During a 2–1 defeat, Alderweireld started the game and was replaced by [[Federico Fazio]] after 62 minutes.&lt;ref&gt;{{cite web|last1=Borg|first1=Simon|title=MLS All-Stars 2, Tottenham Hotspur 1|url=http://matchcenter.mlssoccer.com/matchcenter/2015-07-29-mls-all-star-team-vs-tottenham-hotspur/recap|publisher=MLS Soccer|accessdate=21 October 2015|date=30 July 2015}}&lt;/ref&gt;
+
+====2015–16 season====
+On 26 September, Alderweireld scored his first goal for Tottenham in a 4–1 win over Manchester City at White Hart Lane.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/34299624|title=Tottenham 4–1 Man City|date=26 September 2015|publisher=BBC}}&lt;/ref&gt; His second goal for the club came in another 4–1 victory over [[London derby|London rivals]] [[West Ham United F.C.|West Ham United]] on 22 November.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/34824958|title=Tottenham Hotspur 4–1 West Ham United|date=22 November 2015|publisher=BBC}}&lt;/ref&gt; On 5 March 2016, in the 183rd [[North London Derby]], Alderweireld scored for Tottenham in a 2–2 draw against [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/35659805|title=Tottenham Hotspur 2–2 Arsenal|date=5 March 2016|publisher=BBC}}&lt;/ref&gt; A month later, he was Spurs' second scorer in a 3–0 win against [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/35953098|title=Tottenham Hotspur 3–0 Manchester United|date=10 April 2016|publisher=BBC}}&lt;/ref&gt;
+
+During his first season at Tottenham, Alderweireld has been recognised by commentators as one of the best defenders in the Premier League,&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-3447154/Tottenham-centre-Toby-Alderweireld-best-defender-Premier-League-claims-former-Spurs-boss-Tim-Sherwood.html|title=Tottenham centre back Toby Alderweireld is the best defender in the Premier League, claims former Spurs boss Tim Sherwood|date=15 February 2016|work=The Daily Mail}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.skysports.com/football/news/11096/10130058/who-has-been-the-premier-leagues-best-defender-so-far-this-season|title=Who has been the Premier League's best defender so far this season?|date=15 January 2016|publisher=BSkyB}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.hitc.com/en-gb/2016/02/13/charlie-nicholas-believes-tottenhams-toby-alderweireld-is-the-mo/|title=Charlie Nicholas believes Tottenham's Toby Alderweireld is the most consistent defender in Premier League|accessdate=12 April 2016|work=Here is the City}}&lt;/ref&gt; forming impressive central defensive partnerships with national team colleague Jan Vertonghen,&lt;ref&gt;{{cite news|url=http://www.skysports.com/football/news/11675/10047911/toby-alderweireld-hails-partnership-with-spurs-team-mate-jan-vertonghen|title=Toby Alderweireld hails partnership with Spurs centre-back partner Jan Vertonghen|date=30 October 2015|publisher=BSkyB}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.hitc.com/en-gb/2016/02/05/phil-thompson-raves-about-toby-alderweireld-and-jan-vertonghen-p/|title=Phil Thompson raves about Toby Alderweireld and Jan Vertonghen partnership at Tottenham Hotspur|accessdate=12 April 2016|work=Here is the City}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.skysports.com/football/news/11675/10144002/tottenhams-jan-vertonghen-set-for-spell-on-sidelines-with-knee-injury|title=Tottenham's Jan Vertonghen set for spell on sidelines with knee injury|date=26 January 2016|publisher=BSkyB}}&lt;/ref&gt; and later the Austrian [[Kevin Wimmer]].&lt;ref&gt;{{cite news|url=http://theworldgame.sbs.com.au/article/2016/04/09/5-talking-points-tottenham-hotspur-v-manchester-united|title=5 Talking Points: Tottenham Hotspur v Manchester United|date=9 April 2016|publisher=SBS}}&lt;/ref&gt; This form helped Tottenham to achieve the best defensive record in the [[2015–16 Premier League|Premier League]], with only 25 goals conceded from 34 games.&lt;ref&gt;{{cite news|url=http://www.espnfc.com.au/barclays-premier-league/23/blog/post/2844983/tottenham-and-manchester-uniteds-stingy-defences-contrast|title=Tottenham and Manchester United's stingy defences a stark contrast|date=8 April 2016|publisher=ESPN}}&lt;/ref&gt; Over the season the club had the joint-lowest number of goals conceded (35) in the Premier League.&lt;ref name="guardian 2016"&gt;{{cite news|url=https://www.theguardian.com/football/2016/dec/02/jan-vertonghen-tottenham-new-contract|title=Jan Vertonghen signs new deal with Tottenham until 2019|website=The Guardian|date=2 December 2016 }}&lt;/ref&gt;  He was chosen as a centre back for the [[PFA Team of the Year]].&lt;ref&gt;{{cite web |url= https://www.thepfa.com/news/2016/4/21/premier-league-team-of-the-year|title=The PFA Premier League Team of the Year |date= 21 April 2016 |publisher= The PFA }}&lt;/ref&gt;
+
+====2016–17 season====
+In the [[2016–17 Tottenham Hotspur F.C. season|2016–17 season]], he was a regular in the Spurs starting line-up until an injury sustained at [[West Bromwich Albion F.C.|West Bromwich Albion]] on 15 October.&lt;ref&gt;{{cite news|last1=Lewis|first1=Aimee|title=West Bromwich Albion 1 Tottenham 1|url=https://www.bbc.co.uk/sport/football/37594220|accessdate=23 November 2016|publisher=BBC Sport|date=15 October 2016}}&lt;/ref&gt; This injury kept him on the injury list for several weeks,&lt;ref&gt;{{cite news|last1=MacInnes|first1=Paul|title=Toby Alderweireld not ready for Tottenham return – Mauricio Pochettino|url=https://www.theguardian.com/football/2016/nov/17/toby-alderweireld-not-ready-for-tottenham-return-mauricio-pochettino|accessdate=23 November 2016|work=The Guardian|date=17 November 2016}}&lt;/ref&gt; until he made his return in the [[2016–17 UEFA Champions League group stage|Champions League]] as a substitute against [[PFC CSKA Moscow|CSKA Moscow]] on 7 December.&lt;ref&gt;{{cite news|url=http://www.tottenhamhotspur.com/news/first-team/match/player-reaction/toby-alderweireld-on-his-return-from-injury-against-cska-champions-league-081216/ |title='I just want to help the team' – Toby alderweireld on his return |work=Tottenham Hotspur |date=8 December 2016|accessdate=22 May 2017}}&lt;/ref&gt; Alderweireld picked up the final goal of the season for Tottenham, coming in the 7–1 win over already-relegated [[Hull City A.F.C.|Hull City]] on 21 May 2017.&lt;ref&gt;{{cite news |url=https://www.standard.co.uk/sport/football/hull-city-1-tottenham-7-harry-kane-scores-second-hattrick-in-a-week-as-spurs-sign-off-in-style-a3544656.html |title=Hull City 1 Tottenham 7: Harry Kane scores second hat-trick in a week as Spurs sign off in style |work=Evening Standard |first=Mark |last=Walker |date=21 May 2017|accessdate=22 May 2017}}&lt;/ref&gt; He was part of the Tottenham defense that achieved the best defensive record in the club's history, with only 26 goals conceded in the Premier League this season (only 9 of which were conceded in home league games), 6 better than the previous record of 32 conceded that was set in the [[1908–09 in English football|1908–09 season]] in the [[Football League Second Division|Second Division]].&lt;ref&gt;{{cite web |url=http://www.tottenhamhotspur.com/news/2016-17-in-numbers-few-goals-conceded-020617/ |title=2016–17 in Numbers – New Defensive Records|date= 2 June 2017 |publisher=Tottenham Hotspur }}&lt;/ref&gt;
+
+====2017–18 season====
+Alderweireld played in all the [[2017–18 Premier League|Premier League]] and [[2017–18 UEFA Champions League|Champions League]] games from the start of the [[2017–18 Tottenham Hotspur F.C. season|2017–18 season]], but on 1 November 2017, he suffered a [[hamstring]] injury in the home game against [[Real Madrid]] that ended in a 3–1 win.&lt;ref&gt;{{cite news |url=https://www.standard.co.uk/sport/football/tottenham-vs-real-madrid-toby-alderweireld-suffers-hamstring-injury-a3674126.html |title=Tottenham vs Real Madrid: Toby Alderweireld suffers hamstring injury |first=Tom |last= Doyle |date= 1 November 2017 |work=Evening Standard }}&lt;/ref&gt; The injury would keep him out of the team for a few months.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/42016394 |title=Toby Alderweireld: Tottenham defender out until after Christmas |date=16 November 2017 |publisher=BBC Sport}}&lt;/ref&gt;  On 7 February 2018, he returned to the starting lineup in the fourth round replay of the [[2017–18 FA Cup|FA Cup]] against [[Newport County A.F.C.|Newport County]], which Tottenham won 2–0.&lt;ref&gt;{{cite news |url=https://www.standard.co.uk/sport/football/tottenham-fa-cup-highlights-and-analysis-toby-alderweireld-hands-mauricio-pochettino-a-tough-north-a3761021.html |title=Tottenham FA Cup highlights and analysis: Toby Alderweireld &amp; Co. hand Mauricio Pochettino north London derby headache |first=Tom |last= Collomoss |date=7 February 2018 |work=The Evening Standard }}&lt;/ref&gt; However, an injury to the tendon of his hamstring suffered while training two weeks later meant that he was again out of the team.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2018/feb/27/tottenham-toby-alderweireld-juventus-mauricio-pochettino |title=Tottenham's Toby Alderweireld to miss Champions League tie with Juventus|first=David |last=Hytner |date= 27 February 2018 |work=The Guardian }}&lt;/ref&gt;
+
+==International career==
+[[File:Match Algérie vs Belgique, Coupe du Monde 2014, Brésil.jpg|thumb|Alderweireld playing at the [[2014 World Cup]] against [[Algeria national football team|Algeria]]]]
+Alderweireld first represented Belgium at [[Belgium national youth football team|under-17 level]] in October 2005 and took part in the [[2006 UEFA European Under-17 Football Championship|2006 UEFA U17 Championship]]. After the [[2008–09 Eredivisie|2008–09 season]] concluded, he made his senior debut for [[Belgium national football team|Belgium]] in a friendly tournament. However, his full senior debut came three months later in a match against the [[Czech Republic national football team|Czech Republic]]. He was named in several [[2010 FIFA World Cup qualification (UEFA)|2010 World Cup qualifying]] squads, but was mostly an unused substitute. In October 2009, he came on as a second-half substitute for [[Daniel Van Buyten]] in the 2–0 defeat to [[Estonia national football team|Estonia]].
+
+Alderweireld was called up to the [[Belgium national under-21 football team|Belgian U21 squad]] for the [[2011 UEFA European Under-21 Football Championship qualification|2011 UEFA U21 Championship qualifier]] against [[Ukraine national under-21 football team|Ukraine]] on 13 November 2009, with the match finishing 2–0 to Ukraine. He played [[right back (association football)|right back]] during the [[UEFA Euro 2012|2012 UEFA Euro qualification]] match against [[Turkey national football team|Turkey]] on 7 September 2010.
+
+On 13 May 2014, Alderweireld was named in the squad to go to the [[2014 FIFA World Cup]].&lt;ref&gt;{{cite news|title=Adnan Januzaj included in Belgium's World Cup squad|url=https://www.bbc.co.uk/sport/0/football/27395150|accessdate=15 May 2014|newspaper=[[BBC Sport]]|date=13 May 2014}}&lt;/ref&gt; He started in all five games of Belgium's tournament run, including its 1–0 defeat against [[Argentina national football team|Argentina]] in the quarter-finals.&lt;ref&gt;{{cite news|last1=Chowdhury|first1=Saj|title=Belgium 2–1 Algeria|url=https://www.bbc.co.uk/sport/0/football/25285127|accessdate=17 June 2014|publisher=[[BBC Sport]]|date=17 June 2014}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 23 February 2019}}.&lt;ref&gt;{{cite web|title=Toby Alderweireld|url=http://www.espnfc.com/player/111306/toby-alderweireld |website=espnfc.com| publisher=ESPN| accessdate=2 May 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=T. Alderweireld|url=https://int.soccerway.com/players/toby-alderweireld/70508/|work=Soccerway|accessdate=2 May 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|Cup
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="7"|[[AFC Ajax|Ajax]]||[[2008–09 AFC Ajax season|2008–09]]||[[Eredivisie]]||5||0||0||0||3||0||0||0||8||0
+|-
+|[[2009–10 AFC Ajax season|2009–10]]||Eredivisie||31||2||6||1||8||0||0||0||45||3
+|-
+|[[2010–11 AFC Ajax season|2010–11]]||Eredivisie||26||2||4||0||12||3||1||0||43||5
+|-
+|[[2011–12 AFC Ajax season|2011–12]]||Eredivisie||29||1||3||0||7||1|||1||1||40||3
+|-
+|[[2012–13 AFC Ajax season|2012–13]]||Eredivisie||33||2||3||0||8||1||1||1||45||4
+|-
+|[[2013–14 AFC Ajax season|2013–14]]||Eredivisie||4||0||0||0||0||0||1||0||5||0
+|-
+! colspan=2 | Total
+!128||7||16||1||38||5||4||2||186||15
+|-
+|[[Atlético Madrid]]||[[2013–14 Atlético Madrid season|2013–14]]||[[La Liga]]||12||1||6||1||4||0||0||0||22||2
+|-
+|[[Southampton F.C.|Southampton]] (loan)||[[2014–15 Southampton F.C. season|2014–15]]&lt;ref&gt;{{soccerbase season|55787|2014|accessdate=2 May 2018}}&lt;/ref&gt;||[[Premier League]]||26||1||2||0||0||0||0||0||28||1
+|-
+|rowspan=5|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[2015–16 Tottenham Hotspur F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|55787|2015|accessdate=2 May 2018}}&lt;/ref&gt;
+|Premier League
+|38||4||1||0||16||0||0||0||55||4
+|-
+|[[2016–17 Tottenham Hotspur F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|55787|2016|accessdate=2 May 2018}}&lt;/ref&gt;
+|Premier League
+|30||1||4||0||5||1||0||0||39||2
+|-
+|[[2017–18 Tottenham Hotspur F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|55787|2017|accessdate=15 May 2018}}&lt;/ref&gt;
+|Premier League
+|14||0||2||0||5||0||1{{efn|Appearance in English League Cup}}||0||22||0
+|-
+|[[2018–19 Tottenham Hotspur F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|55787|2018|accessdate=24 February 2019}}&lt;/ref&gt;
+|Premier League
+|25||0||0||0||6||0||4{{efn|Appearance in English League Cup}}||0||35||0
+|-
+! colspan=2 | Total
+!107||5||7||0||32||1||5||0||150||6
+|-
+! colspan=3 | Career total
+!273||14||31||2||74||6||9||2||386||24
+|}
+
+{{notelist}}
+
+===International===
+[[File:2017 RUS v BEL exhibition - Toby Alderweireld.jpg|140px|thumb|right| Alderweiereld against [[Russia national football team|Russia]] in 2017]]
+
+{{updated|match played 11 September 2018}}&lt;ref name="goals"/&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="11"|[[Belgium national football team|Belgium]]
+|-
+|2009||4||0
+|-
+|2010||6||0
+|-
+|2011||5||0
+|-
+|2012||5||0
+|-
+|2013||11||1
+|-
+|2014||13||0
+|-
+|2015||9||0
+|-
+|2016||12||2
+|-
+|2017||8||0
+|-
+|2018||11||0
+|-
+!colspan=2|Total||84||3
+|}
+
+===International goals===
+:''As of match played 10 October 2016. Belgium score listed first, score column indicates score after each Alderweireld goal.''&lt;ref name="goals"&gt;{{cite web |url=http://static.belgianfootball.be/project/publiek/jrinteren/speler_PH_5257.htm#itop |title=Toby Alderweireld |website=[[Royal Belgian Football Association]] |accessdate=26 June 2016}}&lt;/ref&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|1
+|19 November 2013||[[King Baudouin Stadium]], [[Brussels]], Belgium||31||{{fb|JPN}}||2–3||2–3||[[Exhibition game#Association football|Friendly]]
+|-
+!scope=row|2
+|26 June 2016||[[Stadium Municipal]], [[Toulouse]], France||59||{{fb|HUN}}||1–0||rowspan=2|4–0||[[UEFA Euro 2016]]
+|-
+!scope=row|3
+|7 October 2016||King Baudouin Stadium, Brussels, Belgium||63||{{fb|BIH}}||3–0||[[2018 FIFA World Cup qualification (UEFA)|2018 FIFA World Cup qualification]]
+|}
+
+==Honours==
+'''Ajax'''&lt;ref name="clubatleticodemadrid.com"&gt;{{cite web|url=http://www.clubatleticodemadrid.com/jugadores/tobias-albertine-maurits-alderweireld-2013-2014 |title=Alderweireld's Palmarés on the Atletico's official website page|publisher=clubatleticodemadrid.com|date=24 June 2014 |accessdate=24 June 2014}}&lt;/ref&gt;
+*[[Eredivisie]]: [[2010–11 Eredivisie|2010–11]], [[2011–12 Eredivisie|2011–12]], [[2012–13 Eredivisie|2012–13]]
+*[[KNVB Cup]]: [[2009–10 KNVB Cup|2009–10]]
+*[[Johan Cruyff Shield]]: [[2013 Johan Cruyff Shield|2013]]
+
+'''Atlético Madrid'''&lt;ref name="clubatleticodemadrid.com"/&gt;
+*[[La Liga]]: [[2013–14 La Liga|2013–14]]
+*[[UEFA Champions League]] runner-up: [[2013–14 UEFA Champions League|2013–14]]
+
+'''Belgium'''
+*[[FIFA World Cup]] third place: [[2018 FIFA World Cup#Third place play-off|2018]]
+
+'''Individual'''
+*[[AFC Ajax|Ajax]] Talent of the Year: 2010&lt;ref name="clubatleticodemadrid.com"/&gt;
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Premier League 7|2015–16 Premier League]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/36106596 |title=PFA awards: Leicester and Spurs dominate Premier League team |publisher=BBC Sport |date=21 April 2016 |accessdate=7 May 2018}}&lt;/ref&gt;
+*[[UEFA Europa League]] Squad of the Season: [[2015–16 UEFA Europa League#Squad of the season|2015–16]]&lt;ref&gt;{{cite web|title=UEFA Europa League Squad of the Season|url=http://www.uefa.com/uefaeuropaleague/news/newsid=2366628.html|publisher=UEFA|date=20 May 2016}}&lt;/ref&gt;
+*[[Tottenham Hotspur F.C.|Tottenham Hotspur]] Player of the Year: 2015–16&lt;ref&gt;{{cite web |url=http://www.tottenhamhotspur.com/news/first-team/players/toby-doubles-up-wins-one-hotspur-members-award-080516/ |title=Toby completes club awards double |publisher=Tottenham Hotspur F.C. |date=8 May 2016 |accessdate=28 March 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.tottenhamhotspur.com/first-team-squad/toby-alderweireld/ Toby Alderweireld] at tottenhamhotspur.com
+*{{Soccerbase}}
+
+{{Tottenham Hotspur F.C. squad}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2015–16 Premier League PFA Team of the Year}}
+{{AFC Ajax Talent of the Year}}
+{{Tottenham Hotspur F.C. Player of the Year}}
+}}
+{{Navboxes
+| title = Belgium squads
+| bg = #E20E0E
+| fg = #FFCE4A
+| bordercolor = black
+| list1 = 
+{{Belgium squad 2014 FIFA World Cup}}
+{{Belgium squad UEFA Euro 2016}}
+{{Belgium squad 2018 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Alderweireld, Toby}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Antwerp]]
+[[Category:Belgian footballers]]
+[[Category:Belgium youth international footballers]]
+[[Category:Belgium under-21 international footballers]]
+[[Category:Belgium international footballers]]
+[[Category:Association football defenders]]
+[[Category:Beerschot A.C. players]]
+[[Category:AFC Ajax players]]
+[[Category:Atlético Madrid footballers]]
+[[Category:Southampton F.C. players]]
+[[Category:Tottenham Hotspur F.C. players]]
+[[Category:Eredivisie players]]
+[[Category:La Liga players]]
+[[Category:Belgian expatriate footballers]]
+[[Category:Expatriate footballers in the Netherlands]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Expatriate footballers in England]]
+[[Category:Belgian expatriate sportspeople in the Netherlands]]
+[[Category:Belgian expatriate sportspeople in Spain]]
+[[Category:Belgian expatriate sportspeople in England]]
+[[Category:Flemish sportspeople]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:Premier League players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:2018 FIFA World Cup players]]</text>
+      <sha1>onj1bfzpe879geg9dh3hlmyjoytcqay</sha1>
+    </revision>
+  </page>
+</mediawiki>

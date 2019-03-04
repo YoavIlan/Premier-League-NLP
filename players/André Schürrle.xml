@@ -1,0 +1,403 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>André Schürrle</title>
+    <ns>0</ns>
+    <id>27925313</id>
+    <revision>
+      <id>884560947</id>
+      <parentid>882614319</parentid>
+      <timestamp>2019-02-22T13:03:07Z</timestamp>
+      <contributor>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
+      </contributor>
+      <comment>/* Club */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="44154">{{Use dmy dates|date=April 2015}}
+{{Infobox football biography
+| name           = André Schürrle
+| image          = Andre Schürrle, Germany national football team (06).jpg
+| image_size     = 200
+| caption        = Schürrle with [[Germany national football team|Germany]] in 2011
+| fullname       = André Horst Schürrle&lt;ref&gt;{{Cite news| title = 2014 FIFA World Cup Brazil: List of Players| url = http://www.fifadata.com/document/fwc/2014/pdf/fwc_2014_squadlists.pdf| publisher = FIFA| format = PDF| page = 16| date = 11 June 2014| accessdate = 6 November 2014}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1990|11|6|df=y}}
+| birth_place    = [[Ludwigshafen]], Germany
+| height         = 1.84 m&lt;ref&gt;[http://www.bvb.de/Mannschaften/Profis/Andre-Schuerrle BVB profile]&lt;/ref&gt;
+| position       = [[Forward (association football)|Forward]] / [[Midfielder#Winger|Winger]]
+| currentclub    = [[Fulham F.C.|Fulham]]&lt;br /&gt;(on loan from [[Borussia Dortmund]])
+| clubnumber     = 14 
+| youthclubs1    = Ludwigshafener SC
+| youthclubs2    = [[1. FSV Mainz 05|Mainz 05]]
+| youthyears1    = 1996–2006
+| youthyears2    = 2006–2009
+| clubs1         = [[1. FSV Mainz 05|Mainz 05]]
+| clubs2         = [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| years1         = 2009–2011
+| years2         = 2011–2013
+| caps1          = 66
+| caps2          = 65
+| goals1         = 20
+| goals2         = 18
+| years3         = 2013–2015
+| clubs3         = [[Chelsea F.C.|Chelsea]]
+| caps3          = 44
+| goals3         = 11
+| years4         = 2015–2016
+| clubs4         = [[VfL Wolfsburg]]
+| caps4          = 43
+| goals4         = 10
+| years5         = 2016–
+| clubs5         = [[Borussia Dortmund]]
+| caps5          = 33
+| goals5         = 3
+| years6         = 2018–
+| clubs6         = → [[Fulham F.C.|Fulham]] (loan)
+| caps6          = 22
+| goals6         = 6
+| nationalteam1  = [[Germany national youth football team|Germany U19]]
+| nationalyears1 = 2008–2009
+| nationalcaps1  = 11
+| nationalgoals1 = 4
+| nationalteam2  = [[Germany national youth football team|Germany U20]]
+| nationalyears2 = 2009
+| nationalcaps2  = 1
+| nationalgoals2 = 1
+| nationalyears3 = 2009–2010
+| nationalteam3  = [[Germany national under-21 football team|Germany U21]]
+| nationalcaps3  = 4
+| nationalgoals3 = 3
+| nationalyears4 = 2010–
+| nationalteam4  = [[Germany national football team|Germany]]
+| nationalcaps4  = 57
+| nationalgoals4 = 22
+| club-update    = 08:55, 10 February 2019 (UTC)
+| nationalteam-update = 18:07, 26 March 2017 (UTC)
+| medaltemplates = 
+{{MedalCountry| {{GER}}}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{Medal|W|[[2014 FIFA World Cup|2014]]|}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|B|[[UEFA Euro 2012|2012]]|}}&lt;!--Though there was no third place playoff, UEFA decided in the 2012 edition to award the semi-final losers (Germany and Portugal) bronze medals for the first time: https://www.uefa.com/MultimediaFiles/Download/competitions/euro/91/87/57/918757_download.pdf--&gt;
+}}
+'''André Horst Schürrle''' ({{IPA-de|ʔanˈdʁeː ˈʃʏɐ̯lə, ʔɑ̃ˈdʁeː -, ˈʔandʁeː -}}; born 6 November 1990) is a German professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Premier League]] club [[Fulham F.C.|Fulham]], on loan from [[Borussia Dortmund]], and the [[Germany national football team|German national team]].
+
+He began his career at [[FSV Mainz 05|Mainz 05]] in 2009, spending two years at the club before a £6.5 million transfer to [[Bayer 04 Leverkusen]]. His performances there gained the attention of [[Chelsea F.C.|Chelsea]], who signed him for a reported £18 million in 2013. Schürrle played one-and-a-half [[Premier League]] seasons at the English club before joining [[VfL Wolfsburg]] for £22 million in January 2015, winning the [[DFB-Pokal]] and [[DFL-Supercup]] in his first year.
+
+Schürrle has been a full international for Germany since 2010, gaining over 50 caps and scoring 20 goals. He was a member of the German squads which reached the semi-finals at [[UEFA Euro 2012]] and won the [[2014 FIFA World Cup]]. During extra-time in the [[2014 FIFA World Cup Final]] he provided the assist for [[Mario Götze]]'s winning goal against [[Argentina national football team|Argentina]].
+
+==Club career==
+===Early career===
+Schürrle started his career at local club Ludwigshafener SC at age four, before joining [[1. FSV Mainz 05]] in 2006. He played as a defender before switching to his current position of an attacker.&lt;ref&gt;{{cite news |title=Teenage Kicks: Andre Schurrle |url=https://www.chelseafc.com/news/latest-news/2015/01/teenage-kicks--andre-schurrle.html |work=Chelseafc.com |date=14 January 2015 |accessdate=10 June 2017}}&lt;/ref&gt; He spent three years playing for the club's youth teams, where he won the [[Under 19 Bundesliga]] in 2009 under coach [[Thomas Tuchel]].&lt;ref&gt;{{cite news |title=Thomas Tuchel's carnival club party on as Mainz maintain perfect start |url=https://www.theguardian.com/football/blog/2010/sep/23/thomas-tuchel-mainz-bundesliga |work=The Guardian |date=23 September 2010 |accessdate=10 June 2017}}&lt;/ref&gt;
+
+===1. FSV Mainz 05===
+In August 2009, Schürrle made his [[Bundesliga]] debut in a 2–2 draw against [[Bayer 04 Leverkusen|Bayer Leverkusen]] on the opening day of the [[2009–10 Bundesliga|2009–10 season]].&lt;ref name="schurrleopts"&gt;{{cite web | url=http://www.uefa.com/memberassociations/association=ger/news/newsid=1531919.html | title=Schürrle opts for Leverkusen | publisher=UEFA.com | date=16 September 2010 | accessdate=20 May 2011}}&lt;/ref&gt; The following month, on 19 September 2009, Schürrle scored his first two league goals in a 3–2 away win against [[VfL Bochum]] before signing a professional contract with the club later in the week.&lt;ref&gt;{{cite web | url=http://www.spiegel.de/sport/fussball/0,1518,650829,00.html | title=Kurzpässe: Auslosungsmodus der WM-Playoffs unklar, Kuranyi krank | language=German | publisher=Spiegel Online | date=23 September 2009 | accessdate=19 May 2011}}&lt;/ref&gt;
+
+In September 2010, Mainz announced that Schürrle had signed a five-year contract with Bayer Leverkusen, and would join the club at the end of the [[2010–11 Bundesliga|2010–11 season]]. The transfer fee agreed between the two clubs was believed to be in the region of €8 million.&lt;ref name="schurrleopts" /&gt;
+
+===Bayer Leverkusen===
+Schürrle completed his £6.5 million move to Bayer Leverkusen in 2011,&lt;ref&gt;{{cite web|url=http://bleacherreport.com/articles/1173062-chelsea-transfer-rumours-who-is-andre-schurrle |title=Chelsea Transfer Rumours: Who Is Andre Schurrle? |publisher=Bleacher Report |date=5 May 2012 |accessdate=4 July 2013 }}&lt;/ref&gt; signing a five-year contract with the club until the summer of 2016.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/22219166 |title=Andre Schurrle: Chelsea hold transfer talks, say Leverkusen |publisher=BBC Sport |date=19 April 2013 |accessdate=4 July 2013 }}&lt;/ref&gt; He scored on his debut in a [[2011–12 DFB-Pokal|DFB Pokal]] tie against [[SG Dynamo Dresden|Dynamo Dresden]]. He had to wait until 15 October 2011 to open his Bundesliga account for Bayer Leverkusen, when he netted a late equalizer against [[Borussia Mönchengladbach]], rescuing his side a point as the match finished 2–2.&lt;ref&gt;{{cite web|url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2011-12/9/1143367/spielanalyse_borussia-mgladbach-15_bayer-leverkusen-9.html |title=Schürrle rettet Bayer einen Zähler |publisher=kicker |date=15 October 2011 |accessdate=4 July 2013 |language=German }}&lt;/ref&gt; Schürrle registered his first European goal in the [[2011–12 UEFA Champions League|Champions League]] in a home win over [[Valencia CF|Valencia]] four days later.&lt;ref&gt;{{cite web | url=http://www.uefa.com/uefachampionsleague/season=2012/clubs/player=250005337/profile/index.html | title=Club History | publisher=UEFA.com}}{{Dead link|date=March 2013}}&lt;/ref&gt;
+
+On 26 September, Schürrle scored his first goal of the season against [[FC Augsburg]] in a 3–1 win.&lt;ref&gt;{{cite web|url=http://espnfc.com/en/report/346360/report.html?soccernet=true&amp;cc=null |title=FC Augsburg 1–3 Bayer Leverkusen |publisher=ESPN FC |date=26 September 2012 |accessdate=26 September 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20121010033329/http://espnfc.com/en/report/346360/report.html?soccernet=true&amp;cc=null |archivedate=10 October 2012 |df=dmy }}&lt;/ref&gt; In the fixture against [[FC Bayern Munich|Bayern Munich]] on 28 October 2012, Schürrle provided an assist for [[Stefan Kießling]] in a 2–1 win at the [[Allianz Arena]]. This gave Bayern their first loss of the season in the Bundesliga and gave Bayer Leverkusen their first victory in Munich since October 1989.&lt;ref&gt;{{cite web|url=http://espnfc.com/en/report/346323/report.html?soccernet=true&amp;cc=null |title=Leverkusen shock Bayern |publisher=ESPN FC |date=28 October 2012 |accessdate=28 October 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130219072808/http://espnfc.com/en/report/346323/report.html?soccernet=true&amp;cc=null |archivedate=19 February 2013 |df=dmy }}&lt;/ref&gt; On 30 March 2013, Schürrle scored twice in the match against [[Fortuna Düsseldorf]], in a 4–1 win.&lt;ref&gt;{{cite web|url=http://espnfc.com/en/gamecast/346161/gamecast.html?soccernet=true&amp;cc=null |title=Leverkusen beat Düsseldorf |publisher=ESPN FC |date=30 March 2013 |accessdate=30 March 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130406185931/http://espnfc.com/en/gamecast/346161/gamecast.html?soccernet=true&amp;cc=null |archivedate=6 April 2013 |df=dmy }}&lt;/ref&gt; On 20 April 2013, Schürrle scored a brace and made an assist as they defeated [[TSG 1899 Hoffenheim|1899 Hoffenheim]] 5–0 at home.&lt;ref&gt;{{cite web|url=http://espnfc.com/en/report/346141/report.html?soccernet=true&amp;cc=null |title=Schurrle bags brace |publisher=ESPN FC |date=20 April 2013 |accessdate=20 April 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130513123106/http://espnfc.com/en/report/346141/report.html?soccernet=true&amp;cc=null |archivedate=13 May 2013 |df=dmy }}&lt;/ref&gt; Schürrle finished the 2012–13 campaign with a tally of 14 goals and 9 assists in 43 games across all competitions.&lt;ref&gt;{{cite web | url = http://www.ibtimes.com/chelsea-transfer-news-cavani-bale-hulk-schurrle-linked-blues-1285493 | title= Chelsea Transfer News: Cavani, Bale, Hulk And Schurrle Linked To The Blues | publisher=ESPN FC | date= 30 May 2013 | accessdate = 30 May 2013 | first = Jason | last = Le Miere}}&lt;/ref&gt;
+
+===Chelsea===
+[[File:André Schürrle'14.JPG|thumb|upright|Schürrle playing for [[Chelsea F.C.|Chelsea]] in 2013]]
+
+On 18 April 2013, it was confirmed that Bayer Leverkusen's director of sport [[Rudi Völler]] had travelled to [[London]] to hold talks with [[Chelsea F.C.|Chelsea]] over the transfer of Schürrle, although no fee had yet been agreed.&lt;ref&gt;{{cite web | url= http://www1.skysports.com/football/news/11668/8650869/German-side-Bayer-Leverkusen-confirm-talks-in-London-about-Andre-Schurrle | title = German side Bayer Leverkusen confirm talks in London about Andre Schurrle | publisher=skysports.com| date= 19 April 2013 | accessdate = 29 May 2013 | first = Graeme | last = Bailey}}&lt;/ref&gt; On 13 June 2013, Chelsea confirmed via their official website that they had reached an agreement with Leverkusen for the transfer of Schürrle,&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news-article/article/3208938/title/agreement-reached-for-transfer-of-andre-schurrle |title=Agreement reached for transfer of andre schurrle |publisher=chelseafc.com |date=13 June 2013 |accessdate=13 June 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130613123939/http://www.chelseafc.com/news-article/article/3208938/title/agreement-reached-for-transfer-of-andre-schurrle |archivedate=13 June 2013 |df=dmy }}&lt;/ref&gt; with the transfer fee reported to be in the region of €21 million (£18 million).&lt;ref&gt;{{cite web | url= http://www.dailymail.co.uk/sport/football/article-2340971/Andre-Schurrle-joins-Chelsea-18m-Bayer-Leverkusen.html | title = Mourinho makes Schurrle his first signing as German seals £18 million move to Chelsea | publisher=DailyMail.co.uk | date = 13 June 2013 | accessdate = 13 June 2013 | first = John | last = Edwards}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url= http://prosoccertalk.nbcsports.com/2013/06/13/andre-schurrle-is-jose-mourinhos-first-signing-as-new-chelsea-manager | title = André Schürrle is Jose Mourinho’s first signing as new Chelsea manager | publisher=NBCSports.com| date= 13 June 2013 | accessdate = 13 June 2013}}&lt;/ref&gt; On 25 June 2013, Chelsea announced that they had completed the transfer of Schürrle, bringing an end to the Londoners' protracted pursuit of the German forward. With Schürrle signing a five-year contract, he was given the number 14 shirt.&lt;ref&gt;{{cite web | url= http://www.chelseafc.com/news-article/article/3219878/title/schurrle-signing-completed | title= Schurrle signing completed | publisher=chelseafc.com | date = 25 June 2013 | accessdate = 25 June 2013}}&lt;/ref&gt; On 4 August, Schürrle scored his first goal in a Chelsea shirt in a pre-season friendly match against [[A.C. Milan|Milan]] during a tour of the United States.&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news-article/article/3338450/title/schurrle-really-nice-feeling |title=Schurrle: really nice feeling |publisher=chelseafc.com |date=5 August 2013 |accessdate=5 August 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130808155701/http://www.chelseafc.com/news-article/article/3338450/title/schurrle-really-nice-feeling |archivedate=8 August 2013 |df=dmy }}&lt;/ref&gt;
+
+On 18 August, Schürrle made his competitive debut for Chelsea, coming on as a 67th-minute substitute for [[Kevin De Bruyne]] in a [[Premier League]] 2–0 win over [[Hull City F.C.|Hull City]] at [[Stamford Bridge (stadium)|Stamford Bridge]].&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news-article/article/3365344/title/match-report-chelsea-2-hull-city-0 |title=Match report: chelsea 2 hull city 0 |publisher=chelseafc.com |date=18 August 2013 |accessdate=18 August 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130819041407/http://www.chelseafc.com/news-article/article/3365344/title/match-report-chelsea-2-hull-city-0 |archivedate=19 August 2013 |df=dmy }}&lt;/ref&gt; His first goal for Chelsea came in the  2–1 home victory over title challengers [[Manchester City F.C.|Manchester City]] on 27 October, where he scored from a cross by teammate [[Fernando Torres]].&lt;ref&gt;{{cite web|url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/10407601/Chelsea-2-Manchester-City-1-match-report.html |title=Chelsea 2 Manchester City 1: match report |publisher=The Telegraph |date=27 October 2013 |accessdate=27 October 2013 }}&lt;/ref&gt; On 7 December, he then scored two goals against [[Stoke City]] in a 3–2 defeat.&lt;ref&gt;{{cite web|url=http://kr.chelseafc.com/chelsea-article/article/3566499 |archive-url=https://archive.is/20150118045552/http://kr.chelseafc.com/chelsea-article/article/3566499 |dead-url=yes |archive-date=18 January 2015 |title=MATCH REPORT: STOKE CITY 3 CHELSEA 2 |publisher=Chelseafc.com |date=7 December 2013 |accessdate=11 January 2015 }}&lt;/ref&gt;
+
+Schürrle scored his first [[List of Premier League hat-tricks|Premier League hat-trick]] the following 1 March, against [[Fulham F.C.|Fulham]] in a 3–1 away victory in the [[West London derby]].&lt;ref&gt;{{cite web|title=Andre Schurrle's hat-trick sees Chelsea beat Fulham 3–1|url=http://www1.skysports.com/football/live/match/287558/report|publisher=Sky Sports News | date = 1 March 2014 | accessdate = 11 January 2015}}&lt;/ref&gt; Three weeks later, he assisted [[Samuel Eto'o]]'s goal in the fifth minute and sent Chelsea into a 2–0 lead in the seventh minute at home to Arsenal; he was awarded Man of the match after Chelsea won 6–0.&lt;ref&gt;{{cite web|title= Premier League: Chelsea destroy 10-man Arsenal 6-0 as referee blunders |url=http://www1.skysports.com/football/live/match/287588/report|publisher=Sky Sports News | date = 23 March 2014 | accessdate = 11 January 2015 | first = Rob | last = Parrish}}&lt;/ref&gt; On 8 April, he scored in Chelsea's second leg [[UEFA Champions League]] match against [[Paris Saint-Germain F.C.|Paris Saint-Germain]], to advance to the semi-finals on the away-goals rule.&lt;ref&gt;{{cite web | url = http://www1.skysports.com/football/live/match/310247 | title = Champions League: Demba Ba's late goal sends Chelsea through against Paris St-Germain | publisher = Sky Sports News | date = 9 April 2014 | accessdate = 11 January 2015 | first = Rob | last = Parrish}}&lt;/ref&gt; His first season in England ended with eight goals in 30 Premier League matches.
+
+On 18 August 2014, in Chelsea's first game of the new league season, Schürrle scored the second goal of a 3–1 victory away to [[Burnley F.C.|Burnley]], from a [[Cesc Fàbregas]] pass.&lt;ref&gt;{{cite news|title=Burnley 1–3 Chelsea|url=https://www.bbc.co.uk/sport/0/football/28735901|accessdate=18 August 2014|work=[[BBC Sport]]|date=18 August 2014}}&lt;/ref&gt; This was later voted ''[[Match of the Day]]''{{'}}s goal of the month.&lt;ref&gt;{{cite web | url = http://weaintgotnohistory.sbnation.com/2014/9/15/6153667/bbc-motd-goal-of-the-month-andre-schurrle-vs-burnley | title = BBC MotD Goal of the Month: Andre Schurrle vs. Burnley | publisher = weaintgotnohistory.sbnation.com | date = 15 September 2014 | accessdate = 11 January 2015 | first = David | last = Pasztor}}&lt;/ref&gt; Chelsea finished the season as Premier League champions and Schürrle, despite going on to complete a transfer to Wolfsburg in early 2015, received a medal, having played 14 matches in the league season. He was not aware that he had played enough matches to earn a medal, and was surprised when manager [[José Mourinho]] texted him to tell him of the recognition.&lt;ref name="medal"&gt;{{cite news|title=Andre Schurrle: Jose Mourinho texted me to say I'd won the title|url=https://www.bbc.co.uk/sport/0/football/32740747|accessdate=14 May 2015|work=BBC Sport|date=14 May 2015}}&lt;/ref&gt;
+
+===Wolfsburg===
+[[File:Emirates Cup - Arsenal v Wolfsburg (20012494129) (cropped) Andre Schürrle.jpg|thumb|upright|Schürrle playing for [[VfL Wolfsburg|Wolfsburg]] in 2015]]
+
+{{quote| You have to make a decision, and in the end I only wanted to play football again. Germany manager [[Joachim Löw]] told me it would be a great move for me and that is why Wolfsburg are a step forward for me. Wolfsburg have a great team as well and can play for silverware in the Bundesliga and in Europe.|Schürrle, on his transfer to Wolfsburg, in 2015.&lt;ref&gt;{{cite web|title=Mourinho wanted me to stay at Chelsea - Schurrle|url=http://www.goal.com/en/news/15/germany/2015/02/18/9034142/mourinho-wanted-me-to-stay-at-chelsea-schurrle|date=18 February 2015|accessdate=18 February 2015}}&lt;/ref&gt;}}
+On 2 February 2015, Schürrle returned to the Bundesliga, joining [[VfL Wolfsburg|Wolfsburg]] for a fee of £22 million.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/31087979 |title=Andre Schurrle: Chelsea forward completes £22m Wolfsburg move |date=13 August 2010 |accessdate=2 February 2015 |work=BBC}}&lt;/ref&gt; Five days later he made his debut for the club, playing the entirety of a 3–0 home win over [[TSG Hoffenheim|Hoffenheim]] and setting up goals for [[Bas Dost]] and [[Kevin De Bruyne]].&lt;ref&gt;{{cite news|last1=Banerjee|first1=Rohan|title=Andre Schurrle shines on Wolfsburg debut alongside fellow former Chelsea winger Kevin de Bruyne as they cruise to win over Hoffenheim|url=http://www.dailymail.co.uk/sport/football/article-2944051/Andre-Schurrle-shines-Wolfsburg-debut-alongside-fellow-former-Chelsea-winger-Kevin-Bruyne-cruise-win-Hoffenheim.html|accessdate=8 February 2015|work=[[Daily Mail]]|date=7 February 2015}}&lt;/ref&gt; His first goal for the club came on 4 April, in a 3–1 win over [[VfB Stuttgart]].&lt;ref&gt;{{cite news|last1=Gill|first1=Kieran|title=Andre Schurrle relieved to score first goal for Wolfsburg after goal drought was 'eating away' at the former Chelsea forward|url=http://www.dailymail.co.uk/sport/football/article-3026454/Andre-Schurrle-relieved-score-goal-Wolfsburg-goal-drought-eating-away-former-Chelsea-forward.html|accessdate=7 April 2015|work=Daily Mail|date=4 April 2015}}&lt;/ref&gt; On 30 May, Wolfsburg won the [[DFB-Pokal]] for the first time after beating [[Borussia Dortmund]] 3–1 in [[2015 DFB-Pokal Final|the final]] at the [[Olympiastadion (Berlin)|Olympiastadion]] in Berlin, Schürrle playing the final nine minutes in place of [[Maximilian Arnold]].&lt;ref&gt;{{cite news|title=Dortmund 1-3 Wolfsburg: DFB-Pokal won by De Bruyne and Dost|url=http://www.goal.com/en-gb/match/borussia-dortmund-vs-wolfsburg/1683489/report|accessdate=30 May 2015|work=Goal.com|date=30 May 2015}}&lt;/ref&gt;
+
+Schürrle was a 63rd-minute substitute for [[Daniel Caligiuri]] as Wolfsburg won the [[2015 DFL-Supercup]] on 1 August, scoring in the [[penalty shoot-out (association football)|penalty shootout]].&lt;ref name=supercup&gt;{{cite news|last1=Dunbar|first1=Ross|title=Bendtner leads Wolfsburg over Bayern Munich on penalties in German Super Cup clash|url=http://www.foxsports.com/soccer/story/bendtner-leads-wolfsburg-over-bayern-munich-on-penalties-in-german-super-cup-clash-080115?vid=null|accessdate=3 August 2015|publisher=Fox Sports|date=1 August 2015}}&lt;/ref&gt; On 25 November, after again replacing Caligiuri in the 61st minute, he scored both goals in a Champions League [[2015–16 UEFA Champions League group stage|group stage]] win at [[PFC CSKA Moscow|CSKA Moscow]].&lt;ref&gt;{{cite news|last1=Gadd|first1=Michael|title=CSKA Moscow 0-2 Wolfsburg: Super-sub Andre Schurrle strikes twice to eliminate Russians from Champions League|url=http://www.dailymail.co.uk/sport/football/article-3333956/CSKA-Moscow-0-2-Wolfsburg-Super-sub-Andre-Schurrle-strikes-twice-eliminate-Russians-Champions-League.html|accessdate=25 November 2015|work=Daily Mail|date=25 November 2015}}&lt;/ref&gt;
+
+On 1 March 2016, exactly two years after scoring his first club [[hat-trick]] for Chelsea, Schürrle recorded his first treble for Wolfsburg in their 4–0 win against [[Hannover 96]].&lt;ref&gt;{{cite news|title=Super Tuesday for Kenedy, Schürrle and Atlético|url=http://www.uefa.com/uefachampionsleague/news/newsid=2338298.html|accessdate=3 March 2016|publisher=UEFA|date=1 March 2016}}&lt;/ref&gt; A week later he scored the only goal in a 1–0 (4–2 aggregate) win over Belgian side [[K.A.A. Gent|Gent]] to advance his team to the [[2015–16 UEFA Champions League|UEFA Champions League quarter-finals]] for the first time in their history.&lt;ref&gt;{{Cite web|url=http://www.espnfc.com/uefa-champions-league/match/439167/vfl-wolfsburg-kaa-gent/report|title=Andre Schurrle scores as Wolfsburg advance past Gent|website=ESPNFC.com|access-date=2016-03-08}}&lt;/ref&gt;
+
+===Borussia Dortmund===
+On 22 July 2016, Schürrle joined [[Borussia Dortmund]] for an undisclosed fee.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/36864010|title=André Schürrle: Borussia Dortmund sign Wolfsburg winger|newspaper=BBC|access-date=22 July 2016}}&lt;/ref&gt;&lt;ref name="BVB"&gt;{{cite web|url=http://www.bvb.de/eng/News/Overview/Borussia-Dortmund-sign-Andre-Schuerrle|title=Borussia Dortmund sign André Schürrle|website=Borussia Dortmund official website|access-date=22 July 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.vfl-wolfsburg.de/en/info/news/detailspage/artikel/bvb-bound-43298.html|title=BVB bound|website=VfL Wolfsburg official website|access-date=22 July 2016}}&lt;/ref&gt; On 14 August 2016, Schürrle made his debut coming off the bench in 2–0 defeat against [[FC Bayern Munich|Bayern Munich]] in the [[2016 DFL-Supercup|DFL-Supercup]].&lt;ref&gt;{{cite web|url=https://www.dfb.de/supercup/spielplan/?spieledb_path=%2Fmatches%2F2234139 |title=Deutscher Supercup, 2016, Finale |date=14 August 2016}}&lt;/ref&gt;
+
+==== Fulham (loan) ====
+On 25 July 2018, [[Fulham F.C.|Fulham]] announced the signing of Schürrle on a two season loan.&lt;ref&gt;{{cite web|url=https://twitter.com/FulhamFC/status/1022213648763170816|title=Fulham Football Club on Twitter: "Welcome to Fulham Football Club, @Andre_Schuerrle!"|work=Twitter|accessdate=25 July 2018}}&lt;/ref&gt; On 26 August, Schürrle scored his first goal for the club in a 4–2 victory over [[Burnley F.C.|Burnley]].&lt;ref&gt;{{cite web|url=http://www.goal.com/en-us/news/55/main/2018/08/26/47310392/fulham-4-burnley-2-mitrovic-brace-helps-cottagers-get-off|title=Fulham 4 Burnley 2: Mitrovic brace helps Cottagers get off the mark|publisher=Goal.com|accessdate=27 August 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:Andre Schürrle, Germany national football team (04).jpg|thumb|upright|Schürrle playing for [[Germany national football team|Germany]] in 2011]]
+
+===Youth team===
+Schürrle made his debut in a [[UEFA European Under-19 Football Championship]] qualifying match against [[Luxembourg national football team|Luxembourg]], which resulted in a 3–0 win.{{citation needed|date=April 2014}} After impressing for [[1. FSV Mainz 05]] in the [[Bundesliga]] he was called up to the [[Germany national under-21 football team|under-21 team]] in 2009.{{citation needed|date=April 2014}}
+
+===Senior team===
+In November 2010, Schürrle received a call up to the [[Germany national football team|senior team]].&lt;ref&gt;{{cite news | url=https://www.independent.co.uk/sport/football/international/l246w-caps-germanys-rising-stars-2130556.html | title=Löw caps Germany's rising stars | publisher=The Independent | date = 11 November 2010 | accessdate = 19 May 2011 | first = David | last = Plummer}}&lt;/ref&gt; He subsequently made his debut in a friendly against [[Sweden national football team|Sweden]], appearing as a substitute in the 79th minute. Schürrle and [[Mario Götze]], who came on simultaneously, were the first two German international players to be born in [[German reunification|reunified Germany]].&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/preview?id=299387&amp;cc=5739 |title=Kazakhs seek damage limitation against Germany |publisher=ESPN Soccernet |date=26 March 2011 |accessdate=19 May 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20121102072517/http://soccernet.espn.go.com/preview?id=299387 |archivedate=2 November 2012 }}&lt;/ref&gt; On 29 May 2011, Schürrle scored his first goal for the senior team, during a friendly against [[Uruguay national football team|Uruguay]] in a 2–1 win.&lt;ref&gt;{{cite web | url = http://www.uefa.com/friendlies/season=2012/matches/round=2000293/match=2007928/index.html | title = Germany get better of Uruguay again | publisher = UEFA.com | date = 29 May 2011 | accessdate = 30 March 2013}}&lt;/ref&gt;
+
+Schürrle was chosen in Germany's squad for their [[UEFA Euro 2012 qualifying|qualification]] for [[UEFA Euro 2012]]. He scored against [[Azerbaijan national football team|Azerbaijan]] in a 3–1 win, on 7 June 2011.&lt;ref&gt;{{cite web | url = http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002135/index.html | title = Gomez strikes in Azerbaijan as Germany march on | publisher = UEFA.com | date = 7 June 2011 | accessdate = 30 March 2013}}&lt;/ref&gt; On 2 September 2011, he scored again in the 6–2 thrashing victory over Austria,&lt;ref name="UEFA_15171_2002111"&gt;{{cite web | url = http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002111/index.html | title = Germany stroll past Austria to reach EURO 2012 | publisher = UEFA.com | date = 2 September 2011 | accessdate = 30 March 2013}}&lt;/ref&gt; in both cases coming on as a substitute. In the next qualification fixture against [[Belgium national football team|Belgium]] on 11 October 2011, Schürrle was rewarded with his first start in the Euro 2012 qualifiers, and scored in the 33rd minute chipping over [[Simon Mignolet]].&lt;ref&gt;{{cite web | url = http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002112/index.html | title = Germany stamp out Belgium's fire | publisher = UEFA.com | date = 11 October 2011 | accessdate = 30 March 2013}}&lt;/ref&gt; After scoring three times during the campaign as Germany won ten out of ten games to top their [[UEFA Euro 2012 qualifying Group A|group]] in their qualifiers, Schürrle was named in the Germany 23-man squad for [[UEFA Euro 2012]] and was given the number nine shirt.&lt;ref name="UEFA_15171_2002111" /&gt; He made his first appearance at Euro 2012 on 17 June, coming on as a substitute in the 64th minute for [[Lukas Podolski]], in the 2–1 win over [[Denmark national football team|Denmark]].&lt;ref&gt;{{cite web | url = http://www.uefa.com/uefaeuro/season=2012/matches/round=15172/match=2003338/postmatch/report/index.html | title = German joy signals despair for Denmark | publisher = UEFA.com | date = 17 June 2012 | accessdate = 30 March 2013}}&lt;/ref&gt;
+
+On 15 October 2013, Schürrle scored a hat-trick in a 5–3 away win against [[Sweden national football team|Sweden]] in [[2014 FIFA World Cup qualification (UEFA)|2014 FIFA World Cup qualification]].&lt;ref&gt;{{cite news|title=World Cup qualifiers: Germany end campaign with 5–3 win over Sweden|url=http://www1.skysports.com/football/live/match/253857/report|accessdate=17 June 2014|work=[[Sky Sports News]]|date=15 October 2013}}&lt;/ref&gt;
+
+Schürrle was named in Germany's squad for the [[2014 FIFA World Cup]].&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/germany/10810439/Germany-World-Cup-2014-squad.html|title=Germany World Cup 2014 squad|date=2 June 2014|accessdate=22 June 2014|work=The Telegraph}}&lt;/ref&gt; He made his [[FIFA World Cup]] debut as a substitute in the team's opening match, a 4–0 victory over [[Portugal national football team|Portugal]].&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/25285106|title=Germany 4–0 Portugal|date=16 June 2014|accessdate=22 June 2014|work=BBC | first = David | last = Ornstein}}&lt;/ref&gt; In the 2–1 victory over [[Algeria national football team|Algeria]] in the [[2014 FIFA World Cup knockout stage#Round of 16|round of 16]], Schürrle came on for  Götze as a half-time substitute and scored the opening goal of the match in the second minute of [[extra time]].&lt;ref&gt;{{cite news|last =Ornstein|first =David|title=Germany 2–1 Algeria|url=https://www.bbc.co.uk/sport/0/football/27969924|accessdate=30 June 2014|publisher=[[BBC Sport]]|date=30 June 2014}}&lt;/ref&gt; On 8 July, he scored Germany's final two goals after replacing [[Miroslav Klose]] as a 58th-minute substitute in a [[Mineirazo|7–1 semi-final victory]] over [[Brazil national football team|Brazil]].&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/28102403|title=Brazil 1–7 Germany|date=8 July 2014|accessdate=9 July 2014|work=BBC | first = Phil | last = McNulty}}&lt;/ref&gt; Schürrle again came on as a substitute in [[2014 FIFA World Cup Final|the final]] against [[Argentina national football team|Argentina]], replacing the injured [[Christoph Kramer]] in the first half. He provided the cross for Götze's winning goal in the 113th minute, as Germany won its fourth World Cup.&lt;ref&gt;{{cite news|last =McNulty|first =Phil|title=Germany 1–0 Argentina|url=https://www.bbc.co.uk/sport/0/football/28181689|work=[[BBC Sport]]|date=13 July 2014 | accessdate = 11 January 2015}}&lt;/ref&gt;
+
+During [[UEFA Euro 2016 qualification|qualification]] for [[UEFA Euro 2016]], Schürrle scored a hat-trick in a 7–0 away win over [[Gibraltar national football team|Gibraltar]] on 13 June 2015.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/33122742|title=Armenia 2-3 Portugal|date=14 June 2015|work=BBC}}&lt;/ref&gt;
+
+==Playing style==
+Schürrle usually plays as a winger but naturally positioned as a second striker.&lt;ref name=mirrorsscoutingreport&gt;{{cite news|last=Dunbar|first=Ross|title=Chelsea target Andre Schürrle scouting report: All you need to know about the Germany star|url=https://www.mirror.co.uk/sport/football/news/chelsea-target-andre-schrrle-scouting-1835452|accessdate=6 May 2013|newspaper=The Mirror|date=1 May 2013}}&lt;/ref&gt; One of Schürrle's "key assets" is his "long-distance sprinting on the counter-attack."&lt;ref name=mirrorsscoutingreport/&gt; Schürrle also has an excellent fitness level, work-rate and pace.&lt;ref name=mirrorsscoutingreport/&gt; Schürrle is considered to be a "good finisher" and "capable of executing counter-attacks effectively".&lt;ref name=mirrorsscoutingreport/&gt; He often likes to cut inside, shoot from distance and enjoys time on the ball.&lt;ref&gt;{{cite web|title=André Schürrle |url=http://www.whoscored.com/Players/77461|website=whoscored.com | accessdate = 11 January 2015}}&lt;/ref&gt;
+
+==Personal life==
+Schürrle was born in [[Ludwigshafen]], [[Rhineland-Palatinate]] to Luise&lt;ref&gt;{{cite web | url=http://www.spiegel.de/sport/fussball/das-magazin-11freunde-ueber-leverkusens-nationalspieler-andre-schuerrle-a-858172.html | title = Leverkusener Nationalspieler: Schnell, stark, Schürrle | publisher = Spiegel Online | date = 2 October 2012 | accessdate = 30 August 2013 | language = German }}&lt;/ref&gt; and Joachim Schürrle.&lt;ref&gt;{{cite web | url=http://metro.co.uk/2012/12/04/andre-schurrle-will-resist-chelsea-transfer-for-now-says-father-3301024/ | title= Andre Schurrle will resist Chelsea transfer – for now, says father | publisher=Metro | date = 4 December 2012 | accessdate = 1 August 2013 | first = Massimo | last = Marioni}}&lt;/ref&gt; When he was a youngster, he told in an interview with German football magazine ''[[11 Freunde]]'' that his idols were [[Michael Ballack]] and [[Raúl (footballer)|Raúl]].&lt;ref&gt;{{cite web|url=https://www.bundesliga.com/en/news/Bundesliga/0000317301.jsp|title=Ten things about Andre Schürrle|publisher=Bundesliga|accessdate=26 August 2018}}&lt;/ref&gt; He is dating [[Kazakhs|Kazakh]]-born model Anna Sharypova whom he first met in January 2017.&lt;ref&gt;{{cite web|url=https://www.dailystar.co.uk/news/latest-news/718708/andre-schurrle-borussia-dortmund-crystal-palace-fc-fulham-fc-anna-sharypova-transferl|title=World cup winner in surprise move to Premier League as WAG posts CRYPTIC message|publisher=Daily Star|accessdate=27 August 2018}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|9 February 2019}}&lt;ref&gt;{{Soccerway|andre-schurrle/86503}}&lt;/ref&gt;&lt;!-- NOTE: when updating stats, update the infobox too! --&gt;&lt;ref name = "soccerbase"&gt;{{cite web | url = http://www.soccerbase.com/players/player.sd?player_id=52342 | title = Andre Schurrle | publisher = Soccerbase | accessdate = 1 May 2014 }}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center;"
+|-
+!colspan=3|Club performance!!colspan=2|League!!colspan=2|Cup!!colspan=2|League Cup!!colspan=2|Continental!!colspan=2|Other!!colspan=2|Total
+|-
+!Club!!League!!Season!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[1. FSV Mainz 05|Mainz 05]]||rowspan=2|[[Bundesliga]]||[[2009–10 Bundesliga|2009–10]]||33||5||1||0||rowspan=2 colspan=2|—||colspan=2|—||rowspan=2 colspan=2|—||34||5
+|-
+|[[2010–11 1. FSV Mainz 05 season|2010–11]]||33||15||1||0||colspan=2|—||34||15
+|-
+! Colspan="2"| Total!!66!!20!!2!!0!!colspan=2|—!!colspan=2|—!!colspan=2|—!!68!!20
+|-
+|rowspan=3|[[Bayer 04 Leverkusen|Bayer Leverkusen]]||rowspan=2|[[Bundesliga]]||[[2011–12 Bayer 04 Leverkusen season|2011–12]]||31||7||1||1||rowspan=2 colspan=2|—||8||1||rowspan=2 colspan=2|—||40||9
+|-
+|[[2012–13 Bayer 04 Leverkusen season|2012–13]]||34||11||3||1||6||2||43||14
+|-
+! colspan=2| Total!!65!!18!!4!!2!!colspan=2|—!!14!!3!!colspan=2|—!!83!!23
+|-
+|rowspan=3|[[Chelsea F.C.|Chelsea]]||rowspan=2|[[Premier League]]||[[2013–14 Chelsea F.C. season|2013–14]]|| 30 || 8 || 1 || 0 || 1 || 0 || 10 || 1 || 1 || 0 || 43 || 9
+|-
+|[[2014–15 Chelsea F.C. season|2014–15]]|| 14 || 3 || 1 || 0 || 3 || 1 || 4 || 1 ||colspan=2|—|| 22 || 5
+|-
+! colspan=2| Total!!44!!11!!2!!0!!4!!1!!14!!2!!1!!0!!65!!14
+|-
+|rowspan=3|[[VfL Wolfsburg|Wolfsburg]]||rowspan=2|[[Bundesliga]]||[[2014–15 VfL Wolfsburg season|2014–15]]|| 14 || 1 || 4 || 0 ||colspan=2|—|| 4 || 0 ||colspan=2|—|| 22 || 1
+|-
+|[[2015–16 VfL Wolfsburg season|2015–16]]|| 29 || 9 || 1 || 1 ||colspan=2|—|| 10 || 2 || 1 || 0 || 41 || 12
+|-
+! colspan=2| Total!! 43 || 10 || 5 || 1 ||colspan=2|—|| 14 || 2 || 1 || 0 || 63 || 13
+|-
+|rowspan=3|[[Borussia Dortmund]]
+|rowspan=2|[[Bundesliga]]
+|[[2016–17 Borussia Dortmund season|2016–17]]
+|15||2||3||2||colspan=2|—||6||1||1||0||25||5
+|-
+|[[2017–18 Borussia Dortmund season|2017–18]]
+|18||1||3||0||colspan=2|—||5||2||0||0||26||3
+|-
+! colspan=2| Total!! 33 || 3 || 6 || 2 || colspan=2|—|| 11 || 3 || 1 || 0 || 51 || 8
+|-
+|[[Fulham F.C.|Fulham]] (loan)
+|[[Premier League]]
+|[[2018–19 Fulham F.C. season|2018–19]]
+|22||6||0||0||1||0||colspan=2|—||colspan=2|—||23||6
+|-
+!colspan=3|Career total!! 273 !! 68 !! 19 !! 5 !! 5 !! 1 !! 52 !! 10 !! 3 !! 0 !! 353 !! 84
+|}
+
+===International===
+:''As of 22 March 2017''&lt;ref&gt;{{cite web|title=André Schürrle|url=http://eu-football.info/_player.php?id=26632|website=eu-football.info |accessdate=19 August 2014}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Germany national football team|Germany]]
+|-
+!Year!!Apps!!Goals
+|-
+|2010||1||0
+|-
+|2011||10||5
+|-
+|2012||9||2
+|-
+|2013||10||4
+|-
+|2014||12||6
+|-
+|2015||7||3
+|-
+|2016||6||0
+|-
+|2017||2||2
+|-
+!Total||57||22
+|}
+
+===International goals===
+:''Scores and results list Germany's goal tally first.''&lt;ref name="NFT"&gt;{{cite web|url=http://www.national-football-teams.com/player/40560/Andre_Schuerrle.html|title=Schürrle, André|publisher=National Football Teams|accessdate=14 December 2016}}&lt;/ref&gt;
+
+{|class="wikitable plainrowheaders sortable"
+|-
+!Goal!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| 1. || 29 May 2011 || [[Rhein-Neckar-Arena]], [[Sinsheim]], Germany || {{fb|URU}} || align=center | '''2'''–0 || align=center | 2–1 || [[Exhibition game|Friendly]]
+|-
+| 2. || 7 June 2011 || [[Tofiq Bahramov Republican Stadium]], [[Baku]], Azerbaijan || {{fb|AZE}} || align=center | '''3'''–1 || align=center | 3–1 || [[UEFA Euro 2012 qualifying Group A|UEFA Euro 2012 qualifying]]
+|-
+| 3. || 10 August 2011 || [[Mercedes-Benz Arena (Stuttgart)|Mercedes-Benz Arena]], [[Stuttgart]], Germany || {{fb|BRA}} || align=center | '''3'''–1 || align=center | 3–2 || Friendly
+|-
+| 4. || 2 September 2011 || [[Veltins-Arena]], [[Gelsenkirchen]], Germany || {{fb|AUT}} || align=center | '''5'''–2 || align=center | 6–2 || rowspan=2|UEFA Euro 2012 qualifying
+|-
+| 5. || 11 October 2011 || [[Esprit Arena]], [[Düsseldorf]], Germany || {{fb|BEL}} || align=center | '''2'''–0 || align=center | 3–1
+|-
+| 6. || 26 May 2012 || [[St. Jakob-Park]], [[Basel]], Switzerland || {{fb|SUI}} || align=center | '''2'''–3 || align=center | 3–5 || rowspan=2|Friendly
+|-
+| 7. || 31 May 2012 || [[Red Bull Arena (Leipzig)|Red Bull Arena]], [[Leipzig]], Germany || {{fb|ISR}} || align=center | '''2'''–0 || align=center | 2–0
+|-
+| 8. || 11 October 2013 || [[RheinEnergieStadion]], [[Cologne]], Germany || {{fb|IRL}} || align=center | '''2'''–0 || align=center | 3–0 || rowspan=4|[[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification]]
+|-
+| 9. || rowspan="3" | 15 October 2013 || rowspan="3" | [[Friends Arena]], [[Stockholm]], Sweden|| rowspan="3" | {{fb|SWE}} || align=center | '''3'''–2 || rowspan="3" style="text-align:center"|5–3
+|-
+| 10. || align=center | '''4'''–2
+|-
+| 11. || align=center | '''5'''–3
+|-
+| 12. || 1 June 2014 || [[Borussia-Park]], [[Mönchengladbach]], Germany || {{fb|CMR}} || align=center | '''2'''–1 || align=center | 2–2 || rowspan=2|Friendly
+|-
+| 13. || 6 June 2014 || [[Opel Arena (stadium)|Opel Arena]], [[Mainz]], Germany || {{fb|ARM}} || align=center | '''1'''–0 || align=center | 6–1
+|-
+| 14. || 30 June 2014 || [[Estádio Beira-Rio]], [[Porto Alegre]], Brazil || {{fb|ALG}} || align=center | '''1'''–0 || align=center | 2–1 || rowspan=3|[[2014 FIFA World Cup knockout stage|2014 FIFA World Cup]]
+|-
+| 15. || rowspan="2" | 8 July 2014 || rowspan="2" | [[Mineirão]], [[Belo Horizonte]], Brazil|| rowspan="2" | {{fb|BRA}} || align=center | '''6'''–0 || rowspan="2" style="text-align:center"|7–1
+|-
+| 16. || align=center | '''7'''–0
+|-
+| 17. || 3 September 2014 || Esprit Arena, Düsseldorf, Germany || {{fb|ARG}} || align=center | '''1'''–4 || align=center | 2–4 || Friendly
+|-
+| 18. || rowspan="3" | 13 June 2015 || rowspan="3" | [[Estádio Algarve]], [[Algarve]], Portugal|| rowspan="3" | {{fb|GIB}} || align=center | '''1'''–0 || rowspan="3" style="text-align:center"|7–0 || rowspan="3" | UEFA Euro 2016 qualifying
+|-
+| 19. || align=center | '''5'''–0
+|-
+| 20. || align=center | '''6'''–0
+|-
+| 21. || rowspan="2" | 26 March 2017 || rowspan="2" | Tofiq Bahramov Republican Stadium, Baku, Azerbaijan || rowspan="2" | {{fb|AZE}} || align=center | '''1'''–0 ||  rowspan="2" style="text-align:center;"| 4–1 || rowspan="2" | [[2018 FIFA World Cup qualification &amp;ndash; UEFA Group C|2018 FIFA World Cup qualification]]
+|-
+| 22. || align=center | '''4'''–1
+|}
+
+==Honours==
+[[File:Germany and Argentina face off in the final of the World Cup 2014 -2014-07-13 (17).jpg|thumb|alt=Germany and Argentina face off in the final of the World Cup 2014|Schürrle celebrates winning the [[2014 FIFA World Cup]] with [[Germany national football team|Germany]]]]
+
+'''Chelsea'''
+*[[Premier League]]: [[2014–15 Premier League|2014–15]]&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/4750/André-Schürrle/overview |title=André Schürrle: Overview |publisher=Premier League |accessdate=18 April 2018}}&lt;/ref&gt;
+
+'''Wolfsburg'''
+*[[DFB-Pokal]]: [[2014–15 DFB-Pokal|2014–15]]&lt;ref name="Soccerway"&gt;{{cite web |url=https://uk.soccerway.com/players/andre-schurrle/86503/ |title=A. Schürrle: Summary |website=Soccerway |publisher=Perform Group |accessdate=18 April 2018}}&lt;/ref&gt;
+*[[DFL-Supercup]]: [[2015 DFL-Supercup|2015]]&lt;ref name="Soccerway" /&gt;
+
+'''Borussia Dortmund'''
+*DFB-Pokal: [[2016–17 DFB-Pokal|2016–17]]&lt;ref name="Soccerway" /&gt;
+
+'''Germany'''
+*[[FIFA World Cup]]: [[2014 FIFA World Cup|2014]]&lt;ref name="Soccerway" /&gt;
+
+'''Individual'''
+*[[Premier League Goal of the Month]]: [[2018–19 Premier League#Monthly awards|January 2019]]&lt;ref&gt;{{cite news |title=Award-winning goal one of my best, says Schurrle |publisher=Premier League |url=https://www.premierleague.com/news/1049373 |date=8 February 2019 |accessdate=8 February 2019}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+{{portal|Biography|Football in Germany}}
+*{{Official website|1=http://www.andre-schuerrle.de/}} {{de icon}}
+*[http://www.chelseafc.com/first-team/player/54337/title/andre-schurrle Chelsea profile]
+*{{fussballdaten|schuerrleandre|André Schürrle}}
+*{{FIFA player|306548|André Schürrle}}
+*{{UEFA player|250005337|André Schürrle}}
+*{{ESPN Soccernet|id=136580}}
+*[http://www.soccerbase.com/players/player.sd?player_id=52342 Career stats] at Soccerbase
+*{{NFT player|pid=40560}}
+
+{{Fulham F.C. squad}}
+{{Fritz Walter Medal Under-19}}
+{{Navboxes
+| bg          = white
+| fg          = black
+| bordercolor = black
+| title       = Germany squads
+| list1  = 
+{{Germany squad UEFA Euro 2012}}
+{{Germany squad 2014 FIFA World Cup}}
+{{Germany squad UEFA Euro 2016}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Schurrle, Andre}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:People from Ludwigshafen]]
+[[Category:Footballers from Rhineland-Palatinate]]
+[[Category:German footballers]]
+[[Category:Germany youth international footballers]]
+[[Category:Germany under-21 international footballers]]
+[[Category:Germany international footballers]]
+[[Category:Association football forwards]]
+[[Category:Bundesliga players]]
+[[Category:Premier League players]]
+[[Category:1. FSV Mainz 05 players]]
+[[Category:Bayer 04 Leverkusen players]]
+[[Category:Chelsea F.C. players]]
+[[Category:VfL Wolfsburg players]]
+[[Category:Borussia Dortmund players]]
+[[Category:Fulham F.C. players]]
+[[Category:UEFA Euro 2012 players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:FIFA World Cup-winning players]]
+[[Category:German expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:German expatriate sportspeople in England]]</text>
+      <sha1>n4nbxmp0kbof1cvef2aelyrtyykpn9v</sha1>
+    </revision>
+  </page>
+</mediawiki>

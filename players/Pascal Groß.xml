@@ -1,0 +1,277 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pascal Groß</title>
+    <ns>0</ns>
+    <id>22672221</id>
+    <revision>
+      <id>885529973</id>
+      <parentid>883623735</parentid>
+      <timestamp>2019-02-28T16:34:07Z</timestamp>
+      <contributor>
+        <username>Beeney xx</username>
+        <id>35180261</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13175">{{Use dmy dates|date=January 2014}}
+{{Infobox football biography
+| name = Pascal Groß
+| image = Pascal Gross.jpg
+| image_size = 
+| caption = Groß playing for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] in 2018
+| fullname = Pascal Groß&lt;ref&gt;{{cite web |title=Squads for 2017/18 Premier League confirmed |url=https://www.premierleague.com/news/465277 |publisher=Premier League |date=1 September 2017 |accessdate=9 September 2017}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1991|6|15|df=y}}
+| birth_place = [[Mannheim]], Germany&lt;ref&gt;{{cite web | url = http://www.worldfootball.net/spieler_profil/pascal-gross_2/ | title = Pascal Gross | publisher = worldfootball.net | accessdate = 29 August 2010}}&lt;/ref&gt;
+| height = 1.81 m&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/22542/Pascal-Gro%C3%9F/overview |title=Pascal Groß: Overview |publisher= Premier League |accessdate=4 September 2018}}&lt;/ref&gt;
+| position = [[Midfielder]]
+| currentclub = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+| clubnumber = 13
+| youthyears1 = {{0|0000}}–2007
+| youthclubs1 = [[VfL Neckarau]]
+| youthyears2 = 2007–2008
+| youthclubs2 = [[1899 Hoffenheim]]
+| years1 = 2008–2011
+| clubs1 = [[TSG 1899 Hoffenheim|1899 Hoffenheim]]
+| caps1 = 5
+| goals1 = 0
+| years2 = 2009–2011
+| clubs2 = [[TSG 1899 Hoffenheim II|1899 Hoffenheim II]]
+| caps2 = 17
+| goals2 = 4
+| years3 = 2011–2012
+| clubs3 = [[Karlsruher SC]]
+| caps3 = 25
+| goals3 = 3
+| years4 = 2011
+| clubs4 = [[Karlsruher SC II]]
+| caps4 = 11
+| goals4 = 1
+| years5 = 2012–2017
+| clubs5 = [[FC Ingolstadt 04]]
+| caps5 = 158
+| goals5 = 17
+| years6 = 2013
+| clubs6 = [[FC Ingolstadt 04 II]]
+| caps6 = 1
+| goals6 = 0
+| years7 = 2017–
+| clubs7 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+| caps7 = 57
+| goals7 = 9
+| nationalyears1 = 2008–2009
+| nationalteam1 = [[Germany national under-18 football team|Germany U18]]
+| nationalcaps1 = 10
+| nationalgoals1 = 2
+| nationalyears2 = 2009
+| nationalteam2 = [[Germany national under-19 football team|Germany U19]]
+| nationalcaps2 = 2
+| nationalgoals2 = 0
+| club-update = 16:32, 28 February 2019 (UTC)
+| nationalteam-update = 
+}}
+'''Pascal Groß''' ({{IPA-de|pasˈkaːl ˈɡʁoːs}}, sometimes rendered in English as '''Gross'''; born 15 June 1991) is a German professional [[association football|footballer]] who plays as a [[midfielder]] for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]. Groß is a youth international for Germany.&lt;ref&gt;{{cite web|url=http://datencenter.dfb.de/profil/151555/spiele_in_wettbewerb/1355/31271#c1355_t31271|title=Pascal Groß Personenprofil :: DFB – Deutscher Fußball-Bund e.V.|website=datencenter.dfb.de}}&lt;/ref&gt;
+
+==Career==
+===Early career===
+Groß played his first fully professional match in the [[Bundesliga]] for [[TSG 1899 Hoffenheim|1899 Hoffenheim]] on 2 May 2009 in a 0–4 loss against [[VfL Wolfsburg]].&lt;ref&gt;{{cite web|url=http://www.kicker.de/news/fussball/bundesliga/spieltag/spielpaarungsbericht/object/863684|title=13-Minuten-Hattrick von Dzeko|work=kicker.de|date=2 May 2009|accessdate=3 May 2009}}&lt;/ref&gt; being substituted on in the 89th minute for [[Chinedu Obasi]]. In January 2011, he transferred to [[Karlsruher SC]] along with Hoffenheim teammate [[Marco Terrazzino]].&lt;ref name="KSC"&gt;{{cite web|title=KSC verpflichtet zwei U20-Nationalspieler: Terrazzino und Groß wechseln in den Wildpark|trans-title=KSC signs two U20 Internationals: Terrazzino and Groß are transferring to the Wildpark|language=German|date=28 January 2011|accessdate=28 January 2011|publisher=[[Karlsruher SC]]|work=official website|url=http://www.ksc.de/aktuelles/anzeigen/news/ksc-verpflichtet-zwei-u20-nationalspieler-terrazzino-und-gross-wechseln-in-den-wildpark.html|deadurl=yes|archiveurl=https://web.archive.org/web/20110131080343/http://www.ksc.de/aktuelles/anzeigen/news/ksc-verpflichtet-zwei-u20-nationalspieler-terrazzino-und-gross-wechseln-in-den-wildpark.html|archivedate=31 January 2011|df=dmy-all}}&lt;/ref&gt;
+
+===Ingolstadt===
+Groß scored five league goals for [[FC Ingolstadt]] in the 2016–17 season as they were relegated from the Bundesliga. He created more chances than any other player in the league that season, a total of 95 chances.&lt;ref&gt;{{Cite news|url=https://www.goal.com/en-gb/amp/news/brighton-pascal-gross-first-premier-league-signing-chris-hughton-/1u4yjm9p946n6zf8nwo2aq68k|title=Brighton sign Pascal Groß|publisher=Goal.com|accessdate=9 September 2017}}&lt;/ref&gt;
+
+{{Expand section|date=November 2017}}
+
+===Brighton &amp; Hove Albion===
+In May 2017, [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] signed Groß for a fee of £3 million.&lt;ref&gt;{{cite news|title=Pascal Gross: Brighton &amp; Hove Albion sign FC Ingolstadt 04 midfielder|url=https://www.bbc.com/sport/football/39980263|accessdate=19 May 2017|work=BBC Sport|date=19 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://uk.reuters.com/article/uk-soccer-england-brh-new-gross/brightons-under-the-radar-signing-gross-proving-his-worth-idUKKCN1BX2RV |title=Brighton's under the radar signing Gross proving his worth|first=Pete|last= Hall|date=22 September 2017|work=Reuters }}&lt;/ref&gt;  He agreed to a four-year contract while the transfer fee paid to Ingolstadt was the first of a series of record signings for the club that season.&lt;ref&gt;{{cite news |url=http://www.sportbible.com/football/transfers-brighton-have-broken-their-transfer-record-yet-again-20170807 |title=Brighton Have Broken Their Transfer Record Yet Again|first=Josh |last=Lawless |work=Sport Bible |date=7 August 2017}}&lt;/ref&gt;
+
+He made his debut for Brighton in the [[Premier League]] on 12 August 2017, in a 2–0 home defeat to title favourites [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{Cite news|url=http://m.bbc.co.uk/sport/football/40835422|title=Brighton &amp; Hove Albion 0–2 Manchester City|publisher=BBC Sport|date=12 August 2017}}&lt;/ref&gt; On 9 September 2017, Groß made history by scoring Brighton's first ever Premier League goal, adding a second shortly after half time and providing an assist for [[Tomer Hemed]] in a 3–1 win at home against [[West Bromwich Albion F.C.|West Bromwich Albion]].&lt;ref&gt;{{cite news|title=Premier League ruft! Gross verlässt FCI|url=http://www.kicker.de/news/fussball/bundesliga/startseite/678459/artikel_premier-league-ruft-gross-verlaesst-fci.html|accessdate=19 May 2017|work=kicker Online|date=19 May 2017|language=German}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Brighton &amp; Hove Albion 3–1 West Bromwich Albion|url=https://www.bbc.co.uk/sport/football/41133349|accessdate=10 September 2017|work= BBC Sport|date=9 September 2017}}&lt;/ref&gt; On 15 September, in Brighton's 2–1 league defeat away to [[AFC Bournemouth]], Groß provided the assist for [[Solly March]]'s opening goal.&lt;ref&gt;{{Cite news|url=http://m.bbc.co.uk/sport/football/41196761|title=AFC Bournemouth 2–1 Brighton &amp; Hove Albion|publisher=BBC Sport|date=15 September 2017}}&lt;/ref&gt;
+
+Groß's creative exploits for Brighton throughout the month of September earned him a nomination for the [[Premier League]] Player of the Month award. He was a key player for Brighton, being directly involved in four of their league goals scored throughout the month.&lt;ref&gt;{{Cite news|url=http://www.theargus.co.uk/sport/15582380.Let_s_be_more_confident__award_contender_Gross_urges_Albion/|title=Premier League player of the month contender Pascal Gross urges Brighton and Hove Albion to be more confident|publisher=The Argus|date=7 October 2017}}&lt;/ref&gt;
+
+On 15 October 2017, Groß provided his third assist of the season for Brighton, setting up [[Anthony Knockaert]] in a 1–1 league draw at home to [[Everton F.C.|Everton]].&lt;ref&gt;{{Cite news|url=http://m.bbc.co.uk/sport/football/41541146|title=Brighton &amp; Hove Albion 1–1 Everton|publisher=BBC Sport|date=15 October 2017}}&lt;/ref&gt; On 20 November, Groß scored for Brighton in a 2–2 home draw against [[Stoke City F.C.|Stoke City]]. The goal brought his contribution tally up to three goals and five assists throughout the course of the season.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/41964596|title=Brighton 2–2 Stoke|publisher=BBC Sport|date=20 November 2017}}&lt;/ref&gt;
+
+Groß ended a successful season for Brighton with seven goals and eight assists, including heading the winner against Manchester United on 4 May 2018.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/43916611|title=Brighton &amp; Hove Albion 1–0 Manchester United|date=2018-05-04|work=BBC Sport|access-date=2018-05-17|language=en-GB}}&lt;/ref&gt; Amongst many highlights, Groß was voted Brighton's player of the season by an overwhelming majority.&lt;ref&gt;{{Cite web|url=http://www.theargus.co.uk/sport/16171462.Bargain_buy_Gross_named_Albion_s_Player_of_the_Season/|title=Bargain buy Gross named Albion's Player of the Season|website=The Argus|language=en|access-date=2018-05-17}}&lt;/ref&gt;
+
+On 6 June 2018, Groß signed a contract extension with Brighton, keeping him at the club until 2022.&lt;ref&gt;{{cite web|url=https://www.brightonandhovealbion.com/news/2018/june/new-deal-for-midfielder/|title=New deal for midfielder|publisher=Brighton &amp; Hove Albion F.C.|date=6 June 2018|accessdate=7 June 2018}}&lt;/ref&gt;
+
+==Personal life==
+His father, [[Stephan Groß|Stephan]], was also a footballer who played for [[Karlsruher SC]].&lt;ref name="KSC"/&gt;
+
+==Career statistics==
+{{updated|26 February 2019}}&lt;ref&gt;{{soccerway|pascal-gross/78198|accessdate=8 June 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|Cup
+!colspan=2|League Cup
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[TSG 1899 Hoffenheim|1899 Hoffenheim]]
+|[[2008–09 TSG 1899 Hoffenheim season|2008–09]]
+|[[Bundesliga]]
+|4||0||0||0||colspan="2"|—||colspan="2"|—||4||0
+|-
+|[[2009–10 TSG 1899 Hoffenheim season|2009–10]]
+|Bundesliga
+|1||0||1||0||colspan="2"|—||colspan="2"|—||2||0
+|-
+!colspan=2|Total
+!5!!0!!1!!0!!colspan="2"|—||colspan="2"|—||6!!0
+|-
+|[[TSG 1899 Hoffenheim II|1899 Hoffenheim II]]
+|[[2010–11 Regionalliga|2010–11]]
+|[[Regionalliga Süd (1994–2012)|Regionalliga Süd]]
+|17||4||colspan="2"|—||colspan="2"|—||colspan="2"|—||17||4
+|-
+|rowspan=3|[[Karlsruher SC II]]
+|[[2010–11 Regionalliga|2010–11]]
+|Regionalliga Süd
+|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[2011–12 Regionalliga|2011–12]]
+|Regionalliga Süd
+|8||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||8||1
+|-
+!colspan=2|Total
+!11!!1!!colspan="2"|—||colspan="2"|—||colspan="2"|—||11!!1
+|-
+|rowspan=3|[[Karlsruher SC]]
+|[[2010–11 2. Bundesliga|2010–11]]
+|[[2. Bundesliga]]
+|3||1||0||0||colspan="2"|—||colspan="2"|—||3||1
+|-
+|[[2011–12 2. Bundesliga|2011–12]]
+|2. Bundesliga
+|22||2||1||0||colspan="2"|—||2||1||25||3
+|-
+!colspan=2|Total
+!25!!3!!1!!0!!colspan="2"|—||2!!1!!28!!4
+|-
+|[[FC Ingolstadt 04 II]]
+|[[2013–14 Regionalliga|2013–14]]
+|[[Regionalliga Bayern]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|rowspan=6|[[FC Ingolstadt 04]]
+|[[2012–13 2. Bundesliga|2012–13]]
+|[[2. Bundesliga]]
+|30||2||1||0||colspan="2"|—||colspan="2"|—||31||2
+|-
+|[[2013–14 2. Bundesliga|2013–14]]
+|2. Bundesliga
+|29||2||2||0||colspan="2"|—||colspan="2"|—||31||2
+|-
+|[[2014–15 2. Bundesliga|2014–15]]
+|2. Bundesliga
+|34||7||1||0||colspan="2"|—||colspan="2"|—||35||7
+|-
+|[[2015–16 Bundesliga|2015–16]]
+|Bundesliga
+|32||1||1||0||colspan="2"|—||colspan="2"|—||33||1
+|-
+|[[2016–17 Bundesliga|2016–17]]
+|Bundesliga
+|33||5||2||0||colspan="2"|—||colspan="2"|—||35||5
+|-
+!colspan=2|Total
+!158!!17!!7!!0!!colspan="2"|—||colspan="2"|—||165!!17
+|-
+|rowspan=3|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+|[[2017–18 Brighton &amp; Hove Albion F.C. season|2017–18]]
+|[[Premier League]]
+|38||7||1||0||0||0||colspan="2"|—||39||7
+|-
+|[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]
+|Premier League
+|19||2||1||0||1||0||colspan="2"|—||21||2
+|-
+!colspan=2|Total
+!57!!9!!2!!0!!1!!0||colspan="2"|—||60!!9
+|-
+!colspan=3|Career total
+!274!!34!!11!!0!!1!!0!!2!!1!!288!!35
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Fussballdaten|grosspascal2|Pascal Groß}}
+*{{Soccerbase}}
+
+{{Brighton &amp; Hove Albion F.C. Player of the Year}}
+{{Brighton &amp; Hove Albion F.C. squad}}
+
+{{DEFAULTSORT:Gross, Pascal}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Mannheim]]
+[[Category:German footballers]]
+[[Category:Germany youth international footballers]]
+[[Category:TSG 1899 Hoffenheim II players]]
+[[Category:TSG 1899 Hoffenheim players]]
+[[Category:Karlsruher SC players]]
+[[Category:FC Ingolstadt 04 players]]
+[[Category:Brighton &amp; Hove Albion F.C. players]]
+[[Category:Association football midfielders]]
+[[Category:Bundesliga players]]
+[[Category:2. Bundesliga players]]
+[[Category:Premier League players]]
+[[Category:Expatriate footballers in England]]
+[[Category:German expatriate footballers]]
+[[Category:German expatriate sportspeople in England]]
+[[Category:Footballers from Baden-Württemberg]]
+[[Category:FC Ingolstadt 04 II players]]</text>
+      <sha1>drvjdsefvwbj156a24te5oi5jp0jsdm</sha1>
+    </revision>
+  </page>
+</mediawiki>

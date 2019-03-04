@@ -1,0 +1,351 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jordan Ayew</title>
+    <ns>0</ns>
+    <id>25461352</id>
+    <revision>
+      <id>884761459</id>
+      <parentid>884755903</parentid>
+      <timestamp>2019-02-23T20:57:24Z</timestamp>
+      <contributor>
+        <username>Eagleash</username>
+        <id>17699731</id>
+      </contributor>
+      <comment>/* Club */ updating</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20491">{{EngvarB|date=May 2014}}
+{{Use dmy dates|date=May 2014}}
+{{Infobox football biography
+| name                  = Jordan Ayew
+| image                 = 20150331 Mali vs Ghana 023.jpg
+| image_size            = 
+| caption               = Jordan Ayew playing for Ghana in 2015
+| fullname              = Jordan Pierre Ayew&lt;ref&gt;{{cite web |title=List of Players |url=http://www.cafonline.com/userfiles/file/CAN2012/Group%20D%20teams.pdf |publisher=Confederation of African Football |format=PDF |page=4 |archiveurl=https://web.archive.org/web/20131109004153/http://www.cafonline.com/userfiles/file/CAN2012/Group%20D%20teams.pdf |archivedate=9 November 2013 |deadurl=yes}}&lt;/ref&gt;
+| birth_date            = {{Birth date and age|1991|9|11|df=y}}
+| birth_place           = [[Marseille]], France
+| height                = 1.82 m&lt;ref&gt;{{cite web |url=https://www.om.net/equipes/effectifs/joueurs/15172/ayew-jordan |title=Fiche joueur Jordan Ayew |publisher=Olympique de Marseille |accessdate=23 October 2015 |archiveurl=https://web.archive.org/web/20150815024530/https://www.om.net/equipes/effectifs/joueurs/15172/ayew-jordan |archivedate=15 August 2015 |deadurl=no}}&lt;/ref&gt;
+| position              = [[Forward (association football)|Forward]]
+| currentclub           = [[Crystal Palace F.C.|Crystal Palace]]&lt;br&gt;(on loan from [[Swansea City A.F.C.|Swansea City]])
+| clubnumber            = 14
+| youthyears1           = 2000–2006
+| youthclubs1           = [[AS Lyon Duchère|Lyon Duchère]]
+| youthyears2           = 2006–2009
+| youthclubs2           = [[Olympique de Marseille|Marseille]]
+| years1                = 2009–2014
+| clubs1                = [[Olympique de Marseille|Marseille]]
+| caps1                 = 111
+| goals1                = 14
+| years2                = 2014
+| clubs2                = → [[FC Sochaux-Montbéliard|Sochaux]] (loan)
+| caps2                 = 17
+| goals2                = 5
+| years3                = 2014–2015
+| clubs3                = [[FC Lorient|Lorient]]
+| caps3                 = 31
+| goals3                = 12
+| years4                = 2015–2017
+| clubs4                = [[Aston Villa F.C.|Aston Villa]]
+| caps4                 = 51
+| goals4                = 9
+| years5                = 2017–
+| clubs5                = [[Swansea City A.F.C.|Swansea City]]
+| caps5                 = 50
+| goals5                = 8
+| years6                = 2018–
+| clubs6                = → [[Crystal Palace F.C.|Crystal Palace]] (loan)
+| caps6                 = 18
+| goals6                = 1
+| nationalyears1        = 2010
+| nationalteam1         = [[Ghana national under-20 football team|Ghana U20]]
+| nationalcaps1         = 1
+| nationalgoals1        = 1
+| nationalyears2        = 2010–
+| nationalteam2         = [[Ghana national football team|Ghana]]
+| nationalcaps2         = 51&lt;!-- When you update this parameter, please update the ntupdate parameter! --&gt;
+| nationalgoals2        = 14&lt;!-- When you update this parameter, please update the ntupdate parameter! --&gt;
+| medaltemplates        =
+{{MedalSport|[[Association football|Football]]}}
+{{medalTeam|[[Olympique de Marseille]]}}
+{{medalW|[[Coupe de la Ligue]]|[[2010 Coupe de la Ligue Final|2010]]}}
+{{medalW|[[Ligue 1]]|[[2009–10 Ligue 1|2010]]}}
+{{medalW|[[Trophée des Champions]]|[[2010 Trophée des Champions|2010]]}}
+{{medalW|[[Coupe de la Ligue]]|[[2011 Coupe de la Ligue Final|2011]]}}
+{{medalW|[[Trophée des Champions]]|[[2011 Trophée des Champions|2011]]}}
+{{medalW|[[Coupe de la Ligue]]|[[2012 Coupe de la Ligue Final|2012]]}}
+| club-update           = 20:19, 23 February 2019 (UTC)
+| ntupdate              = 18 November 2018
+}}
+'''Jordan Pierre Ayew''' (born 11 September 1991) is a Ghanaian professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Premier League]] club [[Crystal Palace F.C.|Crystal Palace]] on loan from [[Swansea City A.F.C.|Swansea City]] and the [[Ghana national football team|Ghana national team]]. He is the son of former Ghana captain [[Abedi Pele]] and brother of [[André Ayew]], who plays for [[Fenerbahçe S.K. (football)|Fenerbahçe]].
+
+==Club career==
+===Marseille===
+[[File:Valais Cup 2013 - OM-FC Porto 13-07-2013 - Maicon et Jordan Ayew.jpg|thumb|300px|right|Ayew playing for [[Olympique de Marseille]] in 2013]]
+Ayew joined [[Olympique de Marseille|Marseille]] as a trainee in 2006. He signed a three-year professional [[Association football contracts|contract]] with Marseille in 2009. Jordan Ayew made his debut for the senior team on 16 December 2009 in a [[Ligue 1|league]] match, scoring the equaliser against [[FC Lorient|Lorient]]. [[Olympique de Marseille|Marseille]] went on to win the match 2–1.&lt;ref&gt;{{LFP|id=ayew-jordan}}&lt;/ref&gt;
+Ayew scored his second goal against [[OGC Nice|Nice]] at the [[Stade Vélodrome]] on 27 April 2011 in a match which saw his elder brother [[André Ayew]] score a [[Hat-trick#Football .28Association football.29|hat-trick]]. On 1 November 2011, Jordan and André both started a [[UEFA Champions League]] match for the first time against Premier League outfit [[Arsenal F.C.|Arsenal]].
+
+On 6 January 2014, he joined Ligue 1 rivals [[FC Sochaux-Montbéliard|Sochaux]] on a loan deal until the end of the [[2013-14 Ligue 1|2013–14 season]].&lt;ref&gt;{{cite web|title=Jordan Ayew Officiellement Sochalien|url=http://www.fcsochaux.fr/fr/index.php?option=com_content&amp;view=article&amp;id=5939 |publisher=FC Sochaux-Montbéliard|accessdate=6 January 2014|date=6 January 2014}}&lt;/ref&gt;
+
+===Lorient===
+On 28 July 2014, Ayew signed a four-year contract with [[FC Lorient|Lorient]].&lt;ref&gt;{{cite web|title=Jordan Ayew FC Lorient decision|url=https://www.bbc.co.uk/sport/0/football/28530377 |publisher=BBC Sport|accessdate=29 July 2014|date=29 July 2014}}&lt;/ref&gt; Ayew explained the style and quality of play that Lorient proposed was the reason behind the decision.
+
+===Aston Villa===
+On 27 July 2015, Ayew joined [[Aston Villa F.C.|Aston Villa]] on a five-year deal for an undisclosed fee, reported to be in the region of £8&amp;nbsp;million.&lt;ref&gt;{{cite web|title=Breaking news: Villa sign Ayew |url=http://www.avfc.co.uk/page/NewsDetail/0,,10265~4891745,00.html |publisher=Aston Villa |accessdate=27 July 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20151118025652/http://www.avfc.co.uk/page/NewsDetail/0%2C%2C10265~4891745%2C00.html |archivedate=18 November 2015 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Aston Villa bid for Lorient's Jordan Ayew accepted, according to Sky sources|url=http://www.skysports.com/football/news/11095/9922994/aston-villa-bid-for-lorients-jordan-ayew-accepted-according-to-sky-sources|publisher=SkySports|accessdate=27 July 2015|date=24 July 2015}}&lt;/ref&gt; He scored his first goal for the club on 24 October 2015 against his elder brother's club, Swansea City, in the 62nd minute.&lt;ref&gt;{{cite web|title=Aston Villa 1–2 Swansea City|url=https://www.bbc.com/sport/0/football/34558441|publisher=BBC Sport|accessdate=10 November 2015}}&lt;/ref&gt; Aston Villa were relegated at the end of the 2015–16 season, winning only 17 points, but Ayew did end the season as their top scorer, albeit with just seven goals.
+
+===Swansea City===
+On 31 January 2017, Jordan Ayew joined Swansea City in exchange for Welsh International defender [[Neil Taylor (footballer)|Neil Taylor]], plus a fee from Swansea that can rise to £5&amp;nbsp;million if undisclosed future conditions are met.&lt;ref&gt;{{cite news|  title=Jordan Ayew: Swansea sign Aston Villa forward in Neil Taylor swap deal| url= https://www.bbc.com/sport/football/38800257|work=BBC Sport |date=31 January 2017|accessdate=4 February 2017}}&lt;/ref&gt; Jordan's elder brother was a Swansea City player during the 2015–16 season and later joined him in the winter transfer window of 2018.&lt;ref&gt;{{Cite web | url = https://www.bbc.co.uk/sport/football/42767978 | title = Andre Ayew: Swansea City re-sign Ghana forward from West Ham | publisher = BBC Sport | date = 31 January 2018 | accessdate = 2 February 2018 }}&lt;/ref&gt;
+
+===Crystal Palace (loan)===
+On transfer deadline day, Ayew joined Crystal Palace on loan for the [[2018–19 Crystal Palace F.C. season|2018–19 season]].&lt;ref&gt;{{Cite web|url=https://www.cpfc.co.uk/news/2018/august/jordan-ayew-joins-crystal-palace/|title=Jordan Ayew Joins Crystal Palace|publisher = Crystal Palace F.C.|date=9 August 2018|accessdate=9 August 2018}}&lt;/ref&gt;
+
+==International career==
+Ayew made his first senior [[Cap (sport)|appearance]] for [[Ghana national football team|Ghana]] on 5 September 2010, in a 3–0 [[2012 &amp; 2013 Africa Cup of Nations qualification|2012 AFCON Qualification]] match win against Swaziland, at the [[Somhlolo National Stadium]] in [[Lobamba]], Swaziland.&lt;ref&gt;{{cite web|title=Ghana beats Swaziland 3–0 in 2012 qualifier|url=http://www.ghanafa.org/blackstars/201009/5034.php|archive-url=https://web.archive.org/web/20100908090524/http://www.ghanafa.org/blackstars/201009/5034.php|dead-url=yes|archive-date=8 September 2010|publisher=[[Ghana Football Association]]|accessdate=7 June 2012|date=5 September 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Olympique de Marseille's Jordan Ayew Yearns For More With Ghana|url=http://www.goal.com/en/news/89/africa/2010/09/07/2105589/olympique-de-marseilles-jordan-ayew-yearns-for-more-with |author=K.N.S Mensah|publisher=Goal.com|accessdate=7 June 2012|date=7 September 2010}}&lt;/ref&gt; On 1 June 2012, Ayew scored his first and second international [[Goal (sport)|goals]] in a [[2014 FIFA World Cup qualification (CAF)#Group D|2014 World Cup qualification]] match win against Lesotho, at the [[Kumasi Sports Stadium]] in [[Kumasi]], Ghana.&lt;ref&gt;{{cite web|title=Ghana 7–0 Lesotho (2014 FIFA World Cup Qualifiers)|url=https://www.fifa.com/worldcup/preliminaries/africa/matches/round=258334/match=300176007/index.html|publisher=[[FIFA|Fédération Internationale de Football Association]] (FIFA)|accessdate=7 June 2012|date=1 June 2012}}&lt;/ref&gt; In December 2011, Ayew was named to the Ghana national team provisional 25-man squad for the [[2012 Africa Cup of Nations]],&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/1658/ghana/2011/12/15/2804053/ghana-announce-25-man-squad-for-2012-africa-cup-of-nations|title=Ghana announce 25-man squad for 2012 Africa Cup of Nations|last=Mensah|first=Kent|accessdate=7 June 2012|date=15 December 2011|publisher=Goal.com}}&lt;/ref&gt; and in January 2012 he was selected for the tournament's 23-man squad.&lt;ref name="Jordan Ayew - 2012 Africa Cup of Nations profile"&gt;{{cite web|url=http://www.mtnfootball.com/africa/african-tournaments/african-cup-of-nations/2012-player-profiles/ghana/jordan-ayew.html|title=Jordan Ayew – 2012 Africa Cup of Nations profile|accessdate=7 June 2012|work=mtnfootball.com|publisher=[[MTN Group]]|deadurl=yes|archiveurl=https://web.archive.org/web/20131007123731/http://www.mtnfootball.com/africa/african-tournaments/african-cup-of-nations/2012-player-profiles/ghana/jordan-ayew.html|archivedate=7 October 2013|df=dmy-all}}&lt;/ref&gt;
+
+In June 2014, he was included in the Ghanaian squad for the [[2014 FIFA World Cup|2014 World Cup]]. In Ghana's last warm-up match before the [[2014 FIFA World Cup]] in Brazil on 9 June 2014, Ayew came on as a first-half substitute for the injured [[Majeed Waris]] and ended up scoring a hat-trick in a 4–0 victory over [[South Korea national football team|South Korea]].&lt;ref&gt;{{cite web|url=http://www.espnfc.com/fifa-world-cup/story/1863563/ghana-4-0-south-korea-ayew-hat-trick |title=Ghana wins final World Cup warmup |publisher=ESPNFC |date=9 June 2014 |accessdate=9 June 2014 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gh/news/4389/ghana/2014/06/10/4871892/ghana-4-0-south-korea-j-ayews-hat-trick-inspires-confidence?ICID=HP_BN_1|title=Ghana 4–0 South Korea: J. Ayew's hat-trick inspires confidence ahead of World Cup|last=Mensah|first=Kent|accessdate=9 June 2014|date=10 June 2014|publisher=Goal.com}}&lt;/ref&gt;
+
+Jordan Ayew was part of the 2015 Africa Cup of Nations team in [[Equatorial Guinea]] that took a silver medal as result of losing out to Ivory Coast on a penalty shoot out whom they clinch the [[African Cup]], which occurred on 8 February 2015.
+
+==Personal life==
+Ayew is the son of Maha Ayew and [[Abedi Pele]]. His father, uncles [[Kwame Ayew|Kwame]] and Sola, and brothers [[André Ayew|André]], [[Ibrahim Ayew|Ibrahim]] and Imani are all current or former professional footballers. Ayew is a practising [[Muslim]].&lt;ref&gt;{{cite news|title=Picture: Jordan &amp; Andre Ayew pictured in Muslim prayers|url=http://ghanasoccernet.com/picture-jordan-andre-ayew-pictured-in-muslim-prayers/|publisher=ghanasoccernet.com|date=21 December 2013|accessdate=4 April 2014}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|23 February 2019}}&lt;ref name="Jordan Ayew - Statistics"&gt;{{cite news |url =https://int.soccerway.com/players/jordan-ayew/95810/ |title=Jordan Ayew – Statistics |work=Soccerway |accessdate=20 February 2018}}&lt;/ref&gt;
+{| class="wikitable" style="font-size:100%; text-align: center;"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=2|League
+!colspan=2|Cup{{efn|Includes [[Coupe de France]], [[Coupe de la Ligue]] and [[Trophée des Champions]] (France), [[FA Cup]] and [[EFL Cup]] (England)}}
+!colspan=2|Europe{{efn|Includes [[UEFA Supercup]], [[FIFA Club World Cup]], [[UEFA Champions League]]}}
+!colspan=2|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan=5|[[Olympique de Marseille|Marseille]]
+|[[2009–10 Olympique de Marseille season|2009–10]]
+|4||1||0||0||0||0||4||1
+|-
+|[[2010–11 Olympique de Marseille season|2010–11]]
+|22||2||4||0||3||0||29||2
+|-
+|[[2011–12 Olympique de Marseille season|2011–12]]
+|34||3||5||4||6||0||45||7
+|-
+|[[2012–13 Olympique de Marseille season|2012–13]]
+|35||7||3||0||9||3||47||10
+|-
+|[[2013–14 Olympique de Marseille season|2013–14]]
+|16||1||1||0||5||1||22||2
+|-
+|[[FC Sochaux-Montbéliard|Sochaux]] (loan){{efn|On loan from Marseille}}
+|[[2013–14 Ligue 1|2013–14]]
+|17||5||1||0||colspan=2|—||18||5
+|-
+|[[FC Lorient|Lorient]]
+|[[2014–15 FC Lorient season|2014–15]]
+|31||12||2||1||colspan=2|—||33||13
+|-
+|rowspan=2|[[Aston Villa F.C.|Aston Villa]]
+|[[2015–16 Aston Villa F.C. season|2015–16]]
+|30||7||6||0||colspan=2|—||36||7
+|-
+|[[2016–17 Aston Villa F.C. season|2016–17]]
+|21||2||1||1||colspan=2|—||22||3
+|-
+|rowspan=2|[[Swansea City A.F.C.|Swansea City]]
+|[[2016–17 Swansea City A.F.C. season|2016–17]]
+|14||1||0||0||colspan=2|—||14||1
+|-
+|[[2017–18 Swansea City A.F.C. season|2017–18]]
+|36||7||8||4||colspan=2|—||44||11
+|-
+|[[Crystal Palace F.C.|Crystal Palace]] (loan){{efn|On loan from Swansea City}}
+|[[2018–19 Crystal Palace F.C. season|2018–19]]
+|18||1||5||1||colspan=2|—||23||2
+|-
+!colspan=2|Career total
+!278!!49!!36!!11!!23!!4!!337!!64
+|}
+{{notelist}}
+
+===International===
+&lt;!-- NOTE: when updating stats, update the infobox too! --&gt;
+
+{{updated|match played on 18 November 2018}}&lt;ref name="NFT"&gt;{{NFT player|id=39898|name=Ayew, Jordan|accessdate=24 February 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/player/_/id/123518/jordan-ayew?cc=5739|title=Jordan Ayew|publisher=[[ESPN Soccernet]]|accessdate=7 June 2012}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+! National team!!Year!!Apps!!Goals
+|-
+| rowspan=9 valign="center"|[[Ghana national football team|Ghana]]
+| 2010 || 2 || 0
+|-
+| 2011 || 1 || 0
+|-
+| 2012 || 7 || 2
+|-
+| 2013 || 0 || 0
+|-
+| 2014 || 11 || 3
+|-
+| 2015 || 14 || 5
+|-
+| 2016 || 7 || 1
+|-
+| 2017 || 8 || 1
+|-
+| 2018 || 1 || 2
+|-
+! colspan=2 | Total !! 51 !! 14
+|}
+
+[[File:Jordan Ayew - TdC 2011.jpg|thumb|175px|Ayew winning [[2011 Trophée des Champions]] with [[Olympique de Marseille|Marseille]]]]
+
+===International goals===
+:''Scores and results list Ghana's goal tally first.''&lt;ref name="NFT"/&gt;
+
+{| class="wikitable" style="font-size:85%;"
+! No !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || rowspan=2 | 1 June 2012 || rowspan=2 | [[Baba Yara Stadium]], [[Kumasi]], Ghana || rowspan=2 | {{fb|LES}} || align=center | '''3'''–0 || rowspan=2 align=center|7–0 || rowspan=2 | [[2014 FIFA World Cup qualification – CAF Second Round|2014 FIFA World Cup qualification]]
+|-
+| 2. || align=center | '''6'''–0
+|-
+| 3. || rowspan=3 | 9 June 2014 || rowspan=3 | [[Sun Life Stadium]], [[Miami Gardens, Florida|Miami Gardens]], United States || rowspan=3 | {{fb|KOR}} || align=center | '''1'''–0 || rowspan=3 align=center| 4–0 || rowspan=3 | [[Exhibition game#Association football|Friendly]]
+|-
+| 4. || align=center | '''3'''–0
+|-
+| 5. || align=center | '''4'''–0
+|-
+| 6. || 5 February 2015 || [[Nuevo Estadio de Malabo]], [[Malabo]], Equatorial Guinea || {{fb|EQG}} ||align=center| '''1'''–0 ||align=center| 3–0 || [[2015 Africa Cup of Nations knockout stage|2015 Africa Cup of Nations]]
+|-
+| 7. || rowspan=2 | 14 June 2015 || rowspan=2 | [[Accra Sports Stadium]], [[Accra]], Ghana || rowspan=2 | {{fb|MRI}} || align=center | '''2'''–0 || rowspan=2 align=center|7–1 || rowspan=2 | [[2017 Africa Cup of Nations qualification Group H|2017 Africa Cup of Nations qualification]]
+|-
+| 8. || align=center | '''5'''–1
+|-
+| 9. || 1 September 2015 || [[Stade Municipal de Kintélé]], [[Brazzaville]], Republic of the Congo || {{fb|CGO}} || align=center|'''2'''–3 || align=center|2–3 || Friendly
+|-
+| 10. || 17 November 2015 || Baba Yara Stadium, Kumasi, Ghana || {{fb|COM}} || align=center|'''2'''–0 || align=center|2–0 || [[2018 FIFA World Cup qualification – CAF Second Round|2018 FIFA World Cup qualification]]
+|-
+| 11. || 24 March 2016 || Accra Sports Stadium, Accra, Brazil || {{fb|MOZ}} || align=center|'''3'''–0 || align=center|3–1 || 2017 Africa Cup of Nations qualification
+|-
+| 12. || 29 January 2017 || [[Stade d'Oyem]], [[Oyem]], Gabon || {{fb|COD}} || align=center|'''1'''–0 || align=center|2–1 || [[2017 Africa Cup of Nations knockout stage|2017 Africa Cup of Nations]]
+|-
+| 13. || rowspan=2 | 18 November 2018 || rowspan=2 | [[Addis Ababa Stadium]], [[Addis Ababa]], Ethiopia || rowspan=2 | {{fb|ETH}} || align=center | '''1'''–0 || rowspan=2 align=center|2–0 || rowspan=2 | [[2019 Africa Cup of Nations qualification Group F|2019 Africa Cup of Nations qualification]]
+|-
+| 14. || align=center | '''2'''–0
+|}
+
+==Honours==
+'''Olympique de Marseille'''
+*[[Ligue 1]]: [[2009-10 Ligue 1|2010]]&lt;ref name="Jordan Ayew - Statistics" /&gt;
+*[[Coupe de la Ligue]]: [[2010 Coupe de la Ligue Final|2010]],&lt;ref name="Jordan Ayew - Statistics" /&gt; [[2011 Coupe de la Ligue Final|2011]],&lt;ref name="Jordan Ayew - Statistics" /&gt; [[2012 Coupe de la Ligue Final|2012]]&lt;ref name="Jordan Ayew - Statistics" /&gt;
+*[[Trophée des Champions]]: [[2010 Trophée des Champions|2010]],&lt;ref name="Jordan Ayew - Statistics" /&gt; [[2011 Trophée des Champions|2011]]&lt;ref name="Jordan Ayew - Statistics" /&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [http://www.om.net/fr/Equipes/201002/Effectif_pro/1758/J_AYEW Jordan Ayew] at OM.net
+* {{Soccerbase}}
+* {{NFT player|id=39898}}
+
+{{Navboxes
+|title=Ghana squads
+| bg = #CA1118
+| fg = #FBE816
+| bordercolor = black
+|list1=
+{{Ghana squad 2012 Africa Cup of Nations}}
+{{Ghana squad 2014 FIFA World Cup}}
+{{Ghana squad 2015 Africa Cup of Nations}}
+{{Ghana squad 2017 Africa Cup of Nations}}
+}}
+{{Crystal Palace F.C. squad}}
+
+{{DEFAULTSORT:Ayew, Jordan}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Ghanaian Muslims]]
+[[Category:Sportspeople from Marseille]]
+[[Category:French footballers]]
+[[Category:Ghanaian footballers]]
+[[Category:Ghanaian expatriate footballers]]
+[[Category:Ghana international footballers]]
+[[Category:Association football forwards]]
+[[Category:AS Lyon-Duchère players]]
+[[Category:Olympique de Marseille players]]
+[[Category:FC Sochaux-Montbéliard players]]
+[[Category:FC Lorient players]]
+[[Category:Aston Villa F.C. players]]
+[[Category:Swansea City A.F.C. players]]
+[[Category:Ligue 1 players]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:Ghanaian expatriate sportspeople in France]]
+[[Category:Ghanaian expatriate sportspeople in the United Kingdom]]
+[[Category:Expatriate footballers in France]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Wales]]
+[[Category:French people of Ghanaian descent]]
+[[Category:2012 Africa Cup of Nations players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:2015 Africa Cup of Nations players]]
+[[Category:2017 Africa Cup of Nations players]]
+[[Category:French Muslims]]</text>
+      <sha1>jpibinwl38jbnhtwjbyo76vwrqnyuv4</sha1>
+    </revision>
+  </page>
+</mediawiki>

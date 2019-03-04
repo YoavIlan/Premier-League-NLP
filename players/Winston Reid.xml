@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Winston Reid</title>
+    <ns>0</ns>
+    <id>4396259</id>
+    <revision>
+      <id>882867409</id>
+      <parentid>882101956</parentid>
+      <timestamp>2019-02-11T20:44:27Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>/* Club statistics */ intl career stats table</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25256">{{about|the footballer|the cricketer|Winston Reid (cricketer)}}
+{{distinguish|Winston Reedy}}
+{{Use British English|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+{{Infobox football biography
+| name           = Winston Reid
+| image          = Winston Reid in September 2014.JPG
+| image_size     =
+| caption        = Reid warming up for [[West Ham United F.C.|West Ham United]] in 2014
+| fullname       = Winston Wiremu Reid&lt;ref name="Premier League Clubs submit Squad Lists"&gt;{{Cite news |title=Premier League Clubs submit Squad Lists |url=http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/squad-lists-February-2013.pdf |publisher=Premier League |format=PDF |date=1 February 2013 |page=39 |accessdate=24 June 2013}}&lt;/ref&gt;
+| birth_date     = {{Birth date and age|1988|7|3|df=y}}
+| birth_place    = [[North Shore, New Zealand|North Shore]], [[Auckland]], New Zealand
+| height         = 1.91 m&lt;ref&gt;{{cite web |url=http://www.premierleague.com/page/PlayerProfile/0,,12306~44344,00.html |title=Premier League Player Profile |accessdate=30 March 2011 |publisher=Premier League |deadurl=yes |archiveurl=https://web.archive.org/web/20101128085351/http://www.premierleague.com/page/PlayerProfile/0,,12306~44344,00.html |archivedate=28 November 2010}}&lt;/ref&gt;
+| youthyears1    =
+| youthclubs1    = SUB Sønderborg
+| youthyears2    =
+| youthclubs2    = [[FC Midtjylland|Midtjylland]]
+| currentclub    = [[West Ham United F.C.|West Ham United]]
+| clubnumber     = 2
+| position       = [[Defender (association football)|Defender]]
+| years1         = 2005–2010
+| clubs1         = [[FC Midtjylland|Midtjylland]]
+| caps1          = 84
+| goals1         = 2
+| years2         = 2010–
+| clubs2         = [[West Ham United F.C.|West Ham United]]
+| caps2          = 194&lt;!--LEAGUE ONLY --&gt;
+| goals2         = 9&lt;!--LEAGUE goals only not play-offs--&gt;
+| nationalyears1 = 2007
+| nationalcaps1  = 4
+| nationalgoals1 = 0
+| nationalteam1  = [[Denmark national under-19 football team|Denmark U19]]
+| nationalyears2 = 2008
+| nationalcaps2  = 1
+| nationalgoals2 = 0
+| nationalteam2  = Denmark U20
+| nationalyears3 = 2008–2010
+| nationalcaps3  = 10
+| nationalgoals3 = 0
+| nationalteam3  = [[Denmark national under-21 football team|Denmark U21]]
+| nationalyears4 = 2010–
+| nationalcaps4  = 24
+| nationalgoals4 = 1
+| nationalteam4  = [[New Zealand national football team|New Zealand]]
+| pcupdate       = 15:34, 3 March 2018 (UTC)
+| ntupdate       = 06:45, 16 November 2017 (UTC)
+}}
+'''Winston Wiremu Reid''' (born 3 July 1988) is a New Zealand professional [[association football|footballer]] who plays as a [[Defender (association football)|defender]] for English {{English football updater|WestHamU}} club [[West Ham United F.C.|West Ham United]] and also [[Captain (association football)|captains]] the [[New Zealand national football team|New Zealand national team]].
+
+== Early life ==
+Both Reid's parents have [[Māori people|Māori]] ancestry. He affiliates to [[Tainui]] through his father and to [[Te Rarawa]] through his mother.&lt;ref name=thanks&gt;{{Cite news |title=Thanks for the goal, Winston! |first=Yvonne |last=Tahana |url=http://www.nzherald.co.nz/soccer-football/news/article.cfm?c_id=86&amp;objectid=10652438 |newspaper=The New Zealand Herald |date=17 June 2010 |accessdate=17 June 2010}}&lt;/ref&gt; He was born in [[North Shore, New Zealand|North Shore]], [[Auckland]],&lt;ref name="autogenerated1"&gt;{{cite web |url=http://tvnz.co.nz/all-whites/player-profile-winston-reid-3546543 |title=All Whites player profile: Winston Reid |publisher=TVNZ |date=17 May 2010 |accessdate=16 June 2010}}&lt;/ref&gt; but moved from [[New Zealand]] to [[Denmark]] at the age of 10 with his mother and [[Danes|Danish]] stepfather. He always maintained contact with his father and his family in New Zealand.&lt;ref name=commits/&gt;
+
+== Club career ==
+
+=== FC Midtjylland ===
+Reid signed a youth contract with SUB Sønderborg, before moving on to play youth football with [[Danish Superliga]] club [[FC Midtjylland]]. He was one of the first players to graduate from [[FC Midtjylland|FCM's]] football academy, the first of its kind in Denmark, coming through the system alongside Midtjylland teammates [[Jesper Weinkouff]], [[Christian Sivebæk]] and former teammate, [[Simon Kjær]]. In November 2005, Reid signed a professional contract with FC Midtjylland.&lt;ref&gt;{{cite news |title=Et spirende talent |url=http://www.fcm.dk/index.php?ID=6&amp;nyhedID=88&amp;mode=laes_nyhed |language=Danish |publisher=FC Midtjlland Official Website |date=23 January 2006 |accessdate=13 February 2012}}&lt;/ref&gt; Aged 17, Reid made his FC Midtjylland debut in the [[Royal League]] tournament against Norwegian side [[Vålerenga Fotball|Vålerenga]] in a 4–0 win. He made his league debut for FC Midtjylland coming on for [[David Nielsen]] as a substitute in the 78th minute.&lt;ref&gt;{{cite news |title=Kampfakta: FCM&amp;nbsp;– Horsens |url=http://www.fcm.dk/index.php?ID=6&amp;nyhedID=245&amp;mode=laes_nyhed |language=Danish |publisher=FC Midtjlland Official Website |date=2 April 2006 |accessdate=13 February 2012}}&lt;/ref&gt; Playing few games in seasons 2005–06, 2006–07 and 2007–08 it was not until season 2008–09 that Reid made 28 appearances and scored his first goal against [[AaB Fodbold]] in a 3–2 loss on 23 March 2009 and scored his second in the league in his next match against [[AC Horsens]] in a 3–1 win on 5 April 2009. Reid also established himself in the starting eleven throughout the season until Reid left the club.
+
+=== West Ham United ===
+
+==== 2010–11 season ====
+Reid signed for [[West Ham United F.C.|West Ham United]] on 5 August 2010, on a three-year contract for an undisclosed fee.&lt;ref name="west ham"&gt;{{cite web |url=http://www.whufc.com/articles/20100805/reid-signs_2236884_2112684 |title=Reid signs |publisher=West Ham United Official Website |date=5 August 2010 |accessdate=5 August 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20120921085430/http://www.whufc.com/articles/20100805/reid-signs_2236884_2112684 |archivedate=21 September 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://soccernet.espn.go.com/news/story?id=811998&amp;sec=transfers&amp;cc=5739 |title=Hammers sign All Whites international Reid |date=5 August 2010 |work=ESPN Soccernet |accessdate=5 August 2010}}&lt;/ref&gt; His transfer fee was the subject of a dispute between West Ham United and FC Midtjylland as West Ham withheld the fee to bring to [[UEFA]]'s attention fees owing to them from the sale of [[Alessandro Diamanti]] to [[Brescia Calcio|Brescia]].&lt;ref&gt;{{cite news |title=West Ham refuse to pay Winston Reid transfer due to bitter dispute with Fifa |url=https://www.telegraph.co.uk/sport/football/teams/west-ham/8823344/West-Ham-refuse-to-pay-Winston-Reid-transfer-due-to-bitter-dispute-with-Fifa.html |publisher=Telegraph |date=13 October 2011 |accessdate=13 February 2012}}&lt;/ref&gt; He made his [[Premier League]] debut on 14 August, in a 3–0 loss to [[Aston Villa F.C.|Aston Villa]],&lt;ref&gt;{{cite news |last=Darling |first=Kevin |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8906162.stm |title=BBC Sport&amp;nbsp;– Football&amp;nbsp;– Aston Villa 3–0 West Ham |publisher=BBC News |date=14 August 2010 |accessdate=15 August 2010}}&lt;/ref&gt; and scored his first goal for the club in a 5–1 win against [[Burnley F.C.|Burnley]] in the Fifth Round of the [[FA Cup]] on 21 February 2011.&lt;ref name="WHUGoal"&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/9404702.stm |title=Winston Reid sympathises with New Zealand quake victims |publisher=BBC Sport |date=22 February 2011 |accessdate=2 June 2011 |author=Leon Mann}}&lt;/ref&gt; In his first season for West Ham United Reid's first team opportunities were limited, making just 12 appearances in all competitions as the club was relegated.
+
+==== 2011–12 season ====
+For the 2011–2012 season Reid stayed at West Ham following relegation to the [[Football League Championship|Championship]], and scored his first league goal for West Ham United in a 4–1 away win over [[Nottingham Forest F.C.|Nottingham Forest]].&lt;ref&gt;{{cite news |title=Nottingham Forest 1&amp;nbsp;– 4 West Ham United Match Report |url=http://www.whufc.com/articles/20110828/nottm-forest-1-west-ham-4_2234233_57971 |publisher=WHFC Official Website |date=28 August 2011 |accessdate=13 February 2012}}&lt;/ref&gt; Reid also scored the winning goal against arch-rivals [[Millwall F.C.|Millwall]] in a 2–1 home win on 4 February 2012.&lt;ref&gt;{{cite news |title=West Ham United 2&amp;nbsp;– 1 Millwall Match Report |url=http://www.whufc.com/articles/20120204/west-ham-2-millwall-1_2234233_59529 |publisher=WHFC Official Website |date=4 February 2012 |accessdate=13 February 2012}}&lt;/ref&gt; West Ham finished the season by winning the [[2012 Football League Championship play-off Final|Football League play-offs]] against [[Blackpool F.C.|Blackpool]] at [[Wembley Stadium]], and gaining promotion back to the Premier League at the first attempt.
+
+==== 2012–13 season ====
+In summer 2012, Reid opted to stay and train with his West Ham teammates ahead of the new Premier League season rather than represent [[New Zealand at the 2012 Summer Olympics#Men's tournament 2|New Zealand]] at the London Olympics.&lt;ref&gt;{{cite web |url=https://www.standard.co.uk/sport/football/west-ham-defender-winston-reid-chooses-club-over-country-as-he-turns-down-olympics-7869151.html |title=West Ham defender Winston Reid chooses club over country as he turns down Olympics&amp;nbsp;– Football&amp;nbsp;– Sport&amp;nbsp;– London Evening Standard |publisher=Standard.co.uk |date=20 June 2012 |accessdate=2013-01-05}}&lt;/ref&gt; He scored his first ever Premier League goal in West Ham's 3–0 victory against Fulham on 1 September 2012, and in May 2013 Reid signed a two-year extension to his contact until the end of the 2014–15 season.&lt;ref&gt;{{cite web |title=Winston Reid inks two-year deal at West Ham |url=http://www.stuff.co.nz/sport/football/8616509/Winston-Reid-inks-two-year-deal-at-West-Ham |publisher=www.stuff.co.nz |accessdate=1 May 2013}}&lt;/ref&gt; Arguably his best season since joining the club, Reid was rewarded for his form on 8 May 2013 when he was named [[West Ham United F.C.#Hammer of the Year|Hammer of the Year]], as West Ham went on to finish the season in 10th.&lt;ref name=Hoty&gt;{{cite web |title=Reid crowned Hammer of the Year |url=http://www.whufc.com/articles/20130508/reid-crowned-hammer-of-the-year_2236884_3172136 |publisher=Www.whufc.com |accessdate=9 May 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130511115924/http://www.whufc.com/articles/20130508/reid-crowned-hammer-of-the-year_2236884_3172136 |archivedate=11 May 2013}}&lt;/ref&gt;
+
+==== 2013–14 season ====
+Reid scored the opening goal in a 3–0 away win against rivals [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in October 2013. However, in November 2013 he suffered an ankle injury in training which required surgery. He made his return in February 2014 in a 2–0 home win against [[Swansea City A.F.C.|Swansea City]].&lt;ref&gt;{{Soccerbase season|49688|2013|access-date=2 February 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.whufc.com/articles/20131106/reid-injured_2236884_3526767 |title=Reid injured |publisher=www.whufc.com |accessdate=2 February 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140203234221/http://www.whufc.com/articles/20131106/reid-injured_2236884_3526767 |archivedate=3 February 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.whufc.com/articles/20131122/winston-reid-update_2236884_3540685 |title=Winston Reid update |publisher=www.whufc.com |accessdate=2 February 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.whufc.com/articles/20140201/west-ham-united-2-0-swansea-city-ft_2236884_3648687 |title=West Ham 2–0 Swansea |publisher=www.whufc.com |accessdate=2 February 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140202135628/http://www.whufc.com/articles/20140201/west-ham-united-2-0-swansea-city-ft_2236884_3648687 |archivedate=2 February 2014}}&lt;/ref&gt; Reid made his 100th appearance for West Ham in all competitions on 15 April, in a 1–3 defeat away to [[Arsenal F.C.|Arsenal]].
+
+==== 2014–15 season ====
+On 20 September, Reid scored the first goal after just two minutes in a 3–1 win against [[Liverpool F.C.|Liverpool]] at Upton Park.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/29187275 |title=West Ham United 3–1 Liverpool |publisher=BBC Sport |accessdate=23 November 2016}}&lt;/ref&gt; In March 2015, Reid signed a new six-and-a-half year contract with West Ham, after much speculation over his future at the club, after being linked with London rivals [[Arsenal F.C.|Arsenal]] and [[Tottenham Hotspur F.C.|Tottenham Hotspur]].&lt;ref name="sixandahalf"&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/31744884 |title=Winston Reid: West Ham defender signs six-and-a-half-year deal |publisher=BBC Sport |accessdate=5 March 2015}}&lt;/ref&gt;
+
+==== 2015–16 season ====
+[[File:West Ham United Vs Manchester City (24107027383).jpg|thumb|Reid before West Ham's 2–2 draw with [[Manchester City F.C.|Manchester City]], January 2016]]
+
+On 10 May 2016, Reid wrote his name into West Ham United folklore, when he scored the last ever goal at [[Boleyn Ground|Upton Park]] in a 3–2 win against [[Manchester United]].&lt;ref&gt;{{cite web |url=https://sports.yahoo.com/news/reid-thrills-boleyn-shred-man-utd-top-four-215126320--sow.html;_ylt=AwrEWDbLWzJXuDcARydXNyoA;_ylu=X3oDMTEybDZvZ21uBGNvbG8DYmYxBHBvcwMxBHZ0aWQDQjIwNDZfMQRzZWMDc2M- |title=Violence, drama as Man Utd's top-four hopes shredded |publisher= |accessdate=15 January 2017}}&lt;/ref&gt;
+
+== International career ==
+{{update|section|date=July 2016}}
+Reid received Danish [[citizenship]] in 2006&lt;ref name="west ham"/&gt; and was subsequently called up for the [[Denmark national under-19 football team|under-19 national team]]. He played for various Danish age-grade representative teams, in particular the under-19s and [[Denmark national under-21 football team|under-21s]], and played in the [[2009 UEFA European Under-21 Football Championship qualification play-offs|2009 European Under-21 Championship qualification]] tournament.
+
+On 11 March 2010, Reid stated that he wanted to play for the senior [[New Zealand national football team|New Zealand team]],&lt;ref name="3News_145900"&gt;{{cite news |url=http://www.3news.co.nz/All-Whites-bolster-ranks-with-Danish-star-Winston-Reid/tabid/415/articleID/145900/Default.aspx |title=All Whites bolster ranks with Danish star Winston Reid |author=Gourdie, Andrew |date=11 March 2010 |work=[[3 News]] |accessdate=4 December 2011}}&lt;/ref&gt; and on 13 March 2010 he made himself available for New Zealand's [[2010 FIFA World Cup|2010 World Cup]] selection.&lt;ref name=commits&gt;{{cite web |author=Woodcock, Fred |url=http://www.stuff.co.nz/sport/football/3443252/Reid-changes-mind-commits-to-All-Whites |title=Reid changes mind, commits to All Whites |work=The Dominion Post |date=13 March 2010 |accessdate=16 June 2010}}&lt;/ref&gt; On 10 May 2010, Reid was included in New Zealand's 2010 World Cup squad even though New Zealand national coach [[Ricki Herbert]] had never seen him play.&lt;ref name="autogenerated1"/&gt;&lt;ref&gt;{{cite web |last=Johnstone |first=Duncan |url=http://www.stuff.co.nz/sport/football/world-cup/3676399/All-Whites-World-Cup-squad-named |title=All Whites World Cup squad named |publisher=Stuff.co.nz |date=10 May 2010 |accessdate=16 June 2010}}&lt;/ref&gt; He made his international debut in a friendly against [[Australia national football team|Australia]] in [[Melbourne]] two weeks later. His second appearance came in the All Whites' shock 1–0 victory over [[Serbia national football team|Serbia]], leaving Ricki Herbert "suitably impressed" with Reid's performance,&lt;ref name="Stuff.co.nz_3756323"&gt;{{cite news |url=http://www.stuff.co.nz/sport/fifa-world-cup/all-whites/3756323/A-real-downer-for-Serb-fans-in-dress-rehearsal |title=A real downer for Serb fans in dress rehearsal |author=Smith, Tony |date=31 May 2010 |work=[[The Press]] |accessdate=4 December 2011}}&lt;/ref&gt; supplanting [[Ben Sigmund]] on the right side of Herbert's three-man defence.
+
+On 15 June 2010, Reid scored an equalising goal in stoppage time against [[Slovakia national football team|Slovakia]] in their opening game of the 2010 World Cup, thus securing a draw as well as his first ever international goal and New Zealand's first ever point in a World Cup finals match.&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_12 New Zealand 1–1 Slovakia] ''BBC Sport'', 15 June 2010&lt;/ref&gt;
+
+On 12 October 2010, Winston picked up his first international red card against [[Paraguay national football team|Paraguay]] in [[Wellington]] for a "vicious"&lt;ref&gt;{{cite web |last=Worthington |first=Sam |url=http://www.stuff.co.nz/sport/football/4230397/No-serious-damage-for-Winston-Reids-victim |title=No serious damage for Winston Reid's victim |publisher=The Dominion Post |date=14 October 2010 |accessdate=17 October 2010}}&lt;/ref&gt; studs-up tackle on striker [[Federico Santander]] in the 90th minute of the [[New Zealand national football team|All Whites']] 2–0 defeat.
+
+Following the retirement of [[Ryan Nelsen]] from international football in 2013, Winston Reid was named captain of the All Whites.&lt;ref&gt;{{cite web |url=http://www.stuff.co.nz/sport/football/8450714/Winston-Reid-named-All-Whites-captain |title=Winston Reid named new All Whites captain |publisher=Stuff.co.nz |date=20 March 2013 |accessdate=22 March 2013 |first=Tony |last=Smith}}&lt;/ref&gt; On 7 November 2013, Reid was ruled out of the All Whites' FIFA World Cup playoff against Mexico, not only leaving a void on defense, but also with his successor as captain uncertain.&lt;ref&gt;{{cite web |url=http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&amp;objectid=11152966 |title=Key questions: What now for Reid-less All Whites? |date=7 November 2013 |publisher= |accessdate=15 January 2017 |via=New Zealand Herald}}&lt;/ref&gt; As of December 2017, Reid has won 23 caps for his country.
+
+=== International goals ===
+:''Scores and results list New Zealand's goal tally first.''&lt;ref&gt;{{cite news |url=https://int.soccerway.com/players/winston-wiremu-reid/11749/ |title=W. Reid |publisher=Soccerway |accessdate=23 November 2016}}&lt;/ref&gt;
+
+{|class="wikitable plainrowheaders sortable"
+|-
+!Goal!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+|| 1. || 15 June 2010 || [[Royal Bafokeng Stadium]], [[Phokeng]], South Africa || {{fb|SVK}} || align=center | '''1'''–1 || align=center | 1–1 || [[2010 FIFA World Cup Group F|2010 FIFA World Cup]]
+|}
+
+==Career statistics==
+===Club===
+{{updated|match played 3 March 2018}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="7"|[[FC Midtjylland]]
+|[[2005–06 Danish Superliga|2005–06]]&lt;ref name="NFT"/&gt;
+|[[Danish Superliga]]
+|9||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||0
+|-
+|[[2006–07 Danish Superliga|2006–07]]&lt;ref name="NFT"/&gt;
+|Danish Superliga
+|11||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||11||0
+|-
+|[[2007–08 Danish Superliga|2007–08]]&lt;ref name="NFT"/&gt;
+|Danish Superliga
+|9||0||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||11||0
+|-
+|[[2008–09 Danish Superliga|2008–09]]&lt;ref name="SW"&gt;{{cite web |title=Winston Reid |url=https://int.soccerway.com/players/winston-wiremu-reid/11749/ |website=Soccerway |publisher=Perform Group |accessdate=20 April 2015}}&lt;/ref&gt;
+|Danish Superliga
+|25||2||1||0||colspan="2"|—||3{{efn|Appearances in [[UEFA Cup]]}}||1||colspan="2"|—||29||3
+|-
+|[[2009–10 Danish Superliga|2009–10]]&lt;ref name="SW"/&gt;
+|Danish Superliga
+|29||0||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||31||0
+|-
+|[[2010–11 Danish Superliga|2010–11]]&lt;ref name="SW"/&gt;
+|Danish Superliga
+|1||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!84!!2!!5!!0!!colspan="2"|—!!3!!1!!colspan="2"|—!!92!!3
+|-
+|rowspan="9"|[[West Ham United F.C.|West Ham United]]
+|[[2010–11 West Ham United F.C. season|2010–11]]&lt;ref&gt;{{Soccerbase season|49688|2010|access-date=20 April 2015}}&lt;/ref&gt;
+|[[Premier League]]
+|7||0||3||1||2||0||colspan="2"|—||colspan="2"|—||12||1
+|-
+|[[2011–12 West Ham United F.C. season|2011–12]]&lt;ref&gt;{{Soccerbase season|49688|2011|access-date=20 April 2015}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|28||3||2||0||0||0||colspan="2"|—||3{{efn|Appearances in [[EFL Championship play-offs|Championship play-offs]]}}||0||33||3
+|-
+|[[2012–13 West Ham United F.C. season|2012–13]]&lt;ref&gt;{{Soccerbase season|49688|2012|access-date=20 April 2015}}&lt;/ref&gt;
+|Premier League
+|36||1||1||0||0||0||colspan="2"|—||colspan="2"|—||37||1
+|-
+|[[2013–14 West Ham United F.C. season|2013–14]]&lt;ref&gt;{{Soccerbase season|49688|2013|access-date=20 April 2015}}&lt;/ref&gt;
+|Premier League
+|22||1||0||0||0||0||colspan="2"|—||colspan="2"|—||22||1
+|-
+|[[2014–15 West Ham United F.C. season|2014–15]]&lt;ref&gt;{{Soccerbase season|49688|2014|access-date=20 April 2015}}&lt;/ref&gt;
+|Premier League
+|30||1||2||0||1||0||colspan="2"|—||colspan="2"|—||33||1
+|-
+|[[2015–16 West Ham United F.C. season|2015–16]]&lt;ref&gt;{{Soccerbase season|49688|2014|access-date=20 April 2015}}&lt;/ref&gt;
+|Premier League
+|24||1||4||0||1||0||1{{efn|name=UEL|Appearance(s) in [[UEFA Europa League]]}}||0||colspan="2"|—||30||1
+|-
+|[[2016–17 West Ham United F.C. season|2016–17]]&lt;ref&gt;{{Soccerbase season|49688|2016|access-date=15 August 2017}}&lt;/ref&gt;
+|Premier League
+|30||2||1||0||2||0||3{{efn|name=UEL}}||0||colspan="2"|—||36||2
+|-
+|[[2017–18 West Ham United F.C. season|2017–18]]&lt;ref&gt;{{Soccerbase season|49688|2017|access-date=15 August 2017}}&lt;/ref&gt;
+|Premier League
+|17||0||1||0||1||0||colspan="2"|—||colspan="2"|—||19||0
+|-
+!colspan="2"|Total
+!194!!9!!14!!1!!7!!0!!4!!0!!3!!0!!222!!10
+|-
+!colspan="3"|Career total
+!278!!11!!19!!1!!7!!0!!7!!1!!3!!0!!311!!13
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 15 November 2017}}&lt;ref name=NFT&gt;{{NFT player |id=30205 |name=Reid, Winston |accessdate=11 February 2019}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=8|[[New Zealand national football team|New Zealand]]
+|2010||8||1
+|-
+|2011||1||0
+|-
+|2012||4||0
+|-
+|2013||4||0
+|-
+|2014||1||0
+|-
+|2015||1||0
+|-
+|2016||2||0
+|-
+|2017||3||0
+|-
+!colspan=2|Total||24||1
+|}
+
+== Honours ==
+
+=== Club ===
+'''West Ham United'''
+*[[Football League Championship play-offs]]: [[2012 Football League play-offs#Championship|2012]]
+
+=== Individual ===
+* [[West Ham United F.C.#Hammer of the Year|Hammer of the Year]]: [[2012–13 West Ham United F.C. season|2012–13]]
+* 2014 New Zealand Footballer of the Year, awarded by NZ Football Media Association in November 2015&lt;ref&gt;{{cite web |title=Reid honoured at NZFMA awards |url=http://www.nzfootball.co.nz/reid-honoured-at-nzfma-awards |publisher=NZ Football |accessdate=2 December 2015}}&lt;/ref&gt;
+
+== See also ==
+* [[New Zealand at the FIFA World Cup]]
+* [[New Zealand national football team]]
+* [[New Zealand national football team results]]
+* [[List of New Zealand international footballers]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Soccerbase|49688}}
+* [http://www.nzfootball.co.nz/index.php?id=834 NZ Football Profile]
+* [http://resol.dr.dk/sportservice_person.aspx?personid=600882 Career statistics] [[Danmarks Radio]]
+* {{ESPN FC|99875}}
+* {{Webarchive |url=https://web.archive.org/web/20101128085351/http://www.premierleague.com/page/PlayerProfile/0,,12306~44344,00.html |title=Premier League profile }}
+
+{{s-start}}
+{{s-sports}}
+{{s-bef|before=[[Ryan Nelsen]]}}
+{{s-ttl|title=[[New Zealand national football team|New Zealand]] captain|years=2013–present}}
+{{s-inc}}
+{{s-end}}
+
+{{West Ham United F.C. Hammer of the Year}}
+{{New Zealand squad 2010 FIFA World Cup}}
+{{West Ham United F.C. squad}}
+
+{{DEFAULTSORT:Reid, Winston}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:People from the Auckland Region]]
+[[Category:New Zealand association footballers]]
+[[Category:New Zealand international footballers]]
+[[Category:Danish footballers]]
+[[Category:Denmark youth international footballers]]
+[[Category:Danish people of New Zealand descent]]
+[[Category:New Zealand emigrants to Denmark]]
+[[Category:Naturalised citizens of Denmark]]
+[[Category:Danish expatriate footballers]]
+[[Category:New Zealand expatriate association footballers]]
+[[Category:New Zealand Māori sportspeople]]
+[[Category:Denmark under-21 international footballers]]
+[[Category:FC Midtjylland players]]
+[[Category:Danish Superliga players]]
+[[Category:2010 FIFA World Cup players]]
+[[Category:West Ham United F.C. players]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:New Zealand expatriate sportspeople in the United Kingdom]]
+[[Category:Te Rarawa]]
+[[Category:Expatriate footballers in England]]
+[[Category:Association footballers from Auckland]]
+[[Category:Association football defenders]]
+[[Category:Tainui]]</text>
+      <sha1>2iserazhe2e1553csrauklzj1dpgb46</sha1>
+    </revision>
+  </page>
+</mediawiki>

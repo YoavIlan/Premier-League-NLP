@@ -1,0 +1,203 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rekeil Pyke</title>
+    <ns>0</ns>
+    <id>53201003</id>
+    <revision>
+      <id>880998069</id>
+      <parentid>880981654</parentid>
+      <timestamp>2019-01-30T20:19:14Z</timestamp>
+      <contributor>
+        <username>EchetusXe</username>
+        <id>7338423</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13830">{{Use British English|date=February 2017}}
+{{Use dmy dates|date=February 2017}}
+{{Infobox football biography
+|name        = Rekeil Pyke
+|image       =
+|image_size  = 
+|caption     =
+|fullname    = Rekeil Leshaun Pyke&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
+|birth_date  = {{birth date and age|1997|9|1|df=y}}&lt;ref name="SB"&gt;{{soccerbase|93704|name=Rekeil Pyke}}&lt;/ref&gt;
+|birth_place = [[Leeds]], England
+|height      = {{convert|1.78|m|order=flip}}&lt;ref name="FS"&gt;{{cite web |url=http://www.footballsquads.co.uk/eng/2016-2017/fltwo/colches.htm |title=Colchester United |publisher=FootballSquads |accessdate=15 February 2017 }}&lt;/ref&gt;
+|position    = [[Forward (association football)|Forward]]
+|currentclub = [[Rochdale A.F.C.|Rochdale]] &lt;br&gt;(on loan from [[Huddersfield Town A.F.C.|Huddersfield Town]])
+|clubnumber  = 30
+|youthyears1 = {{0|0000}}–2009
+|youthclubs1 = Rothwell Juniors
+|youthyears2 = 2009–2016
+|youthclubs2 = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+|years1      = 2016–
+|clubs1      = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+|caps1       = 0
+|goals1      = 0
+|years2      = 2016
+|clubs2      = → [[Wrexham A.F.C.|Wrexham]] (loan)
+|caps2       = 3
+|goals2      = 0
+|years3      = 2017
+|clubs3      = → [[Colchester United F.C.|Colchester United]] (loan)
+|caps3       = 12
+|goals3      = 0
+|years4      = 2017–2018
+|clubs4      = → [[Port Vale F.C.|Port Vale]] (loan)
+|caps4       = 7
+|goals4      = 0
+|years5      = 2018–2019
+|clubs5      = → [[Wrexham A.F.C.|Wrexham]] (loan)
+|caps5       = 23
+|goals5      = 5
+|years6      = 2019–
+|clubs6      = → [[Rochdale A.F.C.|Rochdale]] (loan)
+|caps6       = 0
+|goals6      = 0
+|club-update = 20:39, 30 December 2018 (UTC)
+}}
+'''Rekeil Leshaun Pyke''' (born 1 September 1997) is an English professional [[association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[EFL League One]] side [[Rochdale A.F.C.|Rochdale]], on loan from [[Premier League]] club [[Huddersfield Town A.F.C.|Huddersfield Town]].
+
+A product of the Huddersfield Town [[Huddersfield Town A.F.C. Reserves and Academy|Academy]], he was loaned out to [[Wrexham A.F.C.|Wrexham]] in November 2016, [[Colchester United F.C.|Colchester United]] in January 2017, and [[Port Vale F.C.|Port Vale]] in July 2017. He returned to Wrexham on loan for the first half of the 2018–19 season, before moving on loan to Rochdale for the second half of the campaign.
+
+==Career==
+===Huddersfield Town===
+Born in [[Leeds]],&lt;ref name="FS"/&gt; Pyke is a product of the [[Huddersfield Town A.F.C.|Huddersfield Town]] [[Huddersfield Town A.F.C. Reserves and Academy|Academy]].&lt;ref&gt;{{cite news |last=Griffiths |first=Rob |date=1 December 2016 |title=Rekeil Pyke on his Wrexham AFC debut and why he signed for club |url=http://www.dailypost.co.uk/sport/football/football-news/rekeil-pyke-wrexham-afc-debut-12259838 |newspaper=Daily Post |location=Conwy |accessdate=15 February 2017 }}&lt;/ref&gt; He first joined the club at under-12 level from local junior side Rothwell Juniors.&lt;ref name="Wrexham return"&gt;{{cite web |url=http://www.htafc.com/news/article/2016-17/huddersfield-town-rekeil-pyke-wrexham-loan-terriers-3488906.aspx |title=Loan: Rekeil Pyke returns to HTAFC |last=Threlfall-Sykes |first=David |date=28 December 2016 |publisher=Huddersfield Town AFC |accessdate=15 February 2017 }}&lt;/ref&gt; He signed his first professional contract in February 2015, having already represented the under-21 team at the age of 17.&lt;ref&gt;{{cite news|last1=Thomson|first1=Doug|title=Teenage striker Rekeil Pyke signs contract at Huddersfield Town|url=http://www.examiner.co.uk/sport/football/news/teenage-striker-rekeil-pyke-signs-8726091|accessdate=8 July 2017|work=The Huddersfield Daily Examiner|date=26 February 2015}}&lt;/ref&gt; He joined [[National League (division)|National League]] side [[Wrexham A.F.C.|Wrexham]] on a month long loan in November 2016.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/38129396 |title=Rekeil Pyke: Huddersfield Town youngster joins Wrexham on loan |last=Williams |first=Aled |date=29 November 2016 |publisher=BBC Sport |accessdate=15 February 2017 }}&lt;/ref&gt; He made his debut on 29 November in Wrexham's 1–0 defeat at [[Lincoln City F.C.|Lincoln City]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/38060224 |title=Lincoln City 1–0 Wrexham |date=29 November 2016 |publisher=BBC Sport |accessdate=15 February 2017 }}&lt;/ref&gt; "Dragons" manager [[Dean Keates]] said Pyke "did okay... the physicality was all new to him, a new environment, but there is still a lot more to come from him".&lt;ref&gt;{{cite news|last1=Griffiths|first1=Rob|title=Wrexham AFC boss Dean Keates continuing to cast net wide in search for players|url=http://www.dailypost.co.uk/sport/football/football-news/wrexham-afc-boss-dean-keates-12264304|accessdate=8 July 2017|work=Daily Post|date=2 December 2016}}&lt;/ref&gt; After three appearances at the [[Racecourse Ground]], Pyke returned to Huddersfield at the end of his loan spell on 28 December.&lt;ref name="Wrexham return"/&gt; On 30 January 2017, Pyke joined [[EFL League Two|League Two]] club [[Colchester United F.C.|Colchester United]] on loan until the end of the [[2016–17 Colchester United F.C. season|2016–17]] season.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/38802317 |title=Rekeil Pyke: Colchester United sign Huddersfield Town forward on loan |date=30 January 2017 |publisher=BBC Sport |accessdate=15 February 2017 }}&lt;/ref&gt; He came on as a second-half substitute for [[Owen Garvan]] to make his professional debut on 15 February during Colchester's 3–2 defeat to [[Crawley Town F.C.|Crawley Town]] at the [[Colchester Community Stadium]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/38889789 |title=Colchester United 2–3 Crawley Town |date=14 February 2017 |publisher=BBC Sport |accessdate=15 February 2017 }}&lt;/ref&gt; He made his first start in a 2–0 home victory over [[Mansfield Town F.C.|Mansfield Town]] on 14 March, after which "U's" manager [[John McGreal]] said he was "delighted" with Pyke, describing him as a "beast of a kid".&lt;ref&gt;{{cite news|last1=Waldron|first1=Jonathan|title=McGreal is delighted with "beast" Rekeil|url=http://www.gazette-news.co.uk/sport/15157690.McGreal_is_delighted_with__beast__Rekeil/|accessdate=8 July 2017|work=Gazette|date=15 March 2017|language=en}}&lt;/ref&gt; He failed to score in four league starts and eight substitute appearances for Colchester.&lt;ref name="Games played by Rekeil Pyke in 2016/2017"&gt;{{soccerbase season|93704|2016|accessdate=7 May 2017}}&lt;/ref&gt;
+
+On 11 July 2017, Pyke joined League Two side [[Port Vale F.C.|Port Vale]] on loan for the entire [[2017–18 Port Vale F.C. season|2017–18]] season.&lt;ref name="rekd"&gt;{{cite news|title=Rekeil Pyke: Port Vale sign Huddersfield Town striker on loan|url=https://www.bbc.co.uk/sport/football/40576442|accessdate=11 July 2017|work=BBC Sport|date=11 July 2017}}&lt;/ref&gt; Manager [[Michael Brown (footballer, born 1977)|Michael Brown]] warned fans not to burden the teenager with too much expectation after Pyke scored four goals in his first two pre-season friendly matches.&lt;ref&gt;{{cite news|last1=Baggaley|first1=Mike|title=Port Vale: Brown urges fans not to burden Pyke with expectation|url=http://www.stokesentinel.co.uk/port-vale-michael-brown-urges-fans-not-to-burden-rekeil-pyke-with-expectation/story-30436604-detail/story.html|accessdate=13 July 2017|work=Stoke Sentinel|date=13 July 2017|language=en}}&lt;/ref&gt; However he struggled to even appear on the first-team bench, and speaking in October, new manager [[Neil Aspin]] blamed league rules that prevented him from naming more than five loanees in a matchday squad.&lt;ref&gt;{{cite news|last1=Baggaley|first1=Michael|title=Neil Aspin sympathises with Port Vale's loan players|url=http://www.stokesentinel.co.uk/sport/football/neil-aspin-sympathises-port-vales-617873|accessdate=12 October 2017|work=Stoke Sentinel|date=12 October 2017}}&lt;/ref&gt; He then picked up a hamstring injury in a reserve team game and returned to the [[Kirklees Stadium]] for treatment.&lt;ref&gt;{{cite news|last1=Baggaley|first1=Michael|title=Port Vale's Rekeil Pyke back at Huddersfield with hamstring injury|url=http://www.stokesentinel.co.uk/sport/football/port-vales-rekeil-pyke-back-687741|accessdate=27 October 2017|work=Stoke Sentinel|date=26 October 2017}}&lt;/ref&gt; He was recalled to Huddersfield permanently on 2 January 2018.&lt;ref name="pysob"&gt;{{cite news|last1=Baggaley|first1=Michael|title=Port Vale loan pair Stobbs and Pyke recalled by Sheffield Weds and Huddersfield|url=http://www.stokesentinel.co.uk/sport/football/port-vale-huddersfield-sheffield-wednesday-1001686|accessdate=2 January 2018|work=Stoke Sentinel|date=2 January 2018}}&lt;/ref&gt;
+
+On 10 July 2018, he returned to Wrexham on a season-long loan for the [[2018–19 National League|2018–19]] season.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/44779538 |title=Wrexham sign Huddersfield Town striker Rekeil Pyke on loan |date=10 July 2017 |publisher=BBC Sport |accessdate=10 July 2017 }}&lt;/ref&gt; He scored five goals in 27 appearances, being absent from [[Graham Barrow]]'s first-team only during a six week spell at Christmas when he was in recovery from a hamstring injury. He was recalled to Huddersfield on 30 January; Welsh newspaper ''[[The Leader (Welsh newspaper)|The Leader]]'' reported that "Pyke's departure is a big blow in Wrexham's push for a top-seven finish".&lt;ref&gt;{{cite news |title=Rekeil Pyke's loan spell at Wrexham AFC comes to an early end |url=https://www.leaderlive.co.uk/sport/wrexham_afc/latest/17396986.rekeil-pykes-loan-spell-at-wrexham-afc-comes-to-an-early-end/ |accessdate=30 January 2019 |work=The Leader |date=30 January 2019 |language=en}}&lt;/ref&gt; On 30 January 2019, he moved up two divisions from Wrexham to join struggling [[EFL League One|League One]] side [[Rochdale A.F.C.|Rochdale]] on loan until the end of the [[2018–19 Rochdale A.F.C. season|2018–19]] season.&lt;ref&gt;{{cite news |title=Rekeil Pyke: Rochdale sign forward on loan from Huddersfield Town |url=https://www.bbc.co.uk/sport/football/47064215 |accessdate=30 January 2019 |work=BBC Sport |date=30 January 2019}}&lt;/ref&gt;
+
+==Style of play==
+Port Vale assistant manager [[Chris Morgan (footballer)|Chris Morgan]] said that Pyke was "quick and powerful" and had good finishing skills.&lt;ref&gt;{{cite news|last1=Baggaley|first1=Mike|title=Port Vale excited about loan of Huddersfield striker Rekeil Pyke|url=http://www.stokesentinel.co.uk/port-vale-excited-about-loan-deal-for-huddersfield-striker-rekeil-pyke/story-30430267-detail/story.html|accessdate=8 July 2017|work=Stoke Sentinel|date=8 July 2017|language=en}}{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 27 November 2018}}
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Huddersfield Town A.F.C.|Huddersfield Town]]
+|[[2016–17 Huddersfield Town A.F.C. season|2016–17]]&lt;ref name="Games played by Rekeil Pyke in 2016/2017"/&gt;
+|[[EFL Championship|Championship]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2017–18 Huddersfield Town A.F.C. season|2017–18]]&lt;ref name="Games played by Rekeil Pyke in 2017/2018"&gt;{{soccerbase season|93704|2017|accessdate=7 May 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2018–19 Huddersfield Town A.F.C. season|2018–19]]&lt;ref name="Games played by Rekeil Pyke in 2018/2019"&gt;{{soccerbase season|93704|2018|accessdate=7 May 2017}}&lt;/ref&gt;
+|Premier League
+|0||0||0||0||0||0||0||0||0||0
+|-
+!colspan="2"|Total
+!0!!0!!0!!0!!0!!0!!0!!0!!0!!0
+|-
+|[[Wrexham A.F.C.|Wrexham]] (loan)
+|[[2016–17 National League|2016–17]]&lt;ref name="Games played by Rekeil Pyke in 2016/2017"/&gt;
+|[[National League (division)|National League]]
+|3||0||0||0||0||0||0||0||3||0
+|-
+|[[Colchester United F.C.|Colchester United]] (loan)
+|[[2016–17 Colchester United F.C. season|2016–17]]&lt;ref name="Games played by Rekeil Pyke in 2016/2017"/&gt;
+|[[EFL League Two|League Two]]
+|12||0||0||0||0||0||0||0||12||0
+|-
+|[[Port Vale F.C.|Port Vale]] (loan)
+|[[2017–18 Port Vale F.C. season|2017–18]]&lt;ref name="Games played by Rekeil Pyke in 2017/2018"/&gt;
+|League Two
+|7||0||0||0||1||0||1{{efn|name=EFL|Appearance in the [[EFL Trophy]]}}||0||9||0
+|-
+|Wrexham (loan)
+|[[2018–19 National League|2018–19]]&lt;ref name="Soccerway"&gt;{{Soccerway|rekeil-pyke/449862}}&lt;/ref&gt;
+|National League
+|23||5||3||0||0||0||1{{efn|name=FAT|Appearance in the [[FA Trophy]]}}||0||27||5
+|-
+|[[Rochdale A.F.C.|Rochdale]] (loan)
+|[[2018–19 Rochdale A.F.C. season|2018–19]]&lt;ref name="Games played by Rekeil Pyke in 2018/2019"/&gt;
+|[[EFL League One|League One]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+!colspan=3|Career total
+!45!!5!!3!!0!!1!!0!!2!!0!!51!!5
+|}
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Rochdale A.F.C. squad}}
+&lt;!--{{Huddersfield Town A.F.C. squad}}--&gt;
+
+{{DEFAULTSORT:Pyke, Rekeil}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Footballers from Leeds]]
+[[Category:Black English sportspeople]]
+[[Category:English footballers]]
+[[Category:Association football forwards]]
+[[Category:Huddersfield Town A.F.C. players]]
+[[Category:Wrexham A.F.C. players]]
+[[Category:Colchester United F.C. players]]
+[[Category:Port Vale F.C. players]]
+[[Category:Rochdale A.F.C. players]]
+[[Category:National League (English football) players]]
+[[Category:English Football League players]]</text>
+      <sha1>fegx8vljg57juvbmg6bhjxp2zrr2772</sha1>
+    </revision>
+  </page>
+</mediawiki>

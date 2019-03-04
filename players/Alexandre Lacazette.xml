@@ -1,0 +1,366 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Alexandre Lacazette</title>
+    <ns>0</ns>
+    <id>27243732</id>
+    <revision>
+      <id>886024503</id>
+      <parentid>886023117</parentid>
+      <timestamp>2019-03-03T20:56:36Z</timestamp>
+      <contributor>
+        <ip>82.11.161.249</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="49472">{{EngvarB|date=July 2013}}
+{{Use dmy dates|date=November 2017}}
+{{Infobox football biography
+| name = Alexandre Lacazette
+| image = 1 Alexandre Lacazette 2018 (cropped).jpg
+| image_size = 200
+| caption = Lacazette training for [[Arsenal F.C.|Arsenal]] in 2018
+| fullname = Alexandre Lacazette&lt;ref&gt;{{cite web |title=Squads for 2017/18 Premier League confirmed |url=https://www.premierleague.com/news/465277 |publisher=Premier League |date=1 September 2017 |accessdate=8 September 2017}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1991|5|28|df=y}}
+| birth_place = [[Lyon]], France
+| height = 1.75 m&lt;ref&gt;{{cite web|title=Alexandre Lacazette LyonProfile|url=http://www.olweb.fr/en/player/alexandre-lacazette-2058.html|accessdate=17 May 2015}}&lt;/ref&gt;
+| position = [[Forward (association football)|Forward]]
+| currentclub = [[Arsenal F.C.|Arsenal]]
+| clubnumber = 9
+| youthyears1 = 1998–2003
+| youthclubs1 = ELCS Lyon
+| youthyears2 = 2003–2011
+| youthclubs2 = [[Olympique Lyonnais Reserves and Academy|Lyon]]
+| years1 = 2008–2011
+| clubs1 = [[Olympique Lyonnais Reserves and Academy|Lyon B]]
+| caps1 = 53
+| goals1 = 23
+| years2 = 2010–2017
+| clubs2 = [[Olympique Lyonnais|Lyon]]
+| caps2 = 203
+| goals2 = 100
+| years3 = 2017–
+| clubs3 = [[Arsenal F.C.|Arsenal]]
+| caps3 = 60
+| goals3 = 26
+| nationalyears1 = 2006–2007
+| nationalteam1 = [[France national under-16 football team|France U16]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2007–2008
+| nationalteam2 = [[France national under-17 football team|France U17]]
+| nationalcaps2 = 11
+| nationalgoals2 = 1
+| nationalyears3 = 2008–2009
+| nationalteam3 = [[France national under-18 football team|France U18]]
+| nationalcaps3 = 10
+| nationalgoals3 = 1
+| nationalyears4 = 2009–2010
+| nationalteam4 = [[France national under-19 football team|France U19]]
+| nationalcaps4 = 10
+| nationalgoals4 = 4
+| nationalyears5 = 2010–2011
+| nationalteam5 = [[France national under-20 football team|France U20]]
+| nationalcaps5 = 12
+| nationalgoals5 = 9
+| nationalyears6 = 2011–2012
+| nationalteam6 = [[France national under-21 football team|France U21]]
+| nationalcaps6 = 11
+| nationalgoals6 = 5
+| nationalyears7 = 2013–
+| nationalteam7 = [[France national football team|France]]
+| nationalcaps7 = 16
+| nationalgoals7 = 3
+| club-update = 22:05, 2 March 2019 (UTC)
+| nationalteam-update = 18:35, 6 May 2018 (UTC)
+}}
+'''Alexandre Lacazette''' ({{IPA-fr|alɛksɑ̃dʁ lakazɛt}}; born 28 May 1991) is a French professional [[association football|footballer]] who plays as a [[Forward (association football)|forward]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[France national football team|France national team]].
+
+Lacazette came into prominence as a member of the academy at [[Olympique Lyonnais|Lyon]], where he made his professional debut aged 19. He helped the club win the [[2012 Coupe de France Final|Coupe de France]] and [[2012 Trophée des Champions|Trophée des Champions]] in 2012, and was named the [[Trophées UNFP du football#Player of the Year|Ligue 1 Player of the Year]] in [[2014–15 Ligue 1|2014–15]].&lt;ref&gt;{{cite news|last1=Crossan|first1=D.|title=LACAZETTE NETS HAT-TRICK AS OL WALLOP LILLE|url=http://www.ligue1.com/ligue1/article/lacazette-nets-first-hat-trick-as-ol-wallop-lille.htm|accessdate=22 December 2014|publisher=[[Ligue 1]]|date=5 October 2014}}&lt;/ref&gt; During his time in France, Lacazette cultivated a reputation as a prolific goalscorer and poacher, recording multiple twenty-goal seasons, which earned him a move to [[Arsenal F.C.|Arsenal]] in a then club-record £46.5&amp;nbsp;million (€53&amp;nbsp;million) deal in 2017.&lt;ref name="Arsenal F.C"&gt;{{cite press release|url=https://www.arsenal.com/news/alexandre-lacazette-agrees-join-arsenal|title= Alexandre Lacazette agrees to join Arsenal |date=5 July 2017|access-date=6 July 2017|website=arsenal.com|publisher=Arsenal F.C.}}&lt;/ref&gt;
+
+Ever since debuting for the national side, Lacazette has represented France across all youth levels. He was a key player in France's victory in the [[2010 UEFA European Under-19 Championship]], where he scored the match-winning goal in the final against Spain.&lt;ref name="ESPN FC"&gt;{{cite web|title=France calls on Alexandre Lacazette|url=http://www.espnfc.com/story/1457666/france-subs-in-alexandre-lacazette-for-injured-jeremy-menez|publisher=ESPN FC|accessdate=11 August 2014|date=23 May 2013}}&lt;/ref&gt; He then made his senior international debut in June 2013, scoring his first goal in March 2015.
+
+Known for dribbling, pace, and ability with both feet, as well as his persistence to press and tackle when out of possession, Lacazette has been compared to former Arsenal forward [[Ian Wright]] by [[Gérard Houllier]].&lt;ref name="metro.co.uk"&gt;{{cite web|url=http://metro.co.uk/2017/07/05/arsenal-transfer-target-alexandre-lacazette-is-like-ian-wright-says-gerard-houllier-6757159/|title=Alexandre Lacazette is like Ian Wright, says Gerard Houllier|website=Metro.co.uk}}&lt;/ref&gt;
+
+==Early life==
+Alexandre Lacazette was born in [[Lyon]] on 28 May 1991 to a family of [[Guadeloupe]]an origin. He is the youngest of four boys. One of his brothers, Benoît, played in the [[Swiss Challenge League|Swiss second division]] and [[Championnat de France Amateur|French fourth division]] and was the coach in the Lyon [[futsal]] club: Lyon Footzik Futsal. His cousin, [[Romuald Lacazette|Romuald]], is also a professional footballer and plays as a central midfielder.&lt;ref&gt;{{cite web|url=https://www.lequipe.fr/Football/Actualites/Romuald-lacazette-s-engage-a-darmstadt-pour-trois-ans/812689|title= Romuald Lacazette s'engage à Darmstadt pour trois ans|trans-title= Romuald Lacazette commits to Darmstadt for three years|language=French|date=22 June 2017| publisher=L'Équipe}}&lt;/ref&gt; Lacazette started playing football at the age of seven for his local club Elan Sportif, in the [[8th arrondissement of Lyon]].{{Citation needed|date=January 2018}}
+
+==Club career==
+===Lyon===
+====Youth and reserve teams====
+Upon his arrival at the club, Lacazette began training at the [[Centre Tola Vologe]], the club's training center. While undergoing training, he was likened to former Lyon striker [[Sonny Anderson]] by many coaches, including the player himself.&lt;ref&gt;{{cite web | url = http://www.leprogres.fr/fr/permalien/article/3093043/Les-debuts-d-Alexandre-Lacazette.html | publisher=Le Progrès | title = Les débuts d'Alexandre Lacazette |language = French |date = 6 May 2010 | accessdate = 5 November 2010}}{{dead link|date=October 2015}}&lt;/ref&gt; As a youth player, Lacazette played in the club's under-18 team that finished in third place in the ''Championnat National des moins de 18 ans'' during the 2007–08 season. The [[2008–09 Championnat de France Amateur|following season]], he began making appearances for the club's [[Championnat de France amateur|Championnat de France amateur (CFA)]] reserve team, netting 5 goals in 19
+[[Championnat de France amateur|Championnat de France amateur (CFA)]] matches.&lt;ref name ="lacazette_national"&gt;{{Cite web| url = http://www.foot-national.com/4377-joueur-football-Lacazette-Alexandre.html | title = Statistiques détaillées de Alexandre Lacazette| accessdate = 5 November 2009 | publisher=Foot-National}}&lt;/ref&gt; In the [[2009–10 Championnat de France Amateur|2009–10 season]], Lacazette had a stellar campaign in the CFA, scoring 12 goals in 22 appearances.&lt;ref name ="lacazette_national"/&gt;
+
+====2009–10 season====
+During the second half of the [[2009–10 Ligue 1]] season, he was called up to the first team by manager [[Claude Puel]] and appeared on the bench in the team's 1–0 victory over [[Montpellier HSC|Montpellier]] on 2 May 2010.&lt;ref&gt;{{cite web|url=http://new.lfp.fr/ligue1/feuille_match/45019 |publisher=[[Ligue de Football Professionnel]] |title=Montpellier v. Lyon Match Report |language=French |date=2 May 2010 |accessdate=5 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20120313204035/http://new.lfp.fr/ligue1/feuille_match/45019 |archivedate=13 March 2012 }}&lt;/ref&gt; Three days later, Lacazette made his first team debut in a Ligue 1 home match against [[AJ Auxerre|Auxerre]].&lt;ref&gt;{{cite web|url=http://new.lfp.fr/ligue1/feuille_match/44957 |publisher=[[Ligue de Football Professionnel]] |title=Lyon v. Auxerre Match Report |language=French |date=5 May 2010 |accessdate=5 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20120313204107/http://new.lfp.fr/ligue1/feuille_match/44957 |archivedate=13 March 2012 |df=dmy }}&lt;/ref&gt; On 3 July 2010, Lacazette signed his first professional contract agreeing to a three-year deal. Due to still having another year left on his ''aspirant'' (youth) contract, the contract would start on 1 July 2011.&lt;ref&gt;{{cite web | url = http://www.francefootball.fr/FF/breves2010/20100703_145617_lacazette-passe-pro-dans-un-an.html | publisher = [[France Football]] | title = Lacazette passe pro... dans un an | language = French | date = 3 July 2010 | accessdate = 3 July 2010 | archiveurl = https://web.archive.org/web/20100704200916/http://www.francefootball.fr/FF/breves2010/20100703_145617_lacazette-passe-pro-dans-un-an.html | archivedate = 4 July 2010 | deadurl = yes | df = dmy-all }}&lt;/ref&gt;
+[[File:2013-03-03 Match Brest-OL - Lacazette (2).JPG|thumb|left|250px|upright|Lacazette with Lyon in 2013]]
+
+====2010–11 season====
+Lacazette's successful campaign in the [[2010 UEFA European Under-19 Championship]] saw the player draw interest from Italian club [[A.S. Roma|Roma]].&lt;ref&gt;{{cite web|url=http://www.maxifoot.fr/football-rss120639/lyon-lacazette.php|publisher=Maxifoot.fr|title=Lyon : Lacazette ne partira pas|language=French|date=2 August 2010}}&lt;/ref&gt; He also drew praise from the media, alongside international teammates [[Yannis Tafer]] and [[Clément Grenier]], for his dedication to the club after playing in the pre-season [[2010 Emirates Cup]] match hours by playing in the final of the [[2010 UEFA European Under-19 Football Championship]].&lt;ref&gt;{{cite web | url = http://www.goal.com/en/news/3358/uefa-european-under-19-championships/2010/08/02/2052505/the-epitome-of-dedication-how-france-under-19-hero-alexandre | publisher=Goal.com | title = The Epitome of Dedication? How France Under-19 Hero Alexandre Lacazette Played Three Matches in Three Days |date = 2 August 2010 | accessdate = 5 November 2010}}&lt;/ref&gt; Lacazette began the [[2010–11 in French football|2010–11 season]] training full-time with the first team. He scored 6 goals in 12 [[2010–11 Championnat de France Amateur|2010–11 CFA]] matches for the club's reserve team.&lt;ref name ="lacazette_national"/&gt; He scored his first competitive goal for the first team on 30 October in a Ligue 1 home match against [[FC Sochaux-Montbéliard|Sochaux]].&lt;ref name="lacazette_football"&gt;{{cite web|url=http://www.football.fr/lyon/articles/alexandre-lacazette-debute-sa-carriere-sous-les-meilleures-auspices-297335/|title=L'heure de Lacazette|date=3 November 2010|accessdate=5 November 2009|publisher=Football.fr}}&lt;/ref&gt; His goal in the 69th minute gave Lyon a 2–1 lead, which would be the final score.&lt;ref&gt;{{cite web|url=http://new.lfp.fr/ligue1/feuille_match/53732 |publisher=[[Ligue de Football Professionnel]] |title=Lyon v. Sochaux Match Report |language=French |date=31 October 2010 |accessdate=5 November 2010 |archiveurl=https://web.archive.org/web/20101102150951/http://new.lfp.fr/ligue1/feuille_match/53732 |archivedate=2 November 2010 |deadurl=yes }}&lt;/ref&gt; Three days later, Lacazette made his [[UEFA competitions|European club competition]] debut against the Portuguese club [[S.L. Benfica|Benfica]] in a [[2010–11 UEFA Champions League group stage|2010–11 UEFA Champions League]] Group B away match, appearing as a substitute in the second half with Lyon trailing 4–0. Minutes after coming onto the pitch, he [[assist (football)|assisted]] Lyon's opening goal, scored by [[Yoann Gourcuff]] in the 75th minute. He also assisted Lyon's second goal, scored by [[Bafétimbi Gomis]] in the 85th minute.&lt;ref name ="lacazette_football"/&gt; Lyon, however, were unable to complete the comeback, losing 4–3.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/matches/season=2011/round=2000118/match=2002876/index.html |publisher=[[UEFA|Union of European Football Associations]] |title=Coentrão inspires Benfica revival |date=2 November 2010 |accessdate=5 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101105010750/http://www.uefa.com/uefachampionsleague/matches/season%3D2011/round%3D2000118/match%3D2002876/index.html |archivedate=5 November 2010 }}&lt;/ref&gt; On 7 December, Lacazette scored the first European club competition goal of his career in Lyon's final Group B match, the 88th-minute equalizer in the 2–2 home draw against Israeli club [[Hapoel Tel Aviv F.C.|Hapoel Tel Aviv]].
+
+====2011–16 seasons====
+[[File:Zenit-Lion15 (5).jpg|thumb|150px|Lacazette playing for Lyon in 2015]]
+Lacazette scored Lyon's only goal in the [[2014 Coupe de la Ligue Final]] against Paris Saint-Germain; however his side lost 2–1.&lt;ref&gt;{{cite news|title=Paris St-Germain v Lyon as it happened|url=https://www.bbc.co.uk/sport/0/football/27090265|accessdate=21 April 2014|newspaper=[[Sky Sports News]]|date=19 April 2014|archive-url=https://web.archive.org/web/20140421070721/http://www.bbc.co.uk/sport/0/football/27090265|archive-date=21 April 2014|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+
+In September 2014, Lacazette signed a two-year extension to his contract, tying him to the club until 2018.&lt;ref&gt;{{cite web|title=Alexandre Lacazette signs two-year contract extension with Lyon|url=http://www.espnfc.com/french-ligue-1/story/2030874/alexandre-lacazette-signs-contract-extension-with-lyon|publisher=ESPN FC|accessdate=13 September 2014|date=11 September 2014}}&lt;/ref&gt; He scored his first hat-trick on 5 October 2014, netting all the goals in a 3–0 Ligue 1 home win over [[Lille OSC|Lille]].&lt;ref&gt;{{cite news|last1=Crossan|first1=D.|title=LACAZETTE NETS FIRST HAT-TRICK AS OL WALLOP LILLE|url=http://www.ligue1.com/ligue1/article/lacazette-nets-first-hat-trick-as-ol-wallop-lille.htm|accessdate=22 December 2014|publisher=[[Ligue 1]]|date=5 October 2014}}&lt;/ref&gt; On 26 April 2015, Lacazette broke the Lyon record for [[Ligue 1|Ligue 1 or Division 1]] goals scored in a single season with his 26th in a Ligue 1 4–2 away victory over [[Stade de Reims|Reims]]; [[André Guy]] had scored a total of 25 Division 1 goals in the [[1968–69 French Division 1|1968–69 season]].&lt;ref&gt;{{cite web|url=http://www.olweb.fr/en/article/ol-keep-hat-in-the-ring-67957.html|title=OL KEEP HAT IN THE RING|website=OL Web.fr}}&lt;/ref&gt;
+&lt;ref&gt;{{cite web|url=http://www.eurosport.fr/football/ligue-1/2014-2015/lyon-alexandre-lacazette-egale-andre-guy-avec-25-buts-en-ligue-1-cette-saison_sto4679046/story.shtml|title=Lyon : Alexandre Lacazette égale André Guy avec 25 buts en Ligue 1 cette saison|website=Eurosport|date=15 April 2015}}&lt;/ref&gt; He finished the [[2014–15 Ligue 1]] season as the top scorer in Ligue 1, netting a total of 27 goals.&lt;ref name="lg1"&gt;{{cite web|title=Official top scorer chart 2014–15|url=http://www.ligue1.com/ligue1/classementButeurs#sai=83&amp;journee1=1&amp;journee2=38&amp;cat=G&amp;poste=Tous|website=Lique 1|accessdate=9 July 2015}}&lt;/ref&gt; Lacazette completed an outstanding season by being voted [[Ligue 1 Player of the Year]] for the 2014–15 season.&lt;ref name="poy"&gt;{{cite web|title=Lacazette wins player of the year|url=http://www.ligue1.com/ligue1/article/lacazette-wins-player-of-year.htm|website=Lique 1|accessdate=9 July 2015|date=18 May 2015}}&lt;/ref&gt;
+
+Amid transfer speculation from a number of [[Premier League]] clubs such as [[Arsenal F.C.|Arsenal]] following his breakout season, on 8 August 2015, Lacazette signed a new deal, extending his contract with Lyon until 2019.&lt;ref&gt;{{cite web|title=Alexandre Lacazette signs new contract with Lyon through to 2019|url=http://www.espnfc.com.ve/story/2552588/alexandre-lacazette-signs-new-contract-with-lyon|publisher=[[ESPN FC]]|accessdate=8 August 2015|date=8 August 2015}}&lt;/ref&gt; On 8 November 2015, he scored all of the goals in a 3–0 Ligue 1 home win over [[Derby du Rhone|local arch-rivals]] [[AS Saint-Étienne|Saint-Étienne]].&lt;ref&gt;{{cite news|title='I felt that Alexandre Lacazette was coming good': Lyon inspired by striker over Saint-Etienne|url=http://www.thenational.ae/sport/ligue-1/i-felt-that-alexandre-lacazette-was-coming-good-lyon-inspired-by-striker-over-saint-etienne|accessdate=4 April 2016|publisher=The National|date=8 November 2015}}&lt;/ref&gt; On 9 January 2016, he scored the first goal at the newly opened [[Parc Olympique Lyonnais]], in a 4–1 win over [[Troyes AC|Troyes]] in a Ligue 1 match.&lt;ref&gt;{{cite news|title=Lyon 4–1 Troyes: Alexandre Lacazette nets as Ligue 1 giants celebrate opening of their new Parc OL stadium in style|url=http://www.dailymail.co.uk/sport/football/article-3392213/Lyon-4-1-Troyes-Alexandre-Lacazette-nets-Ligue-1-giants-celebrate-opening-new-Parc-OL-stadium-style.html|accessdate=4 April 2016|work=Daily Mail|date=10 January 2016}}&lt;/ref&gt;
+
+====2016–17 season====
+On 29 October 2016, Lacazette scored two goals in Lyon's 2–1 away win against [[Toulouse FC|Toulouse]] in Ligue 1 to register his 100th and 101st goals in all competitions for Lyon, overtaking [[Juninho Pernambucano]] (who scored 100 goals in 350 competitive matches for Lyon) to become the fourth-most prolific scorer in Lyon's history.&lt;ref&gt;{{cite news|url=http://www.ligue1.com/ligue1/article/lacazette-at-the-double-as-ol-score-valuable-win.htm|title=Lacazette at the double as OL score valuable win|publisher=www.ligue1.com|date=29 October 2016}}&lt;/ref&gt; On 22 November, he scored the only goal by slotting home [[Rafael (footballer, born 1990)|Rafael]]'s rolled cross from close range in the 72nd minute of the [[2016–17 UEFA Champions League group stage]] Group H matchday 5 1–0 away win against [[GNK Dinamo Zagreb|Dinamo Zagreb]] to keep alive Lyon's hopes of progressing to the knockout phase of the 2016–17 UEFA Champions League.&lt;ref&gt;{{cite news|url=http://www.espnfc.com/report?gameId=466192|title=Alexandre Lacazette fires Lyon to victory over Dinamo Zagreb|publisher=ESPN FC|date=22 November 2016}}&lt;/ref&gt;
+
+In early February 2017, Lacazette reportedly revealed to television show Canal Football Club his intention to leave Olympique Lyonnais in the summer of 2017. On 10 February, [[Jean-Michel Aulas]], the club's president, denied that Lacazette had asked to leave that summer and said that Lacazette's comments were taken out of context by the media.&lt;ref&gt;{{cite news|url=http://talksport.com/football/lyon-president-jean-michel-aulas-plays-down-alexandre-lacazette-exit-talk-arsenal-and-west|title=Lyon president Jean-Michel Aulas plays down Alexandre Lacazette exit talk as Arsenal and West Ham eye deal|publisher=Talksport|date=10 February 2017}}&lt;/ref&gt;
+
+===Arsenal===
+====Transfer====
+On 5 July 2017, Lacazette signed a reported five-year deal for Premier League club Arsenal for a club record fee;&lt;ref name="Arsenal F.C"/&gt;&lt;ref name=BBC/&gt; Lyon disclosed that the fee was an initial €53&amp;nbsp;million (£46.5&amp;nbsp;million) plus up to €7&amp;nbsp;million (£6.1&amp;nbsp;million) in potential bonuses.&lt;ref name=BBC/&gt;&lt;ref name="Lyonpress"/&gt; The fee was the largest ever received by Lyon from the sale of a player, beating the €41.5&amp;nbsp;million (£37.7&amp;nbsp;million) record set by [[Corentin Tolisso]]'s transfer to [[FC Bayern Munich|Bayern Munich]] three weeks earlier.&lt;ref name="Lyonpress"&gt;{{cite press release|url=https://www.actusnews.com/documents_communiques/ACTUS-0-49376-olg-050717-cession-a-lacazette-arsenal-gb.pdf|title=Transfer of Alexandre Lacazette to Arsenal|date=5 July 2017|access-date=6 July 2017|publisher=Olympique Lyonnais Group}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Communiqué : Transfert de Corentin Tolisso au Bayern Munich {{!}} OLWeb.fr|url=http://www.olweb.fr/fr/article/communique-transfert-de-corentin-tolisso-au-bayern-munich-31268.html|publisher=Olympique Lyon|language=fr-FR}}&lt;/ref&gt; The transfer fee also surpassed the previous Arsenal record €50&amp;nbsp;million (£42.5&amp;nbsp;million) that Arsenal paid [[Real Madrid C.F.|Real Madrid]] for [[Mesut Özil]] in 2013.&lt;ref name=BBC&gt;{{cite news |title=Alexandre Lacazette joins Arsenal for club record £46.5m from Lyon |url=https://www.bbc.co.uk/sport/football/40496970 |publisher=BBC Sport |date=5 July 2017 |accessdate=5 July 2017 }}&lt;/ref&gt;
+
+On May 2017, it was reported that a verbal arrangement had been reached for Lacazette to join [[Atlético Madrid]] in the summer of 2017, but that fell through on 1 June 2017, after the [[Court of Arbitration for Sport]] upheld Atlético's ban on registering players for two [[transfer window]]s (1 January – 2 February 2017 and 1 June – 31 August 2017) that was imposed in July 2016 by [[FIFA]] on the club for breaching [[FIFA]] rules over the signing of minors. Lacazette was given the number 9 jersey.&lt;ref&gt;{{cite news |title=Alexandre Lacazette agrees to join Atletico Madrid from Lyon subject to transfer ban|url=http://www.skysports.com/football/news/11095/10886538/alexandre-lacazette-agrees-to-join-atletico-madrid-from-lyon-subject-to-transfer-ban|publisher=Sky Sports|date=21 May 2017|accessdate=6 July 2017 }}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Atletico Madrid transfer ban upheld by Court of Arbitration for Sport|url=https://www.bbc.com/sport/football/40117879|publisher=BBC Sport|date=1 June 2017 |accessdate=6 July 2017 }}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Alexandre Lacazette's failed Atletico move 'good and bad' for Lyon – Aulas|url=http://www.espnfcasia.com/story/3137721/alexandre-lacazettes-failed-atletico-madrid-move-good-and-bad-for-lyon-aulas|publisher=ESPN FC|date=2 June 2017 |accessdate=6 July 2017 }}&lt;/ref&gt;&lt;ref&gt;{{cite press release|url=http://beta.goal.com/en/news/lacazette-takes-arsenal-no9-shirt-as-gunners-reveal-new/djconbb0ccdo12ayufn5265ol|title= LACAZETTE TAKES ARSENAL NO.9 SHIRT |date=11 July 2017|access-date=11 July 2017|website=goal.com}}&lt;/ref&gt;
+
+====2017–18 season====
+[[File:Alexandre Lacazette 2018 May.jpg|thumb|upright|Lacazette playing for Arsenal in 2018]]
+On 6 August 2017, Lacazette made his first appearance for Arsenal in the [[2017 FA Community Shield]] against [[Chelsea F.C.|Chelsea]]. Despite hitting the post midway through the first half, Arsenal eventually won 4–1 on penalties after the game ended 1–1 at full time. This win constituted his first trophy win at Arsenal.&lt;ref&gt;{{Cite news|url=https://www.mirror.co.uk/sport/football/news/arsenal-chelsea-community-live-score-10939633|title=Arsenal vs. Chelsea: Live score and goal updates from Community Shield|last=Prenderville|first=Liam|work=Mirror|access-date=10 August 2017}}&lt;/ref&gt; On 11 August, Lacazette made his Premier League debut against [[Leicester City F.C.|Leicester City]] and scored after 94 seconds to give Arsenal a 1–0 lead in an eventual 4–3 win.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/40822513|title=Arsenal 4–3 Leicester City|last=Jurejko|first=Jonathan|work=[[BBC Sport]]|access-date=11 August 2017}}&lt;/ref&gt; Lacazette also managed to score in both of Arsenal's next home games, scoring Arsenal's second in a 3–0 win over [[A.F.C. Bournemouth|Bournemouth]], before grabbing a brace for the club in a 2–0 win over [[West Bromwich Albion F.C.|West Bromwich Albion]].&lt;ref&gt;{{citeweb|url=https://www.bbc.co.uk/sport/football/41133353|title=Arsenal 3–0 Bournemouth|last=Davis|first=Matt|work=BBC Sport|accessdate=9 September 2017}}&lt;/ref&gt; With his goals against West Brom, Lacazette became the first Arsenal player to score in his first three home league appearances for the club since [[Brian Marwood]] in September 1988.&lt;ref&gt;{{citeweb|url=https://www.bbc.co.uk/sport/football/41302628|title=Arsenal 2–0 West Brom|last=Henry|first=Matthew|work=BBC Sport|accessdate=25 September 2017}}&lt;/ref&gt;
+
+Lacazette scored his first away goal for Arsenal, in the team's 5–2 win against Everton at Goodison Park, latching onto a pass from [[Mesut Özil]], to score Arsenal's third.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/41625741|title=Everton 2–5 Arsenal|date=22 October 2017|publisher=BBC Sport}}&lt;/ref&gt; Lacazette claimed his 6th goal of the season in Arsenal's 3–1 away defeat to [[Manchester City F.C.|Manchester City]] after latching onto an [[Aaron Ramsey]] pass, despite not starting the game.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/41792812|title=Manchester City 3–1 Arsenal|date=5 November 2017|publisher=BBC Sport}}&lt;/ref&gt; In November, Lacazette scored Arsenal's opening goal in a 5–0 rout of [[Huddersfield Town A.F.C.|Huddersfield Town]] and in December, he scored Arsenal's only goal in a 3–1 home defeat to [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42075942|title=Arsenal 5–0 Huddersfield Town|website=BBC.co.uk}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42119930|title=Arsenal 1–3 Manchester United|date=2 December 2017|publisher=BBC Sport}}&lt;/ref&gt;
+
+Following a protracted period on the sidelines through injury, Lacazette returned to the Arsenal squad in the 3–0 home win over [[Stoke City F.C.|Stoke City]] in March, where he replaced [[Danny Welbeck]] in the 61st minute and scored the Gunners' third goal of the game, after new signing and designated penalty-taker [[Pierre-Emerick Aubameyang]], allowed Lacazette to take the penalty.&lt;ref&gt;{{citeweb|url=https://www.bbc.co.uk/sport/football/43530417|title=Arsenal 3–0 Stoke City|website=BBC.co.uk}}&lt;/ref&gt; Lacazette would then score twice on his Europa League debut for Arsenal, in a 4–1 win against [[PFC CSKA Moscow|CSKA Moscow]], marking his first goal in European competition for the club.&lt;ref&gt;{{citeweb|url=https://www.bbc.co.uk/sport/football/43632183|title=Arsenal 4–1 CSKA Moscow|website=BBC.co.uk}}&lt;/ref&gt; Lacazette then registered his third goal in European football for Arsenal, by scoring in the Europa League semi-final 1–1 draw with Atlético Madrid. The goal was Lacazette's seventh goal in seven games for the club since returning from injury.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/43915785|title=Arsenal 1–1 Atletico Madrid: Arsene Wenger says worst result for Arsenal|date=2018-04-26|work=BBC Sport|access-date=2018-06-04|language=en-GB}}&lt;/ref&gt; Lacazette scored in [[Arsène Wenger]]'s final home match, a 5–0 rout of [[Burnley F.C.|Burnley]], the team's second goal and his fourteenth league goal of the season, Lacazette also picked up an assist for the team's opening goal as well.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/43939015|title=Arsenal 5–0 Burnley|date=2018-05-06|work=BBC Sport|access-date=2018-06-04|language=en-GB}}&lt;/ref&gt;
+
+====2018–19 season====
+After the departure of manager Arsène Wenger, Lacazette found himself dropped to the bench under new manager [[Unai Emery]], making substitute appearances against [[Manchester City]], [[Chelsea F.C.|Chelsea]] and West Ham.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45138012|title=Arsenal 0-2 Man City: Unai Emery's opener is a reality check for Arsenal|date=12 August 2018|publisher=BBC Sport}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45236243|title=Chelsea 3-2 Arsenal: 'Chaotic classic exposes both sides' title limitations'|date=18 August 2018|publisher=BBC Sport}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45230637|title=Arsenal 3-1 West Ham United: Unai Emery secures first win as Gunners boss|date=25 August 2018|publisher=BBC Sport}}&lt;/ref&gt; Lacazette made his first start under Emery in Arsenal's 3–2 away win over [[Cardiff City]] on September 2, where he registered an assist and scored his first goal of the season.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45312124|title=Cardiff 2-3 Arsenal: Gunners win through Alexandre Lacazette's late strike|date=2 September 2018|publisher=BBC Sport}}&lt;/ref&gt;
+
+==International career==
+===Youth===
+Lacazette has featured for all of [[France national youth football team|France's national youth teams]] beginning with the [[France national under-16 football team|under-16 team]] making his debut in the team's 2–0 victory over [[Cameroon national football team|Cameroon]] on 3 April 2007 at the [[Montaigu Tournament]].&lt;ref&gt;{{cite news |title=Débuts réussis pour la France (2–0)|url=http://www.fff.fr///selections/m16ans/actualite/369431.shtml |work=[[French Football Federation]]|date=3 April 2007 |accessdate=5 November 2010| language = French}}&lt;/ref&gt; He finished the campaign with four appearances in the tournament. With the [[France national under-17 football team|under-17 team]], Lacazette was a regular and contributed to the team's qualification for the [[2008 UEFA European Under-17 Football Championship]]. In the competition, he scored the game-winning goal in the team's 2–1 win over the [[Republic of Ireland national under-17 football team|Republic of Ireland]] in the group stage.&lt;ref&gt;{{cite news|title=France sweat their way to glory |url=http://www.uefa.com/news/newsid=691701.html|work=[[UEFA|Union of European Football Associations]] |date=4 May 2008 |accessdate=5 November 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Entrée en matière réussie (2–1)|url=http://www.fff.fr/selections/m17ans/actualite/439252.shtml |publisher=[[French Football Federation]]|date=4 May 2008|accessdate=5 November 2010}}&lt;/ref&gt; France later reached the final where the team was defeated 4–0 by [[Spain national under-17 football team|Spain]].&lt;ref&gt;{{cite news|title=Stupendous Spain win U17 crown |url=http://en.archive.uefa.com/competitions/under17/fixturesresults/round=15032/match=302551/report=rp.html |work=[[UEFA|Union of European Football Associations]] |date=16 May 2008 |accessdate=5 November 2010 |deadurl=yes |archiveurl=https://archive.is/20120630012630/http://en.archive.uefa.com/competitions/under17/fixturesresults/round=15032/match=302551/report=rp.html |archivedate=30 June 2012 }}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=L'Espagne réalise le doublé|url=http://www.fff.fr/selections/m17ans/actualite/441710.shtml |publisher=[[French Football Federation]] |date=16 May 2008|accessdate=5 November 2010}}&lt;/ref&gt;
+
+[[File:Alexandre Lacazette.jpg|thumb|Lacazette playing for the [[France national under-21 football team|Les Bleuets]] in a game against Kazakhstan in [[Clermont-Ferrand]], October 2011.]]
+With the [[France national under-18 football team|under-18 team]], Lacazette made his debut in the team's match against [[Ukraine national under-18 football team|Ukraine]].&lt;ref&gt;{{cite news |title=Défaite pour les Tricolores (1–3)|url=http://www.fff.fr/selections/m18ans/actualite/466233.shtml |publisher=[[French Football Federation]] |date=30 September 2008 |accessdate=5 November 2010| language = French}}&lt;/ref&gt; He featured in ten of the eleven matches the team contested scoring one goal, which came against [[Denmark national under-18 football team|Denmark]] in the Tournoi de Limoges.&lt;ref&gt;{{cite news |title=France et Danemark dos à dos (1–1)|url=http://www.fff.fr/selections/m18ans/actualite/473096.shtml |publisher=[[French Football Federation]] |date=28 October 2008 |accessdate=5 November 2010| language = French}}&lt;/ref&gt; For [[France national under-19 football team|under-19 duty]], Lacazette was again called upon by coach [[Francis Smerecki]], making his first appearance for the team in a 4–2 defeat against [[Netherlands national under-19 football team|Netherlands]] on 9 November 2009.&lt;ref&gt;{{cite news |title= Pays-Bas 4–2 France |url=http://www.fff.fr/servfff/fiche_joueur_new/match.php?id_match=132 |publisher=[[French Football Federation]] |date=9 November 2009|accessdate=5 November 2010}}&lt;/ref&gt; He scored his first goal for the team on 4 March 2010 in a 2–1 win against [[Ukraine national under-19 football team|Ukraine]].&lt;ref&gt;{{cite news |title= France 2–1 Ukraine |url=http://www.fff.fr/servfff/fiche_joueur_new/match.php?id_match=187 |publisher=[[French Football Federation]] |date=4 March 2010|accessdate=5 November 2010}}&lt;/ref&gt; On 7 June 2010, Lacazette was named to coach Smerecki's 18-man squad to participate in the [[2010 UEFA European Under-19 Championship]]. In the tournament, he scored two goals in the team's 5–0 Group A victory over [[Austria national under-19 football team|Austria]].&lt;ref&gt;{{cite news|url=http://www.uefa.com/under19/matches/season=2010/round=15348/match=2002379/index.html |title=Flowing France leave Austria reeling |publisher=[[UEFA|Union of European Football Associations]] |date=21 July 2010 |accessdate=5 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100723013848/http://www.uefa.com/under19/matches/season%3D2010/round%3D15348/match%3D2002379/index.html |archivedate=23 July 2010 }}&lt;/ref&gt; France later reached the final where they faced [[Spain national under-19 football team|Spain]], which was essentially composed of the same players that defeated France in the 2008 UEFA European Under-17 Football Championship final. In the match, France came back from a goal down to win 2–1 with Lacazette netting the game-winning goal in the 85th minute after heading in a cross from [[Gaël Kakuta]]. France thus secured their second UEFA European Under-19 championship title.&lt;ref name="fu19"&gt;{{cite news|url=http://www.uefa.com/news/newsid=1508904.html|title=France fight back to claim U19 crown|publisher=[[UEFA|Union of European Football Associations]]|date=30 July 2010|accessdate=5 August 2010}}&lt;/ref&gt;
+
+Due to France's victory at the 2010 UEFA European Under-19 championship, the nation qualified for the [[2011 FIFA U-20 World Cup]]. This resulted in Lacazette making appearances for the [[France national under-20 football team|under-20 team]]. He made his under-20 team debut on 7 October 2010 in a [[Exhibition match|friendly match]] against [[Portugal national under-20 football team|Portugal]]. The match ended 3–3 with Lacazette scoring the opening goal of the match.&lt;ref&gt;{{cite news |title= France 3–3 Portugal |url=http://www.fff.fr/servfff/fiche_joueur_new/match.php?id_match=1320 |publisher=[[French Football Federation]] |date=7 October 2010|accessdate=5 November 2010}}&lt;/ref&gt; Three days later, Lacazette scored a double in the team's 5–0 thrashing of the [[Juventus F.C. Youth Sector|Juventus Primavera]] team.&lt;ref&gt;{{cite news |title= Festival offensif à Chambéry (5–0) |url=http://www.fff.fr/selections/20ans/actualite/535249.shtml |publisher=[[French Football Federation]] |date=10 October 2010|accessdate=5 November 2010}}&lt;/ref&gt; The match was unofficial and was contested as part of the celebration of the [[Savoy#Annexation to France|Treaty of Turin]]. On 9 February 2011, Lacazette scored the game-winning goal in a 2–1 victory over [[England national under-20 football team|England]]. In March 2011, Lacazette scored goals in back-to-back matches against [[Peru national under-20 football team|Peru]].
+
+On 10 June 2011, he was named to the 21-man squad to participate in the [[2011 FIFA U-20 World Cup]] finals. He made his debut in the competition in France's first Group A match on 30 July 2011 against the host nation [[Colombia national under-20 football team|Colombia]] (France lost the match 4–1), appearing as a substitute.&lt;ref&gt;{{cite web | url = https://www.fifa.com/u20worldcup/matches/round=255641/match=300145857/index.html | publisher=[[FIFA|Fédération Internationale de Football Association]] | title = Colombia 4–1 France |date = 30 July 2011 | accessdate = 2 August 2011 }}&lt;/ref&gt; In the team's next Group A match against [[South Korea national under-20 football team|South Korea]], Lacazette appeared as a substitute again and scored the final goal (in second-half injury time) of the match, which France won 3–1.&lt;ref&gt;{{cite web | url = https://www.fifa.com/u20worldcup/matches/round=255641/match=300145855/index.html | publisher=[[FIFA|Fédération Internationale de Football Association]] | title = France 3–1 South Korea |date = 2 August 2011 | accessdate = 2 August 2011 }}&lt;/ref&gt; He scored one goal in France's final Group A match, 2–0 win over [[Mali national under-20 football team|Mali]]. Lacazette scored twice in the quarterfinal win over [[Nigeria national under-20 football team|Nigeria]] and one goal in the third place match against [[Mexico national under-20 football team|Mexico]]. He finished as the tournament's joint top scorer with 5 goals, along with [[Henrique Almeida]] and [[Álvaro Vázquez]].
+
+===Senior===
+On 23 May 2013, Lacazette received his first call-up to the [[France national football team|senior squad]] following the withdrawal of [[Jérémy Ménez]] through injury.&lt;ref name="ESPN FC"/&gt; He made his international debut on 5 June, as a 58th-minute substitute for [[Olivier Giroud]] in a 0–1 friendly defeat against [[Uruguay national football team|Uruguay]] at the [[Estadio Centenario]] in [[Montevideo]].&lt;ref&gt;{{cite news|last1=Bairner|first1=Robin|title=Uruguay 1–0 France: Suarez returns to sink les Bleus|url=http://www.goal.com/en-gb/match/uruguay-vs-france/1459132/report?ICID=MP_MS_5|accessdate=31 March 2015|work=Goal.com|date=5 June 2013}}&lt;/ref&gt; Lacazette scored his first international goal on 29 March 2015, opening a 2–0 friendly win over [[Denmark national football team|Denmark]] at the [[Stade Geoffroy-Guichard]] in [[Saint-Étienne]]. During the match, he was booed by some of the local supporters due to [[Derby du Rhône|their rivalry with Lyon]].&lt;ref&gt;{{cite news|title=France 2–0 Denmark: Olivier Giroud strikes as Les Bleus bounce back from Brazil loss|url=http://www.dailymail.co.uk/sport/football/article-3017168/France-2-0-Denmark-Olivier-Giroud-strikes-Les-Bleus-bounce-Brazil-loss.html|accessdate=31 March 2015|work=Daily Mail|publisher=Associated Press|date=29 March 2015}}&lt;/ref&gt;
+On 14 November 2017, Lacazette netted a brace for France during a friendly away to Germany in an eventual 2–2 draw.&lt;ref&gt;{{cite web|url=http://www.eurosport.com/football/international-friendlies/2017/live-germany-france_mtc998614/live.shtml|title=Germany 2–2 France|website=Eurosport.com}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/41884902|title=Germany 2–2 France|website=BBC.com}}&lt;/ref&gt;
+
+On 17 May 2018, he was named on the standby list for the 23 man [[French national football team|French squad]] for the [[2018 World Cup]] in [[Russia]].&lt;ref&gt;{{Cite news|url=https://www.irishtimes.com/sport/soccer/english-soccer/anthony-martial-left-out-of-23-man-france-world-cup-squad-1.3499529|title=Anthony Martial left out of 23-man France World Cup squad|work=The Irish Times|access-date=2018-06-04|language=en-US}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.skysports.com/amp/football/news/12025/11376691/alexandre-lacazette-and-anthony-martial-on-standby-for-france-world-cup-squad-and-dimitri-payet-out|title=Alexandre Lacazette and Anthony Martial on standby for France World Cup squad and Dimitri Payet out|publisher=Sky Sports|website=www.skysports.com}}&lt;/ref&gt;
+
+==Style of play==
+Lacazette previously played as a [[Midfielder#Winger|winger]] for Lyon, before becoming a [[Striker (association football)|striker]].&lt;ref name="Sky_14Jul2015"&gt;{{cite web|last1=Laurence|first1=Martin|title=Lyon's Alexandre Lacazette could be solution to Arsenal's striker dilemma|url=http://www.skysports.com/football/news/11670/9912559/lyons-alexandre-lacazette-could-be-solution-to-arsenals-striker-dilemma|website=Sky Sports|accessdate=3 July 2017|language=en}}&lt;/ref&gt; As well as goalscoring and finishing ability, characteristics of his game are pace, strength, balance, technique, [[Dribbling#Association football|dribbling]], link-up play, and ability with either foot. He is also a hard-working player, who presses the opposition and wins the ball back using his defensive skills and tackling ability.&lt;ref name="FFT_22Aug2014"&gt;{{cite web|last1=LeGrand|first1=Dylan|title=Everything you need to know about... Alexandre Lacazette|url=https://www.fourfourtwo.com/features/everything-you-need-know-about-alexandre-lacazette|website=FourFourTwo|accessdate=3 July 2017|language=en|date=22 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.espn.in/soccer/blog/name/78/post/2213097/headline |title=Alexandre Lacazette: Could the Lyon forward spark Liverpool's firepower? |publisher=ESPN FC |last1=Dorrington |first1=Nick |date=23 December 2014 |accessdate=19 January 2019 }}&lt;/ref&gt;&lt;ref name="Lacazette Wright"&gt;{{cite web |url=http://www.espn.com/soccer/soccer-transfers/story/3153525/alexandre-lacazette-can-be-like-ian-wright-for-arsenal-gerard-houllier |title=Alexandre Lacazette can be 'like Ian Wright' for Arsenal - Gerard Houllier |publisher=ESPN FC |last1=Karen |first1=Mattias |date=5 July 2017 |accessdate=19 January 2019 }}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2018/oct/07/fulham-arsenal-premier-league-match-report |title=Alexandre Lacazette keeps up fine form as stylish Arsenal sweep Fulham aside |work=The Guardian |last1=Fifield |first1=Dominic |date=7 October 2018 |accessdate=19 January 2019 }}&lt;/ref&gt; Fellow Frenchman [[Gérard Houllier]] said in July 2017 that Lacazette "is a bit like" former Arsenal striker [[Ian Wright]].&lt;ref name="metro.co.uk"/&gt;&lt;ref name="Lacazette Wright"/&gt;
+
+==Career statistics==
+===Club===
+{{Updated|match played 27 February 2019}}&lt;ref&gt;{{soccerway|alexandre-lacazette/87653|accessdate=6 May 2018}}&lt;/ref&gt;
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2 width=120|Club
+!rowspan=2 width=80|Season
+!colspan=3|League
+!colspan=2|National Cup&lt;ref group=lower-alpha&gt;Includes [[Coupe de France]] and [[FA Cup]] matches&lt;/ref&gt;
+!colspan=2|League Cup&lt;ref group=lower-alpha&gt;Includes [[Coupe de la Ligue]] and [[EFL Cup]] matches&lt;/ref&gt;
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!width=120|Division
+!width=40|Apps!!width=40|Goals
+!width=45|Apps!!width=45|Goals
+!width=45|Apps!!width=45|Goals
+!width=40|Apps!!width=40|Goals
+!width=40|Apps!!width=40|Goals
+!width=40|Apps!!width=40|Goals
+|-
+|rowspan=9|[[Olympique Lyonnais|Lyon]]
+|[[2009–10 Olympique Lyonnais season|2009–10]]
+|rowspan=8|[[Ligue 1]]
+|1||0||0||0||0||0||0||0||colspan=2|—||1||0
+|-
+|[[2010–11 Olympique Lyonnais season|2010–11]]
+|9||1||0||0||0||0||2{{efn|Appearances in the [[UEFA Champions League]]|name=ucl}}||1||colspan=2|—||11||2
+|-
+|[[2011–12 Olympique Lyonnais season|2011–12]]
+|29||5||4||2||4||2||6{{efn|name=ucl}}||1||colspan=2|—||43||10
+|-
+|[[2012–13 Ligue 1|2012–13]]
+|31||3||0||0||0||0||5{{efn|Appearances in the [[UEFA Europa League]]|name=uel}}||1||1{{efn|Appearance in the [[Trophée des Champions]]|name=tdc}}||0||37||4
+|-
+|[[2013–14 Ligue 1|2013–14]]
+|36||15||2||2||4||3||12{{efn|Four appearances in the UEFA Champions League; Eight appearances, two goals in the UEFA Europa League}}||2||colspan=2|—||54||22
+|-
+|[[2014–15 Ligue 1|2014–15]]
+|33||27||2||2||1||1||4{{efn|name=uel}}||1||colspan=2|—||40||31
+|-
+|[[2015–16 Ligue 1|2015–16]]
+|34||21||2||0||1||0||6{{efn|name=ucl}}||2||1{{efn|name=tdc}}||0||44||23
+|-
+|[[2016–17 Ligue 1|2016–17]]
+|30||28||1||1||1||1||12{{efn|Four appearances, one goal in the UEFA Champions League; Eight appearances, six goals in the UEFA Europa League}}||7||1{{efn|name=tdc}}||0||45||37
+|-
+!colspan=2|Total
+!203!!100!!11!!7!!11!!7!!47!!15!!3!!0!!275!!129
+|-
+|rowspan=3|[[Arsenal F.C.|Arsenal]]
+|[[2017–18 Arsenal F.C. season|2017–18]]
+|rowspan=2|[[Premier League]]
+|32||14||0||0||2||0||4{{efn|Appearances in the [[UEFA Europa League]]|name=uel}}||3||1{{efn|Appearance in the [[FA Community Shield]]|name=facs}}||0||39||17
+|-
+|[[2018–19 Arsenal F.C. season|2018–19]]
+|27||12||2||0||2||1||4{{efn|Appearances in the [[UEFA Europa League]]|name=uel}}||1||colspan=2|—||35||14
+|-
+!colspan=2|Total
+!59!!26!!2!!0!!4!!1!!8!!4!!1!!0!!74!!31
+|-
+!colspan=3|Career total
+!262!!126!!13!!7!!15!!8!!55!!19!!4!!0!!349!!160
+|}
+
+{{notelist}}
+
+===International===
+{{Updated|match played 14 November 2017}}&lt;ref name=NFT&gt;{{NFT player |id=52305 |name=Lacazette, Alexandre |accessdate=6 May 2018}}&lt;/ref&gt;
+
+{| class=wikitable style="text-align: center"
+|-
+!colspan=3|[[France national football team|France national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2013||2||0
+|-
+|2014||3||0
+|-
+|2015||5||1
+|-
+|2016||0||0
+|-
+|2017||6||2
+|-
+!Total!!16!!3
+|}
+
+===International goals===
+:''As of match played 14 November 2017. France score listed first, score column indicates score after each Lacazette goal.''&lt;ref name=NFT/&gt;
+
+{| class="wikitable sortable"
+|-
+! # !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 29 March 2015 || [[Stade Geoffroy Guichard]], [[Saint-Étienne]], France|| {{fb|DEN}} || align=center | 1–0 ||align=center | 2–0 || [[Exhibition game#Association football|Friendly]]
+|-
+| 2. || rowspan=2 | 14 November 2017 || rowspan=2 | [[RheinEnergieStadion]], [[Cologne]], Germany || rowspan=2 | {{fb|GER}} || align=center | 1–0 || rowspan=2|&lt;center&gt;2–2&lt;/center&gt; || rowspan=2 | Friendly
+|-
+| 3. || align=center | 2–1
+|}
+
+==Honours==
+'''Lyon'''&lt;ref name=Eurosport&gt;{{cite web|url=http://www.eurosport.com/football/alexandre-lacazette_prs176602/person.shtml|title=Alexandre Lacazette|website=Eurosport.com}}&lt;/ref&gt;
+*[[Coupe de France]]: [[2011–12 Coupe de France|2011–12]]
+*[[Trophée des Champions]]: [[2012 Trophée des Champions|2012]]
+
+'''Arsenal'''&lt;ref name=Eurosport/&gt;
+*[[FA Community Shield]]: [[2017 FA Community Shield|2017]]
+
+'''France U19'''
+*[[UEFA European Under-19 Championship]]: [[2010 UEFA European Under-19 Championship|2010]]&lt;ref name="fu19" /&gt;
+
+'''Individual'''
+*[[FIFA U-20 World Cup]] Bronze Shoe: [[2011 FIFA U-20 World Cup|2011]]
+*[[Trophées UNFP du football#Team of the Year|UNFP Ligue 1 Team of the Year]]: [[Trophées UNFP du football#2014|2013–14]],&lt;ref&gt;{{cite web|title=UNFP : Trophées UNFP du football Le palmarès complet|url=http://www.unfp.org/a-la-une/article/le-palmares-complet-11052014-7975.html|website=UNFP|accessdate=9 July 2015|date=11 May 2014|deadurl=yes|archiveurl=https://archive.is/20140515103652/http://www.unfp.org/a-la-une/article/le-palmares-complet-11052014-7975.html|archivedate=15 May 2014|df=dmy-all}}&lt;/ref&gt; [[Trophées UNFP du football#2015|2014–15]],&lt;ref&gt;{{cite web|title=UNFP : Trophées UNFP du football Un TGV Lyon-Paris via Troyes... |url=http://www.unfp.org/a-la-une/article/un-tgv-lyon-paris-via-troyes-17052015-8833.html |website=UNFP |accessdate=9 July 2015 |date=17 May 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150907120010/http://www.unfp.org/a-la-une/article/un-tgv-lyon-paris-via-troyes-17052015-8833.html |archivedate=7 September 2015 }}&lt;/ref&gt; [[Trophées UNFP du football#2017|2016–17]]&lt;ref&gt;{{Cite news|url=http://www.squawka.com/news/edinson-cavani-named-ligue-1-player-of-the-year-as-six-monaco-players-make-team-of-the-season/948119|title=Cavani named Ligue 1 player of the year as six Monaco players make team of the season|work=Squawka News|access-date=16 May 2017|language=en}}&lt;/ref&gt;
+*[[Trophées UNFP du football#Player of the Year|UNFP Ligue 1 Player of the Year]]: [[2014–15 Ligue 1|2014–15]]&lt;ref name="poy" /&gt;
+*[[Top goalscorers in Ligue 1|Ligue 1 top scorer]]: [[2014-15 Ligue 1|2014–15]]&lt;ref name="lg1" /&gt;
+*[[Onze de Bronze]]: 2014–15&lt;ref&gt;{{cite journal |first=Zahir |last=Oussadi |title=Onze d'Or: Le Public S'Est Mobilisé Pour Griezmann et les Lyonnais |journal=Onze Mondial |date=29 May 2015 |url=http://www.mensquare.com/onzemondial/france/76101-onze-dor-resultats-antoine-griezmann-olympique-lyonnais-public |accessdate=26 December 2015}}&lt;/ref&gt;
+*[[UNFP Player of the Month]]: December 2014, January 2015, August 2016
+*[[UEFA Europa League]] Squad of the Season: [[2016–17 UEFA Europa League#Squad of the Season|2016–17]]&lt;ref&gt;{{cite web|title=UEFA Europa League Squad of the Season|url=http://www.uefa.com/uefaeuropaleague/news/newsid=2471052.html|publisher=UEFA|date=25 May 2017}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* {{Webarchive |url=https://web.archive.org/web/20091003123221/http://www.olweb.fr/fr/Accueil/300204/Fiche-Joueur/1191/Lacazette-Alexandre?grp=2&amp;saison=2009 |date=3 October 2009 |title=Alexandre Lacazette profile at olweb.fr }}
+* {{LFP|id=lacazette-alexandre}}
+* {{FIFA player|336447}}
+* {{UEFA player|1908196}}
+* {{Lequipe|id=32441}}
+* [http://www.fff.fr/equipes-de-france/tous-les-joueurs/fiche-joueur/2588633816-alexandre-lacazette France profile] at FFF
+
+{{Arsenal F.C. squad}}
+{{Navboxes
+|title=Awards
+|bg=gold
+|fg=navy
+|list1=
+{{2013–14 Ligue 1 UNFP Team of the Year}}
+{{2014–15 Ligue 1 UNFP Team of the Year}}
+{{2016–17 Ligue 1 UNFP Team of the Year}}
+{{Ligue 1 Player of the Year}}
+{{Ligue 1 top scorers}}
+}}
+
+{{DEFAULTSORT:Lacazette, Alexandre}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Lyon]]
+[[Category:French footballers]]
+[[Category:France youth international footballers]]
+[[Category:France under-21 international footballers]]
+[[Category:France international footballers]]
+[[Category:Association football forwards]]
+[[Category:Olympique Lyonnais players]]
+[[Category:Arsenal F.C. players]]
+[[Category:Ligue 1 players]]
+[[Category:Premier League players]]
+[[Category:French expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:French expatriate sportspeople in England]]
+[[Category:French people of Guadeloupean descent]]
+[[Category:Black French sportspeople]]</text>
+      <sha1>76kj70b92ur1lbd88bhtzre0j03qesk</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,384 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Serge Aurier</title>
+    <ns>0</ns>
+    <id>25810070</id>
+    <revision>
+      <id>884828790</id>
+      <parentid>884661917</parentid>
+      <timestamp>2019-02-24T08:07:41Z</timestamp>
+      <contributor>
+        <username>Iggy the Swan</username>
+        <id>31885086</id>
+      </contributor>
+      <comment>Update to match vs Burnley yesterday</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="42244">{{Use dmy dates|date=November 2018}}
+{{Infobox football biography
+| name           = Serge Aurier
+| image          = PSG-Shakhter15 (3).jpg
+| image_size     = 200
+| caption        = Aurier playing for [[Paris Saint Germain F.C.|Paris Saint Germain]] in 2017
+| fullname       = Serge Alain Stephane Aurier&lt;ref name=CAF&gt;{{cite web |title=Player details |url=http://www.cafonline.com/en-us/competitions/orangeafricacupofnations,equatorialguinea2015/teamdetails/PlayerDetails?CompetitionPlayerID=vkoV%2B9WiwAa6Bz2Arx1mX6Eu63XWrKKFVA2O%2FM4ng3kA1DccS5y4OB8ZIpKKH3zi&amp;TeamsIDs=T3hsTT3LRXOCbZ%2Fz%2B5G7nbBKHh5KZMyQ%2B%2F8%2BnSc1yoOTp8GFoSkdQMlphDkG3cCo |publisher=Confederation of African Football |accessdate=9 September 2017}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1992|12|24|df=y}}&lt;ref name=CAF/&gt;
+| birth_place    = [[Ouragahio]], Ivory Coast&lt;ref&gt;{{cite web|title=Sergi Aurier profile|url=http://www.tfc.info/news/joueur/serge-aurier|publisher=Toulouse FC|language=French|accessdate=24 July 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140625075420/http://www.tfc.info/news/joueur/serge-aurier|archivedate=25 June 2014}}&lt;/ref&gt;
+| height         = {{height|m=1.76}}&lt;ref&gt;{{cite web|url=https://www.premierleague.com/players/11293/Serge-Aurier/overview|title=Aurier}}&lt;/ref&gt;
+| position       = [[Defender (association football)#Full-back|Right back]]
+| currentclub    = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| clubnumber     = 24
+| youthyears1    = 2006–2009
+| youthclubs1    = [[RC Lens|Lens]]
+| years1         = 2009–2012
+| clubs1         = [[RC Lens|Lens]]
+| caps1          = 40
+| goals1         = 0
+| years2         = 2012–2015
+| clubs2         = [[Toulouse FC|Toulouse]]
+| caps2          = 72
+| goals2         = 8
+| years3         = 2014–2015
+| clubs3         = → [[Paris Saint-Germain F.C.|Paris Saint-Germain]] (loan)
+| caps3          = 14
+| goals3         = 0
+| years4         = 2015–2017
+| clubs4         = [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| caps4          = 43
+| goals4         = 2
+| years5         = 2017–
+| clubs5         = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| caps5          = 25
+| goals5         = 2
+| nationalyears1 = 2013–
+| nationalteam1  = [[Ivory Coast national football team|Ivory Coast]]
+| nationalcaps1  = 48
+| nationalgoals1 = 1
+| club-update    = 08:07, 24 February 2019 (UTC)
+| ntupdate       = 9 September 2018
+}}
+'''Serge Alain Stephane Aurier''' ({{IPA-fr|sɛʁʒ oʁje|lang}}; born 24 December 1992) is an Ivorian professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|right back]] for [[Premier League]] club [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and the [[Ivory Coast national football team|Ivory Coast national team]].
+
+Aurier moved to France as a child and played for [[RC Lens|Lens]], [[Toulouse FC|Toulouse]] and [[Paris Saint-Germain F.C.|Paris Saint-Germain]], winning 11 major trophies with the last. He totalled 169 appearances in [[Ligue 1]] and was twice named in the competition's [[Trophées UNFP du football|Team of the Year]]. In 2017, he joined Tottenham for a fee of around £23&amp;nbsp;million.
+
+He made his international debut for the Ivory Coast in 2013 and has earned over 40 caps. He represented the nation at the [[2014 FIFA World Cup]] and two [[Africa Cup of Nations]] tournaments, winning the [[2015 Africa Cup of Nations|2015 edition]].
+
+==Club career==
+===Lens===
+Aurier played for various youth teams and academies before he was accepted to join Villepinte. Aurier then joined [[RC Lens|Lens]] in [[Ligue 1]], where this started his professional footballing career.&lt;ref name="SergiAurier1"&gt;{{cite news|title=Sergi Aurier: le sue partite meglio di una birra d'estate|url=http://www.tuttomercatoweb.com/il-volto-nuovo/cinque-milioni-per-un-terzino-full-back-difesa-attacco-forza-e-solidita-serge-aurier-le-sue-partite-meglio-di-una-birra-d-estate-294432|publisher=Tutto Mercato Web|date=14 September 2011|accessdate=7 April 2015}}&lt;/ref&gt; Shortly after, Aurier, who was then thirteen at the time, had to leave his friends and family as a result of joining Lens.&lt;ref name="SergeAurier2"/&gt; There, Aurier was assigned to the club's reserve team and at a point, was the club's captain in the reserve team.&lt;ref name="SergeAurier2"/&gt; In June 2009, Aurier signed his first professional contract with Lens.&lt;ref name="SergeAurier2"/&gt;
+
+Aurier made his professional debut for the club in a 1–0 win over [[AS Saint-Étienne|Saint-Étienne]] on 22 December 2009.&lt;ref&gt;{{cite news|title=Lens leave it late|url=http://www1.skysports.com/football/live/match/138433/report|publisher=Sky Sports|date=22 December 2009|accessdate=7 April 2015}}&lt;/ref&gt; Aurier was given another opportunity in the [[2009–10 Coupe de la Ligue#Round of 16|Round of 16 of Coupe de la Ligue]], a 2–1 loss against [[FC Lorient|Lorient]].&lt;ref&gt;{{cite news|title=RC Lens 1 – 2 FC Lorient|url=http://www.ligue1.com/coupeLigue/feuille_match/53523|publisher=Ligue 1|date=13 January 2010|accessdate=7 April 2015}}&lt;/ref&gt; He soon sustained a shoulder injury that left him out for two or three weeks.&lt;ref&gt;{{cite news|title=Boukari out 2 à 3 semaines|url=https://www.lequipe.fr/Football/Actualites/Boukari-out-2-a-3-semaines/94806|publisher=L'Equipe|language=French|date=11 March 2011|accessdate=7 April 2015}}&lt;/ref&gt; Despite this, Aurier went on to make five appearance for Lens in his first season.
+
+Aurier's second season saw him break into the first-team, and although he went on to make 26 appearances in [[2010–11 Ligue 1|2010–11]], the club was relegated to [[Ligue 2]] after finishing second-last in the league table, at 19th. Prior to club's relegation, Aurier had signed a contract extension with the club through to 2015.&lt;ref&gt;{{cite news|title=Aurier un an de plus|url=https://www.lequipe.fr/Football/Actualites/Aurier-un-an-de-plus/188220|publisher=L'Equipe|language=French|date=29 March 2011|accessdate=7 April 2015}}&lt;/ref&gt;
+
+Ahead of the [[2011–12 Ligue 2|2011–12 season]], Aurier's performance soon attracted interest from clubs around England,&lt;ref&gt;{{cite news|title=Toulouse defender Serge Aurier would like move to England|url=http://www1.skysports.com/football/news/11820/8732822/toulouse-defender-serge-aurier-would-like-move-to-england|publisher=Sky Sports|date=24 May 2011|accessdate=7 April 2015}}&lt;/ref&gt; with the player considering departing Lens for a new opportunity.&lt;ref&gt;{{cite news|title=Aurier pense à "un départ"|url=https://www.lequipe.fr/Football/Actualites/Aurier-pense-a-un-depart/209060|publisher=|work=L'Equipe|date=28 June 2011|accessdate=7 April 2015}}&lt;/ref&gt; However, Aurier ruled out a move abroad, implying that regardless of whether or not Aurier chose to stay or leave Lens, he would be footballing for a member of France's principal league.&lt;ref&gt;{{cite news|title=Aurier eyes France stay|url=http://www1.skysports.com/football/news/11820/7018449/aurier-eyes-france-stay|publisher=Sky Sports|date=4 July 2011|accessdate=7 April 2015}}&lt;/ref&gt; Despite this, however, Aurier began the year with Lens, making 16 appearances in the first half of the season around which time the club was facing financial issues.&lt;ref name="Aurier442"/&gt;
+
+===Toulouse===
+On 26 January 2012, Aurier ultimately left Lens, signing for [[Toulouse FC|Toulouse]] on a four-and-a-half-year deal.&lt;ref&gt;{{cite news|title=Serge Aurier à Toulouse |url=http://www.rclensois.fr/transferts/officiel-serge-aurier-a-toulouse-a14229.html |publisher=RC Len |language=French |date =26 January 2012 |accessdate = 26 January 2012|archiveurl=https://web.archive.org/web/20131005003724/http://www.rclensois.fr/transferts/officiel-serge-aurier-a-toulouse-a14229.html|archivedate=5 October 2013|deadurl=no}}&lt;/ref&gt; The move came after Toulouse's president hinted he would sign Aurier for a €1.5&amp;nbsp;million transfer fee.&lt;ref&gt;{{cite news|title=Toulouse veut Aurier (Lens)|url=https://www.lequipe.fr/Football/Actualites/Toulouse-veut-aurier-lens/258843|publisher=L'Equipe|language=French|date=26 January 2012|accessdate=7 April 2015}}&lt;/ref&gt;
+
+Aurier made his debut for the club two days later in a 2–1 win over [[Stade Malherbe Caen|Caen]].&lt;ref&gt;{{cite news|title=TOULOUSE VS. CAEN 1 – 0|url=https://int.soccerway.com/matches/2012/01/28/france/ligue-1/toulouse-fc/stade-malherbe-caen-calvados-basse-norma/1114927/|publisher=Soccerway|date=28 January 2012|accessdate=7 April 2015}}&lt;/ref&gt; He then scored his first goal for Toulouse in a 2–1 loss against [[Lille OSC|Lille]] on 1 April 2012.&lt;ref&gt;{{cite news|title=LOSC Lille 2 – 1 Toulouse FC|url=http://www.ligue1.com/ligue1/feuille_match/74662|publisher=Ligue 1|date=1 April 2012|accessdate=7 April 2015}}&lt;/ref&gt; Soon after, Aurier sprained his ankle which saw him miss six matches, though he was back for the last game of the season, which saw Toulouse lose 2–0 against [[AC Ajaccio|Ajaccio]].&lt;ref&gt;{{cite news|title=Toulouse 0 – 2 Ajaccio|url=http://www.ligue1.com/ligue1/feuille_match/74747|publisher=Ligue 1|date=20 May 2012|accessdate=7 April 2015}}&lt;/ref&gt; In his first half-season at Toulouse, he made ten appearances.
+
+In his first full season at Toulouse, [[2012–13 Ligue 1|2012–13]], Aurier provided an assist for [[Wissam Ben Yedder]] but was sent-off in the 84th minutes for a challenge on [[Henri Bedimo]] in a 1–1 draw with [[Montpellier HSC|Montpellier]].&lt;ref&gt;{{cite news|title=Dramatic draw in France|url=http://www1.skysports.com/football/live/match/267307/report|publisher=Sky Sports|date=10 August 2012|accessdate=7 April 2015}}&lt;/ref&gt; His sending off saw him suspended for three games with one-year suspended.&lt;ref&gt;{{cite news|title=Aurier et Dupont au pilori|url=https://www.lequipe.fr/Football/Actualites/Aurier-et-dupont-au-pilori/306558|publisher=L'Equipe|language=French|date=16 August 2012|accessdate=7 April 2015}}&lt;/ref&gt; After serving his two games, Aurier made his return on 1 September 2012 in a 1–1 draw against [[Stade de Reims|Reims]].&lt;ref&gt;{{cite news|title=Toulouse FC 1 – 1 Stade de Reims|url=http://www.ligue1.com/ligue1/feuille_match/75959|publisher=Ligue 1|date=1 September 2012|accessdate=7 April 2015}}&lt;/ref&gt; He scored his first goal of the season on 11 January 2013 in a 2–2 draw against Saint-Étienne.&lt;ref&gt;{{cite news|title=Mollo earns St Etienne a point|url=http://www1.skysports.com/football/live/match/280692/report|publisher=Sky Sports|date=11 January 2013|accessdate=7 April 2015}}&lt;/ref&gt; Aurier was sidelined later on in the season after tearing a hamstring&lt;ref&gt;{{cite news|title=Aurier absent 10 jours|url=https://www.lequipe.fr/Football/Actualites/Aurier-absent-10-jours/330137|publisher=L'Equipe|language=French|date=28 November 2012|accessdate=7 April 2015}}&lt;/ref&gt; and injuring his right knee.&lt;ref&gt;{{cite news|title=Aurier blessé au genou droit|url=https://www.lequipe.fr/Football/Actualites/Aurier-blesse-au-genou-droit/351886|publisher=L'Equipe|language=French|date=21 February 2013|accessdate=7 April 2015}}&lt;/ref&gt; Despite being on the sidelines for a period of time, Aurier made 28 appearances, scoring one goal.
+
+Ahead of the [[2013–14 Ligue 1|2013–14 season]], Aurier signed a contract extension, keeping him at Toulouse until 2018.&lt;ref&gt;{{cite news|title=Serge Aurier prolonge|url=https://www.lequipe.fr/Football/Actualites/Serge-aurier-prolonge/383416|publisher=L'Equipe|language=French|date=4 July 2013|accessdate=7 April 2015}}&lt;/ref&gt; This came after re-ignited interest in his services from clubs around Europe.&lt;ref&gt;{{cite news|title=Transfer news: Serge Aurier welcomes links to Everton and Marseille|url=http://www1.skysports.com/football/news/11820/8789409/transfer-news-serge-aurier-welcomes-links-to-everton-and-marseille|publisher=Sky Sports|date=23 June 2013|accessdate=7 April 2015}}&lt;/ref&gt; Under the management of [[Alain Casanova]], Aurier found himself playing in a 3–5–2 formation as a right-sided centre back in the three-man defence, as well as a wing-back at times.&lt;ref name="Aurier442"&gt;{{cite news|title=Everything you need to know about... Serge Aurier|url=http://www.fourfourtwo.com/features/everything-you-need-know-about-serge-aurier|publisher=FourFourTwo|date=4 June 2014|accessdate=7 April 2015}}&lt;/ref&gt; He went on to play an attacking role by assisting two goals in two different matches by the end of September. Aurier then scored his first goal of the season in a 2–1 loss against [[Evian Thonon Gaillard F.C.|Evian]] on 2 November 2013.&lt;ref&gt;{{cite news|title=Evian Thonon Gaillard 2 – 1 Toulouse FC|url=http://www.ligue1.com/ligue1/feuille_match/77624|publisher=Ligue 1|date=2 November 2013|accessdate=7 April 2015}}&lt;/ref&gt; His second goal of the season came on 2 February 2014 in a 2–2 draw against [[Olympique de Marseille|Marseille]].&lt;ref&gt;{{cite news|title=Toulouse sait embêter l'OM|url=https://www.lequipe.fr/Football/Actualites/Toulouse-sait-embeter-l-om/437755|publisher=L'Equipe|language=French|date=2 February 2014|accessdate=7 April 2015}}&lt;/ref&gt; His third goal of the season came on 15 February 2014 in a 3–1 win over Lorient.&lt;ref&gt;{{cite news|title=FC Lorient 1 – 3 Toulouse FC|url=http://www.ligue1.com/ligue1/feuille_match/77755|publisher=Ligue 1|date=15 February 2014|accessdate=7 April 2015}}&lt;/ref&gt; He went on to score two goals in two games against Reims&lt;ref&gt;{{cite news|title=Toulouse FC 3 – 2 Stade de Reims|url=http://www.ligue1.com/ligue1/feuille_match/77791|publisher=Ligue 1|date=8 March 2014|accessdate=7 April 2015}}&lt;/ref&gt; and [[Stade Rennais F.C.|Rennes]].&lt;ref&gt;{{cite news|title=Stade Rennais FC 2 – 3 Toulouse FC|url=http://www.ligue1.com/ligue1/feuille_match/77801|publisher=Ligue 1|date=15 March 2014|accessdate=7 April 2015}}&lt;/ref&gt; His sixth goal of the season came on 5 April 2014 in a 2–1 loss against Lille.&lt;ref&gt;{{cite news|title=Toulouse FC 1 – 2 LOSC Lille|url=http://www.ligue1.com/ligue1/feuille_match/77831|publisher=Ligue 1|date=5 April 2014|accessdate=7 April 2015}}&lt;/ref&gt; Aurier went on to make 34 appearances, scoring six times. At the end of the 2013–14 season, Aurier was shortlisted for the [[Trophées UNFP du football#Player of the Year|Ligue 1 Player of the Year]] for the first time in his career.&lt;ref&gt;{{Cite news|url=http://sport24.lefigaro.fr/football/ligue-1/actualites/trophees-unfp-le-psg-truste-les-nominations-692478|title=Trophées UNFP : Le PSG truste les nominations|publisher=Le Figrano|language=French|date=1 May 2014|accessdate=7 April 2015}}&lt;/ref&gt; He was also named as the second-best player African player in Ligue 1.&lt;ref&gt;{{cite news|title=Enyeama meilleur joueur africain de L1 devant Aurier et Bedimo|url=http://www.foot01.com/ligue1/enyeama-meilleur-joueur-africain-de-l1-devant-aurier-et-bedimo,143943|publisher=Foot 01|language=French|date=12 May 2014|accessdate=7 April 2015}}&lt;/ref&gt;
+
+After an impressive display at the [[2014 FIFA World Cup]] for the Ivory Coast, Aurier was again linked with a move away from Toulouse.&lt;ref&gt;{{cite news|title=Aurier convoité par Monaco|url=https://www.lequipe.fr/Football/Actualites/Aurier-convoite-par-monaco/480130|publisher=L'Equipe|language=French|date=5 July 2014|accessdate=7 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Trois clubs anglais pour Aurier|url=https://www.lequipe.fr/Football/Actualites/Trois-clubs-anglais-pour-aurier/475943|publisher=L'Equipe|language=French|date=21 June 2014|accessdate=7 April 2015}}&lt;/ref&gt; In an interview, Aurier stated that his dream move would be to English club [[Arsenal F.C.|Arsenal]] of the [[Premier League]] and claimed that he could not turn them down if they made an offer for him.&lt;ref&gt;{{cite news|title=Transfer News: Toulouse defender Serge Aurier interested in move to Arsenal|url=http://www1.skysports.com/football/news/11820/9256882/transfer-news-toulouse-defender-serge-aurier-interested-in-move-to-arsenal|publisher=Sky Sports|date=9 April 2014|accessdate=7 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Transfer news: Toulouse's Serge Aurier would welcome summer move to Arsenal|url=http://www1.skysports.com/football/news/11820/9320434/transfer-news-toulouses-serge-aurier-would-welcome-summer-move-to-arsenal|publisher=Sky Sports|date=21 May 2014|accessdate=7 April 2015}}&lt;/ref&gt;
+
+===Paris Saint-Germain===
+On 23 July 2014, Aurier joined [[Paris Saint-Germain F.C.|Paris Saint-Germain]] on a season-long loan with an option for the Parisian club to purchase outright.&lt;ref&gt;{{cite web|title=Serge Aurier joins Paris Saint-Germain|url=http://www.psg.fr/en/News/003001/Article/67561/Serge-Aurier-joins-Paris-Saint-Germain|publisher=Paris Saint-Germain F.C.|accessdate=24 July 2014|date=23 July 2014|archiveurl=https://web.archive.org/web/20140725055318/http://www.psg.fr/en/News/003001/Article/67561/Serge-Aurier-joins-Paris-Saint-Germain|archivedate=25 July 2014|deadurl=no}}&lt;/ref&gt; His move to PSG was believed to be as a replacement for incumbent right back [[Christophe Jallet]].&lt;ref&gt;{{cite news|title=Jallet proche de Lyon|url=https://www.lequipe.fr/Football/Actualites/Jallet-proche-de-lyon/482712|publisher=L'Equipe|language=French|date=15 July 2014|accessdate=7 April 2015}}&lt;/ref&gt; Upon moving to PSG, Aurier stated he had no concern over his first-team chances, despite facing competition from [[Gregory van der Wiel]], who also plays primarily as a right back.&lt;ref&gt;{{cite news|title=Je découvre des compétiteurs|url=https://www.lequipe.fr/Football/Actualites/Aurier-je-decouvre-des-competiteurs/490168|publisher=L'Equipe|language=French|date=14 August 2014|accessdate=7 April 2015}}&lt;/ref&gt;
+
+Aurier made his PSG debut in the [[2014–15 Ligue 1]], coming on as a substitute for Van der Wiel in a 2–0 win over [[SC Bastia|Bastia]] on 16 August 2014.&lt;ref&gt;{{cite news|title=Paris Saint-Germain 2 – 1 SC Bastia|url=http://www.ligue1.com/ligue1/feuille_match/78796|publisher=Ligue 1|date=16 August 2014|accessdate=7 April 2015}}&lt;/ref&gt; He scored his first goal for PSG in the [[2014–15 Coupe de la Ligue#Round of 16|Round of 16 of Coupe de la Ligue]] in a 3–1 victory over Ajaccio.&lt;ref&gt;{{cite news |title=Ajaccio 1–3 Paris Saint-Germain |url= http://www.ligue1.com/coupeLigue/feuille_match/79732 |publisher=Ligue 1 |date=17 December 2014 |accessdate=7 April 2015}}&lt;/ref&gt; In the first half of the season, Aurier was unable to establish himself in the first team due to his own injury concerns and international commitments.&lt;ref&gt;{{cite news|title=Côte d'Ivoire : Aurier blessé|url=https://www.lequipe.fr/Football/Actualites/Aurier-s-est-blesse/506033|publisher=L'Equipe|language=French|date=10 November 2014|accessdate=7 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Pastore très incertain contre Caen|url=https://www.lequipe.fr/Football/Actualites/Pastore-incertain-contre-caen/536033|publisher=L'Equipe|language=French|date=13 February 2015|accessdate=7 April 2015}}&lt;/ref&gt; Aurier played his first PSG match in one month – lasting the entire 90 minutes – in a 2–2 draw against Caen;&lt;ref&gt;{{cite news|title=Paris Saint-Germain 2 – 2 SM Caen|url=https://www.bbc.co.uk/sport/0/football/31458484|publisher=BBC Sport|date=14 February 2015|accessdate=7 April 2015}}&lt;/ref&gt; his performance was later praised after the match.&lt;ref&gt;{{cite news|title=Le PSG rend hommage à Aurier|url=https://www.lequipe.fr/Football/Actualites/Hommage-a-aurier/536276|publisher=L'Equipe|language=French|date=14 February 2015|accessdate=7 April 2015}}&lt;/ref&gt; During the match, however, he injured himself and was not substituted out, as manager [[Laurent Blanc]] had previously used all three of his substitutions earlier in the match.&lt;ref&gt;{{cite news|title=Aurier sort sur une civière|url=https://www.lequipe.fr/Football/Actualites/Aurier-sort-sur-une-civiere/536330|publisher=L'Equipe|language=French|date=14 February 2015|accessdate=7 April 2015}}&lt;/ref&gt; Whilst on the sidelines in PSG's [[UEFA Champions League]] match against [[Chelsea F.C.|Chelsea]], Aurier found himself in hot water with [[UEFA]] after criticizing [[Björn Kuipers]]' refereeing decision and calling him a "dirty son of a bitch" in a video posted on Facebook. Though Aurier later apologised for his actions,&lt;ref&gt;{{cite news|title=PSG defender Serge Aurier apologises for comments after Chelsea clash|url=http://www1.skysports.com/football/news/11820/9763748/serge-aurier-apologises-for-comments-about-referee-after-champions-league-clash-with-chelsea|publisher=Sky Sports|date=17 March 2015|accessdate=7 April 2015}}&lt;/ref&gt; UEFA nonetheless suspended him for three matches.&lt;ref&gt;{{cite news|title=Paris St-Germain defender Serge Aurier banned for insulting referee|url=https://www.bbc.co.uk/sport/0/football/31973132|publisher=BBC Sport|date=19 March 2015|accessdate=7 April 2015}}&lt;/ref&gt; Despite this, Aurier went on to make nineteen appearance for the club
+
+[[File:PSG-Shakhter15 (5).jpg|thumb|upright|Aurier in action in a Champions League match away to [[FC Shakhtar Donetsk|Shakhtar Donetsk]] in October 2015]]
+On 29 April 2015, Aurier secured a permanent move to PSG, signing a four-year contract.&lt;ref&gt;{{cite news|url=http://www1.skysports.com/football/news/11095/9828139/serge-aurier-signs-for-psg-on-four-year-deal|title=Serge Aurier signs for PSG on four-year deal|date=29 April 2015|accessdate=30 April 2015|publisher=SkySports}}&lt;/ref&gt; Aurier's first game after signing for the club on a permanent basis came in the [[2015 Trophée des Champions|Trophée des Champions]] against [[Olympique Lyonnais|Lyon]], where he scored his first PSG goal and helped the club win 2–0.&lt;ref&gt;{{cite news|title=Paris, trop fort pour Lyon, remporte le Trophée des Champions (2–0)|url=https://www.lequipe.fr/Football/Actualites/Paris-trop-fort-pour-lyon-remporte-le-trophee-des-champions-2-0/578568|publisher=L'Equipe|language=French|date=2 August 2015|accessdate=28 February 2016}}&lt;/ref&gt; Aurier found himself competing with Van der Wiel over a right position under the management of Blanc. Aurier scored his first league goal for PSG goal on 26 September 2015 in a 4–1 win over [[FC Nantes|Nantes]].&lt;ref&gt;{{cite news|title=Le PSG s'impose largement à Nantes|url=http://sport24.lefigaro.fr/football/ligue-1/fil-info/le-psg-s-impose-largement-a-nantes-771844|publisher=Le Figaro|language=French|date=26 September 2015|accessdate=28 February 2016}}&lt;/ref&gt; For his performance, Aurier was named Team of the Week by [[L'Equipe]].&lt;ref&gt;{{cite news|title=L'équipe type de la 8e journée de Ligue 1|url=http://sport24.lefigaro.fr/football/ligue-1/actualites/l-equipe-type-de-la-8e-journee-de-ligue-1-772110|publisher=Le Figaro|language=French|date=28 September 2015|accessdate=28 February 2016}}&lt;/ref&gt; Four days later, Aurier scored in the Champions League group stage in a 3–0 win over [[FC Shakhtar Donetsk|Shakhtar Donetsk]].&lt;ref&gt;{{cite news|title=A Le PSG enchaîne contre le Chakhtior Donetsk (3–0)|url=https://www.lequipe.fr/Football/Actualites/Le-psg-enchaine-contre-le-chakhtior-donetsk-3-0/595133|publisher=L'Equipe|language=French|date=30 September 2015|accessdate=28 February 2016}}&lt;/ref&gt; Aurier scored against Lyon for the second time in the season three months later on 13 December 2015, helping his team to a 5–1 victory.&lt;ref&gt;{{cite news|title=Ligue 1 : Le PSG impitoyable avec Lyon|url=https://www.lequipe.fr/Football/Actualites/Ligue-1-le-psg-impitoyable-avec-lyon/616415|publisher=L'Equipe|language=French|date=13 December 2015|accessdate=28 February 2016}}&lt;/ref&gt;
+
+Aurier was suspended indefinitely on 14 February 2016 for calling teammate [[Ángel Di María]] a "clown" and calling [[Laurent Blanc]] a "''fiotte''" (a homophobic slur) during a question-and-answer session on [[Periscope (app)|Periscope]] in which he also criticised supposed favouritism towards striker [[Zlatan Ibrahimović]].&lt;ref&gt;{{cite news |title=Serge Aurier: Paris St-Germain suspend defender indefinitely |url= https://www.bbc.co.uk/sport/football/35573547 |accessdate=14 February 2016|publisher=BBC Sport |date=14 February 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=PSG suspend Serge Aurier for comments on Laurent Blanc and team-mates |URL= https://www.theguardian.com/football/2016/feb/14/paris-saint-germain-suspend-serge-aurier-comments-laurent-blanc-champions-league-chelsea |accessdate=14 February 2016 |publisher=The Guardian |date=14 February 2016}}&lt;/ref&gt; Following his suspension, PSG ordered Aurier to train with their [[Paris Saint-Germain Academy|reserve side]] from 29 February until 20 March.&lt;ref name="Serge Aurier: Paris St-Germain right-back to train with reserves"&gt;{{cite web | url=https://www.bbc.co.uk/sport/football/35674511 | title=Serge Aurier: Paris St-Germain right-back to train with reserves | publisher=BBC Sport | date=26 February 2016 | accessdate=26 February 2016}}&lt;/ref&gt;
+
+===Tottenham Hotspur===
+On 31 August 2017, Aurier signed for [[Premier League]] club [[Tottenham Hotspur F.C.|Tottenham Hotspur]] for a fee in the region of £23&amp;nbsp;million.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/41081740 |title=Serge Aurier: Tottenham sign Paris St-Germain full-back for £23m |publisher=BBC Sport |author=Simon Stone |date=31 August 2017 |accessdate=31 August 2017 }}&lt;/ref&gt; Aurier made his debut on 13 September in a 3–1 win over [[Borussia Dortmund]] at [[Wembley Stadium]] in the [[2017–18 UEFA Champions League]].&lt;ref&gt;{{cite web |url=https://www.telegraph.co.uk/football/2017/09/13/serge-aurier-no-dummy-debut-strength-depth-suggests-spurs-can/ |title=Serge Aurier no dummy on debut as strength in depth suggests Spurs can make Champions League impact|first=Matt|last= Law |work=The Daily Telegraph|date=13 September 2017 }}&lt;/ref&gt; Ten days later, Aurier made his full league debut at [[West Ham United F.C.|West Ham United]], but he was sent off upon receiving a second yellow card as Tottenham held on for a 3–2 victory.&lt;ref&gt;{{cite news|last1=Chowdhury|first1=Saj|title=West Ham United 2&amp;ndash;3 Tottenham Hotspur|url=https://www.bbc.com/sport/football/41290321|accessdate=23 September 2017|publisher=BBC Sport|date=23 September 2017}}&lt;/ref&gt; He scored his first goal for the club in a 2–0 home win against [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] on 13 December 2017.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2017/12/13/tottenham-2-brighton-0-serge-auriers-fluke-helps-send-spurs/ |title=Tottenham 2 Brighton 0: Serge Aurier's fluke helps send Spurs back into top four|first= Matt |last=Law|work= The Daily Telegraph |date=13 December 2017}}&lt;/ref&gt; Aurier competed for the right-back spot with [[Kieran Trippier]] throughout the season.&lt;ref&gt;{{cite news |title=Tottenham Hotspur news: Serge Aurier ready for battle with World Cup star Kieran Trippier for right-back role |url=https://talksport.com/football/403634/tottenham-hotspur-serge-aurier-battle-kieran-trippier/ |accessdate=12 August 2018 |publisher=Talksport |date=25 July 2018}}&lt;/ref&gt;
+
+In his second season in London, Aurier was competing for his place not only against Trippier but also with young Englishman [[Kyle Walker-Peters]].&lt;ref&gt;{{cite news |last1=Stanley |first1=Anton |title=Tottenham Hotspur news: Serge Aurier ready for ‘good fight’ as he attempts to claim starting role |url=https://talksport.com/football/426492/tottenham-hotspur-news-serge-aurier-good-fight-spurs-kieran-trippier/ |accessdate=30 January 2019 |publisher=Talksport |date=26 September 2018}}&lt;/ref&gt; On 4 January 2019, in an FA Cup third round match away to [[EFL League Two]] club [[Tranmere Rovers]], he scored twice in a 7–0 win.&lt;ref&gt;{{cite news |title=Tranmere Rovers 0 Tottenham 7: Llorente hat-trick crowns Spurs rout|url=https://www.fourfourtwo.com/news/tranmere-rovers-0-tottenham-7-llorente-hat-trick-crowns-spurs-rout |accessdate=30 January 2019 |work=FourFourTwo |date=4 January 2019}}&lt;/ref&gt;
+
+==International career==
+Despite having lived in France for over 14 years, Aurier does not hold a French passport,&lt;ref name="SergeAurier1"&gt;{{cite news|title=PSG: Aurier, des bleus a l'ame|url=http://www.leparisien.fr/sports/aurier-des-bleus-a-l-ame-19-10-2016-6225333.php|publisher=Le Parisien Web|date=19 October 2016|accessdate=16 August 2017}}&lt;/ref&gt; and had originally turned down the chance to play for the [[Ivory Coast national football team|Ivory Coast]].&lt;ref name="SergeAurier3"&gt;{{cite news |title=World Cup 2014: Ivory Coast profile – Serge Aurier |url= https://www.theguardian.com/football/blog/2014/jun/01/world-cup-2014-ivory-coast-serge-aurier |publisher=The Guardian |date=1 June 2014 |accessdate=7 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.lensois.com/breve-28195-cote-d-ivoire-ou-france-aurier-hesite.html |title=Cote d'Ivoire ou France ? Aurier hésite |publisher=Lensois.com |date=12 March 2010 |accessdate=7 April 2015 |archiveurl= https://web.archive.org/web/20100515040521/http://www.lensois.com/breve-28195-cote-d-ivoire-ou-france-aurier-hesite.html |archivedate=15 May 2010 |deadurl=yes}}&lt;/ref&gt; However, he was called up by manager [[Sabri Lamouchi]] in April 2013,&lt;ref&gt;{{cite news |title=Didier Drogba left out of Ivory Coast squad again |url= https://www.bbc.co.uk/sport/0/football/22566960 |publisher=BBC Sport |date=17 May 2013 |accessdate=7 April 2015}}&lt;/ref&gt; and eventually played his first match for his homeland against the [[Gambia national football team|Gambia]] on 8 June that year.&lt;ref&gt;{{cite news |url= https://www.fifa.com/worldcup/preliminaries/africa/matches/round=258334/match=300180955/index.html |title=Gambia 0–3 Ivory Coast |date=8 June 2013 |accessdate=15 June 2014 |publisher=FIFA.com}}&lt;/ref&gt;
+
+Aurier was included in Ivory Coast's 23-man squad for the [[2014 FIFA World Cup|2014 World Cup]].&lt;ref&gt;{{cite web|url=http://www.fif-ci.com/~v2/?q=article/mondial-2014-11|title=Les 23 Eléphants pour le Brésil|date=1 June 2014|accessdate=1 June 2014|publisher=Ivorian Football Federation|language=French}}&lt;/ref&gt; In the first group match, against [[Japan national football team|Japan]], he provided assists for both [[Wilfried Bony]] and [[Gervinho]] in a 2–1 win.&lt;ref&gt;{{cite news|url=http://www1.skysports.com/football/live/match/305826/report|title=World Cup: Ivory Coast hit back to see off Japan|date=15 June 2014|accessdate=15 June 2014|publisher=Sky Sports}}&lt;/ref&gt;
+
+On 29 December 2014, Aurier was called up for the [[2015 Africa Cup of Nations|Africa Cup of Nations]].&lt;ref&gt;{{cite news|title=Les 23 d'Hervé Renard|url=http://www.fedivoir.com/fifci/?q=article/can-2015-1|language=French|publisher=[[Ivorian Football Federation|fedivoir.com]]|date=29 December 2014|accessdate=29 December 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20141229212511/http://www.fedivoir.com/fifci/?q=article%2Fcan-2015-1|archivedate=29 December 2014}}&lt;/ref&gt; He played six matches and impressed with his displays in the tournament, particularly in the final.&lt;ref&gt;{{cite news|title=Bony a spol. slaví! Sloni vyhráli na penalty a jsou mistry Afriky|url=http://isport.blesk.cz/clanek/fotbal-reprezentace/227442/bony-a-spol-slavi-sloni-vyhrali-na-penalty-a-jsou-mistry-afriky.html|publisher=iSport.cz|language=Czech|date=8 February 2015|accessdate=7 April 2015}}&lt;/ref&gt; He was shortlisted for the [[2015 Africa Cup of Nations#Awards|CAF Team of the Tournament]].&lt;ref&gt;{{cite news|title=ORANGE AFCON 2015 AWARDS AND BEST XI|url=http://www.cafonline.com/en-US/NewsCenter/News/NewsDetails?id=N5LLNBRtUVsPZJSOkHVjrw%3D%3D|publisher=CAF Online|date=12 February 2015|accessdate=7 April 2015}}&lt;/ref&gt;
+
+In October 2016, during a [[2018 FIFA World Cup qualification|World Cup Qualifier]] against [[Mali national football team|Mali]], Aurier rushed to the aid of Mali midfielder, [[Moussa Doumbia (footballer, born 1994)|Moussa Doumbia]], who had suffered an [[epilepsy|epileptic fit]] to prevent him from swallowing his tongue. Despite his good deed, Aurier later drew criticism for celebrating Ivory Coast's second goal with a 'slit throat' gesture.&lt;ref&gt;{{cite news|url=http://www.goal.com/en-gb/news/2914/champions-league/2016/10/19/28619692/angel-and-demon-life-saver-aurier-a-magnet-for-bad-publicity?ICID=HP_BN_6|last=Bairner|first=Robin|title=Angel and demon: Life-saver Aurier a magnet for bad publicity|website=Goal|date=19 October 2016|accessdate=19 October 2016}}&lt;/ref&gt;
+
+Aurier scored his first goal for the Elephants on 11 January 2017, in a 3–0 friendly win over Uganda in [[Abu Dhabi]], after earlier assisting [[Jonathan Kodjia]].&lt;ref&gt;{{cite news|last1=Oludare|first1=Shina|title=CÔTE D'IVOIRE SEND AFCON WARNING WITH VICTORY OVER UGANDA|url=http://www.goal.com/en-ie/news/cote-divoire/1p1nzrgxgd3g5126d2br25nqoj|accessdate=9 September 2017|publisher=Goal.com|date=11 January 2017}}&lt;/ref&gt;
+
+==Personal life==
+Born in [[Ouragahio]], Ivory Coast, Aurier moved to France at a young age after his parents wanted their children to have a better life.&lt;ref name="SergeAurier2"&gt;{{cite news|title=Prospect: Serge Aurier|url=http://www.getfootballnewsfrance.com/2014/prospect-serge-aurier-2/|publisher=Get French Football News|date=23 March 2014|accessdate=7 April 2015}}&lt;/ref&gt; He is a Muslim.&lt;ref&gt;{{Cite news|url=https://ripostelaique.com/lorient-psg-le-musulman-aurier-a-sauve-la-soiree-de-lennui.html|title=Lorient-PSG : le musulman Aurier a sauvé la soirée de l’ennui !|date=13 March 2017|work=Riposte Laïque|access-date=27 October 2018|language=fr-FR}}&lt;/ref&gt; He was passionate about football while growing up.&lt;ref name="SergeAurier2"/&gt; Aurier's younger brother, Christopher, plays for his former club Lens.&lt;ref&gt;{{cite web|title=RC Lens – Serge Aurier à ne pas confondre avec Christopher|url=http://www.espoirsdufootball.com/rc-lens-serge-aurier-a-ne-pas-confondre-avec-christopher-9459|publisher=Espoirs du Football|language=French|date=22 December 2009}}&lt;/ref&gt;
+
+On 26 September 2016, Aurier was found guilty of assaulting a police officer outside a nightclub in Paris. He was sentenced to two months in prison, but remained at liberty pending an appeal.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/news/world-europe-37470381|title=Paris St-Germain's Serge Aurier given two-month jail term|date=26 September 2016|publisher=BBC Sport}}&lt;/ref&gt; Although UK authorities granted Aurier a visa in October 2016, it was revoked on 16 November due to his conviction, and as a result, he missed the [[UEFA Champions League]] match against [[Arsenal F.C.|Arsenal]] in London that month.&lt;ref&gt;{{cite news|title=Serge Aurier: PSG defender refused entry to UK before Arsenal game|url=https://www.bbc.com/sport/football/38069036|publisher=BBC Sport|date=22 November 2016|accessdate=1 August 2017}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 23 February 2019}}&lt;ref name="AURIER-SW"/&gt;
+
+{| class=wikitable style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|League Cup
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[RC Lens|Lens]]
+|[[2009–10 Ligue 1|2009–10]]
+|rowspan=3|[[Ligue 1]]
+|5||0||6||0||0||0||colspan=2|—||colspan=2|—||11||0
+|-
+|[[2010–11 Ligue 1|2010–11]]
+|19||0||1||0||1||0||colspan=2|—||colspan=2|—||21||0
+|-
+|[[2011–12 Ligue 1|2011–12]]
+|16||0||0||0||4||0||colspan=2|—||colspan=2|—||20||0
+|-
+!colspan=2|Total
+!40!!0!!7!!0!!5!!0!!colspan=2|—!!colspan=2|—!!52!!0
+|-
+|rowspan=4|[[Toulouse FC|Toulouse]]
+|[[2011–12 Ligue 1|2011–12]]
+|rowspan=3|Ligue 1
+|10||1||0||0||0||0||colspan=2|—||colspan=2|—||10||1
+|-
+|[[2012–13 Toulouse FC season|2012–13]]
+|28||1||2||0||2||0||colspan=2|—||colspan=2|—||32||1
+|-
+|[[2013–14 Toulouse FC season|2013–14]]
+|34||6||2||0||2||0||colspan=2|—||colspan=2|—||38||6
+|-
+!colspan=2|Total
+!72!!8!!4!!0!!4!!0!!colspan=2|—!!colspan=2|—!!80!!8
+|-
+|rowspan=4|[[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|[[2014–15 Paris Saint-Germain F.C. season|2014–15]]
+|rowspan=3|Ligue 1
+|14||0||0||0||2||0||0||0||0||0||16||0
+|-
+|[[2015–16 Paris Saint-Germain F.C. season|2015–16]]
+|21||2||4||0||2||0||5&lt;ref group=lower-alpha name="UCL"&gt;Appearances in the [[UEFA Champions League|Champions League]]&lt;/ref&gt;||1||1&lt;ref group=lower-alpha name="TdC"&gt;Appearances in the [[Trophée des Champions]]&lt;/ref&gt;||1||33||4
+|-
+|[[2016–17 Paris Saint-Germain F.C. season|2016–17]]
+|22||0||3||0||1||0||5&lt;ref group=lower-alpha name="UCL"/&gt;||0||1&lt;ref group=lower-alpha name="TdC"/&gt;||0||32||0
+|-
+!colspan=2|Total
+!57!!2!!7!!0!!5!!0!!10!!1!!2!!1!!81!!4
+|-
+|rowspan=3|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[2017–18 Tottenham Hotspur F.C. season|2017–18]]
+|rowspan=2|[[Premier League]]
+|17||2||1||0||0||0||6&lt;ref group=lower-alpha name="UCL"/&gt;||0|| colspan="2" |—||24||2
+|-
+|[[2018–19 Tottenham Hotspur F.C. season|2018–19]]
+|8||0||1||2||3||0||4&lt;ref group=lower-alpha name="UCL"/&gt;||0|| colspan="2" |—||16||2
+|-
+!colspan=2|Total
+!25!!2!!2!!2!!3!!0!!10!!0!!0!!0!!40!!4
+|-
+!colspan=3|Career total
+!193!!12!!20!!2!!17!!0!!20!!1!!2!!1!!253!!16
+|}
+
+{{reflist|group=lower-alpha}}
+
+===Reserves===
+:''As of 19 March 2016.''&lt;ref name="AURIER-SW" /&gt;&lt;ref name="NFT" /&gt;
+
+{| class="wikitable" style="text-align:center"
+|+Reserve team performance
+|-
+!colspan=3|Club performance
+!colspan=2|League
+|-
+!Season!!Club!!League
+!Apps!!Goals
+|-
+|[[2009–10 Championnat de France Amateur|2009–10]]
+|rowspan="2"|Lens B
+|rowspan="2"|[[Championnat National 2|CFA]]
+|22||1
+|-
+|[[2010–11 Championnat de France Amateur|2010–11]]
+|2||0
+|-
+|2012–13
+|Toulouse B
+|[[Championnat National 3|CFA 2]]
+|1||0
+|-
+|[[2015–16 Championnat de France Amateur|2015–16]]
+|[[Paris Saint-Germain Academy|PSG B]]
+|CFA
+|1||0
+|-
+!colspan=3|Total
+!26||1
+|}
+
+===International===
+{{updated|match played 9 September 2018}}&lt;ref name="NFT" /&gt;
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=6|[[Ivory Coast national football team|Ivory Coast]]
+|2013||6||0
+|-
+|2014||11||0
+|-
+|2015||12||0
+|-
+|2016||5||0
+|-
+|2017||10||1
+|-
+|2018||3||0
+|-
+!colspan=2|Total||48||1
+|}
+
+===International goals===
+:''Scores and results list the Ivory Coast's goal tally first.''&lt;ref name="NFT"&gt;{{cite web|url=http://www.national-football-teams.com/player/52565/Serge_Aurier.html|title=Aurier, Serge|publisher=National Football Teams|accessdate=17 February 2017}}&lt;/ref&gt;
+
+{| class="wikitable" style="font-size:100%;"
+! No !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 11 January 2017 || [[New York University Abu Dhabi|New York University Stadium]], Abu Dhabi, United Arab Emirates || {{fb|UGA}} || align=center | '''3'''–0 || align=center | 3–0 || [[Exhibition game|Friendly]]
+|}
+
+==Honours==
+
+===Club===
+'''Paris Saint-Germain'''&lt;ref name="AURIER-SW"&gt;{{cite web |url=https://int.soccerway.com/players/serge-aurier/155098/|title=S. AURIER |website=Soccerway|accessdate=1 August 2017}}&lt;/ref&gt;
+*[[Ligue 1]]: [[2014–15 Ligue 1|2014–15]], [[2015–16 Ligue 1|2015–16]]
+*[[Coupe de la Ligue]]: [[2014–15 Coupe de la Ligue|2014–15]], [[2015–16 Coupe de la Ligue|2015–16]], [[2016–17 Coupe de la Ligue|2016–17]]
+*[[Coupe de France]]: [[2014–15 Coupe de France|2014–15]], [[2015–16 Coupe de France|2015–16]], [[2016-17 Coupe de France|2016–17]]
+*[[Trophée des Champions]]: [[2014 Trophée des Champions|2014]], [[2015 Trophée des Champions|2015]], [[2016 Trophée des Champions|2016]]
+
+===International===
+'''Ivory Coast'''&lt;ref name="AURIER-SW"/&gt;
+*[[Africa Cup of Nations]]: [[2015 Africa Cup of Nations|2015]]
+
+===Individual===
+* [[CAF Team of the Year]]: 2015, 2016,&lt;ref&gt;{{cite web | url=http://www.cafonline.com/en-US/NewsCenter/News/NewsDetails?id=JjXA1yebDNx8I52tgKCOlg%3d%3d | title=CAF – CAF Awards – Previous Editions – 2016 | publisher=CAFOnline | accessdate=7 January 2017}}&lt;/ref&gt; 2018&lt;ref&gt;{{cite news|title=Salah and Mane Picked in First Africa Best 11 |url=https://fifpro.org/news/salah-mahrez-and-mane-in-first-africa-best-11/en/|publisher=FIFPro |date=8 January 2019|accessdate=8 January 2019}}&lt;/ref&gt;
+* [[Africa Cup of Nations]] Team of the Tournament: [[2015 Africa Cup of Nations#Awards|2015]]
+* [[Trophées UNFP du football#Team of the Year|Ligue 1 Team of the Year]]: [[Trophées UNFP du football#2014|2013–14]], [[Trophées UNFP du football#2016|2015–16]]
+* [[FIFPro World XI]] 5th team: 2016&lt;ref&gt;{{cite web |url=https://www.fifpro.org/news/2016-world-11-the-reserve-teams/en/ |title=2016 World 11: the reserve teams - FIFPro World Players' Union |publisher=FIFPro.org |date=9 January 2017 |access-date=1 October 2017}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+
+{{commonscat}}
+*[http://www.tottenhamhotspur.com/first-team-squad/serge-aurier/ Serge Aurier] at Tottenham Hotspur
+*{{FIFA player|370522}}
+*{{NFT player|pid=52565}}
+*{{soccerway|serge-aurier/155098|Serge Aurier}}
+*{{Soccerbase}}
+
+{{Tottenham Hotspur F.C. squad}}
+{{Navboxes
+| title     = Ivory Coast squads
+| bg        = #FF7300
+| fg        = white
+| bordercolor = #008E56
+| list1 =
+{{Ivory Coast squad 2014 FIFA World Cup}}
+{{Ivory Coast squad 2015 Africa Cup of Nations}}
+{{Ivory Coast squad 2017 Africa Cup of Nations}}
+}}
+{{Navboxes
+|title=Awards
+|bg=gold
+|list1=
+{{2013–14 Ligue 1 UNFP Team of the Year}}
+{{2015–16 Ligue 1 UNFP Team of the Year}}
+{{2015 CAF Team of the Year}}
+{{2015 Africa Cup of Nations Team of the Tournament}}
+}}
+
+{{DEFAULTSORT:Aurier, Serge}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:People from Gôh-Djiboua District]]
+[[Category:Ivorian emigrants to France]]
+[[Category:Ivorian footballers]]
+[[Category:Ivory Coast international footballers]]
+[[Category:RC Lens players]]
+[[Category:Toulouse FC players]]
+[[Category:Paris Saint-Germain F.C. players]]
+[[Category:Tottenham Hotspur F.C. players]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Premier League players]]
+[[Category:Association football fullbacks]]
+[[Category:Ivorian expatriate footballers]]
+[[Category:Ivorian expatriate sportspeople in France]]
+[[Category:Ivorian expatriate sportspeople in England]]
+[[Category:Expatriate footballers in France]]
+[[Category:Expatriate footballers in England]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:2015 Africa Cup of Nations players]]
+[[Category:2017 Africa Cup of Nations players]]
+[[Category:Africa Cup of Nations-winning players]]
+[[Category:People convicted of assault]]</text>
+      <sha1>rbw0b5d8vp9fhlsbh7m2ehm0ytodrd1</sha1>
+    </revision>
+  </page>
+</mediawiki>

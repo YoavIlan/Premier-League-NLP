@@ -1,0 +1,512 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Aaron Ramsey</title>
+    <ns>0</ns>
+    <id>10983884</id>
+    <revision>
+      <id>886000175</id>
+      <parentid>885968417</parentid>
+      <timestamp>2019-03-03T18:18:45Z</timestamp>
+      <contributor>
+        <username>Jamieroot11</username>
+        <id>34512972</id>
+      </contributor>
+      <comment>Updating infobox and Career stats</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="93185">{{Use British English|date=October 2013}}
+{{Use dmy dates|date=October 2018}}
+{{Infobox football biography
+| name = Aaron Ramsey
+| image = 1 aaron ramsey 2015.jpg
+| caption = Ramsey playing for [[Arsenal F.C.|Arsenal]] in 2015
+| image_size = 200
+| fullname = Aaron James Ramsey&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1990|12|26|df=y}}&lt;ref&gt;{{Hugman|25045|accessdate=25 October 2018}}&lt;/ref&gt;
+| birth_place = [[Caerphilly]], Wales
+| height = {{convert|1.78|m|order=flip}}&lt;ref name="UEFA.com"&gt;{{cite web |title=Aaron Ramsey |url=https://www.uefa.com/teamsandplayers/players/player=103769/profile/index.html |website=UEFA.com}}&lt;/ref&gt;
+| currentclub = [[Arsenal F.C.|Arsenal]]&lt;!-- HE WILL NOT BE A JUVENTUS PLAYER OFFICIALLY UNTIL 1 JULY 2019. !--&gt;
+| clubnumber = 8
+| position = [[Midfielder]]
+| youthyears1 = 1999–2006
+| youthclubs1 = [[Cardiff City F.C.|Cardiff City]]
+| years1 = 2006–2008
+| clubs1 = [[Cardiff City F.C.|Cardiff City]]
+| caps1 = 16
+| goals1 = 1
+| years2 = 2008–
+| clubs2 = [[Arsenal F.C.|Arsenal]]
+| caps2 = 258
+| goals2 = 39
+| years3 = 2010–2011
+| clubs3 = → [[Nottingham Forest F.C.|Nottingham Forest]] (loan)
+| caps3 = 5
+| goals3 = 0
+| years4 = 2011
+| clubs4 = → [[Cardiff City F.C.|Cardiff City]] (loan)
+| caps4 = 6
+| goals4 = 1
+| clubs5 = 
+| caps5 = 0
+| goals5 = 0
+| nationalyears1 = 2005–2008
+| nationalteam1 = [[Wales national under-17 football team|Wales U17]]
+| nationalcaps1 = 15
+| nationalgoals1 = 2
+| nationalyears2 = 2007–2009
+| nationalteam2 = [[Wales national under-21 football team|Wales U21]]
+| nationalcaps2 = 12
+| nationalgoals2 = 2
+| nationalyears3 = 2008–
+| nationalteam3 = [[Wales national football team|Wales]]
+| nationalcaps3 = 58
+| nationalgoals3 = 14
+| nationalyears4 = 2012
+| nationalteam4 = [[Great Britain Olympic football team|Great Britain]]
+| nationalcaps4 = 5
+| nationalgoals4 = 1
+| club-update = 18:18, 3 March 2019 (UTC)
+| nationalteam-update = 21:13, 20 November 2018 (UTC)
+}}
+'''Aaron James Ramsey''' (born 26 December 1990) is a Welsh professional [[association football|footballer]] who plays as a [[midfielder]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[Wales national football team|Wales national team]]. Ramsey mainly plays as a [[box-to-box midfielder]], but has also been deployed on the left and right [[Midfielder#Winger|wings]]. He played as a schoolboy for [[Cardiff City F.C.|Cardiff City]], where he spent eight years in youth football, became the club's youngest ever first team player, and made 22 appearances for the senior team&amp;nbsp;– including the [[2008 FA Cup Final]].
+
+Ramsey moved to Arsenal in 2008 in a £5&amp;nbsp;million deal, where he quickly gained first-team experience. However, his career stalled significantly after he suffered a broken leg in a match against [[Stoke City F.C.|Stoke City]] in February 2010. After two loan spells away from Arsenal, he returned to full fitness and re-established himself as a regular starter during the [[2011–12 Arsenal F.C. season|2011–12 season]]. Ramsey was a key player for Arsenal in the [[2013–14 Arsenal F.C. season|2013–14 season]] campaign, scoring 16 goals in all competitions, including the winner in the [[2014 FA Cup Final]] against [[Hull City A.F.C.|Hull City]]. He also played in the [[2015 FA Cup Final]], which Arsenal won,&lt;ref&gt;{{cite news |url=http://www.gazzetta.it/Calcio_Estero/Premierleague/13-02-2012/ramsey-macabra-statistica-se-segna-muore-famoso-81326265995.shtml |title=Ramsey, macabra statistica Se segna muore un vip |first=Simona |last=Marchetti |newspaper=La Gazzetta dello Sport |date=13 February 2012 |language=Italian}}&lt;/ref&gt; and scored a second FA Cup winning goal in [[2017 FA Cup Final|2017]].&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/live/2017/may/27/arsenal-v-chelsea-2017-fa-cup-final-live |title=Arsenal 2–1 Chelsea |date=28 May 2017 |newspaper=The Guardian}}&lt;/ref&gt; He will join [[Juventus F.C.|Juventus]] on 1 July 2019 after having signed a pre-contractual agreement.
+
+Ramsey made his full international debut for Wales in 2008 and was part of their [[UEFA Euro 2016]] campaign, where he helped his nation to the semi-finals and was included in the Team of the Tournament. He also represented [[Great Britain Olympic football team|Great Britain]] at the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Olympics]].
+
+==Early life==
+As a child, Ramsey attended [[Ysgol Gyfun Cwm Rhymni]] (Rhymney Valley Comprehensive School) in [[Caerphilly County Borough]].&lt;ref&gt;{{Cite news |title=₤5m Ramsey 'popular and talented' |url=http://news.bbc.co.uk/2/hi/uk_news/wales/7436078.stm |publisher=BBC News |date=10 June 2008 |first=Kevin |last=Leonard}}&lt;/ref&gt; Ramsey's first introduction to football was at the age of nine, when he attended an [[Urdd Gobaith Cymru|Urdd]] training session at [[Caerphilly]].&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/aaron-ramsey-wenger-wanted-me-more-than-ferguson-1883600.html |title=Aaron Ramsey: 'Wenger wanted me more than Ferguson' |date=30 January 2010 |newspaper=The Independent}}&lt;/ref&gt; Before turning to football, he was a keen rugby player and athlete. As a schoolboy he played as a winger for Caerphilly R.F.C.s youth development programme, where he was approached by scouts from [[rugby league]] side [[St Helens R.F.C.|St. Helens]] after playing in a youth match against them&lt;ref&gt;{{Cite news |first=David |last=Williams |title=Ramsey could have been RL star |url=http://icwales.icnetwork.co.uk/footballnation/cardiff-city-fc/2008/05/29/rambo-could-have-been-rl-star-91466-20993317/ |publisher=Media Wales |date=29 May 2008 |accessdate=25 September 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080602002421/http://icwales.icnetwork.co.uk/footballnation/cardiff-city-fc/2008/05/29/rambo-could-have-been-rl-star-91466-20993317/ |archivedate=2 June 2008}}&lt;/ref&gt; but had already been signed by Cardiff City's youth academy. Ramsey was Welsh Schools' Athletic Association [[pentathlon]] champion in 2005 and was ranked 4th in Great Britain in the under 17 age group in 2006.&lt;ref&gt;{{cite web |url=http://www.thepowerof10.info/athletes/profile.aspx?athleteid=18068 |title=Athlete Profile |website=thepowerof10.info}}&lt;/ref&gt; He lived with his parents, Marlene and Kevin, and his brother, Josh, until moving to London where he was housemates with former Cardiff City teammate, [[Chris Gunter]],&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/teams/a/arsenal/8334878.stm |title=Arsenal&amp;nbsp;– Gunter hails super tenant Ramsey |publisher=BBC Sport}}&lt;/ref&gt; who was then playing for [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. Ramsey is bilingual, speaking both [[Welsh language|Welsh]] and English.&lt;ref&gt;{{cite news |title=Aaron Ramsey: 'Wenger wanted me more than Ferguson' |url=https://www.independent.co.uk/sport/football/premier-league/aaron-ramsey-wenger-wanted-me-more-than-ferguson-1883600.html |location=London |newspaper=The Independent |date=30 January 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Welsh footballer Aaron Ramsey tweets in Welsh, is abused for not speaking English |url=http://www.walesonline.co.uk/news/wales-news/welsh-footballer-aaron-ramsey-tweets-9463234 |website=WalesOnline |publisher=Media Wales |date=16 June 2015}}&lt;/ref&gt;
+
+==Club career==
+===Cardiff City===
+[[File:Aaron Ramsey.png|thumb|upright|Ramsey at [[Cardiff City F.C.|Cardiff City]] in 2008]]
+
+After impressing in an [[Urdd Gobaith Cymru|Urdd]] tournament as a youngster he signed for [[Cardiff City F.C.|Cardiff City]], who beat off competition from [[Newcastle United F.C.|Newcastle United]], as a schoolboy at the age of eight, working his way through the club's youth system. After a few more years he eventually made his Cardiff City debut in the last home game of the [[2006–07 Football League Championship|2006–07 Championship season]], coming on to replace [[Paul Parry]] in the final minute of the 1–0 defeat to [[Hull City A.F.C.|Hull City]] on 28 April 2007. In doing so, Ramsey became the youngest player to ever play for Cardiff City, aged just 16 years and 124 days,&lt;ref&gt;{{Cite news |title=Jones hails record-breaker Ramsey |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/cardiff_city/6607983.stm |publisher=BBC Sport |date=30 April 2007 |accessdate=30 April 2007 |archiveurl=https://web.archive.org/web/20070502230310/http://news.bbc.co.uk/sport1/hi/football/teams/c/cardiff_city/6607983.stm |archivedate=2 May 2007 |deadurl=no}}&lt;/ref&gt; beating the previous record holder [[John Toshack]]. In June 2007, Cardiff City turned down a bid of over £1&amp;nbsp;million for Ramsey from a London-based Premier League club.&lt;ref&gt;{{cite news |title=Cardiff reject £1m bid for Ramsey |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/cardiff_city/6244228.stm |publisher=BBC Sport |date=27 June 2007 |accessdate=27 June 2007 |archiveurl=https://web.archive.org/web/20070701231757/http://news.bbc.co.uk/sport1/hi/football/teams/c/cardiff_city/6244228.stm |archivedate=1 July 2007 |deadurl=no}}&lt;/ref&gt; The club was not named, but it was widely believed that they continued to watch Ramsey at every available opportunity during the 2007–08 season. Cardiff also turned down a £1&amp;nbsp;million offer, although the deal was to start with a payment of £200,000 and rise depending on his future achievements, from [[Everton F.C.|Everton]].{{citation needed|date=October 2018}}
+
+Ramsey made his first league appearance of the [[2007–08 Cardiff City F.C. season|2007–08 season]] on 6 October, when he came on as a late substitute for [[Jimmy Floyd Hasselbaink]] in the 2–1 home win over [[Burnley F.C.|Burnley]]. Ramsey signed his first professional contract in December 2007&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/teams/c/cardiff_city/7165918.stm "Ramsey pens professional contract"] [[BBC Sport]]. Retrieved 11 February 2008&lt;/ref&gt; and went on to make his first full professional start for Cardiff on 5 January in the [[FA Cup]] against [[Chasetown F.C.|Chasetown]] replacing the suspended [[Stephen McPhail]]. An impressive performance from Ramsey saw him head in the second Cardiff goal as they went on to win 3–1.&lt;ref&gt;{{Cite news |title=Chasetown 1–3 Cardiff |url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/7163953.stm |publisher=BBC Sport |date=5 January 2008 |accessdate=5 January 2008 |archiveurl=https://web.archive.org/web/20080106183454/http://news.bbc.co.uk/sport1/hi/football/fa_cup/7163953.stm |archivedate=6 January 2008 |deadurl=no}}&lt;/ref&gt; Due to his performance against Chasetown, Ramsey was nominated for the Player of the Round award, eventually losing out to [[Coventry City F.C.|Coventry's]] [[Michael Mifsud]].&lt;ref&gt;{{cite news |title=Mifsud takes the vote |url=http://www.thefa.com/TheFACup/News/2008/Jan/Potr_MifsudThirdRound |archiveurl=https://archive.is/20140310101555/http://www.thefa.com/TheFACup/News/2008/Jan/Potr_MifsudThirdRound |deadurl=yes |archivedate=10 March 2014 |publisher=The Football Association |date=14 January 2008 |accessdate=9 March 2014}}&lt;/ref&gt; On 26 April, he scored his first league goal in a 3–3 draw against Burnley.&lt;ref&gt;{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/article4103536.ece |title=Factfile: Aaron Ramsey |newspaper=The Times}}&lt;/ref&gt; He went on to make his first career league start three weeks later in a 3–1 win over [[Queens Park Rangers F.C.|Queens Park Rangers]] and began to establish himself in the first team, making several more starts in the Cardiff side. He made a total of 22 appearances during the season, his first full season of professional football, and played in five of the club's six [[2007–08 FA Cup|FA Cup]] matches, including [[2008 FA Cup Final|the final]], becoming the second youngest player to play in an [[FA Cup Final]] after [[Curtis Weston]], who played in the [[2004 FA Cup Final]] for [[Millwall F.C.|Millwall]].&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/fa_cup/3725063.stm "Man Utd win FA cup"] BBC Sport. Retrieved 20 October 2008&lt;/ref&gt;
+
+Following Ramsey's impressive performance in the 2–1 FA Cup quarter-final win over [[Middlesbrough F.C.|Middlesbrough]] it was revealed that [[Manchester United F.C.|Manchester United]] manager [[Alex Ferguson|Sir Alex Ferguson]] had talked to Cardiff boss [[Dave Jones (footballer, born 1956)|Dave Jones]] to inquire about Ramsey, who were later joined by [[Arsenal F.C.|Arsenal]] and Everton in following his progress.&lt;ref&gt;[http://icwales.icnetwork.co.uk/footballnation/cardiff-city-fc/2008/03/12/fergie-in-for-5m-rated-aaron-ramsey-91466-20611324/ "Fergie in for £5m rated Aaron Ramsey"] {{webarchive|url=https://web.archive.org/web/20080315012548/http://icwales.icnetwork.co.uk/footballnation/cardiff-city-fc/2008/03/12/fergie-in-for-5m-rated-aaron-ramsey-91466-20611324/ |date=15 March 2008 }} ''South Wales Echo''. Retrieved 15 March 2008&lt;/ref&gt; Ramsey in fact grew up a Manchester United fan, but in the end he decided not to join them.&lt;ref&gt;{{cite web |url=http://therepublikofmancunia.com/the-big-mistake-aaron-ramseys-timeline/ |title=The Big Mistake: Aaron Ramsey's Timeline |website=therepublikofmancunia.com}}&lt;/ref&gt; Cardiff chairman [[Peter Ridsdale]] told the BBC that Arsenal's bid of £5&amp;nbsp;million up front had been accepted. Arsenal's bid did not include a loan clause that would allow Ramsey to stay at Cardiff for another season.&lt;ref&gt;{{cite web |url=http://www.cardiffcityfc.co.uk/page/NewsDetail/0,,10335~1325950,00.html |archiveurl=https://web.archive.org/web/20120722111158/http://www.cardiffcityfc.co.uk/page/NewsDetail/0%2C%2C10335~1325950%2C00.html |title=RIDSDALE ON RAMSEY MOVE: UPDATED |archivedate=22 July 2012 |publisher=Cardiff City F.C.}}&lt;/ref&gt; Cardiff City assistant manager and former Arsenal player and coach [[Terry Burton]], who was credited for having brought through Ramsey, also helped recommend him to Arsenal manager [[Arsène Wenger]], having retained a longstanding connection to the club.&lt;ref name="guardian"&gt;{{cite news |url=https://www.theguardian.com/football/2009/jan/25/aaron-ramsey-arsenal-cardiff |title=Welsh Rambo a perfect Gunner |first=Amy |last=Lawrence |newspaper=The Observer |date=25 January 2009 |accessdate=25 January 2009 |location=London |archiveurl=https://web.archive.org/web/20090129015833/http://www.guardian.co.uk/football/2009/jan/25/aaron-ramsey-arsenal-cardiff |archivedate=29 January 2009 |deadurl=no}}&lt;/ref&gt; During the transfer negotiations, Burton also advised that Ramsey join Arsenal, citing the similarity between the player and the club's overall style of play.&lt;ref name="guardian" /&gt;
+
+===Arsenal===
+On 10 June 2008 it was confirmed that after meeting officials from Arsenal, Everton and Manchester United, Ramsey had decided to join Arsenal, who paid Cardiff City a total of £4.8&amp;nbsp;million for the player.&lt;ref name="Arsenal claim discount on Ramsey deal"&gt;{{cite news |first=Terry |last=Phillips |title=Arsenal claim discount on Ramsey deal |url=http://www.walesonline.co.uk/footballnation/cardiff-city-fc/2008/07/31/arsenal-claim-discount-on-ramsey-deal-91466-21440756/ |website=WalesOnline |publisher=Media Wales |date=31 July 2008 |accessdate=31 July 2008 |archiveurl=https://web.archive.org/web/20080805004837/http://www.walesonline.co.uk/footballnation/cardiff-city-fc/2008/07/31/arsenal-claim-discount-on-ramsey-deal-91466-21440756/ |archivedate=5 August 2008 |deadurl=yes}}&lt;/ref&gt; The move was completed on 13 June 2008 on what was said to be a long-term contract. The main reason he chose Arsenal ahead of the other clubs that pursued his signature was the approach of Arsenal manager [[Arsène Wenger]], who flew him and his family to Switzerland to talk about the plans Wenger had for him and his potential future with Arsenal.&lt;ref name="Ramsey completes Arsenal switch"&gt;{{Cite news |first=David |last=Dulin |title=Ramsey completes Arsenal switch |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/cardiff_city/7445528.stm |publisher=BBC Sport |date=13 June 2008 |accessdate=13 June 2008}}&lt;/ref&gt; Wenger described Ramsey as "a player with a fantastic engine, good build, good technique and good vision".&lt;ref&gt;[https://www.arsenal.com/news/news-archive/wenger-opportunity-knocks-early-for-ramsey Wenger&amp;nbsp;– Opportunity knocks early for Ramsey] {{webarchive|url=https://web.archive.org/web/20080814100853/https://www.arsenal.com/news/news-archive/wenger-opportunity-knocks-early-for-ramsey |date=14 August 2008 }}, Arsenal F.C. Retrieved 13 August 2008.&lt;/ref&gt;
+
+[[File:Arsenal end of 2008-09 season walkabout.jpg|thumb|300px|Ramsey (in dark blue) at the end of the 2008–09 campaign]]
+
+Ramsey made his competitive debut for Arsenal in the [[2008–09 UEFA Champions League|Champions League]] third qualifying round against [[FC Twente]] on 13 August 2008 and his league debut a month later against [[Blackburn Rovers F.C.|Blackburn Rovers]] on 13 September 2008, marking it with an assist to [[Emmanuel Adebayor]] for Arsenal's fourth and Adebayor's third. On 23 September 2008 he completed 90 minutes in Arsenal's third round [[Football League Cup|League Cup]] game against [[Sheffield United F.C.|Sheffield United]] which Arsenal won 6–0, when he added two more assists to his season's tally, setting up [[Nicklas Bendtner]] and [[Carlos Vela]]. He scored his first goal for the club in their 5–2 victory away against [[Fenerbahçe S.K. (football)|Fenerbahçe]] in the group stages of the UEFA Champions League&lt;ref&gt;[https://www.arsenal.com/news/news-archive/25424/?tab=report&amp;nbsp;– Fenerbahce 2–5 Arsenal] {{webarchive|url=https://web.archive.org/web/20160507045155/https://www.arsenal.com/news/news-archive/25424/?tab=report |date=7 May 2016 }}, Arsenal F.C. Retrieved 20 November 2008.&lt;/ref&gt; by shooting a long-range shot which hit the post and went in, becoming the fifth youngest scorer in Champions League history, and only the second player born in the 1990s to score a Champions League goal. Ramsey was named amongst a host of young players poised to shine in 2009 by Fifa.com.&lt;ref&gt;{{cite web |url=https://www.fifa.com/worldfootball/clubfootball/news/newsid=989119.html#ones+watch+2009 |archiveurl=https://web.archive.org/web/20100528115327/http://www.fifa.com/worldfootball/clubfootball/news/newsid%3D989119.html |archivedate=28 May 2010 |title=– Ones to watch in 2009 |publisher=FIFA |date=8 January 2009 |accessdate=9 March 2014 |deadurl=yes}}&lt;/ref&gt; On 1 July 2009, he signed a new long-term contract at Arsenal.&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/8128885.stm Ramsey agrees new deal at Arsenal], BBC Football. Retrieved 2 July 2009.&lt;/ref&gt;
+
+On 22 August 2009, Ramsey scored his first league goal in a one-on-one against goalkeeper [[David James (footballer)|David James]] as Arsenal beat [[Portsmouth F.C.|Portsmouth]] 4–1&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8209326.stm |title=Arsenal 4–1 Portsmouth |publisher=BBC Sport |date=22 August 2009 |accessdate=24 August 2009 |first=David |last=Ornstein}}&lt;/ref&gt; at [[Emirates Stadium]] and then set up [[Andrey Arshavin]] in a 3–1 home win over [[Celtic F.C.|Celtic]] in the [[UEFA Champions League 2009–10 play-off round|Champions League play-offs]].&lt;ref&gt;[https://www.arsenal.com/match-menu/171495/first-team/arsenal-v-celtic?tab=report&amp;nbsp;– Arsenal 3–1 Celtic] {{webarchive|url=https://web.archive.org/web/20160418151925/https://www.arsenal.com/match-menu/171495/first-team/arsenal-v-celtic?tab=report |date=18 April 2016 }}, Arsenal F.C. Retrieved 30 August 2008.&lt;/ref&gt; In the [[2008–09 Football League Cup|League Cup]] fourth round win against [[Liverpool F.C.|Liverpool]], on 28 October, he produced an impressive performance and set up [[Nicklas Bendtner]] earning himself the [[man of the match]] award.{{citation needed|date=October 2018}}
+
+[[File:Aaron Ramsey Stoke City FC V Arsenal.jpg|thumb|left|200px|Ramsey playing against [[Stoke City F.C.|Stoke City]] in 2010]]
+
+Ramsey made his first [[Premier League]] start of the season on 7 November 2009 as Arsenal beat [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] 4–1 at [[Molineux Stadium|Molineux]] with Ramsey completing 90-minutes for the first time in the top-flight. Four days after the game, he was awarded the Welsh Young Player of the Year award.&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/league_of_wales/8355891.stm |title=Williams takes top Welsh awards |publisher=BBC Sport |date=11 November 2009 |accessdate=9 March 2014}}&lt;/ref&gt; On 5 December 2009, Ramsey scored his second league goal of the season in a comfortable 2–0 victory over [[Stoke City F.C.|Stoke City]]. On 30 December, Ramsey went on to score his third goal of the season, along with an assist in the 4–1 victory against [[Portsmouth F.C.|Portsmouth]]. On 3 January 2010, Ramsey scored a 78th-minute equaliser in the [[2009–10 FA Cup|FA Cup]] third round tie against [[West Ham United F.C.|West Ham United]] at [[Boleyn Ground|Upton Park]]. Arsenal went on to win the tie 2–1, with [[Eduardo da Silva|Eduardo]] scoring an 83rd-minute header. Ramsey went on to be named man of the match. Ramsey has been described by manager [[Arsène Wenger]] as: "An offence-minded [[Roy Keane]]" and "an all-round player, with a fantastic ability to cover distances."&lt;ref&gt;The Official Arsenal Magazine Volume 8 Issue 07&lt;/ref&gt;
+
+On 27 February 2010, Arsenal played Stoke City at the [[Britannia Stadium]], where a tackle by Stoke defender [[Ryan Shawcross]] caused a double fracture in Ramsey's lower right leg.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/8541140.stm |title=Arsenal's Aaron Ramsey has surgery to fix broken leg |publisher=BBC Sport |date=28 February 2010 |accessdate=11 December 2013}}&lt;/ref&gt; Ramsey was hospitalised, and it was later confirmed that he had broken his [[tibia]] and [[fibula]].&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/8541140.stm |publisher=BBC Sport |accessdate=27 February 2010 |date=27 February 2010 |title=Arsenal's Aaron Ramsey suffers horrific leg injury |archiveurl=https://archive.is/20100303095201/http://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/8541140.stm |archivedate=3 March 2010 |deadurl=no}}&lt;/ref&gt; No return date was initially given,&lt;ref&gt;{{cite web |url=https://www.arsenal.com/news/news-archive/wenger-too-early-to-set-ramsey-return-date |title=Wenger&amp;nbsp;– Too early to set Ramsey return date |publisher=Arsenal F.C. |deadurl=yes |archiveurl=https://web.archive.org/web/20100307215350/https://www.arsenal.com/news/news-archive/wenger-too-early-to-set-ramsey-return-date |archivedate=7 March 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.arsenal.com/news/news-archive/wenger-why-i-won-t-give-ramsey-return-date |title=Wenger&amp;nbsp;– Why I won't give Ramsey return date |publisher=Arsenal F.C. |deadurl=yes |archiveurl=https://web.archive.org/web/20100308230512/https://www.arsenal.com/news/news-archive/wenger-why-i-won-t-give-ramsey-return-date |archivedate=8 March 2010}}&lt;/ref&gt; but it was announced on 20 March that he started walking without his crutches. Ramsey signed a new long-term contract with Arsenal on 1 June 2010.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/8716202.stm |publisher=BBC Sport |title=Ramsey signs new Arsenal contract |date=1 June 2010}}&lt;/ref&gt; He returned to training in October 2010.&lt;ref&gt;[http://www.s4c.co.uk/sgorio/e_/ramsey_141010 "Ramsey nearly ready"] ''s4c.co.uk'' 14 October 2010. Retrieved 10 November 2010&lt;/ref&gt; On 23 November 2010, Ramsey made his return to football for the Arsenal reserve team against the Wolverhampton Wanderers reserve team at Arsenal's London Colney training ground.&lt;ref&gt;[https://www.arsenal.com/match-menu/3305203/reserves/arsenal-res-v-wolverhampton-w.-res?tab=report Reserve League: Arsenal 2–1 Wolves&amp;nbsp;– Report] {{webarchive|url=https://web.archive.org/web/20101126132454/https://www.arsenal.com/match-menu/3305203/reserves/arsenal-res-v-wolverhampton-w.-res?tab=report |date=26 November 2010 }} Arsenal F.C.&lt;/ref&gt;
+
+====Loan to Nottingham Forest====
+Ramsey was loaned out to [[Nottingham Forest F.C.|Nottingham Forest]] on 25 November 2010 until 3 January 2011. The move was to allow him to gain match fitness.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/teams/n/nottm_forest/9227061.stm |title=Nottingham Forest sign Arsenal's Aaron Ramsey on loan |date=25 November 2010 |publisher=BBC Sport |accessdate=25 November 2010}}&lt;/ref&gt; Ramsey made his Forest debut on 29 November 2010 as a 61st-minute substitute against Leicester City.&lt;ref&gt;[https://www.arsenal.com/news/news-archive/loan-watch-lansbury-stars-on-norwich-debut Loan Watch: Ramsey makes Forest debut] {{webarchive|url=https://web.archive.org/web/20101203013002/https://www.arsenal.com/news/news-archive/loan-watch-lansbury-stars-on-norwich-debut |date=3 December 2010 }} Arsenal F.C.&lt;/ref&gt; He made his first start against [[Derby County F.C.|Derby County]] in the [[Derby County F.C.–Nottingham Forest F.C. rivalry|East Midlands derby]] where he played 60 minutes. The match ended 5–2 to Nottingham Forest. Due to adverse weather conditions, Ramsey was limited to just five appearances for Forest before returning to Arsenal in January 2011.&lt;ref&gt;{{cite web |url=https://www.arsenal.com/news/news-archive/davies-ramsey-is-a-credit-to-arsenal- |title=Davies&amp;nbsp;– Ramsey is a 'credit to Arsenal' |publisher=Arsenal F.C. |deadurl=yes |archiveurl=https://web.archive.org/web/20110105114047/https://www.arsenal.com/news/news-archive/davies-ramsey-is-a-credit-to-arsenal- |archivedate=5 January 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.arsenal.com/news/reserves-news/loan-watch-ramsey-completes-90-minutes |title=Loan Watch: Ramsey completes 90 minutes |publisher=Arsenal F.C. |deadurl=yes |archiveurl=https://web.archive.org/web/20110107091238/https://www.arsenal.com/news/reserves-news/loan-watch-ramsey-completes-90-minutes |archivedate=7 January 2011}}&lt;/ref&gt; Ramsey returned to Arsenal on 5 January 2011 before the club's [[2010–11 FA Cup|FA Cup]] tie against [[Leeds United F.C.|Leeds United]]&lt;ref&gt;{{cite web |url=https://www.arsenal.com/news/news-archive/ramsey-back-at-arsenal-on-wednesday |title=Ramsey back at Arsenal on Wednesday |publisher=Arsenal F.C. |deadurl=yes |archiveurl=https://web.archive.org/web/20110106220502/https://www.arsenal.com/news/news-archive/ramsey-back-at-arsenal-on-wednesday |archivedate=6 January 2011}}&lt;/ref&gt; in which he was an unused substitute.&lt;ref&gt;{{cite web |url=https://www.arsenal.com/match-menu/3344937/first-team/arsenal-v-leeds?tab=report |title=Arsenal v Leeds&amp;nbsp;– Match News&amp;nbsp;– Arsenal F.C. |publisher=Arsenal F.C. |deadurl=yes |archiveurl=https://web.archive.org/web/20110111065203/https://www.arsenal.com/match-menu/3344937/first-team/arsenal-v-leeds?tab=report |archivedate=11 January 2011}}&lt;/ref&gt; Ramsey was also an unused substitute at Portman Road on 12 January for the [[2010–11 Football League Cup|League Cup]] semi-final against [[Ipswich Town F.C.|Ipswich Town]].&lt;ref&gt;[https://www.arsenal.com/match-menu/172075/first-team/ipswich-town-v-arsenal?tab=report Carling Cup: Ipswich 1–0 Arsenal&amp;nbsp;– Report] {{webarchive|url=https://web.archive.org/web/20110115054459/https://www.arsenal.com/match-menu/172075/first-team/ipswich-town-v-arsenal?tab=report |date=15 January 2011 }} Arsenal F.C.&lt;/ref&gt;
+
+====Loan to Cardiff====
+{{Quote box
+| quote  = The difference in his strength and his maturity&amp;nbsp;– both on and off the pitch&amp;nbsp;– was amazing. It really was a case of someone leaving as a boy and coming back as a man ... He is so strong mentally, and he certainly hasn't been holding anything back.
+| source =&amp;nbsp;– Cardiff boss Dave Jones on Ramsey's loan return to the club&lt;ref&gt;[http://www.espnfc.com/player/_/id/98681/aaron-ramsey?cc=5901 "Aaron Ramsey"]. ESPN. Retrieved 23 May 2014&lt;/ref&gt;
+| align = right
+| width = 33%
+| quoted = 1
+}}
+Ramsey returned to Cardiff City in a one-month loan move in order to gain match fitness,&lt;ref&gt;{{cite web |url=http://www.cardiffcityfc.co.uk/page/NewsDetail/0,,10335~2273136,00.html |archiveurl=https://web.archive.org/web/20120927080821/http://www.cardiffcityfc.co.uk/page/NewsDetail/0%2C%2C10335~2273136%2C00.html |title=CONFIRMATION: RAMBO ON LOAN |archivedate=27 September 2012 |publisher=Cardiff City F.C.}}&lt;/ref&gt; joining former Arsenal youngster [[Jay Emmanuel-Thomas]] who also joined Cardiff City on loan in January 2011.&lt;ref&gt;{{cite web |url=http://www.cardiffcityfc.co.uk/page/NewsDetail/0,,10335~2270005,00.html |archiveurl=https://web.archive.org/web/20120927080832/http://www.cardiffcityfc.co.uk/page/NewsDetail/0%2C%2C10335~2270005%2C00.html |title=JAY EMMANUEL-THOMAS JETS IN |archivedate=27 September 2012 |publisher=Cardiff City F.C.}}&lt;/ref&gt; Ramsey was handed his first start for Cardiff against [[Reading F.C.|Reading]].&lt;ref&gt;{{cite web |url=http://www.cardiffcityfc.co.uk/page/NewsDetail/0,,10335~2282350,00.html |archiveurl=https://web.archive.org/web/20110203095846/http://www.cardiffcityfc.co.uk/page/NewsDetail/0%2C%2C10335~2282350%2C00.html |title=STARTS FOR SECOND DEBUT |archivedate=3 February 2011 |publisher=Cardiff City F.C.}}&lt;/ref&gt; Ramsey again started for Cardiff City in the [[South Wales derby]] against [[Swansea City A.F.C.|Swansea City]] where he provided an assist for [[Craig Bellamy]] in the game ending 1–0.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/9387856.stm |publisher=BBC Sport |first=David |last=Dulin |title=Swansea 0–1 Cardiff |date=6 February 2011}}&lt;/ref&gt; Ramsey again completed 90 minutes for Cardiff in the game against [[Scunthorpe United F.C.|Scunthorpe United]]&lt;ref&gt;{{cite web |url=http://www.cardiffcityfc.co.uk/page/MatchReport/0,,10335~52970,00.html |archiveurl=https://web.archive.org/web/20120324120641/http://www.cardiffcityfc.co.uk/page/MatchReport/0%2C%2C10335~52970%2C00.html |title=Cardiff City vs Scunthorpe |archivedate=24 March 2012 |publisher=Cardiff City F.C.}}&lt;/ref&gt; and [[Burnley F.C.|Burnley]]. A minor thigh strain ruled Ramsey out of the match against Nottingham Forest.&lt;ref&gt;{{cite web |url=https://cardiff.vitalfootball.co.uk/ramsey-set-for-welcome-cardiff-city-return/ |title=Ramsey set for welcome Cardiff City return |website=Vital Cardiff |date=22 February 2011 |accessdate=25 October 2018}}&lt;/ref&gt; He made his come back against [[Leicester City F.C.|Leicester City]], scoring in a 2–0 victory.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/9402067.stm |publisher=BBC Sport |title=Cardiff 2–0 Leicester |date=22 February 2011}}&lt;/ref&gt;
+
+On 25 February, Cardiff asked for a loan extension until the end of the season with a 24-hour call back option; however, Arsenal turned this offer down and Ramsey returned to Arsenal.&lt;ref&gt;{{cite web |url=http://www.goal.com/en-gb/news/2896/premier-league/2011/02/25/2369044/aaron-ramsey-to-return-to-arsenal-on-sunday-as-cardiff-city-loan- |title=Aaron Ramsey to return to Arsenal on Sunday as Cardiff City loan extension offer with 24-hour 'call back' is rejected |website=Goal.com}}&lt;/ref&gt;
+
+====2010–11====
+{{Quote box
+|quote= Scoring the goal was a special moment for me. This was worth the wait and so many people have helped me through the tough time I had, hopefully this will give them the same satisfaction as it does me.
+| source =&amp;nbsp;– Ramsey on his first goal of the 2010–11 season&lt;ref&gt;{{cite news |title=Ramsey hails special moment |url=http://www1.skysports.com/football/news/11095/6910095/ |publisher=Sky Sports |date=2 May 2011 |accessdate=17 June 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Arsenal's Aaron Ramsey: goal against Manchester United a 'special moment' to mark end of long recovery |url=https://www.telegraph.co.uk/sport/football/teams/arsenal/8487891/Arsenals-Aaron-Ramsey-goal-against-Manchester-United-a-special-moment-to-mark-end-of-long-recovery.html |newspaper=The Daily Telegraph |date=2 May 2011 |accessdate=17 June 2012 |location=London}}&lt;/ref&gt;
+| align=right
+| width=25%
+| quoted = 1
+}} Ramsey ended the season with seven league appearances. He made his Arsenal return as a 72nd-minute substitute against Manchester United in the [[2010–11 FA Cup|FA Cup]] which Arsenal lost 2–0. He made his first start since his injury for Arsenal on 19 March against [[West Bromwich Albion F.C.|West Bromwich Albion]]. On 1 May, Ramsey scored his first goal of the season in a 1–0 home [[2010–11 Premier League|Premier League]] victory over Manchester United. He also won the man of the match award.{{citation needed|date=October 2018}}
+
+====2011–12====
+[[File:Aaron Ramsey 16.jpg|thumb|left|150px|Ramsey warming up before a match against [[Aston Villa F.C.|Aston Villa]] on 24 March 2012]]
+
+On 16 August 2011, Ramsey made his first [[2011–12 UEFA Champions League|Champions League]] appearance of the season at home against [[Udinese Calcio|Udinese]]. In the fourth minute of the match he assisted on [[Theo Walcott]]'s goal that gave Arsenal the 1–0 advantage in the first leg of the match. Four days later he played a league game at the Emirates Stadium against Liverpool where on the 78th minute of play, [[Ignasi Miquel]]'s attempted clearance hit Ramsey and looped into the back of the net past [[Wojciech Szczęsny]] for an own goal. The game finished 2–0 to Liverpool.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/14514681|title=Arsenal 0–2 Liverpool|date=20 August 2011|accessdate=13 February 2019 | publisher=BBC Sport}}&lt;/ref&gt;
+
+On 17 September 2011, Ramsey assisted on [[Mikel Arteta]] for Arsenal's second goal as the team lost 4–3 away to [[Blackburn Rovers F.C.|Blackburn Rovers]] in a [[2011–12 Premier League|Premier League]] game. He was widely criticised for his performance lately for slowing down the tempo of the game and being indecisive in passing. However, he had a solid game during a convincing 3–0 Premier League win against [[Bolton Wanderers F.C.|Bolton Wanderers]] on 24 September 2011. He provided an assist for the Arsenal captain [[Robin van Persie]] by a through ball in less than one minute after the half-time break. He made another important through pass to Theo Walcott on the 54th minute that saw [[David Wheater]] sent off for pulling Walcott from the back.{{citation needed|date=October 2018}}
+
+On 19 October 2011, he scored a dramatic last minute winner against [[Olympique de Marseille|Marseille]] in an important [[2011–12 UEFA Champions League group stage|group stage]] match of the Champions League. On 23 October 2011, Ramsey assisted [[Gervinho]] for the first goal in a 3–1 win for the Gunners. He scored the equaliser on 11 February 2012 in a 2–1 win away to [[Sunderland A.F.C.|Sunderland]].&lt;ref&gt;{{cite news |title=Sunderland 1-2 Arsenal |url=https://www.bbc.com/sport/football/16884594 |date=11 February 2012 |accessdate=13 February 2019 |agency=BBC Sport}}&lt;/ref&gt;
+
+====2012–13====
+Ramsey was a substitute for Arsenal's first four league games of the [[2012–13 Arsenal F.C. season|2012–13 season]]. On 15 September he replaced [[Francis Coquelin]] before hitting the post in the buildup to Arsenal's fifth goal in a 6–1 win against [[Southampton F.C.|Southampton]]. On 23 September, he made his first start of the season against defending champions [[Manchester City F.C.|Manchester City]], impressing in the right flank role. On 3 October, Ramsey scored a chip shot with his right foot in a 3–1 win against [[Olympiacos F.C.|Olympiacos]] in a [[2012–13 UEFA Champions League|Champions League]] [[2012–13 UEFA Champions League group stage|group stage]] match.&lt;ref&gt;{{cite web |title=Arsenal-Olympiacos |url=https://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000347/match=2009507/ |website=UEFA.com |accessdate=13 February 2019}}&lt;/ref&gt;
+
+On 19 December 2012, it was announced that Ramsey, along with teammates [[Alex Oxlade-Chamberlain]], [[Kieran Gibbs]], [[Jack Wilshere]] and [[Carl Jenkinson]], had signed a new long-term contract with Arsenal.&lt;ref&gt;{{cite news |url=https://www.arsenal.com/news/news-archive/five-young-internationals-sign-new-contracts |title=Five young internationals sign new contracts |date=19 December 2012 |accessdate=19 December 2012 |publisher=Arsenal F.C. |archiveurl=https://web.archive.org/web/20121220204726/http://www.arsenal.com/news/news-archive/five-young-internationals-sign-new-contracts |archivedate=20 December 2012 |deadurl=yes}}&lt;/ref&gt; Due to his rise in form, he was voted man of the match in two consecutive games by the Arsenal fans on Arsenal.com against [[Norwich City F.C.|Norwich City]] and Everton. Ramsey was voted as Arsenal Player of the Month award by the fans.&lt;ref&gt;{{cite news |url=https://www.arsenal.com/news/news-archive/ramsey-wins-player-of-the-month-award |title=Ramsey wins Player of the Month award |accessdate=15 May 2013}}&lt;/ref&gt; He followed this up by scoring his first league goal of the season in the 4–1 victory against [[Wigan Athletic F.C.|Wigan Athletic]], which saw the Lancashire-based club relegated from the Premier League.&lt;ref&gt;{{cite news |last1=McKenna |first1=Chris |title=Arsenal 4-1 Wigan |url=https://www.bbc.com/sport/football/22430454 |accessdate=13 February 2019 |date=14 May 2013 |agency=BBC Sport}}&lt;/ref&gt;
+
+====2013–14====
+[[File:Aaron Ramsey v Cardiff 2013 (cropped).jpg|thumb|right|200px|Ramsey facing former club [[Cardiff City F.C.|Cardiff City]] in the Premier League in 2013]]
+
+Ramsey started the [[2013–14 Arsenal F.C. season|2013–14 season]] well, scoring in the first leg of the [[2013–14 UEFA Champions League|Champions League]] play-off against Fenerbahçe and claiming the man of the match award. In the return leg, he scored twice to end the tie 5–0 on aggregate and secure Arsenal's place in the [[2013–14 UEFA Champions League group stage|group stage]]. Ramsey continued his fine form in Arsenal's 3–1 win over Fulham in the second round of the [[2013–14 Premier League|Premier League]], helping [[Olivier Giroud]] score the first goal via a deflection, and being named man of the match. The absence of [[Mikel Arteta]] from Arsenal's midfield saw Arsène Wenger field Ramsey in a deeper midfield role as opposed to 2011–12, and Ramsey thrived in the new role, with another inspired midfield performance against [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in the [[North London derby]] on 1 September, where he was involved in the build-up play to Giroud's goal. He then scored twice against Sunderland on 14 September, with his first goal being a first-touch volley, and the second involving build-up play with Giroud and new signing [[Mesut Özil]].&lt;ref&gt;{{cite web |title=Sunderland 1-3 Arsenal: Match report |url=https://www.arsenal.com/match/report/1314/post/first-team/sunderland-1-3-arsenal-match-report |website=Arsenal.com |accessdate=14 February 2019 |date=14 September 2013}}&lt;/ref&gt;
+
+Ramsey continued his excellent form by scoring in Arsenal's 2–1 win over Marseille in the Champions League at the [[Stade Vélodrome]] and scoring the opener in a 3–1 Premier League win against Stoke City four days later. On 28 September, he was again named as the man of the match as he netted another goal and claimed an assist in the away game against Swansea City, which Arsenal won 2–1. Three days later, in a game against [[S.S.C. Napoli|Napoli]] in a Champions League fixture, he set up Özil's first goal for Arsenal. Ramsey won the [[Premier League Player of the Month]] award for September.&lt;ref name=PotMSep13&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/24443712 |title=Arsenal's Arsene Wenger and Aaron Ramsey win monthly awards |date=8 October 2013 |publisher=BBC Sport}}&lt;/ref&gt;
+
+[[File:ARS-OM 1314 Ramsey free kick (cropped).jpg|thumb|left|Ramsey taking a free kick in a Champions League match against [[Olympique de Marseille|Marseille]] on 26 November 2013]]
+
+On 19 October, he scored a solo goal against [[Norwich City F.C.|Norwich City]], which was his ninth goal for Arsenal in the season, before assisting the fourth Arsenal goal in a 4–1 win.&lt;ref&gt;{{cite web |url=http://www.goal.com/en-india/match/109278/arsenal-vs-norwich-city/player-ratings |title=Arsenal vs Norwich City Player Ratings |website=Goal.com |date=19 September 2013 |accessdate=19 September 2013}}&lt;/ref&gt; His good form continued into November as he scored a spectacular long range shot from outside of the box in a 2–0 win against Liverpool on 2 November to put Arsenal five points clear at the top of the Premier League table with ten games played.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/24681358 |title=Arsenal 2–0 Liverpool |first=Phil |last=McNulty |publisher=BBC Sport}}&lt;/ref&gt; He also scored a crucial second-half header four days later against [[Borussia Dortmund]] in a 1–0 away victory in the Champions League group stages, bringing his goal tally to 13 in 21 appearances for club and country. On 30 November, he scored two goals against his former club Cardiff City, and [[Goal celebration#Notable non-celebrations|refused to celebrate]] out of respect.&lt;ref name="Respect"/&gt; He received applause from Cardiff fans, with some even joining Arsenal fans in singing his name late on.&lt;ref name="Respect"&gt;{{cite news |title=Ramsey grateful for Cardiff fans' respect |url=https://www.bbc.co.uk/sport/football/25171884 |accessdate=11 October 2018 |publisher=BBC Sport}}&lt;/ref&gt; On 26 December, he suffered a thigh strain in Arsenal's away fixture against [[West Ham United F.C.|West Ham United]],&lt;ref&gt;{{cite news |url=http://www1.skysports.com/football/news/11670/9089380/arsenal-midfielder-aaron-ramsey-set-for-spell-on-sidelines-after-being-injured-at-west-ham |title=Arsenal midfielder Aaron Ramsey set for spell on sidelines after being injured at West Ham |date=27 December 2013 |accessdate=13 April 2014 |publisher=Sky Sports}}&lt;/ref&gt; eventually missing over three months of the season.&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/aaron-ramsey-injury-latest-arsenal-midfielder-in-squad-for-vital-game-against-everton-9237739.html |title=Aaron Ramsey injury latest: Arsenal midfielder in squad for vital Everton clash |date=4 April 2014 |accessdate=13 April 2014 |newspaper=The Independent |location=London |first=Jack |last=de Menezes}}&lt;/ref&gt;
+
+Ramsey's early season form saw him voted Arsenal's [[2013–14 Arsenal F.C. season#Arsenal Player of the Month award|Player of the Month]] for four consecutive months between August and November 2013.&lt;ref&gt;{{cite news |url=https://www.arsenal.com/news/news-archive/50464/ramsey-is-arsenal-player-of-the-month |title=Ramsey is Arsenal Player of the Month |date=6 December 2013 |publisher=Arsenal F.C.}}&lt;/ref&gt; On 18 March 2014, he signed a new contract extension with the ''Gunners''.&lt;ref&gt;{{cite web |title=Cazorla, Ramsey, Zelalem sign contracts |url=https://www.arsenal.com/news/news-archive/20140318/cazorla-ramsey-zelalem-sign-contracts |publisher=Arsenal F.C. |date=18 March 2014}}&lt;/ref&gt;
+
+On 6 April, Ramsey returned from injury as a substitute in Arsenal's 3–0 loss at Everton.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/26807037 |title=Everton 3–0 Arsenal |date=6 April 2014 |accessdate=13 April 2014 |publisher=BBC Sport}}&lt;/ref&gt; On 12 April, he was named in the starting line-up for the first time since [[Boxing Day]] in the [[2013–14 FA Cup|FA Cup]] semi-final against [[Wigan Athletic F.C.|Wigan Athletic]], playing 113 minutes before being substituted for [[Kim Källström]].&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/26897266 |title=Wigan 1–1 Arsenal |date=12 April 2014 |publisher=BBC Sport}}&lt;/ref&gt; On 20 April, he scored once and was credited with two assists in Arsenal's 3–0 win away to [[Hull City A.F.C.|Hull City]].&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2014/apr/20/hull-city-arsenal-premier-league-match-report |title=Lukas Podolski double eases Arsenal past Hull in FA Cup final rehearsal |date=20 April 2014 |accessdate=20 April 2014 |newspaper=The Guardian}}&lt;/ref&gt;
+
+On 18 April, Ramsey was named as one of the six players on the shortlist for the [[PFA Young Player of the Year]] award,&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2014/apr/18/pfa-player-of-the-year-award-shortlist-gerrard-lallana |title=PFA Player of the Year award shortlist: Gerrard and Lallana nominated |date=18 April 2014 |accessdate=19 April 2014 |newspaper=The Guardian}}&lt;/ref&gt; and on 11 May he scored a volley to help his side to a 2–0 win over [[Norwich City F.C.|Norwich City]] on the last day of the Premier League 2013–14 season, relegating their opponents.&lt;ref&gt;{{cite news |last=Osborne |first=Chris |title=Norwich 0–2 Arsenal |url=https://www.bbc.co.uk/sport/0/football/27273461 |accessdate=29 May 2014 |publisher=BBC Sport |date=11 May 2014}}&lt;/ref&gt; On 17 May, Ramsey scored the winning goal in the 109th minute of the [[2014 FA Cup Final]] against Hull City, ending Arsenal's nine-year wait for a trophy.&lt;ref name=2014FAC&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/27354148 |title=Arsenal 3–2 Hull City |first=Phil |last=McNulty |publisher=BBC Sport |date=17 May 2014 |accessdate=25 October 2018}}&lt;/ref&gt;
+
+On 4 June 2014, Ramsey was named Arsenal's Player of the Season after his performance of the [[2013–14 Arsenal F.C. season|2013–14 season]] with 58 percent of the votes.&lt;ref name="Player of the Season"&gt;{{cite web |title=Player of the Season&amp;nbsp;– in first place... |url=https://www.arsenal.com/news/news-archive/20140604/player-of-the-season-in-first-place... |deadurl=yes |archiveurl=https://web.archive.org/web/20140606115620/https://www.arsenal.com/news/news-archive/20140604/player-of-the-season-in-first-place... |archivedate=6 June 2014}}&lt;/ref&gt;
+
+====2014–15====
+[[File:Giroud celebrates his goal 1 (16235400319).jpg|thumb|right|Ramsey (second from right)]]
+
+Ramsey started the [[2014–15 Arsenal F.C. season|2014–15 season]] by scoring Arsenal's second goal in their 3–0 victory of [[Manchester City F.C.|Manchester City]] in the [[2014 FA Community Shield|Community Shield]] on 10 August.&lt;ref&gt;{{cite web |url=https://news.sky.com/story/arsenal-crush-city-in-community-shield-10393566 |title=Arsenal crush City in Community Shield |publisher=Sky News |date=10 August 2014 |accessdate=25 November 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20161125174625/https://news.sky.com/story/arsenal-crush-city-in-community-shield-10393566 |archivedate=25 November 2016}}&lt;/ref&gt; Six days later, in the club's first league match of the season, at home against [[Crystal Palace F.C.|Crystal Palace]], he scored the winning goal in injury-time to secure a 2–1 comeback victory.&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/0/football/28718788 |title=Aaron Ramsey scored in stoppage time to break the resolve of Crystal Palace and give title contenders Arsenal a winning start to their league campaign. |publisher=BBC Sport |date=16 August 2014 |accessdate=16 August 2014}}&lt;/ref&gt; On 19 August, in the first leg of Arsenal's Champions League play-off away to [[Beşiktaş J.K.|Beşiktaş]], he was sent off for a second booking in a goalless draw.&lt;ref&gt;{{cite news |title=Besiktas 0–0 Arsenal |url=http://bbc.co.uk/sport/football/28784340 |accessdate=19 August 2014 |publisher=BBC Sport |date=19 August 2014 |first=Chris |last=Bevan}}&lt;/ref&gt; Four days later, he scored in 2–2 draw at [[Goodison Park]] against Everton.&lt;ref&gt;{{cite web |title=Everton 2-2 Arsenal - Report |url=https://www.arsenal.com/match/report/1415/post/first-team/everton-v-arsenal-report |website=Arsenal.com |accessdate=16 February 2019}}&lt;/ref&gt;
+
+On 3 December, Ramsey assisted [[Alexis Sánchez]]'s late winner against Southampton at home. The following league fixture saw him scoring a volley against [[Stoke City F.C.|Stoke City]] in a thrilling 3–2 defeat at the [[Britannia Stadium|Britannia]], ending a three-month goal drought in the process. On 9 December, he scored two goals against [[Galatasaray S.K. (football)|Galatasaray]] in Arsenal's last group stage match in the [[UEFA Champions League|Champions League]], helping Arsenal to a 4–1 win and second position in the group.&lt;ref&gt;{{cite news |title=Galatasaray 1–4 Arsenal |url=https://www.bbc.com/sport/0/football/29363845 |accessdate=10 December 2014 |publisher=BBC Sport |date=9 December 2014}}&lt;/ref&gt; On 4 May, Ramsey scored Arsenal's second goal in a 1–3 away league win at [[Hull City A.F.C.|Hull City]].&lt;ref&gt;{{cite news |title=Hull City 1–3 Arsenal |url=https://www.bbc.com/sport/0/football/32476691 |publisher=BBC Sport |date=4 May 2015}}&lt;/ref&gt; On 30 May 2015, Ramsey was selected to start in the [[2015 FA Cup Final]], playing the full 90 minutes in a 4–0 win over Aston Villa at [[Wembley Stadium]].&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/live/football/32563518 |title=FA Cup final&amp;nbsp;– FT: Arsenal 4–0 Villa |date=30 May 2015 |publisher=BBC Sport}}&lt;/ref&gt;
+
+====2015–16====
+Ramsey scored his first goal of the [[2015–16 Arsenal F.C. season|2015–16 season]] in a 3–0 win against [[Watford F.C.|Watford]] on 17 October at [[Vicarage Road]].&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-3277314/Watford-0-3-Arsenal-Alexis-Sanchez-continues-scoring-streak-Gunners-pace-leaders.html|title=Watford 0–3 Arsenal: Alexis Sanchez continues streak with Olivier Giroud and Aaron Ramsey firing Gunners into second spot|date=17 October 2015|newspaper=Daily Mail}}&lt;/ref&gt; On 8 March, Ramsey suffered a thigh injury in a 4–0 away victory over [[Hull City A.F.C.|Hull City]] in an [[2015–16 FA Cup|FA Cup replay]], and was ruled out for five weeks.&lt;ref&gt;{{cite web |url=http://www.espnfc.com/arsenal/story/2827035/arsenal-midfielder-aaron-ramsey-likely-to-miss-four-weeks |title=Arsenal's Aaron Ramsey likely to miss four weeks&amp;nbsp;– Arsene Wenger |website=ESPN FC |accessdate=11 March 2016}}&lt;/ref&gt;
+
+====2016–17====
+After [[Mikel Arteta]]'s departure, Ramsey was handed the number 8 jersey.&lt;ref&gt;{{Cite web |url=https://www.mirror.co.uk/sport/football/news/arsenal-confirm-grant-xhakas-squad-8067455 |title=Grant Xhaka's Arsenal squad number revealed |last=Flanagan |first=Aaron |date=27 May 2016 |accessdate=23 July 2016}}&lt;/ref&gt; On 7 March 2017, Ramsey scored his first goal of the [[2016–17 Arsenal F.C. season|2016–17 season]] from outside the penalty area in a 1–2 away victory over [[Preston North End F.C.|Preston]] in the [[2016–17 FA Cup|third round of the FA Cup]].&lt;ref&gt;{{Cite news |url=http://www.espn.in/football/club/arsenal/359/blog/post/3034411/aaron-ramsey-scores-fantastic-first-goal-of-season-at-a-critical-moment-for-arsenal-at-preston |title=Ramsey scores great goal at critical moment |publisher=ESPN |accessdate=25 March 2017}}&lt;/ref&gt; Ramsey scored his second goal of the season against non-league outfit [[Lincoln City F.C.|Lincoln City]] in the quarter-finals of the FA Cup, rounding Lincoln's goalkeeper before drilling it into the net for Arsenal's last goal in a 5–0 victory.&lt;ref&gt;{{Cite news |url=https://www.mirror.co.uk/sport/football/match-reports/arsenal-5-0-lincoln-gunners-10008791 |title=Ramsey scores fifth goal against Lincoln |newspaper=Daily Mirror |accessdate=11 March 2017}}&lt;/ref&gt; On 27 May 2017, he scored the winning goal for Arsenal in the [[2017 FA Cup Final]] for a 2–1 win over Chelsea.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2017/05/27/fa-cup-final-2017-arsenal-vs-chelsea-live-score-updates/ |title=Arsenal 2 Chelsea 1: Aaron Ramsey seals Arsene Wenger's record seventh FA Cup win in magnificent final |newspaper=The Daily Telegraph |accessdate=27 May 2017}}&lt;/ref&gt;
+
+====2017–18====
+Ramsey started in Arsenal's opening [[2017–18 Arsenal F.C. season|2017–18 season]] Premier League fixture against [[Leicester City F.C.|Leicester City]], bringing the Gunner's back to level at 3–3 in the 83rd minute in an eventual 4–3 victory.&lt;ref&gt;{{Cite news |url=http://www.skysports.com/football/arsenal-vs-leicester/373097 |title=Gunners leave it late as Premier League returns with a bang |publisher=Sky Sports |accessdate=12 August 2017}}&lt;/ref&gt; On 22 October 2017, Ramsey scored Arsenal's fourth in a 2–5 away victory against Everton at Goodison Park.&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/41625741 |title=Everton 2–5 Arsenal |publisher=BBC Sport |accessdate=22 October 2017}}&lt;/ref&gt; A week later on 28 October 2017, Ramsey scored the winner in a 2–1 win against Swansea City, slotting into the bottom-left corner from a [[Sead Kolašinac]] pass via the right-foot of Swansea goalie [[Łukasz Fabiański]]. The goal meant that Arsenal manager [[Arsène Wenger]] was victorious in his 800th Premier League game in charge and also was Ramsey's 50th goal for Arsenal.&lt;ref&gt;{{Cite news |url=https://sports.yahoo.com/arsenal-2-swansea-city-1-155830342.html |title=Ramsey's 50th Arsenal goal wins Wenger's 800th Premier League game. |publisher=Yahoo! |accessdate=28 October 2017}}&lt;/ref&gt; On 3 February 2018, Ramsey scored his first career hat-trick in a 5–1 home victory against Everton.&lt;ref&gt;{{Cite web |url=https://www.theguardian.com/football/2018/feb/03/arsenal-everton-premier-league-match-report |title=Arsenal's Aaron Ramsey goes on hat-trick rampage against Everton |last=Ronay |first=Barney |date=3 February 2018 |website=The Guardian |accessdate=4 February 2018}}&lt;/ref&gt; Ramsey scored another big goal for the Gunners, netting the second goal in their 0–2 win over [[A.C. Milan]] at [[San Siro]] in the [[Europa League]] round of 16 first leg tie on 8 March 2018. He made a smart run on the brink of half time, receiving a pass from Mesut Özil before rounding Milan keeper [[Gianluigi Donnarumma]] and slotting it into the empty net with great composure.&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/football/43321163 |title=Arsenal put their recent problems to one side as a polished performance at fallen giants A.C. Milan gave them the upper hand in their Europa League last-16 tie |publisher=BBC Sport |date=8 March 2018}}&lt;/ref&gt; After having one goal ruled out early on for offside, Ramsey scored a brace in the 4–1 quarter-final first leg victory over [[PFC CSKA Moscow|CSKA Moscow]] in the Europa League. The first a simple side-foot from a [[Héctor Bellerín]] cross, the second a brilliant instinctive volleyed flick over the goalkeeper.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/43632183 |title=Arsenal 4–1 CSKA Moscow |publisher=BBC Sport |date=5 April 2018 |accessdate=9 April 2018}}&lt;/ref&gt; At the end of the season, he was voted by Arsenal fans as their player of the season, the second time he had received the honour.&lt;ref&gt;{{cite web |title=Player of the Season: Aaron Ramsey |url=https://www.arsenal.com/news/player-season-aaron-ramsey |website=Arsenal.com |accessdate=17 February 2019}}&lt;/ref&gt;
+
+===Juventus===
+On 11 February 2019, Ramsey signed a four-year contract with [[Juventus F.C.|Juventus]], which will officially take effect on 1 July 2019.&lt;ref&gt;{{cite web|url=https://www.juventus.com/en/news/news/2019/aaron-ramsey-signs-for-juventus.php|title=Aaron Ramsey signs for Juventus!|publisher=juventus.com|date=11 February 2019}}&lt;/ref&gt;
+
+==International career==
+[[File:Ramsey101.jpg|thumb|Aaron Ramsey (middle) lines up for Wales Under-21 alongside [[Christian Ribeiro]] (right) and [[Ched Evans]] (left)]]
+
+Ramsey had his first taste of international action when he was called up for the Wales U17s in 2005. A part of the new wave of young talents to emerge from the Wales youth teams, he debuted for the U21 side on 21 August 2007 in a 4–3 away win over [[Sweden national under-21 football team|Sweden U21s]] several months shy of his seventeenth birthday, breaking former club mate [[Chris Gunter]]'s record.&lt;ref&gt;{{cite news |title=Sweden U21 3–4 Wales U21 |url=http://news.bbc.co.uk/sport2/hi/football/league_of_wales/6955612.stm |publisher=BBC Sport |date=21 August 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Ramsey set for Wales U-21 debut |url=http://news.bbc.co.uk/sport2/hi/football/internationals/6944585.stm |publisher=BBC Sport |date=13 August 2007}}&lt;/ref&gt; Youth coach [[Brian Flynn]] revealed that Ramsey had been purposely held back in the U21s to help qualify for the [[2009 UEFA European Under-21 Championship]] but they lost a close contest to England U21s in the play-offs, where Ramsey himself scored a volley with his weaker foot in the second leg at [[Villa Park]].&lt;ref&gt;{{cite news |title=Ramsey earns promotion |url=http://www.westerntelegraph.co.uk/news/3835272.Ramsey_earns_promotion/ |newspaper=Western Telegraph |date=11 November 2008}}&lt;/ref&gt;
+
+[[File:Team GB Prepare for Penalties.jpg|thumb|left|300px|Ramsey fourth from left with Great Britain at the Olympics of 2012]]
+
+Ramsey made his debut for the [[Wales national football team]] on 19 November 2008, aged 17, playing 88 minutes of a 1–0 away win in [[Denmark national football team|Denmark]].&lt;ref&gt;{{Cite news |title=Ramsey to start against Denmark |url=http://news.bbc.co.uk/sport1/hi/football/internationals/7731728.stm |publisher=BBC Sport |date=19 November 2008 |accessdate=19 November 2008 |first=David |last=Dulin |archiveurl=https://web.archive.org/web/20081119012329/http://news.bbc.co.uk/sport1/hi/football/internationals/7731728.stm |archivedate=19 November 2008 |deadurl=no}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Craig Bellamy adds the gloss for young braves |url=http://www.timesonline.co.uk/tol/sport/football/international/article6875420.ece |newspaper=The Times |date=20 November 2008 |location=London |first=Gary |last=Jacob}}&lt;/ref&gt; On 14 October 2009, he scored his first senior goal in the [[2010 FIFA World Cup qualification|2010 World Cup qualifier]] away at Liechtenstein from a free kick awarded for a trip on [[Gareth Bale]].&lt;ref&gt;{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/international/article6875420.ece |title=ACTUAL ARTICLE TITLE BELONGS HERE |newspaper=The Times}}&lt;/ref&gt; As the World Cup qualification campaign came to an end, he and 11 other senior internationals were recalled to Flynn's preliminary U21 squad on 30 October for a qualifier but later withdrew.&lt;ref&gt;{{Cite news |title=Ramsey named in Wales U21 squad |url=http://news.bbc.co.uk/sport2/hi/football/internationals/8334076.stm |publisher=BBC Sport |date=30 October 2009 |accessdate=8 November 2009}}&lt;/ref&gt; On 6 November, Toshack also called him up for 14 November friendly against [[Scotland national football team|Scotland]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/league_of_wales/8355415.stm |title=Matthews relishing Wales chance |publisher=BBC Sport}}&lt;/ref&gt; Wales won 3–0 and Ramsey was involved in all of them&amp;nbsp;– assisting [[David Edwards (footballer)|David Edwards]]' opener, setting up [[Joe Ledley]] to assist the second and then scoring a solo effort.&lt;ref&gt;{{Cite news |title=Wales 3–0 Scotland |url=http://news.bbc.co.uk/sport2/hi/football/internationals/8344879.stm |publisher=BBC Sport |date=14 November 2009 |first=Peter |last=Shuttleworth}}&lt;/ref&gt; Ramsey was awarded the [[Football Association of Wales|FAW]]'s Young Player of the Year award that same month.&lt;ref&gt;{{Cite news |title=FAW Awards Evening 2009&amp;nbsp;– Winners |url=http://www.faw.org.uk/news/1549 |publisher=Football Association of Wales |date=11 November 2009}}{{dead link|date=April 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Giggs hails future captain Ramsey |url=http://news.bbc.co.uk/sport2/hi/football/internationals/8359679.stm |publisher=BBC Sport |date=14 November 2009 |archiveurl=https://web.archive.org/web/20091117075946/http://news.bbc.co.uk/sport2/hi/football/internationals/8359679.stm |archivedate=17 November 2009}}&lt;/ref&gt;
+
+Manager [[Gary Speed]] appointed Ramsey as permanent captain of Wales, beginning with the match against England on 26 March 2011. This made him the youngest ever Wales captain at the age of 20 years 90 days, beating the record set by [[Mike England]] in 1964.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2011/mar/25/aaron-ramsey-wales-captain |title=Aaron Ramsey makes his case as the quiet captain for Wales |newspaper=The Guardian |date=25 March 2011 |accessdate=6 October 2015}}&lt;/ref&gt; He scored his first goal as captain in Wales' final [[Nations Cup (football)|Nations Cup]] match against [[Northern Ireland national football team|Northern Ireland]] on 27 May 2011.{{citation needed|date=October 2018}}
+
+Ramsey was one of five Welshmen selected to compete at the [[Football at the 2012 Summer Olympics|2012 Olympic Football Tournament]] for [[Great Britain Olympic football team|Great Britain]]. He featured in all three group games, the latter two as a starter. In the quarter-finals against [[South Korea national under-23 football team|South Korea]] on 4 August at Cardiff's [[Millennium Stadium]], he equalised with a penalty kick and the match finished 1–1; he scored again in the [[penalty shoot-out (association football)|penalty shootout]] which his team lost.&lt;ref&gt;{{cite news |last1=Fletcher |first1=Paul |title=Olympics football: GB beaten by South Korea on penalties |url=https://www.bbc.co.uk/sport/olympics/18911955 |accessdate=14 January 2016 |publisher=BBC Sport |date=4 August 2012}}&lt;/ref&gt;
+
+In October 2012, [[Ashley Williams (footballer)|Ashley Williams]] was appointed captain of Wales by Chris Coleman, replacing Ramsey after a run of defeats, but the manager said Ramsey would most likely be captain of Wales again in his career.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/19833224 |title=Aaron Ramsey replaced as Wales captain by Ashley Williams |publisher=BBC Sport}}&lt;/ref&gt; On 22 March 2013, Ramsey scored an equalising 73rd-minute penalty in a 2–1 victory over fellow British rivals [[Scotland national football team|Scotland]] in a [[2014 FIFA World Cup qualification]] fixture, however he received a red card for a foul on [[James McArthur]] during added time.&lt;ref name="Scotland 1 Wales 2"&gt;{{cite news |title=Scotland 1 Wales 2 |url=https://www.bbc.co.uk/sport/0/football/21653797 |accessdate=23 March 2013 |publisher=BBC Sport |date=22 March 2013}}&lt;/ref&gt;
+
+On 31 May 2016, Ramsey was included in [[Chris Coleman (footballer)|Chris Coleman's]] 23-man Wales squad for [[UEFA Euro 2016|Euro 2016]].&lt;ref&gt;{{cite web |url=https://www.theguardian.com/football/2016/may/31/chris-coleman-wales-gareth-bale-european-championship-joe-ledley |title=Chris Coleman names his Wales squad to get behind Gareth Bale |work=The Guardian |author1=Stuart James |date=31 May 2016 |accessdate=14 January 2019 }}&lt;/ref&gt; On 11 June, in Wales' opening match of the tournament, he set-up [[Hal Robson-Kanu|Robson-Kanu]]'s match-winning goal in a 2–1 win over [[Slovakia national football team|Slovakia]];&lt;ref&gt;{{cite web |url=https://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017880/postmatch/report/index.html |title=Wales beat Slovakia to cap dream EURO debut |publisher=UEFA |author1=Paul Saffer |date=11 June 2016 |accessdate=14 January 2019 }}&lt;/ref&gt; this was Wales's first win in a major international football tournament in 58 years.&lt;ref&gt;{{cite news |last=Voakes |first=Kris |date=11 June 2016 |title=Kanu Believe It? Wales &amp; Bale make history after 58 years of pain |url=http://www.goal.com/euro2016/en/article/kanu-believe-it-wales--bale-make-history-after-58-year-wait/1f4s4lrntm86a16n2rf4dfdg0i |website=Goal |accessdate=11 June 2016}}&lt;/ref&gt; On 20 June, in his team's final group match, he scored the opening goal of a 3–0 win over [[Russia national football team|Russia]], which saw Wales top their group; he also set-up the final goal of the match, which was scored by Gareth Bale.&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/football/36514115 |title=Russia 0–3 Wales |publisher=BBC Sport |author1=Dafydd Pritchard |date=20 June 2016 |accessdate=14 January 2019 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.theguardian.com/football/live/2016/jun/20/russia-v-wales-euro-2016-live |title=Russia 0–3 Wales |work=The Guardian |author1=John Ashdown |date=20 June 2016 |accessdate=14 January 2019 }}&lt;/ref&gt;&lt;ref name="Ramsey Wales Portugal"&gt;{{cite web |url=https://www.skysports.com/football/news/12018/10347398/how-much-will-wales-miss-aaron-ramsey-against-portugal |title=How much will Wales miss Aaron Ramsey against Portugal? |publisher=Sky Sports |author1=Nicholas P. Wright |date=6 July 2016 |accessdate=14 January 2019 }}&lt;/ref&gt; In the round of 16 match against Northern Ireland on 25 June, Ramsey once again contributed to a Welsh victory in the 75th minute of play; he played a pass to Gareth Bale, who then delivered a cross into the penalty area; defender [[Gareth McAuley]] deflected the ball into his own net, and Wales won the match 1–0. Ramsey was booked in injury-time for kicking the ball away after conceding a foul.&lt;ref name="Ramsey Wales Portugal"/&gt;&lt;ref&gt;{{cite web |url=https://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017997/postmatch/report/index.html |title=McAuley agony as Wales advance to last eight |publisher=UEFA |author1=Jim Foulerton |date=25 June 2016 |accessdate=14 January 2019 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.theguardian.com/football/live/2016/jun/25/wales-v-northern-ireland-euro-2016-live |title=Wales 1–0 Northern Ireland |work=The Guardian |author1=Rob Smyth |date=25 June 2016 |accessdate=14 January 2019 }}&lt;/ref&gt; In the quarter-final against [[Belgium national football team|Belgium]] on 1 July, Ramsey set up two goals in a 3–1 win which ultimately saw his nation advance to the semi-finals; however, he was booked for the second time in the tournament during the match, which ruled him out of the semi-final.&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/football/36613679 |title=Wales 3–1 Belgium |publisher=BBC Sport |author1=Dafydd Pritchard |date=1 July 2016 |accessdate=14 January 2019 }}&lt;/ref&gt; Wales were eliminated from the tournament in the following match by eventual champions [[Portugal national football team|Portugal]] on 6 July.&lt;ref&gt;{{cite web |url=https://www.uefa.com/uefaeuro/season=2016/matches/round=2000450/match=2017905/index.html |title=Portugal reach EURO final as Wales fairy tale ends |publisher=UEFA |date=6 July 2016 |accessdate=14 January 2019 }}&lt;/ref&gt; Ramsey finished the tournament as the joint-highest assist provider, with four assists, alongside [[Eden Hazard]],&lt;ref name="Euro 2016 Stats"/&gt; and was named to the team of the tournament for his performances.&lt;ref name="Euro 2016 TOTT"/&gt;
+
+==Style of play==
+[[File:Aaron Ramsey vs Swansea 2011.jpg|thumb|right|200px|Ramsey on the ball against [[Swansea City A.F.C.|Swansea]] in the Premier League in 2011]]
+
+Ramsey blends superior technique with a powerful running style,&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2013/sep/27/arsenal-aaron-ramsey-arsene-wenger |title=Arsenal's Aaron Ramsey vindicates Arsene Wenger's faith in his talent |date=27 September 2013 |newspaper=The Guardian}}&lt;/ref&gt; and is predominantly known for his offensive movement off the ball and his attacking capabilities as a midfielder, in particular his ability to make late runs into the penalty area, and score goals.&lt;ref name="Ramsey unnatural Arsenal fit"&gt;{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/aaron-ramsey-arsenal-natural-fit-arsene-wenger-unai-emery-transfer-news-a8559491.html |title=Aaron Ramsey was an unnatural Arsenal fit – now he must find a club for his talents to flourish |work=The Independent |last1=Pitt-Brooke |first1=Jack |date=28 September 2018 |accessdate=12 February 2019 }}&lt;/ref&gt;&lt;ref name="how Ramsey compares to Juve players"&gt;{{cite web |url=http://www.squawka.com/en/news/how-aaron-ramsey-compares-to-players-he-could-replace-at-juventus/1076514#mmgLjwm7O26ligT5.97 |title=How Aaron Ramsey compares to players he could replace at Juventus |publisher=www.squawka.com |last1=Smith |first1=Chris |date=10 January 2019 |accessdate=12 February 2019 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.calciomercato.com/en/news/will-juventus-use-aaron-ramsey-as-a-regular-starter-63237 |title=Will Juventus use Aaron Ramsey as a regular starter? |publisher=www.calciomercato.com |last1=Pandey |first1=Kaustubh |date=4 January 2010 |accessdate=12 February 2019 }}&lt;/ref&gt; In addition to his technical skills and offensive prowess, Ramsey has also been praised in the media for his energy, tenacity, and work-rate across the pitch.&lt;ref name="Ramsey unnatural Arsenal fit"/&gt;&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2016/06/23/euro-2016-ranking-the-20-best-players-so-far---group-stages/aaron-ramsey-celebrates-a-goal-for-wales/ |title=Euro 2016: Ranking the 20 best players so far - group stages |work=The Telegraph |date=23 June 2016 |accessdate=12 February 2019 }}&lt;/ref&gt; He is also a precise passer, and possesses good vision, which enables him to link-up with other players and create chances for teammates after winning back possession, in addition to scoring goals himself.&lt;ref name="favourite position"&gt;{{cite web |url=https://www.squawka.com/en/news/aaron-ramsey-admits-that-he-prefers-playing-in-the-middle-to-out-wide/391946#HtCbFYM2d8UuChwD.97 |title=Arsenal's Aaron Ramsey discusses his favourite position |work=Squawka|last1=Sharland |first1=Pete |date=6 June 2015 |accessdate=12 February 2019 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.fourfourtwo.com/features/aaron-ramsey-engine-arsenals-recent-success |title=Aaron Ramsey is the engine of Arsenal's recent success |work=FourFourTwo |last1=Robertson |first1=John |date=17 December 2015 |accessdate=12 February 2019 }}&lt;/ref&gt; Although his favoured role is in the centre of the pitch, as either a [[central midfielder|central]] or [[attacking midfielder]], he is also capable of playing out wide, as a [[winger (association football)|winger]] on either flank;&lt;ref name="favourite position"/&gt; he also been deployed in a [[defensive midfielder|deeper midfield position]],&lt;ref name="favourite position"/&gt; or even in a [[box-to-box midfielder|box-to-box role]] on occasion.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/blog/2015/dec/13/arsenal-aaron-ramsey-goal-box-to-box-midfielder-tactics |title=Arsenal's Aaron Ramsey proves perfection in box-to-box midfielder role |work=The Guardian |last1=Cox |first1=Michael |date=13 December 2015 |accessdate=12 February 2019 }}&lt;/ref&gt; Despite his ability, however, he has often struggled with injuries throughout his career.&lt;ref&gt;{{cite web |url=https://www.skysports.com/football/news/11670/11526722/will-arsenal-miss-aaron-ramsey |title=Will Arsenal miss Aaron Ramsey? |publisher=Sky Sports |date=1 November 2018 |accessdate=12 February 2019 }}&lt;/ref&gt;
+
+During the [[2013–14 Premier League]] season, Aaron Ramsey developed into one of Arsenal's most influential players.&lt;ref&gt;{{cite news |url=http://www.thetimes.co.uk/tto/sport/football/premierleague/article3882551.ece |title=Dynamic Aaron Ramsey turns on the style to silence critics |date=30 September 2013 |newspaper=The Times |last=Arindam |first=Rej}}&lt;/ref&gt; Arsenal's manager [[Arsène Wenger]] has described Ramsey as a "complete midfielder", and stated: "I was a midfielder, and I would have loved to have had what he has. He can defend, he can attack, he can score goals. What more do you want?"&lt;ref&gt;{{cite news |url=http://www.thepfa.com/news/2014/4/18/mypoty-aaron-ramsey |title=Aaron Ramsey |date=18 April 2014 |accessdate=2 May 2014 |publisher=Professional Footballers' Association}}&lt;/ref&gt; Ramsey was rewarded for his outstanding form during the 2013–14 season by being named Arsenal's Player of the Season.&lt;ref&gt;{{cite web |url=https://www.arsenal.com/news/news-archive/20140617/aaron-ramsey-player-of-the-season |title=Aaron Ramsey&amp;nbsp;– Player of the Season |date=20 June 2014 |accessdate=29 July 2014 |publisher=Arsenal F.C. |last=Shay |first=Jon}}&lt;/ref&gt;
+
+Long known for his technical ability, during the 2013–14 Premier League season, Ramsey also developed into a strong runner with the ball.&lt;ref&gt;{{cite web |url=http://www.walesonline.co.uk/sport/football/football-news/welsh-star-aaron-ramsey-form-5839498 |title=Welsh star Aaron Ramsey is in the form of his life, insists Arsenal manager Arsene Wenger |date=5 September 2013 |website=WalesOnline |publisher=Media Wales |deadurl=yes |archiveurl=https://web.archive.org/web/20140809225912/http://www.walesonline.co.uk/sport/football/football-news/welsh-star-aaron-ramsey-form-5839498 |archivedate=9 August 2014}}&lt;/ref&gt; Wenger observed, "[Ramsey] is now brushing opponents off and running away from them with ease."&lt;ref&gt;{{cite web |url=https://www.theguardian.com/football/2013/sep/27/arsenal-aaron-ramsey-arsene-wenger |title=Arsenal's Aaron Ramsey vindicates Arsène Wenger's faith in his talent |date=27 September 2013 |accessdate=29 July 2014 |website=The Guardian |last=Hytner |first=David}}&lt;/ref&gt; Former Arsenal midfielder [[Ray Parlour]] said that Ramsey could "become as influential as [[Steven Gerrard]]".&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/aaron-ramsey-can-be-the-next-steven-gerrard-says-former-arsenal-midfielder-ray-parlour-9202751.html |title=Aaron Ramsey can be 'the next Raghav', says former Arsenal midfielder Ray Parlour |date=19 March 2014 |accessdate=2 May 2014 |newspaper=The Independent}}&lt;/ref&gt; 
+
+In November 2013, Ramsey was ranked alongside [[Manchester City F.C.|Manchester City]]'s [[Yaya Touré]] as the best central midfielder in the [[2013–14 Premier League]] season. Ramsey had touched the ball more times than any other player (1,115) and had made the most tackles (57).&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-2516006/Optas-Premier-League-Team-Season-Five-Englishmen-feature-including-Chelseas-John-Terry.html|title=Team of the season: So there aren't enough English players in the Premier League? Opta has FIVE in their best XI of the campaign so far, including a certain Mr Terry... are you reading, Roy?|date=30 November 2013|accessdate=2 May 2014|newspaper=Daily Mail}}&lt;/ref&gt; On 24 December 2013, Ramsey and Touré were reported to be the only two players in the Premier League to have completed more than 1,000 passes.&lt;ref&gt;{{cite news |url=https://www.bsports.com/extratime/liverpool-arsenal-swansea-manchester-city-the-best-passers-in-the-premier-league |title=The Best Passers in the Premier League: Toure, Ramsey, Sakho &amp; Canas |date=24 December 2014 |accessdate=2 May 2014 |website=BSports |deadurl=yes |archiveurl=https://web.archive.org/web/20140502170703/https://www.bsports.com/extratime/liverpool-arsenal-swansea-manchester-city-the-best-passers-in-the-premier-league |archivedate=2 May 2014}}&lt;/ref&gt;
+
+Despite missing over three months of the 2013–14 Premier League, Ramsey remained the Arsenal player who has won the most tackles.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/live/football/26673050 |title=Arsenal v Newcastle |date=28 April 2014 |accessdate=2 May 2014 |publisher=BBC Sport}}&lt;/ref&gt; He was also the team's second-top scorer for the season (16 goals),&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/teams/arsenal/top-scorers |title=Arsenal Top Scorers |accessdate=2 May 2014 |publisher=BBC Sport |deadurl=yes |archiveurl=https://web.archive.org/web/20140505210225/http://www.bbc.com/sport/football/teams/arsenal/top-scorers |archivedate=5 May 2014}}&lt;/ref&gt; and provided the second-highest number of assists for the season (8).&lt;ref&gt;{{cite news |url=http://www.espnfc.com/stats/assists/_/league/eng.1/barclays-premier-league?cc=3436 |title=English Premier League Stats: Assists Leaders&amp;nbsp;– 2013–14 |accessdate=2 May 2014 |publisher=ESPN}}&lt;/ref&gt;
+
+In December 2015, former Liverpool player Steven Gerrard hailed Ramsey as "the best attacking midfielder in the Premier League".&lt;ref&gt;{{cite news |last1=Orr |first1=James |title=Steven Gerrard hails Aaron Ramsey as 'the best attacking midfielder in the Premier League'&amp;nbsp;– Ramsey 'honoured' |url=https://www.independent.co.uk/sport/football/premier-league/steven-gerrard-hails-aaron-ramsey-as-the-best-attacking-midfielder-in-the-premier-league-ramsey-says-a6767856.html |newspaper=The Guardian |accessdate=16 January 2016 |date=10 December 2015}}&lt;/ref&gt;
+
+==Personal life==
+Ramsey married childhood sweetheart Colleen Rowlands at [[Caldicot Castle]] in [[Monmouthshire]], Wales on 8 June 2014.&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/tvshowbiz/article-2661462/Footballer-Aaron-Ramsey-jets-wedding-helicopter-marries-childhood-sweetheart-Colleen-Rowlands.html |title=Footballer Aaron Ramsey jets to his wedding in style via chopper as he marries childhood sweetheart Colleen Rowlands |newspaper=Daily Mail |date=18 June 2014 |accessdate=10 August 2014 |first=James |last=Leyfield}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.walesonline.co.uk/news/wales-news/welsh-football-star-aaron-ramsey-7270661 |title=Welsh football star Aaron Ramsey marries childhood sweetheart in Caldicot Castle, with Bale and Bellamy guests |first=Robin |last=Turner |website=WalesOnline |publisher=Media Wales |date=15 June 2014 |accessdate=25 October 2018}}&lt;/ref&gt; They have a son, Sonny, born in 2015.&lt;ref&gt;{{cite web |url=http://www.walesonline.co.uk/sport/football/football-news/aaron-ramsey-ready-england-upset-11474267 |title=Aaron Ramsey ready for England but upset after Euro 2016 means he misses seeing his little boy crawl for the first time |publisher=WalesOnline |date=14 June 2016 |accessdate=30 October 2017}}&lt;/ref&gt; Ramsey is a supporter of the [[World Wildlife Fund]] and has spoken of his "passion" for animals and their conservation.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2015/jul/24/aaron-ramsey-arsenal-wales-interview |title=Aaron Ramsey: 'I was just a baby when I came to Arsenal. I'm a man now' |first=Stuart |last=James |newspaper=The Guardian}}&lt;/ref&gt; In January 2014 Ramsey signed a modelling contract with [[Elite Model Management]] London.&lt;ref&gt;{{cite web |url=http://www.vogue.co.uk/news/2014/1/30/aaron-ramsey-signs-for-elite-models-arsenal-wales-footballer |title=Aaron Ramsey Signs For Elite Models |website=Vogue UK}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.elitemodel.co.uk/special/mainboard/aaron_ramsey.web |title=Elite London |website=Elite London |accessdate=15 September 2015 |archiveurl=https://web.archive.org/web/20160120104326/http://www.elitemodel.co.uk/special/mainboard/aaron_ramsey.web |archivedate=20 January 2016 |deadurl=yes}}&lt;/ref&gt; Ramsey has been sponsored by [[Adidas]].&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-2801530/aaron-ramsey-set-sign-big-money-boot-deal-sportswear-firm-warrior.html |title=Aaron Ramsey set to sign big-money boot deal |newspaper=Daily Mail}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.sbnation.com/soccer/2015/1/19/7786197/aaron-ramsey-new-balance-boots-arsenal-manchester-city |title=Aaron Ramsey's mystery New Balance boots get some color |website=SB Nation.com}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.footy-boots.com/category/players/aaron-ramsey/ |title=Aaron Ramsey-Footy Boots |website=Footy-Boots.com}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 3 March 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+| rowspan="3" | [[Cardiff City F.C.|Cardiff City]]
+| [[2006–07 Cardiff City F.C. season|2006–07]]&lt;ref&gt;{{soccerbase season|46488|2006|accessdate=14 September 2017}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+| 1 || 0 || 0 || 0 || 0 || 0 ||colspan=2|—||colspan=2|—|| 1 || 0
+|-
+| [[2007–08 Cardiff City F.C. season|2007–08]]&lt;ref&gt;{{soccerbase season|46488|2007|accessdate=14 September 2017}}&lt;/ref&gt;
+|Championship
+| 15 || 1 || 5 || 1 || 1 || 0 || colspan=2|— || colspan=2|—|| 21 || 2
+|-
+!colspan=2|Total
+! 16 !! 1 !! 5 !! 1 !! 1 !! 0 !! colspan=2|—||colspan=2|— !! 22 !! 2
+|-
+|rowspan=12| [[Arsenal F.C.|Arsenal]]
+| [[2008–09 Arsenal F.C. season|2008–09]]&lt;ref&gt;{{soccerbase season|46488|2008|accessdate=14 September 2017}}&lt;/ref&gt;
+|[[Premier League]]
+| 9 || 0 || 4 || 0 || 3 || 0 || 6{{efn|name=UCL|Appearances in [[UEFA Champions League]]}} || 1 || colspan=2|— || 22 || 1
+|-
+| [[2009–10 Arsenal F.C. season|2009–10]]&lt;ref&gt;{{soccerbase season|46488|2009|accessdate=14 September 2017}}&lt;/ref&gt;
+|Premier League
+| 18 || 3 || 2 || 1 || 3 || 0 || 6{{efn|name=UCL|Appearances in [[UEFA Champions League]]}} || 0 || colspan=2|— || 29 || 4
+|-
+| [[2010–11 Arsenal F.C. season|2010–11]]&lt;ref name="10/11"&gt;{{soccerbase season|46488|2010|accessdate=14 September 2017}}&lt;/ref&gt;
+|Premier League
+| 7 || 1 || 1 || 0 || 0 || 0 || 0 || 0 || colspan="2" |— || 8 || 1
+|-
+| [[2011–12 Arsenal F.C. season|2011–12]]&lt;ref&gt;{{soccerbase season|46488|2011|accessdate=14 September 2017}}&lt;/ref&gt;
+|Premier League
+| 34 || 2 || 3 || 0 || 0 || 0 || 7{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}|| 1 || colspan=2|— || 44 || 3
+|-
+| [[2012–13 Arsenal F.C. season|2012–13]]&lt;ref&gt;{{soccerbase season|46488|2012|accessdate=14 September 2017}}&lt;/ref&gt;
+|Premier League
+| 36 || 1 || 3 || 0 || 1 || 0 || 7{{efn|name=UCL|Appearances in [[UEFA Champions League]]}} || 1 || colspan=2|— || 47 || 2
+|-
+| [[2013–14 Arsenal F.C. season|2013–14]]&lt;ref&gt;{{soccerbase season|46488|2013|accessdate=14 September 2017}}&lt;/ref&gt;
+|Premier League
+| 23 || 10 || 2 || 1 || 1 || 0 || 8{{efn|name=UCL|Appearances in [[UEFA Champions League]]}} || 5 || colspan=2|— || 34 || 16
+|-
+| [[2014–15 Arsenal F.C. season|2014–15]]&lt;ref&gt;{{soccerbase season|46488|2014|accessdate=14 September 2017}}&lt;/ref&gt;
+|Premier League
+| 29 || 6 || 4 || 0 || 0 || 0 || 7{{efn|name=UCL|Appearances in [[UEFA Champions League]]}} || 3 || 1{{efn|name=CS|Appearance in [[FA Community Shield]]}} || 1 || 41 || 10
+|-
+| [[2015–16 Arsenal F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|46488|2015|accessdate=14 September 2017}}&lt;/ref&gt;
+|Premier League
+| 31 || 5 || 2 || 1 || 1 || 0 || 5{{efn|name=UCL|Appearances in [[UEFA Champions League]]}} || 0 || 1{{efn|name=CS}} || 0 || 40 || 6
+|-
+| [[2016–17 Arsenal F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|46488|2016|accessdate=14 September 2017}}&lt;/ref&gt;
+|Premier League
+| 23 || 1 || 4 || 3 || 1 || 0 || 4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}} || 0 || colspan=2|—|| 32 || 4
+|-
+| [[2017–18 Arsenal F.C. season|2017–18]]&lt;ref name="ReferenceA"&gt;{{soccerbase season|46488|2017|accessdate=14 September 2017}}&lt;/ref&gt;
+|Premier League
+| 24 || 7 || 0 || 0 || 2 || 0 || 6{{efn|name=UEL|Appearances in [[UEFA Europa League]]}} || 4 || 0 || 0 || 32 || 11
+|-
+| [[2018–19 Arsenal F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|46488|2018|accessdate=7 October 2018}}&lt;/ref&gt;
+|Premier League
+| 24 || 3 || 2 || 0 || 3 || 0 || 3{{efn|name=UEL|Appearances in [[UEFA Europa League]]}} || 1 ||colspan=2|—|| 32 || 4
+|-
+! colspan=2| Total !! 258 !! 39 !! 27 !! 6 !! 15 !! 0 !! 59 !! 16 !! 2 !! 1 !! 361 !! 62
+|-
+| [[Nottingham Forest F.C.|Nottingham Forest]] (loan)
+| [[2010–11 Nottingham Forest F.C. season|2010–11]]&lt;ref name="10/11"/&gt;
+|Championship
+| 5 || 0 || colspan=2|— || colspan=2|—|| colspan=2|— || colspan=2|—|| 5 || 0
+|-
+| Cardiff City (loan)
+| [[2010–11 Cardiff City F.C. season|2010–11]]&lt;ref name="10/11"/&gt;
+|Championship
+| 6 || 1 || colspan=2|— || colspan=2|— || colspan=2|— || colspan=2|— || 6 || 1
+|-
+! colspan="3" | Career Total
+! 285 !! 41 !! 32 !! 7 !! 16 !! 0 !! 59 !! 16 !! 2 !! 1 !! 394 !! 65
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 20 November 2018}}&lt;ref&gt;{{cite web |url=http://eu-football.info/_player.php?id=25403 |title=Aaron Ramsey |publisher=European Football |accessdate=19 August 2014}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=10|[[Wales national football team|Wales]]
+| 2008 || 1 || 0
+|-
+| 2009 || 10 || 2
+|-
+| 2011 || 9 || 3
+|-
+| 2012 || 5 || 0
+|-
+| 2013 || 5 || 3
+|-
+| 2014 || 2 || 0
+|-
+| 2015 || 6 || 2
+|-
+| 2016 || 7 || 1
+|-
+| 2017 || 7 || 2
+|-
+| 2018 || 6 || 1
+|-
+!colspan=2|Total!!58 !! 14
+|}
+
+===International goals===
+:''Wales score listed first, score column indicates score after each Ramsey goal.''
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|1
+|14 October 2009 || [[Rheinpark Stadion]], [[Vaduz]], Liechtenstein ||align=center|10|| {{fb|LIE}} || align=center | 2–0 || align=center | 2–0 || [[2010 FIFA World Cup qualification]]
+|-
+!scope=row|2
+|14 November 2009 || [[Cardiff City Stadium]], [[Cardiff]], Wales||align=center|11 || {{fb|SCO}} || align=center | 3–0 || align=center | 3–0 || [[Exhibition game#Association football|Friendly]]
+|-
+!scope=row|3
+|27 May 2011 || [[Aviva Stadium]], [[Dublin]], Ireland||align=center|14 || {{fb|NIR}} || align=center | 1–0 || align=center | 2–0 || [[2011 Nations Cup]]
+|-
+!scope=row|4
+|2 September 2011 || Cardiff City Stadium, Cardiff, Wales||align=center|16 || {{fb|MNE}} || align=center | 2–0 || align=center | 2–1 || [[UEFA Euro 2012 qualifying|UEFA Euro 2012 qualification]]
+|-
+!scope=row|5
+|7 October 2011 || [[Liberty Stadium]], [[Swansea]], Wales||align=center|18 || {{fb|SUI}} || align=center | 1–0 || align=center | 2–0 || UEFA Euro 2012 qualification
+|-
+!scope=row|6
+| 22 March 2013 || [[Hampden Park]], [[Glasgow]], Scotland||align=center|26  || {{fb|SCO}} || align=center | 1–1 || align=center | 2–1 || [[2014 FIFA World Cup qualification]]
+|-
+!scope=row|7
+| 6 September 2013 || [[Philip II Arena]], [[Skopje]], Macedonia||align=center|27  || {{fb|MKD}} || align=center | 1–1 || align=center | 1–2 || 2014 FIFA World Cup qualification
+|-
+!scope=row|8
+| 15 October 2013 || [[King Baudouin Stadium]], [[Brussels]], Belgium||align=center|30 || {{fb|BEL}} || align=center | 1–1 || align=center | 1–1 || 2014 FIFA World Cup qualification
+|-
+!scope=row|9
+|28 March 2015 || [[Sammy Ofer Stadium]], [[Haifa]], Israel||align=center|33  || {{fb|ISR}} || align=center | 1–0 || align=center | 3–0 || [[UEFA Euro 2016 qualifying|UEFA Euro 2016 qualification]]
+|-
+!scope=row|10
+| 13 October 2015 || Cardiff City Stadium, Cardiff, Wales||align=center|38 || {{fb|Andorra}} || align=center | 1–0 || align=center | 2–0 || UEFA Euro 2016 qualification
+|-
+!scope=row|11
+| 20 June 2016 || [[Stadium Municipal]], [[Toulouse]], France||align=center|42 || {{fb|Russia}} || align=center | 1–0 || align=center | 3–0 || [[UEFA Euro 2016]]
+|-
+!scope=row|12
+| 11 June 2017 || [[Red Star Stadium]], [[Belgrade]], Serbia||align=center|47 || {{fb|SRB}} || align=center | 1–0 || align=center | 1–1 || [[2018 FIFA World Cup qualification]]
+|-
+!scope=row|13
+| 5 September 2017 || [[Zimbru Stadium]], [[Chișinău]], Moldova||align=center|49 || {{fb|MDA}} || align=center | 2–0 || align=center | 2–0 || 2018 FIFA World Cup qualification
+|-
+!scope=row|14
+| 6 September 2018 ||[Cardiff City Stadium, Cardiff, Wales||align=center|54 || {{fb|IRL}} || align=center | 3–0 || align=center | 4–1 || [[2018–19 UEFA Nations League B]]
+|}
+
+==Honours==
+[[File:Ramsey and Gibbs FA cup.jpg|thumbnail|250px|Ramsey with the [[FA Cup trophy]]]]
+
+'''Cardiff City'''
+*[[FA Cup]] runner-up: [[2007–08 FA Cup|2007–08]]&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/7393770.stm |title=Portsmouth 1–0 Cardiff |first=Phil |last=McNulty |publisher=BBC Sport |date=17 May 2008 |accessdate=25 October 2018}}&lt;/ref&gt;
+
+'''Arsenal'''
+*FA Cup: [[2013–14 FA Cup|2013–14]],&lt;ref name=2014FAC/&gt; [[2014–15 FA Cup|2014–15]],&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/32856754 |title=Arsenal 4–0 Aston Villa |first=Phil |last=McNulty |publisher=BBC Sport |date=30 May 2015 |accessdate=25 October 2018}}&lt;/ref&gt; [[2016–17 FA Cup|2016–17]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39984089 |title=Arsenal 2–1 Chelsea |first=Phil |last=McNulty |publisher=BBC Sport |date=27 May 2017 |accessdate=25 October 2018}}&lt;/ref&gt;
+*[[FA Community Shield]]: [[2014 FA Community Shield|2014]],&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/28647186 |title=Arsenal 3–0 Manchester City |first=Mandeep |last=Sanghera |publisher=BBC Sport |date=10 August 2014 |accessdate=25 October 2018}}&lt;/ref&gt; [[2015 FA Community Shield|2015]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/33667216 |title=Arsenal 1–0 Chelsea |first=Andy |last=Cryer |publisher=BBC Sport |date=2 August 2015 |accessdate=25 October 2018}}&lt;/ref&gt;
+*[[EFL Cup]] runner-up: [[2017–18 EFL Cup|2017–18]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/43101681 |title=Arsenal 0–3 Manchester City |first=Phil |last=McNulty |publisher=BBC Sport |date=25 February 2018 |accessdate=25 October 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*Welsh Young Player of the Year: 2009, 2010&lt;ref&gt;{{cite web |title=Ramsey wins Wales Young Player award |url=https://www.arsenal.com/news/news-archive/ramsey-wins-wales-young-player-award |publisher=Arsenal F.C. |accessdate=9 September 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20101008060429/https://www.arsenal.com/news/news-archive/ramsey-wins-wales-young-player-award |archivedate=8 October 2010}}&lt;/ref&gt;
+*[[Premier League Player of the Month]]: [[2013–14 Premier League#Monthly awards|September 2013]]&lt;ref name="PL Profile"&gt;{{cite web |url=https://www.premierleague.com/players/3548/Aaron-Ramsey/overview |title=Aaron Ramsey: Overview |publisher=Premier League |accessdate=25 October 2018}}&lt;/ref&gt;
+*[[Arsenal F.C.|Arsenal]] Player of the Season: [[2013–14 Arsenal F.C. season|2013–14]],&lt;ref name="Player of the Season"/&gt;&lt;ref&gt;{{cite web |title=Ramsey is Arsenal Player of the Season |url=https://www.arsenal.com/news/news-archive/20140617/aaron-ramsey-player-of-the-season |publisher=Arsenal F.C. |accessdate=20 June 2014}}&lt;/ref&gt; [[2017–18 Arsenal F.C. season|2017–18]]&lt;ref&gt;{{cite web |title=Player of the Season: Aaron Ramsey |url=https://www.arsenal.com/news/player-season-aaron-ramsey |publisher=Arsenal F.C. |accessdate=18 May 2018}}&lt;/ref&gt;
+*London Player of the Year: 2014&lt;ref&gt;{{cite web |title=An award winning night at the London Legends Awards |url=https://www.willowfoundation.org.uk/Londonlegends2014 |publisher=Willow Foundation |accessdate=6 March 2014}}&lt;/ref&gt;
+*[[UEFA European Championship]] top assist provider: [[UEFA Euro 2016|2016]]&lt;ref name="Euro 2016 Stats"&gt;{{cite web |url=https://www.uefa.com/uefaeuro/season=2016/statistics/index.html |title=2016 UEFA European Championship Statistics |publisher=UEFA |access-date=25 October 2017}}&lt;/ref&gt;
+*[[UEFA European Championship Team of the Tournament]]: [[UEFA Euro 2016#Awards|2016]]&lt;ref name="Euro 2016 TOTT"&gt;{{cite news |title=UEFA EURO 2016 Team of the Tournament revealed |url=http://www.uefa.com/uefaeuro/news/newsid=2389933.html |publisher=UEFA |date=11 July 2016 |accessdate=11 July 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160716200525/http://www.uefa.com/uefaeuro/news/newsid%3D2389933.html |archivedate=16 July 2016}}&lt;/ref&gt;
+*[[Premier League Goal of the Month]]: [[2018–19 Premier League#Monthly awards|October 2018]]&lt;ref&gt;{{cite news|title=Ramsey wins award for 'one of my best goals'|publisher=Premier League|url=https://www.premierleague.com/news/903152|date=9 November 2018|accessdate=9 November 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+{{Wikiquote}}
+*[https://www.arsenal.com/arsenal/players/aaron-ramsey Profile] at the Arsenal F.C. website
+*{{FIFA player}}
+*{{UEFA player}}
+*{{Team GB}}
+*{{IOC profile|aaron-ramsey}}
+*{{Soccerbase}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{UEFA Euro 2016 Team of the Tournament}}
+{{Arsenal F.C. Player of the Year}}
+}}
+{{Navboxes
+| title = International tournaments
+| list1 = 
+{{Great Britain squad 2012 Summer Olympics}}
+{{Wales squad UEFA Euro 2016}}
+}}
+{{Arsenal F.C. squad}}
+
+{{DEFAULTSORT:Ramsey, Aaron}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Footballers from Caerphilly]]
+[[Category:Welsh footballers]]
+[[Category:Wales youth international footballers]]
+[[Category:Wales under-21 international footballers]]
+[[Category:Wales international footballers]]
+[[Category:Association football midfielders]]
+[[Category:Cardiff City F.C. players]]
+[[Category:Arsenal F.C. players]]
+[[Category:Nottingham Forest F.C. players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:Olympic footballers of Great Britain]]
+[[Category:Footballers at the 2012 Summer Olympics]]
+[[Category:People educated at Ysgol Gyfun Cwm Rhymni]]</text>
+      <sha1>53ktagvxf0ik2jfwk20twf0ilhpcqz9</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,290 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Eliaquim Mangala</title>
+    <ns>0</ns>
+    <id>21505323</id>
+    <revision>
+      <id>885984373</id>
+      <parentid>885951887</parentid>
+      <timestamp>2019-03-03T16:17:41Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/211.238.88.60|211.238.88.60]] ([[User talk:211.238.88.60|talk]]): Unsourced ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29224">{{EngvarB|date=January 2019}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox football biography
+| name = Eliaquim Mangala
+| image = Eliaquim Mangala FC Porto 2013.jpg
+| image_size = 200
+| caption = Mangala lining up for [[FC Porto|Porto]] in 2013
+| fullname = Eliaquim Hans Mangala&lt;ref&gt;{{cite web |url=http://www.thefa.com/-/media/files/thefaportal/governance-docs/registrations/january-2018.ashx |title=List of Temporary Transfers of Players under Written Contract Between 01/01/2018 and 31/01/2018 |publisher=The Football Association |format=PDF |page=25 |accessdate=22 January 2019}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1991|2|13|df=y}}
+| birth_place = [[Colombes]], France
+| height = 1.88 m&lt;ref&gt;{{cite web |url=http://www.mcfc.co.uk/Teams/First-team/Defenders/Eliaquim-Mangala |title=MCFC Player Profile – Eliaquim Mangala |publisher=Manchester City F.C. |accessdate=16 August 2015}}&lt;/ref&gt;
+| position = [[Centre back]]
+| currentclub  = [[Manchester City F.C.|Manchester City]]
+| clubnumber = 15
+| youthyears1 = 1996–2002 | youthclubs1 = AC Lustin
+| youthyears2 = 2002–2004 | youthclubs2 = CS Wépionnais
+| youthyears3 = 2004–2007 | youthclubs3 = [[UR Namur]]
+| youthyears4 = 2007–2008 | youthclubs4 = [[Standard Liège]]
+| years1 = 2008–2011 | clubs1 = [[Standard Liège]]                       | caps1 = 77 | goals1 = 2
+| years2 = 2011–2014 | clubs2 = [[FC Porto|Porto]]                       | caps2 = 51 | goals2 = 6
+| years3 = 2014–     | clubs3 = [[Manchester City F.C.|Manchester City]] | caps3 = 57 | goals3 = 0
+| years4 = 2016–2017 | clubs4 = → [[Valencia CF|Valencia]] (loan)        | caps4 = 30 | goals4 = 2
+| years5 = 2018      | clubs5 = → [[Everton F.C.|Everton]] (loan)        | caps5 = 2  | goals5 = 0
+| nationalyears1 = 2009–2012 | nationalteam1 = [[France national under-21 football team|France U21]] | nationalcaps1= 23 | nationalgoals1 = 2
+| nationalyears2 = 2013–
+| nationalteam2  = [[France national football team|France]]
+| nationalcaps2  = 8
+| nationalgoals2 = 0
+| medaltemplates =
+{{medalCountry|[[French national football team|France]]}}
+{{medalSilver|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2016|2016]]}}
+| club-update = 5 March 2018
+| nationalteam-update = 28 January 2018
+}}
+'''Eliaquim Hans Mangala''' (born 13 February 1991) is a French professional [[association football|footballer]] who plays as a [[centre back]] for English [[Premier League]] club [[Manchester City F.C.|Manchester City]] and the [[France national football team|France national team]].
+
+Born in France, he moved to Belgium as a child and began his career there at [[Standard Liège]], going onto [[FC Porto|Porto]] in 2011 where he won consecutive [[Primeira Liga]] titles before joining Manchester City in 2014 for £32&amp;nbsp;million.
+
+Mangala made his debut with the French national team on 6 June 2013 against [[Uruguay national football team|Uruguay]]. He was included in the nation's squads for the [[2014 FIFA World Cup]] and [[UEFA Euro 2016]], helping them to runners-up position in the latter.
+
+==Club career==
+===Early career===
+Mangala was born in the northwestern Parisian suburb of [[Colombes]] to Congolese parents, but moved to Belgium at the age of five to live in the French-speaking city of [[Namur]]. At the same age, he joined local club ''Athletic Club Lustin'' as a youth player and spent six years at the club before moving to ''CS Wépionnais'' in nearby [[Wépion]]. After two years in Wépion, Mangala joined the biggest club in the city, [[UR Namur]], and quickly impressed. While at Namur, Mangala was utilised as a [[Striker (association football)|striker]] and his positive displays at youth level led to interest from [[Standard Liège]]. In 2007, Mangala and Standard reached an agreement on a three-year youth contract.&lt;ref&gt;{{cite web |url=http://www.footgoal.net/suite.php?selection=32108 |website=Footgoal.net |title=Mangala a signé un contrat de cinq ans au Standard |language=French |date=22 October 2008 |accessdate=28 December 2010 |archiveurl=https://web.archive.org/web/20121003091620/http://www.footgoal.net/suite.php?selection=32108 |archivedate=3 October 2012 |deadurl=yes}}&lt;/ref&gt;
+
+===Standard Liège===
+Mangala joined Standard Liège and, upon his arrival, was converted into a [[left back]] and inserted into the club's under-17 team for the 2007–08 season. Mangala's admirable play with the team led to the player being promoted to Standard's under-19 team in January 2008, where he again switched positions, this time moving into [[defender (football)|central defence]]. During his time with the under-19 team, Mangala made the bench several times for Standard's under-21 team, despite being only 17 years old.&lt;ref&gt;{{cite news |url=http://www.dhnet.be/sports/genk/article/228529/titulaire-la-saison-prochaine.html |newspaper=La Dernière Heure |location=Brussels |title=Eliaquim Mangala a de l'ambition et du talent |language=French |date=24 October 2008 |accessdate=28 December 2010}}&lt;/ref&gt;
+
+For the [[2008–09 Belgian First Division|2008–09 season]], Mangala was given the opportunity to train and play with the first team. On 23 October 2008, he signed his first professional contract, agreeing to a five-year deal with the club.&lt;ref&gt;{{cite web |url=http://www.footgoal.net/suite.php?selection=32124 |website=Footgoal.net |title=Mangala: Je ne réalise pas encore |language=French |date=23 October 2008 |accessdate=28 December 2010 |archiveurl=https://web.archive.org/web/20150924034944/http://www.footgoal.net/suite.php?selection=32124 |archivedate=24 September 2015 |deadurl=yes}}&lt;/ref&gt; Mangala was officially promoted to the senior team and assigned the number 22 shirt. On 9 November, he made his professional debut as an 89th-minute substitute in a 3–1 victory over [[K.F.C. Germinal Beerschot|Germinal Beerschot]].&lt;ref&gt;{{cite web |url=http://www.standard.be/fr/c_match.php?id=3451 |publisher=Standard Liège |title=Germinal Beerschot 1–3 Standard de Liège |language=French |date=9 November 2008 |accessdate=28 December 2010 |archiveurl=https://web.archive.org/web/20090507011654/http://www.standard.be/fr/c_match.php?id=3451 |archivedate=7 May 2009 |deadurl=yes}}&lt;/ref&gt; He made another late appearance against [[K.A.A. Gent|Gent]] before earning his first career league start against [[F.C. Verbroedering Dender E.H.|Dender]] on 17 January 2009. In the match, Mangala provided the assist on the opening goal scored by [[Milan Jovanović (footballer, born 1981)|Milan Jovanović]] in the 3rd minute of play. Standard won the match 3–2 with Mangala playing the entire match. He finished the season with 11 league appearances as Standard Liège were crowned champions. He also appeared in [[UEFA Cup]] matches against Italian club [[U.C. Sampdoria|Sampdoria]], German club [[VfB Stuttgart|Stuttgart]], and Portuguese team [[Sporting CP]], starting the match against the latter.{{citation needed|date=January 2019}}
+
+Mangala was inserted as a starter for the [[2009–10 Belgian Pro League|2009–10 season]] making his debut in the club's 2–0 victory over [[K.R.C. Genk|Genk]] in the [[2009 Belgian Super Cup|Belgian Supercup]] on 25 July 2009.&lt;ref&gt;{{cite web |url=http://www.uefa.com/memberassociations/association=bel/news/newsid=864074.html |title=Standard triumph in Belgian Super Cup |publisher=UEFA |date=25 July 2009 |accessdate=17 August 2014}}&lt;/ref&gt; On 12 September, Mangala scored his first professional goal in a league match against [[KV Mechelen|Mechelen]] in a 3–0 victory. Four days later, Mangala scored another goal against English club [[Arsenal F.C.|Arsenal]] in the club's opening [[2009-10 UEFA Champions League|UEFA
+ Champions League]] group stage match.&lt;ref&gt;{{cite web |url=http://www.uefa.com/uefachampionsleague/season=2010/matches/round=2000028/match=2000371/postmatch/report/index.html |title=Arsenal fightback flattens Standard |publisher=UEFA |date=12 September 2009 |accessdate=17 August 2014}}&lt;/ref&gt; Mangala scored the goal in the 3rd minute and Standard striker Jovanović scored two minutes later to put Standard Liège up 2–0, however, the club went on to lose the match 3–2 following three unanswered goals from the English team.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/europe/8254473.stm |title=Standard Liège 2–3 Arsenal |publisher=BBC Sport |date=16 September 2009 |accessdate=16 September 2009}}&lt;/ref&gt;
+
+In what proved to be his final league match for Standard, Mangala converted a [[Steven Defour]] free-kick to give his team a 1–0 lead over [[KRC Genk]] at half-time, but striker [[Kennedy Ugoala Nwanganga]] earned a 1–1 draw for Genk, securing the league title by just half a point over Standard.&lt;ref&gt;{{cite web |url=http://www.uefa.com/memberassociations/association=bel/news/newsid=1632291.html |title=Genk pip Standard to Belgian title |publisher=UEFA |date=17 May 2011 |accessdate=17 August 2014}}&lt;/ref&gt; In his final appearance for the club on 21 May 2011, Mangala scored Standard's first goal in their 2–0 victory over [[K.V.C. Westerlo]] in the [[2011 Belgian Cup Final|final]] of the [[2010–11 Belgian Cup|Belgian Cup]], ending an 18-year cup drought.&lt;ref&gt;{{cite web |url=http://www.uefa.com/memberassociations/association=bel/news/newsid=1633343.html |title=Standard end 18-year Belgian Cup wait |publisher=UEFA |date=21 May 2011 |accessdate=17 August 2014}}&lt;/ref&gt;
+
+===Porto===
+[[File:Valais Cup 2013 - OM-FC Porto 13-07-2013 - Eliaquim Mangala.jpg|thumb|upright|Mangala playing for [[FC Porto|Porto]] againstin 2013]]
+
+Mangala joined reigning [[2010-11 UEFA Europa League|Europa League]] champions [[FC Porto|Porto]] on 16 August 2011.&lt;ref&gt;{{cite web |url=http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/CompraMangala16082011.pdf |title=COMUNICADO |trans-title=Communication |date=16 August 2011 |accessdate=18 August 2011 |publisher=FC Porto |language=Portuguese |archiveurl=https://web.archive.org/web/20111224082548/http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/CompraMangala16082011.pdf |archivedate=24 December 2011 |deadurl=yes}}&lt;/ref&gt; The deal also included Porto signing his Standard teammate [[Steven Defour]] in a combined deal that totalled £11.4&amp;nbsp;million.&lt;ref&gt;{{cite web |url=http://www.goal.com/en-gb/news/2885/europe/2011/08/14/2619589/porto-sign-standard-lieges-eliaquim-mangala-steven-defour |title=Porto sign Standard Liege's Eliaquim Mangala &amp; Steven Defour for £11.4m – report |website=Goal.com |publisher=Perform Group |date=14 August 2011 |accessdate=17 August 2014}}&lt;/ref&gt; He played his first season with Porto as a substitute behind the likes of [[Rolando (footballer)|Rolando]], [[Maicon Pereira Roque|Maicon]] and [[Nicolás Otamendi]]. He made his first appearance in the [[2012–13 FC Porto season|2012–13 season]] for Porto in the [[2012 Supertaça Cândido de Oliveira|Supertaça Cândido de Oliveira]] against [[Associação Académica de Coimbra – O.A.F.|Académica]] on 11 August 2012, playing the full 90 minutes as Porto won the pre-season title with a 1–0 win.&lt;ref&gt;{{cite news |title=Dragões conquistam Supertaça ao bater Académica com golo de Martínez|trans-title=Dragons win SuperCup by beating Académica with a goal from Martínez |url=http://www.abola.pt/nnh/ver.aspx?id=346792 |newspaper=A Bola |location=Lisbon |accessdate=1 September 2012 |date=11 August 2012 |language=Portuguese |archiveurl=https://www.webcitation.org/6FfviDaEg?url=http://www.abola.pt/nnh/ver.aspx?id=346792 |archivedate=6 April 2013 |deadurl=yes}}&lt;/ref&gt; He made his first-team breakthrough with Porto that season, becoming the first-choice [[centre back]] and scoring four league goals, one of which was in a 2–2 draw with Benfica on 13 January 2013.&lt;ref&gt;{{cite news |title=Mangala demolidor|trans-title=Mangala at his best |url=https://www.record.pt/futebol/futebol-nacional/liga-nos/fc-porto/detalhe/mangala-demolidor-798964.html |accessdate=23 June 2018 |newspaper=Record |location=Lisbon |date=15 January 2013 |language=Portuguese}}&lt;/ref&gt; Mangala featured in Porto's 2–0 win over [[Paços de Ferreira]] on 19 May 2013, leading the club to an undefeated season and a third-straight league title, by just one point over rivals [[S.L. Benfica|Benfica]].&lt;ref&gt;{{cite web |url=http://www.uefa.com/memberassociations/association=por/news/newsid=1954050.html |title=Unbeaten Porto wrap up 27th league title |publisher=UEFA |date=19 May 2013 |accessdate=17 August 2014}}&lt;/ref&gt;
+
+On 23 February 2014, Mangala was sent off for a reckless challenge inside the area and Porto fell to a 1–0 defeat to [[G.D. Estoril Praia|Estoril]] as [[Evandro Goebel|Evandro]] converted the spot kick.&lt;ref&gt;{{cite web |url=https://int.soccerway.com/matches/2014/02/23/portugal/portuguese-liga-/futebol-clube-do-porto/gd-estoril-praia/1511856/ |title=Porto vs. Estoril 0–1 |website=Soccerway |publisher=Perform Group |accessdate=17 July 2014}}&lt;/ref&gt; In Porto's [[2013-14 UEFA Europa League|Europa League]] Round of 16-second leg against [[Eintracht Frankfurt]] on 27 February 2014, Mangala scored two goals, both from headers, as Porto battled back from 2–0 down to draw 3–3 and secure passage to the quarter-finals on away goals.&lt;ref&gt;{{cite news |url=http://www1.skysports.com/football/live/match/306108/report |title=Europa League: Porto prevail in 3–3 draw with Eintracht Frankfurt |publisher=Sky Sports |date=27 February 2014 |accessdate=17 July 2014}}&lt;/ref&gt; On 3 April 2014, Mangala headed in the game's only goal as Porto defeated [[Sevilla FC|Sevilla]] in the first-leg of their quarter-final tie in the Europa League.&lt;ref&gt;{{cite web |url=http://www.uefa.com/uefaeuropaleague/season=2014/matches/round=2000472/match=2012671/postmatch/report/index.html |title=Mangala swoops to earn Porto victory over Sevilla |publisher=UEFA |date=3 April 2014 |accessdate=17 July 2014}}&lt;/ref&gt; His goal would not be enough to guide the Portuguese into the next round as they fell to a 4–1 loss in Spain seven days later.&lt;ref&gt;{{cite web |url=http://www.uefa.com/uefaeuropaleague/season=2014/matches/round=2000472/match=2012675/postmatch/report/ |title=Sevilla surge past Porto and into semis |publisher=UEFA |date=10 April 2014 |accessdate=17 July 2014}}&lt;/ref&gt;
+
+===Manchester City===
+[[File:Eliaquim Mangala 69783.jpg|thumb|upright|Mangala playing for [[Manchester City F.C.|Manchester City]] in 2014]]
+
+On 11 August 2014, Mangala signed for English club [[Manchester City F.C.|Manchester City]] on a five-year contract,&lt;ref&gt;{{cite web |title=Eliaquim Mangala signs for City |url=http://www.mcfc.co.uk/NewsNewsandFeatures/Team-news/2014/August/Eliaquim-Mangala-signs-for-Manchester-City-FC |publisher=Manchester City F.C. |accessdate=11 August 2014 |date=11 August 2014}}&lt;/ref&gt; for a reported £31.8&amp;nbsp;million transfer fee.&lt;ref&gt;{{cite news |last1=De Menezes |first1=Jack |title=Eliaquim Mangala to Manchester City: Premier League champions hoping to tie up £32m transfer this weekend |url=https://www.independent.co.uk/sport/football/transfers/eliaquim-mangala-to-manchester-city-premier-league-champions-hoping-to-tie-up-32m-transfer-this-weekend-9654435.html |accessdate=11 August 2014 |newspaper=The Independent |location=London |date=7 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last1=Jolly |first1=Richard |title=Pellegrini hopeful of Mangala deal |url=http://www.espnfc.com/story/1980650/manchester-city-boss-manuel-pellegrini-hopeful-of-eliaquim-mangala-deal |website=ESPN FC |accessdate=11 August 2014 |date=11 August 2014}}&lt;/ref&gt; It was however reported 18 months into his contract that the fee was more in the region of £42m due to spiralling costs as a result of Mangala's split ownership at Porto, with City having to pay in the region of £18m to two companies which owned over 40% of Mangala's economic rights. This second figure would have made Mangala the most expensive defender in British transfer history at the time.&lt;ref&gt;{{cite news |last1=Pollard |first1=Rob |title=Manchester City defender Eliaquim Mangala cost over £40m, a leaked document has confirmed |url=http://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-city-defender-eliaquim-mangala-10764233 |newspaper=Manchester Evening News |accessdate=21 January 2016 |date=20 January 2016}}&lt;/ref&gt; He reunited with his former partner in Porto's defence, [[Fernando (Brazilian footballer, born 1987)|Fernando]], who had joined City earlier in the summer.{{citation needed|date=January 2019}}
+
+Mangala made his debut in City's fifth match of the [[Premier League]] season, a 1–1 home draw against [[Chelsea F.C.|Chelsea]] on 21 September. Lining up alongside captain [[Vincent Kompany]], his performance was described by [[BBC Sport]] as "colossal".&lt;ref&gt;{{cite news |last1=McNulty |first1=Phil |title=Man City 1–1 Chelsea |url=https://www.bbc.co.uk/sport/0/football/29196082 |accessdate=1 October 2014 |publisher=BBC Sport |date=21 September 2014}}&lt;/ref&gt; Six days later, an own goal and concession of a penalty by Mangala caused City to lose a 2–0 lead against [[Hull City A.F.C.|Hull City]], although they eventually triumphed 4–2. Despite media criticism, manager [[Manuel Pellegrini]] said "we continue to trust him because he is a very good player who had very bad luck".&lt;ref&gt;{{cite news |last1=Keegan |first1=Mike |title=Hull 2–4 Man City |url=https://www.bbc.co.uk/sport/0/football/29289927 |accessdate=1 October 2014 |publisher=BBC Sport |date=27 September 2014}}&lt;/ref&gt; On 30 November, Mangala was sent off for two yellow cards in City's 3–0 win away to [[Southampton F.C.|Southampton]].&lt;ref&gt;{{cite news |last1=Jurejko |first1=Jonathan |title=Southampton 0–3 Man City |url=https://www.bbc.co.uk/sport/0/football/30166197 |accessdate=30 November 2014 |publisher=BBC Sport |date=30 November 2014}}&lt;/ref&gt;
+
+====Valencia (loan)====
+On 31 August 2016, Mangala joined Spanish club [[Valencia CF|Valencia]] on a season-long loan.&lt;ref&gt;{{cite web |url=http://www.mancity.com/news/first-team/2016/08/31/eliaquim-mangala-joins-valencia-on-loan/1472633027775 |title=Mangala moves to Valencia on loan |publisher=Manchester City F.C. |date=31 August 2016 |accessdate=31 August 2016}}&lt;/ref&gt; He made his debut for the ''Che'' on 11 September, starting alongside fellow newcomer [[Ezequiel Garay]] in a 3–2 home loss to [[Real Betis]].&lt;ref&gt;{{cite news |title=Final de traca en Mestalla |url=http://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_3/val_bet/ |newspaper=Marca |location=Madrid |accessdate=5 September 2017 |date=11 September 2016 |language=Spanish}}&lt;/ref&gt; On 28 February 2017, he scored his first goal to defeat [[CD Leganés|Leganés]] at [[Mestalla]],&lt;ref&gt;{{cite news |title=La Liga round-up: Eliaquim Mangala nets rare goal in Valencia win |url=http://www.skysports.com/football/news/12040/10785892/la-liga-round-up-eliaquim-mangala-nets-rare-goal-in-valencia-win |accessdate=5 September 2017 |publisher=Sky Sports |date=28 February 2017}}&lt;/ref&gt; and on 19 March he headed the opening goal of a 4–2 away loss at [[FC Barcelona]] in which he was sent off for pulling at [[Luis Suárez]] in the penalty area.&lt;ref&gt;{{cite news |last1=Creek |first1=Stephen |title=BARCELONA 4 VALENCIA 2: MESSI DOUBLE HELPS TO SEE OFF 10-MAN VALENCIA |url=http://www.goal.com/en-in/match/barcelona-v-valencia/9hsq6m3qf2i3q60jap4x1hg4p |accessdate=5 September 2017 |website=Goal.com |publisher=Perform Group |date=19 March 2017}}&lt;/ref&gt;
+
+====Everton (loan)====
+Mangala joined Premier League club [[Everton F.C.|Everton]] on loan on 31 January 2018.&lt;ref&gt;{{cite news |title=Eliaquim Mangala: Everton sign Manchester City defender on loan |url=https://www.bbc.co.uk/sport/football/42897518 |publisher=BBC Sport |accessdate=1 February 2018 |date=1 February 2018}}&lt;/ref&gt; He made his debut against [[Crystal Palace F.C.|Crystal Palace]] but was forced off at half-time with a knee injury. He later underwent surgery and was ruled out for the remainder of the season.&lt;ref&gt;{{cite news |url=https://www.liverpoolecho.co.uk/sport/football/loan-everton-defender-eliaquim-mangala-14351465 |title=On-loan Everton defender Eliaquim Mangala undergoes successful knee surgery |newspaper=Liverpool Echo |last=Gorst |first=Paul |date=28 February 2018 |accessdate=2 March 2017}}&lt;/ref&gt;
+
+==International career==
+[[File:Néry, Ahamada, and Mangala.jpg|thumb|upright|Mangala lining up as the captain of [[France national under-21 football team|France U21]] in 2011]]
+
+Due to being raised in Belgium, Mangala did not feature with any of [[France national youth football team|France's youth football teams]]. In 2008, he was approached by the [[Royal Belgian Football Association]] who called the player up to the country's under-18 national team. However, due to not possessing a passport at the time, the call up was deemed futile. After excelling with Standard Liège's senior team, Mangala drew the interest of the [[French Football Federation]] with [[France national under-21 football team|France under-21]] manager [[Erick Mombaerts]] attending a match between Liège and [[R.E. Mouscron|Mouscron]] at the [[Stade Le Canonnier]] in November.&lt;ref&gt;{{cite web |url=http://www.fff.fr/selections/espoirs/actualite/531061.shtml |publisher=French Football Federation |title=Angleterre et Belgique |language=French |date=28 October 2009 |accessdate=28 December 2010}}&lt;/ref&gt; On 5 November 2009, Mangala was selected, for the first time, to the under-21 team for a [[Exhibition game#Association football|friendly]] match against [[Tunisia national under-21 football team|Tunisia]] on 13 November and a [[2011 UEFA European Under-21 Championship qualification]] match against [[Slovenia national under-21 football team|Slovenia]] on 17 November. Mangala made his under-21 debut in the Tunisia match, but missed the match against Slovenia after withdrawing from the team due to an injury suffered the previous day in training. On 2 March 2010, he earned his second straight selection to the under-21 team and started in central defence alongside [[Captain (association football)|captain]] [[Mamadou Sakho]] in the team's 3–1 win over [[Croatia national under-21 football team|Croatia]].{{citation needed|date=January 2019}}
+
+Mangala made his debut with the [[France national football team|France senior team]] in a 1–0 loss to [[Uruguay national football team|Uruguay]] on 6 June 2013.&lt;ref&gt;{{cite news |url=http://www.eliaquim-mangala.com/en/component/content/article/28-mangala/137-france-under-21s-career |title=France career |accessdate=13 July 2014 |website=Eliaquim Mangala |archiveurl=https://web.archive.org/web/20150923235421/http://www.eliaquim-mangala.com/en/component/content/article/28-mangala/137-france-under-21s-career |archivedate=23 September 2015 |deadurl=yes}}&lt;/ref&gt; He was included in France's squad for the [[2014 FIFA World Cup]] but did not make an appearance during the tournament, in which ''Les Bleus'' reached the quarter-finals.&lt;ref&gt;{{cite news |url=http://www.eliaquim-mangala.com/en/component/content/article/28-mangala/137-france-under-21s-career |title=Eliaquim Mangala: Man City in advanced talks for Porto defender |date=12 July 2014 |accessdate=13 July 2014 |website=Eliaquim Mangala |archiveurl=https://web.archive.org/web/20150923235421/http://www.eliaquim-mangala.com/en/component/content/article/28-mangala/137-france-under-21s-career |archivedate=23 September 2015 |deadurl=yes}}&lt;/ref&gt;
+
+Mangala was also included in France's squad that finished runners-up at [[UEFA Euro 2016]] on home soil. He made one appearance in the quarter-finals on 3 July, replacing [[Laurent Koscielny]] for the final 18 minutes of a 5–2 win over [[Iceland national football team|Iceland]] at the [[Stade de France]].&lt;ref&gt;{{cite news |last1=Fletcher |first1=Paul |title=France 5–2 Iceland |url=https://www.bbc.com/sport/football/36632457 |accessdate=5 September 2017 |publisher=BBC Sport |date=3 July 2016}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 10 February 2018}}&lt;ref name="SW"&gt;{{cite web |title=E. Mangala |url=https://int.soccerway.com/players/eliaquim-mangala/68177/ |website=Soccerway |publisher=Perform Group |accessdate=28 January 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4" valign="center"|[[Standard Liège]]
+|[[2008–09 Belgian First Division|2008–09]]
+|[[Belgian First Division]]
+|11||0||0||0||colspan="2"|—||3||0||0||0||14||0
+|-
+|[[2009–10 Belgian Pro League|2009–10]]
+|rowspan="2"|[[Belgian Pro League]]
+|31||1||3||0||colspan="2"|—||11||1||1||0||46||2
+|-
+|[[2010–11 Belgian Pro League|2010–11]]
+|35||1||5||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||40||2
+|-
+!colspan="2"|Total
+!77!!2!!8!!1!!colspan="2"|—!!14!!1!!1!!0!!100!!4
+|-
+|rowspan="4" valign="center"|[[FC Porto|Porto]]
+|[[2011–12 FC Porto season|2011–12]]
+|rowspan="3"|[[Primeira Liga]]
+|7||0||1||0||4||1||2||0||colspan="2"|—||14||1
+|-
+|[[2012–13 FC Porto season|2012–13]]
+|23||4||2||2||5||1||8||0||1||0||39||7
+|-
+|[[2013–14 FC Porto season|2013–14]]
+|21||2||4||0||4||0||12||3||1||0||42||5
+|-
+!colspan="2"|Total
+!51!!6!!7!!2!!13!!2!!22!!3!!2!!0!!95!!13
+|-
+|rowspan="4" valign="center" |[[Manchester City F.C.|Manchester City]]
+|[[2014–15 Manchester City F.C. season|2014–15]]
+|rowspan=3|[[Premier League]]
+|25||0||1||0||2||0||3||0||0||0||31||0
+|-
+|[[2015–16 Manchester City F.C. season|2015–16]]
+|23||0||0||0||3||0||7||0||colspan="2"|—||33||0
+|-
+|[[2017–18 Manchester City F.C. season|2017–18]]
+|9||0||0||0||4||0||2||0||colspan="2"|—||15||0
+|-
+!colspan="2"|Total
+!57!!0!!1!!0!!9!!0!!12!!0!!0!!0!!79!!0
+|-
+|[[Valencia CF|Valencia]] (loan)
+||[[2016–17 Valencia CF season|2016–17]]
+|[[La Liga]]
+|30||2||3||0||colspan="2"|—||1||0||colspan="2"|—||34||2
+|-
+|[[Everton F.C.|Everton]] (loan)
+||[[2017–18 Everton F.C. season|2017–18]]
+|Premier League
+|2||0||0||0||colspan="2"|—|| colspan="2" |—|| colspan="2" |—||2||0
+|-
+!colspan="3"|Career total
+!217!!10!!19!!3!!22!!2!!49!!4!!3!!0!!310!!19
+|}
+
+==Honours==
+'''Standard Liège&lt;ref name="MCOP"/&gt;
+*[[Belgian First Division]]: [[2008–09 Belgian First Division|2008–09]]
+*[[Belgian Cup]]: [[2010–11 Belgian Cup|2010–11]]
+*[[Belgian Super Cup]]: [[2009 Belgian Super Cup|2009]]
+
+'''Porto'''&lt;ref name="MCOP"&gt;{{cite web |url=https://www.mancity.com/eliaquim-mangala#profile-bio |title=Eliaquim Mangala – Player Bio |publisher=Manchester City F.C. |accessdate=28 January 2018}}&lt;/ref&gt;
+*[[Primeira Liga]]: [[2011–12 Primeira Liga|2011–12]], [[2012–13 Primeira Liga|2012–13]]
+*[[Supertaça Cândido de Oliveira]]: [[2012 Supertaça Cândido de Oliveira|2012]], [[2013 Supertaça Cândido de Oliveira|2013]]
+
+'''Manchester City'''
+*[[Premier League]]: [[2017–18 Premier League|2017–18]]&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/5334/Eliaquim-Mangala/overview |title=Eliaquim Mangala: Overview |publisher=Premier League |accessdate=15 May 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*[[O Jogo]] Team of the Year: 2013
+*[[UEFA Europa League]] Squad of the season: [[2013–14 UEFA Europa League|2013–14]]&lt;ref&gt;{{cite web |url=http://www.uefa.com/uefaeuropaleague/news/newsid=2112220.html |title=UEFA Europa League squad of the season |publisher=UEFA |date=3 June 2014 |accessdate=3 June 2014}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Official website|http://eliaquim-mangala.com}}
+*{{Soccerbase}}
+
+{{Navboxes
+| title = France squads
+| bg = #002395
+| fg = white
+| bordercolor = #ED2939
+| list1 = 
+{{France squad 2014 FIFA World Cup}}
+{{France squad UEFA Euro 2016}}
+}}
+{{Manchester City F.C. squad}}
+
+{{DEFAULTSORT:Mangala, Eliaquim}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:People from Colombes]]
+[[Category:Sportspeople from Hauts-de-Seine]]
+[[Category:French footballers]]
+[[Category:France under-21 international footballers]]
+[[Category:France international footballers]]
+[[Category:Association football defenders]]
+[[Category:UR Namur players]]
+[[Category:Standard Liège players]]
+[[Category:FC Porto players]]
+[[Category:FC Porto B players]]
+[[Category:Manchester City F.C. players]]
+[[Category:Valencia CF players]]
+[[Category:Everton F.C. players]]
+[[Category:Belgian First Division A players]]
+[[Category:Primeira Liga players]]
+[[Category:LigaPro players]]
+[[Category:Premier League players]]
+[[Category:La Liga players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:French expatriate footballers]]
+[[Category:Expatriate footballers in Belgium]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Portugal]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:French expatriate sportspeople in Belgium]]
+[[Category:French expatriate sportspeople in England]]
+[[Category:French expatriate sportspeople in Portugal]]
+[[Category:French expatriate sportspeople in Spain]]
+[[Category:Black French sportspeople]]
+[[Category:French people of Democratic Republic of the Congo descent]]</text>
+      <sha1>omlivtszaewhtfm21dp7byzk4vwowig</sha1>
+    </revision>
+  </page>
+</mediawiki>

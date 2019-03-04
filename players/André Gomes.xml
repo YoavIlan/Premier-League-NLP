@@ -1,0 +1,311 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>André Gomes</title>
+    <ns>0</ns>
+    <id>36625611</id>
+    <revision>
+      <id>885347516</id>
+      <parentid>883413928</parentid>
+      <timestamp>2019-02-27T13:23:31Z</timestamp>
+      <contributor>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29409">{{Use dmy dates|date=January 2018}}
+{{Portuguese name|Tavares|Gomes}}
+{{Infobox football biography
+| name = André Gomes
+| image = André Filipe Tavares Gomes.jpg
+| image_size = 
+| caption = Gomes with [[Portugal national football team|Portugal]] in 2017
+| fullname = André Filipe Tavares Gomes&lt;ref name=FIFA&gt;{{cite web|url=http://tournament.fifadata.com/documents/FCC/2017/PDF/FCC_2017_SQUADLISTS.PDF|title=FIFA Confederations Cup Russia 2017: List of players: Portugal|publisher=FIFA|page=7|format=PDF|date=20 March 2018|accessdate=29 March 2018|archive-url=https://web.archive.org/web/20170724170755/http://tournament.fifadata.com/documents/FCC/2017/PDF/FCC_2017_SQUADLISTS.PDF|archive-date=24 July 2017|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1993|7|30|df=y}}&lt;ref name=FIFA/&gt;
+| birth_place = [[Grijó (Vila Nova de Gaia)|Grijó]], Portugal
+| height = 1.88 m&lt;ref name=FIFA/&gt;
+| position = [[Midfielder#Central midfielder|Central midfielder]]
+| currentclub = [[Everton F.C.|Everton]]&lt;br&gt;(on loan from [[FC Barcelona|Barcelona]])
+| clubnumber = 8
+| youthyears1 = 2005–2008 | youthclubs1 = [[FC Porto|Porto]]
+| youthyears2 = 2008–2009 | youthclubs2 = Pasteleira
+| youthyears3 = 2009–2011 | youthclubs3 = [[Boavista F.C.|Boavista]]
+| youthyears4 = 2011–2012 | youthclubs4 = [[S.L. Benfica|Benfica]]
+| years1 = 2012–2014 | clubs1 = [[S.L. Benfica B|Benfica B]] | caps1 = 17 | goals1 = 8
+| years2 = 2012–2015 | clubs2 = [[S.L. Benfica|Benfica]] | caps2 = 14 | goals2 = 2
+| years3 = 2014–2015 | clubs3 = → [[Valencia CF|Valencia]] (loan) | caps3 = 33 | goals3 = 4
+| years4 = 2015–2016 | clubs4 = [[Valencia CF|Valencia]] | caps4 = 30 | goals4 = 3
+| years5 = 2016– | clubs5 = [[FC Barcelona|Barcelona]] | caps5 = 46 | goals5 = 3
+| years6 = 2018– | clubs6 = → [[Everton F.C.|Everton]] (loan) | caps6 = 20 | goals6 = 1
+| nationalyears1 = 2010 | nationalteam1 = [[Portugal national under-17 football team|Portugal U17]] | nationalcaps1 = 2 | nationalgoals1 = 0
+| nationalyears2 = 2010–2011 | nationalteam2 = [[Portugal national under-18 football team|Portugal U18]] | nationalcaps2 = 6 | nationalgoals2 = 1
+| nationalyears3 = 2011–2012 | nationalteam3 = [[Portugal national under-19 football team|Portugal U19]] | nationalcaps3 = 9 | nationalgoals3 = 3
+| nationalyears4 = 2012–2013 | nationalteam4 = [[Portugal national under-20 football team|Portugal U20]] | nationalcaps4 = 14 | nationalgoals4 = 1
+| nationalyears5 = 2013–2014 | nationalteam5 = [[Portugal national under-21 football team|Portugal U21]] | nationalcaps5 = 6 | nationalgoals5 = 1
+| nationalyears6 = 2014– | nationalteam6 = [[Portugal national football team|Portugal]] | nationalcaps6 = 29 | nationalgoals6 = 0
+| club-update = 13:23, 27 February 2019 (UTC)
+| nationalteam-update = 26 March 2018
+| medaltemplates =
+{{medalCountry|[[Portugal national football team|Portugal]]}}
+{{medal|W|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2016|2016]]}}
+{{medal|3rd|[[FIFA Confederations Cup|Confederations Cup]]|[[2017 FIFA Confederations Cup|2017]]}}
+}}
+'''André Filipe Tavares Gomes''' ({{IPA-pt|ɐ̃ˈdɾɛ ˈɡomɨʃ}}; born 30 July 1993) is a Portuguese professional [[Association football|footballer]] who plays as a [[Midfielder#Central midfielder|central midfielder]] for English club [[Everton F.C.|Everton]], on loan from [[FC Barcelona|Barcelona]], and the [[Portugal national football team|Portugal national team]].
+
+He played three years at [[S.L. Benfica|Benfica]], where he won [[Treble (association football)|the domestic treble]] in the [[2013–14 S.L. Benfica season|2013–14 season]]. In July 2014 he joined [[Valencia CF|Valencia]] and, two years later, signed with [[FC Barcelona|Barcelona]] also in the Spanish [[La Liga]].
+
+Gomes earned 37 [[Cap (sport)|caps]] for Portugal all youth levels accounted for, including six for [[Portugal national under-21 football team|the under-21s]]. He represented the nation at [[UEFA Euro 2016|Euro 2016]] – winning the tournament – and the [[2017 FIFA Confederations Cup|2017 Confederations Cup]].
+
+==Club career==
+
+===Benfica===
+Born in [[Grijó (Vila Nova de Gaia)|Grijó]], [[Vila Nova de Gaia]], [[Porto District]], Gomes joined [[S.L. Benfica]]'s youth system at the age of 18, playing his last year as a junior with the [[Lisbon]] club. On 28 July 2012 he appeared in his first game with the first team, in a [[Exhibition game|friendly]] with [[Gil Vicente F.C.|Gil Vicente]],&lt;ref&gt;{{cite news|url=https://www.ojogo.pt/emdirecto/1a-liga/interior/em-diretonova-chapa-cinco-2692004.html|title=Nova chapa cinco|trans-title=Another fiver|newspaper=[[O Jogo]]|language=pt|date=28 July 2012|accessdate=4 August 2012}}&lt;/ref&gt; and spent [[2012–13 Segunda Liga|his first season]] as a senior with [[S.L. Benfica B|the reserve side]], competing in the [[Segunda Liga|second division]].
+
+Gomes scored his first goals with Benfica B in league matches against [[S.C. Braga B|Braga B]] (2–2 home draw)&lt;ref&gt;{{cite news|url=http://www.record.pt/futebol/futebol-nacional/2--liga/detalhe/benfica-b-sp-braga-b-2-2-andre-gomes-da-empate-nos-descontos-772861.html|title=Benfica B-Sp. Braga B, 2–2: André Gomes dá empate nos descontos|trans-title=Benfica B-Sp. Braga B, 2–2: André Gomes for the draw in injury time|newspaper=[[Record (newspaper)|Record]]|language=pt|date=11 August 2012|accessdate=14 February 2014}}&lt;/ref&gt; and [[C.F. Os Belenenses|Belenenses]] (6–0, also at home).&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/futebol/futebol-nacional/2--liga/detalhe/benfica-b-belenenses-goleada-na-luz-6-0-775375.html|title=Benfica B-Belenenses: Goleada na Luz (6–0)|trans-title=Benfica B-Belenenses: Routing at the Luz (6–0)|newspaper=Record|language=pt|date=27 August 2012|accessdate=19 January 2016}}&lt;/ref&gt; On 18 October 2012, he made his official debut with the main squad, playing 25 minutes after coming on as a [[Substitute (association football)|substitute]] for [[Eduardo Salvio]] and netting in a [[2012–13 Taça de Portugal|4–0 win]] at [[S.C. Freamunde|Freamunde]], for the [[Taça de Portugal]].&lt;ref&gt;{{cite web|url=http://portugoal.net/index.php/more-benfica-news/37338-taca-benfica-cruise-past-freamunde |title=Taça: Benfica cruise past Freamunde|publisher=PortuGOAL|date=18 October 2012|accessdate=19 October 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20140222015706/http://portugoal.net/index.php/more-benfica-news/37338-taca-benfica-cruise-past-freamunde|archivedate=22 February 2014|df=}}&lt;/ref&gt;
+
+Gomes' momentum in Benfica's first team continued on 27 October 2012, as he started and scored in a 3–0 away win over Gil Vicente in his first [[Primeira Liga]] appearance.&lt;ref&gt;{{cite web|url=http://www.portugoal.net/index.php/more-benfica-news/37563-new-look-benfica-return-to-table-top|title=New-look Benfica return to table top|publisher=PortuGOAL|date=28 October 2012|accessdate=28 October 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20140222013703/http://www.portugoal.net/index.php/more-benfica-news/37563-new-look-benfica-return-to-table-top|archivedate=22 February 2014|df=}}&lt;/ref&gt; He continued, however, to be mainly associated with the B-team.
+
+On 31 January 2014, Benfica (and [[Benfica Stars Fund]]) sold 100% of Gomes' economic rights to a private company, Meriton Capital Limited, for €15&amp;nbsp;million, plus 25% of a future transfer fee.&lt;ref&gt;{{cite web|url=http://web3.cmvm.pt/sdi2004/emitentes/docs/fsd29830.pdf|title=Comunicado|trans-title=Announcement|publisher=[[Portuguese Securities Market Commission]]|language=pt|date=3 April 2014|accessdate=5 September 2014}}&lt;/ref&gt; He remained at the [[Estádio da Luz]] until the end of [[2013–14 S.L. Benfica season|the campaign]].&lt;ref&gt;{{cite web|url=http://www.soccernews.com/benfica-cash-rodrigo-andre-gomes/137317/|title=Benfica cash in on Rodrigo, Andre Gomes|publisher=Soccer News|last=Lazarevic|first=Nemanja|date=1 February 2014|accessdate=9 February 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.maisfutebol.iol.pt/peter-lim-benfica-andre-gomes-rodrigo/52ec4a94e4b0cbb7a075f5d0.html|title=Peter Lim, o homem que comprou os passes de Rodrigo e André Gomes|trans-title=Peter Lim, the men who bought the rights for Rodrigo and André Gomes|publisher=Mais Futebol|language=pt|date=1 February 2014|accessdate=19 August 2014}}&lt;/ref&gt;
+
+On 16 April 2014, Gomes played the full 90 minutes in the second leg of the semi-finals of the [[2013–14 Taça de Portugal|Portuguese Cup]], scoring the final 3–1 after a brilliant individual effort to help his team – who played with one man less for 60 minutes against [[FC Porto|Porto]] – win the tie 3–2 on aggregate.&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-2606506/Benfica-3-1-Porto-agg-3-2-Match-report-Andre-Gomes-books-Eagles-Portuguese-Cup-final-place-Jorge-Jesus-Ricardo-Quaresma-red-fans-invade-pitch-stormy-clash.html|title=Benfica 3–1 Porto (agg 3–2): Andre Gomes books Eagles' Portuguese Cup final place as Jorge Jesus and Ricardo Quaresma see red and fans invade pitch in stormy clash|newspaper=[[Daily Mail]]|last=Homewood|first=Brian|date=16 April 2014|access-date=4 June 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.marca.com/2014/04/17/futbol/futbol_internacional/1397687122.html|title=El Benfica remonta y pasa a la final de Copa|trans-title=Benfica come back from behind and reach Cup final|newspaper=[[Marca (newspaper)|Marca]]|language=es|date=17 April 2014|accessdate=17 April 2014}}&lt;/ref&gt; He ended [[2013–14 Primeira Liga|the season]] with 23 games all competitions comprised, helping the club win the first [[Treble (association football)|treble]] in its history (league, cup and [[2013–14 Taça da Liga|Taça da Liga]]).
+
+===Valencia===
+On 17 July 2014, Gomes agreed to a one-season loan deal with [[Valencia CF|Valencia]],&lt;ref&gt;{{cite web|url=http://www.valenciacf.com/ver/36381/comunicado-oficial-del-valencia-cf.html|title=Comunicado oficial|trans-title=Official announcement|publisher=Valencia CF|language=es|date=17 July 2014|accessdate=19 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/Futebol/Internacional/espanha/interior.aspx?content_id=895137|title=Valencia regista André Gomes como emprestado pelo Benfica|trans-title=Valencia register André Gomes as loaned by Benfica|newspaper=Record|language=pt|date=17 July 2014|accessdate=19 July 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140720002942/http://www.record.xl.pt/Futebol/Internacional/espanha/interior.aspx?content_id=895137|archivedate=20 July 2014|df=dmy-all}}&lt;/ref&gt; joining a host of compatriots including manager [[Nuno Espírito Santo]]. Although his economic rights were owned by [[Peter Lim]], a loan deal was arranged to take him and [[Rodrigo (footballer, born 1991)|Rodrigo]] to the Spanish club due to Lim's purchase of the latter.&lt;ref&gt;{{cite web|url=https://rr.sapo.pt/bolabranca_detalhe.aspx?fid=47&amp;did=155784|title=Valência procura "forma jurídica" para levar Rodrigo e André Gomes|trans-title=Valencia look for "legal way" to take Rodrigo and André Gomes|publisher=[[Rádio Renascença]]|language=pt|date=15 July 2014|accessdate=19 August 2014}}&lt;/ref&gt;
+
+Gomes made his [[La Liga]] debut on 23 August 2014, starting in a 1–1 away draw against [[Sevilla FC|Sevilla]].&lt;ref&gt;{{cite news|url=http://www.marca.com/eventos/marcador/futbol/2014_15/primera/jornada_1/sev_val/|title=Punto de fe del Valencia|trans-title=Valencia point of faith|newspaper=Marca|last=Campos|first=Tomás|location=Madrid|language=es|date=23 August 2014|accessdate=3 September 2014}}&lt;/ref&gt; He scored his first goal in the competition on 22 September, netting the second of a 3–0 away win over [[Getafe CF|Getafe]].&lt;ref&gt;{{cite news|url=http://www.marca.com/eventos/marcador/futbol/2014_15/primera/jornada_4/get_val/|title=El naranja pinta muy bien|trans-title=Orange is such a great colour|newspaper=Marca|last=Melero|first=Delfín|location=Madrid|language=es|date=22 September 2014|accessdate=19 January 2016}}&lt;/ref&gt;
+
+On 12 June 2015, Benfica and Valencia announced they had reached an agreement on Gomes' federative rights. Subsequently, he signed a contract with the Spaniards until 30 June 2020.&lt;ref&gt;{{cite web|url=http://web3.cmvm.pt/sdi/emitentes/docs/FR56142.pdf|title=Comunicado|trans-title=Announcement|publisher=Portuguese Securities Market Commission|language=pt|date=12 June 2015|access-date=12 June 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://en.valenciacf.com/ver/41501/comunicado-oficial---andre-gomes.html|title=André Gomes joins Valencia CF on a permanent deal through to 2020|publisher=Valencia CF|date=12 June 2015|access-date=12 June 2015}}&lt;/ref&gt;
+
+===Barcelona===
+On 21 July 2016, [[FC Barcelona|Barcelona]] announced they had reached an agreement with Valencia for the transfer of Gomes,&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/36862314|title=Andre Gomes: Barcelona agree deal to sign Valencia midfielder|publisher=[[BBC Sport]]|date=21 July 2016|access-date=21 July 2016}}&lt;/ref&gt; for a fee of €35&amp;nbsp;million, plus €20&amp;nbsp;million in add-ons.&lt;ref&gt;{{cite news|url=https://www.mirror.co.uk/sport/football/transfer-news/barcelona-sign-andre-gomes-valencia-8473083|title=Barcelona to sign Andre Gomes from Valencia after 'agreeing €55million deal' for Portugal midfielder|newspaper=[[Daily Mirror]]|last=Corless|first=Liam|date=21 July 2016|access-date=24 July 2016}}&lt;/ref&gt; He made his competitive debut on 17 August, playing the full 90 minutes in a [[2016 Supercopa de España|3–0 home win]] against Sevilla for the [[Supercopa de España]] and being directly involved in two of the goals.&lt;ref name=Sport&gt;{{cite news|url=http://www.sport-english.com/en/news/barca/barcelona-3-0-sevilla-5-0-agg-arda-turan-and-leo-messi-seal-super-cup-win-5330613|title=Barcelona 3–0 Sevilla (5–0 agg): Arda Turan and Leo Messi seal Super Cup win|newspaper=[[Sport (Spanish newspaper)|Sport]]|last=Sharma|first=Rik|date=18 August 2016|access-date=18 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.sport.es/es/noticias/barca/andre-gomes-marcaje-5330468|title=André Gomes se 'disfrazó' de Iniesta participando en dos goles|trans-title=André Gomes 'disguised' as Iniesta by taking part in two goals|newspaper=Sport|last=López|first=Ricard|language=es|date=18 August 2016|access-date=18 August 2016}}&lt;/ref&gt;
+
+Gomes scored his first goal for the team on 19 March 2017, closing a 4–2 home win against his former club Valencia.&lt;ref&gt;{{cite news|url=http://www.sport-english.com/en/news/barca/andre-gomes-scores-his-first-goal-for-barcelona-against-his-former-club-5910749|title=Andre Gomes scores his first goal for Barcelona... against his former club|newspaper=Sport|date=19 March 2017|access-date=22 March 2017}}&lt;/ref&gt; He was voted the worst signing of [[2016–17 La Liga|the season]] by readers of ''[[Marca (newspaper)|Marca]]''.&lt;ref&gt;{{cite news|url=http://www.marca.com/futbol/primera-division/2017/05/24/59257eeae2704e78028b45da.html|title=Messi se cuela en LaLiga más blanca|trans-title=Messi sneaks into the whitest LaLiga|newspaper=Marca|last=Roca|first=Álvaro|location=Madrid|language=es|date=25 May 2017|access-date=25 May 2017}}&lt;/ref&gt; In [[2017 Copa del Rey Final|the final]] of the [[Copa del Rey]], however, he replaced injured [[Javier Mascherano]] early into the first half of the match against [[Deportivo Alavés|Alavés]], playing mostly as a [[Defender (association football)#Full-back|right back]] and providing the [[Assist (football)|assist]] for [[Neymar]] who netted the second in an eventual [[2016–17 Copa del Rey|3–1 triumph]].&lt;ref name=BBC&gt;{{cite web|url=https://www.bbc.com/sport/football/39909498|title=Barcelona 3–1 Alavés|publisher=BBC Sport|date=27 May 2017|accessdate=28 May 2017}}&lt;/ref&gt;
+
+On 9 August 2018, and even though he was nursing a leg injury sustained during pre-season,&lt;ref&gt;{{cite web|url=https://globoesporte.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/andre-gomes-desfalcara-o-barcelona-por-dois-meses-diz-radio.ghtml|title=André Gomes desfalcará o Barcelona por dois meses, diz rádio|trans-title=Barcelona to make do without André Gomes for two months, says radio|publisher=[[Rede Globo|Globo Esporte]]|language=pt|date=29 July 2018|accessdate=14 August 2018}}&lt;/ref&gt; Gomes moved to English club [[Everton F.C.|Everton]] on a [[2018–19 Premier League|season]]-long loan for a fee of €2.25 million.&lt;ref&gt;{{Cite web|url=https://www.fcbarcelona.com/football/first-team/news/2018-2019/agreement-with-everton-for-the-loan-of-andre-gomes-fcbarcelona|title=Agreement with Everton for the loan of André Gomes|publisher=FC Barcelona|date=9 August 2018|accessdate=9 August 2018}}&lt;/ref&gt; He made his [[Premier League]] debut on 21 October, playing 82 minutes in a 2–0 home win over [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45853586|title=Everton 2–0 Crystal Palace|publisher=BBC Sport|last=Jurejko|first=Jonathan|date=21 October 2018|accessdate=7 November 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.liverpoolecho.co.uk/sport/football/football-news/andre-gomes-everton-debut-impressive-15315463|title=Why Andre Gomes' Everton debut was so impressive as Marco Silva's attacking gamble pays off|newspaper=[[Liverpool Echo]]|last=Jones|first=Adam|date=21 October 2018|accessdate=25 November 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:Russia-Portugal CC2017 (5).jpg|thumb|Gomes playing against [[Russia national football team|Russia]] at the [[2017 FIFA Confederations Cup]]]]
+Gomes represented [[Portugal national under-19 football team|Portugal]] at the [[2012 UEFA European Under-19 Championship]].&lt;ref&gt;{{cite web|url=http://www.maisfutebol.iol.pt/seleccao/edgar-borges-convocatoria-portugal-europeu-sub-19/1354495-1194.html|title=Euro de sub-19: Sporting e Benfica em maioria nos convocados|trans-title=Under-19 Euro: Sporting and Benfica dominate squad|publisher=Mais Futebol|language=pt|date=11 June 2012|accessdate=4 August 2012}}&lt;/ref&gt; At the age of 19 he received his first call-up to [[Portugal national football team|the senior team]], for a friendly against [[Ecuador national football team|Ecuador]] on 6 February 2013,&lt;ref&gt;{{cite news|url=http://www.abola.pt/nnh/ver.aspx?id=380552|title="Jesus tem-me ensinado muita coisa" – André Gomes|trans-title="Jesus has taught me many things" – André Gomes|newspaper=[[A Bola]]|language=pt|date=4 February 2013|accessdate=4 February 2013|archive-url=https://web.archive.org/web/20130208011834/http://www.abola.pt/nnh/ver.aspx?id=380552|archive-date=8 February 2013|dead-url=yes|df=dmy-all}}&lt;/ref&gt; but remained unused in the 2–3 home loss.&lt;ref&gt;{{cite web|url=http://www.uefa.com/friendlies/season=2014/matches/round=2000374/match=2011317/postmatch/report/|title=Portugal succumb at home to Ecuador|publisher=UEFA|date=6 February 2013|accessdate=8 October 2015}}&lt;/ref&gt;
+
+Gomes made his full debut on 7 September 2014, starting and playing the full 90 minutes in a 0–1 loss to [[Albania national football team|Albania]] at the [[Estádio Municipal de Aveiro]] for the [[UEFA Euro 2016]] [[UEFA Euro 2016 qualification|qualifiers]].&lt;ref&gt;{{cite web|url=http://www.goal.com/en/match/portugal-vs-albania/1653150/report|title=Portugal 0–1 Albania: Seleccao stunned by Balaj beauty|publisher=[[Goal (website)|Goal]]|last=Balaj|first=Bekim|date=7 September 2014|accessdate=7 September 2014}}&lt;/ref&gt; He was selected for the squad that appeared in the finals in France,&lt;ref&gt;{{cite web|url=http://www.espnfc.com/portugal/story/2874983/new-bayern-munich-signing-renato-sanches-picked-for-portugal-squad|title=Portugal name Bayern Munich signing Renato Sanches for Euros squad|publisher=[[ESPN FC]]|date=17 May 2016|accessdate=14 June 2016}}&lt;/ref&gt; starting in their first game, a 1–1 draw to [[Iceland national football team|Iceland]] in [[Saint-Étienne]] where he provided the [[Assist (football)|assist]] to [[Nani]]'s goal before being replaced by [[Eder (Portuguese footballer)|Eder]] late into the second half.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017959/postmatch/report/index.html|title=Ice-cool Iceland claim Portugal point|publisher=UEFA|last=Burke|first=Chris|date=14 June 2016|accessdate=14 June 2016}}&lt;/ref&gt;
+
+Gomes also represented Portugal at the [[2017 FIFA Confederations Cup]] in [[Russia]],&lt;ref&gt;{{cite news|url=https://www.ojogo.pt/internacional/selecao/noticias/interior/direto--os-convocados-de-portugal-para-a-taca-das-confederacoes-8506152.html|title=Éder fica fora dos convocados, Beto e José Sá nas escolhas|trans-title=Éder out of squad, Beto and José Sá picked|newspaper=O Jogo|language=pt|date=25 May 2017|accessdate=18 September 2017}}&lt;/ref&gt; playing four times as they finished in third place.&lt;ref&gt;{{cite web|url=https://www.fifa.com/confederationscup/matches/round=274643/match=300334886/match-report.html#nosticky|title=Portugal come from behind to finish third|publisher=FIFA|date=2 July 2017|accessdate=15 September 2017}}&lt;/ref&gt; He was included in a preliminary 35-man squad for the [[2018 FIFA World Cup]],&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gb/amp/news/revealed-every-world-cup-2018-squad-23-man-preliminary-lists/oa0atsduflsv1nsf6oqk576rb|title=Revealed: Every World Cup 2018 squad – 23-man &amp; preliminary lists &amp; when will they be announced?|publisher=Goal|date=17 May 2018|accessdate=17 May 2018}}&lt;/ref&gt; but did not make the final cut.&lt;ref&gt;{{cite web|url=https://www.sbs.com.au/news/portugal-world-cup-squad|title=Nearly half Portugal's Euro squad to miss World Cup|publisher=[[Special Broadcasting Service]]|date=17 May 2018|accessdate=17 May 2018}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 26 February 2019}}&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/andre-gomes/245897/|title=André Gomes|publisher=Soccerway|accessdate=27 December 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+| rowspan="3"|[[S.L. Benfica B|Benfica B]]
+|[[2012–13 Segunda Liga|2012–13]]
+| rowspan="2"|[[Segunda Liga]]
+|9||3||colspan="8"|—||9||3
+|-
+|[[2013–14 Segunda Liga|2013–14]]
+|8||5||colspan="8"|—||8||5
+|-
+!colspan="2"|Total
+!17!!8!!colspan="8"|—!!17!!8
+|-
+| rowspan="3"|[[S.L. Benfica|Benfica]]
+|[[2012–13 S.L. Benfica season|2012–13]]
+|rowspan="2"|[[Primeira Liga]]
+|7||1||3||0||2||0||5&lt;ref group="lower-alpha"&gt;Two appearances in [[2012–13 UEFA Champions League|UEFA Champions League]], three appearances in [[2012–13 UEFA Europa League|UEFA Europa League]]&lt;/ref&gt;||0||colspan="2"|—||17||1
+|-
+|[[2013–14 S.L. Benfica season|2013–14]]
+|7||1||4||1||3||0||9&lt;ref group="lower-alpha"&gt;Two appearances in [[2013–14 UEFA Champions League|UEFA Champions League]], seven appearances in [[2013–14 UEFA Europa League|UEFA Europa League]]&lt;/ref&gt;||0||colspan="2"|—||23||2
+|-
+!colspan="2"|Total
+!14!!2!!7!!1!!5!!0!!14!!0!!colspan="2"|—!!40!!3
+|-
+| rowspan="3"|[[Valencia CF|Valencia]]
+|[[2014–15 La Liga|2014–15]]
+|rowspan="2"|[[La Liga]]
+|33||4||4||0||colspan="6"|—||37||4
+|-
+|[[2015–16 La Liga|2015–16]]
+|30||3||4||0||colspan="2"|—||7&lt;ref group="lower-alpha"&gt;Four appearances and one goal in [[2015–16 UEFA Champions League|UEFA Champions League]], three appearances and one goal in [[2015–16 UEFA Europa League|UEFA Europa League]]&lt;/ref&gt;||2||colspan="2"|—||41||5
+|-
+!colspan="2"|Total
+!63!!7!!8!!0!!colspan="2"|—!!7!!2!!colspan="2"|—!!78!!9
+|-
+| rowspan="3"|[[FC Barcelona|Barcelona]]
+|[[2016–17 FC Barcelona season|2016–17]]
+|rowspan="2"|La Liga
+|30||3||8||0||colspan="2"|—||8&lt;ref group="lower-alpha" name="UCL"&gt;Appearances in [[UEFA Champions League]]&lt;/ref&gt;||0||1&lt;ref group="lower-alpha" name="SDE"&gt;Appearances in [[Supercopa de España]]&lt;/ref&gt;||0||47||3
+|-
+|[[2017–18 FC Barcelona season|2017–18]]
+|16||0||5||0||colspan="2"|—||9&lt;ref group="lower-alpha" name="UCL"/&gt;||0||1&lt;ref group="lower-alpha" name="SDE"/&gt;||0||31||0
+|-
+!colspan="2"|Total
+!46!!3!!13!!0!!colspan="2"|—!!17!!0!!2!!0!!78!!3
+|-
+|[[Everton F.C.|Everton]] (loan)
+|[[2018–19 Everton F.C. season|2018–19]]
+|[[Premier League]]
+|20||1||2||0||colspan="2"|—||0||0||0||0||22||1
+|-
+!colspan="3"|Career total
+!160!!21!!30!!1!!5!!0!!38!!2!!2!!0!!235!!24
+|}
+'''Notes'''
+{{Reflist|group=lower-alpha}}
+
+===International===
+{{updated|match played 26 March 2018}}&lt;ref&gt;{{cite web|url=http://eu-football.info/_player.php?id=28805|title=André Gomes|publisher=European Football|accessdate=16 June 2016}}&lt;/ref&gt;
+{| class=wikitable style="text-align: center;"
+|-
+!National team!!Year!!Apps!!Goals
+|-
+| rowspan=5|[[Portugal national football team|Portugal]]
+| 2014 || 3 || 0
+|-
+| 2015 || 1 || 0
+|-
+| 2016 || 13 || 0
+|-
+| 2017 || 10 || 0
+|-
+| 2018 || 2 || 0
+|-
+!colspan=2|Total!!29!!0
+|}
+
+==Honours==
+===Club===
+'''Benfica'''
+* [[Primeira Liga]]: [[2013–14 Primeira Liga|2013–14]]
+* [[Taça de Portugal]]: [[2013–14 Taça de Portugal|2013–14]]
+* [[Taça da Liga]]: [[2013–14 Taça da Liga|2013–14]]
+* [[UEFA Europa League]]: Runner-up [[2012–13 UEFA Europa League|2012–13]], [[2013–14 UEFA Europa League|2013–14]]&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2014/matches/round=2000474/match=2012680/postmatch/report/index.html#spot+sevilla+leave+benfica+dreams+tatters|title=Spot-on Sevilla leave Benfica dreams in tatters|publisher=UEFA|date=14 May 2014|accessdate=15 May 2014}}&lt;/ref&gt;
+
+'''Barcelona'''
+* [[La Liga]]: [[2017–18 La Liga|2017–18]]
+* [[Copa del Rey]]: [[2016–17 Copa del Rey|2016–17]],&lt;ref name=BBC/&gt; [[2017–18 Copa del Rey|2017–18]]
+* [[Supercopa de España]]: [[2016 Supercopa de España|2016]]&lt;ref name=Sport/&gt;
+
+===International===
+'''Portugal'''
+* [[UEFA European Championship]]: [[UEFA Euro 2016|2016]]
+* [[FIFA Confederations Cup]]: Third place [[2017 FIFA Confederations Cup|2017]]&lt;ref&gt;{{cite web|url=http://www.tsf.pt/desporto/interior/portugal-tenta-o-terceiro-lugar-na-despedida-da-taca-das-confederacoes-8607365.html|title="Portugal fez uma prova excelente", diz Fernando Santos|trans-title="Portugal had an excellent tournament", Fernando Santos says|publisher=[[TSF (radio station)|TSF]]|language=pt|date=2 July 2017|accessdate=4 July 2017}}&lt;/ref&gt;
+
+===Individual===
+* [[UEFA European Under-19 Championship]] Team of the Tournament: [[2012 UEFA European Under-19 Championship#Team of the tournament|2012]]&lt;ref&gt;{{cite web|url=http://www.uefa.org/MultimediaFiles/Download/TechnicalReport/competitions/Under19/01/87/93/98/1879398_DOWNLOAD.pdf|title=Technical report|publisher=UEFA|page=13|format=PDF|accessdate=3 April 2018}}&lt;/ref&gt;
+* [[UEFA Europa League]]: Squad of the season [[2013–14 UEFA Europa League#Squad of the season|2013–14]]&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/news/newsid=2112220.html|title=UEFA Europa League squad of the season|publisher=UEFA|date=3 June 2014|accessdate=3 June 2014}}&lt;/ref&gt;
+
+===Orders===
+* [[File:POR_Ordem_do_Merito_Comendador_BAR.svg|60px]] Commander of the [[Order of Merit (Portugal)|Order of Merit]]&lt;ref&gt;{{cite news|url=https://www.dn.pt/desporto/euro-2016/interior/selecao-recebe-insignias-de-marcelo-no-porto-5356115.html|title=Seleção recebe insígnias de Marcelo no Porto|trans-title=National team receives insignia from Marcelo in Porto|newspaper=[[Diário de Notícias]]|language=pt|date=25 August 2016|accessdate=11 August 2017}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[https://www.fcbarcelona.com/football/first-team/staff/players/2017-2018/andre-gomes Barcelona official profile]
+*{{TheFinalBall}}
+*{{ForaDeJogo}}
+*{{BDFutbol|18139}}
+*{{Soccerbase}}
+*[https://www.fpf.pt/pt/Jogadores/Pesquisar-Jogadores-Internacionais/Andre-Gomes/contextId/172 National team data] {{pt icon}}
+*{{NFT player|56970}}
+*{{FIFA player|365634}}
+*{{UEFA player|250017709}}
+
+{{Everton F.C. squad}}
+&lt;!--{{FC Barcelona squad}}--&gt;
+{{Navboxes
+|title = Portugal squads
+|bg = #900020
+|fg = gold
+|bordercolor = #006600
+|list1 =
+{{Portugal squad UEFA Euro 2016}}
+{{Portugal squad 2017 FIFA Confederations Cup}}
+}}
+
+{{DEFAULTSORT:Gomes, Andre}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Vila Nova de Gaia]]
+[[Category:Portuguese footballers]]
+[[Category:Association football midfielders]]
+[[Category:Primeira Liga players]]
+[[Category:LigaPro players]]
+[[Category:S.L. Benfica B players]]
+[[Category:S.L. Benfica footballers]]
+[[Category:La Liga players]]
+[[Category:Valencia CF players]]
+[[Category:FC Barcelona players]]
+[[Category:Premier League players]]
+[[Category:Everton F.C. players]]
+[[Category:Portugal youth international footballers]]
+[[Category:Portugal under-21 international footballers]]
+[[Category:Portugal international footballers]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:UEFA European Championship-winning players]]
+[[Category:2017 FIFA Confederations Cup players]]
+[[Category:Portuguese expatriate footballers]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Expatriate footballers in England]]
+[[Category:Portuguese expatriate sportspeople in Spain]]
+[[Category:Portuguese expatriate sportspeople in England]]
+[[Category:Commanders of the Order of Merit (Portugal)]]</text>
+      <sha1>2vvyej6znn2cyybop5qwfgqnzaqov6t</sha1>
+    </revision>
+  </page>
+</mediawiki>

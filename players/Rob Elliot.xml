@@ -1,0 +1,331 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rob Elliot</title>
+    <ns>0</ns>
+    <id>4306597</id>
+    <revision>
+      <id>881710595</id>
+      <parentid>881710263</parentid>
+      <timestamp>2019-02-04T09:13:22Z</timestamp>
+      <contributor>
+        <ip>77.108.140.14</ip>
+      </contributor>
+      <comment>/* Club */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19980">{{Distinguish|Rob Elliott|Robbie Elliott}}
+{{Use British English|date=August 2017}}
+{{Use dmy dates|date=December 2017}}
+&lt;!--HE HAS HAD TWO DIFFERENT LOAN PERIODS AT ACCRINGTON, PLEASE DO NOT COMBINE THESE--&gt;
+{{Infobox football biography
+| name          = Rob Elliot
+| image         = Rob Elliot.jpg
+| image_size    = 200
+| caption       = Elliot with [[Newcastle United F.C.|Newcastle United]] in 2013
+| fullname      = Robert Elliot&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=15 February 2018}}&lt;/ref&gt;
+| birth_date    = {{birth date and age|1986|4|30|df=y}}&lt;ref name="Hugman2010/11"&gt;{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |location=Edinburgh |isbn=978-1-84596-601-0 |page= 137}}&lt;/ref&gt;
+| birth_place   = [[Greenwich]], England
+| height        = 1.90 m&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/2214/Robert-Elliot/overview |title=Robert Elliot |publisher=Premier League |accessdate=27 August 2017}}&lt;/ref&gt;
+| position      = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub   = [[Newcastle United F.C.|Newcastle United]]
+| clubnumber    = 1
+| youthyears1   = |youthclubs1 = [[Erith Town F.C.|Erith Town]]
+| youthyears2   = |youthclubs2 = [[Charlton Athletic F.C. Academy|Charlton Athletic]]
+| years1 = 2004–2011 |clubs1 = [[Charlton Athletic F.C.|Charlton Athletic]]            |caps1 = 96 |goals1 = 0
+| years2 = 2004      |clubs2 = → [[Bishop's Stortford F.C.|Bishop's Stortford]] (loan) |caps2 = 6  |goals2 = 0
+| years3 = 2005      |clubs3 = → [[Notts County F.C.|Notts County]] (loan)             |caps3 = 4  |goals3 = 0
+| years4 = 2005–2006 |clubs4 = → [[Accrington Stanley F.C.|Accrington Stanley]] (loan) |caps4 = 23 |goals4 = 0
+| years5 = 2006–2007 |clubs5 = → [[Accrington Stanley F.C.|Accrington Stanley]] (loan) |caps5 = 7  |goals5 = 0
+| years6 = 2011–     |clubs6 = [[Newcastle United F.C.|Newcastle United]]              |caps6 = 55 |goals6 = 0&lt;!-- LEAGUE GAMES ONLY - When you update this parameter, please update the club-update parameter! --&gt;
+| nationalyears1 = 2004
+| nationalteam1  = [[Republic of Ireland national under-19 football team|Republic of Ireland U19]]
+| nationalcaps1  = 1
+| nationalgoals1 = 0
+| nationalyears2 = 2014– 
+| nationalteam2  = [[Republic of Ireland national football team|Republic of Ireland]]
+| nationalcaps2  = 4
+| nationalgoals2 = 0
+| club-update     = 21:38, 27 December 2017 (UTC)
+| nationalteam-update = 21:38, 27 August 2017 (UTC)
+}}
+'''Robert Elliot''' (born 30 April 1986) is a professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Premier League]] club [[Newcastle United F.C.|Newcastle United]] and the [[Republic of Ireland national football team|Republic of Ireland national team]].
+
+Elliot began his career with [[Erith Town F.C.|Erith Town]], before joining [[Charlton Athletic F.C.|Charlton Athletic]]'s [[Charlton Athletic F.C. Academy|academy side]]. Whilst at Charlton, he was sent out on loan to [[Bishop's Stortford F.C.|Bishop's Stortford]] and [[Notts County F.C.|Notts County]], and also spent two loan spells at [[Accrington Stanley F.C.|Accrington Stanley]], where he was nicknamed "The Dilsh". He would then go on to be Charlton's first choice goalkeeper for a number of seasons, until he joined Newcastle United on transfer deadline day in the summer of 2011. Signed mainly as a back-up to [[Tim Krul]], he featured for the club sporadically, but became first choice in the [[2015–16 Premier League|2015–16 season]] after Krul suffered a season-ending injury.
+
+Through the origins of his father's family, Elliot became eligible to represent the Republic of Ireland national football team, and was first called up in 2013, making his debut the following year.
+
+==Career==
+===Charlton Athletic===
+Born in [[Greenwich]], London,&lt;ref&gt;{{Hugman|5864|accessdate=27 August 2017}}&lt;/ref&gt; Elliot began his career with [[Non-league football|non-League]] side [[Erith Town F.C.|Erith Town]] before moving to [[Charlton Athletic F.C.|Charlton Athletic]], the team he had supported as a child, when he was 17. After becoming a professional player with the Addicks in 2004, he was sent out on loan twice during the [[2004–05 in English football|2004–05]] season; first to [[Bishop's Stortford F.C.|Bishop's Stortford]] and then [[Notts County F.C.|Notts County]], where he made his [[Football League]] debut.{{cn|date=August 2017}}
+
+The [[2005–06 in English football|following season]], Elliot spent most of the season on loan at the [[Conference National]] club [[Accrington Stanley F.C.|Accrington Stanley]], replacing fellow Charlton goalkeeper [[Darren Randolph]] who had been on loan at Stanley earlier in the year. He was part of the Accrington Stanley team which won promotion to the Football League as runaway champions, saving a vital [[Penalty kick (association football)|penalty]] in the match which guaranteed them promotion. He joined Stanley again on loan during the [[2006–07 in English football|2006–07]] season, but failed to displace [[Ian Dunbavin]] as the club's first choice goalkeeper. He was voted the best keeper of the past decade for Accrington Stanley in 2010 by numerous key figures for the club, including manager [[John Coleman (footballer, born 1962)|John Coleman]].
+
+Back at Charlton, Elliot was considered to be behind [[Nicky Weaver]] and Darren Randolph for most of the [[2007–08 in English football|2007–08]] season. After Randolph moved to [[Bury F.C.|Bury]] on loan Elliot was promoted to second choice. He made an unexpected debut for Charlton on 5 April 2008 after Weaver had been sent off in a match against [[Plymouth Argyle F.C.|Plymouth Argyle]]. He made his first start for Charlton in a [[Football League Cup|League Cup]] defeat to [[Yeovil Town F.C.|Yeovil Town]] in August 2008. During the [[2008–09 in English football|2008–09]] season, he displaced Weaver and established himself as the club's first choice goalkeeper. A string of impressive performances contributing to a record breaking start to a season for Charlton in 2009–10 led to him signing a contract extension committing him to the club until 2012. In August 2011, Newcastle United made an offer of £100,000 which was rejected by Charlton.
+
+===Newcastle United===
+On 30 August 2011, Elliot signed for [[Newcastle United F.C.|Newcastle United]] on a five-year contract, becoming their seventh summer signing. He then stated his desire to become first choice 'keeper.&lt;ref&gt;{{cite web |title=Keeper Elliot joins Newcastle |url=http://www.skysports.com/story/0,19528,12875_7139466,00.html |work=Sky Sports|publisher=BSkyB |date=30 August 2011 |accessdate=30 August 2011}}&lt;/ref&gt; He made his Newcastle debut on 20 September against [[Nottingham Forest F.C.|Nottingham Forest]] in the [[2011–12 Football League Cup|Football League Cup]].&lt;ref&gt;{{cite web |title=Nott'm Forest 3–4 Newcastle (aet)|url=http://news.bbc.co.uk/sport1/hi/football/14893631.stm |publisher=BBC Sport|date=20 September 2011|accessdate=20 September 2011}}&lt;/ref&gt; 
+
+At the start of the [[2012–13 Premier League|2012–13 season]], Elliot changed his squad number from 35 to 21, which was previously worn by [[Fraser Forster]]. He made his second Newcastle appearance in the [[2012–13 UEFA Europa League|Europa League]] on 20 September against [[C.S. Marítimo|Marítimo]].&lt;ref&gt;{{cite web|title=Maritimo 0–0 Newcastle |url=https://www.bbc.co.uk/sport/0/football/19582553|publisher=BBC Sport|date=20 September 2012|accessdate=20 September 2012}}&lt;/ref&gt; His third Newcastle appearance, and second of the season, came in a third round [[2012–13 Football League Cup|League Cup]] tie away at [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/19645229|title=Man Utd 2–1 Newcastle|publisher=BBC Sport|date=26 September 2012}}&lt;/ref&gt; On 24 February 2013, and following an injury to [[Tim Krul]], Elliot made his first Premier League appearance for the Magpies, starting against Southampton in a 4–2 victory. During the match, after conceding a goal in the third minute, he then assisted a [[Papiss Cissé]] wonder goal in the first half.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/21489679|title=Newcastle 4–2 Southampton|publisher=24 February 2013|accessdate=11 August 2017}}&lt;/ref&gt; On 12 May, Elliot was sent off against [[Queens Park Rangers F.C.|Queens Park Rangers]], following a second yellow card.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/22417786|title=QPR 2–1 Newcastle|publisher=BBC Sport|date=12 May 2013|accessdate=11 August 2017}}&lt;/ref&gt;
+
+Elliot started the [[2015–16 Premier League|2015–16 season]] as third choice 'keeper behind Krul and [[Karl Darlow]]. However, with Krul suffering a season-ending injury and Darlow still recovering from an ankle knock, Elliot was handed his first appearance of the season on 18 October at home to [[Norwich City F.C|Norwich City]], helping Newcastle to a 6–2 win, their first win of the campaign.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/34498802|title=Newcastle United 6–2 Norwich City|publisher=BBC Sport|date=18 October 2015|accessdate=11 August 2017}}&lt;/ref&gt; Before the game, it was revealed that Elliot had signed a 'new, long-term contract' back in January 2014. Elliot continued his run in the team, keeping successive clean sheets against [[Stoke City F.C.|Stoke City]]&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/34623900|title=Newcastle United 0–0 Stoke City|publisher=BBC Sport|date=31 October 2015|accessdate=11 August 2017}}&lt;/ref&gt; and [[Bournemouth A.F.C.|Bournemouth]], the latter performance earning him the man-of-the-match award in a 1–0 win.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/34686457|title=Bournemouth 0–1 Newcastle|publisher=BBC Sport|date=7 November 2015|accessdate=11 August 2017}}&lt;/ref&gt; This was the first time Newcastle had kept two clean sheets in a row in two years and their first away win in ten months.
+
+On 29 March 2016, whilst on international duty, Elliot sustained an anterior cruciate ligament injury, and was ruled out of action for six months, ending his hopes of a place on the Republic of Ireland squad for [[UEFA Euro 2016]].&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2016/mar/30/newcastle-rob-elliot-euro-2016-republic-of-ireland|title=Newcastle's Rob Elliot in tears after knee injury rules out Euro 2016|work=The Guardian|first=David|last=Hynter|date=30 March 2016}}&lt;/ref&gt;
+
+Elliot returned to the Newcastle squad in December, but by then, Darlow had usurped him as the first choice 'keeper. For the next two months, he was not involved in the first team, but did make two appearances for the [[Newcastle United F.C. Reserves and Academy|reserves]]. From February 2017 onwards, Elliot would be on the bench until 24 April, when Darlow himself was benched due to squad rotation.&lt;ref&gt;{{cite web|url=http://www.chroniclelive.co.uk/sport/football/football-news/rob-elliot-emotional-injury-return-12942968|title=Rob Elliot on his emotional injury return, Benitez, and why Newcastle is not a 'stepping stone'|work=Evening Chronicle|first=Chris|last=Waugh|date=26 April 2017|accessdate=11 August 2017}}&lt;/ref&gt; Elliot's first appearance of the season came in a 4–1 win over [[Preston North End F.C.|Preston North End]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39618289|title=Newcastle United 4–1 Preston North End|publisher=BBC Sport|date=24 April 2017|accessdate=11 August 2017}}&lt;/ref&gt; On 28 April, he was named captain against [[Cardiff City F.C.|Cardiff City]], keeping a clean sheet as Newcastle won 2–0.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39663244|title=Cardiff City 0–2 Newcastle United|publisher=BBC Sport|date=28 April 2017|accessdate=11 August 2017}}&lt;/ref&gt; On 7 May, he again kept a clean sheet, as Newcastle beat [[Barnsley F.C.|Barnsley]] 3–0, edging out [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] by a point to win the [[2016–17 EFL Championship|Championship]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39760419|title=Newcastle United 3–0 Barnsley|publisher=BBC Sport|date=7 May 2017|accessdate=11 August 2017}}&lt;/ref&gt;
+
+On 11 August 2017, Elliot's shirt number was changed from 21 to 1 in the 2017–18 squad number announcement, replacing [[Tim Krul]], who had been linked with a permanent move to Brighton &amp; Hove Albion.&lt;ref&gt;{{cite web|url=https://www.nufc.co.uk/news/latest-news/201718-squad-numbers-confirmed|title=2017/18 squad numbers confirmed|publisher=Newcastle United F.C.|first=Tom|last=Easterby|date=11 August 2017}}&lt;/ref&gt;
+
+Elliot has yet to make an appearance for Newcastle in the 2018-19 season, having lost his place in the side to [[Martin Dubravka]].&lt;ref&gt;{{cite web|url=https://www.derbytelegraph.co.uk/sport/football/football-news/derby-county-target-could-leave-2424377|title=Derby County ‘target’ could leave this month – Premier League boss has admitted|date=13 January 2019|publisher=Derby Telegraph|accessdate=15 January 2019}}&lt;/ref&gt;
+
+==International career==
+Elliot, who was born in England, is eligible for the [[Republic of Ireland national football team|Republic of Ireland]] through his father's family from [[Cork (city)|Cork]], and represented Ireland at [[Republic of Ireland national under-19 football team|under-19]] level.&lt;ref&gt;{{cite web|url=https://www.nufcblog.com/2013/09/11/newcastle-player-has-international-ambitions/|title=Newcastle Player Has International Ambitions|publisher=NUFC Blog|author=Ed Harrison|date=11 September 2013}}&lt;/ref&gt; On 5 October 2013, Elliot received his first call-up to the Republic of Ireland senior squad as a replacement for the injured [[Darren Randolph]] for the games against [[Germany national football team|Germany]] and [[Kazakhstan national football team|Kazakhstan]].&lt;ref&gt;{{cite news|title=Newcastle Goalkeeper Elliot gets first Ireland call|url=http://www.irishtimes.com/sport/soccer/international/newcastle-goalkeeper-elliot-gets-first-ireland-call-1.1551816 |work=The Irish Times|date=5 October 2013}}&lt;/ref&gt; Elliot won his first international senior cap for the Republic of Ireland on 25 May 2014, in a 2–1 home loss to [[Turkey national football team|Turkey]].&lt;ref&gt;{{cite web|url=http://www.fai.ie/international/senior-men/103994-narrow-defeat-for-ireland-against-turkey.html|title=Republic of Ireland 1–2 Turkey|publisher=FAI.com|date=25 May 2014}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 27 December 2017}}&lt;ref&gt;{{Soccerbase|40710|Rob Elliot}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|FA Cup
+!colspan="2"|League Cup
+!colspan="2"|Other{{efn|Appearances in the [[Football League Trophy]] and [[UEFA Europa League]].}}
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="9"|[[Charlton Athletic F.C.|Charlton Athletic]]
+|[[2004–05 Charlton Athletic F.C. season|2004–05]]
+|[[Premier League]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2005–06 Charlton Athletic F.C. season|2005–06]]
+|Premier League
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2006–07 Charlton Athletic F.C. season|2006–07]]
+|Premier League
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2007–08 Charlton Athletic F.C. season|2007–08]]
+|[[Football League Championship|Championship]]
+|1||0||0||0||0||0||0||0||1||0
+|-
+|[[2008–09 Charlton Athletic F.C. season|2008–09]]
+|Championship
+|23||0||1||0||2||0||0||0||26||0
+|-
+|[[2009–10 Charlton Athletic F.C. season|2009–10]]
+|[[Football League One|League One]]
+|33||0||0||0||1||0||1||0||35||0
+|-
+|[[2010–11 Charlton Athletic F.C. season|2010–11]]
+|League One
+|35||0||5||0||0||0||3||0||43||0
+|-
+|[[2011–12 Charlton Athletic F.C. season|2011–12]]
+|League One
+|4||0||0||0||1||0||0||0||5||0
+|-
+!colspan="2"|Total
+!96!!0!!6!!0!!4!!0!!4!!0!!110!!0
+|-
+|rowspan="2"|[[Bishop's Stortford F.C.|Bishop's Stortford]] (loan)
+|[[National League (English football)|2004–05]]
+|[[2004–05 Football Conference|Conference South]]&lt;ref name="FT"&gt;{{cite web |title=Rob Elliot - biography |url=http://www.footballtop.com/players/rob-elliot|work=Footballtop.com |publisher=Footballtop.com |accessdate=4 February 2019}}&lt;/ref&gt;
+|6||0||0||0||0||0||0||0||6||0
+|-
+!colspan="2"|Total
+!6!!0!!0!!0!!0!!0!!0!!0!!0!!0
+|-
+|rowspan="2"|[[Notts County F.C.|Notts County]] (loan)
+|[[2004–05 in English football|2004–05]]
+|[[Football League Two|League Two]]
+|4||0||0||0||0||0||0||0||4||0
+|-
+!colspan="2"|Total
+!4!!0!!0!!0!!0!!0!!0!!0!!4!!0
+|-
+|rowspan="3"|[[Accrington Stanley F.C.|Accrington Stanley]] (loan)
+|[[2005–06 in English football|2005–06]]
+|[[Conference National]]
+|23||0||0||0||0||0||0||0||23||0
+|-
+|[[2006–07 in English football|2006–07]]
+|League Two
+|7||0||0||0||1||0||3||0||11||0
+|-
+!colspan="2"|Total
+!30!!0!!0!!0!!1!!0!!3!!0!!34!!0
+|-
+| rowspan="9" |[[Newcastle United F.C.|Newcastle United]]
+|[[2011–12 Newcastle United F.C. season|2011–12]]
+|Premier League
+|0||0||0||0||1||0||0||0||1||0
+|-
+|[[2012–13 Newcastle United F.C. season|2012–13]]
+|Premier League
+|10||0||1||0||1||0||5||0||17||0
+|-
+|[[2013–14 Newcastle United F.C. season|2013–14]]
+|Premier League
+|2||0||1||0||1||0||0||0||4||0
+|-
+|[[2014–15 Newcastle United F.C. season|2014–15]]
+|Premier League
+|3||0||0||0||2||0||0||0||5||0
+|-
+|[[2015–16 Newcastle United F.C. season|2015–16]]
+|Premier League
+|21||0||1||0||0||0||0||0||21||0
+|-
+|[[2016–17 Newcastle United F.C. season|2016–17]]
+|Championship
+|3
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|3
+|0
+|-
+|[[2017-18 Newcastle United F.C. season|2017–18]]
+|Premier League
+|16
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|16
+|0
+|-
+|[[2018-19 Newcastle United F.C. season|2018–19]]
+|Premier League
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|-
+! colspan="2" |Total
+!55!!0!!3!!0!!5!!0!!5!!0!!68!!0
+|-
+! colspan="3" |Career total
+!191!!0!!9!!0!!10!!0!!12!!0!!222!!0
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 29 March 2016}}&lt;ref&gt;{{NFT player|id=55430|name=Elliot, Rob|accessdate=27 August 2017}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan=3|[[Republic of Ireland national football team|Republic of Ireland national team]]
+|-
+! Year !! Apps !! Goals
+|-
+| 2014 || 3 || 0
+|-
+| 2016 || 1 || 0
+|-
+! Total !! 4 !! 0
+|}
+
+==Honours==
+'''Accrington Stanley'''
+*[[Conference National]]: [[2005–06 Football Conference#Conference National|2005–06]]&lt;ref name="Hugman2010/11"/&gt;
+
+==See also==
+* [[List of Republic of Ireland international footballers born outside the Republic of Ireland]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.nufc.co.uk/teams/first-team/robert-elliot Rob Elliot profile] at the Newcastle United F.C. website
+*[http://www.fai.ie/ireland/player/250051273 Rob Elliot profile] at the Football Association of Ireland website
+*{{Soccerbase}}
+
+{{Newcastle United F.C. Player of the Year}}
+{{Newcastle United F.C. squad}}
+
+{{DEFAULTSORT:Elliot, Robert}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:People from Greenwich]]
+[[Category:Footballers from Greater London]]
+[[Category:English footballers]]
+[[Category:Republic of Ireland association footballers]]
+[[Category:Republic of Ireland youth international footballers]]
+[[Category:Republic of Ireland international footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Erith Town F.C. players]]
+[[Category:Charlton Athletic F.C. players]]
+[[Category:Bishop's Stortford F.C. players]]
+[[Category:Notts County F.C. players]]
+[[Category:Accrington Stanley F.C. players]]
+[[Category:Newcastle United F.C. players]]
+[[Category:English Football League players]]
+[[Category:National League (English football) players]]
+[[Category:Premier League players]]</text>
+      <sha1>cw91h3o14pbwc0dc48kr548d7i7d5xz</sha1>
+    </revision>
+  </page>
+</mediawiki>

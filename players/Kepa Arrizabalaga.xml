@@ -1,0 +1,312 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kepa Arrizabalaga</title>
+    <ns>0</ns>
+    <id>45018574</id>
+    <revision>
+      <id>885982600</id>
+      <parentid>885593143</parentid>
+      <timestamp>2019-03-03T16:01:59Z</timestamp>
+      <contributor>
+        <username>Stt13</username>
+        <id>9671189</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26849">{{pp-vandalism|small=yes}}
+{{Spanish name|Arrizabalaga|Revuelta}}
+{{EngvarB|date=February 2019}}
+{{Use dmy dates|date=February 2019}}
+{{Infobox football biography
+| name = Kepa Arrizabalaga
+| image = Chelsea 3 Arsenal 2 (30294529588) (cropped).jpg
+| image_size = 
+| caption = Arrizabalaga playing for [[Chelsea F.C.|Chelsea]] in 2018
+| fullname = Kepa Arrizabalaga Revuelta&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/844127|title=2018/19 Premier League squads confirmed|publisher=Premier League|date=3 September 2018|accessdate=4 September 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1994|10|3|df=y}}&lt;ref&gt;{{cite web|url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF|title=FIFA World Cup Russia 2018: List of players: Spain|publisher=FIFA|page=28|format=PDF|date=15 July 2018|accessdate=4 October 2018}}&lt;/ref&gt;
+| birth_place = [[Ondarroa]], Spain
+| height = 1.86 m&lt;ref&gt;{{cite web|url=https://www.chelseafc.com/en/teams/first-team/kepa-arrizabalaga?pageTab=biography|title=Kepa Arrizabalaga|publisher=Chelsea F.C.|accessdate=14 February 2019}}&lt;/ref&gt;
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Chelsea F.C.|Chelsea]]
+| clubnumber = 1
+| youthyears1 = 2004–2012
+| youthclubs1 = [[Athletic Bilbao cantera|Athletic Bilbao]]
+| years1 = 2011–2013
+| clubs1 = [[CD Basconia|Basconia]]
+| caps1 = 31
+| goals1 = 0
+| years2 = 2012–2016
+| clubs2 = [[Bilbao Athletic]]
+| caps2 = 50
+| goals2 = 0
+| years3 = 2015
+| clubs3 = → [[SD Ponferradina|Ponferradina]] (loan)
+| caps3 = 20
+| goals3 = 0
+| years4 = 2015–2016
+| clubs4 = → [[Real Valladolid|Valladolid]] (loan)
+| caps4 = 39
+| goals4 = 0
+| years5 = 2016–2018
+| clubs5 = [[Athletic Bilbao]]
+| caps5 = 53
+| goals5 = 0
+| years6 = 2018–
+| clubs6 = [[Chelsea F.C.|Chelsea]]
+| caps6 = 27
+| goals6 = 0
+| nationalyears1 = 2012
+| nationalteam1 = [[Spain national under-18 football team|Spain U18]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2012
+| nationalteam2 = [[Spain national under-19 football team|Spain U19]]
+| nationalcaps2 = 6
+| nationalgoals2 = 0
+| nationalyears3 = 2013–2017
+| nationalteam3 = [[Spain national under-21 football team|Spain U21]]
+| nationalcaps3 = 22
+| nationalgoals3 = 0
+| nationalyears4 = 2017–
+| nationalteam4 = [[Spain national football team|Spain]]
+| nationalcaps4 = 3
+| nationalgoals4 = 0
+| club-update = 16:01, 3 March 2019 (UTC)
+| nationalteam-update = 18 November 2018
+| medaltemplates = {{MedalCountry|{{fb|ESP}}}}
+{{MedalCompetition|[[UEFA European U-19 Championship]]}}
+{{Medal|W|[[2012 UEFA European U-19 Championship|2012 Estonia]]|}}
+}}
+'''Kepa Arrizabalaga Revuelta''' ({{IPA-eu|kepa aris̻aβalaɣa reβuelta|lang}}; {{IPA-es|ˈkepa ariθaβaˈlaɣa reˈβwelta|lang}}; born 3 October 1994) is a Spanish professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Premier League]] club [[Chelsea F.C.|Chelsea]] and the [[Spain national football team|Spain national team]]. He is sometimes referred to mononomously by his forename.&lt;ref&gt;{{cite web|url=http://www.sefutbol.com/en/convocados/kepa-arrizabalaga|title=Kepa Arrizabalaga|publisher=[[Royal Spanish Football Federation]]|archive-url=https://web.archive.org/web/20190226000752/http://www.sefutbol.com/en/convocados/kepa-arrizabalaga|archive-date=26 February 2019|dead-url=no|accessdate=15 November 2017}}&lt;/ref&gt;
+
+Developed at [[Athletic Bilbao]], he played his first professional games on loan at [[SD Ponferradina|Ponferradina]] and [[Real Valladolid]], in [[Segunda División]]. He then returned to his first club, going on to appear in 54 matches across all competitions; in 2018, he signed with Chelsea.
+
+Arrizabalaga won the [[2012 UEFA European Under-19 Championship|2012 European Championship]] with [[Spain national under-19 football team|Spain's under-19 team]] and made his [[Spain national football team|senior]] debut in 2017, being selected for the [[2018 FIFA World Cup|2018 World Cup]].
+
+==Club career==
+===Athletic Bilbao===
+Born in [[Ondarroa]], [[Biscay]], Basque Country, Arrizabalaga joined [[Athletic Bilbao]]'s youth setup at [[Lezama Facilities|Lezama]] in 2004, aged ten. He made his senior debut with [[CD Basconia|the farm team]] in January 2012, in [[Tercera División]].&lt;ref&gt;{{cite web|url=https://www.europapress.es/deportes/futbol-00162/noticia-chelsea-ficha-kepa-portero-mas-caro-historia-20180808231338.html|title=El Chelsea ficha a Kepa, el portero más caro de la historia|trans-title=Chelsea sign Kepa, most expensive goalkeeper in history|publisher=[[Europa Press (news agency)|Europa Press]]|language=es|date=8 August 2018|accessdate=9 January 2019}}&lt;/ref&gt;
+
+On 5 May 2012, Arrizabalaga was called up to the main squad for a [[La Liga]] match against [[Getafe CF]],&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=12069&amp;idi=2|title=Athletic Club-Getafe: Line-ups|publisher=Athletic Bilbao|date=5 May 2012|accessdate=11 December 2014}}&lt;/ref&gt; but remained unused in the 0–0 draw at the [[San Mamés Stadium (1913)|San Mamés Stadium]].&lt;ref&gt;{{cite news|url=http://www.marca.com/marcador/futbol/2011_12/primera/jornada_37/ath_get/|title=Sin argumentos en la Catedral|trans-title=No arguments at the Cathedral|newspaper=[[Marca (newspaper)|Marca]]|first=Álvaro|last=Sánchez|language=es|date=5 May 2012|accessdate=11 December 2014}}&lt;/ref&gt; He was also called up to pre-season in July, and on 23 September was also a [[Substitute (association football)|substitute]] in another home game of the same outcome, against [[Málaga CF]].&lt;ref&gt;{{cite news|url=http://www.marca.com/eventos/marcador/futbol/2012_13/primera/jornada_5/ath_mga/|title=Europa les pesa|trans-title=Europe weighs on them|newspaper=Marca|location=Madrid|first=Ángel|last=Liceras|language=es|date=23 September 2012|accessdate=11 December 2014}}&lt;/ref&gt;
+
+Arrizabalaga was promoted to [[Bilbao Athletic|the reserves]] in January 2013, to cover for injured [[Jon Ander Serantes]].&lt;ref&gt;{{cite web|url=http://bizkaia.eldesmarque.com/athletic-club/33979-en-lezama-apuestan-fuerte-por-kepa-arrizabalaba|title=En Lezama apuestan fuerte por Kepa Arrizabalaga|trans-title=Lezama bets high on Kepa Arrizabalaga|publisher=El Desmarque|language=es|date=9 January 2013|accessdate=11 December 2014}}&lt;/ref&gt; He made his debut for the B-side on 16 February 2013, keeping a [[Shutout|clean sheet]] in a 1–0 win over [[UD Logroñés]] for the [[Segunda División B]] championship.&lt;ref&gt;{{cite web|url=http://uniondeportivalogroñes.com/index.php/8-destacados/131-bilbao-athletic-1-0-union-deportiva-logrones|title=Bilbao Athletic 1–0 Unión Deportiva Logroñés|publisher=UD Logroñés|language=es|date=16 February 2013|accessdate=11 December 2014}}&lt;/ref&gt; On 3 March, he was [[Ejection (sports)|sent off]] towards the end of a 3–1 home win over [[SD Amorebieta]], as was teammate [[Jon García Herrero|Jon García]];&lt;ref&gt;{{cite web|url=http://bizkaia.eldesmarque.com/athletic-club/noticias/34732-el-bilbao-athletic-amenaza-el-liderato-del-alaves|title=El Bilbao Athletic amenaza el liderato del Alavés|trans-title=Bilbao Athletic threaten Alavés' lead|publisher=El Desmarque|language=es|date=4 March 2013|accessdate=29 November 2015}}&lt;/ref&gt; in April he suffered a [[Athletic pubalgia|pubalgia]], only returning to the fields in September.&lt;ref&gt;{{cite web|url=http://bizkaia.eldesmarque.com/athletic-club/37480-Kepa-Arrizabalaga-reaparece-casi-seis-meses-despu%C3%A9s-en-el-Bilbao-Athletic|title=Kepa Arrizabalaga reaparece casi seis meses después en el Bilbao Athletic|trans-title=Kepa Arrizabalaga reappears after nearly six months in Bilbao Athletic|publisher=El Desmarque|first=Javi|last=Beltrán|language=es|date=29 September 2013|accessdate=11 December 2014}}&lt;/ref&gt;
+
+Arrizabalaga appeared regularly for the B's after his return, but broke the first [[metacarpal]] of his right hand in January 2014,&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=13915&amp;idi=2|title=Kepa Arrizabalaga's injury|publisher=Athletic Bilbao|date=22 January 2014|accessdate=11 December 2014}}&lt;/ref&gt; being sidelined for a month. On 11 March, Getafe submitted a loan request to the ''Lions'' for him, as a replacement to injured [[Miguel Ángel Moyá]],&lt;ref&gt;{{cite web|url=http://www.aupaathletic.com/noticias/noticias-ver.asp?id=11023|title=El Getafe pide la cesión de Kepa Arrizabalaga|trans-title=Getafe ask for Kepa Arrizabalaga's loan|publisher=Aupa Athletic|language=es|date=11 March 2014|accessdate=11 December 2014}}&lt;/ref&gt; but it was rejected a day later.&lt;ref&gt;{{cite news|url=http://athletic.elcorreo.com/noticias/2014-03-12/athletic-rechaza-ceder-hasta-20140312.html|title=El Athletic rechaza ceder hasta final de Liga al portero Kepa al Getafe|trans-title=Athletic reject loaning goalkeeper Kepa to Getafe until the end of the League|newspaper=[[El Correo]]|first=Javier|last=Ortiz de Lazcano|language=es|date=12 March 2014|accessdate=11 December 2014}}&lt;/ref&gt;
+
+On 5 January 2015, Arrizabalaga was loaned to [[Segunda División]]'s [[SD Ponferradina]] until June.&lt;ref&gt;{{cite web|url=http://www.sdponferradina.com/-/mi|title=Kepa Arrizabalaga se incorpora a la Ponferradina|trans-title=Kepa Arrizabalaga added to Ponferradina|publisher=SD Ponferradina|language=es|date=5 January 2015|accessdate=5 January 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150109172714/http://www.sdponferradina.com/-/mi|archivedate=9 January 2015|df=}}&lt;/ref&gt; He made his professional debut on the 11th, starting in a 1–1 home draw against [[Racing de Santander]].&lt;ref&gt;{{cite news|url=http://www.marca.com/2015/01/11/futbol/2adivision/1421014655.html|title=El Racing encontró justo premio a su trabajo en el último minuto|trans-title=Racing's work paid off in the last minute|newspaper=Marca|location=Madrid|language=es|date=11 January 2015|accessdate=14 January 2015}}&lt;/ref&gt;
+
+On 20 July 2015, Arrizabalaga moved to [[Real Valladolid]] also in the second tier, in a [[2015–16 Segunda División|season]]-long loan deal.&lt;ref&gt;{{cite web|url=http://www.realvalladolid.es/noticias/actualidad/20072015/Kepa-cierra-la-porteria-del-Pucela/|title=Kepa cierra la portería del Pucela|trans-title=Kepa shuts down goal of Pucela|publisher=Real Valladolid|language=es|date=20 July 2015|accessdate=20 July 2015}}&lt;/ref&gt; He played his first competitive game on 22 August, in a 0–1 loss at [[Córdoba CF]],&lt;ref&gt;{{cite news|url=http://www.marca.com/2015/08/23/futbol/equipos/cordoba/1440284201.html|title=Fidel resuelve en un gran partido del Córdoba|trans-title=Fidel the decider in a great Córdoba match|newspaper=Marca|location=Madrid|first=Alberto|last=Laz|language=es|date=23 August 2015|accessdate=7 September 2015}}&lt;/ref&gt; and missed only three matches as his team finished 16th.&lt;ref&gt;{{cite news|url=http://www.diariodevalladolid.es/noticias/deportes/kepa-traera-dinero-zorrilla_125966.html|title=Kepa traerá dinero a Zorrilla|trans-title=Kepa will bring money to Zorrilla|newspaper=Diario de Valladolid|language=es|date=8 August 2018|accessdate=9 January 2019}}&lt;/ref&gt;
+
+After returning from loan, Arrizabalaga was definitely included in the first team, initially as third-choice behind [[Gorka Iraizoz]] and [[Iago Herrerín]]. He made his debut in the top flight on 11 September 2016, starting in a 1–0 away win over [[Deportivo de La Coruña]].&lt;ref&gt;{{cite news|url=http://www.marca.com/eventos/marcador/futbol/2016_17/la-liga/jornada_3/dep_ath/|title=Raúl García exhibe su pegada|trans-title=Raúl García shows his power|newspaper=Marca|location=Madrid|first=Jaime|last=Rincón|language=es|date=11 September 2016|accessdate=18 September 2016}}&lt;/ref&gt;
+
+On 22 January 2018, amid heavy transfer speculation linking him to [[Real Madrid C.F.|Real Madrid]], Arrizabalaga renewed his contract – due to expire that June – until 2025.&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/news/11848/11218301/kepa-arrizabalaga-ends-real-madrid-speculation-by-signing-athletic-bilbao-deal|title=Kepa Arrizabalaga ends Real Madrid speculation by signing Athletic Bilbao deal|publisher=[[Sky Sports]]|date=22 January 2018|accessdate=23 January 2018}}&lt;/ref&gt;
+
+===Chelsea===
+[[File:Chelsea 3 Arsenal 2 (43443195334).jpg|thumb|left|Arrizabalaga playing for Chelsea in a match against [[Arsenal F.C.|Arsenal]] in 2018]]
+On 8 August 2018, Athletic Bilbao announced on their website that Arrizabalaga had paid his required [[release clause]] (€80&amp;nbsp;million / £71.6&amp;nbsp;million),&lt;ref&gt;{{cite web|url=https://www.athletic-club.eus/en/noticias/19263/kepa-pays-termination-clause.html|title=Kepa pays termination clause|publisher=Athletic Bilbao|date=8 August 2018|accessdate=8 August 2018}}&lt;/ref&gt; making him the [[List of most expensive association football transfers|world's most expensive goalkeeper]] only weeks after the record was set by [[Alisson (footballer, born 1992)|Alisson]]'s transfer to [[Liverpool F.C.|Liverpool]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2018/aug/07/chelsea-kepa-arrizabalaga-athletic-bilbao-record|title=Chelsea to pay £71.6m for Athletic Bilbao goalkeeper Kepa Arrizabalaga|newspaper=[[The Guardian]]|first=Dominic|last=Fifield|date=7 August 2018|accessdate=14 August 2018}}&lt;/ref&gt; Later that day, his move to [[Chelsea F.C.|Chelsea]] on a seven-year contract was confirmed,&lt;ref&gt;{{cite web|url=https://www.chelseafc.com/en/news/2018/8/8/kepa-arrives-at-chelsea|title=Kepa arrives at Chelsea|publisher=Chelsea F.C.|date=8 August 2018|accessdate=8 August 2018}}&lt;/ref&gt; replacing [[Thibaut Courtois]] who departed for [[Real Madrid CF|Real Madrid]] and he made his [[Premier League]] debut three days later in a 3–0 away win against [[Huddersfield Town A.F.C.|Huddersfield Town]];&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45067371|title=Huddersfield Town 0–3 Chelsea|publisher=[[BBC Sport]]|first=Michael|last=Emons|date=11 August 2018|accessdate=14 August 2018}}&lt;/ref&gt; he went on to keep six clean sheets&lt;ref&gt;{{cite web|url=https://www.goal.com/en-us/news/chelseas-kepa-relishing-being-worlds-most-expensive-keeper/ph9py6s9dsx616jcv411ad0jq|title=Chelsea's Kepa relishing being world's most expensive keeper|publisher=[[Goal (website)|Goal]]|date=10 October 2018|accessdate=9 January 2019}}&lt;/ref&gt; in the team's 12-match unbeaten run in the league, before a 3–1 defeat at the hands of [[Tottenham Hotspur F.C.|Tottenham Hotspur]].&lt;ref&gt;{{cite web|url=https://www.skysports.com/football/tottenham-vs-chelsea/390883|title=Tottenham 3–1 Chelsea: Maurizio Sarri's unbeaten start ended|publisher=Sky Sports|first=Ron|last=Walker|date=24 November 2018|accessdate=25 November 2018}}&lt;/ref&gt; 
+
+On 24 January 2019, in the second leg of the [[EFL Cup]] semi-final, Arrizabalaga saved a [[Penalty (association football)|penalty]] from Tottenham's [[Lucas Moura]] in a 4–2 [[Penalty shoot-out (association football)|shootout]] win at [[Stamford Bridge (stadium)|Stamford Bridge]], helping his team go through to the [[2019 EFL Cup Final|final]].&lt;ref&gt;{{cite news|url=https://www.sportinglife.com/football/news/chelsea-make-spurs-pay-the-penalty/157724|title=Carabao Cup semi-final: Chelsea beat Tottenham 4–2 on penalties to book final clash with Manchester City at Wembley|newspaper=[[Sporting Life (British newspaper)|Sporting Life]]|date=24 January 2019|accessdate=24 January 2019}}&lt;/ref&gt;
+
+On 24 February 2019, during the [[2019 EFL Cup Final]] against [[Manchester City F.C.|Manchester City]], with the match at 0–0 near the end of extra time, [[Maurizio Sarri]] called for Arrizabalaga to be substituted off for [[Willy Caballero]] for the upcoming penalty shootout; Sarri was concerned over his leg cramping a few minutes prior after making a diving save. However, Arrizabalaga refused to be substituted, gesticulating and remaining on the field. During the shootout, he saved one penalty as Chelsea lost the shoot-out 4–3.&lt;ref&gt;{{cite web |last1=Burt |first1=Jason |last2=Tyers |first2=Mike |title=Manchester City take the honours after Kepa Arrizabalaga antics overshadow otherwise drab League Cup final |url=https://www.telegraph.co.uk/football/2019/02/24/chelsea-vs-manchester-city-carabao-cup-final-2019-live-score/ |work=[[The Daily Telegraph]] |accessdate=25 February 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=WATCH: Kepa Arrizabalaga defies furious Chelsea boss Maurizio Sarri in Carabao Cup final |url=https://news.sky.com/story/watch-kepa-arrizabalaga-defies-furious-chelsea-boss-maurizio-sarri-in-carabao-cup-final-11647428 |publisher=[[Sky News]] |accessdate=25 February 2019}}&lt;/ref&gt; After the game, both Arrizabalaga and Sarri said that the situation was a misunderstanding, with Sarri incorrectly believing that Arrizabalaga was too injured with a cramp to continue.&lt;ref&gt;{{cite web |title=Maurizio Sarri: Kepa Arrizabalaga incident a 'misunderstanding', says Chelsea boss |url=https://www.bbc.co.uk/sport/football/47352319 |publisher=BBC Sport|accessdate=25 February 2019}}&lt;/ref&gt; Later on, Arrizabalaga met with Sarri and apologised to him and to the rest of the club. He was fined a week's worth of pay as a result of his actions, with Sarri leaving the decision of any further discipline up to the club, due to the club rules.&lt;ref&gt;{{Cite web |url=https://www.bbc.com/sport/football/47365945 |title=Kepa Arrizabalaga: Chelsea goalkeeper fined &amp; apologises for Wembley incident |date=25 February 2019 |website=[[BBC Sport]] |access-date=26 February 2019}}&lt;/ref&gt; Kepa was dropped from the starting lineup for Caballero in Chelsea's next match, a Premier League game against Tottenham.&lt;ref&gt;{{cite news|url=https://www.goal.com/en/news/its-a-message-to-the-group-sarri-explains-reasoning-for-dropping-/fei9ryhrddhg13xh86pt31i0v|title='It's a message to the group' - Sarri explains reasoning for dropping Kepa|publisher=Goal.com|date=28 February 2019|accessdate=1 March 2019}}&lt;/ref&gt;
+
+==International career==
+[[File:Kepa Arrizabalaga (6) (cropped).jpg|thumb|upright|Arrizabalaga with [[Spain national under-19 football team|Spain U19]] in 2012]]
+After appearing for [[Spain national under-18 football team|Spain's under-18s]], Arrizabalaga was called up to [[Spain national under-19 football team|the under-19 team]] for [[2012 UEFA European Under-19 Championship|that year]]'s [[UEFA European Under-19 Championship|UEFA European Championship]]. He was an undisputed starter during the tournament, as his side were crowned champions;&lt;ref name="U19"&gt;{{cite web|url=http://www.uefa.com/under19/history/season=2012/|title=Spain make it six of the best in Estonia|publisher=UEFA|accessdate=10 December 2014}}&lt;/ref&gt; highlights included a 3–3 semi-final success against [[France national under-19 football team|France]], where he saved two penalties in the shootout.&lt;ref&gt;{{cite web|url=http://www.uefa.com/news/newsid=1840396.html|title=Spain finally see off France in semi-final shoot-out|publisher=UEFA|date=12 July 2012|accessdate=11 December 2014}}&lt;/ref&gt;
+
+Arrizabalaga missed the [[2013 FIFA U-20 World Cup]] due to injury, being replaced in the [[2013 FIFA U-20 World Cup squads#Spain|tournament squad]] by [[Rubén Yáñez]].&lt;ref&gt;{{cite web|url=http://www.sefutbol.com/kepa-arrizabalaga-deja-concentracion-lesion-y-se-perdera-mundial-turquia|title=Kepa deja la concentración por lesión y se pierde el Mundial de Turquía|trans-title=Kepa leaves training camp due to injury and misses World Cup in Turkey|publisher=Royal Spanish Football Federation|language=es|date=7 June 2013|accessdate=11 December 2014}}&lt;/ref&gt; On 8 November 2013 he was called up to the [[Spain national under-21 football team|under-21 team]], along with Athletic teammate [[Iker Muniain]].&lt;ref&gt;{{cite web|url=http://www.athletic-club.net/web/main.asp?a=0&amp;b=1&amp;c=2&amp;d=1000&amp;berria=13702&amp;idi=2|title=Under21 Call-up|publisher=Athletic Bilbao|date=8 November 2013|accessdate=11 December 2014}}&lt;/ref&gt;
+
+Arrizabalaga was called up to the [[Spain national football team|senior side]] on 22 March 2017 ahead of a [[2018 FIFA World Cup qualification (UEFA)|2018 FIFA World Cup qualifier]] against [[Israel national football team|Israel]] and a [[Exhibition game|friendly]] with [[France national football team|France]], as a late replacement for the injured [[Pepe Reina]].&lt;ref&gt;{{cite web|url=http://www.india.com/sports/kepa-arrizabalaga-gets-spain-call-as-pepe-reina-suffers-injury-1950330/|title=Kepa Arrizabalaga gets Spain call as Pepe Reina suffers injury|publisher=India.com|date=22 March 2017|accessdate=23 March 2017}}&lt;/ref&gt; He earned his first [[Cap (sport)|cap]] on 11 November of that year, playing the full 90 minutes in a 5–0 friendly win over [[Costa Rica national football team|Costa Rica]] in [[Málaga]].&lt;ref&gt;{{cite news|url=http://www.chicagotribune.com/90minutes/ct-hoy-silva-nets-brace-spain-thrash-costa-rica-in-friendly-20171111-story.html|title=Silva nets brace, Spain thrash Costa Rica in friendly|newspaper=[[Chicago Tribune]]|date=11 November 2017|accessdate=12 November 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.sefutbol.com/en/match-report-spain-thrash-costa-rica-malaga-5-0-0|title=Match report: Spain thrash Costa Rica in Málaga (5–0)|publisher=Royal Spanish Football Federation|date=11 November 2017|accessdate=15 November 2017}}&lt;/ref&gt;
+
+Arrizabalaga was named in Spain's [[2018 FIFA World Cup squads#Spain|23-man squad]] for the [[2018 FIFA World Cup]] in Russia.&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/morata-misses-out-on-spain-world-cup-squad/1ub1qz7jod09i1lfvdcy84ea2l|title=Morata misses out on Spain's 23-man World Cup squad|publisher=Goal|date=21 May 2018|accessdate=21 May 2018}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 3 March 2019}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup{{efn|Includes [[Copa del Rey]], [[FA Cup]]}}
+!colspan=2|League Cup{{efn|Includes [[EFL Cup]]}}
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[CD Basconia|Basconia]]
+|[[2011–12 Tercera División#Group 4 - Basque Country|2011–12]]&lt;ref name=AthleticProfile&gt;{{cite web |url=https://www.athletic-club.eus/en/players/kepa-arrizabalaga-revuelta |title=Kepa Arrizabalaga |publisher=Athletic Club |accessdate=9 January 2019}}&lt;/ref&gt;
+|[[Tercera División]]
+|12||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||12||0
+|-
+|[[2012–13 Tercera División#Group IV - Basque Country|2012–13]]&lt;ref name=AthleticProfile/&gt;
+|Tercera División
+|19||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||19||0
+|-
+!colspan=2|Total
+!31!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!31!!0
+|-
+|rowspan=4|[[Athletic Bilbao B|Bilbao Athletic]]
+|[[2012–13 Segunda División B#Group 2|2012–13]]&lt;ref name=AthleticProfile/&gt;
+|[[Segunda División B]]
+|7||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0||7||0
+|-
+|[[2013–14 Segunda División B#Group 2|2013–14]]&lt;ref name=AthleticProfile/&gt;
+|Segunda División B
+|26||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||26||0
+|-
+|[[2014–15 Segunda División B#Group 2|2014–15]]&lt;ref name=AthleticProfile/&gt;
+|Segunda División B
+|17||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0||17||0
+|-
+!colspan=2|Total
+!50!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!0!!0!!50!!0
+|-
+|rowspan=5|[[Athletic Bilbao]]
+|[[2014–15 Athletic Bilbao season|2014–15]]&lt;ref name=AthleticProfile/&gt;
+|[[La Liga]]
+|0||0||0||0||colspan="2"|—||0||0||colspan="2"|—||0||0
+|-
+|[[2015–16 Athletic Bilbao season|2015–16]]&lt;ref name=AthleticProfile/&gt;
+|La Liga
+|0||0||0||0||colspan="2"|—||0||0||0||0||0||0
+|-
+|[[2016–17 Athletic Bilbao season|2016–17]]&lt;ref name=AthleticProfile/&gt;
+|La Liga
+|23||0||0||0||colspan="2"|—||0||0||colspan="2"|—||23||0
+|-
+|[[2017–18 Athletic Bilbao season|2017–18]]&lt;ref name=AthleticProfile/&gt;
+|La Liga
+|30||0||1||0||colspan="2"|—||0||0||colspan="2"|—||31||0
+|-
+!colspan=2|Total
+!53!!0!!1!!0!!colspan="2"|—!!0!!0!!colspan="2"|—!!54!!0
+|-
+|[[SD Ponferradina|Ponferradina]] (loan)
+|[[2014–15 Segunda División|2014–15]]&lt;ref name=Soccerway/&gt;
+|[[Segunda División]]
+|20||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||20||0
+|-
+|[[Real Valladolid|Valladolid]] (loan)
+|[[2015–16 Segunda División|2015–16]]&lt;ref name=Soccerway/&gt;
+|Segunda División
+|39||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||40||0
+|-
+|[[Chelsea F.C.|Chelsea]]
+|[[2018–19 Chelsea F.C. season|2018–19]]&lt;ref name=Soccerway&gt;{{cite web|url=https://uk.soccerway.com/players/kepa-arrizabalaga-revuelta/200705/|website=Soccerway|publisher=Perform Group|title=Kepa: Summary|accessdate=14 February 2019}}&lt;/ref&gt;
+|[[Premier League]]
+|27||0||1||0||4||0||6{{efn|Appearances in [[UEFA Europa League]]}}||0||colspan=2|—||38||0
+|-
+!colspan="3"|Career total
+!220!!0!!3!!0!!4!!0!!6!!0!!0!!0!!233!!0
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 18 November 2018}}&lt;ref&gt;{{cite web|url=https://eu-football.info/_player.php?id=30053|title=Kepa|website=EU-football.info|accessdate=7 August 2018}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=2|[[Spain national football team|Spain]]
+|2017||1||0
+|-
+|2018||2||0
+|-
+!colspan=2|Total||3||0
+|}
+
+==Honours==
+'''Spain U19'''
+*[[UEFA European Under-19 Championship]]: [[2012 UEFA European Under-19 Championship|2012]]&lt;ref name="U19"/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Athletic Bilbao profile|id=949/arrizabalaga}}
+*{{BDFutbol|19970}}
+*{{NFT player|69319}}
+*{{UEFA player|250039900}}
+
+{{Chelsea F.C. squad}}
+{{Spain squad 2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Arrizabalaga, Kepa}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:People from Ondarroa]]
+[[Category:Spanish footballers]]
+[[Category:Basque footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:La Liga players]]
+[[Category:Segunda División players]]
+[[Category:Segunda División B players]]
+[[Category:Tercera División players]]
+[[Category:CD Basconia footballers]]
+[[Category:Bilbao Athletic footballers]]
+[[Category:SD Ponferradina players]]
+[[Category:Real Valladolid players]]
+[[Category:Athletic Bilbao footballers]]
+[[Category:Premier League players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Spain youth international footballers]]
+[[Category:Spain under-21 international footballers]]
+[[Category:Spain international footballers]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:Spanish expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Spanish expatriate sportspeople in England]]</text>
+      <sha1>9niekig3ekfmahnwybqyidsm1a08ftn</sha1>
+    </revision>
+  </page>
+</mediawiki>

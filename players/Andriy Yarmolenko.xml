@@ -1,0 +1,469 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Andriy Yarmolenko</title>
+    <ns>0</ns>
+    <id>17693241</id>
+    <revision>
+      <id>883503627</id>
+      <parentid>883421320</parentid>
+      <timestamp>2019-02-15T20:16:05Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/SimplyFreddie|SimplyFreddie]] ([[User talk:SimplyFreddie|talk]]): Restored appropriate wording and removed collapsibility ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28853">{{Eastern Slavic name|Mykolayovych|Yarmolenko}}
+{{Infobox football biography
+| name                = Andriy Yarmolenko
+| image               = Andriy Yarmolenko2017.jpg
+| image_size          = 250
+| caption             = Yarmolenko with [[Dynamo Kyiv]] in 2017
+| fullname            = Andriy Mykolayovych Yarmolenko
+| birth_date          = {{birth date and age|df=yes|1989|10|23}}
+| birth_place         = [[Leningrad]], [[Russian Soviet Federative Socialist Republic|Russian SFSR]], Soviet Union
+| height              = 1.89 m&lt;ref&gt;{{Cite web |title=Andriy Yarmolenko |publisher=West Ham United F.C. |accessdate=26 September 2018 |url= https://www.whufc.com/teams/first-team/squad/andriy-yarmolenko#Profile}}&lt;/ref&gt;
+| position            = [[Forward (association football)|Forward]] / [[winger (association football)|Winger]]
+| currentclub         = [[West Ham United F.C.|West Ham United]]
+| clubnumber          = 20
+| youthyears1 = 2002
+| youthclubs1 = Yunist Chernihiv
+| youthyears2 = 2002–2003
+| youthclubs2 = [[FC Desna Chernihiv|Desna Chernihiv]]
+| youthyears3 = 2003–2004
+| youthclubs3 = [[FC Lokomotyv Kyiv|Lokomotyv Kyiv]]
+| youthyears4 = 2003
+| youthclubs4 = Vidradnyi Kyiv
+| youthyears5 = 2004–2006
+| youthclubs5 = Yunist Chernihiv
+| years1 = 2006–2007
+| clubs1 = [[FC Desna Chernihiv|Desna Chernihiv]]
+| caps1 =   9
+| goals1 =   4
+| years2 = 2007–2008
+| clubs2 = [[FC Dynamo-2 Kyiv|Dynamo-2 Kyiv]]
+| caps2 =  37
+| goals2 =   9
+| years3 = 2008–2017
+| clubs3 = [[FC Dynamo Kyiv|Dynamo Kyiv]]
+| caps3 = 228
+| goals3 = 99
+| years4 = 2017–2018
+| clubs4 = [[Borussia Dortmund]]
+| caps4 = 18
+| goals4 = 3
+| years5 = 2018–
+| clubs5 = [[West Ham United F.C.|West Ham United]]
+| caps5 = 9
+| goals5 = 2
+| nationalyears1 = 2007–2008
+| nationalteam1 = [[Ukraine national under-19 football team|Ukraine U19]]
+| nationalcaps1 = 14
+| nationalgoals1 =  5
+| nationalyears2 = 2008–2011
+| nationalteam2 = [[Ukraine national under-21 football team|Ukraine U21]]
+| nationalcaps2 = 16
+| nationalgoals2 =  3
+| nationalyears3 = 2009–
+| nationalteam3 = [[Ukraine national football team|Ukraine]]
+| nationalcaps3 = 80
+| nationalgoals3 = 36
+| club-update = 19:57, 10 February 2019 (UTC)
+| nationalteam-update = 19:57, 10 February 2019 (UTC)
+}}
+'''Andriy Mykolayovych Yarmolenko''' ({{lang-uk|Андрій Миколайович Ярмоленко}}; born 23 October 1989) is a Ukrainian [[association football|footballer]] who plays as a [[Winger (association football)|winger]] or [[Forward (association football)|forward]] for English {{English football updater|WestHamU}} club [[West Ham United F.C.|West Ham United]] and the [[Ukraine national football team|Ukraine national team]].
+
+Yarmolenko has been a full international for Ukraine since 2009, scoring 36 goals in 79 matches and playing at [[UEFA Euro 2012]] and [[UEFA Euro 2016|Euro 2016]].
+
+==Early life==
+Yarmolenko's parents, native Ukrainians, were originally from [[Kulykivka Raion]], [[Chernihiv Oblast]]. After marrying, his mother was offered a job in Leningrad (now [[Saint Petersburg]]), Russian SFSR, and moved there, later joined by her husband. Shortly after the birth of Andriy, the family moved back to their native land, to the city of [[Chernihiv]].&lt;ref name="uaftbl-3"&gt;[http://www.ua-football.com/ukrainian/high/458ab04c.html Андрей Ярмоленко: "Для академии "Динамо" был слаб" (Andriy Yarmolenko: I was too weak for Dynamo Kievs's youth academy)] interview with Lyudmila Rusanova of ''Komanda'' {{ru icon}}&lt;/ref&gt;
+
+==Club career==
+===Early career===
+Yarmolenko is a pupil of the [[Chernihiv]] youth system. He joined the [[FC Dynamo Kyiv|Dynamo Kyiv]] Youth Academy at age 13. However, he returned to Chernihiv after a year, unable to endure the physical demands of training.&lt;ref name="uaftbl-3"/&gt; At the start of his professional career, he played at local clubs [[FC Polissya Zhytomyr|Polissia]] and [[FC Desna Chernihiv|Desna Chernihiv]] before joining Dynamo again.
+
+===Dynamo Kyiv===
+In December 2006, Yarmolenko signed a five-year contract with Ukrainian giants, Dynamo Kyiv, where he joined its second team, [[FC Dynamo-2 Kyiv|Dynamo-2]], which plays in lower leagues, for a couple of seasons. The talented youngster was praised as the "new [[Andriy Shevchenko|Sheva]]" by journalists, who noted his qualities of good physique, shot and especially his speed. The then vice-president of Dynamo, [[Yozhef Sabo]], also praised the youngster, saying, "Yarmolenko has all the makings to become a top-level player."&lt;ref name="uaftbl-1"&gt;[http://www.ua-football.com/ukrainian/high/4587b2c9.html Андрей Ярмоленко перешел в "Динамо" (Andriy Yarmolenko moved to "Dynamo")] article on ua-football.com {{ru icon}}&lt;/ref&gt;&lt;ref name="uaftbl-2"&gt;[http://www.ua-football.com/ukrainian/high/4587b2c9.html Уже не "Шева", а "Блохин" (Now not "Sheva", but "Blokhin")] article on ua-football.com {{ru icon}}&lt;/ref&gt;
+
+On 11 May 2008, Yarmolenko debuted for Dynamo's first team in an away match against [[FC Vorskla Poltava|Vorskla Poltava]] and scored the winning goal in Kyiv's 1–2 victory.&lt;ref name="uaftbl-4"&gt;[http://www.ua-football.com/ukrainian/high/4827e464.html Андрей Ярмоленко: "Мне просто повезло" (Andriy Yarmolenko: I was lucky)] interview with Dynamo's website {{ru icon}}&lt;/ref&gt; He scored 7 goals in 21 games in his first season and 11 in 19 in his second. He is now regularly used as a left or centre forward.
+
+====Rivalry with Taras Stepanenko====
+In a match in October 2015, Yarmolenko committed a dangerous challenge which almost broke [[FC Shakhtar Donetsk|Shakhtar Donetsk]] player [[Taras Stepanenko]]'s leg. The two reconciled after the game and exchanged jerseys, but afterwards Yarmolenko threw Stepanenko's shirt on the ground while he thanked the Dynamo fans. In the
+Shakhtar–Dynamo derby in April 2016, after the former won 3–0, Stepanenko stepped in front of the Dynamo fans kissing his Shakhtar badge. In a brawl that escalated, Yarmolenko kicked Stepanenko to the ground.&lt;ref&gt;{{cite news|url=http://www.espnfc.us/blog/espn-fc-united-blog/68/post/2863955/shakhtar-and-dynamo-kiev-rivalry-could-hurt-ukraine-chances-at-euro-2016|title=Shakhtar and Dynamo Kiev rivalry could hurt Ukraine at Euro 2016 |date=4 May 2016|accessdate=4 May 2016|work=[[ESPNFC]]|author=Michael Yokhin}}&lt;/ref&gt;
+
+===Borussia Dortmund===
+On 28 August 2017, Yarmolenko signed a four-year contract with [[Borussia Dortmund]].&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/41074287|title=Andriy Yarmolenko: Borussia Dortmund sign Ukraine striker on four-year deal |date=28 August 2017|accessdate=28 August 2017|publisher=[[BBC Sport]]}}&lt;/ref&gt; On 10 September 2017, Yarmolenko made his debut for Dortmund as a substitute in the 79 minute against Freiburg. He then got his first start for Dortmund against [[Tottenham Hotspur]] in a Champions League fixture, where he scored Dortmund's only goal in the 3–1 defeat.&lt;ref&gt;{{cite news|url=https://twitter.com/FOXSoccer/status/908045069705289728|title=Yarmolenko got Dortmund back in it with a fantastic curler! #UCL|date=13 September 2017|accessdate=13 September 2017|work=[[Fox Soccer]]}}{{Primary source inline|date=July 2018}}&lt;/ref&gt;
+
+===West Ham United===
+On 11 July 2018, Yarmolenko signed for [[Premier League]] club [[West Ham United F.C.|West Ham United]] on a four-year contract for an undisclosed fee.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44793242|title=Andriy Yarmolenko: West Ham sign Ukraine winger from Borussia Dortmund|date=11 July 2018|publisher=BBC Sport|accessdate=17 September 2018}}&lt;/ref&gt; He made his debut on 12 August in a 4–0 defeat by [[Liverpool F.C.|Liverpool]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45073328|title=Salah, Mane &amp; Sturridge on target as Liverpool beat West Ham 4–0|date=12 August 2018|publisher=BBC Sport|accessdate=13 August 2018}}&lt;/ref&gt; Making his first start for West Ham on 16 September, he scored his first two goals for the club in a 3-1 away win against [[Everton F.C.|Everton]], the club's first Premier League win of the 2018-19 season.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45462681|title=Everton 1-3 West Ham: Hammers end losing start to season|date=16 September 2018|publisher=BBC Sport|accessdate=17 September 2018}}&lt;/ref&gt; Yarmolenko suffered an [[Achilles tendon|Achilles]] tear on 20 October 2018 in a 1-0 loss against [[Tottenham Hotspur]], which ruled him out for six months.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45939474|title=Andriy Yarmolenko: West Ham winger suffers Achilles tear in Tottenham defeat|date=22 September 2018|publisher=BBC Sport|accessdate=22 September 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:Andriy Yarmolenko - Martin Olsson 20120611.jpg|thumb|Yarmolenko playing against [[Sweden national football team|Sweden]] at [[UEFA Euro 2012]]]]
+On 11 August 2007 Yaromolenko represented [[Ukraine national under-19 football team|Ukraine under-19 team]] in an away exhibition game against [[Japan national under-19 football team|Japan]], winning 1–0. He also participated in the [[2008 UEFA European Under-19 Championship]] [[2008 UEFA European Under-19 Championship elite qualification|qualification]].
+
+After the qualification on 10 October 2008, Yarmolenko was invited to the [[Ukraine national under-21 football team|under-21 squad]] which played against the [[Netherlands national under-21 football team|Netherlands]]. He later participated in [[2011 UEFA European Under-21 Football Championship qualification|qualification]] and finals of the [[2011 UEFA European Under-21 Football Championship]].
+
+On 5 September 2009, in the [[2010 FIFA World Cup qualification – UEFA Group 6|2010 FIFA World Cup qualification]] game against [[Andorra national football team|Andorra]], Yarmolenko made his first [[Ukraine national football team|senior appearance for Ukraine]] and scored in a 5–0 win. On 2 September 2011, in an international friendly against [[Uruguay national football team|Uruguay]] in [[Kharkiv]], Yarmolenko set a national team record by scoring 14 seconds into the match, the fastest time in which a Ukraine national team player has scored a goal.
+
+Yarmolenko scored a hat-trick on 15 November 2014, netting all of Ukraine's goals in a 3–0 victory away to [[Luxembourg national football team|Luxembourg]] in [[UEFA Euro 2016 qualifying]].&lt;ref&gt;{{cite news|title=Yarmolenko hat-trick eases Ukraine past Luxembourg|url=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000446/match=2013900/postmatch/report/index.html|accessdate=15 November 2014|publisher=UEFA|date=15 November 2014}}&lt;/ref&gt; In November 2015, Yarmolenko scored in both legs of Ukraine's 3–1 [[UEFA Euro 2016 qualifying play-offs|play-off]] victory over [[Slovenia national football team|Slovenia]] to qualify the nation for [[UEFA Euro 2016|Euro 2016]] final stages.&lt;ref&gt;{{cite news|url=http://www.uefa.com/uefaeuro/qualifiers/season=2016/matches/round=2000447/match=2018083/index.html|title=Ukraine survive Slovenia onslaught|date=17 November 2015|publisher=UEFA}}&lt;/ref&gt; Yarmolenko was subsequently included in Ukraine's squad for Euro 2016, where he played in all three matches as Ukraine failed to score and finished [[UEFA Euro 2016#Group C|bottom of the group]].&lt;ref&gt;{{cite news|url=https://www.kyivpost.com/article/content/sport/ukraine-ends-participation-in-euro-2016-by-defeat-to-poland-416885.html|title=Ukraine ends participation in Euro 2016 by defeat to Poland|date=22 June 2016|work=Kyiv Post}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 20 October 2018}}&lt;ref&gt;{{soccerway|andriy-yarmolenko/53039}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="12"|[[FC Dynamo Kyiv|Dynamo Kyiv]]
+|[[2007–08 Vyshcha Liha|2007–08]]
+|[[Ukrainian Premier League|Vyshcha Liha]]
+|1||1||0||0||0||0||0||0||1||1
+|-
+|[[2008–09 Ukrainian Premier League|2008–09]]
+|[[Ukrainian Premier League]]
+|10||0||3||5||0||0||1||0||14||5
+|-
+|[[2009–10 Ukrainian Premier League|2009–10]]
+|Ukrainian Premier League
+|28||7||2||0||6||0||1||0||37||7
+|-
+|[[2010–11 Ukrainian Premier League|2010–11]]
+|Ukrainian Premier League
+|26||11||5||1||16||4||colspan="2"|—||47||16
+|-
+|[[2011–12 Ukrainian Premier League|2011–12]]
+|Ukrainian Premier League
+|28||12||1||1||10||0||1||0||40||13
+|-
+|[[2012–13 Ukrainian Premier League|2012–13]]
+|Ukrainian Premier League
+|27||11||1||0||12||2||colspan="2"|—||40||13
+|-
+|[[2013–14 Ukrainian Premier League|2013–14]]
+|Ukrainian Premier League
+|26||12||4||4||9||5||colspan="2"|—||39||21
+|-
+|[[2014–15 Ukrainian Premier League|2014–15]]
+|Ukrainian Premier League
+|26||14||5||1||11||4||1||0||43||19
+|-
+|[[2015–16 Ukrainian Premier League|2015–16]]
+|Ukrainian Premier League
+|23||13||3||4||7||2||1||0||34||19
+|-
+|[[2016–17 Ukrainian Premier League|2016–17]]
+|Ukrainian Premier League
+|28||15||3||3||5||1||colspan="2"|—||36||19
+|-
+|[[2017–18 Ukrainian Premier League|2017–18]]
+|Ukrainian Premier League
+|5||3||0||0||4||1||1||0||10||4
+|-
+!colspan="2"|Total
+!228!!99!!27!!19!!80!!19!!6!!0!!341!!137
+|-
+|[[Borussia Dortmund]]
+|[[2017–18 Borussia Dortmund season|2017–18]]
+|[[Bundesliga]]
+|18||3||2||2||6||1||colspan="2"|—||26||6
+|-
+|[[West Ham United F.C.|West Ham United]]
+|[[2018–19 West Ham United F.C. season|2018–19]]
+|[[Premier League]]
+|9||2||1||0||colspan="2"|—||colspan="2"|—||10||2
+|-
+!colspan="3"|Career total
+!255!!104!!30!!21!!86!!20!!6!!0!!377!!145
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 16 October 2018}}&lt;ref name=NFT&gt;{{NFT player |id=33151 |name=Yarmolenko, Andriy |accessdate=10 February 2019}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=10|[[Ukraine national football team|Ukraine]]
+|2009||6||2
+|-
+|2010||2||1
+|-
+|2011||9||3
+|-
+|2012||10||2
+|-
+|2013||11||6
+|-
+|2014||8||4
+|-
+|2015||9||4
+|-
+|2016||12||7
+|-
+|2017||8||4
+|-
+|2018||5||3
+|-
+!colspan=2|Total||80||36
+|}
+
+===International goals===
+:''As of match played 16 October 2018. Ukraine score listed first, score column indicates score after each Yarmolenko goal.''&lt;ref name=NFT/&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col|Date
+!scope=col|Venue
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+!scope=col class=unsortable|{{abbr|Ref.|Reference}}
+|-
+!scope=row style=text-align:center|1
+| 5 September 2009|| [[Valeriy Lobanovskyi Dynamo Stadium]], Kiev, Ukraine || {{fb|AND}} || align=center | 1–0 || align=center | 5–0 || [[2010 FIFA World Cup qualification]] || align=center | [https://int.soccerway.com/matches/2009/09/05/europe/wc-qualifying-europe/ukraine/andorra/705746/]
+|-
+!scope=row style=text-align:center|2
+| 14 October 2009|| [[Estadi Comunal d'Andorra la Vella]], Andorra la Vella, Andora || {{fb|AND}} || align=center | 6–0 || align=center | 6–0 || [[2010 FIFA World Cup qualification]] || align=center | [https://int.soccerway.com/matches/2009/10/14/europe/wc-qualifying-europe/andorra/ukraine/705817/]
+|-
+!scope=row style=text-align:center|3
+| 17 November 2010 || [[Stade de Genève]], Geneva, Switzerland || {{fb|SWI}} || align=center | 1–1 || align=center | 2–2 || [[Exhibition game#Association football|Friendly]] || align=center | [http://football.sport.ua/news/109596]
+|-
+!scope=row style=text-align:center|4
+| 2 September 2011 || [[Metalist Oblast Sports Complex]], Kharkiv, Ukraine || {{fb|URU}} || align=center | 1–0 || align=center | 2–3 || [[Exhibition game#Association football|Friendly]] || align=center | [https://int.soccerway.com/matches/2011/09/02/world/friendlies/ukraine/uruguay/1182012/]
+|-
+!scope=row style=text-align:center|5
+| 7 October 2011 || [[Metalist Oblast Sports Complex]], Kharkiv, Ukraine || {{fb|BUL}} || align=center | 3–0 || align=center | 3–0 || [[Exhibition game#Association football|Friendly]] || align=center | [https://int.soccerway.com/matches/2011/10/07/world/friendlies/ukraine/bulgaria/1182016/]
+|-
+!scope=row style=text-align:center|6
+| 11 November 2011 || [[Olimpiyskiy National Sports Complex]], Kiev, Ukraine || {{fb|GER}} || align=center | 1–0 || align=center | 3–3 || [[Exhibition game#Association football|Friendly]] || align=center | [https://int.soccerway.com/matches/2011/11/11/world/friendlies/ukraine/germany/1213329/]
+|-
+!scope=row style=text-align:center|7
+| 29 February 2012 || [[HaMoshava Stadium]], Petah Tikva, Israel || {{fb|ISR}} || align=center | 3–1 || align=center | 3–2 || [[Exhibition game#Association football|Friendly]] || align=center | [https://int.soccerway.com/matches/2012/02/29/world/friendlies/israel/ukraine/1236167/]
+|-
+!scope=row style=text-align:center|8
+| 28 May 2012 || Kufstein Arena, [[Kufstein]], Austria || {{fb|EST}} || align=center | 1–0 || align=center | 4–0 || [[Exhibition game#Association football|Friendly]] || align=center | [https://int.soccerway.com/matches/2012/05/28/world/friendlies/ukraine/estonia/1253775/]
+|-
+!scope=row style=text-align:center|9
+| 6 February 2013 || [[Estadio de La Cartuja]], Seville, Spain || {{fb|NOR}} || align=center | 2–0 || align=center | 2–0 || [[Exhibition game#Association football|Friendly]] || align=center | [https://int.soccerway.com/matches/2013/02/06/world/friendlies/norway/ukraine/1422123/]
+|-
+!scope=row style=text-align:center|10
+| 22 March 2013 || [[National Stadium, Warsaw|National Stadium]], Warsaw, Poland || {{fb|POL}} || align=center | 1–0 || align=center | 3–1 || [[2014 FIFA World Cup qualification]] || align=center | [https://int.soccerway.com/matches/2013/03/22/europe/wc-qualifying-europe/poland/ukraine/1228773/]
+|-
+!scope=row style=text-align:center|11
+| 26 March 2013|| [[Chornomorets Stadium]], Odessa, Ukraine || {{fb|MDA}} || align=center | 1–0 || align=center | 2–1 || [[2014 FIFA World Cup qualification]] || align=center | [https://int.soccerway.com/matches/2013/03/26/europe/wc-qualifying-europe/ukraine/moldova/1228776/]
+|-
+!scope=row style=text-align:center|12
+| 11 October 2013 || [[Olimpiyskiy National Sports Complex]], Kiev, Ukraine || {{fb|POL}} || align=center | 1–0 || align=center | 1–0 || [[2014 FIFA World Cup qualification]] || align=center | [https://int.soccerway.com/matches/2013/10/11/europe/wc-qualifying-europe/ukraine/poland/1228786/]
+|-
+!scope=row style=text-align:center|13
+| 15 October 2013|| [[San Marino Stadium]], Serravalle, San Marino || {{fb|SMR}} || align=center | 5–0 || align=center | 8–0 || [[2014 FIFA World Cup qualification]] || align=center | [https://int.soccerway.com/matches/2013/10/15/europe/wc-qualifying-europe/san-marino/ukraine/1228788/]
+|-
+!scope=row style=text-align:center|14
+| 15 November 2013 || [[Olimpiyskiy National Sports Complex]], Kiev, Ukraine || {{fb|FRA}} || align=center | 2–0 || align=center | 2–0 || [[2014 FIFA World Cup qualification]] || align=center | [https://int.soccerway.com/matches/2013/11/15/europe/wc-qualifying-europe/ukraine/france/1598750/]
+|-
+!scope=row style=text-align:center|15
+| 5 March 2014 || [[Antonis Papadopoulos Stadium]], Larnaca, Cyprus || {{fb|USA}} || align=center | 1–0 || align=center | 2–0 || [[Exhibition game#Association football|Friendly]] || align=center | [https://int.soccerway.com/matches/2014/03/05/world/friendlies/ukraine/united-states-of-america/1635745/]
+|-
+!scope=row style=text-align:center|16
+| rowspan="3" | 15 November 2014 || rowspan="3" | [[Stade Josy Barthel]], Luxembourg, Luxembourg || rowspan="3" | {{fb|LUX}} || align=center | 1–0 || rowspan="3" align=center | 3–0 || rowspan="3" | [[UEFA Euro 2016 qualification]] || rowspan="3" align=center | [https://int.soccerway.com/matches/2014/11/15/europe/european-championship-qualification/luxembourg/ukraine/1653229/]
+|-
+!scope=row style=text-align:center|17
+| align=center | 2–0
+|-
+!scope=row style=text-align:center|18
+| align=center | 3–0
+|-
+!scope=row style=text-align:center|19
+| 31 March 2015 || [[Arena Lviv]], Lviv, Ukraine || {{fb|LVA}} || align=center | 1–0 || align=center | 1–1 || [[Exhibition game#Association football|Friendly]] || align=center | [https://int.soccerway.com/matches/2015/03/31/world/friendlies/ukraine/latvia/2013997/]
+|-
+!scope=row style=text-align:center|20
+| 5 September 2015 || [[Arena Lviv]], Lviv, Ukraine || {{fb|BLR}} || align=center | 2–0 || align=center | 3–1 || [[UEFA Euro 2016 qualification]] || align=center | [http://www.skysports.com/football/ukraine-vs-belarus/309077]
+|-
+!scope=row style=text-align:center|21
+| 14 November 2015 || [[Arena Lviv]], Lviv, Ukraine || {{fb|SLO}} || align=center | 1–0 || align=center | 2–0 || [[UEFA Euro 2016 qualification]] || [http://www.uefa.com/uefaeuro/qualifiers/season=2016/matches/round=2000447/match=2018079/postmatch/quotes/]
+|-
+!scope=row style=text-align:center|22
+| 17 November 2015 || [[Stožice Stadium]], [[Ljubljana]], Slovenia || {{fb|SLO}} || align=center | 1–1 || align=center | 1–1 || [[UEFA Euro 2016 qualification]] || [http://www.goal.com/en/match/slovenia-vs-ukraine/2164523/report]
+|-
+!scope=row style=text-align:center|23
+| 28 March 2016 || [[Olimpiyskiy National Sports Complex]], Kiev, Ukraine || {{fb|WAL}} || align=center | 1–0 || align=center | 1–0 || [[Exhibition game#Association football|Friendly]] || align=center | [http://www.skysports.com/football/ukraine-vs-wales/353380]
+|-
+!scope=row style=text-align:center|24
+| 29 May 2016 || [[Stadio Olimpico Grande Torino]], Turin, Italy || {{fb|ROU}} || align=center | 4–1 || align=center | 4–3 || [[Exhibition game#Association football|Friendly]] || align=center | [https://int.soccerway.com/matches/2016/05/29/world/friendlies/romania/ukraine/2229634]
+|-
+!scope=row style=text-align:center|25
+| 3 June 2016 || [[Stadio Atleti Azzurri d'Italia]], Bergamo, Italy || {{fb|ALB}} || align=center | 2–1 || align=center | 3–1 || [[Exhibition game#Association football|Friendly]] || align=center | [https://int.soccerway.com/matches/2016/06/03/world/friendlies/albania/ukraine/2227977/]
+|-
+!scope=row style=text-align:center|26
+| 5 September 2016 || [[Olimpiyskiy National Sports Complex]], Kiev, Ukraine || {{fb|ISL}} || align=center | 1–1 || align=center | 1–1 || [[2018 FIFA World Cup qualification]] || align=center | [https://int.soccerway.com/matches/2016/09/05/europe/wc-qualifying-europe/ukraine/iceland/2116412/]
+|-
+!scope=row style=text-align:center|27
+| 6 October 2016 || [[Torku Arena]], Konya, Turkey || {{fb|TUR}} || align=center | 1–0 || align=center | 2–2 || [[2018 FIFA World Cup qualification]] || align=center | [https://int.soccerway.com/matches/2016/10/06/europe/wc-qualifying-europe/turkey/ukraine/2116414/?ICID=PL_MS_05]
+|-
+!scope=row style=text-align:center|28
+| 9 October 2016 || [[Marshal Józef Piłsudski Stadium]], Kraków, Poland || {{fb|KOS}} || align=center | 2–0 || align=center | 3–0 || [[2018 FIFA World Cup qualification]] || align=center | [https://www.fifa.com/worldcup/matches/round=276483/match=300361567/index.html]
+|-
+!scope=row style=text-align:center|29
+| 15 November 2016|| [[Metalist Oblast Sports Complex]], Kharkiv, Ukraine || {{fb|SRB}} || align=center | 2–0 || align=center | 2–0 || [[Exhibition game#Association football|Friendly]] || align=center | [http://www.skysports.com/football/ukraine-vs-serbia/367871]
+|-
+!scope=row style=text-align:center|30
+| rowspan=2| 2 September 2017|| rowspan=2| [[Metalist Oblast Sports Complex]], Kharkiv, Ukraine || rowspan=2| {{fb|TUR}} || align=center | 1–0 || rowspan=2 align=center | 2–0 || rowspan=2| [[2018 FIFA World Cup qualification]] || rowspan=2 align=center | [https://www.fifa.com/worldcup/matches/round=276483/match=300332112/index.html]
+|-
+!scope=row style=text-align:center|31
+| align=center | 2–0
+|-
+!scope=row style=text-align:center|32
+|6 October 2017|| [[Loro Boriçi Stadium]], Shkodër, Albania|| {{fb|KOS}} || align=center | 2–0 || align=center | 2–0 ||[[2018 FIFA World Cup qualification]] || align=center | [https://www.fifa.com/worldcup/matches/round=276483/match=300361571/index.html]
+|-
+!scope=row style=text-align:center|33
+|10 November 2017|| [[Arena Lviv]], Lviv, Ukraine|| {{fb|SVK}} || align=center | 1–1 || align=center | 2–1 || [[Exhibition game#Association football|Friendly]] || align=center | [http://www.skysports.com/football/ukraine-vs-slovakia/385627]
+|-
+!scope=row style=text-align:center|34
+| rowspan=2| 3 June 2018|| rowspan=2| Stade Camille Fournier, [[Évian-les-Bains]], France || rowspan=2| {{fb|ALB}} || align=center | 2–0 || rowspan=2 align=center | 4–1 || rowspan=2| [[Exhibition game#Association football|Friendly]] ||  rowspan=2 align=center | [http://www.skysports.com/football/albania-vs-ukraine/389264]
+|-
+!scope=row style=text-align:center|35
+| align=center | 3–0
+|-
+!scope=row style=text-align:center|36
+|9 September 2018|| [[Arena Lviv]], Lviv, Ukraine|| {{fb|SVK}} || align=center | 1–0 || align=center | 1–0 || [[2018–19 UEFA Nations League B]] ||
+|}
+
+==Honours==
+'''Dynamo Kyiv'''
+* [[Ukrainian Premier League]]: [[2008–09 Ukrainian Premier League|2008–09]], [[2014–15 Ukrainian Premier League|2014–15]], [[2015–16 Ukrainian Premier League|2015–16]]
+* [[Ukrainian Cup]]: [[2013–14 Ukrainian Cup|2013–14]], [[2014–15 Ukrainian Cup|2014–15]]
+* [[Ukrainian Super Cup]]: [[Ukrainian Super Cup|2009]], [[Ukrainian Super Cup|2011]]
+
+'''Individual'''
+* [[Ukrainian Footballer of the Year#Komanda award|Ukrainian Premier League Footballer of the Year]] : 2011, 2014
+* [[Ukrainian Footballer of the Year#Ukrainskiy Football|Ukrainian Footballer of the Year]]: 2013, 2014, 2015, 2017
+* [[Ukrainian Premier League]] Best Player: [[2014–15 Ukrainian Premier League|2014–15]], [[2015–16 Ukrainian Premier League|2015–16]], [[2016–17 Ukrainian Premier League|2016–17]]
+* [[Ukrainian Premier League]] Top Scorer: [[2016–17 Ukrainian Premier League|2016–17]]
+* [[Ukrainian Cup]] Top Scorer: [[2008–09 Ukrainian Cup#Top goalscorers|2008–09]], [[2015–16 Ukrainian Cup#Top goalscorers|2015–16]], [[2016–17 Ukrainian Cup#Top goalscorers|2016–17]]
+* [[UEFA Europa League]] Most Assists: [[2014–15 UEFA Europa League#Top assists|2014–15]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Andriy Yarmolenko}}
+*{{FFU profile|id=18660|name=Andriy Yarmolenko}}
+*{{NFT player|pid=33151}}
+*[http://thetopforward.com/view?id=63 Andriy Yarmolenko] at Topforward
+*[https://web.archive.org/web/20090906150746/http://www.fcdynamo.kiev.ua/en/dynamo/players/?player=5081 Profile on Official Dynamo Website]
+*[https://www.theguardian.com/football/blog/2012/jun/06/euro-2012-ukraine-andriy-yarmolenko Profile at the Guardian]
+*[http://www.uefa.com/uefaeuro/season=2012/teams/player=250000069/index.html Profile at UEFA Euro 2012]
+
+{{Navboxes
+|title=Awards
+|titlestyle=background: gold
+|list1=
+{{Ukrainian Footballer of the Year}}
+{{Ukrainian Premier League top scorers}}
+{{Ukrainian Cup top scorers}}
+}}
+{{Navboxes colour
+|title= Ukraine squads
+|bg= #f9dd16
+|fg= #005bbb
+|list1=
+{{Ukraine squad UEFA Euro 2012}}
+{{Ukraine squad UEFA Euro 2016}}
+}}
+{{West Ham United F.C. Squad}}
+
+{{use dmy dates|date=September 2011}}
+
+{{DEFAULTSORT:Yarmolenko, Andriy}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Ukrainian footballers]]
+[[Category:Ukraine youth international footballers]]
+[[Category:Ukraine under-21 international footballers]]
+[[Category:Ukraine international footballers]]
+[[Category:Ukrainian Premier League players]]
+[[Category:FC Desna Chernihiv players]]
+[[Category:FC Dynamo Kyiv players]]
+[[Category:Sportspeople from Saint Petersburg]]
+[[Category:Russian people of Ukrainian descent]]
+[[Category:Russian emigrants to Ukraine]]
+[[Category:Association football forwards]]
+[[Category:Association football midfielders]]
+[[Category:UEFA Euro 2012 players]]
+[[Category:FC Dynamo-2 Kyiv players]]
+[[Category:Ukrainian Cup top scorers]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:Ukrainian Premier League top scorers]]
+[[Category:Borussia Dortmund players]]
+[[Category:Bundesliga players]]
+[[Category:Ukrainian expatriate footballers]]
+[[Category:Expatriate footballers in Germany]]
+[[Category:Ukrainian expatriate sportspeople in Germany]]
+[[Category:West Ham United F.C. players]]
+[[Category:Expatriate footballers in England]]
+[[Category:Ukrainian expatriate sportspeople in England]]
+[[Category:Premier League players]]</text>
+      <sha1>l2ub41590hfq5yo4hamu4exf5144wtq</sha1>
+    </revision>
+  </page>
+</mediawiki>

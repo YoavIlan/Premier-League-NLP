@@ -1,0 +1,133 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sam Woods</title>
+    <ns>0</ns>
+    <id>8800872</id>
+    <revision>
+      <id>882240186</id>
+      <parentid>866913338</parentid>
+      <timestamp>2019-02-07T18:56:21Z</timestamp>
+      <contributor>
+        <username>PC78</username>
+        <id>2489774</id>
+      </contributor>
+      <minor/>
+      <comment>dab link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4357">{{Other people|Sam Woods|Samuel Woods (disambiguation){{!}}Samuel Woods}}
+{{Use dmy dates|date=April 2017}}
+{{Use British English|date=April 2017}}
+[[File:1897 Sam Woods.jpg|thumb|Sam Woods]]
+'''Sam Woods''' (10 May 1846 – 23 November 1915) was a British trade unionist and politician who served as a [[Member of Parliament]] (MP) in the 1890s.
+
+Born at [[Peasley Cross]] in [[St Helens, Merseyside|St Helens]], Woods began working in [[coal mining]] at the age of seven.  He was elected as a pit [[checkweighman]] in 1875 and became strongly involved in trade unionism, joining the [[Lancashire and Cheshire Miners' Federation]] in 1881.  When this merged into the [[Miners' Federation of Great Britain]] (MFGB) in 1889, Woods became the organisation's first vice president.
+
+In the [[United Kingdom general election, 1892|1892 general election]], Woods was elected as a [[Liberal-Labour (UK)|Lib–Lab]] MP for [[Ince (UK Parliament constituency)|Ince]].  In Parliament, he agitated for the [[Coal Mines Regulation Act 1908|Eight Hours Bill]], and in 1894 he was elected as the [[General Secretary of the TUC|Secretary of the Parliamentary Committee]] of the [[Trades Union Congress]] (TUC).  He lost his seat at the [[United Kingdom general election, 1895|1895 general election]], but was re-elected for [[Walthamstow (UK Parliament constituency)|Walthamstow]] at a [[Walthamstow by-election, 1897|by-election in 1897]].  However, he lost the seat in [[United Kingdom general election, 1900|1900]] following confusion over his stance on the [[Second Boer War]].
+
+While broadly supportive of the [[British Labour Party#Labour Representation Committee|Labour Representation Committee]], Woods remained a [[Liberal Party (UK)|Liberal]] and joined the [[National Democratic League]].  His health failing, he resigned his TUC post in 1904, but retained his vice presidency of the MFGB to prevent [[Robert Smillie]] gaining election.
+
+An elderly persons home is named after him in [[Ashton in Makerfield]].
+
+==References==
+*[[Oxford Dictionary of National Biography]]
+
+== External links ==
+* {{Hansard-contribs | mr-samuel-woods | Sam Woods }}
+*[https://books.google.com/books?id=ym0AAAAAYAAJ&amp;printsec=titlepage#PPA464,M2 1903 photo]
+
+{{start box}}
+{{s-par|uk}}
+{{succession box
+  | title  = [[Member of Parliament]] for [[Ince (UK Parliament constituency)|Ince]]
+  | years  = [[United Kingdom general election, 1892|1892]]–[[United Kingdom general election, 1895|1895]]
+  | before = [[Henry Blundell-Hollinshead-Blundell]]
+  | after  = [[Henry Blundell-Hollinshead-Blundell]]
+}}
+{{succession box
+  | title  = [[Member of Parliament]] for [[Walthamstow (UK Parliament constituency)|Walthamstow]]
+  | years  = [[Walthamstow by-election, 1897|1897]]–[[United Kingdom general election, 1900|1900]]
+  | before = [[Edmund Widdrington Byrne]]
+  | after  = [[David John Morgan]]
+}}
+{{s-npo|union}}
+{{succession box
+  | title  = President of the [[Lancashire and Cheshire Miners' Federation]]
+  | years  = 1890s?–1908
+  | before = [[Thomas Aspinwall (trade unionist)|Thomas Aspinwall]]
+  | after  = [[Thomas Greenall]] }}
+{{s-new | Office }}
+{{s-ttl
+  | title  = Vice-President of the [[Miners' Federation of Great Britain]]
+  | years  = 1889–1909
+}}
+{{s-aft | after  = [[Robert Smillie]] }}
+{{succession box
+  | title  = [[General Secretary of the TUC|Secretary of the Parliamentary Committee of the TUC]]
+  | years  = 1894–1904
+  | before = [[Charles Fenwick]]
+  | after  = [[W. C. Steadman]]
+}}
+{{succession box|title=[[Trades Union Congress]] representative to the [[American Federation of Labour]]|years=1896|with=[[John Mallinson]]|before=[[Edward Cowey]] and [[James Mawdsley (trade unionist)|James Mawdsley]]|after=[[Edward Harford]] and [[Havelock Wilson]]}}
+{{end box}}
+
+{{National Union of Mineworkers (UK)}}
+
+{{DEFAULTSORT:Woods, Sam}}
+[[Category:General Secretaries of the Trades Union Congress]]
+[[Category:Vice Presidents of the National Union of Mineworkers (Great Britain)]]
+[[Category:Liberal-Labour (UK) MPs]]
+[[Category:Members of the Parliamentary Committee of the Trades Union Congress]]
+[[Category:UK MPs 1892–95]]
+[[Category:UK MPs 1895–1900]]
+[[Category:1846 births]]
+[[Category:1915 deaths]]
+[[Category:People from St Helens, Merseyside]]
+[[Category:Members of the Parliament of the United Kingdom for English constituencies]]</text>
+      <sha1>2v63skipgeltqv4xddtcv0deovmx6x6</sha1>
+    </revision>
+  </page>
+</mediawiki>

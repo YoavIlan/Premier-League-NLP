@@ -1,0 +1,343 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Eduardo Carvalho</title>
+    <ns>0</ns>
+    <id>16406594</id>
+    <revision>
+      <id>877207708</id>
+      <parentid>875407250</parentid>
+      <timestamp>2019-01-07T06:36:21Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <minor/>
+      <comment>populating subcats of [[Category:Portuguese expatriate sportspeople by country of residence]]. Some cats may not exist; 2b created next step</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23708">{{Use dmy dates|date=July 2013}}
+{{Portuguese name|Reis|Carvalho}}
+{{Infobox football biography
+| name = Eduardo
+| image = 20160824 RBS DIN 7147.jpg
+| image_size = 200
+| caption = Eduardo playing for [[Dinamo Zagreb]] in 2016
+| fullname = Eduardo dos Reis Carvalho&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/612828|title=Updated squads for 2017/18 Premier League confirmed|publisher=Premier League|date=2 February 2018|accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1982|9|19|df=y}}&lt;ref name=Prem&gt;{{cite web|url=https://www.premierleague.com/players/12265/Eduardo/overview|title=Eduardo: Overview|publisher=Premier League|accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_place = [[Mirandela]], Portugal
+| height = 1.87 m&lt;ref name=Prem/&gt;
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[SBV Vitesse|Vitesse]]&lt;br /&gt;(on loan from [[Chelsea F.C.|Chelsea]])
+| clubnumber = 1&lt;!--37--&gt;
+| youthyears1 = 1992–1996 | youthclubs1 = [[SC Mirandela|Mirandela]]
+| youthyears2 = 1996–1997 | youthclubs2 = [[Vitória S.C.|Vitória Guimarães]]
+| youthyears3 = 1997–1998 | youthclubs3 = [[SC Mirandela|Mirandela]]
+| youthyears4 = 1998–2001 | youthclubs4 = [[S.C. Braga|Braga]]
+| years1 = 2001–2006 | clubs1 = [[S.C. Braga B|Braga B]] | caps1 = 113 | goals1 = 0
+| years2 = 2006–2010 | clubs2 = [[S.C. Braga|Braga]] | caps2 = 60 | goals2 = 0
+| years3 = 2007 | clubs3 = → [[S.C. Beira-Mar|Beira-Mar]] (loan) | caps3 = 15 | goals3 = 0
+| years4 = 2007–2008 | clubs4 = → [[Vitória F.C.|Vitória Setúbal]] (loan) | caps4 = 30 | goals4 = 0
+| years5 = 2010–2014 | clubs5 = [[Genoa C.F.C.|Genoa]] | caps5 = 37 | goals5 = 0
+| years6 = 2011–2012 | clubs6 = → [[S.L. Benfica|Benfica]] (loan) | caps6 = 1 | goals6 = 0
+| years7 = 2012–2013 | clubs7 = → [[İstanbul Büyükşehir Belediyespor (football)|İstanbul BB]] (loan) | caps7 = 33 | goals7 = 0
+| years8 = 2013–2014 | clubs8 = → [[S.C. Braga|Braga]] (loan) | caps8 = 29 | goals8 = 0
+| years9 = 2014–2016 | clubs9 = [[GNK Dinamo Zagreb|Dinamo Zagreb]] | caps9 = 70 | goals9 = 0
+| years10 = 2016– | clubs10 = [[Chelsea F.C.|Chelsea]] | caps10 = 0 | goals10 = 0
+| years11= 2018– | clubs11 = → [[SBV Vitesse|Vitesse]] (loan) | caps11 = 16  | goals11 = 0
+| nationalyears1 = 2008 | nationalteam1 = [[Portugal national under-21 football team|Portugal U21]] | nationalcaps1 = 2 |nationalgoals1 = 0
+| nationalyears2 = 2009– | nationalteam2 = [[Portugal national football team|Portugal]] | nationalcaps2 = 36 | nationalgoals2 = 0
+| medaltemplates =
+{{medalCountry|[[Portugal national football team|Portugal]]}}
+{{medalBronze|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2012|2012]]}}&lt;!--Though there was no third place playoff, UEFA decided in the 2012 edition to award the semi-final losers (Germany and Portugal) bronze medals.--&gt;
+{{medalGold|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2016|2016]]}}
+| club-update = 14:22, 20 December 2018 (UTC)
+| nationalteam-update = 1 September 2016
+}}
+'''Eduardo dos Reis Carvalho''' ({{IPA-pt|iˈðwaɾðu kɐɾˈvaʎu}}; born 19 September 1982), known simply as '''Eduardo''', is a Portuguese professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for Dutch club [[SBV Vitesse]] on loan from [[Chelsea F.C.|Chelsea]], and the [[Portugal national football team|Portugal national team]].
+
+He appeared in 134 [[Primeira Liga]] games over ten seasons, almost always representing [[S.C. Braga|Braga]]. He also played professionally in Italy, Turkey, Croatia and England.
+
+After winning the first of his 36 [[Cap (sport)|caps]] for [[Portugal national football team|Portugal]] in 2009, Eduardo was part of the squads in two [[FIFA World Cup|World Cups]] and as many [[UEFA European Championship|European Championships]], starting in the [[2010 FIFA World Cup|2010 edition of the former tournament]].
+
+==Club career==
+Eduardo was born in [[Mirandela]], [[Bragança District]]. A product of [[S.C. Braga]]'s youth system, he first appeared in the [[Primeira Liga]] during [[2006–07 Primeira Liga|2006–07]] when he served a six-month loan at [[S.C. Beira-Mar]]. In [[2007–08 Primeira Liga|the following season]] he was also loaned, this time to [[Vitória F.C.|Vitória de Setúbal]], and was as a key player in a [[Carlos Carvalhal]]-led side that [[2007–08 Taça da Liga|won]] the inaugural [[Taça da Liga|Portuguese League Cup]] and thus [[2008–09 UEFA Cup|qualified]] for the [[UEFA Europa League|UEFA Cup]], with a ''[[Man of the match]]'' display in the final against [[Sporting Clube de Portugal]] where he saved three attempts in the [[Penalty shoot-out (association football)|penalty shootout]].&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/futebol/futebol-nacional/taca-da-liga/detalhe/carlos-carvalhal-eduardo-da-pontos-e-tacas.html|title=Carlos Carvalhal: "Eduardo dá pontos e Taças"|trans-title=Carlos Carvalhal: "Eduardo gives points and Cups"|newspaper=[[Record (newspaper)|Record]]|language=pt|date=22 March 2008|accessdate=15 January 2016}}&lt;/ref&gt;
+
+Eduardo returned to Braga for the [[2008–09 Primeira Liga|2008–09 campaign]], playing in all the league matches and also in the [[Minho Province|Minho]] team's [[2008–09 UEFA Cup|UEFA Cup round-of-16 run]].&lt;ref&gt;{{cite news|url=http://www.record.pt/futebol/futebol-nacional/liga-nos/sp--braga/detalhe/eduardo-arrasado.html|title=Eduardo arrasado|trans-title=Eduardo destroyed|newspaper=Record|language=pt|date=21 March 2009|accessdate=27 February 2018}}&lt;/ref&gt; The same happened in [[2009–10 Primeira Liga|the following year]] – with them finishing in their best-ever position, second – as he only conceded 20 goals, joint-best in the competition.&lt;ref&gt;{{cite web|url=https://www.tsf.pt/desporto/interior/guarda-redes-eduardo-nao-promete-continuidade-no-braga-1568007.html|title=Guarda-redes Eduardo não promete continuidade no Braga|trans-title=Goalkeeper Eduardo does not promise to remain at Braga|publisher=[[TSF (radio station)|TSF]]|language=pt|date=12 May 2010|accessdate=27 February 2018}}&lt;/ref&gt;
+
+On 7 July 2010, Eduardo signed a four-year contract with [[Serie A]]'s [[Genoa C.F.C.]] for €4.8 million,&lt;ref&gt;{{cite web|url=http://www.genoacfc.it/index.php?option=com_content&amp;task=view&amp;id=10055&amp;Itemid=31|title=Un altro colpo Mondiale per il Genoa|trans-title=Another World Cup strike for Genoa|publisher=Genoa C.F.C|language=it|date=7 July 2010|accessdate=8 July 2010}}&lt;/ref&gt;&lt;ref&gt;Genoa C.F.C. S.p.A. ''bilancio'' (financial report and accounts) on 31 December 2010 (in Italian), [http://www.registroimprese.it PDF purchased from Italian C.C.I.A.A.]&lt;/ref&gt; replacing departed [[Marco Amelia]]. Braga would also receive a 25% future transfer fee if the former sold the player.&lt;ref&gt;{{cite web|url=http://www.football-italia.net/jul08r.html|title=Preziosi explains Eduardo deal|publisher=Football Italia|date=8 July 2010|accessdate=8 July 2010}}&lt;/ref&gt;
+
+Eduardo started all the games but one for the Italians in [[2010–11 Serie A|his first and only season]], in a final midtable position. In July 2011 he returned to his country and joined [[S.L. Benfica]] on loan, with the [[Lisbon]] club having an option to buy at the end of [[2011–12 Primeira Liga|the campaign]];&lt;ref&gt;{{cite news|url=https://www.jn.pt/desporto/interior/genova-confirma-emprestimo-de-eduardo-ao-benfica-1911948.html|title=Génova confirma empréstimo de Eduardo ao Benfica|trans-title=Genoa confirm loan of Eduardo to Benfica|newspaper=[[Jornal de Notícias]]|language=pt|date=17 July 2011|accessdate=27 February 2018}}&lt;/ref&gt; during his spell at the ''[[Estádio da Luz]]'', he appeared in only nine competitive matches.&lt;ref&gt;{{cite web|url=https://www.vavel.com/pt/futebol-internacional/649659-euro-2016-rx-dos-guarda-redes-eduardo.html|title=Euro 2016: RX dos Guarda-redes – Eduardo|trans-title=Euro 2016: Goalkeeper XR – Eduardo|publisher=[[Vavel]]|language=pt|date=20 May 2016|accessdate=27 February 2018}}&lt;/ref&gt;
+
+On 26 June 2012, Eduardo signed for [[İstanbul Büyükşehir Belediyespor (football)|İstanbul Büyükşehir Belediyespor]] in a temporary deal, joining countryman [[Carlos Carvalhal]] (coach) at the [[Süper Lig]] team.&lt;ref&gt;{{cite news|url=http://www.abola.pt/nnh/ver.aspx?id=338688|title=Eduardo no Istambul BB|trans-title=Eduardo to Istambul BB|newspaper=[[A Bola]]|language=pt|date=26 June 2012|accessdate=26 June 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120629032028/http://www.abola.pt/nnh/ver.aspx?id=338688|archivedate=29 June 2012}}&lt;/ref&gt; The following summer he returned to both Portugal and Braga, while still owned by Genoa.&lt;ref&gt;Genoa C.F.C. S.p.A. ''bilancio'' (financial report and accounts) on 31 December 2013 (in Italian), [http://www.registroimprese.it PDF purchased from Italian C.C.I.A.A.]&lt;/ref&gt;
+
+On 27 June 2014, Eduardo joined several compatriots at Croatian side [[GNK Dinamo Zagreb]] after agreeing to a three-year contract.&lt;ref&gt;{{cite web|url=http://gnkdinamo.hr/hr/novosti/vijesti/veliko-pojacanje-na-golu-eduardo-potpisao-za-dinamo!.html|title=Veliko pojačanje na golu: Eduardo potpisao za Dinamo!|trans-title=Big boost in goal: Eduardo signs for Dinamo!|publisher=GNK Dinamo Zagreb|language=hr|date=27 June 2014|accessdate=27 June 2014}}&lt;/ref&gt; On 25 August 2016, after 95 competitive appearances, he signed with [[Premier League]] club [[Chelsea F.C.|Chelsea]] on a one-year deal, being brought in to provide experienced cover and competition to [[Thibaut Courtois]] and [[Asmir Begović]].&lt;ref&gt;{{Cite web|url=http://www.chelseafc.com/news/latest-news/2016/08/eduardo-transfer-completed.html|title=Eduardo transfer completed|publisher=Chelsea F.C|date=25 August 2016|access-date=25 August 2016}}&lt;/ref&gt;
+
+In spite of his team being crowned [[2016–17 Premier League|league champions]], Eduardo did not receive a medal as he did not appear in any games.&lt;ref&gt;{{Cite web|url=http://metro.co.uk/2017/05/13/which-chelsea-players-wont-receive-premier-league-winners-medals-6634995/|title=Which Chelsea players WON’T receive Premier League winners’ medals?|publisher=Metro|date=13 May 2017|access-date=25 May 2017}}&lt;/ref&gt; He agreed to a one-year contract extension on 23 May 2017, with technical director [[Michael Emenalo]] calling him "a model professional".&lt;ref&gt;{{Cite web|url=https://www.chelseafc.com/news/latest-news/2017/05/new-deal-for-eduardo.html|title=New deal for Eduardo|publisher=Chelsea F.C|date=23 May 2017|access-date=23 May 2017}}&lt;/ref&gt;
+
+Despite being listed on Chelsea's released list following the conclusion of [[2017–18 Premier League|2017–18]], Eduardo signed a new one-year contract in July.&lt;ref&gt;{{Cite web|url=http://sportwitness.co.uk/chelsea-player-signs-one-year-extension-loaned-strange-move/|title=Chelsea player signs one year extension to be loaned out, strange move|publisher=Sport Witness|author=Lucas Sposito|date=5 July 2018|accessdate=5 July 2018}}&lt;/ref&gt; Early in the same month, he agreed to join Dutch team [[SBV Vitesse]] on a [[2018–19 Eredivisie|season]]-long loan.&lt;ref&gt;{{Cite web|url=https://www.chelseafc.com/en/news/2018/7/6/eduardo-moves-to-vitesse|title=Eduardo loaned to Vitesse|publisher=Chelsea F.C|date=6 July 2018|accessdate=6 July 2018}}&lt;/ref&gt; He made his competitive debut on 26 July 2018, in a 2–2 draw away to [[FC Viitorul Constanța]] for the [[2018–19 UEFA Europa League|Europa League second qualifying round]].&lt;ref&gt;{{Cite web|url=https://www.omroepgelderland.nl/nieuws/2321194/Vitesse-wint-van-Viitorul-en-gaat-door-in-Europa|title=Vitesse wint van Viitorul en gaat door in Europa|trans-title=Vitesse beat Viitorul and remain in Europe|publisher=[[Omroep Gelderland]]|language=nl|date=26 July 2018|accessdate=3 September 2018}}&lt;/ref&gt;
+
+==International career==
+After [[UEFA Euro 2008]], Eduardo was called up by new [[Portugal national football team|Portugal national team]] coach [[Carlos Queiroz]] for the [[2010 FIFA World Cup]] [[2010 FIFA World Cup qualification (UEFA)|qualifiers]] against [[Malta national football team|Malta]] and [[Denmark national football team|Denmark]], where he was understudy to [[Quim (footballer, born 1975)|Quim]].&lt;ref&gt;{{cite news|url=https://www.jn.pt/desporto/interior/primeiro-treino-de-queiroz-rumo-ao-mundial-de-2010-981425.html|title=Primeiro treino de Queiroz rumo ao Mundial de 2010|trans-title=First Queiroz training towards 2010 World Cup|newspaper=Jornal de Notícias|language=pt|date=19 August 2008|accessdate=27 February 2018}}&lt;/ref&gt; He made his full debut on 11 February 2009 in a [[Exhibition game|friendly match]] with [[Finland national football team|Finland]], playing the first 60 minutes in a 1–0 home win,&lt;ref&gt;{{cite news|url=http://www.acorianooriental.pt/noticia/179818|title=Portugal vence Finlândia 1–0 em jogo particular|trans-title=Portugal beat Finland 1–0 in friendly game|newspaper=Açoriano Oriental|language=pt|date=11 February 2009|accessdate=4 October 2017}}&lt;/ref&gt; and remained the starter throughout the remainder of the qualifying campaign; he also started in the final stages in South Africa, keeping [[Shutout|clean sheets]] against [[Ivory Coast national football team|Ivory Coast]],&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_13/default.stm|title=Ivory Coast 0–0 Portugal|publisher=[[BBC Sport]]|date=15 June 2010|accessdate=3 June 2016}}&lt;/ref&gt; [[North Korea national football team|North Korea]]&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2010/06/22/sports/soccer/22portugalgame.html|title=Portugal pours it on in second half|newspaper=[[The New York Times]]|date=21 June 2010|accessdate=3 June 2016}}&lt;/ref&gt; and [[Brazil national football team|Brazil]]&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_45/default.stm|title=Portugal 0–0 Brazil|publisher=BBC Sport|date=25 June 2010|accessdate=3 June 2016}}&lt;/ref&gt; and only conceding in the [[Single-elimination tournament|round-of-16]] loss against eventual champions [[Spain national football team|Spain]] (0–1), where he saved many shots from the opposition, mostly by [[David Villa]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2010/jun/29/spain-portugal-world-cup-2010-report|title=World Cup 2010: David Villa raises the roof as Spain push past Portugal|newspaper=[[The Guardian]]|date=29 June 2010|accessdate=3 June 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/news/y=2010/m=6/news=eduardo-laments-opportunity-missed-1264342.html|title=Eduardo laments opportunity missed|publisher=FIFA|date=30 June 2010|accessdate=3 June 2016}}&lt;/ref&gt;
+
+After being relegated to the bench at his club, Eduardo met the same fate in the national team to [[Rui Patrício]], and both finished the [[UEFA Euro 2012]] [[UEFA Euro 2012 qualifying|qualifying campaign]] with five games as Portugal qualified for the finals. He was also named in the squad of 23 for the [[2014 FIFA World Cup|2014 World Cup]],&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/portugal/10810443/Portugal-World-Cup-2014-squad.html|title=Portugal World Cup 2014 squad|newspaper=[[The Daily Telegraph]]|date=2 June 2014|accessdate=26 June 2014}}&lt;/ref&gt; but only actually played five minutes in the last group stage match against [[Ghana national football team|Ghana]], coming on for injured [[Beto (footballer, born 1982)|Beto]].&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/matches/round=255931/match=300186476/match-report.html|title=Ronaldo downs Ghana but Portugal crash out|publisher=FIFA|date=26 June 2014|accessdate=26 June 2014}}&lt;/ref&gt;
+
+==Club statistics==
+{{updated|20 December 2018}}
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|[[UEFA|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="11"|[[S.C. Braga|Braga]]
+|[[2000–01 Primeira Liga|2000–01]]&lt;ref name="FJ"&gt;{{cite web|url=https://www.foradejogo.net/player.php?player=198209190001&amp;language=2|title=Eduardo|publisher=ForaDeJogo|accessdate=2 March 2015}}&lt;/ref&gt;
+|[[Primeira Liga]]
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0||0||0
+|-
+|[[2001–02 Primeira Liga|2001–02]]&lt;ref name="FJ"/&gt;
+|Primeira Liga
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0||0||0
+|-
+|[[2002–03 Primeira Liga|2002–03]]&lt;ref name="FJ"/&gt;
+|Primeira Liga
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0||0||0
+|-
+|[[2003–04 Primeira Liga|2003–04]]&lt;ref name="FJ"/&gt;
+|Primeira Liga
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0||0||0
+|-
+|[[2004–05 Primeira Liga|2004–05]]&lt;ref name="FJ"/&gt;
+|Primeira Liga
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0||0||0
+|-
+|[[2005–06 Primeira Liga|2005–06]]&lt;ref name="FJ"/&gt;
+|Primeira Liga
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0||0||0
+|-
+|[[2006–07 Primeira Liga|2006–07]]&lt;ref name="FJ"/&gt;
+|Primeira Liga
+|colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—
+|-
+|[[2007–08 Primeira Liga|2007–08]]&lt;ref name="FJ"/&gt;
+|Primeira Liga
+|colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—
+|-
+|[[2008–09 Primeira Liga|2008–09]]&lt;ref name="FJ"/&gt;
+|Primeira Liga
+|30||0||2||0||1||0||14{{efn|Appearances in [[UEFA Europa League|UEFA Cup]] and [[UEFA Intertoto Cup]]|name=UICC}}||0||colspan="2"|—||47||0
+|-
+|[[2009–10 Primeira Liga|2009–10]]&lt;ref name="FJ"/&gt;
+|Primeira Liga
+|30||0||2||0||0||0||2{{efn|Appearances in [[UEFA Europa League]]|name=UEL}}||0||colspan="2"|—||34||0
+|-
+!colspan="2"|Total
+!60!!0!!4!!0!!1!!0!!16!!0!!0!!0!!81!!0
+|-
+|rowspan="1"|[[S.C. Beira-Mar|Beira-Mar]] (loan)
+|[[2006–07 Primeira Liga|2006–07]]&lt;ref name="SW"&gt;{{cite web|url=https://int.soccerway.com/players/eduardo-dos-reis--carvalho/17094/|title=Eduardo|publisher=Soccerway|accessdate=2 March 2015}}&lt;/ref&gt;
+|Primeira Liga
+|15||0||5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||20||0
+|-
+|rowspan="1"|[[Vitória F.C.|Vitória de Setúbal]] (loan)
+|[[2007–08 Primeira Liga|2007–08]]&lt;ref name="SW"/&gt;
+|Primeira Liga
+|30||0||5||0||8||0||colspan="2"|—||colspan="2"|—||43||0
+|-
+|rowspan="1"|[[Genoa C.F.C.|Genoa]]
+|[[2010–11 Serie A|2010–11]]&lt;ref name="SW"/&gt;
+|[[Serie A]]
+|37||0||0||0||0||0||colspan="2"|—||colspan="2"|—||37||0
+|-
+|rowspan="1"|[[S.L. Benfica|Benfica]] (loan)
+|[[2011–12 Primeira Liga|2011–12]]&lt;ref name="SW"/&gt;
+|Primeira Liga
+|1||0||3||0||5||0||0||0||colspan="2"|—||9||0
+|-
+|rowspan="1"|[[İstanbul Başakşehir F.K.|İstanbul BB]] (loan)
+|[[2012–13 Süper Lig|2012–13]]&lt;ref name="SW"/&gt;
+|[[Süper Lig]]
+|33||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||33||0
+|-
+|rowspan="1"|[[S.C. Braga|Braga]] (loan)
+|[[2013–14 Primeira Liga|2013–14]]&lt;ref name="SW"/&gt;
+|Primeira Liga
+|29||0||5||0||2||0||2{{efn|name=UEL}}||0||colspan="2"|—||38||0
+|-
+|rowspan="4"|[[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|[[2014–15 Prva HNL|2014–15]]&lt;ref name="SW"/&gt;
+|[[Prva HNL]]
+|34||0||0||0||colspan="2"|—||12{{efn|Appearances in UEFA Europa League and [[UEFA Champions League]]|name=UCEL}}||0||1||0||47||0
+|-
+|[[2015–16 1.HNL|2015–16]]&lt;ref name="SW"/&gt;
+|Prva HNL
+|32||0||0||0||colspan="2"|—||12{{efn|Appearances in [[UEFA Champions League]]|name=UCL}}||0||colspan="2"|—||44||0
+|-
+|[[2016–17 Croatian First Football League|2016–17]]&lt;ref name="SW"/&gt;
+|Prva HNL
+|4||0||0||0||colspan="2"|—||4{{efn|Appearances in [[UEFA Champions League]]|name=UCL}}||0||colspan="2"|—||8||0
+|-
+!colspan="2"|Total
+!70!!0!!0!!0!!colspan="2"|—!!28!!0!!1!!0!!99!!0
+|-
+|rowspan="2"|[[Chelsea F.C.|Chelsea]]
+|[[2016–17 Premier League|2016–17]]&lt;ref name="SW"/&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2017–18 Premier League|2017–18]]&lt;ref name="SW"/&gt;
+|Premier League
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|rowspan="1"|[[SBV Vitesse|Vitesse]] (loan)
+|[[2018–19 SBV Vitesse season|2018–19]]
+|[[Eredivisie]]
+|16||0||2||0||colspan=2"|—||4{{efn|Appearances in [[UEFA Europa League]]|name=UEL}}||0||colspan=2"|—||22||0
+|-
+!colspan="3"|Career total
+!291!!0!!24!!0!!16!!0!!50!!0!!1!!0!!382!!0
+|}
+{{notelist}}
+
+==Honours==
+===Club===
+'''Braga'''
+*[[UEFA Intertoto Cup]]: [[2008 UEFA Intertoto Cup|2008]]
+
+'''Vitória de Setúbal'''
+*[[Taça da Liga]]: [[2007–08 Taça da Liga|2007–08]]
+
+'''Benfica'''
+*[[Taça da Liga]]: [[2011–12 Taça da Liga|2011–12]]
+
+'''Dinamo Zagreb'''
+*[[Croatian First Football League]]: [[2014–15 Croatian First Football League|2014–15]], [[2015–16 Croatian First Football League|2015–16]]
+*[[Croatian Football Cup]]: [[2014–15 Croatian Football Cup|2014–15]], [[2015–16 Croatian Football Cup|2015–16]]
+*[[Croatian Football Super Cup]]: Runner-up [[2014 Croatian Football Super Cup|2014]]
+
+===International===
+'''Portugal'''
+*[[UEFA European Championship]]: [[UEFA Euro 2016|2016]]
+
+===Orders===
+*Commander of the [[Order of Merit (Portugal)|Order of Merit]]&lt;ref&gt;{{cite news|url=https://www.dn.pt/desporto/euro-2016/interior/selecao-recebe-insignias-de-marcelo-no-porto-5356115.html|title=Seleção recebe insígnias de Marcelo no Porto|trans-title=National team receives insignia from Marcelo in Porto|newspaper=[[Diário de Notícias]]|language=pt|date=25 August 2016|accessdate=11 August 2017}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Eduardo dos Reis Carvalho}}
+*{{Zerozero}}
+*{{ForaDeJogo}}
+*{{Soccerbase}}
+*[https://www.fpf.pt/pt/Jogadores/Eduardo/contextId/1619469 National team data] {{pt icon}}
+*{{NFT player}}
+*{{FIFA player}}
+*{{UEFA player}}
+
+{{SBV Vitesse squad}}
+{{Navboxes
+| title = Portugal squads
+| bg = #900020
+| fg = gold
+| bordercolor = #006600
+| list1 = 
+{{Portugal squad 2010 FIFA World Cup}}
+{{Portugal squad UEFA Euro 2012}}
+{{Portugal squad 2014 FIFA World Cup}}
+{{Portugal squad UEFA Euro 2016}}
+}}
+
+{{DEFAULTSORT:Eduardo Carvalho}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Portuguese footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Primeira Liga players]]
+[[Category:Portuguese Second Division players]]
+[[Category:S.C. Braga B players]]
+[[Category:S.C. Braga players]]
+[[Category:S.C. Beira-Mar players]]
+[[Category:Vitória F.C. players]]
+[[Category:S.L. Benfica footballers]]
+[[Category:Serie A players]]
+[[Category:Genoa C.F.C. players]]
+[[Category:Süper Lig players]]
+[[Category:İstanbul Başakşehir F.K. players]]
+[[Category:Croatian First Football League players]]
+[[Category:GNK Dinamo Zagreb players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Eredivisie players]]
+[[Category:SBV Vitesse players]]
+[[Category:Portugal under-21 international footballers]]
+[[Category:Portugal international footballers]]
+[[Category:2010 FIFA World Cup players]]
+[[Category:UEFA Euro 2012 players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:UEFA European Championship-winning players]]
+[[Category:Portuguese expatriate footballers]]
+[[Category:Expatriate footballers in Italy]]
+[[Category:Expatriate footballers in Turkey]]
+[[Category:Expatriate footballers in Croatia]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in the Netherlands]]
+[[Category:Portuguese expatriate sportspeople in Italy]]
+[[Category:Portuguese expatriate sportspeople in Turkey]]
+[[Category:Portuguese expatriate sportspeople in Croatia]]
+[[Category:Portuguese expatriate sportspeople in England]]
+[[Category:Portuguese expatriate sportspeople in the Netherlands]]
+[[Category:Commanders of the Order of Merit (Portugal)]]</text>
+      <sha1>bpmpsy24z3kyca7iqndg8v7xurz1qpa</sha1>
+    </revision>
+  </page>
+</mediawiki>

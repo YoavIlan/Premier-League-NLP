@@ -1,0 +1,425 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tomer Hemed</title>
+    <ns>0</ns>
+    <id>6180602</id>
+    <revision>
+      <id>885942028</id>
+      <parentid>885941913</parentid>
+      <timestamp>2019-03-03T09:18:22Z</timestamp>
+      <contributor>
+        <username>Beeney xx</username>
+        <id>35180261</id>
+      </contributor>
+      <comment>/* Club */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="31075">{{BLP sources|date=September 2015}}
+{{Use dmy dates|date=July 2013}}
+{{Infobox football biography
+| name = Tomer Hemed
+| image = File:Tomer Hemed 2017.jpg
+| image_size = 160
+| caption = Hemed playing for [[Brighton]] in 2017
+| fullname = Tomer Hemed&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date = {{Birth date and age|1987|05|2|df=y}}
+| birth_place = [[Kiryat Tiv'on]], Israel
+| height = 1.83 m
+| position = [[Forward (association football)#Striker|Striker]]
+| currentclub = &lt;!--[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]--&gt;[[Queens Park Rangers F.C.|Queens Park Rangers]]&lt;br /&gt;(on loan from [[Brighton &amp; Hove Albion F.C.|Brighton]])
+| clubnumber = &lt;!--25--&gt;16
+| youthyears1 = 
+| youthclubs1 = [[Maccabi Haifa F.C.|Maccabi Haifa]]
+| years1 = 2005–2011
+| clubs1 = [[Maccabi Haifa F.C.|Maccabi Haifa]]
+| caps1 = 49
+| goals1 = 16
+| years2 = 2008
+| clubs2 = → [[Maccabi Herzliya F.C.|Maccabi Herzliya]] (loan)
+| caps2 = 17
+| goals2 = 3
+| years3 = 2008–2009
+| clubs3 = → [[Bnei Yehuda Tel Aviv F.C.|Bnei Yehuda]] (loan)
+| caps3 = 28
+| goals3 = 1
+| years4 = 2009–2010
+| clubs4 = → [[Maccabi Ahi Nazareth F.C.|Maccabi Ahi Nazareth]] (loan)
+| caps4 = 33
+| goals4 = 9
+| years5 = 2011–2014
+| clubs5 = [[RCD Mallorca|Mallorca]]
+| caps5 = 90
+| goals5 = 20
+| years6 = 2014–2015
+| clubs6 = [[UD Almería|Almería]]
+| caps6 = 35
+| goals6 = 8
+| years7 = 2015–
+| clubs7 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+| caps7 = 89
+| goals7 = 32
+| years8 = 2018–
+| clubs8 = → [[Queens Park Rangers F.C.|Queens Park Rangers]] (loan)
+| caps8 = 13
+| goals8 = 4
+| nationalyears1 = 2003–2004
+| nationalteam1 = [[Israel national under-17 football team|Israel U17]]
+| nationalcaps1 = 12
+| nationalgoals1 = 9
+| nationalyears2 = 2005
+| nationalteam2 = [[Israel national under-18 football team|Israel U18]]
+| nationalcaps2 = 7
+| nationalgoals2 = 5
+| nationalyears3 = 2005–2006
+| nationalteam3 = [[Israel national under-19 football team|Israel U19]]
+| nationalcaps3 = 22
+| nationalgoals3 = 24
+| nationalyears4 = 2006–2008
+| nationalteam4 = [[Israel national under-21 football team|Israel U21]]
+| nationalcaps4 = 3
+| nationalgoals4 = 3
+| nationalyears5 = 2011–
+| nationalteam5 = [[Israel national football team|Israel]]
+| nationalcaps5 = 35
+| nationalgoals5 = 17
+| pcupdate = 3 March 2019
+| ntupdate = 14 October 2018
+}}
+
+'''Tomer Hemed''' ({{lang-he|תומר חמד}}; born 2 May 1987) is an [[Israel]]i professional [[association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for [[Football League Championship|Championship]] club [[Queens Park Rangers F.C.|Queens Park Rangers]] on loan from [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and plays internationally for the [[Israel national football team|Israel national team]].
+
+==Club career==
+===Maccabi Haifa===
+Hemed was called up to [[Maccabi Haifa F.C.|Maccabi Haifa]]'s first-team in early 2006, after scoring regularly for the under-18 side. He appeared three times with the main squad, scoring once, before returning to the youth side. He made his debut in the campaign on 3 March 2007, coming on as a [[Substitute (association football)|substitute]] in a 1–2 home loss against [[Bnei Yehuda Tel Aviv F.C.|Bnei Yehuda Tel Aviv]].&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/LeagueGameDetails.aspx?GAME_ID=113612|title=Maccabi Haifa 1-2 Hakoach Maccabi Amidar Ramat Gan|publisher=[[Israel Football Association]]|date=3 March 2007|accessdate=30 June 2014}}&lt;/ref&gt; Hemed scored his first professional goals on 26 May, netting his side's both goals in a 2–0 win at [[Maccabi Herzliya F.C.|Maccabi Herzliya]].&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/LeagueGameDetails.aspx?GAME_ID=113671|title=Maccabi Herzliya 0-2 Maccabi Haifa|publisher=Israel Football Association|date=26 May 2007|accessdate=30 June 2014}}&lt;/ref&gt; In 2007, he travelled with the Under-21 side to [[2007 Torneo di Viareggio|that year]]'s [[Torneo di Viareggio]]; he scored once as Haifa was knocked-out in the group stage.
+
+Hemed was subsequently loaned to Maccabi Herzliya,&lt;ref&gt;{{cite web|url=http://www.one.co.il/Article/07-08/1,1,14,0/109497.html|script-title=he:תומר חמד יושאל למכבי הרצליה|trans-title=Tomer Hemed loaned to Maccabi Herzliya|language=Hebrew|publisher=One|date=30 January 2008|accessdate=30 June 2014}}&lt;/ref&gt; [[Bnei Yehuda Tel Aviv F.C.|Bnei Yehuda Tel Aviv]]&lt;ref&gt;{{cite web|url=http://www.one.co.il/Article/120140.html|script-title=he:תומר חמד הושאל ממכבי חיפה לבני יהודה|trans-title=Tomer Hemed of Maccabi Haifa loaned to Yehuda|language=Hebrew|publisher=One|date=20 July 2008|accessdate=30 June 2014}}&lt;/ref&gt; and [[Maccabi Ahi Nazareth F.C.|Maccabi Ahi Nazareth]]&lt;ref&gt;{{cite web|url=http://www.one.co.il/Article/08-09/3,14,56,0/139830.html|script-title=he:מכבי אחי נצרת הולכת על שוער נבחרת חוף השנהב|trans-title=Maccabi Ahi Nazareth goes after Ivory Coast goalkeeper|language=Hebrew|publisher=One|date=1 July 2009|accessdate=30 June 2014}}&lt;/ref&gt; (the latter being managed by [[John Gregory (footballer)|John Gregory]]).{{citation needed|date=September 2015}} Nazareth, however, finished last as Hemed scored nine goals.{{citation needed|date=September 2015}}
+
+Hemed returned to Maccabi Haifa in the 2010 summer, and appeared in 45 matches during the [[2010–11 Israeli Premier League|2010–11 campaign]], also scoring 18 goals as the club was crowned champions.{{citation needed|date=September 2015}}
+
+===Mallorca===
+On 21 June 2011, Hemed signed a three-year deal with Spanish [[La Liga]] club [[RCD Mallorca]].&lt;ref&gt;{{cite web|url=http://www.marca.com/2011/06/21/futbol/equipos/mallorca/1308675238.html|title=El israelí Hemed, primer fichaje del Mallorca|trans-title=Israeli Hemed, first signing of Mallorca|language=Spanish|publisher=[[Marca (newspaper)|Marca]]|date=21 June 2011|accessdate=1 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.marca.com/2011/06/23/futbol/equipos/mallorca/1308843873.html|title=Tomer Hemed: "Venir fue un dictamen de mi corazón"|trans-title=Tomer Hemed: "Coming was an opinion from my heart"|language=Spanish|publisher=Marca|date=23 June 2011|accessdate=1 July 2014}}&lt;/ref&gt; He made his debut in the [[Spanish football league system|main category of the Spanish football]] on 28 August, starting and being [[Penalty card|booked]] in a 1–0 home success against [[RCD Espanyol]].&lt;ref&gt;{{cite web|url=http://www.marca.com/marcador/futbol/2011_12/primera/jornada_2/mal_esp/|title=De Guzmán vale... tres puntos|trans-title=De Guzmán worths... three points|language=Spanish|publisher=Marca|date=28 August 2011|accessdate=1 July 2014}}&lt;/ref&gt;
+
+Hemed scored his first goals abroad on 1 October, scoring both his side's goals in a 2–2 draw at [[CA Osasuna]].&lt;ref&gt;{{cite web|url=http://www.marca.com/marcador/futbol/2011_12/primera/jornada_7/osa_mal/|title=Empate capicúa en Pamplona|trans-title=Palindrome draw in Pamplona|language=Spanish|publisher=Marca|date=1 October 2011|accessdate=1 July 2014}}&lt;/ref&gt; He also netted twice in his [[Copa del Rey]] debut, a 6–1 home routing over [[Real Sociedad]] on 10 January of the following year.&lt;ref&gt;{{cite web|url=http://www.marca.com/marcador/futbol/2011_12/copa/octavos/vuelta/mal_rso/|title=Un milagro en siete minutos|trans-title=A miracle in seven minutes|language=Spanish|publisher=Marca|date=10 January 2012|accessdate=1 July 2014}}&lt;/ref&gt;
+
+Hemed finished [[2011–12 La Liga|his first season abroad]] with nine goals, although four of them were from the [[Penalty kick (association football)|penalty spot]]. In [[2012–13 La Liga|his second season]] he scored 11 goals, with the [[Balearic Islands]] outfit being relegated, however. In May 2013 Hemed suffered an [[Achilles tendon rupture]],&lt;ref&gt;{{cite web|url=http://www.rcdmallorca.es/principal_new.php?nombreModulo=noticiasDetalle&amp;idnoticia=32671&amp;idseccion=2&amp;idmenu=3&amp;idsubmenu=21 |title=Parte médico Tomer Hemed |trans-title=Medical report Tomer Hemed |language=Spanish |publisher=Mallorca's official website |date=27 May 2013 |accessdate=1 July 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140714143709/http://www.rcdmallorca.es/principal_new.php?nombreModulo=noticiasDetalle&amp;idnoticia=32671&amp;idseccion=2&amp;idmenu=3&amp;idsubmenu=21 |archivedate=14 July 2014 |df= }}&lt;/ref&gt; which kept him sidelined for seven months.&lt;ref&gt;{{cite web|url=http://www.rcdmallorca.es/principal_new.php?nombreModulo=noticiasDetalle&amp;idmenu=3&amp;idnoticia=33293 |title=Hemed: "Fue especial volver después de siete meses" |trans-title=Hemed: "It was special to return after seven months" |language=Spanish |publisher=Mallorca's official website |date=16 December 2013 |accessdate=1 July 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140714131438/http://www.rcdmallorca.es/principal_new.php?nombreModulo=noticiasDetalle&amp;idmenu=3&amp;idnoticia=33293 |archivedate=14 July 2014 |df= }}&lt;/ref&gt;
+
+===Almería===
+On 2 July 2014 Hemed returned to the Spanish top level, by agreeing to a two-year deal with [[UD Almería]].&lt;ref&gt;{{cite web|url=http://www.udalmeriasad.com/-/el-almeria-ficha-a-tommer-hemed-un-delantero-de-garantias-para-el-nuevo-reto-en-primera |title=El Almería ficha a Tommer Hemed, un delantero de garantías para el nuevo reto en Primera |trans-title=Almería signs Tommer Hemed, a forward of assurances for the new challenge in ''Primera'' |language=Spanish |publisher=Almería's official website |date=2 July 2014 |accessdate=2 July 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140707030528/http://www.udalmeriasad.com/-/el-almeria-ficha-a-tommer-hemed-un-delantero-de-garantias-para-el-nuevo-reto-en-primera |archivedate= 7 July 2014 |df= }}&lt;/ref&gt; After struggling to score in his first matches, he netted his first goal with the [[Andalusia]]ns on 4 October, the last in a 2–2 home draw against [[Elche CF]].
+
+In January 2015, Hemed scored two braces against [[Málaga CF]] (2–1 away win) and [[Valencia CF]] (2–3 away loss), taking his tally up to six. He finished [[2014–15 La Liga|the campaign]] with eight goals, being the club's top goalscorer, but suffered team relegation.
+
+===Brighton &amp; Hove Albion===
+On 24 June 2015 Hemed signed a three-year deal with English [[Football League Championship|Championship]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] for an undisclosed fee. He scored his first goal for the Seagulls from the penalty spot in the last moments of an away game at Fulham, to seal a 2–1 victory.&lt;ref&gt;{{cite news|title=Fulham 1-2 Brighton: Late Hemed penalty seals points for Brighton|url=http://www.skysports.com/football/news/11688/9951468/fulham-brighton|accessdate=15 April 2016|work=Sky Sports|date=15 August 2015}}&lt;/ref&gt; Hemed scored just one goal between September 2015 and February 2016, which drew criticism from supporters, but rediscovered his early season form to finish as the club's top scorer with 17 goals.
+
+Hemed scored 13 goals in all competitions in Brighton's promotion-winning [[2016–17 EFL Championship|2016–17 season]], trading starting positions regularly with top-scorer [[Glenn Murray]] and [[Sam Baldock]] in a strike force that managed to score 44 league goals between them. Highlights from Hemed throughout the season included a last gasp equaliser in a 3–3 draw away to [[Brentford F.C.|Brentford]],&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/38786510|title=Brentford 3–3 Brighton &amp; Hove Albion|publisher=BBC Sport|date=5 February 2017}}&lt;/ref&gt; the only goal in a hard earned 1–0 win against [[Cardiff City F.C.|Cardiff City]],&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/38786510|title=Brighton &amp; Hove Albion 1–0 Cardiff City|publisher=BBC Sport|date=24 January 2017}}&lt;/ref&gt; and a late penalty in a narrow 1–0 away win against [[Burton Albion F.C.|Burton Albion]].&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/37324950|title=Burton Albion 0–1 Brighton &amp; Hove Albion|publisher=BBC Sport|date=17 September 2016}}&lt;/ref&gt;
+
+On 9 September 2017, Hemed scored his first [[Premier League]] goal for Brighton in a 3–1 victory over [[West Bromwich Albion F.C.|West Bromwich Albion]].&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/41133349|title=Brighton &amp; Hove Albion 3-1 West Bromwich Albion|publisher=[[BBC Sport]]|accessdate=10 September 2017|date=9 September 2017}}&lt;/ref&gt; Hemed scored again in Brighton's next home Premier League game, a 1–0 win against [[Newcastle United F.C.|Newcastle United]] on 24 September.&lt;ref&gt;{{Cite news|url=http://m.bbc.co.uk/sport/football/41297234|title=Brighton &amp; Hove Albion 1–0 Newcastle United|publisher=BBC Sport|date=24 September 2017}}&lt;/ref&gt; Three days later, the [[The Football Association|FA]] announced that Hemed had been given a three-match ban for a stamp on the calf of Newcastle defender [[DeAndre Yedlin]], an incident which went unnoticed by referee [[Andre Marriner]].&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/football/41419869 |title=Tomer Hemed: Brighton striker given three-match ban over DeAndre Yedlin incident |work=BBC Sport |date=27 September 2017}}&lt;/ref&gt;
+
+On 16 November 2017, Hemed signed a contract extension with Brighton, keeping him on the south coast until the summer of 2019.&lt;ref&gt;{{Cite news|url=https://www.brightonandhovealbion.com/news/2017/november/hemed-signs-new-deal/|title=Hemed Signs New Deal|publisher=Brighton &amp; Hove Albion Football Club|date=16 November 2017}}&lt;/ref&gt;
+
+===Queens Park Rangers===
+On 23 August 2018, Hemed joined [[EFL Championship|Championship]] side [[Queens Park Rangers F.C.|Queens Park Rangers]] on a season-long loan.&lt;ref&gt;{{cite web|url=https://www.qpr.co.uk/news/club-news/qpr-complete-tomer-hemed-loan-signing/|title=QPR complete Tomer Hemed loan signing|website=English}}&lt;/ref&gt; Two days later he scored his first goal for the club on his debut against [[Wigan Athletic F.C.|Wigan Athletic]] in a 1-0 win at [[Loftus Road]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45229937|title=Queens Park Rangers 1-0 Wigan Athletic: Steve McClaren says R's 'will get better' after first win|date=25 August 2018|publisher=|via=www.bbc.co.uk}}&lt;/ref&gt;
+
+==International career==
+Hemed appeared with the [[Israel national under-17 football team|under-17]], [[Israel national under-18 football team|under-18]], [[Israel national under-19 football team|under-19]] and [[Israel national under-21 football team|under-21]]s, featuring regularly with the youth squads. In January 2011, he was called up to the [[Israel national football team|main squad]] for a behind closed doors friendly against [[FC Dynamo Kyiv]]. Hemed made his unofficial debut on the 26th, scoring in a 3–2 win.&lt;ref&gt;{{cite web |url=http://video.fcdynamo.kiev.ua/match/friend_games/dynamo_izrael_26012011 |title=Dynamo Kyiv 2–3 Israel |language=Ukrainian|publisher=Dynamo Kiev Official Website|date=26 January 2011|accessdate=14 February 2011}}&lt;/ref&gt;
+
+In May 2011, Hemed was called up to train with the national team for a friendly against [[Latvia national football team|Latvia]] in June.&lt;ref&gt;{{cite web |url=http://football.org.il/Archive/Articles/Pages/nationalteam_11may2011.aspx |title=National Team for June |publisher=The Israel Football Association |accessdate=11 May 2011}}&lt;/ref&gt; On 4 June, he made his international debut, starting and assisting [[Yossi Benayoun]] in a 2–1 victory.&lt;ref&gt;{{cite web|url=http://www.jpost.com/Sports/Israel-takes-care-of-business-beats-Latvia-2-1|title=Israel takes care of business, beats Latvia 2-1|publisher=The Jerusalem Post|date=5 June 2011|accessdate=1 July 2014}}&lt;/ref&gt;
+
+Hemed scored his first international goal on 6 September, but in a 1–3 loss against [[Croatia national football team|Croatia]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002248/postmatch/report/index.html|title=Eduardo double against Israel sends Croatia top|publisher=[[UEFA]].com|date=6 September 2011|accessdate=1 July 2014}}&lt;/ref&gt; He also scored a [[hat-trick]] in a 6–0 routing against [[Luxembourg national football team|Luxembourg]] on 12 October of the following year.&lt;ref&gt;{{cite web|url=http://www.uefa.com/worldcup/season=2014/matches/round=2000294/match=2008675/postmatch/report/index.html|title=Hemed hat-trick helps Israel overwhelm Luxembourg|publisher=UEFA.com|date=12 October 2012|accessdate=1 July 2014}}&lt;/ref&gt;
+
+===International goals===
+:''As of match played 14 October 2018. Israel score listed first, score column indicates score after each Hemed goal.''&lt;ref&gt;{{cite web |url=http://eu-football.info/_player.php?id=27375 |title=Tomer Hemed |website=European Football |accessdate=13 October 2016}}&lt;/ref&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+!scope=col class=unsortable|Ref
+|-
+!scope=row|1
+|6 September 2011||[[Stadion Maksimir]], [[Zagreb]], Croatia||align=center|4||{{fb|Croatia}}||align=center|1–0||align=center|1–3||[[UEFA Euro 2012 qualifying Group F|UEFA Euro 2012 qualification]]||&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2011/09/06/europe/european-championships/croatia/israel/922667/|title=Croatia vs. Israel - 6 September 2011 - Soccerway|website=int.soccerway.com}}&lt;/ref&gt;
+|-
+!scope=row|2
+|29 February 2012||[[HaMoshava Stadium]], [[Petah Tikva]], Israel||align=center|6||{{fb|Ukraine}}||align=center|1–2||align=center|2–3||rowspan=2|[[Exhibition game#Association football|Friendly]]||&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2012/02/29/world/friendlies/israel/ukraine/1236167/|title=Israel vs. Ukraine - 29 February 2012 - Soccerway|website=int.soccerway.com}}&lt;/ref&gt;
+|-
+!scope=row|3
+|15 August 2012||[[Ferenc Puskás Stadium (1953)|Ferenc Puskás Stadium]], [[Budapest]], Hungary||align=center|8||{{fb|Hungary}}||align=center|1–1||align=center|1–1||&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2012/08/15/world/friendlies/hungary/israel/1313647/|title=Hungary vs. Israel - 15 August 2012 - Soccerway|website=int.soccerway.com}}&lt;/ref&gt;
+|-
+!scope=row|4
+|rowspan=3|12 October 2012||rowspan=3|[[Stade Josy Barthel]], [[Luxembourg City]], Luxembourg||rowspan=3 align=center|10||rowspan=5|{{fb|Luxembourg}}||align=center|3–0||rowspan=3 align=center|6–0||rowspan=6|[[2014 FIFA World Cup qualification – UEFA Group F|2014 FIFA World Cup qualification]]||rowspan=3|&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/matches/round=258374/match=300182277/report.html|title=2014 FIFA World Cup Brazil™ - Matches - Luxembourg-Israel - FIFA.com|first=|last=FIFA.com|website=FIFA.com}}&lt;/ref&gt;
+|-
+!scope=row|5
+|align=center|5–0
+|-
+!scope=row|6
+|align=center|6–0
+|-
+!scope=row|7
+|rowspan=2|16 October 2012||rowspan=3|[[Ramat Gan Stadium]], [[Ramat Gan]], Israel||rowspan=2 align=center|11||align=center|1–0||rowspan=2 align=center|3–0||rowspan=2|&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/matches/round=258374/match=300182301/report.html|title=2014 FIFA World Cup Brazil™: Israel-Luxembourg - Report - FIFA.com|first=|last=FIFA.com|website=FIFA.com}}&lt;/ref&gt;
+|-
+!scope=row|8
+|align=center|3–0
+|-
+!scope=row|9
+|22 March 2013||align=center|14||{{fb|Portugal}}||align=center|1–1||align=center|3–3||&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/matches/round=258374/match=300182282/report.html|title=2014 FIFA World Cup Brazil™: Israel-Portugal - Report - FIFA.com|first=|last=FIFA.com|website=FIFA.com}}&lt;/ref&gt;
+|-
+!scope=row|10
+|13 October 2014||[[Estadi Nacional]], [[Andorra la Vella]], Andorra||align=center|15||rowspan=2|{{fb|Andorra}}||align=center|4–1||align=center|4–1||rowspan=3|[[UEFA Euro 2016 qualifying Group B|UEFA Euro 2016 qualification]]||&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000446/match=2013877/index.html|title=UEFA EURO 2016 - History - Andorra-Israel – UEFA.com|first=|last=uefa.com|date=13 October 2014|publisher=}}&lt;/ref&gt;
+|-
+!scope=row|11
+|3 September 2015||[[Sammy Ofer Stadium]], [[Haifa]], Israel||align=center|18||align=center|3–0||align=center|4–0||&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000446/match=2013975/index.html|title=UEFA EURO 2016 - History - Israel-Andorra – UEFA.com|first=|last=uefa.com|date=3 September 2015|publisher=}}&lt;/ref&gt;
+|-
+!scope=row|12
+|13 October 2015||[[King Baudouin Stadium]], [[Brussels]], Belgium||align=center|21||{{fb|Belgium}}||align=center|1–3||align=center|1–3||&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000446/match=2014068/index.html|title=UEFA EURO 2016 - History - Belgium-Israel – UEFA.com|first=|last=uefa.com|date=13 October 2015|publisher=}}&lt;/ref&gt;
+|-
+!scope=row|13
+|6 October 2016||[[Philip II Arena]], [[Skopje]], Macedonia||align=center|24||{{fb|Macedonia}}||rowspan=2 align=center|1–0||rowspan=3 align=center|2–1||rowspan=3|[[2018 FIFA World Cup qualification – UEFA Group G|2018 FIFA World Cup qualification]]||
+|-
+!scope=row|14
+|rowspan=2|9 October 2016||rowspan=2|[[Teddy Stadium]], [[Jerusalem]], Israel||rowspan=2 align=center|25||rowspan=2|{{fb|Liechtenstein}}||rowspan=2|
+|-
+!scope=row|15
+|align=center|2–0
+|-
+!scope=row|16
+|24 March 2018||[[Netanya Stadium]], [[Netanya]], Israel||align=center|31||{{fb|Romania}}||align=center|1–0|| align=center|1–2||Friendly||
+|-
+!scope=row|17
+|14 October 2018||[[Turner Stadium]], [[Be'er Sheva]], Israel||align=center|34||{{fb|Albania}}||align=center|1–0||align=center|2–1||[[2018–19 UEFA Nations League C]]||
+|}
+
+==Personal life==
+Hemed is [[Jewish]],&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2015/nov/21/beram-kayal-tomer-hemed-israelis-brighton|title=Beram Kayal and Tomer Hemed: Israelis united in promoting Brighton’s cause|first=Jacob|last=Steinberg|date=21 November 2015|website=the Guardian}}&lt;/ref&gt; His father was born in [[Israel]] and is of Syrian-Jewish descent, whereas his mother was born in [[Poland]] to a Jewish family.&lt;ref name=":0"&gt;{{Cite web|url=http://sportsrabbi.com/friday-feature-tomer-hemed-israeli-star/|title=Friday Feature – Tomer Hemed, Israeli Star {{!}} Sports Rabbi|website=sportsrabbi.com|language=en-US|access-date=2018-07-17}}&lt;/ref&gt; As a result, Hemed holds a Polish passport, which eased his move to European leagues.&lt;ref&gt;{{Cite news|url=https://www.express.co.uk/sport/football/252404/Tomer-Hemed-s-passport-to-Rangers|title=Tomer Hemed's passport to Rangers|last=Macfarlane|first=Iain|date=2011-06-12|work=Express.co.uk|access-date=2018-07-17|language=en}}&lt;/ref&gt; Hemed has described his ethnicity as "half [[Ashkenazi Jews|Ashkenazi]] and half [[Sephardi Jews|Sephardic]]."&lt;ref name=":0" /&gt; He is the youngest of four brothers.
+
+In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel contestant for [[Miss Universe 2008]].&lt;ref&gt;{{cite web|url=https://www.ynet.co.il/articles/0,7340,L-4395007,00.html|title=שונית פרג'י ותומר חמד התחתנו|first=שי|last=ארזואן|date=20 June 2013|publisher=|via=Ynet}}&lt;/ref&gt; In 2014, they had their first daughter.&lt;ref&gt;{{cite web|url=http://www.theargus.co.uk/sport/15669118.Hard_work_pays_off_for_Hemed_with_new_Albion_deal/|title=Hard work pays off for Hemed with new Albion deal|website=The Argus}}&lt;/ref&gt;
+
+==Career statistics==
+
+===Club===
+
+{{updated|2 March 2019}}&lt;ref&gt;{{Soccerway|tomer-hemed/55980}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center;"
+|-
+
+!rowspan="2"|Club
+!rowspan="2"|Season
+!rowspan="2"|League
+!colspan="2"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[Maccabi Haifa F.C.|Maccabi Haifa]]
+|[[2005–06 Israeli Premier League|2005–06]]
+|rowspan="4"|[[Israeli Premier League]]
+|3||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||1
+|-
+|[[2006–07 Israeli Premier League|2006–07]]&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/PlayerDetails.aspx?PLAYER_ID=4531&amp;SEASON_ID=8|title=HEMED Tomer – 2006/07|publisher=Israel Football Association|accessdate=30 June 2014}}&lt;/ref&gt;
+|8||2||1||0||5||1||0||0||14||3
+|-
+|[[2007–08 Israeli Premier League|2007–08]]&lt;ref name="TH 2007"&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/PlayerDetails.aspx?PLAYER_ID=4531&amp;SEASON_ID=9|title=HEMED Tomer – 2007/08|publisher=Israel Football Association|accessdate=30 June 2014}}&lt;/ref&gt;
+|7||0||0||0||4||0||colspan="2"|—||11||0
+|-
+|[[2010–11 Maccabi Haifa F.C. season|2010–11]]&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/PlayerDetails.aspx?PLAYER_ID=4531&amp;SEASON_ID=12|title=HEMED Tomer – 2010/11|publisher=Israel Football Association|accessdate=30 June 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20141228202305/http://eng.football.org.il/Leagues/Pages/PlayerDetails.aspx?PLAYER_ID=4531&amp;SEASON_ID=12|archivedate=28 December 2014|df=dmy-all}}&lt;/ref&gt;
+|31||13||5||3||7||2||2{{efn|2 appearances in [[UEFA Europa League]]}}||0||45||18
+|-
+!colspan="2"|Total
+!49!!16!!6!!3!!16!!3!!2!!0!!73!!22
+|-
+|[[Maccabi Herzliya F.C.|Maccabi Herzliya]] (loan)
+|[[2007–08 Israeli Premier League|2007–08]]&lt;ref name="TH 2007"/&gt;
+|rowspan="3"|[[Israeli Premier League]]
+|17||3||1||0||0||0||colspan="2"|—||18||3
+|-
+|[[Bnei Yehuda Tel Aviv F.C.|Bnei Yehuda]] (loan)
+|[[2008–09 Israeli Premier League|2008–09]]&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/PlayerDetails.aspx?PLAYER_ID=4531&amp;SEASON_ID=10|title=HEMED Tomer – 2008/09|publisher=Israel Football Association|accessdate=30 June 2014}}&lt;/ref&gt;
+|28||1||2||0||7||1||colspan="2"|—||37||2
+|-
+|[[Maccabi Ahi Nazareth F.C.|Maccabi Ahi Nazareth]] (loan)
+|[[2009–10 Israeli Premier League|2009–10]]&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/PlayerDetails.aspx?PLAYER_ID=4531&amp;SEASON_ID=11|title=HEMED Tomer – 2009/10|publisher=Israel Football Association|accessdate=30 June 2014}}&lt;/ref&gt;
+|33||9||1||0||5||3||colspan="2"|—||39||12
+|-
+|rowspan="4"|[[RCD Mallorca|Mallorca]]
+|[[2011–12 La Liga|2011–12]]&lt;ref&gt;{{cite web|url=http://www.bdfutbol.com/en/p/j13720.html?temp=2011-12|title=Tomer Hemed 2011/2012 statistics|publisher=BDFutbol|accessdate=1 July 2014}}&lt;/ref&gt;
+|rowspan="2"|[[La Liga]]
+|29||7||6||2||colspan="2"|—||colspan="2"|—||35||9
+|-
+|[[2012–13 La Liga|2012–13]]&lt;ref&gt;{{cite web|url=http://www.bdfutbol.com/en/p/j13720.html?temp=2012-13|title=Tomer Hemed 2012/2013 statistics|publisher=BDFutbol|accessdate=1 July 2014}}&lt;/ref&gt;
+|37||11||1||0||colspan="2"|—||colspan="2"|—||38||11
+|-
+|[[2013–14 Segunda División|2013–14]]&lt;ref&gt;{{cite web|url=http://www.bdfutbol.com/en/p/j13720.html?temp=2013-14|title=Tomer Hemed 2013/2014 statistics|publisher=BDFutbol|accessdate=1 July 2014}}&lt;/ref&gt;
+|[[Segunda División]]
+|24||2||0||0||colspan="2"|—||colspan="2"|—||24||2
+|-
+!colspan="2"|Total
+!90!!20!!7!!2!!0!!0!!0!!0!!97!!22
+|-
+|[[UD Almería|Almería]]
+|[[2014–15 UD Almería season|2014–15]]
+|[[La Liga]]
+|35||8||0||0||colspan="2"|—||colspan="2"|—||35||8
+|-
+|rowspan="3"|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+|[[2015–16 Brighton &amp; Hove Albion F.C. season|2015–16]]
+|rowspan="2"|[[Football League Championship|Championship]]
+|40||17||1||1||2||0||1{{efn|name=CPO|1 appearance in [[EFL Championship play-offs|Championship play-offs]]}}||0||44||18
+|-
+|[[2016–17 Brighton &amp; Hove Albion F.C. season|2016–17]]
+|33||13||0||0||2||2||colspan="2"|—||35||15
+|-
+|[[2017-18 Brighton &amp; Hove Albion F.C. season|2017–18]]
+|[[Premier League]]
+|16||2||2||0||1||0||colspan="2"|—||19||2
+|-
+!colspan="3"|Total
+!89!!32!!3!!1!!5!!2!!1!!0!!98!!35
+|-
+|[[Queens Park Rangers F.C.|Queens Park Rangers]] (loan)
+|[[2018–19 Queens Park Rangers F.C. season|2018–19]]
+|[[Football League Championship|Championship]]
+|13||4||2||0||0||0||colspan="2"|—||15||4
+|-
+!colspan="3" valign="center"|'''Career Total'''
+!354!!93!!22!!6!!33!!9!!3!!0!!412!!108
+|}
+
+{{Notelist}}
+
+===International===
+{{updated|14 October 2018}}&lt;ref&gt;{{cite web |url=http://eng.football.org.il/NationalTeam/Pages/NationalTeamPlayerDetails.aspx?PLAYER_ID=4531&amp;NATIONAL_TEAM_ID=499 |archive-url=https://web.archive.org/web/20110625160921/http://eng.football.org.il/NationalTeam/Pages/NationalTeamPlayerDetails.aspx?PLAYER_ID=4531&amp;NATIONAL_TEAM_ID=499 |dead-url=yes |archive-date=25 June 2011 |title=National team player's details: Hemed Tomer |publisher=The Israel Football Association |accessdate=20 December 2010 }}&lt;/ref&gt;&lt;ref&gt;{{NFT player|id=43388|accessdate= }}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="9"|[[Israel national football team|Israel]]
+|-
+|2011||5||1
+|-
+|2012||7||7
+|-
+|2013||2||1
+|-
+|2014||1||1
+|-
+|2015||6||2
+|-
+|2016||4||3
+|-
+|2017||6||0
+|-
+|2018||4||2
+|-
+!colspan=2|Total!!35!!17
+|}
+
+==Honours==
+'''Maccabi Haifa'''
+*[[Israeli Premier League]]: [[2010–11 Israeli Premier League|2010–11]]
+
+'''Brighton &amp; Hove Albion'''
+*[[EFL Championship]] runner-up: [[2016–17 EFL Championship|2016–17]]
+
+'''Individual'''
+*[[Footballer of the Year – Israel|Israel Footballer of the Year]]: 2017–18&lt;ref&gt;{{cite web|url=http://www.one.co.il/Article/17-18/1,1,237,0/304327.html?ref=hp|title=חמד נבחר לכדורגלן השנה, עומרי כספי הכדורסלן|publisher=}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+* {{BDFutbol|13720}}
+* {{Soccerbase}}
+* {{Soccerway|tomer-hemed/55980}}
+
+&lt;!--{{Brighton &amp; Hove Albion F.C. squad}}--&gt;
+{{Queens Park Rangers F.C. squad}}
+
+{{DEFAULTSORT:Hemed, Tomer}}
+[[Category:1987 births]]
+[[Category:Israeli Jews]]
+[[Category:Jewish footballers]]
+[[Category:Living people]]
+[[Category:People from Kiryat Tiv'on]]
+[[Category:Israeli footballers]]
+[[Category:Association football forwards]]
+[[Category:Israeli Premier League players]]
+[[Category:Maccabi Haifa F.C. players]]
+[[Category:Maccabi Herzliya F.C. players]]
+[[Category:Bnei Yehuda Tel Aviv F.C. players]]
+[[Category:Maccabi Ahi Nazareth F.C. players]]
+[[Category:La Liga players]]
+[[Category:Segunda División players]]
+[[Category:RCD Mallorca players]]
+[[Category:UD Almería players]]
+[[Category:Brighton &amp; Hove Albion F.C. players]]
+[[Category:Ashkenazi Jews]]
+[[Category:Sephardi Jews]]
+[[Category:Mizrahi Jews]]
+[[Category:Israeli expatriate footballers]]
+[[Category:Israeli expatriate sportspeople in Spain]]
+[[Category:Israeli people of Polish-Jewish descent]]
+[[Category:Israeli people of Syrian-Jewish descent]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Israeli expatriate sportspeople in England]]
+[[Category:Expatriate footballers in England]]
+[[Category:Israel international footballers]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]</text>
+      <sha1>sbq6vud734pr60ihi0tukhlrkby50u6</sha1>
+    </revision>
+  </page>
+</mediawiki>

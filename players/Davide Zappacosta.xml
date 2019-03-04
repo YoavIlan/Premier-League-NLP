@@ -1,0 +1,277 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Davide Zappacosta</title>
+    <ns>0</ns>
+    <id>33459455</id>
+    <revision>
+      <id>885605548</id>
+      <parentid>884049563</parentid>
+      <timestamp>2019-03-01T02:55:56Z</timestamp>
+      <contributor>
+        <username>Danieletorino2</username>
+        <id>19401814</id>
+      </contributor>
+      <comment>/* Return to Atalanta */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22987">{{Use dmy dates|date=December 2017}}
+{{Infobox football biography
+| name                = Davide Zappacosta
+| image               = West Ham 1 Chelsea 0 (24075958797).jpg
+| image_size          = 200
+| caption             = Zappacosta training for [[Chelsea F.C.|Chelsea]] in 2017
+| fullname            = Davide Zappacosta&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/465277 |title=Squads for 2017/18 Premier League confirmed |publisher=Premier League |date=1 September 2017 |accessdate=30 December 2017}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1992|6|11|df=y}}&lt;ref name=Torino&gt;{{cite web |url=http://torinofc.it/prima-squadra/2016-2017/Difensori/zappacosta-davide |title=Davide Zappacosta |publisher=Torino F.C. |accessdate=30 December 2017 |language=Italian}}&lt;/ref&gt;
+| birth_place         = [[Sora, Lazio|Sora]], Italy
+| height              = 1.82 m&lt;ref&gt;{{cite web |url=https://www.chelseafc.com/en/teams/first-team/davide-zappacosta?pageTab=biography |title=Davide Zappacosta |publisher=Chelsea F.C. |accessdate=14 February 2019}}&lt;/ref&gt;
+| position            = [[Defender (association football)#Full-back|Right back]]
+| currentclub         = [[Chelsea F.C.|Chelsea]]
+| clubnumber          = 21
+| youthyears1         = 1998–2008
+| youthclubs1         = [[A.S. Sora|Sora]]
+| youthyears2         = 2008–2010
+| youthclubs2         = [[A.C. Isola Liri|Isola Liri]]
+| years1              = 2010–2011 | clubs1  = [[A.C. Isola Liri|Isola Liri]]           | caps1  = 14 | goals1  = 1
+| years2              = 2011–2012 | clubs2  = [[Atalanta B.C.|Atalanta]]               | caps2  = 0  | goals2  = 0
+| years3              = 2011–2012 | clubs3  = → [[U.S. Avellino 1912|Avellino]] (loan) | caps3  = 27 | goals3  = 0
+| years4              = 2012–2014 | clubs4  = [[U.S. Avellino 1912|Avellino]]          | caps4  = 56 | goals4  = 3
+| years5              = 2014–2015 | clubs5  = [[Atalanta B.C.|Atalanta]]               | caps5  = 29 | goals5  = 3
+| years6              = 2015–2017 | clubs6  = [[Torino F.C.|Torino]]                   | caps6  = 56 | goals6  = 2
+| years7              = 2017–     | clubs7  = [[Chelsea F.C.|Chelsea]]                 | caps7  = 24 | goals7  = 1
+| nationalyears1      = 2013–2015
+| nationalteam1       = [[Italy national under-21 football team|Italy U21]]
+| nationalcaps1       = 17
+| nationalgoals1      = 0
+| nationalyears2      = 2016–
+| nationalteam2       = [[Italy national football team|Italy]]
+| nationalcaps2       = 13
+| nationalgoals2      = 0
+| club-update         = 3 December 2018
+| nationalteam-update = 7 September 2018
+}}
+'''Davide Zappacosta''' ({{IPA-it|ˈdaːvide tˌtsappaˈkɔsta}}; born 11 June 1992) is an Italian professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|right back]] for [[Premier League]] club [[Chelsea F.C.|Chelsea]] and the [[Italy national football team|Italian national team]].
+
+==Club career==
+===Early career===
+Born in [[Sora, Lazio]], Zappacosta joined hometown's [[A.S. Sora|Sora]]'s youth setup in 1998, aged six, as a [[Forward (association football)|forward]].{{citation needed|date=September 2016}} In 2006–07 season, he was a player of Sora's under-15 team in Lazio Region Giovanissimi League.&lt;ref&gt;{{cite news|url=http://www.settoregiovanile.figc.it/REGIONALE/LAZIO/COM_UFF/2004/RG_CU55%20del%2010%20maggio%202007.pdf |title=Comunicato Ufficiale n.55 (2006–07) |trans-title=Official announcement n.55 (2006–07) |date=10 May 2007 |accessdate=19 October 2011 |publisher=FIGC Lazio |language=Italian |deadurl=yes |archiveurl=https://web.archive.org/web/20120425080612/http://www.settoregiovanile.figc.it/REGIONALE/LAZIO/COM_UFF/2004/RG_CU55%20del%2010%20maggio%202007.pdf |archivedate=25 April 2012 |df=dmy }}&lt;/ref&gt; In 2008, he moved to neighbouring [[A.C. Isola Liri|Isola Liri]], appearing in [[Campionato Nazionale Dante Berretti]] under-20's,&lt;ref&gt;{{cite news|url=http://www.lega-calcio-serie-c.it/it/Comunic2010/Berretti/43TB.pdf|archive-url=https://web.archive.org/web/20120415073813/http://www.lega-calcio-serie-c.it/it/Comunic2010/Berretti/43TB.pdf|dead-url=yes|archive-date=15 April 2012|title=Comunicato Ufficiale n.43/TB (2009–10)|trans-title=Official announcement n.43/TB (2009–10)|date=25 November 2009|accessdate=19 October 2011|work=Campionato Berretti|publisher=Lega Calcio Serie C|language=Italian}}&lt;/ref&gt; and made his senior debut for the side in the 2009–10 campaign; obtaining a total of 14 caps and one goal in the league.
+
+===Atalanta===
+In January 2011 Zappacosta joined [[Atalanta B.C.|Atalanta]] in a [[Co-ownership (football)|co-ownership deal]]&lt;ref&gt;{{cite news|url=http://www.isolaliricalcio.it/index.php?option=com_content&amp;view=article&amp;id=233:mercato&amp;catid=23:news&amp;Itemid=19|title=Ceduto Davide Zappacosta|trans-title=Davide Zappacosta transferred|date=20 January 2011|accessdate=19 October 2011|publisher=A.C. Isola Liri|archiveurl=https://web.archive.org/web/20120425080611/http://www.isolaliricalcio.it/index.php?option=com_content&amp;view=article&amp;id=233%3Amercato&amp;catid=23%3Anews&amp;Itemid=19|archivedate=25 April 2012|language=Italian|deadurl=yes|df=dmy-all}}&lt;/ref&gt; for €60,000 transfer fee.&lt;ref&gt;Atalanta B.C. S.p.A. ''bilancio'' (financial report and accounts) on 31 December 2011, [http://www.registroimprese.it PDF purchased from Italian C.C.I.A.A.] (in Italian)&lt;/ref&gt; He played for the [[Atalanta B.C. Primavera|Primavera]] for six months. He appeared during the pre-season with the main squad.&lt;ref&gt;{{cite news|url=http://www.atalanta.it/web/guest/live/-/articles/tag/prima+squadra/detail/article/21017/ |archive-url=https://archive.is/20120721005058/http://www.atalanta.it/web/guest/live/-/articles/tag/prima+squadra/detail/article/21017/ |dead-url=yes |archive-date=21 July 2012 |title=Quattordici reti in amichevole |date=28 July 2011 |accessdate=19 October 2011 |work=Atalanta BC |language=Italian }}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.atalanta.it/live/-/articles/detail/article/46776 |title=Atalanta-Lumezzane 2–0 |date=3 August 2011 |accessdate=19 October 2011 |work=Atalanta BC |language=Italian |deadurl=yes |archiveurl=https://web.archive.org/web/20110816082531/http://www.atalanta.it/live/-/articles/detail/article/46776 |archivedate=16 August 2011 |df=dmy }}&lt;/ref&gt;
+
+===Avellino===
+On 31 August 2011, at age 19, he was signed by [[U.S. Avellino 1912|Avellino]]&lt;ref&gt;{{cite web|url=http://www.asavellino.it/notizia.php?id=6049|title=L'attaccante Zappacosta dall'Atalanta all'Avellino|trans-title=Forward Zappacosta from Atalanta to Avellino|date=31 August 2011|accessdate=19 October 2011|publisher=A.S. Avellino 1912|language=Italian|archiveurl=https://web.archive.org/web/20120508061354/http://www.asavellino.it/notizia.php?id=6049|archivedate=8 May 2012}}&lt;/ref&gt; initially in temporary deal. The loan was turned into a co-ownership deal for €40,000 fee in 2012,&lt;ref name=Atalanta2012bilancio/&gt; after Atalanta bought him outright from Isola Liri for an undisclosed fee.&lt;ref name=Atalanta2012bilancio&gt;Atalanta B.C. S.p.A. ''bilancio'' (financial report and accounts) on 31 December 2012, [http://www.registroimprese.it PDF purchased from Italian C.C.I.A.A.] (in Italian)&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.legaseriea.it/c/document_library/get_file?p_l_id=58608&amp;folderId=159875&amp;name=DLFE-47629.pdf|title=Risoluzione Accordi di Partecipazione|date=23 June 2012|accessdate=25 June 2012|publisher=Lega Serie A|language=Italian|archiveurl=https://web.archive.org/web/20130626172007/http://www.legaseriea.it/c/document_library/get_file?p_l_id=58608&amp;folderId=159875&amp;name=DLFE-47629.pdf|archivedate=26 June 2013}}&lt;/ref&gt;
+
+He played 3 seasons for Avellino, which the first two seasons in [[Lega Pro Prima Divisione]], winning the championship of the Group B of the third-tier in the [[2012–13 Lega Pro Prima Divisione|2012–13 season]] as well as crowded as [[Supercoppa di Lega Pro Prima Divisione|the grand champions]] after winning [[Trapani Calcio|Trapani]] of the Group A. After promotion to [[Serie B]] he decided to tattoo the date "05.05.2013".&lt;ref&gt;{{cite news |url=http://www.gazzetta.it/Nazionale/03-09-2013/under-21-novita-zappacosta-dopo-avellino-voglio-a-201093311468.shtml |title=Under 21, la novitŕ č Zappacosta: "Dopo Avellino voglio la A" – La Gazzetta dello Sport |newspaper=La Gazzetta dello Sport |accessdate=6 July 2017}}&lt;/ref&gt; The following year he scored a debut goal in Serie B in the match won 2–1 against [[Novara Calcio|Novara]], standing out as one of the best [[Left-back|full backs]] in the league.
+
+===Return to Atalanta===
+[[File:Davide Zappacosta.JPG|thumb|Zappacosta playing for Atalanta in 2014.]]
+On 4 June 2014 Zappacosta returned to [[Atalanta B.C.|Atalanta]] for €900,000 fee,&lt;ref&gt;Atalanta B.C. S.p.A. ''bilancio'' (financial report and accounts) on 31 December 2014, [http://www.registroimprese.it PDF purchased from Italian C.C.I.A.A.] (in Italian)&lt;/ref&gt; signing a four-year deal.&lt;ref&gt;{{cite news|url=http://avellino.ottopagine.net/2014/06/03/esclusiva-ottopagine-zappacosta-torna-allatalanta/|title=Esclusiva – Zappacosta torna all'Atalanta: ecco le cifre|date=3 June 2014|accessdate=10 November 2014|archiveurl=https://web.archive.org/web/20141110174439/http://avellino.ottopagine.net/2014/06/03/esclusiva-ottopagine-zappacosta-torna-allatalanta/|archivedate=10 November 2014|deadurl=yes|publisher=Hurra Avellino|language=Italian|trans-title=Exclusive – Zappacosta returns to Atalanta: here are the numbers|df=dmy}}&lt;/ref&gt; He made his official debut with [[Atalanta B.C.|Atalanta]] on 23 August 2014 against [[Pisa Calcio|Pisa]] in a 2–0 win in the third qualifying round of the [[2014–15 Coppa Italia|Coppa Italia]].&lt;ref&gt;{{Cite web|url=https://int.soccerway.com/matches/2014/08/23/italy/coppa-italia/atalanta-bergamo/pisa-calcio/1904821/|title=Atalanta vs. Pisa – 23 August 2014|work=Soccerway|access-date=8 November 2017}}&lt;/ref&gt; On 31 August 2014 Zappacosta made his debut in [[Serie A]], starting in a 0–0 home draw against [[Hellas Verona F.C.|Hellas Verona]].&lt;ref&gt;{{Cite web|url=https://int.soccerway.com/matches/2014/08/31/italy/serie-a/atalanta-bergamo/hellas-verona-fc/1836099/|title=Atalanta vs. Hellas Verona – 31 August 2014|work=Soccerway|access-date=8 November 2017}}&lt;/ref&gt; On 6 January 2015 he scored his first [[Serie A]] goal in the 37th minute of a 2–2 draw to [[Genoa C.F.C.|Genoa]].&lt;ref&gt;{{Cite web|url=https://int.soccerway.com/matches/2015/01/06/italy/serie-a/genoa-cfc/atalanta-bergamo/1836425/|title=Genoa vs. Atalanta – 6 January 2015|work=Soccerway|access-date=8 November 2017}}&lt;/ref&gt; On 11 January, one week later, he scored his second goal in the 72nd minute of a 1–1 home draw against [[A.C. Chievo Verona|Chievo Verona]].&lt;ref&gt;{{Cite web|url=https://int.soccerway.com/matches/2015/01/11/italy/serie-a/atalanta-bergamo/ac-chievo-verona/1836439/|title=Atalanta vs. Chievo – 11 January 2015|work=Soccerway|access-date=8 November 2017}}&lt;/ref&gt; On 8 February, Zappacosta scored his third goal of the season in the 9th minute of a 3–2 away defeat against [[ACF Fiorentina|Fiorentina]].&lt;ref&gt;{{Cite web|url=https://int.soccerway.com/matches/2015/02/08/italy/serie-a/acf-fiorentina/atalanta-bergamo/1836519/|title=Fiorentina vs. Atalanta – 8 February 2015|work=Soccerway|access-date=8 November 2017}}&lt;/ref&gt; He finished the 2014–15 season to [[Atalanta B.C.|Atalanta]] with 30 appearances, three goals and one assist.&lt;ref name=Soccerway&gt;{{Cite web|url=https://int.soccerway.com/players/davide-zappacosta/205625/|title=Italy – D. Zappacosta – Profile with news, career statistics and history|work=Soccerway|access-date=8 November 2017}}&lt;/ref&gt;
+
+===Torino===
+On 10 July 2015 he was sold to [[Torino F.C.|Torino]], in the same transfer that brought the midfielder [[Daniele Baselli]] to [[Piedmont]], for a total of €10&amp;nbsp;million transfer fee.&lt;ref&gt;Torino F.C. S.p.A. ''bilancio'' (financial report and accounts) on 31 December 2015, [http://www.registroimprese.it PDF purchased from Italian C.C.I.A.A.] (in Italian)&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.gazzetta.it/Calciomercato/10-07-2015/torino-zappacosta-baselli-firmano-uffici-cairo-milano-120504564532.shtml|title=Torino, Zappacosta e Baselli hanno firmato|date=10 July 2015|newspaper =La Gazzetta dello Sport|access-date=1 September 2017 |language=Italian}}&lt;/ref&gt; On 20 September, Zappacosta made his debut for Torino as a substitute replacing [[Bruno Peres]] in the 76th minute of a 2–0 home win over [[U.C. Sampdoria|Sampdoria]].&lt;ref&gt;{{Cite web|url=https://int.soccerway.com/matches/2015/09/20/italy/serie-a/torino-fc/uc-sampdoria/2120414/|title=Torino vs. Sampdoria – 20 September 2015|work=Soccerway|access-date=8 November 2017}}&lt;/ref&gt; He scored his first goal for the club on 28 October during a 3–3 draw at home to [[Genoa C.F.C.|Genoa]].&lt;ref&gt;{{Cite web|url=https://int.soccerway.com/matches/2015/10/28/italy/serie-a/torino-fc/genoa-cfc/2120475/|title=Torino vs. Genoa – 28 October 2015|work=Soccerway|access-date=8 November 2017}}&lt;/ref&gt; Zappacosta finished his first season to Torino with 26 appearances, one goal and one assist, and his second with 29 appearances, one goal and five assists.&lt;ref name=Soccerway/&gt;
+
+===Chelsea===
+[[File:West Brom 0 Chelsea 4 (6654549) (cropped).jpg|thumb|upright|Zappacosta playing for [[Chelsea F.C.|Chelsea]] in 2017]]
+
+On 31 August 2017, he was sold to [[Chelsea F.C.|Chelsea]] for a reported fee of €28&amp;nbsp;million plus bonuses.&lt;ref&gt;http://gianlucadimarzio.com/it/calciomercato-zappacosta-chelsea-le-cifre-delloperazione-e-la-foto-al-momento-della-firma&lt;/ref&gt; He signed a four-year deal at [[Stamford Bridge (stadium)|Stamford Bridge]]. The transfer was completed minutes before the transfer window shut on deadline day.&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news/latest-news/2017/08/zappacosta-signs.html|title=Zappacosta signs –|date=31 August 2017|publisher=Chelsea F.C.}}&lt;/ref&gt; Zappacosta made his debut for Chelsea on 9 September as a substitute replacing [[Victor Moses]] in the 74th minute of a 2–1 away win against [[Leicester City F.C.|Leicester City]].&lt;ref&gt;{{Cite web|url=https://int.soccerway.com/matches/2017/09/09/england/premier-league/leicester-city-fc/chelsea-football-club/2462828/|title=Leicester City vs. Chelsea – 9 September 2017|work=Soccerway|access-date=8 November 2017}}&lt;/ref&gt; He made his [[UEFA Champions League|Champions League]] debut and scored his first goal for Chelsea on 12 September 2017, in a 6–0 home win against [[Qarabağ FK]]. With this goal, Zappacosta became the 100th Italian player to score a goal in the Champions League.&lt;ref&gt;{{cite news|url=http://www.gazzetta.it/Calcio/Champions-League/12-09-2017/chelsea-che-perla-zappacosta-100-italiano-segno-champions-220534375187.shtml|title=Chelsea, che perla di Zappacosta! È il 100° italiano a segno in Champions|newspaper=La Gazzetta dello Sport|language=Italian |first=Luigi |last=Polce|date=12 September 2017|accessdate=12 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2017/09/12/chelsea-6-qarabag-0-davide-zappacosta-marks-full-debut-goal/|title=Chelsea 6 Qarabag 0: Davide Zappacosta marks full debut with goal as half-strength hosts run riot|newspaper=The Daily Telegraph |first=Matt |last=Law|date=12 September 2017|accessdate=12 September 2017}}&lt;/ref&gt; His first [[English Premier League|Premier League]] goal came from outside the box in a 5–0 home win against [[Stoke City]] on 30 December 2017.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2017/dec/30/chelsea-stoke-premier-league-match-report|title=Chelsea's Davide Zappacosta completes crushing of dire Stoke|work=The Guardian|date=31 December 2017}}&lt;/ref&gt;
+
+==International career==
+During his period in [[Irpinia]], he made his debut with the Italy [[Italy national under-21 football team|under-21]] on 5 September 2013 in a [[2015 UEFA European Under-21 Championship]] [[2015 UEFA European Under-21 Championship qualification|qualifier match]] against [[Belgium national under-21 football team|Belgium]], losing 3–1. He also received a call-up from [[Italy under-21 Serie B representative team]] against a team of free agent that was trained in a camp held by [[Italian Footballers' Association]], in August 2013.&lt;ref&gt;{{cite web|url=http://www.legab.it/fileadmin/user_upload/newscms/doc/14366941177908.pdf|title=B ITALIA-RAPPRESENTATIVA AIC SENZA CONTRATTO MERCOLEDi' A COVERCIANO|date=5 August 2013|access-date=2 September 2016|publisher=Lega Serie B|language=Italian|deadurl=yes|archiveurl=https://web.archive.org/web/20160915031719/http://www.legab.it/fileadmin/user_upload/newscms/doc/14366941177908.pdf|archivedate=15 September 2016|df=dmy-all}}&lt;/ref&gt;
+
+He took part in the [[2015 UEFA European Under-21 Championship|2015]] [[UEFA European Under-21 Championship]] in the Czech Republic, playing as a starter in the right full-back position in all three of Italy's games, who were eliminated in the group stage.&lt;ref&gt;{{cite web|title=Under-21 2015 – England-Italy – UEFA|url=http://www.uefa.com/under21/season=2015/matches/round=2000408/match=2015378/index.html|publisher=UEFA|accessdate=25 June 2015}}&lt;/ref&gt;
+
+In May 2016, Zappacosta was called up to the [[Italy national football team|senior national team]] by coach [[Antonio Conte]] in preparation for the [[UEFA Euro 2016]]. He was subsequently included in the list of 30 provisional players for the tournament.&lt;ref&gt;{{cite web|url=http://www.sportmediaset.mediaset.it/calcio/Nazionale/benassi-e-zappacosta-coro-pro-ventura-sarebbe-ottimo-ct-_1099324-201602a.shtml |title=Benassi e Zappacosta, coro pro-Ventura: "Sarebbe ottimo ct" – Sportmediaset |website=Sportmediaset.mediaset.it |date=20 May 2016 |accessdate=6 July 2017}}&lt;/ref&gt; On 31 May, he was named one of three reserves for the senior side for Euro 2016.&lt;ref&gt;{{cite web|url=http://www.football-italia.net/85180/rugani-azzurri-reserves|title=Rugani in Azzurri reserves|publisher=Football Italia|date=31 May 2016|accessdate=31 May 2016}}&lt;/ref&gt;
+
+He made his international debut for Italy on 12 November 2016, against [[Liechtenstein national football team|Liechtenstein]] in a [[2018 World Cup qualifying]] match, starting the match as a right back.&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/matches/round=276483/match=300332067/index.html#nosticky |title=2018 FIFA World Cup Russia™ – Matches – Liechtenstein-Italy |publisher=FIFA |date=23 June 2017 |accessdate=6 July 2017}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{Updated|match played 18 February 2019}}&lt;ref&gt;{{Soccerway|davide-zappacosta/205625|accessdate=11 July 2015}}&lt;/ref&gt;
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|League Cup
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[A.C. Isola Liri|Isola Liri]]
+|[[2009–10 Lega Pro Seconda Divisione|2009–10]]
+|[[Lega Pro Seconda Divisione]]
+|2||0||0||0||colspan=2|—||colspan=2|—||colspan=2|—||2||0
+|-
+|[[2010–11 Lega Pro Seconda Divisione|2010–11]]
+|Lega Pro Seconda Divisione
+|12||1||0||0||colspan=2|—||colspan=2|—||colspan=2|—||12||1
+|-
+!colspan=2|Total
+!14!!1!!0!!0!!colspan=2|—!!colspan=2|—!!colspan=2|—!!14!!1
+|-
+|rowspan=4|[[U.S. Avellino 1912|Avellino]]
+|[[2011–12 Lega Pro Prima Divisione|2011–12]]
+|[[Lega Pro Prima Divisione]]
+|27||0||0||0||colspan=2|—||colspan=2|—||colspan=2|—||27||0
+|-
+|[[2012–13 Lega Pro Prima Divisione|2012–13]]
+|Lega Pro Prima Divisione
+|26||1||1||0||colspan=2|—||colspan=2|—||colspan=2|—||27||1
+|-
+|[[2013–14 Serie B|2013–14]]
+|[[Serie B]]
+|32||2||4||0||colspan=2|—||colspan=2|—||colspan=2|—||36||2
+|-
+!colspan=2|Total
+!85!!3!!5!!0!!colspan=2|—!!colspan=2|—!!colspan=2|—!!90!!3
+|-
+||[[Atalanta B.C.|Atalanta]]
+|[[2014–15 Atalanta B.C. season|2014–15]]
+|[[Serie A]]
+|29||3||1||0||colspan=2|—||colspan=2|—||colspan=2|—||30||3
+|-
+|rowspan=4|[[Torino F.C.|Torino]]
+|[[2015–16 Torino F.C. season|2015–16]]
+|Serie A
+|25||1||1||0||colspan=2|—||colspan=2|—||colspan=2|—||26||1
+|-
+|[[2016–17 Torino F.C. season|2016–17]]
+|Serie A
+|29||1||0||0||colspan=2|—||colspan=2|—||colspan=2|—||29||1
+|-
+|[[2017–18 Torino F.C. season|2017–18]]
+|Serie A
+|2||0||1||0||colspan=2|—||colspan=2|—||colspan=2|—||3||0
+|-
+!colspan=2|Total
+!56!!2!!2!!0!!colspan=2|—!!colspan=2|—!!colspan=2|—!!58!!2
+|-
+|rowspan="3"|[[Chelsea F.C.|Chelsea]]
+|[[2017–18 Chelsea F.C. season|2017–18]]
+|[[Premier League]]
+|22||1||4||0||4||0||5||1||colspan=2|—||35||2
+|-
+|[[2018–19 Chelsea F.C. season|2018–19]]
+|Premier League
+|2||0||2||0||1||0||6||0||0||0||11||0
+|-
+!colspan=2|Total
+!24!!1!!6!!0!!5!!0!!11!!1!!0!!0!!46!!2
+|-
+!colspan=3|Career total
+!208!!10!!14!!0!!5!!0!!11!!1!!0!!0!!238!!11
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played on 7 September 2018}}&lt;ref&gt;{{NFT player|id=65848 |name=Zappacosta, Davide |accessdate=30 December 2017}}&lt;/ref&gt;
+
+{| class=wikitable style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=4|[[Italy national football team|Italy]]
+|-
+|2016||2||0
+|-
+|2017||5||0
+|-
+|2018||6||0
+|-
+!colspan=2|Total||13||0
+|}
+
+==Honours==
+'''Avellino'''
+*[[Lega Pro Prima Divisione]]: [[2012–13 Lega Pro Prima Divisione|2012–13]]
+*[[Supercoppa di Lega Pro Prima Divisione]]: 2013
+
+'''Chelsea'''
+*[[FA Cup]]: [[2017–18 FA Cup|2017–18]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44091559 |title=Chelsea 1–0 Manchester United |first=Phil |last=McNulty |publisher=BBC Sport |date=19 May 2018 |accessdate=19 May 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.chelseafc.com/en/teams/first-team/davide-zappacosta?pageTab=biography Profile] at the Chelsea F.C. website
+*[https://web.archive.org/web/20180612211755/http://www.figc.it/nazionali/DettaglioConvocato?codiceConvocato=4011&amp;squadra=1 Profile] at the Italian Football Federation website
+*{{Soccerbase}}
+
+{{Chelsea F.C. squad}}
+
+{{DEFAULTSORT:Zappacosta, Davide}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:People from Sora, Lazio]]
+[[Category:People of Lazian descent]]
+[[Category:Italian footballers]]
+[[Category:Italy under-21 international footballers]]
+[[Category:Italy international footballers]]
+[[Category:Association football defenders]]
+[[Category:A.C. Isola Liri players]]
+[[Category:Atalanta B.C. players]]
+[[Category:U.S. Avellino 1912 players]]
+[[Category:Torino F.C. players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Serie C players]]
+[[Category:Serie B players]]
+[[Category:Serie A players]]
+[[Category:Premier League players]]
+[[Category:Italian expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Italian expatriate sportspeople in England]]</text>
+      <sha1>7iyckku6vh8mqxtygoq4fiejdz70ldl</sha1>
+    </revision>
+  </page>
+</mediawiki>

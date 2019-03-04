@@ -1,0 +1,282 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ben Gibson</title>
+    <ns>0</ns>
+    <id>31597277</id>
+    <revision>
+      <id>880437566</id>
+      <parentid>877122471</parentid>
+      <timestamp>2019-01-27T12:18:16Z</timestamp>
+      <contributor>
+        <username>Nfc123</username>
+        <id>1265316</id>
+      </contributor>
+      <comment>app 26 jan</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23833">{{About|the English footballer|other uses|Benjamin Gibson (disambiguation){{!}}Benjamin Gibson}}
+{{Use British English|date=July 2013}}
+{{Use dmy dates|date=September 2018}}
+{{Infobox football biography
+| name                = Ben Gibson
+| image               = Ben Gibson 04-08-2012 1.jpg
+| image_size          = 180
+| caption             = Gibson playing for [[Middlesbrough F.C.|Middlesbrough]] in 2012
+| fullname            = Benjamin James Gibson&lt;ref&gt;{{cite web |url=https://www.efl.com/news/2016/june/efl-club-retained-and-released-lists-published/ |title=EFL: Club retained and released lists published |publisher=English Football League |date=23 June 2016 |accessdate=4 January 2018}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1993|1|15|df=y}}&lt;ref&gt;{{Hugman|23159|accessdate=5 December 2017}}&lt;/ref&gt;
+| birth_place         = [[Nunthorpe]], England
+| height              = {{convert|1.85|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.11v11.com/players/ben-gibson-232354/ |title=Ben Gibson |website=11v11.com |publisher=AFS Enterprises |accessdate=4 January 2018}}&lt;/ref&gt;
+| position            = [[Defender (association football)|Defender]]
+| currentclub         = [[Burnley F.C.|Burnley]]
+| clubnumber          = 14
+| youthyears1         = 2005–2010
+| youthclubs1         = [[Middlesbrough F.C. Reserves and Academy|Middlesbrough]]
+| years1              = 2010–2018
+| clubs1              = [[Middlesbrough F.C.|Middlesbrough]]
+| caps1               = 185
+| goals1              = 4
+| years2              = 2011
+| clubs2              = → [[Plymouth Argyle F.C.|Plymouth Argyle]] (loan)
+| caps2               = 13
+| goals2              = 0
+| years3              = 2012
+| clubs3              = → [[York City F.C.|York City]] (loan)
+| caps3               = 8
+| goals3              = 0
+| years4              = 2012–2013
+| clubs4              = → [[Tranmere Rovers F.C.|Tranmere Rovers]] (loan)
+| caps4               = 20
+| goals4              = 0
+| years5              = 2013
+| clubs5              = → [[Tranmere Rovers F.C.|Tranmere Rovers]] (loan)
+| caps5               = 8
+| goals5              = 1
+| years6              = 2018–
+| clubs6              = [[Burnley F.C.|Burnley]]
+| caps6               = 1
+| goals6              = 1
+| nationalyears1      = 2009–2010
+| nationalteam1       = [[England national under-17 football team|England U17]]
+| nationalcaps1       = 5
+| nationalgoals1      = 1
+| nationalyears2      = 2011
+| nationalteam2       = [[England national under-18 football team|England U18]]
+| nationalcaps2       = 1
+| nationalgoals2      = 0
+| nationalyears3      = 2014
+| nationalteam3       = [[England national under-20 football team|England U20]]
+| nationalcaps3       = 4
+| nationalgoals3      = 0
+| nationalyears4      = 2014–2015
+| nationalteam4       = [[England national under-21 football team|England U21]]
+| nationalcaps4       = 10
+| nationalgoals4      = 1
+| club-update         = 00:13, 27 December 2018 (UTC)
+| nationalteam-update = 
+}}
+'''Benjamin James Gibson''' (born 15 January 1993) is an English professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for {{English football updater|Burnley}} club [[Burnley F.C.|Burnley]].
+
+Having graduated from [[Middlesbrough F.C. Reserves and Academy|Middlesbrough's Academy]], Gibson enjoyed [[Loan (sports)|loan]] spells with [[Plymouth Argyle F.C.|Plymouth Argyle]], [[York City F.C.|York City]] and [[Tranmere Rovers F.C.|Tranmere Rovers]] before breaking into the club's first team in 2013. In 2016, he was part of the Middlesbrough team that secured promotion to the Premier League and the following year earned his first call-up to the [[England national football team|English national team]].
+
+==Early and personal life==
+Gibson was born in [[Nunthorpe]], North Yorkshire&lt;ref&gt;{{cite web |url=https://uk.soccerway.com/players/ben-gibson/187372/ |title=B. Gibson: Summary |website=Soccerway |publisher=Perform Group |accessdate=13 May 2018}}&lt;/ref&gt; and attended [[Nunthorpe Academy|Nunthorpe School]]&lt;ref&gt;{{cite news |first=Anthony |last=Vickers |title=Ben Gibson: 'Beating Man City gave me one of the best days of my childhood' |url=http://www.gazettelive.co.uk/news/teesside-news/ben-gibson-beating-man-city-8506142 |newspaper=Teesside Gazette |location=Middlesbrough |date=24 January 2015 |accessdate=2 April 2016}}&lt;/ref&gt; and [[Yarm School]].&lt;ref&gt;{{cite web |title=Former Pupils' Page |url=http://www.yarmschool.org/alumni |publisher=Yarm School |accessdate=8 May 2016 |archive-url=https://web.archive.org/web/20160320225558/http://www.yarmschool.org/alumni |archive-date=20 March 2016 |dead-url=yes}}&lt;/ref&gt; His uncle is current Middlesbrough chairman [[Steve Gibson (businessman)|Steve Gibson]].&lt;ref name="Gibbo stays on"/&gt;
+
+==Club career==
+===Early career===
+Gibson joined [[Middlesbrough F.C. Reserves and Academy|Middlesbrough's Academy]] from Marton at the age of 12.&lt;ref name="Ben Gibson Middlesbrough"/&gt; He was a member of the Middlesbrough team that won the Nike Cup in 2008 and signed his first professional contract with the club on 1 July 2010.&lt;ref name="Ben Gibson Middlesbrough"&gt;{{cite web |title=Ben Gibson |url=http://www.mfc.co.uk/page/squad/senior/biography/0,,1~51287,00.html |publisher=Middlesbrough F.C. |archiveurl=https://web.archive.org/web/20130927100755/http://www.mfc.co.uk/page/squad/senior/biography/0%2C%2C1~51287%2C00.html |archivedate=27 September 2013 |deadurl=yes}}&lt;/ref&gt; He made his first-team debut as a [[Substitute (association football)|substitute]] on 25 April 2011 against [[Coventry City F.C.|Coventry City]], coming on in the 41st minute for the injured [[Andrew Davies (footballer)|Andrew Davies]], with Middlesbrough going on to win the game 2–1.&lt;ref&gt;{{cite news |title=Boro 2–1 Coventry City |url=http://www.mfc.co.uk/page/matches/reports/0,,1~52463,00.html |publisher=Middlesbrough F.C. |date=25 April 2011 |archiveurl=https://web.archive.org/web/20120926154305/http://www.mfc.co.uk/page/matches/reports/0%2C%2C1~52463%2C00.html |archivedate=26 September 2012 |deadurl=yes}}&lt;/ref&gt; He finished the [[2010–11 Middlesbrough F.C. season|2010–11 season]] with one appearance for Middlesbrough, and having [[Captain (association football)|captained]] the reserve team to [[The Football Combination]] East Division title.&lt;ref name="Ben Becomes A Pilgrim"&gt;{{cite news |title=Ben Becomes A Pilgrim |url=http://www.mfc.co.uk/page/news/latest/0,,1~2408191,00.html |publisher=Middlesbrough F.C. |date=2 August 2011 |archiveurl=https://web.archive.org/web/20130323192235/http://www.mfc.co.uk/page/news/latest/0%2C%2C1~2408191%2C00.html |archivedate=23 March 2013 |deadurl=yes}}&lt;/ref&gt;
+
+===Loan spells===
+[[File:Ben Gibson 07-04-2012 1.jpg|thumb|upright|Gibson playing for [[York City F.C.|York City]] in 2012]]
+
+Gibson signed a three-month [[Loan (sports)|loan]] deal with [[EFL League Two|League Two]] club [[Plymouth Argyle F.C.|Plymouth Argyle]] on 2 August 2011.&lt;ref name="Ben Becomes A Pilgrim"/&gt; After making 13 appearances in this time, Gibson and both clubs involved agreed on 1 November 2011 to extend the loan deal until 29 January 2012.&lt;ref name="Gibbo stays on"&gt;{{cite news |title=Gibbo stays on |url=http://www.pafc.co.uk/page/NewsDetail/0,,10364~2502160,00.html |publisher=Plymouth Argyle F.C. |date=1 November 2011 |archiveurl=https://web.archive.org/web/20120103191805/http://www.pafc.co.uk/page/NewsDetail/0%2C%2C10364~2502160%2C00.html |archivedate=3 January 2012 |deadurl=yes}}&lt;/ref&gt; However, the loan was cut short after Middlesbrough recalled him on 30 November 2011.&lt;ref&gt;{{cite news |title=Argyle loanee Ben Gibson goes back to Middlesbrough |url=https://www.bbc.co.uk/sport/football/15965331 |publisher=BBC Sport |date=30 November 2011 |accessdate=2 April 2016}}&lt;/ref&gt; He signed for [[National League (division)|Conference Premier]] club [[York City F.C.|York City]] on loan until the end of [[2011–12 York City F.C. season|2011–12]] on 9 February 2012.&lt;ref&gt;{{cite news |title=Ben Gibson joins York City on loan from Middlesbrough |url=https://www.bbc.co.uk/sport/football/16966806 |publisher=BBC Sport |date=9 February 2012 |accessdate=2 April 2016}}&lt;/ref&gt; After a promising start Gibson was sent off in the 1–0 away victory to [[Cambridge United F.C.|Cambridge United]].&lt;ref&gt;{{cite web |url=http://www.skysports.com/football/cambridge-u-vs-york-city/teams/257462 |title=Cambridge U v York City 12 Apr 2012 |publisher=Sky Sports |accessdate=31 March 2017}}&lt;/ref&gt; However, after missing the next four games through suspension he won the [[2012 FA Trophy Final]] with York at [[Wembley Stadium]] on 12 May, in which the team beat [[Newport County A.F.C.|Newport County]] 2–0.&lt;ref name="Non-League Club Directory 2013"/&gt; Eight days later he played in the 2–1 victory over [[Luton Town F.C.|Luton Town]] in the [[2012 Conference Premier play-off Final]] at Wembley on 20 May 2012,&lt;ref name="Non-League Club Directory 2013"/&gt; seeing the club return to [[English Football League|the Football League]] after an eight-year absence with promotion to League Two.&lt;ref&gt;{{cite news |first=Phil |last=Maiden |title=Luton 1–2 York |url=https://www.bbc.co.uk/sport/football/18049175 |publisher=BBC Sport |date=20 May 2012 |accessdate=2 April 2016}}&lt;/ref&gt; Gibson completed his loan at York with 11 appearances.&lt;ref name="Non-League Club Directory 2013"/&gt;
+
+On 14 August 2012, Gibson joined [[EFL League One|League One]] club [[Tranmere Rovers F.C.|Tranmere Rovers]] on a one-month loan.&lt;ref&gt;{{cite news |title=Tranmere Rovers sign Ben Gibson from Middlesbrough |url=https://www.bbc.co.uk/sport/football/19261010 |publisher=BBC Sport |date=14 August 2012 |accessdate=2 April 2016}}&lt;/ref&gt; The month was extended until January 2013 the following month, but in December 2012 was ruled out of action with an abductor problem, thus ending the duration of his first loan spell at Rovers.&lt;ref&gt;{{cite news |title=Tranmere Rovers extend Ben Gibson loan deal until January |url=https://www.bbc.co.uk/sport/football/19543595 |publisher=BBC Sport |date=13 September 2012 |accessdate=2 April 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Ben Gibson: Tranmere Rovers loan could be ended by injury |url=https://www.bbc.co.uk/sport/football/20717079 |publisher=BBC Sport |date=13 December 2012 |accessdate=2 April 2016}}&lt;/ref&gt; He signed a new four-year contract with Middlesbrough on 18 December 2012.&lt;ref&gt;{{cite news |title=Ben Gibson signs new four-year Middlesbrough deal |url=https://www.bbc.co.uk/sport/football/20772754 |publisher=BBC Sport |date=18 December 2012 |accessdate=2 April 2016}}&lt;/ref&gt; On 13 March 2013, Gibson returned on loan to Rovers, until the end of the season.&lt;ref name=GibsonLoan2&gt;{{Cite news |title=Gibson Returns To Rovers |url=http://www.tranmererovers.co.uk/news/article/gibson-140313-713991.aspx |publisher=Tranmere Rovers F.C. |date=14 March 2013 |accessdate=29 August 2017}}&lt;/ref&gt;
+
+===Return to Middlesbrough===
+The [[2013–14 Middlesbrough F.C. season|2013–14 season]] saw Gibson become more involved in the first team squad for Middlesbrough; the team did not perform well, and manager [[Tony Mowbray]] was sacked in October 2013.&lt;ref&gt;{{cite web |url=http://www.mfc.co.uk/page/news/latest/0,,1~3505015,00.html |title=Archived copy |accessdate=29 August 2017 |deadurl=yes |archiveurl=https://web.archive.org/web/20131024081843/http://www.mfc.co.uk/page/news/latest/0,,1~3505015,00.html |archivedate=24 October 2013}}&lt;/ref&gt; [[Aitor Karanka]] replaced him, and they finished twelfth.&lt;ref&gt;{{cite web |url=http://www.mfc.co.uk/page/news/latest/0,,1~3535212,00.html |title=Aitor Named Head Coach |publisher=Middlesbrough F.C. |date=13 November 2013 |accessdate=29 August 2013| archive-url=https://web.archive.org/web/20131113125628/http://www.mfc.co.uk/page/news/latest/0,,1~3535212,00.html| archive-date=13 November 2013| dead-url=yes |df=dmy-all}}&lt;/ref&gt; The [[2014–15 Middlesbrough F.C. season|following season]] saw the club finish fourth, qualifying for the [[2015 Football League play-offs|promotion play-offs]]. They reached the final at [[Wembley Stadium]], having won 5–1 on aggregate against [[Brentford F.C.|Brentford]], but were defeated 2–0 by [[Norwich City F.C.|Norwich City]].&lt;ref&gt;{{cite web |title=Middlesbrough 0–2 Norwich City – BBC Sport |url=https://www.bbc.com/sport/football/32776552 |publisher=BBC Sport |accessdate=29 August 2017}}&lt;/ref&gt; In the [[2015–16 Middlesbrough F.C. season|2015–16 season]], Gibson helped Middlesbrough secure promotion to the [[Premier League]], having finished as runners-up, behind champions [[Burnley F.C.|Burnley]], in the [[EFL Championship|Championship]].&lt;ref&gt;{{cite news |title=Middlesbrough 1–1 Brighton: Boro promoted to Premier League – as it happened |url=https://www.theguardian.com/football/live/2016/may/07/middlesbrough-v-brighton-championship-promotion-decider-live-boro-albion |accessdate=29 August 2017 |work=The Guardian |date=7 May 2016}}&lt;/ref&gt;
+
+Gibson still remained as a crucial part of Middlesbrough's squad in their [[2016–17 Premier League|2016–17 Premier League campaign]], though they did not record positive results; they dropped into relegation zone in March 2017, with Karanka being sacked later that month.&lt;ref&gt;{{cite news |url=http://www.gazettelive.co.uk/sport/football/football-news/stoke-city-vs-middlesbrough-live-12688922 |title=Stoke City 2–0 Middlesbrough RECAP: Desperately disappointing afternoon as Boro drop into relegation zone |publisher=Gazette Live |date=4 March 2017 |accessdate=29 August 2017 |last=Shaw |first=Dominic}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/39291081 |title=Aitor Karanka: Middlesbrough sack manager after three and a half years |publisher=BBC Sport |date=16 March 2017 |accessdate=29 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |url=http://www.skysports.com/football/news/11680/10804567/middlesbrough-chairman-steve-gibson-says-tired-aitor-karanka-sacrificed-himself |title=Middlesbrough chairman Steve Gibson says tired Aitor Karanka 'sacrificed himself' |publisher=[[Sky Sports]] |date=17 March 2017 |accessdate=29 August 2017}}&lt;/ref&gt; Their relegation back down to the Championship was confirmed in May 2017, after a 3–0 defeat to champions [[Chelsea F.C.|Chelsea]], with the club having only been in the English top flight for one season.&lt;ref&gt;{{cite news |url=http://www.bbc.co.uk/newsround/39854503 |title=Bye Boro! Middlesbrough relegated from Premier League |date=9 May 2017 |accessdate=29 August 2017 |publisher=CBBC Newsround}}&lt;/ref&gt;
+
+===Burnley===
+Gibson signed for Premier League club [[Burnley F.C.|Burnley]] on 5 August 2018 on a four-year contract for a joint club-record fee of £15&amp;nbsp;million.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45076206 |title=Ben Gibson: Burnley sign Middlesbrough centre-back for joint club record fee |publisher=BBC Sport |date=5 August 2018 |accessdate=5 August 2018}}&lt;/ref&gt;
+
+==International career==
+Gibson has competed for the [[England national under-17 football team|England under-17s]], the [[England national under-18 football team|under-18s]], the [[England national under-20 football team|under-20s]] and the [[England national under-21 football team|under-21s]].&lt;ref&gt;{{cite web |title=Ben Gibson |url=http://www.thefa.com/England/All-Teams/Players/G/Ben%20Gibson |publisher=The Football Association |accessdate=17 June 2015}}&lt;/ref&gt; He was part of the under-17 teams that won the 2009 Nordic Cup, where he scored in the final against [[Scotland national under-17 football team|Scotland]],&lt;ref&gt;{{cite news |title=Scotland U17s defeated in Nordic Cup final |url=http://www.dailyrecord.co.uk/sport/football/scotland-u17s-defeated-in-nordic-cup-1032775#XXGOhvtxt1FVPhHg.97 |newspaper=Daily Record |location=Glasgow |date=9 August 2009 |accessdate=2 April 2016}}&lt;/ref&gt; and the [[2010 UEFA European Under-17 Championship]].&lt;ref name="Ben Gibson Middlesbrough"/&gt;
+
+Gibson made his debut for England under-21s in the first leg of the [[2015 UEFA European Under-21 Championship qualification play-offs]] against [[Croatia national under-21 football team|Croatia]]&lt;ref&gt;{{cite web |url=http://www.uefa.com/under21/season=2015/matches/round=2000413/match=2015235/postmatch/report/index.html |title=Under-21 2015 - History - England-Croatia – UEFA.com |first= |last=uefa.com |date=10 October 2014 |publisher=}}&lt;/ref&gt; on the back of an impressive campaign for Middlesbrough. His performances made him a key member of the under-21 set up and he formed an effective partnership with [[John Stones]]. Gibson scored his first goal for the under-21s in England's final friendly before the European Championships against [[Belarus national under-21 football team|Belarus]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/england/under-21/2015/jun/belarus-report-110615 |title=Ben Gibson helps England secure Euro send-off victory |first=The Football |last=Association |website=www.thefa.com}}&lt;/ref&gt; He went on to play 90 minutes in all of England's three group stage matches in the tournament although could not stop their disappointing early departure.&lt;ref&gt;{{cite web |url=http://www.uefa.com/under21/season=2015/matches/round=2000408/match=2015368/index.html |title=Under-21 2015 - History - England-Portugal – UEFA.com |first= |last=uefa.com |date=18 June 2015 |publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.uefa.com/under21/season=2015/matches/round=2000408/match=2015374/index.html |title=Under-21 2015 - History - Sweden-England – UEFA.com |first= |last=uefa.com |date=21 June 2015 |publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.uefa.com/under21/season=2015/matches/round=2000408/match=2015378/index.html |title=Under-21 2015 - History - England-Italy – UEFA.com |first= |last=uefa.com |date=24 June 2015 |publisher=}}&lt;/ref&gt;
+
+Gibson received his first call-up to the [[England national football team|English national team]] on 24 March 2017, replacing the injured [[Chris Smalling]] for the [[2018 FIFA World Cup qualification – UEFA Group F|2018 FIFA World Cup qualifier]] against [[Lithuania national football team|Lithuania]].&lt;ref&gt;{{cite news |title=Ben Gibson: Middlesbrough defender gets England call-up |url=https://www.bbc.co.uk/sport/football/39382626 |publisher=BBC Sport |date=24 March 2017 |accessdate=24 March 2017}}&lt;/ref&gt;
+
+==Style of play==
+Gibson plays at [[centre back]] or [[left back]].&lt;ref name="Ben Gibson Middlesbrough"/&gt;
+
+==Career statistics==
+{{updated|match played 26 January 2019}}
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=11|[[Middlesbrough F.C.|Middlesbrough]]
+|[[2009–10 Middlesbrough F.C. season|2009–10]]&lt;ref name=sb0910&gt;{{soccerbase season|54425|2009|accessdate=2 April 2016}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|0||0||0||0||0||0||colspan=2|—||0||0
+|-
+|[[2010–11 Middlesbrough F.C. season|2010–11]]&lt;ref name=sb1011&gt;{{soccerbase season|54425|2010|accessdate=9 February 2012}}&lt;/ref&gt;
+|Championship
+|1||0||0||0||0||0||colspan=2|—||1||0
+|-
+|[[2011–12 Middlesbrough F.C. season|2011–12]]&lt;ref name=sb1112&gt;{{soccerbase season|54425|2011|accessdate=2 April 2016}}&lt;/ref&gt;
+|Championship
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2012–13 Middlesbrough F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|54425|2012|accessdate=27 December 2015}}&lt;/ref&gt;
+|Championship
+|1||0||colspan=2|—||0||0||colspan=2|—||1||0
+|-
+|[[2013–14 Middlesbrough F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|54425|2013|accessdate=27 December 2015}}&lt;/ref&gt;
+|Championship
+|31||1||1||0||1||0||colspan=2|—||33||1
+|-
+|[[2014–15 Middlesbrough F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|54425|2014|accessdate=27 May 2015}}&lt;/ref&gt;
+|Championship
+|36||0||2||0||0||0||3{{efn|name=CPO|Appearances in [[EFL Championship play-offs|Championship play-offs]]}}||0||41||0
+|-
+|[[2015–16 Middlesbrough F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|54425|2015|accessdate=4 January 2018}}&lt;/ref&gt;
+|Championship
+|33||1||0||0||3||0||colspan=2|—||36||1
+|-
+|[[2016–17 Middlesbrough F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|54425|2016|accessdate=16 July 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|38||1||2||0||1||0||colspan=2|—||41||1
+|-
+|[[2017–18 Middlesbrough F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|54425|2017|accessdate=16 May 2018}}&lt;/ref&gt;
+|Championship
+|45||1||2||0||1||0||2{{efn|name=CPO}}||0||50||1
+|-
+|[[2018–19 Middlesbrough F.C. season|2018–19]]&lt;ref name=sb1819/&gt;
+|Championship
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+!colspan=2|Total
+!185||4||7||0||6||0||5||0||203||4
+|-
+|[[Plymouth Argyle F.C.|Plymouth Argyle]] (loan)
+|[[2011–12 Plymouth Argyle F.C. season|2011–12]]&lt;ref name=sb1112/&gt;
+|[[EFL League Two|League Two]]
+|13||0||1||0||1||0||1{{efn|name=FLT|Appearance in [[EFL Trophy|Football League Trophy]]}}||0||16||0
+|-
+|[[York City F.C.|York City]] (loan)
+|[[2011–12 York City F.C. season|2011–12]]&lt;ref name="Non-League Club Directory 2013"&gt;{{cite book |editor1-first=Mike |editor1-last=Williams |editor2-first=Tony |editor2-last=Williams |title=Non-League Club Directory 2013 |year=2012 |publisher=Tony Williams Publications |location= |isbn=978-1-869833-77-0 |pages=162–163}}&lt;/ref&gt;
+|[[National League (division)|Conference Premier]]
+|8||0||colspan=2|—||colspan=2|—||3{{efn|Two appearances in [[FA Trophy]], one in Conference Premier play-offs}}||0||11||0
+|-
+|[[Tranmere Rovers F.C.|Tranmere Rovers]] (loan)
+|[[2012–13 Tranmere Rovers F.C. season|2012–13]]&lt;ref name=sb1213/&gt;
+|[[EFL League One|League One]]
+|28||1||2||0||2||0||1{{efn|name=FLT}}||0||33||1
+|-
+|[[Burnley F.C.|Burnley]]
+|[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|54425|2018|accessdate=27 December 2018}}&lt;/ref&gt;
+|Premier League
+|1||1||2||0||0||0||2{{efn|Appearances in [[UEFA Europa League]]}}||0||5||1
+|-
+!colspan=3|Career total
+!235||6||12||0||9||0||12||0||268||6
+|}
+
+{{notelist}}
+
+==Honours==
+'''York City'''
+*[[National League (division)|Conference Premier]] play-offs: [[2011–12 Football Conference#Play-offs|2011–12]]&lt;ref name="Non-League Club Directory 2013"/&gt;
+*[[FA Trophy]]: [[2011–12 FA Trophy|2011–12]]&lt;ref name="Non-League Club Directory 2013"/&gt;
+
+'''Middlesbrough'''
+*[[EFL Championship|Football League Championship]] runner-up: [[2015–16 Football League Championship|2015–16]]&lt;ref name=sb1516/&gt;&lt;ref&gt;{{cite web |url=http://www.soccerbase.com/tournaments/tournament.sd?tourn_id=1438 |title=Championship: 2015/16: Latest table |website=Soccerbase |publisher=Centurycomm |accessdate=4 January 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.burnleyfootballclub.com/teams/first-team/defender/ben-gibson/ Profile] at the Burnley F.C. website
+*{{Soccerbase}}
+
+{{Middlesbrough F.C. Player of the Year}}
+{{Burnley F.C. squad}}
+
+{{DEFAULTSORT:Gibson, Ben}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:People from Nunthorpe]]
+[[Category:Footballers from North Yorkshire]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:Association football defenders]]
+[[Category:Middlesbrough F.C. players]]
+[[Category:Plymouth Argyle F.C. players]]
+[[Category:York City F.C. players]]
+[[Category:Tranmere Rovers F.C. players]]
+[[Category:Burnley F.C. players]]
+[[Category:English Football League players]]
+[[Category:National League (English football) players]]
+[[Category:Premier League players]]
+[[Category:People educated at Yarm School]]</text>
+      <sha1>fbbehm5gxgfftyl6u7x03pg2vbn3jlm</sha1>
+    </revision>
+  </page>
+</mediawiki>

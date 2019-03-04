@@ -1,0 +1,345 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Manuel Lanzini</title>
+    <ns>0</ns>
+    <id>28365714</id>
+    <revision>
+      <id>885961544</id>
+      <parentid>885960047</parentid>
+      <timestamp>2019-03-03T12:53:45Z</timestamp>
+      <contributor>
+        <username>Iggy the Swan</username>
+        <id>31885086</id>
+      </contributor>
+      <comment>Undid revision 885960047 by [[Special:Contributions/2601:585:8000:3F36:8D0F:52F5:AD56:CEE4|2601:585:8000:3F36:8D0F:52F5:AD56:CEE4]] ([[User talk:2601:585:8000:3F36:8D0F:52F5:AD56:CEE4|talk]]) &amp; fix punctuation for Fulham F.C..</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40203">{{Use dmy dates|date=March 2018}}
+{{tense|date=March 2018}}
+{{Infobox football biography
+| name           = Manuel Lanzini
+| image          = Manuel Lanzini in 2017.jpg
+| image_size     = 200
+| caption = Lanzini with [[West Ham United]] in 2017
+| fullname       = Manuel Lanzini&lt;ref&gt;{{cite web |title=Squads for 2016/17 Premier League confirmed |url=https://www.premierleague.com/news/84136 |publisher=Premier League |date=1 September 2016 |accessdate=11 September 2016}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1993|2|15|df=y}}&lt;ref name="Premier League"&gt;{{cite web |url=http://www.premierleague.com/en-gb/players/profile.html/manuel-lanzini |title=Manuel Lanzini |publisher=Premier League |accessdate=6 July 2018}}&lt;/ref&gt;
+| birth_place    = [[Ituzaingó, Buenos Aires|Ituzaingó]], Argentina
+| height         = 1.67 m&lt;ref name="Premier League"/&gt;
+| position       = [[Midfielder#Attacking midfielder|Attacking midfielder]]
+| currentclub    = [[West Ham United F.C.|West Ham United]]
+| clubnumber     =  10
+| youthyears1    = 2002–2010
+| youthclubs1    = [[Club Atlético River Plate|River Plate]]
+| years1         = 2010–2014
+| clubs1         = [[Club Atlético River Plate|River Plate]]
+| caps1          = 93
+| goals1         = 13
+| years2         = 2011–2012
+| clubs2         = → [[Fluminense Football Club|Fluminense]] (loan)
+| caps2          = 28
+| goals2         = 3
+| years3         = 2014–2016
+| clubs3         = [[Al Jazira Club]]
+| caps3          = 24
+| goals3         = 8
+| years4         = 2015–2016
+| clubs4         = → [[West Ham United F.C.|West Ham United]] (loan)
+| caps4          = 26
+| goals4         = 6
+| years5         = 2016–
+| clubs5         = [[West Ham United F.C.|West Ham United]]
+| caps5          = 63
+| goals5         = 13
+| nationalyears1 = 2013
+| nationalteam1  = [[Argentina national under-20 football team|Argentina U20]]
+| nationalcaps1  = 5
+| nationalgoals1 = 2
+| nationalyears2 = 2017–
+| nationalteam2  = [[Argentina national football team|Argentina]]
+| nationalcaps2  = 4
+| nationalgoals2 = 1
+| pcupdate       = 22:00, 22 February 2019 (UTC)
+| ntupdate       = 04:28, 30 May 2018 (UTC)
+}}
+
+'''Manuel Lanzini''' ({{IPA-es|maˈnwel lanˈsini|am}}; born 15 February 1993) is an Argentine [[Association football|footballer]] who plays as an [[Midfielder#Attacking midfielder|attacking midfielder]] for English club [[West Ham United F.C.|West Ham United]] and the [[Argentina national football team|Argentina national team]]. He has previously played for [[Club Atlético River Plate|River Plate]] and [[Fluminense FC|Fluminense]]. He is described as possessing phenomenal [[Dribbling#Association football|dribbling]] ability, as well as fantastic acceleration and vision and the ability to ghost past defenders.&lt;ref&gt;{{cite web|last1=Gartner|first1=Daniel|title=All you need to know about West Ham target Manuel Lanzini [VIDEO]|url=http://outside90.com/all-you-need-to-know-about-west-ham-target-manuel-lanzini-037/|website=Outside90|accessdate=31 December 2015}}&lt;/ref&gt; He is nicknamed "La Joya" ("the jewel").&lt;ref name=uaesign/&gt;&lt;ref name="Italy"&gt;{{cite web | url=http://www.foxsportsasia.com/football/asian-football/news/detail/item60524/Lanzini-set-to-join-West-Ham-on-loan | title=Lanzini set to join West Ham on loan | publisher=foxsportsasia.com | accessdate=7 July 2015 | deadurl=yes | archiveurl=https://web.archive.org/web/20150924015031/http://www.foxsportsasia.com/football/asian-football/news/detail/item60524/Lanzini-set-to-join-West-Ham-on-loan | archivedate=24 September 2015 | df= }}&lt;/ref&gt;
+
+He currently holds the record of being the player that scored the earliest goal in the history of Argentina's derby, the [[Superclásico]], scoring only 43 seconds after the beginning of the match.&lt;ref&gt;{{cite web|url=https://www.clarin.com/deportes/lanzini-marco-rapido-historia-superclasico_0_BkYHmKdiwQg.html|title=Lanzini marcó el gol más rápido en la historia del Superclásico|publisher=Clarín|date=5 May 2013}}&lt;/ref&gt;
+
+==Career==
+
+=== Early career and first steps at River Plate ===
+
+He stood out in indoor soccer football divisions, demonstrating his capabilities in the class of 1993 of the Club Academia Kaly de Ituzaingó, a neighbourhood club. Ramón Maddoni, who discovered players like [[Juan Román Riquelme]], [[Carlos Tévez]] and [[Esteban Cambiasso]], wanted to take him to [[Club Atlético Boca Juniors|Boca Juniors]] for a test match but the young Lanzini firmly declined the call, stating that he only aimed to play for the club that he supported: [[Club Atlético River Plate]].&lt;ref&gt;{{cite web|url=http://www.clarin.com/deportes/futbol/Lanzini-busca-Aimar_0_320968047.html|title=Lanzini busca ser como Aimar|publisher=Clarín|date=31 August 2010}}&lt;/ref&gt; He was finally taken to [[Club Atlético River Plate|River Plate]], in 2002.&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/river-plate/Manuel-estilo_0_307769354.html|title=Manuel de estilo|publisher=Olé|date=11 August 2013}}&lt;/ref&gt; He began playing as a playmaker in junior divisions. Lanzini began training in River and, after several tests, Pedro Vega, ex player and coach of inferior divisions from the club, ordered to hire him. In 2008 the 8th division team of which he was a part of won the trophy for that division, with a personal mark of 9 goals, only 2 less than Leonardo Salguero, who was his companion in attack and top scorer of the team with 11 goals. On 2 November 2008, River Plate won the junior division's [[Superclásico]] 3–0 to [[Club Atlético Boca Juniors|Boca Juniors]] with Lanzini scoring 2 goals and assisting the mentioned Salguero in other.&lt;ref&gt;{{cite web|url=http://www.eldia.com.ar/edis/20081102/dep_popu45.htm|title=Los pibes de River, mareados de festejos|publisher=El Día|date=21 July 2010}}&lt;/ref&gt;
+
+=== Debut at River Plate (2010–11 season) ===
+
+In 2010, the coach of River Plate's first team [[Ángel Cappa]], included him in the team for the winter preseason, disputing several matches in [[Salta Province]].&lt;ref&gt;{{cite web|url=http://www.larazon.com.ar/deportes/Cappa-indulto-Canales-cito-promesa_0_143400058.html|title=Cappa indultó a Canales y citó a una promesa|work=La Razón|date=21 July 2010|access-date=24 March 2018|archive-url=https://web.archive.org/web/20160304194610/http://www.larazon.com.ar/deportes/Cappa-indulto-Canales-cito-promesa_0_143400058.html|archive-date=4 March 2016|dead-url=yes|df=dmy-all}}&lt;/ref&gt; He then made his informal debut in a friendly match against [[Central Norte]], a 3–0 victory, coming on as a second-half substitute for [[Ariel Ortega]].&lt;ref&gt;{{cite web|url=http://www.tycsports.com/notas/57197-caruso-debut-tres-goles-y-festej-river|title=Caruso debutó con tres goles y festejó River|publisher=TyC Sports|date=21 July 2010|access-date=24 March 2018|archive-url=https://web.archive.org/web/20150402171055/http://www.tycsports.com/notas/57197-caruso-debut-tres-goles-y-festej-river|archive-date=2 April 2015|dead-url=yes|df=dmy-all}}&lt;/ref&gt; He then played another friendly match against [[Juventud Antoniana]], in which his performance obtained a very good reception from the press and fans alike.&lt;ref&gt;{{cite web|url=http://www.riverplate.com/Noticias/futbol-profesional/Amistosos/Nacionales/6859-manuel-lanzini-jugo-muy-bien-ante-juventud-antoniana.html|title=Lanzini cumplió un papel destacado|publisher=La Página Millonaria|date=25 July 2010|access-date=24 March 2018|archive-url=https://web.archive.org/web/20150402125715/http://www.riverplate.com/Noticias/futbol-profesional/Amistosos/Nacionales/6859-manuel-lanzini-jugo-muy-bien-ante-juventud-antoniana.html|archive-date=2 April 2015|dead-url=yes|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.clarin.com/deportes/futbol/Lanzini-brisa-aire-fresco_0_305369555.html|title=Lanzini: Una brisa de aire fresco|publisher=Clarín|date=26 July 2010}}&lt;/ref&gt;
+
+The mentioned performances in 2010 winter's preseason satisfied the coach. Finally he made his first appearance on 8 August 2010, against [[Club Atlético Tigre|Tigre]] for the first match of the Torneo Apertura 2010. River won 1–0 and Lanzini was replaced at half time by [[Facundo Affranchino]].&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/river-plate/Falta-tiempo_0_313768643.html|title=Falta un tiempo|publisher=Olé|date=8 August 2010}}&lt;/ref&gt;
+
+This appearance made him one of the youngest players to make their debut in the First Division for River Plate, being only 17 years, 5 months and 24 days old, only after [[Daniel Villalva]], legend [[Adolfo Pedernera]] and the ex-Barcelona and Real Madrid player [[Javier Saviola]].
+After his debut, coach Ángel Cappa did not include him in the match against [[Club Atlético Huracán|Huracán]]. Nevertheless, he played the next match against [[Club Atlético Independiente|Independiente]] in place of suspended [[Ariel Ortega]]. In that match he made an assist that allowed his teammate [[Rogelio Funes Mori]] to score the goal for the 3–2 victory, rounding out a strong performance.&lt;ref&gt;{{cite web|url=http://www.larazon.com.ar/deportes/River-aprovecho-Independiente-lider_0_160800012.html|title=River se aprovechó de Independiente y es uno de los líderes del Apertura|work=La Razón|date=22 August 2010|access-date=24 March 2018|archive-url=https://web.archive.org/web/20160304112437/http://www.larazon.com.ar/deportes/River-aprovecho-Independiente-lider_0_160800012.html|archive-date=4 March 2016|dead-url=yes|df=dmy-all}}&lt;/ref&gt; 5 September, during the match River lost against [[Club Atlético Vélez Sarsfield|Vélez Sársfield]], he suffered from an injury after a strong tackle from [[Leandro Somoza]], which ruled him out for three weeks.&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/river-plate/desgarron-Manu_0_330566963.html|title=El desgarrón de Manu|publisher=Olé|date=6 September 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Apertura-2010/7321-tres-fechas-sin-lanzini.html|title=Tres fechas sin Lanzini|publisher=La Página Millonaria|date=7 September 2010|access-date=24 March 2018|archive-url=https://web.archive.org/web/20100910104703/http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Apertura-2010/7321-tres-fechas-sin-lanzini.html|archive-date=10 September 2010|dead-url=yes|df=dmy-all}}&lt;/ref&gt; He made his comeback to the first team on the 12 match of the season.&lt;ref&gt;{{cite web|url=http://www.infobae.com/futbol/545803-100902-0-River-tropezo-nuevo-y-espera-Boca-un-clima-muy-complicado|title=River tropezó de nuevo y espera a Boca en un clima muy complicado|publisher=Infobae.com|date=8 November 2010}}&lt;/ref&gt;
+
+=== Fluminense (2011–12 season) ===
+
+19 July 2011 an agreement was reached between [[Club Atlético River Plate|River Plate]] and [[Fluminense Football Club|Fluminense]], with the latter taking the player on loan for a fee of US$400,000, with a transfer option of [[Euro|€]]15,000,000.&lt;ref&gt;{{cite web|url=http://www.riverplate.com/Noticias/Mercado-de-Pases-/Mercado-de-Pases-2011/10557-manuel-lanzini-a-prestamo-al-fluminense.html|title=Lanzini fue cedido a préstamo al Fluminense|publisher=La Página Millonaria|date=19 July 2011|access-date=24 March 2018|archive-url=https://web.archive.org/web/20140817092709/http://www.riverplate.com/Noticias/Mercado-de-Pases-/Mercado-de-Pases-2011/10557-manuel-lanzini-a-prestamo-al-fluminense.html|archive-date=17 August 2014|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+
+He made his debut in the 3–0 victory against [[Figueirense Futebol Clube|Figueirense]] for the 16th date of the [[Brasileirao 2011]].&lt;ref&gt;{{cite web|url=http://www.estadao.com.br/noticias/esportes,no-rio-fluminense-vence-figueirense-por-3-a-0-e-alivia-crise-no-clube,759910,0.htm|title=No Rio, Fluminense vence Figueirense por 3 a 0 e alivia crise no clube|publisher=Esportes|date=17 August 2011}}&lt;/ref&gt; He would then score his first official goal in the team's victory 2–1 against [[São Paulo Futebol Clube|São Paulo]] for the 20th date of that tournament.&lt;ref&gt;{{cite web|url=http://www.riverplate.com/Noticias/Ex-River/11011-manuel-lanzini-gol-fluminense-san-pablo-brasileirao.html|archive-url=https://archive.today/20131013220841/http://www.riverplate.com/Noticias/Ex-River/11011-manuel-lanzini-gol-fluminense-san-pablo-brasileirao.html|dead-url=yes|archive-date=13 October 2013|title=Lanzini marcó su primer gol con la camiseta del Fluminense|publisher=La Página Millonaria|date=1 September 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/futbol-internacional/Lanzini-Fluminense_0_546545659.html|title=La primera vez de Manu|publisher=Olé|date=1 September 2011}}&lt;/ref&gt; His performances and character made the president of the club label him "The new [[Neymar]]".&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/river-plate/futbol/Lanzi-Ney_0_538746449.html|title=El Neymar argentino|publisher=Olé|date=19 August 2011|archiveurl=https://web.archive.org/web/20131016235852/http://www.ole.com.ar/river-plate/futbol/Lanzi-Ney_0_538746449.html|archivedate=16 October 2013}}&lt;/ref&gt; His most important goal for the club was against [[Clube de Regatas do Flamengo|Flamengo]] in the [[Río de Janeiro]] [[Fla-Flu]] derby.&lt;ref&gt;{{cite web|url=http://www.riverplate.com/Noticias/Ex-River/11412-lanzini-clasico-carioca.html|title=Lanzini convirtió en el clásico contra Flamengo|publisher=La Página Millonaria|date=11 October 2011|access-date=24 March 2018|archive-url=https://web.archive.org/web/20120117181107/http://www.riverplate.com/Noticias/Ex-River/11412-lanzini-clasico-carioca.html|archive-date=17 January 2012|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+
+Despite his good performances, Fluminense was unable to retain the player and after the loan he had to come back to [[Club Atlético River Plate|River Plate]].&lt;ref&gt;{{cite web|url=http://www.bolavip.com/39390/el-fluminense-quiere-retener-a-lanzini/|title=El Fluminense quiere retener a Lanzini|publisher=Bolavip.com|date=8 October 2013}}&lt;/ref&gt;
+
+=== Comeback to River Plate and consolidation ===
+
+==== 2012–13 season ====
+
+He came back to [[Club Atlético River Plate|River Plate]] 30 June 2012.&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/river-plate/futbol/veras-volver_0_728327474.html|title=Me verás volver|publisher=Olé|date=30 June 2012}}&lt;/ref&gt; He jumped to the pitch as a starter on the team's first appearance in the tournament, scoring the team's only goal in the 1–2 loss against [[Club Atlético Belgrano|Belgrano de Córdoba]].&lt;ref&gt;{{cite web|url=http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Inicial-2012/14038-lanzini-fue-el-mejor-en-su-vuelta.html|title=Lanzini fue el mejor en su vuelta|publisher=La Página Millonaria|date=6 August 2012|access-date=24 March 2018|archive-url=https://web.archive.org/web/20131002105823/http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Inicial-2012/14038-lanzini-fue-el-mejor-en-su-vuelta.html|archive-date=2 October 2013|dead-url=yes|df=dmy-all}}&lt;/ref&gt; For his comeback, he asked to use the club's iconic number 10 shirt to the coach [[Matías Almeyda]], who allowed the player to do so. Nevertheless, during Almeyda's leadership Lanzini was not able to assure himself a place in the pitch, sometimes watching the matches from the bench or not forming part of the main team.&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/river-plate/futbol/lanzini_ni_al_banco_de_suplentes_0_766723700.html|title=Lo Lanzini del banco|publisher=Olé|date=11 August 2012}}&lt;/ref&gt;
+
+Almeyda was finally fired and the club's most successful coach to that date, ex [[Inter Milan]] player [[Ramón Díaz]] was appointed as team manager. With him, Lanzini's chance of regaining a place as a starter increased. Coach made a strong bet on Lanzini, putting him as a starter in the team's 2–0 victory against [[Club Atlético San Martín (San Juan)|San Martín (SJ)]] and Manu corresponded scoring one of the two goals.&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/river-plate/futbol/Lanzini-alegria_0_825517795.html|title=Lanzini a la alegría|publisher=Olé|date=11 August 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Inicial-2012/15279-lanzini-volvio-y-fue-figura.html|title=Lanzini: regreso, gol y figura|publisher=La Página Millonaria|date=9 December 2012|access-date=24 March 2018|archive-url=https://web.archive.org/web/20121212005501/http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Inicial-2012/15279-lanzini-volvio-y-fue-figura.html|archive-date=12 December 2012|dead-url=yes|df=dmy-all}}&lt;/ref&gt; He was then considered a regular starter for the team.
+During the 12th date of the [[2012–13 Argentine Primera División season|Torneo Final 2013 tournament]], he was able to score his first goal in the [[Superclásico]], one of the most heated football rivalries in the world, in the 1–1 draw against [[Club Atlético Boca Juniors|Boca Juniors]]; this goal, as of 2018, stands out as the fastest goal in the derby's history (43 seconds).&lt;ref&gt;{{cite web|url=http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Final-2013/17009-video-goles-boca-vs-river-torneo-final-2013-superclasico.html|title=El gol más rápido en la historia del Superclásico|publisher=La Página Millonaria|date=5 May 2013|access-date=24 March 2018|archive-url=https://web.archive.org/web/20130707161537/http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Final-2013/17009-video-goles-boca-vs-river-torneo-final-2013-superclasico.html|archive-date=7 July 2013|dead-url=yes|df=dmy-all}}&lt;/ref&gt; River would end up in 2nd place in the Torneo Final of the [[2012–13 Argentine Primera División season|season]].&lt;ref&gt;{{cite web|url=http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Final-2013/17466-manuel-lanzini-river-desde-primer-momento-busco-triunfo-independ.html|title=Lanzini: "Lo fuimos a buscar desde el primer momento"|publisher=La Página Millonaria|date=9 July 2013|access-date=24 March 2018|archive-url=https://web.archive.org/web/20130612145134/http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Final-2013/17466-manuel-lanzini-river-desde-primer-momento-busco-triunfo-independ.html|archive-date=12 June 2013|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+
+==== 2013–14 season ====
+
+During the preseason facing the Torneo Final from the 2013 [[2013–14 Argentine Primera División season|season]], the club received an offer from the [[Baniyas SC|Baniyas]] from [[United Arab Emirates]],&lt;ref&gt;{{cite web|url=http://www.tycsports.com/notas/81999-lanzini-emiratos|title=¿Lanzini a Emiratos?|publisher=TyC Sports|date=18 July 2013|access-date=24 March 2018|archive-url=https://web.archive.org/web/20131029193225/http://www.tycsports.com/notas/81999-lanzini-emiratos|archive-date=29 October 2013|dead-url=yes|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.foxsportsla.com/noticias/111028-ofrecen-casi-7-millones-por-manuel-lanzini-desde-el-futbol-arabe?country=ar|title=Ofrecen 6.5 millones por Manuel Lanzini|publisher=Fox Sports|date=18 July 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.telam.com.ar/notas/201307/26071-una-nueva-oferta-para-que-lanzini-juegue-en-emiratos-arabes.html|title=Llegó otra oferta para que Lanzini juegue en Emiratos Árabes|publisher=Télam|date=24 July 2013}}&lt;/ref&gt; but the player turned down the offer because, citing his own father, he considered to prioritize his professional sporting career over economic opportunities.&lt;ref&gt;{{cite web|url=http://www.riverplate.com/Noticias/Mercado-de-Pases-/Mercado-de-pases-2013/18069-lanzini-hector-padre-explica-motivos-rechazo-oferta-dubai.html|title=Padre de Lanzini: "Manuel me dijo que quiere ser feliz en River"|publisher=La Página Millonaria|date=24 July 2013|access-date=24 March 2018|archive-url=https://web.archive.org/web/20131029185324/http://www.riverplate.com/Noticias/Mercado-de-Pases-/Mercado-de-pases-2013/18069-lanzini-hector-padre-explica-motivos-rechazo-oferta-dubai.html|archive-date=29 October 2013|dead-url=yes|df=dmy-all}}&lt;/ref&gt; He remained one of the team highlights in both [[2013–14 Argentine Primera División season|Torneo Inicial 2013]] and international cup [[Copa Sudamericana 2013]] during that year, but the overall form of the team was inconsistent and thus River Plate did not win any trophies in that year.
+
+Things would be different for the club in 2014. That year proved to be one of the most memorable year's in club's history, winning the [[2013–14 Argentine Primera División season|Torneo Final 2014]] and the [[Copa Sudamericana 2014]] kicking out Boca Juniors from that international competition. Lanzini remained half of the year as part of the team, so he was part of the Torneo Inicial 2014 trophy; during that time he continued to be one of the most important players in the pitch. He had the honor to once again score a goal in the team's victory in the 2014 [[Superclásico]] against Boca Juniors, the so-called "Bombonerazo" which began a series of crushing victories of River Plate over Boca Juniors. This match stood out in particular because it was the one that definitively launched the career of his teammate [[Ramiro Funes Mori]], a defender who scored a header in the last minutes of the match; he would end up also playing in the [[Premier League]], as Lanzini, for [[Everton FC]].&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/futbol-primera/Boca-River_0_1111089189.html|title=Bombonerazo|publisher=Olé|date=30 March 2014}}&lt;/ref&gt; River Plate would end up being [[2013–14 Argentine Primera División season|Torneo Final 2014]] champion, with a very solid performance from Manu, who scored 2 goals in 18 appearances.&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/river-plate/paso-gloria_0_1140486269.html|title=Campeón soy yo|publisher=Olé|date=18 May 2014}}&lt;/ref&gt;
+
+Prior to the beginning of local [[2014 Argentine Primera División|2014 Torneo de Transición Championship]] and international [[Copa Sudamericana 2014]], 6 August 2014 he transferred to the [[Al-Jazira Club]] of the [[UAE Pro-League]], for US$6.000.000, with a salary amounting to US$12.000.000 in 3 years.&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/river-plate/futbol/titulo_0_1189681056.html|title=Ultimo Lanzini|publisher=Olé|date=8 August 2014}}&lt;/ref&gt;
+
+===Al Jazira===
+In 2014 Lanzini became the youngest foreign player, at 21, to play in the [[UAE Arabian Gulf League]] when he signed a four-year deal for [[Al Jazira Club]]. He had been courted by clubs in England, Spain, Italy and Turkey, and was signed as a replacement for [[Olympique de Marseille|Marseille]]-bound [[Abdelaziz Barrada]].&lt;ref name=uaesign&gt;{{cite web | url=http://www.thenational.ae/sport/arabian-gulf-league/al-jazira-reach-for-youthful-injection-with-21-year-old-lanzini | title=Al Jazira reach for youthful injection with 21-year-old Lanzini | work=The National|location=Abu Dhabi | date=31 August 2014 | accessdate=7 July 2015}}&lt;/ref&gt;
+
+===West Ham United===
+[[File:Manuel Lanzini with West Ham United, August 2015.jpg|thumb|left|150px|Lanzini warming-up for [[West Ham United F.C.|West Ham United]] in August 2015]]
+
+====2015–16 season====
+On 22 July 2015, Lanzini signed for [[Premier League]] side [[West Ham United F.C.|West Ham United]] on a season-long loan, with an option to make the move permanent.&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/33625483 | title=Manuel Lanzini: West Ham sign Argentine midfielder | publisher=[[BBC Sport]]| accessdate=22 July 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.whufc.com/News/Articles/2015/July/22-July/Hammers-snatch-%E2%80%98The-Jewel%E2%80%99 |title=Hammers snatch ‘The Jewel’ |publisher=[[West Ham United]] |accessdate=22 July 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150724221809/http://www.whufc.com/News/Articles/2015/July/22-July/Hammers-snatch-%E2%80%98The-Jewel%E2%80%99 |archivedate=24 July 2015 |df= }}&lt;/ref&gt; He made his debut on 6 August in the [[UEFA Europa League]] third qualifying round away to [[Astra Giurgiu]], starting the match and scoring in the third minute, however the Hammers lost 2–1 (4–3 on aggregate) and were eliminated.&lt;ref&gt;{{cite news|title=Astra Giurgiu 2–1 West Ham|url=https://www.bbc.co.uk/sport/0/football/33738588|accessdate=6 August 2015|publisher=[[BBC Sport]]|date=6 August 2015}}&lt;/ref&gt; His league debut came on 15 August as a 76th-minute substitute for [[Cheikhou Kouyaté]] in a 1–2 home defeat to [[Leicester City F.C.|Leicester City]].&lt;ref&gt;{{cite news|last1=Bevan|first1=Chris|title=West Ham 1–2 Leicester|url=https://www.bbc.co.uk/sport/0/football/33832171|accessdate=16 August 2015|publisher=[[BBC Sport]]|date=16 August 2015}}&lt;/ref&gt; On 29 August, he scored his first league goal after just three minutes away to [[Liverpool F.C.|Liverpool]], and assisted a [[Mark Noble]] goal as the Hammers won 3–0 for their first victory at [[Anfield]] since 1963.&lt;ref&gt;{{cite news|title=Liverpool hammered by West Ham as Coutinho sent off|url=http://www.espnfc.com/barclays-premier-league/match/422634/liverpool-west-ham-united/report|accessdate=29 August 2015|publisher=ESPN|date=29 August 2015}}&lt;/ref&gt; In March 2016, West Ham confirmed that they had taken up the option to sign Lanzini on a permanent deal, with effect from 1 July 2016.&lt;ref&gt;{{cite web|url=http://www.whufc.com/News/Articles/2016/March/24-March/Hammers-complete-Lanzini-deal|title=Hammers complete Lanzini deal&amp;nbsp;— West Ham United|accessdate=24 March 2016}}&lt;/ref&gt;
+
+====2016–17 season====
+Lanzini played 39 games in all competitions for West Ham, scoring eight goals.&lt;ref name=sway/&gt; On 15 October 2016 he scored the only goal in a 1–0 win away to [[Crystal Palace F.C.|Crystal Palace]] to give West Ham their first away win on the season.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37594218|title=Crystal Palace 0–1 West Ham United|date=15 October 2016|accessdate=26 August 2017|publisher=BBC Sport}}&lt;/ref&gt;&lt;ref name=sway/&gt; His goal in a 1–0 win against [[Tottenham Hotspur F.C.|Tottenham Hotspur]] on 5 May 2017 halted Tottenham's challenge to win the Premier League title. Tottenham, at the time, were on a nine-match winning run and were challenging [[Chelsea F.C.|Chelsea]] for the league title.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2017/may/05/west-ham-tottenham-premier-league-match-report|title=West Ham derail Tottenham’s title bid with Manuel Lanzini’s goal|first=Paul Doyle at the London|last=Stadium|date=5 May 2017|accessdate=26 August 2017|work=The Guardian}}&lt;/ref&gt; On 9 May he was voted runner-up to [[Michail Antonio]] as [[West Ham United F.C.#Hammer of the Year|Hammer of the Year]] and the Players’ Player of the Year.&lt;ref&gt;{{cite web|url=https://www.whufc.com/news/articles/2017/may/09-may/antonio-crowned-betway-hammer-year|title=Antonio crowned Betway Hammer of the Year&amp;nbsp;|publisher=West Ham United F.C.|accessdate=26 August 2017}}&lt;/ref&gt;
+
+====2017–18 season====
+Lanzini made his first appearance of the season on 26 August 2017, in a 3–0 defeat away at [[Newcastle United F.C.|Newcastle United]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/40984016|date=26 August 2017|title=Newcastle United 3–0 West Ham United – BBC Sport|accessdate=26 August 2017|publisher=BBC Sport}}&lt;/ref&gt; In the same game, Lanzini was caught with an elbow by [[Aleksandar Mitrović (footballer)|Aleksandar Mitrović]], who was later banned for three games as a result of the incident.&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/news/11678/11013044/newcastles-aleksandar-mitrovic-handed-ban-after-accepting-fa-charge-of-violent-conduct|title=Newcastle's Aleksandar Mitrovic handed ban after accepting FA charge of violent conduct|publisher=Sky Sports|accessdate=30 August 2017}}&lt;/ref&gt; Lanzini scored his first goal of the season in a 1–4 defeat at home to [[Liverpool F.C.|Liverpool]] on 4 November 2017,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/41785785|date=4 November 2017|title=West Ham United 1–4 Liverpool – BBC Sport|accessdate=4 November 2017|publisher=BBC Sport}}&lt;/ref&gt; before adding a further two goals to his tally on 13 January 2018 in a 4–1 away win at [[Huddersfield Town F.C.|Huddersfield Town]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42587967|date=13 January 2018|title=Huddersfield Town 1–4 West Ham United – BBC Sport|accessdate=13 January 2018|publisher=BBC Sport}}&lt;/ref&gt; On 13 May, he scored twice in a 3–1 win over [[Everton F.C.|Everton]], on the final day of the season.&lt;ref&gt;{{Cite news|url=https://www.bbc.com/sport/football/44020200|title=West Ham United 3-1 Everton|date=2018-05-13|work=BBC Sport|access-date=2018-07-02|language=en-GB}}&lt;/ref&gt;
+
+====2018–19 season====
+After being sidelined due to injury since May 2018, Lanzini made his first appearance of the season on 22 February 2019, coming on as a 76th minute substitute for [[Felipe Anderson]] in a 3–1 home win against [[Fulham F.C.]].&lt;ref&gt;https://www.bbc.com/sport/live/football/46386957/page/3&lt;/ref&gt;&lt;ref&gt;https://www.bbc.com/sport/football/47248479&lt;/ref&gt;
+
+==International career==
+In May 2016, Lanzini was named in [[Argentina national football team|Argentina]]'s provisional 35-man squad for the [[2016 Summer Olympics|2016 Olympics]] in Rio de Janeiro.&lt;ref&gt;{{cite web|url=http://www.onigeria.com/news/world/97374.html|title=Manuel Lanzini and Ramiro Funes Mori included in Argentina's provisional Olympics squad|work=onigeria|accessdate=25 May 2016|archive-url=https://web.archive.org/web/20160630093531/http://www.onigeria.com/news/world/97374.html|archive-date=30 June 2016|dead-url=yes|df=dmy-all}}&lt;/ref&gt; He withdrew from the squad in July 2016 following a knee injury sustained while training in Miami, Florida, returning to London for treatment with West Ham United.&lt;ref&gt;{{cite web | url=http://www.espnfc.co.uk/argentina/story/2918096/manuel-lanzini-pulls-out-of-argentina-olympic-team-with-knee-injury | title=Manuel Lanzini pulls out of Argentina Olympic team with knee injury | publisher=ESPN | date=26 July 2016 | accessdate=27 July 2016}}&lt;/ref&gt; In May 2017 Lanzini was named in new Argentina manager [[Jorge Sampaoli]]’s first squad for the upcoming friendlies against [[Brazil national football team|Brazil]] and [[Singapore national football team|Singapore]], with Lanzini making his full international debut on 9 June against Brazil at the  [[Melbourne Cricket Ground|MCG]] in [[Melbourne]], [[Australia]], replacing [[Ever Banega]] in the 81st minute of ''La Albiceleste'''s 1–0 win. On 23 March 2018 he played a friendly match against Italy at Etihad Stadium in Manchester and scored his first international goal, as Argentina secured a 2–0 victory.&lt;ref&gt;{{cite web | url=http://www.skysports.com/football/brazil-vs-argentina/370218 | title=Brazil 0–1 Argentina: Jorge Sampaoli's first game in charge ends in morale-boosting win | publisher=Sky Sports | date=9 June 2017 | accessdate=9 June 2017 }}&lt;/ref&gt;
+
+On 21 May 2018 he was named in Argentina’s final 23-man [[Argentina national football team|squad]] for the [[2018 FIFA World Cup]] in Russia,&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/icardi-cut-from-argentinas-23-man-world-cup-squad/lo0f6fig55ih1jh7w9v4enau6|title=Icardi cut from Argentina's 23-man World Cup squad|publisher=Goal.com}}&lt;/ref&gt; and started in the 4–0 friendly win against [[Haiti national football team|Haiti]] on 29 May in [[Buenos Aires]], playing an hour before being substituted for [[Maximiliano Meza (footballer, born 1992)|Maximiliano Meza]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44299374|title=Argentina 4-0 Haiti|publisher=BBC}}&lt;/ref&gt; On 8 June 2018, Lanzini was ruled out of the World Cup after suffering a ruptured anterior knee ligament injury during the training session.&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/lanzini-to-miss-world-cup-after-knee-ligament-injury/21dvczyjodjz158u35hot4qgs|title=Lanzini to miss World Cup after knee ligament injury|publisher=Goal.com|accessdate=8 June 2018}}&lt;/ref&gt;
+
+===International goals===
+{{updated|23 March 2018}} (Argentina score listed first, score column indicates score after each Lanzini goal)&lt;ref name=sway/&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|1
+|23 March 2018||[[City of Manchester Stadium|City of Manchester]], [[Manchester]], England|||{{fb|Italy}}||align=center|2–0||align=center|2–0||Friendly
+|}
+
+==Personal life==
+Lanzini was born in the [[Greater Buenos Aires]], in [[Ituzaingó, Buenos Aires|Ituzaingó]], and raised in [[San Antonio de Padua]].&lt;ref&gt;{{cite web|url=http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Apertura-2010/7025-perfil-de-manuel-lanzini-que-tuvo-su-debut-oficial-ante-tigre.html|title=Lanzini, la nueva joya de River|publisher=River Plate|date=9 August 2010|access-date=24 March 2018|archive-url=https://web.archive.org/web/20131029183747/http://www.riverplate.com/Noticias/futbol-profesional/Torneos-Locales/Torneo-Apertura-2010/7025-perfil-de-manuel-lanzini-que-tuvo-su-debut-oficial-ante-tigre.html|archive-date=29 October 2013|dead-url=yes|df=dmy-all}}&lt;/ref&gt; He also holds an Italian passport.&lt;ref&gt;{{cite web|url=https://www.standard.co.uk/sport/football/west-ham-transfer-news-slaven-bilic-set-to-sign-manuel-lanzini-on-loan-10404052.html|title=West Ham transfer news: Slaven Bilic set to sign Manuel Lanzini on loan|work=London Evening Standard|accessdate=24 October 2016}}&lt;/ref&gt;
+His father, Héctor, played for [[Sporting Cristal]] and [[Deportivo Morón]], while his brother [[Tomás Lanzini|Tomás]] has played for [[Ñublense]] and [[Club Atlético Brown|Brown de Adrogué]].&lt;ref&gt;{{cite web|url=http://www.ole.com.ar/river-plate/Familia-futbol_0_418158270.html|title=Familia fútbol|publisher=Olé|date=22 August 2010}}&lt;/ref&gt;&lt;ref&gt;{{Cite web | title = Héctor Lanzini: o segredo por trás da rápida adaptação da nova joia tricolor | author = Edgard Maciel Sa | work = globoesporte.com | date = 3 September 2011 | accessdate = 8 April 2018 | url = http://globoesporte.globo.com/futebol/times/fluminense/noticia/2011/09/hector-lanzini-o-segredo-por-tras-da-rapida-adaptacao-da-nova-joia-tricolor.html | language = es}}&lt;/ref&gt;
+He is outspoken about his support of River Plate, celebrating club victories on social media, and has a tattoo of himself with the River Plate shirt on.&lt;ref&gt;{{cite web|url=https://www.ole.com.ar/river-plate/tatuaje-lanzini-hijo-river_0_1756024579.html|title=Manu lleva a River en la piel|publisher=Olé|date=9 March 2017}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 22 February 2019}}&lt;ref name=sway&gt;{{cite web|url=https://int.soccerway.com/players/manuel-lanzini/141340/|title=Argentina&amp;nbsp;— M. Lanzini&amp;nbsp;— Profile with news, career statistics and history&amp;nbsp;— Soccerway|accessdate=24 March 2016}}&lt;/ref&gt;
+
+&lt;!-- NOTE: when updating stats, update the infobox too! --&gt;
+{| class="wikitable" style="text-align:center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup{{efn|Includes [[Copa Argentina]], [[UAE League Cup]], [[FA Cup]]}}
+!colspan="2"|Other{{efn|Includes [[Campeonato Carioca]], [[EFL Cup]]}}
+!colspan="2"|Continental{{efn|Includes [[Copa Sudamericana]], [[Copa Libertadores]], [[AFC Champions League]], [[UEFA Europa League]]}}
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Club Atlético River Plate|River Plate]]
+|[[2010–11 Argentine Primera División season|2010–11]]
+|[[Argentine Primera División|Primera División]]
+|22||0||0||0||colspan=2|—||colspan=2|—||22||0
+|-
+|[[2012–13 Argentine Primera División season|2012–13]]
+|Primera División
+|26||8||0||0||colspan=2|—||0||0||26||8
+|-
+|[[2013–14 Argentine Primera División season|2013–14]]
+|Primera División
+|36||4||1||0||colspan=2|—||6||1||43||5
+|-
+!colspan="2"|Total
+!84!!12!!1!!0!!0!!0!!6!!1!!91!!13
+|-
+|rowspan="3"|[[Fluminense FC|Fluminense]] (loan)
+|[[2011 Campeonato Brasileiro Série A|2011]]
+|[[Campeonato Brasileiro Série A|Série A]]
+|22||2||0||0||0||0||0||0||22||2
+|-
+|[[2012 Campeonato Brasileiro Série A|2012]]
+|Série A
+|6||1||0||0||9||2||5||0||20||3
+|-
+!colspan="2"|Total
+!28!!3!!0!!0!!9!!2!!5!!0!!42!!5
+|-
+|[[Al Jazira Club]]
+|[[2014–15 UAE Pro-League|2014–15]]
+|[[UAE Arabian Gulf League]]
+|24||8||4||0||colspan=2|—||1||0||29||8
+|-
+|[[West Ham United F.C.|West Ham United]] (loan)
+|[[2015–16 West Ham United F.C. season|2015–16]]
+|[[Premier League]]
+|26||6||3||0||1||0||1||1||31||7
+|-
+|rowspan="4"|[[West Ham United F.C.|West Ham United]]
+|[[2016–17 West Ham United F.C. season|2016–17]]
+|Premier League
+|35||8||1||0||3||0||0||0||39||8
+|-
+|[[2017–18 West Ham United F.C. season|2017–18]]
+|Premier League
+|27||5||1||0||1||0||colspan=2|—||29||5
+|-
+|[[2018–19 West Ham United F.C. season|2018–19]]
+|Premier League
+|1||0||0||0||0||0||colspan=2|—||1||0
+|-
+!colspan="2"|Total
+!89!!19!!5!!0!!5!!0!!1!!1!!100!!20
+|-
+!colspan="3"|Career total
+!225!!41!!10!!0!!14!!2!!13!!2!!262!!45
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 29 May 2018}}&lt;ref&gt;{{NFT player |id=68276 |name=Lanzini, Manuel |accessdate=11 February 2019}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=2|[[Argentina national football team|Argentina]]
+|2017||2||0
+|-
+|2018||2||1
+|-
+!colspan=2|Total||4||1
+|}
+
+==Honours==
+
+===Club===
+&lt;ref&gt;https://www.eurosport.com/football/manuel-lanzini_prs244434/person.shtml&lt;/ref&gt;
+;Fluminense
+*[[Campeonato Brasileiro Série A|Campeonato Brasileiro Série A: 2012]]
+
+;River Plate
+*[[Argentine Primera División]]: [[2013–14 Argentine Primera División season|Torneo Final 2014]]&lt;ref name="Soccerway"&gt;{{cite web | url=https://int.soccerway.com/players/manuel-lanzini/141340/ | title=M. Lanzani | publisher=Soccerway | accessdate=7 July 2015}}&lt;/ref&gt;
+
+===Individual===
+* West Ham United: [https://www.whufc.com/news/articles/2017/may/09-may/ginge-and-manu-win-acclaim 2016–17 Players Player of the Year]&lt;ref&gt;{{Cite web|url=https://www.whufc.com/news/articles/2017/may/09-may/ginge-and-manu-win-acclaim|title=Ginge and Manu win acclaim {{!}} West Ham United|publisher=West Ham United F.C.|access-date=11 May 2017}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* {{Soccerbase}}
+* {{Soccerway|manuel-lanzini/141340}}
+* [https://web.archive.org/web/20120823063201/http://www.futbolxxi.com/Futbolista.aspx?ID=14384&amp;SEOFutbolista=Lanzini+Manuel Argentine Primera statistics] at Fútbol XXI {{es icon}} 
+* [http://thetopforward.com/view?id=195 Manuel Lanzini] at Topforward
+* [http://www.cariverplate.com/noticias/2011/07/19/se-dio-todo-muy-rapido "Se dio todo muy rápido"] at River Plate&amp;nbsp;— Sitio Official {{es icon}}
+
+{{West Ham United F.C. squad}}
+
+{{DEFAULTSORT:Lanzini, Manuel}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Buenos Aires Province]]
+[[Category:Association football midfielders]]
+[[Category:Argentine footballers]]
+[[Category:Argentine people of Italian descent]]
+[[Category:Argentine expatriate footballers]]
+[[Category:Argentine Primera División players]]
+[[Category:Campeonato Brasileiro Série A players]]
+[[Category:River Plate footballers]]
+[[Category:Fluminense FC players]]
+[[Category:Expatriate footballers in Brazil]]
+[[Category:UAE Pro-League players]]
+[[Category:Expatriate footballers in the United Arab Emirates]]
+[[Category:Argentina under-20 international footballers]]
+[[Category:Al Jazira Club players]]
+[[Category:West Ham United F.C. players]]
+[[Category:Expatriate footballers in England]]
+[[Category:Argentine expatriate sportspeople in Brazil]]
+[[Category:Argentine expatriate sportspeople in the United Arab Emirates]]
+[[Category:Argentine expatriate sportspeople in England]]
+[[Category:Premier League players]]
+[[Category:Argentina international footballers]]</text>
+      <sha1>odnidhyakvlwcdrolgwzip4hyokwzgc</sha1>
+    </revision>
+  </page>
+</mediawiki>

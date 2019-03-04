@@ -1,0 +1,230 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sylvain Deslandes</title>
+    <ns>0</ns>
+    <id>47624649</id>
+    <revision>
+      <id>883219219</id>
+      <parentid>883195065</parentid>
+      <timestamp>2019-02-14T01:02:27Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/82.8.85.194|82.8.85.194]] ([[User talk:82.8.85.194|talk]]): No t/s ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8026">{{Use dmy dates|date=November 2017}}
+{{Infobox football biography
+| name=Sylvain Deslandes
+| fullname=Sylvain Boris Nabil Deslandes&lt;ref name="Retained List 2015-16"&gt;{{cite web|title=Retained List 2015-16|url=http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf|publisher=English Football League|format=PDF|accessdate=26 June 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20161202052144/http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf|archivedate=2 December 2016|df=dmy-all}}&lt;/ref&gt;
+| birth_date={{birth date and age|1997|4|25|df=y}}
+| birth_place=[[Kouoptamo]], Cameroon
+| height= 1.86m
+| position=[[Defender (association football)|Center back]]
+| currentclub=[[FC Jumilla]]&lt;br&gt;(on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]])
+| clubnumber=
+| youthclubs1=AM. S. Soliers
+| youthclubs2=[[USON Mondeville]]
+| youthyears1=2007–2008
+| youthyears2=2008–2010
+| clubs1=[[Stade Malherbe Caen|Caen II]]
+| clubs2=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| clubs3=→ [[Bury F.C.|Bury]] (loan)
+| clubs4=→ [[Portsmouth F.C.|Portsmouth]] (loan)
+| clubs5=→ [[FC Jumilla]] (Loan)
+| years1=2013–2015
+| years2=2015–
+| years3=2017
+| years4=2018
+| years5=2018–
+| caps1=8
+| caps2=4
+| caps3=0
+| caps4=2
+| caps5=4
+| goals1=1
+| goals2=0
+| goals3=0
+| goals4=0
+| goals5=0
+| nationalteam1 = [[France national under-16 football team|France U16]]
+| nationalteam2 = [[France national under-17 football team|France U17]]
+| nationalyears1 = 2013
+| nationalyears2 = 2013–2014
+| nationalcaps1 = 1
+| nationalcaps2 = 7
+| nationalgoals1 = 0
+| nationalgoals2 = 0
+| club-update=24 September 2018
+| youthyears3=2010–2015
+| youthclubs3=[[Stade Malherbe Caen|Caen]]
+| nationalyears3 = 2014
+| nationalteam3 = [[France national under-18 football team|France U18]]
+| nationalcaps3 = 3
+| nationalgoals3 = 0
+| nationalteam4 = [[France national under-19 football team|France U19]]
+| nationalyears4 = 2016
+| nationalcaps4 = 3
+| nationalgoals4 = 0
+| nationalteam5 = [[France national under-20 football team|France U20]]
+| nationalyears5 = 2016–
+| nationalcaps5 = 1
+| nationalgoals5 = 0
+}}
+'''Sylvain Boris Nabil Deslandes''' (born 25 April 1997) is a professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Segunda División B]] club [[FC Jumilla]] on loan from English club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]. He has represented France at under-16 through under-20 level.
+
+==Career==
+Deslandes moved upon the expiry of his contract with French club [[Stade Malherbe Caen|Caen]] to join English side [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in July 2015, agreeing a two-year deal (with the option of a third year).&lt;ref&gt;{{cite news| title=Deslandes set to sign| publisher=Wolverhampton Wanderers F.C| url=http://www.wolves.co.uk/news/article/deslandes-set-to-sign-2487827.aspx| date=10 June 2015| deadurl=yes| archiveurl=https://web.archive.org/web/20150906133926/http://www.wolves.co.uk/news/article/deslandes-set-to-sign-2487827.aspx| archivedate=6 September 2015| df=dmy-all}}&lt;/ref&gt;
+
+He made his club debut on 25 August 2015 in a League Cup win over [[Barnet F.C.|Barnet]].&lt;ref&gt;{{cite news| title=Wolves 2–1 Barnet|publisher=BBC Sport| url=https://www.bbc.com/sport/0/football/33969991| date=25 August 2015}}&lt;/ref&gt;
+
+On 31 January 2017, he joined [[Bury F.C.|Bury]] on loan until the end of the season.&lt;ref&gt;{{cite web|url=http://www.buryfc.co.uk/news/article/2016-17/confirmed-left-back-deslandes-arrives-from-wolves-3548768.aspx|title=Confirmed: Left Back Deslandes arrives from Wolves|publisher=Bury F.C.|date=31 January 2017}}&lt;/ref&gt;
+He returned to Wolves at the end of the 2016/17 season having made no appearances for Bury.
+
+He appeared regularly under [[Nuno Espirito Santo]] in 2017-2018 pre-season and played 90 minutes in the 2-0 [[Carabao Cup]] win against [[Premier League]] side [[Southampton FC]]. &lt;ref&gt;{{cite web|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2017/09/19/wolves-defender-deslandes-loving-being-in-land-of-sylvain/}}&lt;/ref&gt;
+He also came on during Wolves 2-1 [[Championship]] victory against [[Nottingham Forest]] on September 2017.&lt;ref&gt;{{cite web|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2017/09/19/wolves-defender-deslandes-loving-being-in-land-of-sylvain/}}&lt;/ref&gt;
+
+On 3 January 2018, he agreed to join [[Portsmouth F.C|Portsmouth]] as a [[left-back]] on loan until the end of the season.&lt;ref&gt;{{cite web|url=https://www.wolves.co.uk/news/first-team/20180102-ronan-and-deslandes-leave-on-loan/|title=Ronan And Deslandes Leave On Loan|publisher=Wolverhampton Wanderers F.C.|date=3 January 2018}}&lt;/ref&gt;
+He returned to Wolves at the end of the season having made only two appearances for [[Portsmouth FC]], after manager [[Kenny Jackett]] says his future was not at [[left-back]] but [[centre-back]] as Sylvain is a player with "power" and "athleticism".&lt;ref&gt;{{cite web|url=https://www.portsmouth.co.uk/sport/football/pompey/pompey-boss-deslandes-future-not-at-left-back-1-8491835}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{Updated|match played 9 September 2018}}
+
+{| class="wikitable" style="text-align: center"
+|+Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Stade Malherbe Caen|SM Caen II]]
+|[[2013–14 in French football|2013–14]]
+|[[Championnat National 3]]
+|4||0||0||0||0||0||0||0||4||0
+|-
+|[[2014–15 in French football|2014–15]]
+|Championnat National 3
+|4||1||0||0||0||0||0||0||4||1
+|-
+!colspan="2" | Total
+!8!!1!!0!!0!!0!!0!!0!!0!!8!!1
+|-
+|rowspan="4"|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[2015–16 Wolverhampton Wanderers F.C. season|2015–16]]&lt;ref name="CM15"&gt;{{soccerbase season|87732|2015|accessdate=5 January 2018}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|3||0||0||0||2||0||0||0||5||0
+|-
+|[[2016–17 Wolverhampton Wanderers F.C. season|2016–17]]&lt;ref name="CM16"&gt;{{soccerbase season|87732|2016|accessdate=5 January 2018}}&lt;/ref&gt;
+|Championship
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2017–18 Wolverhampton Wanderers F.C. season|2017–18]]&lt;ref name="CM17"&gt;{{soccerbase season|87732|2017|accessdate=5 January 2018}}&lt;/ref&gt;
+|Championship
+|1||0||0||0||2||0||0||0||3||0
+|-
+!colspan="2" | Total
+!4!!0!!0!!0!!4!!0!!0!!0!!8!!0
+|-
+|[[Bury F.C.|Bury]] (loan)
+|[[2016–17 Bury F.C. season|2016–17]]&lt;ref name="CM16"/&gt;
+|[[EFL League One|League One]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[Portsmouth F.C.|Portsmouth]] (loan)
+|[[2017–18 Portsmouth F.C. season|2017–18]]&lt;ref name="CM17"/&gt;
+|League One
+|2||0||0||0||0||0||0||0||2||0
+|-
+|[[FC Jumilla]] (loan)
+|[[2018–19 Segunda División B#Group 4|2018–19]]&lt;ref name="CM17"/&gt;
+|[[Segunda División B|Segunda División B – Group 4]]
+|3||0||0||0||0||0||0||0||3||0
+|-
+!colspan="3" | Career totals
+!17!!1!!0!!0!!4!!0!!0!!0!!21!!1
+|} 
+{{reflist|group=lower-alpha}}
+
+&lt;div&gt;{{col-begin}}
+{{col-end}}
+&lt;/div&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Soccerbase}}
+*[https://www.fff.fr/equipes-de-france/tous-les-joueurs/fiche-joueur/2544275473-sylvain-deslandes France profile] at FFF
+
+&lt;!--{{Wolverhampton Wanderers F.C. squad}}--&gt;
+{{Portsmouth F.C. squad}}
+
+{{DEFAULTSORT:Deslandes, Sylvain}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:French footballers]]
+[[Category:French expatriate footballers]]
+[[Category:France youth international footballers]]
+[[Category:Cameroonian footballers]]
+[[Category:French people of Cameroonian descent]]
+[[Category:Association football defenders]]
+[[Category:Stade Malherbe Caen players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:English Football League players]]
+[[Category:Expatriate footballers in England]]
+[[Category:FC Jumilla players]]</text>
+      <sha1>l9z8dg3iselip7swxk5apz7ow9k8gyn</sha1>
+    </revision>
+  </page>
+</mediawiki>

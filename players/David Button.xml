@@ -1,0 +1,423 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>David Button</title>
+    <ns>0</ns>
+    <id>21122243</id>
+    <revision>
+      <id>885437178</id>
+      <parentid>885433295</parentid>
+      <timestamp>2019-02-28T00:56:56Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/2A00:23C5:BC0F:DD00:95C2:5C93:9E71:91AB|2A00:23C5:BC0F:DD00:95C2:5C93:9E71:91AB]] ([[User talk:2A00:23C5:BC0F:DD00:95C2:5C93:9E71:91AB|talk]]): Random space ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="41084">{{EngvarB|date=June 2013}}
+{{Use dmy dates|date=April 2018}}
+{{Infobox football biography
+| name = David Button
+| image = David_Button,_Brentford_FC,_November_2014.jpg
+| image_size = 150
+| alt = 
+| caption = Button playing for [[Brentford F.C.|Brentford]] in 2014
+| fullname = David Robert Edmund Button&lt;ref&gt;{{cite web |title=Professional retain list &amp; free transfers 2012/13 |url=http://www.football-league.co.uk/staticFiles/4e/bd/0,,10794~179534,00.pdf |archiveurl=https://web.archive.org/web/20131012034401/http://www.football-league.co.uk/staticFiles/4e/bd/0%2C%2C10794~179534%2C00.pdf |archivedate=12 October 2013 |publisher=The Football League |accessdate=5 September 2013 |page=12 |format=PDF |date=18 May 2013 |deadurl=yes |df=dmy-all}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1989|02|27|df=y}}
+| birth_place = [[Stevenage]], England
+| height = {{height|ft=6|in=3}}
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+| clubnumber = 27
+| youthyears1 = {{0|0000}}–2003
+| youthclubs1 = [[Stevenage F.C.|Stevenage Borough]]
+| youthyears2 = 2003–2008
+| youthclubs2 = [[Tottenham Hotspur F.C. Reserves and Academy|Tottenham Hotspur]]
+| years1 = 2008–2012
+| clubs1 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| caps1 = 0
+| goals1 = 0
+| years2 = 2008
+| clubs2 = → [[Grays Athletic F.C.|Grays Athletic]] (loan)
+| caps2 = 1
+| goals2 = 0
+| years3 = 2008
+| clubs3 = → [[Rochdale A.F.C.|Rochdale]] (loan)
+| caps3 = 0
+| goals3 = 0
+| years4 = 2008
+| clubs4 = → [[Grays Athletic F.C.|Grays Athletic]] (loan)
+| caps4 = 13
+| goals4 = 0
+| years5 = 2009
+| clubs5 = → [[A.F.C. Bournemouth|Bournemouth]] (loan)
+| caps5 = 4
+| goals5 = 0
+| years6 = 2009
+| clubs6 = → [[Luton Town F.C.|Luton Town]] (loan)
+| caps6 = 0
+| goals6 = 0
+| years7 = 2009
+| clubs7 = → [[Dagenham &amp; Redbridge F.C.|Dagenham &amp; Redbridge]] (loan)
+| caps7 = 3
+| goals7 = 0
+| years8 = 2009
+| clubs8 = → [[Crewe Alexandra F.C.|Crewe Alexandra]] (loan)
+| caps8 = 3
+| goals8 = 0
+| years9 = 2009
+| clubs9 = → [[Crewe Alexandra F.C.|Crewe Alexandra]] (loan)
+| caps9 = 7
+| goals9 = 0
+| years10 = 2009–2010
+| clubs10 = → [[Shrewsbury Town F.C.|Shrewsbury Town]] (loan)
+| caps10 = 26
+| goals10 = 0
+| years11 = 2010–2011
+| clubs11 = → [[Plymouth Argyle F.C.|Plymouth Argyle]] (loan)
+| caps11 = 30
+| goals11 = 0
+| years12 = 2011
+| clubs12 = → [[Leyton Orient F.C.|Leyton Orient]] (loan)
+| caps12 = 1
+| goals12 = 0
+| years13 = 2012
+| clubs13 = → [[Doncaster Rovers F.C.|Doncaster Rovers]] (loan)
+| caps13 = 7
+| goals13 = 0
+| years14 = 2012
+| clubs14 = → [[Barnsley F.C.|Barnsley]] (loan)
+| caps14 = 9
+| goals14 = 0
+| years15 = 2012–2013
+| clubs15 = [[Charlton Athletic F.C.|Charlton Athletic]]
+| caps15 = 5
+| goals15 = 0
+| years16 = 2013–2016
+| clubs16 = [[Brentford F.C.|Brentford]]
+| caps16 = 134
+| goals16 = 0
+| years17 = 2016–2018
+| clubs17 = [[Fulham F.C.|Fulham]]
+| caps17 = 60
+| goals17 = 0
+| years18 = 2018–
+| clubs18 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+| caps18 = 4
+| goals18 = 0
+| club-update = 17:23, 19 January 2019 (UTC)
+| nationalyears1 = 2003–2004
+| nationalteam1 = [[England national under-16 football team|England U16]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2004–2006
+| nationalteam2 = [[England national under-17 football team|England U17]]
+| nationalcaps2 = 17
+| nationalgoals2 = 0
+| nationalyears3 = 2006–2008
+| nationalteam3 = [[England national under-19 football team|England U19]]
+| nationalcaps3 = 10
+| nationalgoals3 = 0
+| nationalyears4 = 2009
+| nationalteam4 = [[England national under-20 football team|England U20]]
+| nationalcaps4 = 1
+| nationalgoals4 = 0
+}}
+'''David Robert Edmund Button''' (born 27 February 1989) is an English professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{English football updater|Brigh&amp;HA}} club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].
+
+A product of the [[Tottenham Hotspur F.C.|Tottenham Hotspur]] [[Tottenham Hotspur F.C. Under-23s and Academy|academy]], Button came to prominence at [[Brentford F.C.|Brentford]] in 2013. He earned 31 [[Cap (sport)|caps]] for [[England national football team|England]] from [[England national under-16 football team|U16]] to [[England national under-20 football team|U20]] level.
+
+== Club career ==
+
+=== Early years ===
+Growing up in [[Stevenage]], [[Hertfordshire]], Button joined hometown club [[Stevenage F.C.|Stevenage Borough]] at a young age and attended the club's [[Center of excellence|Centre of Excellence]].&lt;ref&gt;{{cite web |author=Leetek Limited, http://www.leetek.co.uk |url=http://www.coachingfx.co.uk/success.php |archiveurl=https://web.archive.org/web/20131224111926/http://www.coachingfx.co.uk/success.php |archivedate=24 December 2013 |title=Success Stories from CoachingFX Goalkeeping School and Goalkeeper Coaching |publisher=Coachingfx.co.uk |date= |accessdate=28 June 2014}}&lt;/ref&gt;
+
+=== Tottenham Hotspur ===
+[[File:David Button Spurs 2010.jpg|thumb|Button training with [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in 2010|254x254px]]
+
+Button joined [[English Premier League|Premier League]] side [[Tottenham Hotspur F.C.|Tottenham Hotspur's]] [[Tottenham Hotspur F.C. Reserves and Academy|youth academy]] in 2003 and signed a scholarship deal in July 2005.&lt;ref&gt;{{cite web |url=http://www.tottenhamhotspur.com/news/international-roundup-101003/ |title=International round-up |work=tottenhamhotspur.com |accessdate=17 August 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.tottenhamhotspur.com/history/past-players/david-button/ |title=David Button - tottenhamhotspur.com |work=tottenhamhotspur.com |accessdate=17 August 2015}}&lt;/ref&gt; After completing his scholarship, he signed his first professional contract on 28 December 2007, running until the summer of 2011.&lt;ref name="spursplayers"&gt;{{Cite web |url=http://spursplayers.blogspot.co.uk/2012/08/david-button.html |title=Spurs Player Contracts &amp; Development Squad Updates: David Button |last=zin |date=23 August 2012 |publisher=Spursplayers.blogspot.co.uk |accessdate=28 June 2014}}&lt;/ref&gt; An injury to second-choice goalkeeper [[Heurelho Gomes]] saw Button receive his first call-up to senior team substitutes' bench early in the [[2009-10 Tottenham Hotspur F.C. season|2009–10]] season for a 2–1 Premier League win over [[West Ham United F.C.|West Ham United]] on 23 August 2009.&lt;ref name="spursplayers" /&gt;&lt;ref&gt;{{cite news |last=Sanghera |first=Mandeep |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8210561.stm |title=BBC SPORT &amp;#124; Football &amp;#124; Premier League &amp;#124; West Ham 1–2 Tottenham |publisher=BBC News |date=23 August 2009 |accessdate=28 June 2014}}&lt;/ref&gt; Button made his debut in the following game, replacing [[Carlo Cudicini]] after 81 minutes of a 5–1 [[League Cup]] victory over [[EFL Championship|Championship]] side [[Doncaster Rovers F.C.|Doncaster Rovers]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/league_cup/8214938.stm |title=BBC SPORT &amp;#124; Football &amp;#124; League Cup &amp;#124; Doncaster 1–5 Tottenham |publisher=BBC News |date=26 August 2009 |accessdate=28 June 2014}}&lt;/ref&gt; He was an unused substitute on a further two occasions during the 2009–10 season and signed a new contract after the season,&lt;ref&gt;{{cite web |url=http://www.espnfc.com/player/111337/david-button?season=2009 |title=David Button |work=espnfc.com |accessdate=17 August 2015}}&lt;/ref&gt; running until 2013.&lt;ref&gt;{{cite web |url=http://www.tottenhamhotspur.com/news/new-contract-for-button-280510/ |title=New contract for Button 28 May 2010 – News |publisher=tottenhamhotspur.com |date=28 May 2010 |accessdate=28 June 2014}}&lt;/ref&gt; Button spent most of his time as a Tottenham player [[Loan (football)|on loan]] to other clubs and proclaimed himself a "[[Journeyman (sports)|journeyman]]", having played for 12 different clubs by the age of 23.&lt;ref&gt;{{cite web |author='+relative_time(twitters[i].created_at)+' |url=http://www.just-football.com/2012/04/meet-david-button-tottenham-barnsley/ |title=A journeyman at 23: Meet David Button, Tottenham's loan ranger &amp;#124; Just FootballJust Football |publisher=Just-football.com |date= |accessdate=28 June 2014}}&lt;/ref&gt; In August 2012, despite having not been called into the first team squad in nearly three years,Tottenham goalkeeping coach [[Tony Parks]] said he held Button in "high regard" and that Button was a late developer in terms of increasing his strength.&lt;ref&gt;{{cite web |url=http://www.hamhigh.co.uk/premier-league/tottenham-hotspur/spurs_coach_discusses_future_of_tottenham_s_goalkeepers_1_1469846 |title=Spurs coach discusses future of Tottenham's goalkeepers – Tottenham Hotspur – Hampstead and Highgate Express |publisher=Hamhigh.co.uk |date=3 August 2012 |accessdate=28 June 2014}}&lt;/ref&gt; Button departed Tottenham in late August 2012, having just played eight minutes in one first team appearance for the club.&lt;ref name="Nixon"&gt;{{Cite web |url=https://www.mirror.co.uk/sport/football/transfer-news/tottenham-transfer-news-david-button-1282826 |title=Tottenham transfer news: David Button reserve keeper with one game in seven years is being sold to Charlton – Mirror Online |last=Nixon |first=Alan |date=27 August 2012 |publisher=Mirror.co.uk |accessdate=28 June 2014}}&lt;/ref&gt;
+
+==== 2007–08 – Grays Athletic and Rochdale loans ====
+Button moved on loan to [[Conference Premier]] side [[Grays Athletic F.C.|Grays Athletic]] on a one-month loan on 10 January 2008.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/g/grays_athletic/7181718.stm |title=BBC SPORT – Football – My Club – Grays Athletic – Grays sign Spurs teenager on loan |work=bbc.co.uk |accessdate=17 August 2015}}&lt;/ref&gt; He made three appearances during his spell.&lt;ref name="Games played by David Button in 2008/2009 for Grays" /&gt; Button returned to Tottenham on 10 February and moved to [[League Two]] side [[Rochdale A.F.C.|Rochdale]] on a one-month loan on 27 March.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/r/rochdale/7316535.stm |title=BBC SPORT – Football – My Club – Rochdale – Rochdale sign Premier League pair |work=bbc.co.uk |accessdate=17 August 2015}}&lt;/ref&gt; He made no appearances for the club and was an unused substitute on seven occasions.&lt;ref&gt;{{cite web |url=http://www.espnfc.com/player/111337/david-button?season=2007 |title=David Button |work=espnfc.com |accessdate=17 August 2015}}&lt;/ref&gt;
+
+==== 2008–09 – Grays Athletic, Bournemouth, Luton Town and Dagenham &amp; Redbridge loans ====
+Button rejoined Grays Athletic on a three-month loan on 19 September 2008.&lt;ref&gt;{{cite web |url=http://www.tottenhamhotspur.com/news/loan-deals-for-young-keepers-190908/ |title=Loan deals for young keepers |work=tottenhamhotspur.com |accessdate=17 August 2015}}&lt;/ref&gt; He made 17 appearances during his spell and kept four [[clean sheet]]s.&lt;ref name="Games played by David Button in 2008/2009 for Grays" /&gt; On 16 January 2009 he moved to League Two side [[Bournemouth A.F.C.|Bournemouth]] on a one-month loan.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/b/bournemouth/7835229.stm |title=Cherries recruit Spurs goalkeeper. |publisher=BBC Sport |date=17 January 2009 |accessdate=17 January 2009}}&lt;/ref&gt; Button made his [[The Football League|Football League]] debut away at [[Rotherham United F.C.|Rotherham United]], in a game which the Cherries lost 1–0.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/7816251.stm |title=Rotherham 1–0 Bournemouth |date=17 January 2009 |accessdate=18 January 2009 |publisher=BBC Sport}}&lt;/ref&gt; He made four appearances for the club and returned to Tottenham on 28 February.&lt;ref name="Games played by David Button in 2008/2009"&gt;{{Soccerbase season|48440|2008|name=David Button|accessdate=16 August 2013}}&lt;/ref&gt; Button joined fellow League Two side [[Luton Town F.C.|Luton Town]] on a one-month loan deal on 6 March,&lt;ref&gt;{{cite news |url=http://www.lutontown.co.uk/page/NewsDetail/0,,10372~1581391,00.html |archiveurl=https://web.archive.org/web/20120218033907/http://www.lutontown.co.uk/page/NewsDetail/0%2C%2C10372~1581391%2C00.html |archivedate=18 February 2012 |title=Hatters borrow Button |date=6 March 2009 |accessdate=6 March 2009 |publisher=Luton Town F.C. |deadurl=yes |df=dmy-all}}&lt;/ref&gt; and was an unused substitute on seven occasions.&lt;ref name="ESPNFC0809"&gt;{{Cite web |url=http://www.espnfc.com/player/111337/david-button?season=2008 |title=David Button |website=espnfc.com |accessdate=17 August 2015}}&lt;/ref&gt; He was on the bench for Luton's 3–2 [[2009 Football League Trophy Final]] victory over [[Scunthorpe United F.C.|Scunthorpe United]] at [[Wembley Stadium]], which was his last involvement for Luton before his return to Tottenham.&lt;ref name="ESPNFC0809" /&gt; Button joined League Two side [[Dagenham &amp; Redbridge F.C.|Dagenham &amp; Redbridge]] on an emergency loan until the end of the [[2008–09 Dagenham &amp; Redbridge F.C. season|2008–09]] season.&lt;ref&gt;{{Cite web |url=http://www.daggers.co.uk.p.preprod.performgroup.com/page/NewsDetail/0,,10692~1630874,00.html |title=Dagenham &amp; Redbridge {{!}} News {{!}} Latest News {{!}} Latest News {{!}} Emergency Loan Goalkeeper|last=|first=|date=19 April 2009|website=www.daggers.co.uk.p.preprod.performgroup.com|archive-url=|archivedate=|dead-url=|accessdate=7 April 2018}}&lt;/ref&gt; Button was, unusually for a goalkeeper, handed the [[Squad number (association football)|squad number]] 6 and made his debut for the club in the 3–0 home victory against [[Bradford City A.F.C.|Bradford City]] on 18 April.&lt;ref name="Games played by David Button in 2008/2009" /&gt; He made two more appearances before returning to Tottenham.&lt;ref name="Games played by David Button in 2008/2009" /&gt;
+
+==== 2009–10 – Crewe Alexandra and Shrewsbury Town loans ====
+Button joined League Two side [[Crewe Alexandra F.C.|Crewe Alexandra]] on a one-month loan on 22 July 2009 and he played in the first three games of the season,&lt;ref&gt;{{cite web |url=http://www.tottenhamhotspur.com/news/crewe-loan-for-button-220709/ |title=Crewe loan for Button |work=tottenhamhotspur.com |accessdate=17 August 2015}}&lt;/ref&gt; keeping two clean sheets.&lt;ref name="Games played by David Button in 2009/2010" /&gt; Button was recalled by Tottenham after his loan finished, but he re-joined Crewe on a three-month loan on 1 September.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/crewe_alexandra/8232520.stm |title=Crewe re-sign Spurs keeper Button |date=1 September 2009 |accessdate=1 September 2009 |publisher=BBC Sport}}&lt;/ref&gt; He made his second debut for Crewe 5 September against [[Macclesfield Town F.C.|Macclesfield Town]] and was credited with an assist for [[Joel Grant]]'s winning goal in the 2–1 victory.&lt;ref&gt;{{Cite web |url=http://www.stokesentinel.co.uk/Crewe-Alex-Direct-football-winner/story-12575443-detail/story.html |title=Crewe v Macclesfield report &amp;#124; Staffordshire and Stoke sport |date=7 September 2009 |publisher=Stoke Sentinel |archive-url=https://web.archive.org/web/20150924111909/http://www.stokesentinel.co.uk/Crewe-Alex-Direct-football-winner/story-12575443-detail/story.html |archivedate=24 September 2015 |dead-url=yes |accessdate=28 June 2014}}&lt;/ref&gt; After a further six appearances,&lt;ref name="Games played by David Button in 2009/2010" /&gt; Tottenham recalled Button on 27 October.&lt;ref&gt;{{cite news |url=http://www.skysports.com/story/0,19528,12875_5655407,00.html |title=Spurs summon back Button |date=27 October 2009 |accessdate=29 October 2009 |publisher=Sky Sports}}&lt;/ref&gt; On 20 November 2009, Button joined League Two side [[Shrewsbury Town F.C.|Shrewsbury Town]] on loan until January 2010.&lt;ref&gt;{{cite web |url=http://www.tottenhamhotspur.com/news/articles/buttonloantoshrews201109.html |archiveurl=https://web.archive.org/web/20091123172628/http://www.tottenhamhotspur.com/news/articles/buttonloantoshrews201109.html |archivedate=23 November 2009 |title=Button loan to Shrews |date=20 November 2009 |publisher=Tottenham Hotspur F.C. Official Website}}&lt;/ref&gt; His loan was extended by a further month in January and then until the end of the season in February.&lt;ref&gt;{{cite news |url=http://www.skysports.com/story/0,19528,11761_5823422,00.html |work=Sky Sports |title=Shrews extend Button loan |date=2 January 2010}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=http://www.shropshirestar.com/news/2010/02/25/buttons-contract-extended/ |title=David Button at Shrewsbury Town " Shropshire Star |date=25 February 2010 |publisher=Shropshirestar.com |archive-url=https://web.archive.org/web/20150924101850/http://www.shropshirestar.com/news/2010/02/25/buttons-contract-extended/ |archivedate=24 September 2015 |dead-url=yes |accessdate=28 June 2014}}&lt;/ref&gt; He had a successful spell, making 26 appearances and keeping 9 clean sheets.&lt;ref name="Games played by David Button in 2009/2010" /&gt;
+
+==== 2010–11 – Plymouth Argyle loan ====
+On 3 August 2010, Button joined [[League One]] side [[Plymouth Argyle F.C.|Plymouth Argyle]] on a season-long loan.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/p/plymouth_argyle/8881819.stm |title=BBC Sport – Football – Plymouth Argyle sign goalkeeper David Button |work=bbc.co.uk |accessdate=17 August 2015}}&lt;/ref&gt; Playing for the first time at League One level, injuries from September though to November disrupted his spell and he was dropped on 22 February 2010 after an eight-game losing run.&lt;ref name="spursplayers" /&gt; Button managed to oust [[Romain Larrieu]] as number-one and regain his place in early April,&lt;ref&gt;{{cite web |url=http://www.espnfc.com/player/111337/david-button?season=2010 |title=David Button |work=espnfc.com |accessdate=17 August 2015}}&lt;/ref&gt; though his efforts were in vain as Plymouth finished 23rd and suffered [[relegation]] to League Two.&lt;ref&gt;{{Cite web |url=http://fchd.info/PLYMOUTA.HTM |title=Football Club History Database – Plymouth Argyle |website=fchd.info |accessdate=8 April 2016}}&lt;/ref&gt; Button made 30 appearances during the season.&lt;ref name="Games played by David Button in 2010/2011"&gt;{{Soccerbase season|48440|2010|name=David Button|accessdate=16 August 2013}}&lt;/ref&gt;
+
+==== 2011–12 – Leyton Orient, Doncaster Rovers and Barnsley loans ====
+Button joined League One side [[Leyton Orient F.C.|Leyton Orient]] on 26 August 2011, on a loan running until 7 January 2012.&lt;ref&gt;{{cite web |url=http://www.leytonorient.com/page/NewsDetail/0,,10439~2430893,00.html |archiveurl=https://web.archive.org/web/20120323205640/http://www.leytonorient.com/page/NewsDetail/0%2C%2C10439~2430893%2C00.html |archivedate=23 March 2012 |title=O's Take Spurs Keeper on Loan |date=25 August 2011 |accessdate=26 August 2011 |publisher=Leyton Orient FC Website |deadurl=yes |df=dmy-all}}&lt;/ref&gt; He made only two appearances before suffering a shoulder injury which kept him out until [[Boxing Day]].&lt;ref name="draft"&gt;{{Cite web |url=http://www1.skysports.com/football/news/11748/7124203/orient-draft-in-keeper-button |title=Orient draft in keeper Button &amp;#124; Football News |publisher=Sky Sports |accessdate=28 June 2014}}&lt;/ref&gt; On 1 January 2012, Button left Leyton Orient and joined Championship side Doncaster Rovers on a one-month loan,&lt;ref name="draft" /&gt; which was later extended by another month.&lt;ref&gt;{{cite news |url=http://www1.skysports.com/football/news/11734/7466542/Button-to-stay-with-Rovers |title=Button to stay with Rovers |date=30 January 2012 |publisher=Sky Sports}}&lt;/ref&gt; He made eight appearances during his stint.&lt;ref name="Games played by David Button in 2011/2012"&gt;{{Soccerbase season|48440|2011|name=David Button|accessdate=16 August 2013}}&lt;/ref&gt; On 19 March 2012, Button joined fellow Championship side [[Barnsley F.C.|Barnsley]] on an emergency loan deal, to cover for the injured [[David Preece (footballer born 1976)|David Preece]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/17443559 |title=BBC Sport – Barnsley sign Tottenham Hotspur's David Button |work=BBC Sport |accessdate=17 August 2015}}&lt;/ref&gt; He made 9 appearances.&lt;ref name="Games played by David Button in 2011/2012" /&gt;
+
+=== Charlton Athletic ===
+On 28 August 2012,Tottenham Hotspur reached an agreement with Championship side [[Charlton Athletic F.C.|Charlton Athletic]] for the permanent transfer of Button for a £500,000 fee.&lt;ref name="Nixon" /&gt;&lt;ref&gt;{{cite web |url=http://www.tottenhamhotspur.com/spurs/News/button-to-charlton-28082012.page |archiveurl=https://web.archive.org/web/20120830215238/http://www.tottenhamhotspur.com/spurs/News/button-to-charlton-28082012.page |archivedate=30 August 2012 |title=News |publisher=tottenhamhotspur.com |date= |accessdate=28 June 2014}}&lt;/ref&gt; He served as backup to [[Ben Hamer]] and had to wait until January 2013 for his debut, in a 1–0 [[FA Cup]] third round defeat to [[Huddersfield Town A.F.C.|Huddersfield Town]].&lt;ref name="ESPNFC1213"&gt;{{Cite web |url=http://www.espnfc.com/player/111337/david-button?season=2012 |title=David Button |website=espnfc.com |accessdate=17 August 2015}}&lt;/ref&gt; Hamer was dropped by manager [[Chris Powell]] in March and the first of four consecutive appearances came on 2 March in a 1–0 league defeat at home to [[Burnley F.C.|Burnley]].&lt;ref name="ESPNFC1213" /&gt;&lt;ref name="hails"&gt;{{Cite web |url=http://www1.skysports.com/football/news/11688/8557396/ |title=Championship: Chris Powell hails Charlton goalkeeper David Button |website=Sky Sports |accessdate=9 May 2015}}&lt;/ref&gt; After Button's fourth appearance against Huddersfield in the league on 9 March, Powell said "David has now got the shirt",&lt;ref name="hails" /&gt; but Hamer soon regained his place and Button made only two further appearances.&lt;ref name="ESPNFC1213" /&gt; He made just six appearances for Charlton and departed [[The Valley (London)|The Valley]] in July 2013.&lt;ref name="Soccerbase"&gt;{{Cite web |url=http://www.soccerbase.com/players/player.sd?player_id=48440 |title=David Button {{!}} Football Stats {{!}} Fulham {{!}} Age 28 {{!}} Soccer Base |website=www.soccerbase.com |accessdate=13 January 2018}}&lt;/ref&gt;&lt;ref name="Wickham" /&gt; Button revealed the following year that though Chris Powell wanted him to stay, he had a difficult year with the Addicks and forced his departure from the club.&lt;ref&gt;{{cite web |url=http://www.getwestlondon.co.uk/sport/football/football-news/brentford-keeper-nothing-prove-former-8232516 |title=Brentford keeper has nothing to prove to former Charlton boss |author=Jake Murtagh |date=5 December 2014 |work=getwestlondon |accessdate=9 May 2015}}&lt;/ref&gt;
+
+=== Brentford ===
+On 30 July 2013, League One club [[Brentford F.C.|Brentford]] signed Button on a two-year deal for an undisclosed fee.&lt;ref name="Wickham"&gt;{{Cite web |url=http://www.brentfordfc.co.uk/news/article/david-button-signs-30.07.13-955113.aspx |title=BEES SIGN DAVID BUTTON |last=Wickham |first=Chris |website=brentfordfc.co.uk |accessdate=9 May 2015}}&lt;/ref&gt; The departure of [[Simon Moore (footballer)|Simon Moore]] to [[Cardiff City F.C.|Cardiff City]] and injury to [[Richard Lee (footballer)|Richard Lee]] saw Button begin the season as manager [[Uwe Rösler]]'s first-choice goalkeeper.&lt;ref&gt;{{cite web |url=http://www.espnfc.com/player/111337/david-button?season=2013 |title=David Button |work=espnfc.com |accessdate=9 May 2015}}&lt;/ref&gt; Button started each of Brentford's opening six league games, but disaster struck on 7 September against Bradford City when with the score at 0–0, Button received a [[Ejection (sports)|straight red card]] for a challenge on Bradford player [[Nahki Wells]] just outside the [[penalty box]] after 26 minutes.&lt;ref&gt;{{cite web |url=http://www.westlondonsport.com/brentford/bees-thrashed-after-button-is-sent-off |title=Bees thrashed after Button is sent off |publisher=West London Sport |date= |accessdate=28 June 2014}}&lt;/ref&gt; During his three-match [[Suspension (sport)|suspension]], [[Jack Bonham]] and then the fit-again Richard Lee took over the goalkeeping position. Button made his next appearance in a 1–0 defeat to Rotherham United on 5 October and regained his position as first-choice goalkeeper.&lt;ref name="Games played by David Button in 2013/2014" /&gt; An open forum between players and management in the [[dressing room]] after a 2–1 defeat to Stevenage on 12 October saw a turnaround in the team's fortunes and the beginning of a run of nine consecutive wins in the league,&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/24407978 |title=BBC Sport – Stevenage 2–1 Brentford |work=BBC Sport |accessdate=9 May 2015}}&lt;/ref&gt; with Button appearing in eight of those matches and keeping seven clean sheets.&lt;ref&gt;{{Cite web |url=http://uk.eurosport.yahoo.com/news/football-button-boro-loss-turning-point-175043061--sow.html |title=League One – Button: Stevenage loss was turning point – Yahoo Eurosport UK |last=20 November 2013 17:50 |date=20 November 2013 |publisher=Uk.eurosport.yahoo.com |archive-url=https://web.archive.org/web/20150708150227/https://uk.eurosport.yahoo.com/news/football-button-boro-loss-turning-point-175043061--sow.html |archivedate=8 July 2015 |dead-url=yes |accessdate=28 June 2014}}&lt;/ref&gt; With Button as a virtual ever-present, the Bees secured automatic promotion to the Championship after a 1–0 win over [[Preston North End F.C.|Preston North End]] on 18 April 2014.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/26983131 |title=BBC Sport – Brentford 1–0 Preston North End |publisher=Bbc.co.uk |date=18 April 2014 |accessdate=28 June 2014}}&lt;/ref&gt; Button made 45 appearances and kept 20 clean sheets in league matches during the [[2013–14 Brentford F.C. season|2013–14]] season.&lt;ref name="Games played by David Button in 2013/2014" /&gt; He signed a new three-year contract on 27 June 2014, which would keep him at Griffin Park until the end of the 2016–17 season.&lt;ref&gt;{{cite web |url=http://www.brentfordfc.co.uk/news/article/david-button-signs-27.06.14-1696747.aspx |title=David Button signs new Brentford deal |publisher=Brentfordfc.co.uk |date=13 March 2014 |accessdate=28 June 2014}}&lt;/ref&gt;
+
+With Richard Lee frequently injured, Button was undisputed first choice during the [[2014–15 Brentford F.C. season|2014–15]] season.&lt;ref&gt;{{cite web |url=http://www.espnfc.com/player/111337/david-button?season=2014 |title=David Button |work=espnfc.com |accessdate=9 May 2015}}&lt;/ref&gt; His performances against Huddersfield Town and [[Ipswich Town F.C.|Ipswich Town]] in March 2015 saw him selected in the Football League Team of the Week.&lt;ref&gt;{{Cite web |url=http://www.brentfordfc.co.uk/news/article/david-button-football-league-team-of-the-week-2325175.aspx |title=David Button named in Football League Team of the Week |last=Ciaran Brett |website=brentfordfc.co.uk |accessdate=9 May 2015}}&lt;/ref&gt; A successful second season at [[Griffin Park]] for Button ended after Brentford's 5–1 [[2015 Football League play-offs#Championship|playoff semi-final]] aggregate defeat to [[Middlesbrough F.C.|Middlesbrough]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/32636569 |title=BBC Sport – Middlesbrough 3–0 Brentford |author=Matt Newsum |work=BBC Sport |accessdate=17 August 2015}}&lt;/ref&gt; He made 49 appearances,&lt;ref name="Games played by David Button in 2014/2015" /&gt; keeping 11 clean sheets in league matches.&lt;ref&gt;{{Cite web |url=http://www.statbunker.com/competitions/Top10KeepersCleanSheets?comp_id=488 |title=Clean sheets Sky Bet Championship 14/15 |website=Statbunker football |archive-url=https://web.archive.org/web/20150518113354/http://www.statbunker.com/competitions/Top10KeepersCleanSheets?comp_id=488 |archivedate=18 May 2015 |dead-url=yes |accessdate=15 June 2015}}&lt;/ref&gt; Button was again first choice during the [[2015–16 Brentford F.C. season|2015–16]] season, featuring as an ever-present in league matches and talks began over a new contract in May 2016.&lt;ref name="Soccerbase1516" /&gt;&lt;ref&gt;{{Cite web |url=http://www.getwestlondon.co.uk/sport/football/transfer-news/brentford-open-contract-talks-david-11336468 |title=Brentford open contract talks with David Button |last=Moore |first=Tom |date=16 May 2016 |website=getwestlondon |accessdate=16 May 2016}}&lt;/ref&gt; The talks broke down and he departed Brentford on 19 July 2016, having made 141 appearances during three seasons with the club.&lt;ref name="Soccerbase" /&gt;&lt;ref&gt;{{Cite news |url=https://www.brentfordfc.com/news/2016/july/david-button-departs-for-fulham/ |title=Brentford FC David Button departs for Fulham |accessdate=13 January 2018 |language=en-gb}}&lt;/ref&gt;
+
+=== Fulham ===
+On 19 July 2016, Button joined Championship club [[Fulham F.C.|Fulham]] on a three-year contract, with an option for a further year, for an undisclosed fee.&lt;ref&gt;{{cite web |title=Button Arrives |url=http://www.fulhamfc.com/news/2016/july/19/david-button-arrives |website=www.fulhamfc.com |publisher=Fulham F.C. |accessdate=19 July 2016}}&lt;/ref&gt; He was the first-choice goalkeeper during the [[2016–17 Fulham F.C. season|2016–17]] season, until he lost his place to [[Marcus Bettinelli]] in early April 2017.&lt;ref name=sb1617/&gt; A 6th-place finish saw the Cottagers qualify for the [[2017 English Football League play-offs|playoffs]],&lt;ref&gt;{{Cite web |url=http://fchd.info/FULHAM.HTM |title=Football Club History Database – Fulham |website=fchd.info |accessdate=13 January 2018}}&lt;/ref&gt; but Button could only look on as an unused substitute during the 2–1 aggregate defeat to [[Reading F.C.|Reading]] in the semi-finals.&lt;ref&gt;{{Cite web |url=http://www.espnfc.com/player/111337/david-button?season=2016 |title=David Button Player Profile – ESPN FC |website=www.espnfc.com |accessdate=13 January 2018}}&lt;/ref&gt;
+
+=== Brighton &amp; Hove Albion ===
+Button signed for Premier League club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] on 16 July 2018 on a three-year contract for an undisclosed fee.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44851295 |title=David Button: Brighton sign goalkeeper from Fulham |publisher=BBC Sport |date=16 July 2018 |accessdate=16 July 2018}}&lt;/ref&gt;
+Button made his debut for the Sussex club in a EFL Cup tie against south coast rivals [[Southampton F.C.|Southampton]] on 28 August 2018 where Brighton lost 1-0 at [[The Amex]] with [[Charlie Austin]] netting the only goal of the game.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45254464 |title=Brighton &amp; Hove Albion V Southampton - BBC Sport |publisher=BBC Sport |date=28 August 2018 |accessdate=28 August 2018}}&lt;/ref&gt; Button made his Premier League debut on 29 December 2018 in a 1-0 home win against [[Everton F.C.|Everton]] where he made some crucial saves in a good win for the Albion.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/46656878 |title=Brighton &amp; Hove Albion 1-0 Everton: Locadia strike proves decisive for hosts - BBC Sport |publisher=BBC Sport |date=29 December 2018 |accessdate=29 December 2018}}&lt;/ref&gt; Button went on to make 3 more Premier League appearances and 1 FA Cup appearance whilst he covered for [[Mathew Ryan|Maty Ryan]] who was competing for [[Australia national football team|Australia]] in the [[2019 Asian Cup|Asian Cup]].
+
+== International career ==
+Button made regular appearances for [[England national football team|England]] at [[England under-16 national football team|U16]], [[England under-17 national football team|U17]], [[England national under-19 football team|U19]] and [[England national under-20 football team|U20]] level between 2003 and 2009.&lt;ref&gt;{{Cite web |url=http://www.thefa.com/england/all-teams/players?p=331976 |title=TheFA.com – TheFA.com – David Button |last=The Football Association |website=thefa.com |accessdate=9 May 2015}}&lt;/ref&gt; He appeared in England's group games at the [[2005 UEFA European Under-17 Championship|2005 European U17 Championship]] and [[2008 UEFA European Under-19 Championship|2008 European U19 Championship]], making three appearances in each tournament as England failed to get past the group stage.&lt;ref&gt;{{cite web |url=http://www.englandfootballonline.com/MatchRsl/MatchRslTmU19pg1.html |title=England Matches – Under-19's 1991–2010 |work=englandfootballonline.com |accessdate=17 August 2015}}&lt;/ref&gt;
+
+== Personal life ==
+Button attended [[Monk's Walk School]] in [[Welwyn Garden City]], [[Hertfordshire]].&lt;ref&gt;{{Cite news |url=http://www.tottenhamhotspur.com/players/reserves/davidbutton.html |title=David Button |accessdate=21 January 2009 |archive-url=https://web.archive.org/web/20110106141913/http://www.tottenhamhotspur.com/players/reserves/davidbutton.html |archivedate=6 January 2011 |publisher=Tottenham Hotspur F.C}}&lt;/ref&gt;
+
+== Career statistics ==
+{{updated|match played 16 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[EFL Cup|League Cup]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[2009–10 Tottenham Hotspur F.C. season|2009–10]]&lt;ref name="Games played by David Button in 2009/2010"&gt;{{Soccerbase season|48440|2009|name=David Button|accessdate=16 August 2013}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||1||0|| colspan="2" |—||1||0
+|-
+||[[Grays Athletic F.C.|Grays Athletic]] (loan)
+|[[2007–08 Football Conference|2007–08]]&lt;ref name="Games played by David Button in 2007/2008 for Grays"&gt;{{cite web |title=Games played by David Button in 2007/2008 for Grays |url=http://www.graysath-online.com/stats/player.php?id=173 |publisher=Grays Athletic F.C. |accessdate=16 August 2013}}&lt;/ref&gt;
+|[[Conference Premier]]
+|1||0||0||0||colspan="2"|—||2&lt;ref group="lower-alpha" name="FAT"&gt;Appearances in [[FA Trophy]]&lt;/ref&gt;||0||3||0
+|-
+||[[Rochdale A.F.C.|Rochdale]] (loan)
+|[[2007–08 Football League Two|2007–08]]&lt;ref name="Games played by David Button in 2007/2008"&gt;{{Soccerbase season|48440|2007|name=David Button|accessdate=16 August 2013}}&lt;/ref&gt;
+|[[EFL League Two|League Two]]
+|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+| rowspan="2"|Grays Athletic (loan)
+|[[2008–09 Football Conference|2008–09]]&lt;ref name="Games played by David Button in 2008/2009 for Grays"&gt;{{cite web |title=Games played by David Button in 2008/2009 for Grays |url=http://www.graysath-online.com/stats/player.php?id=173 |publisher=Grays Athletic F.C. |accessdate=16 August 2013}}&lt;/ref&gt;
+|Conference Premier
+|13||0||3||0||colspan="2"|—||1&lt;ref group=lower-alpha name=FAT/&gt;||0||17||0
+|-
+! colspan="2" |Grays Athletic total
+!14
+!0
+!3
+!0
+! colspan="2" |—
+!2
+!0
+!19
+!0
+|-
+||[[A.F.C. Bournemouth|Bournemouth]] (loan)
+|[[2008–09 Football League Two|2008–09]]&lt;ref name="Games played by David Button in 2008/2009" /&gt;
+|League Two
+|4||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||4||0
+|-
+||[[Luton Town F.C.|Luton Town]] (loan)
+|[[2008–09 Luton Town F.C. season|2008–09]]&lt;ref name="Games played by David Button in 2008/2009" /&gt;
+|League Two
+|0||0|| colspan="2" |—|| colspan="2" |—|| 0 |0||0||0||0
+|-
+||[[Dagenham &amp; Redbridge F.C.|Dagenham &amp; Redbridge]] (loan)
+|[[2008–09 Dagenham &amp; Redbridge F.C. season|2008–09]]&lt;ref name="Games played by David Button in 2008/2009" /&gt;
+|League Two
+|3||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||3||0
+|-
+||[[Crewe Alexandra F.C.|Crewe Alexandra]] (loan)
+|[[2009–10 Crewe Alexandra F.C. season|2009–10]]&lt;ref name="Games played by David Button in 2009/2010" /&gt;
+|League Two
+|10||0|| colspan="2" |—||0||0|| colspan="2" |—||10||0
+|-
+||[[Shrewsbury Town F.C.|Shrewsbury Town]] (loan)
+|[[2009–10 Shrewsbury Town F.C. season|2009–10]]&lt;ref name="Games played by David Button in 2009/2010" /&gt;
+|League Two
+|26||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||26||0
+|-
+||[[Plymouth Argyle F.C.|Plymouth Argyle]] (loan)
+|[[2010–11 Plymouth Argyle F.C. season|2010–11]]&lt;ref name="Games played by David Button in 2010/2011" /&gt;
+|[[EFL League One|League One]]
+|30||0||0||0||0||0||0||0||30||0
+|-
+||[[Leyton Orient F.C.|Leyton Orient]] (loan)
+|[[2011–12 Leyton Orient F.C. season|2011–12]]&lt;ref name="Games played by David Button in 2011/2012" /&gt;
+|League One
+|1||0||0||0||1||0||0||0||2||0
+|-
+||[[Doncaster Rovers F.C.|Doncaster Rovers]] (loan)
+|[[2011–12 Doncaster Rovers F.C. season|2011–12]]&lt;ref name="Games played by David Button in 2011/2012" /&gt;
+|[[EFL Championship|Championship]]
+|7||0||1||0|| colspan="2" |—|| colspan="2" |—||8||0
+|-
+||[[Barnsley F.C.|Barnsley]] (loan)
+|[[2011–12 Barnsley F.C. season|2011–12]]&lt;ref name="Games played by David Button in 2011/2012" /&gt;
+|Championship
+|9||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||9||0
+|-
+||[[Charlton Athletic F.C.|Charlton Athletic]]
+|[[2012–13 Charlton Athletic F.C. season|2012–13]]&lt;ref name="Games played by David Button in 2012/2013"&gt;{{Soccerbase season|48440|2012|name=David Button|accessdate=16 August 2013}}&lt;/ref&gt;
+|Championship
+|5||0||1||0||0||0|| colspan="2" |—||6||0
+|-
+| rowspan="4" |[[Brentford F.C.|Brentford]]
+|[[2013–14 Brentford F.C. season|2013–14]]&lt;ref name="Games played by David Button in 2013/2014"&gt;{{Soccerbase season|48440|2013|name=David Button|accessdate=16 August 2013}}&lt;/ref&gt;
+|League One
+|42||0||1||0||0||0||2&lt;ref group="lower-alpha" name="FLT"&gt;Appearances in [[EFL Trophy]]&lt;/ref&gt;||0||45||0
+|-
+|[[2014–15 Brentford F.C. season|2014–15]]&lt;ref name="Games played by David Button in 2014/2015"&gt;{{cite web |title=Games played by David Button in 2014/2015 |url=http://www.soccerbase.com/players/player.sd?player_id=48440&amp;season_id=143 |publisher=Soccerbase |accessdate=16 August 2013}}&lt;/ref&gt;
+|Championship
+|46||0||0||0||1||0||2&lt;ref group="lower-alpha" name="L1PO"&gt;Appearances in [[English Football League play-offs|EFL play-offs]]&lt;/ref&gt;||0||49||0
+|-
+|[[2015–16 Brentford F.C. season|2015–16]]&lt;ref name="Soccerbase1516"&gt;{{Soccerbase season|48440|2015|accessdate=11 August 2015}}&lt;/ref&gt;
+|Championship
+|46||0||1||0||0||0||colspan=2|—||47||0
+|-
+!colspan=2|Total
+!134!!0!!2!!0!!1!!0!!4!!0!!141!!0
+|-
+|rowspan=3|[[Fulham F.C.|Fulham]]
+|[[2016–17 Fulham F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|48440|2016|accessdate=16 July 2018}}&lt;/ref&gt;
+|Championship
+|40||0||0||0||0||0||0||0||40||0
+|-
+|[[2017–18 Fulham F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|48440|2017|accessdate=16 July 2018}}&lt;/ref&gt;
+|Championship
+|20
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|21
+|0
+|-
+! colspan="2" |Total
+!60
+!0
+!1
+!0
+!0
+!0
+!0
+!0
+!61
+!0
+|-
+|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+|[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|48440|2018|accessdate=30 December 2018}}&lt;/ref&gt;
+|Premier League
+|4||0||3||0||1||0||colspan=2|—||8||0
+|-
+!colspan=3|Career total
+!307!!0!!11!!0!!4!!0!!7!!0!!329!!0
+|}
+
+{{Reflist|group=lower-alpha}}
+
+==Honours==
+'''Luton Town'''
+*[[Football League Trophy]]: [[2008–09 Football League Trophy|2008–09]]&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/7975143.stm |title=Luton 2–3 Scunthorpe (aet) |first=Paul |last=Fletcher |publisher=BBC Sport |date=5 April 2009 |accessdate=23 December 2018}}&lt;/ref&gt;
+
+'''Brentford'''
+*[[Football League One]] runner-up: [[2013–14 Football League One|2013–14]]&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Sky Sports Football Yearbook 2014–2015 |year=2014 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-1251-1 |pages=74–75}}&lt;/ref&gt;
+
+'''Fulham'''
+*[[EFL Championship play-offs]]: [[2018 English Football League play-offs#Championship|2018]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44178427 |title=Aston Villa 0–1 Fulham |first=Phil |last=Cartwright |publisher=BBC Sport |date=26 May 2018 |accessdate=26 May 2018}}&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{commons category}}
+*[http://www.fulhamfc.com/player-profiles/david-button David Button] at fulhamfc.com
+*{{Soccerbase}}
+
+{{Brighton &amp; Hove Albion F.C. squad}}
+
+{{DEFAULTSORT:Button, David}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:People from Stevenage]]
+[[Category:Footballers from Hertfordshire]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Tottenham Hotspur F.C. players]]
+[[Category:Grays Athletic F.C. players]]
+[[Category:Rochdale A.F.C. players]]
+[[Category:A.F.C. Bournemouth players]]
+[[Category:Luton Town F.C. players]]
+[[Category:Dagenham &amp; Redbridge F.C. players]]
+[[Category:Crewe Alexandra F.C. players]]
+[[Category:Shrewsbury Town F.C. players]]
+[[Category:Plymouth Argyle F.C. players]]
+[[Category:Leyton Orient F.C. players]]
+[[Category:Doncaster Rovers F.C. players]]
+[[Category:Barnsley F.C. players]]
+[[Category:Charlton Athletic F.C. players]]
+[[Category:Brentford F.C. players]]
+[[Category:Fulham F.C. players]]
+[[Category:Brighton &amp; Hove Albion F.C. players]]
+[[Category:National League (English football) players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]</text>
+      <sha1>otsz7x1vebno0tv6lzyoxhp0fkgrfzz</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,258 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rhys Healey</title>
+    <ns>0</ns>
+    <id>29419087</id>
+    <revision>
+      <id>885835909</id>
+      <parentid>882330006</parentid>
+      <timestamp>2019-03-02T17:29:03Z</timestamp>
+      <contributor>
+        <username>Kosack</username>
+        <id>4446447</id>
+      </contributor>
+      <comment>Updated stats</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16878">{{for|the Australian rules footballer|Rhys Healey (Australian footballer)}}
+{{Use dmy dates|date=June 2016}}
+{{Use British English|date=June 2016}}
+{{Infobox football biography
+| name                = Rhys Healey
+| image               = Rhys Healey.jpg
+| image_size          = 200
+| caption             = Healey playing for [[Cardiff City F.C.|Cardiff City]] in 2014
+| fullname            = Rhys James Evitt-Healey&lt;ref&gt;{{cite web |url=http://www.thefa.com/-/media/files/thefaportal/governance-docs/registrations/december-2014.ashx |title=List of Players under Written Contract Registered Between 01/12/2014 and 31/12/2014 |publisher=The Football Association |format=PDF |page=1 |accessdate=17 June 2018}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1994|12|6|df=y}}&lt;ref name="gap connahs"/&gt;
+| birth_place         = [[Manchester]], England&lt;ref&gt;{{Hugman|26160|accessdate=17 June 2018}}&lt;/ref&gt;
+| height              = 
+| position            = [[Forward (association football)|Forward]]
+| currentclub         = [[Cardiff City F.C.|Cardiff City]]
+| clubnumber          = 32
+| youthyears1         = 2009–2011   | youthclubs1         = [[Connah's Quay Nomads F.C.|Connah's Quay Nomads]]
+| years1              = 2011–2013
+| clubs1              = [[Connah's Quay Nomads F.C.|Connah's Quay Nomads]]
+| caps1               = 30
+| goals1              = 15
+| years2              = 2013–
+| clubs2              = [[Cardiff City F.C.|Cardiff City]]
+| caps2               = 13
+| goals2              = 1
+| years3              = 2014–2015
+| clubs3              = → [[Colchester United F.C.|Colchester United]] (loan)
+| caps3               = 17
+| goals3              = 4
+| years4              = 2015
+| clubs4              = → [[Colchester United F.C.|Colchester United]] (loan)
+| caps4               = 4
+| goals4              = 0
+| years5              = 2015–2016
+| clubs5              = → [[Dundee F.C.|Dundee]] (loan)
+| caps5               = 7
+| goals5              = 1
+| years6              = 2016–2017
+| clubs6              = → [[Newport County A.F.C.|Newport County]] (loan)
+| caps6               = 17
+| goals6              = 6
+| years7 = 2018
+| clubs7 = → [[Torquay United F.C.|Torquay United]] (loan)
+| caps7 = 8
+| goals7 = 6
+| years8              = 2018–2019
+| clubs8              = → [[Milton Keynes Dons F.C.|Milton Keynes Dons]] (loan)
+| caps8               = 18
+| goals8              = 8
+| nationalyears1      = 
+| nationalteam1       = 
+| nationalcaps1       = 
+| nationalgoals1      = 
+| medaltemplates      = 
+| club-update         = 17:29, 2 March 2019 (UTC)
+| nationalteam-update = 
+}}
+'''Rhys James Evitt-Healey''' (born 6 December 1994) is an English professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Premier League]] club [[Cardiff City F.C.|Cardiff City]].
+
+==Career==
+===Connah's Quay Nomads===
+Healey started his career with [[Connah's Quay Nomads F.C.|Connah's Quay Nomads]], joining their youth setup at Under-16 level in 2009.&lt;ref name=HealeySpeaks&gt;{{Cite web |url=http://www.the-nomads.co.uk/mobile/article.php?id=316 |title=Healey speaks out |publisher=Connah's Quay Nomads |accessdate=19 April 2016}}&lt;/ref&gt;&lt;ref name="gap connahs"&gt;{{cite web|title=Rhys Healey|url=http://www.the-nomads.co.uk/first-team/player-profiles/profile.php?id=35&amp;Rhys-Healey|publisher=Gap Connah's Quay|accessdate=11 May 2014}}&lt;/ref&gt; He made his first team debut for the club as a substitute during a 6–1 victory on the opening [[Cymru Alliance]] match of the 2011–12 season against [[Caersws F.C.|Caersws]] and made 10 league appearances as the club won promotion to the [[Welsh Premier League]].&lt;ref&gt;{{Cite web |url=http://www.the-nomads.co.uk/results/match-result.php?id=59 |title=Caersws 1–6 Nomads |publisher=Connah's Quay Nomads |accessdate=19 April 2016}}&lt;/ref&gt;&lt;ref name="gap connahs"/&gt; The following season, he made his debut in the [[Welsh Premier League]], coming off the bench against [[Bangor City F.C.|Bangor City]] and went on to score 12 league goals for the club during the first half of the 2012–13 season. His prolific form saw him attract the attention of several clubs and Healey spent time on trial with [[Stoke City F.C.|Stoke City]] and [[Manchester City F.C.|Manchester City]].&lt;ref name=HealeySpeaks/&gt;
+
+===Cardiff City===
+On 28 January 2013, he signed for [[Cardiff City F.C.|Cardiff City]].&lt;ref&gt;{{cite web|title=Cardiff City sign Connah's Quay Nomads striker Rhys Healey|url=https://www.bbc.com/sport/0/football/21185153|publisher=BBC Sport|accessdate=11 May 2014}}&lt;/ref&gt; In March 2014 he signed a new contract with the club.&lt;ref&gt;{{cite web|title=Cardiff City starlet Rhys Healey agrees new contract at the club|url=http://www1.skysports.com/football/news/11704/9212391/transfer-news-cardiff-city-starlet-rhys-healey-agrees-new-contract-at-the-club|publisher=Sky Sports}}&lt;/ref&gt; On 11 May 2014, he made his first-team debut, on the last day of the season, in a 2–1 defeat against [[Chelsea F.C.|Chelsea]] as a substitute in place of [[Craig Bellamy]].&lt;ref&gt;{{cite web|title=Cardiff 1–2 Chelsea|url=https://www.bbc.com/sport/0/football/27273463|publisher=BBC Sport|accessdate=11 May 2014}}&lt;/ref&gt;
+
+Healey signed on loan for [[Football League One|League One]] club [[Colchester United F.C.|Colchester United]] on 19 September 2014. He joined the club as back-up to first choice striker [[Freddie Sears]], initially signing until 20 December.&lt;ref&gt;{{cite news | url=http://www.greenun24.co.uk/colchester-united/colchester_united_snap_up_striker_rhys_healy_on_loan_deal_1_3777457 | title=Colchester United snap up striker Rhys Healey on loan deal |publisher=East Anglian Daily Times |location=East Anglia |last=Marston |first=Carl |date=19 September 2014 |accessdate=19 September 2014 }}&lt;/ref&gt; Healey made his debut, coming on as a substitute in the second half, and scored in a 3–0 win over [[Crewe Alexandra F.C.|Crewe]], which was followed with another in the next game, in a 4–2 loss against [[Preston North End F.C.|Preston North End]].&lt;ref&gt;{{cite news|title=Crewe Alexandra 0–3 Colchester United|url=https://www.bbc.co.uk/sport/0/football/29289636|publisher=BBC Sport|date=27 September 2014|accessdate=20 December 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Preston North End 4–2 Colchester United|url=https://www.bbc.co.uk/sport/0/football/29388806|publisher=BBC Sport|date=4 October 2014|accessdate=20 December 2014}}&lt;/ref&gt; Having made ten appearance and scored four times so far, Healey loan spell with Colchester United was extended further until the end of the season.&lt;ref&gt;{{cite web|url=http://www.cu-fc.com/news/article/cardiff-city-loanee-rhys-healey-will-be-with-colchester-united-until-the-end-of-the-season-2153198.aspx |title=Rhys To Stay With U's |publisher=Colchester United F.C. |accessdate=20 December 2014 |date=19 December 2014 |archiveurl=https://web.archive.org/web/20141220235003/http://www.cu-fc.com/news/article/cardiff-city-loanee-rhys-healey-will-be-with-colchester-united-until-the-end-of-the-season-2153198.aspx |archivedate=20 December 2014 |deadurl=unfit }}&lt;/ref&gt;  On 19 March 2015, Healey was recalled by his parent club Cardiff.&lt;ref&gt;{{cite news | url=http://www.cu-fc.com/news/article/colchester-united-cardiff-city-rhys-healey-2345931.aspx|title=Cardiff recall Healey |publisher=Colchester United|date=19 March 2015}}&lt;/ref&gt; On 2 April 2015, in a bizarre turn of events, Healey was re-loaned to Colchester United as a protracted loan move to [[Football League Two|League 2]] team [[Newport County A.F.C.|Newport County]] fell through after the move was blocked by [[FIFA]].&lt;ref&gt;{{cite news | url=http://www.cardiffcityfc.co.uk/news/article/healey-to-complete-colchester-loan-spell-2373238.aspx|title=HEALEY TO COMPLETE COLCHESTER LOAN SPELL |publisher=Cardiff City|date=3 April 2015}}&lt;/ref&gt; A decision that was branded ''unbelievable'' by Newport manager [[Jimmy Dack]].&lt;ref&gt;{{Cite web |url=http://www.southwalesargus.co.uk/sport/12869303.Exiles_still_angry_at_failure_to_sign_Cardiff_City_striker_Rhys_Healey/ |title=Exiles still angry at failure to sign Cardiff City striker Rhys Healey |publisher=South Wales Argus |date=2 April 2015 |accessdate=19 April 2016}}&lt;/ref&gt;
+
+On 1 September 2015, Healey signed for [[Scottish Premiership]] club [[Dundee F.C.|Dundee]] on loan until January 2016.&lt;ref&gt;{{cite web|title=RHYS SIGNS ON LOAN|url=http://www.dundeefc.co.uk/news/rhys-signs-on-loan|publisher=Dundee F.C.|date=1 September 2015|accessdate=1 September 2015}}&lt;/ref&gt; He made a total of 7 appearances for the club, scoring once during a 2–1 defeat to [[Kilmarnock F.C.|Kilmarnock]], before his loan spell was ended early following an injury.
+
+On 31 August 2016, Healey joined Newport County on loan until 3 January 2017.&lt;ref&gt;{{cite web |url=http://m.southwalesargus.co.uk/sport/14715569.Cardiff_City_starlet_signs_for_Newport_County/ |title=Cardiff City starlet signs for Newport County |publisher=South Wales Argus |date=31 August 2016 |accessdate=31 August 2016}}&lt;/ref&gt; He made his debut for Newport on 10 September 2016 in [[Football League Two|League Two]] during a 2–2 draw with [[Cheltenham Town F.C.|Cheltenham Town]] as a second-half substitute in place of [[Jon Parkin]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/37263649 |title=Newport 2–2 Cheltenham |publisher=BBC Sport |date=10 September 2016 |accessdate=10 September 2016}}&lt;/ref&gt; He scored his first goal for Newport on 24 September 2016 in a 2–1 defeat to [[Cambridge United F.C.|Cambridge United]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/37394542 |title=Newport County 1–2 Cambridge United |publisher=BBC Sport |date=24 September 2016 |accessdate=5 October 2016}}&lt;/ref&gt; He returned to Cardiff at the end of his loan spell, making his final appearance for Newport in a 2–1 defeat to [[Wycombe Wanderers F.C.|Wycombe Wanderers]] on 2 January.&lt;ref&gt;{{cite web |url=http://www.southwalesargus.co.uk/sport/football/newportcounty/14998917.Newport_County_boss_targets_defenders_ahead_of_Saturday/ |title=Graham Westley expects more new arrivals before Stevenage trip |publisher=South Wales Argus |first=Andrew |last=Penman |date=3 January 2017 |accessdate=3 January 2017}}&lt;/ref&gt;
+
+Upon on returning, Healey found himself placed on the bench for Cardiff City for the first time in 3 years against [[Aston Villa F.C.|Aston Villa]]. On 21 January, he scored the winner against [[Burton Albion F.C.|Burton Albion]], also his first for the Bluebirds, after replacing [[Junior Hoilett]].&lt;ref&gt;{{cite news |title=Cardiff City 1–0 Burton Albion |url=https://www.bbc.co.uk/sport/football/38619297 |publisher=BBC Sport |date=21 January 2017 |accessdate=21 January 2017}}&lt;/ref&gt; During his second start for the club against [[Rotherham United F.C.|Rotherham United]] on 18 February, Healey was forced off after suffering a serious knee injury, which ruled him out for up to nine months.&lt;ref&gt;{{cite news |title=Rhys Healey: Cardiff City striker set for long lay-off with knee injury |url=https://www.bbc.co.uk/sport/football/39016927 |publisher=BBC Sport |date=18 February 2017 |accessdate=18 February 2017}}&lt;/ref&gt;
+
+During his recovery from the injury, Healey signed a new two and a half year deal at Cardiff, before making his first team return on 26 December 2017, coming on for [[Loïc Damour]] against [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite news |title=Cardiff City striker Rhys Healey signs new contract with the Bluebirds |url=http://www.walesonline.co.uk/sport/football/football-news/cardiff-city-striker-rhys-healey-13825404 |publisher=Wales Online |date=30 October 2017 |accessdate=30 October 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Cardiff City 2–4 Fulham |url=https://www.bbc.co.uk/sport/football/42406713 |publisher=BBC Sport |date=26 December 2017 |accessdate=26 December 2017}}&lt;/ref&gt; He joined [[Torquay United F.C.|Torquay United]] on loan in March 2018 for the remainder of the 2017–18 season,&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/43435720 |title=Rhys Healey: Cardiff City striker joins National League side Torquay United on loan |publisher=BBC Sport |date=16 March 2018 |accessdate=16 March 2018}}&lt;/ref&gt; scoring six times in eight appearances including a hat-trick during a 4–3 defeat to [[Guiseley A.F.C.|Guiseley]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/43767134 |title=Torquay United 3–4 Guiseley |publisher=BBC Sport |date=24 April 2018 |accessdate=2 June 2018}}&lt;/ref&gt;
+
+On 24 August 2018, Healey joined [[EFL League Two|League Two]] club [[Milton Keynes Dons F.C.|Milton Keynes Dons]] on loan until January 2019.&lt;ref&gt;{{Cite web |url=http://www.insidewalessport.co.uk/rhys-healey-joins-mk-dons/ |title=Cardiff City striker Healey secures League Two loan switch |publisher=Inside Wales Sport |date=24 August 2018 |accessdate=24 August 2018 }}&lt;/ref&gt; He scored his first goal for MK Dons in an [[EFL Trophy]] tie against [[Peterborough United]] on 4 September 2018.&lt;ref&gt;{{cite news|url=https://www.mkdons.com/news/2018/september/report-mk-dons-v-peterborough-united/|title=Report: MK Dons 3-3 Peterborough United (6-5 pens)|publisher=mkdons.com|date=4 September 2018|accessdate=10 September 2018}}&lt;/ref&gt;
+
+==Career statistics==
+{{Updated|2 March 2019}}&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/rhys-healey/261057/|title=Rhys Healey stats|publisher=Soccerway|date=3 November 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+! colspan=3 | Club
+! colspan=2 | League
+! colspan=2 | Cup
+! colspan=2 | League Cup
+! colspan=2 | Other
+! colspan=2 | Total
+|-
+! Club !! Season !! League
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+|rowspan="3"|[[Connah's Quay Nomads F.C.|Connah's Quay Nomads]]
+|[[2011–12 Cymru Alliance|2011–12]]
+|[[Cymru Alliance]]
+|10||3||2||2||0||0||0||0||12||5&lt;ref name="gap connahs"/&gt;&lt;ref&gt;{{cite web |url=http://www.the-nomads.co.uk/match-centre/results/archive/11-12/ |title=2011–12 |publisher=Connah's Quay Nomads |accessdate=19 April 2016}}&lt;/ref&gt;
+|-
+|[[2012–13 Welsh Premier League|2012–13]]
+|[[Welsh Premier League]]
+|20||12||0||0||2||2||0||0||22||14&lt;ref name="gap connahs"/&gt;
+|-
+!colspan="2"|Total
+!30!!15!!2!!2!!2!!2!!0!!0!!34!!19
+|-
+|rowspan="7"|[[Cardiff City F.C.|Cardiff City]]
+|[[2013–14 Cardiff City F.C. season|2013–14]]
+|[[Premier League]]
+|1||0||0||0||0||0||0||0||1||0
+|-
+|[[2014–15 Cardiff City F.C. season|2014–15]]
+|[[Football League Championship|Championship]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2015–16 Cardiff City F.C. season|2015–16]]
+|Championship
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2016–17 Cardiff City F.C. season|2016–17]]
+|Championship
+|7||1||0||0||0||0||0||0||7||1
+|-
+|[[2017–18 Cardiff City F.C. season|2017–18]]
+|Championship
+|3||0||2||0||0||0||0||0||5||0
+|-
+|[[2018–19 Cardiff City F.C. season|2018–19]]
+|Premier League
+|2||0||0||0||0||0||0||0||2||0
+|-
+!colspan="2"|Total
+!13!!1!!2!!0!!0!!0!!0!!0!!15!!1
+|-
+|[[Colchester United F.C.|Colchester United]] (loan)
+|[[2014–15 Colchester United F.C. season|2014–15]]
+|[[Football League One|League One]]
+|21||4||1||0||1||0||0||0||23||4
+|-
+|[[Dundee F.C.|Dundee]] (loan)
+|[[2015–16 Dundee F.C. season|2015–16]]
+|[[Scottish Premiership]]
+|7||1||0||0||0||0||0||0||7||1
+|-
+|[[Newport County A.F.C.|Newport County]] (loan)
+|[[2016–17 Newport County A.F.C. season|2016–17]]
+|[[Football League Two|League Two]]
+|17||6||4||1||0||0||2&lt;ref group=lower-alpha name=EFLT&gt;Appearances in the [[EFL Trophy]]&lt;/ref&gt;||0||23||7
+|-
+|[[Torquay United F.C.|Torquay United]] (loan)
+|[[2017–18 National League|2017–18]]
+|[[National League (English football)|National League]]
+|8||6||0||0||0||0||0||0||8||6
+|-
+|[[Milton Keynes Dons F.C.|Milton Keynes Dons]] (loan)
+|[[2018–19 Milton Keynes Dons F.C. season|2018–19]]
+|League Two
+|18||8||1||0||1||0||1&lt;ref group=lower-alpha name=EFLT /&gt;||1||21||9
+|-
+!colspan="3"|Career total
+!114!!41!!10!!3!!4!!2!!3!!1!!131!!47
+|}
+
+{{Reflist|group=lower-alpha}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerbase}}
+
+{{Cardiff City F.C. squad}}
+
+{{DEFAULTSORT:Healey, Rhys}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Manchester]]
+[[Category:Footballers from Greater Manchester]]
+[[Category:English footballers]]
+[[Category:Association football forwards]]
+[[Category:Connah's Quay Nomads F.C. players]]
+[[Category:Cardiff City F.C. players]]
+[[Category:Milton Keynes Dons F.C. players]]
+[[Category:Colchester United F.C. players]]
+[[Category:Dundee F.C. players]]
+[[Category:Newport County A.F.C. players]]
+[[Category:Torquay United F.C. players]]
+[[Category:Cymru Alliance players]]
+[[Category:Players in the Welsh Premier League]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:Scottish Professional Football League players]]
+[[Category:National League (English football) players]]</text>
+      <sha1>0dvwk04dsfcoqoibqofacb2hsq6ckmk</sha1>
+    </revision>
+  </page>
+</mediawiki>

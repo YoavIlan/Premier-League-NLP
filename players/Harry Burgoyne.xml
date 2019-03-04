@@ -1,0 +1,242 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Harry Burgoyne</title>
+    <ns>0</ns>
+    <id>52545181</id>
+    <revision>
+      <id>883536674</id>
+      <parentid>882372813</parentid>
+      <timestamp>2019-02-16T00:14:32Z</timestamp>
+      <contributor>
+        <ip>137.43.31.20</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14731">{{Infobox football biography
+| name = Harry Burgoyne
+| image = 
+| image_size = 
+| caption = 
+| fullname = Harry James Burgoyne&lt;ref&gt;{{cite web |title=EFL: Club list of registered players |url=https://www.efl.com/siteassets/efl-documents/efl-released-and-retained-list---2016-17.pdf |publisher=English Football League |format=PDF |page=41 |date=20 May 2017 |accessdate=6 October 2017}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1996|12|28|df=y}}
+| birth_place = [[Ludlow]], England
+| height = {{convert|1.93|m|order=flip}}&lt;ref&gt;{{cite web |url=http://www.espnfc.co.uk/player/222452/harry-burgoyne |title=Harry Burgoyne |website=ESPN FC |accessdate=13 June 2018}}&lt;/ref&gt;
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Falkirk F.C.|Falkirk]]&lt;br /&gt;(on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]])
+| clubnumber = 43
+| youthyears1 = 
+| youthclubs1 = [[Ludlow Town F.C.|Ludlow Town]]
+| youthyears2 = 2008–2015
+| youthclubs2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| youthyears3 = 2013
+| youthclubs3 = → [[Doncaster Rovers F.C.|Doncaster Rovers]] (youth loan)
+| years1 = 2015–
+| clubs1 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| caps1  = 7
+| goals1 = 0
+| years2 = 2015
+| clubs2 = → [[Lowestoft Town F.C.|Lowestoft Town]] (loan)
+| caps2  = 4
+| goals2 = 0
+| years3 = 2015
+| clubs3 = → [[Corby Town F.C.|Corby Town]] (loan)
+| caps3  = 5
+| goals3 = 0
+| years4 = 2015–2016
+| clubs4 = → [[A.F.C. Telford United]] (loan)
+| caps4  = 9
+| goals4 = 0
+| years5 = 2017
+| clubs5 = → [[Barnet F.C.|Barnet]] (loan)
+| caps5  = 2
+| goals5 = 0
+| years6 = 2018
+| clubs6 = → [[Plymouth Argyle F.C.|Plymouth Argyle]] (loan)
+| caps6 = 0
+| goals6 = 0
+| years7 = 2019–
+| clubs7 = → [[Falkirk F.C.|Falkirk]] (loan)
+| caps7 = 2
+| goals7 = 0
+| club-update = 16:52, 8 February 2019 (UTC)
+}}
+'''Harry James Burgoyne''' (born 28 December 1996) is an English professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Falkirk F.C.|Falkirk]], on loan from {{English football updater|WolverhW}} club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].
+
+He has also played for [[Lowestoft Town F.C.|Lowestoft Town]], [[Corby Town F.C.|Corby Town]], [[A.F.C. Telford United]] and [[Barnet F.C.|Barnet]] on loan.
+
+== Career ==
+=== Early career ===
+Burgoyne joined [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] at the age of 12, having been spotted filling in as a [[Goalkeeper (association football)|goalkeeper]] for the first time for local team [[Ludlow Town F.C.|Ludlow Town]].&lt;ref name=":0"&gt;{{Cite web|url=http://www.ludlowadvertiser.co.uk/sport/10449200.Talented_goalkeeper_Harry_Burgoyne__from_Ludlow__signs_two_year_scholarship_with_Wolverhampton_Wanderers_Football_Club/|title=Talented goalkeeper Harry Burgoyne, from Ludlow, signs two-year scholarship with Wolverhampton Wanderers Football Club|website=Ludlow Advertiser|access-date=2016-12-10}}&lt;/ref&gt; Following unsuccessful trials at [[West Bromwich Albion F.C.|West Bromwich Albion]] and [[Birmingham City F.C.|Birmingham City]], he signed an initial two-year deal with the club before committing to a two-year professional contract in March 2015.&lt;ref name=":1"&gt;{{Cite web|url=http://www.wolves.co.uk/news/article/20141024-next-generation-harry-burgoyne-2038152.aspx|title=Next Generation: Harry Burgoyne|last=Williams|first=Stephen|website=www.wolves.co.uk|access-date=2016-12-10}}&lt;/ref&gt;
+
+He joined [[Doncaster Rovers F.C.|Doncaster Rovers]] for a brief youth loan at the age of 16, which included an [[FA Youth Cup]] appearance against [[Manchester City F.C. Reserves and Academy|Manchester City]].&lt;ref name=":1" /&gt; Burgoyne was nominated for Wolves' Academy Player of the Season for the 2014–15 season, which was won by Regan Upton.&lt;ref&gt;{{Cite web|url=https://www.expressandstar.com/sport/wolverhampton-wanderers-fc/2015/10/08/how-wolves-academy-are-building-stars/|title=How Wolves' academy are building stars « Express &amp; Star|website=www.expressandstar.com|access-date=2016-12-10}}&lt;/ref&gt;
+
+In May 2015, he was part of the squad that won the U19 Bitzer Cup in [[Germany]]. Burgoyne played four of the five games, conceding just a single goal. The final went to penalties and he saved the fifth one with Wolves winning 5–4.&lt;ref&gt;{{Cite web|url=https://www.expressandstar.com/sport/wolverhampton-wanderers-fc/2015/05/25/wolves-are-the-penalty-kings-in-the-bitzer-cup/soccer-barclays-premier-league-under-21s-wolverhampton-wanderers-v-arsenal-6/|title=Wolves are the penalty kings in the Bitzer Cup « Express &amp; Star|website=www.expressandstar.com|access-date=2016-12-10}}&lt;/ref&gt; Burgoyne joined the first-team squad on a pre-season tour of [[France]] in July 2015.&lt;ref&gt;{{Cite web|url=http://www.wolves.co.uk/team/player-profile/harry-burgoyne/31|title=Wolverhampton Wanderers FC Player Profiles|last=Profiles|first=Player|website=www.wolves.co.uk|access-date=2016-12-10}}&lt;/ref&gt;
+
+He attended Bitterley Primary School and [[Ludlow School]], where he was a school prefect, head of house and sports captain.&lt;ref name=":0" /&gt;
+
+=== Lowestoft Town (loan) ===
+In September 2015, Burgoyne gained his first experience of senior football with a one-month loan at [[National League North]] side [[Lowestoft Town F.C.|Lowestoft Town]].&lt;ref&gt;{{Cite web|url=http://www.lowestofttownfc.co.uk/teams/50851/player/harry-burgoyne-1575147|title=Harry Burgoyne – Lowestoft Town – Lowestoft Town FC|website=www.lowestofttownfc.co.uk|access-date=2016-12-10}}&lt;/ref&gt; After recording a clean sheet on his debut, he claimed the Man of the Match award in the two following games. Making five appearances for the side, an initial extension on the loan was cut short after being recalled due to injuries in the [[Wolverhampton Wanderers Development Squad and Academy|Wolves U21]] squad.&lt;ref&gt;{{Cite web|url=https://www.expressandstar.com/sport/wolverhampton-wanderers-fc/2015/10/23/young-wolves-keeper-harry-burgoyne-has-loan-spell-cut-short/|title=Young Wolves keeper Harry Burgoyne has loan spell cut short « Express &amp; Star|website=www.expressandstar.com|access-date=2016-12-10}}&lt;/ref&gt;
+
+=== Corby Town (loan) ===
+In November 2015, Burgoyne joined [[National League North]] club [[Corby Town F.C.|Corby Town]] on a one-month loan. He made six appearances prior to his return.&lt;ref&gt;{{Cite web|url=http://www.corbytownfc.co.uk/profile/harry-burgoyne/|title={{!}}  Harry Burgoyne|website=www.corbytownfc.co.uk|access-date=2016-12-10}}&lt;/ref&gt; As part of the agreements between the two sides, Burgoyne continued to train with [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] during his loan spell and was made available on matchdays.&lt;ref&gt;{{Cite news|url=http://www.lfe.org.uk/news/burgoyne-hoping-to-help-corby|title=Burgoyne Hoping To Help Corby|newspaper=LFE|access-date=2016-12-10}}&lt;/ref&gt;
+
+=== A.F.C. Telford United (loan) ===
+In December 2015, he completed a loan move to [[National League North]] side [[A.F.C. Telford United]] to cover for injured goalkeeper James Montgomery.&lt;ref&gt;{{Cite news|url=http://www.thenonleaguefootballpaper.com/latest-news/conference-north-step-two/14554/afc-telford-united-bring-in-wolves-keeper-harry-burgoyne/|title=AFC Telford United bring in Wolves keeper Harry Burgoyne|newspaper=The Non League Football Paper – Daily football news|access-date=2016-12-10}}&lt;/ref&gt; In February 2015, the club extended his loan for the remainder of the season.&lt;ref&gt;{{Cite web|url=http://www.shropshirestar.com/sport/afc-telford-united/2016/02/24/afc-telford-extend-harry-burgoynes-loan/|title=AFC Telford extend Harry Burgoyne's loan « Shropshire Star|website=www.shropshirestar.com|access-date=2016-12-10}}&lt;/ref&gt; Burgoyne made nine appearances for the Bucks.
+
+=== Wolverhampton Wanderers ===
+On 10 December, Burgoyne made his [[English Football League|Football League]] debut in a 4–4 thriller against [[Fulham F.C.|Fulham]]. With [[Carl Ikeme]] and [[Andy Lonergan]] both injured, he was preferred over third-choice goalkeeper Jon Flatt.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/38192220|title=Wolverhampton Wanderers v Fulham|date=2016-12-09|newspaper=BBC Sport|language=en-GB|access-date=2016-12-10}}&lt;/ref&gt; Burgoyne was named the Man of the Match by the club's sponsors.&lt;ref&gt;https://www.expressandstar.com/sport/wolverhampton-wanderers-fc/2016/12/12/debutant-harry-burgoyne-thrived-off-pressure-of-wolves-debut/&lt;/ref&gt;
+
+On 28 January 2017, Burgoyne was again favoured in goal with Ikeme suspended and Lonergan unfit for Wanderers' fourth-round [[FA Cup]] tie at [[Liverpool F.C.|Liverpool]]. His side recorded a 2–1 victory in the giant killing.&lt;ref&gt;{{Cite web|url=https://www.expressandstar.com/sport/wolverhampton-wanderers-fc/2017/01/27/wolves-fa-cup-run-harry-burgoyne-looks-set-to-start-against-liverpool/|title=Wolves FA Cup run: Harry Burgoyne looks set to start against Liverpool « Express &amp; Star|website=www.expressandstar.com|language=en|access-date=2017-01-29}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/38700673|title=Liverpool 1–2 Wolverhampton Wanderers|date=2017-01-28|newspaper=BBC Sport|language=en-GB|access-date=2017-01-29}}&lt;/ref&gt;
+
+=== Barnet (loan) ===
+On 25 February 2017, Burgoyne joined [[Barnet F.C.|Barnet]] on an emergency seven-day loan with [[Jamie Stephens]] and [[Josh Vickers]] out injured.&lt;ref&gt;{{Cite news|url=http://www.barnetfc.com/news/article/2016-17/harry-burgoyne-its-been-chaotic-3594535.aspx|title=Harry Burgoyne: "It's been chaotic!"|access-date=2017-02-25|language=en}}&lt;/ref&gt; He made his debut in a 1–0 defeat to [[Cambridge United F.C.|Cambridge United]] later that day.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/39012007|title=Barnet 0–1 Cambridge United|date=2017-02-25|newspaper=BBC Sport|access-date=2017-02-25|language=en-GB}}&lt;/ref&gt;.  
+
+After returning to Molineux, Burgoyne was called up to the England Under-21 squad for their Friendly&lt;ref&gt;http://www.thefa.com/news/2018/mar/24/england-u21s-romania-report-240318&lt;/ref&gt; against Romania on 24 March 2018.  It was the shot-stopper's first international call-up since joining the Wolves academy at the age of 11.  
+
+=== Plymouth Argyle (loan) ===
+On 16 June 2018, Burgoyne joined [[EFL League One|League One]] side [[Plymouth Argyle F.C.|Plymouth Argyle]] on a season-long loan.&lt;ref&gt;{{cite web |url=https://www.wolves.co.uk/news/first-team/20180615-burgoyne-makes-plymouth-loan-switch/ |title=Burgoyne Makes Plymouth Loan Switch |publisher=Wolverhampton Wanderers F.C. |date=16 June 2018 |accessdate=16 June 2018}}&lt;/ref&gt; He returned to Wolves a month later due a broken ankle.&lt;ref&gt;{{cite news |url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2018/07/25/wolves-goalkeeper-harry-burgoyne-breaks-ankle-in-pre-season-training-with-loan-club-plymouth-argyle/ |title=Wolves goalkeeper Harry Burgoyne breaks ankle in pre-season training with loan club Plymouth Argyle |first=James |last=Brassington |newspaper=Express &amp; Star |location=Wolverhampton |date=25 July 2018 |accessdate=1 August 2018}}&lt;/ref&gt; It was later announced that as Argyle were still paying contribution for his wages, Burgoyne would see through his season-long loan at The Pilgrims, having initially returned to Wolves for treatment.&lt;ref&gt;{{citenews |title=Plymouth Argyle will continue to pay wages of injured on-loan goalkeeper Harry Burgoyne |url=https://www.plymouthherald.co.uk/sport/football/football-news/plymouth-argyle-wolves-harry-burgoyne-1853396 |date=2 August 2018|accessdate=23 August 2018}}&lt;/ref&gt;
+
+Burgoyne returned to Wolves in December 2018, having never played a competitive game for Argyle, after his loan was terminated by both clubs by mutual consent.&lt;ref&gt;{{citenews |title=The Plymouth Argyle loan player who will never make a first team appearance |url=https://www.plymouthherald.co.uk/sport/football/football-news/plymouth-argyle-loan-player-who-2297484 |publisher=[[The Herald (Plymouth)]]|date=6 December 2018|accessdate=7 December 2018}}&lt;/ref&gt;
+
+He then moved on loan to [[Scottish Championship]] club [[Falkirk F.C.|Falkirk]] in January 2019.&lt;ref&gt;https://www.bbc.co.uk/sport/football/46994524&lt;/ref&gt;
+
+== Career statistics ==
+{{updated|&lt;!--match played--&gt;end of 2017–18 season}}&lt;ref&gt;{{soccerbase|id=88112|name=Harry Burogyne}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+! rowspan="2" |Club
+! rowspan="2" |Season
+! colspan="3" |League
+! colspan="2" |[[FA Cup]]
+! colspan="2" |[[EFL Cup|League Cup]]
+! colspan="2" |Other
+! colspan="2" |Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="4" |[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[2015–16 Wolverhampton Wanderers F.C. season|2015–16]]
+|[[EFL Championship|Championship]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2016–17 Wolverhampton Wanderers F.C. season|2016–17]]
+|[[EFL Championship|Championship]]
+|6||0||1||0||0||0||0||0||7||0
+|-
+|[[2017–18 Wolverhampton Wanderers F.C. season|2017–18]]
+|[[EFL Championship|Championship]]
+|1||0||0||0||0||0||0||0||1||0
+|-
+!colspan="2" |Total
+!7!!0!!0!!0!!0!!0!!0!!0!!8!!0
+|-
+|[[Wolverhampton Wanderers F.C. Development Squad and Academy|Wolverhampton Wanderers U23]]
+|[[2016–17 EFL Trophy|2016–17]]
+|colspan="3"|—||colspan="2"|—||colspan="2"|—||3||0||3||0
+|-
+|[[Lowestoft Town F.C.|Lowestoft Town]] (loan)
+|[[2015–16 National League#National League North|2015–16]]
+|[[National League North]]
+|4||0||1||0||colspan="2"|—||0||0||5||0
+|-
+|[[Corby Town F.C.|Corby Town]] (loan)
+|2015–16
+|National League North
+|5||0||0||0||colspan="2"|—||1||0||6||0
+|-
+|[[A.F.C. Telford United]] (loan)
+|2015–16
+|National League North
+|9||0||0||0||colspan="2"|—||0||0||9||0
+|-
+|[[Barnet F.C.|Barnet]] (loan)
+|[[2016–17 Barnet F.C. season|2016–17]]
+|[[EFL League Two|League Two]]
+|2||0||0||0||0||0||0||0||2||0
+|-
+! colspan="3" |Career total
+!27!!0!!2!!0!!0!!0!!4!!0!!33!!0
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Soccerbase}}
+
+&lt;!--{{Wolverhampton Wanderers F.C. squad}}--&gt;
+{{Falkirk F.C. squad}}
+
+{{DEFAULTSORT:Burgoyne, Harry}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:English footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Lowestoft Town F.C. players]]
+[[Category:Corby Town F.C. players]]
+[[Category:A.F.C. Telford United players]]
+[[Category:Barnet F.C. players]]
+[[Category:Plymouth Argyle F.C. players]]
+[[Category:Falkirk F.C. players]]
+[[Category:National League (English football) players]]
+[[Category:English Football League players]]
+[[Category:Scottish Professional Football League players]]</text>
+      <sha1>mq555773bbmt2rvwqep49ltyf2xhn4v</sha1>
+    </revision>
+  </page>
+</mediawiki>

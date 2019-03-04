@@ -1,0 +1,253 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ryan Fraser</title>
+    <ns>0</ns>
+    <id>29720768</id>
+    <revision>
+      <id>885954047</id>
+      <parentid>885954034</parentid>
+      <timestamp>2019-03-03T11:25:44Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contribs/2A00:23C6:AF0D:F900:9C38:C63F:A030:2D1A|2A00:23C6:AF0D:F900:9C38:C63F:A030:2D1A]] to version by Jamieroot11. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3606208) (Bot)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11490">{{Use dmy dates|date=October 2017}}
+{{EngvarB|date=October 2017}}
+{{Infobox football biography
+| name = Ryan Fraser
+| image = 
+| caption = 
+| fullname = Ryan Fraser&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|df=yes|1994|2|24}}
+| birth_place = [[Aberdeen]], Scotland
+| height = {{convert|1.63|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/8052/Ryan-Fraser/overview |title=Ryan Fraser: Overview |publisher=Premier League |date=16 September 2018}}&lt;/ref&gt;
+| position = [[Midfielder#Winger|Winger]]
+| currentclub = [[AFC Bournemouth]]
+| clubnumber = 24
+| youthyears1 = 
+| youthclubs1 = [[Aberdeen F.C. Under-20s and Academy|Aberdeen]]
+| years1 = 2010–2013
+| clubs1 = [[Aberdeen F.C.|Aberdeen]]
+| caps1 = 21
+| goals1 = 0
+| years2 = 2013–
+| clubs2 = [[AFC Bournemouth]]
+| caps2 = 138
+| goals2 = 17
+| years3 = 2015–2016
+| clubs3 = → [[Ipswich Town F.C.|Ipswich Town]] (loan)
+| caps3 = 18
+| goals3 = 4
+| nationalyears1 = 2012–2013
+| nationalteam1 = [[Scotland national under-19 football team|Scotland U19]]
+| nationalcaps1 = 6
+| nationalgoals1 = 1
+| nationalyears2 = 2013–2016
+| nationalteam2 = [[Scotland national under-21 football team|Scotland U21]]
+| nationalcaps2 = 10|
+| nationalgoals2 = 3|
+| nationalyears3 = 2017–
+| nationalteam3 = [[Scotland national football team|Scotland]]
+| nationalcaps3 = 6
+| nationalgoals3 = 1
+| pcupdate = 10:50, 3 January 2019 (UTC)
+| ntupdate = 12:21, 5 December 2018 (UTC)
+}}
+'''Ryan Fraser''' (born 24 February 1994) is a Scottish professional [[Association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for [[AFC Bournemouth]] and the [[Scotland national football team|Scotland national team]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/33293441 |title=Bournemouth sign defender Tyrone Mings from Ipswich for £8m |publisher=BBC Sport |date=26 June 2015 |accessdate=26 June 2015}}&lt;/ref&gt; Fraser has previously played for [[Aberdeen F.C.|Aberdeen]], represented the [[Scotland national under-19 football team|Scotland under-19]] and [[Scotland national under-21 football team|under-21 team]] and made his full international debut in June 2017.
+
+==Club career==
+===Aberdeen===
+Fraser signed for Aberdeen in May 2010, aged 16, after leaving [[Kincorth Academy]].&lt;ref&gt;{{cite web |url=https://www.eveningexpress.co.uk/fp/aberdeen-fc/aberdeen-graeme-andrew-shinnie-scottish-cup/ |title=Aberdeen school pride as Shinnie brothers prepare for first competitive battle |work=Evening Express|date=18 April 2017 |accessdate=18 May 2018}}&lt;/ref&gt; He made his debut for the first team against [[Heart of Midlothian F.C.|Heart of Midlothian]] in October 2010.&lt;ref&gt;{{cite web|url=http://www.afcheritage.org/Team/CurrentSquad/player_show.cfm?player_id=994&amp;Season=2010-11 |title=Ryan Fraser profile |publisher=AFC Heritage |accessdate=23 November 2010}}&lt;/ref&gt; Fraser made a significant impression in the Aberdeen first team during the early part of the [[2012–13 Scottish Premier League]] season, winning the Young Player of the Month award for September and October 2012.&lt;ref name = "ypotm"&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/19862077 |title=SPL: Aberdeen's Ryan Fraser is young player of the month |publisher=BBC Sport |date=7 October 2012 |accessdate=7 October 2012}}&lt;/ref&gt; Aberdeen [[manager (association football)|manager]] [[Craig Brown (footballer born 1940)|Craig Brown]] expressed concerns at this time that opposing teams were targeting Fraser with tough tackling.&lt;ref name = "ypotm"/&gt; Fraser rejected a contract extension with Aberdeen on 7 December 2012.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/20645018 |title=Aberdeen expect Ryan Fraser to leave after rejecting new deal |publisher=BBC Sport |date=7 December 2012 }}&lt;/ref&gt;
+
+===AFC Bournemouth===
+Fraser signed a three-year contract with [[EFL League One|League One]] club [[AFC Bournemouth]] on 18 January 2013.&lt;ref name = "bournemouth"&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/21084406 |first=Heather |last=Dewar |title=Ryan Fraser 'will flourish' at Bournemouth – Craig Brown |publisher=BBC Sport |date=18 January 2013 |accessdate=18 January 2013}}&lt;/ref&gt; Bournemouth paid Aberdeen a transfer fee of £400,000 to complete the deal.&lt;ref name = "bournemouth"/&gt; During his first season, Fraser helped Bournemouth gain promotion to the Championship.
+
+Fraser scored his first Premier League goal on 4 December 2016, in a 4–3 win against [[Liverpool F.C.|Liverpool]].&lt;ref name = "Liverpool43"/&gt; He entered the game as a second-half substitute, when Bournemouth trailed 2–0.&lt;ref name = "Liverpool43"/&gt; Fraser won a [[Penalty kick (association football)|penalty kick]] for the first Bournemouth goal, scored the second and provided an assist for the third goal.&lt;ref name = "Liverpool43"&gt;{{cite news |url=https://www.telegraph.co.uk/football/2016/12/04/bournemouth-vs-liverpool-live-score-goal-updates-premier-league/ |first1=Jeremy |last1=Wilson |last2=Tyers |first2=Alan|title=Ryan Fraser inspires Cherries in a stunning comeback|work=The Daily Telegraph|date=4 December 2016|accessdate=4 December 2016}}&lt;/ref&gt;
+
+Fraser scored both Bournemouth goals in a 2&amp;ndash;1 win against [[Everton F.C.|Everton]] on 30 December 2017.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2017/dec/30/bournemouth-everton-premier-league-match-report |title=Ryan Fraser at the double for Bournemouth to see off Everton |first=Ed |last=Aarons |work=The Guardian |publisher= |date=30 December 2017 |accessdate=31 December 2017}}&lt;/ref&gt;
+
+====Ipswich Town (loan)====
+On 26 June 2015, Fraser signed a season-long loan deal with [[Ipswich Town F.C.|Ipswich Town]].&lt;ref&gt;{{cite web|url=https://www.pressandjournal.co.uk/fp/sport/football/aberdeen-fc/621854/former-aberdeen-winger-ryan-fraser-determined-to-shine-at-ipswich-town/|title=Former Aberdeen winger Ryan Fraser determined to shine at Ipswich Town – Press and Journal}}&lt;/ref&gt;
+
+==International career==
+Fraser was first called up to the senior [[Scotland national football team|Scotland]] squad in March 2017.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/39253748|title=Scotland: Stuart Armstrong, Ryan Fraser &amp; Tom Cairney called up|publisher=[[BBC Sport]]|date=13 March 2017 |accessdate=31 March 2017}}&lt;/ref&gt; He made his international debut in June 2017, appearing as a substitute in a 2–2 draw with [[England national football team|England]].&lt;ref&gt;{{cite web |url=http://www.itv.com/england-football/highlights-scotland-2-2-england |title=Highlights: Scotland 2-2 England |work=ITV |publisher= |date=10 June 2017 |accessdate=3 December 2017}}&lt;/ref&gt;
+
+== Style of play ==
+Primarily deployed as a [[Winger (association football)|winger]] on the left flank, Fraser is a right-footed player described by his compatriot [[Charlie Nicholas]] as an "old-fashioned type of player" and a "little pocket dynamo" for the muscly physique he has developed to "take the knocks and kicks that come his way."&lt;ref&gt;{{Cite web|url=https://www.skysports.com/football/news/11743/11513575/ryan-fraser-is-now-fulfilling-his-potential-at-bournemouth|title=Ryan Fraser is now fulfilling his potential at Bournemouth|last=Bate|first=Adam|date=1 October 2018|website=Sky Sports|archive-url=|archive-date=|dead-url=|access-date=5 December 2018}}&lt;/ref&gt; Fraser has also occasionally played in the right-back position for both club and country.&lt;ref&gt;{{Cite web|url=https://www.bournemouthecho.co.uk/sport/cherries/clubnews/16132817.Winger_Ryan_Fraser_admits_filling_in_at_right_back_can_be_a_tall_order/|title=Winger Ryan Fraser admits filling in at right-back can be a tall order|last=|first=|date=3 April 2018|website=Bournemouth Echo|publisher=Bournemouth Echo|archive-url=|archive-date=|dead-url=|access-date=5 December 2018}}&lt;/ref&gt; 
+
+==Career statistics==
+
+=== Club ===
+{{updated|match played on 4 December 2018}}&lt;ref name="SW"&gt;{{cite web|title=Ryan Fraser|url=https://int.soccerway.com/players/ryan-fraser/159839/|publisher=Soccerway}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+! rowspan="2" |Club
+! rowspan="2" |Season
+! colspan="3" |League
+! colspan="2" |FA Cup
+! colspan="2" |League Cup
+! colspan="2" |Other
+! colspan="2" |Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+| rowspan="4" |[[Aberdeen F.C.|Aberdeen]]
+||[[2010–11 Aberdeen F.C. season|2010–11]]
+||[[Scottish Premier League]]
+|2||0||0||0||0||0||0||0||2||0
+|-
+|[[2011–12 Aberdeen F.C. season|2011–12]]
+|Scottish Premier League
+|3||0||0||0||0||0||0||0||3||0
+|-
+|[[2012–13 Aberdeen F.C. season|2012–13]]
+|Scottish Premier League
+|16||0||0||0||2||0||0||0||18||0
+|-
+! colspan="2" |Total
+!21!!0!!0!!0!!2!!0!!0!!0!!23!!0
+|-
+| rowspan="8" |[[AFC Bournemouth]]
+|[[2012–13 A.F.C. Bournemouth season|2012–13]]
+|[[EFL League One|League One]]
+|5||0||0||0||0||0||0||0||5||0
+|-
+|[[2013–14 A.F.C. Bournemouth season|2013–14]]
+|[[EFL Championship|Championship]]
+|37||3||2||1||2||0||0||0||41||4
+|-
+|[[2014–15 A.F.C. Bournemouth season|2014–15]]
+|Championship
+|21||1||2||1||4||0||0||0||27||2
+|-
+|[[2015–16 A.F.C. Bournemouth season|2015–16]]
+|[[English Premier League|Premier League]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2016–17 A.F.C. Bournemouth season|2016–17]]
+|Premier League
+|28||3||0||0||1||0||0||0||29||3
+|-
+|[[2017–18 A.F.C. Bournemouth season|2017–18]]
+|Premier League
+|26||5||2||0||4||1||0||0||32||6
+|-
+|[[2018–19 A.F.C. Bournemouth season|2018–19]]
+|Premier League
+|15||4||0||0||2||1||0||0||17||5
+|-
+! colspan="2" |Total
+!132!!16!!6!!2!!13!!2!!0!!0!!151!!20
+|-
+|[[Ipswich Town F.C.|Ipswich Town]] (loan)
+|[[2015–16 Football League Championship|2015–16]]
+|Championship
+|18||4||1||1||2||1||0||0||21||6
+|-
+! colspan="3" |Career total
+!171!!20!!7!!3!!17!!3!!0!!0!!195!!26
+|}
+
+=== International appearances ===
+{{Updated|match played on 20 November 2018&lt;ref name="SW"/&gt;}}
+
+{| class=wikitable style="text-align: center"
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=2|[[Scotland national football team|Scotland]]
+|2017||2||0
+|-
+|2018||4||1
+|-
+!colspan=2|Total||6||1
+|}
+
+===International goals===
+:''Scores and results list Scotland's goal tally first.''
+{| class="wikitable"
+! Goal || Date || Venue || Opponent || Score || Result || Competition
+|-
+| 1 || 17 November 2018 || [[Loro Boriçi Stadium]], [[Shkodër]], [[Albania]] || {{fb|ALB}} || align=center|'''1'''–0 || align=center|4–0 || [[2018–19 UEFA Nations League C]]
+|}
+
+==Honours==
+'''AFC Bournemouth'''
+*[[EFL Championship|Football League Championship]]: [[2014–15 Football League Championship|2014–15]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Soccerbase}}
+*{{SFA Profile|id=73121}}
+
+{{A.F.C. Bournemouth squad}}
+
+{{DEFAULTSORT:Fraser, Ryan}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Aberdeen]]
+[[Category:Association football wingers]]
+[[Category:Scottish footballers]]
+[[Category:Aberdeen F.C. players]]
+[[Category:A.F.C. Bournemouth players]]
+[[Category:Ipswich Town F.C. players]]
+[[Category:Scottish Premier League players]]
+[[Category:English Football League players]]
+[[Category:Scotland youth international footballers]]
+[[Category:Scotland under-21 international footballers]]
+[[Category:Scotland international footballers]]
+[[Category:Premier League players]]</text>
+      <sha1>6noaotxawjjtowv73mb0kfdo5r1r1fl</sha1>
+    </revision>
+  </page>
+</mediawiki>

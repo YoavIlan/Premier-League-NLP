@@ -1,0 +1,569 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Peter Crouch</title>
+    <ns>0</ns>
+    <id>1001231</id>
+    <revision>
+      <id>885643757</id>
+      <parentid>885643602</parentid>
+      <timestamp>2019-03-01T10:11:56Z</timestamp>
+      <contributor>
+        <username>Materialscientist</username>
+        <id>7852030</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/92.27.245.168|92.27.245.168]] identified as test/vandalism using [[WP:STiki|STiki]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="93628">{{Use British English|date=January 2013}}
+{{Use dmy dates|date=September 2017}}
+{{Infobox football biography
+| name           = Peter Crouch
+| image          = Peter Crouch v Chelsea 2014.jpg
+| image_size     = 200
+| caption        = Crouch playing for [[Stoke City F.C.|Stoke City]] in 2014
+| fullname      = Peter James Crouch&lt;ref name=Hugman1011&gt;{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |location=Edinburgh |isbn=978-1-84596-601-0 |page=101}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1981|1|30|df=y}}&lt;ref name=Hugman1011/&gt;
+| birth_place    = [[Macclesfield]], England
+| height         = {{height|ft=6|in=7}}&lt;ref name=Hugman1011/&gt;
+| position       = [[Forward (association football)#Striker|Striker]]
+| currentclub    = [[Burnley F.C.|Burnley]]
+| clubnumber     = 15
+| youthyears1    = 1991–1993 | youthclubs1 = [[Brentford F.C.|Brentford]]
+| youthyears2    = 1994–1995 | youthclubs2 = [[Queens Park Rangers F.C.|Queens Park Rangers]]
+| youthyears3    = 1995–1998 | youthclubs3 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| years1         = 1998–2000 | clubs1  =  [[Tottenham Hotspur F.C.|Tottenham Hotspur]]    | caps1  = 0   | goals1  = 0
+| years2         = 2000      | clubs2  = → [[Dulwich Hamlet F.C.|Dulwich Hamlet]] (loan)  | caps2  = 6   | goals2  = 1
+| years3         = 2000      | clubs3  = → [[IFK Hässleholm]] (loan)                      | caps3  = 8   | goals3  = 3
+| years4         = 2000–2001 | clubs4  = [[Queens Park Rangers F.C.|Queens Park Rangers]] | caps4  = 42  | goals4  = 10
+| years5         = 2001–2002 | clubs5  = [[Portsmouth F.C.|Portsmouth]]                   | caps5  = 37  | goals5  = 18
+| years6         = 2002–2004 | clubs6  = [[Aston Villa F.C.|Aston Villa]]                 | caps6  = 37  | goals6  = 6
+| years7         = 2003      | clubs7  = → [[Norwich City F.C.|Norwich City]] (loan)      | caps7  = 15  | goals7  = 4
+| years8         = 2004–2005 | clubs8  = [[Southampton F.C.|Southampton]]                 | caps8  = 27  | goals8  = 12
+| years9         = 2005–2008 | clubs9  = [[Liverpool F.C.|Liverpool]]                     | caps9  = 85  | goals9  = 22
+| years10        = 2008–2009 | clubs10 = [[Portsmouth F.C.|Portsmouth]]                   | caps10 = 38  | goals10 = 11
+| years11        = 2009–2011 | clubs11 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]     | caps11 = 73  | goals11 = 12
+| years12        = 2011–2019 | clubs12 = [[Stoke City F.C.|Stoke City]]                   | caps12 = 225 | goals12 = 46
+| years13        = 2019–     | clubs13 = [[Burnley F.C.|Burnley]]                         | caps13 = 2  | goals13 = 0
+| club-update    = 17:47, 2 February 2019 (UTC)
+| nationalyears1 = 2002–2003 | nationalteam1 = [[England national under-21 football team|England U21]] | nationalcaps1 = 6  | nationalgoals1 = 1
+| nationalyears2 = 2006      | nationalteam2 = [[England national football B team|England B]]          | nationalcaps2 = 1  | nationalgoals2 = 0
+| nationalyears3 = 2005–2010 | nationalteam3 = [[England national football team|England]]              | nationalcaps3 = 42 | nationalgoals3 = 22
+}}
+'''Peter James Crouch'''  (born 30 January 1981) is an English professional [[Association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for {{English football updater|Burnley}} club [[Burnley F.C.|Burnley]]. He was capped 42 times by the [[England national football team|England national team]] between 2005 and 2010, scoring 22 goals for his country in that time, and appearing at two World Cups.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/blog/2009/aug/01/peter-crouch-tottenham-expensive-english-striker|title=Are we addicted to Peter Crouch? |first=Barnay |last=Ronay |date=1 August 2009|accessdate=1 August 2009|newspaper=The Guardian |location=London}}&lt;/ref&gt;
+
+Crouch is one of 28 [[List of Premier League players with 100 or more goals|players to have scored 100 or more Premier League goals]], holding the record for the most headed goals in [[Premier League records and statistics|Premier League history]].&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/41553916 |title=Peter Crouch: Stoke striker holds Premier League record for most headers |date=9 October 2017 |publisher=BBC Sport}}&lt;/ref&gt;
+
+Crouch began his career as a trainee with [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. He failed to make an appearance for Spurs and after loan spells at [[Dulwich Hamlet F.C.|Dulwich Hamlet]] and Swedish club [[IFK Hässleholm]] he joined [[Queens Park Rangers F.C.|Queens Park Rangers]]. After QPR were relegated at the end of the 2000–01 season, [[Portsmouth F.C.|Portsmouth]] acquired him on a transfer deal worth £1.5&amp;nbsp;million. He had a strong first season at [[Fratton Park]], and after scoring 19 goals for the club, he joined [[Aston Villa F.C.|Aston Villa]] in March 2002 for £5&amp;nbsp;million. He had a relatively poor spell at Villa, however, and was loaned out to [[Norwich City F.C.|Norwich City]] in 2003 before making a move to [[Southampton F.C.|Southampton]], where he regained his form, which would ultimately prompt his joining [[Liverpool F.C.|Liverpool]] in July 2005. At Liverpool he enjoyed considerable success, winning the [[FA Cup]] and [[FA Community Shield]] in 2006, and also gaining a runners-up medal in the [[2007 UEFA Champions League Final]].
+
+After scoring 42 goals in three seasons at [[Anfield]], [[Portsmouth F.C|Portsmouth]] re-acquired Crouch for £11&amp;nbsp;million, where he forged an effective partnership with fellow England international [[Jermain Defoe]]. He spent just one season in his second spell at Portsmouth and left for Tottenham Hotspur, where he again linked up with Defoe and [[Harry Redknapp]]. He scored a vital goal for Tottenham against [[Manchester City F.C.|Manchester City]] which earned the club a place in the [[UEFA Champions League]]. He scored seven goals in ten European matches for Spurs in 2010–11, but was unable to replicate this form in the Premier League. He joined [[Stoke City F.C.|Stoke City]] in August 2011, for a club record fee of £10&amp;nbsp;million. In his first season with Stoke, he scored 14 goals and won the club's [[Stoke City F.C. Player of the Year|Player of the Year]] award. He scored eight in [[2012–13 Stoke City F.C. season|2012–13]] and then hit ten in both the [[2013–14 Stoke City F.C. season|2013–14]] and [[2014–15 Stoke City F.C. season|2014–15 seasons]]. Crouch spent seven-and-a-half years with Stoke, scoring 62 goals before joining Burnley in January 2019.
+
+==Early life==
+Crouch was born in [[Macclesfield]], Cheshire,&lt;ref name=Hugman1011/&gt; but his family moved to Singapore when he was one year old.&lt;ref&gt;{{cite news|last=Wallace|first=Sam|title=Peter Crouch: The tall guy (and his dad) |url=https://www.independent.co.uk/sport/football/news-and-comment/peter-crouch-the-tall-guy-and-his-dad-396148.html |accessdate=4 August 2015 |newspaper=The Independent |location=London |date=6 October 2007 |quote=Bruce and Jayne were 21 when Peter was born and within two years the young family moved to Singapore for Bruce's work.}}&lt;/ref&gt; His family's move to Singapore came about when his father Bruce, originally from [[Fulham]], took up a job offer to work at a Singaporean advertising agency.&lt;ref name="Walking Tall"/&gt; The Crouch family spent three years living in the Far East, and moved back to England after Bruce rejected the chance to work in Australia.&lt;ref name="Walking Tall"/&gt; They then spent time living at a [[YMCA]] in [[Tottenham]] before settling in [[Harrow on the Hill]]. Crouch attended Roxeth Primary and [[North Ealing Primary School|North Ealing Primary]] and began to play football with Northolt Hotspurs. He was then invited to join the [[Brentford F.C.|Brentford]] Centre of Excellence in 1991 and he also played for the boys club West Middlesex Colts whilst attending [[Drayton Manor High School]].&lt;ref name="Walking Tall"/&gt; Crouch turned down contract offers from [[Chelsea F.C.|Chelsea]] and [[Millwall F.C.|Millwall]] and instead joined [[Queens Park Rangers F.C.|Queens Park Rangers]] in the summer of 1994.&lt;ref name="Walking Tall"/&gt; He did not stay at QPR for long, however, for in November 1994, the coaching staff at [[Loftus Road]] moved to [[Tottenham Hotspur F.C.|Tottenham Hotspur]], including its youth team manager [[Des Bulpin]], who offered Crouch a contract at Spurs.&lt;ref name="Walking Tall"/&gt;
+
+Crouch's family were Chelsea supporters and he became a [[ball boy]] at [[Stamford Bridge (stadium)|Stamford Bridge]] at the age of ten.&lt;ref&gt;{{cite news|url=http://www.sundaymirror.co.uk/news/tm_objectid=17173591&amp;method=full&amp;siteid=62484&amp;headline=my-pete-s-no-freak-name_page.html |archiveurl=https://web.archive.org/web/20071212001904/http://www.sundaymirror.co.uk/news/tm_objectid%3D17173591%26method%3Dfull%26siteid%3D62484%26headline%3Dmy-pete-s-no-freak-name_page.html |archivedate=12 December 2007 |newspaper=Sunday Mirror |location=London |first=Michael |last=Duffy |title=My Pete's No Freak |date=4 June 2006 |accessdate=4 June 2006 |deadurl=yes}}&lt;/ref&gt; As a child, he attended some Chelsea matches.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/europe/6541005.stm|title=Benitez expects test from Chelsea|publisher=BBC |date=12 April 2007 |accessdate=12 April 2007}}&lt;/ref&gt; Later, he told the Liverpool official website that despite this, he and his friends at the time were fans of QPR.&lt;ref&gt;{{cite web |url=http://www.liverpoolfc.tv/news/drilldown/N155602070413-1422.htm|title=Crouch: I Love it at Liverpool |first=Steve |last=Hunter |publisher=Liverpool F.C.|date=13 April 2007 |accessdate=13 April 2007 |archiveurl = https://web.archive.org/web/20070415045541/http://www.liverpoolfc.tv/news/drilldown/N155602070413-1422.htm |archivedate = 15 April 2007}}&lt;/ref&gt;
+
+==Club career==
+===Tottenham Hotspur===
+Crouch signed a professional contract with Tottenham Hotspur on 2 July 1998, after having played for their youth team.&lt;ref name="England website"&gt;{{cite web |url=http://www.englandfootballonline.com/TeamPlyrsBios/PlayersC/BioCrouchP.html |title=Peter Crouch |work=England Football Online |publisher=Glen Isherwood &amp; Peter Young |date=24 May 2017 |accessdate=27 November 2017}}&lt;/ref&gt; However, he did not make any appearances for their first team and was loaned out to other clubs, having brief spells at [[Dulwich Hamlet F.C.|Dulwich Hamlet]] in the [[Isthmian League]] Premier Division and, in the summer of 2000, [[IFK Hässleholm]] in Sweden, where he played in the local fourth-highest division.&lt;ref&gt;{{cite news|url=http://football.guardian.co.uk/worldcup2006/story/0,,1799614,00.html|title=Mellberg says Crouch is biggest threat|newspaper=The Guardian |location=London |first=Michael |last=Walker| date=17 June 2006|accessdate=18 June 2006 }}&lt;/ref&gt; His move to Sweden came about when IFK Hässleholm sold [[Jon Jönsson]] to Tottenham for £70,000 and also agreed two loan deals for the Swedish club, that of Crouch and [[Alton Thelwell]].&lt;ref&gt;{{cite web|title=Peter Crouch: Former Tottenham Hotspur and Stoke City man in Sweden |url=http://lesrosbifs.org/peter-crouch-former-tottenham-hotspur-and-stoke-city-man-in-sweden/ |work=Les Rosbifs |accessdate=7 June 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130610070025/http://lesrosbifs.org/peter-crouch-former-tottenham-hotspur-and-stoke-city-man-in-sweden/ |archivedate=10 June 2013}}&lt;/ref&gt;
+
+===QPR and Portsmouth===
+On 28 July 2000, Tottenham sold Crouch to [[Football League First Division|First Division]] club Queens Park Rangers for £60,000.&lt;ref name="England website"/&gt;&lt;ref&gt;{{cite news|title=Francis grabs Grieves|url=http://news.bbc.co.uk/sport1/hi/football/863684.stm|publisher=BBC Sport|accessdate=10 December 2011|date=2 August 2000}}&lt;/ref&gt; He made an immediate impression with QPR, scoring ten league goals in the [[2000–01 Queens Park Rangers F.C. season|2000–01 season]], but it was not enough to prevent the team's relegation to the [[Football League Second Division|Second Division]].&lt;ref&gt;{{cite news|title=Huddersfield 2–1 QPR|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/1285987.stm|publisher=BBC Sport|accessdate=18 July 2016}}&lt;/ref&gt;
+
+Relegation meant that QPR had to sell many of their best players to support their diminished finances, and [[Portsmouth F.C.|Portsmouth]] bought Crouch for £1.5&amp;nbsp;million.&lt;ref&gt;{{cite news|title=Portsmouth sign £1.5m Crouch|url=http://news.bbc.co.uk/sport1/hi/football/1421884.stm|publisher=BBC Sport|accessdate=10 December 2011|date=4 July 2001}}&lt;/ref&gt; Crouch scored 18 [[2001–02 Football League|league]] goals in 37 starts for Portsmouth during the [[2001–02 Portsmouth F.C. season|2001–02 season]] and was tipped by manager [[Graham Rix]] to have a big future in the game.&lt;ref&gt;{{cite news|title=Crouch tipped for the top|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/1650237.stm|publisher=BBC Sport|accessdate=10 December 2011|date=11 November 2001}}&lt;/ref&gt;
+
+===Aston Villa===
+In March 2002, [[Premier League]] club [[Aston Villa F.C.|Aston Villa]] made a successful £5&amp;nbsp;million bid for Crouch.&lt;ref&gt;{{cite news|title=Crouch seals Villa move|url=http://news.bbc.co.uk/sport1/hi/football/1894063.stm|publisher=BBC Sport|accessdate=10 December 2011|date=27 March 2002}}&lt;/ref&gt; He scored on his home debut for Villa, the equalising goal against [[Newcastle United F.C.|Newcastle United]], and went on to score twice in seven appearances.&lt;ref&gt;{{cite news|title=Newcastle held by Villa|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/1901022.stm|publisher=BBC Sport|accessdate=10 December 2011|date=2 April 2002}}&lt;/ref&gt; Crouch, however, failed to hold down a regular place in the Aston Villa team in the following [[2002–03 Aston Villa F.C. season|2002–03 season]] making 18 appearances without scoring.&lt;ref name=sb0203/&gt; Looking for first team football, he was loaned to [[Norwich City F.C.|Norwich City]] from September to December 2003.&lt;ref&gt;{{cite news|title=Canaries sign Crouch|url=http://news.bbc.co.uk/sport1/hi/football/teams/n/norwich/3080160.stm|publisher=BBC Sport|accessdate=18 July 2016}}&lt;/ref&gt; Crouch played 15 times for the Canaries in [[2003–04 Norwich City F.C. season|2003–04]], scoring four goals helping the team gain promotion.&lt;ref name=sb0304/&gt; Crouch was sent off for retaliation during Norwich's 3–1 win at [[Walsall F.C.|Walsall]], but nonetheless his spell at Norwich renewed interest in his abilities from other clubs.&lt;ref&gt;{{cite news|title=Crouch eyes Canaries stay|url=http://news.bbc.co.uk/sport1/hi/football/teams/n/norwich/3253998.stm|publisher=BBC Sport|accessdate=18 July 2016}}&lt;/ref&gt;
+
+At the end of the three-month loan, he returned to Aston Villa, and scored a brace against [[Leicester City F.C.|Leicester City]], a late winner at [[Middlesbrough F.C.|Middlesbrough]] and the opener at [[Bolton Wanderers F.C.|Bolton Wanderers]].&lt;ref name=sb0304/&gt; Villa sold Crouch in July 2004 to [[Southampton F.C.|Southampton]] for a fee of £2.5&amp;nbsp;million.&lt;ref&gt;{{cite news|title=Crouch joins Saints|url=http://news.bbc.co.uk/sport1/hi/football/teams/s/southampton/3876589.stm|publisher=BBC Sport|accessdate=18 July 2016}}&lt;/ref&gt;
+
+===Southampton===
+Despite initially being back-up to first choice strikers [[James Beattie (footballer)|James Beattie]] and [[Kevin Phillips (footballer)|Kevin Phillips]], Crouch became the main attacking focus of the Southampton team upon the arrival of [[Harry Redknapp]] and the sale of Beattie.&lt;ref&gt;{{cite news|title=Beattie to complete £6.5m Everton switch|url=https://www.telegraph.co.uk/sport/2353206/Beattie-to-complete-6.5m-Everton-switch.html|newspaper=The Daily Telegraph |location=London |accessdate=30 May 2017|date=3 January 2005}}&lt;/ref&gt; He scored many key goals in Southampton's relegation battle, including memorable goals against [[Liverpool F.C.|Liverpool]] in a 2–0 home win, [[Arsenal F.C.|Arsenal]] in a 1–1 home draw and two away to Middlesbrough in a 3–1 victory.&lt;ref&gt;{{cite web|title=Middlesbrough 1–3 Southampton|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/4343227.stm|publisher=BBC Sport|accessdate=30 May 2017|date=20 March 2005}}&lt;/ref&gt; He also scored a late winning penalty to knock former club and [[South Coast derby|Saints' arch-rival]] Portsmouth out of the [[2004–05 FA Cup|FA Cup]].&lt;ref&gt;{{cite web|title=Southampton 2–1 Portsmouth|url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/4197721.stm|publisher=BBC Sport|accessdate=30 May 2017|date=29 January 2005}}&lt;/ref&gt; His form for the Saints eventually resulted in him receiving his first [[England national football team|England]] call-up.&lt;ref&gt;{{cite web|title=World Cup Scouting – Peter Crouch|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/teams/england/4750849.stm|publisher=BBC Sport|accessdate=30 May 2017}}&lt;/ref&gt; After scoring 16 goals in 33 appearances during the [[2004–05 Southampton F.C. season|2004–05 season]], his future was cast into doubt when Southampton were relegated from the Premier League.&lt;ref&gt;{{cite web|title=Southampton 1–2 Man Utd|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/4525113.stm|publisher=BBC Sport|accessdate=30 May 2017|date=15 May 2005}}&lt;/ref&gt; On 19 July 2005, Southampton agreed to sell Crouch for £7&amp;nbsp;million to Liverpool on a four-year contract.&lt;ref&gt;{{cite news|title=Crouch completes Liverpool move|url=http://news.bbc.co.uk/sport1/hi/football/4677639.stm|publisher=BBC Sport|accessdate=7 June 2013|date=20 July 2005}}&lt;/ref&gt;
+
+===Liverpool===
+[[File:Peter Crouch 2006.jpg|thumb|upright|Crouch with [[Liverpool F.C.|Liverpool]] in 2006]]
+
+Crouch underwent intense media scrutiny because of a goal drought during his first months at Liverpool. For 19 matches—the span of four months—he was unable to score. Crouch was praised for other facets of his game, such as his touch on the ball, but his first goal for the club evaded him. The fact that Crouch possessed "good touch for a big man" became something of a media [[cliché]] during this time.&lt;ref&gt;{{cite news|url=http://football.guardian.co.uk/News_Story/0,,1588933,00.html|newspaper=The Guardian |location=London |first=Barry|last=Glendenning|title=The Crouch-a-saurus|date=10 October 2005 |accessdate=4 June 2006 }}&lt;/ref&gt; Early in his Liverpool career, the supporters composed a new chant: "He's big, he's red, his feet stick out the bed, Peter Crouch, Peter Crouch."&lt;ref&gt;{{cite news|title=The long and the short of it|url=http://observer.guardian.co.uk/review/story/0,,2042066,00.html|first=Simon|last=Garfield |newspaper=The Observer |location=London |date=25 March 2007 |accessdate=6 April 2007}}&lt;/ref&gt;
+
+The drought finally ended on 3 December 2005 when he scored against [[Wigan Athletic F.C.|Wigan Athletic]]. Although this first goal was originally given as an [[own goal]], it was later awarded to Crouch on appeal; he went on to score a second goal in the same match.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/4473084.stm|title=Liverpool 3–0 Wigan |date=3 December 2005 |publisher=BBC Sport |accessdate=14 July 2009}}&lt;/ref&gt; Before these goals, Crouch had played over 24 hours of football for Liverpool without scoring. In addition to this, he also had to deal with unpleasant taunts from crowds at matches, as he had throughout his footballing career, who often chanted "[[freak]]" at him due to his unusual height.&lt;ref&gt;{{cite news| url=http://football.guardian.co.uk/worldcup2006/story/0,,1782536,00.html|newspaper=The Guardian |location=London | first=Daniel| last=Taylor| title=Crouch rises above the jibes to feel at home among the elite|date=25 May 2006 |accessdate=4 June 2006 }}&lt;/ref&gt; He went on to score several goals that season, including the only goal in the fifth round of the [[FA Cup]] against [[Manchester United F.C.|Manchester United]], Liverpool's first victory over them in the FA Cup post-Second World War.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/fa_cup/4720494.stm|title=Liverpool 1–0 Man Utd |date=18 February 2006 |publisher=BBC Sport |accessdate=14 July 2009}}&lt;/ref&gt; On 13 May, he helped Liverpool to win the [[2006 FA Cup Final]] against [[West Ham United F.C.|West Ham United]], providing an assist for [[Steven Gerrard]] to score the second Liverpool goal.&lt;ref name=2006FAC&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/4756045.stm |title=Liverpool 3–3 West Ham (aet) |publisher=BBC Sport |date=13 May 2006 |accessdate=22 December 2017}}&lt;/ref&gt;
+
+[[File:Peter Crouch.JPG|thumb|left|upright|Crouch warming up for Liverpool in 2007]]
+
+Three months later, in the curtain-raiser to the [[2006–07 Liverpool F.C. season|2006–07 season]], he headed the winning goal for Liverpool in the club's 2–1 victory over Chelsea in the [[FA Community Shield]].&lt;ref name=2006FACS&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/4780739.stm |title=Chelsea 1–2 Liverpool |publisher=BBC Sport |date=13 August 2006 |accessdate=22 December 2017}}&lt;/ref&gt; In their [[2006–07 UEFA Champions League]] campaign, he scored his first goals in European club competition against [[Maccabi Haifa F.C.|Maccabi Haifa]].&lt;ref&gt;{{cite web|title=Maccabi H 1–1 Liverpool (agg 2–3)|url=http://news.bbc.co.uk/sport1/hi/football/europe/5266050.stm|publisher=BBC Sport|accessdate=30 May 2017|date=22 August 2006}}&lt;/ref&gt; Crouch sustained a [[nasal fracture|broken nose]] when playing against [[Sheffield United F.C.|Sheffield United]] in February 2007.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/6394923.stm|title=Liverpool star Crouch breaks nose|publisher=BBC Sport |date=25 February 2007|accessdate=9 March 2007}}&lt;/ref&gt; Although he played in some subsequent matches, on 9 March 2007, it was announced that he would undergo surgery on the injury that would keep him out of football for a month.&lt;ref&gt;{{cite news|title=Broken nose for Crouch|url=http://www.skysports.com/football/news/11669/2406576/broken-nose-for-crouch|publisher=Sky Sports|accessdate=30 May 2017}}&lt;/ref&gt; On 31 March, he returned to action after the operation and scored the first [[hat-trick]] of his club career, coming against Arsenal in a 4–1 victory.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/6491075.stm|title=Liverpool 4–1 Arsenal|publisher=BBC Sport |date=31 March 2007|accessdate=31 March 2007|first=Phil|last=McNulty}}&lt;/ref&gt; This was also a so-called "[[Hat-trick#Association football|perfect hat-trick]]," consisting of goals scored from his right foot, left foot and head.&lt;ref&gt;{{cite web|url=http://au.setanta.com/portal/article/motorsports?open&amp;articleid=4295990dcaecea6b802572ae005ec839 |title=Crouch hat-trick sees off poor Arsenal|publisher=Setanta Sports|date=31 March 2007 |accessdate=31 March 2007 |archiveurl = https://web.archive.org/web/20070930155156/http://au.setanta.com/portal/article/motorsports?open&amp;articleid=4295990dcaecea6b802572ae005ec839 |archivedate = 30 September 2007}}&lt;/ref&gt; He later participated in the [[2007 UEFA Champions League Final]], coming on as a substitute for [[Javier Mascherano]] as Liverpool were defeated by [[A.C. Milan|Milan]] in Athens.&lt;ref name=2007UCL&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/europe/6669039.stm |title=AC Milan 2–1 Liverpool |first=Phil |last=McNulty |publisher=BBC Sport |date=23 May 2007 |accessdate=22 December 2017}}&lt;/ref&gt; He ended the 2006–07 season as Liverpool's top goalscorer in all competitions, with eighteen goals.&lt;ref&gt;{{cite web|url=http://www.lfchistory.net/SeasonArchive/Goalscorers/116|title= Liverpool Top Goalscorers 2006–2007 Season|publisher=LFCHistory.net|accessdate=30 September 2014}}&lt;/ref&gt;
+
+At the start of the [[2007–08 Liverpool F.C. season|2007–08 season]], he had restricted opportunities to play for Liverpool due to the arrival of other strikers, including [[Fernando Torres]], but nonetheless scored against [[Toulouse FC|Toulouse]] in a [[2007–08 UEFA Champions League|Champions League]] qualifying win in August, his eighth goal in his past ten appearances in that competition,&lt;ref&gt;{{cite news |url=http://football.guardian.co.uk/Match_Report/0,,2158021,00.html|title=Frustrated Crouch helps Liverpool cruise through|first=Andy|last=Hunter|newspaper=The Guardian |location=London |date=29 August 2007|accessdate=1 September 2007 }}&lt;/ref&gt; and then also scoring the first and last goals of an 8–0 win over [[Beşiktaş J.K.|Beşiktaş]] in the first round of the Champions League in November.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/europe/7076592.stm|title= Liverpool 8–0 Besiktas |date=6 November 2007 |publisher=BBC Sport |accessdate=15 July 2009|first=Mandeep|last=Sanghera}}&lt;/ref&gt; On 19 December, Crouch was sent off in the quarter-finals of the League Cup, receiving a straight red card for a foul on Chelsea's [[John Obi Mikel]] as Liverpool exited the tournament.&lt;ref&gt;{{cite news|last=Sanghera|first=Mandeep|title=Chelsea 2–0 Liverpool|url=http://news.bbc.co.uk/sport1/hi/football/league_cup/7145789.stm|accessdate=30 October 2014|publisher=BBC Sport|date=19 December 2007}}&lt;/ref&gt; In April, he scored a vital goal in a 1–1 draw against Arsenal, helping Liverpool secure fourth spot ahead of [[Merseyside derby|local rivals]] [[Everton F.C.|Everton]].&lt;ref&gt;{{cite web|title=Arsenal 1–1 Liverpool|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/7320164.stm|publisher=BBC Sport|accessdate=30 May 2017|date=5 April 2008}}&lt;/ref&gt;
+
+===Return to Portsmouth===
+[[File:Portsmouth kickoff vs AC Milan.jpg|thumb|upright|Crouch playing for [[Portsmouth F.C.|Portsmouth]] in 2008]]
+
+On 7 July 2008, it was announced that Crouch had verbally agreed to join former club and FA Cup holders Portsmouth in a deal worth up to £11&amp;nbsp;million. Crouch passed his medical the following day,&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/7471969.stm |title=Crouch passes Portsmouth medical |publisher=BBC Sport |date=8 July 2008 |accessdate=9 July 2008}}&lt;/ref&gt; and, on 11 July, Crouch's transfer was officially unveiled at a Portsmouth news conference.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/7471969.stm |title=Portsmouth set to unveil Crouch |publisher=BBC Sport |date=8 July 2008  |accessdate=8 July 2008}}&lt;/ref&gt; Crouch scored his first goal on his return to Portsmouth in a 3–0 win against Everton at [[Goodison Park]] on 30 August 2008.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/7578439.stm|title=Everton 0–3 Portsmouth |date=30 August 2008 |publisher=BBC Sport |accessdate=14 July 2009|first=Phil|last=McNulty}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Crouch credited with Goodison goal|url=http://www.portsmouth.co.uk/sport/football/pompey/crouch-credited-with-goodison-goal-1-1301238|newspaper=The News |location=Portsmouth |accessdate=30 May 2017}}&lt;/ref&gt; Crouch then went on to net his first goal at Portsmouth's [[Fratton Park]] home ground in the Premier League against Tottenham Hotspur on 28 September.&lt;ref&gt;{{cite web|url=http://www.portsmouthfc.co.uk/?cms_id=78&amp;qs_articleid=1501&amp;qs_media=html |archive-url=https://web.archive.org/web/20081006062226/http://www.portsmouthfc.co.uk/?cms_id=78&amp;qs_articleid=1501&amp;qs_media=html |dead-url=yes |archivedate=6 October 2008 |title=Crouch credited with third at Everton |publisher=Portsmouth F.C. |date=3 September 2008 | accessdate=4 September 2008}}&lt;/ref&gt; On 2 October 2008, Crouch scored twice in extra time in a [[UEFA Cup]] match away to Portuguese team [[Vitória S.C.|Vitória de Guimarães]] to help Portsmouth reach the group stages of [[2008–09 UEFA Cup|the competition]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/europe/7639445.stm|title=Guimaraes 2–2 Portsmouth (2–4)  |publisher=BBC  |date=2 October 2008 | accessdate=3 October 2008 |first=Sam |last=Lyon}}&lt;/ref&gt; He went on to score twice against [[SC Heerenveen|Heerenveen]] in a 3–0 victory at Fratton Park, however Portsmouth failed to make it out of the group stages.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/europe/7775400.stm|title=Portsmouth 3–0 Heerenveen |date=18 December 2008 |publisher=BBC Sport |accessdate=15 July 2009}}&lt;/ref&gt; Crouch played 46 times for Pompey in [[2008–09 Portsmouth F.C. season|2008–09]], scoring 16 goals as the side finished in 14th position.&lt;ref name=sb0809/&gt;
+
+===Return to Tottenham Hotspur===
+[[File:Peter Crouch Andrew Johnson.jpg|thumb|upright|Crouch playing for [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in 2011]]
+
+On 27 July 2009, Tottenham Hotspur signed Crouch from Portsmouth for a fee of £10&amp;nbsp;million, on a five-year contract.&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport1/hi/football/8169170.stm | title=Tottenham complete Crouch signing |publisher=BBC Sport  | date=27 July 2009| accessdate=27 July 2009 }}&lt;/ref&gt; Crouch made his debut for Spurs in a pre-season friendly against [[Olympiacos F.C.|Olympiacos]],&lt;ref&gt;{{cite news|last=Ley |first=John |url=https://www.telegraph.co.uk/sport/football/teams/tottenham-hotspur/6003264/Peter-Crouch-upbeat-after-Tottenham-debut.html |title=Peter Crouch upbeat after Tottenham debut |newspaper=The Daily Telegraph |location=London |date=10 August 2009 |accessdate=30 September 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140108201035/http://www.telegraph.co.uk/sport/football/teams/tottenham-hotspur/6003264/Peter-Crouch-upbeat-after-Tottenham-debut.html |archivedate=8 January 2014 }}&lt;/ref&gt; and came on as a substitute in Tottenham's season opening win over Liverpool, making his full Premier League debut for the club in the process.&lt;ref&gt;{{cite news |first=Phil |last=McNulty |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8198253.stm |title=Tottenham 2–1 Liverpool |publisher=BBC Sport |date=16 August 2009 |accessdate=7 December 2017}}&lt;/ref&gt; He scored his first goal for Tottenham in the [[EFL Cup|League Cup]] tie against [[Doncaster Rovers F.C.|Doncaster Rovers]] in a 5–1 win on 26 August 2009.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/league_cup/8214938.stm|title=Doncaster 1–5 Tottenham|publisher=BBC Sport |date=26 August 2009 |accessdate=27 August 2009}}&lt;/ref&gt; He scored again in his next match, opening his league account with Spurs with a goal in a 2–1 home win against [[Birmingham City F.C.|Birmingham City]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8224017.stm |title=Tottenham 2–1 Birmingham |date=29 August 2009 |accessdate=5 September 2009 |first=Sam |last=Lyon |publisher=BBC Sport}}&lt;/ref&gt; On 23 September, Crouch scored his first hat-trick for Spurs in a 5–1 win over [[Preston North End F.C.|Preston North End]] in the [[2009–10 Football League Cup|League Cup]].&lt;ref&gt;{{cite news|last=Fletcher |first=Paul |url=http://news.bbc.co.uk/sport1/hi/football/league_cup/8257298.stm |title=Preston 1–5 Tottenham |publisher=BBC Sport |date=23 September 2009 |accessdate=13 June 2010}}&lt;/ref&gt;&lt;ref name=sb0910/&gt; In May, his late goal against [[Manchester City F.C.|Manchester City]] in what was being dubbed as the "£15&amp;nbsp;million pound game" put Spurs in a position to claim their first-ever Champions League berth. After having hit the post and missed a [[Benoît Assou-Ekotto]] cross, Crouch scored a header after goalkeeper [[Márton Fülöp]] could only parry the ball into his path.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8659403.stm|title=Tottenham reach Champions League (Man City 0–1 Tottenham)|last=McNulty  |first=Phil|date=5 May 2010|publisher=BBC Sport  |accessdate=6 May 2010}}&lt;/ref&gt;
+
+On 25 August 2010, Crouch scored a hat-trick at [[White Hart Lane]] against [[BSC Young Boys|Young Boys]] to help Tottenham to reach the [[2010–11 UEFA Champions League group stage|group stage]] of the [[2010–11 UEFA Champions League|2010–11 Champions League]].&lt;ref&gt;{{cite news|title= Tottenham 4–0 Young Boys (agg 6–3)|url=http://news.bbc.co.uk/sport1/hi/football/europe/8939577.stm|first=Mandeep|last= Sanghera|publisher=BBC Sport |accessdate=25 August 2010|date=25 August 2010}}&lt;/ref&gt; On 15 February 2011, Crouch scored what turned out to be the winning goal in the Champions League second round, first leg match against Milan at the [[San Siro]], sweeping home [[Aaron Lennon]]'s cut-back after a counter-attack.&lt;ref&gt;{{cite news|title=AC Milan 0–1 Tottenham |url=http://news.bbc.co.uk/sport1/hi/football/europe/9396732.stm|date=15 February 2011 |accessdate=6 April 2011|first=Mandeep|last= Sanghera|publisher=BBC Sport }}&lt;/ref&gt; Three weeks later, Spurs progressed to the quarter-finals after the reverse fixture at White Hart Lane ended 0–0.&lt;ref&gt;{{cite news|title=Tottenham 0–0 AC Milan (agg 1–0) |url=http://news.bbc.co.uk/sport1/hi/football/9417468.stm|date=9 March 2011 |accessdate=6 April 2011|first=Phil|last= McNulty |publisher=BBC Sport }}&lt;/ref&gt; On 5 April, he was sent off in the 14th minute after receiving two yellow cards in the quarter-finals against [[Real Madrid C.F.|Real Madrid]].&lt;ref&gt;{{cite news|title=Real Madrid 4–0 Tottenham |url=http://news.bbc.co.uk/sport1/hi/football/europe/9445378.stm|date=5 April 2011|accessdate=5 April 2011|first=Marc |last=Vesty |publisher=BBC Sport }}&lt;/ref&gt; He scored an own goal against Manchester City, which consequently confirmed City into the Champions League for the [[2011–12 UEFA Champions League|2011–12 season]] with Tottenham missing out.&lt;ref&gt;{{cite web|title=Man City 1–0 Tottenham|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9480251.stm|publisher=BBC Sport|accessdate=7 June 2013|date=10 May 2011}}&lt;/ref&gt;
+
+===Stoke City===
+[[File:Crouch2.jpg|thumb|upright|Crouch warming up for [[Stoke City F.C.|Stoke City]] in 2012]]
+
+On 31 August 2011, [[Stoke City F.C.|Stoke City]] signed Crouch from Tottenham for a club record fee of £10&amp;nbsp;million, that would rise to £12&amp;nbsp;million, on a four-year contract.&lt;ref&gt;{{cite web|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2438170,00.html |title=Crouch Seals Club Record Transfer |publisher=Stoke City F.C. |date=31 August 2011 |accessdate=31 August 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20111027182236/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2438170%2C00.html |archivedate=27 October 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/14729457.stm|title=Stoke City sign Tottenham Hotspur's Peter Crouch in £12m deal|publisher=BBC Sport |date=31 August 2011|accessdate=31 August 2011}}&lt;/ref&gt; Speaking after sealing his move to the [[bet365 Stadium|Britannia Stadium]], Crouch revealed that his former Tottenham teammate [[Jonathan Woodgate]] was a major influence upon his decision to join Stoke.&lt;ref&gt;{{cite news|title=Woodgate backs Crouch for England duty|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Woodgate-backs-Crouch-England-duty/story-13259445-detail/story.html|newspaper=The Sentinel|location=Stoke-on-Trent|accessdate=5 June 2013|archiveurl=https://web.archive.org/web/20140222231508/http://www.stokesentinel.co.uk/Stoke-City-Woodgate-backs-Crouch-England-duty/story-13259445-detail/story.html|archivedate=22 February 2014}}&lt;/ref&gt; Crouch made his debut for Stoke City in a 1–0 win against former club Liverpool on 10 September 2011.&lt;ref&gt;{{cite web |url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2446655,00.html |title=Crouch Handed Potters Debut |publisher=Stoke City F.C. |date=11 September 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20111020110750/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2446655%2C00.html |archivedate=20 October 2011}}&lt;/ref&gt; He scored his first goal for the Potters in a 1–1 draw against Manchester United, making Stoke the sixth Premier League club he has scored for.&lt;ref&gt;{{cite news |last=Da Silva |first=Michael |url=http://news.bbc.co.uk/sport1/hi/football/14958150.stm|title=Stoke 1–1 Man Utd |publisher=BBC Sport |date=24 September 2011 |accessdate=22 March 2013}}&lt;/ref&gt; He scored his second goal in the following match against Beşiktaş in the [[2011–12 UEFA Europa League]] campaign.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/15014644.stm |title=Stoke 2–1 Besiktas |last=Rostance |first=Tom |publisher=BBC Sport |date=1 October 2011 |accessdate=22 March 2013}}&lt;/ref&gt; Crouch went on to score against Arsenal, [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]], [[Blackburn Rovers F.C.|Blackburn Rovers]] and [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] before missing out on the Christmas period matches after suffering from a virus.&lt;ref&gt;{{cite news |title=Crouch struck down by virus |url=http://www.thisisstaffordshire.co.uk/Stoke-City-Crouch-struck-virus/story-14251398-detail/story.html |archive-url=https://archive.is/20130505103854/http://www.thisisstaffordshire.co.uk/Stoke-City-Crouch-struck-virus/story-14251398-detail/story.html |dead-url=yes |archive-date=5 May 2013 |newspaper=The Sentinel |location=Stoke-on-Trent |date=27 September 2011 |accessdate=22 March 2013}}&lt;/ref&gt;
+
+On 2 January 2012, against Blackburn, Crouch scored both goals in a 2–1 victory.&lt;ref&gt;{{cite news |title=Blackburn 1–2 Stoke |last=Sheringham |first=Sam |url=http://news.bbc.co.uk/sport1/hi/football/16331068.stm|publisher=BBC Sport|accessdate=3 January 2012|date=2 January 2012}}&lt;/ref&gt; It was a landmark achievement for Crouch as he surpassed 100 league goals.&lt;ref&gt;{{cite news |title=Peter Crouch 'proud' to reach 100 league goals |url=http://news.bbc.co.uk/sport1/hi/football/16386723.stm? |publisher=BBC Sport |accessdate=3 January 2012 |date=2 January 2012}}&lt;/ref&gt; On 24 March 2012, Crouch scored a stunning volley against Manchester City in a 1–1 draw at the Britannia Stadium.&lt;ref&gt;{{cite news |title=Stoke 1–1 Manchester City |last=Lillywhite |first=Jamie |url=https://www.bbc.co.uk/sport/football/17412553 |publisher=BBC Sport |date=24 March 2012 |accessdate=12 September 2016}}&lt;/ref&gt; After the match, Crouch stated that it was the best goal of his career.&lt;ref&gt;{{cite news |title=Stoke striker Peter Crouch joy at 'best' career goal |url=https://www.bbc.co.uk/sport/football/17505110? |publisher=BBC Sport |date = 25 March 2012 |accessdate=12 September 2016}}&lt;/ref&gt; He scored the winning goal for Stoke against their Midlands rivals Wolves on 7 April to take his goal tally to 13 and was backed by manager [[Tony Pulis]] to earn a recall to the England squad for [[UEFA Euro 2012]].&lt;ref&gt;{{cite web|title=Pulis Backs Crouch's Euro Bid |url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2727551,00.html|archiveurl=https://web.archive.org/web/20120409202428/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2727551%2C00.html |archivedate= 9 April 2012 |publisher=Stoke City F.C. |accessdate=8 April 2012 |deadurl=yes}}&lt;/ref&gt; At the end of season awards dinner, Crouch won the club's [[Stoke City F.C. Player of the Year|Player of the Year]] and Goal of the Season awards.&lt;ref name=stokeawards&gt;{{cite news |title=Stoke City: Peter Crouch scoops player-of-the-year award |url=http://www.stokesentinel.co.uk/Stoke-City-Peter-Crouch-scoops-player-year-award/story-16032040-detail/story.html |newspaper=The Sentinel |location=Stoke-on-Trent |date=9 May 2012 |archiveurl=https://web.archive.org/web/20150702082924/http://www.stokesentinel.co.uk/Stoke-City-Peter-Crouch-scoops-player-year-award/story-16032040-detail/story.html |archivedate=2 July 2015 |deadurl=yes}}&lt;/ref&gt;
+
+Crouch began the [[2012–13 Stoke City F.C. season|2012–13 season]] well, scoring five goals in seven matches, against [[Swindon Town F.C.|Swindon Town]], Wigan Athletic, Manchester City and a brace against [[Swansea City A.F.C.|Swansea City]].&lt;ref&gt;{{cite news|title=Stoke 2–0 Swansea |last = Roberts |first = Simon |url=https://www.bbc.co.uk/sport/football/19684209|publisher=BBC Sport| date = 29 September 2012 |accessdate= 12 September 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Crouch not thinking of England |url=http://www.football.co.uk/stoke_city/crouch_not_thinking_of_england_rss3563018.shtml|publisher=football.co.uk|date=1 October 2012| accessdate= 30 September 2014}}&lt;/ref&gt; He lost several teeth after being accidentally kicked in the mouth by [[Fabricio Coloccini]] in a match against Newcastle United on 28 November 2012 and as a result had to undergo corrective surgery.&lt;ref&gt;{{cite news |title=Stoke City: Peter Crouch still struggling after mouth injury, Tony Pulis reveals |url=http://www.thisisstaffordshire.co.uk/Stoke-City-Peter-Crouch-struggling-mouth-injury/story-17903228-detail/story.html |accessdate=22 March 2013 |newspaper=The Sentinel |location=Stoke-on-Trent |date=19 January 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130226045019/http://www.thisisstaffordshire.co.uk/Stoke-City-Peter-Crouch-struggling-mouth-injury/story-17903228-detail/story.html |archivedate=26 February 2013 |df=dmy-all }}&lt;/ref&gt; He then went three months without a goal before scoring against Wigan on 29 January 2013.&lt;ref&gt;{{cite news|last=Rose|first=Gary|title=Stoke 2–2 Wigan |url=https://www.bbc.co.uk/sport/football/21137488|publisher=BBC Sport|date=29 January 2013|accessdate=12 September 2016}}&lt;/ref&gt; Crouch again went through a three-month barren spell in front of goal before scoring against former club Queens Park Rangers on 20 April 2013 in a 2–0 victory.&lt;ref&gt;{{cite news |first=Sam |last=Sheringham |title=QPR 0–2 Stoke|url=https://www.bbc.co.uk/sport/football/22133477|publisher=BBC Sport |date=20 April 2013 |accessdate=12 September 2016}}&lt;/ref&gt; He scored on the final day of the season against Southampton as he ended the 2012–13 season with eight goals, with Stoke finishing 13th in the league.&lt;ref name=sb1213/&gt;
+
+[[Mark Hughes]] replaced Tony Pulis as manager in May 2013 and despite starting the first two matches of the [[2013–14 Stoke City F.C. season|2013–14 season]], Hughes dropped Crouch to the bench.&lt;ref&gt;{{cite news|title=Peter Crouch ready to make Potters impact|url=http://www.stokesentinel.co.uk/Stoke-City-Peter-Crouch-ready-make-Potters-impact/story-19985694-detail/story.html|newspaper=The Sentinel|location=Stoke-on-Trent|accessdate=25 October 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131029193426/http://www.stokesentinel.co.uk/Stoke-City-Peter-Crouch-ready-make-Potters-impact/story-19985694-detail/story.html|archivedate=29 October 2013|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web |first=Ian |last=Edwards |title=Hughes plays down Crouch speculation |url=http://www.espn.co.uk/football/english-premier-league/story/1594400/stoke-boss-mark-hughes-plays-down-peter-crouch-speculation |publisher=ESPN |date=25 October 2013 |accessdate=7 December 2017}}&lt;/ref&gt; He returned to the starting line up on 26 October 2013 and scored in a 3–2 defeat against Manchester United.&lt;ref&gt;{{cite news |first=Chris |last=Bevan |title=Manchester United 3–2 Stoke City |url=https://www.bbc.co.uk/sport/football/24591160 |publisher=BBC Sport |date=26 October 2013 |accessdate=12 September 2016}}&lt;/ref&gt; Crouch retained his place in the team for the remainder of the 2013–14 season, where he finished as top scorer with ten goals in 38 appearances as Stoke finished in ninth place.&lt;ref name=sb1314/&gt;
+
+Crouch scored his first goals of [[2014–15 Stoke City F.C. season|2014–15]] in September 2014 against QPR and Newcastle.&lt;ref&gt;{{cite news |first=Aimee |last=Lewis |title=Queens Park Rangers 2–2 Stoke City |url=https://www.bbc.co.uk/sport/football/29187276 |publisher=BBC Sport |date=20 September 2014 |accessdate=12 September 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |first=Graham |last=Chase |title=Stoke City 1–0 Newcastle United |url=https://www.bbc.co.uk/sport/football/29305924 |publisher=BBC Sport |date=29 September 2014 |accessdate=12 September 2016}}&lt;/ref&gt; In October 2014, Crouch stated that he would like to remain at the Britannia Stadium with Stoke for the remainder of his career.&lt;ref&gt;{{cite news |title=Peter Crouch: Stoke City's record signing ready to commit future |url=https://www.bbc.co.uk/sport/football/29627695 |publisher=BBC Sport |accessdate=12 September 2016}}&lt;/ref&gt; On 29 October 2014, Crouch came on as a substitute in Stoke's League Cup defeat to Southampton; 15 minutes later, he was sent off for two yellow cards in the space of two minutes.&lt;ref&gt;{{cite news |title=Stoke City 2–3 Southampton |url=https://www.bbc.co.uk/sport/football/29718448 |publisher=BBC Sport |date=29 October 2014 |accessdate=12 September 2016}}&lt;/ref&gt; On 6 December, he scored after 19 seconds against Arsenal in an eventual 3–2 victory.&lt;ref&gt;{{cite news |last=Chowdhury |first=Saj |title=Stoke City 3–2 Arsenal |url=https://www.bbc.co.uk/sport/football/30257121 |publisher=BBC Sport |date=6 December 2014 |accessdate=12 September 2016}}&lt;/ref&gt; A week later, in his 600th match in English football, Crouch scored the equaliser in a 1–1 draw at [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{cite news|last=McLeman|first=Neil|title=Crystal Palace 1–1 Stoke City match report: Peter Crouch frustrates Eagles to earn Potters a point|url=https://www.mirror.co.uk/sport/football/match-reports/crystal-palace-stoke-match-report-4804703|accessdate=14 December 2014|newspaper=Daily Mirror|location=London|date=13 December 2014}}&lt;/ref&gt; Crouch signed a two-year contract extension in January 2015.&lt;ref&gt;{{cite web|title=Exclusive: Key duo extend their stay|url=http://www.stokecityfc.com/news/article/exclusive-key-duo-extend-their-stay-2234299.aspx|publisher=Stoke City F.C.|accessdate=29 January 2015}}&lt;/ref&gt;
+
+On 28 February 2015, Crouch scored the winning goal in Stoke's 1–0 win over [[Hull City A.F.C.|Hull City]], equaling [[Alan Shearer]]'s record of 46 headed goals in the Premier League.&lt;ref&gt;{{cite news |first=Simon |last=Stone |title=Stoke City 1–0 Hull City |url=https://www.bbc.co.uk/sport/football/31562895 |publisher=BBC Sport |date=28 February 2015 |accessdate=12 September 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Stoke City 1, Hull City 0 match report: Peter Crouch equals Shearer record to grab all three points|newspaper=The Sentinel|location=Stoke-on-Trent |accessdate=28 February 2015}}&lt;/ref&gt; He surpassed this on 24 May with a header five minutes after coming on as a substitute to conclude a 6–1 home win over Liverpool in Stoke's final match of the season.&lt;ref&gt;{{cite news|last=Johnston|first=Neil|title=Stoke 6–1 Liverpool|url=https://www.bbc.co.uk/sport/0/football/32770765|accessdate=24 May 2015|publisher=BBC Sport|date=24 May 2015}}&lt;/ref&gt; In total, Crouch matched the previous season's goal tally of ten goals in 38 appearances as Stoke finished in ninth position for the second consecutive season.&lt;ref name=sb1415/&gt; Following the end of the season, Crouch underwent groin surgery.&lt;ref&gt;{{cite news|title=Peter Crouch goes under the knife to resolve groin problem|url=http://www.stokesentinel.co.uk/Stoke-City-Peter-Crouch-goes-knife-resolve-groin/story-26582530-detail/story.html?|newspaper=The Sentinel|location=Stoke-on-Trent|accessdate=27 May 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150528015914/http://www.stokesentinel.co.uk/Stoke-City-Peter-Crouch-goes-knife-resolve-groin/story-26582530-detail/story.html|archivedate=28 May 2015|df=dmy-all}}&lt;/ref&gt; Crouch struggled for game time in [[2015–16 Stoke City F.C. season|2015–16]] making 18 appearances of which nine were as a substitute.&lt;ref&gt;{{cite news|title=Peter Crouch still has big role to play insists Mark Hughes|url=http://www.stokesentinel.co.uk/Stoke-City-Peter-Crouch-big-role-play-insists/story-29206050-detail/story.html|newspaper=The Sentinel|location=Stoke-on-Trent|accessdate=24 May 2016}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; He scored just twice, which came against lower league [[Fulham F.C.|Fulham]] and Doncaster Rovers in cup competitions.&lt;ref name=sb1516/&gt;
+
+Crouch scored a hat-trick away to [[Stevenage F.C.|Stevenage]] in the [[2016–17 EFL Cup|EFL Cup]], on 23 August 2016 in a 4–0 win.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/37091171|title=Stevenage 0 Stoke 4|date=23 August 2016|publisher=BBC Sport|accessdate=24 August 2016}}&lt;/ref&gt; On 9 January 2017, Crouch signed a new contract with Stoke in a deal lasting until the summer of 2018.&lt;ref&gt;{{cite news |url=http://www.stokecityfc.com/news/article/2016-17/peter-crouch-new-contract-2018-3510509.aspx|title=Exclusive: Crouch Signs New Deal|date=9 January 2017|publisher=Stoke City F.C.|accessdate=9 January 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/38560353|title=Peter Crouch: Stoke City striker signs new deal with Potters|date=9 January 2017|publisher=BBC Sport|accessdate=9 January 2017}}&lt;/ref&gt; Crouch scored four goals in five games at the turn of the year including his [[List of Premier League players with 100 or more goals|100th Premier League goal]], the oldest player to hit the landmark.&lt;ref&gt;{{cite web|title=Stoke 1–1 Everton|url=https://www.bbc.co.uk/sport/football/38740422|publisher=BBC Sport|accessdate=31 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/38560353|title=Peter Crouch just became the oldest player in Premier League history to reach 100 goals|date=1 February 2017|publisher=Fox Sports|accessdate=1 February 2017}}&lt;/ref&gt; Crouch made 29 appearances in [[2016–17 Stoke City F.C. season|2016–17]], scoring ten goals, as Stoke finished in 13th position.&lt;ref name=sb1617/&gt; After the season ended Crouch stated that he wants to continue playing until he is 40.&lt;ref&gt;{{cite news|title=The secret of my longevity by Stoke City evergreen Peter Crouch|url=http://www.stokesentinel.co.uk/the-secret-of-my-longevity-by-stoke-city-evergreen-peter-crouch/story-30359613-detail/story.html|archive-url=https://web.archive.org/web/20170530105009/http://www.stokesentinel.co.uk/the-secret-of-my-longevity-by-stoke-city-evergreen-peter-crouch/story-30359613-detail/story.html|dead-url=yes|archive-date=30 May 2017|newspaper=The Sentinel|location=Stoke-on-Trent|accessdate=31 May 2017}}&lt;/ref&gt;
+
+Crouch set a record for the most number of appearances as substitute in the Premier League, on 20 November 2017 when he came off the bench for the 143rd time against [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]], breaking the record held by [[Shola Ameobi]].&lt;ref&gt;{{cite news |first=Tom |last=White |url=https://www.standard.co.uk/sport/football/peter-crouch-sets-premier-league-record-for-substitute-appearances-a3696781.html |title=Peter Crouch sets Premier League record for substitute appearances |newspaper=London Evening Standard |date=20 November 2017 |accessdate=7 December 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Stoke's Peter Crouch breaks Premier League record for substitute appearances |url=http://www.espn.co.uk/football/stoke-city/story/3277835/stokes-peter-crouch-breaks-premier-league-record-for-substitute-appearances |publisher=ESPN |date=20 November 2017 |accessdate=7 December 2017}}&lt;/ref&gt; Crouch signed another one-year contract extension with the Potters in November 2017.&lt;ref&gt;{{cite news |title=Peter Crouch: Stoke striker extends stay with new deal |url=https://www.bbc.co.uk/sport/football/42151947 |publisher=BBC Sport |date=28 November 2017 |accessdate=7 December 2017}}&lt;/ref&gt; Crouch played 34 times in [[2017–18 Stoke City F.C. season|2017–18]], scoring six goals as Stoke were relegated to the [[EFL Championship|Championship]].&lt;ref name=sb1718/&gt;
+
+===Burnley===
+Crouch signed for Premier League club [[Burnley F.C.|Burnley]] on 31 January 2019 on a contract until the end of the [[2018–19 Burnley F.C. season|2018–19 season]] in a player-exchange deal with [[Sam Vokes]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/47070349 |title=Peter Crouch: Stoke City striker signs for Burnley with Sam Vokes moving to Potters |publisher=BBC Sport |date=31 January 2019 |accessdate=31 January 2019}}&lt;/ref&gt; Crouch made his debut for [[Burnley F.C.|Burnley]] on 2 February coming on as a 76th minute substitute in a 1–1 draw against [[Southampton F.C.|Southampton]].&lt;ref&gt;{{Cite web|first = Matthew |last= Howarth |url=https://www.bbc.co.uk/sport/football/47011452|publisher = BBC Sport |title=Burnley 1–1 Southampton: Ashley Barnes penalty rescues point for hosts|date=2 February 2019|access-date=4 February 2019}}&lt;/ref&gt;
+
+==International career==
+===Youth international===
+Crouch was capped for the [[England national under-20 football team|England under-20 team]] at the [[1999 FIFA World Youth Championship]], with teammates including [[Stuart Taylor (footballer, born 1980)|Stuart Taylor]], [[Ashley Cole]], [[Andrew Johnson (English footballer)|Andrew Johnson]] and [[Matthew Etherington]]. However, the team finished bottom at the group stage, with three losses and having scored no goals.&lt;ref&gt;{{cite web|title=FIFA World Youth Championship Nigeria 1999|url=https://www.fifa.com/u20worldcup/archive/nigeria1999/teams/team=1888255/index.html|publisher=FIFA|accessdate=30 May 2017}}&lt;/ref&gt; He was later a part of [[David Platt (footballer)|David Platt]]'s [[England national under-21 football team|England under-21 team]], which went to the finals of the [[2002 UEFA European Under-21 Championship|European Under-21 Championship]] in Switzerland in May 2002, where he scored once against [[Switzerland national under-21 football team|Switzerland]].&lt;ref&gt;{{cite news|title=England see off Swiss|url=http://news.bbc.co.uk/sport1/hi/football/1991611.stm|publisher=BBC Sport|accessdate=10 December 2011|date=17 May 2002}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Crouch's giant stride|url=http://news.bbc.co.uk/sport1/hi/football/1995674.stm|publisher=BBC Sport|accessdate=10 December 2011|date=18 May 2002}}&lt;/ref&gt;
+
+===Breakthrough into senior team===
+In May 2005 he was handed his first call-up to the England senior squad by manager [[Sven-Göran Eriksson]] for the team's tour of the United States, making his debut against [[Colombia national football team|Colombia]].&lt;ref&gt;{{cite news |url=http://football.guardian.co.uk/News_Story/0,1563,1532543,00.html|title=Crouch 'thrilled' at Anfield move|newspaper=The Guardian |location=London |date=20 July 2005|accessdate=26 January 2007 }}&lt;/ref&gt; He went on to make two appearances during the [[Football World Cup 2006 (qualification UEFA)|2006 FIFA World Cup qualifying campaign]] for England: starting against [[Austria national football team|Austria]] in a 1–0 victory and coming on as a substitute against [[Poland national football team|Poland]] in a 2–1 win. In the latter appearance, Crouch's introduction as a second-half substitute was booed by England's own supporters.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/internationals/4337334.stm|title=Cole condemns fans' Crouch abuse|publisher=BBC Sport |date=13 October 2005|accessdate=26 January 2007}}&lt;/ref&gt; On 1 March 2006, he scored his first goal for England, with the equaliser in a 2–1 friendly win over [[Uruguay national football team|Uruguay]].&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England players hail hero Crouch |url=http://news.bbc.co.uk/sport1/hi/football/internationals/4765070.stm |publisher=BBC Sport |date=2 March 2006 |accessdate=26 January 2007}}&lt;/ref&gt; He did this whilst bizarrely wearing two different [[squad number]]s on his shirt – No.&amp;nbsp;21 on the front (his designated squad number for the match), and the incorrect No.&amp;nbsp;12 on the back.&lt;ref&gt;{{cite news|url=http://football.guardian.co.uk/news/matchreport/0,,1721075,00.html|title=England 2–1 Uruguay|first=Mike|last=Adamson|newspaper=The Guardian |location=London |date=1 March 2006|accessdate=26 January 2007}}&lt;/ref&gt;
+
+In May 2006, Crouch was included in the 23-man England squad for the [[2006 FIFA World Cup]], and was expected to be a significant figure in the team due to [[Wayne Rooney]]'s foot injury.&lt;ref&gt;{{cite web|title=Walcott &amp; Lennon in England squad|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/teams/england/4983618.stm|publisher=BBC Sport|accessdate=30 May 2017|date=8 May 2006}}&lt;/ref&gt; On 30 May, he played in a pre-[[FIFA World Cup|World Cup]] friendly against [[Hungary national football team|Hungary]], scoring the third goal in England's 3–1 win.&lt;ref&gt;{{cite web|title=England 3–1 Hungary|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/teams/england/5029634.stm|publisher=BBC Sport|accessdate=30 May 2017|date=30 May 2006}}&lt;/ref&gt; He followed his goal with his iconic [[robot (dance)|robotic dancing]] [[goal celebration]].&lt;ref&gt;{{cite news |title=C'mon everybody ... Let's do the Crouch!|url=https://www.theguardian.com/football/2006/jun/01/sport.comment2|newspaper=The Guardian |location=London |accessdate=30 May 2017}}&lt;/ref&gt; On 3 June, he scored a hat-trick in a 6–0 pre-World Cup friendly victory against [[Jamaica national football team|Jamaica]] where he again performed his robotic celebration.&lt;ref&gt;{{cite web|title=PETER CROUCH'S ENGLAND TREBLE SPARKS ROBOTIC CELEBRATIONS|url=http://www.thefa.com/news/2015/jun/02/peter-crouch-robot-jamaica|publisher=The Football Association |accessdate=30 May 2017}}&lt;/ref&gt;
+
+===2006 World Cup===
+[[File:England team.jpg|thumb|right|Crouch (wearing No.21) lining up for [[England national football team|England]] against [[Paraguay national football team|Paraguay]] at the [[2006 FIFA World Cup]]]]
+
+After his displays in England's friendlies, Crouch partnered with [[Michael Owen]] in attack for England's opening 2006 World Cup match against [[Paraguay national football team|Paraguay]] on 10 June 2006. England won the match 1–0 and Crouch kept his place in the starting line-up for the following match against [[Trinidad and Tobago national football team|Trinidad and Tobago]], against whom he scored his first competitive international goal. The goal provoked some controversy as replays showed Crouch to be pulling on [[Brent Sancho]]'s long hair, holding the defender down, to gain an advantage.&lt;ref&gt;{{cite news|url=http://sport.scotsman.com/football.cfm?id=888922006|newspaper=The Scotsman |location=Edinburgh |title=Sancho angry as TV shows Crouch pulled hair to climb |first=Colin |last=Stewart |date=17 June 2006 |accessdate=17 June 2006}}&lt;/ref&gt;
+
+Crouch was rested for England's third group match against [[Sweden national football team|Sweden]] as Rooney returned from injury to join the starting line-up. However, Owen suffered a serious knee injury in the opening minute of the match and Crouch replaced him, playing the remainder of the match.&lt;ref&gt;{{cite web|title=Sweden 2–2 England|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4853282.stm|publisher=BBC Sport|accessdate=30 May 2017|date=20 June 2006}}&lt;/ref&gt; In England's 1–0 second round victory against [[Ecuador national football team|Ecuador]], Crouch remained an unused substitute as Eriksson switched the team to a new formation with Wayne Rooney as a lone striker.&lt;ref&gt;{{cite web|title=England 1–0 Ecuador|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4991536.stm|publisher=BBC Sport|accessdate=30 May 2017|date=25 June 2006}}&lt;/ref&gt; After Rooney's dismissal for a foul in England's quarter-final against [[Portugal national football team|Portugal]], Crouch came on as a substitute for [[Joe Cole]], as England went on to get knocked out on penalties.&lt;ref&gt;{{cite web|title=England 0–0 Portugal|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4991618.stm|publisher=BBC Sport|accessdate=30 May 2017|date=1 July 2006}}&lt;/ref&gt; On 5 September 2007, retired English referee [[Graham Poll]] claimed that [[FIFA]] had specifically warned referees at the event to pay close attention to Crouch, claiming that "he's a real pain and he's getting away with too much."&lt;ref&gt;{{cite news|url=http://football.guardian.co.uk/News_Story/0,,2162757,00.html|title=Poll says Crouch is targeted by referees|newspaper=The Guardian |location=London |date=5 September 2007 |accessdate=5 September 2007}}&lt;/ref&gt;
+
+===Euro 2008 qualifying===
+Crouch remained a part of the England set-up under Eriksson's successor as manager, [[Steve McClaren]], and started McClaren's first match in charge, a friendly against [[Greece national football team|Greece]] in August 2006. He scored twice in England's 4–0 victory. Two further goals followed in England's next match, a 5–0 win over [[Andorra national football team|Andorra]] in their opening qualifying match for [[UEFA Euro 2008]] on 2 September 2006. Contemporary reports suggested that Crouch was the first player ever to reach ten goals for England within a single calendar year.&lt;ref&gt;{{cite news| url=http://football.guardian.co.uk/Fiver/0,,1864775,00.html|title=Passive boozing; and wild-tackling Scouser |first1=Rob |last1=Smyth |first2=Paul |last2=Doyle |newspaper=The Guardian |location=London |date=4 September 2006 |accessdate=4 September 2006}}&lt;/ref&gt; In fact, this had happened several times pre-Second World War, most recently by [[Dixie Dean]] (12 goals in 1927) and [[George Camsell]] (11 goals in 1929).&lt;ref&gt;{{cite web |url=http://www.englandfootballonline.com/TeamGoals/GoalsTopScorersCal.html |title=England's top scorers: Calendar year |work=England Football Online |publisher=Glen Isherwood &amp; Peter Young |date=14 November 2017 |accessdate=27 November 2017}}&lt;/ref&gt; An operation needed for a nose injury he sustained playing for Liverpool prevented him from playing in England's two qualifying matches in March 2007.&lt;ref&gt;{{cite web|url=http://msn.foxsports.com/soccer/story/6550278|archiveurl=https://web.archive.org/web/20070316013932/http://msn.foxsports.com/soccer/story/6550278|archivedate=16 March 2007|title=Crouch nose he'll miss a month|publisher=Fox Sports|date=9 March 2007 |accessdate=9 March 2007}}&lt;/ref&gt; He returned to the England squad for their matches against [[Brazil national football team|Brazil]] and [[Estonia national football team|Estonia]] in late May and early June 2007, scoring in the qualifying match against the latter.&lt;ref name=Estonia/&gt; Crouch was England's top scorer in the qualifying campaign with five goals, but this did not prevent England finishing only third in their group and failing to progress to the finals of the competition.&lt;ref name=Croatia/&gt;
+
+===Capello era===
+[[File:Spain vs England.jpg|thumb|right|Crouch (wearing No.20) playing for England versus [[Spain national football team|Spain]], 2009]]
+
+On 1 April 2009, Crouch made his first start under McClaren's successor, [[Fabio Capello]], in a [[2010 FIFA World Cup qualification|2010 World Cup qualifier]] against [[Ukraine national football team|Ukraine]]. He scored England's first goal in their 2–1 victory.&lt;ref name=Ukraine/&gt; Crouch was re-called to the England squad for the friendly against [[Slovenia national football team|Slovenia]] and the [[2010 FIFA World Cup qualification (UEFA)#Group 6|World Cup qualifier]] versus [[Croatia national football team|Croatia]], following his fine form for Tottenham.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/internationals/8229098.stm |title=Capello recalls Crouch and Lennon |publisher=BBC Sport |date=30 August 2009 |accessdate=13 June 2010}}&lt;/ref&gt; Crouch also got an early first half goal against [[Belarus national football team|Belarus]] in the final 2010 World Cup qualifier, which he then followed up with a second goal in the 76th minute.&lt;ref name=Belarus/&gt; This took Crouch's tally for England up to 18 goals in just 17 starts.&lt;ref&gt;{{cite web|title=The Peter Crouch Myth|url=http://www.ongoalsscored.com/2011/08/07/the-peter-crouch-myth/|website=On Goals Scored|accessdate=30 May 2017}}&lt;/ref&gt; Crouch scored a brace after coming on as a substitute against [[Egypt national football team|Egypt]] in a friendly on 3 March 2010 to take his overall international goal tally to 20.&lt;ref&gt;{{cite web |title=England in fine fettle thanks to Crouch|url=http://www.uefa.com/memberassociations/news/newsid=1456964.html|publisher=UEFA|date=3 March 2010|accessdate=13 June 2010}}&lt;/ref&gt; He also scored the second goal for England against [[Mexico national football team|Mexico]] at [[Wembley Stadium]] on 24 May 2010.&lt;ref&gt;{{cite web|title=England 3–1 Mexico|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/8699042.stm|publisher=BBC Sport|accessdate=30 May 2017}}&lt;/ref&gt;
+
+===2010 World Cup===
+Crouch was named in Capello's final 23-man squad for the [[2010 FIFA World Cup|2010 World Cup]] and was given the number 9 shirt.&lt;ref&gt;{{cite web|title=World Cup 2010: England announce squad numbers|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/8720235.stm|publisher=BBC Sport|accessdate=30 May 2017}}&lt;/ref&gt; He came on as a substitute for [[Emile Heskey]] in England's opening match against the [[United States men's national soccer team|United States]] and also came off the bench for [[Gareth Barry]] in the following match against [[Algeria national football team|Algeria]].&lt;ref&gt;{{cite web|title=England 1–1 USA|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_05|publisher=BBC Sport|accessdate=30 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=England 0–0 Algeria|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_23|publisher=BBC Sport|accessdate=30 May 2017}}&lt;/ref&gt; Crouch did not take part in the final group stage match with Slovenia or the 4–1 loss to [[Germany national football team|Germany]] in the [[2010 FIFA World Cup knockout stage#Germany vs England|last-16]].&lt;ref&gt;{{cite web|title=Slovenia 0–1 England|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_37|publisher=BBC Sport|accessdate=30 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Germany 4–1 England|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/matches/match_51|publisher=BBC Sport|accessdate=30 May 2017}}&lt;/ref&gt;
+
+===Post-2010 World Cup===
+Crouch came on as a substitute in the home friendly against France for the injured Steven Gerrard on 17 November 2010. He scored quickly from an [[Ashley Young]] corner to make the score 1–2 with an angled side-footed volley. It was his second touch of the ball.&lt;ref name=France/&gt; After not making an appearance for England for almost a year, Crouch stated in October 2011 that he "does not carry much hope" of receiving a call-up.&lt;ref&gt;{{cite news|title=Stoke City's Peter Crouch fears for England future|url=http://news.bbc.co.uk/sport1/hi/football/15275354.stm|publisher=BBC Sport|accessdate=16 October 2011|date=12 October 2011}}&lt;/ref&gt;
+
+During a run of good form in September 2017, Crouch said in a television interview that he was not officially retired from international football.&lt;ref&gt;{{cite news|last1=Hafez|first1=Shamoon|title=Premier League stats: Harry Kane, Man Utd, Man City, Arsene Wenger, Roy Hodgson|url=https://www.bbc.co.uk/sport/football/41456051|accessdate=2 October 2017|publisher=BBC Sport|date=2 October 2017}}&lt;/ref&gt;
+
+==Personality as a footballer==
+===Nicknames===
+Although generally known as "Crouchy," other nicknames he has been given by fans and the media in England have included "RoboCrouch"&lt;ref&gt;{{cite web|url=http://worldcup.itv.com/News/Story_Page/0,15843,8607_1277794,00.html |archiveurl=https://web.archive.org/web/20061029235019/http://worldcup.itv.com/News/Story_Page/0%2C15843%2C8607_1277794%2C00.html |archivedate=29 October 2006 |title=RoboCrouch out of operation? |publisher=ITV |date=13 June 2006 |accessdate=17 January 2007 |deadurl=yes}}&lt;/ref&gt; and "Crouchinho" (an ironic use of the "-[[inho]]" suffix, meaning "little" in Portuguese and used by many Brazilian footballers).&lt;ref&gt;{{cite news |url=http://sport.guardian.co.uk/columnists/story/0,,1881581,00.html|title=Crouch on the couch |newspaper=The Guardian |location=London |first=Simon|last=Hattenstone|date=27 September 2006 |accessdate=17 January 2007}}&lt;/ref&gt; He has been also referred to as "[[Mr. Roboto]]" by [[Univision]]'s commentators and as "Pantera Rosa" ("[[The Pink Panther (character)|Pink Panther]]") by [[Fox Sports en Español]] commentators.&lt;ref&gt;{{cite web|url=http://community.foxsports.com/blogs/Nick_Webster/2006/09/03/Pantera_RosaEnglands_not_so_secret_weapon|archiveurl=https://web.archive.org/web/20120415175323/http://community.foxsports.com/Nick_Webster/blog/2006/09/03/Pantera_RosaEnglands_not_so_secret_weapon|archivedate=15 April 2012|title='Pantera Rosa'... England's not so secret weapon! |first=Nick |last=Webster |publisher=Fox Sports |date=3 September 2006 |accessdate=17 January 2007}}&lt;/ref&gt;
+
+===Robotic dancing===
+In the summer of 2006, Crouch adopted a robotic dancing [[goal celebration]].&lt;ref name="Robot"/&gt; A parody of a dance he had been seen performing on a television programme covering a party held at England teammate [[David Beckham]]'s house, he first performed it after his goal for England against Hungary on 30 May. He again performed the dance after both of his first two goals against Jamaica on 3 June. The ''[[Daily Mirror]]'' newspaper wrote that the dance was inspired by the lyrics to the [[Arctic Monkeys]]' hit single "[[I Bet You Look Good on the Dancefloor]]".&lt;ref&gt;{{cite news|url=https://www.mirror.co.uk/news/tm_objectid=17164877&amp;method=full&amp;siteid=94762&amp;headline=one-bets-one-looks-good-on-the-dancefloor--name_page.html |archiveurl=https://web.archive.org/web/20110509143121/http://www.mirror.co.uk/news/tm_objectid%3D17164877%26method%3Dfull%26siteid%3D115875%26headline%3Done-bets-one-looks-good-on-the-dancefloor--name_page.html |archivedate= 9 May 2011 |first1=Martin |last1=Lipton |first2=Paul |last2=Byrne |title=World Cup Willie |newspaper=Daily Mirror |location=London |date=2 June 2006 |accessdate=2 June 2006 |deadurl=yes}}&lt;/ref&gt;
+
+On 12 June, Crouch announced he would perform his robotic dance again only if England were to win the World Cup, saying, "It's not about robotic dancing. It is about scoring goals and winning matches. It's an important time for everyone now."&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/teams/england/5072314.stm|title=Crouch halts robotic celebrations|publisher=BBC |date=12 June 2006 |accessdate=13 June 2006|first=Phil|last=McNulty}}&lt;/ref&gt; In September 2006, he was quoted in ''[[The Observer]]'' newspaper as saying that, "It was funny at the time, but I didn't want to carry on doing it until it became unfunny. I've stopped doing it for the time being, but if I ever score a really big goal you never know."&lt;ref&gt;{{cite news |url=http://football.guardian.co.uk/comment/story/0,,1863698,00.html|title=Confident Crouch happy to be plan B |first=Paul |last=Wilson |newspaper=The Observer |location=London |date=3 September 2006 |accessdate=3 September 2006}}&lt;/ref&gt;
+
+On 6 August 2007, Crouch said he would never use the robot dance again unless he scored in the UEFA Champions League Final, but he partially reprised it on 1 April 2009 after scoring during England's World Cup qualifier against Ukraine after a Comic Relief sketch.&lt;ref name="Robot"&gt;{{cite news  |url=https://www.telegraph.co.uk/sport/football/5094114/Peter-Crouchs-robot-dance-and-the-10-funniest-goal-celebrations.html |title=Peter Crouch's robot dance and the 10 funniest goal celebrations|last=Wilson|first=Steve|date=2 April 2009 |newspaper=The Guardian |location=London |accessdate=4 April 2009}}&lt;/ref&gt;
+
+On 1 February 2017, Crouch gave the dance a final outing to celebrate his 100th Premier League goal.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/38835628|title=Peter Crouch: Stoke striker 'emotional' to reach 100-goal Premier League milestone |date=2 February 2017 |accessdate=2 February 2017}}&lt;/ref&gt;
+
+==Personal life==
+Crouch and model [[Abbey Clancy]] married on 30 June 2011.&lt;ref&gt;{{cite news |title= Abbey Clancy marries Peter Crouch | url=https://www.independent.co.uk/news/people/news/abbey-clancy-marries-peter-crouch-2305402.html | location=London | newspaper=The Independent | first=Bang | last=Showbiz | date=1 July 2011}}&lt;/ref&gt; Together they have two daughters and a son, Sophia Ruby (born March 2011), Liberty Rose (born June 2015) and Johnny (born January 2018).&lt;ref&gt;{{cite web |title=Baby joy for Abbey Clancy &amp; Peter Crouch |url=http://www.mrpaparazzi.com/post/14425/Its-a-girl-Baby-joy-for-Abbey-Clancy--Peter-Crouch-as-they-welcome-their-first-child.aspx|archiveurl=https://web.archive.org/web/20120329125630/http://www.mrpaparazzi.com/post/14425/Its-a-girl-Baby-joy-for-Abbey-Clancy--Peter-Crouch-as-they-welcome-their-first-child.aspx|archivedate=29 March 2012|work=Mr Paparazzi|accessdate=15 March 2011|date=15 March 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last1=Gosling |first1=Francesca |title=Abbey Clancy and Peter Crouch introduce new son with social media snap |url=https://www.msn.com/en-gb/entertainment/celebrity/abbey-clancy-and-peter-crouch-introduce-new-son-with-social-media-snap/ar-BBHTzLg?li=BBoPWjQ&amp;ocid=mailsignout |website=www.msn.com |publisher=Microsoft News |accessdate=20 November 2018 |date=5 January 2018}}&lt;/ref&gt;
+
+In August 2012, Crouch was found guilty of [[Speed limit|speeding]] in November 2011 and ordered to pay a fine of £1,000.&lt;ref&gt;{{cite news|title=Stoke City star Peter Crouch hit with £1,000 speeding fine|url=http://www.thisisstaffordshire.co.uk/story-16739585-detail/story.html?|newspaper=The Sentinel |location=Stoke-on-Trent |accessdate=21 August 2012}}&lt;/ref&gt; On 16 October 2012, Crouch was disqualified from driving for six months.&lt;ref&gt;{{cite news|title=Stoke City star Peter Crouch handed driving ban|url=http://www.thisisstaffordshire.co.uk/story-17099654-detail/story.html?|newspaper=The Sentinel |location=Stoke-on-Trent |accessdate=17 October 2012}}&lt;/ref&gt; Crouch released his autobiography in 2007, titled ''Walking Tall – My Story''.&lt;ref name="Walking Tall"&gt;{{cite book|last=Crouch|first=Peter|title=Walking Tall My Story|date=2007|publisher=Hodder &amp; Stoughton|isbn=9780340937129}}&lt;/ref&gt;  His second book, ''How to be a Footballer'', was released in 2018.&lt;ref name="How to be a Footballer"&gt;{{cite book|last=Crouch|first=Peter|title=How to be a Footballer|date=2018|publisher=Ebury Press|isbn=978-1785039768}}&lt;/ref&gt; In Autumn 2018, the first series of ''That Peter Crouch Podcast'' aired, featuring Crouch along with [[Tom Fordyce]] and [[Chris Stark]].&lt;ref&gt;{{Cite web |title=The natural charms of Peter Crouch shine through on his podcast |first=Antonia |last=Quirke |work=New Statesman |date=21 November 2018 |accessdate=5 January 2019 |url= https://www.newstatesman.com/2018/11/that-peter-crouch-podcast-review}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=That Peter Crouch Podcast |publisher=BBC Radio 5 live |accessdate=5 January 2019 |url= https://www.bbc.co.uk/programmes/p06kyljg/episodes/downloads}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 26 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[1999–2000 Tottenham Hotspur F.C. season|1999–2000]]&lt;ref name=sb9900&gt;{{soccerbase season|21235|1999|accessdate=15 April 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||0||0||colspan=2|—||0||0
+|-
+|[[Dulwich Hamlet F.C.|Dulwich Hamlet]] (loan)
+|[[1999–2000 Isthmian League#Premier Division|1999–2000]]&lt;ref name=NFT/&gt;
+|[[Isthmian League]] Premier Division
+|6||1||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||6||1
+|-
+|[[IFK Hässleholm]] (loan)
+|[[2000 Swedish football Division 2|2000]]&lt;ref name=NFT/&gt;
+|[[Division 2 (Swedish football)|Swedish Division 2]]
+|8||3||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||8||3
+|-
+|[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|[[2000–01 Queens Park Rangers F.C. season|2000–01]]&lt;ref name=sb0001&gt;{{soccerbase season|21235|2000|accessdate=15 April 2017}}&lt;/ref&gt;
+|[[Football League First Division|First Division]]
+|42||10||3||2||2||0||colspan=2|—||colspan=2|—||47||12
+|-
+|[[Portsmouth F.C.|Portsmouth]]
+|[[2001–02 Portsmouth F.C. season|2001–02]]&lt;ref name=sb0102/&gt;
+|First Division
+|37||18||1||0||1||1||colspan=2|—||colspan=2|—||39||19
+|-
+|rowspan=4|[[Aston Villa F.C.|Aston Villa]]
+|[[2001–02 Aston Villa F.C. season|2001–02]]&lt;ref name=sb0102&gt;{{soccerbase season|21235|2001|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|7||2||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||7||2
+|-
+|[[2002–03 Aston Villa F.C. season|2002–03]]&lt;ref name=sb0203&gt;{{soccerbase season|21235|2002|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|14||0||0||0||0||0||4{{efn|Appearances in [[UEFA Intertoto Cup]]}}||0||colspan=2|—||18||0
+|-
+|[[2003–04 Aston Villa F.C. season|2003–04]]&lt;ref name=sb0304&gt;{{soccerbase season|21235|2003|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|16||4||0||0||2||0||colspan=2|—||colspan=2|—||18||4
+|-
+!colspan=2|Total
+!37||6||0||0||2||0||4||0||colspan=2|—||43||6
+|-
+|[[Norwich City F.C.|Norwich City]] (loan)
+|[[2003–04 Norwich City F.C. season|2003–04]]&lt;ref name=sb0304/&gt;
+|First Division
+|15||4||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||15||4
+|-
+|[[Southampton F.C.|Southampton]]
+|[[2004–05 Southampton F.C. season|2004–05]]&lt;ref name=sb0405&gt;{{soccerbase season|21235|2004|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|27||12||5||4||1||0||colspan=2|—||colspan=2|—||33||16
+|-
+|rowspan=4|[[Liverpool F.C.|Liverpool]]
+|[[2005–06 Liverpool F.C. season|2005–06]]&lt;ref name=sb0506&gt;{{soccerbase season|21235|2005|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|32||8||6||3||1||0||8{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||2{{efn|Appearances in [[FIFA Club World Championship]]}}||2||49||13
+|-
+|[[2006–07 Liverpool F.C. season|2006–07]]&lt;ref name=sb0607&gt;{{soccerbase season|21235|2006|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|32||9||1||0||1||1||14{{efn|name=UCL}}||7||1{{efn|name=FACS|Appearance in [[FA Community Shield]]}}||1||49||18
+|-
+|[[2007–08 Liverpool F.C. season|2007–08]]&lt;ref name=sb0708&gt;{{soccerbase season|21235|2007|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|21||5||4||2||3||0||8{{efn|name=UCL}}||4||colspan=2|—||36||11
+|-
+!colspan=2|Total
+!85||22||11||5||5||1||30||11||3||3||134||42
+|-
+|Portsmouth
+|[[2008–09 Portsmouth F.C. season|2008–09]]&lt;ref name=sb0809&gt;{{soccerbase season|21235|2008|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|38||11||3||1||1||0||6{{efn|Appearances in [[UEFA Cup]]}}||4||1{{efn|name=FACS}}||0||49||16
+|-
+|rowspan=4|Tottenham Hotspur
+|[[2009–10 Tottenham Hotspur F.C. season|2009–10]]&lt;ref name=sb0910&gt;{{soccerbase season|21235|2009|accessdate=7 December 2017}}&lt;/ref&gt;
+|Premier League
+|38||8||6||1||3||4||colspan=2|—||colspan=2|—||47||13
+|-
+|[[2010–11 Tottenham Hotspur F.C. season|2010–11]]&lt;ref name=sb1011&gt;{{soccerbase season|21235|2010|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|34||4||1||0||0||0||10{{efn|name=UCL}}||7||colspan=2|—||45||11
+|-
+|[[2011–12 Tottenham Hotspur F.C. season|2011–12]]&lt;ref name=sb1112/&gt;
+|Premier League
+|1||0||colspan=2|—||colspan=2|—||0||0||colspan=2|—||1||0
+|-
+!colspan=2|Total
+!73||12||7||1||3||4||10||7||0||0||93||24
+|-
+|rowspan=9|[[Stoke City F.C.|Stoke City]]
+|[[2011–12 Stoke City F.C. season|2011–12]]&lt;ref name=sb1112&gt;{{soccerbase season|21235|2011|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|32||10||3||2||2||0||3{{efn|Appearances in [[UEFA Europa League]]}}||2||colspan=2|—||40||14
+|-
+|[[2012–13 Stoke City F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|21235|2012|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|34||7||3||0||1||1||colspan=2|—||colspan=2|—||38||8
+|-
+|[[2013–14 Stoke City F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|21235|2013|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|34||8||1||0||3||2||colspan=2|—||colspan=2|—||38||10
+|-
+|[[2014–15 Stoke City F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|21235|2014|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|33||8||2||1||3||1||colspan=2|—||colspan=2|—||38||10
+|-
+|[[2015–16 Stoke City F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|21235|2015|accessdate=15 April 2017}}&lt;/ref&gt;
+|Premier League
+|11||0||2||1||5||1||colspan=2|—||colspan=2|—||18||2
+|-
+|[[2016–17 Stoke City F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|21235|2016|accessdate=21 July 2017}}&lt;/ref&gt;
+|Premier League
+|27||7||1||0||1||3||colspan=2|—||colspan=2|—||29||10
+|-
+|[[2017–18 Stoke City F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|21235|2017|accessdate=6 June 2018}}&lt;/ref&gt;
+|Premier League
+|31||5||1||0||2||1||colspan=2|—||colspan=2|—||34||6
+|-
+|[[2018–19 Stoke City F.C. season|2018–19]]&lt;ref name=sb1819/&gt;
+|[[EFL Championship|Championship]]
+|23||1||2||1||1||0||colspan=2|—||colspan=2|—||26||2
+|-
+!colspan=2|Total
+!225||46||15||5||18||9||3||2||colspan=2|—||261||62
+|-
+|[[Stoke City F.C. Under-23s and Academy|Stoke City U23]]
+|[[2016–17 EFL Trophy|2016–17]]&lt;ref name=sb1617/&gt;
+|colspan=1|—||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||1{{efn|Appearance in [[EFL Trophy]]}}||0||1||0
+|-
+|[[Burnley F.C.|Burnley]]
+|[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|21235|2018|accessdate=31 January 2019}}&lt;/ref&gt;
+|Premier League
+|2||0||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||2||0
+|-
+!colspan=3|Career total
+!595||145||45||18||33||15||53||24||5||3||731||205
+|}
+
+{{notelist}}
+
+===International===
+[[File:Peter Crouch Russia vs England 17 october 2007 training one day prior to a match.jpg|thumb|upright|Crouch training with [[England national football team|England]] in 2007]]
+
+{{updated|match played 17 November 2010}}&lt;ref name=NFT&gt;{{NFT player |id=11615 |name=Crouch, Peter |accessdate=31 January 2019}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=6|[[England national football team|England]]
+|2005||4||0
+|-
+|2006||12||11
+|-
+|2007||8||3
+|-
+|2008||6||0
+|-
+|2009||6||4
+|-
+|2010||6||4
+|-
+!colspan=2|Total||42||22
+|}
+
+===International goals===
+:''As of match played 17 November 2010. England score listed first, score column indicates score after each Crouch goal.''&lt;ref name=NFT/&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+!scope=col class=unsortable|{{abbr|Ref.|Reference}}
+|-
+!scope=row style=text-align:center|1
+|1 March 2006||[[Anfield]], Liverpool, England||align=center|5||{{fb|Uruguay}}||align=center|1–1||align=center|2–1||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref&gt;{{cite news |title=England 2–1 Uruguay |url=http://news.bbc.co.uk/sport1/hi/football/internationals/4754630.stm |publisher=BBC Sport |date=1 March 2006 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|2
+|30 May 2006||[[Old Trafford]], Manchester, England||align=center|6||{{fb|Hungary}}||align=center|3–1||align=center|3–1||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref&gt;{{cite news |title=England 3–1 Hungary |url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/teams/england/5029634.stm |publisher=BBC Sport |date=30 May 2006 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|3
+|rowspan=3|3 June 2006||rowspan=3|[[Old Trafford]], Manchester, England||rowspan=3 align=center|7||rowspan=3|{{fb|Jamaica}}||align=center|3–0||rowspan=3 align=center|6–0||rowspan=3|[[Exhibition game#Association football|Friendly]]||rowspan=3 align=center|&lt;ref&gt;{{cite news |title=England 6–0 Jamaica |url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/teams/england/5040586.stm |publisher=BBC Sport |date=3 June 2006 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|4
+|align=center|5–0
+|-
+!scope=row style=text-align:center|5
+|align=center|6–0
+|-
+!scope=row style=text-align:center|6
+|15 June 2006||[[Max-Morlock-Stadion|Frankenstadion]], Nuremberg, Germany||align=center|9||{{fb|Trinidad &amp; Tobago}}||align=center|1–0||align=center|2–0||[[2006 FIFA World Cup]]||align=center|&lt;ref&gt;{{cite news |title=England 2–0 Trinidad and Tobago |url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4853008.stm |publisher=BBC Sport |date=15 June 2006 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|7
+|rowspan=2|16 August 2006||rowspan=2|[[Old Trafford]], Manchester, England||rowspan=2 align=center|12||rowspan=2|{{fb|Greece}}||align=center|3–0||rowspan=2 align=center|4–0||rowspan=2|[[Exhibition game#Association football|Friendly]]||rowspan=2 align=center|&lt;ref&gt;{{cite news |title=England 4–0 Greece |url=http://news.bbc.co.uk/sport1/hi/football/internationals/4794867.stm |publisher=BBC Sport |date=16 August 2006 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|8
+|align=center|4–0
+|-
+!scope=row style=text-align:center|9
+|rowspan=2|2 September 2006||rowspan=2|[[Old Trafford]], Manchester, England||rowspan=2 align=center|13||rowspan=2|{{fb|Andorra}}||align=center|1–0||rowspan=2 align=center|5–0||rowspan=2|[[UEFA Euro 2008 qualifying|UEFA Euro 2008 qualification]]||rowspan=2 align=center|&lt;ref&gt;{{cite news |title=England 5–0 Andorra |url=http://news.bbc.co.uk/sport1/hi/football/internationals/5289630.stm |publisher=BBC Sport |date=2 September 2006 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|10
+|align=center|5–0
+|-
+!scope=row style=text-align:center|11
+|6 September 2006||[[Philip II Arena]], Skopje, Macedonia||align=center|14||{{fb|Macedonia}}||align=center|1–0||align=center|1–0||[[UEFA Euro 2008 qualifying|UEFA Euro 2008 qualification]]||align=center|&lt;ref&gt;{{cite news |title=Macedonia 0–1 England |url=http://news.bbc.co.uk/sport1/hi/football/internationals/5313578.stm |publisher=BBC Sport |date=6 September 2006 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|12
+|6 June 2007||[[A. Le Coq Arena]], Tallinn, Estonia||align=center|19||{{fb|Estonia}}||align=center|2–0||align=center|3–0||[[UEFA Euro 2008 qualifying|UEFA Euro 2008 qualification]]||align=center|&lt;ref name=Estonia&gt;{{cite news |first=Phil |last=McNulty |title=Estonia 0–3 England |url=http://news.bbc.co.uk/sport1/hi/football/internationals/6716859.stm |publisher=BBC Sport |date=6 June 2007 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|13
+|16 November 2007||[[Ernst-Happel-Stadion]], Vienna, Austria||align=center|23||{{fb|Austria}}||align=center|1–0||align=center|1–0||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref&gt;{{cite news |first=Saj |last=Chowdhury |title=Austria 0–1 England |url=http://news.bbc.co.uk/sport1/hi/football/internationals/7090216.stm |publisher=BBC Sport |date=16 November 2007 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|14
+|21 November 2007||[[Wembley Stadium]], London, England||align=center|24||{{fb|Croatia}}||align=center|2–2||align=center|2–3||[[UEFA Euro 2008 qualifying|UEFA Euro 2008 qualification]]||align=center|&lt;ref name=Croatia&gt;{{cite news |first=Jonathan |last=Stevenson |title=England 2–3 Croatia |url=http://news.bbc.co.uk/sport1/hi/football/internationals/7103110.stm |publisher=BBC Sport |date=21 November 2007 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|15
+|1 April 2009||[[Wembley Stadium]], London, England||align=center|33||{{fb|Ukraine}}||align=center|1–0||align=center|2–1||[[2010 FIFA World Cup qualification]]||align=center|&lt;ref name=Ukraine&gt;{{cite news |first=Phil |last=McNulty |title=England 2–1 Ukraine |url=http://news.bbc.co.uk/sport1/hi/football/internationals/7973880.stm |publisher=BBC Sport |date=1 April 2009 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|16
+|10 June 2009||[[Wembley Stadium]], London, England||align=center|34||{{fb|Andorra}}||align=center|6–0 ||align=center|6–0||[[2010 FIFA World Cup qualification]]||align=center|&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 6–0 Andorra |url=http://news.bbc.co.uk/sport1/hi/football/internationals/8087976.stm |publisher=BBC Sport |date=10 June 2009 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|17
+|rowspan=2|14 October 2009||rowspan=2|[[Wembley Stadium]], London, England||rowspan=2 align=center|35||rowspan=2|{{fb|Belarus}}||align=center|1–0||rowspan=2 align=center|3–0||rowspan=2|[[2010 FIFA World Cup qualification]]||rowspan=2 align=center|&lt;ref name=Belarus&gt;{{cite news |first=Phil |last=McNulty |title=England 3–0 Belarus |url=http://news.bbc.co.uk/sport1/hi/football/internationals/8301471.stm |publisher=BBC Sport |date=14 October 2009 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|18
+|align=center|3–0
+|-
+!scope=row style=text-align:center|19
+|rowspan=2|3 March 2010||rowspan=2|[[Wembley Stadium]], London, England||rowspan=2 align=center|37||rowspan=2|{{fb|Egypt}}||align=center|1–1||rowspan=2 align=center|3–1||rowspan=2|[[Exhibition game#Association football|Friendly]]||rowspan=2 align=center|&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 3–1 Egypt |url=http://news.bbc.co.uk/sport1/hi/football/8545630.stm |publisher=BBC Sport |date=3 March 2010 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|20
+|align=center|3–1
+|-
+!scope=row style=text-align:center|21
+|24 May 2010||[[Wembley Stadium]], London, England||align=center|38||{{fb|Mexico}}||align=center|2–0||align=center|3–1||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 3–1 Mexico |url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2010/8699042.stm |publisher=BBC Sport |date=24 May 2010 |accessdate=12 September 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|22
+|17 November 2010||[[Wembley Stadium]], London, England||align=center|42||{{fb|France}}||align=center|1–2||align=center|1–2||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref name=France&gt;{{cite news |first=Phil |last=McNulty |title=England 1–2 France |url=http://news.bbc.co.uk/sport1/hi/football/9194622.stm |publisher=BBC Sport |date=17 November 2010 |accessdate=12 September 2016}}&lt;/ref&gt;
+|}
+
+==Honours==
+'''Norwich City'''
+*[[Football League First Division]]: [[2003–04 Football League First Division|2003–04]]&lt;ref name=Hugman1011/&gt;
+
+'''Liverpool'''
+*[[FA Cup]]: [[2005–06 FA Cup|2005–06]]&lt;ref name=2006FAC/&gt;
+*[[FA Community Shield]]: [[2006 FA Community Shield|2006]]&lt;ref name=2006FACS/&gt;
+*[[UEFA Champions League]] runner-up: [[2006–07 UEFA Champions League|2006–07]]&lt;ref name=2007UCL/&gt;
+*[[FIFA Club World Championship]] runner-up: [[2005 FIFA Club World Championship|2005]]&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/4533980.stm |title=Sao Paulo 1–0 Liverpool |publisher=BBC Sport |date=18 December 2005 |accessdate=22 December 2017}}&lt;/ref&gt;
+
+'''Individual'''
+*[[Portsmouth F.C.|Portsmouth]] Player of the Season: [[2001–02 Portsmouth F.C. season|2001–02]]&lt;ref&gt;{{cite web |url=https://www.portsmouthfc.co.uk/club/history/ |title=History: Player of the Season |publisher=Portsmouth F.C. |accessdate=7 December 2017}}&lt;/ref&gt;
+*[[Stoke City F.C. Player of the Year|Stoke City Player of the Year]]: [[2011–12 Stoke City F.C. season|2011–12]]&lt;ref name=stokeawards/&gt;
+*[[Stoke City F.C.|Stoke City]] Goal of the Season: 2011–12&lt;ref name=stokeawards/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.stokecityfc.com/teams/stoke-city/peter-crouch Peter Crouch profile] at the Stoke City F.C. website
+*{{Soccerbase}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{Queens Park Rangers F.C. Player of the Year}}
+{{Portsmouth F.C. Player of the Season}}
+{{Southampton F.C. Player of the Season}}
+{{Stoke City F.C. Player of the Year}}
+{{100 players who shook the Kop}}
+}}
+{{Navboxes
+| title = England squads
+| bg = white
+| fg = #0B0B3F
+| bordercolor = #0B0B3F
+| list1 = 
+{{England squad 2006 FIFA World Cup}}
+{{England squad 2010 FIFA World Cup}}
+}}
+{{Burnley F.C. squad}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Crouch, Peter}}
+[[Category:1981 births]]
+[[Category:Living people]]
+[[Category:People from Macclesfield]]
+[[Category:Sportspeople from Cheshire]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England B international footballers]]
+[[Category:England international footballers]]
+[[Category:Association football forwards]]
+[[Category:Tottenham Hotspur F.C. players]]
+[[Category:Dulwich Hamlet F.C. players]]
+[[Category:Queens Park Rangers F.C. players]]
+[[Category:Portsmouth F.C. players]]
+[[Category:Aston Villa F.C. players]]
+[[Category:Norwich City F.C. players]]
+[[Category:Southampton F.C. players]]
+[[Category:Liverpool F.C. players]]
+[[Category:Stoke City F.C. players]]
+[[Category:Burnley F.C. players]]
+[[Category:Isthmian League players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:2006 FIFA World Cup players]]
+[[Category:2010 FIFA World Cup players]]
+[[Category:English expatriate footballers]]
+[[Category:Expatriate footballers in Sweden]]
+[[Category:English expatriate sportspeople in Sweden]]
+[[Category:People educated at Drayton Manor High School]]</text>
+      <sha1>4v5bftodajbuidnpmjddietjyhr31wi</sha1>
+    </revision>
+  </page>
+</mediawiki>

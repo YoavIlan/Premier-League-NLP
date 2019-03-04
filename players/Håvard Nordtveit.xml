@@ -1,0 +1,343 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Håvard Nordtveit</title>
+    <ns>0</ns>
+    <id>11718710</id>
+    <revision>
+      <id>884620403</id>
+      <parentid>881757958</parentid>
+      <timestamp>2019-02-22T20:51:22Z</timestamp>
+      <contributor>
+        <username>Anwegmann</username>
+        <id>1384218</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23212">{{lead too short|date=May 2016}}
+{{Use dmy dates|date=October 2012}}
+{{Infobox football biography
+| name                = Håvard Nordtveit
+| fullname            = Håvard Nordtveit&lt;ref&gt;{{cite web |title=Squads for 2016/17 Premier League confirmed |url=https://www.premierleague.com/news/84136 |publisher=Premier League |date=1 September 2016 |accessdate=11 September 2016}}&lt;/ref&gt;
+| image               = 2012-07 Nordtveit.jpg
+| image_size          = 200
+| caption             = Nordtveit in July 2012
+| birth_date          = {{birth date and age|1990|6|21|df=y}}
+| birth_place         = [[Vats]], Norway
+| height              = {{height|m=1.88}}
+| position            = [[Midfielder#Defensive midfielder|Defensive midfielder]] / [[Defender (association football)|Defender]]
+| currentclub         = [[Fulham FC|Fulham]]&lt;br/&gt;(on loan from [[TSG 1899 Hoffenheim|Hoffenheim]])
+| clubnumber          = 16
+|youthclubs1 = Vats 94
+|youthclubs2 = Skjold
+| youthyears1         = 1997–2003
+| youthyears2         = 2003–2005
+|clubs1 = [[FK Haugesund|Haugesund]]
+|clubs2 = [[Arsenal F.C.|Arsenal]]              
+| years1              = 2006–2007 
+| years2              = 2007–2011
+|caps1 = 10 
+|caps2 = 0  
+|goals1 = 0
+|goals2 = 0
+|nationalteam1 = Norway U16 
+|nationalteam2 = Norway U17 
+| nationalyears1      = 2006      
+| nationalyears2      = 2007      
+|nationalcaps1 = 10  
+|nationalcaps2 = 7   
+|nationalgoals1 = 1
+|nationalgoals2 = 0
+| youthyears3         = 2006 
+|youthclubs3 = [[FK Haugesund|Haugesund]]
+| years3              = 2008      
+|clubs3 = → [[UD Salamanca|Salamanca]] (loan)   
+|caps3 = 3  
+|goals3 = 0
+| years4              = 2009      
+|clubs4 = → [[Lillestrøm SK|Lillestrøm]] (loan) 
+|caps4 = 17 
+|goals4 = 0
+| years5              = 2009–2010 
+|clubs5 = → [[1. FC Nürnberg]] (loan)          
+|caps5 = 19 
+|goals5 = 0
+| years6              = 2011–2016     
+|clubs6 = [[Borussia Mönchengladbach]]          
+|caps6 = 152
+|goals6 = 10
+| years7              = 2016–2017
+|clubs7 = [[West Ham United F.C.|West Ham United]]    
+|caps7 = 16
+|goals7 = 0
+|years8 = 2017–
+|clubs8 = [[TSG 1899 Hoffenheim|1899 Hoffenheim]]
+|caps8 = 23
+|goals8 = 0
+|years9 = 2019–
+|clubs9 = → [[Fulham F.C.|Fulham]] (loan)
+|caps9 = 1
+|goals9 = 0
+|nationalyears3 = 2007–2008 
+|nationalteam3 = Norway U18 
+|nationalcaps3 = 4   
+|nationalgoals3 = 3
+| nationalyears4      = 2007–2009 
+|nationalteam4 = [[Norway national under-19 football team|Norway U19]] 
+|nationalcaps4 = 14  
+|nationalgoals4 = 0
+| nationalyears5      = 2008–2013 
+|nationalteam5 = [[Norway national under-21 football team|Norway U21]] 
+|nationalcaps5 = 24
+|nationalgoals5 = 1
+| nationalyears6      = 2011–     
+|nationalteam6 = [[Norway national football team|Norway]] 
+|nationalcaps6 = 45
+|nationalgoals6 = 2
+| club-update = 20:51, 22 February 2019 (UTC)
+| nationalteam-update = 19 November 2018
+}}
+
+'''Håvard Nordtveit''' (born 21 June 1990) is a Norwegian professional [[Association football|footballer]] who plays as a [[Midfielder#Defensive midfielder|defensive midfielder]] for Fulham and the [[Norway national football team|Norway national team]].&lt;ref&gt;{{cite web|url=http://www.bild.de/BILD/sport/fussball/bundesliga/vereine/gladbach/2010/12/30/martin-stranzl-und-havard-nordtveit/sind-endlich-borussen.html |title=Stranzl und Nordtveit sind endlich Borussen |publisher=Bild |language=German |date=29 December 2010 |accessdate=30 December 2010 | first = Christian | last = Hornung}}&lt;/ref&gt;
+
+==Club career==
+===Norway===
+Nordtveit began his career as a youth in Norway with Vats 94 and Skjold. On 20 August 2006 he became the youngest player ever to play for [[FK Haugesund|Haugesund]],&lt;ref&gt;{{cite web|url=http://www.h-avis.no/article/20060822/SPORT/108220002 |title=Slipper Nordtveit til landslaget |publisher=Haugesund Avis |date=22 August 2006 |accessdate=15 March 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090204171720/http://www.h-avis.no/article/20060822/SPORT/108220002 |archivedate=4 February 2009 |df=dmy-all }}&lt;/ref&gt; as he was selected for the starting line-up in a 2–0 victory against [[Sogndal Fotball|Sogndal]] at [[Haugesund stadion|Haugesund Stadium]]. He made nine league appearances during the [[Norwegian First Division 2007|following season]] for Haugesund in the [[Norwegian First Division]].&lt;ref&gt;{{cite web|url=http://www.nifs.no/personprofil.php?person_id=19752 |title=Nordtveit factfile – Norwegian &amp; International Statistics of Football |publisher=Nifs.no |accessdate=15 March 2009}}&lt;/ref&gt; That season he also appeared in the [[Norwegian Football Cup 2007|Norwegian Football Cup]], being in the starting line up in the 1–6 victory against Djerv 1919 (1st round),&lt;ref&gt;{{cite web|url=http://www.altomfotball.no/element.do?cmd=match&amp;matchId=107582&amp;tournamentId=110&amp;seasonId=329 |title=Djerv 1919 - Haugesund |work=altomfotball |publisher=TV 2 |date=20 May 2007 |accessdate=7 October 2012}}&lt;/ref&gt; and coming on in the 33rd minute in a 4–0 victory over [[Løv-Ham Fotball|Løv-Ham]] scoring one goal (third round).&lt;ref&gt;{{cite web|url=http://www.nifs.no/kampfakta.php?kamp_id=257026&amp;land=1&amp;t=14&amp;u=2336 |title=Match Statistics – Norwegian &amp; International Statistics of Football |publisher=Nifs.no |date=27 June 2007 |accessdate=15 March 2009}}&lt;/ref&gt; Haugesund went all the way to [[2007 Norwegian Football Cup Final|the final]].
+
+===Arsenal===
+[[Arsène Wenger]] travelled to Norway on 11 June 2007 to watch an Adeccoligaen match and begin negotiations to sign Nordtveit.&lt;ref&gt;{{cite web|url=http://fotballmagasinet.no/?mode=news&amp;id=8169 |title=Arsene Wenger overvåket Håvard Nordtveit, og Haugesunds hjemmeseier |publisher=FotballMagasinet.no |first=Sten Christian |last=Kvindesland |accessdate=15 March 2009 |language=Norwegian |deadurl=yes |archiveurl=https://web.archive.org/web/20090204100534/http://fotballmagasinet.no/?mode=news&amp;id=8169 |archivedate=4 February 2009 |df=dmy-all }}&lt;/ref&gt;  The members of the FKH board stated that the club had rejected Arsenal's initial bid. The player himself said that his club was asking for a "supernaturally high" transfer fee. The price being quoted in the Norwegian media was 20 million [[Norwegian krone]]r &lt;ref&gt;{{cite web|author=Øystein Eide |url=http://www.h-avis.no/article/20070611/SPORT/106110022/1062 |title=Er ikke 20 millioner nok? |publisher=Haugesunds Avis |date=30 April 2008 |accessdate=15 March 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090204171715/http://www.h-avis.no/article/20070611/SPORT/106110022/1062 |archivedate=4 February 2009 |df=dmy-all }}&lt;/ref&gt; (approximately £1.7 million at the time). A transfer fee was later finalized on 3 July 2007 for £500,000 initially, rising to £2m after 40 first team appearances.&lt;ref name=Feature /&gt;
+He was thereafter given the shirt number 55 by the club.
+
+Haugesund captain [[Kevin Nicol]] and former Norway coach [[Nils Johan Semb]] went on to praise him as the brightest defensive talent in Europe.&lt;ref&gt;{{cite web|url=http://youngguns.wordpress.com/2008/02/19/havard-nordtveit-brightest-defensive-talent-in-europe/ |title=Håvard Nordtveit, Brightest Defensive Talent In Europe? |publisher=Youngguns.wordpress.com |date=19 February 2008 |accessdate=15 March 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090304123309/http://youngguns.wordpress.com/2008/02/19/havard-nordtveit-brightest-defensive-talent-in-europe/ |archivedate=4 March 2009 }}&lt;/ref&gt;
+
+He made his Arsenal debut in their first pre-season friendly against [[Barnet F.C.|Barnet]] on 14 July 2007.
+Nordtveit came on after half-time, replacing [[Kerrea Gilbert]].&lt;ref&gt;{{cite web|url=https://www.arsenal.com/match/report/0708pre-season-barnet-0-2-arsenal-match-report|title=Barnet 0-2 Arsenal|website=Arsenal.com}}&lt;/ref&gt; He was named captain of Arsenal's [[Arsenal F.C. Reserves|reserve squad]] for the first match of the [[2007–08 Premier Reserve League|2007–08]] [[FA Premier Reserve League]] season. In an interview with Arsenal.com, Nordtveit said he was "honoured" to have been named captain, and that he hoped to continue in that role in the future.&lt;ref name=Feature&gt;{{cite web|url=https://www.bleacherreport.com/amp/2248347-former-arsenal-young-gun-havard-nordtveits-second-chance-at-gladbach.amp.html|title=Former Arsenal Young Gun Havard Nordtveit's 2nd Chance at Gladbach|website=Bleacher Report.com}}&lt;/ref&gt;
+
+In the final game of the [[2007–08 in English football|2007–08]] season he was named on the substitutes' bench in Arsenal's 1-0 win over [[Sunderland A.F.C.|Sunderland]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/7381801.stm|title=Sunderland 0-1 Arsenal|website=BBC.co.uk|date=2008-05-11}}&lt;/ref&gt;
+
+====2008–09 season====
+On 18 August 2008, [[UD Salamanca|Salamanca]] of the [[Segunda División]] signed him on a six-month loan.&lt;ref&gt;{{cite web|url=https://www.goal.com/en/amp/news/8/main/2008/08/19/825027/arsenal-defender-loaned-to-salamanca|title=Arsenal Defender Loaned To Salamanca|website=Goal.com}}&lt;/ref&gt;
+At Salamanca he played alongside another young [[Arsenal F.C.|Arsenal]] player, [[Pedro Roberto Silva Botelho|Pedro Botelho]]. He came off the bench to make his debut for UD Salamanca as they drew 1-1 with [[Sevilla Atlético]] in the second fixture of the season.&lt;ref&gt;{{cite web|url=http://www.espnfc.com.ng/match?gameId=254121|title=UD Salamanca 1-1 Sevilla Atlético|website=ESPN FC.com}}&lt;/ref&gt;
+
+Arsenal recalled him on 29 October, after becoming unhappy with the amount of playing time the Norwegian had received.&lt;ref&gt;{{cite web|url=http://www.nettavisen.no/innenriks/ibergen/article2348443.ece |title=Blir i Arsenal til jul |publisher=Nettavisen.no |date= 30 October 2008 |accessdate=15 March 2009 | language = Norwegian | first = Ørjan | last = Nilsson}}&lt;/ref&gt; However, he was not eligible to play for the club until 1 January 2009. On 21 January, he finally made his first appearance for the reserves since spending time on-loan at UD Salamanca, in a 2–2 draw against the [[Stoke City F.C.|Stoke City]] reserves. 
+
+On 10 March 2009, [[Norwegian Premier League]] outfit [[Lillestrøm SK|Lillestrøm]] signed Nordtveit on loan until 1 August 2009.&lt;ref name="Another Young Gun goes on loan"&gt;{{cite news|first=Tom |last=Adams |title=Another Young Gun goes on loan |url=http://www.setanta.com/uk/Articles/Football/2009/03/10/Premier-League-Nordtveit-joins-Lillestrom/gnid-43850/ |publisher=Setanta Sports |date=10 March 2009 |accessdate=10 March 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090314041330/http://www.setanta.com/uk/Articles/Football/2009/03/10/Premier-League-Nordtveit-joins-Lillestrom/gnid-43850/ |archivedate=14 March 2009 }}&lt;/ref&gt; He made his debut in the [[Eliteserien (football)|Norwegian Premier League]] in Lillestrøm's season opener away against [[Stabæk Fotball|Stabæk]] as a right fullback.&lt;ref&gt;{{cite web|url=https://www.nrk.no/sport/fotball/stabaek---lillestrom-spark-for-spark-1.6525047|title=Poengdeling i serieåpningen|language=Norwegian|website=NRK.no|date=2009-03-14}}&lt;/ref&gt;
+This was a role which he retained during his time with the Norwegian side.
+
+====2009–10 season====
+On 28 July 2009, [[1. FC Nürnberg]] agreed a one-year loan deal for the Norwegian defender from [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite web | url = http://sport.msn.de/news/fussball/bundesliga/startseite/512037/artikel_Havard-Nordtveit-kommt-zum-Club.html | title = Havard Nordtveit kommt zum Club | language = German | publisher = sport.msn.de | date = 28 July 2009 | accessdate = 3 October 2012}}&lt;/ref&gt; Despite being a centre-back, his primary role at [[1. FC Nürnberg|Nürnberg]] was in the defensive midfield position.&lt;ref&gt;{{cite web | url = http://www.arsenal.com/news/news-archive/nordtveit-i-can-follow-in-bould-s-footsteps | title = Nordtveit – I can follow in Bould's footsteps | publisher = arsenal.com | date = 3 August 2010 | accessdate = 3 October 2012 | first = Chris | last = Harris}}&lt;/ref&gt;&lt;ref name=Feature@ /&gt;
+
+===Borussia Mönchengladbach===
+On 30 December 2010, Nordtveit joined [[Borussia Mönchengladbach]] on a three-and-a-half-year contract, the transfer fee was £800,000.&lt;ref&gt;{{cite news|url=http://www.arsenal.com/news/news-archive/wenger-why-i-will-let-nordtveit-leave|title=Wenger&amp;nbsp;— Why I will let Nordtveit|publisher=Arsenal F.C.|date=31 December 2010|first=Chris|last=Harris|accessdate=19 May 2016}}&lt;/ref&gt; He made his competitive debut for the club on 15 January 2011 in their [[Bundesliga]] match against Nürnberg.&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/nurnberg-vs-mgladbach/220857|title=Match Report|website=Sky Sports.com}}&lt;/ref&gt; Nordtveit scored his first goal in Germany, against [[1. FC Köln]] in a 5–1 victory for Borussia Mönchengladbach.&lt;ref&gt;{{cite web|url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2010-11/29/1013496/spielanalyse_borussia-mgladbach-15_1-fc-koeln-16.html|title=Gladbach 5-1 Koln|language=German|website=Kicker.de}}&lt;/ref&gt;
+He was used mostly as a defensive midfielder, and established himself as a key player for Gladbach, taking the departed [[Michael Bradley (soccer)|Michael Bradley]]'s place in the squad.&lt;ref name=Feature@&gt;{{cite web|url=https://www.fourfourtwo.com/features/havard-nordtveit-west-ham-bound-ball-winner-who-arsenal-could-regret-letting-go|title=Havard Nordtveit: The West Ham-bound ball winner who Arsenal could regret letting go|website=Four Four Two.com|date=2016-05-16}}&lt;/ref&gt;
+
+===West Ham United===
+On 16 May 2016, it was announced that Nordtveit would be joining [[West Ham United F.C.|West Ham United]] on 1 July 2016 on a five-year contract.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2016/may/16/west-ham-united-havard-nordveit-borussia-monchengladbach-free-transfer|title=West Ham sign Havard Nordtveit from Borussia Mönchengladbach|newspaper=The Guardian|date=2016-05-16|last1=Association|first1=Press}}&lt;/ref&gt; He made his official debut for the ''Hammers'' on 28 July in a 2–1 defeat to [[NK Domžale]] in the first leg of a [[UEFA Europa League|Europa League]] qualifying match, playing the full 90 minutes.&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/nk-domzale-vs-west-ham/362689|title=Hammers lose in Slovenia|website=Sky Sports.com}}&lt;/ref&gt;
+
+===Hoffenheim===
+On 20 June 2017, West Ham announced that Nordtveit had signed for German side [[TSG Hoffenheim|1899 Hoffenheim]], for an undisclosed fee.&lt;ref&gt;{{cite news|url=http://www.whufc.com/news/articles/2017/june/20-june/havard-nordtveit-signs-hoffenheim|title=Havard Nordtveit signs for Hoffenheim|date=20 June 2017|accessdate=20 June 2017|publisher=West Ham United}}&lt;/ref&gt;
+
+==International career==
+Nordtveit was a regular for the Norway U-17 in qualifying and they barely missed out on a place at the [[2007 UEFA European Under-17 Football Championship|2007 European Championships]].  After that he was promoted to the U-19 squad and was ever-present during the [[2009 UEFA European Under-19 Football Championship qualification|2009 European Championship qualifying]], scoring twice, but once again Norway did not make it past the [[2009 UEFA European Under-19 Football Championship elite qualification|elite qualification stage]]. He has been a regular for the [[Norway national under-21 football team|U-21]] team in the [[2011 UEFA European Under-21 Football Championship qualification Group 7|2011 European Championship]] qualifying campaign.&lt;ref&gt;{{cite news|title=U21-TROPP TIL EM-KVALIK I SERBIA |publisher=[[Football Association of Norway|fotball.no]] |url=http://www.fotball.no/Landslag_og_toppfotball/Landslag/Aldersbestemt_gutter/U20/2009/U21-tropp-til-EM-kvalik-i-Serbia/ |date=2 November 2009 |language=Norwegian |deadurl=yes |archiveurl=https://archive.is/20120802114729/http://www.fotball.no/Landslag_og_toppfotball/Landslag/Aldersbestemt_gutter/U20/2009/U21-tropp-til-EM-kvalik-i-Serbia/ |archivedate=2 August 2012 |df=dmy-all }}&lt;/ref&gt; He made his first international appearance on 7 June 2011, in a friendly game against [[Lithuania national football team|Lithuania]]. Nordtveit scored his first goal for the national team when he scored Norway's first goal in the friendly match against [[Northern Ireland national football team|Northern Ireland]] on 29 February 2012, which Norway won 3–0.&lt;ref name="northern ireland"&gt;{{cite web |url=http://www.tv2.no/sport/fotball/landslag/sterk-sluttspurt-sikret-norgeseier-3721276.html |language=Norwegian |title=Sterk sluttspurt sikret Norge-seier |work=tv2.no |publisher=[[TV 2 (Norway)|TV 2]] |date=29 February 2012 |accessdate=29 February 2012}}&lt;/ref&gt; Nordtveit later became a regular in the senior squad, but in October 2012 he was suspended from playing the [[2014 FIFA World Cup qualification]] match against [[Cyprus national football team|Cyprus]] due to yellow cards.&lt;ref&gt;{{cite news |url=http://www.vg.no/sport/fotball/norsk/landslaget/artikkel.php?artid=10062288 |language=Norwegian |title=Nordtveit klar for U21-landskamp mot Frankrike |publisher=Verdens Gang |first=Øyvind |last=Askeland |first2=Sindre |last2=Øgar |date=15 October 2012 |accessdate=16 November 2012}}&lt;/ref&gt; Nordtveit was instead called up for the under-21 side where he played an important role in the 5–3 win against [[France national under-21 football team|France U21]] when Norway qualified for the [[2013 UEFA European Under-21 Football Championship]].&lt;ref&gt;{{cite news |url=http://www.vg.no/sport/fotball/norsk/landslaget/artikkel.php?artid=10062475 |language=Norwegian |title=Nordtveit trodde EM røk da Frankrike reduserte |publisher=Verdens Gang |first=Øyvind |last=Askeland |date=17 October 2012 |accessdate=16 November 2012}}&lt;/ref&gt;
+
+===International goals===
+:''Scores and results list Norway's goal tally first.''
+{| class="wikitable"
+! # !! Date !! Venue !! Opponent !! Score !! Result !! Competition !! Ref
+|-
+| 1. || 29 February 2012 || [[Windsor Park]], [[Belfast]] || {{fb|NIR}} || align=center | '''1'''–0 || align=center | 3–0 || [[Exhibition game|Friendly]] || &lt;ref name="northern ireland"/&gt;
+|-
+| 2. || 16 November 2014 || [[Bakcell Arena]], [[Baku]] || {{fb|AZE}} || align=center | '''1'''–0 || align=center | 1–0 || [[UEFA Euro 2016 qualifying Group H#Azerbaijan v Norway|UEFA Euro 2016 qualification]] || &lt;ref&gt;{{cite news |title=Azerbaijan beaten as Havard Nordtveit earns Norway third straight victory |url=http://www.espnfc.us/european-championship-qualifying/match/391152/azerbaijan-norway/report |work=ESPN FC |date=16 November 2014 |accessdate=16 November 2014}}&lt;/ref&gt;
+|}
+
+==Career statistics==
+{{updated|match played 1 December 2018}} &lt;ref&gt;{{soccerway|havard-nordtveit/16087|accessdate=16 October 2017}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!rowspan="2"|Division
+!colspan="2"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Europe
+!colspan="2"|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="3"|[[FK Haugesund|Haugesund]]
+|[[2006 Norwegian First Division|2006]]
+|rowspan=2|[[Norwegian First Division|First Division]]
+|1||0||0||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2007 Norwegian First Division|2007]]
+|9||0||2||1||colspan="2"|—||colspan="2"|—||11||1
+|-
+!colspan="2"|Haugesund total
+!10!!0!!2!!1!!colspan="2"|—!!colspan="2"|—!!12!!1
+|-
+|rowspan="3"|[[Arsenal F.C.|Arsenal]]
+|[[2007-08 Arsenal F.C. season|2007–08]]
+|rowspan=2|[[Premier League]]
+|0|||0||0||0||0||0||0||0||0||0
+|-
+|[[2008-09 in English football|2008–09]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+!colspan="2"|Arsenal total
+!0!!0!!0!!0!!0!!0!!0!!0!!0!!0
+|-
+|[[UD Salamanca|Salamanca]] (loan)
+|[[2008–09 Segunda División|2008–09]]
+|[[Segunda División]]
+|3||0||0||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[Lillestrøm SK|Lillestrøm]] (loan)
+|[[2009 Tippeligaen|2009]]
+|[[Tippeligaen]]
+|17||0||4||0||colspan="2"|—||colspan="2"|—||21||0
+|-
+|[[1. FC Nürnberg|Nürnberg]] (loan)
+|[[2009–10 1. FC Nürnberg season|2009–10]]
+|[[Bundesliga]]
+|19||0||1||0||colspan="2"|—||colspan="2"|—||20||0
+|-
+|rowspan="7"|[[Borussia Mönchengladbach]]
+|[[2010–11 Bundesliga|2010–11]]
+|rowspan=6|[[Bundesliga]]
+|16||1||0||0||colspan="2"|—||colspan="2"|—||16||1
+|-
+|[[2011–12 Borussia Mönchengladbach season|2011–12]]
+|31||1||5||0||colspan="2"|—||colspan="2"|—||36||1
+|-
+|[[2012–13 Borussia Mönchengladbach season|2012–13]]
+|31||1||2||1||colspan="2"|—||9&lt;ref group=lower-alpha&gt;Two appearances in the [[UEFA Champions League|Champions League]] and seven in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||0||42||2
+|-
+|[[2013–14 Borussia Mönchengladbach season|2013–14]]
+|21||1||0||0||colspan="2"|—||colspan="2"|—||21||1
+|-
+|[[2014–15 Borussia Mönchengladbach season|2014–15]]
+|21||2||1||0||colspan="2"|—||5&lt;ref group=lower-alpha name="UEL"&gt;Appearances in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||1||27||3
+|-
+|[[2015–16 Borussia Mönchengladbach season|2015–16]]
+|31||4||2||0||colspan="2"|—||6&lt;ref group=lower-alpha name="UCL"&gt;Appearances in the [[UEFA Champions League|Champions League]]&lt;/ref&gt;||0||39||4
+|-
+!colspan="2"|Mönchengladbach total
+!151!!10!!10!!1!!colspan="2"|—!!20!!1!!181!!12
+|-
+|rowspan="2"|[[West Ham United F.C.|West Ham United]]
+|[[2016-17 West Ham United F.C. season|2016–17]]
+|Premier League
+|16||0||1||0||1||0||3&lt;ref group=lower-alpha name="UEL"/&gt;||0||21||0
+|-
+!colspan="2"|West Ham United total
+!16!!0!!1!!0!!1!!0!!3!!0!!21!!0
+|-
+|rowspan=3|[[TSG 1899 Hoffenheim|Hoffenheim]]
+|[[2017–18 TSG 1899 Hoffenheim season|2017–18]]
+|rowspan=2|Bundesliga
+|15||0||1||0||0||0||7&lt;ref group=lower-alpha&gt;Two appearances in the [[UEFA Champions League|Champions League]] and five in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||0||23||0
+|-
+|[[2018–19 TSG 1899 Hoffenheim season|2018–19]]
+|8||0||0||0||0||0||0||0||8||0
+|-
+!colspan="2"|Hoffenheim total
+!23!!0!!1!!0!!0!!0!!7!!0!!31!!0
+|-
+!colspan="3"|Career total
+!241!!10!!19!!2!!1!!0!!30!!1!!289!!13
+|}
+
+{{reflist|group=lower-alpha}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{Soccerbase|49115}}
+* {{ESPN FC|102643}}
+* [https://www.fotball.no/fotballdata/person/profil/?p=n&amp;fiksId=2243148 Norway profile] at Fotball.No
+
+{{Fulham F.C. squad}}
+
+{{DEFAULTSORT:Nordtveit, Havard}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Norwegian footballers]]
+[[Category:Norway international footballers]]
+[[Category:Norway youth international footballers]]
+[[Category:Norway under-21 international footballers]]
+[[Category:Association football defenders]]
+[[Category:Borussia Mönchengladbach players]]
+[[Category:Arsenal F.C. players]]
+[[Category:FK Haugesund players]]
+[[Category:UD Salamanca players]]
+[[Category:Lillestrøm SK players]]
+[[Category:1. FC Nürnberg players]]
+[[Category:West Ham United F.C. players]]
+[[Category:Eliteserien players]]
+[[Category:Bundesliga players]]
+[[Category:Premier League players]]
+[[Category:Norwegian expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Expatriate footballers in Germany]]
+[[Category:TSG 1899 Hoffenheim players]]
+[[Category:Fulham F.C. players]]</text>
+      <sha1>f70o3c8wp1eflh5ihmkuh57au4kuoux</sha1>
+    </revision>
+  </page>
+</mediawiki>

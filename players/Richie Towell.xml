@@ -1,0 +1,310 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Richie Towell</title>
+    <ns>0</ns>
+    <id>29886248</id>
+    <revision>
+      <id>885941538</id>
+      <parentid>884772430</parentid>
+      <timestamp>2019-03-03T09:13:20Z</timestamp>
+      <contributor>
+        <username>Beeney xx</username>
+        <id>35180261</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19695">{{EngvarB|date=August 2013}}
+{{Use dmy dates|date=August 2013}}
+{{Infobox football biography
+| name = Richie Towell
+| image = Richie Towell.jpg
+| image_size = 200
+| caption = Towell playing for [[Dundalk F.C.|Dundalk]] in 2015
+| fullname = Richard Patrick Towell&lt;ref&gt;{{cite web |url=http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf |title=EFL: Retained list: 2015/16 |publisher=English Football League |page=11 |format=PDF |accessdate=26 June 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20161202052144/http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf |archivedate=2 December 2016 |df=dmy-all }}&lt;/ref&gt;
+| birth_date = {{birth date and age|1991|7|17|df=y}}
+| birth_place = [[Inchicore]], [[Dublin]], Ireland
+| height = 
+| position = [[Midfielder]]
+| currentclub = [[Rotherham United F.C.|Rotherham United]]&lt;br&gt;(on loan from [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]])
+| clubnumber = 13
+| youthyears1 = 
+| youthclubs1 = [[Crumlin United F.C.|Crumlin United]]
+| youthyears2 = 2007–2010
+| youthclubs2 = [[Celtic F.C. Reserve and Youth squads|Celtic]]
+| years1 = 2010–2012
+| clubs1 = [[Celtic F.C.|Celtic]]
+| caps1 = 1
+| goals1 = 0
+| years2 = 2011–2012
+| clubs2 = → [[Hibernian F.C.|Hibernian]] (loan)
+| caps2 = 30
+| goals2 = 1
+| years3 = 2013–2015
+| clubs3 = [[Dundalk F.C.|Dundalk]]
+| caps3 = 96
+| goals3 = 43
+| years4 = 2015–
+| clubs4 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+| caps4 = 1
+| goals4 = 0
+| years5 = 2017–2018
+| clubs5 = → [[Rotherham United F.C.|Rotherham United]] (loan)
+| caps5 = 39
+| goals5 = 5
+| years6 = 2018–
+| clubs6 = → [[Rotherham United F.C.|Rotherham United]] (loan)
+| caps6 = 25
+| goals6 = 4
+| nationalyears1 = 2007–2008
+| nationalteam1 = [[Republic of Ireland national under-17 football team|Republic of Ireland U17]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2009–2010
+| nationalteam2 = [[Republic of Ireland national under-19 football team|Republic of Ireland U19]]
+| nationalcaps2 = 6
+| nationalgoals2 = 0
+| nationalyears3 = 2010–2012
+| nationalteam3 = [[Republic of Ireland national under-21 football team|Republic of Ireland U21]]
+| nationalcaps3 = 9
+| nationalgoals3 = 0
+| club-update = 9:11, 3 March 2019 (UTC)
+| nationalteam-update = 
+}}
+'''Richard Patrick Towell''' (born 17 July 1991) is an Irish professional [[Association football|footballer]] who plays for [[Rotherham United F.C.|Rotherham United]] (on loan from [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]).
+
+Towell started his career with Scottish club [[Celtic F.C.|Celtic]] and made his debut in the first half of the [[2010–11 Celtic F.C. season|2010–11 season]]. He then had two loan spells with [[Hibernian F.C.|Hibernian]] before leaving Celtic in 2012.
+
+Towell has represented the [[Republic of Ireland under-21 national football team|Republic of Ireland under-21]], [[Republic of Ireland national under-19 football team|under-19]] and [[Republic of Ireland national under-17 football team|under-17]] teams
+
+==Club career==
+===Celtic===
+Towell started his career at [[Crumlin United F.C.|Crumlin United]] and in 2007 moved to Celtic. In November 2010, he made his professional debut coming on as a [[Substitute (association football)|substitute]] for [[Jos Hooiveld]] in the 57th minute of Celtic's 2–2 draw against [[Inverness Caledonian Thistle F.C.|Inverness]],&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/sport1/hi/football/scot_prem/9230565.stm |title=Celtic 2–2 Inverness CT |date=27 November 2010 |website= |publisher=BBC |accessdate=6 January 2011}}&lt;/ref&gt; he provided an assist for [[Paddy McCourt]].
+
+====Hibernian (loans)====
+On 25 January 2011, he joined [[Hibernian F.C.|Hibernian]] on loan until the end of the 2010–11 season.&lt;ref&gt;{{cite news|url=http://www.hibernianfc.co.uk/news/20110125/irish-defender-signs-on-loan_2262950_2276355 |title=Irish Defender Signs on Loan |publisher=Hibernian F.C. |date=25 January 2011 |accessdate=25 January 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110128225207/http://www.hibernianfc.co.uk/news/20110125/irish-defender-signs-on-loan_2262950_2276355 |archivedate=28 January 2011 }}&lt;/ref&gt; Towell made his debut a day later, in a 2–0 loss to [[Rangers F.C.|Rangers]].&lt;ref name = "rangers 2-0"&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/scot_prem/9372935.stm|title=Hibs 0–2 Rangers|work=BBC Sport|publisher=BBC|date=26 January 2011|accessdate=26 January 2011}}&lt;/ref&gt; He was at fault for the concession of the second Rangers goal, as a misplaced pass allowed [[Nikica Jelavić]] a clear chance to score.&lt;ref name = "rangers 2-0"/&gt; Despite this bad start, Towell helped to solidify the Hibs defence during the latter part of the 2010–11 season.&lt;ref name = "keen to tie down"/&gt; Hibs manager [[Colin Calderwood]] stated in April 2011 that he hoped to sign Towell for a longer period.&lt;ref name = "keen to tie down"&gt;{{cite news|url=http://sport.scotsman.com/top-stories/Hibs-keen-to-tie-down.6753164.jp|publisher=Johnston Press|first=Iain|last=Collin|date=17 April 2011|accessdate=17 April 2011|work=[[Scotland on Sunday]]|title=Hibs keen to tie down on-loan Richie Towell on a more permanent contract}}&lt;/ref&gt; Towell said in April 2011 that he received abuse from [[Heart of Midlothian F.C.|Hearts]] supporters in [[Edinburgh derby]] matches because he was Catholic.&lt;ref&gt;{{cite news|url=http://sport.scotsman.com/sport/39I39ll-get-abuse-because-I39m.6744599.jp|title='I'll get abuse because I'm a Catholic,' says Towell|work=[[The Scotsman]]|publisher=Johnston Press|date=2 April 2011|accessdate=2 April 2011|last=Bathgate|first=Stuart}}&lt;/ref&gt; However, he also said that this made him more determined to play better.&lt;ref&gt;{{cite news|url=http://edinburghnews.scotsman.com/edinburgh/Edinburgh-derby-39Rivalry-is-a.6744737.jp|work=[[Edinburgh Evening News]]|publisher=Johnston Press|date=2 April 2011|accessdate=2 April 2011|title=Edinburgh derby: 'Rivalry is a million miles from Old Firm'}}&lt;/ref&gt; Towell returned to Celtic at the end of the season, having made 15 starting appearances for Hibs.&lt;ref name = "second loan"/&gt;
+
+Towell re-signed on loan for Hibs on 25 August 2011, on a deal due to run until June 2012.&lt;ref name = "second loan"&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/14669133.stm|title=Celtic's Richie Towell rejoins Hibernian|work=BBC Sport|publisher=BBC|date=25 August 2011|accessdate=25 August 2011}}&lt;/ref&gt; He played the first match of his second loan spell only 3 days later, starting as Hibs lost 2–0 to [[Edinburgh derby]] rivals Hearts.&lt;ref&gt;{{cite news
+ | url =  https://www.telegraph.co.uk/sport/football/competitions/scottish-premier/8728406/Hearts-2-Hibernian-0-match-report.html
+ | title =  Hearts 2 Hibernian 0: match report
+ | publisher = |work=  [[The Daily Telegraph]]
+ | date =   28 August 2011
+ | accessdate = 29 August 2011}}&lt;/ref&gt; Towell started to find first-team opportunities limited after new manager [[Pat Fenlon]] made several siginings in the January transfer window. Two right backs and two central midfielders came in with one other right back going out. However, Fenlon said that once Towell had got his fitness levels up he would be back in the first team picture.&lt;ref&gt;{{cite news
+ | url =  http://www.scotsman.com/edinburgh-evening-news/sport/pat-fenlon-says-richie-towell-still-has-hibs-role-1-2103672
+ | title =  Pat Fenlon says Richie Towell still has Hibs role
+ | publisher =  Johnston Press|work= The Scotsman
+ | date =   8 February 2012
+ | accessdate = 19 March 2012}}&lt;/ref&gt;
+
+===Dundalk===
+Towell was signed by [[Stephen Kenny (footballer)|Stephen Kenny]] for [[Dundalk F.C.|Dundalk]] in December 2012, ahead of the 2013 Airtricity Premier Division season.&lt;ref&gt;{{cite news|title=Dundalk confirm signing of Celtic's Richie Towell and re-signing of Stephen McDonnell|url=http://www.goal.com/en-ie/news/3942/ireland/2012/12/19/3613531/dundalk-confirm-signing-of-celtics-richie-towell-and-re#|publisher=Goal.com|date=19 December 2012|accessdate=29 December 2012}}&lt;/ref&gt;
+
+Towell made his League of Ireland debut against Shamrock Rovers on the opening night of the 2013 season and was hugely influential in Dundalk’s second-placed finish that year, scoring seven times in 31 league appearances. He also picked up the [[PFAI]] Young Player of the Year award. He won back to back league titles with Dundalk in 2014 and 2015 scoring 11 and 25 goals in the respective seasons, and got his first taste of Champions League football with the [[League of Ireland]] champions.
+
+===Brighton &amp; Hove Albion===
+Towell signed for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] on 30 November 2015. Towell made his debut for the Sussex club in the third round of the [[2015-16 FA Cup]] on 9 January 2016 away against [[Hull City A.F.C.|Hull City]] where The Seagulls lost 1-0 to a [[Robert Snodgrass]] penalty. 
+Despite not playing a single league game in the [[2015-16 Football League Championship]] season Towell made an appearance in the [[2016 Football League play-offs|2016 Championship play-offs]] as a substitute away against [[Sheffield Wednesday]] where Brighton were beaten 2-0 and 3-1 on aggregate.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/live/football/36165388 |title= Championship play-offs: Sheffield Wednesday 2-0 Brighton as it happened - Live - BBC Sport|publisher=BBC Sport |date= 13 May 2016 |accessdate= 13 May 2016}}&lt;/ref&gt; Towell scored his first goal for The Albion in a 3-1 [[FA Cup]] loss away to then [[National League]] side [[Lincoln City F.C.|Lincoln]] on 28 January 2017.&lt;ref&gt;{{cite web|url=http://www.the42.ie/richie-towell-brighton-injury-3063167-Nov2016/|title=Former Dundalk star Richie Towell edges towards Brighton comeback|first=Shane|last=Costello|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Richie Towell departs Dundalk to sign for Championship high-flyers Brighton|url=http://www.independent.ie/sport/soccer/league-of-ireland/richie-towell-departs-dundalk-to-sign-for-championship-highflyers-brighton-34245085.html|accessdate=30 November 2015|publisher=independent.ie|date=30 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/38700730 |title= Lincoln City 3-1 Brighton &amp; Hove Albion - BBC Sport|publisher=BBC Sport |date=28 January 2017 |accessdate=28 January 2017}}&lt;/ref&gt; Towell's only league game to date with The Seagulls came against his then future loan club [[Rotherham United F.C.|Rotherham]] on 7 March 2017 where he came on as a substitute where Brighton won 2-0 at the [[New York Stadium]]. At the end of the season Brighton &amp; Hove Albion were promoted to the [[Premier League]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39111438 |title=Rotherham United 0-2 Brighton &amp; Hove Albion - BBC Sport|publisher=BBC Sport |date=7 March 2017 |accessdate= 7 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/live/football/39422564 |title=Brighton promoted to Premier League - relive EFL action as it happened - Live - BBC Sport|publisher=BBC Sport |date=17 April 2017 |accessdate= 17 April 2017}}&lt;/ref&gt;
+In May 2017, following Brighton's promotion to the [[Premier League]], Towell signed a deal to keep him at the club until 2019.
+
+====Rotherham (loans)====
+On 31 August 2017, he signed for [[EFL League One|League One]]'s Rotherham on a season-long loan where he helped them regain their Championship status, winning the [[2018 English Football League play-offs|2018 EFL League One play-offs]].&lt;ref&gt;{{Cite news|url=https://www.themillers.co.uk/news/2017/august/signing--millers-land-late-deal-for-towell/|title=SIGNING {{!}} Millers land late deal for Towell|last=|first=|date=31 August 2017|work=Rotherham United F.C.|access-date=6 July 2018|language=en-gb}}&lt;/ref&gt; On 31 August 2018 he returned to Rotherham United for a second season-long loan spell.&lt;ref&gt;{{cite web|url=https://www.themillers.co.uk/news/2018/august/signing--rotherham-complete-loan-return-for-richie/#.W4kuAUaPC3o.twitter|title=SIGNING {{!}} Rotherham complete loan return for Richie|publisher=Rotherham United Official Site|date=31 August 2018}}&lt;/ref&gt;
+
+==International career==
+In May 2008, Towell made his [[Republic of Ireland national under-17 football team|Republic of Ireland under-17's]] debut in a [[UEFA European Under-17 Football Championship|European championship match]] against [[Switzerland national under-17 football team|Switzerland]].&lt;ref&gt;{{cite web |url=http://www.independent.ie/sport/soccer/owngoal-agony-as-swiss-roll-ireland-in-turkey-1369398.html |title=Ireland U17 0–1 Switzerland U17 |author=Irish Independent |date=8 May 2008 |website= |publisher= |accessdate=6 January 2011}}&lt;/ref&gt; He gained his second Ireland under-17 cap four days later, against [[Spain national under-17 football team|Spain]].&lt;ref&gt;{{cite web |url=http://www.independent.ie/sport/soccer/sublime-spanish-send-irish-home-without-a-point-1372822.html |title=Ireland U17 1–3 Spain U17 |author=Irish Independent |date=12 May 2008 |website= |publisher=
+|accessdate=6 January 2011}}&lt;/ref&gt;
+
+Towell made two appearances for [[Republic of Ireland national under-21 football team|Republic of Ireland under-21s]] in the [[2011 UEFA European Under-21 Football Championship qualification]] campaign.&lt;ref&gt;{{cite web |url=http://www.uefa.com/under21/teams/player=1906055/profile/index.html  |publisher=[[UEFA]]|title=Richard Towell|accessdate=17 April 2011}}&lt;/ref&gt;
+
+==Career statistics==
+
+{{updated|match played 2 March 2019.}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Others
+!colspan="2"|Total
+|-
+!Division!!App!!Goals
+!App!!Goals
+!App!!Goals
+!App!!Goals
+!App!!Goals
+!App!!Goals
+|-
+|[[Celtic F.C.|Celtic]]
+|[[2010-11 Celtic F.C. season|2010–11]]&lt;ref name="RT10"&gt;{{soccerbase season|56187|2010|accessdate=25 September 2017}}&lt;/ref&gt;
+|[[Scottish Premier League]]
+|1||0||0||0|||0||0||0||0||-||-||1||0
+|-
+|rowspan="3"|[[Hibernian F.C.|Hibernian]] (loan)
+|[[2010–11 Hibernian F.C. season|2010–11]]&lt;ref name="RT10"/&gt;
+|rowspan="2"|Scottish Premier League
+|16||0||0|||0||0||0||0||0||-||-||16||0
+|-
+|[[2011–12 Hibernian F.C. season|2011–12]]&lt;ref name="RT11"&gt;{{soccerbase season|56187|2011|accessdate=25 September 2017}}&lt;/ref&gt;
+|14||1||1||0||1||0||0||0||-||-||16||1
+|-
+!colspan="2"|Hibernian
+!30!!1!!1!!0!!1!!0!!0!!0!!0!!0!!32!!1
+|-
+|rowspan="4"|[[Dundalk F.C.|Dundalk]]
+|[[2013 League of Ireland Premier Division|2013]]&lt;ref name="RTSW"&gt;{{soccerway|richard-towell/134038|accessdate=25 September 2017}}&lt;/ref&gt;
+|rowspan="3"|[[League of Ireland Premier Division|Irish Premier Division]]
+|31||7||2|||2||2||0||0||0||-||-||35||9
+|-
+|[[2014 League of Ireland Premier Division|2014]]&lt;ref name="RTSW"/&gt;
+|33||11||2||0||1||0||4&lt;ref group=lower-alpha&gt;4 appearances and 2 goals in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||2||5&lt;ref group=lower-alpha&gt;5 appearances and 2 goals in the [[Setanta Sports Cup]]&lt;/ref&gt;||2||45||15
+|-
+|[[2015 League of Ireland Premier Division|2015]]&lt;ref name="RTSW"/&gt;
+|32||25||3||1||1||1||2&lt;ref group=lower-alpha&gt;2 appearances and 0 goals in the [[UEFA Champions League|Champions League]]&lt;/ref&gt;||0||-||-||38||27
+|-
+!colspan="2"|Dundalk
+!96!!43!!7!!3!!4!!1!!6!!2!!5!!2!!118!!51
+|-
+|rowspan="4"|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+|[[2015–16 Brighton &amp; Hove Albion F.C. season|2015–16]]&lt;ref name="RT15"&gt;{{soccerbase season|56187|2015|accessdate=25 September 2017}}&lt;/ref&gt;
+|rowspan="2"|[[EFL Championship|Championship]]
+|0||0||1||0||0||0||-||-||1&lt;ref group=lower-alpha&gt;1 appearance and 0 goals in the [[EFL Championship play-offs|Championship play-offs]]&lt;/ref&gt;||0||2||0
+|-
+|[[2016–17 Brighton &amp; Hove Albion F.C. season|2016–17]]&lt;ref name="RT16"&gt;{{soccerbase season|56187|2016|accessdate=25 September 2017}}&lt;/ref&gt;
+|1||0||2||1||0||0||-||-||-||-||3||1
+|-
+|[[2017–18 Brighton &amp; Hove Albion F.C. season|2017–18]]&lt;ref name="RT17"&gt;{{soccerbase season|56187|2017|accessdate=25 September 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||1||0||-||-||-||-||1||0
+|-
+!colspan="2"|Brighton &amp; Hove Albion
+!1!!0!!3!!1!!1!!0!!0!!0!!1!!0!!6!!1
+|-
+|[[Brighton &amp; Hove Albion F.C. Reserves and Academy|Brighton &amp; Hove Albion U23]]
+|2016–17&lt;ref name=sb1617/&gt;
+|colspan=3|-||-||-||-||-||-||-||3{{efn|3 appearances, 1 goal in [[EFL Trophy]]}}||1||3||1
+|-
+|rowspan="3"|[[Rotherham United F.C.|Rotherham United]] (loan)
+|[[2017–18 Rotherham United F.C. season|2017–18]]&lt;ref name="RT17"/&gt;
+|[[EFL League One|League One]]
+|39||5||1||0|||-||-||-||-||5&lt;ref group=lower-alpha&gt;2 appearances and 1 goal in [[2017–18 EFL Trophy]]. 3 appearances and 0 goals in [[2017–18 EFL League One#Play-offs|2017–18 EFL League One play-offs]]&lt;/ref&gt;||1||45||6
+|-
+|[[2018–19 Rotherham United F.C. season|2018–19]]&lt;ref name="RT18"&gt;{{soccerbase season|56187|2018|accessdate=12 February 2019}}&lt;/ref&gt;
+|Championship
+|25||4||0||0||-||-||-||-||0||0||25||4
+|-
+!colspan="2"|Rotherham United
+!64!!9!!1!!0!!0!!0!!0!!0!!5!!1!!70!!10
+|-
+! colspan="3" |Career total
+!192!!54!!12!!4!!6!!1!!6!!2!!14!!3!!230!!64
+|}
+
+{{reflist|group=lower-alpha}}
+
+==Honours==
+'''Dundalk'''
+*[[League of Ireland Premier Division]]: [[2014 League of Ireland Premier Division|2014]], [[2015 League of Ireland Premier Division|2015]]
+*[[FAI Cup]]: [[2015 FAI Cup|2015]]
+*[[League of Ireland Cup]]: [[2014 League of Ireland Cup|2014]]
+*[[President of Ireland's Cup]]: [[2015 President of Ireland's Cup|2015]]
+*[[Leinster Senior Cup (association football)|Leinster Senior Cup]]: [[2014–15 Leinster Senior Cup|2014–15]]
+
+'''Rotherham United'''
+*[[EFL League One play-offs]]: [[2018 English Football League play-offs#League One|2018]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44186999 |title=Rotherham United 2–1 Shrewsbury Town |first=Ged |last=Scott |publisher=BBC Sport |date=27 May 2018 |accessdate=27 May 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*[[PFAI Young Player of the Year]]: 2013
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerbase}}
+*[http://www.uefa.com/teamsandplayers/players/player=1906055/profile/index.html UEFA Profile]
+
+&lt;!--{{Brighton &amp; Hove Albion F.C. squad}}--&gt;
+{{Rotherham United F.C. squad}}
+{{Navboxes
+|title=Awards
+|titlestyle=background: gold
+|list1=
+{{PFAI Players' Player of the Year}}
+{{PFAI Players' Young Player of the Year}}
+{{League of Ireland Premier Division top scorers}}
+{{2013 PFAI League of Ireland Premier Division Team of the Year}}
+{{2014 PFAI League of Ireland Premier Division Team of the Year}}
+{{2015 PFAI League of Ireland Premier Division Team of the Year}}
+}}
+
+{{DEFAULTSORT:Towell, Richie}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Association footballers from Dublin (city)]]
+[[Category:Republic of Ireland association footballers]]
+[[Category:Republic of Ireland youth international footballers]]
+[[Category:Republic of Ireland under-21 international footballers]]
+[[Category:Association football midfielders]]
+[[Category:Crumlin United F.C. players]]
+[[Category:Celtic F.C. players]]
+[[Category:Hibernian F.C. players]]
+[[Category:Dundalk F.C. players]]
+[[Category:Brighton &amp; Hove Albion F.C. players]]
+[[Category:Rotherham United F.C. players]]
+[[Category:Scottish Premier League players]]
+[[Category:League of Ireland players]]
+[[Category:English Football League players]]
+[[Category:Republic of Ireland expatriate association footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Scotland]]
+[[Category:Irish expatriate sportspeople in England]]
+[[Category:Irish expatriate sportspeople in Scotland]]</text>
+      <sha1>c0k2uk42d0i18y87q6h9hyfql8ew0fg</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,233 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Harry Winks</title>
+    <ns>0</ns>
+    <id>44530710</id>
+    <revision>
+      <id>885706585</id>
+      <parentid>885689950</parentid>
+      <timestamp>2019-03-01T19:41:23Z</timestamp>
+      <contributor>
+        <username>Iggy the Swan</username>
+        <id>31885086</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/2A01:4C8:101D:3A8:9834:E115:94CE:F5E6|2A01:4C8:101D:3A8:9834:E115:94CE:F5E6]] ([[User talk:2A01:4C8:101D:3A8:9834:E115:94CE:F5E6|talk]]) to last revision by Govvy ([[WP:TW|2019 Swan]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25009">{{Use British English|date=June 2016}}
+{{Use dmy dates|date=May 2018}}
+{{Infobox football biography
+| name                = Harry Winks
+| image               = France - England U19, 20150331 51.jpg
+| image_size          = 200
+| caption             = Winks playing for [[England national under-19 football team|England U19s]] in 2015
+| fullname            = Harry Billy Winks&lt;ref&gt;{{cite web |url=https://www.bdfutbol.com/en/j/j84146.html |title=Winks: Harry Billy Winks: Player |publisher=BDFutbol |accessdate=4 September 2018}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1996|2|2|df=y}}&lt;ref name=Soccerway&gt;{{cite web |url=https://uk.soccerway.com/players/harry-winks/274470/ |title=H. Winks: Summary |website=Soccerway |publisher=Perform Group |accessdate=4 September 2018}}&lt;/ref&gt;
+| birth_place         = [[Hemel Hempstead]], England
+| height              = {{convert|1.78|m|ftin|order=flip}}&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/7488/Harry-Winks/overview |title=Harry Winks: Overview |publisher=Premier League |accessdate=14 December 2017}}&lt;/ref&gt;
+| position            = [[Midfielder]]
+| currentclub         = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| clubnumber          = 8
+| youthyears1         = {{0|0000}}–2014
+| youthclubs1         = [[Tottenham Hotspur F.C. Under-23s and Academy|Tottenham Hotspur]]
+| years1              = 2014–
+| clubs1              = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| caps1               = 61
+| goals1              = 2
+| nationalyears1      = 2012–2013
+| nationalteam1       = [[England national under-17 football team|England U17]]
+| nationalcaps1       = 6
+| nationalgoals1      = 0
+| nationalyears2      = 2014
+| nationalteam2       = [[England national under-18 football team|England U18]]
+| nationalcaps2       = 2
+| nationalgoals2      = 1
+| nationalyears3      = 2014–2015
+| nationalteam3       = [[England national under-19 football team|England U19]]
+| nationalcaps3       = 6
+| nationalgoals3      = 0
+| nationalyears4      = 2015–2016
+| nationalteam4       = [[England national under-20 football team|England U20]]
+| nationalcaps4       = 8
+| nationalgoals4      = 0
+| nationalyears5      = 2016–
+| nationalteam5       = [[England national under-21 football team|England U21]]
+| nationalcaps5       = 2
+| nationalgoals5      = 0
+| nationalyears6      = 2017–
+| nationalteam6       = [[England national football team|England]]
+| nationalcaps6       = 3
+| nationalgoals6      = 0
+| club-update         = 08:10, 24 February 2019 (UTC)
+| nationalteam-update = 00:45, 25 November 2018 (UTC)
+}}
+'''Harry Billy Winks''' (born 2 February 1996) is an English professional [[Association football|footballer]] who plays as a [[midfielder]] for {{English football updater|TottenhH}} club [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and the [[England national football team|English national team]].
+
+==Early and personal life==
+Harry Winks was born to Anita and Gary Winks. He has Spanish ancestry through his mother and grandparents.&lt;ref&gt;{{cite news|url=http://www.espn.co.uk/football/tottenham-hotspur/story/3167719/tottenhams-harry-winks-i-consider-myself-english-and-i-want-to-play-for-england |title=Spurs' Harry Winks: 'I consider myself English and I want to play for England'|first=Dan |last= Kilpatrick |date=28 July 2017 |work=ESPN |accessdate=14 February 2019}}&lt;/ref&gt; He was born and raised in [[Hemel Hempstead]] and was educated at [[Cavendish School, Hemel Hempstead|Cavendish School]].&lt;ref name=Soccerway/&gt;&lt;ref&gt;{{cite news |url=http://www.tringtoday.co.uk/sport/football/hemel-hot-shot-harry-ready-to-earn-his-spurs-1-4051385 |title=Hemel hot shot ready to earn his Spurs |website=Tring Today |accessdate=22 November 2016}}&lt;/ref&gt; Winks is a [[Tottenham Hotspur F.C.|Tottenham Hotspur]] fan; he attended his first match at [[White Hart Lane]] when he was six. He was invited to train at Tottenham's development centre in [[St Albans]] after attending a summer football camp ran by an academy coach when he was five, and joined the Tottenham Academy at the age of six.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2017/jan/27/harry-winks-spurs-tottenham|title=Harry Winks: ‘The buzz I get from playing for Tottenham … I don’t think it will ever go’ |first=David |last=Hytner|date=27 January 2017 |newspaper=The Guardian |accessdate=14 February 2019}}&lt;/ref&gt;&lt;ref name="Pitt-Brooke"/&gt;
+
+==Club career==
+===Tottenham Hotspur===
+====Early career====
+Winks is a product of the Tottenham Hotspur youth system. During the [[2013–14 Tottenham Hotspur F.C. season|2013–14 season]], he regularly trained with the first-team squad and was named on the senior bench for the first time in a Premier League tie against [[Liverpool F.C.|Liverpool]] on 30 March 2014, remaining an unused substitute in a 4–0 loss at [[Anfield]].&lt;ref&gt;{{cite news |last1=Emons |first1=Michael |title=Liverpool 4–0 Tottenham |url=https://www.bbc.co.uk/sport/0/football/26703761 |accessdate=13 September 2015 |publisher=BBC Sport |date=30 March 2014}}&lt;/ref&gt; On 27 July 2014, Winks signed his first professional contract with Tottenham.&lt;ref&gt;{{cite news |url=http://www1.skysports.com/football/news/11675/9395683/tottenham-starlet-harry-winks-agrees-professional-deal |title=Premier League: Tottenham midfielder Harry Winks agrees professional deal |first=Pete |last=O'Rourke |date=26 July 2014 |publisher=Sky Sports}}&lt;/ref&gt; According to Winks, [[Mauricio Pochettino]] said that he wanted to sign Winks immediately after watching videos of his performances.&lt;ref name="Pitt-Brooke"&gt;{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/harry-winks-tottenham-spurs-mauricio-pochettino-interview-a7549816.html |title=Harry Winks: How trusting Mauricio Pochettino saw me break into the Tottenham first-team |first=Jack |last=Pitt-Brooke |date=27 January 2017 |work=The Independent}}&lt;/ref&gt; He made his first team debut on 27 November 2014 in the [[UEFA Europa League]] group against [[FK Partizan]] in a 1–0 home win at [[White Hart Lane]], replacing [[Paulinho (footballer)|Paulinho]] after 87 minutes.&lt;ref&gt;{{cite news |last1=Chowdhury |first1=Saj |title=Tottenham 1–0 Partizan |url=https://www.bbc.co.uk/sport/0/football/30204407 |accessdate=13 September 2015 |publisher=BBC Sport |date=27 November 2014}}&lt;/ref&gt;
+
+On 6 July 2015, Winks signed a new contract with Tottenham until 2018, with the option of an additional year.&lt;ref&gt;{{cite news |url=http://www.tottenhamhotspur.com/news/new-deal-for-winks-060715/ |title=New deal for Winks |accessdate=7 July 2015 |publisher=Tottenham Hotspur F.C.}}&lt;/ref&gt; He was given the number 29 shirt, which was included on the club's list of first-team numbers.&lt;ref&gt;{{cite web |url=http://www.tottenhamhotspur.com/news/squad-numbers-070815/ |title=2015–16 Premier League squad numbers announced 7 August 2015 |publisher=Tottenham Hotspur F.C. |date=7 August 2015}}&lt;/ref&gt; Winks made his first appearance of the season as a late substitute in a 3–1 win against [[Qarabağ FK]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/34203688 |title=Tottenham Hotspur 3–1 FK Qarabag |date=17 September 2015 |publisher=BBC Sport}}&lt;/ref&gt;
+
+====2016–17 season====
+On 27 August 2016, he made his Premier League debut, replacing [[Christian Eriksen]] in the last minute of the match in a 1–1 draw at home to [[Liverpool F.C.|Liverpool]].&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2016/08/27/tottenham-vs-liverpool-live-score-and-goal-updates-from-premier/ |title=Tottenham 1 Liverpool 1: Danny Rose scores late equaliser to cancel out James Milner penalty |first=Sam |last=Wallace |newspaper=The Daily Telegraph |date=27 August 2016}}&lt;/ref&gt;
+
+On 19 November 2016, Winks made his full debut against [[West Ham United F.C.|West Ham United]], performing well and scoring his first ever goal for Spurs to level the match at 1–1. Tottenham went on to win the match 3–2 in a dramatic finish at White Hart Lane after scoring two late goals.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2016/nov/19/tottenham-hotspur-west-ham-united-premier-league-match-report |title=Harry Kane's two late goals earn Tottenham victory over West Ham |first=Alan |last=Smith |date=19 November 2016 |newspaper=The Guardian}}&lt;/ref&gt; Winks made his debut in the FA Cup on 8 January 2017, when he was selected for the team in the match against [[Aston Villa F.C.|Aston Villa]] of the third round. Tottenham went on to win the match 2–0.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/38481612 |title=Tottenham Hotspur 2–0 Aston Villa |publisher=BBC Sport |author=Rostance, Tom |date=8 January 2017 |accessdate=3 April 2017}}&lt;/ref&gt; On 14 February 2017, Winks signed a new contract with Tottenham, keeping him at the club until 2022.&lt;ref&gt;{{Cite news |url=http://www.skysports.com/football/news/11675/10767558/harry-winks-signs-new-tottenham-contract |title=Harry Winks signs new Tottenham contract |publisher=Sky Sports|access-date=13 July 2017}}&lt;/ref&gt;
+During an away match against [[Burnley F.C.|Burnley]] on 1 April 2017 in the Premier League, Winks suffered an injury when he tumbled into the Burnley dugout,&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39390125 |title=Burnley 0–2 Tottenham |publisher=BBC Sport |author=Stelton, Jack |date=1 April 2017 |accessdate=3 April 2017}}&lt;/ref&gt; and was later taken to hospital for a scan on his ankle.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39469425 |title=Harry Winks: Tottenham midfielder taken to hospital with ankle injury |publisher=BBC Sport |date=1 April 2017 |accessdate=3 April 2017}}&lt;/ref&gt; Spurs announced on 4 April that Winks would be sidelined by the injury to his ankle ligament for the rest of the season.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39496157 |title=Harry Winks: Tottenham midfielder ruled out for the rest of the season |date=4 April 2017 |publisher=BBC Sport |accessdate=4 April 2017}}&lt;/ref&gt;
+
+====2017–18 season====
+Winks began the [[2017–18 Tottenham Hotspur F.C. season|2017–18 season]] as substitutes in three early games after recovering from his injury.&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/fa-league-cups/tottenham-team-news-vs-barnsley-carabao-cup-harry-winks-dele-alli-a7954686.html |title=Harry Winks set to make first Tottenham start in six months after recovering from ankle injury |first=Jack |last=Pitt-Brooke |date=19 September 2017 |work=The Independent}}&lt;/ref&gt; He made his first start of the season in the [[2017–18 EFL Cup|EFL Cup]] tie against [[Barnsley F.C.|Barnsley]] that finished 1–0.&lt;ref&gt;{{cite news |url=http://www.espn.co.uk/football/tottenham-hotspur/story/3208863/tottenhams-harry-winks-i-feel-like-im-100-percent-now-following-ankle-injury |title=Tottenham's Harry Winks: 'I feel like I'm 100 percent now' following injury |date=20 September 2017 |first=Dan |last=Kilpatrick |publisher=ESPN}}&lt;/ref&gt; He next started in the match in [[2017–18 UEFA Champions League|UEFA Champions League]] away game against [[APOEL FC]], and his performance earned him praise from [[Mauricio Pochettino]] as the "perfect midfielder".&lt;ref name = "unlock"&gt;{{cite news |url=http://www.skysports.com/football/news/11675/11059148/mauricio-pochettino-tottenhams-harry-winks-can-unlock-defences |title=Mauricio Pochettino: Tottenham's Harry Winks can unlock defences |first=Allan |last=Valente |date=29 September 2017 |work=Sky Sports}}&lt;/ref&gt; After only one previous start in the Premier League for the club this season (in a 4–0 win against [[Huddersfield Town A.F.C.|Huddersfield Town]]) and four Premier League starts including last season, he gained his first call-up for the national squad.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2017/oct/02/harry-winks-england-call-up-jones-delph-injured |title=Harry Winks earns England call-up after Fabian Delph and Phil Jones withdraw |first=Dominic |last=Fifield |date=2 October 2017 |work=The Guardian}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2017/10/05/harry-winkss-four-premier-league-starts-enough-experience-shine/ |title=Why Harry Winks's four Premier League starts is more than enough experience to shine for England |first=Alistair |last=Tweedale |date=5 October 2017 |work=The Daily Telegraph}}&lt;/ref&gt; He received plaudits for his performance in the UEFA Champions League game away against [[Real Madrid C.F.|Real Madrid]] where he was judged to have held his own against [[Luka Modrić]] and [[Toni Kroos]].&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/european/real-madrid-tottenham-champions-league-harry-winks-shines-harry-kane-cristiano-ronaldo-a8005891.html |title=Harry Winks shines at Real Madrid as Tottenham midfielder proves he has the most important thing – Mauricio Pochettino's trust |first=Ed |last=Malyon |date=17 October 2017 |work=The Independent}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.thenational.ae/sport/football/a-nudge-to-winks-tottenham-s-promising-star-must-keep-feet-to-ground-1.668730 |title=A nudge to Winks: Tottenham's promising star must keep feet to ground |first=John |last=McAuley |date=19 October 2017 |work=The National}}&lt;/ref&gt;  However, he picked up a niggling ankle injury in the match against [[Crystal Palace F.C.|Crystal Palace]] on 5 November 2017, which led to him missing final three months of this season after trying initially to play some games through the discomfort.&lt;ref&gt;{{cite news |url=http://www.espn.co.uk/football/club/tottenham-hotspur/367/blog/post/3422022/harry-winks-now-the-forgotten-man-for-both-spurs-and-englands-world-cup-squad |title=Harry Winks' injury could spoil his Tottenham, World Cup dreams |date=16 March 2018 |work=ESPN}}&lt;/ref&gt; On 17 May 2018 he signed a new contract, keeping him at Tottenham until 2023.&lt;ref&gt;{{cite web |url=http://www.skysports.com/football/news/11675/11376031/harry-winks-signs-new-tottenham-contract-until-2023 |title=Harry Winks signs new Tottenham contract until 2023 |publisher=}}&lt;/ref&gt;
+
+====2018–19 season====
+After a long period out through an injury that required surgery,&lt;ref&gt;{{cite news |url=https://www.skysports.com/football/news/11675/11389224/tottenham-midfielder-harry-winks-undergoes-sucessful-ankle-surgery |title=Tottenham midfielder Harry Winks undergoes successful ankle surgery |date=29 May 2018 |work=Sky Sports}}&lt;/ref&gt; Winks returned to the squad in the [[2018–19 Tottenham Hotspur F.C. season|2018–19 season]] in the home game against [[Fulham F.C.|Fulham]], appearing as a late substitute.&lt;ref&gt;{{cite web |url=https://www.football.london/tottenham-hotspur-fc/players/harry-winks-spurs-team-news-15060260 |title=Tottenham ace Harry Winks outlines what he has done differently in his recovery from injury |first=Lee |last=Wilmot |date=25 August 2018 |work=Football.london}}&lt;/ref&gt; He made his first start of the season in the game against Liverpool that Spurs lost 2–1.&lt;ref&gt;{{cite news |url=https://inews.co.uk/sport/football/tottenhams-harry-winks-played-through-the-pain-against-liverpool-but-at-what-cost/ |title=Tottenham’s Harry Winks played through the pain against Liverpool but at what cost? |first=Sam |last=Cunningham |work=iNews |date=16 September 2018}}&lt;/ref&gt;  In the away match against [[Fulham F.C.|Fulham]] in January 2019, he scored a last minute winning goal to win 2–1, his first goal for the club since November 2016.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2019/01/20/fulham-vs-tottenham-premier-league-live-score-latest-updates/ |title=Harry Winks breaks Fulham hearts with last minute winner but Dele Alli adds to Spurs' injury concerns |first1=Jason |last1=Burt|first2= JJ |last2=Bull|date=20 January 2019|work=The Daily Telegraph }}&lt;/ref&gt;
+
+==International career==
+Winks has represented England up to senior level. Before this, he was eligible to represent [[Spain national football team|Spain]] as well as England.&lt;ref&gt;{{cite web |url=http://www.espn.co.uk/football/tottenham-hotspur/story/3167719/tottenhams-harry-winks-i-consider-myself-english-and-i-want-to-play-for-england |title=Spurs' Harry Winks: 'I consider myself English and I want to play for England' |first=Dan |last=Kilpatrick |publisher=ESPN}}&lt;/ref&gt; He was part of the [[England national under-20 football team|under-20 squad]] for the Mercedes-Benz Elite Cup in Germany in 2015.&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/england/development/2015/sep/under-20s-squad-named-for-trip-to-germany-300915 |title=England Under-20s squad named for Mercedes Elite Cup in Germany |first=Nicholas |last=Veevers |publisher=The Football Association}}&lt;/ref&gt; Winks made his [[England national under-21 football team|under-21]] debut on 14 November 2016 where he started in [[England national under-21 football team|England]]'s friendly 3–2 defeat to [[France national under-21 football team|France]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/37896448 |title=France-U21 3–2 England-U21 |publisher=BBC Sport |date=14 November 2016}}&lt;/ref&gt;
+
+On 2 October 2017, Winks received his first call up to the [[England national football team|senior England squad]], for their [[2018 FIFA World Cup qualification|2018 FIFA World Cup qualifiers]] against [[Slovenia national football team|Slovenia]] and [[Lithuania national football team|Lithuania]].&lt;ref&gt;{{cite news |last1=Pitt-Brooke |first1=Jack |last2=Delaney |first2=Miguel |title=England call up Harry Winks to replace injured Fabian Delph and Phil Jones |url=https://www.independent.co.uk/sport/football/international/england-call-up-harry-winks-to-squad-to-face-slovenia-a7979581.html |accessdate=2 October 2017 |newspaper=The Independent |date=2 October 2017}}&lt;/ref&gt; He made his debut when starting in England's 1–0 away win over Lithuania, which was the team's final match in their successful 2018 FIFA World Cup qualification campaign. Phil McNulty of BBC Sport stated that, on the night, Winks was "England's best performer. Neat and tidy and almost scored. Eye-catching among so much mediocrity".&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=Lithuania 0–1 England |url=https://www.bbc.co.uk/sport/football/41457291 |publisher=BBC Sport |date=8 October 2017 |accessdate=8 October 2017}}&lt;/ref&gt; Winks missed the [[2018 FIFA World Cup|World Cup]] due to injury, but returned to the England squad in the [[2018–19 UEFA Nations League]] away match against Spain. He helped England to a 3–2 win, the first competitive home defeat for Spain since 2003 and England's first win in Spain in 31 years, in what was judged a "self-assured" performance.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2018/10/15/harry-winksproves-has-exactly-kind-quality-england-side-needs/ |title=Harry Winks proves he has exactly the kind of quality this England side needs – sharp, self-assured and aggressive |first=Jason |last=Burt |work=The Daily Telegraph |date=15 October 2018}}&lt;/ref&gt;
+
+==Style of play==
+Tottenham Hotspur manager Mauricio Pochettino has said "When we talk about midfielders – because you like to use Spanish midfielders like [[Xavi]] and [[Andrés Iniesta|(Andres) Iniesta]] – he's like this type of player",&lt;ref name = "Winks Wonder"&gt;{{cite news |title=WINKS WONDER: Harry Winks ‘like Barcelona legends Andres Iniesta and Xavi’ but Mauricio Pochettino says Tottenham midfielder must focus on football |work=Talksport |date=14 September 2018 |accessdate=14 September 2018 |url=https://talksport.com/football/422282/tottenham-spurs-winks-iniesta-xavi-injury/}}&lt;/ref&gt; describing Winks as "completely different to our other midfielders like [[Victor Wanyama]], [[Eric Dier]], [[Mousa Dembélé (Belgian footballer)|Mousa Dembélé]] and [[Moussa Sissoko]]. He has qualities to add to the team that are completely different".&lt;ref name="unlock" /&gt; ''[[Talksport]]'' remarked that following his breakthrough for club and country, Winks was "seen as a potential difference-maker for the Three Lions due to his very individual skill set", with Winks earning comparisons with foreign midfielders rather than his English contemporaries.&lt;ref name="Winks Wonder" /&gt; 
+
+Ex-England and Spurs midfielder [[Danny Murphy (footballer, born 1977)|Danny Murphy]] said in September 2018 that the England team should be built around Winks, citing his performance for Tottenham against Real Madrid in the [[2017–18 UEFA Champions League group stage]] as evidence: "The one who I think has got the capability, more than anyone else I have seen, is [Harry] Winks. What he showed in that game in Madrid, in both games when he was fit and at it, was a confidence and an ability to play. To see the passes, to get his foot in and be disciplined and mix that mix of midfield talent that you need [...] for me, Winks is one of the best I've seen when he's at it – in terms of his all-round ability."&lt;ref&gt;{{cite news |title=TALENT: Tottenham Hotspur starlet Harry Winks can solve England's midfield problem, says former Liverpool man Danny Murphy |first=Joe |last=Coleman |date=10 September 2018 |accessdate=14 September 2018 |work=Talksport |url=https://talksport.com/football/420735/tottenham-hotspur-harry-winks-can-solve-englands-midfield-liverpool-danny-murphy/}}&lt;/ref&gt; ''[[ESPN FC]]''{{'}}s Ben Pearce opined in 2018: "England are still missing a [[Playmaker#Deep-lying playmakers|deep-lying playmaker]] [...] Those wondering who could possibly fill the void have obviously forgotten Winks, who excels at keeping possession with quick, short passes".&lt;ref&gt;{{cite news |title=Harry Winks ready to revitalise creaking Spurs midfield after long injury layoff |date=13 September 2018 |accessdate=14 September 2018 |first=Ben |last=Pearce |work=ESPN FC |url=http://www.espn.co.uk/football/club/tottenham-hotspur/367/blog/post/3631601/harry-winks-ready-to-revitalise-creaking-spurs-midfield-after-long-injury-layoff}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 23 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup]]
+!colspan=2|Europe
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=6|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[2013–14 Tottenham Hotspur F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|75114|2013|accessdate=4 October 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2014–15 Tottenham Hotspur F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|75114|2014|accessdate=4 October 2017}}&lt;/ref&gt;
+|Premier League
+|0||0||0||0||0||0||1{{efn|name=UEL|Appearance(s) in [[UEFA Europa League]]}}||0||1||0
+|-
+|[[2015–16 Tottenham Hotspur F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|75114|2015|accessdate=4 October 2017}}&lt;/ref&gt;
+|Premier League
+|0||0||0||0||0||0||2{{efn|name=UEL}}||0||2||0
+|-
+|[[2016–17 Tottenham Hotspur F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|75114|2016|accessdate=4 October 2017}}&lt;/ref&gt;
+|Premier League
+|21||1||4||0||2||0||6{{efn|Four appearances in [[UEFA Champions League]], two in UEFA Europa League}}||0||33||1
+|-
+|[[2017–18 Tottenham Hotspur F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|75114|2017|accessdate=4 September 2018}}&lt;/ref&gt;
+|Premier League
+|16||0||3||0||1||0||5{{efn|name=UCL|Appearances in UEFA Champions League}}||0||25||0
+|-
+|[[2018–19 Tottenham Hotspur F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|75114|2018|accessdate=25 November 2018}}&lt;/ref&gt;
+|Premier League
+|24||1||0||0||5||0||7{{efn|name=UCL}}||0||36||1
+|-
+!colspan=3|Career total
+!61||2||7||0||9||0||20||0||97||2
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 15 November 2018}}&lt;ref&gt;{{NFT player |id=69132 |name=Winks, Harry |accessdate=25 November 2018}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=2|[[England national football team|England]]
+|2017||1||0
+|-
+|2018||2||0
+|-
+!colspan=2|Total||3||0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.tottenhamhotspur.com/teams/first-team/players/harry-winks/ Profile] at the Tottenham Hotspur F.C. website
+*[http://www.thefa.com/england/mens-seniors/squad/harry-winks Profile] at the Football Association website
+*{{Soccerbase}}
+
+{{Tottenham Hotspur F.C. squad}}
+
+{{DEFAULTSORT:Winks, Harry}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:People from Hemel Hempstead]]
+[[Category:Footballers from Hertfordshire]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England international footballers]]
+[[Category:Association football midfielders]]
+[[Category:Tottenham Hotspur F.C. players]]
+[[Category:Premier League players]]
+[[Category:English people of Spanish descent]]</text>
+      <sha1>bd6qdd258y80i497ye42pt6ycct0aod</sha1>
+    </revision>
+  </page>
+</mediawiki>

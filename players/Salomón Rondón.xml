@@ -1,0 +1,426 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Salomón Rondón</title>
+    <ns>0</ns>
+    <id>19083378</id>
+    <revision>
+      <id>886044666</id>
+      <parentid>885993704</parentid>
+      <timestamp>2019-03-03T23:20:05Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Undid revision 885993558 by [[Special:Contributions/TheSoccerBoy|TheSoccerBoy]] ([[User talk:TheSoccerBoy|talk]]) copyvio</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35287">{{for|the baseball player|José Rondón}}
+{{Spanish name|Rondón|Giménez}}
+{{Use dmy dates|date=July 2018}}
+{{Infobox football biography
+| name = Salomón Rondón
+| image = SupercupRazdevalka (6).jpg
+| caption = Rondón holding the [[2015 Russian Super Cup]]
+| fullname = José Salomón Rondón Giménez&lt;ref name=Soccerway/&gt;
+| birth_date = {{Birth date and age|1989|9|16|df=y}}&lt;ref name="WBA"&gt;{{cite web|url=http://www.wba.co.uk/team/player-profile/jose-salomon-rondon/33|title=Jose Salomon Rondon|publisher=West Bromwich Albion F.C|accessdate=6 February 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160305005819/http://www.wba.co.uk/team/player-profile/jose-salomon-rondon/33|archivedate=5 March 2016}}&lt;/ref&gt;
+| birth_place = [[Caracas]], Venezuela
+| height = {{height|m=1.86}}&lt;ref name="WBA"/&gt;
+| position = [[Forward (association football)#Striker|Striker]]
+| currentclub = [[Newcastle United F.C.|Newcastle United]]&lt;br&gt;(on loan from [[West Bromwich Albion F.C.|West Bromwich Albion]])
+| clubnumber = 9
+| youthyears1 = 1996–2004 | youthclubs1 = San José de Calasanz
+| youthyears2 = 2004–2005 | youthclubs2 = Deportivo Gulima
+| youthyears3 = 2005–2006 | youthclubs3 = [[Aragua FC|Aragua]]
+| years1 = 2006–2008 | clubs1 = [[Aragua FC|Aragua]] | caps1 = 49 | goals1 = 15
+| years2 = 2008–2010 | clubs2 = [[UD Las Palmas|Las Palmas]] | caps2 = 46 | goals2 = 10
+| years3 = 2010–2012 | clubs3 = [[Málaga CF|Málaga]] | caps3 = 67 | goals3 = 25
+| years4 = 2012–2014 | clubs4 = [[FC Rubin Kazan|Rubin Kazan]] | caps4 = 36 | goals4 = 13
+| years5 = 2014–2015 | clubs5 = [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] | caps5 = 37 | goals5 = 20
+| years6 = 2015– | clubs6 = [[West Bromwich Albion F.C.|West Bromwich Albion]] | caps6 = 108 | goals6 = 24
+| years7 = 2018– | clubs7 = → [[Newcastle United F.C.|Newcastle United]] (loan) | caps7 = 23 | goals7 = 7
+| nationalyears1 = 2009 | nationalteam1 = [[Venezuela national under-20 football team|Venezuela U20]] | nationalcaps1 = 11 | nationalgoals1 = 7
+| nationalyears2 = 2008– | nationalteam2 = [[Venezuela national football team|Venezuela]] | nationalcaps2 = 70 | nationalgoals2 = 21
+| club-update = 09:12, 3 March 2019 (UTC)
+| nationalteam-update = 20:16, 20 November 2018 (UTC)
+}}
+'''José Salomón Rondón Giménez''' ({{IPA-es|saloˈmon ronˈdon}}; born 16 September 1989) is a Venezuelan professional [[Association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for English club [[Newcastle United F.C.|Newcastle United]] on loan from [[West Bromwich Albion F.C.|West Bromwich Albion]], and the [[Venezuela national football team|Venezuela national team]].
+
+After starting out at [[Aragua FC|Aragua]], he went on to spend most of his career in Europe, appearing in [[La Liga]] with [[Málaga CF|Málaga]], the [[Russian Premier League]] with [[FC Rubin Kazan|Rubin Kazan]] and [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] (winning the [[2014–15 Russian Premier League|2015 national championship]] with the latter club) and the [[Premier League]] with [[West Bromwich Albion F.C.|West Bromwich Albion]] and [[Newcastle United F.C.|Newcastle United]].
+
+A [[Venezuela national football team|Venezuela international]] since 2008, Rondón represented his country in three [[Copa América]] tournaments.
+
+==Club career==
+===Early years===
+Born in [[Caracas]], Rondón's sporting idols growing up were [[Ronaldo (Brazilian footballer)|Ronaldo]] and [[Michael Jordan]].&lt;ref&gt;{{cite web|url=http://www.espn.com/soccer/club/brazil/205/blog/post/2840087/ronaldo-deserves-more-credit-as-one-of-the-games-best|title=Ronaldo deserves more credit as one of the game's greatest players|publisher=[[ESPN]]|last1=Smith|first1=Rory|date=30 March 2016|accessdate=25 August 2018}}&lt;/ref&gt; He made his debut in the [[Venezuelan Primera División]] at the age of 17, appearing for [[Aragua FC]] against [[Carabobo FC]] on 8 October 2006; on 8 April of the following year he scored his first goal(s) for the club, in a 2–2 draw against [[Caracas FC]].
+
+===Las Palmas===
+In the summer of 2008, Rondón was signed by [[UD Las Palmas]] in Spain, and made his official debut on 5 October in a 1–2 away loss against [[Deportivo Alavés]] for the [[Segunda División]] championship.&lt;ref&gt;{{cite news|url=http://archivo.marca.com/edicion/marca/futbol/2a_division/cronica/es/desarrollo/1172328.html|title=El Alavés remontó con toda justicia en Mendizorroza|trans-title=Alavés came back from behind in Mendizorroza justly|newspaper=[[Marca (newspaper)|Marca]]|language=es|date=5 October 2008|accessdate=9 April 2014}}&lt;/ref&gt; Almost one year after his arrival, on 2 September 2009, he netted his first goal, in a [[Copa del Rey]] [[2009–10 Copa del Rey|match]] against [[Cádiz CF]] – becoming the youngest foreign player to ever score for the club, at the age of 19 years, 11 months and 17 days&lt;ref&gt;{{cite news|url=http://www.laprovincia.es/deportes/2009/09/04/gol-extranjero-joven/255281.html|title=El gol extranjero más joven|trans-title=Youngest foreign goal|newspaper=La Provincia|language=es|date=4 September 2009|accessdate=24 November 2010}}&lt;/ref&gt;– and finished [[2009–10 Segunda División|the season]] with ten goals in 36 games, as the [[Canary Islands]] side narrowly avoided relegation.&lt;ref&gt;{{cite news|url=http://www.laopiniondemalaga.es/malagacf/2011/02/20/rondon-anatomia-goleador/402699.html|title=Rondón: anatomía de un goleador|trans-title=Rondón: anatomy of a scorer|newspaper=La Opinión de Málaga|language=es|date=17 February 2011|accessdate=11 January 2018}}&lt;/ref&gt;
+
+===Málaga===
+[[File:Salomon rondon malaga caracas.jpg|thumb|left|Rondón says farewell to [[Málaga CF|Málaga]], a week before joining [[FC Rubin Kazan|Rubin Kazan]]]]
+On 19 July 2010, [[Málaga CF]] signed Rondón for a record [[Euro|€]]3.5&amp;nbsp;million transfer fee.&lt;ref&gt;[http://www.listandalucia.com/news/sport/transfer-record-for-malaga-football-club/ Transfer record for Malaga Football Club]; List Andalucia, 20 July 2010&lt;/ref&gt; He scored his first goal for the [[Andalusia]]ns exactly two months later, in a 1–2 home defeat against [[Sevilla FC]] in [[La Liga]].&lt;ref&gt;[http://www.goal.com/en/match/48603/malaga-vs-sevilla/report Report: Malaga vs Sevilla]; [[Goal (website)|Goal]], 20 September 2010&lt;/ref&gt; Four days later, he opened the score in a 2–0 win at [[Getafe CF]],&lt;ref&gt;[http://www.goal.com/en/news/12/spain/2010/09/23/2133624/primera-liga-round-up-sevilla-held-at-home-malaga-stun Primera Liga round-up: Sevilla held at home, Malaga stun Getafe, Villarreal edge past Deportivo La Coruna]; Goal, 23 September 2010&lt;/ref&gt; adding a third the following week in a 2–3 home loss to [[Villarreal CF]].&lt;ref&gt;[http://soccernet.espn.go.com/report?id=302129&amp;campaign=rss&amp;source=soccernet&amp;cc=3888 First-half thriller]; [[ESPN FC|ESPN Soccernet]], 27 September 2010&lt;/ref&gt;
+
+On 1 May 2011, Rondón contributed with one goal as Málaga came from behind at home to defeat [[Hércules CF]] 3–1.&lt;ref&gt;[http://soccernet.espn.go.com/report?id=301948&amp;cc=5739 The Beast boosts Malaga hopes]; ESPN Soccernet, 1 May 2011&lt;/ref&gt; That was his 13th goal of [[2010–11 La Liga|the campaign]], with which he surpassed the record of goals from a Venezuelan footballer in the Spanish top flight previously held by [[Juan Arango]];&lt;ref&gt;{{cite news|url=http://eltiempo.com.ve/deportes/futbol/salomon-rondon-anoto-e-hizo-historia/20166|title=Salomón Rondón anotó e hizo historia|trans-title=Salomón Rondón scored and made history|newspaper=[[El Tiempo (Anzoátegui)|El Tiempo]]|language=es|date=2 May 2011|accessdate=2 May 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110504085755/http://eltiempo.com.ve/deportes/futbol/salomon-rondon-anoto-e-hizo-historia/20166|archivedate=4 May 2011|df=}}&lt;/ref&gt; the team finally escaped relegation, with the player finishing as their top scorer.&lt;ref&gt;{{cite web|url=http://malaga.eldesmarque.com/malaga-cf/52060-sandro-y-el-exclusivo-club-de-los-10|title=Sandro y el exclusivo club de los 10|trans-title=Sandro and the exclusive 10 club|publisher=El Desmarque|language=es|date=20 April 2017|accessdate=11 January 2018}}&lt;/ref&gt;
+
+Rondón started [[2011–12 La Liga|2011–12]] on the [[Substitute (association football)|substitutes]] bench. He eventually beat competition from ageing [[Ruud van Nistelrooy]],&lt;ref&gt;{{cite news|url=http://www.marca.com/2012/05/18/futbol/equipos/malaga/1337360836.html|title=Rondón, "orgulloso y encantado" de haber aprendido de Van Nistelrooy|trans-title=Rondón, "proud and delighted" for having learned from Van Nistelrooy|newspaper=Marca|location=Madrid|language=es|date=18 May 2012|accessdate=9 April 2014}}&lt;/ref&gt; again finishing as Málaga's best scorer – this included goals in narrow home wins against [[RCD Espanyol]] (2–1)&lt;ref&gt;[http://soccernet.espn.go.com/report?id=323932&amp;cc=5739 Malaga end losing run]; ESPN Soccernet, 30 October 2011&lt;/ref&gt; and [[Levante UD]] (1–0),&lt;ref&gt;[http://soccernet.espn.go.com/report?id=323790&amp;cc=5739 Rondon boosts Boquerones]; ESPN Soccernet, 10 March 2012&lt;/ref&gt; and a brace against [[Rayo Vallecano]] (4–2 success, also at [[La Rosaleda Stadium]]).&lt;ref&gt;[http://soccernet.espn.go.com/report?id=323774&amp;cc=5739 Rondon doubles up in Malaga win]; ESPN Soccernet, 22 March 2012&lt;/ref&gt;
+
+===Rubin Kazan===
+[[File:Соломон Рондон.jpg|190px|thumb|Rondón before a [[2012-13 UEFA Europa League|Europa League]] match against [[Chelsea F.C.|Chelsea]]]]
+In August 2012, Rondón signed for [[Russian Premier League]] team [[FC Rubin Kazan]], for a reported fee of €10&amp;nbsp;million&lt;ref&gt;[http://www.uefa.com/uefaeuropaleague/news/newsid=1845061.html Rubin lure Rondón from Málaga]; UEFA, 5 August 2012&lt;/ref&gt; which made him the most expensive Venezuelan player in history.&lt;ref&gt;{{cite news|url=http://www.lanacion.com.ve/deportes/salomon-rondon-es-el-futbolista-venezolano-mas-caro-de-la-historia/|title=Salomón Rondón es el futbolista venezolano más caro de la historia|trans-title=Salomón Rondón is Venezuela's most expensive footballer in history|newspaper=La Nación|language=es|date=6 August 2012|accessdate=22 September 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120809214351/http://www.lanacion.com.ve/deportes/salomon-rondon-es-el-futbolista-venezolano-mas-caro-de-la-historia/|archivedate=9 August 2012|df=}}&lt;/ref&gt; He made his [[2012–13 Russian Premier League|league]] debut on the 12th in a 2–0 home win over [[FC Dynamo Moscow]], and he scored his first goal against [[FC Terek Grozny]] on 1 September, albeit in a 1–2 home defeat.&lt;ref&gt;[http://soccernet.espn.go.com/match?id=342386&amp;cc=3888 FK Rubin Kazan 1–2 Terek Grozny]; ESPN Soccernet, 1 September 2012&lt;/ref&gt;
+
+Rondón made his first appearance in the [[UEFA Europa League]] against [[Inter Milan]], and he scored once in a [[2012–13 UEFA Europa League group stage|2–2 group stage away draw]], also playing the entire match.&lt;ref&gt;[http://www.uefa.com/uefaeuropaleague/season=2013/matches/round=2000356/match=2009905/postmatch/report/index.html Nagatomo salvages Inter draw against Rubin]; UEFA, 20 September 2012&lt;/ref&gt; In the second match between the two sides he netted a brace in the final three minutes, helping his team to a 3–0 win.&lt;ref&gt;{{cite web|url=http://espnfc.com/us/en/report/355848/report.html?soccernet=true&amp;cc=5901|title=FK Rubin Kazan 3–0 Internazionale|publisher=ESPN FC|date=22 November 2012|accessdate=22 November 2012}}&lt;/ref&gt;
+
+On 10 March 2013, following the winter break in the Russian Premier League, Rondón scored the only goal of the match as Rubin claimed a home victory over reigning champions [[FC Zenit Saint Petersburg]].&lt;ref&gt;{{cite web|url=http://espnfc.com/us/en/gamecast/statistics/id/363310/statistics.html?soccernet=true&amp;cc=5901|title=FK Rubin Kazan 1–0 Zenit St. Petersburg|publisher=ESPN FC|date=10 March 2013|accessdate=14 March 2013}}&lt;/ref&gt; In [[UEFA|continental competition]], he opened up the scoring in the 100th minute of the [[Single-elimination tournament|round-of-16]] clash against Levante, latching on to a cross from [[Bibras Natkho]] as the hosts won it 2–0 in that leg and on aggregate.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2013/matches/round=2000358/match=2010080/postmatch/report/index.html|title=Rubin edge out Levante in extra time|publisher=UEFA|date=14 March 2013|accessdate=14 March 2013}}&lt;/ref&gt;
+
+On 19 April 2013, Rondón opened the scoring for Rubin, who could only manage a 1–1 draw at relegation-threatened [[FC Amkar Perm]].&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2013/04/19/russia/premier-league/fk-amkar-perm/rubin-kazan/1287072/|title=Amkar Perm 1–1 Rubin Kazan|publisher=Soccerway|date=19 April 2013}}&lt;/ref&gt; In the club's next league match, against [[PFC CSKA Moscow]], he netted the first goal in a 2–0 victory over the league leaders and eventual champions.&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2013/04/28/russia/premier-league/rubin-kazan/cska-moskva/1287076/|title=Rubin Kazan 2–0 CSKA Moskva|publisher=Soccerway|date=28 April 2013}}&lt;/ref&gt;
+
+On 1 September 2013, Rondón scored a [[hat-trick]] in a 3–0 win against recently promoted [[FC Ural Sverdlovsk Oblast]].&lt;ref&gt;{{cite web|url=http://espnfc.com/us/en/gamecast/statistics/id/380600/statistics.html?soccernet=true&amp;cc=5901|title=Ural 0–3 FK Rubin Kazan|publisher=ESPN FC|date=1 September 2013 |accessdate=1 September 2013}}&lt;/ref&gt;
+
+===Zenit===
+On 31 January 2014, Rondón underwent a medical and joined fellow league club Zenit Saint Petersburg, signing a five-year contract for a fee in the region of £15.8&amp;nbsp;million.&lt;ref&gt;{{cite web|url=http://en.fc-zenit.ru/main/news/ct3/58191.html|title=Zenit signs Salomón Rondón|publisher=FC Zenit|date=31 January 2014|accessdate=31 January 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140202100053/http://en.fc-zenit.ru/main/news/ct3/58191.html|archivedate= 2 February 2014|df=}}&lt;/ref&gt; He played his first game for his new team on 25 February, scoring in an eventual [[2013–14 UEFA Champions League|2–1 away win]] against [[Borussia Dortmund]] in the [[UEFA Champions League]]'s round of 16-second-leg (4–5 aggregate defeat).&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/26620485|title=Borussia Dortmund 1–2 Zenit St Petersburg|publisher=[[BBC Sport]]|date=25 February 2014|accessdate=19 March 2014}}&lt;/ref&gt;
+
+On 6 April 2014, again as a second-half substitute, Rondón scored a rare second-half hat-trick in a 6–2 home routing of former team Rubin.&lt;ref&gt;{{cite web|url=http://en.fc-zenit.ru/main/news/team/58469.html|title=Rondon hat-trick rocks Rubin|publisher=FC Zenit|date=6 April 2014|accessdate=9 April 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140409095716/http://en.fc-zenit.ru/main/news/team/58469.html|archivedate=9 April 2014}}&lt;/ref&gt; On 20 September he added another three, in a 5–0 win at [[FC Rostov]].&lt;ref&gt;{{cite web|url=http://www.espnfc.us/gamecast/statistics/id/397886/statistics.html|title=Rostov 0–5 Zenit St Petersburg|publisher=ESPN FC|date=20 September 2014|accessdate=20 September 2014}}&lt;/ref&gt;
+
+On 26 February 2015, Rondón scored a brace at home against [[PSV Eindhoven]], being essential in a 3–0 home victory for the [[2014–15 UEFA Europa League|Europa League round-of-32]] and a 4–0 aggregate triumph.&lt;ref&gt;{{cite web|url=http://www.espnfc.com/uefa-europa-league/match/410561/zenit-st-petersburg-psv-eindhoven/report|title=Zenit St Petersburg 3–0 PSV Eindhoven|publisher=ESPN FC|date=26 February 2015|accessdate=28 December 2015}}&lt;/ref&gt;
+
+===West Bromwich Albion===
+[[File:SRondon West Brom.jpg|alt=|thumb|Rondón ''(left)'' playing for [[West Bromwich Albion F.C.|West Bromwich Albion]] in 2017]]
+On 10 August 2015, Rondón joined English club [[West Bromwich Albion F.C.|West Bromwich Albion]] on a four-year-deal for a club-record fee of £12&amp;nbsp;million.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/33852895|title=Salomon Rondon: West Brom sign striker for club record £12m|publisher=BBC Sport|date=10 August 2015|accessdate=10 August 2015}}&lt;/ref&gt; He made his debut in the [[Premier League]] five days later, replacing [[Craig Gardner]] in the 62nd minute of an eventual 0–0 away draw against [[Watford F.C.|Watford]].&lt;ref&gt;{{cite web|url=http://www.espnfc.us/barclays-premier-league/match/422654/watford-west-bromwich-albion/report|title=Watford frustrated as West Bromwich Albion share spoils at Vicarage Road|publisher=ESPN FC|date=15 August 2015|accessdate=15 August 2015}}&lt;/ref&gt; On the 23rd he made his first start, at the expense of [[Tottenham Hotspur F.C.|Tottenham Hotspur]]-linked [[Saido Berahino]], in a 2–3 home defeat to [[Chelsea F.C.|Chelsea]], [[Assist (football)|assisting]] [[James Morrison (footballer)|James Morrison]] in his first goal and later being brought down by [[John Terry]] who received a straight [[Ejection (sports)|red card]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/33950789|title=West Bromwich Albion 2–3 Chelsea|publisher=BBC Sport|last=Magowan|first=Alistair|date=23 August 2015|accessdate=23 August 2015}}&lt;/ref&gt;
+
+Rondón scored his first goal for the Baggies on 29 August 2015, netting the game's only in stoppage time of the first half of the away fixture against nine-man [[Stoke City F.C.|Stoke City]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/34025390|title=Stoke City 0–1 West Bromwich Albion|publisher=BBC Sport|date=29 August 2015|accessdate=29 August 2015}}&lt;/ref&gt; On 19 December, he was sent off at the end of a 1–2 home loss to [[A.F.C. Bournemouth|Bournemouth]] for thrusting his head at [[Dan Gosling]], with teammate [[James McClean]] also dismissed in the first half;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/35078556|title=West Bromwich Albion 1–2 Bournemouth|publisher=BBC Sport|last=Chowdhury|first=Saj|date=19 December 2015|accessdate=19 December 2015}}&lt;/ref&gt; he finished [[2015–16 Premier League|his first season]] in English football with ten goals.&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/36240499|title=West Bromwich Albion 1–1 Liverpool|publisher=BBC Sport|date=15 May 2016|accessdate=22 November 2016}}&lt;/ref&gt;
+
+Rondón began the [[2016–17 Premier League|2016–17 campaign]] strongly, scoring the winner goal on the opening match victory against [[Crystal Palace F.C.|Crystal Palace]], then continued his impressive form in September with goals in consecutive matches against [[West Ham United F.C.|West Ham United]]&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/37325836|title=West Bromwich Albion 4–2 West Ham United|publisher=BBC Sport|date=17 September 2016|accessdate=22 November 2016}}&lt;/ref&gt; and Stoke.&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/37393497|title=Stoke City 1–1 West Bromwich Albion|publisher=BBC Sport|date=24 September 2016|accessdate=22 November 2016}}&lt;/ref&gt; On 21 November he netted once and provided an assist in a 4–0 victory over [[Burnley F.C.|Burnley]],&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/37970618|title=West Bromwich Albion 4–0 Burnley|publisher=BBC Sport|date=21 November 2016|accessdate=22 November 2016}}&lt;/ref&gt; and on 14 December, against [[Swansea City A.F.C.|Swansea City]], he scored his first Premier League hat-trick after netting three headers in a 3–1 win, which was only the second time this feat was achieved in the history of the competition, the first being [[Everton F.C.|Everton]]'s [[Duncan Ferguson]] in 1997.&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/38232131|title=West Bromwich Albion 3–1 Swansea City|publisher=BBC Sport|date=14 December 2016|accessdate=15 December 2016}}&lt;/ref&gt;
+
+Rondón's goal in 1–1 draw with Tottenham, on 25 November 2017, made him the first Venezuelan to score at either the rebuilt [[Wembley Stadium]] or the [[Wembley Stadium (1923)|original facilities]],&lt;ref&gt;{{cite news|url=http://www.thewestmorlandgazette.co.uk/sport/national/15684989.Alan_Pardew_reveals_talks_with_West_Brom_over_manager___s_job/|title=Alan Pardew reveals talks with West Brom over manager's job|newspaper=[[The Westmorland Gazette]]|date=26 November 2017|accessdate=9 December 2017|archive-url=https://web.archive.org/web/20171209194851/http://www.thewestmorlandgazette.co.uk/sport/national/15684989.Alan_Pardew_reveals_talks_with_West_Brom_over_manager___s_job/|archive-date=9 December 2017|dead-url=no}}&lt;/ref&gt; as well as the first Albion player to score at the new ground. The following 20 January, early into the second half of the away fixture against Everton, he accidentally broke [[James McCarthy (footballer)|James McCarthy]]'s leg, being reduced to tears after realising the outcome.&lt;ref&gt;{{Cite news|url=https://www.independent.ie/sport/soccer/irelands-james-mccarthy-suffers-horrific-double-leg-break-that-left-opponent-in-tears-36511159.html|title=Ireland's James McCarthy suffers horrific double leg break that left opponent in tears|newspaper=[[Irish Independent]]|date=20 January 2018|accessdate=20 January 2018}}&lt;/ref&gt;
+
+===Newcastle United===
+On 6 August 2018, Rondón joined [[Newcastle United F.C.|Newcastle United]] on a one-year loan deal, with [[Dwight Gayle]] heading in the opposite direction in the same situation.&lt;ref&gt;{{Cite web|url=https://www.nufc.co.uk/news/latest-news/magpies-complete-rondon-loan-signing|title=Magpies complete Rondón loan signing|publisher=Newcastle United F.C.|date=6 August 2018|accessdate=6 August 2018}}&lt;/ref&gt; He made his debut five days later, in a 2–1 home loss against Tottenham on the opening day of [[2018–19 Premier League|the season]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45067372|title=Alli helps Tottenham to a 2–1 win over Newcastle|publisher=BBC Sport|last=Sutcliffe|first=Steve|date=11 August 2018|accessdate=17 October 2018}}&lt;/ref&gt; He scored his first goal in a [[EFL Cup]] defeat by [[Nottingham Forest F.C.|Nottingham Forest]] on 29 August, with a late equaliser that failed to prevent his team's elimination in [[2018–19 EFL Cup|the second round]] (3–1 defeat at [[City Ground]]).&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45266833|title=Nottingham Forest 3–1 Newcastle United|publisher=BBC Sport|date=29 August 2018|accessdate=17 October 2018}}&lt;/ref&gt;
+
+Rondón opened his league account on 10 November 2018, scoring twice to help the hosts defeat Bournemouth 2–1.&lt;ref&gt;{{Cite web|url=https://www.bbc.com/sport/football/46081229|title=Newcastle United 2–1 AFC Bournemouth|publisher=BBC Sport|last=Poole|first=Harry|date=10 November 2018|accessdate=14 November 2018}}&lt;/ref&gt;
+
+==International career==
+Rondón appeared for the [[Venezuela national under-20 football team|Venezuela under-20 side]] in the [[2009 FIFA U-20 World Cup|2009 FIFA World Cup]] in Egypt. He scored four times during the competition – as teammate Yonathan del Valle, with both netting [[hat-trick]]s in the 8–0 group stage routing of [[Tahiti national football team|Tahiti]] – as the former managed to qualify to the [[Single-elimination tournament|last-16 stage]].&lt;ref&gt;{{FIFA player|305416}}&lt;/ref&gt;
+
+Previously, on 3 February 2008, 18-year-old Rondón made his debut for [[Venezuela national football team|the senior team]] in a [[Exhibition game|friendly]] with [[Haiti national football team|Haiti]], scoring his first goal on 23 March against [[El Salvador national football team|El Salvador]] (another exhibition match, another 1–0 win). Selected by manager [[Noel Sanvicente]] to the [[2015 Copa América]], he scored in ''La Vinotinto'''s first game of the tournament to help defeat [[Colombia national football team|Colombia]] 1–0;&lt;ref&gt;{{Cite news|url=https://www.theguardian.com/football/2015/jun/14/venezuela-beat-colombia-copa-america-shock|title=Venezuela beat Colombia to cause major Copa América shock|newspaper=[[The Guardian]]|date=14 June 2015|accessdate=15 June 2015}}&lt;/ref&gt; later that year, he was among 15 national players who threatened to quit the team after the president of the [[Venezuelan Football Federation]] accused them of conspiring to get the manager sacked.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/34975551|title=Venezuela: Salomon Rondon and squad in quit threat to board|publisher=BBC Sport|date=1 December 2015|accessdate=1 December 2015}}&lt;/ref&gt;
+
+On 5 June 2016, during the [[Copa América Centenario]], Rondón earned his 50th [[Cap (sport)|cap]], starting in a 1–0 group stage win against [[Jamaica national football team|Jamaica]] in [[Chicago]].&lt;ref&gt;{{cite news|url=http://www.marca.com/eventos/marcador/futbol/2016/copa_america/1a_fase/jornada_1/grupo_c/jam_ven/|title=Una Jamaica con diez hace sufrir a Venezuela|trans-title=Ten-man Jamaica make Venezuela suffer|newspaper=Marca|location=Madrid|language=es|date=6 June 2016|accessdate=6 June 2016}}&lt;/ref&gt; He scored the only goal of the following game against [[Uruguay national football team|Uruguay]] to become the first Venezuelan player to find the net at three tournaments,&lt;ref&gt;{{cite news|url=http://www.birminghammail.co.uk/sport/football/football-news/west-brom-striker-salomon-rondon-11452812|title=West Brom striker Salomon Rondon makes history as Luis Suarez goes into meltdown|newspaper=[[Birmingham Mail]]|date=10 June 2016|accessdate=9 December 2017|archive-url=https://web.archive.org/web/20170406052552/http://www.birminghammail.co.uk/sport/football/football-news/west-brom-striker-salomon-rondon-11452812|archive-date=6 April 2017|dead-url=no}}&lt;/ref&gt; and repeated the feat in the quarter-finals, a 1–4 defeat to [[Argentina national football team|Argentina]].&lt;ref&gt;{{cite news|url=http://www.elmundo.es/deportes/2016/06/19/5765f0e0268e3ed7118b4657.html|title=Messi e Higuaín liquidan a Venezuela y meten a Argentina en semi-finales|trans-title=Messi and Higuaín kill Venezuela and put Argentina in semi-finals|newspaper=[[El Mundo (Spain)|El Mundo]]|language=es|date=19 June 2016|accessdate=11 January 2018}}&lt;/ref&gt;
+
+==Career statistics==
+[[File:SupercupRazdevalka (6).jpg|thumb|upright|Rondón holding the [[2015 Russian Super Cup]]]]
+
+===Club===
+{{updated|26 February 2019.}}&lt;ref name=Soccerway&gt;{{cite web|url=https://uk.soccerway.com/players/jose--salomon-rondon--gimenez/58710/|title=S. Rondón|publisher=Soccerway|accessdate=27 November 2018}}&lt;/ref&gt;
+{| class="wikitable" style="text-align: center;"
+|-
+! rowspan=2 |Club
+! rowspan=2 |Season
+! colspan=2 |League
+! colspan=2 |Cups
+! colspan=2 |Continental
+! colspan=2 |Total
+|-
+!Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+| rowspan=3  |[[Aragua FC|Aragua]]
+|[[2006–07 in Venezuelan football|2006–07]]
+|21||7||0||0||—||—||21||7
+|-
+|[[2007–08 in Venezuelan football|2007–08]]
+|28||8||9||3||—||—||37||11
+|-
+!Total
+!49||15||9||3||—||—||58||18
+|-
+| rowspan=3  |[[UD Las Palmas|Las Palmas]]
+|[[2008–09 Segunda División|2008–09]]
+|10||0||0||0|| colspan=2 |—||10||0
+|-
+|[[2009–10 Segunda División|2009–10]]
+|36||10||1||2|| colspan=2 |—||37||12
+|-
+!Total
+!46||10||1||2|| colspan=2 |—||47||12
+|-
+| rowspan=3  |[[Málaga CF|Málaga]]
+|[[2010–11 La Liga|2010–11]]
+|30||14||2||2|| colspan=2 |—||32||16
+|-
+|[[2011–12 La Liga|2011–12]]
+|37||11||3||0|| colspan=2 |—||40||11
+|-
+!Total
+!67||25||5||2|| colspan=2 |—||72||27
+|-
+| rowspan=3  |[[FC Rubin Kazan|Rubin Kazan]]
+|[[2012–13 Russian Premier League|2012–13]]
+|25||7||0||0||12||6||37||13
+|-
+|[[2013–14 Russian Premier League|2013–14]]
+|11||6||0||0||8||6||19||12
+|-
+!Total
+!36||13||0||0||20||12||56||25
+|-
+| rowspan=4  |[[FC Zenit Saint Petersburg|Zenit]]
+|[[2013–14 Russian Premier League|2013–14]]
+|10||7||0||0||2||1||12||8
+|-
+|[[2014–15 Russian Premier League|2014–15]]
+|26||13||2||1||16||6||44||20
+|-
+|[[2015–16 Russian Premier League|2015–16]]
+|1||0||1||0||0||0||2||0
+|-
+!Total
+!37||20||3||1||18||7||58||28
+|-
+| rowspan=4  |[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|[[2015–16 Premier League|2015–16]]
+|34||9||6||1||colspan=2 |—||40||10
+|-
+|[[2016–17 Premier League|2016–17]]
+|37||8||1||0||colspan=2 |—||38||8
+|-
+|[[2017–18 West Bromwich Albion F.C. season|2017–18]]
+|37
+|7
+|4
+|3
+| colspan=2 |—
+|39
+|10
+|-
+!Total
+!108||24||11||4||0||0||119||28
+|-
+|[[Newcastle United F.C.|Newcastle United]] (loan)
+| [[2018–19 Newcastle United F.C. season|2018–19]] 
+|22
+|7
+|1
+|1
+| colspan="2" | -
+|23
+|8
+|-
+! colspan=2 | Career totals
+!356||113||28||12||38||19||424||144
+|}
+
+===International===
+{{updated|20 November 2018}}
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Venezuela national football team|Venezuela]]
+|-
+!Year||Apps||Goals
+|-
+|2008||3||1
+|-
+|2009||3||1
+|-
+|2010||3||0
+|-
+|2011||11||3
+|-
+|2012||8||5
+|-
+|2013||6||2
+|-
+|2014||2||0
+|-
+|2015||10||2
+|-
+|2016||11||4
+|-
+|2017||9||1
+|-
+|2018||4||2
+|-
+!Total||70||21
+|}
+
+===International goals===
+{{updated|12 September 2018}} (Venezuela score listed first, score column indicates score after each Rondón goal)&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/jose--salomon-rondon--gimenez/58710/matches/|title=S. Rondón – Matches|publisher=Soccerway|accessdate=15 August 2015}}&lt;/ref&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|1
+|23 March 2008||[[Estadio José Antonio Anzoátegui|José Antonio Anzoátegui]], [[Puerto la Cruz]], Venezuela||align=center|3||{{fb|El Salvador}}||align=center|1–0||align=center|1–0||[[Exhibition game#Association football|Friendly]]
+|-
+!scope=row|2
+|11 February 2009||[[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]], Venezuela||align=center|4||{{fb|Guatemala}}||align=center|2–1||align=center|2–1||Friendly
+|-
+!scope=row|3
+|rowspan=2|9 February 2011||rowspan=2|José Antonio Anzoátegui, Puerto la Cruz, Venezuela||rowspan=2 align=center|10||rowspan=2|{{fb|Costa Rica}}||align=center|1–1||rowspan=2 align=center|2–2||rowspan=2|Friendly
+|-
+!scope=row|4
+|align=center|2–2
+|-
+!scope=row|5
+|13 July 2011||[[Estadio Padre Ernesto Martearena|Padre Ernesto Martearena]], [[Salta]], Argentina||align=center|13||{{fb|Paraguay}}||align=center|1–0||align=center|3–3||[[2011 Copa América Group B|2011 Copa América]]
+|-
+!scope=row|6
+|rowspan=2|24 May 2012||rowspan=2|[[Polideportivo Cachamay]], [[Puerto Ordaz and San Felix|Puerto Ordaz]], Venezuela||rowspan=2 align=center|22||rowspan=2|{{fb|Moldova}}||align=center|2–0||rowspan=2 align=center|4–0||rowspan=2|Friendly
+|-
+!scope=row|7
+|align=center|4–0
+|-
+!scope=row|8
+|2 June 2012||[[Estadio Centenario]], [[Montevideo]], Uruguay||align=center|23||{{fb|Uruguay}}||align=center|1–1||align=center|1–1||[[2014 FIFA World Cup qualification (CONMEBOL)|2014 FIFA World Cup qualification]]
+|-
+!scope=row|9
+|rowspan=2|11 September 2012||rowspan=2|[[Estadio Defensores del Chaco|Defensores del Chaco]], [[Asunción]], Paraguay||rowspan=2 align=center|25||rowspan=2|{{fb|Paraguay}}||align=center|1–0||rowspan=2 align=center|2–0||rowspan=2|2014 World Cup qualification
+|-
+!scope=row|10
+|align=center|2–0
+|-
+!scope=row|11
+|26 March 2013||Polideportivo Cachamay, Puerto Ordaz, Venezuela||align=center|29||{{fb|Colombia}}||align=center|1–0||align=center|1–0||2014 FIFA World Cup qualification
+|-
+!scope=row|12
+|10 September 2013||José Antonio Anzoátegui, Puerto la Cruz, Venezuela||align=center|33||{{fb|Peru}}||align=center|1–1||align=center|3–2||2014 FIFA World Cup qualification
+|-
+!scope=row|13
+|14 June 2015||[[Estadio El Teniente|El Teniente]], [[Rancagua]], Chile||align=center|38||{{fb|Colombia}}||align=center|1–0||align=center|1–0||[[2015 Copa América Group C|2015 Copa América]]
+|-
+!scope=row|14
+|8 September 2015||Polideportivo Cachamay, Puerto Ordaz, Venezuela||align=center|43||{{fb|Panama}}||align=center|1–1||align=center|1–1||Friendly
+|-
+!scope=row|15
+|27 May 2016||[[Estadio Nacional de Costa Rica (2011)|Estadio Nacional]], [[San José, Costa Rica|San José]], Costa Rica||align=center|48||{{fb|Costa Rica}}||align=center|1–0||align=center|1–2||Friendly
+|-
+!scope=row|16
+|1 June 2016||[[Lockhart Stadium]], [[Fort Lauderdale, Florida|Fort Lauderdale]], United States||align=center|49||{{fb|Guatemala}}||align=center|1–1||align=center|1–1||Friendly
+|-
+!scope=row|17
+|9 June 2016||[[Lincoln Financial Field]], [[Philadelphia]], United States||align=center|51||{{fb|Uruguay}}||align=center|1–0||align=center|1–0||[[Copa América Centenario Group C|Copa América Centenario]]
+|-
+!scope=row|18
+|18 June 2016||[[Gillette Stadium]], [[Foxborough, Massachusetts|Foxborough]], United States||align=center|53||{{fb|Argentina}}||align=center|1–3||align=center|1–4||Copa America Centenario
+|-
+!scope=row|19
+|28 March 2017||[[Estadio Monumental David Arellano|Monumental David Arellano]], [[Santiago]], Chile||align=center|59||{{fb|CHI}}||align=center|1–3||align=center|1–3||[[2018 FIFA World Cup qualification (CONMEBOL)|2018 FIFA World Cup qualification]]
+|-
+!scope=row|20
+|rowspan=2|11 September 2018||rowspan=2|[[Estadio Rommel Fernández|Rommel Fernández]], [[Panama City]], Panama||rowspan=2 align=center|68||rowspan=2|{{fb|Panama}}||align=center|1–0||rowspan=2 align=center|2–0||rowspan=2|Friendly
+|-
+!scope=row|21
+|align=center|2–0
+|}
+
+==Honours==
+'''Aragua'''
+*[[Copa Venezuela]]: [[2007–08 Copa Venezuela|2007–08]]
+
+'''Zenit'''
+*[[Russian Premier League]]: [[2014–15 Russian Premier League|2014–15]]
+*[[Russian Super Cup]]: [[2015 Russian Super Cup|2015]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+*{{BDFutbol|9374}}
+*{{Soccerbase|54084}}
+*{{NFT player|pid=24933}}
+*{{FIFA player|305416}}
+
+&lt;!--{{West Bromwich Albion F.C. squad}}--&gt;
+{{Newcastle United F.C. squad}}
+{{Navboxes colour
+| title = Venezuela squads
+| bg    = #800010
+| fg    = Gold
+| list1 =
+{{Venezuela squad 2011 Copa América}}
+{{Venezuela squad 2015 Copa América}}
+{{Venezuela squad Copa América Centenario}}
+}}
+
+{{DEFAULTSORT:Rondon, Salomon}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Venezuelan people of Colombian descent]]
+[[Category:Sportspeople from Caracas]]
+[[Category:Venezuelan footballers]]
+[[Category:Association football forwards]]
+[[Category:Aragua FC players]]
+[[Category:La Liga players]]
+[[Category:Segunda División players]]
+[[Category:UD Las Palmas players]]
+[[Category:Málaga CF players]]
+[[Category:Russian Premier League players]]
+[[Category:FC Rubin Kazan players]]
+[[Category:FC Zenit Saint Petersburg players]]
+[[Category:Premier League players]]
+[[Category:West Bromwich Albion F.C. players]]
+[[Category:Newcastle United F.C. players]]
+[[Category:Venezuela international footballers]]
+[[Category:2011 Copa América players]]
+[[Category:2015 Copa América players]]
+[[Category:Copa América Centenario players]]
+[[Category:Venezuelan expatriate footballers]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Expatriate footballers in Russia]]
+[[Category:Expatriate footballers in England]]
+[[Category:Venezuelan expatriate sportspeople in Spain]]
+[[Category:Venezuelan expatriate sportspeople in England]]
+[[Category:Venezuelan expatriate sportspeople in Russia]]</text>
+      <sha1>iiopcpxauhkj8emh43sxuvwyr7y0yns</sha1>
+    </revision>
+  </page>
+</mediawiki>

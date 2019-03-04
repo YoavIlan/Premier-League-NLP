@@ -1,0 +1,237 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Christian Walton</title>
+    <ns>0</ns>
+    <id>44248056</id>
+    <revision>
+      <id>883370352</id>
+      <parentid>883369676</parentid>
+      <timestamp>2019-02-15T00:40:25Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/86.184.247.50|86.184.247.50]] ([[User talk:86.184.247.50|talk]]): Unsourced ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24139">{{Use British English|date=October 2014}}
+{{Use dmy dates|date=October 2014}}
+{{Infobox football biography
+| name                = Christian Walton
+| image               = 
+| image_size          = 
+| caption             = 
+| fullname            = Christian Timothy Walton&lt;ref name=Hugman&gt;{{Hugman|26896|accessdate=25 June 2016}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1995|11|9|df=y}}&lt;ref name=Hugman/&gt;
+| birth_place         = [[Wadebridge]], England
+| height              = {{convert|1.96|m|order=flip}}&lt;ref name=Soccerway&gt;{{cite web |title=C. Walton |url=https://uk.soccerway.com/players/christian-walton/217741/ |website=Soccerway |publisher=Perform Group |accessdate=18 February 2018}}&lt;/ref&gt;
+| position            = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub         = [[Wigan Athletic F.C.|Wigan Athletic]]&lt;br /&gt;(on loan from [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]])
+| clubnumber          = 1&lt;!--31--&gt;
+| youthyears1         = 2005–2013 | youthclubs1 = [[Plymouth Argyle F.C.|Plymouth Argyle]]
+| youthyears2         = 2013      | youthclubs2 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+| years1              = 2013–     | clubs1 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] | caps1 = 3  | goals1 = 0
+| years2              = 2015      | clubs2 = → [[Bury F.C.|Bury]] (loan)                            | caps2 = 4  | goals2 = 0
+| years3              = 2015–2016 | clubs3 = → [[Plymouth Argyle F.C.|Plymouth Argyle]] (loan)      | caps3 = 4  | goals3 = 0
+| years4              = 2016–2017 | clubs4 = → [[Luton Town F.C.|Luton Town]] (loan)                | caps4 = 27 | goals4 = 0
+| years5              = 2017      | clubs5 = → [[Southend United F.C.|Southend United]] (loan)      | caps5 = 7  | goals5 = 0
+| years6              = 2017–2018 | clubs6 = → [[Wigan Athletic F.C.|Wigan Athletic]] (loan)        | caps6 = 31 | goals6 = 0
+| years7              = 2018–     | clubs7 = → [[Wigan Athletic F.C.|Wigan Athletic]] (loan)        | caps7 = 26 | goals7 = 0
+| nationalyears1      = 2014
+| nationalteam1       = [[England national under-19 football team|England U19]]
+| nationalcaps1       = 4
+| nationalgoals1      = 0
+| nationalyears2      = 2014–2015
+| nationalteam2       = [[England national under-20 football team|England U20]]
+| nationalcaps2       = 7
+| nationalgoals2      = 0
+| nationalyears3      = 2016
+| nationalteam3       = [[England national under-21 football team|England U21]]
+| nationalcaps3       = 1
+| nationalgoals3      = 0
+| club-update         = 19:26, 1 January 2019 (UTC)
+| nationalteam-update = 
+}}
+'''Christian Timothy Walton''' (born 9 November 1995) is an English professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{English football updater|WiganAth}} club [[Wigan Athletic F.C.|Wigan Athletic]], on [[Loan (sports)|loan]] from {{English football updater|Brigh&amp;HA}} club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]. He has represented England at [[England national under-19 football team|under-19]], [[England national under-20 football team|under-20]] and [[England national under-21 football team|under-21]] levels.
+
+==Club career==
+===Plymouth Argyle===
+Born in [[Wadebridge]], Cornwall,&lt;ref name=Hugman/&gt; Walton began his career with [[Plymouth Argyle F.C.|Plymouth Argyle]] aged 10 and progressed through the club's [[youth system]].&lt;ref name=Albion/&gt; He was named in a matchday squad for the first time three days after his 16th birthday for an [[FA Cup]] first round tie against [[Stourbridge F.C.|Stourbridge]], in which he remained an unused [[Substitute (association football)|substitute]], the match finishing 3–3.&lt;ref name=Soccerway/&gt;&lt;ref&gt;{{cite web |title=Plymouth 3–3 Stourbridge |url=http://www.pafc.co.uk/page/MatchReport/0,,10364~61283,00.html |publisher=Plymouth Argyle F.C. |date=12 November 2011 |archiveurl=https://web.archive.org/web/20111114140910/http://www.pafc.co.uk/page/MatchReport/0%2C%2C10364~61283%2C00.html |archivedate=14 November 2011 |deadurl=yes}}&lt;/ref&gt;
+
+===Brighton &amp; Hove Albion and loan spells===
+On 15 February 2013, Walton signed for [[EFL Championship|Championship]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]], where he completed his scholarship, before signing a three-year professional contract in the summer of 2013.&lt;ref name=Albion&gt;{{cite web |first=Will |last=Jago |title=Albion sign Christian Walton |url=https://www.brightonandhovealbion.com/news/2013/february/albion-sign-christian-walton/ |publisher=Brighton &amp; Hove Albion F.C. |date=15 February 2013 |accessdate=6 August 2017}}&lt;/ref&gt; He was twice an unused substitute in consecutive matches in [[2013–14 Brighton &amp; Hove Albion F.C. season|2013–14]], a 3–1 win at home to [[Leicester City F.C.|Leicester City]] on 7 December,&lt;ref&gt;{{cite news |title=Brighton &amp; Hove Albion 3–1 Leicester City |url=https://www.bbc.co.uk/sport/football/25163803 |publisher=BBC Sport |date=6 December 2013 |accessdate=25 June 2016}}&lt;/ref&gt; prior to a 1–0 win away to [[Middlesbrough F.C.|Middlesbrough]] one week later.&lt;ref&gt;{{cite news |title=Middlesbrough 0–1 Brighton &amp; Hove Albion |url=https://www.bbc.co.uk/sport/football/25275222 |publisher=BBC Sport |date=14 December 2013 |accessdate=25 June 2016}}&lt;/ref&gt; Ahead of [[2014–15 Brighton &amp; Hove Albion F.C. season|2014–15]], Walton signed a new four-year contract with the club on 8 July 2014.&lt;ref&gt;{{cite news |title=Brighton: Jake Forster-Caskey and Christian Walton sign new deals |url=https://www.bbc.co.uk/sport/football/28216271 |publisher=BBC Sport |date=8 July 2014 |accessdate=29 October 2014}}&lt;/ref&gt; He was an unused substitute on the opening day of the season in a 1–0 defeat at home to [[Sheffield Wednesday F.C.|Sheffield Wednesday]].&lt;ref&gt;{{cite news |title=Brighton &amp; Hove Albion 0–1 Sheffield Wednesday |url=https://www.bbc.co.uk/sport/football/28646509 |publisher=BBC Sport |date=9 August 2014 |accessdate=25 June 2016}}&lt;/ref&gt; Walton made his professional debut for Brighton aged 18 in a 2–0 defeat away to [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in the [[EFL Cup|League Cup]] fourth round on 29 October.&lt;ref&gt;{{cite news |first=David |last=Hytner |title=Tottenham cruise into last eight as Érik Lamela and Harry Kane sink Brighton |url=https://www.theguardian.com/football/2014/oct/29/tottenham-brighton-capital-one-cup-match-report |newspaper=The Guardian |location=London |date=29 October 2014 |accessdate=25 June 2016}}&lt;/ref&gt; He made his [[English Football League|Football League]] debut six days later in a 1–0 win at home to [[Wigan Athletic F.C.|Wigan Athletic]].&lt;ref&gt;{{cite news |title=Brighton &amp; Hove Albion 1–0 Wigan Athletic |url=https://www.bbc.co.uk/sport/football/29797381 |publisher=BBC Sport |date=4 November 2014 |accessdate=23 February 2017}}&lt;/ref&gt; Walton made his second consecutive start in a 1–1 draw at home to [[Blackburn Rovers F.C.|Blackburn Rovers]] on 8 November.&lt;ref&gt;{{cite news |title=Brighton &amp; Hove Albion 1–1 Blackburn Rovers |url=https://www.bbc.co.uk/sport/football/29860092 |publisher=BBC Sport |date=8 November 2014 |accessdate=25 June 2016}}&lt;/ref&gt; He returned to the [[starting lineup]] on the final day of the season in a 0–0 draw away to Middlesbrough, his first appearance since November.&lt;ref&gt;{{cite web |title=Report: Middlesbrough 0 Albion 0 |url=https://www.brightonandhovealbion.com/news/2015/may/middlesbrough-v-albion-/ |publisher=Brighton &amp; Hove Albion F.C. |date=2 May 2015 |accessdate=6 August 2017}}&lt;/ref&gt; In addition to his four appearances for Brighton, Walton also kept two [[clean sheets]].&lt;ref name=Bury/&gt;
+
+On 21 July 2015, Walton signed for newly promoted [[EFL League One|League One]] club [[Bury F.C.|Bury]] on a season-long [[Loan (sports)|loan]].&lt;ref name=Bury&gt;{{cite news |title=Christian Walton: Bury sign Brighton &amp; Hove Albion keeper |url=https://www.bbc.co.uk/sport/football/33608899 |publisher=BBC Sport |date=21 July 2015 |accessdate=4 October 2015}}&lt;/ref&gt; He made his debut for Bury in a 1–1 draw at home to [[Doncaster Rovers F.C.|Doncaster Rovers]] on the opening day of [[2015–16 Bury F.C. season|2015–16]].&lt;ref&gt;{{cite web |first=Michael |last=Brown |title=Match report: Bury 1–1 Doncaster Rovers |url=https://www.buryfc.co.uk/news/2015/august/match-report-bury-1---1-doncaster-rovers/ |publisher=Bury F.C. |date=8 August 2015 |accessdate=6 August 2017}}&lt;/ref&gt; Walton returned to Brighton on 1 September due to an underlying groin injury, having made six appearances for Bury.&lt;ref&gt;{{cite web |first=Paul |last=Camillin |title=Walton returns |url=https://www.brightonandhovealbion.com/news/2015/september/walton-returns/ |publisher=Brighton &amp; Hove Albion F.C. |date=1 September 2015 |accessdate=6 August 2017}}&lt;/ref&gt;
+
+On 19 November 2015, Walton joined former club Plymouth Argyle on loan until 3 January 2016 as cover for the injured [[Luke McCormick]].&lt;ref&gt;{{cite web |first=Paul |last=Camillin |title=Walton joins Argyle on loan |url=https://www.brightonandhovealbion.com/news/2015/november/walton-joins-argyle-on-loan/ |publisher=Brighton &amp; Hove Albion F.C. |date=19 November 2015 |accessdate=6 August 2017}}&lt;/ref&gt; He made his Plymouth debut in a 2–1 defeat at home to arch-rivals [[Exeter City F.C.|Exeter City]] two days later.&lt;ref&gt;{{cite news |first=Chris |last=Errington |title=Plymouth Argyle 1 Exeter City 2: Match report |url=http://www.plymouthherald.co.uk/Plymouth-Argyle-1-Exeter-City-2-Match-report/story-28218039-detail/story.html |newspaper=Plymouth Herald |date=21 November 2015 |archiveurl=https://web.archive.org/web/20151125125800/http://www.plymouthherald.co.uk/Plymouth-Argyle-1-Exeter-City-2-Match-report/story-28218039-detail/story.html |archivedate=25 November 2015 |deadurl=yes}}&lt;/ref&gt; Walton started in three further matches, and returned to Brighton upon the expiration of his loan spell.&lt;ref&gt;{{cite news |first=Chris |last=Errington |title=Goalkeeper Christian Walton returns to Brighton after Plymouth Argyle loan ends |url=http://www.plymouthherald.co.uk/goalkeeper-christian-walton-returns-brighton/story-28457304-detail/story.html |newspaper=Plymouth Herald |date=3 January 2016 |accessdate=25 June 2016}}{{dead link|date=February 2018}}&lt;/ref&gt;
+
+On 24 June 2016, Walton signed for [[EFL League Two|League Two]] club [[Luton Town F.C.|Luton Town]] on a season-long loan, linking back up with [[Nathan Jones (Welsh footballer)|Nathan Jones]] who was [[first-team]] coach for his first three years at Brighton.&lt;ref&gt;{{cite news |first=Mike |last=Simmonds |title=Hatters sign Seagulls keeper on season-long loan |url=https://www.lutontoday.co.uk/sport/football/luton-town/hatters-sign-seagulls-keeper-on-season-long-loan-1-7448076 |newspaper=Luton Today |date=24 June 2016 |accessdate=18 February 2018}}&lt;/ref&gt; He made his Luton debut on the opening day of [[2016–17 Luton Town F.C. season|2016–17]] in a 3–0 win away to Plymouth Argyle.&lt;ref&gt;{{cite news |first=Mike |last=Simmonds |title=Hatters head to the top after superb Plymouth win |url=https://www.lutontoday.co.uk/sport/football/luton-town/hatters-head-to-the-top-after-superb-plymouth-win-1-7515160 |newspaper=Luton Today |date=6 August 2016 |accessdate=18 February 2018}}&lt;/ref&gt; Walton saved a [[Penalty kick (association football)|penalty]] from [[Vadaine Oliver]] during a 0–0 draw away to [[Notts County F.C.|Notts County]] on 29 October to keep a clean sheet for Luton, which extended the club's unbeaten league run to seven matches and earned him a place in the English Football League Team of the Week.&lt;ref&gt;{{cite web |first=Alex |last=Butcher |title=Sky Bet EFL: Team of the Week |url=https://www.efl.com/news/2016/october/sky-bet-efl-team-of-the-week5/ |publisher=English Football League |date=31 October 2016 |accessdate=6 August 2017}}&lt;/ref&gt; He was recalled by Brighton on 31 January 2017 following an injury to fellow goalkeeper [[Niki Mäenpää]], having made 33 appearances for Luton and conceded the fewest goals in League Two during his loan spell.&lt;ref&gt;{{cite news |first=Mike |last=Simmonds |title=Deadline day: Brighton recall keeper Walton from Luton |url=https://www.lutontoday.co.uk/sport/football/luton-town/deadline-day-brighton-recall-keeper-walton-from-luton-1-7799344 |newspaper=Luton Today |date=31 January 2017 |accessdate=18 February 2018}}&lt;/ref&gt;
+
+On 1 April 2017, Walton signed for League One club [[Southend United F.C.|Southend United]] on an emergency loan for an initial seven days as cover for [[Ted Smith (footballer, born 1996)|Ted Smith]] who had sustained a wrist injury.&lt;ref&gt;{{cite news |title=Christian Walton: Brighton goalkeeper joins Southend as emergency cover |url=https://www.bbc.co.uk/sport/football/39466810 |publisher=BBC Sport |date=1 April 2017 |accessdate=1 April 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |first=Chris |last=Phillips |title=Blues snap up goalkeeper Walton on loan from Brighton |url=http://www.echo-news.co.uk/sport/blues/15197542.Blues_snap_up_goalkeeper_Walton_on_loan_from_Brighton/ |newspaper=The Echo |location=Basildon |date=1 April 2017 |accessdate=1 April 2017}}&lt;/ref&gt; He debuted later that day in a 3–0 victory at home to [[Oldham Athletic A.F.C.|Oldham Athletic]].&lt;ref&gt;{{cite news |title=Southend United 3–0 Oldham Athletic |url=https://www.bbc.co.uk/sport/football/39389230 |publisher=BBC Sport |date=1 April 2017 |accessdate=1 April 2017}}&lt;/ref&gt; It was agreed for Walton's loan to be extended by a further week as the club were still without a fit goalkeeper.&lt;ref&gt;{{cite news |first=Andy |last=Naylor |title=Brighton and Hove Albion goalkeeper Christian Walton staying at Southend United |url=http://www.theargus.co.uk/sport/15212491.Albion_goalie_kept_for_longer_by_Southend/ |newspaper=The Argus |location=Brighton |date=8 April 2017 |accessdate=8 April 2017}}&lt;/ref&gt; The goalkeeping situation remained unchanged and therefore the loan was extended by a further week once more.&lt;ref&gt;{{cite news |first=Brian |last=Owen |title=Christian Walton stays on loan at Southend United for another week |url=http://www.theargus.co.uk/sport/15227632.Walton_stays_at_Southend_for_another_week/ |newspaper=The Argus |location=Brighton |date=16 April 2017 |accessdate=17 April 2017}}&lt;/ref&gt; Walton's loan was extended again to enable him to play in Southend's final match of [[2016–17 Southend United F.C. season|2016–17]],&lt;ref&gt;{{cite news |first=Brian |last=Owen |title=Christian Walton cleared to play for Southend United in play-off decider |url=http://www.theargus.co.uk/sport/albion/15256078.Walton_clear_for_action_in_play_off_decider/ |newspaper=The Argus |location=Brighton |date=30 April 2017 |accessdate=30 April 2017}}&lt;/ref&gt; and completed the loan spell with seven appearances.&lt;ref name=sb1617/&gt;
+
+On 12 July 2017, Walton signed for League One club Wigan Athletic on a season-long loan.&lt;ref&gt;{{cite news |title=Christian Walton: Wigan Athletic sign Brighton goalkeeper on loan |url=https://www.bbc.co.uk/sport/football/40582430 |publisher=BBC Sport |date=12 July 2017 |accessdate=13 July 2017}}&lt;/ref&gt; He made his debut for Wigan on the opening day of [[2017–18 Wigan Athletic F.C. season|2017–18]] in a 1–0 victory away to [[Milton Keynes Dons F.C.|Milton Keynes Dons]].&lt;ref name=sb1718/&gt; Walton finished the loan with 35 appearances,&lt;ref name=sb1718/&gt; as Wigan won the League One title and [[Promotion and relegation|promotion]] to the Championship.&lt;ref name=1718table&gt;{{cite web |title=League One: 2017/18: Latest table |url=http://www.soccerbase.com/tournaments/tournament.sd?tourn_id=1568 |website=Soccerbase |publisher=Centurycomm |accessdate=5 May 2018}}&lt;/ref&gt; He re-signed for Wigan on another season-long loan on 22 June 2018, with a recall option in January 2019.&lt;ref&gt;{{cite news |title=Christian Walton: Wigan Athletic re-sign Brighton goalkeeper on loan |url=https://www.bbc.co.uk/sport/football/44576851 |publisher=BBC Sport |date=22 June 2018 |accessdate=22 June 2018}}&lt;/ref&gt;
+
+==International career==
+Walton was called up to the [[England national under-19 football team|England under-19 team]] for a [[Exhibition game#Association football|friendly]] against [[Turkey national under-19 football team|Turkey]] on 5 March 2014.&lt;ref&gt;{{cite web |first=Jamie |last=Reid |title=Noel Blake names England U19s squad for Turkey fixture |url=http://www.thefa.com/news/2014/feb/24/blake-names-u19s-squad-for-turkey |publisher=The Football Association |date=24 February 2014 |accessdate=6 August 2017}}&lt;/ref&gt; He entered the match as a 76th-minute substitute for [[Mitchell Beeney]], the match finishing a 3–0 win.&lt;ref&gt;{{cite web |first=Jamie |last=Reid |title=England U19s shine in Chester as Young Lions beat Turkey |url=http://www.thefa.com/news/2014/mar/05/england-v-turkey-match-report |publisher=The Football Association |date=5 March 2014 |accessdate=6 August 2017}}&lt;/ref&gt; Walton received his first call-up to the [[England national under-20 football team|England under-20 team]] for a friendly against [[Romania national under-19 football team|Romania]],&lt;ref&gt;{{cite web |first=Jamie |last=Reid |title=Aidy Boothroyd names U20 squad to face Romania |url=http://www.thefa.com/news/2014/aug/28/boothroyd-names-his-first-u20-squad |publisher=The Football Association |date=28 August 2014 |accessdate=6 August 2017}}&lt;/ref&gt; in which he won his first [[Cap (sport)|cap]].&lt;ref&gt;{{cite web |first=Jamie |last=Reid |title=Boothroyd's boys hit Romania for six in Telford |url=http://www.thefa.com/news/2014/sep/05/england-v-romania-u20-match-report-050914 |publisher=The Football Association |date=5 September 2014 |accessdate=6 August 2017}}&lt;/ref&gt; He was first called up to the [[England national under-21 football team|England under-21 team]] on 25 August 2015 for their matches against the [[United States men's national under-23 soccer team|United States under-23 team]] and [[Norway national under-21 football team|Norway under-21 team]].&lt;ref&gt;{{cite news |first=Ben |last=Collins |title=Duncan Watmore and Bury keeper Christian Walton named in England Under-21 squad |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/duncan-watmore-bury-keeper-christian-9925531 |newspaper=Manchester Evening News |date=25 August 2015 |accessdate=18 February 2018}}&lt;/ref&gt; However, he was forced to withdraw from the squad six days later after sustaining a groin injury playing for Bury in a 1–1 draw with Oldham Athletic.&lt;ref&gt;{{cite news |first=Craig |last=Nelson |title=Bury keeper Christian Walton is withdrawn from England U21 squad |url=http://www.burytimes.co.uk/sport/13636844.Bury_keeper_Christian_Walton_is_withdrawn_from_England_U21_squad/ |newspaper=Bury Times |date=31 August 2015 |accessdate=12 October 2016}}&lt;/ref&gt; Walton received his next under-21 call-up on 3 October 2016 for two [[2017 UEFA European Under-21 Championship qualification]] matches against [[Kazakhstan national under-21 football team|Kazakhstan]] and [[Bosnia and Herzegovina national under-21 football team|Bosnia and Herzegovina]].&lt;ref&gt;{{cite news |first=Mike |last=Simmonds |title=Luton keeper earns England U21 call-up |url=https://www.lutontoday.co.uk/sport/football/luton-town/luton-keeper-earns-england-u21-call-up-1-7609189 |newspaper=Luton Today |date=3 October 2016 |accessdate=18 February 2018}}&lt;/ref&gt; He won his first cap and kept a [[clean sheet]] in England's 5–0 win over Bosnia and Herzegovina on 11 October.&lt;ref&gt;{{cite news |first=Mike |last=Simmonds |title=Clean sheet for Luton keeper on England U21s debut |url=https://www.lutontoday.co.uk/sport/football/luton-town/clean-sheet-for-luton-keeper-on-england-u21s-debut-1-7624419 |newspaper=Luton Today |date=11 October 2016 |accessdate=18 February 2018}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 1 January 2019}}
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=7|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
+|[[2013–14 Brighton &amp; Hove Albion F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|63208|2013|accessdate=25 June 2016}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2014–15 Brighton &amp; Hove Albion F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|63208|2014|accessdate=25 June 2016}}&lt;/ref&gt;
+|Championship
+|3||0||0||0||1||0||colspan=2|—||4||0
+|-
+|[[2015–16 Brighton &amp; Hove Albion F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|63208|2015|accessdate=25 June 2016}}&lt;/ref&gt;
+|Championship
+|0||0||0||0||colspan=2|—||0||0||0||0
+|-
+|[[2016–17 Brighton &amp; Hove Albion F.C. season|2016–17]]&lt;ref name=sb1617/&gt;
+|Championship
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2017–18 Brighton &amp; Hove Albion F.C. season|2017–18]]&lt;ref name=sb1718/&gt;
+|[[Premier League]]
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]&lt;ref name=sb1819/&gt;
+|Premier League
+|0||0||0||0||0||0||colspan=2|—||0||0
+|-
+!colspan=2|Total
+!3!!0!!0!!0!!1!!0!!0!!0!!4!!0
+|-
+|[[Bury F.C.|Bury]] (loan)
+|[[2015–16 Bury F.C. season|2015–16]]&lt;ref name=sb1516/&gt;
+|[[EFL League One|League One]]
+|4||0||colspan=2|—||2||0||colspan=2|—||6||0
+|-
+|[[Plymouth Argyle F.C.|Plymouth Argyle]] (loan)
+|[[2015–16 Plymouth Argyle F.C. season|2015–16]]&lt;ref name=sb1516/&gt;
+|[[EFL League Two|League Two]]
+|4||0||colspan=2|—||colspan=2|—||colspan=2|—||4||0
+|-
+|[[Luton Town F.C.|Luton Town]] (loan)
+|[[2016–17 Luton Town F.C. season|2016–17]]&lt;ref name=sb1617/&gt;
+|League Two
+|27||0||3||0||2||0||1{{efn|Appearance in [[EFL Trophy]]}}||0||33||0
+|-
+|[[Southend United F.C.|Southend United]] (loan)
+|[[2016–17 Southend United F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|63208|2016|accessdate=30 April 2017}}&lt;/ref&gt;
+|League One
+|7||0||colspan=2|—||colspan=2|—||colspan=2|—||7||0
+|-
+|rowspan=3|[[Wigan Athletic F.C.|Wigan Athletic]] (loan)
+|[[2017–18 Wigan Athletic F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|63208|2017|accessdate=5 May 2018}}&lt;/ref&gt;
+|League One
+|31||0||4||0||0||0||0||0||35||0
+|-
+|[[2018–19 Wigan Athletic F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|63208|2018|accessdate=1 January 2019}}&lt;/ref&gt;
+|Championship
+|26||0||0||0||0||0||colspan=2|—||26||0
+|-
+!colspan=2|Total
+!57!!0!!4!!0!!0!!0!!0!!0!!61!!0
+|-
+!colspan=3|Career total
+!102!!0!!7!!0!!5!!0!!1!!0!!115!!0
+|}
+
+{{notelist}}
+
+==Honours==
+'''Wigan Athletic'''
+*[[EFL League One]]: [[2017–18 EFL League One|2017–18]]&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Football Yearbook 2018–2019 |year=2018 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-6106-9 |pages=382–383}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.wiganathletic.com/teams/first-team-player-profiles/goalkeeper/christian-walton/ Christian Walton profile] at the Wigan Athletic F.C. website
+&lt;!--*[https://www.brightonandhovealbion.com/teams/first-team/goalkeeper/christian-walton/ Christian Walton profile] at the Brighton &amp; Hove Albion F.C. website--&gt;
+*[http://www.thefa.com/england/all-teams/players/w/christian-walton Christian Walton profile] at the Football Association website
+*{{Soccerbase}}
+
+{{Wigan Athletic F.C. squad}}
+&lt;!--{{Brighton &amp; Hove Albion F.C. squad}}--&gt;
+
+{{DEFAULTSORT:Walton, Christian}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:People from Wadebridge]]
+[[Category:Footballers from Cornwall]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Brighton &amp; Hove Albion F.C. players]]
+[[Category:Bury F.C. players]]
+[[Category:Plymouth Argyle F.C. players]]
+[[Category:Luton Town F.C. players]]
+[[Category:Southend United F.C. players]]
+[[Category:Wigan Athletic F.C. players]]
+[[Category:English Football League players]]</text>
+      <sha1>qvhhijwhvjj70t4htr195bm3wo6mx30</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,504 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Artur Boruc</title>
+    <ns>0</ns>
+    <id>1919475</id>
+    <revision>
+      <id>885850601</id>
+      <parentid>884243118</parentid>
+      <timestamp>2019-03-02T19:13:22Z</timestamp>
+      <contributor>
+        <username>Wolfgang</username>
+        <id>24907207</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="68972">{{Use dmy dates|date=May 2018}}
+{{Infobox football biography
+| name = Artur Boruc
+| image = Artur Boruc 2014.jpg
+| caption = Boruc playing for [[AFC Bournemouth]] in 2014
+| fullname = Artur Boruc&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1980|2|20|df=y}}
+| birth_place = [[Siedlce]], Poland
+| height = 1.93 m&lt;ref&gt;{{cite web |url= http://www.goal.com/en-gb/people/poland/7121/artur-boruc |title= Goal – Bournemouth – Artur Boruc |date= 2015 |website= Goal.com |accessdate= 12 January 2015}}&lt;/ref&gt;
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[AFC Bournemouth]]
+| clubnumber = 1
+| youthyears1 =
+| youthclubs1 =
+| years1 = 1998–1999
+| clubs1 = [[Miejski Klub Piłkarski Pogoń Siedlce|Pogoń Siedlce]]
+| caps1  = 12
+| goals1 = 0
+| years2 = 1999–2005
+| clubs2 = [[Legia Warsaw]]
+| caps2  = 69
+| goals2 = 1
+| years3 = 2000
+| clubs3 = → [[Dolcan Ząbki]] (loan)
+| caps3  = 16
+| goals3 = 0
+| years4 = 2005
+| clubs4 = → [[Celtic F.C.|Celtic]] (loan)
+| caps4  = 9
+| goals4 = 0
+| years5 = 2005–2010
+| clubs5 = [[Celtic F.C.|Celtic]]
+| caps5  = 153
+| goals5 = 0
+| years6 = 2010–2012
+| clubs6 = [[ACF Fiorentina|Fiorentina]]
+| caps6  = 62
+| goals6 = 0
+| years7 = 2012–2015
+| clubs7 = [[Southampton F.C.|Southampton]]
+| caps7  = 49
+| goals7 = 0
+| years8 = 2014–2015
+| clubs8 = → [[AFC Bournemouth]] (loan)
+| caps8  = 37&lt;!--Only league games--&gt;
+| goals8 = 0
+| clubs9 = [[AFC Bournemouth]]
+| caps9 = 74&lt;!--Only league games--&gt;
+| goals9 = 0
+| years9 = 2015–
+| nationalyears1 = 2004–2017
+| nationalteam1  = [[Poland national football team|Poland]]
+| nationalcaps1  = 65
+| nationalgoals1 = 0
+| club-update = 23:00, 2 March 2019 (UTC)
+| nationalteam-update = 10 November 2017
+}}
+'''Artur Boruc''' ({{IPA-pol|ˈartur ˈbɔrut͡s}}; born 20 February 1980) is a Polish professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{English football updater|AFCBourn}} club [[AFC Bournemouth]].
+
+He began his career in the Polish third division with hometown club [[Miejski Klub Piłkarski Pogoń Siedlce|Pogoń Siedlce]]. He joined [[Ekstraklasa]] team [[Legia Warsaw]] in 1999 and, whilst still a reserve, had a spell on loan at [[Dolcan Ząbki]] in 2000. Boruc broke through to the Legia first team in 2002 and by 2003 had become the club's first choice goalkeeper. In the summer of 2005, he joined [[Scottish Premier League]] side [[Celtic F.C.|Celtic]]. In his five years in Glasgow, Boruc made 221 appearances for the club,&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player.php?playerid=2910 |title=Celtic Player Artur Boruc Details |publisher=Fitbastats.com |date= |accessdate=3 August 2013}}&lt;/ref&gt; winning the league three times, the [[Scottish Cup]] once and the [[Scottish League Cup]] twice. Celtic fans nicknamed Boruc 'The Holy Goalie' for his devout Catholicism. He moved to Italy in 2010 to join [[ACF Fiorentina|Fiorentina]], spending two years at the [[Serie A]] club before returning to Britain in 2012 to sign for [[Premier League]] side [[Southampton F.C.|Southampton]], moving to Bournemouth in 2015 after a season on loan.
+
+Boruc made his international debut against the [[Republic of Ireland national football team|Republic of Ireland]] in April 2004 and became a regular in the [[Poland national football team|Polish]] international squad, earning 65 caps. He represented the nation at the [[2006 FIFA World Cup]] and [[UEFA Euro 2008]]. On November 2017 Boruc retired from international football.
+
+==Club career==
+===Pogoń Siedlce===
+Born in [[Siedlce]], Boruc began his career in 1998 at [[Miejski Klub Piłkarski Pogoń Siedlce|Pogoń Siedlce]], in his hometown.&lt;ref&gt;S.Kindziuk (2011). ''90 years of football in Siedlce. Season by season''. Siedlce. p. 343-344&lt;/ref&gt;
+
+===Legia Warsaw===
+[[File:Artur Boruc.jpg|left|thumb|Artur Boruc in his Legia playing days]]The next season Boruc joined [[Legia Warsaw]], initially playing for the reserve team, as well as being loaned out in 2000 for half a season to [[Dolcan Ząbki]].&lt;ref&gt;{{cite web|title=Krok w tył i dwa do przodu. Artur Boruc w Dolcanie Ząbki |language=pl |website=Numer 10 |url=http://numer10.blox.pl/2010/02/Krok-w-tyl-i-dwa-do-przodu-Artur-Boruc-w-Dolcanie.html|accessdate=14 August 2013}}&lt;/ref&gt;
+
+On 8 March 2002, Boruc played his first league match for Legia when he came on as a substitute during a 2–2 draw against [[Pogoń Szczecin]]. This unexpected debut was due to an injury sustained by Bulgarian goalkeeper, [[Radostin Stanev]], during the game.&lt;ref&gt;{{cite web|url=http://www.bebo.com/BlogView.jsp?MemberId=5378746193&amp;BlogId=5549745208 |title=Blog |work=Bebo |date= |accessdate=3 August 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.legia.net/historia/index.php?s=mecz&amp;id=2244 |title=Historia Legii Warszawa |language=pl |website=Legia.Net |date=8 March 2002 |accessdate=3 August 2013}}&lt;/ref&gt; Boruc played in Legia's next four league matches and kept clean sheets against [[Wisła Kraków]]&lt;ref&gt;{{cite web|url=http://www.legia.net/historia/index.php?s=mecz&amp;id=2245 |title=Historia Legii Warszawa |language=pl |website=Legia.Net |date=15 March 2002 |accessdate=3 August 2013}}&lt;/ref&gt; and [[Odra Wodzisław]],&lt;ref&gt;{{cite web|url=http://www.legia.net/historia/index.php?s=mecz&amp;id=2269 |title=Historia Legii Warszawa |language=pl |website=Legia.Net |date=20 March 2002 |accessdate=3 August 2013}}&lt;/ref&gt; although Stanev regained his place in the side upon his return from injury for the remaining league and cup fixtures. Legia went on to win the [[Ekstraklasa]] title that season for the first time in seven years.
+
+In the second half of the following season, 2002–03, Boruc established himself as the club's first choice goalkeeper where he played in 11 of the club's last 15 league fixtures.&lt;ref name="Boruc 2002-03"&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=61 |title=Artur Boruc |website=90minut.pl |accessdate=3 August 2013}}&lt;/ref&gt; Legia lost only 1 of these 11 matches and Boruc kept 5 clean sheets,&lt;ref name="Boruc 2002-03" /&gt; although Legia only managed to finish fourth.
+
+By the 2003–04 season, Boruc was very much a first-pick for Legia and played in all 26 of their league fixtures.&lt;ref name="Ninety"&gt;{{cite web|first=Maciej |last=Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=65 |title=Artur Boruc |website=90minut.pl |accessdate=3 August 2013}}&lt;/ref&gt; In June 2004, Boruc scored his only goal for the club, converting a penalty kick in a home game against [[Widzew Łódź]] (final score: 6–0)&lt;ref&gt;{{cite web|url=http://legionisci.com/mecz/141 |title=Legioniści – serwis dla kibiców Legii Warszawa |website=Legionisci.com |date=8 June 2004 |accessdate=3 August 2013}}&lt;/ref&gt;&lt;ref name=goal/&gt; and then celebrated by waving the corner flag. Legia finished second in the league and qualified for the following season's [[UEFA Europa League|UEFA Cup]].&lt;ref&gt;{{cite web|url=http://legia.com/podstrona,101-historia_legii___1996_2005.html |title=Legia Warszawa – Strona Oficjalna Historia Legii – 1996–2005 |website=Legia.com |accessdate=3 August 2013}}&lt;/ref&gt; Boruc also made his first appearance for Poland in April 2004, playing in a scoreless draw against the Republic of Ireland.&lt;ref name="debut1"&gt;{{cite web|first=Maciej |last=Kusina |url=http://www.90minut.pl/mecz.php?id_mecz=165236 |title=Polska 0–0 Irlandia |website=90minut.pl |date=26 March 2013 |accessdate=3 August 2013}}&lt;/ref&gt;&lt;ref name="debut2"&gt;{{cite web|url=http://www.legia.net/index.php?typ=news&amp;id=6243 |title=Legia Warszawa – Artur Boruc o swoim debiucie |language=pl |website=Legia.Net |accessdate=3 August 2013}}&lt;/ref&gt;
+
+The 2004–05 season saw Boruc remain Legia's key player and a fan-favourite, again playing in all of the club's league fixtures.&lt;ref name="Ninety" /&gt; Boruc's performances for Legia saw the club extend his contract up to 2012.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/news/newsid=219510.html |title=UEFA Europa League – News |website=Uefa.com |date=26 August 2004 |accessdate=3 August 2013}}&lt;/ref&gt; In March 2005, Boruc was made captain of the side.&lt;ref&gt;{{cite web|url=http://www.legia.net/index.php?typ=news&amp;id=17445 |title=Legia Warszawa – Artur Boruc kapitanem Legii |language=pl |website=Legia.Net |date=23 April 2005 |accessdate=3 August 2013}}&lt;/ref&gt; However, it was another disappointing league campaign for Legia, as they came a distant third behind Wisła Kraków who finished as champions for the third year in a row. Legia's UEFA Cup run was also relatively brief, disposing of [[FC Tbilisi]] 7–0 on aggregate&lt;ref&gt;{{cite web |url=https://www.thefinalball.com/jogo.php?id=94350 |title=Legia Warszawa 6–0 FC Tbilisi :: UEFA Cup 2004/05 |website=footballzz.co.uk |date=26 August 2004 |accessdate=3 August 2013 |archive-url=https://web.archive.org/web/20131029220603/http://www.footballzz.co.uk/jogo.php?id=94350 |archive-date=29 October 2013 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; in a relatively easy qualifying tie before going out 1–4 on aggregate in the first-round proper to [[FK Austria Wien|Austria Wien]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2004/matches/round=1975/match=79563/postmatch/report/index.html |title=UEFA Europa League 2004/05 – History – Legia-Austria Wien – |website=Uefa.com |date=30 September 2004 |accessdate=3 August 2013}}&lt;/ref&gt; Despite the lack of silverware though, Boruc's form was by the summer of 2005 attracting attention from abroad.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/4637677.stm |title=Celtic keep tabs on Legia keeper |work=BBC Sport |date=30 June 2005 |accessdate=3 August 2013}}&lt;/ref&gt;
+
+===Celtic===
+On 20 July 2005, Boruc signed with Scottish club [[Celtic F.C.|Celtic]]. The deal was initially a year's loan, with an option to make it permanent.&lt;ref name=bbc050713/&gt; The move was later made permanent, with Boruc penning a three-and-a-half-year contract on 17 October until 2009.&lt;ref name=bbc051017/&gt; On 5 January 2008, it was reported that Boruc had signed a new contract with Celtic set to keep him at the club until 2011.&lt;ref name=ab080105/&gt;
+
+Boruc made his debut for Celtic on 2 August 2005 when he replaced [[David Marshall (footballer)|David Marshall]] for the second leg of their UEFA Champions League qualifier tie against Slovakian side [[FC Petržalka akadémia|Artmedia Bratislava]].&lt;ref name = "artmedia"&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/europe/4735857.stm |title=Celtic 4–0 Artmedia Bratislava |work=BBC Sport |date=2 August 2005 |accessdate=4 May 2013}}&lt;/ref&gt; Celtic won 4–0, but having lost the first leg 5–0 still went out on aggregate.&lt;ref name = "artmedia"/&gt; Boruc quickly established himself as first-choice keeper at Celtic, displaying a combination of outstanding shot-stopping, immense self-belief and, at times, outright arrogance.&lt;ref&gt;{{cite news |url=http://www.dailyrecord.co.uk/sport/football/celtic-need-more-players-with-artur-1013283 |title=Celtic need more players with Artur Boruc's arrogance, says Bhoys legend Bertie Auld |first=Neil |last=Cameron |work=Daily Record |date=10 March 2009 |accessdate=16 August 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://theterraceradio.podbean.com/2011/02/03/spl-supervillains/ |title=SPL SuperVillains &amp;#124; The Terrace Scottish Football Podcast |work=The Terrace Radio |date=3 February 2011 |accessdate=3 August 2013}}&lt;/ref&gt; Indeed, gestures allegedly made by Boruc towards [[Rangers F.C.|Rangers]] fans at [[Ibrox Stadium]] on 12 February 2006 later resulted in the player being cautioned by the police.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/scotland/5292656.stm |title=Player caution 'not for blessing' |work=BBC News |date=28 August 2006 |accessdate=4 May 2013}}&lt;/ref&gt; In his first season, he made 40 appearances and kept 17 clean sheets.&lt;ref name="fitbastats1"&gt;{{cite web|url=http://www.fitbastats.com/celtic/player.php?playerid=2910 |title=Celtic Player Artur Boruc Details |publisher=Fitbastats.com |accessdate=19 August 2013}}&lt;/ref&gt; Boruc also added to his winner's medals collection as Celtic won the [[Scottish Premier League]]&lt;ref name="lg06"&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/scot_prem/4873944.stm |title=Celtic 1–0 Hearts |work=BBC Sport|date=5 April 2006 |accessdate=4 May 2013}}&lt;/ref&gt; and the [[Scottish League Cup]], the latter after beating [[Dunfermline Athletic F.C.|Dunfermline Athletic]] 3–0.&lt;ref name="pars"&gt;{{cite web|url=http://youngpars.co.uk/story.php?ID=2063&amp;CATEGORY=7-Match%20Reports |title=Young Pars |work=Young Pars |accessdate=3 August 2013}}&lt;/ref&gt;
+
+[[File:Artur Boruc Dinamo Moscow Celts.jpg|thumb|Boruc playing for Celtic in 2009]]
+Boruc continued his fine form for Celtic the following season. On 21 November 2006, in a [[UEFA Champions League]] match against [[Manchester United F.C.|Manchester United]] at [[Celtic Park]], Boruc helped Celtic through to the knockout stage of the competition by saving [[Louis Saha]]'s 89th-minute penalty.&lt;ref&gt;{{cite news|last=Moffat |first=Colin |url=http://news.bbc.co.uk/sport1/hi/football/europe/6160910.stm |title=Celtic 1–0 Man Utd |work=BBC Sport |date=21 November 2006 |accessdate=3 August 2013}}&lt;/ref&gt; Indeed, Boruc succeeded in keeping a clean sheet in each of Celtic's three home Champions League group stages games ([[F.C. Copenhagen|Copenhagen]] 1–0,&lt;ref&gt;{{cite web|last=Murray|first=Ewan|title=Miller keeps his cool to fire Strachan's Celtic dawn in Europe|url=https://www.theguardian.com/football/2006/sep/27/match.sport2|work=The Guardian|accessdate=12 January 2014|date=27 September 2006}}&lt;/ref&gt; [[S.L. Benfica|Benfica]] 3–0&lt;ref&gt;{{cite news|last=Lindsay|first=Clive|title=Celtic 3–0 Benfica|url=http://news.bbc.co.uk/sport1/hi/football/europe/6054824.stm|work=BBC Sport|accessdate=12 January 2014|date=17 October 2010}}&lt;/ref&gt; and Manchester United 1–0). He was named player of the month for December 2006 in the [[Scottish Premier League]],&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/6255869.stm |title=Boruc named player of the month |work=BBC Sport |date=12 January 2007 |accessdate=4 May 2013}}&lt;/ref&gt; a very uncommon event for a goalkeeper. His form was also recognised with a nomination for the [[Scottish PFA Players' Player of the Year]] award for 2007.&lt;ref name=bbc070412/&gt; The season culminated in more silverware for Boruc as Celtic retained their Scottish Premier League title&lt;ref name="lg07"&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/scot_prem/6574335.stm |title=Kilmarnock 1–2 Celtic |first=Colin |last=Moffat |work=BBC |date=22 April 2007 |accessdate=4 May 2013}}&lt;/ref&gt; and defeated Dunfermline 1–0 on 26 May 2007 to win the [[Scottish Cup]].&lt;ref name="pars2"&gt;{{cite web|url=http://youngpars.co.uk/story.php?ID=2418&amp;CATEGORY=7-Match%20Reports |title=Young Pars |work=Young Pars |accessdate=3 August 2013}}&lt;/ref&gt;
+
+The start of the 2007–08 season saw Celtic drawn against Russian side [[FC Spartak Moscow|Spartak Moscow]] in the third qualifying round for the [[2007–08 UEFA Champions League|Champions League]]. The tie ended in a [[Penalty shootout (association football)|penalty shootout]], with Boruc saving twice to ensure Celtic's passage to the group stages.&lt;ref&gt;{{cite news|last=Moffat |first=Colin |url=http://news.bbc.co.uk/sport1/hi/football/europe/6966717.stm |title=Celtic 1–1 Spartak Moscow (2–2) |work=BBC Sport |date=29 August 2007 |accessdate=3 August 2013}}&lt;/ref&gt; The season also saw Celtic complete a [[Hat trick|hat-trick]] of consecutive Scottish Premier League titles.&lt;ref name="lg08"&gt;{{cite news|first=Ewan |last=Murray |url=https://www.theguardian.com/football/2008/may/23/scottishpremierleague.dundeeunited |title=Scottish Premier League: Dundee Utd 0–1 Celtic |work=The Guardian |date=22 May 2008|accessdate=3 August 2013}}&lt;/ref&gt;
+
+Boruc was fined an estimated £50,000 by Celtic in August 2008 for breaching the club's drinking policy after a pre-season friendly in the Netherlands against [[Feyenoord]].&lt;ref&gt;{{cite web |first=Keith |last=Jackson |url=http://www.dailyrecord.co.uk/sport/other-sports/exclusive-artur-boruc-fined-50000-988020 |title=Exclusive: Artur Boruc fined £50,000 by Celtic over drinking antics |work=Daily Record |date=23 August 2008 |accessdate=3 August 2013}}&lt;/ref&gt;
+
+Boruc endured a decline of form in the first half of season 2008–09 as he committed several goalkeeping errors, in particular against Rangers in a 2–4 defeat at Parkhead on 31 August 2008 where he was badly at fault for Rangers fourth goal,&lt;ref&gt;{{cite news|first=Howard |last=Swains |url=https://www.theguardian.com/football/2008/aug/31/celtic.rangers |title=Scottish Premier: Kenny Miller scores twice as Rangers beat Celtic 4–2 at Parkhead |work=The Guardian |date=31 August 2008 |accessdate=3 August 2013}}&lt;/ref&gt; and against [[Hibernian F.C.|Hibernian]] at [[Easter Road]] on 7 December 2008, where [[John Rankin (footballer)|John Rankin]] scored against him from 45 yards out,&lt;ref&gt;{{cite news|first=John |last=Greechan |url=http://www.dailymail.co.uk/sport/football/article-1092662/Hibernian-2-Celtic-0-Boruc-blunder-hands-Hibs-shock-home-win.html |title=Hibernian 2 Celtic 0: Boruc blunder hands Hibs shock home win |work=Mail Online |date=8 December 2008 |accessdate=3 August 2013}}&lt;/ref&gt; a goal Rankin later referred to as a "squiggler."&lt;ref&gt;{{cite web |url=http://www.theoffside.com/leagues/scottish-premier-league/it-wasnt-a-boruc-howler-it-was-a-rankin-squiggler.html?mypulldown2= |title=It Wasn't a Boruc Howler, It Was a Rankin "Squiggler" |work=The Offside |date=9 December 2008 |accessdate=3 August 2013 |deadurl=yes |archiveurl=https://archive.is/20130630103210/http://www.theoffside.com/leagues/scottish-premier-league/it-wasnt-a-boruc-howler-it-was-a-rankin-squiggler.html?mypulldown2= |archivedate=30 June 2013 |df=dmy-all }}&lt;/ref&gt; He did however save a [[James McArthur]] penalty in a 4–0 win over [[Hamilton Academical]] on 4 October 2008.&lt;ref&gt;{{cite web
+|url=http://news.bbc.co.uk/sport1/hi/football/scot_prem/7647481.stm
+|title=Celtic 4–0 Hamilton Accies
+|publisher=[[BBC]]
+|date=4 October 2008 |accessdate=30 August 2016}}&lt;/ref&gt; Despite this run of relatively poor performances, Boruc was one of 55 players (including five goalkeepers) shortlisted on 20 October 2008 for the [[FIFPro]] World XI Player Awards.&lt;ref name=FifPro/&gt; Discipline, however, also became an issue again, with Boruc fined £500 by the [[Scottish Football Association]] (SFA) for gestures he made towards Rangers fans during the [[Old Firm]] game in August.&lt;ref&gt;{{cite web |url=http://www.dailymail.co.uk/sport/football/article-1080006/Celtic-keeper-Boruc-fined-gestures-Rangers-fans-Old-Firm-derby.html |work=Mail Online |accessdate=7 February 2015|title=Celtic keeper Boruc fined for gestures towards Rangers fans during Old Firm derby |date=23 October 2008}}&lt;/ref&gt;
+
+On 28 January 2009, Boruc converted a penalty for Celtic during the penalty shootout in the semi-final match of the [[Scottish League Cup 2008–09#Semi-finals|League Cup]] against [[Dundee United F.C.|Dundee United]], helping Celtic to an 11–10 win on penalties.&lt;ref&gt;{{cite web|author=Rob Parker |url=http://www.offthepost.info/blog/2009/01/football-video-artur-boruc-scores-penalty-as-celtic-beat-dundee-united-11-10-in-shootout/ |title=Football video: Artur Boruc scores penalty as Celtic beat Dundee United 11–10 in shootout |work=Off the Post |date=29 January 2009 |accessdate=3 August 2013}}&lt;/ref&gt; Boruc picked up his last silverware at Celtic in the same tournament a couple of months later when Celtic defeated Rangers 2–0 after extra-time in the Scottish League Cup Final.&lt;ref name="gers"&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/scot_cups/7941624.stm |title=Celtic 2–0 Rangers |first=Clive |last=Lindsay |work=BBC Sport |date=15 March 2009 |accessdate=4 May 2013}}&lt;/ref&gt;
+
+On 12 December 2009, Boruc made his 200th appearance for Celtic against [[Motherwell F.C.|Motherwell]], which Celtic won 3–2.&lt;ref&gt;{{cite web|url=http://videocelts.com/2010/07/blogs/holy-goalie-supporters-tributes-to-artur-boruc |title=Holy Goalie: Supporter tributes to Artur Boruc |work=Video Celts |accessdate=3 August 2013}}&lt;/ref&gt; In April 2010, he won the Scottish Premier League save of the season award for a reflex save against Hibernian at Easter Road in August 2009.&lt;ref name=bbc100419/&gt;
+
+On 4 May 2010, Boruc made the last appearance of his Celtic career in a 2–1 victory against Old Firm rivals Rangers,&lt;ref name=bbc100504/&gt; although he had to be substituted in the second half as he was unable to continue playing due to an injury he sustained to his hand in the pre-match warm up. This transpired to be a broken finger and ruled him out of the final league fixture of the season.&lt;ref&gt;{{cite web|url=http://www.football.co.uk/celtic/boruc_missing_for_hearts_clash_rss765218.shtml |title=Boruc missing for Hearts clash |website=football.co.uk |date=7 May 2010 |accessdate=3 August 2013}}&lt;/ref&gt;
+
+===Fiorentina===
+[[File:Artur Boruc (2).JPG|thumb|Boruc playing for Fiorentina in 2010]]
+On 12 July 2010, Celtic agreed to sell Boruc to [[Serie A]] club [[ACF Fiorentina|Fiorentina]] subject to a medical, for an undisclosed fee.&lt;ref name=sky100712/&gt; The transfer was confirmed three days later.&lt;ref name=bbc100715/&gt;&lt;ref name=viola1007115/&gt;&lt;ref name=celtic100715/&gt;
+
+He made his Fiorentina debut on 26 October 2010 in the [[Coppa Italia]] against [[Empoli F.C.|Empoli]].&lt;ref&gt;{{cite web |last=Kutarnia |first=Adam |url=http://www.polandsoccerblog.com/2010/10/boruc-to-start-on-tuesday.html |title=Boruc To Start on Tuesday! |work=Poland Soccer Blog |date=25 October 2010 |accessdate=3 August 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131029213846/http://www.polandsoccerblog.com/2010/10/boruc-to-start-on-tuesday.html |archivedate=29 October 2013 |df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/10/italy/2010/10/27/2185248/polish-keeper-artur-boruc-wants-to-play-in-serie-a-if-he-is |title=Polish Keeper Artur Boruc Wants To Play in Serie A If He Is To Stay With Fiorentina |website=Goal.com |date=27 October 2010 |accessdate=3 August 2013}}&lt;/ref&gt; After an injury to first-choice goalkeeper [[Sébastien Frey]],&lt;ref&gt;{{cite web|url=http://www.football.co.uk/fiorentina/la_viola_suffer_serious_frey_setback_321565.shtml |title=La Viola suffer serious Frey setback – Fiorentina Football Club News from |website=football.co.uk |date=22 May 2011 |accessdate=3 August 2013}}&lt;/ref&gt; he made his Serie A debut in a 1–0 win over [[A.C. ChievoVerona|Chievo]] on 7 November 2010.&lt;ref&gt;{{cite web|url=http://www.footballitaliano.co.uk/p6_66_4732_club-focus-%E2%80%93-fiorentina-%E2%80%93-cerci-strike-sinks-chievo-and-gives-la-viola-renewed-optimism.html#.UaRhT9KRASs |title=Club Focus – Fiorentina – Cerci strike sinks Chievo and gives La Viola renewed optimism |website=Footballitaliano.co.uk |date=9 November 2010 |accessdate=3 August 2013}}&lt;/ref&gt; Boruc went on to play in the next 25 Serie A fixtures, before Frey regained his place in the team for the final two league games of the season.
+
+On 18 August 2011, Boruc officially claimed Fiorentina's number one jersey after Frey's move to [[Genoa C.F.C.|Genoa]].&lt;ref name=viola110821/&gt; For the next year, Boruc played in all but two of Fiorentina's Serie A fixtures, but despite this he was criticised for some of his performances and apparent lack of fitness.&lt;ref&gt;{{cite web|url=http://www.footballitaliano.co.uk/p6_65_6824_fiorentina-plan-novara-line-up-without-gilardino.html#.UaRhptKRASs |title=Fiorentina plan Novara line-up without Gilardino |website=Footballitaliano.co.uk |date=7 January 2012 |accessdate=3 August 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.ftbpro.com/posts/joel.amorim/50609/boruc-is-next-in-line |title=Boruc is next in line |work=FTBpro |date=19 September 2012 |accessdate=3 August 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131029211338/http://www.ftbpro.com/posts/joel.amorim/50609/boruc-is-next-in-line |archivedate=29 October 2013 |df=dmy-all }}&lt;/ref&gt; After two seasons in Italy, Boruc was released by Fiorentina in July 2012.&lt;ref&gt;{{cite news|url=http://www.skysports.com/football/player/0,,11866_249119,00.html |title=Artur Boruc, Southampton – Football Stats |work=Sky Sports |accessdate=3 August 2013}}&lt;/ref&gt;
+
+===Southampton===
+On 22 September 2012, Boruc joined [[Premier League]] club [[Southampton F.C.|Southampton]] on a one-year deal.&lt;ref name=saints120923/&gt;&lt;ref name=bbc120922/&gt; He made his debut on 20 October in a 4–1 defeat away to [[West Ham United F.C.|West Ham United]] at [[Upton Park (stadium)|Upton Park]].&lt;ref name=bbc121020/&gt;
+
+On 28 October 2012, he was allegedly involved in an incident following [[Tottenham Hotspur F.C.|Tottenham Hotspur]]'s second goal, when he responded to the jeers coming from behind him by sarcastically applauding the home fans, before throwing a water bottle in their direction.&lt;ref name=tg121101/&gt;&lt;ref name=bbc121030/&gt; The incident resulted in Boruc being dropped from the side.&lt;ref&gt;{{cite web|url=http://www.tribalfootball.com/articles/southampton-boss-adkins-dropped-boruc-investigation-continues-3622641 |title=Southampton boss Adkins dropped Boruc as investigation continues |work=Tribal Football |date=6 November 2012 |accessdate=3 August 2013}}&lt;/ref&gt;
+
+Despite the early controversy in his Southampton career, Boruc regained his place in the first team and played in all the club's league matches from 1 January 2013 to the end of the season. On 9 March 2013 in a league match against [[Norwich City F.C.|Norwich City]] at [[Carrow Road]], Boruc saved a penalty in the 90th minute from [[Grant Holt]]. The game finished 0–0, with Southampton winning a point in their bid to avoid relegation.&lt;ref&gt;{{cite web|last=Callow|first=James|title=Artur Boruc saves Southampton's skin as Norwich pay the penalty|url=https://www.theguardian.com/football/2013/mar/09/norwich-city-southampton-premier-league|work=The Guardian|accessdate=21 March 2013|date=9 March 2013}}&lt;/ref&gt; Boruc's form since returning to the Southampton first team resulted in manager [[Mauricio Pochettino]] expressing a desire for Boruc to be signed up on a longer-term deal at Southampton.&lt;ref&gt;{{cite web |url=http://m.dailyecho.co.uk/sport/10295342.Poch_wants_keeper_to_stay/ |work=Daily Echo |date=18 March 2013 |title=Poch wants keeper Boruc to stay}}&lt;/ref&gt; On 18 April 2013 this wish was realised when Boruc signed a new 2-year contract for the club.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/22205197 |title=Artur Boruc signs new Southampton contract |work=BBC Sport |date=18 April 2013 |accessdate=3 August 2013}}&lt;/ref&gt; Southampton's 1–1 draw with Sunderland on 12 May 2013 ensured their Premier League status for the following season.,&lt;ref&gt;{{cite web|url=http://www.premierleague.com/en-gb/matchday/matches/2012-2013/epl.html/sunderland-vs-southampton |title=Sunderland vs Southampton |website=Premierleague.com |date=19 May 2013 |accessdate=3 August 2013}}&lt;/ref&gt; and they eventually finished in 14th place at the end of season.&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/tables/9484362/Premier-League-table-2012-13.html |title=Premier League table 2012-13 |work=The Telegraph |date= 18 August 2012|accessdate=3 August 2013 |location=London}}&lt;/ref&gt;
+
+Now firmly established as first-choice goalkeeper at Southampton, Boruc helped his team make an excellent start to the [[2013–14 Southampton F.C. season|2013–14 season]]. The club's 2–0 win over [[Fulham F.C.|Fulham]] on 26 October 2013 saw the team move to 18 points and into third place in the Premier League, their best-ever start to a [[English football league system#Structure|top-flight]] season.&lt;ref&gt;{{cite web|url=http://www.saintsfc.co.uk/fixtures-results/match-report/index.aspx?matchid=3631255 |title=Match Report: Southampton 2 Fulham 0 |website=Saintsfc.co.uk |date=26 October 2013 |accessdate=12 January 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Bevan |first=Chris |url=https://www.bbc.co.uk/sport/0/football/24591247 |title=Southampton 2–0 Fulham |work=BBC Sport |date=26 October 2013 |accessdate=12 January 2014}}&lt;/ref&gt;
+
+On 2 November 2013, in a 1–1 draw at [[Stoke City F.C.|Stoke City]], Boruc conceded a goal to opposing goalkeeper [[Asmir Begović]] after just 13 seconds.&lt;ref&gt;{{cite web|last=McKenna |first=Chris |url=https://www.bbc.co.uk/sport/0/football/24681360 |title=Stoke City 1–1 Southampton |work=BBC Sport |date=2 November 2013 |accessdate=12 January 2014}}&lt;/ref&gt; Three weeks later, under pressure from Arsenal's [[Olivier Giroud]], "instead of simply clearing he did one [[Cruyff turn]], then another, before tying himself into so many knots attempting a third that Giroud was able to nick the ball off him" and score the first of Arsenal's two goals.&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/arsenal-2-southampton-0-match-report-artur-boruc-howler-and-olivier-giroud-double-vision-keeps-title-in-focus-for-arsenal-8959495.html |title=Arsenal 2 Southampton 0 match report: Artur Boruc howler and Olivier Giroud double vision keeps title in focus for Arsenal |first=Glenn |last=Moore |work=The Independent |date=24 November 2013 |accessdate=3 September 2014}}&lt;/ref&gt; A week later, he suffered a broken hand trying to keep out a [[Demba Ba]] goal in a 3–1 defeat against [[Chelsea F.C.|Chelsea]], which kept him out for six weeks.&lt;ref&gt;{{cite web|title=Artur Boruc: Southampton keeper out for six weeks with broken hand|url=https://www.bbc.co.uk/sport/0/football/25180347|work=BBC Sport|accessdate=3 December 2013|date=1 December 2013}}&lt;/ref&gt; Boruc returned from injury on 11 January 2014&lt;ref&gt;{{cite web|url=http://www.fourfourtwo.com/au/news/boruc-buoyed-southampton-return |title=Boruc buoyed by Southampton return |work=FourFourTwo |date=11 January 2014 |accessdate=12 January 2014}}&lt;/ref&gt; and kept a clean sheet in Southampton's 1–0 win over [[West Bromwich Albion F.C.|West Bromwich Albion]], impressing with a last minute save from [[Shane Long]] to deny the club an equaliser.&lt;ref&gt;{{cite news|author=Mark Ryan |url=http://www.dailymail.co.uk/sport/football/article-2537315/Southampton-1-West-Brom-0-match-report-Mums-word-Adam-Lallana-sees-Baggies-new-boss-Pepe-Mel.html |title=Southampton 1 West Brom 0: Lallana's winner is the perfect present for Mum |work=Mail Online |date=11 January 2014 |accessdate=12 January 2014 |location=London}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author= |url=https://www.theguardian.com/football/2014/jan/11/southampton-west-bromwich-albion-premier-league |title=Southampton 1–0 West Bromwich Albion |work=The Guardian |date=11 January 2014 |accessdate=12 January 2014}}&lt;/ref&gt; Boruc maintained his place in his side, and although he was at fault for one of [[Sunderland A.F.C.|Sunderland]]'s goals in a 2–2 draw on 18 January,&lt;ref name="hub"&gt;{{cite web|title=Artur Boruc|url=http://www.thesaintshub.com/arturboruc.html |work=The Saints Hub|accessdate=20 September 2014}}&lt;/ref&gt; he redeemed himself with better performances in 1–0 and 3–0 league wins over Fulham and [[Hull City F.C.|Hull City]] respectively during February 2014.&lt;ref name="hub" /&gt;&lt;ref&gt;{{cite web|last=McLoughlin|first=Brendan|title=Fulham 0 – 3 Southampton|url=https://www.bbc.co.uk/sport/0/football/25892225|work=BBC Sport|accessdate=20 September 2014|date=1 February 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Begley|first1=Emlyn|title=Hull 0 – 1 Southampton|url=https://www.bbc.co.uk/sport/0/football/26027957|work=BBC Sport|date=11 February 2014}}&lt;/ref&gt; His form remained reasonably consistent, although his distribution was occasionally poor,&lt;ref name="hub" /&gt; and he helped Southampton to an eighth-place finish in the league at the end of the season.&lt;ref&gt;{{cite web|last=Wilson|first=Jeremy|title=Southampton Premier League season review for 2013–14|url=https://www.telegraph.co.uk/sport/football/teams/southampton/10810626/southampton-premier-league-season-review-2013-14.html|work=The Telegraph|accessdate=20 September 2014|date=12 May 2014}}&lt;/ref&gt;
+
+===AFC Bournemouth===
+At the start of the [[2014–15 Premier League|2014–15 season]], [[Fraser Forster]] arrived at Southampton from Celtic in a £10 million transfer deal, with the Englishman taking over Boruc's place in goal. On 19 September 2014, Boruc joined [[EFL Championship|Championship]] side [[AFC Bournemouth]] on an emergency loan deal until January 2015. He made his debut the following day in a 1–1 draw away against [[Watford F.C.|Watford]].&lt;ref&gt;{{cite web|last=Woodcock|first=Ian|title=Watford 1–1 Bournemouth|url=https://www.bbc.co.uk/sport/0/football/29186727|work=BBC Sport|accessdate=20 September 2014|date=20 September 2014}}&lt;/ref&gt; On 25 October, Bournemouth won 0–8 away at [[St Andrew's (stadium)|St. Andrew's]] against [[Birmingham City F.C.|Birmingham City]]. It was the first time that the Cherries had ever scored eight goals in a league game (barring a 10–0 win over [[Northampton Town F.C.|Northampton Town]] in September 1939 which was expunged from the records after World War II broke out the next day), and they recorded their biggest winning margin in a league fixture. Boruc played his part in this statistic by saving a penalty taken by [[Paul Caddis]] in the 53rd minute with the score at 0–3.&lt;ref name="bbc 2014-10-25"&gt;{{cite web|url=https://www.bbc.com/sport/0/football/29669693 |title=Managerless Birmingham City suffered a humiliating defeat as Bournemouth scored eight goals at St Andrew's |work=BBC Sport |accessdate=25 October 2014 |date=25 October 2014}}&lt;/ref&gt; The loan spell at Bournemouth went well, and by the end of December 2014, Boruc had kept clean sheets in nine of his 18 appearances, helping the club go top of the Championship. As such, the loan was extended to the end of the season, with Boruc commenting, "I'm pleased I'm here and that I'm part of a great team, and that's why I'm staying until the end of the season."&lt;ref&gt;{{cite web|title=Artur Boruc: AFC Bournemouth extend loan until end of season|url=https://www.bbc.co.uk/sport/0/football/30643674|work=BBC Sport|accessdate=7 February 2015|date=31 December 2014}}&lt;/ref&gt;
+
+On 2 May 2015, Boruc was part of the Bournemouth team which won the Championship title and a first-ever promotion to the Premier League.&lt;ref name=Champions&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/32459759|title=Charlton 0 Bournemouth 3|work=BBC Sport|date=2 May 2015 |accessdate =3 May 2015}}&lt;/ref&gt; Twenty-four days later, he was one of six players released by Southampton,
+&lt;ref name="Saints release six"&gt;{{cite web|title=Saints release six|url=http://www.saintsfc.co.uk/news/article/20150526-released-list-2469966.aspx|website=www.saintsfc.co.uk|publisher=[[Southampton F.C.]]|accessdate=26 May 2015|date=26 May 2015}}&lt;/ref&gt; joining Bournemouth on a free transfer later that day.&lt;ref&gt;{{cite web|title=Artur Boruc: Bournemouth sign Poland international goalkeeper|url=https://www.bbc.com/sport/0/football/32884147|work=BBC Sport|accessdate=26 May 2015}}&lt;/ref&gt;
+
+Boruc began the [[2015–16 A.F.C. Bournemouth season|2015–16 season]] as Bournemouth's first choice goalkeeper, starting the club's first ever top division match against [[Aston Villa F.C.|Aston Villa]] on 8 August 2015.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/33744565|title=Bournemouth 0–1 Aston Villa|date=8 August 2015|work=BBC Sport}}&lt;/ref&gt; His and the club's first clean sheet came in a 2–0 defeat of [[Sunderland A.F.C.|Sunderland]] at [[Dean Court]] on 19 September.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/34191881|title=Bournemouth 2–0 Sunderland|date=19 September 2015|work=BBC Sport}}&lt;/ref&gt;
+
+After a poor performance in a 1–5 home defeat by [[Tottenham Hotspur F.C.|Tottenham Hotspur]] on 25 October, Boruc was replaced in the Bournemouth goal by [[Adam Federici]] for all four of the Cherries' November fixtures.&lt;ref&gt;{{cite news|url=https://www.mirror.co.uk/sport/football/match-reports/bournemouth-0-1-newcastle-5-6756730|title=Bournemouth 0–1 Newcastle: 5 things we learned as Rob Elliot heroics earn Magpies three points |date=7 November 2015|work=The Mirror}}&lt;/ref&gt; An injury to Federici saw Boruc return to the side for an away fixture at [[List of English football champions|Premier League champions]] [[Chelsea F.C.|Chelsea]] on 5 December, with the Polish goalkeeper keeping a clean sheet in a 1–0 win for Bournemouth.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/34951749|title=Chelsea 0–1 Bournemouth|date=5 December 2015|work=BBC Sport}}&lt;/ref&gt; A week later, Boruc was a member of the Bournemouth side that beat [[Manchester United F.C.|Manchester United]] 2–1 at Dean Court.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/35014111|title=Bournemouth 2–1 Man Utd|date=12 December 2015 |work=BBC Sport}}&lt;/ref&gt;
+
+On 17 May 2018 he signed a new contract with [[AFC Bournemouth|Bournemouth]], keeping him at the club until the summer of 2019.&lt;ref&gt;{{cite web|url=https://www.afcb.co.uk/news/first-team/artur-boruc-signs-new-contract|title=Artur Boruc signs new contract|website=AFCB}}&lt;/ref&gt;
+
+==International career==
+[[File:ArturBoruc.jpg|thumb|Boruc with the Polish national team in November 2013]]
+Boruc's debut for [[Poland national football team|Poland]] came on 28 April 2004 in a friendly against the [[Republic of Ireland national football team|Republic of Ireland]], coming on as second-half substitute for [[Jerzy Dudek]], with the match ending in a goalless draw.&lt;ref name="debut1" /&gt;&lt;ref name="debut2" /&gt; Boruc made his first starting appearance for Poland with his third cap, a friendly on 12 July 2004 in [[Chicago]] against the [[United States men's national soccer team|United States]].&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/mecz.php?id_mecz=165237 |title=USA 1–1 Polska |website=90minut.pl |date=26 March 2013 |accessdate=3 August 2013}}&lt;/ref&gt; Boruc saved a penalty in the 11th minute from American striker [[Brian McBride]].&lt;ref&gt;{{cite web|url=http://www.boston.com/sports/soccer/articles/2004/07/12/us_team_salvages_tie_with_poland/|title=US team salvages tie with Poland – The Boston Globe|website=www.boston.com}}&lt;/ref&gt;
+
+Boruc soon established himself as a regular in the Polish squad and was selected to the 23-men national squad for the [[2006 FIFA World Cup]] finals held in Germany. He had been battling with [[Tomasz Kuszczak]] and also [[Łukasz Fabiański]] for the starting slot, but was first-choice goalkeeper during the World Cup and played in all three of their games. Boruc was particularly outstanding in the game against [[Germany national football team|Germany]],&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4852960.stm |title=World Cup 2006 Germany 1–0 Poland |work=BBC News |date= 14 June 2006|accessdate=3 August 2013}}&lt;/ref&gt; although he was unable to prevent his country losing 1–0.
+
+Boruc remained first choice goalkeeper and was named in Poland's [[UEFA Euro 2008]] squad. He played their first game against Germany and held his place through to the important second game against co-hosts Austria in which the Poles conceded a penalty in the 92nd minute to level the game. In the same match, he saved all three shots by the Austrians, leading to a final score of 1–1. He was nicknamed "Spaceman" by the Austrian and German press during the tournament.&lt;ref name=SL080526/&gt; The famous Polish striker from the late 1970s and 1980s, [[Zbigniew Boniek]], criticised Poland's team performance at Euro 2008 but singled out Boruc for praise, describing him as "world class."&lt;ref&gt;{{cite news|url=http://sport.dziennik.pl/pilka-nozna/artykuly/129506,boniek-tylko-boruc-ma-swiatowy-poziom.html|work=Dziennik Sport|date=16 June 2008|title=Boniek: Only Boruc is world class}}&lt;/ref&gt;
+
+Boruc incurred the wrath of manager [[Leo Beenhakker]] in August 2008 when he and two teammates went on a night out after a friendly against [[Ukrainian national football team|Ukraine]] in defiance of the orders of their manager. As a result, Boruc, [[Dariusz Dudka]] and [[Radosław Majewski]] were all suspended by Beenhakker for the next two internationals.&lt;ref&gt;{{cite web|author=Craig Swan |url=http://www.dailyrecord.co.uk/sport/other-sports/exclusive-artur-boruc-booted-from-poland-987967 |title=Exclusive: Artur Boruc booted from Poland squad for breaking curfew |work=Daily Record |date=22 August 2008 |accessdate=3 August 2013}}&lt;/ref&gt; Boruc, however, quickly regained his place in the team and continued to be the regular choice until falling from favour again in October 2010 under Beenhakker's successor as Poland manager, [[Franciszek Smuda]].&lt;ref&gt;{{cite web |url=http://poland.worldcupblog.org/1/turmoil-in-the-team-blaszczykowski-the-new-captain-zewlakow-and-boruc-expelled.html |title=Turmoil in the Team. Błaszczykowski The New Captain, Żewłakow And Boruc Expelled. – Poland |website=Poland.worldcupblog.org |date= |accessdate=3 August 2013 |deadurl=yes |archiveurl=https://archive.is/20130705180327/http://poland.worldcupblog.org/1/turmoil-in-the-team-blaszczykowski-the-new-captain-zewlakow-and-boruc-expelled.html |archivedate=5 July 2013 |df=dmy-all }}&lt;/ref&gt;
+
+After an absence of over two years, Boruc was recalled to the Polish squad in January 2013&lt;ref&gt;{{cite web|url=http://www.polandsoccerblog.com/2013/01/boruc-added-to-national-team-as-late.html |title=Poland Soccer Blog – Boruc returns to national team after two years |publisher= |deadurl=yes |archiveurl=https://web.archive.org/web/20131029222017/http://www.polandsoccerblog.com/2013/01/boruc-added-to-national-team-as-late.html |archivedate=29 October 2013 }}&lt;/ref&gt; and played in their 0–2 defeat against the Republic of Ireland a week later on 6 February 2013.&lt;ref&gt;{{cite web|url=https://www.telegraph.co.uk/sport/football/teams/republic-of-ireland/9850761/Republic-of-Ireland-2-Poland-0-match-report.html|title=Republic of Ireland 2 Poland 0: match report|publisher=}}&lt;/ref&gt; Boruc maintained his place in the international side for their next two competitive games on 22 and 26 March 2013, World Cup qualifiers against Ukraine&lt;ref&gt;{{cite web|url=http://www1.skysports.com/football/live/match/253589/report|title=Ukraine win to boost hopes|publisher=}}&lt;/ref&gt; and [[San Marino national football team|San Marino]]&lt;ref&gt;{{cite web|url=http://www1.skysports.com/football/live/match/253600/report|title=Poland thump San Marino|publisher=}}&lt;/ref&gt; respectively.
+
+Boruc made 64 appearances for his country, his last appearance coming in a friendly on 14 November 2016 against [[Slovenia national football team|Slovenia]], playing the first half before being substituted at half time in a 1–1 draw. His appearance in that game saw him become the most highly capped goalkeeper for Poland, passing [[Jan Tomaszewski]]'s record of 63 caps.&lt;ref&gt;{{cite news|last=Dobek|first=Dariusz|title=Artur Boruc pobił rekord w liczbie występów w reprezentacji Polski wśród bramkarzy|url=http://eurosport.onet.pl/pilka-nozna/kadra/artur-boruc-pobil-rekord-w-liczbie-wystepow-w-reprezentacji-polski-wsrod-bramkarzy/552nc7|accessdate=21 November 2016|work=onet.sport (Eurosport)|date=14 November 2015 |trans-title=Artur Boruc breaks record number of appearances for the Polish national team among goalkeepers |language=Polish}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Internationals: Landmark Poland appearance for Artur Boruc|url=http://www.afcb.co.uk/news/article/2016-17/internationals-landmark-poland-appearance-for-artur-boruc-3417050.aspx|accessdate=21 November 2016|work=AFC Bournemouth|date=15 November 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20161122153249/http://www.afcb.co.uk/news/article/2016-17/internationals-landmark-poland-appearance-for-artur-boruc-3417050.aspx|archivedate=22 November 2016|df=dmy-all}}&lt;/ref&gt;
+
+In March 2017, Boruc announced his retirement from international football, through his Instagram profile, citing his age, "peace of mind" regarding the position of a Polish goalkeeper, and focusing on his career in Bournemouth.&lt;ref&gt;{{cite web|url=http://thenews.pl/1/5/Artykul/295823,Artur-Boruc-bids-farewell-to-Poland-squad|title=Artur Boruc bids farewell to Poland squad|date=1 March 2017|publisher=Radio Poland|accessdate=30 May 2017}}&lt;/ref&gt; He earned his final 65th cap at his farewell match against [[Uruguay national football team|Uruguay]] on 10 November 2017 in Warsaw, being substituted shortly before half-time by former [[Legia Warsaw|Legia Warszawa]] teammate, [[Łukasz Fabiański]].&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/poland-vs-uruguay/teams/385535|title=Poland 0 Uruguay 0|date=10 November 2017|publisher=Sky Sports|accessdate=10 November 2017}}&lt;/ref&gt;
+
+==Controversies==
+Boruc was at the centre of many controversies during his Celtic tenure.
+
+On 25 August 2006, Boruc was cautioned by the [[Strathclyde Police]] for a [[breach of the peace]] for making gestures in front of [[Rangers F.C.|Rangers]] fans before a game earlier that year.&lt;ref name=Herald20060827/&gt; According to the ''[[Sunday Herald]]'', "police reports highlighted three hand gestures made by 26-year-old Boruc ... a [[V sign]] at the crowd, another obscene gesture at the crowd and a [[blessing]]." The gestures were not caught on video and the [[police caution|caution]] was issued on the basis of police reports and [[witness]] statements.&lt;ref name=Herald20060827/&gt; This incident has led to him attaining the nickname "The Holy Goalie".&lt;ref name=herald080303/&gt;
+
+The [[Procurator Fiscal]] said Boruc "was seen by members of the public and police officers to bless himself. Witnesses describe him smiling or laughing at a Rangers section of the crowd and making 'come on' gestures. This action appeared to incense a section of the crowd to react in such a way that police officers and security personnel had to become involved to calm the situation. The police reported that it took 10 minutes to restore normality in the crowd."&lt;ref name=copfs0608/&gt; According to a cross-party [[working group]] of the [[Scottish Parliament]], "the sign of the cross in itself is an expression of the Roman Catholic faith; however, using it to alarm, upset or provoke others might be a breach of the peace at [[common law]]."&lt;ref name=sg021205/&gt;
+
+The [[Catholic Church]] condemned the legal action, however, expressing regret that "Scotland seems to have made itself one of the few countries in the world where this simple religious gesture is considered an offence."&lt;ref name=guardian060827/&gt; Following extensive press comment, the [[Crown Office]] issued a statement on 28 August 2006 stressing that the "very limited" action had been taken against Boruc for gestures made toward Rangers supporters rather than for crossing himself, and that it would not take action against individuals for "acts of religious observance."&lt;ref name=bbc060828/&gt; According to [[BBC News Online]], the caution "brought the issue of [[sectarianism]] in Scotland back into sharp focus."&lt;ref name=bbc060826/&gt; The Roman Catholic Church welcomed the Crown Office's clarification of the limited action taken against Boruc, particularly the statement that it "did not in any way refer to the act of blessing himself."&lt;ref name=scm060628/&gt;
+
+On 17 December 2006, Boruc again crossed himself during his first Old Firm game since the caution, drawing "a roar" from the Rangers fans behind his goal.&lt;ref name=scotsman20061218/&gt;&lt;ref name=yt061217/&gt; A spokesman for Celtic defended his gesture, stating "the police have said they have no problem with Artur Boruc in this regard and neither does Celtic Football Club."&lt;ref name=scotsman20061218/&gt;
+
+Boruc courted further controversy in April 2008 when he displayed a T-shirt saying "God bless the Pope" and bearing a picture of [[Pope John Paul II]] after a game against Rangers,&lt;ref name=bbc080430/&gt; and also in May 2007 when he waved a flag proclaiming Celtic the "champions" following a match against Rangers.&lt;ref name=bbc070509/&gt;
+
+==Career statistics==
+
+===Club===
+&lt;!-- NOTE: when updating stats, update the infobox too! --&gt;
+{{updated|2 March 2018}}
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!rowspan="2"|Division
+!colspan="2"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|[[UEFA]]
+!colspan="2"|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="6" valign="center"|[[Legia Warsaw]]
+|[[2000–01 Ekstraklasa|2000–01]]
+|style="text-align:center;" rowspan="5"|[[Ekstraklasa]]
+|0||0||0||0||0||0||colspan="2"|–||0||0
+|-
+|[[2001–02 Ekstraklasa|2001–02]]&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=59 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|5||0||0||0||1||0||0||0||6||0
+|-
+|[[2002–03 Ekstraklasa|2002–03]]&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=61 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|12||0||0||0||colspan="2"|–||0||0||12||0
+|-
+|[[2003–04 Ekstraklasa|2003–04]]&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=63 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|26||1||4||0||colspan="2"|–||colspan="2"|–||30||1
+|-
+|[[2004–05 Ekstraklasa|2004–05]]&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=65 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|26||0||10||0||colspan="2"|–||4||0||40||0
+|-
+!colspan="2"|Total
+!colspan="1"|69 !! 1 !! 14 !! 0 !! 1 !! 0 !! 4 !! 0 !! 88 !! 1
+|-
+|rowspan="6" valign="center"|[[Celtic F.C.|Celtic]]&lt;ref name="fitbastats1"/&gt;
+|[[2005–06 Scottish Premier League|2005–06]]&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=5 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|style="text-align:center;" rowspan="5"|[[Scottish Premier League]]
+|34||0||1||0||4||0||1||0||40||0
+|-
+|[[2006–07 Scottish Premier League|2006–07]]&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=4 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|36||0||5||0||2||0||8||0||51||0
+|-
+|[[2007–08 Scottish Premier League|2007–08]]&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=3 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|30||0|||4||0||2||0||9||0||45||0
+|-
+|[[2008–09 Scottish Premier League|2008–09]]&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=2 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|34||0||3||0||4||0||6||0||47||0
+|-
+|[[2009–10 Scottish Premier League|2009–10]]&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=1 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|28||0||2||0||0||0||8||0||38||0
+|-
+!colspan="2"|Total
+!colspan="1"|162 !! 0 !! 15 !! 0 !! 12 !! 0 !! 32 !! 0 !! 221 !! 0
+|-
+|rowspan="3" valign="center"|[[ACF Fiorentina|Fiorentina]]
+|[[2010–11 Serie A|2010–11]]&lt;ref&gt;{{soccerbase season|28660|2010|accessdate=19 August 2013}}&lt;/ref&gt;
+|style="text-align:center;" rowspan="2"|[[Serie A]]
+|26||0||1||0||colspan="2"|–||colspan="2"|–||27||0
+|-
+|[[2011–12 Serie A|2011–12]]&lt;ref&gt;{{soccerbase season|28660|2011|accessdate=19 August 2013}}&lt;/ref&gt;
+|36||0||1||0||colspan="2"|–||colspan="2"|–||37||0
+|-
+!colspan="2"|Total
+!colspan="1"|62 !! 0 !! 2 !! 0 !! 0 !! 0 !! 0 !! 0 !! 64 !! 0
+|-
+|rowspan="3" valign="center"|[[Southampton F.C.|Southampton]]
+|[[2012–13 Premier League|2012–13]]&lt;ref&gt;{{soccerbase season|28660|2012|accessdate=18 September 2017}}&lt;/ref&gt;
+|style="text-align:center;" rowspan="2"|[[Premier League]]
+|20||0||1||0||0||0||colspan="2"|–||21||0
+|-
+|[[2013–14 Premier League|2013–14]]&lt;ref&gt;{{soccerbase season|28660|2013|accessdate=18 September 2017}}&lt;/ref&gt;
+|29||0||0||0||0||0||colspan="2"|–||29||0
+|-
+!colspan="2"|Total
+!colspan="1"|49 !! 0 !! 1 !! 0 !! 0 !! 0 !! 0 !! 0 !! 50 !! 0
+|-
+|valign="center"|[[AFC Bournemouth]] (loan)
+|[[2014–15 Football League Championship|2014–15]]&lt;ref&gt;{{soccerbase season|28660|2014|accessdate=18 September 2017}}&lt;/ref&gt;
+|style="text-align:center;" rowspan="1"|[[EFL Championship|Championship]]
+|37||0||0||0||2||0||colspan="2"|–||39||0
+|-
+|rowspan="5" valign="center"|AFC Bournemouth
+|[[2015–16 Premier League|2015–16]]&lt;ref&gt;{{soccerbase season|28660|2015|accessdate=18 September 2017}}&lt;/ref&gt;
+|style="text-align:center;" rowspan="4"|Premier League
+|32||0||0||0||0||0||colspan="2"|–||32||0
+|-
+|[[2016–17 A.F.C. Bournemouth season|2016–17]]&lt;ref&gt;{{soccerbase season|28660|2016|accessdate=14 May 2017}}&lt;/ref&gt;
+|35||0||0||0||0||0||colspan="2"|–||35||0
+|-
+|[[2017–18 A.F.C. Bournemouth season|2017–18]]&lt;ref&gt;{{soccerbase season|28660|2017|accessdate=9 November 2017}}&lt;/ref&gt;
+|0||0||2||0||4||0||colspan="2"|–||6||0
+|-
+|[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref&gt;{{soccerbase season|28660|2018|accessdate=1 September 2018}}&lt;/ref&gt;
+|7||0||1||0||4||0||colspan="2"|–||12||0
+|-
+!colspan="2"|Total
+!111 !! 0 !! 3 !! 0 !! 10 !! 0 !! 0 !! 0 !! 124 !! 0
+|-
+!colspan="3"|Career total
+! 453 !! 1 !! 35 !! 0 !! 23 !! 0 !! 36 !! 0 !! 547 !! 1
+|}
+
+==Personal life==
+Boruc is a [[Legia Warsaw]] fan and attends matches in Poland.&lt;ref name=icn070419/&gt;
+
+On 21 April 2007, he helped a 27-year-old pregnant Polish woman, her sister and brother-in-law, when they were attacked in [[Glasgow]].&lt;ref name=sm070422/&gt;
+
+Boruc's father died in April 2010; his mother Jadwiga died when he was only 20. He has a brother and three sisters. On 11 June 2008, Boruc's then-wife Katarzyna gave birth to their son, Aleksander ("Aleks"), in [[Warsaw]].&lt;ref name=dr080612/&gt; Boruc and his wife separated in 2008, amid reports of his relationship with former [[Idol (Polish TV series)|Polish Idol]] contestant Sara Mannei.&lt;ref name=dr081124/&gt; Mannei gave birth to daughter Amelia on 9 August 2010 in Poland and the couple married in 2014.&lt;ref&gt;{{cite news|last=Morgan|first=Sam|title=Bournemouth keeper Artur Boruc’s stunning wife Sara is the Cherry on top|url=https://www.thesun.co.uk/archives/football/67333/bournemouth-keeper-artur-borucs-stunning-wife-sara-is-the-cherry-on-top/|accessdate=20 August 2016|work=The Sun|date=7 February 2016}}&lt;/ref&gt; 
+
+In September 2009, ''[[The Sun (United Kingdom)|The Scottish Sun]]'' newspaper published an apology, for claiming Boruc had had an affair with a young woman, shown in a photograph, who was actually his sister.&lt;ref name=tss090918/&gt; In June 2011, the ''[[News of the World]]'' newspaper admitted it had published a false report on Boruc, and paid him £70,000, believed to be a record for Scottish libel cases, plus legal expenses.&lt;ref name=guardian110619/&gt;
+
+==Honours==
+'''Legia Warsaw'''
+*[[Ekstraklasa]]: [[2001–02 Ekstraklasa|2001–02]]
+*[[Ekstraklasa Cup]]: 2001–02
+
+'''Celtic'''
+*[[Scottish Premier League]]: [[2005–06 Scottish Premier League|2005–06]],&lt;ref name="lg06" /&gt; [[2006–07 Scottish Premier League|2006–07]],&lt;ref name="lg07" /&gt; [[2007–08 Scottish Premier League|2007–08]]&lt;ref name="lg08" /&gt;
+*[[Scottish League Cup]]: [[2005–06 Scottish League Cup|2005–06]],&lt;ref name="pars" /&gt; [[2008–09 Scottish League Cup|2008–09]]&lt;ref name="gers" /&gt;
+*[[Scottish Cup]]: [[2006–07 Scottish Cup|2006–07]]&lt;ref name="pars2" /&gt;
+
+'''AFC Bournemouth'''
+*[[EFL Championship|Football League Championship]]: [[2014–15 Football League Championship|2014–15]]&lt;ref name=Champions/&gt;
+
+'''Individual'''
+*[[AFC Bournemouth]] Supporters' Player of the Year: [[2016–17 A.F.C. Bournemouth season|2016–17]]&lt;ref&gt;{{cite web|url=https://www.afcb.co.uk/news/first-team/artur-boruc-crowned-supporters-player-of-the-season-for-201617|title=Artur Boruc crowned AFC Bournemouth Supporters' Player of the Year|first=Matt |last=Joyce|date=13 May 2017 |accessdate=14 January 2018 |work=AFC Bournemouth}}&lt;/ref&gt;
+
+==References==
+{{reflist|refs=
+
+&lt;ref name=goal&gt;{{cite news |url=http://www.90minut.pl/mecz.php?id_mecz=87978 |title=Legia Warszawa 6–0 Widzew Łódź |date=8 June 2004 |website= 90minut.pl |language=Polish}}&lt;/ref&gt;
+
+&lt;ref name=bbc050713&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/4675375.stm |title=Keeper Boruc joins Celtic on loan |work=BBC Sport |date=13 July 2005}}&lt;/ref&gt;
+
+&lt;ref name=bbc051017&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/4311966.stm | title = Boruc signs permanent Celtic deal |work=BBC Sport |date=17 October 2005 |accessdate=7 November 2010}}&lt;/ref&gt;
+
+&lt;ref name=ab080105&gt;{{cite news |url=http://arturboruc.com/news.php?id=1253 |title=Boruc podpisał nowy kontrakt! |language=Polish |trans-title=Boruc signed a new contract |website=ArturBoruc.com |date=5 January 2008 |archiveurl=https://web.archive.org/web/20090116121541/http://arturboruc.com/news.php?id=1253 |archivedate=16 January 2009 |deadurl=yes}}&lt;/ref&gt;
+
+&lt;ref name=bbc070412&gt;{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/scot_prem/6548113.stm |title=Celtic dominate awards shortlist |work=BBC Sport |date=12 April 2007}}&lt;/ref&gt;
+
+&lt;ref name=FifPro&gt;{{cite news |url=http://www.fifpro.org/index.php?mod=one&amp;id=16755 |title=55 players shortlisted for FIFPro World XI Player Awards |date=20 October 2008 |work= FIFPro |accessdate=15 September 2009}}&lt;/ref&gt;
+
+&lt;ref name=bbc100419&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/scot_prem/8631202.stm |title=Dundee Utd striker Goodwillie nets young player award |work=BBC Sport |date=19 April 2010 |accessdate=7 November 2010 }}&lt;/ref&gt;
+
+&lt;ref name=bbc100504&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/scot_prem/8658392.stm |title=Celtic 2 – 1 Rangers |work=BBC Sport |date=4 May 2010 |accessdate=4 May 2010 |archiveurl=https://web.archive.org/web/20100507115917/http://news.bbc.co.uk/sport1/hi/football/scot_prem/8658392.stm |archivedate=7 May 2010 |deadurl=no |first=Andy |last=Campbell}}&lt;/ref&gt;
+
+&lt;ref name=sky100712&gt;{{cite news|url=http://www.skysports.com/story/0,19528,11781_6257761,00.html |title=Boruc set for Viola switch |date=12 July 2010 |work=[[Sky Sports]] |accessdate=12 July 2010 |archiveurl=https://web.archive.org/web/20100715055154/http://www.skysports.com/story/0%2C19528%2C11781_6257761%2C00.html |archivedate=15 July 2010 |deadurl=no |df= }}&lt;/ref&gt;
+
+&lt;ref name=bbc100715&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/8812754.stm |title=Goalkeeper Artur Boruc moves to Fiorentina from Celtic |work=BBC Sport |date=15 July 2010}}&lt;/ref&gt;
+
+&lt;ref name=viola1007115&gt;{{cite news |url=http://it.violachannel.tv/dettaglio-ultimora/items/comunicato-stampa.4444.html |title=Comunicato Stampa |date=14 July 2010 |accessdate=15 July 2010 |publisher=ACF Fiorentina |language=Italian}}&lt;/ref&gt;
+
+&lt;ref name=celtic100715&gt;{{cite news|url=http://www.celticfc.net/news/stories/news_150710124528.aspx |title=Artur leaves Celtic after five great years |first=Paul |last=Cuddihy |date=15 July 2010 |accessdate=15 July 2010 |publisher=Celtic F.C. |archiveurl=https://web.archive.org/web/20100717185822/http://www.celticfc.net/news/stories/news_150710124528.aspx |archivedate=17 July 2010 |deadurl=yes |df= }}&lt;/ref&gt;
+
+&lt;ref name=viola110821&gt;{{cite web |url=http://it.violachannel.tv/giocatori.html |title=Fiorentina Giocatori |accessdate=21 August 2011 |archiveurl=https://web.archive.org/web/20110722144336/http://it.violachannel.tv/giocatori.html |archivedate=22 July 2011 |deadurl=yes}}&lt;/ref&gt;
+
+&lt;ref name=saints120923&gt;{{cite web |url=http://www.saintsfc.co.uk/news/article/boruc-pens-saints-deal-382387.aspx |title=Boruc Pens Saints Deal |publisher=Southampton FC |accessdate=23 September 2012 | date=22 September 2012}}&lt;/ref&gt;
+
+&lt;ref name=bbc120922&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/19689083 |title=Southampton bring in keeper Artur Boruc |work=BBC Sport |accessdate=22 September 2012 }}&lt;/ref&gt;
+
+&lt;ref name=bbc121020&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/19939627 |title=West Ham 4–1 Southampton |work=BBC Sport |date=20 October 2012 |accessdate=21 October 2012}}&lt;/ref&gt;
+
+&lt;ref name=tg121101&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/9635936/Southampton-1-Tottenham-Hotspur-2-match-report.html |title=Southampton 1 Tottenham Hotspur 2: match report |first=Jonathan |last=Liew |work=The Daily Telegraph |accessdate=1 November 2012 |date=28 October 2012 |location=London}}&lt;/ref&gt;
+
+&lt;ref name=bbc121030&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/20138972 |title=Southampton investigate Artur Boruc water bottle incident |work=BBC Sport |date=30 October 2012 |accessdate=1 November 2012}}&lt;/ref&gt;
+
+&lt;ref name=SL080526&gt;{{cite news |url=http://www.sportlive.at/artikel_showartikel.php?aid=0000050272 |title=Poland in Portrait |website=sportlive.at |date=26 May 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20110706094746/http://www.sportlive.at/artikel_showartikel.php?aid=0000050272 |archivedate=6 July 2011 |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name=Herald20060827&gt;{{cite news |url=http://findarticles.com/p/articles/mi_qn4156/is_20060827/ai_n16697238 |title=Anger grows over police caution for Boruc's blessing |first=Jenifer |last=Johnston |newspaper=[[Sunday Herald]] |date=27 August 2006}}&lt;/ref&gt;
+
+&lt;ref name=herald080303&gt;{{cite news |url=http://www.heraldscotland.com/if-fans-give-it-they-must-be-able-to-take-it-1.875736 |title=If fans give it, they must be able to take it |first=Darryl |last=Broadfoot |newspaper=[[The Herald (Glasgow)|The Herald]] |date=3 March 2008}}&lt;/ref&gt;
+
+&lt;ref name=copfs0608&gt;{{cite news |url=http://www.copfs.gov.uk/News/Releases/2006/08/28140026 |title=Football and the Law |date=August 2006 |publisher=[[Crown Office]] and [[Procurator Fiscal]] Service}}&lt;/ref&gt;
+
+&lt;ref name=sg021205&gt;{{cite news |url=http://www.scotland.gov.uk/Publications/2002/12/15892/14533 |title=Report of cross-party working group on religious hatred |publisher=[[Scottish Government]] |date=5 December 2002}}&lt;/ref&gt;
+
+&lt;ref name=guardian060827&gt;{{cite news | url = https://www.theguardian.com/uk/2006/aug/27/religion.scotland |title=Storm as goalkeeper pays Sign of the Cross penalty |first=Lorna |last=Martin |newspaper=[[The Observer]] |date=27 August 2006 |location=London}}&lt;/ref&gt;
+
+&lt;ref name=bbc060828&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/scotland/5292656.stm |title=Player caution 'not for blessing' |work=BBC News |date=28 August 2006}}&lt;/ref&gt;
+
+&lt;ref name=bbc060826&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/scotland/5289202.stm |title=A rivalry tied up in religion |date=26 August 2006 |work=BBC News}}&lt;/ref&gt;
+
+&lt;ref name=scm060628&gt;{{cite news |url=http://www.swiftstuff.com/archives/2006/08/statement_from.shtml |title=Statement from Bishop Devine |date=28 June 2006 |publisher=Scottish Christian Monitor (via the [[Internet Archive]]) |archiveurl=https://web.archive.org/web/20070714081957/http://www.swiftstuff.com/archives/2006/08/statement_from.shtml |archivedate=14 July 2007 |deadurl=yes}}&lt;/ref&gt;
+
+&lt;ref name=bbc080430&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/7370125.stm |title=SPL receives Boruc t-shirt report |work=[[BBC Sport]] |date=30 April 2008 }}&lt;/ref&gt;
+
+&lt;ref name=bbc070509&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/celtic/6631681.stm |title=SFA probes Boruc's flag-waving |work=[[BBC Sport]] |date=9 May 2007}}&lt;/ref&gt;
+
+&lt;ref name=scotsman20061218&gt;{{cite news |url=http://news.scotsman.com/latestnews/Celtic-keeper-makes-Rangers-fans.2835999.jp |title=Celtic keeper makes Rangers fans cross |first=Kevin |last=Schofield |newspaper=[[The Scotsman]] |date=18 December 2006}}&lt;/ref&gt;
+
+&lt;ref name=yt061217&gt;{{YouTube|f-zAFWGu-gc|Scotland's not-so-secret shame}}, 17 December 2006&lt;/ref&gt;
+
+&lt;ref name=sm070422&gt;{{cite news|url=http://www.sundaymail.co.uk/news/tm_headline=exclusive%2D-celtic-star%2Ds-thug-fury%26method=full%26objectid=18942870%26siteid=64736-name_page.html |title=Exclusive: Celtic star's thug fury |first=Lynn |last=Mcpherson |first2=David |last2=Taylor |date=22 April 2007 |newspaper=[[Sunday Mail (Scotland)|Sunday Mail]] |archiveurl=https://web.archive.org/web/20070424051543/http://www.sundaymail.co.uk/news/tm_headline%3Dexclusive--celtic-star-s-thug-fury%26method%3Dfull%26objectid%3D18942870%26siteid%3D64736-name_page.html |archivedate=24 April 2007 |deadurl=yes |df= }}&lt;/ref&gt;
+
+&lt;ref name=tss090918&gt;{{cite news |url=http://www.thescottishsun.co.uk/scotsol/homepage/news/2643507/Apology-Artur-Boruc.html |title=Apology: Artur Boruc |date=18 September 2009 |work=[[The Sun (United Kingdom)|The Scottish Sun]] |accessdate=19 June 2011 |archivedate=31 December 2009 |archiveurl=https://web.archive.org/web/20091231195943/http://www.thescottishsun.co.uk/scotsol/homepage/news/2643507/Apology-Artur-Boruc.html |deadurl=yes}}&lt;/ref&gt;
+
+&lt;ref name=guardian110619&gt;{{cite news |url=https://www.theguardian.com/media/greenslade/2011/jun/19/newsoftheworld-medialaw |title=News of the World pays footballer £70,000 for libel |first=Roy |last=Greenslade |date=19 June 2011 |work=[[The Guardian]] |accessdate=19 June 2011 |archiveurl=https://web.archive.org/web/20110627004436/http://www.guardian.co.uk/media/greenslade/2011/jun/19/newsoftheworld-medialaw |archivedate= 27 June 2011 |deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name=dr080612&gt;{{cite news |url=http://www.dailyrecord.co.uk/news/scottish-news/2008/06/12/baby-joy-for-celtic-goalkeeper-artur-boruc-86908-20603899 |title=Baby joy for Celtic goalkeeper Artur Boruc |first=Craig |last=McDonald |date=12 June 2008 |newspaper=[[Daily Record (Scotland)|Daily Record]]}}&lt;/ref&gt;
+
+&lt;ref name=dr081124&gt;{{cite news |url=http://www.dailyrecord.co.uk/news/scottish-news/2008/11/24/exclusive-celtic-keeper-artur-boruc-gets-death-threats-from-sick-web-thugs-over-marriage-split-86908-20920328 |title=Celtic keeper Artur Boruc's death threats from sick web thugs over marriage split |first=Janice |last=Burns |date=24 November 2008 |newspaper=[[Daily Record (Scotland)|Daily Record]]}}&lt;/ref&gt;
+
+&lt;ref name=icn070419&gt;{{cite news |url=http://icscotland.icnetwork.co.uk/sport/spl/celticfc/tm_headline=boruc-s-war-cry-for-his-heroes&amp;method=full&amp;objectid=18927724&amp;siteid=50141-name_page.html |title=Boruc's war cry for his heroes |date=19 April 2007 |work= icScotland }}&lt;/ref&gt;
+
+}}
+
+==External links==
+{{commons category}}
+* {{Soccerbase}}
+* {{Webarchive |url=https://web.archive.org/web/20110415070041/http://www.pzpn.pl/index.php/pol/Reprezentacje/Reprezentacje-meskie/Reprezentacja-A/Kadra?zawodnik=57985 |title=Artur Boruc' national team stats on the website of the Polish Football Association {{pl icon}} (pzpn.pl) }}
+* {{90minut|2624}}
+* [http://www.fansnetwork.co.uk/football/southampton/fb_news.php?storyid=32070 Southampton Fans Network – Player Review 2012/13]
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2006–07 PFA Scotland SPL Team of the Year}}
+{{2007–08 PFA Scotland SPL Team of the Year}}
+{{A.F.C. Bournemouth Player of the Year}}
+}}
+{{Navboxes
+| title = Poland squads
+| bg = white
+| fg = #D4213D
+| bordercolor = silver
+| list1 = 
+{{Poland squad 2006 FIFA World Cup}}
+{{Poland squad UEFA Euro 2008}}
+{{Poland squad UEFA Euro 2016}}
+}}
+{{A.F.C. Bournemouth squad}}
+{{Authority control}}
+
+{{DEFAULTSORT:Boruc, Artur}}
+[[Category:1980 births]]
+[[Category:People from Siedlce]]
+[[Category:Living people]]
+[[Category:Polish footballers]]
+[[Category:Poland international footballers]]
+[[Category:Polish expatriate footballers]]
+[[Category:Polish Roman Catholics]]
+[[Category:Polish expatriate sportspeople in Italy]]
+[[Category:Expatriate footballers in Italy]]
+[[Category:Expatriate footballers in Scotland]]
+[[Category:Association football goalkeepers]]
+[[Category:Association football goalkeepers who have scored]]
+[[Category:Legia Warsaw players]]
+[[Category:Dolcan Ząbki players]]
+[[Category:Celtic F.C. players]]
+[[Category:ACF Fiorentina players]]
+[[Category:Southampton F.C. players]]
+[[Category:A.F.C. Bournemouth players]]
+[[Category:Scottish Premier League players]]
+[[Category:Serie A players]]
+[[Category:Premier League players]]
+[[Category:2006 FIFA World Cup players]]
+[[Category:UEFA Euro 2008 players]]
+[[Category:Ekstraklasa players]]
+[[Category:Sportspeople from Masovian Voivodeship]]
+[[Category:Expatriate footballers in England]]
+[[Category:English Football League players]]
+[[Category:Polish expatriate sportspeople in England]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:MKP Pogoń Siedlce players]]</text>
+      <sha1>sdy5e620nszaj7cjddcjvxbonjvu49v</sha1>
+    </revision>
+  </page>
+</mediawiki>

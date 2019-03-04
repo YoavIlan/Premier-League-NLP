@@ -1,0 +1,428 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>João Moutinho</title>
+    <ns>0</ns>
+    <id>3483095</id>
+    <revision>
+      <id>886059755</id>
+      <parentid>885263626</parentid>
+      <timestamp>2019-03-04T01:14:19Z</timestamp>
+      <contributor>
+        <ip>82.23.42.196</ip>
+      </contributor>
+      <comment>/* Club */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="44698">{{for|the Portuguese footballer of the same name|João Moutinho (footballer, born 1998)}}
+{{Use dmy dates|date=October 2010}}
+{{Portuguese name|Iria Santos|Moutinho}}
+{{Infobox football biography
+| name = João Moutinho
+| image = Mex-por-107 (1cropped1).jpg
+| image_size = 200
+| caption = Moutinho with [[Portugal national football team|Portugal]] at the [[2017 FIFA Confederations Cup|2017 Confederations Cup]]
+| fullname = João Filipe Iria Santos Moutinho&lt;ref name=FIFA&gt;{{cite web|url=http://tournament.fifadata.com/documents/FCC/2017/PDF/FCC_2017_SQUADLISTS.PDF|title=FIFA Confederations Cup Russia 2017: List of players: Portugal|publisher=FIFA|page=7|format=PDF|date=20 March 2018|accessdate=29 March 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1986|9|8|df=y}}&lt;ref name=FIFA/&gt;
+| birth_place = [[Barreiro, Portugal]]&lt;ref name=MF&gt;{{cite web|url=http://www.maisfutebol.iol.pt/joao-moutinho-em-chat-no-maisfutebol-revelacoes-fora-dos-relvados|title=João Moutinho em "chat" no Maisfutebol: revelações fora dos relvados|trans-title=João Moutinho chat on Maisfutebol: revelations outside the field|publisher=Mais Futebol|language=pt|date=23 February 2006|accessdate=10 July 2018}}&lt;/ref&gt;
+| height = 1.70 m&lt;ref&gt;{{cite web|url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF|title=2018 FIFA World Cup Russia – List of Players|publisher=FIFA|format=PDF|date=4 June 2018|access-date=19 June 2018}}&lt;/ref&gt;
+| position = [[Midfielder]]
+| currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| clubnumber = 28
+| youthyears1 = 1996–2000 | youthclubs1 = [[Portimonense S.C.|Portimonense]]
+| youthyears2 = 2000–2004 | youthclubs2 = [[Sporting CP]]
+| years1 = 2003–2004 | clubs1 = [[Sporting CP B]] | caps1 = 30 | goals1 = 1
+| years2 = 2005–2010 | clubs2 = [[Sporting CP]] | caps2 = 163 | goals2 = 21
+| years3 = 2010–2013 | clubs3 = [[FC Porto|Porto]] | caps3 = 83 | goals3 = 4
+| years4 = 2013–2018 | clubs4 = [[AS Monaco FC|Monaco]] | caps4 = 158 | goals4 = 9
+| years5 = 2018– | clubs5 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] | caps5 = 26 | goals5 = 1
+| totalcaps = | totalgoals = 
+| nationalyears1 = 2003 | nationalteam1 = [[Portugal national under-17 football team|Portugal U17]] | nationalcaps1 = 15 | nationalgoals1 = 0
+| nationalyears2 = 2004 | nationalteam2 = [[Portugal national under-18 football team|Portugal U18]] | nationalcaps2 = 5 | nationalgoals2 = 0
+| nationalyears3 = 2004 | nationalteam3 = [[Portugal national under-19 football team|Portugal U19]] | nationalcaps3 = 4 | nationalgoals3 = 1
+| nationalyears4 = 2005–2007 | nationalteam4 = [[Portugal national under-21 football team|Portugal U21]] | nationalcaps4 = 17 | nationalgoals4 = 2
+| nationalyears5 = 2006 | nationalteam5 = [[Portugal national football B team|Portugal B]] | nationalcaps5 = 1 | nationalgoals5 = 0
+| nationalyears6 = 2005– | nationalteam6 = [[Portugal national football team|Portugal]] | nationalcaps6 = 113 | nationalgoals6 = 7
+| club-update = 00:18, 12 February 2019 (UTC)
+| nationalteam-update = 20:35, 25 June 2018 (UTC)
+| medaltemplates = {{medalCountry|[[Portugal national football team|Portugal]]}}
+{{medal|W|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2016|2016]]}}
+{{medalBronze|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2012|2012]]}}&lt;!--Though there was no third place playoff, UEFA decided in the 2012 edition to award the semi-final losers (Germany and Portugal) bronze medals.--&gt;
+{{medal|3rd|[[FIFA Confederations Cup|Confederations Cup]]|[[2017 FIFA Confederations Cup|2017]]}}
+}}
+'''João Filipe Iria Santos Moutinho''' ({{IPA-pt|ˈʒwɐ̃w fɨˈlip iˈɾi.ɐ ˈsɐ̃tuʒ mo(w)ˈtĩɲu}}; born 8 September 1986) is a Portuguese [[Association football|footballer]] who plays for [[Premier League]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] and the [[Portugal national football team|Portugal national team]]. Mainly a [[Midfielder#Central midfielder|central midfielder]], he can also operate as a [[Midfielder#Defensive midfielder|defensive]] or [[Midfielder#Attacking midfielder|attacking midfielder]] and on either [[Midfielder#Wide midfielder|flank]].
+
+He began his professional career with [[Sporting CP|Sporting]], moving in 2010 to [[FC Porto|Porto]] and winning 12 major titles between the two clubs combined. Three years later he transferred to [[AS Monaco FC|Monaco]] for €25 million, conquering the [[Ligue 1]] championship in the [[2016–17 Ligue 1|2016–17 season]].
+
+Moutinho represented the Portuguese national team at three [[UEFA European Championship|European Championships]] and two [[FIFA World Cup|World Cups]], winning the [[UEFA Euro 2016|2016 edition]] of the former tournament.
+
+==Club career==
+===Sporting===
+Moutinho was born in [[Barreiro, Portugal|Barreiro]], [[Setúbal District]].&lt;ref name=MF/&gt; After showing great promise as a boy playing for [[Portimonense S.C.|Portimonense SC]], he signed with [[Sporting CP]] when he turned 13 to continue his [[Sporting CP Youth and Academy|football education]].&lt;ref&gt;{{cite news|url=https://www.dn.pt/arquivo/2005/interior/um-dia-especial-para-o-cla-moutinho-612994.html|title=Um dia especial para o clã Moutinho|trans-title=A special day for the Moutinho clan|newspaper=[[Diário de Notícias]]|author=Tiago Silva Pires|language=pt|date=19 March 2005|accessdate=24 July 2018}}&lt;/ref&gt;
+
+During the 2004–05 pre-season, at only 17 years of age, Moutinho was called by manager [[José Peseiro]] to the main squad, where he played some games and displayed some talent early on. However, he then returned to the junior team coached by [[Paulo Bento]] and featured alongside such players such as [[Miguel Veloso]] and [[Nani]], helping the side win the national title that season, although he was also regularly training with the main squad.
+
+In the beginning of 2005, Moutinho was called up for a game in the [[Taça de Portugal]], eventually playing 20 minutes against [[F.C. Pampilhosa]],&lt;ref&gt;{{cite news|url=https://www.record.pt/futebol/futebol-nacional/liga-nos/sporting/detalhe/joao-moutinho-celebra-2-anos-de-carreira.html|title=João Moutinho celebra 2 anos de carreira|trans-title=João Moutinho celebrates 2 years in career|newspaper=[[Record (newspaper)|Record]]|language=pt|date=5 January 2007|accessdate=24 July 2018}}&lt;/ref&gt; and made his [[Primeira Liga]] debut on 23 January, staying in the entire 3–0 win at [[Gil Vicente F.C.]] and wearing the #28 shirt previously worn by [[Cristiano Ronaldo]].&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/Futebol/Nacional/1a_liga/Sporting/interior.aspx?content_id=224105|title=A vez de Moutinho|trans-title=Moutinho's turn|newspaper=Record|language=pt|date=23 January 2005|accessdate=16 October 2015}}&lt;/ref&gt; Based on highly consistent displays, he wasted no time in establishing himself as a regular while being able to play in any position across a flat midfield or in a diamond formation; his box-to-box dynamism and determination quickly made him a firm fan favourite, as he rarely missed a game since becoming first-choice.&lt;ref name=Untouchable&gt;{{cite news|url=https://www.dn.pt/desporto/seleccao/interior/joao-moutinhoo-indispensavel-que-faz-os-outros-brilhar-5169613.html|title=João Moutinho. O indispensável que faz os outros brilhar|trans-title=João Moutinho. The untouchable who makes others shine|newspaper=Diário de Notícias|language=pt|date=17 May 2016|accessdate=24 July 2018}}&lt;/ref&gt;
+
+Moutinho's performances in the closing stages of the campaign, especially in the [[UEFA Europa League|UEFA Cup]] with [[man of the match]] displays against [[Feyenoord]]&lt;ref&gt;{{cite news|url=https://www.record.pt/futebol/futebol-nacional/liga-nos/sporting/detalhe/joao-moutinho-jogo-correu-me-bem.html|title=João Moutinho: "Jogo correu-me bem"|trans-title=João Moutinho: «Match went well for me»|newspaper=Record|language=pt|date=25 February 2005|accessdate=24 July 2018}}&lt;/ref&gt; and [[Newcastle United F.C.|Newcastle United]]&lt;ref&gt;{{cite news|url=https://www.record.pt/futebol/futebol-nacional/liga-nos/sporting/detalhe/sporting-newcastle-4-1-uma-noite-historica-deu-a-vitoria-aos-melhores.html|title=Sporting-Newcastle, 4–1: Uma noite histórica deu a vitória aos melhores|trans-title=Sporting-Newcastle, 4–1: Historical night gave win to the best|newspaper=Record|language=pt|date=15 April 2005|accessdate=24 July 2018}}&lt;/ref&gt; that helped the ''Lions'' [[2004–05 UEFA Cup|reach]] [[2005 UEFA Cup Final|the final]] of the competition, made him an automatic starter for Sporting despite his young age; he contributed with 15 league games as Sporting [[2004–05 Primeira Liga|finished second]] and, during the summer, he penned a one-year extension with the club.&lt;ref&gt;[http://www.uefa.com/uefachampionsleague/news/newsid=308833.html Sporting get more of João Moutinho]; UEFA, 10 June 2005&lt;/ref&gt;
+
+[[File:Sporting Clube de Portugal vs Sporting Clube de Braga 02.jpg|thumb|left|200px|Moutinho (right) battling [[João Pereira (Portuguese footballer)|João Pereira]] in 2009]]
+In [[2005–06 Primeira Liga|his first full season]], Moutinho's further progress and exceptional consistency (he was the only player to play every minute of every match in the domestic league) was one of the brightest spots in Sporting's runner-up final place. Incidentally, he scored his team's final goal of the campaign, a 1–0 win over [[S.C. Braga]] to ensure a [[2006–07 UEFA Champions League|return]] to [[UEFA Champions League]] football for the [[Lisbon]] club.&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/Futebol/Nacional/1a_liga/Sporting/interior.aspx?content_id=268906|title=Um campeonato para Moutinho|trans-title=A championship for Moutinho|newspaper=Record|language=pt|date=6 May 2006|accessdate=16 October 2015}}&lt;/ref&gt;
+
+In [[2006–07 Primeira Liga|2006–07]], following the departure of veteran [[Ricardo Sá Pinto]], Moutinho was made vice-captain at just 19 years of age.&lt;ref&gt;{{cite news|url=https://www.publico.pt/2006/10/22/jornal/joao-moutinho-o-simbolo-posronaldo-103424|title=João Moutinho, o símbolo pós-Ronaldo|trans-title=João Moutinho, the post-Ronaldo symbol|newspaper=[[Público (Portugal)|Público]]|author=Filipe Escobar de Lima|language=pt|date=22 October 2006|accessdate=24 July 2018}}&lt;/ref&gt; [[2007–08 Primeira Liga|The following season]], after [[Custódio Castro|Custódio]] and [[Ricardo (footballer, born 1976)|Ricardo]] also left, he would be named [[Captain (association football)|captain]], the second youngest in the history of the club's professional football, behind first captain and associate founder Francisco Stromp.&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/arquivo/detalhe/joao-moutinho-queremos-mostrar-o-que-valemos-308586.html|title=João Moutinho: "Queremos mostrar o que valemos"|trans-title=João Moutinho: "We want to show our worth"|newspaper=Record|language=pt|date=12 June 2007|accessdate=16 October 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20151119152724/http://www.record.xl.pt/arquivo/detalhe/joao-moutinho-queremos-mostrar-o-que-valemos-308586.html|archivedate=19 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/Futebol/Nacional/1a_liga/Sporting/interior.aspx?content_id=334203|title=Moutinho: "Culpa é da equipa por permitir remate"|trans-title=Moutinho: "Team is to blame for allowing shot"|newspaper=Record|language=pt|date=25 February 2008|accessdate=16 October 2015}}&lt;/ref&gt;
+
+That campaign, with [[Leandro Romagnoli]] (an [[Midfielder#Attacking midfielder|attacking midfielder]]) also in the starting eleven, Moutinho, more often than not, moved from his natural "behind-the-forwards" midfield role to the right flank, where he still managed to deliver impressive performances. Additionally, he began earning plaudits as one of the league's top players.
+
+In [[2008–09 Primeira Liga|2008–09]], after an aborted deal with [[Premier League]]'s [[Everton F.C.|Everton]],&lt;ref&gt;[http://news.bbc.co.uk/sport2/hi/football/teams/e/everton/7527890.stm Everton bid for Moutinho rejected]; [[BBC Sport]], 27 July 2008&lt;/ref&gt;&lt;ref&gt;[http://news.bbc.co.uk/sport2/hi/football/teams/f/fulham/7546760.stm Fulham sign Johnson from Everton]; BBC Sport, 7 August 2008&lt;/ref&gt; Moutinho was again ever present, only missing three league matches (almost 50 presences overall) as Sporting finished once again runners-up; he also had the dubious distinction of netting his side's only goal in the [[2008–09 UEFA Champions League|Champions League]] [[Single-elimination tournament|round-of-16]] clash against [[FC Bayern Munich]], a 1–12 aggregate loss.&lt;ref&gt;[http://news.bbc.co.uk/sport2/hi/football/europe/7936200.stm B Munich 7–1 Sporting (agg 12–1)]; BBC Sport, 10 March 2009&lt;/ref&gt;
+
+===Porto===
+[[File:João Moutinho 6297.jpg|thumb|180px|Moutinho playing for Porto in 2011]]
+On 3 July 2010, Moutinho signed a five-year contract with Sporting rivals [[FC Porto]], with the transfer price reaching [[Euro|€]]11 million (€1M being paid for 50% of the rights to [[Defender (association football)#Centre back|central defender]] [[Nuno André Coelho]]); additionally, Sporting would receive 25% of any added value (Portuguese: ''mais valia'') occurring during that time frame, provided it surpassed the previous value.&lt;ref&gt;[http://www.uefa.com/uefaeuropaleague/news/newsid=1503025.html Moutinho swaps Sporting for Porto]; UEFA, 5 July 2010&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/joaomoutinho05072010.pdf|title=Comunicado João Moutinho|trans-title=João Moutinho announcement|publisher=FC Porto|language=pt|date=5 July 2010|accessdate=6 July 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20100813155316/http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/joaomoutinho05072010.pdf|archivedate=13 August 2010}}&lt;/ref&gt; Sporting Chairman [[José Eduardo Bettencourt]] described Moutinho's conduct as deplorable and called him a "rotten apple", adding: "The deal was done because Sporting wanted it, because it did not want a rotten apple in its orchard, and it did not want someone who was not an example, nor dignified the flag of the club."&lt;ref&gt;{{cite news|url=http://www.record.pt/futebol/futebol-nacional/liga-nos/sporting/detalhe/bettencourt-uma-maca-podre-que-iria-contaminar-o-grupo.html|title=Bettencourt: "Uma maçã podre que iria contaminar o grupo"|trans-title=Bettencourt: "A rotten apple that would contaminate the group"|newspaper=Record|language=pt|date=5 July 2010|accessdate=24 June 2017}}&lt;/ref&gt; Soon after, Porto sold 37.5% of the player's economic rights to a [[Third-party ownership in association football|third party]], Mamers BV, for €4,125,000.&lt;ref&gt;{{cite web|url=http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/Ingles/RCConsolidado20092010INGLES.pdf|title=Report and consolidated accounts 2009/2010|publisher=FC Porto|date=25 October 2010|accessdate=18 May 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110125204315/http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/Ingles/RCConsolidado20092010INGLES.pdf|archivedate=25 January 2011|df=}}&lt;/ref&gt;
+
+Moutinho was an ever-present figure for Porto in [[2010–11 Primeira Liga|his first season]]. He appeared in 50 official games as the [[Porto|northerners]] won the league and, even though he did not score in league competition, he netted twice in [[2010–11 Taça de Portugal|the campaign]]'s [[Taça de Portugal|Portuguese Cup]], most notably in a 3–1 away win against [[S.L. Benfica]], with his team overcoming the 0–2 home loss in the first leg to reach [[2011 Taça de Portugal Final|the final]],&lt;ref&gt;[http://www.portugoal.net/index.php/more-portuguese-cup-news/23294-benfica-porto-live-text-commentary Benfica have no answer to Porto brilliance] {{webarchive|url=https://web.archive.org/web/20110514034748/http://portugoal.net/index.php/more-portuguese-cup-news/23294-benfica-porto-live-text-commentary|date=14 May 2011}}; PortuGOAL, 20 April 2011&lt;/ref&gt; in which the player also appeared, against [[Vitória S.C.|Vitória de Guimarães]] (6–2);&lt;ref&gt;{{cite news|url=https://www.publico.pt/2011/05/22/desporto/noticia/tambem-o-jamor-e-o-destino-do-fc-porto-1495361|title=Também o Jamor é o destino do FC Porto|trans-title=Jamor is FC Porto's destiny as well|newspaper=Público|language=pt|date=22 May 2011|accessdate=24 March 2018}}&lt;/ref&gt; he added another 90 minutes in the [[2010–11 UEFA Europa League|Europa League]] [[2011 UEFA Europa League Final|final]], and the club won [[Treble (association football)|the treble]].&lt;ref&gt;{{cite web|url=http://sporza.be/cm/sporza/voetbal/europa_league/1.1027395|title=Falcao doet Porto zegevieren in Europa League|trans-title=Falcao makes Porto prevail in Europa League|publisher=[[Sporza]]|language=nl|date=18 May 2011|access-date=24 March 2018}}&lt;/ref&gt;
+
+On 3 August 2011, Porto partnered with [[Soccer Invest Fund]] to buy back 37.5% of Moutinho's economic rights. The private investment fund acquired 15% after the overall transactions, while Porto recouped 22.5% for €4 million;&lt;ref&gt;{{cite web|url=http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/ir_RecompraMoutinho_03082011.pdf|title=Comunicado|trans-title=Announcement|publisher=FC Porto|language=pt|date=3 August 2011|accessdate=12 August 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20111224112350/http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/ir_RecompraMoutinho_03082011.pdf|archivedate=24 December 2011}}&lt;/ref&gt; the residual 15% was acquired by Porto in 2013, for €3.3 million.&lt;ref&gt;{{cite web|url=http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/ir_recompraMoutinho15_30012013.pdf|title=Comunicado|trans-title=Announcement|publisher=FC Porto|language=pt|date=30 January 2013|accessdate=2 June 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130923075153/http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/ir_recompraMoutinho15_30012013.pdf|archivedate=23 September 2013}}&lt;/ref&gt;
+
+Moutinho scored a rare goal on 19 February 2013, helping his team to a 1–0 home win over [[Málaga CF]] for [[2012–13 UEFA Champions League|the season's Champions League round-of-16]], netting from close range after an [[Alex Sandro]] cross (eventual 1–2 aggregate loss).&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000348/match=2009587/postmatch/report/index.html#moutinho+gives+porto+edge|title=Moutinho earns Porto the edge|publisher=UEFA|date=19 February 2013|accessdate=24 February 2013}}&lt;/ref&gt; He played 43 contests during [[2012–13 Primeira Liga|the campaign]] all competitions comprised (five goals, 3,515 minutes of action), as both team and player won their third consecutive league championship.
+
+===Monaco===
+On 24 May 2013, it was announced that Moutinho had joined [[AS Monaco FC]] alongside teammate [[James Rodríguez]] for a combined fee believed to be around €70 million (€25 million for Moutinho).&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gh/news/4398/transfer-zone/2013/05/24/4001585/breaking-news-moutinho-rodriguez-sign-for-monaco|title=Monaco pay €70 million for Porto pair|publisher=[[Goal (website)|Goal]]|date=24 May 2013|accessdate=24 May 2013}}&lt;/ref&gt; He made his official debut for his new club on 1 September, starting and setting up both goals in a 2–1 win at [[Olympique de Marseille]] which put Monaco to the top of [[Ligue 1]].&lt;ref&gt;{{cite web|url=http://www1.skysports.com/football/live/match/289919/report|title=Riviere confirms Monaco win|publisher=[[Sky Sports]]|date=1 September 2013|accessdate=16 September 2014}}&lt;/ref&gt;
+
+Moutinho was first-choice in [[2013–14 Ligue 1|his debut campaign]], as the principality team finished runners-up straight out of [[Ligue 2]]. His only goal was an equaliser in a 1–1 away draw to [[Stade de Reims]], on 29 September.&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gb/match/reims-vs-monaco/1479123/live-commentary?ICID=MP_MS_3|title=Reims 1–1 Monaco|publisher=Goal|date=29 September 2013|accessdate=16 September 2014}}&lt;/ref&gt;
+
+On 16 September 2014, in Monaco's [[2014–15 UEFA Champions League|first Champions League match]] since 2005, Moutinho scored the only goal in a home defeat of [[Bayer 04 Leverkusen]].&lt;ref&gt;{{cite web|url=http://www.goal.com/en-us/match/monaco-vs-bayer-leverkusen/1923551/report|title=Monaco 1–0 Bayer Leverkusen: Moutinho marks winning return for Monaco|publisher=Goal|last1=McGee|first1=Nicholas|date=16 September 2014|accessdate=16 September 2014}}&lt;/ref&gt; He finished [[2014–15 Ligue 1|the season]] with 52 overall appearances, in an eventual third-place finish for the [[Leonardo Jardim]]-led side.
+
+Moutinho contributed with two goals from 31 matches during [[2016–17 Ligue 1|2016–17]], helping the club to the eighth national championship of its history.&lt;ref&gt;{{cite web|url=https://www.francefootball.fr/news/Ligue-1-le-huitieme-titre-de-champion-de-france-de-monaco-passe-au-crible/802096|title=Ligue 1: le huitième titre de champion de France de Monaco passé au crible|trans-title=Ligue 1: Monaco's eighth French champions title under the magnifying glass|publisher=[[France Football]]|language=fr|date=17 May 2017|accessdate=23 July 2018}}&lt;/ref&gt;
+
+===Wolverhampton Wanderers===
+On 24 July 2018, Moutinho joined newly-promoted English club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a two-year-deal for an undisclosed fee, reported to be around £5 million.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/44922630|title=Joao Moutinho: Wolves sign Portugal midfielder from Monaco|publisher=BBC Sport|date=24 July 2018|accessdate=24 July 2018}}&lt;/ref&gt; He made his [[Premier League]] debut on 11 August, featuring 85 minutes in a 2–2 home draw against [[Everton F.C.|Everton]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45067374|title=Wolverhampton Wanderers 2–2 Everton|publisher=BBC Sport|author=Shamoon Hafez|date=11 August 2018|accessdate=14 August 2018}}&lt;/ref&gt; His first goal in the competition arrived on 22 September, when he scored from just outside the box with his weaker left foot in a 1–1 away draw to [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45530717|title=Manchester United 1–1 Wolverhampton Wanderers|publisher=BBC Sport|author=Alex Bysouth|date=22 September 2018|accessdate=22 September 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.record.pt/multimedia/videos/detalhe/joao-moutinho-silencia-old-trafford-com-um-tremendo-remate|title=João Moutinho silencia Old Trafford com tremendo remate... de pé esquerdo|trans-title=João Moutinho silences Old Trafford with tremendous shot... with left foot|newspaper=Record|language=pt|date=22 September 2018|accessdate=22 September 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:Luka Modric (L), João Moutinho (R) - Croatia vs. Portugal, 10th June 2013.jpg|thumb|right|Croatia's [[Luka Modrić]] (front) battles Moutinho for the ball in a friendly match in June 2013]]
+A [[Portugal national football team|full Portugal international]] at the age of 18, Moutinho made his debut on 17 August 2005 in a 2–0 home [[Exhibition game|friendly]] win against [[Egypt national football team|Egypt]] in [[Ponta Delgada]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/worldcup/news/newsid=326978.html|title=Postiga on target for Portugal|publisher=UEFA|date=18 August 2005|accessdate=8 September 2014}}&lt;/ref&gt; Ever since the [[2006 FIFA World Cup]], he became a regular call-up.
+
+On 31 May 2008, Moutinho registered his first goal for the national team in a 2–0 friendly victory over [[Georgia national football team|Georgia]] at ''Estádio do Fontelo'' in [[Viseu]].&lt;ref&gt;[http://soccernet.espn.go.com/report?id=238266&amp;cc=3436 Portugal 2–0 Georgia: Ronaldo below par]; [[ESPN FC|ESPN Soccernet]], 31 May 2008&lt;/ref&gt; He was picked for the squad-of-23 for [[UEFA Euro 2008]] and, in the opening game, assisted on a goal by [[Raul Meireles]] in a 2–0 victory against [[Turkey national football team|Turkey]].&lt;ref&gt;[http://news.bbc.co.uk/sport2/hi/football/euro_2008/7362969.stm Portugal 2–0 Turkey]; BBC Sport, 7 June 2008&lt;/ref&gt;
+
+Moutinho also played in two [[UEFA European Under-21 Championship]]s, scoring against [[Germany national under-21 football team|Germany]] in [[2006 UEFA European Under-21 Football Championship|the 2006 edition, played on home soil]],&lt;ref&gt;[http://www.uefa.com/competitions/under21/history/season=2006/round=1912/match=83598/report=rp.html Moutinho misery for Germany]; UEFA, 28 May 2006&lt;/ref&gt; as the Portuguese exited in the group stage on both occasions; additionally, although not part of the provisional 24-player list for the [[2010 FIFA World Cup|2010 World Cup]] in [[South Africa]],&lt;ref&gt;{{cite web|url=https://www.fpf.pt/portal/page/portal/PORTAL_FUTEBOL/SELECCOES/NOTICIA?notid=9126513|title=Convocados revelados|trans-title=Squad revealed|publisher=[[Portuguese Football Federation]]|language=pt|date=10 May 2010|accessdate=11 May 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20110615170243/http://www.fpf.pt/portal/page/portal/PORTAL_FUTEBOL/SELECCOES/NOTICIA?notid=9126513|archivedate=15 June 2011|df=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/news/newsid=1208424/index.html|title=Pepe in Portugal squad|publisher=FIFA|date=10 May 2010|accessdate=11 May 2010}}&lt;/ref&gt; he was named in a backup list of six players.&lt;ref&gt;[https://www.fifa.com/mm/document/tournament/competition/01/20/86/87/provisional1305.pdf Release list of up to 30 players]; at FIFA&lt;/ref&gt;
+
+Moutinho played all the games and minutes at the [[UEFA Euro 2012|Euro 2012]] tournament. In the semi-finals against [[Spain national football team|Spain]], he missed his [[Penalty shoot-out (association football)|penalty shootout]] attempt in an eventual 2–4 loss (0–0 after 120 minutes).&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2012/matches/round=15174/match=2003378/postmatch/report/index.html#spain+survive+test+nerve+reach+final|title=Spain survive test of nerve to reach final|publisher=UEFA|date=27 June 2012|accessdate=28 June 2012}}&lt;/ref&gt;
+
+Moutinho was selected by former Sporting boss Bento for the [[2014 FIFA World Cup|2014 World Cup]],&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/portugal/10810443/Portugal-World-Cup-2014-squad.html|title=Portugal World Cup 2014 squad|newspaper=[[The Daily Telegraph]]|date=2 June 2014|accessdate=26 June 2014}}&lt;/ref&gt; making his debut in [[FIFA World Cup|the tournament]] on 16 June in a 0–4 group stage defeat to [[Germany national football team|Germany]].&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/matches/round=255931/match=300186475/match-report.html|title=Muller-inspired Germany thrash ten-man Portugal|publisher=FIFA|date=16 June 2014|accessdate=26 June 2014}}&lt;/ref&gt; On 8 October 2015, he scored the only goal as Portugal defeated [[Denmark national football team|Denmark]] at the [[Estádio Municipal de Braga]] to [[UEFA Euro 2016 qualifying|seal qualification]] for [[UEFA Euro 2016|Euro 2016]],&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/qualifiers/season=2016/matches/round=2000446/match=2014029/postmatch/report/index.html|title=Moutinho magic seals Portugal progress|publisher=UEFA|date=8 October 2015|accessdate=9 October 2015}}&lt;/ref&gt; and three days later was also on the scoresheet in a 2–1 win away to [[Serbia national football team|Serbia]] which confirmed his team's position as group winners.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/qualifiers/season=2016/matches/round=2000446/match=2014055/postmatch/report/index.html#portugal+seal+spot|title=Moutinho magic seals top spot for Portugal|publisher=UEFA|last1=Nikčević|first1=Sonja|date=11 October 2015|accessdate=11 October 2015}}&lt;/ref&gt;
+
+After six appearances out of a possible seven to help his nation win the [[UEFA European Championship|European Championships]] for the first time ever,&lt;ref&gt;{{cite web|url=http://www.espnfc.com/portugal/story/2874983/new-bayern-munich-signing-renato-sanches-picked-for-portugal-squad|title=Portugal name Bayern Munich signing Renato Sanches for Euros squad|publisher=ESPN FC|date=17 May 2016|accessdate=24 June 2017}}&lt;/ref&gt;&lt;ref name="Final"&gt;{{cite web|url=https://www.bbc.com/sport/football/36696772|title=Portugal 1–0 France|publisher=BBC Sport|date=10 July 2016|accessdate=24 June 2017}}&lt;/ref&gt; Moutinho was also picked for the [[2017 FIFA Confederations Cup]] squad by [[Fernando Santos (Portuguese footballer)|Fernando Santos]].&lt;ref&gt;{{cite news|url=https://www.ojogo.pt/internacional/selecao/noticias/interior/direto--os-convocados-de-portugal-para-a-taca-das-confederacoes-8506152.html|title=Éder fica fora dos convocados, Beto e José Sá nas escolhas|trans-title=Éder out of squad, Beto and José Sá picked|newspaper=[[O Jogo]]|language=pt|date=25 May 2017|accessdate=24 June 2017}}&lt;/ref&gt; In the latter competition, in the final group stage game in [[Saint Petersburg]], he won his [[List of footballers with 100 or more caps|100th cap]] by playing the full 90 minutes in the 4–0 defeat of [[New Zealand national football team|New Zealand]].&lt;ref&gt;{{cite web|url=https://www.fifa.com/confederationscup/matches/round=274633/match=300334887/match-report.html|title=Portugal cruise into semi-finals|publisher=FIFA|date=24 June 2017|accessdate=24 June 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.ojogo.pt/internacional/selecao/noticias/interior/moutinho-e-as-100-internacionalizacoes-espero-jogar-ainda-mais-8588526.html|title=Moutinho e as 100 internacionalizações: "Espero jogar ainda mais"|trans-title=Moutinho and the 100 caps: "I hope to play even more"|newspaper=O Jogo|language=pt|date=24 June 2017|accessdate=24 June 2017}}&lt;/ref&gt;
+
+Moutinho was included in the [[2018 FIFA World Cup|2018 World Cup]] squad.&lt;ref&gt;{{cite web|url=https://www.sbs.com.au/news/portugal-world-cup-squad|title=Nearly half Portugal's Euro squad to miss World Cup|publisher=[[Special Broadcasting Service]]|date=17 May 2018|accessdate=17 May 2018}}&lt;/ref&gt;
+
+==Personal life==
+Moutinho's father, [[Nélson Moutinho|Nélson]], was also a footballer. A [[Forward (association football)|forward]], he played for several clubs during a 15-year senior career.&lt;ref&gt;{{cite web|url=https://visao.sapo.pt/o-olheiro-de-craques-da-selecao=f672778|title=O 'olheiro' de craques da seleção|trans-title=The 'scout' of national team stars|publisher=[[Visão]]|language=pt|date=30 June 2012|accessdate=9 October 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/Futebol/Nacional/interior.aspx?content_id=956915|title=Alexandre Moutinho segue pisadas de João|trans-title=Alexandre Moutinho follows in João's footsteps|newspaper=Record|language=pt|date=22 June 2015|accessdate=9 October 2015}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|2 March 2019}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup&lt;ref group=lower-alpha&gt;Includes [[Taça de Portugal]], [[Coupe de France]] and [[FA Cup]] matches.&lt;/ref&gt;
+!colspan="2"|League Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="7" valign="center"|[[Sporting Clube de Portugal|Sporting]]
+|[[2004–05 Primeira Liga|2004–05]]&lt;ref name="FJ"&gt;{{cite web|url=https://www.foradejogo.net/player.php?player=198609080001&amp;language=2|title=João Moutinho|publisher=ForaDeJogo|accessdate=17 February 2015}}&lt;/ref&gt;
+|rowspan="6"|[[Primeira Liga]]
+|15||0||2||0||colspan="2"|—||9&lt;ref group=lower-alpha name=UC&gt;Appearances in [[UEFA Europa League|UEFA Cup]]&lt;/ref&gt;||0||colspan="2"|—||26||0
+|-
+|[[2005–06 Primeira Liga|2005–06]]&lt;ref name="FJ"/&gt;
+|34||4||5||1||colspan="2"|—||4&lt;ref group=lower-alpha name=UCLL&gt;Appearances in [[UEFA Europa League|UEFA Cup/UEFA Europa League]] and [[UEFA Champions League]]&lt;/ref&gt;||0||colspan="2"|—||43||5
+|-
+|[[2006–07 Primeira Liga|2006–07]]&lt;ref name="FJ"/&gt;
+|29||4||6||3||colspan="2"|—||6&lt;ref group=lower-alpha name=UCL&gt;Appearances in UEFA Champions League&lt;/ref&gt;||0||colspan="2"|—||41||7
+|-
+|[[2007–08 Primeira Liga|2007–08]]&lt;ref name="FJ"/&gt;
+|30||5||6||1||7||0||12&lt;ref group=lower-alpha name=UCL&gt;Appearances in UEFA Champions League&lt;/ref&gt;||1||1&lt;ref group=lower-alpha name=psc&gt;Appearances in [[Supertaça Cândido de Oliveira]]&lt;/ref&gt;||0||56||7
+|-
+|[[2008–09 Primeira Liga|2008–09]]&lt;ref name="FJ"/&gt;
+|27||3||2||0||5||0||8&lt;ref group=lower-alpha name=UCL&gt;Appearances in UEFA Champions League&lt;/ref&gt;||1||1&lt;ref group=lower-alpha name=psc&gt;Appearances in [[Supertaça Cândido de Oliveira]]&lt;/ref&gt;||0||43||4
+|-
+|[[2009–10 Primeira Liga|2009–10]]&lt;ref name="FJ"/&gt;
+|28||5||4||2||4||0||14&lt;ref group=lower-alpha name=UEL&gt;Appearances in UEFA Europa League&lt;/ref&gt;||2||colspan="2"|—||50||9
+|-
+!colspan="2"|Total
+!163!!21!!25!!7!!16!!0!!53!!4!!2!!0!!259!!32
+|-
+|rowspan="4" valign="center"|[[FC Porto|Porto]]
+|[[2010–11 Primeira Liga|2010–11]]&lt;ref name="FJ"/&gt;
+|rowspan="3"|Primeira Liga
+|27||0||5||2||3||0||17&lt;ref group=lower-alpha name=UEL&gt;Appearances in UEFA Europa League&lt;/ref&gt;||0||1&lt;ref group=lower-alpha name=USC&gt;Appearances in [[UEFA Super Cup]]&lt;/ref&gt;||0||53||2
+|-
+|[[2011–12 Primeira Liga|2011–12]]&lt;ref name="FJ"/&gt;
+|29||3||1||0||4||0||8&lt;ref group=lower-alpha name=UECL&gt;Appearances in UEFA Europa League and UEFA Champions League&lt;/ref&gt;||0||2&lt;ref group=lower-alpha name=USCP&gt;Appearances in UEFA Super Cup and Supertaça Cândido de Oliveira&lt;/ref&gt;||0||44||3
+|-
+|[[2012–13 Primeira Liga|2012–13]]&lt;ref name="FJ"/&gt;
+|27||1||2||0||5||2||8&lt;ref group=lower-alpha name=UCL&gt;Appearances in UEFA Champions League&lt;/ref&gt;||2||1&lt;ref group=lower-alpha name=PSC&gt;Appearances in Supertaça Cândido de Oliveira&lt;/ref&gt;||0||43||5
+|-
+!colspan="2"|Total
+!83!!4!!8!!2!!12!!2!!33!!2!!4!!0!!140!!10
+|-
+| rowspan="6" valign="center" |[[AS Monaco FC|Monaco]]
+|[[2013–14 Ligue 1|2013–14]]&lt;ref name="SW"&gt;{{cite web|url=https://int.soccerway.com/players/joao-filipe-iria-santos-moutinho/16593/|title=João Moutinho|publisher=Soccerway|accessdate=17 February 2015}}&lt;/ref&gt;
+|rowspan="5"|[[Ligue 1]]
+|31||1||3||0||0||0||colspan="2"|—||colspan="2"|—||34||1
+|-
+|[[2014–15 Ligue 1|2014–15]]&lt;ref name="SW"/&gt;
+|37||4||3||0||2||0||10&lt;ref group=lower-alpha name=UCL&gt;Appearances in UEFA Champions League&lt;/ref&gt;||1||colspan="2"|—||52||5
+|-
+|[[2015–16 Ligue 1|2015–16]]&lt;ref name="SW"/&gt;
+|26||1||3||0||0||0||8&lt;ref group=lower-alpha name=UCLL&gt;Appearances in [[UEFA Europa League|UEFA Cup/UEFA Europa League]] and [[UEFA Champions League]]&lt;/ref&gt;||0||colspan="2"|—||37||1
+|-
+|[[2016–17 Ligue 1|2016–17]]&lt;ref name="SW"/&gt;
+|28
+|2
+|4
+|0
+|4
+|1
+|11&lt;ref name="UCL" group="lower-alpha"/&gt;
+|0
+| colspan="2" |—
+|47
+|3
+|-
+|[[2017–18 Ligue 1|2017–18]]&lt;ref name="SW"/&gt;
+|33
+|1
+|1
+|0
+|4
+|0
+|6&lt;ref name="UCL" group="lower-alpha"/&gt;
+|0
+| colspan="2" |—
+|44
+|1
+|-
+! colspan="2" |Total
+!155!!9!!13!!0!!10!!1!!33!!2!! colspan="2" |—!!211!!11
+|-
+| rowspan="1" valign="center" |[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]&lt;ref name="SW"/&gt;
+|rowspan="1"|[[Premier League]]
+|29||1||4||0||0||0||colspan="2"|—||colspan="2"|—||33||1
+|-
+! colspan="3" |Career total
+!430!!35!!50!!9!!38!!3!!119!!8!!6!!0!!643!!55
+|}
+{{Reflist|group=lower-alpha}}
+
+===International===
+{{updated|25 June 2018}}&lt;ref name="EU"&gt;{{cite web|url=http://eu-football.info/_player.php?id=24746|title=João Moutinho|publisher=European Football|accessdate=16 September 2014}}&lt;/ref&gt;
+[[File:João Moutinho 2018.jpg|thumb|upright|Moutinho warming up at the [[Portugal–Spain football rivalry|Iberian derby]] against [[Spain national football team|Spain]] in the [[2018 FIFA World Cup|2018 World Cup]]]]
+{| class="wikitable" style="font-size:100%; text-align: center"
+|-
+! National team!!Year!!Apps!!Goals
+|-
+| rowspan="14"|[[Portugal national football team|Portugal]]
+|2005||3||0
+|-
+|2006||2||0
+|-
+|2007||6||0
+|-
+|2008||11||1
+|-
+|2009||3||0
+|-
+|2010||5||0
+|-
+|2011||10||1
+|-
+|2012||14||0
+|-
+|2013||11||0
+|-
+|2014||11||0
+|-
+|2015||5||2
+|-
+|2016||13||1
+|-
+|2017||11||2
+|-
+|2018||8||0
+|-
+!colspan=2|Total!!113!!7
+|}
+
+===International goals===
+{{updated|3 June 2017}}&lt;ref name="EU"/&gt;
+{{hatnote|Portugal score listed first, score column indicates score after each Moutinho goal}}
+
+{| class="wikitable sortable"&lt;!--style="margin:auto; font-size:100%;"--&gt;
+! Goal !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1 || 31 May 2008 || [[Estádio do Fontelo|Fontelo]], [[Viseu]], [[Portugal]] || {{fb|GEO}} || align=center | 1–0 || align=center | 2–0 || [[Exhibition game|Friendly]]
+|-
+| 2 || 7 October 2011 || [[Estádio do Dragão|Dragão]], [[Porto]], Portugal || {{fb|ISL}} || align=center | 4–2 || align=center | 5–3 || [[UEFA Euro 2012 qualifying Group H|UEFA Euro 2012 qualifying]]
+|-
+| 3 || 8 October 2015 || [[Estádio Municipal de Braga|Estádio Municipal]], [[Braga]], Portugal || {{fb|DEN}} || align=center | 1–0 || align=center | 1–0 || rowspan=2|[[UEFA Euro 2016 qualifying Group I|UEFA Euro 2016 qualifying]]
+|-
+| 4 || 11 October 2015 || [[Partizan Stadium]], [[Belgrade]], [[Serbia]] || {{fb|SRB}} || align=center | 2–1 || align=center | 2–1
+|-
+| 5 || 10 October 2016 || [[Tórsvøllur]], [[Tórshavn]], [[Faroe Islands]] || {{fb|FAR}} || align=center | 5–0 || align=center | 6–0 || [[2018 FIFA World Cup qualification – UEFA Group B|2018 FIFA World Cup qualification]]
+|-
+| 6 || rowspan="2" | 3 June 2017 || rowspan="2" | [[Estádio António Coimbra da Mota|António Coimbra da Mota]], [[Estoril]], Portugal || rowspan="2" | {{fb|CYP}} || align=center | 1–0 || rowspan="2" style="text-align:center"| 4–0 || rowspan="2" | Friendly
+|-
+| 7 || align=center | 2–0
+|}
+
+==Honours==
+===Club===
+'''Sporting'''&lt;ref name=Untouchable/&gt;
+*[[Taça de Portugal]]: [[2006–07 Taça de Portugal|2006–07]], [[2007–08 Taça de Portugal|2007–08]]
+*[[Supertaça Cândido de Oliveira]]: [[2007 Supertaça Cândido de Oliveira|2007]], [[2008 Supertaça Cândido de Oliveira|2008]]
+*[[UEFA Europa League|UEFA Cup]]: Runner-up [[2004–05 UEFA Cup|2004–05]]
+*[[Taça da Liga]]: Runner-up [[2007–08 Taça da Liga|2007–08]], [[2008–09 Taça da Liga|2008–09]]
+
+'''Porto'''&lt;ref name=Untouchable/&gt;
+*[[Primeira Liga]]: [[2010–11 Primeira Liga|2010–11]], [[2011–12 Primeira Liga|2011–12]], [[2012–13 Primeira Liga|2012–13]]
+*[[Taça de Portugal]]: [[2010–11 Taça de Portugal|2010–11]]
+*[[Supertaça Cândido de Oliveira]]: [[2010 Supertaça Cândido de Oliveira|2010]], [[2011 Supertaça Cândido de Oliveira|2011]], [[2012 Supertaça Cândido de Oliveira|2012]]
+*[[UEFA Europa League]]: [[2010–11 UEFA Europa League|2010–11]]
+*[[UEFA Super Cup]]: Runner-up [[2011 UEFA Super Cup|2011]]
+*[[Taça da Liga]]: Runner-up [[2012–13 Taça da Liga|2012–13]]
+
+'''Monaco'''
+*[[Ligue 1]]: [[2016–17 Ligue 1|2016–17]]&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2469116.html|title=Swashbuckling Monaco end 17-year French title wait|publisher=UEFA|date=17 May 2017|accessdate=18 May 2017}}&lt;/ref&gt;
+*[[Coupe de la Ligue]]: Runner-up [[2016–17 Coupe de la Ligue|2016–17]],&lt;ref&gt;{{cite news|url=https://www.mirror.co.uk/sport/football/match-reports/monaco-1-4-psg-les-10142326|title=Monaco 1–4 PSG: Les Parisiens claim fourth successive Coupe de la Ligue as Edinson Cavani scores twice|newspaper=[[Daily Mirror]]|date=1 April 2017|accessdate=18 May 2017}}&lt;/ref&gt; [[2017–18 Coupe de la Ligue|2017–18]]
+
+===International===
+'''Portugal'''
+*[[UEFA European Championship]]: [[UEFA Euro 2016|2016]]&lt;ref name="Final"/&gt;
+*[[FIFA Confederations Cup]]: Third place [[2017 FIFA Confederations Cup|2017]]&lt;ref&gt;{{cite web|url=http://www.tsf.pt/desporto/interior/portugal-tenta-o-terceiro-lugar-na-despedida-da-taca-das-confederacoes-8607365.html|title="Portugal fez uma prova excelente", diz Fernando Santos|trans-title="Portugal had an excellent tournament", Fernando Santos says|publisher=[[TSF (radio station)|TSF]]|language=pt|date=2 July 2017|accessdate=4 July 2017}}&lt;/ref&gt;
+*[[UEFA European Under-17 Championship]]: [[2003 UEFA European Under-17 Championship|2003]]&lt;ref&gt;{{cite web|url=http://www.maisfutebol.iol.pt/selecao/euro2016/moutinho-e-o-exemplo-dos-sub-17-espero-que-seja-um-bom-pressagio|title=Moutinho e o exemplo dos sub-17: "Espero que seja um bom presságio"|trans-title=Moutinho and the under-17s example: «I hope it's a good omen»|publisher=Mais Futebol|author=Ricardo Gouveia|language=pt|date=24 May 2016|accessdate=24 July 2018}}&lt;/ref&gt;
+
+===Individual===
+*[[SJPF Player of the Month]]: [[2004–05 Primeira Liga|April 2005]]&lt;ref&gt;{{cite web|url=http://www.maisfutebol.iol.pt/noticia.html?id=534829&amp;div_id=1457&amp;psec_id=46|title=João Moutinho eleito o "jogador do mês" pelo Sindicato|trans-title=João Moutinho voted «player of the month» by Union|publisher=Mais Futebol|language=pt|date=9 May 2005|accessdate=24 July 2018}}&lt;/ref&gt;
+*[[SJPF Young Player of the Month]]: [[2006–07 Portuguese Liga#SJPF Young Player of the Month|October 2006]], [[2006–07 Portuguese Liga#SJPF Young Player of the Month|November 2006]], [[2007–08 Portuguese Liga#SJPF Young Player of the Month|October 2007]], [[2007–08 Portuguese Liga#SJPF Young Player of the Month|November 2007]], [[2007–08 Portuguese Liga#SJPF Young Player of the Month|February 2008]], [[2007–08 Portuguese Liga#SJPF Young Player of the Month|March 2008]]&lt;ref&gt;{{cite news|url=https://www.record.pt/futebol/futebol-nacional/liga-nos/sporting/detalhe/moutinho-e-o-jovem-do-mes.html|title=Moutinho é o jovem do mês|trans-title=Moutinho is youngster of the month|newspaper=Record|language=pt|date=3 April 2008|accessdate=24 July 2018}}&lt;/ref&gt;
+*[[List of FC Porto records and statistics#Player of the Year|Porto Player of the Year]]: 2012–13&lt;ref&gt;{{cite news|url=http://www.abola.pt/nnh/ver.aspx?id=430805|title=Kelvin eleito atleta jovem do ano|trans-title=Kelvin voted young athlete of the year|newspaper=[[A Bola]]|language=pt|date=29 September 2012|accessdate=29 September 2013}}&lt;/ref&gt;
+
+===Orders===
+*[[File:POR Ordem do Merito Comendador BAR.svg|60px]] Commander of the [[Order of Merit (Portugal)|Order of Merit]]&lt;ref&gt;{{cite news|url=https://www.dn.pt/desporto/euro-2016/interior/selecao-recebe-insignias-de-marcelo-no-porto-5356115.html|title=Seleção recebe insígnias de Marcelo no Porto|trans-title=National team receives insignia from Marcelo in Porto|newspaper=Diário de Notícias|language=pt|date=25 August 2016|accessdate=11 August 2017}}&lt;/ref&gt;
+
+==See also==
+*[[List of footballers with 100 or more caps]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{TheFinalBall}}
+*{{ForaDeJogo}}
+*{{Lequipe}}
+*{{Soccerbase|40870}}
+*[https://www.fpf.pt/pt/Jogadores/Jogador/playerId/560742 National team data] {{pt icon}}
+*{{NFT player}}
+*{{FIFA player}}
+
+{{Wolverhampton Wanderers F.C. squad}}
+{{Navboxes
+| title = Portugal squads
+| bg = #900020
+| fg = gold
+| bordercolor = #006600
+| list1 = 
+{{Portugal squad UEFA Euro 2008}}
+{{Portugal squad UEFA Euro 2012}}
+{{Portugal squad 2014 FIFA World Cup}}
+{{Portugal squad UEFA Euro 2016}}
+{{Portugal squad 2017 FIFA Confederations Cup}}
+{{Portugal squad 2018 FIFA World Cup}}
+}}
+{{Sporting Clube de Portugal Player of the Year}}
+
+{{DEFAULTSORT:Moutinho, Joao}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:People from Barreiro, Portugal]]
+[[Category:Portuguese footballers]]
+[[Category:Association football midfielders]]
+[[Category:Primeira Liga players]]
+[[Category:Portuguese Second Division players]]
+[[Category:Sporting CP B players]]
+[[Category:Sporting CP footballers]]
+[[Category:FC Porto players]]
+[[Category:Ligue 1 players]]
+[[Category:AS Monaco FC players]]
+[[Category:Premier League players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Portugal youth international footballers]]
+[[Category:Portugal under-21 international footballers]]
+[[Category:Portugal international footballers]]
+[[Category:UEFA Euro 2008 players]]
+[[Category:UEFA Euro 2012 players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:2017 FIFA Confederations Cup players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:UEFA European Championship-winning players]]
+[[Category:Portuguese expatriate footballers]]
+[[Category:Expatriate footballers in Monaco]]
+[[Category:Expatriate footballers in England]]
+[[Category:Portuguese expatriate sportspeople in Monaco]]
+[[Category:Portuguese expatriate sportspeople in England]]
+[[Category:UEFA Europa League winning players]]
+[[Category:FIFA Century Club]]
+[[Category:Commanders of the Order of Merit (Portugal)]]</text>
+      <sha1>456bzjtee0uo9hcn4hnc7oow689mbo1</sha1>
+    </revision>
+  </page>
+</mediawiki>

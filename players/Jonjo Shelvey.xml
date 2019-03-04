@@ -1,0 +1,346 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jonjo Shelvey</title>
+    <ns>0</ns>
+    <id>17112571</id>
+    <revision>
+      <id>885566812</id>
+      <parentid>885480284</parentid>
+      <timestamp>2019-02-28T21:00:11Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/58.108.110.178|58.108.110.178]] ([[User talk:58.108.110.178|talk]]) ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="37999">{{Use British English|date=March 2016}}
+{{Use dmy dates|date=February 2018}}
+{{Infobox football biography
+|                name = Jonjo Shelvey
+|               image = Jonjo Shelvey England U21.jpg
+|          image_size = 200
+|             caption = Shelvey playing for [[England national under-21 football team|England U21s]] in 2012
+|            fullname = Jonjo Shelvey&lt;ref&gt;{{Hugman|25287|accessdate=14 December 2017}}&lt;/ref&gt;
+|          birth_date = {{birth date and age|1992|2|27|df=y}}&lt;ref&gt;{{cite web |url=https://uk.soccerway.com/players/jonjo-shelvey/51243/ |title=J. Shelvey: Summary |website=Soccerway |publisher=Perform Group |accessdate=13 June 2018}}&lt;/ref&gt;
+|         birth_place = [[Romford]], England
+|              height = {{convert|1.84|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/4135/Jonjo-Shelvey/overview |title=Jonjo Shelvey: Overview |publisher=Premier League |accessdate=14 December 2017}}&lt;/ref&gt;
+|            position = [[Midfielder]]
+|         currentclub = [[Newcastle United F.C.|Newcastle United]]
+|          clubnumber = 8
+| youthyears1       = 2001–2002 |youthyears2 = 2002–2004|youthyears3 = 2004–2008
+| youthclubs1       = [[Arsenal F.C. Academy|Arsenal]] |youthclubs2 = [[West Ham United F.C. Reserves and Academy|West Ham United]] |youthclubs3 = [[Charlton Athletic F.C. Academy|Charlton Athletic]]
+|              years1 = 2008–2010
+|              clubs1 = [[Charlton Athletic F.C.|Charlton Athletic]]
+|               caps1 = 42
+|              goals1 = 7
+|              years2 = 2010–2013
+|              clubs2 = [[Liverpool F.C.|Liverpool]]
+|               caps2 = 47
+|              goals2 = 2
+|              years3 = 2011
+|              clubs3 = → [[Blackpool F.C.|Blackpool]] (loan)
+|               caps3 = 10
+|              goals3 = 6
+|              years4 = 2013–2016
+|              clubs4 = [[Swansea City A.F.C.|Swansea City]]
+|               caps4 = 79
+|              goals4 = 10
+|              years5 = 2016–
+|              clubs5 = [[Newcastle United F.C.|Newcastle United]]
+|               caps5 = 98
+|              goals5 = 6
+|      nationalyears1 = 2007–2008
+|      nationalyears2 = 2008–2009
+|      nationalyears3 = 2009–2010
+|      nationalyears4 = 2011–2013
+|      nationalyears5 = 2012–
+|       nationalteam1 = [[England national under-16 football team|England U16]]
+|       nationalteam2 = [[England national under-17 football team|England U17]]
+|       nationalteam3 = [[England national under-19 football team|England U19]]
+|       nationalteam4 = [[England national under-21 football team|England U21]]
+|       nationalteam5 = [[England national football team|England]]
+|       nationalcaps1 = 6
+|      nationalgoals1 = 3
+|       nationalcaps2 = 7
+|       nationalcaps3 = 4
+|       nationalcaps4 = 13
+|       nationalcaps5 = 6
+|      nationalgoals2 = 1
+|      nationalgoals3 = 3
+|      nationalgoals4 = 4
+|      nationalgoals5 = 0
+|         club-update = 15:21, 3 January 2019 (UTC)
+| nationalteam-update = 00:54, 3 December 2018 (UTC)
+}}
+'''Jonjo Shelvey''' {{IPAc-en|ˈ|dʒ|ɒ|n|dʒ|oʊ|_|ˈ|ʃ|ɛ|l|v|i}} (born 27 February 1992) is an English professional [[Association football|footballer]] who plays as a [[midfielder]] for {{English football updater|NewcastU}} club [[Newcastle United F.C.|Newcastle United]] and the [[England national football team|English national team]].
+
+He began his career at [[Charlton Athletic F.C.|Charlton Athletic]], becoming their youngest-ever player at 16 years and 59 days old.&lt;ref name=five&gt;[http://www.metro.co.uk/sport/football/823768-who-is-jonjo-shelvey-top-five-facts Who is Jonjo Shelvey? "Top five things to know about Liverpool new signing"]. ''Metro''.  London. Retrieved 30 August 2010.&lt;/ref&gt; In 2010, he moved to [[Liverpool F.C.|Liverpool]] for an initial £1.7&amp;nbsp;million, spending a brief loan at [[Blackpool F.C.|Blackpool]]. During his time at [[Anfield]], Shelvey was part of a Liverpool squad which won the [[EFL Cup|League Cup]] and lost the [[FA Cup]] final in 2012. He joined [[Swansea City A.F.C.|Swansea City]] for £5&amp;nbsp;million in 2013,&lt;ref name=SwaTransfer /&gt; and Newcastle United for £12&amp;nbsp;million two and a half years later. A month after joining Newcastle, he was made the team's stand-in [[Captain (association football)|captain]], as the season ended with relegation.
+
+Shelvey played for England at [[England national under-16 football team|under-16]], [[England national under-17 football team|under-17]], [[England national under-19 football team|under-19]] and [[England national under-21 football team|under-21]] level and has captained the under-19 team.&lt;ref&gt;{{cite news |title=Shelvey aiming high |url=http://www.thefa.com/England/mens-u19s/News/2010/shelvey-141210 |publisher=The Football Association |accessdate=22 August 2015}}&lt;/ref&gt; He won his first cap for [[England national football team|the senior team]] in 2012.
+
+==Club career==
+===Charlton Athletic===
+[[File:Jonjo.jpg|thumb|upright|left|Shelvey warming up for [[Charlton Athletic F.C.|Charlton Athletic]] in 2008]]
+
+Shelvey played in the youth teams of first [[Arsenal F.C.|Arsenal]] and then [[West Ham United F.C.|West Ham United]], the team he had supported as a boy. In 2004,&lt;ref&gt;[https://www.express.co.uk/sport/football/354736/Jonjo-Shelvey-You-must-fear-no-one-except-our-manager Profile]. ''Daily Express''. London. Retrieved 22 August 2015.&lt;/ref&gt; he moved to [[Charlton Athletic F.C.|Charlton Athletic]], making his breakthrough in the [[2007-08 in English football|2007–08]] season after scoring 14 goals in 23 appearances for Charlton's Under 18s.&lt;ref&gt;{{cite web |url=http://www.Liverpool.tv/news/latest-news/shelvey-hopes-to-copy-pal-jack |title=Shelvey hopes to copy pal Jack |publisher=Liverpool F.C. |date=13 September 2010 |accessdate=13 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20120331154052/http://www.liverpool.tv/news/latest-news/shelvey-hopes-to-copy-pal-jack |archivedate=31 March 2012 |df=dmy-all}}&lt;/ref&gt; He made his first-team debut on 26 April 2008, starting in a 3–0 away loss against [[Barnsley F.C.|Barnsley]] in the [[EFL Championship|Championship]]. He became Charlton's youngest-ever player,&lt;ref name=contract/&gt; at the age of 16 years and 59 days&amp;nbsp;– beating the previous holder, [[Paul Konchesky]].&lt;ref&gt;{{cite news |last=Barlow |first=Matt |title=QPR defender Paul Konchesky has fingers in plenty of pies as he opens his own café |url=http://www.dailymail.co.uk/sport/football/article-3262432/QPR-defender-Paul-Konchesky-fingers-plenty-pies-opens-cafe.html |accessdate=12 January 2016 |newspaper=Daily Mail |location=London |date=7 October 2015}}{{Unreliable source|date=April 2017}}&lt;/ref&gt; He still had one week of school remaining when he was given his debut by manager [[Alan Pardew]].&lt;ref name=rough/&gt;
+
+On 3 January 2009, Shelvey became Charlton's youngest-ever goal-scorer, with a strike against [[Norwich City F.C.|Norwich City]] in the third round of the [[FA Cup]], opening a 1–1 draw. It was 54 days before his 17th birthday,&lt;ref name=five/&gt; breaking the previous record held by Peter Reeves who was aged 17 years and 100 days when he scored&amp;nbsp;– also against Norwich&amp;nbsp;– in May 1996. Despite interest from several Premier League clubs, on 27 February, his 17th birthday, Shelvey signed his first professional contract with Charlton.  He scored his first league goal in the 3–2 win at [[Southampton F.C.|Southampton]] on 4 April.&lt;ref&gt;{{cite news |url=http://www.skysports.com/football/match_facts/0,19762,11065_3005256,00.html |title=Southampton v Charlton |publisher=Sky Sports |date=4 April 2009 |accessdate=26 April 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/7972861.stm |title=Southampton 2–3 Charlton |publisher=BBC Sport |date=4 April 2009 |accessdate=26 April 2010}}&lt;/ref&gt; Later that month, he scored in consecutive matches, 2–2 home draws against [[Blackpool F.C.|Blackpool]] and [[Cardiff City F.C.|Cardiff City]]; the season ended with relegation to [[EFL League One|League One]].{{cn|date=April 2017}}
+
+In September 2009, he signed a one-year contract extension until 2012.&lt;ref name=contract&gt;{{cite news |title=Shelvey signs new Charlton deal |url=http://news.bbc.co.uk/sport1/hi/football/teams/c/charlton_athletic/8239732.stm |accessdate=12 January 2016 |publisher=BBC Sport |date=5 September 2009}}&lt;/ref&gt; Shelvey contributed four goals from 24 league appearances as the Addicks reached the [[2010 Football League play-offs|promotion play-offs]].{{cn|date=April 2017}}
+
+===Liverpool===
+[[File:Jonjo Shelvey meets the fans (cropped).jpg|thumb|upright|Shelvey with [[Liverpool F.C.|Liverpool]] in 2012]]
+
+Shelvey signed for [[Liverpool F.C.|Liverpool]] in May 2010, for an initial fee of £1.7&amp;nbsp;million.&lt;ref&gt;{{cite news |title=Liverpool sign Charlton's Jonjo Shelvey |url=http://news.bbc.co.uk/go/em/fr/-/sport1/hi/football/teams/l/liverpool/8647872.stm |publisher=BBC Sport |date=28 April 2010 |accessdate=28 April 2010}}&lt;/ref&gt; He made his debut for the club as an extra-time substitute on 22 September in the Reds' shock [[EFL Cup|League Cup]] third-round defeat against [[EFL League Two|League Two]] team [[Northampton Town F.C.|Northampton Town]] at [[Anfield]], with Liverpool losing 4–2 on penalties (with Shelvey scoring in the shootout) after a 2–2 draw.&lt;ref&gt;{{cite news |title=Liverpool 2–2 Northampton |url=http://news.bbc.co.uk/sport1/hi/football/league_cup/9010076.stm |publisher=BBC Sport |date=22 September 2010 |accessdate=22 September 2010}}&lt;/ref&gt; Shelvey started his first match for the club in Liverpool's [[UEFA Europa League|Europa League]] group match against [[S.S.C. Napoli|Napoli]] on 21 October 2010, playing the whole 90 minutes match in a 0–0 draw.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/europe/9109871.stm |title=Napoli 0–0 Liverpool |date=21 October 2010 |publisher=BBC Sport |accessdate=28 October 2010}}&lt;/ref&gt; On 24 October, Shelvey made his [[Premier League]] debut against [[Blackburn Rovers F.C.|Blackburn Rovers]] at Anfield, coming on for the final stages in place of [[Raul Meireles]] in the Reds' 2–1 win.&lt;ref&gt;{{cite news |title=Liverpool 2–1 Blackburn |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9107874.stm |accessdate=12 January 2016 |publisher=BBC Sport |date=24 October 2010}}&lt;/ref&gt;
+
+Shelvey joined Championship club Blackpool on loan on 30 September 2011.&lt;ref&gt;[http://www.skysports.com/story/0,,11669_7211036,00.html "Seasiders land Shelvey"]. Sky Sports. 20 September 2011.&lt;/ref&gt; The following day he scored on his debut, in a 5–0 win against [[Bristol City F.C.|Bristol City]] at [[Bloomfield Road]],&lt;ref&gt;[http://news.bbc.co.uk/sport2/hi/football/eng_div_1/15045395.stm "Blackpool 5–0 Bristol City"]. BBC Sport. 1 October 2011.&lt;/ref&gt; and also scored his first professional [[hat-trick]] in a 5–0 win away at [[Leeds United F.C.|Leeds United]] on 3 November.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/15457090.stm |publisher=BBC Sport |title=Leeds 0–5 Blackpool |date=3 November 2011}}&lt;/ref&gt;
+
+On 30 November 2011, he was recalled by Liverpool due to injury problems within the team, mainly surrounding [[Steven Gerrard]] and [[Lucas Leiva]], with the latter set to miss the remainder of the season.&lt;ref&gt;{{Cite web |url=http://www.blackpoolfc.co.uk/page/NewsDetail/0,,10432~2533307,00.html |title=Shelvey returns to Liverpool |publisher=Blackpool F.C. |accessdate=22 August 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20111202210624/http://www.blackpoolfc.co.uk/page/NewsDetail/0,,10432~2533307,00.html |archivedate=2 December 2011 |df=dmy-all}}&lt;/ref&gt; He made his first ever Premier League start the following weekend against [[Aston Villa F.C.|Aston Villa]].&lt;ref name=lfcfirststart&gt;{{cite news |last=Nursey |first=James |title=Shelvey: Dalglish has saved my Kop career |url=https://www.mirrorfootball.co.uk/news/Liverpool-midfielder-Jonjo-Shelvey-grateful-to-Kenny-Dalglish-for-rescuing-his-Kop-career-article844696.html |accessdate=7 January 2012 |newspaper=Daily Mirror |location=London |date=19 December 2011 |archive-url=https://web.archive.org/web/20120109231328/http://www.mirrorfootball.co.uk/news/Liverpool-midfielder-Jonjo-Shelvey-grateful-to-Kenny-Dalglish-for-rescuing-his-Kop-career-article844696.html |archive-date=9 January 2012 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; On 6 January 2012 he scored his first senior goal for the club in a 5–1 win in a third round FA Cup tie against [[Oldham Athletic A.F.C.|Oldham Athletic]] at Anfield,&lt;ref&gt;{{cite news |title=Liverpool 5 Oldham Athletic 1: match report |url=https://www.telegraph.co.uk/sport/football/competitions/fa-cup/8999315/Liverpool-5-Oldham-Athletic-1-match-report.html |accessdate=7 January 2012 |newspaper=The Daily Telegraph |date=7 January 2012 |location=London |first=Chris |last=Bascombe}}&lt;/ref&gt; and on 8 May he scored his first Premier League goal with a 30-yard strike in a 4–1 home win over [[Chelsea F.C.|Chelsea]].&lt;ref&gt;{{cite news |title=Liverpool 4–1 Chelsea |url=https://www.bbc.co.uk/sport/0/football/17904221 |accessdate=8 May 2012 |publisher=BBC Sport |date=8 May 2012}}&lt;/ref&gt; He was absent from Liverpool's win over Cardiff City in the season's [[2012 Football League Cup Final|League Cup Final]],&lt;ref&gt;{{cite news |first=Chris |last=Bevan |title=Cardiff 2–2 Liverpool |url=https://www.bbc.co.uk/sport/football/17093419 |publisher=BBC Sport |date=26 February 2012 |accessdate=14 December 2017}}&lt;/ref&gt; and was an unused substitute in their loss to Chelsea in the FA Cup equivalent.&lt;ref name=2012FAC&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/17878435 |title=Chelsea 2–1 Liverpool |first=Phil |last=McNulty |publisher=BBC Sport |date=5 May 2012 |archiveurl=https://web.archive.org/web/20160118044832/https://www.bbc.co.uk/sport/0/football/17878435 |archivedate=18 January 2016}}&lt;/ref&gt;
+
+On 10 July 2012, Shelvey signed a new long-term contract with Liverpool.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/liverpool/9389982/Liverpool-midfielder-Jonjo-Shelvey-signs-new-contract.html |title=Liverpool midfielder Jonjo Shelvey signs new contract |date=10 July 2012 |newspaper=The Daily Telegraph |accessdate=10 July 2012 |location=London}}&lt;/ref&gt; On 20 September 2012 he came off the bench to score the last 2 goals in a 5–3 win against [[BSC Young Boys|Young Boys]] in the Europa League.&lt;ref&gt;{{cite web |title=Young Boys 3–5 Liverpool |url=https://www.bbc.co.uk/sport/0/football/19582539 |publisher=BBC Sport |accessdate=20 September 2012 |date=20 September 2012}}&lt;/ref&gt; Three days later, he was sent off in a league match against [[Manchester United F.C.|Manchester United]] on 23 September 2012.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2012/sep/23/liverpool-manchester-united-match-report |title=Liverpool 1 Man Utd 2 |date=23 September 2012 |newspaper=The Guardian |location=London |accessdate=10 October 2012}}&lt;/ref&gt; He finished the Europa League group stage with four goals, adding one each in a home defeat to [[Udinese Calcio|Udinese]] on 4 October,&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2012/oct/04/liverpool-udinese-europa-league-match-report |title=Liverpool 2 Udinese 3 |date=4 October 2012 |newspaper=The Guardian |location=London |accessdate=10 October 2012}}&lt;/ref&gt; and a draw with Young Boys on 22 November.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/23143710 |title=Swansea City complete £5m Jonjo Shelvey signing |publisher=BBC Sport |accessdate=4 July 2013}}&lt;/ref&gt;
+
+===Swansea City===
+[[File:Jonjo Shelvey 2015.jpg|thumb|upright|Shelvey playing for [[Swansea City A.F.C.|Swansea City]] 2015]]
+
+On 3 July 2013, Shelvey signed a four-year contract with [[Swansea City A.F.C.|Swansea City]], for an initial transfer fee of £5&amp;nbsp;million.&lt;ref name=SwaTransfer&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/23143710 |title=Swansea City complete £5m Jonjo Shelvey signing |publisher=BBC Sport |date=3 July 2013 |accessdate=2 September 2013}}&lt;/ref&gt; He scored his first goal for the club on 16 September 2013, in a 2–2 draw with former club Liverpool, also assisting teammate [[Michu]]'s goal, but was partly responsible for both Liverpool goals, giving the ball away to [[Daniel Sturridge]] and [[Victor Moses]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/24012560 "Swansea 2–2 Liverpool"]. BBC Sport. 16 September 2013. Retrieved 17 September 2013.&lt;/ref&gt; He scored a goal on 26 April 2014 in a 4–1 defeat of Aston Villa; from [[Brad Guzan]]'s clearance, Shelvey "controlled the ball with one touch before propelling it over the back-pedalling American's head and into the net."&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/swansea-4-aston-villa-1-match-report-jonjo-shelvey-wonder-goal-all-but-secures-swans-premier-league-status-9291624.html |title=Swansea 4 Aston Villa 1 match report: Jonjo Shelvey's superb strike stuns Villa |first=Andrew |last=Gwilym |newspaper=The Independent |location=London |date=26 April 2014 |accessdate=22 May 2014}}&lt;/ref&gt;
+
+Shelvey was sent off in a goalless draw at [[Everton F.C.|Everton]] on 1 November 2014, by getting two bookings. First, he kicked the ball away in the 24th minute, then in the 72nd minute, he blocked [[James McCarthy (footballer)|James McCarthy]]'s run, resulting in the second booking.&lt;ref&gt;{{cite news |last=Sanghera |first=Mandeep |title=Everton 0–0 Swansea |url=https://www.bbc.co.uk/sport/0/football/29768011 |accessdate=2 November 2014 |publisher=BBC Sport |date=1 November 2014}}&lt;/ref&gt; On 29 December, he caught Liverpool's [[Emre Can]] with his arm during a 4–1 away defeat. Although referee [[Andre Marriner]] did not punish him for it, [[the Football Association]] later gave Shelvey a four-match suspension for violent conduct, with one match having been added to the suspension because of his previous dismissal against Everton. He claimed that the act was unintentional and personally apologised to Can.&lt;ref&gt;{{cite news |title=Jonjo Shelvey: Swansea midfielder gets four-match ban for Can clash |url=https://www.bbc.co.uk/sport/0/football/30634753 |accessdate=1 January 2015 |publisher=BBC Sport |date=31 December 2014}}&lt;/ref&gt; The day before the Liverpool match, Swansea manager [[Garry Monk]] criticised Shelvey's disciplinary record, telling him to "wise up" and put a stop to an accumulation of yellow cards earned through "laziness".&lt;ref&gt;{{cite news |title=Jonjo Shelvey: Swansea midfielder must wise up, says Garry Monk |url=https://www.bbc.co.uk/sport/0/football/30620866 |accessdate=1 January 2015 |publisher=BBC Sport |date=28 December 2014}}&lt;/ref&gt;
+
+In July 2015, Shelvey signed a new, four-year deal with the Swans, which would have kept him at the club until the summer of 2019.&lt;ref&gt;{{cite web |title=Shelvey signs new Swans contract |url=https://www.swanseacity.com/news/article/jonjo-shelvey-signs-new-swansea-city-contract-2533483.aspx |publisher=Swansea City A.F.C. |date=8 July 2015 |accessdate=1 January 2018|}}&lt;/ref&gt;
+
+On 10 January 2016, following a shock 3–2 defeat to League Two team [[Oxford United F.C.|Oxford United]] in the [[2015–16 FA Cup#Third Round Proper|FA Cup]], Shelvey appeared to become embroiled in a row with one Swansea fan and then appeared to invite the man to meet him outside. Manager [[Alan Curtis (footballer)|Alan Curtis]] responded stating "we expect more from Jonjo, it is as simple as that".&lt;ref&gt;{{cite web |title=Swansea's Jonjo Shelvey in angry confrontation with fan after cup defeat |url=http://www.espnfc.com/swansea-city/story/2784480/swansea-jonjo-shelvey-in-angry-confrontation-with-fan |publisher=ESPN FC |accessdate=12 January 2016 |date=12 January 2016}}&lt;/ref&gt;
+
+===Newcastle United===
+On 12 January 2016, [[Newcastle United F.C.|Newcastle United]] announced they had signed Shelvey on a five-and-a-half-year deal, for a reported fee of £12&amp;nbsp;million.&lt;ref&gt;{{cite web |title=Newcastle sign Shelvey |url=http://www.nufc.co.uk/articles/20160112/newcastle-sign-shelvey_2281670_5268851 |publisher=Newcastle United F.C. |accessdate=12 January 2016 |date=12 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Jonjo Shelvey: Newcastle sign Swansea midfielder for £12m |url=https://www.bbc.co.uk/sport/0/football/35290127 |date=12 January 2015 |publisher=BBC Sport}}&lt;/ref&gt; Four days later he made his debut in a 2–1 Premier League victory over West Ham United, the first win for the club in seven matches.&lt;ref&gt;{{cite news |title=Jonjo Shelvey shines in Newcastle debut win but could face FA action |url=https://www.independent.ie/sport/soccer/jonjo-shelvey-shines-in-newcastle-debut-win-but-could-face-fa-action-34370240.html |newspaper=Irish Independent |location=Dublin |accessdate=16 January 2016 |date=16 January 2016}}&lt;/ref&gt; He was named [[man of the match]] for his involvement in the build-up to both of Newcastle's goals.&lt;ref&gt;{{cite news |title=Jonjo Shelvey made an impressive debut for Newcastle as he helped his team move out of the relegation zone with a win over West Ham |url=https://www.bbc.com/sport/0/football/35270693 |publisher=BBC Sport |accessdate=16 January 2016 |date=16 January 2016}}&lt;/ref&gt;
+
+While Newcastle were on a training break in [[La Manga]] on 20 February, manager [[Steve McClaren]] announced that Shelvey had been made the team's captain.&lt;ref&gt;{{cite news |last=Gray |first=James |title=Newcastle announce shock new captain |url=https://www.express.co.uk/sport/football/645920/Newcastle-Jonjo-Shelvey-captain-Premier-League-news |accessdate=20 February 2016 |newspaper=Daily Express |location=London |date=20 February 2016}}&lt;/ref&gt; He served the role as [[Fabricio Coloccini]] stayed out through a calf injury, and said that he wanted to help the club avoid relegation;&lt;ref&gt;{{cite news |title=Jonjo Shelvey: Stand-in Newcastle United captain wants to inspire safety push |url=https://www.bbc.co.uk/sport/football/35729286 |accessdate=11 May 2016 |publisher=BBC Sport |date=4 March 2016}}&lt;/ref&gt; they were unsuccessful in that aim.
+
+Shelvey scored his first goal for the club in a 2–0 win against [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] on 27 August 2016.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/37138687 |title=Newcastle 2–0 Brighton |publisher=BBC Sport |date=27 August 2016 |accessdate=29 August 2016}}&lt;/ref&gt; In December 2016, Shelvey was banned for five matches after being found guilty of using racially abusive language towards [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] player, [[Romain Saïss]], in a match on 17 September 2016. He was also fined £100,000 and ordered to attend a [[Football Association]] education course.&lt;ref&gt;{{Cite news |url=https://www.bbc.co.uk/sport/football/38366883 |title=Jonjo Shelvey: Newcastle United midfielder handed five-game racial abuse ban |date=20 December 2016 |publisher=BBC Sport}}&lt;/ref&gt; He made 47 appearances and scored 5 goals in [[2016–17 Newcastle United F.C. season|2016–17]]&lt;ref name=sb1617/&gt; as Newcastle were promoted to the Premier League after winning the Championship title.&lt;ref&gt;{{cite web |url=http://www.soccerbase.com/tournaments/tournament.sd?tourn_id=1502 |title=Championship: 2016/17: Latest table |website=Soccerbase |publisher=Centurycomm |accessdate=4 June 2017}}&lt;/ref&gt;
+
+Ahead of the new season, Shelvey changed his squad number from 12 to 8. On 13 August 2017, in Newcastle United's first match back in the Premier League against [[Tottenham Hotspur F.C.|Tottenham Hotspur]], Shelvey was sent off three minutes into the second half of the match, for stamping on Tottenham midfielder [[Dele Alli]]. Newcastle would go on to lose the match 2–0, with Shelvey later apologising for his violent conduct.&lt;ref&gt;{{Cite news |url=http://www.skysports.com/football/news/11678/10987259/jonjo-shelvey-has-apologised-for-red-card-says-rafa-benitez |title=Jonjo Shelvey has apologised for red card, says Rafa Benitez |publisher=Sky Sports |date=13 August 2017}}&lt;/ref&gt;
+
+==International career==
+[[File:Jonjo Shelvey and Jordan Henderson.jpg|thumb|upright|Shelvey (left) playing for [[England national under-21 football team|England U21s]] in 2012]]
+
+===Youth===
+Shelvey captained the [[England national under-16 football team|England under-16s]] as they won the [[2007 Victory Shield]] scoring three goals in three matches. He played a key role in the Montaigu Tournament, which England won for the first time in seven years, playing in all four matches and scoring a free kick in the final against France.{{cn|date=April 2017}} In October 2008, he made his debut for the [[England national under-17 football team|England under-17s]] and scored in a 7–0 win over [[Estonia national youth football team|Estonia]].&lt;ref&gt;{{cite web |title=Lions hit seven |url=http://www.thefa.com/England/Mens-u17s/news/2009/u17s_estonia_report |publisher=The Football Association |date=24 April 2008 |accessdate=12 November 2011}}&lt;/ref&gt;
+
+On his debut for the [[England national under-19 football team|England under-19s]], in September 2010, he captained and scored a free-kick in a 2–0 win over Slovakia,&lt;ref&gt;{{cite news |title=Liverpool lads fire Lions to victory |url=http://www.thefa.com/England/mens-u19s/News/Match%20Centre/England%20v%20Slovakia |publisher=The Football Association |date=2 September 2010 |accessdate=10 November 2010}}&lt;/ref&gt; and followed up by scoring on his following two appearances for the team.&lt;ref&gt;{{cite news |title=Six of the best |url=http://www.thefa.com/England/mens-u19s/News/Match%20Centre/England%20v%20Albania |publisher=The Football Association |date=8 October 2010 |accessdate=10 November 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Shelvey on target for England |url=http://www.Liverpool.tv/news/latest-news/shelvey-on-target-for-england |publisher=Liverpool F.C. |date=10 October 2010 |accessdate=10 October 2010}}&lt;/ref&gt; He won his first Under-21 cap coming on as substitute in a 6–0 win against [[Azerbaijan national under-21 football team|Azerbaijan]] in September 2011.&lt;ref name=u21debut&gt;{{cite web |last=Campbell |first=Al |title=Henderson scores for Under 21's |url=http://www.lfconline.com/news/tmnw/henderson_scores_for_under_21s_698655/index.shtml |publisher=lfconline.com |accessdate=7 January 2012 |archiveurl=https://web.archive.org/web/20140506202424/http://www.lfconline.com/news/tmnw/henderson_scores_for_under_21s_698655/index.shtml |archivedate=6 May 2014}}&lt;/ref&gt;
+
+England's senior manager [[Roy Hodgson]] claimed that Shelvey missed the [[2015 UEFA European Under-21 Championship]] because he was "reticent" about playing at that level following his senior international debut. Shelvey responded by saying that he had been told by under-21 manager [[Gareth Southgate]] that he would not feature in that squad, and claimed that if he had ever refused international duty he would have faced the wrath of his father.&lt;ref name=snub&gt;{{cite news |title=Jonjo Shelvey denies snubbing England U21 duty |url=http://www.skysports.com/football/news/12016/9976526/jonjo-shelvey-denies-snubbing-england-u21-duty |accessdate=12 January 2016 |publisher=Sky Sports |date=2 September 2015}}&lt;/ref&gt;
+
+===Senior===
+Shelvey was eligible to play for [[Scotland national football team|Scotland]] – through his grandfather – and the [[Republic of Ireland national football team|Republic of Ireland]],&lt;ref&gt;[http://sport.stv.tv/football/scottish-premier/dundee-united/278956-craig-levein-wants-liverpool-starlet-to-switch-to-scotland/ "Craig Levein wants Liverpool starlet to switch to Scotland"]. sport.stv.tv. Retrieved 22 August 2015.&lt;/ref&gt; but chose to represent England.&lt;ref&gt;{{cite news |url=https://www.herald.ie/sport/soccer/shelvey-spurns-ireland-despite-promise-of-cap-oshea-happy-at-blues-27928317.html |title=Shelvey spurns Ireland despite promise of cap O'Shea happy at Blues |newspaper=The Herald |location=Dublin |date=9 October 2009 |accessdate=23 January 2018}}&lt;/ref&gt; In October 2012 Shelvey was called up for the [[England national football team|England]] squad for two [[2014 FIFA World Cup qualification]] matches against [[San Marino national football team|San Marino]] and [[Poland national football team|Poland]],&lt;ref&gt;{{cite web |title=England call-ups for Jonjo Shelvey and Ryan Bertrand |url=https://www.bbc.co.uk/sport/0/football/19860360 |publisher=BBC Sport |accessdate=8 October 2012}}&lt;/ref&gt; and made his senior debut from the bench on 12 October 2012, in a 5–0 home win against San Marino, replacing [[Michael Carrick]] in the 66th minute.&lt;ref&gt;{{cite news |title=England 5–0 San Marino |url=https://www.bbc.co.uk/sport/0/football/19860360 |publisher=BBC Sport |accessdate=12 October 2012}}&lt;/ref&gt;
+
+On 5 September 2015, Shelvey was selected to start for England for the first time in a [[UEFA Euro 2016 qualifying]] match against San Marino, becoming the first man to be capped for England whilst playing for Swansea City. He was named man of the match by the [[BBC]] as England ran out 6–0 winners in [[Serravalle (San Marino)|Serravalle]].&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/34165282 |title=San Marino v England: How the players rated |date=5 September 2015 |publisher=BBC Sport}}&lt;/ref&gt;
+
+==Personal life==
+Shelvey was born in [[Romford]], London&lt;ref&gt;{{cite web |url=https://www.11v11.com/players/jonjo-shelvey-228577/ |title=Jonjo Shelvey |website=11v11.com |publisher=AFS Enterprises |accessdate=14 December 2017}}&lt;/ref&gt; and grew up in a council flat in [[Harold Hill]]. Due to crime in the neighbourhood, he bought his sister a home in [[Brentwood, Essex|Brentwood]] when she became pregnant. His older brother George was, according to Shelvey, a better footballer, but his career was ruined by drinking and partying.&lt;ref name=rough&gt;{{cite news |last=James |first=Stuart |title=Jonjo Shelvey: 'Growing up it was rough, people were getting stabbed' |url=https://www.theguardian.com/football/2013/dec/20/jonjo-shelvey-swansea-city-interview |accessdate=12 January 2016 |newspaper=The Guardian |location=London |date=20 December 2013}}&lt;/ref&gt;
+
+Shelvey fell down a staircase as a baby, one of several childhood traumas which he believes could have caused the [[alopecia]] which caused his hair loss. He was prescribed a cream and told to sleep in a woolly hat for a month in order to combat it, but abandoned treatment because of the discomfort it caused, and said of his baldness, "If you don't like it, don't talk to me".&lt;ref name=rough/&gt; Shelvey has supported youngsters who share his condition.&lt;ref&gt;{{cite news |last=Richman |first=Darren |title=Swansea's Jonjo Shelvey gives young alopecia sufferer day to remember after receiving heartfelt letter |url=https://www.telegraph.co.uk/sport/football/teams/swansea-city/11125000/Swanseas-Jonjo-Shelvey-gives-young-alopecia-sufferer-day-to-remember-after-receiving-heartfelt-letter.html |accessdate=12 January 2016 |newspaper=The Daily Telegraph |location=London |date=26 September 2014}}&lt;/ref&gt;
+
+In June 2015, Shelvey married Daisy Evans, formerly of the pop group [[S Club 8]]. Comedian [[Jimmy Carr]] performed at the event. The couple have a daughter, born the previous year.&lt;ref&gt;{{cite news |title=Jonjo Shelvey marries Daisy Evans in lavish ceremony with helicopter entrance and Jimmy Carr show |url=http://www.southwales-eveningpost.co.uk/Jonjo-Shelvey-marries-Daisy-Evans-lavish-ceremony/story-26743379-detail/story.html |accessdate=12 January 2016 |newspaper=South Wales Evening Post |location=Swansea |date=22 June 2015}}&lt;/ref&gt; After his marriage, Shelvey advertised for a live-in chef, who would receive an annual salary of £65,000.&lt;ref&gt;{{cite news |last=Graves |first=Steve |title=Jonjo Shelvey advertises for chef on £65,000 a year |url=https://www.liverpoolecho.co.uk/sport/football/football-news/jonjo-shelvey-advertises-chef-65000-9657234 |accessdate=12 January 2016 |newspaper=Liverpool Echo |date=14 July 2015}}&lt;/ref&gt; He stated that his family responsibilities and new diet would improve his professional behaviour.&lt;ref name=snub/&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 1 December 2018}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[Charlton Athletic F.C.|Charlton Athletic]]
+|[[2007–08 Charlton Athletic F.C. season|2007–08]]&lt;ref name=sb0708&gt;{{soccerbase season|49014|2007|accessdate=19 November 2014}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|2||0||0||0||0||0||colspan=2|—||2||0
+|-
+|[[2008–09 Charlton Athletic F.C. season|2008–09]]&lt;ref name=sb0809&gt;{{soccerbase season|49014|2008|accessdate=19 November 2014}}&lt;/ref&gt;
+|Championship
+|16||3||3||1||1||0||colspan=2|—||20||4
+|-
+|[[2009–10 Charlton Athletic F.C. season|2009–10]]&lt;ref name=sb0910&gt;{{soccerbase season|49014|2009|accessdate=19 November 2014}}&lt;/ref&gt;
+|[[EFL League One|League One]]
+|24||4||1||0||0||0||2{{efn|Appearances in [[Football League Trophy]]}}||0||27||4
+|-
+!colspan=2|Total
+!42||7||4||1||1||0||2||0||49||8
+|-
+|rowspan=4|[[Liverpool F.C.|Liverpool]]
+|[[2010–11 Liverpool F.C. season|2010–11]]&lt;ref name=sb1011&gt;{{soccerbase season|49014|2010|accessdate=19 November 2014}}&lt;/ref&gt;
+|[[Premier League]]
+|15||0||1||0||1||0||4{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||21||0
+|-
+|[[2011–12 Liverpool F.C. season|2011–12]]&lt;ref name=sb1112&gt;{{soccerbase season|49014|2011|accessdate=19 November 2014}}&lt;/ref&gt;
+|Premier League
+|13||1||2||1||1||0||colspan=2|—||16||2
+|-
+|[[2012–13 Liverpool F.C. season|2012–13]]&lt;ref&gt;{{soccerbase season|49014|2012|accessdate=19 November 2014}}&lt;/ref&gt;
+|Premier League
+|19||1||2||0||1||0||10{{efn|name=UEL}}||4||32||5
+|-
+!colspan=2|Total
+!47||2||5||1||3||0||14||4||69||7
+|-
+|[[Blackpool F.C.|Blackpool]] (loan)
+|[[2011–12 Blackpool F.C. season|2011–12]]&lt;ref name=sb1112/&gt;
+|Championship
+|10||6||colspan=2|—||colspan=2|—||colspan=2|—||10||6
+|-
+|rowspan=4|[[Swansea City A.F.C.|Swansea City]]
+|[[2013–14 Swansea City A.F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|49014|2013|accessdate=19 November 2014}}&lt;/ref&gt;
+|Premier League
+|32||6||1||0||1||0||8{{efn|name=UEL}}||0||42||6
+|-
+|[[2014–15 Swansea City A.F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|49014|2014|accessdate=24 March 2016}}&lt;/ref&gt;
+|Premier League
+|31||3||1||0||3||0||colspan=2|—||35||3
+|-
+|[[2015–16 Swansea City A.F.C. season|2015–16]]&lt;ref name=sb1516/&gt;
+|Premier League
+|16||1||1||0||2||0||colspan=2|—||19||1
+|-
+!colspan=2|Total
+!79||10||3||0||6||0||8||0||96||10
+|-
+|rowspan=5|[[Newcastle United F.C.|Newcastle United]]
+|[[2015–16 Newcastle United F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|49014|2015|accessdate=14 June 2016}}&lt;/ref&gt;
+|Premier League
+|15||0||colspan=2|—||colspan=2|—||colspan=2|—||15||0
+|-
+|[[2016–17 Newcastle United F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|49014|2016|accessdate=16 July 2017}}&lt;/ref&gt;
+|Championship
+|42||5||1||0||4||0||colspan=2|—||47||5
+|-
+|[[2017–18 Newcastle United F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|49014|2017|accessdate=18 May 2018}}&lt;/ref&gt;
+|Premier League
+|30||1||2||1||0||0||colspan=2|—||32||2
+|-
+|[[2018–19 Newcastle United F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|49014|2018|accessdate=3 December 2018}}&lt;/ref&gt;
+|Premier League
+|9||0||0||0||0||0||colspan=2|—||9||0
+|-
+!colspan=2|Total
+!96||6||3||1||4||0||colspan=2|—||103||7
+|-
+!colspan=3|Career total
+!274||31||15||3||14||0||24||4||327||38
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 17 November 2015}}&lt;ref&gt;{{NFT player |id=49020 |name=Shelvey, Jonjo |accessdate=3 December 2018}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=2|[[England national football team|England]]
+|2012||1||0
+|-
+|2015||5||0
+|-
+!colspan=2|Total||6||0
+|}
+
+==Honours==
+'''Liverpool'''
+*[[FA Cup]] runner-up: [[2011–12 FA Cup|2011–12]]&lt;ref name=2012FAC/&gt;
+
+'''Newcastle United'''
+*[[EFL Championship]]: [[2016–17 EFL Championship|2016–17]]&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Sky Sports Football Yearbook 2017–2018 |year=2017 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-3397-4 |pages=254–255}}&lt;/ref&gt;
+
+'''Individual'''
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Championship 8|2016–17 Championship]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39648483 |title=PFA teams of the year: Chelsea and Tottenham dominate Premier League XI |publisher=BBC Sport |date=20 April 2017 |accessdate=6 May 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.nufc.co.uk/teams/first-team/jonjo-shelvey Profile] at the Newcastle United F.C. website
+*{{Soccerbase}}
+
+{{2016–17 EFL Championship PFA Team of the Year}}
+{{Newcastle United F.C. squad}}
+
+{{DEFAULTSORT:Shelvey, Jonjo}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:People from Romford]]
+[[Category:Footballers from Greater London]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England international footballers]]
+[[Category:Association football midfielders]]
+[[Category:Arsenal F.C. players]]
+[[Category:West Ham United F.C. players]]
+[[Category:Charlton Athletic F.C. players]]
+[[Category:Liverpool F.C. players]]
+[[Category:Blackpool F.C. players]]
+[[Category:Swansea City A.F.C. players]]
+[[Category:Newcastle United F.C. players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:English people of Irish descent]]
+[[Category:English people of Scottish descent]]
+[[Category:People with alopecia universalis]]</text>
+      <sha1>est2cahjic73zuia6wmncilrq2vxnzb</sha1>
+    </revision>
+  </page>
+</mediawiki>

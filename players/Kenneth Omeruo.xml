@@ -1,0 +1,321 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kenneth Omeruo</title>
+    <ns>0</ns>
+    <id>35611755</id>
+    <revision>
+      <id>882818606</id>
+      <parentid>882818541</parentid>
+      <timestamp>2019-02-11T14:52:07Z</timestamp>
+      <contributor>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
+      </contributor>
+      <comment>/* Small fix on stats */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20744">{{Use dmy dates|date=June 2018}}
+{{Infobox football biography
+| name            = Kenneth Omeruo
+| image           = Argentina-Nigeria (3) cropped).jpg
+| image_size      = 250
+| caption         = Omeruo with [[Nigeria national football team|Nigeria]] in 2017.
+| fullname        = Kenneth Josiah Omeruo&lt;ref name="FIFA"&gt;{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=2018 FIFA World Cup Russia – List of Players |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=4 June 2018 |access-date=19 June 2018}}&lt;/ref&gt;
+| birth_date      = {{birth date and age|1993|10|17|df=y}}
+| birth_place     = [[Abia State]], Nigeria
+| height          = 1.85 m&lt;ref name="FIFA"/&gt;
+| position        = [[Defender (association football)|Defender]]
+| currentclub     = [[CD Leganés|Leganés]]&lt;br/&gt;(on loan from [[Chelsea F.C.|Chelsea]])
+| clubnumber      = 24
+| youthyears1     = {{0|0000}}–2010 |youthclubs1 = Hard Foundation
+| youthyears2     = 2010–2012 |youthclubs2 = [[Standard Liege]]
+| years1          = 2012–     |clubs1 = [[Chelsea F.C.|Chelsea]]                        |caps1 =  0  |goals1 = 0
+| years2          = 2012–2013 |clubs2 = → [[ADO Den Haag]] (loan)                       |caps2 =  36 |goals2 = 2
+| years3          = 2014–2015 |clubs3 = → [[Middlesbrough F.C.|Middlesbrough]] (loan)   |caps3 =  33 |goals3 = 0
+| years4          = 2015–2016 |clubs4 = → [[Kasımpaşa S.K.|Kasımpaşa]] (loan)           |caps4 =  25 |goals4 = 0
+| years5          = 2016–2017 |clubs5 = → [[Alanyaspor]] (loan)                         |caps5 =  26 |goals5 = 1
+| years6          = 2017–2018 |clubs6 = → [[Kasımpaşa S.K.|Kasımpaşa]] (loan)           |caps6 =  28 |goals6 = 1
+| years7          = 2018–     |clubs7 = → [[CD Leganés|Leganés]] (loan)                 |caps7 =  16  |goals7 = 0
+| pcupdate        = 14:52, 11 February 2019 (UTC)
+| nationalyears1  = 2009
+| nationalteam1   = [[Nigeria national under-17 football team|Nigeria U17]]
+| nationalcaps1   = 7
+| nationalgoals1  = 1
+| nationalyears2  = 2011
+| nationalteam2   = [[Nigeria national under-20 football team|Nigeria U20]]
+| nationalcaps2   = 5
+| nationalgoals2  = 0
+| nationalyears3  = 2013–
+| nationalteam3   = [[Nigeria national football team|Nigeria]]
+| nationalcaps3   = 43
+| nationalgoals3  = 0
+| ntupdate        = 14:39, 18 December 2018 (UTC)
+}}
+'''Kenneth Josiah Omeruo''' (born 17 October 1993) is a Nigerian professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Club Deportivo Leganés|CD Leganés]] on loan from [[Chelsea F.C.|Chelsea]] and the [[Nigerian national football team|Nigeria national team]].&lt;ref&gt;{{cite web|author=Eredivisie |url=http://eredivisielive.nl/eredivisie/speler/857253/kenneth-omeruo/ |title=Kenneth Omeruo, ADO Den Haag |publisher=Eredivisielive.nl |date= |accessdate=31 May 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120514112702/http://eredivisielive.nl/eredivisie/speler/857253/kenneth-omeruo/ |archivedate=14 May 2012 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.worldfootball.net/spieler_profil/kenneth-omeruo/ |title=Kenneth Omeruo |publisher=Worldfootball.net |date=17 October 1993 |accessdate=31 May 2012}}&lt;/ref&gt; Omeruo signed for Chelsea from [[Standard Liege]] in January 2012 and upon signing went on loan to Dutch top-flight side [[ADO Den Haag]].
+Then only 19, he impressed enough in the [[Eredivisie]] to earn a call up to the Nigerian national team.
+
+Now a regular international, Omeruo has represented Nigeria at the [[2013 Africa Cup of Nations]] and the [[2013 Confederations Cup]] in Brazil. Omeruo cemented a place in the starting line-up at the Africa Cup of Nations as it turned into a wonderful tournament for the Super Eagles and they emerged from the tournament victorious.&lt;ref name="BBC Sport"&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/25204040|title=Is Nigeria's Kenneth Omeruo Chelsea's best kept secret?|date=4 December 2013|accessdate=6 January 2014|publisher=BBC Sport}}&lt;/ref&gt;
+
+==Club career==
+===Early career===
+Omeruo had spells at [[Sunshine Stars F.C.|Sunshine Stars]] and [[Anderlecht (football club)|Anderlecht]] as a trialist before he was signed from the Anderlecht academy by [[Standard Liège]].&lt;ref name="FourFourTwo"&gt;{{cite web|url=http://www.fourfourtwo.com/features/talentspotter-meet-kenneth-omeruo-best-chelsea-player-youve-never-heard?|title=Meet Kenneth Omeruo, the best Chelsea player you've never heard of|date=6 January 2014|accessdate=6 January 2014|publisher=FourFourTwo}}&lt;/ref&gt;
+
+===Chelsea===
+In January 2012, Chelsea signed Omeruo from Liège and immediately loaned him out to [[Eredivisie]] club [[ADO Den Haag]].&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/news/story/_/id/1005272/chelsea-linked-with-move-for-standard-defender-kenneth-omeruo?cc=5901 |title=Chelsea linked with move for Standard defender Kenneth Omeruo |publisher=ESPN Soccernet |date=7 January 2012 |accessdate=31 May 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.goal.com/en-india/news/222/transfer-zone/2012/01/08/2836305/chelsea-sign-nigerian-youngster-kenneth-omeruo |title=Chelsea Sign Nigerian Youngster Kenneth Omeruo |publisher=Goal.com |date=8 January 2012 |accessdate=8 January 2012}}&lt;/ref&gt; In May 2014 Nigeria World Cup-bound Omeruo agreed a new three-year contract with [[Chelsea F.C.|Chelsea]].&lt;ref&gt;{{cite web|url=http://africanfootball.com/news/430249/Omeruo-agrees-new-Chelsea-contract|title=OMERUO AGREES NEW CHELSEA CONTRACT|publisher=africanfootball.com |date=26 May 2014 |accessdate=28 May 2014}}&lt;/ref&gt;
+
+On 31 August 2016, Omeruo signed a one-year contract extension until 2019, before leaving on loan again.&lt;ref name="2016/17"&gt;{{cite web|url=https://www.chelseafc.com/news/latest-news/2016/08/new-contract-and-loan-for-omeruo.html |title=New contract and loan for Omeruo |date=31 August 2016 |publisher=Chelsea F.C.}}&lt;/ref&gt;
+
+====Loan to ADO Den Haag====
+Omeruo joined [[ADO Den Haag]] on an 18-month loan deal which kept him at the club until the end of the 2012–13 season.&lt;ref&gt;{{cite news|url=http://www1.skysports.com/football/news/11661/7416126/Chelsea-linked-to-Omeruo |title=Chelsea linked to Omeruo |publisher=Sky Sports |date=7 January 2012 |accessdate=7 January 2012}}&lt;/ref&gt; On 3 March 2012, Omeruo made his debut for ADO Den Haag against [[SC Heerenveen]] which ended in a 0–0 draw.&lt;ref&gt;{{citation|url=https://int.soccerway.com/matches/2012/03/03/netherlands/eredivisie/hfc-ado-den-haag/sportclub-heerenveen/1120519/ |title=ADO Den Haag vs. Heerenveen  0 - 0|publisher=Soccerway |date=3 March 2012|accessdate=31 May 2012}}&lt;/ref&gt; On 19 April 2012, in a game against [[FC Groningen]] Omeruo scored his first goal for ADO Den Haag.&lt;ref&gt;{{cite news|author=Barry Glendenning |url=https://www.theguardian.com/football/2012/may/09/football-the-knowledge |title=The Knowledge &amp;#124; English football's only joint own goal|publisher=Guardian |date= 9 May 2012|accessdate=31 May 2012 |location=London}}&lt;/ref&gt;
+
+On 28 April 2012, Omeruo scored against [[VVV-Venlo]] in the 19th minute, although just three minutes later scored an own goal.&lt;ref&gt;{{citation|url=https://int.soccerway.com/matches/2012/04/28/netherlands/eredivisie/vvv-venlo/hfc-ado-den-haag/1120594/ |title=VVV-Venlo v.s. ADO Den Haag 2-1|publisher=Soccerway |date=28 April 2012|accessdate=31 May 2012}}&lt;/ref&gt; He is the only player in the Dutch league ever to score a goal, an own goal and receive a red card in one match.
+
+====Loan to Middlesbrough====
+On 7 January 2014, Omeruo joined [[Middlesbrough F.C.|Middlesbrough]] on loan until the end of the [[2013–14 in English football|2013–14]] season.&lt;ref&gt;{{Cite web|title=Boro Seal Omeruo Loan |url=http://www.mfc.co.uk/page/news/latest/0,,1~3607917,00.html |work=Middlesbrough FC |date=7 January 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140515143919/http://www.mfc.co.uk/page/news/latest/0%2C%2C1~3607917%2C00.html |archivedate=15 May 2014 |df= }}&lt;/ref&gt; On 1 February 2014, Omeruo made his debut for Middlesbrough in a 0–0 draw against [[Doncaster Rovers F.C.|Doncaster Rovers]].&lt;ref&gt;{{Cite web |title=Doncaster Rovers vs. Middlesbrough  0 - 0 |url=https://int.soccerway.com/matches/2014/02/01/england/championship/doncaster-rovers-fc/middlesbrough-football-club/1484373/ |work=Soccerway |date=1 February 2014}}&lt;/ref&gt; On 8 April 2014, Omeruo was sent off in the 82nd minute after picking up a second yellow. Although Boro had to finish the game with 9-men ([[Ben Gibson (footballer)|Ben Gibson]] was also sent off late in the game), they still managed to earn a 3–1 win victory against [[Birmingham City]].&lt;ref&gt;{{Cite web |title=Middlesbrough v.s. Birmingham 3 - 1 |url=https://int.soccerway.com/matches/2014/04/08/england/championship/middlesbrough-football-club/birmingham-city-fc/1484516/ |work=Soccerway |date=8 April 2014}}&lt;/ref&gt;
+
+He rejoined Middlesbrough for the [[2014–15 in English football|2014–15]] season,&lt;ref&gt;{{Cite web |title=Middlesbrough complete Kenneth Omeruo loan deal from Chelsea |url=https://www.bbc.com/sport/0/football/28662451 |work=BBC Sport |date=6 August 2014}}&lt;/ref&gt; making his first appearance against [[Birmingham City|Birmingham]] in a 2-0 win.
+
+====Loan to Kasımpaşa====
+On 21 July 2015, Omeruo joined [[Kasımpaşa Spor Kulübü|Kasımpaşa]] on a season-long loan with an option to purchase the player at the end of the spell.&lt;ref&gt;{{Cite news |title=Omeruo Kasımpaşamızda |url=http://www.kasimpasaspor.org.tr/haberler/haber/1010555-omeruo-kasimpasamizda |publisher=Kasımpaşa |date=21 July 2015}}&lt;/ref&gt; On 16 August 2015, Omeruo made his debut for Kasımpaşa in a match against [[Gaziantepspor]], the match ended in a 3–0 victory for Kasımpaşa.&lt;ref&gt;{{Cite news |title=Gaziantepspor vs. Kasımpaşa  0 - 3 |url=https://int.soccerway.com/matches/2015/08/16/turkey/super-lig/gaziantepspor/kasimpasa-sk/2074329/ |publisher=Soccerway |date=16 August 2015}}&lt;/ref&gt; Five days later,  Omeruo made his home debut against [[İstanbul Başakşehir F.K.]] which ended in a 1–0 victory for Kasımpaşa.&lt;ref&gt;{{Cite news |title=Kasımpaşa vs. İstanbul Başakşehir  1 - 0 |url=https://int.soccerway.com/matches/2015/08/21/turkey/super-lig/kasimpasa-sk/istanbul-buyuksehir-bsk/2074340/ |publisher=Soccerway |date=21 August 2015}}&lt;/ref&gt;
+
+Omeruo had an up and down season, suffering from a couple injuries, however started whenever he was fit. Although the loan deal had an option to buy, Kasımpaşa decided to pass on the option due to a lack of funds, which led to Omeruo returning to Chelsea for pre-season.&lt;ref&gt;{{Cite news |title=Kenneth Omeruo To Return To Chelsea For Pre-Season Training |url=http://www.allnigeriasoccer.com/read_news.php?nid=19196/ |publisher=AllNigeriaSoccer |date=27 May 2016}}&lt;/ref&gt;
+
+====Loan to Alanyaspor====
+On 31 August 2016, after he served out for Kasımpaşa, Omeruo joined [[Alanyaspor]] on a season-long loan.&lt;ref name="2016/17" /&gt; He was given the number 44. On 10 September 2016, Omeruo made his debut in a 0–0 draw against [[Gençlerbirliği S.K.|Gençlerbirliği]].&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2016/09/10/turkey/super-lig/genclerbirligi/alanyaspor/2291169/ |title=Gençlerbirliği vs. Alanyaspor  0 - 0 |date=10 September 2016 |publisher=Soccerway }}&lt;/ref&gt; On 25 February 2017, Omeruo scored his first goal for Alanyaspor in their 4–1 home victory over [[Adanaspor]], netting in the hosts' second in the 37th minute.&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2017/02/25/turkey/super-lig/alanyaspor/adanaspor-fk/2291338/ |title=Alanyaspor vs. Adanaspor |date=25 February 2017 |publisher=Soccerway }}&lt;/ref&gt;
+
+====Return to Kasımpaşa====
+On 25 August 2017, preceding signing a new three-year deal at Chelsea, Omeruo returned to [[Kasımpaşa S.K.|Kasımpaşa]] on a season-long loan.&lt;ref&gt;{{Cite news |title=New contract and loan for Omeruo |url=http://www.chelseafc.com/news/latest-news/2017/08/new-contract-and-loan-for-omeruo.html |publisher=Chelsea Official Site |date=25 August 2017 |accessdate=25 August 2017}}&lt;/ref&gt;
+
+====Loan to CD Leganés====
+On 15 August 2018, Omeruo joined [[Club Deportivo Leganés|CD Leganés]] on a season-long loan.&lt;ref&gt;{{Cite news |title=Leganes Loan For Omeruo |url=https://www.chelseafc.com/en/news/2018/8/15/leganes-loan-for-omeruo.html |publisher=Chelsea Official Site |date=15 August 2018 |accessdate=15 August 2018}}&lt;/ref&gt; In October 2018 he stated that he was enjoying playing in Spain.&lt;ref&gt;https://www.bbc.co.uk/sport/football/45939555&lt;/ref&gt;
+
+==International career==
+[[File:Argentina-Nigeria (3).jpg|thumb|Omeruo with Nigeria against Argentina in a friendly match in 2017]]
+
+Omeruo played for the Nigerian Under-20 team that reached the quarter-finals at the [[2011 FIFA U-20 World Cup]] in [[Colombia]].&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/89/africa/2012/03/02/2942516/under-20-nigeria-international-kenneth-omeruo-set-for-dutch |title=U-20 Nigeria international, Kenneth Omeruo set for Dutch debut.|publisher=Goal.com |date=2 March 2012 |accessdate=31 May 2012}}&lt;/ref&gt;
+
+On 9 January 2013, at the age of 19 he played for the senior team for the first time in a goalless draw against [[Cape Verde national football team|Cape Verde]]. He then went on to play in all of Nigeria's matches at the [[2013 Africa Cup of Nations]] as Nigeria went on to win the competition for the third time.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/20970786|title=Nations Cup 2013: Nigeria pick six locally-based players|author=Oluwashina Okeleji|date=10 January 2013|accessdate=10 January 2013|publisher=BBC Sport}}&lt;/ref&gt;
+
+Later that year he was selected for Nigeria's squad at the [[2013 FIFA Confederations Cup]] and played in all of the three group games as Nigeria finished third in their group.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/22827902|title=Nigeria to take new-look squad to Confederations Cup|date=9 June 2013|accessdate=10 June 2013|publisher=BBC Sport}}&lt;/ref&gt;
+
+Omeuro was named in Nigeria's final squad for the [[2014 FIFA World Cup]] and started in all four games as Nigeria finished second in their group and were eliminated by France at the Round of 16.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/27969976 |title=France scored twice in the final 11 minutes in Brasilia to beat Nigeria and reach the World Cup quarter-finals. |work=BBC Sport |date=30 June 2014 |accessdate=22 October 2014 }}&lt;/ref&gt;
+
+He was selected by Nigeria for their 35-man provisional squad for the 2016 Summer Olympics,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36623763|title=Kelechi Iheanacho included in Nigeria's Olympics squad|date=24 June 2016|accessdate=25 June 2016|author=Oluwashina Okeleji|publisher=BBC Sport}}&lt;/ref&gt; but did not make the final 18- man squad.&lt;ref&gt;{{cite web|url=http://punchng.com/mikel-makes-olympics-squad-awoniyi-standby/|title=Mikel makes Olympics squad, Awoniyi on standby|date=24 July 2016|accessdate=24 July 2016|publisher=Punch}}&lt;/ref&gt;
+
+In May 2018 he was named in Nigeria's preliminary 30 man [[Nigeria national football team|squad]] for the [[2018 FIFA World Cup]] in Russia.&lt;ref&gt;{{Cite news|url=http://www.goal.com/en-gb/amp/news/revealed-every-world-cup-2018-squad-23-man-preliminary-lists/oa0atsduflsv1nsf6oqk576rb|title=Revealed: Every World Cup 2018 squad - 23-man &amp; preliminary lists &amp; when will they be announced? {{!}} Goal.com|access-date=1 June 2018|language=en}}&lt;/ref&gt;
+
+==Playing style==
+Omeruo has been described as a "tall, rangy but strong centre-back" and a "level-headed and determined youngster".&lt;ref name="FourFourTwo"/&gt;&lt;ref name="BBC Sport"/&gt;
+
+==Personal life==
+His younger brother Lucky Omeruo is also a footballer,  who currently plays for Pembroke Athleta F.C. as a striker&lt;ref&gt;{{cite web|url=http://www.completesportsnigeria.com/news/2014/05/omeruo-anyanwu-boost-rangers |title=Lucky Omeruo, younger brother of Chelsea of England and Super Eagles defender, Kenneth Omeruo |date=4 December 2013 |accessdate=6 January 2014 |publisher=BBC Sport |deadurl=yes |archiveurl=https://web.archive.org/web/20140512225501/http://www.completesportsnigeria.com/news/2014/05/omeruo-anyanwu-boost-rangers |archivedate=12 May 2014 |df= }}&lt;/ref&gt; and for the [[Nigeria national under-20 football team]].&lt;ref&gt;{{cite web|url=http://www.mtnfootball.com/africa/nigeria/premier-league/news/2013/jul/17-foreign-players-pay-stops-omeruo.html|title=    Foreign player's pay stops Omeruo - MTNFootball|date=14 July 2013|accessdate=14 July 2013|publisher=MTN}}&lt;/ref&gt;
+
+Omeruo and his wife, Chioma Omeruo, have welcomed their first child, a girl named [http://mercyobidakemedia.com/super-eagles-defender-kenneth-omeruo-and-wife-chioma-welcome-their-first-child/ Chairein Omeruo] .
+
+==Career statistics==
+===Club===
+{{updated|10 February 2019}}&lt;ref&gt;[https://int.soccerway.com/players/kenneth-omeruo/102548/ Soccerway profile]&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!colspan="2"|Club Performance
+!colspan="2"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|Continental
+!colspan="2"|Total
+|-
+!|Club
+!|Season
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+!colspan="2"|Netherlands
+!colspan="2"|[[Eredivisie]]
+!colspan="2"|[[KNVB Cup]]
+!colspan="2"|Other
+!colspan="2"|Europe
+!colspan="2"|Total
+|-
+|rowspan="3"|[[ADO Den Haag]] (loan)
+|[[2011–12 Eredivisie|2011–12]]
+|9||0||0||0||-||-||-||-||9||0
+|-
+|[[2012–13 Eredivisie|2012–13]]
+|27||2||2||0||-||-||-||-||29||2
+|-
+!Total
+! 36 !! 2 !! 2 !! 0 !! 0 !! 0 !! 0 !! 0 !! 38 !! 2
+|-
+!colspan="2"|England
+!colspan="2"|[[Championship]]
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[League Cup]]
+!colspan="2"|Europe
+!colspan="2"|Total
+|-
+|rowspan="3"|[[Middlesbrough F.C.|Middlesbrough]] (loan)
+|[[2013-14 Football League Championship|2013–14]]
+|14||0||0||0||0||0||-||-||14||0
+|-
+|[[2014-15 Football League Championship|2014–15]]
+|19||0||2||0||1||0||-||-||22||0
+|-
+!Total
+! 33 !! 0 !! 2 !! 0 !! 1 !! 0 !! 0 !! 0 !! 36 !! 0
+|-
+!colspan="2"|Turkey
+!colspan="2"|[[Süper Lig]]
+!colspan="2"|[[Turkish Cup]]
+!colspan="2"|Other
+!colspan="2"|Europe
+!colspan="2"|Total
+|-
+|[[Kasımpaşa S.K.|Kasımpaşa]] (loan)
+|[[2015–16 Süper Lig|2015–16]]
+|25||0||1||0||-||-||-||-||26||0
+|-
+|[[Alanyaspor]] (loan)
+|[[2016–17 Süper Lig|2016–17]]
+|26||1||0||0||-||-||-||-||26||1
+|-
+|Kasımpaşa (loan)
+|[[2017–18 Süper Lig|2017–18]]
+|28||1||0||0||-||-||-||-||28||1
+|-
+|[[CD Leganés|Leganés]] (loan)
+|[[2018–19 La Liga|2018–19]]
+|16||0||3||0||-||-||-||-||19||0
+|-
+! colspan="2"|Career total
+! 164 !! 4 !! 8 !! 0 !! 1 !! 0 !! 0 !! 0 !! 173 !! 4
+|}
+
+===International===
+:''Statistics accurate as of match played 26 June 2018.''&lt;ref&gt;{{NFT player|50699|Kenneth Omeruo|accessdate=23 June 2018}}&lt;/ref&gt;
+
+{|class="wikitable" style="text-align:center"
+!colspan=3|[[Nigeria national football team|Nigeria]]
+|-
+!Year!!Apps!!Goals
+|-
+|2013||14||0
+|-
+|2014||11||0
+|-
+|2015||5||0
+|-
+|2016||3||0
+|-
+|2017||2||0
+|-
+|2018||5||0
+|-
+!Total||40||0
+|}
+
+==Honours==
+;Nigeria&lt;ref&gt;{{soccerway|kenneth-omeruo/102548}}&lt;/ref&gt;
+*[[Africa Cup of Nations]]: [[2013 Africa Cup of Nations|2013]]
+
+==References==
+{{reflist}}
+
+{{CD Leganés squad}}
+&lt;!--{{Chelsea F.C. squad}}--&gt;
+{{Navboxes colour
+|title=Nigeria squads
+|bg=#008751
+|fg=White
+|bordercolor=
+|list1=
+{{Nigeria squad 2013 Africa Cup of Nations}}
+{{Nigeria squad 2013 FIFA Confederations Cup}}
+{{Nigeria squad 2014 FIFA World Cup}}
+{{Nigeria squad 2018 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Omeruo, Kenneth}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Nigerian footballers]]
+[[Category:Nigeria under-20 international footballers]]
+[[Category:Nigeria international footballers]]
+[[Category:Association football defenders]]
+[[Category:Chelsea F.C. players]]
+[[Category:Middlesbrough F.C. players]]
+[[Category:ADO Den Haag players]]
+[[Category:Kasımpaşa S.K. footballers]]
+[[Category:Alanyaspor footballers]]
+[[Category:CD Leganés players]]
+[[Category:Eredivisie players]]
+[[Category:English Football League players]]
+[[Category:Süper Lig players]]
+[[Category:Nigerian expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in the Netherlands]]
+[[Category:Expatriate footballers in Turkey]]
+[[Category:2013 Africa Cup of Nations players]]
+[[Category:2013 FIFA Confederations Cup players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:Nigerian expatriate sportspeople in England]]
+[[Category:Nigerian expatriate sportspeople in the Netherlands]]
+[[Category:Nigerian expatriate sportspeople in Turkey]]
+[[Category:Africa Cup of Nations-winning players]]
+[[Category:Sportspeople from Abia State]]
+[[Category:2018 FIFA World Cup players]]</text>
+      <sha1>7dcjjpru7f6mjoc6lrbwuazqe81v1ax</sha1>
+    </revision>
+  </page>
+</mediawiki>

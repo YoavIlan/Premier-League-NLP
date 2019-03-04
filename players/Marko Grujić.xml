@@ -1,0 +1,288 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Marko Grujić</title>
+    <ns>0</ns>
+    <id>39513126</id>
+    <revision>
+      <id>885860725</id>
+      <parentid>885860701</parentid>
+      <timestamp>2019-03-02T20:28:22Z</timestamp>
+      <contributor>
+        <ip>178.223.4.93</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16869">{{Use dmy dates|date=June 2018}}
+{{Infobox football biography
+| name           = Marko Grujić
+| image          = Marko Grujić 15-11-16.jpg
+| caption        = Grujić in 2016
+| fullname       = Marko Grujić&lt;ref&gt;{{cite web |title=Squads for 2016/17 Premier League confirmed |url=https://www.premierleague.com/news/84136 |publisher=Premier League |date=1 September 2016 |accessdate=15 September 2016}}&lt;/ref&gt;
+| birth_date     = {{Birth date and age|1996|4|13|df=y}}
+| birth_place    = [[Belgrade]], [[Serbia and Montenegro|FR Yugoslavia]]
+| height         = 1.90 m&lt;ref&gt;{{cite web|url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF|title=2018 FIFA World Cup: List of players|publisher=FIFA|format=PDF|page=27|date=21 June 2018}}&lt;/ref&gt;
+| position       = [[Midfielder]]
+| currentclub    = [[Hertha BSC]]&lt;br&gt;(on loan from [[Liverpool F.C.|Liverpool]])
+| clubnumber     = 15
+| youthyears1    = 2005–2013
+| youthclubs1    = [[Red Star Belgrade]]
+| years1         = 2013–2016
+| clubs1         = [[Red Star Belgrade]]
+| caps1          = 31
+| goals1         = 5
+| years2         = 2014
+| clubs2         = → [[FK Kolubara|Kolubara]] (loan)
+| caps2          = 5
+| goals2         = 2
+| years3         = 2016–
+| clubs3         = [[Liverpool F.C.|Liverpool]] 
+| caps3          = 8
+| goals3         = 0
+| clubs4         = → [[Red Star Belgrade]] (loan)
+| years4         = 2016
+| caps4          = 8
+| goals4         = 1
+| years5         = 2018
+| clubs5         = → [[Cardiff City F.C.|Cardiff City]] (loan)
+| caps5          = 13
+| goals5         = 1
+| years6         = 2018– 
+| clubs6        = → [[Hertha BSC]] (loan)
+| caps6         = 14
+| goals6        = 3
+| nationalyears1 = 2011–2012
+| nationalteam1  = [[Serbia national under-16 football team|Serbia U16]]
+| nationalcaps1  = 4
+| nationalgoals1 = 2
+| nationalyears2 = 2012
+| nationalteam2  = [[Serbia national under-17 football team|Serbia U17]]
+| nationalcaps2  = 1
+| nationalgoals2 = 1
+| nationalyears3 = 2014–2015
+| nationalteam3  = [[Serbia national under-19 football team|Serbia U19]]
+| nationalcaps3  = 3
+| nationalgoals3 = 0
+| nationalyears4 = 2015
+| nationalteam4  = [[Serbia national under-20 football team|Serbia U20]]
+| nationalcaps4  = 7
+| nationalgoals4 = 0
+| nationalyears5 = 2015–
+| nationalteam5  = [[Serbia national under-21 football team|Serbia U21]]
+| nationalcaps5  = 13
+| nationalgoals5 = 0
+| nationalyears6 = 2016–
+| nationalteam6  = [[Serbia national football team|Serbia]]
+| nationalcaps6  = 8
+| nationalgoals6 = 0
+| pcupdate       = 23:02, 2 March 2019 (UTC)
+| ntupdate       = 9 June 2018
+| medaltemplates =
+{{Medal|Gold|[[FIFA U-20 World Cup]]|[[2015 FIFA U-20 World Cup|2015]]}}
+}}
+'''Marko Grujić''' ({{lang-sr-Cyrl|Марко Грујић}}, {{IPA-sh|mâːrko ɡrûːjitɕ|pron}}; born 13 April 1996) is a Serbian professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Hertha BSC]] on loan from [[Liverpool F.C.|Liverpool]], and the [[Serbia national football team|Serbia national team]].
+
+A native of [[Belgrade]], Grujić started his career with his hometown club [[Red Star Belgrade]], progressing through their [[youth system]] to the [[first team]] squad. He made his professional debut in 2013, and won the [[Serbian SuperLiga|SuperLiga]] title in his final season with Red Star before completing a £5.1 million move to Liverpool.
+
+Grujić is a Serbian international, and represented Serbia at every youth level from under-16 upwards before making his full international debut in May 2016. He was part of the [[Serbia national under-20 football team|Serbian side]] which won the [[2015 FIFA U-20 World Cup|2015 U-20 World Cup]].
+
+==Club career==
+===Red Star Belgrade===
+Grujić was born in [[Belgrade]], [[FR Yugoslavia]] (now [[Serbia]]) and is a product of [[Red Star Belgrade]], where he went through the youth program, passed all categories and was the captain of his generation. He made his professional debut for Red Star on 26 May 2013, in a [[Serbian SuperLiga]] match versus [[FK Vojvodina|Vojvodina]].&lt;ref&gt;{{cite web |url=http://www.crvenazvezdafk.com/vesti/izvestaji/7369/Vojvodina+-+Crvena+zvezda+3%3A0+(1%3A0).html|script-title=sr:Војводина – Црвена звезда 3:0 (1:0)|website=Red Star Belgrade official website|language=Serbian|date=26 May 2013|accessdate=3 October 2014}}&lt;/ref&gt;
+
+On 17 May 2015, Grujić signed a three-year contract with Red Star to last until 2018.&lt;ref&gt;[http://www.rtv.rs/sr_lat/sport/fudbal/grujic-i-jovic-do-2018.-u-zvezdi_600503.html Grujić and Jovic by 2018 in Zvezda] Radio Televizija Vojvodine: ''Grujić i Jović do 2018. u Zvezdi'' {{sr icon}} 17 May 2015&lt;/ref&gt; Grujić scored his first senior goal on 26 September 2015 against [[FK Novi Pazar|Novi Pazar]] in a 2–0 victory; he also assisted [[Aleksandar Katai]] for the second goal.&lt;ref&gt;{{citeweb|url=https://www.onefootball.com/en/match/fk-red-star-belgrade-vs-fk-novi-pazar-overview-123-444846?period=FullTime&amp;variable=g2|title=Red Star vs Novi Pazar report|publisher=onefootball.com}}&lt;/ref&gt; Grujić was a part of an unprecedented run of Red Star victories, as the club set a new record for the number of consecutive victories (19), ending the first half of the season without defeat.&lt;ref name="Count"&gt;{{cite web|url=http://www.espnfc.us/blog/espn-fc-united-blog/68/post/2758612/miodrag-bozovic-is-breaking-records-at-red-star-belgrade|author=Michael Yokhin|title=ESPN: ''Miodrag 'The Count' Bozovic breaking records at Red Star Belgrade''|date=15 December 2015|accessdate=24 February 2016}}&lt;/ref&gt;
+
+===Liverpool===
+Throughout autumn, Grujić was scouted by a number of high-profile European teams, including [[Liverpool F.C.|Liverpool]], [[Internazionale]], [[Juventus]], [[Chelsea F.C.|Chelsea]], and [[A.C. Milan|Milan]]. [[List of Liverpool F.C. managers|Liverpool manager]] [[Jürgen Klopp]] called Grujić personally to convince him to switch to [[Anfield]], but initially Grujić's father was against his son moving to Liverpool.&lt;ref name="Novosti"&gt;{{cite web|url=http://www.kurir.rs/sport/fudbal/terzicu-ne-diraj-mi-sina-clanak-2069371|title=OTAC MARKA GRUJIĆA EKSKLUZIVNO ZA KURIR: Terziću, ne diraj mi sina|author=Aleksandar Radonić|language=Serbian|date=23 December 2015|accessdate=24 February 2016}}&lt;/ref&gt; Klopp's assistant, [[Željko Buvač]], flew to Belgrade to speak with Grujić and on 6 January 2016, it was confirmed that Grujić completed his move to [[Premier League]] side [[Liverpool F.C.|Liverpool]], signing a five-year deal for a reported fee of £5.1 million.&lt;ref&gt;{{cite web|last1=Bell|first1=Tom|title=Marko Grujic confirmed as Liverpool manager Jurgen Klopp's first signing|url=http://www.espnfc.com/story/2780433/marko-grujic-confirmed-as-liverpool-player|publisher=[[ESPN FC]]|accessdate=12 January 2016|date=6 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Marko Grujic: Liverpool sign Red Star Belgrade midfielder|url=https://www.bbc.com/sport/0/football/35244115|accessdate=6 January 2016|publisher=BBC Sport}}&lt;/ref&gt; Upon joining, Grujić hailed Klopp for convincing him to join and told the press, "I would choose Liverpool over [[Real Madrid C.F.|Real Madrid]] and [[FC Barcelona|Barcelona]]."&lt;ref&gt;{{Cite web|title = Marko Grujic reveals his Liverpool role, hints at Lazar Markovic's future – This Is Anfield|url = http://www.thisisanfield.com/2016/02/marko-grujic-reveals-his-liverpool-role-hints-at-markovic-future/|website = This Is Anfield|access-date = 24 February 2016|language = en-GB|first = Jack|last = Lusby}}&lt;/ref&gt;
+
+He was immediately loaned back to Red Star until the end of the season for a fee of £740,000, and won the [[Serbian SuperLiga|SuperLiga]] with Red Star while on loan. Grujić finished the season with 29 appearances, 6 goals, 7 assists and was voted into the SuperLiga Team of the Year for his contribution to Red Star's unbeaten season.
+
+On 20 August 2016, Grujić made his [[Premier League]] debut for [[Liverpool F.C.|Liverpool]] in a 2–0 loss against [[Burnley F.C.|Burnley]], coming on in the place of [[Adam Lallana]] in the 78th minute.&lt;ref&gt;{{Cite web|url=https://www.bbc.com/sport/football/37067882|title=Burnley 2–0 Liverpool|last=Bevan|first=Chris|date=20 August 2016|website=BBC.com|publisher=[[BBC]]|access-date=21 August 2016}}&lt;/ref&gt;
+
+====Loan to Cardiff City====
+On 17 January 2018, Grujić joined [[EFL Championship|Championship]] side [[Cardiff City F.C.|Cardiff City]] on loan for the remainder of the 2017–18 season.&lt;ref&gt;{{cite web |url=http://www.walesonline.co.uk/sport/football/transfer-news/liverpool-fc-star-marko-grujic-14167521 |title=Liverpool FC star Marko Grujic signs for Cardiff City and describes it as 'breakthrough moment' of his career |publisher=WalesOnline |author=Tom Coleman |date=17 January 2018 |accessdate=17 January 2018}}&lt;/ref&gt; He made his debut for the club three days later, playing in a 0–0 draw with [[Sheffield Wednesday F.C.|Sheffield Wednesday]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/42671933 |title=Sheffield Wednesday 0–0 Cardiff City |publisher=BBC Sport |date=20 January 2018 |accessdate=20 January 2018}}&lt;/ref&gt; Grujić's first goal for Cardiff came in a 2–1 home victory over [[Barnsley F.C.|Barnsley]] on 6 March 2018, scoring from range just after the start of the second half.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/43206633 |title=Cardiff City 2–1 Barnsley |publisher=BBC Sport |author=Dafydd Pritchard |date=6 March 2018 |accessdate=15 March 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Marko Grujic|url=https://www.premierleague.com/players/13985/Marko-Grujic/overview|publisher=Premier League|accessdate=31 January 2017}}&lt;/ref&gt;
+
+====Loan to Hertha BSC====
+On 19 August 2018, Grujić joined [[Bundesliga]] club [[Hertha BSC]] on a one-year loan.&lt;ref&gt;{{Cite web|title=Marko Grujic kommt aus Liverpool|trans-title=Marko Grujić joins from Liverpool|date=19 August 2018|accessdate=19 August 2018|publisher=[[Hertha BSC]]|url=https://www.herthabsc.de/de/intern/verpflichtung-marko-grujic/page/14925--17-17-.html}}&lt;/ref&gt; He scored his first goal for the club on 8 December, netting the only goal in a 1–0 win over [[Eintracht Frankfurt]].&lt;ref&gt;{{cite news|url=https://www.bundesliga.com/en/news/Bundesliga/hertha-berlin-eintracht-frankfurt-live-line-ups-stats-luka-jovic-rebic-ibisevic-fantasy-518406.jsp|title=Marko Grujic wins Hertha Berlin all three points against Eintracht Frankfurt|publisher=Bundesliga|date=8 December 2018|accessdate=9 December 2018}}&lt;/ref&gt; Hertha coach [[Pal Dardai]] hailed Grujić as "by far the best midfielder at Hertha Berlin in 20 years".&lt;ref&gt;{{cite news|title=Marko Grujic "by far the best midfielder at Hertha Berlin in 20 years" – Pal Dardai
+|date=10 December 2018|accessdate=10 December 2018|publisher=Bundesliga|url=https://www.bundesliga.com/en/news/Bundesliga/liverpool-s-marko-grujic-by-far-the-best-midfielder-hertha-berlin-dardai-518902.jsp}}&lt;/ref&gt;
+
+==International career==
+Grujić represented Serbia at all youth levels from under-16 to under-21, and was a member of the Serbia squad that won the [[2015 FIFA U-20 World Cup]] in [[New Zealand]].&lt;ref name="sky1"&gt;{{citeweb|url=http://www.skysports.com/football/news/11669/10107776/who-is-marko-grujic-we-profile-the-red-star-belgrade-youngster|title=Who is Marko Grujic? We profile Liverpool signing|publisher=skysports.com}}&lt;/ref&gt;
+
+In May 2016, Grujić made his full international debut for the [[Serbia national football team|Serbia national team]] after coming on in place of [[Nemanja Matić]] in a 2–1 win against [[Cyprus national football team|Cyprus]].&lt;ref&gt;{{cite web|url=http://www.fss.rs/index.php?id=2021&amp;aid=10348|title=Фудбалски савез Србије – званична веб презентација|website=www.fss.rs}}&lt;/ref&gt;
+
+In May 2018 he was named in Serbia's preliminary squad for the [[2018 FIFA World Cup]] in Russia.&lt;ref&gt;{{cite news |url=http://www.fss.rs/index.php?id=2021&amp;aid=13898 |title=Један тим, срцем свим – Младен Крстајић одабрао |trans-title=One team, with all their hearts – Mladen Krstajić selects |website=FSS.rs |publisher=[[Football Association of Serbia]] |date=24 May 2018 |access-date=24 May 2018 |language=Serbian}}&lt;/ref&gt;
+
+In June 2018 he was selected in Serbia's squad for the [[2018 FIFA World Cup|2018 World Cup]],&lt;ref&gt;{{cite web | url = https://www.bbc.com/sport/football/44083365 | title = World Cup 2018: All the confirmed squads for this summer's finals in Russia | publisher = BBC Sport | date = 4 June 2018 | accessdate = 25 June 2018}}&lt;/ref&gt; but he failed to make any appearances there.
+
+==Style of play==
+Standing at 6-foot-3-inches (1.91 m), Grujić has been described as "tall, rangy, comfortable on the ball and with a good range of passing" and dubbed the "new Matić" because of his likeness in both appearance and position to fellow Serbian defensive midfielder [[Nemanja Matić]].&lt;ref name="sky1"/&gt;
+
+==Career statistics==
+===Club===
+{{updated|end of 2017–18 season}}&lt;ref&gt;{{citeweb|url=https://int.soccerway.com/players/marko-gruji/270005/|title=Marko Grujić|publisher=soccerway.com}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!rowspan="2"|Division
+!colspan="2"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|[[UEFA|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Red Star Belgrade|Red Star]]
+|[[2012–13 Serbian SuperLiga|2012–13]]
+|rowspan="3"|[[Serbian SuperLiga]]
+|1||0||0||0||colspan="2"|—||0||0||colspan="2"|—||1||0
+|-
+|[[2014–15 Serbian SuperLiga|2014–15]]
+|9||0||1||0||colspan="2"|—||0||0||colspan="2"|—||10||0
+|-
+|[[2015–16 Serbian SuperLiga|2015–16]]
+|29||6||1||0||colspan="2"|—||0||0||colspan="2"|—||30||6
+|-
+!colspan="2"|Total
+!39!!6!!2!!0!!0!!0!!0!!0!!colspan="2"|—!!41!!6
+|-
+|[[FK Kolubara|Kolubara]] (loan)
+|[[2014–15 Serbian First League|2014–15]]
+|[[Serbian First League]]
+|5||2||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||2
+|-
+|rowspan="3"|[[Liverpool F.C.|Liverpool]]
+|[[2016-17 Liverpool F.C. season|2016–17]]
+|rowspan="2"|[[Premier League]]
+|5||0||0||0||3||0||colspan="2"|—||colspan="2"|—||8||0
+|-
+|[[2017-18 Liverpool F.C. season|2017–18]]
+|3||0||0||0||1||0||2||0||colspan="2"|—||6||0
+|-
+!colspan="2"|Total
+!8!!0!!0!!0!!4!!0!!2!!0!!colspan="2"|—!!14!!0
+|-
+|[[Cardiff City F.C.|Cardiff City]] (loan)
+|[[2017-18 Cardiff City F.C. season|2017–18]]
+|[[EFL Championship|Championship]]
+|13||1||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||14||1
+|-
+!colspan="3"|Career Total
+!65!!9!!3!!0!!4!!0!!2!!0!!colspan="2"|—!!74!!9
+|}
+
+===International===
+{{updated|9 June 2018|&lt;ref&gt;{{cite web|url=https://eu-football.info/_player.php?id=29380|title=Marko Grujić|publisher=European Football|date=24 June 2018}}&lt;/ref&gt;}}
+
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Serbia national football team|Serbia]]
+|-
+!Year!!Apps!!Goals
+|-
+|2016||3||0
+|-
+|2017||1||0
+|-
+|2018||4||0
+|-
+!Total||8||0
+|}
+
+==Honours==
+===Club===
+'''Red Star Belgrade'''
+*[[Serbian SuperLiga]]: [[2015–16 Serbian SuperLiga|2015–16]]
+
+'''Cardiff City'''
+*[[EFL Championship]] runner-up: [[2017–18 EFL Championship|2017–18]]&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Football Yearbook 2018–2019 |year=2018 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-6106-9 |pages=106–107}}&lt;/ref&gt;
+
+===International===
+'''Serbia U20'''
+*[[FIFA U-20 World Cup]]: [[2015 FIFA U-20 World Cup|2015]]
+
+===Individual===
+*[[Serbian SuperLiga Team of the Season]]: [[Serbian SuperLiga Team of the Season#2015–16|2015–16]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.liverpoolfc.com/team/first-team/player/marko-grujic Liverpool F.C. profile]
+*{{Soccerbase}}
+
+&lt;!-- {{Liverpool F.C. squad}} --&gt;
+{{Hertha BSC squad}}
+{{Serbia squad 2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Grujic, Marko}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Belgrade]]
+[[Category:Association football midfielders]]
+[[Category:Serbian footballers]]
+[[Category:Serbia international footballers]]
+[[Category:Serbia under-21 international footballers]]
+[[Category:Serbia youth international footballers]]
+[[Category:Red Star Belgrade footballers]]
+[[Category:FK Kolubara players]]
+[[Category:Serbian SuperLiga players]]
+[[Category:Liverpool F.C. players]]
+[[Category:Cardiff City F.C. players]]
+[[Category:Hertha BSC players]]
+[[Category:Serbian expatriate sportspeople in England]]
+[[Category:Serbian expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:Bundesliga players]]</text>
+      <sha1>79199ztq1c1fl8detlopubh0yt5ozw5</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,337 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Benjamin Mendy</title>
+    <ns>0</ns>
+    <id>32696158</id>
+    <revision>
+      <id>885260661</id>
+      <parentid>885133569</parentid>
+      <timestamp>2019-02-26T23:32:17Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted to revision 885086487 by [[Special:Contributions/Orphan Wiki|Orphan Wiki]] ([[User talk:Orphan Wiki|talk]]): Unsourced ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27729">{{Use dmy dates|date=August 2018}}
+{{Infobox football biography
+| name = Benjamin Mendy
+| image = U-19 EC-Qualifikation Austria vs. France 2013-06-10 (057) (cropped).jpg
+| image_size = 
+| caption = Mendy playing for [[France national under-19 football team|France U19]] in 2013
+| fullname = Benjamin Mendy&lt;ref name=Legion&gt;{{cite journal |date=1 January 2019 |title=Décret du 31 décembre 2018 portant promotion et nomination |url=https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037909703 |journal=Journal officiel de la République française |volume=2019 |issue=0001 |page=6 |id=PRER1835394D |accessdate=11 January 2019}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1994|7|17|df=y}}&lt;ref name=FIFA&gt;{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=FIFA World Cup Russia 2018: List of players: France |publisher=FIFA |format=PDF |page=11 |date=15 July 2018 |accessdate=11 January 2019}}&lt;/ref&gt;
+| birth_place = [[Longjumeau]], France
+| height = 1.83 m&lt;ref name=FIFA/&gt;
+| position = [[Left back]]
+| currentclub = [[Manchester City F.C.|Manchester City]]
+| clubnumber = 22
+| youthyears1 = 2000–2007
+| youthclubs1 = Palaiseau
+| youthyears2 = 2007–2011
+| youthclubs2 = [[Le Havre AC|Le Havre]]
+| years1 = 2010–2013
+| clubs1 = [[Le Havre AC|Le Havre II]]
+| caps1 = 12
+| goals1 = 0
+| years2 = 2011–2013
+| clubs2 = [[Le Havre AC|Le Havre]]
+| caps2 = 57
+| goals2 = 0
+| years3 = 2013–2016
+| clubs3 = [[Olympique de Marseille|Marseille]]
+| caps3 = 81
+| goals3 = 2
+| years4 = 2013–2014
+| clubs4 = [[Olympique de Marseille|Marseille II]]
+| caps4 = 2
+| goals4 = 0
+| years5 = 2016–2017
+| clubs5 = [[AS Monaco FC|Monaco]]
+| caps5 = 25
+| goals5 = 0
+| years6 = 2017–
+| clubs6 = [[Manchester City F.C.|Manchester City]]
+| caps6 = 15
+| goals6 = 0
+| nationalyears1 = 2009–2010
+| nationalteam1 = [[France national under-16 football team|France U16]]
+| nationalcaps1 = 15
+| nationalgoals1 = 1
+| nationalyears2 = 2010–2011
+| nationalteam2 = [[France national under-17 football team|France U17]]
+| nationalcaps2 = 17
+| nationalgoals2 = 1
+| nationalyears3 = 2011–2012
+| nationalteam3 = [[France national under-18 football team|France U18]]
+| nationalcaps3 = 5
+| nationalgoals3 = 1
+| nationalyears4 = 2012–2013
+| nationalteam4 = [[France national under-19 football team|France U19]]
+| nationalcaps4 = 12
+| nationalgoals4 = 0
+| nationalyears5 = 2014–2016
+| nationalteam5 = [[France national under-21 football team|France U21]]
+| nationalcaps5 = 9
+| nationalgoals5 = 0
+| nationalyears6 = 2017–
+| nationalteam6 = [[France national football team|France]]
+| nationalcaps6 = 9
+| nationalgoals6 = 0
+| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|FRA}}}}
+{{Medal|Comp|[[FIFA World Cup]]}}
+{{Medal|W|[[2018 FIFA World Cup|2018 Russia]]|}}
+| pcupdate = 19:39, 4 November 2018 (UTC)
+| ntupdate = 14:56, 18 September 2018 (UTC)
+}}
+'''Benjamin Mendy''' ({{IPA-fr|bɛ̃.ʒa.mɛ̃ mɑ̃.di}}; born 17 July 1994) is a French professional [[Association football|footballer]] who plays as a [[left back]] for {{English football updater|ManchesC}} club [[Manchester City F.C.|Manchester City]] and the [[France national football team|French national team]].
+
+After coming through [[Le Havre AC|Le Havre]]'s youth academy, Mendy began his playing career with the club's reserve side in 2010, eventually being promoted to the first team a year later. He remained with the club until 2013, when he joined [[Ligue 1]] side [[Olympique de Marseille|Marseille]]. Mendy spent the next three seasons with ''Les Olympiens'' before leaving for [[AS Monaco FC|Monaco]], with whom he won the [[List of Ligue 1 champions|national championship]] in [[2016–17 Ligue 1|2016–17]]. In the summer of 2017, Mendy moved to the English club Manchester City on a then world-record transfer fee for a defender. He subsequently won the Premier League in [[2017–18 Manchester City F.C. season|his first season]] in England.
+
+Mendy made his senior debut for France in 2017 after previously being [[Cap (sport)|capped]] by [[France national youth football team|France youth teams]] at [[France national under-16 football team|under-16]], [[France national under-17 football team|under-17]], [[France national under-18 football team|under-18]], [[France national under-19 football team|under-19]] and [[France national under-21 football team|under-21]] levels. He was chosen in France's squad for the [[2018 FIFA World Cup|2018 World Cup]] which they won.
+
+==Club career==
+===Le Havre===
+On 24 July 2011, Mendy signed his first professional contract,  a three-year contract with [[Ligue 2]] club [[Le Havre AC|Le Havre]].&lt;ref&gt;{{cite news | url = http://www.hac-foot.com/actualite/benjamin-mendy-signe-pro-pour-3-saisons.html | title = Benjamin Mendy signe pro pour 3 saisons | date = 24 July 2011 | work = [[Le Havre AC]] | accessdate = 9 August 2011 | language = French}}&lt;/ref&gt; Mendy made his professional debut on 9 August 2011 in the team's 2–1 [[2011–12 Coupe de la Ligue|Coupe de la Ligue]] second round defeat to [[Amiens SC|Amiens]].&lt;ref&gt;{{cite news|title=Amiens v. Le Havre Report |url=http://new.lfp.fr/coupeLigue/feuille_match/75258 |work=[[Ligue de Football Professionnel]] |date=9 August 2011 |accessdate=9 August 2011 |language=French |deadurl=yes |archiveurl=https://web.archive.org/web/20120916073327/http://new.lfp.fr/coupeLigue/feuille_match/75258 |archivedate=16 September 2012 |df=dmy }}&lt;/ref&gt;
+
+===Marseille===
+On 8 July 2013, Mendy signed for [[Ligue 1]] side [[Olympique de Marseille]].&lt;ref&gt;{{cite news |title=Transfer news: Marseille agree deal for Sunderland target Benjamin Mendy|url=http://www.skysports.com/football/news/11695/8814061/transfer-news-marseille-agree-deal-for-sunderland-target-benjamin-mendy|website=Sky Sports|date=8 July 2013 |accessdate=16 March 2017 }}&lt;/ref&gt; Mendy was signed by manager [[Élie Baup]], who led Marseille to a second place finish and qualification for the [[2013–14 UEFA Champions League]] in the previous season.&lt;ref&gt;{{cite web |url=http://www.africatopsports.com/2013/07/13/elie-baup-benjamin-mendy-est-un-joueur-davenir/ |title=ELIE BAUP : " BENJAMIN MENDY EST UN JOUEUR D'AVENIR " |work=Africa Top Sports |first=Isidore |last=Akouete |date=13 July 2013 |language=fr}}&lt;/ref&gt; He made his club and Ligue 1 debut on 11 August against [[En Avant de Guingamp|Guingamp]], and scored his first goal for Marseille on 24 September against [[AS Saint-Étienne|Saint-Étienne]]. Mendy was in the squad for all six [[2013–14 UEFA Champions League#Group stage|group stage]] matches, and made his European debut on 1 October at [[Borussia Dortmund]]. However, Marseille lost all their group stage matches while falling out of the competition, and Baup was sacked in favor of former club manager [[José Anigo]].&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/football/25282768 |title=Elie Baup sacked as Marseille manager |work=BBC Sport |date=7 December 2013}}&lt;/ref&gt; Mendy was sparingly used toward the end of the season by Anigo, and made just one start in Marseille's final fourteen games. His performance in the start, against [[Lille OSC|Lille]] on 20 April 2014, was criticized by former Marseille left-back [[Éric Di Meco]], who claimed he would "eat a rat" if Mendy ever made the [[France national football team|French national team]].&lt;ref&gt;{{cite web |url=http://www.lephoceen.fr/infos-om/decla/di-meco-prend-les-paris-contre-mendy-l-ancien-defenseur-marseillais-tacle-benjamin-mendy-125264 |title=Di Meco prend les paris contre Mendy |work=Le Phocéen |date=22 April 2014 |language=fr}}&lt;/ref&gt; After the season, Mendy was included on the 40-man shortlist for the 2014 [[Golden Boy (award)|Golden Boy]] award.&lt;ref&gt;{{cite web |url=https://www.theguardian.com/football/2014/oct/30/five-english-players-shortlist-golden-boy |title=Five English players on 40-man shortlist for Golden Boy award |work=The Guardian |first=Ed |last=Aarons |date=30 October 2014}}&lt;/ref&gt;
+
+Mendy developed his game the following season under Argentinian manager [[Marcelo Bielsa]], as Mendy claimed Bielsa had "given back to him the strength and aggressiveness lost last year."&lt;ref&gt;{{cite web |url=http://www.leparisien.fr/espace-premium/sports/benjamin-mendy-en-toute-insouciance-20-12-2014-4388823.php |title=Benjamin Mendy en toute insouciance |work=[[Le Parisien]] |date=20 December 2014 |language=fr}}&lt;/ref&gt; Mendy made 33 starts in the league in the [[2014–15 Ligue 1|2014–15]] campaign, getting 6 assists as well as Marseille qualified for the [[2015–16 UEFA Europa League#Group stage|Europa League]]. On 23 September 2015, Mendy was shown a straight red card shortly after coming on as a substitute against [[Toulouse FC|Toulouse]], after he committed a professional foul on Toulouse's [[Jean-Daniel Akpa-Akpro]].&lt;ref&gt;{{cite web |url=http://www.espnfc.com/report?gameId=424679 |title=Toulouse 1-1 Marseille |work=ESPN FC |author=PA Sport |date=23 September 2015}}&lt;/ref&gt; Mendy would be given a two-match ban, and later missed a further 13 games for Marseille after picking up a hamstring injury against [[SM Caen|Caen]] in the [[2015–16 Coupe de France#Round of 64|Coupe de France]] on 3 January 2016.&lt;ref&gt;{{cite web |url=http://www.ligue1.com/ligue1/article/mendy-joins-om-injury-list.htm |title=MENDY JOINS OM INJURY LIST |work=Ligue 1 |date=6 January 2016}}&lt;/ref&gt;
+
+Mendy played for five different managers in three seasons at the [[Stade Vélodrome]]. He made 101 competitive appearances with the club and had 14 assists to his name.
+
+===Monaco===
+On 22 June 2016, Olympique de Marseille's Ligue 1 rivals [[AS Monaco FC|Monaco]] announced that they had signed Mendy on a five-year contract.&lt;ref&gt;{{cite news |title=Benjamin Mendy signs on a five-year contract|url=http://www.asmonaco.com/en/article/benjamin-mendy-signs-on-a-five-year-contract-7293.html|website=AS Monaco|date=22 June 2016 |accessdate=22 June 2016 }}&lt;/ref&gt; Mendy made his debut for the club in the first leg of the Champions League [[2016–17 UEFA Champions League#Third qualifying round|third round]] against Turkish side [[Fenerbahçe S.K. (football)|Fenerbahçe]] on 27 July. On 18 December against [[Olympique Lyonnais|Lyon]] in Ligue 1, Mendy was shown a red card for kicking at the backside of Lyon midfielder [[Corentin Tolisso]]. This was his second dismissal of the season after he was sent off in the [[2016–17 UEFA Champions League#Play-off round|play-off round]] of the Champions League against [[Villarreal CF|Villarreal]].&lt;ref&gt;{{cite web |url=http://www.dailymail.co.uk/sport/football/article-4046616/Monaco-1-3-Lyon-Benjamin-Mendy-sees-red-Alexandre-Lacazette-caps-fine-away-win-Principality.html |title=Monaco 1-3 Lyon: Benjamin Mendy sees red as Alexandre Lacazette caps fine away win in the Principality |work=Daily Mail |first=Ben |last=Grounds |date=18 December 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.thesun.co.uk/sport/1634245/mendy-says-sorry-after-being-sent-off-in-monacos-champions-league-play-off-first-leg-victory-2-1-against-villarreal/ |title=Mendy says 'sorry' after being sent off in Monaco's Champions League play-off first leg victory (2-1) against Villarreal |work=The Sun |first=Dylan |last=Legrand |date=18 August 2016}}&lt;/ref&gt; Mendy was banned five matches for the incident, later reduced to four as he made his return against [[FC Lorient|Lorient]] on 22 January 2017.&lt;ref&gt;{{cite web |url=https://uk.reuters.com/article/uk-soccer-france-mon-mendy/as-monaco-defender-mendy-banned-for-five-matches-idUKKBN14C1O0 |title=AS Monaco defender Mendy banned for five matches |work=Reuters |first=Silvia |last=Recchimuzzi |date=23 December 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.lequipe.fr/Football/Actualites/Benjamin-mendy-de-retour-de-suspension-avec-monaco/770940 |title=Benjamin Mendy de retour de suspension avec Monaco |work=[[L'Équipe]] |date=21 January 2017 |language=fr}}&lt;/ref&gt;
+
+On 4 February, Mendy [[assist (football)|assisted]] two of Monaco's goals by [[cross (football)|crossing]] the ball to the scorers [[Valère Germain]] and [[Radamel Falcao]] in their 3–0 Ligue 1 home win over [[OGC Nice]].&lt;ref&gt;{{cite news|url=http://www.ligue1.com/ligue1/article/falcao-at-the-double-as-monaco-power-on.htm|title=Falcao at the double as Monaco power on|date=4 February 2017|work=www.ligue1.com}}&lt;/ref&gt; Mendy scored his first goal for Monaco in the [[2016–17 Coupe de France#Round of 16|Coupe de France]] against former club Marseille on 1 March. The goal, scored in extra time, gave Monaco a 3–2 lead, as Mendy also provided two assists in the 4–3 victory.&lt;ref&gt;{{cite web |url=http://www.eurosport.com/football/coupe-de-france/2016-2017/monaco-down-marseille-in-french-cup-thriller-psg-through_sto6077251/story.shtml |title=Monaco down Marseille in French Cup thriller, PSG through |work=Eurosport |author=Reuters |date=2 March 2017}}&lt;/ref&gt; Monaco made a run to the semi-finals of the Champions League, and Mendy provided 4 assists in the campaign before they were eliminated by [[Juventus F.C.|Juventus]].
+
+Mendy was a key part of Monaco's [[2016–17 Ligue 1]] championship season, making 24 starts in the league for ''Les Monégasques'' under manager [[Leonardo Jardim]]. Monaco scored a league-leading 107 goals during the season, and Mendy was noted along with fellow [[Defender (association football)#Full-back|full-back]] [[Djibril Sidibé (footballer, born 1992)|Djibril Sidibe]] for their forward play.&lt;ref name="reuters"&gt;{{cite web |url=http://uk.reuters.com/article/uk-soccer-france-amo-ste/monaco-claim-first-title-in-17-years-with-st-etienne-win-idUKKCN18D2ON |title=Monaco claim first title in 17 years with St Etienne win |work=Reuters |first=Julien |last=Pretot |date=17 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://bleacherreport.com/articles/2707470-monaco-win-2016-17-ligue-1-title-after-2-0-win-vs-saint-etienne |title=Monaco Win 2016-17 Ligue 1 Title After 2-0 Win vs. Saint-Etienne |work=Bleacher Report |first=Matt |last=Jones |date=17 May 2017}}&lt;/ref&gt; On 16 May, Mendy was named to the [[Trophées UNFP du football|2017 UNFP Team of the Year]], along with 5 of his teammates.&lt;ref&gt;{{cite web |url=https://frenchfootballdaily.com/2017/05/ligue-1-team-of-the-season-2016-17-official-unfp-team-of-the-year-2017/ |title=Ligue 1 Team of the Season 2016-17 Official- UNFP Team of the Year 2017 |work=French Football Daily |date=16 May 2017}}&lt;/ref&gt; The next day, Monaco clinched the Ligue 1 title against [[AS Saint-Étienne|Saint-Étienne]] on the penultimate day of the season, their first in 17 seasons in what would be Mendy's final game with the club.&lt;ref name="reuters"/&gt; After the season, Mendy was part of the exodus away from the [[Stade Louis II]] that included starlets [[Bernardo Silva]], [[Tiemoué Bakayoko]], and later [[Kylian Mbappé]].&lt;ref&gt;{{cite web |url=https://www.theguardian.com/football/2017/jul/25/monaco-benjamin-mendy-tiemoue-bakayoko-bernardo-silva-ligue-1 |title=How will Monaco cope after losing so many of their title-winning stars? |work=The Guardian |first=Eric |last=Devin |date=25 July 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.espnfc.com/story/3190925/kylian-mbappe-signs-for-paris-saint-germain-from-monaco |title=Monaco star Kylian Mbappe, 18, follows Neymar in moving to PSG in huge deal |work=ESPN FC |first=Jonathan |last=Johnson |date=31 August 2017}}&lt;/ref&gt;
+
+===Manchester City===
+On 24 July 2017, it was announced that [[Premier League]] side [[Manchester City F.C.|Manchester City]] had signed Mendy on a five-year contract,&lt;ref&gt;{{Cite news|title=Man City sign Benjamin Mendy|url=https://www.mancity.com/news/first-team/first-team-news/2017/july/benjamin-mendy-signs-manchester-city|date=24 July 2017 |accessdate=24 July 2017|publisher=Manchester City Official Website}}&lt;/ref&gt; for a fee reported to be £52m.&lt;ref&gt;{{cite web|title=Benjamin Mendy: Man City sign Monaco defender for £52m|url=https://www.bbc.co.uk/sport/football/40691689|publisher=[[BBC Sport]]|accessdate=24 July 2017}}&lt;/ref&gt; The transfer fee eclipsed the previous record for a defender, set 10 days prior by City on teammate [[Kyle Walker]]. On 23 September, Mendy sustained an injury against [[Crystal Palace F.C.|Crystal Palace]], hurting his right knee on a challenge against Palace forward [[Andros Townsend]].&lt;ref&gt;{{cite web |url=http://bleacherreport.com/articles/2725005-benjamin-mendy-suffers-knee-injury-vs-crystal-palace |title=Benjamin Mendy Suffers Knee Injury vs. Crystal Palace |work=Bleacher Report |first=Tom |last=Sunderland |date=23 September 2017}}&lt;/ref&gt; The club later confirmed that Mendy had ruptured the [[anterior cruciate ligament]] in his knee, and he underwent surgery in [[Barcelona]] on 29 September.&lt;ref&gt;{{cite web |url=https://www.theguardian.com/football/2017/sep/28/benjamin-mendy-manchester-city-rupture-cruciate-ligament-injury |title=Manchester City confirm Benjamin Mendy has ruptured ACL in right knee |work=The Guardian |first=Jamie |last=Jackson |date=28 September 2017}}&lt;/ref&gt; Despite a lack of game time, Mendy became popular with Manchester City supporters due to a series of well-received [[social media]] posts.&lt;ref&gt;{{Cite news|url=http://www.dailymail.co.uk/sport/football/article-4899050/Benjamin-Mendy-Football-s-new-king-social-media.html|title=Benjamin Mendy: Football's new king of social media|work=Mail Online|access-date=10 May 2018}}&lt;/ref&gt; He returned from injury on 22 April 2018 as a 75th minute substitute for [[Fabian Delph]] in a game against [[Swansea City A.F.C.|Swansea City]] at the [[City of Manchester Stadium]].&lt;ref&gt;{{cite web|url=https://www.independent.co.uk/sport/football/premier-league/manchester-city-premier-league-benjamin-mendy-injury-return-fabian-delph-form-a8319171.html|title=Benjamin Mendy eager to City place back as he hails Fabian Delph's form in his absence|publisher=}}&lt;/ref&gt; This appearance gave him the minimum 5 league games required to receive a [[Premier League]] winners' medal. In the 2018/19 season, Mendy played in 10 of the first 12 [[Premier League]] games for [[Manchester City F.C.|Manchester City]], assisting 5 goals in the process.&lt;ref&gt;{{Cite web|url=https://www.premierleague.com/players/5575/Benjamin-Mendy/stats?co=1&amp;se=210|title=Benjamin Mendy Statistics {{!}} Premier League|website=www.premierleague.com|language=en|access-date=2018-11-15}}&lt;/ref&gt; On the 14th November 2018, just days after the 3-1 win against [[Manchester United F.C.|Manchester United]], it was announced Mendy had once again undergone surgery&lt;ref&gt;{{Cite web|url=https://www.mancity.com/news/first-team/first-team-news/2018/november/man-city-benjamin-mendy-injury-news-latest-france|title=Mendy undergoes knee surgery|website=MCFC|language=en|access-date=2018-11-15}}&lt;/ref&gt; in [[Barcelona]] for a [[cartilage]] problem in his left knee, and he was expected to be out for 12 weeks.&lt;ref&gt;{{cite web |last1=Lee |first1=Sam |title=Mendy out for up to three months with latest knee injury |url=https://www.goal.com/en-gb/news/manchester-city-defender-mendy-out-for-12-weeks/185ptg2oz2hdy10i2lvv43k42u |website=[[Goal (website)|Goal]] |accessdate=23 November 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:Benjamin Mendy World Cup Trophy.jpg|200px|thumb|Mendy (centre) holding the [[FIFA World Cup Trophy]]]]
+
+===Youth===
+Mendy is a [[France national youth football team|French youth international]] having represented his nation at [[France national under-16 football team|under-16]] and [[France national under-17 football team|under-17]] level. In 2011, he was a part of the under-17 team that reached the quarter-finals at the [[2011 FIFA U-17 World Cup|2011 U-17 World Cup]].
+
+===Senior===
+Mendy was called up to the senior [[France national football team|France]] squad for the first time to face [[Luxembourg national football team|Luxembourg]] and [[Spain national football team|Spain]] in March 2017.&lt;ref&gt;{{cite news|title=Monaco star Mbappé given maiden France call-up|url=http://www.goal.com/en/news/8/main/2017/03/16/33699112/monaco-star-mbappe-given-maiden-france-call-up?ICID=HP_BN_3|accessdate=16 March 2017|publisher=goal.com|date=16 March 2017}}&lt;/ref&gt; He made his debut on 25 March 2017 against the former, playing the whole game in a 3–1 [[2018 FIFA World Cup qualification (UEFA)|2018 World Cup qualification]] away win.&lt;ref name="soccerway1"&gt;{{cite web|url=https://int.soccerway.com/matches/2017/03/25/europe/wc-qualifying-europe/luxembourg/france/2116195/|title=Luxembourg vs. France – 25 March 2017 – Soccerway|publisher=soccerway.com|accessdate=25 March 2017}}&lt;/ref&gt;
+
+On 17 May 2018, he was called up to the French squad for the [[2018 FIFA World Cup|2018 World Cup]] in [[Russia]].&lt;ref&gt;{{cite web |url=http://www.skysports.com/football/news/12025/11376691/alexandre-lacazette-and-anthony-martial-on-standby-for-france-world-cup-squad-and-dimitri-payet-out |title=Alexandre Lacazette and Anthony Martial on standby for France World Cup squad and Dimitri Payet out |date=21 May 2018 |publisher=Sky Sports |author=Andy Charles |accessdate=18 September 2018}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 4 November 2018}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup{{efn|Includes [[Coupe de France]] and [[FA Cup]]}}
+!colspan="2"|League Cup{{efn|Includes [[Coupe de la Ligue]] &lt;!--and [[EFL Cup]]--&gt;}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Le Havre AC|Le Havre II]]
+|[[2010–11 Championnat de France Amateur|2010–11]]&lt;ref name="SW"&gt;{{soccerway|benjamin-mendy/162509|accessdate=1 March 2017}}&lt;/ref&gt;
+|[[Championnat National 2|CFA]]
+|10||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||10||0
+|-
+|[[2012–13 Championnat de France Amateur|2012–13]]&lt;ref name="SW"/&gt;
+|CFA
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+!colspan="2"|Total
+!12||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||12||0
+|-
+|rowspan="3"|[[Le Havre AC|Le Havre]]
+|[[2011–12 Ligue 2|2011–12]]&lt;ref name="SW"/&gt;
+|[[Ligue 2]]
+|29||0||2||0||1||0||colspan="2"|—||colspan="2"|—||32||0
+|-
+|[[2012–13 Ligue 2|2012–13]]&lt;ref name="SW"/&gt;
+|Ligue 2
+|28||0||3||0||1||0||colspan="2"|—||colspan="2"|—||32||0
+|-
+!colspan="2"|Total
+!57||0||5||0||2||0||colspan="2"|—||colspan="2"|—||64||0
+|-
+|rowspan="4"|[[Olympique de Marseille|Marseille]]
+|[[2013–14 Olympique de Marseille season|2013–14]]&lt;ref name="SW"/&gt;
+|[[Ligue 1]]
+|24||1||2||0||2||1||2{{efn|name=UCL|Appearance(s) in [[UEFA Champions League]]}}||0||colspan="2"|—||30||2
+|-
+|[[2014–15 Olympique de Marseille season|2014–15]]&lt;ref name="SW"/&gt;
+|Ligue 1
+|33||0||1||0||1||0||colspan="2"|—||colspan="2"|—||35||0
+|-
+|[[2015–16 Olympique de Marseille season|2015–16]]&lt;ref name="SW"/&gt;
+|Ligue 1
+|24||1||4||0||1||0||7{{efn|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||36||1
+|-
+!colspan="2"|Total
+!81||2||7||0||4||1||9||0||colspan="2"|—||101||3
+|-
+|[[Olympique de Marseille|Marseille II]]
+|[[2013–14 Championnat de France Amateur 2|2013–14]]&lt;ref name="SW"/&gt;
+|[[Championnat National 3|CFA2]]
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[AS Monaco FC|Monaco]]
+|[[2016–17 AS Monaco FC season|2016–17]]&lt;ref name="SW"/&gt;
+|Ligue 1
+|25||0||2||1||2||0||10{{efn|name=UCL}}||0||colspan="2"|—||39||1
+|-
+|rowspan="3"|[[Manchester City F.C.|Manchester City]]
+|[[2017–18 Manchester City F.C. season|2017–18]]&lt;ref name="sb1718"&gt;{{soccerbase season|71242|2017|accessdate=8 August 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|7||0||0||0||0||0||1{{efn|name=UCL}}||0||colspan="2"|—||8||0
+|-
+|[[2018–19 Manchester City F.C. season|2018–19]]&lt;ref name="sb1819"&gt;{{soccerbase season|71242|2018|accessdate=8 August 2018}}&lt;/ref&gt;
+|Premier League
+|8||0||0||0||0||0||1{{efn|name=UCL}}||0||1{{efn|Appearance in [[FA Community Shield]]}}||0||10||0
+|-
+!colspan="2"|Total
+!15||0||0||0||0||0||2||0||1||0||18||0
+|-
+!colspan="3"|Career total
+!192||2||14||1||8||1||21||0||1||0||236||4
+|}
+
+{{notelist}}
+
+===International===
+&lt;!--NOTE: when updating stats, update the infobox too! --&gt;
+{{updated|match played 9 September 2018}}&lt;ref&gt;{{cite web|url=http://eu-football.info/_player.php?id=29793|title=Benjamin Mendy – national football team player|publisher=EU-Football.info|accessdate=17 September 2018}}&lt;/ref&gt;&lt;ref name="NFT"&gt;{{NFT player|id=67590|name=Mendy, Benjamin|accessdate=18 September 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[France national football team|France]]
+|2017||4||0
+|-
+|2018||5||0
+|-
+!colspan="2"|Total
+!9||0
+|}
+
+==Honours==
+===Club===
+'''Monaco'''
+*[[Ligue 1]]: [[2016–17 Ligue 1|2016–17]]
+
+'''Manchester City'''
+*[[Premier League]]: [[2017–18 Premier League|2017–18]]&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/5575/Benjamin-Mendy/overview |title=Benjamin Mendy: Overview |publisher=Premier League |accessdate=15 May 2018}}&lt;/ref&gt;
+*[[FA Community Shield]]: [[2018 FA Community Shield|2018]]&lt;ref name=shield2018&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44995783 |title=Chelsea 0&amp;ndash;2 Manchester City |last1=Bevan |first1=Chris |date=5 August 2018 |publisher=BBC Sport |access-date=5 August 2018}}&lt;/ref&gt;
+
+===International===
+'''France'''
+*[[FIFA World Cup]]: [[2018 FIFA World Cup|2018]]&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/44754965|title=France 4–2 Croatia|publisher=BBC |date=15 July 2018|access-date=15 July 2018|last=McNulty|first=Phil}}&lt;/ref&gt;
+
+===Individual===
+*UNFP Ligue 1 [[Trophées UNFP du football#Team of the Year|Team of the Year]]: [[Trophées UNFP du football#2017|2016–17]]&lt;ref&gt;{{cite news|url=http://sport24.lefigaro.fr/football/ligue-1/fil-info/trophees-unfp-le-palmares-complet-de-l-edition-2017-859420|title=Trophées UNFP : Le Palmarès Complet de l'Édition 2017|accessdate=15 May 2017}}&lt;/ref&gt;
+
+===Orders===
+*[[Chevalier of the Légion d'honneur]]: 2018&lt;ref name=Legion/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Benjamin Mendy}}
+*[http://www.asmonaco.com/en/player/benjamin-mendy-2401.html Monaco profile]
+*[http://www.fff.fr/equipes-de-france/tous-les-joueurs/fiche-joueur/2308102113-benjamin-mendy France profile] at FFF
+*{{LFP|id=mendy-benjamin}}
+*{{Lequipe|id=36917}}
+*{{Soccerbase}}
+
+{{Manchester City F.C. squad}}
+{{France squad 2018 FIFA World Cup}}
+{{2016–17 Ligue 1 UNFP Team of the Year}}
+
+{{DEFAULTSORT:Mendy, Benjamin}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:People from Longjumeau]]
+[[Category:Sportspeople from Essonne]]
+[[Category:French footballers]]
+[[Category:Association football defenders]]
+[[Category:French expatriate sportspeople in Monaco]]
+[[Category:French expatriate sportspeople in England]]
+[[Category:French people of Senegalese descent]]
+[[Category:Le Havre AC players]]
+[[Category:Olympique de Marseille players]]
+[[Category:AS Monaco FC players]]
+[[Category:Manchester City F.C. players]]
+[[Category:France youth international footballers]]
+[[Category:France under-21 international footballers]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Expatriate footballers in Monaco]]
+[[Category:Expatriate footballers in England]]
+[[Category:Premier League players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:France international footballers]]
+[[Category:FIFA World Cup-winning players]]
+[[Category:Black French sportspeople]]
+[[Category:Chevaliers of the Légion d'honneur]]</text>
+      <sha1>8xtt30mfeeg5x73q5oxzqcyup6jamui</sha1>
+    </revision>
+  </page>
+</mediawiki>

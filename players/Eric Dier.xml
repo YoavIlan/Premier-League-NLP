@@ -1,0 +1,343 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Eric Dier</title>
+    <ns>0</ns>
+    <id>30544818</id>
+    <revision>
+      <id>885486051</id>
+      <parentid>885477662</parentid>
+      <timestamp>2019-02-28T09:20:18Z</timestamp>
+      <contributor>
+        <username>Materialscientist</username>
+        <id>7852030</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/77.28.167.240|77.28.167.240]] identified as test/vandalism using [[WP:STiki|STiki]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="37376">{{Use British English|date=July 2013}}
+{{Use dmy dates|date=January 2018}}
+{{Infobox football biography
+| name                = Eric Dier
+| image               = Eric Dier 2018-06-28 1.jpg
+| image_size          = 200
+| caption             = Dier playing for [[England national football team|England]] at the [[2018 FIFA World Cup]]
+| fullname            = Eric Jeremy Edgar Dier&lt;ref&gt;{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=FIFA World Cup Russia 2018: List of players: England |publisher=FIFA |format=PDF |page=10 |date=15 July 2018 |accessdate=12 October 2018}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1994|1|15|df=y}}&lt;ref&gt;{{Hugman|26595|accessdate=28 March 2016}}&lt;/ref&gt;
+| birth_place         = [[Cheltenham]], England
+| height              = {{convert|1.88|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/4112/Eric-Dier/overview |title=Eric Dier: Overview |publisher=Premier League |accessdate=10 December 2017}}&lt;/ref&gt;
+| position            = [[Defender (association football)|Defender]] / [[Defensive midfielder]]
+| currentclub         = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| clubnumber          = 15
+| youthyears1         = 2003–2012
+| youthclubs1         = [[Sporting CP]]
+| youthyears2         = 2011–2012
+| youthclubs2         = → [[Everton F.C.|Everton]] (loan)
+| years1              = 2012–2014
+| clubs1              = [[Sporting CP B]]
+| caps1               = 16
+| goals1              = 2
+| years2              = 2012–2014
+| clubs2              = [[Sporting CP]]
+| caps2               = 27
+| goals2              = 1
+| years3              = 2014–
+| clubs3              = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| caps3               = 150
+| goals3              = 9
+| nationalyears1      = 2011
+| nationalteam1       = [[England national under-18 football team|England U18]]
+| nationalcaps1       = 1
+| nationalgoals1      = 0
+| nationalyears2      = 2012–2013
+| nationalteam2       = [[England national under-19 football team|England U19]]
+| nationalcaps2       = 8
+| nationalgoals2      = 0
+| nationalyears3      = 2013–2014
+| nationalteam3       = [[England national under-20 football team|England U20]]
+| nationalcaps3       = 6
+| nationalgoals3      = 0
+| nationalyears4      = 2013–2015
+| nationalteam4       = [[England national under-21 football team|England U21]]
+| nationalcaps4       = 9
+| nationalgoals4      = 0
+| nationalyears5      = 2015–
+| nationalteam5       = [[England national football team|England]]
+| nationalcaps5       = 38
+| nationalgoals5      = 3
+| club-update         = 22:09, 2 February 2019 (UTC)
+| nationalteam-update = 20:00, 2 December 2018 (UTC)
+}}
+'''Eric Jeremy Edgar Dier''' ({{IPAc-en|ˈ|d|aɪər}} {{respell|DIRE}};&lt;ref&gt;{{Citation |last=Tottenham Hotspur |title=Dizzy Baseball Challenge FT Eric Dier + Daniel Murphy |date=9 February 2016 |url=https://www.youtube.com/watch?v=Cu7QBYK4fA8&amp;t=2s |accessdate=18 November 2017}}&lt;/ref&gt; born 15 January 1994) is an English professional [[Association football|footballer]] who plays for {{English football updater|TottenhH}} club [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and the [[England national football team|England national team]]. A versatile defensive player, Dier has been deployed as a [[defensive midfielder]], a [[centre back]] and a [[right back]].
+
+Dier grew up in Portugal, where he came through the youth ranks at [[Sporting CP]], making his [[Sporting CP B|reserve]] and senior debuts in 2012 after a [[Loan (sports)|loan]] to [[Everton F.C.|Everton]]. In 2014, he moved to Tottenham Hotspur on a five-year contract for a fee of £4&amp;nbsp;million.
+
+Despite interest from Portugal, Dier opted to represent England in international football. He made his debut for the senior team in November 2015, and was chosen for [[UEFA Euro 2016]] and the [[FIFA World Cup 2018|2018 World Cup]].
+
+==Early and personal life==
+Born in [[Cheltenham]], Gloucestershire, Dier moved to Portugal from England when he was seven years old,&lt;ref&gt;{{cite news |title=Dier on growing up at Sporting Lisbon |url=https://www.bbc.co.uk/sport/football/34606989 |publisher=BBC Sport |date=22 October 2015 |accessdate=11 April 2017}}&lt;/ref&gt; when his mother was offered a job running the hospitality programme at [[UEFA Euro 2004]].&lt;ref name="theguardian.com"/&gt;&lt;ref&gt;{{cite news |title=Tottenham: Eric Dier joins Spurs from Sporting on five-year deal |url=https://www.bbc.co.uk/sport/football/28597872 |publisher=BBC Sport |date=2 August 2014 |accessdate=11 April 2017}}&lt;/ref&gt; With his parents and five siblings, Dier spent a year living in the [[Algarve]] region before moving to [[Lisbon]]. In 2010, his parents returned to England while Dier remained in Portugal, living at [[Sporting C.P. Youth and Academy|Sporting CP's academy]].&lt;ref name="algarveresident"&gt;{{cite web |last=Wright |first=Chris |title=Sporting youngster helps to launch new Umbro England |url=http://portugalresident.com/sporting-lisbon-youngster-helps-to-launch-new-umbro-england |publisher=Portugal Resident |accessdate=27 October 2015 |date=22 October 2010}}&lt;/ref&gt;
+
+Dier is the grandson of [[Ted Croker]], a former secretary of [[The Football Association]] (FA) and president of [[Cheltenham Town F.C.|Cheltenham Town]], and great-nephew of [[Peter Croker]], who both played professionally for [[Charlton Athletic F.C.|Charlton Athletic]]. His father, Jeremy, is a former professional tennis player.&lt;ref name="skysports-scout"&gt;{{cite news |title=Sky Sports Scout – Eric Dier |url=http://www.skysports.com/football/transfers/scout/0,24035,15198_6091891,00.html |publisher=Sky Sports |accessdate=20 January 2011 |date=22 April 2010 |archiveurl=https://web.archive.org/web/20100501123631/http://www.skysports.com/football/transfers/scout/0,24035,15198_6091891,00.html |archivedate=1 May 2010 |deadurl=yes}}&lt;/ref&gt;
+
+==Club career==
+===Early career===
+While playing football at the International Preparatory School in Lisbon, Dier's footballing ability was spotted by his P.E. teacher Miguel Silva, who referred him to Sporting's scouts at the age of eight.&lt;ref name="dailymail"/&gt;{{Unreliable source?|date=July 2018}} Dier signed professional terms with Sporting in April 2010. The Portuguese club beat [[Arsenal F.C.|Arsenal]], [[Manchester United F.C.|Manchester United]] and [[Tottenham Hotspur F.C.|Tottenham Hotspur]] to his signature.&lt;ref&gt;{{cite web |url=http://www.sport.co.uk/news/Football/36629/Sporting_beat_off_competition_to_sign_English_wonderkid.aspx |title=Sporting beat off competition to sign English wonderkid |first=Nigel |last=Brown |publisher=Sport.co.uk |date=8 April 2010 |archiveurl=https://web.archive.org/web/20100411223334/http://www.sport.co.uk/news/Football/36629/Sporting_beat_off_competition_to_sign_English_wonderkid.aspx |archivedate=11 April 2010 |deadurl=yes}}&lt;/ref&gt; Sporting also sold 50% economic rights of the player to a third-party owner, [[Quality Sports Investments|Quality Football Ireland Limited]].&lt;ref&gt;{{cite web |url=http://web3.cmvm.pt/sdi2004/emitentes/docs/PCS31990.pdf |title=Sporting Clube de Portugal – Futebol SAD publishes the Report and Financial Statements for the 1H2010/2011 |date=28 February 2011 |accessdate=8 April 2011 |publisher=Sporting CP |language=Portuguese |format=PDF}}&lt;/ref&gt; Sporting bought Dier back in February 2012 by selling 50% rights of [[Filipe Chaby]].
+
+In January 2011, Dier agreed to join [[Everton F.C.|Everton]] on [[Loan (sports)|loan]] until 30 June. Sporting CP's official website stated that the loan was "an opportunity for the athlete to grow in a more competitive and demanding environment".&lt;ref name="sportingcp"&gt;{{cite web |title=Eric Dier emprestado |url=http://www.sporting.pt/Noticias/Futebol/Fut_Form/notfutform_futericdieremprestado_200111_70977.asp |publisher=Sporting CP |accessdate=20 January 2011 |language=Portuguese |deadurl=yes |archiveurl=https://web.archive.org/web/20110122202939/http://www.sporting.pt/Noticias/Futebol/Fut_Form/notfutform_futericdieremprestado_200111_70977.asp |archivedate=22 January 2011}}&lt;/ref&gt;&lt;ref name=evertonfc&gt;{{cite web |last=Griffiths |first=Darren |title=Teenager joins academy |url=http://www.evertonfc.com//news/archive/2011/01/20/teenager-joins-academy |publisher=Everton F.C. |accessdate=21 January 2011 |date=21 January 2011}}&lt;/ref&gt; Dier represented Everton U18s ten times during his loan spell and won the 2010–11 U18 Premier League with the team.&lt;ref&gt;{{cite news |last=Rea |first=Alex |url=http://www.liverpoolecho.co.uk/sport/football/football-news/evertons-u18-premier-league-champions-7169857 |title=Everton's U18 Premier League champions of 2010/11: where are they now? |newspaper=Liverpool Echo |date=25 May 2014 |accessdate=1 April 2016}}&lt;/ref&gt; Dier encountered difficulties resettling into English life, but in the summer of 2011, he extended his loan stay in the Everton academy for an additional 12 months.&lt;ref name="theguardian.com"&gt;{{cite news |url=https://www.theguardian.com/football/2015/oct/23/tottenham-eric-dier-interview |title=Tottenham's Eric Dier: Some people forget I'm essentially a foreign player &amp;#124; Football |newspaper=The Guardian |location=London |date=21 May 2014 |accessdate=1 April 2016}}&lt;/ref&gt;
+
+===Breakthrough at Sporting===
+On 26 August 2012, Dier made his debut with [[Sporting CP B|Sporting B]] in a [[2012–13 Segunda Liga]] 3–1 away win against [[Atlético Clube de Portugal|Atlético]], replacing [[Diego Rubio]] in the 77th minute.&lt;ref&gt;{{cite news |date=26 August 2012 |language=Portuguese |title=Atlético 1–3 Sporting B |url=http://www.lpfp.pt/segunda_liga/pages/jogo.aspx?epoca=20122013&amp;jornada=4&amp;jogo=7641 |publisher=Liga Portuguesa de Futebol Profissional |accessdate=5 December 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20120911013659/http://lpfp.pt/segunda_liga/pages/jogo.aspx?epoca=20122013&amp;jornada=4&amp;jogo=7641 |archivedate=11 September 2012}}&lt;/ref&gt; On 4 November 2012, Dier scored his first senior goal with a direct free kick against [[S.L. Benfica B|Benfica B]] in a 3–1 away win in the [[LigaPro|Segunda Liga]].&lt;ref&gt;{{cite news |date=4 November 2012 |language=Portuguese |title=Benfica B-Sporting B, 1–3 |url=http://www.record.xl.pt/Futebol/Nacional/liga_honra/interior.aspx?content_id=786654 |newspaper=Jornal Record |accessdate=5 December 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20140826120400/http://www.record.xl.pt/Futebol/Nacional/liga_honra/interior.aspx?content_id=786654 |archivedate=26 August 2014 |df=dmy-all}}&lt;/ref&gt;
+
+On 11 November 2012, Dier was called to play for the first team in a [[2012–13 Primeira Liga|Primeira Liga]] 1–0 home win against [[S.C. Braga|Braga]], assisting [[Ricky van Wolfswinkel]] for the match's only goal.&lt;ref&gt;{{cite news |date=11 November 2012 |language=Portuguese |title=Sporting 1–0 Braga |url=http://www.lpfp.pt/liga_zon_sagres/pages/jogo.aspx?epoca=20122013&amp;jornada=9&amp;jogo=7461 |publisher=Liga Portuguesa de Futebol Profissional |accessdate=11 November 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20121109164510/http://www.lpfp.pt/liga_zon_sagres/pages/jogo.aspx?epoca=20122013&amp;jornada=9&amp;jogo=7461 |archivedate=9 November 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news |date=11 November 2012 |language=Portuguese |title=Sporting 1–0 SC Braga |url=http://www.zerozero.pt/jogo.php?id=2256593 |publisher=Zerozero |accessdate=11 November 2012}}&lt;/ref&gt; Fifteen days later, he scored his first goal for Sporting's first squad in a 2–2 league away draw against [[Moreirense F.C.|Moreirense]].&lt;ref&gt;{{cite news |date=26 November 2012 |language=Portuguese |title=Moreirense 2–2 Sporting |url=http://www.lpfp.pt/liga_zon_sagres/pages/jogo.aspx?epoca=20122013&amp;jornada=10&amp;jogo=7487 |publisher=Liga Portuguesa de Futebol Profissional |accessdate=11 November 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120712180634/http://www.lpfp.pt/liga_zon_sagres/pages/jogo.aspx?epoca=20122013&amp;jornada=10&amp;jogo=7487 |archivedate=12 July 2012}}&lt;/ref&gt;
+
+===Tottenham Hotspur===
+[[File:Eric Dier 01-03-2015 2.jpg|thumb|upright|Dier playing for [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in the [[2015 Football League Cup Final|2015 League Cup Final]]]]
+
+On 2 August 2014, Dier signed a five-year contract with Tottenham Hotspur in a £4&amp;nbsp;million transfer.&lt;ref&gt;{{cite news |title=Transfer news: Eric Dier completes move to Spurs on five-year deal |url=http://www1.skysports.com/football/news/11095/9403944? |publisher=Sky Sports |accessdate=2 August 2014 |date=2 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Spurs sign Eric Dier from Sporting |url=http://www.espnfc.co.uk/story/1970164/tottenham-sign-england-under-21-defender-eric-dier-from-sporting? |publisher=ESPN FC |accessdate=2 August 2014 |date=2 August 2014}}&lt;/ref&gt; He made his competitive debut for the club on the first day of the [[2014–15 Premier League]] season away to [[West Ham United F.C.|West Ham United]] on 16 August, and scored the only goal of the match in added time.&lt;ref&gt;{{cite news |last=Rose |first=Gary |title=West Ham United 0–1 Tottenham Hotspur |url=https://www.bbc.co.uk/sport/football/28718387 |publisher=BBC Sport |date=16 August 2014 |accessdate=11 April 2017}}&lt;/ref&gt; Eight days later, in his second match and in his [[White Hart Lane]] debut, he headed in a corner from [[Erik Lamela]] in an eventual 4–0 win over newly promoted [[Queens Park Rangers F.C.|Queens Park Rangers]].&lt;ref&gt;{{cite news |last=Fifield |first=Dominic |title=Tottenham give Harry Redknapp unhappy homecoming with QPR defeat |url=https://www.theguardian.com/football/2014/aug/24/tottenham-qpr-premier-league-match-report |accessdate=24 August 2014 |newspaper=The Guardian |location=London |date=24 August 2014}}&lt;/ref&gt; Dier started on 1 March 2015 as Tottenham lost the [[2015 Football League Cup Final|2015 League Cup Final]] to [[Chelsea F.C.|Chelsea]] at [[Wembley Stadium]].&lt;ref name=2015LC&gt;{{cite news |first=Phil |last=McNulty |title=Chelsea 2–0 Tottenham Hotspur |url=https://www.bbc.co.uk/sport/football/31572594 |publisher=BBC Sport |date=1 March 2015 |accessdate=15 December 2017}}&lt;/ref&gt;
+
+Dier signed a new contract on 9 September 2015, lasting until 2020.&lt;ref&gt;{{cite news |title=Eric Dier: Tottenham defender signs new contract until 2020 |url=https://www.bbc.co.uk/sport/football/34203282 |publisher=BBC Sport |date=9 September 2015 |accessdate=11 April 2017}}&lt;/ref&gt; During the [[2015–16 Tottenham Hotspur F.C. season|2015–16 season]], he was utilised as a defensive midfielder by Tottenham head coach [[Mauricio Pochettino]],&lt;ref name=int/&gt; establishing himself as the regular partner to [[Mousa Dembélé (Belgian footballer)|Mousa Dembélé]] as Tottenham challenged eventual champions [[Leicester City F.C.|Leicester City]] for the [[List of English football champions|Premier League title]].&lt;ref name='strange'&gt;{{cite news |url=https://www.theguardian.com/football/2016/dec/10/eric-dier-strange-start-tottenham-hotspur-manchester-united |title=Eric Dier ready to put his strange start to the season for Tottenham behind him |date=11 December 2016 |newspaper=The Guardian |location=London}}&lt;/ref&gt; On 15 August, he scored Tottenham's first goal of the [[2015–16 Premier League|Premier League]] season in a 2–2 draw at home to [[Stoke City F.C.|Stoke City]], and on 26 September, Dier scored the team's equalising goal in a 4–1 home victory over [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{cite news |first=Mandeep |last=Sanghera |url=https://www.bbc.co.uk/sport/football/34299624 |title=Tottenham Hotspur 4–1 Manchester City |publisher=BBC Sport |date=26 September 2015 |accessdate=11 April 2017}}&lt;/ref&gt;
+
+On 13 September 2016, Dier signed a new five-year contract to last until 2021.&lt;ref&gt;{{cite news |title=Eric Dier: Tottenham midfielder signs new five-year contract |url=https://www.bbc.co.uk/sport/football/37347484 |publisher=BBC Sport |date=13 September 2016 |accessdate=11 April 2017}}&lt;/ref&gt;
+
+During the [[2016–17 Tottenham Hotspur F.C. season|2016–17]] season, Dier returned to the centre-back position due to Tottenham's acquisition of defensive midfielder [[Victor Wanyama]] and injuries to defenders [[Toby Alderweireld]] and [[Jan Vertonghen]].&lt;ref name='strange'/&gt; He made his [[UEFA Champions League]] debut in a 2–1 loss to [[AS Monaco FC]] in Tottenham's opening [[2016–17 UEFA Champions League group stage|group]] match at Wembley Stadium.&lt;ref&gt;{{cite web |url=http://www.uefa.com/uefachampionsleague/season=2017/clubs/player=250050416/profile/index.html |title=Eric Dier |accessdate=2 April 2017 |publisher=UEFA}}&lt;/ref&gt; On 25 October 2016, Dier [[Captain (association football)|captained]] Tottenham for the first time in a 2–1 loss to [[Liverpool F.C.|Liverpool]] at [[Anfield]] in the fourth round of the [[2016–17 EFL Cup|EFL Cup]].&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2016/10/25/liverpool-vs-spurs-efl-cup-fourth-round---live-updates/ |title=Liverpool 2 Spurs 1: Sturridge scores two as Reds survive late Tottenham push to go through to last eight |date=25 October 2016 |newspaper=The Daily Telegraph |location=London}}&lt;/ref&gt; He was also given the captain's armband for the 3rd and 4th round [[2016–17 FA Cup|FA Cup]] ties against [[Aston Villa F.C.|Aston Villa]] and [[Wycombe Wanderers F.C.|Wycombe Wanderers]] respectively.&lt;ref&gt;{{cite news |url=http://www.itv.com/news/2017-01-09/dier-being-spurs-captain-would-be-an-honour/ |title=Dier: Being Spurs captain would be an honour |date=9 January 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.standard.co.uk/sport/football/tottenham-vs-wycombe-team-news-heungmin-son-leads-the-line-as-eric-dier-named-captain-a3452236.html |title=Tottenham vs Wycombe team news: Heung-min Son leads the line as Eric Dier named captain |date=28 January 2017 |newspaper=London Evening Standard}}&lt;/ref&gt; On 1 April 2017, Dier scored his first goal of 2016–17 in a 2–0 win over [[Burnley F.C.|Burnley]] in the [[2016–17 Premier League|Premier League]].&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2017/04/01/burnley-0-tottenham-2-eric-diers-goal-sends-spurs-way-back-title/ |title=Burnley 0 Tottenham 2: Eric Dier's goal sends Spurs on their way back into title picture |date=1 April 2017 |newspaper=The Daily Telegraph |location=London}}&lt;/ref&gt;
+
+In the [[2018–19 Tottenham Hotspur F.C. season|2018–19 season]], Dier scored his first goal of the season, which is his first in 18 months, in the 1–0 win against [[Cardiff City F.C.|Cardiff City]], helping Tottenham to their joint best start of a season in the Premier League after eight games.&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/tottenham-cardiff-city-premier-league-match-report-a8571971.html |title=Tottenham vs Cardiff: Eric Dier's early goal sees off 10-man Cardiff City |first=Darren |last=Witcoop |date=6 October 2018 |work=The Independent}}&lt;/ref&gt;  He underwent surgery mid-December 2018 due to [[appendicitis]],&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2018/dec/16/tottenham-eric-dier-appendix |title=Tottenham’s Eric Dier ruled out until 2019 after surgery to remove appendix |date=16 December 2018 |work=The Guardian }}&lt;/ref&gt; and returned to the team on 20 January 2019, coming on as a substitute in the game against [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2019/01/20/fulham-vs-tottenham-premier-league-live-score-latest-updates/ |title=Harry Winks breaks Fulham hearts with last minute winner but Dele Alli adds to Spurs' injury concerns |first1=Jason |last1=Burt|first2= JJ |last2=Bull|date=20 January 2019 }}&lt;/ref&gt;
+
+==International career==
+===Youth===
+[[File:Eric Dier (cropped).jpg|thumb|upright|Dier playing for [[England national under-19 football team|England U19s]] in 2012]]
+Dier had been approached by the [[Portuguese Football Federation]] to play for Portugal in the future, but could only do so once he turned 18.&lt;ref name="umbro"/&gt; He had been involved in a high-profile [[England national football team|England national team]] kit promotion for sportswear manufacturers [[Umbro]], and his appearance in the campaign prompted British newspaper ''[[Daily Mail]]'' to question why The Football Association had not contacted him with a view for playing in their youth national teams.&lt;ref name="dailymail"&gt;{{cite news |last=Kay |first=Alex |title=Eric Dier was called up by Umbro to star with Rooney &amp;amp; Co in this shoot. He is the rising star of Sporting Lisbon... so why haven't the FA been in touch? |url=http://www.dailymail.co.uk/sport/football/article-1318330/Eric-Dier-rising-star-Sporting-Lisbon--havent-FA-touch.html |newspaper=Daily Mail |location=London |date=20 January 2011 |accessdate=5 December 2013}}&lt;/ref&gt;{{Unreliable source?|date=July 2018}}&lt;ref name="umbro"&gt;{{cite web |title=The New Fabric of England: Eric Dier |url=http://blog.umbro.com/post/the-new-fabric-of-england-eric-dier/ |publisher=Umbro |accessdate=20 January 2011}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; Upon his signing for Everton, an FA spokesman said, "Our intention will be to select him for the youth squad in the coming weeks," referring to the 2011 edition of the under-17 international Algarve Tournament.&lt;ref name=telegraph&gt;{{cite news |last=Winter |first=Henry |title=Everton sign Sporting Lisbon youngster Eric Dier on loan as England close in on his services |url=https://www.telegraph.co.uk/sport/football/teams/everton/8272833/Everton-sign-Sporting-Lisbon-youngster-Eric-Dier-on-loan-as-England-close-in-on-his-services.html |newspaper=The Daily Telegraph |accessdate=21 January 2011 |date=20 January 2011 |location=London}}&lt;/ref&gt;
+
+Dier earned his first England call-up in November 2011 when [[England national under-18 football team|under-18]] head coach [[Noel Blake]] picked him for a match against Slovakia.&lt;ref&gt;{{cite web |url=http://www.thefa.com/England/All-Teams/Players/D/eric-dier.aspx |title=Eric Dier |publisher=The Football Association |accessdate=5 December 2013}}&lt;/ref&gt; He played the full 90 minutes in the 1–1 draw on 16 November 2011.&lt;ref&gt;{{cite web |url=http://www.thefa.com/England/mens-u18s/News/match-centre/2011/SlovakiavEngland |title=Slovakia vs England |publisher=The Football Association |date=16 November 2011 |accessdate=5 December 2013}}&lt;/ref&gt;
+
+On 28 May 2013, he was named in manager [[Peter Taylor (footballer, born 1953)|Peter Taylor]]'s 21-man squad for the [[2013 FIFA U-20 World Cup]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/england/mens-u20s/News/2013/u20s-world-cup-squad-announcement-280513 |archive-url=https://archive.is/20130615071407/http://www.thefa.com/england/mens-u20s/News/2013/u20s-world-cup-squad-announcement-280513 |dead-url=yes |archivedate=15 June 2013 |title=Final squad named |publisher=The Football Association |date=28 May 2013 |accessdate=5 December 2013}}&lt;/ref&gt; He made his debut on 16 June in a 3–0 win in a warm-up match against [[Uruguay national under-20 football team|Uruguay]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/england/mens-u20s/News/2013/uruguay-report-160613 |archive-url=https://archive.is/20130624222816/http://www.thefa.com/england/mens-u20s/News/2013/uruguay-report-160613 |dead-url=yes |archivedate=24 June 2013 |title=Training win for Three Lions |publisher=The Football Association |date=16 June 2013 |accessdate=5 December 2013 |first=Nicholas |last=Veevers}}&lt;/ref&gt;
+
+Dier made his debut for the [[England national under-21 football team|England under-21s]] on 13 August 2013 in a 6–0 win against [[Scotland national under-21 football team|Scotland]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/23690472 |title=England Under-21s thrash Scotland 6–0 in friendly |publisher=BBC Sport |date=13 August 2013 |accessdate=11 April 2017}}&lt;/ref&gt; In 2014, he pulled out of the squad, informing manager [[Gareth Southgate]] that he did not want to be deployed as a right back anymore and would rather work on the centre-back position at his club, Tottenham.&lt;ref&gt;{{cite news |title=Tottenham centre-half Eric Dier opts out of England Under-21 duty to train with Premier League paymasters |url=https://www.telegraph.co.uk/sport/football/teams/england/11227479/Tottenham-centre-half-Eric-Dier-opts-out-of-England-Under-21-duty-to-train-with-Premier-League-paymasters.html |newspaper=The Daily Telegraph |location=London}}&lt;/ref&gt;
+
+===Senior===
+[[File:Eric Dier 2018-06-28 2.jpg|thumb|upright|Dier playing for [[England national football team|England]] at the [[2018 FIFA World Cup]]]]
+On 5 November 2015, Dier was selected for the first time to the England senior team by manager [[Roy Hodgson]] ahead of friendlies against [[Spain national football team|Spain]] and [[France national football team|France]].&lt;ref name=int&gt;{{cite news |title=Eric Dier in England squad for Spain and France friendlies |url=https://www.bbc.co.uk/sport/football/34736737 |publisher=BBC Sport |date=5 November 2015 |accessdate=11 April 2017}}&lt;/ref&gt; He made his debut eight days later against the former at [[Alicante]]'s [[Estadio José Rico Pérez]] as a 63rd-minute substitute alongside his Tottenham teammate Dele Alli in a 2–0 loss.&lt;ref&gt;{{cite news |last=McNulty |first=Phil |title=Spain 2–0 England |url=https://www.bbc.co.uk/sport/football/34742149 |publisher=BBC Sport |date=14 November 2015 |accessdate=11 April 2017}}&lt;/ref&gt; Dier made his first start on 17 November against France, a 2–0 win at Wembley, and his performance was highlighted by former international midfielder [[Jamie Redknapp]].&lt;ref name=redknapp&gt;{{cite news |last=Redknapp |first=Jamie |title=Eric Dier is the biggest England surprise and Wayne Rooney has lost none of his aura among the squad |url=http://www.dailymail.co.uk/sport/football/article-3322867/England-s-biggest-surprise-Eric-Dier-Wayne-Rooney-lost-none-aura-squad.html |accessdate=18 November 2015 |newspaper=Daily Mail |location=London |date=18 November 2015}}&lt;/ref&gt;{{Unreliable source?|date=July 2018}} On 26 March 2016, he scored his first international goal, heading [[Jordan Henderson]]'s corner for the winner in a 3–2 victory against [[Germany national football team|Germany]] in Berlin.&lt;ref name="Germany 2–3 England"&gt;{{cite news |first=Phil |last=McNulty |title=Germany 2–3 England |url=https://www.bbc.co.uk/sport/football/35849556 |publisher=BBC Sport |date=26 March 2016 |accessdate=28 March 2016}}&lt;/ref&gt;
+
+Dier was chosen for [[UEFA Euro 2016]] in France. In England's opening match against [[Russia national football team|Russia]] at the [[Stade Vélodrome]], he opened the scoring in the 1–1 draw through a direct free-kick.&lt;ref&gt;{{cite news |title=England 1–1 Russia |url=https://www.bbc.co.uk/sport/football/36450648 |accessdate=11 June 2016 |publisher=BBC Sport |date=11 June 2016}}&lt;/ref&gt;
+
+On 10 November 2017, Dier captained the England team for the first time in a friendly match against Germany at Wembley that ended in a goalless draw.&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/international/england-vs-germany-team-news-eric-dier-captain-gareth-southgate-a8047236.html |title=Tottenham's Eric Dier to captain England for friendly against Germany |date=9 November 2017 |newspaper=The Independent}}&lt;/ref&gt;
+
+He was named in the 23-man [[England national football team|England national team]] squad for the [[2018 FIFA World Cup]],&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44138600 |title=England World Cup squad: Trent Alexander-Arnold in 23-man squad |publisher=BBC Sport |date=16 May 2018 |accessdate=17 May 2018}}&lt;/ref&gt; and captained the squad in the [[2018 FIFA World Cup Group G#England vs Belgium|final group stage match against Belgium]]. Dier scored the decisive penalty in the [[2018 FIFA World Cup knockout stage#Colombia vs England|second round match against Colombia]], giving England its first ever World Cup shootout victory and first competitive shootout victory since [[UEFA Euro 1996|Euro 96]].&lt;ref&gt;{{Cite news |url=https://www.independent.co.uk/sport/football/world-cup/england-vs-colombia-penalty-shootout-who-scored-kane-goal-video-watch-eric-dier-a8429861.html |title=Who scored as England beat Colombia on penalties |work=The Independent |accessdate=4 July 2018 |language=en-GB}}&lt;/ref&gt;
+
+==Style of play==
+Dier is a versatile player, who can play as a midfielder, centre back and right back.&lt;ref name="independent"/&gt; It has been noted that his versatility enabled Tottenham's effective adoption of a flexible approach, allowing them to switch system efficiently within a single match.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/blog/2017/may/01/eric-dier-versatility-tottenham-flexibility-arsenal |title=Eric Dier's versatility the basis of Tottenham's exquisite flexibility |first=Michael |last=Cox |newspaper=The Guardian |date=1 May 2017}}&lt;/ref&gt; He has decent pace, good heading and good mentality. Dier has said that he has mixed Portuguese and English style for his own.&lt;ref name="independent"&gt;{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/eric-dier-exclusive-i-am-english-but-i-m-like-any-other-foreigner-says-tottenham-centre-back-10253947.html |date=15 May 2015 |newspaper=The Independent |location=London |title=Eric Dier exclusive: 'I am English but I'm like any other foreigner,' says Tottenham centre-back}}&lt;/ref&gt; Another string to his bow is his fine free-kick taking.&lt;ref&gt;{{cite news |url=http://www.fourfourtwo.com/features/everything-you-need-know-about-spurs-new-boy-eric-dier#ruY3RfZWrwsqkuc5.99 |title=Everything you need to know about Spurs new boy Eric Dier |magazine=FourFourTwo |date=1 August 2014}}&lt;/ref&gt; In 2018, [[ESPN]]'s Mark Ogden described Dier as "more of a destroyer than a creator".&lt;ref&gt;{{cite news |title=England must make World Cup run the start of something big, not another false dawn |work=ESPN |first=Mark |last=Ogden |accessdate=12 July 2018 |date=12 July 2018 |url=http://www.espn.co.uk/football/team/england/448/blog/post/3563230/england-must-make-world-cup-run-the-start-of-something-big-not-another-false-dawn?src=com}}&lt;/ref&gt; Dier's idols are [[Roy Keane]] and [[Rafael Márquez]], who have inspired his playing style.&lt;ref&gt;{{cite news |title=Tottenham's Eric Dier reveals Manchester United legend Roy Keane as one of his idols |url=http://metro.co.uk/2016/06/21/tottenhams-eric-dier-reveals-manchester-united-legend-roy-keane-as-one-of-his-idols-5958182/ |newspaper=Metro |location=London |date=21 June 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.espnfc.com/european-championship/story/2899511/englands-eric-dier-eyes-reunion-with-portugal-stars-at-euro-2016 |title=England's Eric Dier eyes reunion with Portugal stars at Euro 2016 |publisher=ESPN FC |date=23 June 2016}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 2 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup{{efn|Includes [[FA Cup]]}}
+!colspan=2|League Cup{{efn|Includes [[Taça da Liga]] and [[EFL Cup|League Cup/EFL Cup]]}}
+!colspan=2|Europe
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[Sporting CP B]]
+|[[2012–13 Segunda Liga|2012–13]]&lt;ref name=Soccerway/&gt;
+|[[LigaPro|Segunda Liga]]
+|7||2||colspan=2|—||colspan=2|—||colspan=2|—||7||2
+|-
+|[[2013–14 Segunda Liga|2013–14]]&lt;ref name=Soccerway/&gt;
+|Segunda Liga
+|9||0||colspan=2|—||colspan=2|—||colspan=2|—||9||0
+|-
+!colspan=2|Total
+!16||2||colspan=2|—||colspan=2|—||colspan=2|—||16||2
+|-
+|rowspan=3|[[Sporting CP]]
+|[[2012–13 Sporting CP season|2012–13]]&lt;ref name=Soccerway/&gt;
+|[[Primeira Liga]]
+|14||1||0||0||1||0||0||0||15||1
+|-
+|[[2013–14 Sporting CP season|2013–14]]&lt;ref name=Soccerway&gt;{{cite web |url=https://uk.soccerway.com/players/eric-dier/245831/ |title=E. Dier: Summary |website=Soccerway |publisher=Perform Group |accessdate=2 June 2018}}&lt;/ref&gt;
+|Primeira Liga
+|13||0||0||0||3||0||colspan=2|—||16||0
+|-
+!colspan=2|Total
+!27||1||0||0||4||0||0||0||31||1
+|-
+|rowspan=6|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[2014–15 Tottenham Hotspur F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|58228|2014|accessdate=14 September 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|28||2||1||0||3||0||4{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||36||2
+|-
+|[[2015–16 Tottenham Hotspur F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|58228|2015|accessdate=14 September 2017}}&lt;/ref&gt;
+|Premier League
+|37||3||4||1||1||0||9{{efn|name=UEL}}||0||51||4
+|-
+|[[2016–17 Tottenham Hotspur F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|58228|2016|accessdate=14 September 2017}}&lt;/ref&gt;
+|Premier League
+|36||2||4||0||1||0||7{{efn|Five appearances in [[UEFA Champions League]], two in UEFA Europa League}}||0||48||2
+|-
+|[[2017–18 Tottenham Hotspur F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|58228|2017|accessdate=14 August 2018}}&lt;/ref&gt;
+|Premier League
+|34||0||3||0||2||0||7{{efn|name=UCL|Appearances in UEFA Champions League}}||0||46||0
+|-
+|[[2018–19 Tottenham Hotspur F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|58228|2018|accessdate=3 December 2018}}&lt;/ref&gt;
+|Premier League
+|15||2||1||0||1||0||4{{efn|name=UCL}}||0||21||2
+|-
+!colspan=2|Total
+!150||9||12||1||7||0||31||0||202||10
+|-
+!colspan=3|Career total
+!193||12||13||1||12||0||31||0||249||13
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 18 November 2018}}&lt;ref name=NFT&gt;{{NFT player |id=61320 |name=Dier, Eric |accessdate=3 December 2018}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=4|[[England national football team|England]]
+|2015||2||0
+|-
+|2016||13||2
+|-
+|2017||8||1
+|-
+|2018||15||0
+|-
+!colspan=2|Total||38||3
+|}
+
+===International goals===
+:''As of match played 18 November 2018. England score listed first, score column indicates score after each Dier goal.''&lt;ref name=NFT/&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+!scope=col class=unsortable|{{abbr|Ref.|Reference}}
+|-
+!scope=row style=text-align:center|1
+|26 March 2016||[[Olympiastadion (Berlin)|Olympiastadion]], [[Berlin]], Germany||align=center|3||{{fb|GER}}||align=center|3–2||align=center|3–2||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref name="Germany 2–3 England"/&gt;
+|-
+!scope=row style=text-align:center|2
+|11 June 2016||[[Stade Vélodrome]], [[Marseille]], France||align=center|8||{{fb|RUS}}||align=center|1–0||align=center|1–1||[[UEFA Euro 2016]]||align=center|&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 1–1 Russia |url=https://www.bbc.co.uk/sport/football/36450648 |publisher=BBC Sport |date=11 May 2016 |accessdate=11 May 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|3
+|4 September 2017||[[Wembley Stadium]], [[London]], England||align=center|20||{{fb|SVK}}||align=center|1–1||align=center|2–1||[[2018 FIFA World Cup qualification]]||align=center|&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 2–1 Slovakia |url=https://www.bbc.co.uk/sport/football/41070207 |publisher=BBC Sport |date=4 September 2017 |accessdate=4 September 2017}}&lt;/ref&gt;
+|}
+
+==Honours==
+'''Tottenham Hotspur'''
+*[[Football League Cup]] runner-up: [[2014–15 Football League Cup|2014–15]]&lt;ref name=2015LC/&gt;
+
+'''England'''
+*[[FIFA World Cup]] fourth place: [[2018 FIFA World Cup|2018]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44748604 |title=Belgium 2–0 England |first=Phil |last=McNulty |publisher=BBC Sport |date=14 July 2018 |accessdate=14 August 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.tottenhamhotspur.com/teams/first-team/players/eric-dier/ Profile] at the Tottenham Hotspur F.C. website
+*[http://www.thefa.com/england/mens-seniors/squad/eric-dier Profile] at the Football Association website
+*{{Soccerbase}}
+
+{{Tottenham Hotspur F.C. squad}}
+{{Navboxes
+| title = England squads
+| bg = white
+| fg = #CF081F
+| bordercolor = #0B0B3F
+| list1 = 
+{{England squad UEFA Euro 2016}}
+{{England squad 2018 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Dier, Eric}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Cheltenham]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England international footballers]]
+[[Category:Association football defenders]]
+[[Category:Association football midfielders]]
+[[Category:Association football utility players]]
+[[Category:Sporting CP footballers]]
+[[Category:Everton F.C. players]]
+[[Category:Sporting CP B players]]
+[[Category:Tottenham Hotspur F.C. players]]
+[[Category:LigaPro players]]
+[[Category:Primeira Liga players]]
+[[Category:Premier League players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:English expatriate footballers]]
+[[Category:Expatriate footballers in Portugal]]
+[[Category:English expatriate sportspeople in Portugal]]</text>
+      <sha1>1ylvbasg1bm2i96rfeghrgey53bh91r</sha1>
+    </revision>
+  </page>
+</mediawiki>

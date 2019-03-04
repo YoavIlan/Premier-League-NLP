@@ -1,0 +1,230 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Freddie Woodman</title>
+    <ns>0</ns>
+    <id>47432005</id>
+    <revision>
+      <id>883165514</id>
+      <parentid>883161111</parentid>
+      <timestamp>2019-02-13T17:56:38Z</timestamp>
+      <contributor>
+        <username>Iggy the Swan</username>
+        <id>31885086</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/2.30.164.243|2.30.164.243]] ([[User talk:2.30.164.243|talk]]): Not in the Premier League ([[WP:TW|2019 Swan]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16319">{{Use dmy dates|date=April 2013}}
+{{Use British English|date=January 2013}}
+{{Infobox football biography
+| name           = Freddie Woodman
+| image          = 
+| image_size     = 
+| caption        = 
+| fullname       = Frederick John Woodman&lt;ref&gt;{{cite web|url=http://m.premierleague.com/en-gb/news/article.080815-2015-2016-premier-league-squad-numbers-released.html |title=Player shirt numbers for 20 Barclays Premier League clubs released |publisher=Premier League |date=8 August 2015 |accessdate=10 August 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150809220849/http://m.premierleague.com/en-gb/news/article.080815-2015-2016-premier-league-squad-numbers-released.html |archivedate=9 August 2015 |df=dmy }}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1997|3|4|df=y}}&lt;ref name="Premier League"&gt;{{cite web |url=https://www.premierleague.com/players/10479/Freddie-Woodman/overview |title=Freddy Woodman: Overview |publisher=Premier League |accessdate=8 September 2018}}&lt;/ref&gt;
+| birth_place    = [[Croydon]], England
+| height         = {{convert|1.88|m|order=flip}}&lt;ref name="Premier League"/&gt;
+| position       = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub    = [[Newcastle United F.C.|Newcastle United]]
+| clubnumber     = 41
+| youthyears1    = {{0|0000}}–2013 |youthclubs1 = [[Crystal Palace F.C.|Crystal Palace]] 
+| youthyears2    = 2013–2014 |youthclubs2 = [[Newcastle United F.C. Reserves and Academy|Newcastle United]] 
+| years1         = 2014–     |clubs1 = [[Newcastle United F.C.|Newcastle United]]            |caps1 = 0  |goals1 = 0&lt;!-- LEAGUE ONLY --&gt;
+| years2         = 2014      |clubs2 = → [[Hartlepool United F.C.|Hartlepool United]] (loan) |caps2 = 0  |goals2 = 0&lt;!-- LEAGUE ONLY --&gt;
+| years3         = 2015      |clubs3 = → [[Crawley Town F.C.|Crawley Town]] (loan)           |caps3 = 11 |goals3 = 0&lt;!-- LEAGUE ONLY --&gt;
+| years4         = 2017      |clubs4 = → [[Kilmarnock F.C.|Kilmarnock]] (loan)               |caps4 = 14 |goals4 = 0&lt;!-- LEAGUE ONLY --&gt;
+| years5         = 2018      |clubs5 = → [[Aberdeen F.C.|Aberdeen]] (loan)                   |caps5 = 5  |goals5 = 0
+| nationalyears1 = 2012–2013 |nationalteam1 = [[England national under-16 football team|England U16]] |nationalcaps1 = 2  |nationalgoals1 = 0
+| nationalyears2 = 2012–2014 |nationalteam2 = [[England national under-17 football team|England U17]] |nationalcaps2 = 16 |nationalgoals2 = 0
+| nationalyears3 = 2014–2015 |nationalteam3 = [[England national under-18 football team|England U18]] |nationalcaps3 = 6  |nationalgoals3 = 0
+| nationalyears4 = 2014–2016 |nationalteam4 = [[England national under-19 football team|England U19]] |nationalcaps4 = 16 |nationalgoals4 = 0
+| nationalyears5 = 2016–2017 |nationalteam5 = [[England national under-20 football team|England U20]] |nationalcaps5 = 10  |nationalgoals5 = 0
+| nationalyears6 = 2016–     |nationalteam6 = [[England national under-21 football team|England U21]] |nationalcaps6 = 6  |nationalgoals6 = 0
+| club-update       = 19:17, 15 May 2018 (UTC)
+| ntupdate       = 13:00, 11 June 2018 (UTC)
+}}
+'''Frederick John Woodman'''  (born 4 March 1997) is an English professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Newcastle United F.C.|Newcastle United]].
+
+Woodman started his career at [[Crystal Palace F.C.|Crystal Palace]] before moving to the academy set up at [[Newcastle United F.C. Reserves and Academy|Newcastle United]] in 2013.&lt;ref&gt;{{cite web |title=Freddie Woodman is the 18-year-old Newcastle goalkeeper being taught by Tim Krul and who had to work 10 times harder to prove himself because his dad is the coach!|url=http://www.dailymail.co.uk/sport/football/article-2984816/Freddie-Woodman-18-year-old-Newcastle-goalkeeper-taught-Tim-Krul-work-10-times-harder-prove-dad-coach.html|website=The Daily Mail Online |publisher=The Daily Mail |date=8 March 2015}}&lt;/ref&gt; Woodman has represented England up to U21 level, and has won the [[2014 UEFA European Under-17 Football Championship]] and the [[2017 FIFA U-20 World Cup]] with his country. He received the Golden Glove award for best goalkeeper in the latter tournament.
+
+==Club career==
+===Newcastle===
+
+===2014–15 season===
+
+====Loan to Hartlepool United====
+On 16 September 2014, Woodman was sent on a month long loan to [[Hartlepool United F.C.|Hartlepool]]&lt;ref&gt;{{cite web|title=Freddie Woodman: Hartlepool sign Newcastle United keeper|url=https://www.bbc.com/sport/0/football/29222817 |publisher=British Broadcast Corporation |date=16 September 2014}}&lt;/ref&gt; to gain experience of being in a first team environment. After six appearances as an unused substitute, Woodman returned to Newcastle.&lt;ref name="chroniclelive1"&gt;{{cite web|last=Johns |first=Craig |url=http://www.chroniclelive.co.uk/sport/football/football-news/freddie-woodman-five-things-you-8309544 |title=Freddie Woodman: Five things you may not know about the keeper in line for Tyne-Wear derby debut |publisher=Chronicle Live |date=2014-12-18 |accessdate=2015-08-14}}&lt;/ref&gt;
+
+===2015–16 season===
+
+====Crawley Town (loan)====
+On 29 July 2015, Woodman was sent on another loan spell to [[Crawley Town F.C.|Crawley Town]] for half of the 2015–16 season. His debut match was played on 8 August 2015 in a 1–1 draw against [[Oxford United F.C.|Oxford United]].&lt;ref&gt;{{cite web |title=Oxford United vs. Crawley Town |url=https://www.bbc.com/sport/0/football/33744437|website=British Broadcasting Corporation |publisher=BBC Sports |date=8 August 2015}}&lt;/ref&gt; Freddie Woodman has said "I'm really looking forward to it. It's a massive difference and it takes some getting used to, I'll take this experience back with me and say 'let's not come back here, let's play in the Premier League'." when asked about his loan spell by BBC.&lt;ref&gt;{{cite web|title=Freddie Woodman: On-loan goalkeeper targets Premier League|url=https://www.bbc.com/sport/0/football/33789552 |publisher=British Broadcast Corporation |date=5 August 2015}}&lt;/ref&gt; When [[Mark Yates (footballer)|Mark Yates]], the manager of Crawley Town, was asked about signing Woodman he said "We are delighted to have been able to bring one of the best young goalkeepers in the country to the club. The only thing Freddie lacks at the moment is experience in League football and that is what this loan spell with give him. He has all the attributes to become a top-class keeper and I have to thank [[Steve McClaren]], Andy Woodman and everyone at Newcastle for letting us have Freddie for the first half of the season" during an interview with The Football League.&lt;ref&gt;{{cite web|title=Crawley Town manager Mark Yates delighted with capture of Freddie Woodman|url=http://www.football-league.co.uk/news/article/2015/crawley-town-manager-mark-yates-delighted-to-sign-freddie-woodman-2581533.aspx |publisher=The Football League |date=30 July 2015}}&lt;/ref&gt;
+
+In October 2015, Newcastle United recalled Woodman from his loan at Crawley Town after first choice keeper [[Tim Krul]] suffered a season ending knee injury, Woodman made 12 appearances during his spell with Crawley.&lt;ref&gt;{{cite web|url=http://www.chroniclelive.co.uk/sport/newcastle-set-recall-freddie-woodman-10237520|title=Newcastle set to recall Freddie Woodman from loan stint at Crawley after Tim Krul injury|first=Lee|last=Ryder|date=11 October 2015|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/sport/football/article-3268524/Newcastle-United-s-Tim-Krul-miss-rest-season-cruciate-ligament-damage-suffering-injury-playing-Holland.html|title=Krul to miss rest of the season as Woodman returns from Crawley loan|publisher=}}&lt;/ref&gt;
+
+===2016–17 season===
+
+====Kilmarnock (loan)====
+On 9 January 2017, Woodman moved on loan to [[Scottish Premiership]] club [[Kilmarnock F.C.|Kilmarnock]] for the remainder of the season, along with Newcastle teammates [[Callum Roberts (footballer)|Callum Roberts]] and [[Sean Longstaff]].&lt;ref&gt;{{cite web|title=Player Announcement|url=http://kilmarnockfc.co.uk/Article?id=4830|publisher=Kilmarnock F.C.|date=9 January 2017|accessdate=9 January 2017}}&lt;/ref&gt; He made his debut on 21 January 2017, as Kilmarnock lost 1–0 against [[Hamilton Academical F.C.|Hamilton Academical]] in the [[Scottish Cup]].&lt;ref&gt;{{cite web|title=Kilmarnock 0–1 Hamilton|url=https://www.bbc.co.uk/sport/football/38620259|publisher=BBC Sport|last=Wilson|first=Richard|date=21 January 2017|accessdate=21 January 2017}}&lt;/ref&gt; Woodman played regularly for Kilmarnock, keeping five clean sheets in 15 appearances.&lt;ref name = "u20 world cup"/&gt; He left the club before the end of the season to play in the [[2017 FIFA U-20 World Cup]].&lt;ref name = "u20 world cup"&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/39850045 |title=Kilmarnock: Freddie Woodman will not feature again after England selection |work=BBC Sport |publisher=BBC |date=8 May 2017 |accessdate=8 May 2017}}&lt;/ref&gt;
+
+===2017–18 season===
+Woodman made his debut for Newcastle in an [[FA Cup]] tie with [[Luton Town F.C.|Luton Town]].&lt;ref&gt;{{cite web|title=Newcastle United 3 Luton Town 1|url=https://www.nufc.co.uk/matches/first-team/2017-18/newcastle-united-v-luton-town|publisher=Newcastle United F.C.|date=6 January 2018|accessdate=18 February 2018}}&lt;/ref&gt;
+
+====Aberdeen (loan)====
+Woodman was loaned to [[Scottish Premiership]] club [[Aberdeen F.C.|Aberdeen]] on 31 January 2018.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/42892606 |title=Aberdeen sign goalkeeper Freddie Woodman and striker Sam Cosgrove |work=BBC Sport |publisher=BBC |date=31 January 2018 |accessdate=31 January 2018}}&lt;/ref&gt;
+
+==International career==
+Woodman won the  [[2014 UEFA European Under-17 Football Championship]] with England, conceding two goals in 4 games and saving a penalty in the final of the tournament against the [[Netherlands national under-17 football team|Netherlands]].&lt;ref name="chroniclelive1"/&gt;&lt;ref&gt;{{cite web|url=http://www.thefa.com/news/england/development/2015/jul/freddie-woodman-joins-crawley-town-on-loan-300715 |title=Freddie Woodman signs for Crawley Town on loan from Newcastle - England |publisher=The FA |date=2015-07-30 |accessdate=2015-08-14}}&lt;/ref&gt; In the 2014–15 season Woodman played up an age group with the [[England national under-19 football team|England U19]] side.&lt;ref name="thefa1"&gt;{{cite web|url=http://www.thefa.com/news/england/development/2015/mar/freddie-woodman-on-worker-ten-times-harder-at-newcastle-united-090315 |title=England U18 keeper Freddie Woodman says Hartlepool loan spell and dad's tutelage have prepared him for Newcastle United first team - England |publisher=The FA |date=2015-03-09 |accessdate=2015-08-14}}&lt;/ref&gt; Woodman was a member of the England squad for the [[2016 UEFA European Under-19 Championship]], starting in the semi-final defeat against [[Italy national under-19 football team|Italy]].&lt;ref&gt;{{Cite web|url=http://www.thefa.com/news/2016/jul/21/italy-report-210716|title=England Under-19s' Euro dreams ended by Italy in Semi-Final|date= 21 July 2016 |publisher=Football Association|accessdate=11 July 2017 }}&lt;/ref&gt;
+
+On 6 October 2016, Woodman made his debut at [[England national under-21 football team|Under-21]] level against [[Kazakhstan national under-21 football team|Kazakhstan]] keeping a clean sheet in the process.&lt;ref&gt;{{Cite web|url=http://www.thefa.com/news/2016/oct/08/freddie-woodman-interview-081016|title=Freddie Woodman's 'Fantastic night' in Kazakhstan|date= 8 October 2016 |publisher=Football Association|accessdate=11 July 2017 }}&lt;/ref&gt; He was selected in the [[England national under-20 football team|England U20]] squad for the [[2017 FIFA U-20 World Cup]],&lt;ref name = "u20 world cup"/&gt; where he won the Golden Glove Award for the tournament's best goalkeeper,&lt;ref name="Golden glove"&gt;{{cite web|title=FIFA U-20 World Cup Korea Republic 2017 - Awards|url=https://www.fifa.com/u20worldcup/awards/index.html|publisher=FIFA.com|date=11 June 2017|accessdate=11 June 2017}}&lt;/ref&gt; and saved a penalty in the final against [[Venezuela national under-20 football team|Venezuela]] which England won 1–0.&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/40237981|title=Under-20 World Cup: England beat Venezuela in final|date= 11 June 2017 |publisher=BBC Sport|accessdate=11 June 2017 }}&lt;/ref&gt;
+
+==Personal life==
+He is the son of former Northampton Town goalkeeper [[Andy Woodman]] and his godfather is former England international defender and current England manager [[Gareth Southgate]].&lt;ref&gt;{{cite web|url=http://www.chroniclelive.co.uk/sport/football/football-news/fred-woodman-make-battle-number-10242818|title=Why Fred Woodman is about to make the battle for the number one spot interesting at Newcastle United|first=Lee|last=Ryder|date=12 October 2015|publisher=}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 20 May 2018}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Domestic Cup
+!colspan="2"|League Cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[Newcastle United F.C.|Newcastle United]]
+|[[2014–15 Newcastle United F.C. season|2014–15]]&lt;ref name="2014/15"/&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||colspan=2|—||0||0
+|-
+|[[2015–16 Newcastle United F.C. season|2015–16]]&lt;ref name="2015/16"&gt;{{soccerbase season|78005|2015|accessdate=9 January 2017}}&lt;/ref&gt;
+|Premier League
+|0||0||0||0||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2016–17 Newcastle United F.C. season|2016–17]]&lt;ref name="2016/17"&gt;{{soccerbase season|78005|2016|accessdate=9 January 2017}}&lt;/ref&gt;
+|[[Football League Championship|Championship]]
+|0||0||0||0||0||0||colspan=2|—||0||0
+|-
+|[[2017–18 Newcastle United F.C. season|2017–18]]&lt;ref name="2017/18"&gt;{{soccerbase season|78005|2017|accessdate=14 November 2017}}&lt;/ref&gt;
+|Premier League
+|0||0||1||0||0||0||colspan=2|—||1||0
+|-
+!colspan="2"|Total
+!0!!0!!1!!0!!0!!0!!colspan=2|—!!1!!0
+|-
+|[[Hartlepool United F.C.|Hartlepool United]] (loan)
+|[[2014–15 Hartlepool United F.C. season|2014–15]]&lt;ref name="2014/15"&gt;{{soccerbase season|78005|2014|accessdate=9 January 2017}}&lt;/ref&gt;
+|[[Football League Two|League Two]]
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[Crawley Town F.C.|Crawley Town]] (loan)
+|[[2015–16 Crawley Town F.C. season|2015–16]]&lt;ref name="2015/16"/&gt;
+|League Two
+|11||0||colspan=2|—|||1||0||0||0||12||0
+|-
+|[[Kilmarnock F.C.|Kilmarnock]] (loan)
+|[[2016–17 Kilmarnock F.C. season|2016–17]]&lt;ref name="2016/17"/&gt;
+|[[Scottish Premiership]]
+|14||0||1||0||colspan=2|—||colspan=2|—||15||0
+|-
+|[[Aberdeen F.C.|Aberdeen]] (loan)
+|[[2017–18 Aberdeen F.C. season|2017–18]]&lt;ref name="2017/18"/&gt;
+|Scottish Premiership
+|5||0||3||0||colspan=2|–||colspan=2|–||8||0
+|-
+!colspan="3"|Career total
+!30!!0!!5!!0!!1!!0!!0!!0!!36!!0
+|}
+
+{{notelist}}
+
+==Honours==
+'''England U17'''
+*[[UEFA European Under-17 Championship]]: [[2014 UEFA European Under-17 Championship|2014]]
+
+'''England U20'''
+*[[FIFA U-20 World Cup]]: [[2017 FIFA U-20 World Cup|2017]]
+
+'''Individual'''
+*[[Newcastle United F.C. Reserves and Academy|Jack Hixon Award]]: 2015
+*[[FIFA U-20 World Cup#Golden Gloves|FIFA U-20 World Cup Golden Glove]]: [[2017 FIFA U-20 World Cup#Awards|2017]]&lt;ref name="Golden glove"/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.nufc.co.uk/teams/first-team/freddie-woodman Profile] at Newcastle United F.C.
+*[http://www.thefa.com/england/all-teams/players/w/freddie-woodman England profile] at The Football Association website
+
+{{FIFA U-20 World Cup awards}}
+{{Newcastle United F.C. squad}}
+
+{{DEFAULTSORT:Woodman, Freddie}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Newcastle United F.C. players]]
+[[Category:Hartlepool United F.C. players]]
+[[Category:Crawley Town F.C. players]]
+[[Category:Kilmarnock F.C. players]]
+[[Category:English Football League players]]
+[[Category:Scottish Professional Football League players]]
+[[Category:Aberdeen F.C. players]]
+[[Category:Footballers from Greater London]]</text>
+      <sha1>cqv4mu8dtfhycfalnq58z1mrcdbcpdm</sha1>
+    </revision>
+  </page>
+</mediawiki>

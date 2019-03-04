@@ -1,0 +1,366 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tomáš Kalas</title>
+    <ns>0</ns>
+    <id>27967144</id>
+    <revision>
+      <id>882985844</id>
+      <parentid>882928145</parentid>
+      <timestamp>2019-02-12T15:56:11Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/78.152.237.46|78.152.237.46]] ([[User talk:78.152.237.46|talk]]) to last revision by Davefelmer ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28974">{{Use dmy dates|date=July 2013}}
+{{Infobox football biography
+| name           = Tomáš Kalas
+| image          = Tomáš Kalas'14.JPG
+| caption        = Kalas warming up for [[Chelsea F.C.|Chelsea]] in 2014
+| fullname       = Tomáš Kalas&lt;ref name="Barclays Premier League Squad Numbers 2013/14"&gt;{{Cite news| title = Barclays Premier League Squad Numbers 2013/14| url = http://www.premierleague.com/en-gb/news/news/2013-14/aug/premier-league-squad-numbers-seasons-2013-14.html| publisher = Premier League| date = 16 August 2013| accessdate = 17 August 2013}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1993|05|15|df=yes}}
+| birth_place    = [[Olomouc]], Czech Republic
+| height         = 1.84 m
+| position       = [[Defender (association football)|Centre back]], [[Right back]]
+| currentclub    = [[Bristol City F.C.|Bristol City]] (on loan from [[Chelsea F.C.|Chelsea]])
+| clubnumber     = 22
+| youthclubs1    = [[SK Sigma Olomouc|Sigma Olomouc]]
+| youthyears1    = 2004–2009
+| years1         = 2009–2010
+| clubs1         = [[SK Sigma Olomouc|Sigma Olomouc]]
+| caps1          = 1
+| goals1         = 0
+| years2         = 2010–
+| clubs2         = [[Chelsea F.C.|Chelsea]]
+| caps2          = 2
+| goals2         = 0
+| years3         = 2010–2011
+| clubs3         = → [[SK Sigma Olomouc|Sigma Olomouc]] (loan)
+| caps3          = 4
+| goals3         = 0
+| years4         = 2011–2013
+| clubs4         = → [[SBV Vitesse|Vitesse]] (loan)
+| caps4          = 66
+| goals4         = 2
+| years5         = 2014–2015
+| clubs5         = → [[1. FC Köln]] (loan)
+| caps5          = 0
+| goals5         = 0
+| years6         = 2014–2015
+| clubs6         = → [[1. FC Köln II]] (loan)
+| caps6          = 2
+| goals6         = 0
+| years7         = 2015–2016
+| clubs7         = → [[Middlesbrough F.C.|Middlesbrough]] (loan)
+| caps7          = 43
+| goals7         = 0
+| years8         = 2016–2018
+| clubs8         = → [[Fulham F.C.|Fulham]] (loan)
+| caps8          = 69
+| goals8         = 1
+| years9         = 2018–
+| clubs9         = → [[Bristol City F.C.|Bristol City]] (loan)
+| caps9          = 8
+| goals9         = 0
+| nationalyears1 = 2009–2010
+| nationalteam1  = [[Czech Republic national under-17 football team|Czech Republic U17]]
+| nationalcaps1  = 12
+| nationalgoals1 = 1
+| nationalyears2 = 2010
+| nationalteam2  = [[Czech Republic national under-18 football team|Czech Republic U18]]
+| nationalcaps2  = 5
+| nationalgoals2 = 0
+| nationalyears3 = 2011
+| nationalteam3  = [[Czech Republic national under-19 football team|Czech Republic U19]]
+| nationalcaps3  = 8
+| nationalgoals3 = 1
+| nationalyears4 = 2013
+| nationalteam4  = [[Czech Republic national under-20 football team|Czech Republic U20]]
+| nationalcaps4  = 3
+| nationalgoals4 = 1
+| nationalyears5 = 2011–2015
+| nationalteam5  = [[Czech Republic national under-21 football team|Czech Republic U21]]
+| nationalcaps5  = 23
+| nationalgoals5 = 0
+| nationalyears6 = 2012–
+| nationalteam6  = [[Czech Republic national football team|Czech Republic]]
+| nationalcaps6  = 18
+| nationalgoals6 = 2
+| club-update = 11 November 2018 (UTC)
+| nationalteam-update = 20 November 2018
+}}
+'''Tomáš Kalas''' (born 15 May 1993) is a Czech professional [[Association football|footballer]] who plays for [[Bristol City F.C.|Bristol City]], on loan from [[Premier League]] club [[Chelsea F.C.|Chelsea]]. He plays as a [[centre back]], but has also been played as a [[right back]].
+
+Having begun his career at [[Sigma Olomouc]], he signed for Chelsea for a reported £5.2 million in 2010. He spent most of his tenure out on loan, first back at Sigma, then at [[Vitesse Arnhem]], [[1. FC Köln]], [[Middlesbrough F.C.|Middlesbrough]] and [[Fulham F.C.|Fulham]].
+
+Kalas earned 42 caps and scored once for the Czech youth international teams, and made his senior international debut in 2012.
+
+==Club career==
+
+===Chelsea===
+
+====Early career====
+Born in [[Olomouc]], Kalas started his career in his hometown with [[SK Sigma Olomouc|Sigma Olomouc]], making his debut in a 2–0 victory over [[FC Slovan Liberec|Slovan Liberec]] on 5 May 2010.&lt;ref name="Thomas Kalas"&gt;{{cite web|title=Thomas Kalas|url=https://int.soccerway.com/players/thomas-kalas/129944/|publisher=Soccerway|accessdate=7 July 2010}}&lt;/ref&gt; He then signed for [[Premier League]] champions [[Chelsea F.C.|Chelsea]], on 7 July 2010, for a reported figure of around £5.2&amp;nbsp;million, although it was agreed that he would stay at Sigma Olomouc for the 2010–11 season.&lt;ref name="Chelsea sign teenage Czech defender Tomas Kalas"&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/8797276.stm|title=Chelsea sign teenage Czech defender Tomas Kalas|publisher=[[BBC Sport]]|date=7 July 2010|accessdate=7 July 2010}}&lt;/ref&gt; Kalas arrived at Chelsea for the second half of the [[2010–11 in English football|2010–11 season]] and made his Chelsea [[Chelsea F.C. Reserves and Academy|reserve team]] debut in a 2–2 away draw to [[Aston Villa F.C. Reserves and Academy|Aston Villa]] on 21 February.&lt;ref&gt;{{cite web | url=http://www.chelseafc.com/page/TheReservesNews/0,,10268~2298926,00.html | title=Reserve Report: Aston Villa 2 Chelsea 2 | accessdate=3 March 2011 | deadurl=yes | archiveurl=https://web.archive.org/web/20110320140716/http://www.chelseafc.com/page/TheReservesNews/0,,10268~2298926,00.html | archivedate=20 March 2011 | df=dmy-all }}&lt;/ref&gt;
+
+On 22 August 2011 Kalas joined Dutch football club [[Vitesse Arnhem]] on [[Loan (association football)|loan]] for the [[2011–12 Eredivisie|2011–12]] season.&lt;ref&gt;{{cite web | url=http://www.vitesse.nl/nieuws/bericht/presentatie-nieuwe-nummer-2-tomas-kalas/1784 | title=Presentatie nieuwe nummer 2: Tomáš Kalas | accessdate=22 August 2011 | deadurl=yes | archiveurl=https://web.archive.org/web/20121104155705/http://www.vitesse.nl/nieuws/bericht/presentatie-nieuwe-nummer-2-tomas-kalas/1784 | archivedate=4 November 2012 | df=dmy-all }}&lt;/ref&gt; He was given the number 2 jersey. He made his debut for Vitesse on 17 September 2011 against [[Roda JC Kerkrade]] which ended in a 5–0 win for Vitesse.&lt;ref&gt;{{cite web | url=http://www.weaintgotnohistory.com/2011/9/22/2442698/chelsea-fc-loan-roundup-9-22-11 | title=Chelsea FC loan roundup}}&lt;/ref&gt;
+
+In March 2012, Kalas admitted that he did not yet know where he will be playing next season, but was happy on loan at Vitesse. "Ideally I'll stay another year at this club," he told. "Simply put, there are three options. I'll stay here, go back to Chelsea or they will loan me to another club abroad. In late March I will talk with my managers about next season and know more."&lt;ref&gt;{{cite web | url=http://www1.skysports.com/football/news/11668/7601619/Kalas-unsure-over-future | title=Kalas unsure over future}}&lt;/ref&gt;
+
+On 17 May 2012, Kalas scored the opening goal in the 22nd minute, for Vitesse against RKC Waalwijk; the match ended in a 3–1 win for Vitesse. This goal was Kalas' first goal of his professional career.&lt;ref&gt;{{cite web | url=https://int.soccerway.com/matches/2012/05/17/netherlands/eredivisie/rkc-waalwijk/sbv-vitesse/1283674/ | title=RKC Waalwijk vs. Vitesse  1 – 3 |publisher=US Soccerway | accessdate=13 December 2014}}&lt;/ref&gt;
+
+On 11 July 2012, Kalas rejoined Vitesse on a new loan deal until the end of the [[2012–13 Eredivisie|2012–13]] season. He also extended his contract with Chelsea until the summer of 2017.&lt;ref&gt;{{cite web | url=http://www.chelseafc.com/page/LatestNews/0,,10268~2841591,00.html | title=VITESSE LOANS FOR YOUNG PAIR | publisher=Chelseafc.com | accessdate=11 July 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20120714024653/http://www.chelseafc.com/page/LatestNews/0,,10268~2841591,00.html | archivedate=14 July 2012 | df=dmy-all }}&lt;/ref&gt;  Kalas scored his first Eredivisie goal of the season for Vitesse in a 3–0 defeat of [[FC Groningen]] on 16 September 2012.&lt;ref&gt;{{cite web|url=http://espnfc.com/us/en/gamecast/statistics/id/343517/statistics.html?soccernet=true&amp;cc=5901 |title=FC Groningen 0 – 3 Vitesse Arnhem |publisher=ESPNFC |date=16 September 2012}}&lt;/ref&gt;
+
+During his second loan spell at Vitesse, Kalas was mainly deployed as a right-back instead of his natural centre-back. Kalas ended up playing a total of 76 games overall competition during his two-year stay at Vitesse.
+
+====2013–2015====
+On 10 July 2013 Chelsea manager [[José Mourinho]] confirmed Kalas would stay and fight for his place at Chelsea for the coming season.&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news-article/article/3234245/title/mourinho-early-report---part-one|title=Home|website=ChelseaFC|deadurl=yes|archiveurl=https://web.archive.org/web/20130802041005/http://www.chelseafc.com/news-article/article/3234245/title/mourinho-early-report---part-one|archivedate=2 August 2013|df=dmy-all}}&lt;/ref&gt; During Chelsea's 2013 pre-season Asia tour, Kalas made 3 appearances for Chelsea, in wins against the Singha All Stars, the Malaysian XI, and the Indonesian XI. During pre-season training, Kalas suffered fractured fibula, cutting his action with the first-team short as the rest of the team flew over to America for the [[2013 International Champions Cup|Guinness International Champions Cup]].&lt;ref&gt;{{cite web|title=Tomas Kalas suffers fractured fibula and will be out for about a month|url=http://weaintgotnohistory.sbnation.com/2013/7/30/4572860/tomas-kalas-injury-out-for-one-month/|accessdate=30 July 2013}}&lt;/ref&gt;
+
+After finally recovered from his injuries, Kalas made his competitive debut for the senior squad on 29 October 2013 as a substitute for Juan Mata, in a 2–0 win at Arsenal in the [[Football League Cup|Capital One Cup]]. Speaking of his role at Chelsea, Kalas said in an interview with a Czech chat show: "I am a player for training sessions. If they need a cone they put me there instead."&lt;ref&gt;{{cite web|url=https://twitter.com/KHaring75/status/460396999670779904|title=Karel Häring|work=Twitter}}&lt;/ref&gt;
+
+On 18 March 2014, Kalas made his [[UEFA Champions League|Champions League]] debut against [[Galatasaray S.K. (football)|Galatasaray]], replacing Willian in stoppage time; Chelsea won 2–0.&lt;ref&gt;{{cite web|title=Chelsea vs. Galatasaray  2 – 0
+|url=https://int.soccerway.com/matches/2014/03/18/europe/uefa-champions-league/chelsea-football-club/galatasaray-sk/1611887/|accessdate=18 March 2014}}&lt;/ref&gt;
+
+On 27 April 2014, Kalas was given his debut in the [[Premier League]] for Chelsea, at [[Anfield]] against Liverpool, starting in place of the injured [[John Terry]]. He played the whole 90 minutes in a 2–0 win that kept Chelsea in contention for the league title.&lt;ref&gt;{{cite web|title=TEAM NEWS: LIVERPOOL V CHELSEA|url=http://www.chelseafc.com/news-article/article/3790508/title/team-news-liverpool-v-chelsea|accessdate=27 April 2014}}&lt;/ref&gt;
+
+On 11 June 2014, [[1. FC Köln]] announced that Kalas would spend the 2014–15 season on loan at their club.&lt;ref&gt;{{cite web|title=FC leiht Tomas Kalas aus|url=http://www.fc-koeln.de/news/detailansicht/?tx_ttnews[tt_news]=7838&amp;cHash=94f330fc63ab4a1f13e2f770879a4c9a|publisher=1. FC Koln|accessdate=11 June 2014|date=11 June 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=KALAS LOAN TO COLOGNE|url=http://www.chelseafc.com/news-article/article/3898104/title/kalas-loan-to-cologne|publisher=chelseafc.com|accessdate=1 July 2014|date=11 June 2014}}&lt;/ref&gt; On 24 September, Kalas made his debut for Köln II, FC Köln's reserve team, against [[Borussia Mönchengladbach|Borussia Mönchengladbach II]]; the game ended in a 2–1 win for Köln II.&lt;ref&gt;{{cite web|title=Chelsea's Koln Loanee Tomas Kalas Falling by the Wayside|url=http://bleacherreport.com/articles/2225751-chelseas-koln-loanee-tomas-kalas-falling-by-the-wayside|accessdate=8 December 2014}}&lt;/ref&gt; On 25 October 2014, Kalas made another appearance for Köln II against [[SC Verl]]; the game ended in a 2–0 loss for Köln II.&lt;ref&gt;{{cite web|title=Koln II vs Verl|url=https://int.soccerway.com/matches/2014/10/25/germany/regionalliga/1-fc-koln-ii/sc-verl-1924/1766355/|accessdate=8 December 2014}}&lt;/ref&gt;
+
+Kalas, himself, did not know why he had been given the cold shoulder at Köln, where he played only two reserve games. During an interview, Kalas said "At first they were happy with my performances but then I didn’t play in {{sic|any game}}. I don’t know what went wrong." With the lack of playing time, Kalas was linked to a move to multiple English clubs, as well as his former team Vitesse in the January 2015 [[transfer window]].&lt;ref&gt;{{cite web|title=Tomas Kalas set for change of scene with Chelsea 'nervous and disappointed' over Koln loan|url=http://www.express.co.uk/sport/football/537270/Tomas-Kalas-Koln-loan-Chelsea-January-move|accessdate=22 December 2014}}&lt;/ref&gt;
+
+====2015–====
+On 9 January 2015, [[Middlesbrough F.C.|Middlesbrough]] announced that Kalas would spend the remainder of the 2014–15 season on loan at the [[Football League Championship|Championship]] club.&lt;ref&gt;{{cite web|title=KALAS LOAN TO MIDDLESBROUGH|url=http://www.mfc.co.uk/news/article/2014/chelsea-tomas-kalas-boro-aitor-karanka-stamford-bridge-2193371.aspx|accessdate=9 January 2015|date=9 January 2015}}&lt;/ref&gt; The day after signing with the Boro, Kalas made his debut for Middlesbrough in a 0–0 draw against [[Reading F.C.|Reading]].&lt;ref&gt;{{cite web|title=BBC Sport – Reading v Middlesbrough|url=https://www.bbc.co.uk/sport/0/football/30663415|accessdate=10 January 2015|date=10 January 2015}}&lt;/ref&gt; Manager [[Aitor Karanka]] praised Kalas' aptitude to the right-back position, where Middlesbrough had been challenged following a long-term injury to [[Damià Abella]] in September 2014.&lt;ref&gt;{{cite news|title=Tomas Kalas: Middlesbrough boss Aitor Karanka happy with full-back|url=https://www.bbc.co.uk/sport/0/football/30778977|accessdate=18 January 2015|work=BBC Sport|date=12 January 2015}}&lt;/ref&gt;
+
+Kalas retained his position as the right-back against [[Huddersfield Town]] and [[Cardiff City]]. During the game against Cardiff City on 20 January 2015, Kalas suffered a high ankle sprain.&lt;ref&gt;{{cite news|title=Middlesbrough vs. Cardiff City  2 – 1|url=https://int.soccerway.com/matches/2015/01/20/england/championship/middlesbrough-football-club/cardiff-city-fc/1705283/|accessdate=20 January 2015|date=20 January 2015}}&lt;/ref&gt; On 10 February 2015, Kalas returned to the starting line-up in a 2–1 away win against [[Blackpool F.C.|Blackpool]].&lt;ref&gt;{{cite news|title=Blackpool vs Middlesbrough  1 – 2|url=https://int.soccerway.com/matches/2015/02/10/england/championship/blackpool-fc/middlesbrough-football-club/1705353/|accessdate=12 April 2015|date=10 February 2015}}&lt;/ref&gt; On 14 April 2015, Kalas provided an assist to fellow Chelsea loanee [[Patrick Bamford]] as Middlesbrough beat [[Wolverhampton Wanderers F.C.|Wolves]] 2–1 at home.&lt;ref&gt;{{cite news|title=Middlesbrough vs. Wolves  2 – 1|url=http://www.dailymail.co.uk/sport/football/article-3038837/Middlesbrough-2-1-Wolves-Patrick-Bamford-inspires-Boro-secure-play-position.html|accessdate=15 April 2015|date=14 April 2015}}&lt;/ref&gt;
+
+Due to regulations of a short-term loan, Kalas was unable to finish out his season playing for the Boro. Although he missed the final three games of the season, he did ask permission to stay with Middlesbrough and train with the team until the season finished.&lt;ref&gt;{{cite news|title=Tomas Kalas, owned by Chelsea, discusses returning to loan club Middlesbrough|url=http://hereisthecity.com/en-gb/2015/04/20/tomas-kalas-owned-by-chelsea-discusses-returning-to-loan-club-mi/|accessdate=25 April 2015|date=19 April 2015}}&lt;/ref&gt; Kalas played a big role in the Boro making it to the [[2015 Football League play-offs|play-offs]], although they were unable to beat [[Norwich City F.C.|Norwich City]] in the final to achieve promotion to the Premier League.&lt;ref&gt;{{cite news|title=Middlesbrough 0–2 Norwich: Norwich returns to Premier League|url=https://www.bbc.com/sport/football/32776552|date=25 May 2015}}&lt;/ref&gt;
+
+On 13 July 2015, Kalas moved on to Middlesbrough for a second time until the end of the 2015–16 season.&lt;ref&gt;{{cite news|title=Tomas Kalas: Boro sign Chelsea starlet for second loan spell|url=http://www.gazettelive.co.uk/sport/football/transfer-news/tomas-kalas-boro-sign-chelsea-9643397|accessdate=13 July 2015|date=13 July 2015}}&lt;/ref&gt; 
+On 23 July 2015, Kalas signed a new three-year deal at Chelsea, therefore keeping him at the club until 2018.&lt;ref&gt;{{Cite news |title=New contract for Kalas |url=http://www.chelseafc.com/news/latest-news/2015/07/new-contract-for-kalas.html |publisher=Chelsea FC |date=23 July 2015}}&lt;/ref&gt; On 9 August 2015, Kalas started against [[Preston North End F.C.|Preston North End]] in the opening game of the season, where he retained his spot as right-back from the previous season.&lt;ref&gt;{{cite news|title=Preston North End vs. Middlesbrough  0 – 0|url=https://int.soccerway.com/matches/2015/08/09/england/championship/preston-north-end-fc/middlesbrough-football-club/2043869/|date=9 August 2015}}&lt;/ref&gt; During the first half of the season, Kalas was the starting right-back, but was dropped later on for the in-form [[Emilio Nsue]]. Even though he was playing a lot less, Middlesbrough manager [[Aitor Karanka]] stated that Kalas was still important in their chase for promote to the [[Premier League]].&lt;ref&gt;{{cite news|title=Aitor Karanka on Tomas Kalas: 'He's been unlucky recently but he's still an important player for us'|url=http://www.gazettelive.co.uk/sport/football/football-news/aitor-karanka-tomas-kalas-hes-10743445|date=16 January 2016}}&lt;/ref&gt; On 19 April 2016, Kalas played his last game for the Boro coming on as a late substitute as the Boro held out for the draw against league leaders [[Burnley F.C.|Burnley]].&lt;ref&gt;{{cite news|title=Burnley vs. Middlesbrough  1 – 1|url=https://int.soccerway.com/matches/2016/04/19/england/championship/burnley-fc/middlesbrough-football-club/2044486/|date=16 April 2016}}&lt;/ref&gt;
+
+Although there were talks about Kalas returning to Middlesbrough for a third spell, nothing materialise while Kalas received interest from other teams.&lt;ref&gt;{{Cite news |title=Middlesbrough target permanent deal for Chelsea defender Tomas Kalas |url=http://www.espnfc.com/story/2912164/middlesbrough-target-permanent-deal-for-chelsea-defender-tomas-kalas |publisher=ESPN |date=13 July 2016}}&lt;/ref&gt;
+&lt;ref&gt;{{Cite news |title=Chelsea defender Tomas Kalas ends Middlesbrough FC speculation by agreeing Fulham loan move  |url=http://www.gazettelive.co.uk/sport/football/transfer-news/chelsea-defender-tomas-kalas-ends-11611744 |date=13 July 2016}}&lt;/ref&gt; On 13 July 2016, Kalas joined [[Fulham F.C.|Fulham]] on a season-long loan, with this being his fifth loan.&lt;ref&gt;{{Cite news |title=Kalas Joins On Loan |url=http://www.fulhamfc.com/news/2016/july/13/tomas-kalas-joins-on-loan |publisher=Fulham F.C. |date=13 July 2016}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |title=Kalas loaned to Fulham |url=http://www.chelseafc.com/news/latest-news/2016/07/kalas-loaned-to-fulham.html|publisher=Chelsea F.C.|date=13 July 2016}}&lt;/ref&gt;
+
+On 5 August, Kalas made his debut in a 1–0 home victory over [[Newcastle United F.C.|Newcastle United]]. Kalas made an injury-time block to deny [[Matt Ritchie]]'s goal-bound shot, as he helped Fulham hold out for the clean-sheet.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2016/aug/05/fulham-newcastle-united-championship-match-report|title=Matt Smith’s winner for Fulham ends Newcastle’s hopes on opening night|date=5 August 2016|publisher=The Guardian}}&lt;/ref&gt; Kalas missed his first league game on 24 September 2016 after picking up a hamstring injury.&lt;ref&gt;{{cite web|url=http://www.fulham.vitalfootball.co.uk/article.asp?a=464208 |title=Barnsley v Fulham |date=14 October 2016|accessdate=19 October 2016}}&lt;/ref&gt; On 29 October 2016, Kalas returned from his injury and went on to score his first goal for Fulham in a 5–0 win over [[Huddersfield Town]].&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/37736406|title=Fulham 5–0 Huddersfield|publisher=BBC|date=29 October 2016 |accessdate=31 October 2016}}&lt;/ref&gt; Fulham qualified for the playoffs but lost 2–1 on aggregate in the semi-finals to [[Reading F.C.|Reading]], with Kalas conceding the winning penalty by committing handball.&lt;ref&gt;{{cite news|last1=Williams|first1=Adam|title=Reading 1–0 Fulham|url=https://www.bbc.co.uk/sport/football/39853033|accessdate=21 December 2017|publisher=BBC Sport|date=16 May 2017}}&lt;/ref&gt;
+
+On 27 July 2017, Kalas signed a new four-year contract with Chelsea and rejoined Fulham on loan for a second season.&lt;ref&gt;{{Cite news |title=New contract and loan for Kalas |url=http://www.chelseafc.com/news/latest-news/2017/07/new-contract-and-loan-for-kalas.html |publisher=Chelsea Official Site |date=27 July 2017 |accessdate=27 July 2017}}&lt;/ref&gt; He was sent off after 39 seconds on 12 August in a 1–1 draw at Reading for a foul on [[Mo Barrow]].&lt;ref&gt;{{cite news|title=Fulham's Tomas Kalas lasts all of 39 seconds before red card against Reading|url=https://www.fourfourtwo.com/features/fulhams-tomas-kalas-lasts-all-39-seconds-red-card-against-reading|accessdate=21 December 2017|work=FourFourTwo|date=14 August 2017}}&lt;/ref&gt;
+
+==International career==
+
+===Czech Republic U17===
+Kalas made his debut for the U-17 on 5 September 2009 coming on as a 61st-minute substitute in a European Under-17 Championship Qualifying match against [[Belarus national under-17 football team|Belarus]] which the Czechs won 1–0. He went on to be picked for the final tournament. He played 65 minutes of his 9th appearance, against [[Greece national football team|Greece]], before being sent off.&lt;ref name="Tomas Kalas red card"&gt;{{cite news|url=http://www.uefa.com/under17/matches/season=2010/round=15342/match=2002339/index.html|title=Tomas Kalas gets sent off|publisher=UEFA.com|date=8 July 2010|accessdate=8 July 2010}}&lt;/ref&gt;
+
+===Czech Republic U21===
+Kalas made his debut for the U-21 on 1 June 2012 in a UEFA U-21 Championship game against the Montenegro which ended in a 2–1 victory for the Czechs.
+
+===Czech Republic===
+
+Kalas made his senior debut in a 3–0 [[Exhibition game|friendly]] win against [[Slovakia national football team|Slovakia]] at his hometown's [[Andrův stadion]] on 14 November 2012, coming on as a substitute for [[David Limberský]] in the 74th minute.&lt;ref&gt;{{cite news|url=https://int.soccerway.com/matches/2012/11/14/world/friendlies/czech-republic/slovakia/1395163/|title=Czech vs Slovakia 3–0|publisher=Soccerway|date=14 November 2012|accessdate=28 June 2015}}&lt;/ref&gt; Kalas was included in the squad during the [[UEFA Euro 2016 qualifying|Euro 16 qualifiers]]. On 13 October 2015, Kalas came off the bench replacing [[Josef Šural]], as Czech Republic held on for the 3–2 victory&lt;ref&gt;{{cite news|url=https://int.soccerway.com/matches/2015/10/13/europe/european-championship-qualification/netherlands/czech-republic/1653395/|title=Netherland 2–3 Czech|publisher=Soccerway|date=13 October 2015|accessdate=13 July 2016}}&lt;/ref&gt; and winning the group in the process.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/33544119|title=Netherlands' bid to qualify for Euro 2016 ended in failure|publisher=BBC Sports|date=13 October 2015|accessdate=13 July 2016}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 26 May 2018}}&lt;ref&gt;{{cite web|title=Tomas Kalas|url=http://www.soccerbase.com/players/player.sd?player_id=55256|work=Soccerbase|accessdate=30 May 2014}}&lt;/ref&gt;&lt;ref&gt;{{soccerway|toma-kalas/191098|accessdate=26 May 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[SK Sigma Olomouc|Sigma Olomouc]]
+|[[2009–10 Gambrinus liga|2009–10]]
+|rowspan="2"|[[Gambrinus liga]]
+|1||0||0||0||0||0||colspan=2|—||colspan=2|—||1||0
+|-
+|[[2010–11 Gambrinus liga|2010–11]]
+|4||0||2||0||0||0||colspan=2|—||colspan=2|—||6||0
+|-
+!colspan="2"|Total
+!5!!0!!2!!0!!0!!0!!colspan=2|—!!colspan=2|—!!7!!0
+|-
+|rowspan="3"|[[Vitesse Arnhem|Vitesse]] (loan)
+|[[2011-12 Eredivisie|2011–12]]
+|rowspan="2"|[[Eredivisie]]
+|32||1||4||0||0||0||colspan=2|—||colspan=2|—||36||1
+|-
+|[[2012–13 Eredivisie|2012–13]]
+|34||1||3||0||0||0||3{{efn|Appearances in [[UEFA Europa League]]}}||0||colspan=2|—||40||1
+|-
+!colspan="2"|Total
+!66!!2!!7!!0!!0!!0!!3!!0!!colspan=2|—!!76!!2
+|-
+|[[Chelsea F.C.|Chelsea]]
+|[[2013–14 Chelsea F.C. season|2013–14]]
+|[[Premier League]]
+|2||0||0||0||1||0||1{{efn|Appearance in [[UEFA Champions League]]}}||0||colspan=2|—||4||0
+|-
+|[[1. FC Köln]] (loan)
+|[[2014–15 1. FC Köln season|2014–15]]
+|[[Bundesliga]]
+|0||0||0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|rowspan="3"|[[Middlesbrough F.C.|Middlesbrough]] (loan)
+|[[2014–15 Middlesbrough F.C. season|2014–15]]
+|rowspan="2"|[[EFL Championship|Championship]]
+|17||0||0||0||0||0||colspan=2|—||colspan=2|—||17||0
+|-
+|[[2015–16 Middlesbrough F.C. season|2015–16]]
+|26||0||1||0||3||0||colspan=2|—||colspan=2|—||30||0
+|-
+!colspan="2"|Total
+!43!!0!!1!!0!!3!!0!!colspan=2|—!!colspan=2|—!!47!!0
+|-
+|rowspan="3"|[[Fulham F.C.|Fulham]] (loan)
+|[[2016–17 Fulham F.C. season|2016–17]]
+|rowspan="2"|[[EFL Championship|Championship]]
+|36||1||2||0||0||0||colspan=2|—||2{{efn|name=CPO|Appearance(s) in [[EFL Championship play-offs|Championship play-offs]]}}||0||40||1
+|-
+|[[2017–18 Fulham F.C. season|2017–18]]
+|33||0||1||0||0||0||colspan=2|—||2{{efn|name=CPO}}||0||36||0
+|-
+!colspan="2"|Total
+!69!!1!!3!!0!!0!!0!!colspan=2|—!!4!!0!!76!!1
+|-
+!colspan="3"|Career total
+!185!!3!!11!!0!!4!!0!!4!!0!!4!!0!!208!!3
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 19 November 2018}}&lt;ref name=NFT&gt;{{NFT player|49284|Kalas, Tomáš|accessdate=26 May 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=5|[[Czech Republic national football team|Czech Republic]]
+|2012||1||0
+|-
+|2015||2||0
+|-
+|2016||2||0
+|-
+|2017||6||0
+|-
+|2018||7||2
+|-
+!colspan=2|Total||18||2
+|}
+
+===International goals===
+:''Scores and results list Czech Republic's goal tally first.''&lt;ref name=NFT/&gt;
+
+{| class="wikitable" style="font-size:100%;"
+! No !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 26 March 2018 || [[Guangxi Sports Center]], [[Nanning]], China || {{fb|CHN}} || align=center | '''1'''–1 || align=center | 4–1 || [[2018 China Cup]]
+|-
+| 2. || 6 June 2018 || [[Rudolf-Tonn-Stadion]], [[Schwechat]], Austria || {{fb|NGA}} || align=center | '''1'''–0 || align=center | 1–0 || [[Exhibition game#Association football|Friendly]]
+|}
+
+==Honours==
+'''Chelsea Reserves'''
+*[[Premier Reserve League]]: [[2010–11 Premier Reserve League|2010–11]]&lt;ref&gt;{{cite|url=http://www.chelseafc.com/teams/on-loan-players/tomas-kalas.html|title=Tomas Kalas Profile|accessdate=24 July 2016}}&lt;/ref&gt;
+
+'''Middlesbrough'''
+*[[EFL Championship|Football League Championship]] runner-up: [[2015–16 Football League Championship|2015–16]]&lt;ref&gt;{{cite web|title=Tomas Kalas|url=https://int.soccerway.com/players/toma-kalas/191098/|work=Soccerway|accessdate=14 February 2014}}&lt;/ref&gt;
+
+'''Fulham'''
+*[[EFL Championship play-offs]]: [[2018 English Football League play-offs#Championship|2018]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44178427 |title=Aston Villa 0–1 Fulham |first=Phil |last=Cartwright |publisher=BBC Sport |date=26 May 2018 |accessdate=26 May 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{CMFS player}}
+*{{Fotbal DNES|id=3009726}}
+*{{Soccerbase}}
+
+{{Bristol City F.C. squad}}
+{{Czech Talent of the Year}}
+&lt;!--{{Chelsea F.C. squad}}--&gt;
+
+{{DEFAULTSORT:Kalas, Tomas}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:People from Olomouc]]
+[[Category:Czech footballers]]
+[[Category:Czech Republic youth international footballers]]
+[[Category:Czech Republic under-21 international footballers]]
+[[Category:Czech Republic international footballers]]
+[[Category:Czech expatriate footballers]]
+[[Category:Association football defenders]]
+[[Category:SK Sigma Olomouc players]]
+[[Category:Chelsea F.C. players]]
+[[Category:SBV Vitesse players]]
+[[Category:1. FC Köln players]]
+[[Category:Middlesbrough F.C. players]]
+[[Category:Fulham F.C. players]]
+[[Category:Czech First League players]]
+[[Category:Eredivisie players]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:Expatriate footballers in the Netherlands]]
+[[Category:Expatriate footballers in Germany]]
+[[Category:Expatriate footballers in England]]
+[[Category:Czech expatriate sportspeople in England]]
+[[Category:Czech expatriate sportspeople in the Netherlands]]
+[[Category:Czech expatriate sportspeople in Germany]]
+[[Category:Bristol City F.C. players]]</text>
+      <sha1>88tsuqagq9m4a6wymzju6it6xfvmg1q</sha1>
+    </revision>
+  </page>
+</mediawiki>

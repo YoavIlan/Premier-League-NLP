@@ -1,0 +1,265 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Patrick Roberts</title>
+    <ns>0</ns>
+    <id>42240280</id>
+    <revision>
+      <id>885080732</id>
+      <parentid>885080526</parentid>
+      <timestamp>2019-02-25T20:57:15Z</timestamp>
+      <contributor>
+        <username>Ubiquity</username>
+        <id>4295</id>
+      </contributor>
+      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/81.128.220.188|81.128.220.188]] ([[User talk:81.128.220.188|talk]]): Says who? you need a reference ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25293">{{for|the Australian violinist|Patrick Roberts (violinist)}}
+{{Use British English|date=January 2016}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox football biography
+| name = Patrick Roberts
+| image = Patrick Roberts, Fulham 2014.jpg
+| image_size = 200
+| caption = Roberts warming up for [[Fulham F.C.|Fulham]] in 2014
+| fullname = Patrick John Joseph Roberts&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=12 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|df=y|1997|2|5}}&lt;ref name="FulhamU18"&gt;{{cite web|title=Patrick Roberts|url=http://www.fulhamfc.com/the-teams/u18s/player-profiles/patrick-roberts|publisher=Fulham FC|accessdate=18 March 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140318111147/http://www.fulhamfc.com/the-teams/u18s/player-profiles/patrick-roberts|archivedate=18 March 2014|df=dmy-all}}&lt;/ref&gt;
+| birth_place = [[Kingston upon Thames]], [[Greater London|London]], England
+| height = {{convert|1.70|m|order=flip}}&lt;ref name="FulhamU18" /&gt;
+| position = [[Midfielder#Winger|Winger]]&lt;ref name="FulhamU18" /&gt;
+| currentclub = [[Girona F.C.|Girona]]&lt;br&gt;(on loan from [[Manchester City F.C.|Manchester City]])
+| clubnumber = 17
+| youthyears1 = 
+| youthyears2 = {{0|0000}}–2010
+| youthyears3 = 2010–2014
+| youthclubs1 = Molesey Juniors
+| youthclubs2 = [[AFC Wimbledon]]
+| youthclubs3 = [[Fulham F.C.|Fulham]]&lt;ref name="FulhamU18" /&gt;&lt;ref&gt;{{cite web|title=Through the Ranks: Patrick Roberts|url=http://www.fulhamfc.com/kids-zone/through-the-ranks/patrick-roberts|publisher=Fulham FC|accessdate=4 August 2014|archiveurl=https://web.archive.org/web/20130120085116/http://www.fulhamfc.com/kids-zone/through-the-ranks/patrick-roberts|archivedate=20 January 2013}}&lt;/ref&gt;
+| years1 = 2014–2015
+| clubs1 = [[Fulham F.C.|Fulham]]
+| caps1 = 19
+| goals1 = 0
+| years2 = 2015–
+| clubs2 = [[Manchester City F.C.|Manchester City]]
+| caps2 = 1
+| goals2 = 0
+| years3 = 2016–2018
+| clubs3 = → [[Celtic F.C.|Celtic]] (loan)
+| caps3 = 55
+| goals3 = 15
+| years4 = 2018–
+| clubs4 = → [[Girona F.C.|Girona]] (loan)
+| caps4 = 10
+| goals4 = 0
+| nationalyears1 = 2012–2013
+| nationalteam1 = [[England national under-16 football team|England U16]]
+| nationalcaps1 = 7
+| nationalgoals1 = 1
+| nationalyears2 = 2013–2014
+| nationalteam2 = [[England national under-17 football team|England U17]]
+| nationalcaps2 = 14
+| nationalgoals2 = 7
+| nationalyears3 = 2015
+| nationalteam3 = [[England national under-18 football team|England U18]]
+| nationalcaps3 = 2
+| nationalgoals3 = 1
+| nationalyears4 = 2014–2016
+| nationalteam4 = [[England national under-19 football team|England U19]]
+| nationalcaps4 = 16
+| nationalgoals4 = 6
+| nationalyears5 = 2016–2017
+| nationalteam5 = [[England national under-20 football team|England U20]]
+| nationalcaps5 = 8
+| nationalgoals5 = 4
+| club-update = 14:44, 29 December 2018 (UTC)
+| nationalteam-update = 21:53, 24 April 2017 (UTC)
+}}
+'''Patrick John Joseph Roberts''' (born 5 February 1997) is an English professional [[Association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for Spanish [[La Liga]] side [[Girona F.C.|Girona]] on loan from [[Manchester City F.C.|Manchester City]]. He has previously played for [[Fulham F.C.|Fulham]] and [[Celtic F.C.|Celtic]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/41051266 |title=Patrick Roberts: Manchester City winger completes Celtic switch after medical |work=BBC Sport |publisher=BBC |date=28 August 2017 |accessdate=28 August 2017}}&lt;/ref&gt;
+
+==Club career==
+===Fulham===
+Having joined [[Fulham F.C.|Fulham]] from [[AFC Wimbledon]] at the age of 13,&lt;ref name="contract reaction"&gt;{{cite web|url=http://www.fulhamfc.com/news/2014/february/14/roberts-deal-delight |title=Roberts deal delight |publisher=Fulham F.C. |accessdate=8 May 2014 |date=14 February 2014 |archiveurl=https://web.archive.org/web/20140503164907/http://www.fulhamfc.com/news/2014/february/14/roberts-deal-delight |archivedate=3 May 2014 |deadurl=unfit }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=The star makers: How Fulham became one of the best youth academies in the modern game|url=https://www.independent.co.uk/sport/football/news-and-comment/the-star-makers-how-fulham-became-one-of-the-best-youth-academies-in-the-modern-game-9291146.html|publisher=independent.co.uk|accessdate=19 August 2014|archiveurl=https://web.archive.org/web/20140819133054/http://www.independent.co.uk/sport/football/news-and-comment/the-star-makers-how-fulham-became-one-of-the-best-youth-academies-in-the-modern-game-9291146.html|archivedate=19 August 2014|deadurl=no}}&lt;/ref&gt; Roberts signed his first professional contract shortly after his 17th birthday in February 2014, tying himself to the club until the summer of 2016.&lt;ref&gt;{{cite web|url=http://www.fulhamfc.com/news/2014/february/06/roberts-pro-deal |title=Roberts' Pro Deal |publisher=Fulham F.C. |accessdate=8 May 2014 |date=6 February 2014 |archiveurl=https://web.archive.org/web/20140503164325/http://www.fulhamfc.com/news/2014/february/06/roberts-pro-deal |archivedate=3 May 2014 |deadurl=unfit }}&lt;/ref&gt; Roberts described signing the contract as "one of the best feelings I've ever had in my life".&lt;ref name="contract reaction" /&gt;
+
+Roberts was named among Fulham's [[Substitute (association football)|substitutes]] for the first time on 15 March 2014 for a [[Premier League]] game against [[Newcastle United F.C.|Newcastle United]],&lt;ref name="Newcastle"&gt;{{cite web|title=Fulham 1 – 0 Newcastle|url=https://www.bbc.co.uk/sport/0/football/26493211|publisher=BBC Sport|accessdate=18 March 2014|date=15 March 2014}}&lt;/ref&gt; with Fulham manager [[Felix Magath]] describing Roberts after the match as "an extraordinary talent".&lt;ref&gt;{{cite web|title=Magath: I Hate To Lose|url=http://www.fulhamfc.com/news/2014/march/15/magath-i-hate-to-lose|publisher=Fulham FC|accessdate=18 March 2014|date=15 March 2014}}&lt;/ref&gt; On 22 March 2014, he made his debut as a 55th-minute substitute in a Premier League defeat to [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{cite web|title=Man City 5 – 0 Fulham|url=https://www.bbc.co.uk/sport/0/football/26590071|publisher=BBC Sport|accessdate=22 March 2014}}&lt;/ref&gt; On 5 May, he scored in the second leg of the [[2013–14 FA Youth Cup|2014 FA Youth Cup final]], which Fulham lost 7–6 on aggregate to [[Chelsea F.C.|Chelsea]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/27288435 "FA Youth Cup final: Chelsea beat Fulham 7–6 on aggregate"] BBC Sport. 5 May 2014. Retrieved 6 May 2014.&lt;/ref&gt; Roberts' first appearance of the 2014–2015 campaign came as a substitute in Fulham's opening day fixture at [[Ipswich Town F.C.|Ipswich Town]] on 9 August, where he managed to grab an assist shortly after coming on.&lt;ref&gt;{{cite news|last=Emons|first=Michael|title=Ipswich Town 2 – 1 Fulham|url=https://www.bbc.co.uk/sport/football/28646535|accessdate=2 April 2016|work=BBC Sport|date=9 August 2014}}&lt;/ref&gt; He made his first start for the Cottagers on 20 August 2014 in a home match against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].&lt;ref&gt;{{cite news|last=Flanagan|first=Aaron|title=Who is Patrick Roberts? Everything you need to know about the Liverpool transfer target|url=https://www.mirror.co.uk/sport/football/news/who-patrick-roberts-everything-you-4602550|accessdate=2 April 2016|work=The Mirror|date=10 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Fulham 0 Wolverhampton Wanderers 1|url=http://www.fulhamfc.com/first-team/2014_2015/league/home/wolverhampton-wanderers|accessdate=2 April 2016|work=Fulham FC|date=20 August 2014}}&lt;/ref&gt;
+
+===Manchester City===
+On 19 July 2015, Roberts signed for [[Manchester City F.C.|Manchester City]] on a long-term deal for an undisclosed fee, believed to be in the region of £12 million.&lt;ref&gt;{{cite news |url=http://www.skysports.com/football/news/11095/9917664/patrick-roberts-signs-for-manchester-city-from-fulham |title=Patrick Roberts: Manchester City sign Fulham teenager |publisher=Sky Sports |date=19 July 2015 |accessdate=19 July 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Manchester City sign Fulham's Patrick Roberts to swell homegrown contingent|url=https://www.theguardian.com/football/2015/jul/19/manchester-city-sign-patrick-roberts-fulham|publisher=The Guardian|accessdate=22 August 2015|date=19 July 2015}}&lt;/ref&gt; Roberts made his debut coming on as a substitute for [[Jesús Navas]] against [[Real Madrid C.F.|Real Madrid]] in the pre-season [[2015 International Champions Cup]].&lt;ref&gt;{{Cite web|title = Manchester City vs. Real Madrid – 24 July 2015 – Soccerway|url = https://int.soccerway.com/matches/2015/07/24/world/international-champions-cup/manchester-city-football-club/real-madrid-club-de-futbol/2032770/|website = uk.soccerway.com|accessdate = 2015-07-24}}&lt;/ref&gt; On 22 September 2015, Roberts made his first team debut for Manchester City when he came on as a substitute during a 4–1 win against [[Sunderland A.F.C.|Sunderland]] in the [[Football League Cup|League Cup]].&lt;ref&gt;{{cite web |url=https://www.theguardian.com/football/2015/sep/22/sunderland-manchester-city-capital-one-cup-match-report |title=Sunderland 1 – 4 Man City |publisher=The Guardian |date=22 September 2015 |accessdate=22 September 2015}}&lt;/ref&gt; He made his league debut for Manchester City in a 4–1 loss to [[Tottenham Hotspur F.C.|Tottenham Hotspur]], coming on as a substitute for [[Sergio Agüero]].&lt;ref&gt;{{Cite web|title = Tottenham Hotspur vs. Manchester City – 26 September 2015|url =https://int.soccerway.com/matches/2015/09/26/england/premier-league/tottenham-hotspur-football-club/manchester-city-football-club/2043111|website = uk.soccerway.com|accessdate=26 September 2015}}&lt;/ref&gt;
+
+====Loans to Celtic====
+On 29 January 2016, it was reported that [[Celtic F.C.|Celtic]] had agreed an 18-month loan deal with Manchester City for Roberts, while the player was in Glasgow for a medical.&lt;ref&gt;{{cite news|last=McLaughlin|first=Chris|title=Patrick Roberts: Manchester City midfielder to join Celtic on loan|url=https://www.bbc.co.uk/sport/football/35444000|accessdate=30 January 2016|work=BBC Sport|date=29 January 2016}}&lt;/ref&gt; The transfer was confirmed on 1 February.&lt;ref&gt;{{cite news |title=Celtic sign Colin Kazim-Richards &amp; Patrick Roberts, send Ciftci on loan |url=https://www.bbc.co.uk/sport/football/35459424 |publisher=BBC Sport |date=1 February 2016 |accessdate=22 February 2016}}&lt;/ref&gt; He played for the U20 side a couple of days later in a 4–0 win over [[Motherwell F.C.|Motherwell]], scoring Celtic's fourth in the last minute and providing assists for the other three goals.&lt;ref&gt;{{cite news|title=Celtic fans hail Patrick Roberts after impressive debut in youth team victory over Motherwell|url=http://www.dailyrecord.co.uk/sport/football/football-news/celtic-fans-hail-patrick-roberts-7317067#9QqBpUPwrd3mcDMy.97|accessdate=2 April 2016|work=Daily Record|date=5 February 2016}}&lt;/ref&gt; Roberts made his first team debut for Celtic on 20 February 2016, coming on a substitute for the final few minutes of Celtic's 3–0 league win over [[Inverness Caledonian Thistle F.C.|Inverness CT]] at Celtic Park.&lt;ref name="fb156"&gt;{{cite web|title=Games involving Roberts, Patrick in season 2015/2016|url=http://www.fitbastats.com/celtic/player_games.php?playerid=7903|website=FitbaStats|accessdate=2 April 2016}}&lt;/ref&gt;&lt;ref name="start"&gt;{{cite news|last1=Hawkins|first1=Billy|title=Celtic fans react on Twitter to Patrick Roberts' full debut performance|url=http://www.hitc.com/en-gb/2016/03/03/celtic-fans-react-on-twitter-to-patrick-roberts-performance-v-du/|accessdate=2 April 2016|work=HITC}}&lt;/ref&gt; He was given his first starting appearance on 2 March in a league match at home against [[Dundee F.C.|Dundee]]. Celtic could only draw 0–0, but Roberts was noted to have looked "sharp" and showed "flashes of his talent".&lt;ref name="start" /&gt;
+
+On 2 April 2016, Roberts scored his first competitive club goal, netting a brace for Celtic in a 3–1 come-from-behind win over [[Heart of Midlothian F.C.|Hearts]].&lt;ref&gt;{{cite news|last=|first=|title=Celtic 3–1 Hearts: Patrick Roberts brace helps Hoops go seven points clear at top|url=http://www.dailymail.co.uk/sport/football/article-3520423/Celtic-3-1-Hearts-Patrick-Roberts-brace-helps-Hoops-seven-points-clear-top.html|accessdate=7 April 2016|work="Daily Mail"|date=2 April 2016}}&lt;/ref&gt; Following an impressive run of form during which he netted three goals, Roberts was named Scottish Player of the Month for April.&lt;ref&gt;{{cite news|last=Pollard|first=Rob (6 May 2016)|title=Manchester City's Patrick Roberts wins Scottish Player of the Month award|url=http://www.manchestereveningnews.co.uk/sport/football/football-news/patrick-roberts-manchester-city-celtic-11296606|accessdate=8 May 2016|website= Manchester Evening}}&lt;/ref&gt; He scored another brace on 8 May in a 3–2 win over [[Aberdeen F.C.|Aberdeen]], in the process helping Celtic clinch the [[Scottish Premiership]] title.&lt;ref&gt;{{cite news|last=Myson |first=Chris (8 May 2016)|title=Celtic 3–2 Aberdeen: Roberts double seals Scottish Premiership title|url=http://www.goal.com/en-gb/news/2881/scottish-football/2016/05/08/23273402/celtic-3-2-aberdeen-roberts-double-seals-scottish|accessdate=8 May 2016|website= Goal}}&lt;/ref&gt; Roberts scored another goal on the final day of the season in a 7–0 drubbing of [[Motherwell F.C.|Motherwell]], thereby ending the campaign with 7 goals in 12 appearances for Celtic.&lt;ref&gt;{{cite news|title=Celtic celebrate title with 7–0 win against Motherwell|url=http://worldsoccertalk.com/2016/05/15/celtic-celebrate-title-with-7-0-win-against-motherwell/|date=15 May 2016|accessdate=15 May 2016|website= World Soccer Talk}}&lt;/ref&gt;
+
+Roberts made his first ever [[UEFA Champions League|Champions League]] appearance on 20 July 2016, starting and scoring in a 3–0 win over [[Lincoln Red Imps F.C.|Lincoln Red Imps]]. He had previously rejected the opportunity to represent England at the [[UEFA European Under-19 Championship|U19 European Championship]] in order to help Celtic progress to the Champions League proper.&lt;ref name="Lincoln Red Imps"/&gt; On 6 December 2016, Roberts scored an impressive solo goal and was named man of the match in a Champions League match against his parent club Manchester City.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/38202631|title=Manchester City 1–1 Celtic|date=6 December 2016|publisher=|via=www.bbc.co.uk}}&lt;/ref&gt;
+He finished the 2016–2017 season with 43 appearances and 15 goals, helping Celtic to complete an unbeaten domestic season, in which the club secured its sixth consecutive league title.
+
+On 28 August 2017, it was announced that Roberts had rejoined Celtic on a new season-long loan.&lt;ref&gt;{{cite web|url=http://www.celticfc.net/news/13158|title=Delight as Patrick Roberts rejoins Celtic on loan|date=28 August 2017|publisher=[[Celtic F.C.|Celtic]]|via=www.celticfc.net}}&lt;/ref&gt; In November, during a match against Motherwell, Roberts suffered a hamstring injury and was sidelined for a number of months. He made his return against the same opposition on 18 March 2018 when he came on a substitute for [[James Forrest (footballer)|James Forrest]] in a 0–0 draw.&lt;ref&gt;{{cite news|url=http://www.skysports.com/football/news/11787/11306105/celtic-winger-patrick-roberts-refreshed-ahead-of-season-finale|title=Celtic winger Patrick Roberts refreshed ahead of season finale|publisher=SKy Sports|date=27 March 2018|accessdate=5 April 2018}}&lt;/ref&gt;
+
+====Loan to Girona====
+
+Roberts joined Manchester City's Spanish partner club [[Girona F.C.|Girona]] for the 2018–19 season, with Manchester City saying that the ideal next stage in Robert's development would be testing himself in [[La Liga]], one of the world’s most technical leagues.&lt;ref&gt;{{cite web |last1=Pollard |first1=Rob |title=Patrick Roberts joins Girona on loan |url=https://www.mancity.com/news/first-team/first-team-news/2018/august/man-city-patrick-roberts-joins-girona-on-loan |publisher=Manchester City F.C. |accessdate=16 August 2018}}&lt;/ref&gt; At the time of signing he was the only English player playing in the Spanish top flight and he made his debut the following day as a substitute against [[Real Valladolid]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2018/aug/26/patrick-roberts-reaps-rewards-girona-manchester-city-connection|title=Patrick Roberts reaping rewards of Girona’s complex City connection|publisher=The Guardian|last=Lowe|first=Sid|date=26 August 2018|accessdate=18 September 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:France - England U19, 20150331 58.JPG|thumb|200px|Roberts playing for [[England national under-19 football team|England U19s]] in 2015|alt=young white man in white and blue kit]]
+
+Roberts has represented England at [[England national under-16 football team|under-16]], [[England national under-17 football team|under-17]] and [[England national under-19 football team|under-19]] levels.&lt;ref name="FA"&gt;{{cite web|title=Patrick Roberts|url=http://www.thefa.com/england/all-teams/players/r/patrick-roberts|publisher=The Football Association|accessdate=18 March 2014}}&lt;/ref&gt; He played an integral role in England's victory at the 2014 European Under-17 Championship in Malta, scoring three goals, grabbing four assists and being named in the team of the tournament.&lt;ref name="uefa.com"&gt;http://www.uefa.com/under17/season=2014/technical-report/tr-under17-2014.pdf&lt;/ref&gt;
+
+In August 2014 Roberts received his first call up to the England [[England national under-19 football team|under-19]] squad.&lt;ref&gt;{{cite web|url=http://www.thefa.com/news/england/development/2014/aug/u19-squad-germany-oberhausen-izzy-brown-patrick-roberts-joe-gomez|title=Three U17 Euro winners make step up to England U19s|author=The Football Association|work=thefa.com}}&lt;/ref&gt; Despite being just 17 years old at the time, Roberts played a massive part in the England [[England national under-19 football team|under-19]] team's progression through the 2015 UEFA European Under-19 Championship qualifying round. In the three group games played by England under-19, Roberts recorded a total of four goals and four assists. He had previously rejected the chance to be in the England squad at the [[UEFA European Under-19 Championship|U19 European Championship]] in order to help Celtic progress to the Champions League proper.&lt;ref name="Lincoln Red Imps"&gt;{{cite news|url=http://www.dailymail.co.uk/wires/pa/article-3700751/Patrick-Roberts-happy-swerve-England-duty-tilt-Europe-Celtic.html|title=Patrick Roberts happy to swerve England duty for tilt at Europe with Celtic|website=Daily Mail|date=21 July 2016|accessdate=21 July 2016}}&lt;/ref&gt; Roberts was also expected to be selected for the [[England national under-20 football team|England under-20]] squad in the [[2017 FIFA U-20 World Cup]], but he instead opted to play for Celtic in the [[2017 Scottish Cup Final]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/39825899 |title=Patrick Roberts passes up U20 World Cup spot to stay at Celtic |work=BBC Sport |publisher=BBC |date=5 May 2017 |accessdate=5 May 2017}}&lt;/ref&gt;
+
+==Personal life==
+Roberts was born in [[Kingston upon Thames]], [[Greater London]].&lt;ref name="FulhamU18" /&gt; His parents are both from [[Merseyside]] and he is a fan of [[Liverpool F.C.|Liverpool]].&lt;ref&gt;{{cite web|url=http://bleacherreport.com/articles/2169308-liverpool-transfer-news-english-messi-patrick-roberts-eyed-jordan-ibe-latest|title=Liverpool|author=Nick Akerman|work=Bleacher Report}}&lt;/ref&gt; He is an alumnus of [[Wimbledon College]].&lt;ref&gt;{{Cite web|url=http://www.oldwimbledonians.com/history.html|title=Old Wimbledonians Association|website=www.oldwimbledonians.com|accessdate=2017-04-23}}&lt;/ref&gt;
+
+==Career statistics==
+
+{{updated|match played 12 December 2018}}&lt;ref name=SW&gt;{{cite web|url= http://www.soccerbase.com/players/player.sd?player_id=75028/|title=Patrick Roberts Profile|publisher=Soccerbase.com|accessdate=25 January 2019}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Europe
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Fulham F.C.|Fulham]]
+|[[2013–14 Fulham F.C. season|2013–14]]&lt;ref name="Games played by Patrick Roberts in 2013/2014"&gt;{{Soccerbase season|75028|2013|name=Patrick Roberts|access-date=18 March 2014}}&lt;/ref&gt;
+|[[Premier League]]
+|2||0||0||0||0||0||colspan="2"|—||2||0
+|-
+|[[2014–15 Fulham F.C. season|2014–15]]&lt;ref name="Games played by Patrick Roberts in 2014/2015"&gt;{{Soccerbase season|75028|2014|name=Patrick Roberts|access-date=27 May 2015}}&lt;/ref&gt;
+|[[Football League Championship|Championship]]
+|17||0||2||0||1||0||colspan="2"|—||20||0
+|-
+!colspan=2|Total
+!19!!0!!2!!0!!1!!0!!colspan="2"|—!!22!!0
+|-
+|rowspan=2|[[Manchester City F.C.|Manchester City]]
+|[[2015–16 Manchester City F.C. season|2015–16]]&lt;ref name="Games played by Patrick Roberts in 2015/2016"&gt;{{Soccerbase season|75028|2015|name=Patrick Roberts|access-date=2 April 2016}}&lt;/ref&gt;
+|Premier League
+|1||0||0||0||2||0||0||0||3||0
+|-
+!colspan=2|Total
+!1!!0!!0!!0!!2!!0!!0!!0!!3!!0
+|-
+|rowspan="4"|[[Celtic F.C.|Celtic]] (loan)
+|[[2015–16 Celtic F.C. season|2015–16]]&lt;ref name="Games played by Patrick Roberts in 2015/2016"/&gt;
+|[[Scottish Premiership]]
+|11||6||2||0||colspan="2"|—||colspan="2"|—||13||6
+|-
+|[[2016–17 Celtic F.C. season|2016–17]]&lt;ref&gt;{{Soccerbase season|75028|2016|name=Patrick Roberts|access-date=30 August 2016}}&lt;/ref&gt;
+|Scottish Premiership
+|32||9||4||0||2||0||9{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||2||47||11
+|-
+|[[2017–18 Celtic F.C. season|2017–18]]&lt;ref&gt;{{Soccerbase season|75028|2017|name=Patrick Roberts|access-date=17 September 2017}}&lt;/ref&gt;
+|Scottish Premiership
+|12||0||1||0||3||0||3{{efn|name=UCL}}||1||19||1
+|-
+!colspan="2"|Total
+!55!!15!!7!!0!!5!!0!!12!!3!!79!!18
+|-
+|[[Girona FC|Girona]] (loan)
+|[[2018–19 Girona FC season|2018–19]]
+|[[La Liga]]
+|10||0||2||0||0||0||0||0||12||0
+|-
+!colspan="3"|Career total
+!85!!15!!11!!0!!8!!0!!12!!3!!116!!18
+|}
+
+{{notelist}}
+
+==Honours==
+===Club===
+'''Celtic'''
+*[[Scottish Premiership]]: [[2015–16 Scottish Premiership|2015–16]], [[2016–17 Scottish Premiership|2016–17]]&lt;ref name=SW/&gt;&lt;ref&gt;{{cite web|url=http://www.eurosport.co.uk/football/scottish-premiership/2015-2016/celtic-celebrate-fifth-straight-scottish-title-with-thumping-win-over-motherwell_sto5573644/story.shtml|title=Celtic celebrate fifth straight Scottish title with thumping win over Motherwell|date=15 May 2016|work=Eurosport|accessdate=5 December 2016}}&lt;/ref&gt;, [[2017–18 Scottish Premiership|2017–18]]
+*[[Scottish League Cup]]: [[2016–17 Scottish League Cup|2016–17]],&lt;ref name=SW/&gt;&lt;ref&gt;{{cite web|last=English|first=Tom|url=https://www.bbc.com/sport/football/38110297|title=Aberdeen 0–3 Celtic|date=27 November 2016|publisher=BBC|accessdate=5 December 2016}}&lt;/ref&gt; [[2017&amp;ndash;18 Scottish League Cup|2017&amp;ndash;18]]&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/42056522 |title=Motherwell 0 - 2 Celtic|publisher=BBC |work=BBC Sport|accessdate=26 November 2017 |date=26 November 2017}}&lt;/ref&gt;
+*[[Scottish Cup]]: [[2016–17 Scottish Cup|2016–17]], [[2017–18 Scottish Cup|2017–18]]
+
+===International===
+'''England U17'''
+*[[UEFA European Under-17 Football Championship|UEFA European U-17 Championship]]: [[2014 UEFA European Under-17 Football Championship|2014]]&lt;ref&gt;{{cite web|last=Kell|first=Tom|url=http://www.uefa.com/under17/season=2014/matches/round=2000377/match=2014126/postmatch/report/|title=England beat Dutch on penalties to take title|date=21 May 2014|publisher=UEFA|accessdate=5 December 2016}}&lt;/ref&gt;
+
+===Individual===
+*[[UEFA European Under-17 Football Championship|UEFA European U-17 Championship]] Team of the Tournament: [[2014 UEFA European Under-17 Football Championship|2014]]&lt;ref name="uefa.com"/&gt;
+*[[Scottish Premiership]] Player of the Month: [[2015–16 Scottish Premiership|April 2016]]&lt;ref&gt;{{Cite web|last=Sutherland|first=Patrick (6 May 2016)|title = Celtic's Patrick Roberts would prefer club over country|url =https://www.bbc.com/sport/football/36228983|website = BBC|accessdate=9 May 2016}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.mcfc.co.uk/teams/first-team/midfielders/patrick-roberts Player Profile] at [[Manchester City F.C.|Manchester City]]
+*{{Soccerbase}}
+
+{{Girona FC squad}}
+
+{{DEFAULTSORT:Roberts, Patrick}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:People from Kingston upon Thames]]
+[[Category:Footballers from Greater London]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:English expatriates in Spain]]
+[[Category:Association football wingers]]
+[[Category:AFC Wimbledon players]]
+[[Category:Fulham F.C. players]]
+[[Category:Manchester City F.C. players]]
+[[Category:Celtic F.C. players]]
+[[Category:Girona FC players]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:Scottish Professional Football League players]]
+[[Category:People educated at Wimbledon College]]</text>
+      <sha1>mrlvfbte80t3lo7u9sscme1yt576gqe</sha1>
+    </revision>
+  </page>
+</mediawiki>

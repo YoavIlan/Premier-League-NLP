@@ -1,0 +1,342 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Oumar Niasse</title>
+    <ns>0</ns>
+    <id>34820739</id>
+    <revision>
+      <id>885835816</id>
+      <parentid>885724073</parentid>
+      <timestamp>2019-03-02T17:28:12Z</timestamp>
+      <contributor>
+        <username>Kosack</username>
+        <id>4446447</id>
+      </contributor>
+      <comment>Updated stats</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22409">{{Use dmy dates|date=December 2018}}
+{{Infobox football biography
+| name           = Oumar Niasse
+| image          = Loko skndrb 10.jpg
+| caption        = Niasse with [[FC Lokomotiv Moscow|Lokomotiv]] in 2015
+| fullname       = El Hadji Baye Oumar Niasse&lt;ref name=BM&gt;{{cite web |title=Aston Villa scouting report: Who is El Hadji Baye Oumar Niasse |url=http://www.birminghammail.co.uk/sport/football/transfer-news/aston-villa-scouting-report-who-10687949|website=Birmingham Mail |accessdate=21 June 2017|date=5 January 2016}}&lt;/ref&gt;
+| height         = {{height|m=1.82|precision=0}}&lt;ref&gt;{{cite web |title=Player profile: Oumar Niasse |url=http://www.espnfc.com/player/125365/baye--niasse |publisher=ESPN |accessdate=15 July 2017}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1990|04|18|df=y}}&lt;ref&gt;{{cite web|url=https://www.11v11.com/players/oumar-niasse-243519/|title=Oumar Niasse|website=11v11.com}}&lt;/ref&gt;
+| birth_place    = [[Ouakam]], Senegal
+| currentclub    = [[Cardiff City F.C.|Cardiff City]]&lt;br&gt;(on loan from [[Everton F.C.|Everton]])
+| clubnumber     = 29
+| position       = [[Forward (association football)#Striker|Striker]]
+| youthyears1    = 
+| youthclubs1    = 
+| years1         = 2008–2013
+| clubs1         = [[US Ouakam]]
+| caps1          = 154
+| goals1         = 102
+| years2         = 2012
+| clubs2         = → [[SK Brann|Brann]] (loan)
+| caps2          = 3
+| goals2         = 0
+| years3         = 2013–2014
+| clubs3         = [[Akhisar Belediyespor]]
+| caps3          = 34
+| goals3         = 12
+| years4         = 2014–2016
+| clubs4         = [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+| caps4          = 28
+| goals4         = 12
+| years5         = 2016–
+| clubs5         = [[Everton F.C.|Everton]]
+| caps5          = 31
+| goals5         = 8
+| years6         = 2017
+| clubs6         = → [[Hull City A.F.C.|Hull City]] (loan)
+| caps6          = 17
+| goals6         = 4
+| years7         = 2019–
+| clubs7         = → [[Cardiff City F.C.|Cardiff City]] (loan)
+| caps7          = 6
+| goals7         = 0
+| nationalyears1 = 2011
+| nationalteam1  = [[Senegal national under-23 football team|Senegal U23]]
+| nationalcaps1  = 6
+| nationalgoals1 = 0
+| nationalyears2 = 2013–
+| nationalteam2  = [[Senegal national football team|Senegal]]
+| nationalcaps2  = 9
+| nationalgoals2 = 3
+| club-update    = 17:28, 2 March 2019 (UTC)
+| nationalteam-update  = 03:10, 6 October 2018 (UTC)
+}}
+
+'''El Hadji Baye Oumar Niasse''' (born 18 April 1990) is a Senegalese professional [[association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for [[Premier League]] club [[Cardiff City F.C.|Cardiff City]], on loan from [[Everton F.C.|Everton]] and the [[Senegal national football team|Senegal national team]]. 
+
+Niasse has played top-flight football in Senegal, Norway, Turkey, Russia and England. He won the 2011 [[Senegal Premier League]] with [[US Ouakam|Ouakam]] and scored in [[FC Lokomotiv Moscow|Lokomotiv Moscow]]'s win in the [[2015 Russian Cup Final]]. He signed for Everton for a £13.5&amp;nbsp;million transfer fee in 2016. Niasse made his full international debut for Senegal in 2013.
+
+==Club career==
+===Ouakam===
+Born in [[Ouakam]], [[Dakar Department]], Niasse began his football career with hometown club [[US Ouakam]] in the second tier. He signed his first professional contract with Ouakam in 2008 and in the 2008–09 season helped his team win the Second League title by scoring 21 goals.&lt;ref&gt;{{cite web|url=http://www.fanatik.com.tr/2014/01/09/gol-silahi-oumar-niasse-350690|title=Gol silahı Oumar Niasse}}&lt;/ref&gt; Playing as a winger, Niasse also played a key role in Ouakam winning the [[Senegal Premier League]] title in 2011.&lt;ref name=":0"&gt;{{Cite web|title = Oumar Niasse: Meet the hard-working Senegalese striker wanted in England|url = http://www.fourfourtwo.com/features/oumar-niasse-meet-hard-working-senegalese-striker-wanted-england#:0solhCmynml5YA|website = FourFourTwo|accessdate = 2 February 2016|date = 8 January 2016}}&lt;/ref&gt;
+
+Niasse started a trial with Norwegian club [[SK Brann|Brann]] in February 2012,&lt;ref&gt;[http://www.ba.no/sport/fotball/brann/article5907691.ece Han kan være Branns nye kantspiller] ba.no {{no icon}}&lt;/ref&gt; and after impressing signed for the club on a six-month loan.&lt;ref&gt;[http://fotball.aftenposten.no/blogg/doddo/article223554.ece Doddo-bloggen: Signér Niasse!] {{webarchive|url=https://web.archive.org/web/20120212095503/http://fotball.aftenposten.no/blogg/doddo/article223554.ece |date=12 February 2012 }} aftenposten.no {{no icon}}&lt;/ref&gt;&lt;ref&gt;[http://www.brann.no/nyheter/er-her-for-a-bli-bedre/ – Er her for å bli bedre] {{webarchive|url=https://archive.is/20120223060545/http://www.brann.no/nyheter/er-her-for-a-bli-bedre/ |date=23 February 2012 }} brann.no {{no icon}}&lt;/ref&gt; His time in Norway was hampered by poor form and injuries, and he returned to Senegal after playing just three [[Tippeligaen]] matches.
+
+===Akhisar Belediyespor===
+After a trial period with French club [[AS Saint-Étienne|Saint-Étienne]], Niasse was offered a contract to join the club but refused the offer.{{Citation needed|date = January 2016}} He joined the summer camp of Turkish [[Süper Lig]] club [[Akhisar Belediyespor]] and signed permanently with them in August 2013.&lt;ref&gt;{{cite web|url=http://www.yazete.com/spor/akhisarda-oumar-niasse-de-tamam-660796.html|title=Akhisar'da Oumar Niasse de tamam}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.fanatik.com.tr/2013/08/08/akhisara-senegalli-328718|title=Akhisar'a Senegalli}}&lt;/ref&gt; Niasse scored on his debut in Turkey and ultimately finished the season with 15 goals.&lt;ref name=":0" /&gt;
+
+===Lokomotiv Moscow===
+[[File:Loco-Terec (4).jpg|thumb|Niasse in action for Lokomotiv against [[FC Akhmat Grozny|Terek Grozny]] in October 2014]]
+Before the 2014–15 season, Niasse signed with Russian club [[FC Lokomotiv Moscow|Lokomotiv Moscow]] in July 2014 for a €5.5&amp;nbsp;million transfer fee.&lt;ref name="sway" /&gt;  He scored Lokomotiv's equalising goal in the [[2015 Russian Cup Final|Russian Cup Final]] against [[FC Kuban Krasnodar|Kuban Krasnodar]] on 21 May 2015 as his side went on to win 3–1 after extra time.&lt;ref&gt;{{cite web |url=https://int.soccerway.com/matches/2015/05/21/russia/cup/fk-lokomotiv-moscow/fc-kuban-krasnodar/2031399/ |accessdate=12 January 2016 |title=Lokomotiv Moskva vs. Kuban' Krasnodar 3 – 1 |website=Soccerway}}&lt;/ref&gt;
+
+===Everton===
+Niasse joined English [[Premier League]] club [[Everton F.C.|Everton]] on 1 February 2016 for a transfer fee of approximately £13.5&amp;nbsp;million, signing a four-and-a-half year contract.&lt;ref&gt;{{cite web|publisher=[[Everton F.C.]]|url=http://www.evertonfc.com/news/2016/02/01/niasse-completes-13-5-move|title=Niasse Completes £13.5m Move|date=1 February 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2016/jan/30/oumar-niasse-everton-lokomotiv-moscow-premier-league|title=Everton poised to sign Lokomotiv Moscow's Oumar Niasse for £13.5m|first=David|last=Hytner|date=30 January 2016|newspaper=The Guardian}}&lt;/ref&gt; He made his debut for the club against [[A.F.C. Bournemouth|AFC Bournemouth]] on 20 February 2016, entering as an 80th-minute substitute for striker [[Romelu Lukaku]]. 
+
+After 152 minutes of football in his first season at the club, Niasse was not given a squad number for the following 2016–17 season.&lt;ref&gt;{{cite news|work=[[The Guardian]]|url=https://www.theguardian.com/football/blog/2016/aug/03/premier-league-2016-17-preview-everton|title=Premier League 2016–17 Preview Everton|date=3 August 2016}}&lt;/ref&gt; He was informed by then-Everton manager [[Ronald Koeman]] he would need to search for a new club during the summer 2016 transfer window, saying, "[I]f Niasse likes to play football he needs to leave Everton."&lt;ref&gt;{{cite news|last1=Bascombe|first1=Chris|title=Everton manager Ronald Koeman tells Oumar Niasse to find another club – just six months after his arrival|url=https://www.telegraph.co.uk/football/2016/08/18/everton-manager-ronald-koeman-tells-oumar-niasse-to-find-another/|accessdate=23 September 2016|work=The Telegraph|date=18 August 2016}}&lt;/ref&gt; 
+
+However, following the close of the transfer deadline for loaning and signing players in England, he was listed as part of the 25-man Everton squad for the 2016–17 season submitted on 1 September 2016&lt;ref&gt;{{cite news|last1=Doyle|first1=Ian|title=Oumar Niasse included in Everton's Premier League squad|url=http://www.liverpoolecho.co.uk/sport/football/football-news/oumar-niasse-included-evertons-premier-11831437|accessdate=23 September 2016|work=Liverpool Echo|date=1 September 2016}}&lt;/ref&gt; and eventually issued squad number 24. 
+
+In October 2016, Niasse was demoted to the under-23 squad and had his personal locker revoked.&lt;ref&gt;{{Cite news |url=https://www.theguardian.com/football/2016/oct/11/everton-oumar-niasse-ronald-koeman-roberto-martinez|title=Everton’s Oumar Niasse: ‘It’s really sad. I don’t think I deserve this’ |last=Hytner|first=David|date=11 October 2016|newspaper=The Guardian|issn=0261-3077|accessdate=21 October 2016}}&lt;/ref&gt;
+
+====Loan to Hull City====
+On 13 January 2017, Niasse signed a loan contract with [[Hull City A.F.C.|Hull City]] until the end of the 2016–17 season with an option for a £10&amp;nbsp;million permanent transfer from Everton.&lt;ref&gt;{{Cite news |first =David|last=Anderson |url=https://www.mirror.co.uk/sport/football/transfer-news/everton-flop-oumar-niasse-joins-9615346|title=Everton flop Oumar Niasse joins Hull on loan with view to permanent £10m switch |date=13 January 2017 |newspaper=The Mirror|accessdate=13 January 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Hull City sign Oumar Niasse on loan and Evandro for undisclosed fee |url=https://www.bbc.com/sport/football/38611524 |newspaper=BBC Sport|accessdate=14 January 2017|date=13 January 2017}}&lt;/ref&gt; He made his debut the next day as an 83rd-minute substitute for [[Abel Hernández]] in a 3–1 home win against [[A.F.C. Bournemouth|AFC Bournemouth]].&lt;ref&gt;{{cite news  | url = https://www.bbc.co.uk/sport/football/38539371  | title = Hull City 3–1 Bournemouth | date = 14 January 2017 | publisher = BBC Sport | accessdate = 14 January 2017}}&lt;/ref&gt; His first goal for Hull and in English football came on 26 January in the [[EFL Cup]] semi-final second leg against [[Manchester United F.C.|Manchester United]], where he made his first start for the club. Hull won the second leg 2–1 but ultimately lost the tie 3–2 on aggregate.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/38672990|title=Hull City 2–1 Manchester United (Agg: 2–3)|date=26 January 2017|publisher=BBC Sport|accessdate=26 January 2017}}&lt;/ref&gt; 
+
+Niasse scored his first Premier League goal in a 2–0 victory against [[Liverpool F.C.|Liverpool]] on 4 February.&lt;ref&gt;{{cite news
+| url = https://www.bbc.co.uk/sport/football/38779233
+| title = Hull City 2–0 Liverpool
+| date = 4 February 2017
+|publisher=BBC Sport
+| accessdate = 4 February 2017}}&lt;/ref&gt; On 11 March, he came on as a substitute against [[Swansea City A.F.C.|Swansea City]] and scored both goals in a 2–1 victory.&lt;ref&gt;{{cite news
+| url = https://www.bbc.co.uk/sport/football/39163820
+| title = Hull City 2–1 Swansea City
+| date = 11 March 2017
+|publisher=BBC Sport
+| accessdate = 11 March 2017}}&lt;/ref&gt; Hull were relegated to the [[EFL Championship|Championship]] at the end of the season and opted not to exercise its option to outright purchase Niasse.&lt;ref&gt;{{cite web|url=http://www.liverpoolecho.co.uk/sport/football/transfer-news/everton-aim-sell-oumar-niasse-13218336|website=Liverpool Echo|date=21 June 2017|accessdate=1 July 2017|title=Everton aim to sell Oumar Niasse this summer as attack revamp goes on}}&lt;/ref&gt;
+
+====Return to Everton====
+After returning to Everton, Niasse made his first appearance since his return as a substitute in the [[2017–18 EFL Cup|EFL Cup]] third round match against [[Sunderland A.F.C.|Sunderland]] at [[Goodison Park]] on 20 September 2017, scoring Everton's third goal of a 3–0 win.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/41249724|title= Everton 3–0 Sunderland|accessdate = 21 September 2017|newspaper= BBC Sport|date= 20 September 2017}}&lt;/ref&gt; Manager Ronald Koeman named Niasse in Everton's 25-man Premier League squad upon his return from loan and consequently issued him a squad number. However, Koeman omitted Niasse from Everton's [[UEFA Europa League]] squad.&lt;ref&gt;{{Cite news|url=https://www.theguardian.com/football/2017/sep/27/everton-ronald-koeman-europa-league|title=Everton’s Koeman has no regrets over Oumar Niasse’s Europa League snub|work=The Guardian|date=27 September 2017}}&lt;/ref&gt; On 23 September, Niasse scored two goals against AFC Bournemouth in a 2–1 Premier League win, helping Everton to come back from a goal down.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/41290322|title= Everton 2–1 Bournemouth|accessdate = 23 September 2017|newspaper= BBC Sport|date= 23 September 2017}}&lt;/ref&gt; On 5 November, Niasse scored Everton's first goal in a 3–2 home win against [[Watford F.C.|Watford]], having been losing 2–0.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/41792811|title=Everton 3–2 Watford|publisher=BBC Sport|date=5 November 2017}}&lt;/ref&gt; Thirteen days later, he scored in a 2–2 draw away to bottom side [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/41951923|title=Crystal Palace 2–2 Everton|publisher=BBC Sport|date=18 November 2017}}&lt;/ref&gt; Niasse sparked controversy in the match by appearing to dive to win Everton a penalty, which was converted by [[Leighton Baines]] to make the score 1–1 in the first half.&lt;ref&gt;{{Cite news|url=https://www.standard.co.uk/sport/football/oumar-niasse-facing-retrospective-diving-ban-after-winning-contentious-penalty-at-crystal-palace-a3695611.html|title=Oumar Niasse facing retrospective diving ban after winning contentious penalty at Crystal Palace|work=London Evening Standard|date=18 November 2017}}&lt;/ref&gt; He subsequently became the first Premier League player to be charged with "successful deception of a match official" under [[The Football Association]]'s new regulations.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/42066734|title=Oumar Niasse: Everton striker charged for dive against Crystal Palace|newspaper=BBC Sport|date=21 November 2017|accessdate=21 November 2017}}&lt;/ref&gt; Everton appealed the verdict, but the FA rejected the appeal and Niasse received a two-match suspension.&lt;ref&gt;{{Cite news|url=http://www.skysports.com/football/news/11671/11138846/evertons-oumar-niasse-has-appeal-to-simulation-ban-rejected-by-fa|title=Niasse given two-match ban for diving|publisher=Sky Sports|date=22 November 2017|accessdate=22 November 2017}}&lt;/ref&gt;
+
+====Loan to Cardiff City====
+On 18 January 2019, Niasse joined fellow Premier League team [[Cardiff City F.C.|Cardiff City]] on loan for the remainder of the season.&lt;ref&gt;{{cite news |title=Loan: Niasse is a Bluebird |url=https://www.cardiffcityfc.co.uk/news/2019/january/loan-oumar-niasse-is-a-bluebird/ |publisher=Cardiff City F.C. |date=18 January 2018 |accessdate=18 January 2018}}&lt;/ref&gt;
+
+==International career==
+Niasse was first selected for the [[Senegal national football team|Senegal national team]] in January 2013 as part of an all domestic-based squad.&lt;ref&gt;{{cite news|title=Sénégal-Chili : Demba Ramata Ndiaye publie une liste de 18 locaux|url=http://www.ndamli.sn/index.php/football/9368-senegal-chili-demba-ramata-ndiaye-publie-une-liste-de-18-locaux|accessdate=20 October 2017|publisher=Ndamli|date=8 January 2013|language=French}}{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; He made his debut on 15 January, starting in a 2–1 friendly loss to [[Chile national football team|Chile]] in [[La Serena, Chile|La Serena]].&lt;ref&gt;{{cite news|title=Sénégal – Chili : 1–2|url=https://www.lequipe.fr/Football/Actualites/Senegal-chili-1-2/342763|accessdate=20 October 2017|work=L'Equipe|date=16 January 2013|language=French}}&lt;/ref&gt;
+
+On 25 May 2015, Niasse scored his first international goals, a brace in a 3–1 win over [[Kosovo national football team|Kosovo]] at the [[Stade de Genève]].&lt;ref&gt;{{cite news|title=Amical Kosovo 1–3 Sénégal : Baye Oumar Niasse et Diafra Sakho mettent fin à la série de nuls des « Lions »|url=http://www.pressafrik.com/Amical-Kosovo-1-3-Senegal-Baye-Oumar-Niasse-et-Diafra-Sakho-mettent-fin-a-la-serie-de-nuls-des-Lions_a122698.html|accessdate=20 October 2017|publisher=Press Afrik|date=25 May 2015|language=French}}&lt;/ref&gt;
+
+==Personal life==
+His brother [[Ibrahima Niasse]] is also a professional footballer.&lt;ref&gt;{{cite news |last1=Hunter |first1=Andy |title=Everton’s Oumar Niasse: ‘I am a fighter, someone who always wants the ball’ |url=https://www.theguardian.com/football/2016/mar/11/everton-oumar-niasse-fighter-fa-cup |accessdate=1 March 2019 |work=The Guardian |date=11 March 2016}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 2 March 2019}}
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|League Cup
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[SK Brann|Brann]] (loan)
+|[[2012 SK Brann season|2012]]&lt;ref name="sway"&gt;{{cite web|title=O. Niasse|url=https://int.soccerway.com/players/baye-omar-niasse/230803/|website=Soccerway|accessdate=11 January 2016}}&lt;/ref&gt;
+|[[Tippeligaen]]
+|3||0||1||0||colspan="2"|—||colspan="2"|—||4||0
+|-
+|[[Akhisar Belediyespor]]
+|[[2013–14 Süper Lig|2013–14]]&lt;ref name="sway"/&gt;
+|[[Süper Lig]]
+|34||12||6||3||colspan="2"|—||colspan="2"|—||40||15
+|-
+|rowspan=3|[[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|[[2014–15 FC Lokomotiv Moscow season|2014–15]]&lt;ref name="sway"/&gt;
+|[[Russian Premier League]]
+|13||4||4||2||colspan="2"|—||2{{efn|Appearances in the [[UEFA Europa League]]|name=statsUC}}||0||19||6
+|-
+||[[2015–16 FC Lokomotiv Moscow season|2015–16]]&lt;ref name="sway"/&gt;
+|Russian Premier League
+|15||8||1||0||colspan="2"|—||7{{efn|Six appearances and four goals in the [[UEFA Europa League]], one appearance and one goal in [[Russian Super Cup]]|name=statslm}}||5||23||13
+|-
+!colspan=2|Total
+!28!!12!!5!!2!!colspan="2"|—||9!!5!!42!!19
+|-
+|rowspan=5|[[Everton F.C.|Everton]]
+|[[2015–16 Everton F.C. season|2015–16]]&lt;ref name="sway"/&gt;
+|[[Premier League]]
+|5||0||2||0||colspan="2"|—||colspan="2"|—||7||0
+|-
+|[[2016–17 Everton F.C. season|2016–17]]&lt;ref name="sway"/&gt;
+|Premier League
+|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2017–18 Everton F.C. season|2017–18]]&lt;ref name="sway"/&gt;
+|Premier League
+|22||8||1||0||2||1||0||0||25||9
+|-
+|[[2018–19 Everton F.C. season|2018–19]]&lt;ref name="sway"/&gt;
+|Premier League
+|5||0||0||0||2||0||colspan="2"|—||7||0
+|-
+!colspan=2|Total
+!32!!8!!3!!0!!4!!1!!0!!0!!39!!9
+|-
+|[[Everton F.C.|Everton U23]]
+|[[2016–17 Everton F.C. season|2016–17]]&lt;ref name="sway"/&gt;
+|colspan=3|—||colspan=2|—||colspan=2|—||1{{efn|Appearances in [[EFL Trophy]]|name=EFLT}}||0||1||0
+|-
+|[[Hull City A.F.C.|Hull City]] (loan)
+|[[2016–17 Hull City A.F.C. season|2016–17]]&lt;ref name="sway"/&gt;
+|Premier League
+|17||4||1||0||1||1||colspan="2"|—||19||5
+|-
+|[[Cardiff City F.C.|Cardiff City]] (loan)
+|[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref name="sway"/&gt;
+|Premier League
+|6||0||0||0||0||0||colspan="2"|—||6||0
+|-
+!colspan=3|Career total
+!120!!36!!16!!5!!5!!2!!10!!5!!151!!48
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 11 June 2018}}&lt;ref&gt;{{NFT player|id=52266|name=Baye Oumar Niasse}}&lt;/ref&gt;
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Senegal national football team|Senegal]]
+|2013||4||0
+|-
+|2014||1||2
+|-
+|2015||1||0
+|-
+|2016||2||1
+|-
+|2018||1||0
+|-
+!colspan="2"|Total!!9!!3
+|}
+
+===International goals===
+:''Updated to match played 11 June 2018. Senegal score listed first, score column indicates score after each Niasse goal.''
+
+{| class="wikitable plainrowheaders sortable"
+|+ International goals by date, venue, opponent, score, result and competition
+|-
+!scope=col|No. 
+!scope=col data-sort-type=date| Date 
+!scope=col|Venue 
+!scope=col|Opponent 
+!scope=col|Score 
+!scope=col|Result
+!scope=col|Competition 
+|-
+!scope=row|1
+|rowspan=2|25 May 2014||rowspan=2|[[Stade de Genève]], [[Geneva]], Switzerland||rowspan=2|{{fb|KOS}}||1–1||rowspan=2|3–1||rowspan=2|[[Exhibition game#Association football|Friendly]]
+|-
+!scope=row|2
+|2–1
+|-
+!scope=row|3
+|26 March 2016||[[Stade Léopold Sédar Senghor]], [[Dakar]], Senegal ||{{fb|Niger}}||2–0||2–0||[[2017 Africa Cup of Nations qualification Group K|2017 Africa Cup of Nations qualification]]
+|-
+|}
+
+==Honours==
+'''US Ouakam'''
+*[[Senegal Premier League]]: 2011&lt;ref name="sway" /&gt;
+*[[Senegal Second League]]: 2009
+
+'''Lokomotiv Moscow'''
+*[[Russian Cup (football)|Russian Cup]]: [[2014–15 Russian Cup|2014–15]]&lt;ref name="sway" /&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+*{{Soccerbase}}
+
+{{Cardiff City F.C. squad}}
+&lt;!--{{Everton F.C. squad}}--&gt;
+
+{{DEFAULTSORT:Niasse, Oumar}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Dakar]]
+[[Category:Association football forwards]]
+[[Category:Senegalese footballers]]
+[[Category:Senegal international footballers]]
+[[Category:Eliteserien players]]
+[[Category:Süper Lig players]]
+[[Category:Russian Premier League players]]
+[[Category:Premier League players]]
+[[Category:SK Brann players]]
+[[Category:Akhisar Belediyespor footballers]]
+[[Category:FC Lokomotiv Moscow players]]
+[[Category:Everton F.C. players]]
+[[Category:Hull City A.F.C. players]]
+[[Category:Cardiff City F.C. players]]
+[[Category:Senegalese expatriate footballers]]
+[[Category:Expatriate footballers in Norway]]
+[[Category:Expatriate footballers in Turkey]]
+[[Category:Expatriate footballers in Russia]]
+[[Category:Expatriate footballers in England]]
+[[Category:Senegalese expatriate sportspeople in Norway]]
+[[Category:Senegalese expatriate sportspeople in Turkey]]
+[[Category:Senegalese expatriate sportspeople in Russia]]
+[[Category:Senegalese expatriate sportspeople in England]]
+[[Category:2011 CAF U-23 Championship players]]</text>
+      <sha1>2lb42495lrawvhyggcb1xm98pu4ato2</sha1>
+    </revision>
+  </page>
+</mediawiki>

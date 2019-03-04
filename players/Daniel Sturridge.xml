@@ -1,0 +1,494 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Daniel Sturridge</title>
+    <ns>0</ns>
+    <id>4877697</id>
+    <revision>
+      <id>885105460</id>
+      <parentid>885080952</parentid>
+      <timestamp>2019-02-26T00:19:49Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/2607:FEA8:3DDF:EB18:8425:CE7C:6D09:D866|2607:FEA8:3DDF:EB18:8425:CE7C:6D09:D866]] ([[User talk:2607:FEA8:3DDF:EB18:8425:CE7C:6D09:D866|talk]]): Link ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="79922">{{EngvarB|date=January 2019}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox football biography
+|           name = Daniel Sturridge 
+|          image = Sturridge v Swansea.jpg
+|     image_size = 200
+|        caption = Sturridge playing for [[Liverpool F.C.|Liverpool]] in 2013
+|       fullname = Daniel Andre Sturridge&lt;ref&gt;{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |location=Edinburgh |isbn=978-1-84596-601-0 |page=394}}&lt;/ref&gt;
+|     birth_date = {{birth date and age|1989|9|1|df=y}}&lt;ref&gt;{{Hugman|25459|accessdate=26 May 2018}}&lt;/ref&gt;
+|    birth_place = [[Birmingham]], England
+|         height = {{convert|1.88|m|order=flip}}&lt;ref name=Soccerway&gt;{{cite web |url=https://uk.soccerway.com/players/daniel-sturridge/5206/ |title=D. Sturridge: Summary |website=Soccerway |publisher=Perform Group |accessdate=26 May 2018}}&lt;/ref&gt;
+|       position = [[Forward (association football)#Striker|Striker]]
+|    currentclub = [[Liverpool F.C.|Liverpool]]
+|     clubnumber = 15
+|    youthyears1 = 1995–1996
+|    youthclubs1 = [[Cadbury Athletic F.C.|Cadbury Athletic]]
+|    youthyears2 = 1996–2000
+|    youthclubs2 = [[Aston Villa F.C.|Aston Villa]]
+|    youthyears3 = 2000–2003
+|    youthclubs3 = [[Coventry City F.C.|Coventry City]]
+|    youthyears4 = 2003–2006
+|    youthclubs4 = [[Manchester City F.C. Reserves and Academy|Manchester City]]
+|         years1 = 2006–2009
+|         clubs1 = [[Manchester City F.C.|Manchester City]]
+|          caps1 = 21
+|         goals1 = 5
+|         years2 = 2009–2013
+|         clubs2 = [[Chelsea F.C.|Chelsea]]
+|          caps2 = 63
+|         goals2 = 13
+|         years3 = 2011
+|         clubs3 = → [[Bolton Wanderers F.C.|Bolton Wanderers]] (loan)
+|          caps3 = 12
+|         goals3 = 8
+|         years4 = 2013–
+|         clubs4 = [[Liverpool F.C.|Liverpool]]
+|          caps4 = 111
+|         goals4 = 50
+|         years5 = 2018
+|         clubs5 = → [[West Bromwich Albion F.C.|West Bromwich Albion]] (loan)
+|          caps5 = 6
+|         goals5 = 0
+| nationalyears1 = 2004–2005
+| nationalteam1  = [[England national under-16 football team|England U16]]
+| nationalcaps1  = 5
+| nationalgoals1 = 6
+| nationalyears2 = 2005–2006
+| nationalteam2  = [[England national under-17 football team|England U17]]
+| nationalcaps2  = 9
+| nationalgoals2 = 7
+| nationalyears3 = 2007
+| nationalteam3  = [[England national under-18 football team|England U18]]
+| nationalcaps3  = 1
+| nationalgoals3 = 2
+| nationalyears4 = 2008
+| nationalteam4  = [[England national under-19 football team|England U19]]
+| nationalcaps4  = 3
+| nationalgoals4 = 1
+| nationalyears5 = 2009
+| nationalteam5  = [[England national under-20 football team|England U20]]
+| nationalcaps5  = 1
+| nationalgoals5 = 1
+| nationalyears6 = 2009–2011
+| nationalteam6  = [[England national under-21 football team|England U21]]
+| nationalcaps6  = 15
+| nationalgoals6 = 4
+| nationalyears7 = 2011–
+| nationalteam7  = [[England national football team|England]]
+| nationalcaps7  = 26
+| nationalgoals7 = 8
+| nationalyears8 = 2012
+| nationalteam8  = [[Great Britain Olympic football team|Great Britain]]
+| nationalcaps8  = 5
+| nationalgoals8 = 2
+| club-update         = 09:56, 11 February 2019 (UTC)
+| nationalteam-update = 21:52, 4 January 2019 (UTC)
+}}
+'''Daniel Andre Sturridge''' ({{IPAc-en|ˈ|s|t|ʌr|ɪ|dʒ}}; born 1 September 1989) is an English professional [[Association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for {{English football updater|Liverpoo}} club [[Liverpool F.C.|Liverpool]] and the [[England national football team|English national team]]. 
+
+Born in [[Birmingham]], Sturridge spent four years in the [[Aston Villa Under-21s and Academy|Aston Villa academy]] before moving to [[Coventry City F.C.|Coventry City]]. He then signed for [[Manchester City F.C.|Manchester City]] in 2003. He continued his development at City and played in two [[FA Youth Cup]] finals. He made his first-team debut in the [[2007–08 Premier League|2007–08 season]], becoming the only player ever to score in the FA Youth Cup, [[FA Cup]] and Premier League in the same season. He left City in 2009 and signed for [[Chelsea F.C.|Chelsea]], where he was loaned out to [[Bolton Wanderers F.C.|Bolton Wanderers]] for the second half of the [[2010–11 Premier League|2010–11 season]]. After a successful spell at Bolton, scoring eight goals in 12 appearances, he returned to Chelsea for the [[2011–12 Premier League|2011–12 season]]. He left Chelsea to join Liverpool in January 2013, where he formed an attacking partnership with [[Luis Suárez]] dubbed SAS,&lt;ref&gt;{{Cite news |url=https://www.independent.co.uk/sport/football/premier-league/luis-suarez-and-daniel-sturridge-how-liverpools-new-sas-have-equalled-the-original-pair-of-alan-9221089.html |title=Luis Suarez and Daniel Sturridge: How Liverpool's new SAS have |work=The Independent |accessdate=29 September 2018}}&lt;/ref&gt; with Liverpool scoring more than 100 league goals in the [[2013–14 Premier League|2013–14]] season with Sturridge scoring 21 – the pair of them having a 1–2 in the goal scoring stats of the league.&lt;ref&gt;{{cite web |url=http://www.premierleague.com/en-gb/players/index.html?paramSearchType=BY_STAT&amp;paramSeason=2013-2014 |title=Player Stats: Goals |publisher=Premier League |accessdate=14 August 2015}}&lt;/ref&gt; The following two seasons were curtailed by a myriad of injuries, limiting Sturridge to very few appearances.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/35046866 |title=Daniel Sturridge: Liverpool striker out for weeks with new injury |publisher=BBC Sport |date=8 December 2015 |accessdate=10 April 2016}}&lt;/ref&gt;
+
+Sturridge has represented England at all levels. He made 15 appearances and scored four goals for the [[England national under-21 football team|under-21]] team. He made his debut for England against [[Sweden national football team|Sweden]] on 15 November 2011 and was selected for the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Summer Olympics]], the [[2014 FIFA World Cup]] and [[UEFA Euro 2016]].
+
+==Club career==
+===Youth career===
+{{Quote box|width=30%|align=right|quote="I just loved watching [[Ronaldo (Brazilian footballer)|Ronaldo]] play and train. I loved to study his movement and technique. If I met him now I would still be in awe of him."|source=—Sturridge on watching Brazil striker Ronaldo while growing up.&lt;ref&gt;{{cite web |title=There's a myth about me being arrogant... but I'm just a happy guy |url=https://www.lfchistory.net/Articles/Article/1313 |website=LFC History.net. |accessdate=29 September 2018}}&lt;/ref&gt;}}
+Born in [[Birmingham]], West Midlands,&lt;ref&gt;{{cite web |title=Daniel Sturridge |url=https://www.11v11.com/players/daniel-sturridge-226537/ |website=11v11.com |publisher=AFS Enterprises |accessdate=6 December 2017}}&lt;/ref&gt; Sturridge began his playing career at the age of six at local club [[Cadbury Athletic F.C.|Cadbury Athletic]], before being spotted at the age of seven by the youth academy of [[Aston Villa F.C.|Aston Villa]].&lt;ref name=FourFourTwo&gt;{{cite news |url=http://fourfourtwo.com/interviews/boysabitspecial/369/article.aspx |title=Boy's A Bit Special: Daniel Sturridge |magazine=FourFourTwo |location=London}}&lt;/ref&gt; He left Villa four years later to move to [[Coventry City F.C.|Coventry City]], from where he joined [[Manchester City F.C.|Manchester City]]'s [[Manchester City F.C. Reserves and Academy|Academy]] in 2003, aged 13.&lt;ref name=FourFourTwo/&gt;&lt;ref name=mcfcprofile&gt;{{cite web |title=Daniel Sturridge |publisher=Manchester City F.C |url=http://www.mcfc.co.uk/default.sps?pagegid={439A001B-9F18-408E-BD8E-8466AB3C97FD}&amp;bioid=92620&amp;siteid=502 |accessdate=13 January 2009 |archiveurl=https://web.archive.org/web/20080804235548/http://www.mcfc.co.uk/default.sps?pagegid=%7B439A001B-9F18-408E-BD8E-8466AB3C97FD%7D&amp;bioid=92620&amp;siteid=502 |archivedate=4 August 2008 |deadurl=yes  }}&lt;/ref&gt; A [[English Football League|Football League]] committee later ordered Manchester City to pay Coventry £30,000 compensation, with further payments up to a maximum of £200,000 based upon appearances and international honours.&lt;ref&gt;{{cite news |last=Whalley |first=Mike |title=Vassell's cure for away woe |newspaper=Manchester Evening News |url=http://www.manchestereveningnews.co.uk/sport/football/football-news/vassells-cure-for-away-woe-1043080 |date=30 September 2006 |accessdate=24 May 2014}}&lt;/ref&gt; The following year, he was the leading scorer and voted player of the tournament (the only other person to achieve this was Argentine footballer [[Carlos Tevez]]) as City won the [[Manchester United Premier Cup|Nike Cup]], the world's largest under-15 tournament.&lt;ref&gt;{{cite news |last=Bevan |first=Chris |title=Lake sees bright future for City |publisher=BBC Sport |url=http://news.bbc.co.uk/sport1/hi/football/4901246.stm |accessdate=13 January 2009 |date=12 April 2006}}&lt;/ref&gt; At 16, he played for Manchester City Youth during their 2006 [[FA Youth Cup]] run. The youngest player in the team, he scored four goals en route to the final,&lt;ref&gt;{{cite news |title=Heading for the final |work=Manchester City FC vs Middlesbrough Match programme |date=2 April 2006 |page=22}}&lt;/ref&gt; and another two in the final, though they were insufficient to prevent a 3–2 aggregate defeat to [[Liverpool F.C.|Liverpool]].&lt;ref&gt;{{cite news |title=Reds cling on to win FA Youth Cup |publisher=BBC Sport |url=http://news.bbc.co.uk/sport1/hi/football/4932806.stm |date=21 April 2006 |accessdate=13 January 2009}}&lt;/ref&gt; That summer, he signed his first professional contract, which came into effect when he turned 17.&lt;ref&gt;{{cite news |title=Boy wonder tastes big time |newspaper=The Sunday Times |url=http://www.timesonline.co.uk/tol/sport/football/article671448.ece |date=4 June 2006 |accessdate=13 January 2009 |location=London |first=Anushka |last=Asthana}}&lt;/ref&gt;
+
+===Manchester City===
+From the start of the [[2006–07 in English football|2006–07]] season, Sturridge began to train with the City first team. A [[hat-trick]] in a reserve match was rewarded by a place on the substitutes' bench for the senior team's match with [[Reading F.C.|Reading]] in February 2007.&lt;ref name=mcfcprofile/&gt; He duly made his debut from the bench, replacing [[Georgios Samaras]] for the final quarter-hour.&lt;ref&gt;{{cite news |last=Culley |first=John |title=Manchester City 0 Reading 2: Lita strikes twice to disprove Pearce's doubts |newspaper=The Independent |url=https://www.independent.co.uk/sport/football/premier-league/manchester-city-0-reading-2-lita-strikes-twice-to-disprove-pearces-doubts-435128.html |date=5 February 2007 |accessdate=13 January 2009 |location=London}}&lt;/ref&gt; He made a second substitute appearance a month later, but then suffered a hip injury which sidelined him for the remainder of 2007.&lt;ref&gt;{{cite news |last=Bailey |first=Chris |title=Daniel's despair after hip op |newspaper=Manchester Evening News |url=http://www.manchestereveningnews.co.uk/sport/football/football-news/daniels-despair-after-hip-op-1004101 |date=13 September 2007 |accessdate=24 May 2014}}&lt;/ref&gt;
+
+Sturridge scored his first goal for City on 27 January 2008 in an FA Cup match against [[Sheffield United F.C.|Sheffield United]], followed three days later by his first league goal on his full debut, against [[Derby County F.C.|Derby County]].&lt;ref name=Telegraph&gt;{{cite news |last=Smith |first=Martin |title=Daniel Sturridge – Manchester City's rising star |newspaper=The Daily Telegraph |url=https://www.telegraph.co.uk/sport/football/2290607/Daniel-Sturridge---Manchester-City%27s-rising-star.html |date=1 February 2008 |accessdate=13 January 2009 |location=London}}&lt;/ref&gt; However, first-team opportunities were sporadic, so Sturridge continued to play for the youth team in the FA Youth Cup. City again reached the final, with Sturridge the leading scorer in the competition.&lt;ref&gt;{{cite news |last=Herbert |first=Ian |title=Cassell prepares the ground for City's stars of the future |newspaper=The Independent |url=https://www.independent.co.uk/sport/football/premier-league/cassell-prepares-the-ground-for-citys-stars-of-the-future-809460.html |date=16 April 2008 |accessdate=13 January 2009 |location=London}}&lt;/ref&gt; This time City won the final, with Sturridge scoring in the first leg.&lt;ref&gt;{{cite web |title=City lift Youth Cup |publisher=The Football Association |url=http://www.thefa.com/News/competitions/fa-youth-cup/2008/dec/FAComp_YCFinal_2008 |date=22 December 2008 |accessdate=24 May 2014}}&lt;/ref&gt; In the [[2007–08 in English football|2007–08]] season, Sturridge became the only player ever to score in the Youth FA Cup, the FA Cup and the Premier League in the same season.&lt;ref&gt;{{cite news |title=Daniel Sturridge interview |publisher=Manchester City v Portsmouth match programme |date=21 September 2008 |page=16}}&lt;/ref&gt;
+
+Sturridge contributed in the 2008–09 season with 26 appearances&lt;ref&gt;{{cite news |title=Few regrets over Sturridge – 'the one that got away' |url=http://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-city-dont-regret-letting-7205259 |newspaper=Manchester Evening News |date=3 June 2014 |accessdate=8 January 2018}}&lt;/ref&gt; and scoring 4 goals.&lt;ref name="sb0809"/&gt; On 28 December 2008, in a league match against [[Blackburn Rovers]], City was trailing at by 2–0. Coming on as a 71st-minute substitute, Sturridge scored in the 88th minute of the match owing taking advantage of a header by [[André Ooijer]]. He also went on to assist [[Robinho]]'s injury time goal. Manager [[Mark Hughes]] said that Sturridge was a player with great potential and had an impact in the game. He also praised his assist, saying "he picked out Robinho for the equaliser in an area where we had been struggling to find him".&lt;ref&gt;{{cite web |title=Blackburn 2–2 Man City |url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/7788425.stm |publisher=BBC |accessdate=8 January 2018 |date=28 December 2008}}&lt;/ref&gt; At the end of the season, he was voted as the club's Young Player of the Year.&lt;ref&gt;{{cite news |title=Manchester City to demand £7m from Chelsea for Daniel Sturridge at tribunal |url=https://www.telegraph.co.uk/sport/football/teams/manchester-city/6928187/Manchester-City-to-demand-7m-from-Chelsea-for-Daniel-Sturridge-at-tribunal.html |newspaper=The Daily Telegraph |location=London |date=4 January 2010 |accessdate=8 January 2018}}&lt;/ref&gt;
+
+===Chelsea===
+[[File:Daniel Sturridge - chelsea.JPG|thumb|Sturridge training with [[Chelsea F.C.|Chelsea]] in 2010|alt=|left|425x425px]]With Sturridge's contract at Manchester City expired, he signed for [[Chelsea F.C.|Chelsea]] on a four-year contract on 3 July 2009.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/8067000.stm |title=Chelsea sign Man City's Sturridge |date=3 July 2009 |publisher=BBC Sport |accessdate=4 July 2009}}&lt;/ref&gt; As Sturridge was under the age of 24,&lt;ref&gt;{{cite web |url=http://sgp.thefa.com/~/media/files/thefaportal/governance-docs/rules-of-the-association/fa-handbook-season-2008-2009.ashx#page=99 |title=FA handbook: Agreements Between Club &amp; Players |accessdate=24 May 2014 |publisher=The Football Association |page=102 |deadurl=yes |archiveurl=https://web.archive.org/web/20140525214018/http://sgp.thefa.com/~/media/files/thefaportal/governance-docs/rules-of-the-association/fa-handbook-season-2008-2009.ashx#page=99 |archivedate=25 May 2014}}&lt;/ref&gt; and the two clubs were unable to agree a deal, the fee for Sturridge was decided by a [[tribunal]]. The [[Professional Football Compensation Committee]] decided on 14 January 2010 that Chelsea would pay an initial fee of [[£]]3.5&amp;nbsp;million, with additional payments of £500,000 after each of 10, 20, 30 and 40 appearances. There would also be a further payment of £1&amp;nbsp;million if Sturridge made a full international appearance, and Manchester City in addition would receive 15 percent of any sell-on fee if Sturridge was transferred, after these add ons the fee for the player reached an eventual fee of £8.3m.&lt;ref&gt;{{cite web |url=http://origin-www.premierleague.com/page/Headlines/0,,12306~1932749,00.html |title=Daniel Sturridge statement |date=14 January 2010 |publisher=Premier League |accessdate=24 May 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140517124622/http://origin-www.premierleague.com/page/Headlines/0,,12306~1932749,00.html |archivedate=17 May 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.telegraph.co.uk/football/2016/04/24/burnley-hope-danny-ings-fee-will-set-record-as-liverpool-argue-a/ |title=Burnley hope Danny Ings fee will set record as Liverpool argue against}}&lt;/ref&gt;
+
+====2009–10 season====
+Sturridge made his [[Premier League]] debut for Chelsea on 18 August 2009 against [[Sunderland A.F.C.|Sunderland]], coming on for [[Didier Drogba]].&lt;ref&gt;{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/premier_league/chelsea/article6722487.ece |newspaper=The Times |location=London |title=Didier Drogba pledges future to Chelsea as Ancelotti plots squad reduction |date=22 July 2009 |accessdate=1 May 2010 |first=Matt |last=Hughes}}&lt;/ref&gt; On 16 September, Sturridge scored a hat-trick in a reserve match against [[Ipswich Town F.C.|Ipswich Town]].&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/1799133 |archiveurl=https://archive.is/20140223205736/http://www.chelseafc.com/news-article/article/1799133 |deadurl=yes |archivedate=23 February 2014 |title=Chelsea reserves in friendly win |publisher=Chelsea F.C. |accessdate=24 May 2014}}&lt;/ref&gt; On 28 October, he made his first start for the club in a [[EFL Cup|League Cup]] win against [[Bolton Wanderers F.C.|Bolton Wanderers]] at [[Stamford Bridge (stadium)|Stamford Bridge]].
+
+On 20 December, Sturridge came on as a substitute at half time against [[West Ham United F.C.|West Ham United]] and won Chelsea a controversial penalty that Lampard converted. He made his first start in the Premier League for Chelsea away against [[Birmingham City F.C.|Birmingham City]] on [[Boxing Day]] and scored his first two goals for Chelsea against [[Watford F.C.|Watford]] in the FA Cup third round on 3 January 2010.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/8433896.stm |title=Chelsea 5–0 Watford |publisher=BBC Sport |date=3 January 2010 |accessdate=3 January 2010}}&lt;/ref&gt; Sturridge continued to show his ability with a real poacher's effort in a 2–0 victory in the FA Cup against Preston North End, scoring his third goal for Chelsea in January. On 13 February, he netted again against Cardiff City, as Chelsea won 4–1.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/8468633.stm |publisher=BBC Sport |title=Preston 0–2 Chelsea |date=23 January 2010 |accessdate=1 May 2010 |first=Phil |last=McNulty}}&lt;/ref&gt; Sturridge scored his first League goal for Chelsea on 25 April 2010, in a 7–0 victory over [[Stoke City F.C.|Stoke City]] at Stamford Bridge, by latching onto a through ball, before rounding goalkeeper [[Asmir Begović]] and slotting the ball home.&lt;ref&gt;{{cite news |first=Chris |last=Bevan |title=Chelsea 7–0 Stoke |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8632297.stm |publisher=BBC Sport |date=25 April 2010 |accessdate=25 April 2010}}&lt;/ref&gt; During the [[2010 FA Cup Final]], he came on as a 90th-minute substitute for Chelsea as they won 1–0 against Portsmouth. Sturridge finished the 2009–10 FA Cup campaign as the leading scorer for Chelsea with four goals.
+
+====2010–11 season====
+On 15 September 2010, Sturridge made his full [[UEFA Champions League]] debut against Slovakian team [[MŠK Žilina]]. He scored on his debut, his first Champions League tally, in a 4–1 away victory.&lt;ref&gt;{{cite news |url=http://www.goal.com/en-gb/match/50417/msk-zilina-vs-chelsea/report |title=Champions League: MSK Zilina 1–4 Chelsea – Nicolas Anelka scores two &amp; provides another in dazzling display |publisher=Goal.com |date=15 September 2010 |accessdate=3 January 2013}}&lt;/ref&gt; In the Premier League, in a 1–0 loss to his former club Manchester City, Sturridge came on as a substitute for striker Didier Drogba. He scored his second goal in the Champions League against Žilina, which Chelsea went on to win 2–1 at home. Later that season, he scored two right-footed goals against Ipswich Town.&lt;ref&gt;{{cite news |url=http://www.skysports.com/story/0,19528,11661_6525082,00.html |publisher=Sky Sports |title=Sturridge hoping for chance |date=24 November 2010}}&lt;/ref&gt;
+
+====Loan to Bolton Wanderers====
+On 31 January 2011, Sturridge agreed to join Bolton Wanderers on a [[Loan (sports)|loan]] deal until the end of the season.&lt;ref&gt;{{cite news |title=Chelsea striker Daniel Sturridge joins Bolton on loan |url=http://news.bbc.co.uk/sport1/hi/football/teams/b/bolton_wanderers/9382277.stm |publisher=BBC Sport |date=31 January 2011 |accessdate=1 February 2011}}&lt;/ref&gt; He made his debut two days later, coming on as a substitute at home to [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]], scoring his first goal in the process, an injury time winner.&lt;ref&gt;{{cite news |title=Bolton 1–0 Wolverhampton |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9382116.stm |publisher=BBC Sport |date=2 February 2011 |accessdate=2 February 2011}}&lt;/ref&gt; He followed this with another goal in the defeat to [[Tottenham Hotspur F.C.|Tottenham Hotspur]] the following weekend, in which he made his first start,&lt;ref&gt;{{cite news |title=Tottenham 2–1 Bolton |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9382905.stm |publisher=BBC Sport |date=5 February 2011 |accessdate=13 February 2011}}&lt;/ref&gt; before scoring his third goal in three matches in the 2–0 victory over [[Everton F.C.|Everton]].&lt;ref&gt;{{cite news |title=Bolton 2–0 Everton |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9393408.stm |publisher=BBC Sport |date=13 February 2011 |accessdate=13 February 2011}}&lt;/ref&gt; After Sturridge scored the equaliser against [[Newcastle United F.C.|Newcastle United]] in his fourth match, he became only the sixth player to score in his first four matches for a club in the Premier League.&lt;ref&gt;{{cite news |title=Coyle happy to take a loan |url=http://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/8888933.Coyle_happy_to_take_a_loan/? |newspaper=Bolton News |date=4 March 2011 |accessdate=4 March 2011}}&lt;/ref&gt;&lt;!--PLEASE DO NOT ADD DETAILS OF STURRIDGE'S GOALS AGAINST WEST HAM. THESE GOALS ARE NOT CONSIDERED TO BE NOTABLE ENOUGH FOR INCLUSION--&gt; Sturridge continued to make an impact at Bolton and finished his loan spell with eight goals in 12 appearances at the club. Having never been booked in his career, Sturridge received his first ever red card in the final match of the season against former club Manchester City.
+
+====2011–12 season====
+[[File:Sturridge vs Leicester City.jpg|thumb|upright|Sturridge playing for Chelsea in 2012]]
+
+Having received a red card in his final match for Bolton, Sturridge was suspended for the first three competitive matches in the [[2011–12 Chelsea F.C. season|2011–12 season]] for Chelsea. Despite rumours linking him with a move away on deadline day, Sturridge remained in West London amidst strong support from his manager [[André Villas-Boas]], who said, "He would have been playing if he was not suspended from last season." In his first match back from suspension, at Sunderland, Sturridge started and scored with a back-heel in the 50th minute to put Chelsea up 2–0 in an eventual 2–1 victory.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/8752228/Sunderland-1-Chelsea-2-match-report.html |location=London |newspaper=The Daily Telegraph |first=Luke |last=Edwards |title=Sunderland 1 Chelsea 2: match report |date=10 September 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2448461 |archiveurl=https://archive.is/20140524170523/http://www.chelseafc.com/news-article/article/2448461 |deadurl=yes |archivedate=24 May 2014 |title=Official Site &amp;#124; Chelsea Football Club |publisher=Chelsea F.C. |accessdate=24 May 2014}}&lt;/ref&gt; Sturridge returned to the [[Reebok Stadium]] on 2 October 2011, scoring twice within the first 30 minutes, the first a header after 90 seconds from a corner and the second a long-shot from outside the box that goalkeeper [[Ádám Bogdán]] erred in saving.&lt;ref&gt;{{cite news |url=http://www.skysports.com/football/match_report/0,,11065_3422896,00.html |publisher=Sky Sports |title=Chelsea thrash Bolton}}&lt;/ref&gt; Sturridge also provided an assist to [[Frank Lampard]]'s goal in the 15th minute of the match, which eventually ended 5–1.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/15051291.stm |title=Bolton 1–5 Chelsea |accessdate=2 October 2011 |publisher=BBC Sport |date=2 October 2011}}&lt;/ref&gt; On 15 October 2011, Sturrdge scored against Everton in a 3–1 win, giving him four league goals in four matches.&lt;ref&gt;{{cite web |url=http://www.espnfc.com/uk/en/report/317996/report.html |title=Report: Chelsea v Everton – Barclays Premier League |website=ESPN FC |date=15 October 2011 |accessdate=24 May 2014}}&lt;/ref&gt; He then came on as a substitute in the League Cup match against Everton on the 90th-minute, in which he scored a 116th-minute winner, which saw Chelsea win 2–1 in extra time to put them in the last eight.
+
+Sturridge scored his seventh goal in the Premier League season in a 3–0 victory for Chelsea against Newcastle.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/15901588.stm |publisher=BBC Sport |title=Chelsea beat Newcastle 3–0}}&lt;/ref&gt; On 13 December, during the fixture against Sturridge former club Manchester City at Stamford Bridge, Sturridge provided an assist for a [[Raul Meireles]] goal in the 34th minute. The match ended a 2–1 victory, when Frank Lampard scored a late penalty after [[Joleon Lescott]] handled Sturridge's shot in the penalty area.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/16117291.stm |publisher=BBC Sport |title=Chelsea 2–1 Man City}}&lt;/ref&gt; Sturridge scored in the away 1–1 draw against [[Wigan Athletic F.C.|Wigan Athletic]]; he controlled [[Ashley Cole]]'s diagonal long ball with his left foot, then scored with his right from a tight angle to give Chelsea the lead in the 59th minute.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/16124079.stm |publisher=BBC Sport |title=Wigan 1–1 Chelsea}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2011/dec/17/wigan-athletic-chelsea-villas-boas?newsfeed=true |newspaper=The Guardian |title=Sturridge Scores 8 |location=London |first=Paul |last=Wilson |date=17 December 2011}}&lt;/ref&gt; On 22 December, during Chelsea's away clash with Tottenham, he scored his ninth goal in the 2011–12 domestic season, the equaliser in a 1–1 draw away at [[White Hart Lane]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/16192968.stm |publisher=BBC Sport |title=Tottenham 1–1 Chelsea}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2556251 |archiveurl=https://archive.is/20130804060849/http://www.chelseafc.com/news-article/article/2556251 |deadurl=yes |archivedate=4 August 2013 |publisher=Chelsea F.C. |title=Match Report: Tottenham 1 Chelsea 1}}&lt;/ref&gt; Sturridge scored his team's first goal in a 4–2 win against Aston Villa. He scored the opener in fantastic style after 45 seconds with his 11th Premier League goal of the season against local rivals [[Queens Park Rangers F.C.|Queens Park Rangers]] on 29 April, which Chelsea ran out 6–1 winners to keep Champions League qualification alive. He was an unused substitute as Chelsea won the [[2012 UEFA Champions League Final]].
+
+====2012–13 season====
+Sturridge missed all of Chelsea's pre-season matches to begin the [[2012–13 Chelsea F.C. season|2012–13 campaign]], as he was on duty with Great Britain in the [[2012 Summer Olympics]]. He did, however, play against Manchester City in the [[2012 FA Community Shield]], assisting [[Ryan Bertrand]]'s goal, by shooting and [[Costel Pantilimon]] spilling it. Sturridge missed the first [[2012–13 UEFA Champions League group stage]] matches against [[Juventus F.C.|Juventus]] and [[FC Nordsjælland|Nordsjælland]] and the first League Cup match against Wolverhampton. He also missed the Premier League match against Stoke City with a hamstring injury. He scored the last Premier League goal for the club in the 4–2 win against Tottenham at White Hart Lane after coming on as a late substitute and scoring from [[Juan Mata]]'s cross in stoppage time to seal victory. His last goal for Chelsea was against [[Manchester United F.C.|Manchester United]] in the League Cup, scoring in extra time in the 5–4 win. After Blues manager [[Roberto Di Matteo]] was sacked as manager and replaced by [[Rafael Benítez]], Sturridge was never to play for the club again due to injury.
+
+===Liverpool===
+====2012–13 season====
+[[File:Daniel Sturridge v Swansea.jpg|thumb|Sturridge playing for [[Liverpool F.C.|Liverpool]] in 2013|alt=|left|263x263px]]
+
+On 2 January 2013, Sturridge completed a move from Chelsea to Liverpool, signing a long-term contract for an undisclosed fee thought to be in the region of £12&amp;nbsp;million.&lt;ref&gt;{{cite web |title=Liverpool complete Sturridge signing |publisher=Liverpool F.C. |url=http://www.liverpoolfc.com/news/latest-news/liverpool-complete-sturridge-signing |date=2 January 2013 |accessdate=2 January 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130103032815/http://www.liverpoolfc.com/news/latest-news/liverpool-complete-sturridge-signing |archivedate=3 January 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Liverpool confirm signing of Chelsea striker Daniel Sturridge |newspaper=The Guardian |url=https://www.theguardian.com/football/2013/jan/02/liverpool-chelsea-striker-daniel-sturridge?CMP=twt_gu |date=2 January 2013 |accessdate=2 January 2013 |location=London}}&lt;/ref&gt; He made his debut on 6 January against [[Mansfield Town F.C.|Mansfield Town]] in the [[FA Cup]] third round, scoring his first Liverpool goal after just seven minutes in a match which Liverpool won 2–1.&lt;ref&gt;{{cite news |title=Controversial Luis Suárez goal seals Liverpool win at Mansfield |newspaper=The Guardian |url=https://www.theguardian.com/football/2013/jan/06/mansfield-liverpool-fa-cup-report |date=6 January 2013 |accessdate=6 January 2013 |location=London |first=Daniel |last=Taylor}}&lt;/ref&gt; He scored on his league debut after coming on as a half-time substitute the following weekend, scoring in a 2–1 defeat against rivals and league leaders Manchester United at [[Old Trafford]] on 13 January.&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/20924824 "Manchester United 2–1 Liverpool"]. BBC Sport. 13 January 2013. Retrieved 13 January 2013.&lt;/ref&gt; Sturridge scored his third goal for Liverpool in his first league start and home debut for the club, a 5–0 win against [[Norwich City F.C.|Norwich City]] at [[Anfield]] on 19 January. With the goal, he had scored three goals in his first three appearances for the club, becoming the first Liverpool player since [[Ray Kennedy]] in 1974 to accomplish the feat, despite not yet playing a full 90 minutes for the club.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/20996627 |title=Liverpool 5–0 Norwich |accessdate=7 December 2016}}&lt;/ref&gt; On 3 February, Sturridge scored a goal from 25 yards-out against former club Manchester City in a 2–2 draw at the [[City of Manchester Stadium]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/21218443 "Manchester City 2–2 Liverpool"]. BBC Sport. 3 February 2013. Retrieved 3 February 2013.&lt;/ref&gt; Sturridge continued this run of form on 17 February, with an assist for teammate [[José Enrique (footballer)|José Enrique]], as well as scoring a penalty against [[Swansea City A.F.C.|Swansea City]] in a 5–0 win, having missed the prior two matches due to a combination of ineligibility and injury.&lt;ref&gt;{{Cite news |url=https://www.bbc.co.uk/sport/0/football/21438902 |title=Liverpool 5–0 Swansea |last=Pope |first=Bruce |date=17 February 2013 |publisher=BBC Sport |accessdate=17 February 2013}}&lt;/ref&gt; He also scored against former club Chelsea in a 2–2 draw at Anfield, the match of teammate [[Luis Suárez]]'s biting incident with Blues defender [[Branislav Ivanović]], which led to a ten-match ban for Suárez. Sturridge scored two goals and notched an assist in a 6–0 win over Newcastle United on 27 April at [[St James' Park]].&lt;ref&gt;{{cite news |title=Newcastle United left sweating after Liverpool hit six of the best |newspaper=The Observer |url=https://www.theguardian.com/football/2013/apr/27/newcastle-liverpool-premier-league |date=27 April 2013 |accessdate=28 April 2013 |location=London |first=Louise |last=Taylor}}&lt;/ref&gt; On 12 May, he scored his first career [[List of Premier League hat-tricks|hat-trick]], in a 3–1 win against [[Fulham F.C.|Fulham]] at [[Craven Cottage]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/22417779 "Fulham 1–3 Liverpool"]. BBC Sport. 12 May 2013. Retrieved 13 May 2013.&lt;/ref&gt;
+
+====2013–14 season====
+[[File:Daniel Sturridge, 2014 .jpg|thumb|Sturridge playing for Liverpool in 2014|alt=|239x239px]]Sturridge began the [[2013–14 Premier League|2013–14 season]] by scoring the first goal of the season – which also turned out to be the only goal in Liverpool's 1–0 win over Stoke City – with a shot from outside the box.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/23653990 |title=Liverpool 1–0 Stoke |last=Smith |first=Ben |date=17 August 2013 |publisher=BBC Sport |accessdate=17 August 2013}}&lt;/ref&gt; He then followed this up with a goal against Aston Villa in another 1–0 win and a brace against [[Notts County F.C.|Notts County]] in the League Cup, taking his season's tally to four goals in three matches. He continued his fine form by scoring the only goal in a 1–0 win against fierce rivals and defending champions Manchester United on his 24th birthday at Anfield, and giving a man of the match performance in a 3–1 win away at Sunderland by scoring and providing two assists for Luis Suárez.&lt;ref&gt;{{cite web |url=http://www.liverpoolfc.com/news/latest-news/146001-suarez-and-sturridge-down-sunderland |title=Suarez and Sturridge down Sunderland |publisher=Liverpool F.C. |date=29 September 2013 |accessdate=12 May 2014}}&lt;/ref&gt;&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/23830980 "Liverpool 1–0 Man Utd"]. BBC Sport. 1 September 2013. Retrieved 1 September 2013.&lt;/ref&gt; These performances earned Sturridge the season's first [[Premier League Player of the Month]] award for the month of August.&lt;ref name=PLpotmAug13&gt;{{cite news |title=Liverpool's Brendan Rodgers &amp; Daniel Sturridge win August gongs |url=https://www.bbc.com/sport/football/24078761 |publisher=BBC Sport}}&lt;/ref&gt; On 23 November, he came off the bench to score a last-minute equaliser against Everton in a thrilling [[Merseyside derby]] that finished 3–3.&lt;ref&gt;{{cite news |last=McNulty |first=Phil |url=https://www.bbc.co.uk/sport/0/football/24969016 |title=Everton 3–3 Liverpool |publisher=BBC Sport |date=23 November 2013 |accessdate=12 May 2014}}&lt;/ref&gt;
+
+Sturridge's impressive goal-scoring form continued into the new year, with Sturridge becoming the first Liverpool player in the Premier League era to score in seven consecutive league matches when he found the net at Craven Cottage against Fulham.&lt;ref&gt;{{cite web |url=http://www.liverpoolfc.com/news/latest-news/155220-gerrard-spot-kick-sinks-fulham-at-last |title=Gerrard spot-kick sinks Fulham at last |publisher=Liverpool F.C. |date=13 February 2014 |accessdate=12 May 2014}}&lt;/ref&gt; He went on to become only the second player in Premier League history to score eight matches in a row after a brace against Swansea City in a 4–3 home win.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/26214204 |title=Liverpool 4–3 Swansea |last=Chase |first=Graham |date=23 February 2014 |publisher=BBC Sport |accessdate=23 February 2014}}&lt;/ref&gt; He was then named Player of the Month for the second time in the season for February, scoring five goals and earned two assists during the month.&lt;ref name=PLpotmFeb14&gt;[https://www.bbc.co.uk/sport/0/football/26574101 "Daniel Sturridge &amp; Sam Allardyce win player and manager of month"]. BBC Sport. 14 March 2014. Retrieved 14 March 2014.&lt;/ref&gt;
+
+On 18 April, Sturridge was named as one of the six players on the shortlist for the [[PFA Players' Player of the Year]] award&lt;ref name=pfa&gt;{{cite news |url=https://www.theguardian.com/football/2014/apr/18/pfa-player-of-the-year-award-shortlist-gerrard-lallana| |title=PFA Player of the Year award shortlist: Gerrard and Lallana nominated |date=18 April 2014 |accessdate=19 April 2014 |newspaper=The Guardian |location=London}}&lt;/ref&gt; and was also nominated for the [[PFA Young Player of the Year]] award.&lt;ref name=pfa/&gt; On 27 April, he was named alongside teammates [[Steven Gerrard]] and Luis Suárez in the [[PFA Team of the Year]].&lt;ref&gt;{{cite news |url=http://www1.skysports.com/football/news/11668/9286998/pfa-unveils-team-of-the-year |title=PFA unveils Team of the Year |date=27 April 2014 |accessdate=28 April 2014 |publisher=Sky Sports}}&lt;/ref&gt; Sturridge's haul of 21 league goals made him the runner-up in the season's [[Premier League Golden Boot]], behind strike partner Suárez.&lt;ref&gt;{{cite web |title=English Premier League Stats: Top Goal Scorers – 2013–14 |url=http://www.espnfc.com/stats/scorers/_/league/eng.1/barclays-premier-league?cc=5739 |website=ESPN FC |accessdate=12 May 2014}}&lt;/ref&gt;
+
+====2014–15 season====
+Sturridge started the [[2014–15 Liverpool F.C. season|2014–15 season]] scoring a late winner in Liverpool's opening match, a 2–1 win over [[Southampton F.C.|Southampton]].&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/28730043 |title=Liverpool 2–1 Southampton 1 |last=Ornstein |first=David |date=17 August 2014 |publisher=BBC Sport |accessdate=17 August 2014}}&lt;/ref&gt; While on international duty, Sturridge incurred a thigh injury and forced out of action for up to three weeks.&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-2752135/Daniel-Sturridge-three-weeks-Emre-Can-Joe-Allen-sidelined-triple-injury-blow-Liverpool.html |title=Daniel Sturridge out for three weeks |date=11 September 2014 |newspaper=Daily Mail |location=London |accessdate=18 October 2014}}{{Unreliable source?|date=April 2017}}&lt;/ref&gt; On 11 September, manager [[Brendan Rodgers]] publicly criticised [[England national football team|England]]'s handling of Sturridge, stating his injury "could have been preventable."&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/29158191 |title=Daniel Sturridge: Liverpool striker's injury angers Brendan Rodgers |date=11 September 2015 |publisher=BBC Sport |accessdate=17 July 2015}}&lt;/ref&gt; Despite rumours, England manager [[Roy Hodgson]] rejected talk of a rift between him and Rodgers over Sturridge's injury.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/29438699 |title=Roy Hodgson &amp; Brendan Rodgers 'have no issues' |date=2 October 2015 |publisher=BBC Sport |accessdate=17 July 2015}}&lt;/ref&gt;
+
+Sturridge was ruled out for another three more weeks after suffering another calf injury during training on 17 October.&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-2797695/daniel-sturridge-ruled-three-weeks-liverpool-striker-injures-calf.html |title=Daniel Sturridge ruled out for at least three more weeks with calf injury |date=17 October 2014 |newspaper=Daily Mail |location=London |accessdate=18 October 2014}}{{Unreliable source?|date=April 2017}}&lt;/ref&gt; On 18 November, he broke down in training with a new thigh injury which saw him miss the next six weeks.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2014/nov/19/liverpool-daniel-sturridge-six-weeks-injury |title=Liverpool's Daniel Sturridge to miss a further six weeks with new injury |date=19 November 2014 |newspaper=The Guardian |location=London |accessdate=20 November 2014}}&lt;/ref&gt;
+
+After missing close to five months, Sturridge made his return to the team on 31 January in a 2–0 win over West Ham as a 68th-minute substitute for [[Lazar Marković]], scoring in the 87th minute after a through ball from [[Philippe Coutinho]].&lt;ref&gt;{{cite news |url=http://www.foxsports.com.au/football/premier-league/premier-league-daniel-sturridge-scores-on-return-as-liverpool-prove-too-strong-for-west-ham/story-e6frf4a3-1227203834165?nk=a236f042cb7d1cab8ff8a84934c51d43 |title=Premier League: Daniel Sturridge scores on return as Liverpool prove too strong for West Ham |date=1 February 2015 |publisher=Fox Sports |accessdate=1 February 2015}}&lt;/ref&gt; On 4 March, Sturridge scored the second goal in a 2–0 win over [[Burnley F.C.|Burnley]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/31616985 |title=Liverpool 2–0 Burnley |date=4 March 2015 |publisher=BBC Sport |accessdate=6 March 2015}}&lt;/ref&gt;
+
+Sturridge's injury-plagued season continued when he picked up a hip injury on 22 March in a 2–1 loss to rivals Manchester United, despite scoring Liverpool's lone goal.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/31893202 |title=Liverpool 1–2 Man United |last=McNulty |first=Phil |date=22 March 2015 |publisher=BBC Sport |accessdate=17 July 2015}}&lt;/ref&gt; On 5 May, he underwent a successful hip operation in the United States that ruled him out until September, meaning he would miss the start of the [[2015–16 Liverpool F.C. season|new season]].&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/32650670 |title=Daniel Sturridge: Liverpool expect September return for striker |date=8 May 2015 |publisher=BBC Sport |accessdate=17 July 2015}}&lt;/ref&gt;
+
+====2015–16 season====
+After missing the first five matches of Liverpool's [[2015–16 Premier League|Premier League]] campaign due to injury, Sturridge made his first appearance of the season against Norwich City on 20 September 2015.&lt;ref&gt;{{cite news |url=http://www.foxsports.com.au/football/premier-league/liverpool-v-norwich-russell-martin-cancels-out-danny-ingss-goal/story-e6frf4a3-1227536356860 |title=Liverpool v Norwich: Russell Martin cancels out Danny Ings's goal |date=21 September 2015 |publisher=Fox Sports}}&lt;/ref&gt; He scored his first two goals of the season in a 3–2 victory against Aston Villa on 26 September.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/34299540 |title=Liverpool 3–2 Aston Villa |date=26 September 2015 |publisher=BBC Sport}}&lt;/ref&gt; On 15 October, Sturridge suffered a knee injury in training that would rule him out another four weeks.&lt;ref&gt;{{cite web |last1=Whalley |first1=Mike |title=Daniel Sturridge to miss Liverpool's Capital One Cup tie vs. Bournemouth |url=http://www.espnfc.com/liverpool/story/2684716/daniel-sturridge-unavailable-for-liverpool-jurgen-klopp |website=ESPN FC |accessdate=27 October 2015 |date=27 October 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Daniel Sturridge returns to training but unlikely to face Man City |url=http://www.thisisanfield.com/2015/11/daniel-sturridge-returns-to-training-but-unlikely-to-face-man-city/ |accessdate=18 November 2015 |date=17 November 2015}}&lt;/ref&gt;
+[[File:Sturridge leaves the field (34665487952).jpg|thumb|308x308px|Sturridge playing for Liverpool against [[Middlesbrough F.C.|Middlesbrough]], 21 May 2017.]]
+On 2 December, he scored a brace in a 6–1 away win over Southampton in the quarter-final of the League Cup.&lt;ref&gt;{{cite news |title=Southampton 1–6 Liverpool |url=https://www.bbc.co.uk/sport/0/football/34918281 |accessdate=2 December 2015 |publisher=BBC Sport |date=2 December 2015}}&lt;/ref&gt; Four days later he suffered another [[Pulled hamstring|hamstring injury]] in a 2–0 defeat to Newcastle United, that ruled him out for two months.&lt;ref&gt;{{cite news |title=Liverpool's Daniel Sturridge out for 'weeks' with fresh hamstring issue |url=http://www.skysports.com/football/news/11669/10093819/liverpools-daniel-sturridge-out-for-weeks-with-fresh-hamstring-issue |publisher=Sky Sports |accessdate=11 March 2016 |date=6 December 2016}}&lt;/ref&gt; He returned to the team on 14 February 2016, scoring in a 6–0 win over Aston Villa at [[Villa Park]].&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/35515112 |title=Aston Villa 0–6 Liverpool |date=14 February 2016 |publisher=BBC Sport}}&lt;/ref&gt; 14 days later, he started in the [[2016 Football League Cup Final|2016 League Cup Final]] loss to Manchester City, playing the full 120 minutes as Liverpool were defeated in a [[penalty shoot-out (association football)|penalty shoot-out]].&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/35624164 |title=Liverpool 1–1 Manchester City |date=28 February 2016 |publisher=BBC Sport}}&lt;/ref&gt;
+
+On 10 March 2016, he scored his first [[UEFA Europa League|Europa League]] goal for Liverpool in a 2–0 win over [[Liverpool F.C.–Manchester United F.C. rivalry|rivals]] Manchester United at Anfield.&lt;ref&gt;{{cite news |last1=Taylor |first1=Daniel |title=Liverpool's Sturridge and Firmino make feeble Manchester United pay |url=https://www.theguardian.com/football/2016/mar/10/liverpool-manchester-united-europa-league-match-report |accessdate=11 March 2016 |newspaper=The Guardian |location=London |date=10 March 2016}}&lt;/ref&gt; He scored his 50th goal for Liverpool in all competitions on 20 April, in a 4–0 win at home in the Merseyside derby; he is the fourth fastest Liverpool player to reach that landmark, doing so in 87 appearances.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/35624290 |title=Liverpool 4–0 Everton |author=Gary Rose |publisher=BBC Sport |date=20 April 2016 |accessdate=20 April 2016}}&lt;/ref&gt;
+
+On 5 May 2016, Sturridge scored his 12th goal of the season in Liverpool's 3–0 defeat of [[Villarreal CF]] in the Europa League semi-final second leg to qualify the team for the [[2016 UEFA Europa League Final]].&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/36126028 |title=Liverpool 3–0 Villarreal |date=5 May 2016 |publisher=BBC Sport}}&lt;/ref&gt; On 19 May, Sturridge scored the opening goal of the Europa League Final, an eventual 3–1 loss to [[Sevilla FC|Sevilla]] in Basel.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/36254631 |title=Liverpool 1–3 Sevilla |date=18 May 2016 |publisher=BBC Sport}}&lt;/ref&gt; Sturridge ended the season as Liverpool's top scorer with 13 goals.
+
+====2016–17 season====
+Sturridge began the season as an understudy to [[Roberto Firmino]] and generally came off the bench during the second half in league matches.&lt;ref&gt;{{cite news |title=Daniel Sturridge is not part of Liverpool's best XI – Lawrenson |url=https://www.bbc.com/sport/football/37771013 |publisher=BBC Sport |accessdate=26 October 2016 |date=25 October 2016}}&lt;/ref&gt; On 23 August, Sturridge started the match against [[Burton Albion F.C.|Burton Albion]] in the [[2016–17 EFL Cup|EFL Cup]] and scored a brace in the 5–0 win for Liverpool.&lt;ref&gt;{{cite news |title=Burton Albion 0–5 Liverpool |url=https://www.bbc.com/sport/football/37091102 |publisher=BBC Sport |accessdate=26 October 2016 |date=23 August 2016}}&lt;/ref&gt; Sturridge started in the fourth round of the EFL Cup against Tottenham on 25 October and scored a brace in a 2–1 win for Liverpool at Anfield.&lt;ref&gt;{{cite news |title=Liverpool 2–1 Tottenham |url=https://www.bbc.com/sport/football/37686653 |first=Luke |last=Reddy |publisher=BBC Sport |accessdate=26 October 2016 |date=25 October 2016}}&lt;/ref&gt; He scored his first league goal of the season on 27 December, scoring within one minute of coming on as a second-half substitute against Stoke.&lt;ref&gt;{{cite news |url=https://www.mirror.co.uk/sport/football/match-reports/liverpool-4-1-stoke-daniel-9149897 |title=Liverpool 4–1 Stoke: Daniel Sturridge ends Premier League goal drought as Reds go second – 5 things we learned |newspaper=Daily Mirror |location=London |last=Anderson |first=David |date=27 December 2016 |accessdate=28 December 2016}}&lt;/ref&gt; Sturridge's goal, Liverpool's fourth on the night and 86th for the season, saw the club break its record for goals scored in a calendar year.&lt;ref&gt;{{cite web |url=http://metro.co.uk/2016/12/27/daniel-sturridges-first-league-goal-of-the-season-breaks-liverpool-record-6346833/ |title=Daniel Sturridge's first league goal of the season breaks Liverpool record |website=Metro UK |last=Bellshaw |first=George |date=27 December 2016 |accessdate=2 January 2018}}&lt;/ref&gt;
+
+==== 2017–18 season ====
+On 27 August 2017, Sturridge scored in a 4–0 win over [[Arsenal F.C.|Arsenal]], just three minutes after coming on as a substitute.&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/40990427 |title=Liverpool 4–0 Arsenal |date=27 August 2017 |publisher=BBC Sport |accessdate=14 August 2018}}&lt;/ref&gt; On 28 October, he scored the opening goal in a 3–0 win over [[Huddersfield Town A.F.C.|Huddersfield Town]].&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/41703861 |title=Liverpool 3–0 Huddersfield Town |date=28 October 2017 |publisher=BBC Sport |accessdate=14 August 2018}}&lt;/ref&gt; On 1 November, he scored in a 3–0 win over [[NK Maribor|Maribor]] in the [[2017–18 UEFA Champions League|UEFA Champions League]].&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/41822020 |title=Liverpool 3–0 NK Maribor |date=1 November 2017 |publisher=BBC Sport |accessdate=14 August 2018}}&lt;/ref&gt;
+
+====Loan to West Bromwich Albion====
+On 29 January 2018, Sturridge joined [[West Bromwich Albion F.C.|West Bromwich Albion]] on loan for the remainder of the [[2017–18 West Bromwich Albion F.C. season|2017–18 season]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/42867615 |title=Daniel Sturridge: West Brom sign Liverpool striker on loan |publisher=BBC Sport |date=29 January 2018 |accessdate=29 January 2018}}&lt;/ref&gt; On 12 February, in just his third appearance for West Brom since joining on loan, Sturridge suffered a hamstring injury after three minutes of playing in a 3–0 away defeat to [[Chelsea F.C.|Chelsea]].&lt;ref&gt;{{Cite news |url=https://www.bbc.co.uk/sport/football/43039156 |title=West Brom striker Daniel Sturridge injured after three minutes at Chelsea |publisher=BBC Sport |date=12 February 2018}}&lt;/ref&gt;
+
+====2018–19 season====
+Back in Liverpool colours, on 12 August 2018, Sturridge scored with his first touch after 24 seconds coming on as a substitute in a 4–0 win over [[West Ham United F.C.|West Ham United]].&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/45073328 |title=Liverpool v West Ham United |publisher=BBC Sport |date=12 August 2018 |accessdate=12 August 2018}}&lt;/ref&gt; On 18 September, he scored the opening goal of a 3–2 win over [[Paris Saint-Germain F.C.|Paris Saint-Germain]] in the opening match of the [[2018–19 UEFA Champions League|UEFA Champions League]].&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/45551722 |title=Liverpool 3–2 Paris St-Germain |date=18 September 2018 |publisher=BBC Sport |accessdate=29 September 2018}}&lt;/ref&gt; On 26 September, he scored the opening goal against his former club [[Chelsea F.C.|Chelsea]] in the [[2018–19 EFL Cup|EFL Cup]] [[2018–19 EFL Cup#Third round|third round]], though Liverpool eventually lost the match 1–2.&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/45569330 |title=Liverpool 1–2 Chelsea |date=26 September 2018 |publisher=BBC Sport |accessdate=29 September 2018}}&lt;/ref&gt; Three days later Sturridge scored the equalising goal – and 50th league goal of his Liverpool career – with a 25-yard curler in the 89th minute to earn a 1–1 draw with Chelsea at [[Stamford Bridge (stadium)|Stamford Bridge]], which was later voted as [[Premier League Goal of the Month]] for September.&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/45610323 |title=Chelsea 1–1 Liverpool: Daniel Sturridge snatches dramatic point for Reds |date=29 September 2018 |publisher=BBC Sport |accessdate=29 September 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=https://www.liverpoolfc.com/news/first-team/320577-daniel-sturridge-premier-league-award |title=Sturridge wins Premier League Goal of the Month |publisher=Liverpool F.C. |accessdate=23 October 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:Daniel Sturridge.JPG|thumb|upright|Sturridge playing for [[England national under-21 football team|England U21s]] in 2009]]
+
+===Youth===
+Sturridge has represented England at [[England national under-16 football team|U16]], [[England national under-17 football team|U17]], [[England national under-18 football team|U18]], [[England national under-19 football team|U19]], [[England national under-20 football team|U20]] and [[England national under-21 football team|U21]] levels.&lt;ref name=Telegraph/&gt; He scored twice against the Netherlands for the under-18 team in 2007, netting again in the Under-19 European Championships against the Netherlands. He scored the only goal for England U21 in a 1–1 draw against Greece U-21 in Greece and scored his second U-21 goal in the 1–0 win over Portugal.
+
+He was named in the England under-21 squad for the [[2011 UEFA European Under-21 Championship]]. England was eliminated in the group stages. Sturridge was selected to the team of the tournament.&lt;ref name=UEFAtott&gt;{{cite web |title=U21 all-star squad named by UEFA technical team |url=http://www.uefa.com/under21/news/newsid=1647974.html |accessdate=5 May 2016 |publisher=UEFA |date=29 June 2011}}&lt;/ref&gt;
+
+===Senior===
+On 6 November 2011, Sturridge was handed his maiden England call-up by being named in the England squad for the friendlies against Spain and Sweden, after excelling for Chelsea.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2011/nov/06/daniel-sturridge-jack-rodwell-england |title=Daniel Sturridge named in Capello's England squad |accessdate=6 November 2011 |newspaper=The Guardian |location=London |date=6 November 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport2/hi/football/15614738.stm |title=Daniel Sturridge in England squad |accessdate=6 November 2011 |publisher=BBC Sport |date=6 November 2011}}&lt;/ref&gt; He was an unused substitute in a 1–0 victory against Spain, but [[Fabio Capello]] insisted that Sturridge would play against [[Sweden national football team|Sweden]] the following Tuesday and did, as he made his debut coming on as a second-half substitute for [[Theo Walcott]].&lt;ref&gt;{{cite news |title=International friendly: England 1–0 Sweden |url=https://www.bbc.com/sport/football/15709627 |accessdate=5 May 2016 |publisher=BBC Sport |date=15 November 2011}}&lt;/ref&gt; He made his second appearance against the [[Netherlands national football team|Netherlands]] coming on in the first half for the injured Steven Gerrard and caused the Dutch defence problems throughout the match and earned the [[man of the match]] award for his efforts during the match.
+
+He scored his first senior goal for England in his fifth match on 22 March 2013, after coming on for [[Wayne Rooney]] in an 8–0 away win against [[San Marino national football team|San Marino]] in World Cup qualification.&lt;ref name="San Marino 0–8 England"&gt;{{cite news |first=Phil |last=McNulty |url=https://www.bbc.co.uk/sport/football/21653049 |title=San Marino 0–8 England |publisher=BBC Sport |date=22 March 2013 |accessdate=7 April 2016}}&lt;/ref&gt; The goal meant he had made an appearance and scored for all levels of international football for England, from U16 to the seniors, as well as scoring for the [[Great Britain Olympic football team]]. On 11 October, he scored another goal in England's qualification campaign, an injury-time penalty in a 4–1 win over [[Montenegro national football team|Montenegro]] after he had been fouled by [[Ivan Kecojević]].&lt;ref name="England 4–1 Montenegro"&gt;{{cite news |last=McNulty |first=Phil |title=England 4–1 Montenegro |url=https://www.bbc.co.uk/sport/football/24393746 |accessdate=7 April 2016 |publisher=BBC Sport |date=11 October 2013}}&lt;/ref&gt; He scored again in the opening match of 2014, England's March friendly with [[Denmark national football team|Denmark]].&lt;ref name=denmark2014&gt;{{cite news |last=Ornstein |first=David |title=England 1–0 Denmark |url=https://www.bbc.co.uk/sport/football/26349068 |accessdate=5 May 2016 |publisher=BBC Sport |date=5 March 2014}}&lt;/ref&gt; The score was 0–0 until the eighty-second minute, when Sturridge rose to head an [[Adam Lallana]] cross into the net for a late winner.&lt;ref name=denmark2014/&gt;
+
+====2012 Summer Olympics====
+On 2 July 2012, Sturridge was named in [[Stuart Pearce]]'s 18-man squad for the Great Britain Olympic football team to compete at the 2012 Summer Olympics.&lt;ref&gt;{{cite news |title=Pearce names squad |url=http://www1.skysports.com/olympics/story/15234/7859286 |publisher=Sky Sports |date=2 July 2012 |accessdate=2 July 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20100721195910/http://www1.skysports.com/olympics/story/15234/7859286 |archivedate=21 July 2010}}&lt;/ref&gt; It was however, announced on 3 July 2012 that Sturridge was undergoing tests for suspected [[meningitis]], and was possibly going to be unable to compete in the GB 2012 team.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/sport/2012/jul/03/london-2012-daniel-sturridge-team-gb?newsfeed=true |newspaper=The Guardian |location=London |title=London 2012: Daniel Sturridge may have to withdraw from Team GB |accessdate=3 July 2012 |first=Owen |last=Gibson |date=3 July 2012}}&lt;/ref&gt; However, he made a full recovery meaning he could take part and he scored his first goal for Great Britain in the second group match, a 3–1 victory over the [[United Arab Emirates national under-23 football team|United Arab Emirates]].&lt;ref&gt;{{cite news |url=http://www.thesun.co.uk/sol/homepage/sport/olympics/4461659/Great-Britain-3-UAE-1.html |title=Great Britain 3 UAE 1 |newspaper=The Sun |date=30 July 2012 |location=London |first=Antony |last=Kastrinakis}}&lt;/ref&gt; In the final group match, Sturridge scored the only goal as Great Britain defeated [[Uruguay Olympic football team|Uruguay]] to finish top of their group and progress to the quarter-final.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/olympics/football/9445523/London-2012-Olympics-Great-Britain-1-Uruguay-0-match-report.html |title=London 2012 Olympics: Great Britain 1 Uruguay 0 – Match report |newspaper=The Daily Telegraph |location=London |date=1 August 2012 |first=Henry |last=Winter}}&lt;/ref&gt; In the quarter-final match against [[South Korea national under-23 football team|South Korea]], Sturridge missed the fifth penalty for Great Britain. South Korea then scored theirs, knocking out Team GB.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/olympics/18911955 |title=Olympics football: GB beaten by South Korea on penalties |publisher=BBC Sport |date=4 August 2012 |accessdate=22 November 2012}}&lt;/ref&gt;
+
+====2014 FIFA World Cup====
+In May 2014, Sturridge was named in England's squad for the [[2014 FIFA World Cup]] and assigned the number 9 shirt.&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/england/2014/may/world-cup-squad-numbers-announced-210514 |title=England's World Cup squad numbers confirmed |date=22 May 2014 |accessdate=16 June 2014 |publisher=The Football Association}}&lt;/ref&gt; He scored the team's opening goal in a 3–0 friendly defeat of [[Peru national football team|Peru]] at [[Wembley Stadium]] on 30 May.&lt;ref name="England 3–0 Peru"&gt;{{cite news |first=Phil |last=McNulty |title=England 3–0 Peru |url=https://www.bbc.co.uk/sport/football/27383301 |publisher=BBC Sport |date=30 May 2014 |accessdate=7 April 2016}}&lt;/ref&gt;
+
+On 14 June, Sturridge started England's opening match of the tournament and scored the team's goal in a 2–1 defeat by [[Italy national football team|Italy]] in [[Manaus]].&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2014/jun/15/england-italy-world-cup-2014-group-d-match-report |title=Italy's Mario Balotelli leaves England's Group D hopes in the balance |date=15 June 2014 |accessdate=16 June 2014 |newspaper=The Guardian |location=London}}&lt;/ref&gt;
+
+====UEFA Euro 2016====
+Despite injury keeping him out of most of the [[UEFA Euro 2016 qualification]] phase, Sturridge was named in England's squad for the [[UEFA Euro 2016]] finals. In the team's second group match, after appearing as a half time substitute against [[Wales national football team|Wales]], Sturridge assisted [[Jamie Vardy]]'s equaliser and scored the winning goal as the team recovered from a 1–0 deficit.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2016/jun/16/england-wales-euro-2016-match-report |title=Euro 2016: Sturridge leaves it late as England come back to beat Wales |date=16 June 2016 |newspaper=The Guardian |location=London}}&lt;/ref&gt;
+
+==Style of play==
+[[File:Sturridge v Stoke City 2013.jpg|thumb|upright|Sturridge playing for Liverpool in 2013]]
+
+Former Chelsea manager André Villas-Boas said, "Daniel offers a few of the characteristics I had with [[Hulk (footballer)|Hulk]] when I was with him in [[FC Porto|Porto]]... He is an extremely quick player, and he has technique at pace."&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/chelsea/8801185/Chelsea-manager-Andre-Villas-Boas-says-Daniel-Sturridge-is-a-really-big-talent-ahead-of-Bolton-Wandrerers-test.html |title=Sturridge 'a really big talent' |accessdate=1 October 2011 |newspaper=The Daily Telegraph |location=London |first=Duncan |last=White |date=1 October 2011}}&lt;/ref&gt;
+
+Sturridge said he preferred to play as a centre-forward rather than as a wide player: "I do still see myself as a striker but I am doing a job for the team and I'm enjoying doing it." As Sturridge transitioned from a wider role into a striker when he joined Liverpool, Sturridge also said that he likens himself on striker [[Thierry Henry]], who "played wide for Juventus and then went to [[Arsenal F.C.|Arsenal]] and played as a centre-forward."&lt;ref&gt;{{cite news |url=http://www1.skysports.com/football/news/11668/7595924/Sturridge-I-m-a-striker |title=Sturridge – I'm a striker |accessdate=14 March 2012 |publisher=Sky Sports}}&lt;/ref&gt;
+
+Although he rarely played for Chelsea as a striker, Liverpool manager Brendan Rodgers played Sturridge as a striker in most matches. His ability to still drop between lines and pull wide and attack defences, similar to former strike partner Luis Suárez's playing-style, has led to Rodgers describing him as "what I call a '[[Forward (association football)#Second striker|nine-and-a-half]]".&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/brendan-rodgers-willing-to-tinker-with-liverpool-formation-to-exploit-the-strengths-of-our-players-8859191.html |title=Brendan Rodgers willing to tinker with Liverpool formation to 'exploit the strengths of our players' |accessdate=4 October 2013 |newspaper=The Independent |location=London |first=Carl |last=Markham |date=4 October 2013}}&lt;/ref&gt;
+
+==Outside of football==
+===Personal life===
+Sturridge is the son of former footballer [[Mike Sturridge]],&lt;ref&gt;{{cite web |title=Dan Sturridge Uses Father's Pride As Inspiration Source For Achivement At Chelsea |url=http://www.goal.com/en/news/1862/premier-league/2009/12/26/1709809/dan-sturridge-uses-fathers-pride-as-inspiration-source-for |website=Goal.com |accessdate=8 August 2018}}&lt;/ref&gt; and the nephew of former footballers [[Dean Sturridge|Dean]] and [[Simon Sturridge]].&lt;ref&gt;{{cite news |title=Daniel Sturridge: 'I'm aiming for the stars. I'm not happy in the shadows' |url=https://www.independent.co.uk/sport/football/news-and-comment/daniel-sturridge-im-aiming-for-the-stars-im-not-happy-in-the-shadows-2245082.html |newspaper=The Independent |location=London |accessdate=21 October 2014}}&lt;/ref&gt; Sturridge used to support Derby County when he was younger because his uncle, Dean, played for them. But once Dean left, Sturridge switched his allegiance to Arsenal.&lt;ref&gt;{{cite web |last1=Ratna |first1=Hitesh |title=Daniel Sturridge: Talentspotter |url=https://www.fourfourtwo.com/features/daniel-sturridge-talentspotter |website=FourFourTwo |accessdate=16 June 2017 |date=1 September 2007}}&lt;/ref&gt;
+
+Sturridge is a Christian. After winning the Premier League Player of the Month award, Sturridge said, "I do all [through] [[Jesus|Christ]] who strengthens me."&lt;ref&gt;{{cite tweet |user=DanielSturridge |author=Daniel Sturridge |number=378554379328323585 |date=13 September 2013 |title=I do all trough Christ who strengthens me. Thanks to my teammates, family and the fans. I'm nothing without you #love}}&lt;/ref&gt; He is actively involved in charity work, often helping young players get involved in football. In November 2012, while playing for Chelsea, he presented a cheque for €50,000 on behalf of [[Hyundai]] to Street League, a charity dedicated to helping disadvantaged players across Europe get into football.&lt;ref name="sleague"&gt;{{cite news |title=Hyundai UK confirms further support for Street League as Daniel Sturridge visits New Liverpool Academy |url=https://www.hyundaipressoffice.co.uk/release/409/ |accessdate=31 January 2018 |work=Hyundai Press Office |date=10 June 2013 |archiveurl=https://web.archive.org/web/20180131200942/https://www.hyundaipressoffice.co.uk/release/409/ |archivedate=31 January 2018 |deadurl=yes}}&lt;/ref&gt; In June 2013 he presented a further cheque of £50,000 to Street League, whilst visiting their new centre in Liverpool.&lt;ref name="sleague" /&gt; Later that same month, Sturridge opened his charity foundation named after him in [[Portmore, Jamaica|Portmore]], Jamaica, with its aim to help youngsters there get into sport and entertainment.&lt;ref&gt;{{cite news |url=http://www.jamaicaobserver.com/sport/Digicel-joins-Sturridge-in-launching-foundation-in-Jamaica_14551733 |title=Digicel joins Sturridge in launching foundation in Jamaica |accessdate=23 June 2013 |date=23 June 2013 |newspaper=The Jamaica Observer |first=Sanjay |last=Myers}}&lt;/ref&gt; He also owns the Sturr Class Entertainment record company.&lt;ref&gt;{{cite news |last=Campbell |first=Howard |url=http://www.jamaicaobserver.com/entertainment/A-breaking-point-for-Daniel-Sturridge_19151714 |title=A breaking point for Daniel Sturridge |work=The Jamaica Observer |date=19 June 2015 |accessdate=21 June 2015}}&lt;/ref&gt; Sturridge is of Jamaican descent, all of his grandparents being Jamaican.&lt;ref&gt;{{cite web |url=http://www.jamaicaobserver.com/lifestyle/My-Kingston---Daniel-Sturridge-and-Micah-Richards_11560560 |title=My Kingston – Daniel Sturridge and Micah Richards – Lifestyle |website=The Jamaica Observer |date=3 June 2012 |accessdate=31 January 2018}}&lt;/ref&gt;
+
+===Endorsements===
+Sturridge has an endorsement deal with sportswear and equipment supplier [[Nike, Inc.|Nike]]. He wears [[Nike Hypervenom]] boots.&lt;ref&gt;{{cite web |url=http://nikeinc.com/news/top-premier-league-strikers-get-off-to-flying-start-in-hypervenom |title=Top Premier League strikers of to flying start in the Hypervenom |publisher=Nike |accessdate=8 September 2014}}&lt;/ref&gt; He is an ambassador for [[BT Sport]].&lt;ref&gt;{{ cite news | url=http://www.liverpoolecho.co.uk/sport/daniel-sturridge-wont-compromise-explosive-8628037 | title=Daniel Sturridge: I won't compromise "explosive" style to avoid injuries|newspaper=Liverpool Echo |first=Ian |last=Doyle | date=11 February 2015 | accessdate=8 September 2015}}&lt;/ref&gt; Sturridge is featured in [[EA Sports]]' [[FIFA (video game series)|''FIFA'' video game series]], and his signature jig [[goal celebration]] appears in ''[[FIFA 14]]''.&lt;ref&gt;{{cite news |title=The Evolution of EA Sport's FIFA 14 Video Game |url=https://abcnews.go.com/ABC_Univision/ABC_Univision/evolution-ea-sports-fifa-14-video-game/story?id=20028621 |accessdate=29 September 2018 |publisher=ABC News}}&lt;/ref&gt; Prior to the 2014 FIFA World Cup, Sturridge featured in a series of adverts in the UK promoting [[Fast food restaurant|fast food]] restaurant [[Subway (restaurant)|Subway]].&lt;ref&gt;{{ cite news | url=http://www.liverpoolecho.co.uk/sport/football/liverpool-fc-star-daniel-sturridge-7187348 | title=Daniel Sturridge stars in new Subway advert featuring Brazil legend Pele |newspaper=Liverpool Echo |first=Joe |last=Rimmer | date=29 May 2014 | accessdate=8 September 2014}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|As of match played 7 January 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[Manchester City F.C.|Manchester City]]
+|[[2006–07 Manchester City F.C. season|2006–07]]&lt;ref name=sb0607&gt;{{soccerbase season|46104|2006|accessdate=7 April 2016}}&lt;/ref&gt;
+|[[Premier League]]
+|2||0||0||0||0||0||colspan=2|—||colspan=2|—||2||0
+|-
+|[[2007–08 Manchester City F.C. season|2007–08]]&lt;ref name=sb0708&gt;{{soccerbase season|46104|2007|accessdate=7 April 2016}}&lt;/ref&gt;
+|Premier League
+|3||1||1||1||0||0||colspan=2|—||colspan=2|—||4||2
+|-
+|[[2008–09 Manchester City F.C. season|2008–09]]&lt;ref name=sb0809&gt;{{soccerbase season|46104|2008|accessdate=7 April 2016}}&lt;/ref&gt;
+|Premier League
+|16||4||1||0||1||0||8{{efn|Appearances in [[UEFA Europa League|UEFA Cup]]}}||0||colspan=2|—||26||4
+|-
+!colspan=2|Total
+!21||5||2||1||1||0||8||0||colspan=2|—||32||6
+|-
+|rowspan=5|[[Chelsea F.C.|Chelsea]]
+|[[2009–10 Chelsea F.C. season|2009–10]]&lt;ref name=sb0910&gt;{{soccerbase season|46104|2009|accessdate=7 April 2016}}&lt;/ref&gt;
+|Premier League
+|13||1||4||4||1||0||2{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||0||0||20||5
+|-
+|[[2010–11 Chelsea F.C. season|2010–11]]&lt;ref name=sb1011&gt;{{soccerbase season|46104|2010|accessdate=7 April 2016}}&lt;/ref&gt;
+|Premier League
+|13||0||1||2||1||0||5{{efn|name=UCL}}||2||1{{efn|name=FACS|Appearance in [[FA Community Shield]]}}||0||21||4
+|-
+|[[2011–12 Chelsea F.C. season|2011–12]]&lt;ref name=sb1112&gt;{{soccerbase season|46104|2011|accessdate=7 April 2016}}&lt;/ref&gt;
+|Premier League
+|30||11||4||1||2||1||7{{efn|name=UCL}}||0||colspan=2|—||43||13
+|-
+|[[2012–13 Chelsea F.C. season|2012–13]]&lt;ref name=sb1213/&gt;
+|Premier League
+|7||1||0||0||1||1||3{{efn|One appearance in [[UEFA Super Cup]], two in UEFA Champions League}}||0||1{{efn|name=FACS}}||0||12||2
+|-
+!colspan=2|Total
+!63||13||9||7||5||2||17||2||2||0||96||24
+|-
+|[[Bolton Wanderers F.C.|Bolton Wanderers]] (loan)
+|[[2010–11 Bolton Wanderers F.C. season|2010–11]]&lt;ref name=sb1011/&gt;
+|Premier League
+|12||8||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||12||8
+|-
+|rowspan=8|[[Liverpool F.C.|Liverpool]]
+|[[2012–13 Liverpool F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|46104|2012|accessdate=7 April 2016}}&lt;/ref&gt;
+|Premier League
+|14||10||2||1||colspan=2|—||colspan=2|—||colspan=2|—||16||11
+|-
+|[[2013–14 Liverpool F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|46104|2013|accessdate=7 April 2016}}&lt;/ref&gt;
+|Premier League
+|29||21||2||1||2||2||colspan=2|—||colspan=2|—||33||24
+|-
+|[[2014–15 Liverpool F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|46104|2014|accessdate=7 April 2016}}&lt;/ref&gt;
+|Premier League
+|12||4||4||1||0||0||2{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan=2|—||18||5
+|-
+|[[2015–16 Liverpool F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|46104|2015|accessdate=12 November 2016}}&lt;/ref&gt;
+|Premier League
+|14||8||1||0||2||2||8{{efn|name=UEL}}||3||colspan=2|—||25||13
+|-
+|[[2016–17 Liverpool F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|46104|2016|accessdate=20 July 2017}}&lt;/ref&gt;
+|Premier League
+|20||3||3||0||4||4||colspan=2|—||colspan=2|—||27||7
+|-
+|[[2017–18 Liverpool F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|46104|2017|accessdate=26 May 2018}}&lt;/ref&gt;
+|Premier League
+|9||2||0||0||0||0||5{{efn|name=UCL}}||1||colspan=2|—||14||3
+|-
+|[[2018–19 Liverpool F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|46104|2018|accessdate=4 January 2019}}&lt;/ref&gt;
+|Premier League
+|11||2||1||0||1||1||5{{efn|name=UCL}}||1||colspan=2|—||18||4
+|-
+!colspan=2|Total
+!109||50||13||3||9||9||20||5||0||0||151||67
+|-
+|[[West Bromwich Albion F.C.|West Bromwich Albion]] (loan)
+|[[2017–18 West Bromwich Albion F.C. season|2017–18]]&lt;ref name=sb1718/&gt;
+|Premier League
+|6||0||0||0||colspan=2|—||colspan=2|—||colspan=2|—||6||0
+|-
+!colspan=3|Career total
+!211||76||24||11||15||11||45||7||2||0||297||105
+|}
+
+{{notelist}}
+
+===International===
+{{Updated|match played 8 October 2017}}&lt;ref name=NFT&gt;{{NFT player|id=45528 |name=Sturridge, Daniel |accessdate=4 January 2019}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=6|[[England national football team|England]]
+|2011||1||0
+|-
+|2012||3||0
+|-
+|2013||5||2
+|-
+|2014||7||3
+|-
+|2016||9||3
+|-
+|2017||1||0
+|-
+!colspan=2|Total||26||8
+|}
+
+===International goals===
+:''As of match played 8 October 2017. England score listed first, score column indicates score after each Sturridge goal.''&lt;ref name=NFT/&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+!scope=col class=unsortable|{{abbr|Ref.|Reference}}
+|-
+!scope=row style=text-align:center|1
+|22 March 2013||[[San Marino Stadium]], Serravalle, San Marino||align=center|5||{{fb|San Marino}}||align=center|7–0||align=center|8–0||[[2014 FIFA World Cup qualification]]||align=center|&lt;ref name="San Marino 0–8 England"/&gt;
+|-
+!scope=row style=text-align:center|2
+|11 October 2013||[[Wembley Stadium]], London, England||align=center|7||{{fb|Montenegro}}||align=center|4–1||align=center|4–1||[[2014 FIFA World Cup qualification]]||align=center|&lt;ref name="England 4–1 Montenegro"/&gt;
+|-
+!scope=row style=text-align:center|3
+|5 March 2014||[[Wembley Stadium]], London, England||align=center|10||{{fb|Denmark}}||align=center|1–0||align=center|1–0||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref&gt;{{cite news |first=David |last=Ornstein |title=England 1–0 Denmark |url=https://www.bbc.co.uk/sport/football/26349068 |publisher=BBC Sport |date=5 March 2014 |accessdate=7 April 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|4
+|30 May 2014||[[Wembley Stadium]], London, England||align=center|11||{{fb|Peru}}||align=center|1–0||align=center|3–0||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref name="England 3–0 Peru"/&gt;
+|-
+!scope=row style=text-align:center|5
+|14 June 2014||[[Arena da Amazônia]], Manaus, Brazil||align=center|13||{{fb|Italy}}||align=center|1–1||align=center|1–2||[[2014 FIFA World Cup]]||align=center|&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 1–2 Italy |url=https://www.bbc.co.uk/sport/football/25285071 |publisher=BBC Sport |date=14 June 2014 |accessdate=7 April 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|6
+|16 June 2016||[[Stade Bollaert-Delelis]], Lens, France||align=center|19||{{fb|Wales}}||align=center|2–1||align=center|2–1||[[UEFA Euro 2016]]||align=center|&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 2–1 Wales |url=https://www.bbc.co.uk/sport/football/36486410 |publisher=BBC Sport |date=16 June 2016 |accessdate=16 June 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|7
+|8 October 2016||[[Wembley Stadium]], London, England||align=center|23||{{fb|Malta}}||align=center|2–0||align=center|2–0||[[2018 FIFA World Cup qualification]]||align=center|&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 2–0 Malta |url=https://www.bbc.co.uk/sport/football/37424282 |publisher=BBC Sport |date=8 October 2016 |accessdate=8 October 2016}}&lt;/ref&gt;
+|-
+!scope=row style=text-align:center|8
+|11 November 2016||[[Wembley Stadium]], London, England||align=center|25||{{fb|Scotland}}||align=center|1–0||align=center|3–0||[[2018 FIFA World Cup qualification]]||align=center|&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 3–0 Scotland |url=https://www.bbc.co.uk/sport/football/37868651 |publisher=BBC Sport |date=11 November 2016 |accessdate=12 November 2016}}&lt;/ref&gt;
+|}
+
+==Honours==
+'''Chelsea'''
+*[[Premier League]]: [[2009–10 Premier League|2009–10]]&lt;ref name=PremProfile&gt;{{cite web |url=https://www.premierleague.com/players/3154/Daniel-Sturridge/overview |title=Daniel Sturridge: Overview |publisher=Premier League |accessdate=28 September 2018}}&lt;/ref&gt;
+*[[FA Cup]]: [[2009–10 FA Cup|2009–10]], [[2011–12 FA Cup|2011–12]]&lt;ref name=Soccerway/&gt;
+*[[UEFA Champions League]]: [[2011–12 UEFA Champions League|2011–12]]&lt;ref name=Soccerway/&gt;
+
+'''Liverpool'''
+*[[Football League Cup]] runner-up: [[2015–16 Football League Cup|2015–16]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/35624164 |title=Liverpool 1–1 Manchester City |first=Phil |last=McNulty |publisher=BBC Sport |date=28 February 2016 |accessdate=27 May 2018}}&lt;/ref&gt;
+*[[UEFA Europa League]] runner-up: [[2015–16 UEFA Europa League|2015–16]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/36254631 |title=Liverpool 1–3 Sevilla |first=Phil |last=McNulty |publisher=BBC Sport |date=18 May 2016 |accessdate=27 May 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Premier League 5|2013–14 Premier League]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/27180793 |title=Luis Suarez: Liverpool striker wins PFA Player of the Year award |publisher=BBC Sport |date=28 April 2014 |accessdate=23 May 2018}}&lt;/ref&gt;
+*[[UEFA European Under-21 Championship]] Team of the Tournament: [[2011 UEFA European Under-21 Championship#Team of the Tournament|2011]]&lt;ref name=UEFAtott/&gt;
+*[[Premier League Player of the Month]]: [[2013–14 Premier League#Monthly awards|August 2013]], February 2014&lt;ref name=PremProfile/&gt;
+*[[Premier League Goal of the Month]]: [[2018–19 Premier League#Monthly awards|September 2018]]&lt;ref&gt;{{Cite web |url=https://www.premierleague.com/news/877605 |title=Sturridge wins Carling Goal of the Month |publisher=Premier League |accessdate=12 October 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.liverpoolfc.com/team/first-team/player/daniel-sturridge Profile] at the Liverpool F.C. website
+*{{Soccerbase}}
+
+{{2013–14 Premier League PFA Team of the Year}}
+{{Liverpool F.C. squad}}
+{{Navboxes
+| title = International tournaments
+| list1 = 
+{{England squad 2014 FIFA World Cup}}
+{{England squad UEFA Euro 2016}}
+{{Great Britain men's football squad 2012 Summer Olympics}}
+}}
+
+{{DEFAULTSORT:Sturridge, Daniel}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Birmingham, West Midlands]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England international footballers]]
+[[Category:Association football forwards]]
+[[Category:Aston Villa F.C. players]]
+[[Category:Coventry City F.C. players]]
+[[Category:Manchester City F.C. players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Bolton Wanderers F.C. players]]
+[[Category:Liverpool F.C. players]]
+[[Category:West Bromwich Albion F.C. players]]
+[[Category:Premier League players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:UEFA Champions League winning players]]
+[[Category:Olympic footballers of Great Britain]]
+[[Category:Footballers at the 2012 Summer Olympics]]
+[[Category:Black English sportspeople]]
+[[Category:English Christians]]
+[[Category:English people of Jamaican descent]]
+[[Category:Sturridge family]]</text>
+      <sha1>otng9u9pxyd5u1yoo97b09ds9x80yj1</sha1>
+    </revision>
+  </page>
+</mediawiki>

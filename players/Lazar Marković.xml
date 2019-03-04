@@ -1,0 +1,368 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lazar Marković</title>
+    <ns>0</ns>
+    <id>31987362</id>
+    <revision>
+      <id>884620329</id>
+      <parentid>881753416</parentid>
+      <timestamp>2019-02-22T20:50:48Z</timestamp>
+      <contributor>
+        <username>Anwegmann</username>
+        <id>1384218</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32079">{{Use dmy dates|date=April 2017}}
+{{Infobox football biography
+| name           = Lazar Marković
+| image          = Lazar Markovic in Bangkok (19714140242).jpg
+| image_size     = 200
+| caption        = Marković training with [[Liverpool F.C.|Liverpool]] in 2015
+| fullname       = Lazar Marković&lt;ref&gt;{{cite web|title=Premier League Clubs submit Squad Lists|url=http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/Premier-League-squad-lists-September-2014.pdf|publisher=Premier League|format=PDF|date=3 September 2014|page=21|archiveurl=https://web.archive.org/web/20141022192726/http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/Premier-League-squad-lists-September-2014.pdf|archivedate=22 October 2014}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1994|3|2|df=y}}
+| birth_place    = [[Čačak]], [[Federal Republic of Yugoslavia|FR Yugoslavia]]
+| height         = {{height|m=1.78}}&lt;ref&gt;{{cite web|url=http://www.premierleague.com/en-gb/players/profile.overview.html/lazar-markovic|title=Premier League Player Profile Lazar Markovic|author=&lt;!--Staff writer(s); no by-line.--&gt;|date=2014|website=Premier League|publisher=Barclays Premier League|accessdate=7 January 2015}}&lt;/ref&gt;
+| position       = [[Winger (association football)|Winger]]
+| currentclub    = [[Fulham F.C|Fulham]]
+| clubnumber     = 30
+| youthyears1    = 
+| youthclubs1 = [[FK Borac Čačak|Borac Čačak]]
+| youthyears2    = 2006–2011
+| youthclubs2    = [[FK Partizan|Partizan]]
+| years1         = 2011–2013
+| clubs1 = [[FK Partizan|Partizan]]
+| caps1 = 46
+| goals1 = 13
+| years2         = 2013–2014
+| clubs2 = [[S.L. Benfica|Benfica]]
+| caps2 = 26
+| goals2 = 5
+| years3         = 2014–2019
+| clubs3 = [[Liverpool F.C.|Liverpool]]
+| caps3 = 19
+| goals3 = 2
+| years4         = 2015–2016
+| clubs4 = → [[Fenerbahçe S.K. (football)|Fenerbahçe]] (loan)
+| caps4 = 14
+| goals4 = 0
+| years5         = 2016–2017
+| clubs5 = → [[Sporting CP]] (loan)
+| caps5 = 6
+| goals5 = 1
+| years6         = 2017 
+| clubs6 = → [[Hull City A.F.C.|Hull City]] (loan)
+| caps6 = 12
+| goals6= 2
+| years7         = 2018
+| clubs7 = → [[RSCA|Anderlecht]] (loan)
+| caps7 = 8
+| goals7 = 1
+| years8         = 2019–
+| clubs8 = [[Fulham F.C.|Fulham]]
+| caps8 = 1
+| goals8 = 0
+| nationalyears1 = 2009–2011
+| nationalteam1  = [[Serbia national under-17 football team|Serbia U17]]&lt;ref name=UEFA&gt;Only official [[UEFA]] matches included&lt;/ref&gt;
+| nationalcaps1 = 8
+| nationalgoals1 = 0
+| nationalyears2 = 2011–2016
+| nationalteam2 = [[Serbia national under-21 football team|Serbia U21]]&lt;ref name=UEFA/&gt;
+| nationalcaps2 = 2
+| nationalgoals2 = 0
+| nationalyears3 = 2012–
+| nationalteam3 = [[Serbia national football team|Serbia]]
+| nationalcaps3 = 22
+| nationalgoals3 = 3
+| club-update    = 20:50, 22 February 2019 (UTC)
+| nationalteam-update = 15 November 2016
+}}
+'''Lazar Marković''' ({{lang-sr-Cyrl|Лазар Марковић}}, {{IPA-sh|lâzaːr mǎːrkoʋitɕ|pron}}; born 2 March 1994) is a Serbian professional [[Association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for [[Fulham F.C.|Fulham]] and the [[Serbia national football team|Serbia national team]].
+
+He started his career at [[FK Partizan|Partizan]] before moving to [[S.L. Benfica|Benfica]] in 2013, where he won a domestic [[Treble (association football)|treble]] in his only season, after which he completed a £20 million move to Liverpool. His second season at Liverpool was spent on loan at [[Fenerbahçe S.K. (football)|Fenerbahçe]], and finished prematurely due to injury. He was then transferred to [[Sporting CP]] on a season-long loan, which was cancelled in January 2017, after which he was loaned to [[Hull City A.F.C.|Hull City]]. In January 2019 he moved to [[Fulham F.C|Fulham]] on a free transfer after not making a competitive appearance for Liverpool since May 2015.
+
+Marković made his full international debut for Serbia in 2012.
+
+==Club career==
+===Partizan===
+After playing for the youth selections of [[FK Borac Čačak|Borac Čačak]], Marković joined [[FK Partizan|Partizan]] in 2006 as a 12-year-old trainee.&lt;ref name=interview&gt;{{cite news | url=http://www.novosti.rs/vesti/sport.294.html:352273-Braca-Markovic-Sanjamo-Ligu-sampiona | title=Braća Marković: Sanjamo Ligu šampiona! | language=Serbian | publisher=novosti.rs | date=7 November 2011 | accessdate=18 November 2011}}&lt;/ref&gt; On 29 May 2011, coach [[Aleksandar Stanojević]] promoted Marković to the first team ahead of the final round of the [[2010–11 Serbian SuperLiga|2010–11 SuperLiga]], which Partizan played against [[FK Sloboda Užice|Sloboda Užice]]. He was given the number 50 shirt. Marković was used as a second-half substitute for [[Joseph Kizito]] in his team's 2–1 win.&lt;ref&gt;{{cite news | url=http://www.novosti.rs/vesti/sport.72.html:332319-JSL-Partizan-pobedio-i-na-rastanku | title=JSL: Partizan pobedio i na rastanku | language=Serbian | publisher=novosti.rs | date=29 May 2011 | accessdate=18 December 2011}}&lt;/ref&gt;
+
+====2011–12 season====
+On 11 July 2011, together with [[Nikola Ninković]], Marković signed his first professional contract with Partizan, for five years.&lt;ref&gt;{{cite news | url=http://www.partizan.rs/14289-markovi%C4%87-i-ninkovi%C4%87-profesionalci/ | title=Marković i Ninković profesionalci! | language=Serbian | publisher=partizan.rs | date=11 July 2011 | accessdate=11 July 2011 }}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref&gt;{{cite news | url=http://sport.blic.rs/Fudbal/Domaci-fudbal/200111/Partizan-osvezio-vezni-red-svojim-talentima-Ninkovicem-i-Markovicem | title=Partizan osvežio vezni red svojim talentima, Ninkovićem i Markovićem | language=Serbian | publisher=blic.rs | date=11 July 2011 | accessdate=11 July 2011}}&lt;/ref&gt; Marković made his first appearance of the 2011–12 season in Partizan's opener against [[KF Shkëndija|Shkëndija]], in the qualifying round of the [[2011–12 UEFA Champions League|UEFA Champions League]], playing the last three minutes of the match.&lt;ref&gt;{{cite news | url=http://www.uefa.com/uefachampionsleague/season=2012/matches/round=2000260/match=2007494/index.html | title=Four-goal Partizan too hot for Skendija | publisher=uefa.com | date=13 July 2011 | accessdate=18 April 2012}}&lt;/ref&gt; He scored his first senior goal in a league match against [[FK Novi Pazar|Novi Pazar]], on 13 August 2011.&lt;ref&gt;{{cite news | url=http://www.mozzartsport.com/vesti/5181/presre%C4%87ni-markovi%C4%87/ | title=Presrećni Marković | language=Serbian | publisher=mozzartsport.com | date=15 August 2011 | accessdate=22 August 2011 | deadurl=yes | archiveurl=https://web.archive.org/web/20120325045514/http://www.mozzartsport.com/vesti/5181/presre%C4%87ni-markovi%C4%87/ | archivedate=25 March 2012 | df=dmy-all }}&lt;/ref&gt; At the end of 2011, Marković was voted Partizan's Player of the Year in a poll on the club's website.&lt;ref&gt;{{cite news | url=http://www.b92.net/sport/fudbal/vesti.php?yyyy=2011&amp;mm=12&amp;dd=24&amp;nav_id=568504 | title=Marković najbolji igrač Partizana | language=Serbian | publisher=b92.net | date=24 December 2011 | accessdate=18 April 2012}}&lt;/ref&gt; In his first full senior season, Marković made 26 league appearances and scored six goals. Despite not scoring a goal in the second half of the championship, Marković earned [[2011–12 Serbian SuperLiga|2011–12 SuperLiga]] Team of the Year selection.&lt;ref&gt;{{cite news | url=http://sport.blic.rs/Fudbal/Domaci-fudbal/214566/Lazovic-Markovic-i-Simic-predvode-idealan-tim-Superlige | title=Lazović, Marković i Šimić predvode idealan tim Superlige | language=Serbian | publisher=blic.rs | date=14 May 2012 | accessdate=4 June 2012}}&lt;/ref&gt;
+
+====2012–13 season====
+As Partizan appeared in the [[2012–13 UEFA Europa League group stage|group stage of an UEFA competition]] for the first time since 2010, Marković appeared in all group fixtures, impressing against the likes of [[Neftçi PFK|Neftchi Baku]], [[FC Rubin Kazan|Rubin Kazan]] and [[Inter Milan|Internazionale]]. In the group stage, he assisted Saša Marković against Rubin Kazan on 6 December 2012. By the end of the 2012–13 season, Marković appeared in 19 league games and scored 7 goals and earned a place in the SuperLiga's Team of the Year selection for the second-straight season.&lt;ref&gt;[http://www.mozzartsport.com/vesti/idealnih-11-superlige-partizan-pet-vosa-tri-zvezda-hajduk-i-srem-po-jednog-predstavnika] Mozzart Sport (Serbian): Idealnih 11 Superlige: Partizan pet, Voša tri, Zvezda, Hajduk i Srem po jednog predstavnika! (VIDEO) – 27 May 2013&lt;/ref&gt; Additionally, Serbian sports portal ''Mozzart Sport'' rated Marković among the 25 best players in the [[Serbian SuperLiga|SuperLiga]] that season.&lt;ref&gt;[http://www.mozzartsport.com/vesti/top-25-najboljih-fudbalera-superlige-u-izboru-mozzart-sporta-video] Mozzart Sport (Serbian): TOP 25 najboljih fudbalera Superlige u izboru MOZZART Sporta (VIDEO) – 2 June 2013&lt;/ref&gt;
+
+===Benfica===
+On the morning hours of 10 June 2013, Partizan club president [[Dragan Đurić]] told ''[[Sportski žurnal]]'', "[[Chelsea F.C.|Chelsea]] wants to loan Marković to [[S.L. Benfica|Benfica]] for two years, and honestly speaking, I hope to God that they don't come to an agreement so that Lazar can stay six more months at Partizan."&lt;ref&gt;{{cite web|script-title=sr:КРАЈ САГЕ: Челзи позајмио Марковића у Бенфику на две године|url=http://www.zurnal.rs/2013/06/10/kraj-sage-celzi-pozajmio-markovica-u-benfiku-na-dve-godine/index.html|work=zurnal.rs|language=Serbian|date=10 June 2013}}&lt;/ref&gt; This statement was later misinterpreted by several non-Serbian sports news outlets, which incorrectly cited Đurić stating, "It is true, Chelsea will send Marković on a loan for two years."&lt;ref&gt;{{cite web|title=Partizan Belgrade Claim Chelsea Have Already Signed Serbian Youngster Lazar Markovic|url=http://www.caughtoffside.com/2013/06/10/partizan-belgrade-claim-chelsea-have-already-signed-croatian-youngster-lazar-markovic/|work=caughtoffside.com|date=10 June 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Partizan: Chelsea own Markovic|url=http://msn.foxsports.com/foxsoccer/premierleague/story/Partizan-Chelsea-own-Markovic-28825949|work=FOX Sports|date=10 June 2013}}&lt;/ref&gt; Approximately eight hours after the article was published, Benfica's official website released a statement stating Marković had signed a five-year contract with the club, not mentioning any loan deal with Chelsea.&lt;ref&gt;{{cite web|title=Lazar Markovic contratado pelo SL Benfica por cinco temporadas|trans-title=Lazar Markovic signed by Benfica for five seasons|url=http://aovivo.slbenfica.pt/Noticias/DetalhedeNoticia/tabid/790/ArticleId/30008/language/pt-PT/Lazar-Markovic-contratado-pelo-SL-Benfica-por-cinco-temporadas.aspx|work=S.L. Benfica|language=Portuguese|date=10 June 2013}}&lt;/ref&gt; The earlier statements regarding a potential loan deal with Chelsea caused great confusion among journalists and followers of the transfer saga alike.&lt;ref&gt;{{cite web|title=Benfica contradict Partizan, claim they're signed Markovic to 5-year deal|url=http://www.weaintgotnohistory.com/chelsea-fc-transfer-rumours-news/2013/6/10/4415428/lazar-markovic-transfer-rumour-benfica|work=weaintgotnohistory.com|date=10 June 2013}}&lt;/ref&gt;
+
+On 25 August 2013, Marković made his debut for Benfica in 2–1 win against [[Gil Vicente F.C.|Gil Vicente]], scoring a decisive goal at the 92nd minute that drew the game.&lt;ref&gt;{{cite web|title=Benfica 2–1 Gil Vicente|url=http://espnfc.com/uk/en/gamecast/statistics/id/372753/statistics.html?soccernet=true&amp;cc=5739|work=espnfc.com|date=25 August 2013}}&lt;/ref&gt; On the third matchday of the [[2013–14 Primeira Liga]] season, against [[Sporting CP]] at the [[Estádio José Alvalade]], Marković scored the equalizing goal after a dribble past three players, as the match ended in a 1–1 draw.&lt;ref&gt;{{cite web|title=SuperLiga – New signings shine as Lisbon derby ends in draw |url=http://uk.eurosport.yahoo.com/news/superliga-sporting-lisbon-v-benfica-live-185345122.html |work=uk.eurosport.yahoo.com |date=31 August 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130904090640/http://uk.eurosport.yahoo.com/news/superliga-sporting-lisbon-v-benfica-live-185345122.html |archivedate= 4 September 2013 |df= }}&lt;/ref&gt; On 1 May 2014, in injury time of Benfica's [[2013–14 UEFA Europa League]] [[2013–14 UEFA Europa League knockout phase#Semi-finals|semi-final second leg match]] against [[Juventus F.C.|Juventus]], Marković was sent off for a fight with his opponent [[Mirko Vučinić]]. Neither were on the field of play at the time, Marković having been substituted and Vučinić still on the substitutes' bench. Marković therefore missed [[2014 UEFA Europa League Final|the final]] through suspension; Benfica lost the final to [[Sevilla FC|Sevilla]] on penalties (4–2) after a 0–0 draw.&lt;ref&gt;{{cite news|title=Juventus 0–0 Benfica|url=https://www.bbc.co.uk/sport/0/football/27226534|accessdate=2 May 2014|newspaper=[[BBC Sport]]|date=1 May 2014}}&lt;/ref&gt;
+
+===Liverpool===
+====2014–15 season====
+[[File:Lazar Markovic 2014.jpg|thumb|upright|Marković with [[Liverpool F.C.|Liverpool]] in 2014]]
+
+On 15 July 2014, [[Liverpool F.C.|Liverpool]] announced the signing of  Marković from Benfica for £20&amp;nbsp;million.&lt;ref&gt;{{cite news|title=Reds complete Markovic deal|url=http://www.liverpoolfc.com/news/latest-news/166355-reds-complete-markovic-deal|work=[[Liverpool F.C.]]|accessdate=15 July 2014|date=15 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = https://www.bbc.com/sport/0/football/28188589|title= Liverpool complete £20m signing of Lazar Markovic|date=16 July 2014|work=[[BBC Sport]]|accessdate=16 July 2014}}&lt;/ref&gt; Benfica received €12.5&amp;nbsp;million for their 50% share of his economic rights.&lt;ref&gt;{{cite web|title=Comunicado|url=http://web3.cmvm.pt/sdi2004/emitentes/docs/FR51293.pdf|publisher=[[CMVM]]|accessdate=15 July 2014|language=Portuguese|date=15 July 2014}}&lt;/ref&gt; He made his competitive debut on 25 August in Liverpool's second match of the [[2014–15 Premier League|2014–15]] [[Premier League]] season, replacing [[Philippe Coutinho]] after 60 minutes of a 3–1 defeat at [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{cite news|last1=McNulty|first1=Phil|title=Man City 3–1 Liverpool|url=https://www.bbc.co.uk/sport/0/football/28831352|accessdate=17 September 2014|work=[[BBC Sport]]|date=25 August 2014}}&lt;/ref&gt; In Liverpool's final group stage match in the [[2014–15 UEFA Champions League|UEFA Champions League]], on 9 December 2014 against [[FC Basel|Basel]], Marković was shown a straight red card for [[Fouls and misconduct (association football)#Red card (dismissal)|violent conduct]] after he appeared to flick his fingers into the face of opponent [[Behrang Safari]]. The match ended in a 1–1 draw, which saw Liverpool drop into the [[2014–15 UEFA Europa League|UEFA Europa League]].&lt;ref&gt;{{cite web|url = http://www.dailymail.co.uk/sport/football/article-2867769/Lazar-Markovic-deserved-sent-referee-right-turn-Steven-Gerrard-penalty-appeal.html|title=Lazar Markovic deserved to be sent off for Liverpool and referee was right to turn down Steven Gerrard penalty appeal|date=10 December 2014|work=[[Mail Online]]|accessdate=10 December 2014}}&lt;/ref&gt; In February 2015, Marković was given a four-match European ban for this incident.&lt;ref&gt;{{cite news|title=Liverpool's Lazar Markovic handed four-game European ban|url=https://www.bbc.co.uk/sport/0/football/31506569|accessdate=17 February 2015|work=BBC Sport|date=17 February 2015}}&lt;/ref&gt;
+
+Marković scored his first goal for Liverpool against [[A.F.C. Bournemouth|AFC Bournemouth]] in the [[2014–15 Football League Cup|League Cup]] quarter-finals on 17 December 2014, scoring in the 27th minute of a 3–1 victory.&lt;ref&gt;{{cite web|url = https://www.theguardian.com/football/2014/dec/17/bournemouth-liverpool-capital-one-cup-quarter-final|title= Raheem Sterling double helps Liverpool recover poise against Bournemouth|date=17 December 2014|work=Guardian|accessdate=19 December 2014}}&lt;/ref&gt; On 10 January 2015, he scored his first Premier League goal, netting in the eight minute for the only goal in a victory at [[Sunderland A.F.C.|Sunderland]]'s [[Stadium of Light]].&lt;ref&gt;{{cite news|title=Sunderland 0–1 Liverpool|url=https://www.bbc.co.uk/sport/0/football/30663770|accessdate=10 January 2015|work=BBC Sport|date=10 January 2015}}&lt;/ref&gt; On 10 February, he opened the scoring for Liverpool in a 3–2 win over [[Tottenham Hotspur F.C.|Tottenham Hotspur]], his first Premier League goal at [[Anfield]].
+
+====2015–16: Loan to Fenerbahçe====
+On 30 August 2015, Marković joined [[Fenerbahçe S.K. (football)|Fenerbahçe]] on a season-long loan.&lt;ref&gt;{{cite web|url=http://www.liverpoolfc.com/news/first-team/192925-markovic-completes-fenerbahce-loan-switch|title=Markovic completes Fenerbahce loan switch|publisher=Liverpool F.C.|accessdate=30 August 2015|date=30 August 2015}}&lt;/ref&gt; He made his [[Süper Lig]] debut on 13 September, replacing [[Robin van Persie]] in the 62nd minute of a 1–0 win at [[Kasımpaşa S.K.|Kasımpaşa]], and scored his first goal on 10 December by opening a 1–1 draw against [[Celtic F.C.|Celtic]] at the [[Şükrü Saracoğlu Stadium]]. The result advanced the ''Yellow Canaries'' to the last 32 of the [[2015–16 UEFA Europa League]].&lt;ref&gt;{{cite news|title=Celtic level but Fenerbahçe forge on|url=http://www.uefa.com/uefaeuropaleague/season=2016/matches/round=2000658/match=2017043/index.html|accessdate=18 April 2016|publisher=UEFA|date=10 December 2015}}&lt;/ref&gt;
+
+On 21 January 2016, Marković scored his first goal in domestic Turkish football against [[Tuzlaspor]] in the group stage of the [[2015–16 Turkish Cup]], converting in extra time after coming on as a substitute.&lt;ref&gt;{{cite news|title=Fenerbahçe 1–0 Tuzlaspor|url=http://www.hurriyet.com.tr/fenerbahce-1-0-tuzlaspor-40043589|accessdate=18 April 2016|publisher=Hurriyet|date=21 January 2016}}&lt;/ref&gt; His season ended prematurely in February because of a hamstring injury.&lt;ref&gt;{{cite news|last1=Pearce|first1=James|title=Lazar Markovic to miss rest of the season with hamstring injury|url=http://www.liverpoolecho.co.uk/sport/football/football-news/lazar-markovic-miss-rest-season-11150939|accessdate=18 April 2016|publisher=Liverpool Echo|date=7 April 2016}}&lt;/ref&gt;
+
+====2016–17: Loans to Sporting and Hull====
+On 31 August 2016, Marković returned to [[Lisbon]] to join Benfica's [[Derby de Lisboa|local rivals]] [[Sporting CP]] on a season-long loan.&lt;ref&gt;{{cite news|last1=Price|first1=Glenn|title=Lazar Markovic joins Sporting Lisbon on loan from Liverpool|url=http://www.espnfc.com/story/2941645/lazar-markovic-joins-sporting-lisbon-on-loan-from-liverpool|accessdate=31 August 2016|publisher=ESPN|date=31 August 2016}}&lt;/ref&gt; He made his debut on 10 September, replacing [[Gelson Martins]] for the final 30 minutes of a 3–0 home win over [[Moreirense F.C.|Moreirense]],&lt;ref&gt;{{cite news|last1=Celso|first1=Marcos|title=Sporting 3–0 Moreirense|url=http://www.rtp.pt/noticias/desporto/sporting-3-0-moreirense_e946373|accessdate=25 September 2016|publisher=RTP|date=10 September 2016|language=Portuguese}}&lt;/ref&gt; and scored his first goal three weeks later on his first start to open a 3–3 draw at [[Vitória S.C.|Vitória de Guimarães]].&lt;ref&gt;{{cite news|title=Markovic estreia-se a titular em Guimarães|trans-title=Marković  makes his first start at Guimarães|url=https://www.ojogo.pt/futebol/1a-liga/sporting/noticias/interior/markovic-estreia-se-a-titular-em-guimaraes-5419375.html|accessdate=16 October 2016|publisher=O Jogo|date=1 October 2016|language=Portuguese}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Markovic marca|trans-title=Marković scores|url=http://remate.pt/markovic-marca-guimaraes-sporting-0-1/|accessdate=16 October 2016|publisher=Remate|date=1 October 2016|language=Portuguese}}&lt;/ref&gt;
+
+In January 2017, Marković was recalled from his loan in Portugal and joined Premier League club [[Hull City A.F.C.|Hull City]] for the remainder of [[2016–17 Hull City A.F.C. season|the season]].&lt;ref&gt;{{cite news|title=Lazar Markovic: Hull sign Liverpool forward on loan for rest of season|url=https://www.bbc.com/sport/football/38720260|work=BBC Sport|date=23 January 2017|accessdate=23 January 2017}}&lt;/ref&gt; He made his first Hull appearance as a 59th-minute substitute for [[Jarrod Bowen]] in a 2–1 win over [[Manchester United F.C.|Manchester United]] in the [[2016–17 EFL Cup]] semi-final second leg, as the ''Tigers'' lost 3–2 on aggregate.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/38672990|title=Hull City 2–1 Manchester United (Agg: 2–3)|date=26 January 2017|newspaper=BBC Sport|access-date=26 January 2017}}&lt;/ref&gt; He scored his first goal for Hull by equalising in a 4–2 win at the [[KCOM Stadium]] against [[Middlesbrough F.C.|Middlesbrough]] on 5 April.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/39426885|title=Hull City 4–2 Middlesbrough|date=5 April 2017|work=BBC Sport|access-date=6 April 2017}}&lt;/ref&gt;
+
+====2017–18: Loan to Anderlecht====
+In January 2018, Marković again moved out on loan joining [[Belgian First Division A]] side [[R.S.C. Anderlecht]] for the second half of the 2017–18 season.&lt;ref&gt;{{cite web|title=Liverpool's Markovic joins Anderlecht on loan|url=https://www.itv.com/news/update/2018-01-31/liverpools-markovic-joins-anderlecht-on-loan/|website=ITV News|accessdate=3 February 2018|date=31 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Walsh|first1=Kristian|title=Lazar Markovic may have to relive Liverpool hell at Anderlecht - because of an Everton player|url=https://www.liverpoolecho.co.uk/sport/football/transfer-news/lazar-markovic-relive-liverpool-hell-14233636|accessdate=3 February 2018|work=Liverpool Echo|date=1 February 2018}}&lt;/ref&gt; It was admitted that upon Marković's arrival his fitness and condition was so poor that he would miss up to six weeks of game time in order to get up to standard.&lt;ref&gt;https://www.mirror.co.uk/sport/football/news/lazar-markovic-endures-abysmal-start-12001719&lt;/ref&gt;
+
+===Fulham===
+On 31 January 2019, Marković moved to [[Fulham F.C.|Fulham]] on a free transfer; having only made a handful of pre-season appearances for Liverpool, since a competitive 84th-minute substitute appearance against [[Queens Park Rangers F.C.|Queens Park Rangers]] on 2 May 2015.&lt;ref&gt;https://www.fulhamfc.com/news/2019/february/01/lazar-markovic-signs&lt;/ref&gt;
+
+==International career==
+In October 2009, Marković made his [[Serbia national under-17 football team|Serbia national under-17]] debut in the qualification round for the [[2010 UEFA European Under-17 Championship]]. In May 2011, he was part of the same team at the [[2011 UEFA European Under-17 Championship]], which Serbia hosted.
+
+Marković skipped the national under-19 selection and was immediately invited to the [[Serbia national under-21 football team|Serbian under-21 team]] for their qualification matches for the [[2013 UEFA European Under-21 Championship]].&lt;ref&gt;{{cite news | url=http://www.smedia.rs/sport/vest/52627/ | title=Janković pozvao Lazara Markovića | language=Serbian | publisher=smedia.rs | date=28 September 2011 | accessdate=18 December 2011 | deadurl=yes | archiveurl=https://archive.is/20120913203751/http://www.smedia.rs/sport/vest/52627/ | archivedate=13 September 2012 | df=dmy-all }}&lt;/ref&gt; He made his debut against [[Denmark national under-21 football team|Denmark]] on 11 October 2011.
+
+On 24 February 2012, Marković was called up to the [[Serbia national football team|Serbian senior team]] for their friendly fixtures against [[Armenia national football team|Armenia]] and [[Cyprus national football team|Cyprus]].&lt;ref&gt;{{cite news | url=http://www.b92.net/sport/fudbal/vesti.php?yyyy=2012&amp;mm=02&amp;dd=24&amp;nav_id=585314 | title=Ćurčić zvao Markovića nije Lazovića | language=Serbian | publisher=b92.net | date=24 February 2012 | accessdate=24 February 2012}}&lt;/ref&gt; He debuted as a starter against Armenia on 28 February 2012, three days before his 18th birthday.&lt;ref&gt;{{cite news | url=http://www.rts.rs/page/sport/sr/story/36/Fudbal/1059644/Mali%2C+malecni+korak+napred.html | title=Mali, malecni korak napred | language=Serbian | publisher=rts.rs | date=9 March 2012 | accessdate=4 June 2012}}&lt;/ref&gt; He scored his first international goal for Serbia in a friendly match against [[Chile national football team|Chile]].&lt;ref&gt;{{cite web| publisher=B92| url=http://www.b92.net/sport/fudbal/vesti.php?yyyy=2012&amp;mm=11&amp;dd=14&amp;nav_id=660298| title= Pobeda Srbije za kraj 2012 | date=14 November 2012| accessdate=17 November 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web| publisher=RTS| url=http://www.rts.rs/page/sport/sr/story/36/Fudbal/1211428/Pobeda+za+ohrabrenje.html| title= Pobeda za ohrabrenje| date=14 November 2012 | accessdate=17 November 2012}}&lt;/ref&gt;
+
+==Personal life==
+Marković's older brother, [[Filip Marković|Filip]], is also a footballer. An [[Midfielder#Attacking midfielder|attacking midfielder]], he too came through Partizan's youth setup and currently plays in France for [[RC Lens|Lens]].&lt;ref&gt;[http://sport.blic.rs/Fudbal/Evropski-fudbal/234663/Nigde-bez-brata-Uz-Lazara-i-Filip-Markovic-potpisao-za-Benfiku Nigde bez brata: Uz Lazara i Filip Marković potpisao za Benfiku! (Nowhere without his brother: Lazar and Filip Marković signed for Benfica!)]; Blic Sport, 11 June 2013 (in Serbian)&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+[[File:Lazar Marković 2017-02-11 1.jpg|thumb|upright|Marković playing for [[Hull City A.F.C.|Hull City]] in 2017]]
+
+{{updated|10 May 2018}}&lt;ref&gt;{{cite web |url=https://int.soccerway.com/players/lazar-markovic/189118/ |title=L. Marković |website=Soccerway |accessdate=21 December 2014}}&lt;/ref&gt;
+
+{| class=wikitable style="text-align: center"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=2|League
+!colspan=2|National Cup
+!colspan=2|League Cup
+!colspan=2|Continental
+!colspan=2|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="4"|[[FK Partizan|Partizan]]
+|[[2010–11 Serbian SuperLiga|2010–11]]
+|1||0||0||0||colspan="2"|—||0||0||1||0
+|-
+|[[2011–12 Serbian SuperLiga|2011–12]]
+|26||6||3||1||colspan="2"|—||4||0||33||7
+|-
+|[[2012–13 Serbian SuperLiga|2012–13]]
+|19||7||0||0||colspan="2"|—||12||0||31||7
+|-
+!Total
+!46!!13!!3!!1!!colspan="2"|—!!16!!0!!65!!14
+|-
+|[[S.L. Benfica|Benfica]]
+|[[2013–14 Primeira Liga|2013–14]]
+|26||5||6||1||4||0||13||1||49||7
+|-
+|[[Liverpool F.C.|Liverpool]]
+|[[2014–15 Premier League|2014–15]]
+|19||2||6||0||5||1||4||0||34||3
+|-
+|[[Fenerbahçe S.K. (football)|Fenerbahçe]] (loan)
+|[[2015–16 Süper Lig|2015–16]]
+|14||0||4||1||colspan="2"|—||2||1||20||2
+|-
+|[[Sporting CP]] (loan)
+|[[2016–17 Primeira Liga|2016–17]]
+|6||1||2||1||1||0||5||0||14||2
+|-
+|[[Hull City A.F.C.|Hull City]] (loan)
+|[[2016–17 Premier League|2016–17]]
+|12
+|2
+|1
+|0
+|1
+|0
+|0
+|0
+|14
+|2
+|-
+|[[R.S.C. Anderlecht|Anderlecht]] (loan)
+|[[2017–18 Belgian First Division A|2017–18]]
+|8
+|1
+|0
+|0
+|colspan="2"|—
+|0
+|0
+|8
+|1
+|-
+! colspan="2" |Career total
+!131!!24!!22!!4!!11!!1!!40!!2!!204!!31
+|}
+
+===International===
+{{updated|match played 15 November 2016}}&lt;ref name=eufoot/&gt;
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Serbian national football team|Serbian national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2012||6||1
+|-
+|2013||3||1
+|-
+|2014||8||0
+|-
+|2015||4||1
+|-
+|2016||1||0
+|-
+!Total||22||3
+|}
+
+====International goals====
+''Scores and results list Serbia's goal tally first''&lt;ref name=eufoot&gt;{{cite web|title=Lazar Marković|url=http://eu-football.info/_player.php?id=27685|publisher=European Football|accessdate=7 June 2015}}&lt;/ref&gt;
+{| class="wikitable"  style="text-align:left;"
+|-
+! # !! Date !! Venue !! Cap !! Opponent !! Score !! Result !! Competition
+|-
+| 1 || 14 November 2012 || [[AFG Arena]], [[St. Gallen]], Switzerland || 6 || {{fb|Chile}} || '''1'''–0|| 3–1 || [[Exhibition game|Friendly]]
+|-
+| 2 || 10 September 2013 ||[[Cardiff City Stadium]], [[Cardiff]], Wales || 9 || {{fb|Wales}} || '''3'''–0 || 3–0|| [[2014 FIFA World Cup qualification – UEFA Group A|2014 World Cup qualification]]
+|-
+| 3 || 7 June 2015 ||[[NV Arena]], [[Sankt Pölten]], Austria || 19 || {{fb|Azerbaijan}} || '''4'''–1 || 4–1|| [[Exhibition game|Friendly]]
+|}
+
+==Honours==
+===Club===
+;Partizan
+*[[Serbian SuperLiga|SuperLiga]]: [[2011–12 Serbian SuperLiga|2011–12]], [[2012–13 Serbian SuperLiga|2012–13]]&lt;ref name="Liverpool profile"&gt;{{cite web|title=The vital facts on Lazar Markovic|url=http://www.liverpoolfc.com/news/latest-news/166359-the-vital-facts-on-lazar-markovic|website=liverpoolfc.com}}&lt;/ref&gt;
+
+;Benfica
+*[[Primeira Liga]]: [[2013–14 Primeira Liga|2013–14]] &lt;ref name="Liverpool profile" /&gt;
+*[[Taça de Portugal]]: [[2013–14 Taça de Portugal|2013–14]] &lt;ref name="Liverpool profile" /&gt;
+*[[Taça da Liga]]: [[2013–14 Taça da Liga|2013–14]] &lt;ref name="Liverpool profile" /&gt;
+
+===Individual===
+*[[Serbian SuperLiga|SuperLiga]] Team of the Year: [[2011–12 Serbian SuperLiga#Awards|2011–12]], [[2012–13 Serbian SuperLiga#Awards|2012–13]]&lt;ref&gt;{{cite news|title=Lazar Markovic: The sublime Serbian key to Benfica's Europa League hopes|url=http://www.goal.com/en/news/166/europa-league/2014/04/03/4719163/lazar-markovic-the-sublime-serbian-key-to-benficas-europa-league-|work=goal.com|date=3 April 2014|access-date=13 July 2015|quote=Named in the Serbian SuperLiga's Team of the Season in the last two years}}&lt;/ref&gt;
+*[[SJPF Player of the Month]]: January 2014, February 2014&lt;ref&gt;{{cite web|title=Markovic eleito melhor jogador da I Liga|url=https://www.dn.pt/desporto/benfica/interior/markovic-eleito-melhor-jogador-da-i-liga-3717664.html|website=dn.pt|accessdate=29 July 2014}}&lt;/ref&gt;
+*[[UEFA Europa League]] Squad of the season: [[2013–14 UEFA Europa League#Squad of the season|2013–14]]&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/news/newsid=2112220.html|title=UEFA Europa League squad of the season|publisher=UEFA.com|date=3 June 2014|accessdate=3 June 2014}}&lt;/ref&gt;
+* [[FK Partizan]] Player of the Year: 2011
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{commons category}}
+* [http://www.liverpoolfc.com/team/first-team/player/lazar-markovic Liverpool F.C. profile]
+* [http://www.reprezentacija.rs/index.php?option=com_content&amp;view=article&amp;id=2646 Lazar Marković] at reprezentacija.rs {{sr icon}}
+* [https://web.archive.org/web/20110610041103/http://www.utakmica.rs/fudbaler/546-markovic-lazar Lazar Marković] at utakmica.rs {{sr icon}}
+* {{soccerway|lazar-markovic/189118}}
+* {{soccerbase}}
+* {{NFT player|pid=46740}}
+* {{UEFA player|250014226}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2011–12 SuperLiga Team of the Season}}
+{{2012–13 SuperLiga Team of the Season}}
+}}
+
+{{Fulham F.C. squad}}
+
+{{DEFAULTSORT:Markovic, Lazar}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Čačak]]
+[[Category:Serbian footballers]]
+[[Category:Serbian expatriate footballers]]
+[[Category:Serbia international footballers]]
+[[Category:Serbia under-21 international footballers]]
+[[Category:Serbia youth international footballers]]
+[[Category:Association football forwards]]
+[[Category:FK Partizan players]]
+[[Category:Serbian SuperLiga players]]
+[[Category:S.L. Benfica footballers]]
+[[Category:Liverpool F.C. players]]
+[[Category:Hull City A.F.C. players]]
+[[Category:Fenerbahçe S.K. footballers]]
+[[Category:Sporting CP footballers]]
+[[Category:R.S.C. Anderlecht players]]
+[[Category:Primeira Liga players]]
+[[Category:Expatriate footballers in Portugal]]
+[[Category:Serbian expatriate sportspeople in Portugal]]
+[[Category:Premier League players]]
+[[Category:Expatriate footballers in England]]
+[[Category:Serbian expatriate sportspeople in England]]
+[[Category:Süper Lig players]]
+[[Category:Expatriate footballers in Turkey]]
+[[Category:Serbian expatriate sportspeople in Turkey]]
+[[Category:Expatriate footballers in Belgium]]
+[[Category:Fulham F.C. players]]</text>
+      <sha1>samcp3kkixc3eg5xc6tbbw1if1btzuy</sha1>
+    </revision>
+  </page>
+</mediawiki>

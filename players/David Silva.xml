@@ -1,0 +1,615 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>David Silva</title>
+    <ns>0</ns>
+    <id>4781788</id>
+    <revision>
+      <id>886040448</id>
+      <parentid>886020552</parentid>
+      <timestamp>2019-03-03T22:47:37Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/Chonlakorn2545|Chonlakorn2545]] ([[User talk:Chonlakorn2545|talk]]) to last revision by Mattythewhite ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="79758">{{other uses|David Silva (disambiguation)}}
+{{Use dmy dates|date=October 2018}}
+{{Spanish name|Jiménez|Silva}}
+{{Infobox football biography
+| name = David Silva
+| image = David Silva 2017.jpg
+| image_size = 
+| caption = Silva in 2017
+| fullname = David Josué Jiménez Silva&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=12 February 2018}}&lt;/ref&gt;
+| birth_date = {{Birth date and age|1986|1|8|df=y}}
+| birth_place = [[Arguineguín]], Spain
+| height = 1.70 m&lt;ref&gt;{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=2018 FIFA World Cup: List of players |publisher=FIFA |format=PDF |page=28 |date=18 June 2018}}&lt;/ref&gt;
+| position = [[Midfielder]]
+| currentclub = [[Manchester City F.C.|Manchester City]]
+| clubnumber = 21
+| youthyears1 = 1995–2000
+| youthclubs1 = San Fernando
+| youthyears2 = 2000–2003
+| youthclubs2 = [[Valencia CF|Valencia]]
+| years1 = 2003–2004
+| clubs1 = [[Valencia CF Mestalla|Valencia B]]
+| caps1 = 14
+| goals1 = 1
+| years2 = 2004–2010
+| clubs2 = [[Valencia CF|Valencia]]
+| caps2 = 119
+| goals2 = 21
+| years3 = 2004–2005
+| clubs3 = → [[SD Eibar|Eibar]] (loan)
+| caps3 = 35
+| goals3 = 4
+| years4 = 2005–2006
+| clubs4 = → [[Celta de Vigo|Celta]] (loan)
+| caps4 = 34
+| goals4 = 4
+| years5 = 2010–
+| clubs5 = [[Manchester City F.C.|Manchester City]]
+| caps5 = 274
+| goals5 = 54
+| nationalyears1 = 2001–2002
+| nationalteam1 = [[Spain national under-16 football team|Spain U16]]
+| nationalcaps1 = 6
+| nationalgoals1 = 2
+| nationalyears2 = 2002–2003
+| nationalteam2 = [[Spain national under-17 football team|Spain U17]]
+| nationalcaps2 = 20
+| nationalgoals2 = 5
+| nationalyears3 = 2004–2005
+| nationalteam3 = [[Spain national under-19 football team|Spain U19]]
+| nationalcaps3 = 14
+| nationalgoals3 = 5
+| nationalyears4 = 2005
+| nationalteam4 = [[Spain national under-20 football team|Spain U20]]
+| nationalcaps4 = 5
+| nationalgoals4 = 4
+| nationalyears5 = 2004–2006
+| nationalteam5 = [[Spain national under-21 football team|Spain U21]]
+| nationalcaps5 = 9
+| nationalgoals5 = 7
+| nationalyears6 = 2006–2018
+| nationalteam6 = [[Spain national football team|Spain]]
+| nationalcaps6 = 125
+| nationalgoals6 = 35
+| club-update = 10:54, 17 February 2019 (UTC)
+| nationalteam-update = 
+| medaltemplates = {{medalCountry|{{fb|ESP}}}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{Medal|1st|[[2010 FIFA World Cup|2010 South Africa]]|}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|1st|[[UEFA Euro 2008|2008 Austria-Switzerland]]|}}
+{{Medal|1st|[[UEFA Euro 2012|2012 Poland-Ukraine]]|}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{Medal|3rd|[[2009 FIFA Confederations Cup|2009 South Africa]]|}}
+{{Medal|2nd|[[2013 FIFA Confederations Cup|2013 Brazil]]|}}
+{{MedalCompetition|[[FIFA U-17 World Cup]]}}
+{{Medal|2nd|[[2003 FIFA U-17 World Championship|2003 Finland]]|}}
+{{MedalCompetition|[[UEFA European Under-19 Championship|UEFA U-19 European Championship]]}}
+{{Medal|1st|[[2004 UEFA European Under-19 Championship|2004 Switzerland]]|}}
+}}
+'''David Josué Jiménez Silva''' ({{IPA-es|daˈβið ˈsilβa}}; born 8 January 1986) is a Spanish professional [[Association football|footballer]] who plays for English club [[Manchester City F.C.|Manchester City]]. Silva plays mainly as a [[Midfielder#Central midfielder|central]] or an [[attacking midfielder]] but can also play as a [[Left winger|winger]] or [[second striker]]. He is predominantly a [[left-footed]] player&lt;ref name="How Pellegrini will seek to get the best out of City's wide men"&gt;{{cite web |url=http://www.fourfourtwo.com/features/how-pellegrini-will-seek-get-best-out-citys-wide-men |title=How Pellegrini will seek to get the best out of City's wide men |publisher=Four Four Two |author=Michael Cox |date=22 August 2013 |accessdate=24 December 2014}}&lt;/ref&gt; and his passing ability and possession-retaining qualities have earned him the nicknames "[[Merlin]]" and "El Mago" from his teammates and fans,&lt;ref name="David Silva, or is it Merlin?"&gt;{{cite web |url=http://www.mcfc.co.uk/news/team-news/2011/august/david-silva-magic-intro |title=David Silva, or is it Merlin? |publisher=Manchester City F.C. |first=Chris |last=Bailey |date=2 August 2011 |accessdate=4 June 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20110808151347/http://www.mcfc.co.uk/News/Team-news/2011/August/David-Silva-magic-intro |archivedate=8 August 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.mcfc.co.uk/News/Team-news/2013/January/Silva-birthday |title=Happy Birthday Merlin! |publisher=Manchester City F.C. |date=8 January 2013 |accessdate=9 January 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130110013157/http://www.mcfc.co.uk/News/Team-news/2013/January/Silva-birthday |archivedate=10 January 2013}}&lt;/ref&gt; and he is considered by many to be one of the best midfielders in Europe.&lt;ref&gt;{{cite web |first=James |last=Stroud |url=http://www.givemesport.com/1212153-jamie-redknapp-reveals-the-premier-league-duo-that-are-most-alike-xavi-and-iniesta |title=Jamie Redknapp reveals the Premier League duo that are most alike Xavi and Iniesta |date=10 December 2017 |work=GiveMeSport|access-date=14 December 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |first=Jack |last=Gaughan |url=http://www.dailymail.co.uk/sport/football/article-5176877/David-Silva-Manchester-Citys-Andres-Iniesta.html |title=David Silva is Manchester City's Andres Iniesta... 'Merlin's' magical display against Swansea is Pep Guardiola in action |date=13 December 2017 |work=Daily Mail|access-date=14 December 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |first=Nick |last=Elliott |url=https://www.dreamteamfc.com/c/news-gossip/364525/why-david-silva-should-be-considered-one-of-the-premier-leagues-best-ever-midfielders/ |title=THE TAKE Why David Silva should be considered one of the Premier League’s best ever midfielders |date=11 December 2017 |work=Dream Team FC|access-date=14 December 2017}}&lt;/ref&gt;
+
+Silva spent six years of his professional career with [[Valencia CF]], appearing in more than 150 games and winning one [[Copa del Rey]] in [[2007–08 Copa del Rey|2008]], before moving in the summer of 2010 to Manchester City. Since joining City, Silva has appeared in over 300 matches and is in his eighth season at the club. He has won the [[FA Cup]], four [[EFL Cup|League Cup]]s and three [[Premier League]] titles. He is regarded as one of Manchester City's greatest ever players alongside [[Billy Meredith]], [[Bert Trautmann]], [[Colin Bell]] and [[Sergio Agüero]].&lt;ref&gt;{{Cite web |title=The 25 greatest players in the history of the Premier League |url=https://www.independent.co.uk/sport/football/premier-league/premier-league-at-25-greatest-players-ranked-jack-pitt-brooke-a7886646.html |work=The Independent |date=11 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=David Silva is Manchester City's greatest ever player, says Jamie Carragher |url=http://www.skysports.com/football/news/29327/11155615/david-silva-is-manchester-citys-greatest-ever-player-says-jamie-carragher |work=Sky Sports |date=4 December 2017 |accessdate=29 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=David Silva has found a new level under Pep Guardiola… but where does the magician rank in the top 10 list of Manchester City's all-time greats? |url=http://www.dailymail.co.uk/sport/football/article-5494873/Where-does-David-Silva-rank-10-Man-Citys-time-greats.html |date=13 March 2018 |accessdate=29 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=9 reasons why David Silva is Manchester City’s greatest EVER player |url=https://www.dreamteamfc.com/c/news-gossip/304601/david-silva-manchester-city-greatest-ever-player/ |work=dreamteamfc.com |date=11 December 2017 |accessdate=29 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Is David Silva Manchester City’s greatest ever player? |url=https://inews.co.uk/sport/football/football-opinion/david-silva-manchester-city-greatest/ |work=inews.co.uk |date=1 December 2017 |accessdate=29 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Zabaleta: Silva is the greatest City player ever |url=https://www.mancity.com/news/first-team/first-team-news/2017/april/man-city-players-on-david-silva |work=Manchester City |date=9 April 2017 |accessdate=29 August 2018}}&lt;/ref&gt;
+
+Silva also represented [[Spain national football team|Spain]], from his debut for the senior team in 2006 until his international retirement in 2018. He started his international career at the age of 20. He is one of 13 [[Spain national football team#Most capped players|Spanish players to have amassed 100 caps]], he scored 35 goals in his international career, making him the [[Spain national football team#Top goalscorers|4th highest goalscorer in Spain's history]], and also provided 28 assists, making him 2nd highest assist provider in Spain's history. He was an integral member of the squads that won three consecutive international tournaments – [[UEFA Euro 2008]], [[2010 FIFA World Cup]], and [[UEFA Euro 2012]].
+
+==Early life==
+Silva was born in [[Arguineguín]], [[Gran Canaria]], [[Canary Islands]], to Fernando Jiménez, a former municipal police officer who eventually was responsible for the safety of the [[Valencia CF]] stadium and Eva Silva. His father, Fernando, is [[Spaniards|Spanish]] (Canarian) while his mother, Eva, is of Japanese descent, claimed by the Canarian media.&lt;ref&gt;{{cite news |title=David Silva, el nieto de 'la tirajanera' |url=http://www.laprovincia.es/secciones/noticia.jsp?pRef=2008063000_1_160807__Portada-Las-Palmas-David-Silva-nieto-tirajanera}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-1290896/Manchester-City-new-boy-David-Silva-Prada-wearing-machete-fighter-started-life-goal.html |title=Manchester City new boy David Silva: The Prada-wearing Japanese machete fighter who started life in goal... |newspaper=Daily Mail |first1=Max |last1=Lakey |first2=Josh |last2=Taylor |date=1 July 2010 |accessdate=4 November 2011 |location=London}}&lt;/ref&gt;
+
+Silva began playing football in the youth team of UD San Fernando, near [[Maspalomas]]. Originally, he played as a [[Goalkeeper (association football)|goalkeeper]], before becoming a [[Winger (association football)|winger]]&lt;ref name="career"&gt;{{Cite news |title=David Silva: From a childhood in a Spanish fishing village to Premier League superstar... |last=Kay |first=Alex |url=http://www.dailymail.co.uk/sport/football/article-2051589/David-Silva-From-Spanish-fishing-village-Premier-League-superstar.html |newspaper=Daily Mail |date=20 October 2011 |accessdate=28 October 2011 |location=London}}&lt;/ref&gt; and mirrored his game around his footballing idol as a youth, [[Michael Laudrup]].&lt;ref name="career"/&gt; When he was 14, he received an offer to become a youth player at [[Valencia CF]], which he accepted. He stayed in Valencia's youth set-up until he was 17.
+
+==Club career==
+===Valencia===
+[[File:David Silva vs Newcastle.jpg|thumb|upright|200px|Silva playing for Valencia]]
+A product of [[Valencia CF|Valencia]]'s youth system, Silva made his professional debut in [[2004–05 Segunda División|2004–05]], with [[Segunda División]]'s [[SD Eibar|Eibar]], while on loan from Valencia, playing 35 league games and scoring on five occasions. In the [[2005–06 La Liga|following season]], he was again out on loan, this time to [[Celta de Vigo]], where he played 34 matches, scoring four goals. After two late [[Substitute (association football)|substitute]] appearances, the first in a 2–0 home win over [[Málaga CF|Málaga]] on 28 August 2005, Silva finished as an undisputed starter as the [[Galicia (Spain)|Galician]] side reached the [[UEFA Europa League|UEFA Cup]] straight from the second-tier.
+
+Silva returned to Valencia in the summer of 2006, becoming an automatic first-choice despite his young age of 20. In two seasons combined, he only missed six matches and netted 14 goals, his first league goal coming on 5 November 2006 in a 1–1 draw at [[RCD Espanyol|Espanyol]]. In August 2008, he extended his contract by five years, amidst interest of several [[Premier League]] teams.&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/7559788.stm |title=Silva opts to stay with Valencia |publisher=[[BBC Sport]] |accessdate=13 August 2008}}&lt;/ref&gt; He won the [[2007–08 Copa del Rey|Copa del Rey 2008]], his first title in [[Spain]].
+
+After not appearing in the first three months of [[2008–09 La Liga|2008–09]] due to a chronic [[ankle]] ailment,&lt;ref&gt;{{cite web |url=http://www.uefa.com/uefaeuropaleague/news/newsid=748802.html |title=Silva resigned to three-month absence |publisher=UEFA |date=12 September 2008}}&lt;/ref&gt; Silva returned to the call-ups in mid-December. On 3 January 2009, he scored twice in a 3–1 home win over [[Atlético Madrid]],&lt;ref&gt;{{cite web |url=http://www.uefa.com/memberassociations/news/newsid=790351.html |title=Barça stride on, Silva inspires Valencia |publisher=UEFA |date=3 January 2009}}&lt;/ref&gt; still contributing with 19 matches (four goals) as the ''Che'' qualified for the [[2009–10 UEFA Europa League|Europa League]].
+
+In the [[2009–10 La Liga|2009–10 season]], Silva scored a career-best eight goals, as Valencia finished in third position and [[2010–11 UEFA Champions League|returned]] to the [[UEFA Champions League]]. On 15 April 2010, he scored a brace against [[Athletic Bilbao]] for a 2–0 home win,&lt;ref&gt;[http://www.marca.com/marcador/futbol/2009_10/primera/jornada_32/val_ath/ La Champions es más fácil con Silva (Champions League is easier with Silva)]; [[Diario Marca]], 15 April 2010 {{es icon}}&lt;/ref&gt; adding three assists in the 4–4 thriller at [[SV Werder Bremen|Werder Bremen]] for the Europa League's [[2009–10 UEFA Europa League|round of 16]].&lt;ref&gt;{{cite web |url=http://www.uefa.com/uefaeuropaleague/matches/season=2010/round=2000039/match=2000954/postmatch/quotes/index.html |title=Villa revels in Valencia's 'crazy' night |publisher=UEFA |first=Trevor |last=Huggins |date=18 March 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100322194435/http://www.uefa.com/uefaeuropaleague/matches/season%3D2010/round%3D2000039/match%3D2000954/postmatch/quotes/index.html |archivedate=22 March 2010}}&lt;/ref&gt;
+
+===Manchester City===
+====2010–11====
+[[File:David Silva.jpg|thumb|upright|200px|Silva with Manchester City in April 2011]]
+On 30 June 2010, [[Manchester City F.C.|Manchester City]] announced that they had reached an agreement with Valencia over the transfer of Silva and that he would join the club on a four-year deal, prior to the start of the [[2010–11 Premier League|2010–11 season]].&lt;ref&gt;[http://www.skysports.com/story/0,19528,11661_6238493,00.html City clinch Silva deal]  {{webarchive|url=https://web.archive.org/web/20150926004450/http://www.skysports.com/story/0%2C19528%2C11661_6238493%2C00.html |date=26 September 2015 }}; [[Sky Sports]], 30 June 2010&lt;/ref&gt; On 14 July, the Premier League side completed the signing&lt;ref&gt;{{cite web |url=http://www.espnfc.com/story/808743/new-manchester-city-boy-david-silva-targets-champions-league |title=New City boy Silva targets Champions League |publisher=ESPN FC |date=14 July 2010 |accessdate=4 November 2011}}&lt;/ref&gt; and Silva was awarded the number 21 shirt, the same number he wore for Valencia and when playing for [[Spain national football team|Spain]]. Manchester City had previously tried to sign Silva and his Valencia teammate [[David Villa]] in 2008, but were put off when Valencia quoted a £135&amp;nbsp;million combined price tag on both players.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2010/aug/14/david-silva-manchester-city |title=David Silva the little man thinks big at Manchester City |work=[[The Guardian]] |first=Daniel |last=Taylor |date=14 August 2010 |accessdate=9 November 2010 |location=London}}&lt;/ref&gt;
+
+City manager [[Roberto Mancini]] mainly deployed Silva as a winger&lt;ref&gt;{{cite news |url=https://www.theguardian.com/sport/2011/aug/26/small-talk-pat-nevin |title=Pat Nevin: 'Why can't England produce a Messi or a Zidane?' |work=The Guardian |first=Jacob |last=Steinberg |date=26 August 2011 |accessdate=1 October 2011 |location=London}}&lt;/ref&gt; and later in a [[trequartista]] role in his first season.&lt;ref&gt;{{cite web |url=http://www.sport.co.uk/football/mancini-tips-fantastic-silva-to-fulfil-trequartista-role/52438 |title=Mancini Tips "Fantastic" Silva To Fulfil Trequartista Role |publisher=Sport.co.uk |date=8 April 2011}}&lt;/ref&gt; Silva made his [[Premier League]] debut on 14 August 2010 in a 0–0 draw against [[Tottenham Hotspur F.C.|Tottenham Hotspur]] at [[White Hart Lane]].&lt;ref&gt;{{cite web |url=http://www.espnfc.com/report?id=293013&amp;cc=5739&amp;league=ENG.1 |title=Tottenham Hotspur 0–0 Manchester City |publisher=ESPN FC |date=14 August 2010 |accessdate=17 August 2010}}&lt;/ref&gt; He scored his first goal for the club on 16 September, eight minutes into the [[2010–11 UEFA Europa League|Europa League group match]] against [[FC Red Bull Salzburg|Red Bull Salzburg]].&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/sport2/hi/football/europe/8994528.stm |title=Red Bull Salzburg 0–2 Man City |publisher=BBC Sport |first=Saj |last=Chowdhury |date=16 September 2010}}&lt;/ref&gt; On 17 October, he scored his first league goal in a game against [[Blackpool F.C.|Blackpool]], netting City's third goal in a 3–2 away win.&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9085637.stm |title=Blackpool 2–3 Man City |publisher=BBC Sport |date=17 October 2010 |accessdate=19 October 2010}}&lt;/ref&gt; In a 3–1 home win in the [[2010–11 UEFA Europa League|Europa League]] against [[Lech Poznań]], he set up two goals for [[Emmanuel Adebayor]].&lt;ref&gt;{{cite news |url=http://menmedia.co.uk/manchestereveningnews/sport/football/manchester_city/s/1346250_football_so_easy_for_silva_says_mancini |title=Football so easy for Silva, says Mancini |work=Manchester Evening News |date=22 October 2010}}&lt;/ref&gt; He made another assist slipping through [[Adam Johnson (footballer)|Adam Johnson]] for Manchester City's third in a 3–1 away win against [[West Ham United F.C.|West Ham United]].&lt;ref&gt;{{cite web |url=http://www.mcfc.co.uk/News/Match-reports/2010/December/West-Ham-v-City |title=City at West Ham match report |publisher=Manchester City F.C. |first=Chris |last=Bailey |date=11 December 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101213112015/http://www.mcfc.co.uk/News/Match-reports/2010/December/West-Ham-v-City |archivedate=13 December 2010}}&lt;/ref&gt; Erroneous media reports emerged suggesting Silva could return to Spain and cited homesickness and difficulty to adapt to the English game.&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-1358378/Atletico-Madrid-target-Manchester-City-star-David-Silva--EXCLUSIVE.html |title=Manchester City face fight to keep hold of homesick Silva as Atletico Madrid prepare summer move |newspaper=Daily Mail |location=London |first=Alex |last=Kay |date=19 February 2011 |accessdate=4 November 2011}}&lt;/ref&gt; His performances, however, impressed City [[Manchester City F.C. supporters|supporters]] and earned him three consecutive Manchester City Player of the Month awards from October to December 2010.&lt;ref name="Hat-trick"&gt;{{cite web |url=http://www.mcfc.co.uk/News/Team-news/2011/January/Silva-streak-as-David-completes-hat-trick |title=Silva streak as David completes hat-trick |publisher=Manchester City F.C. |first=David |last=Clayton |date=7 January 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110110112716/http://www.mcfc.co.uk/News/Team-news/2011/January/Silva-streak-as-David-completes-hat-trick |archivedate=10 January 2011}}&lt;/ref&gt;
+
+On 12 February 2011, he was credited for the equalising goal in the 2–1 loss to rivals [[Manchester United F.C.|Manchester United]] when an [[Edin Džeko]] shot deflected off his back and into the net. On 2 March, he scored from 20 yards out in an [[FA Cup]] win (3–0) against [[Aston Villa F.C.|Aston Villa]]. Three days later, he scored the only goal in Manchester City's win against [[Wigan Athletic F.C.|Wigan Athletic]]. Silva netted the third goal in City's 5–0 rout of [[Sunderland A.F.C.|Sunderland]] on 3 April. His assist to [[Yaya Touré]] against [[Everton F.C.|Everton]] at [[Goodison Park]] took Silva to 15 assists in all competitions for the season.&lt;ref&gt;{{cite news |url=http://www.dailystar.co.uk/football/view/189937/Everton-2-Man-City-1-No-gold-for-Silva/ |title=Everton 2 Man City 1: No Gold for Silva |work=Daily Star |first=Paul |last=Hetherington |date=8 May 2011}}&lt;/ref&gt;
+
+Following his debut season in the Premier League, Silva emerged as one of the league's finest playmakers. [[Carlos Tevez]] lauded him as "the best signing we [Manchester City] have made."&lt;ref&gt;{{cite web |url=http://soccernet.espn.go.com/news/story/_/id/878034/carlos-tevez:-david-silva-is-manchester-city's-best-signing?cc=5739 |title=Carlos Tevez: David Silva is Manchester City's best signing |publisher=ESPN FC |date=9 February 2011 |accessdate=1 October 2011}}&lt;/ref&gt;
+
+====2011–12====
+[[File:SilvaLFC.jpg|thumb|left|180px|Silva prior to a league match against Liverpool in 2011]]
+Silva began the [[2011–12 Premier League|2011–12 season]] in fine form, scoring the third goal in City's 4–0 thrashing of [[Swansea City A.F.C.|Swansea City]]&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2011/aug/15/manchester-city-swansea-premier-league |title=Manchester City 4–0 Swansea City – Premier League match report |work=The Guardian |location=London |first=Daniel |last=Taylor |date=15 August 2011}}&lt;/ref&gt; and was voted [[man of the match]]. He also scored the following week against [[Bolton Wanderers F.C.|Bolton Wanderers]], and was again named man of the match.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/8711595/Bolton-Wanderers-2-Manchester-City-3-match-report.html |title=Bolton Wanderers 2 Manchester City 3: match report |work=The Daily Telegraph |location=London |first=Henry |last=Winter |date=21 August 2011}}&lt;/ref&gt; Silva then set up two of [[Sergio Agüero]]'s three goals in City's second home game against Wigan Athletic. After a series of magnificent displays from Silva, City boss Roberto Mancini compared him to fellow Spain internationals [[Xavi]] and [[Andrés Iniesta]] and said that Silva is "one of the best players in the world."&lt;ref&gt;{{cite news |url=http://menmedia.co.uk/manchestereveningnews/sport/football/manchester_city/s/1458480_david-silva-can-rival-barcelona-star-as-best-in-world |title=David Silva can rival Barcelona star as best in world |work=Manchester Evening News |first=Stuart |last=Brennan |date=12 September 2011 |accessdate=1 October 2011}}&lt;/ref&gt; On 1 October, Silva was awarded the [[Premier League Player of the Month]] for his outstanding performances, making it the first time ever that two Manchester City players have won the award in back-to-back months with Edin Džeko winning it the month before.&lt;ref name="POTM1"&gt;{{cite web |url=http://www.mcfc.co.uk/News/Team-news/2011/September/Silva-picks-up-prestigious-award |title=Silva picks up prestigious award |publisher=Manchester City F.C. |date=30 September 2011 |accessdate=26 September 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20111002120358/http://www.mcfc.co.uk/News/Team-news/2011/September/Silva-picks-up-prestigious-award |archivedate=2 October 2011}}&lt;/ref&gt;
+
+In the first [[Manchester Derby]] of the season at [[Old Trafford]], Manchester City won 6–1, with Silva proving, yet again, to be instrumental in the Manchester City attack, scoring the fifth goal, setting up Edin Džeko's second with a chested volley pass through the United defense, and participating in the first two goals with excellent passing to [[James Milner]] to assist [[Mario Balotelli]].&lt;ref&gt;{{cite web |url=http://www.espn.co.uk/football/sport/story/117650.html |title=Triple Dutch |publisher=ESPN |first=Chris |last=Murphy |date=24 October 2011 |accessdate=4 November 2011}}&lt;/ref&gt; On 25 October 2011, in an interview with a Spanish radio station, Silva revealed that he turned down [[FC Barcelona|Barcelona]] and [[Real Madrid C.F.|Real Madrid]] so he could sign for City, and that he wants to stay at the club for years. He commented, "Madrid and Barcelona are great teams, but I'm happy here and I would like to stay here for many years."&lt;ref&gt;{{cite web |url=http://www.espnfc.com/story/974625/david-silva-confirms-barcelona-and-real-madrid-rejections |title=David Silva confirms Barcelona and Real Madrid rejections |publisher=ESPN FC |date=October 2011}}&lt;/ref&gt; Former City and [[England national football team|England]] defender [[Earl Barrett]] said he is almost impossible to stop due to his ability to create space&lt;ref&gt;{{cite news |url=http://menmedia.co.uk/manchestereveningnews/sport/football/manchester_city/s/1462991_david-silva-is-just-pure-gold-says-former-manchester-city-defender-earl-barrett |title=David Silva is just pure gold |work=Manchester Evening News |date=26 October 2011}}&lt;/ref&gt; and [[Andy Cole]], who mostly played for Manchester United, has stated that Silva "is a joy to watch."&lt;ref&gt;{{cite news |url=http://www.thenational.ae/thenationalconversation/sport-comment/citys-david-silva-shaping-up-among-worlds-best-midfielders |title=City's David Silva shaping up among world's best midfielders |work=The National |date=3 November 2011 |accessdate=4 November 2011}}&lt;/ref&gt;
+
+Silva scored a goal in City's 3–2 away win against [[Queens Park Rangers F.C.|Queens Park Rangers]] on 5 November&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/15503963 |title=QPR 2–3 Man City |publisher=BBC Sport |first=Phil |last=Dawkes |date=5 November 2011}}&lt;/ref&gt; and also scored in City's 1–0 home win against [[Arsenal F.C.|Arsenal]] on 18 December.&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/16129455.stm |title=Man City 1–0 Arsenal |publisher=BBC Sport |first=Alistair |last=Magowan |date=18 December 2011}}&lt;/ref&gt; He also contributed by scoring the fourth goal in City's 4–0 win against [[West Bromwich Albion F.C.|West Bromwich Albion]] on 11 April 2012.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/17606956 |title=Man City 4–0 West Brom |publisher=BBC Sport |first=Phil |last=Dawkes |date=11 April 2012}}&lt;/ref&gt; In addition to winning his first Premier League medal with Manchester City, he also finished the season on top of the assists table with 15 assists to his name&lt;ref&gt;{{cite web |url=http://www.espnfc.com/english-premier-league/23/statistics/assists?season=2011 |title=English Premier League Statistics |publisher=ESPN FC |accessdate=14 May 2012}}&lt;/ref&gt; and was one of four City players who made it in the PFA's [[PFA Team of the Year|Premier League Team of the Year]].&lt;ref name=1112PFA&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/17797832 |title=Arsenal striker Robin van Persie named PFA Player of the Year |publisher=BBC Sport |date=22 April 2012 |accessdate=5 May 2018}}&lt;/ref&gt;
+
+====2012–13====
+{{Quote box|quote="He is the maestro, he knows where the passes are going to go. He runs the game. A joy to watch."|source=[[Jamie Redknapp]]|width=29%|align=right}}
+On 17 September 2012, Silva signed a new five-year deal at City, committing himself to the Etihad Stadium until 2017.&lt;ref&gt;{{cite web |url=http://soccernet.espn.go.com/news/story/_/id/1162033/david-silva-agrees-new-city-deal?cc=5901 |title=Silva signs new Man City deal |publisher=ESPNFC |date=17 September 2012}}&lt;/ref&gt;
+He injured himself playing for Spain, which meant he had to miss four games for Manchester City. On 11 November, he provided the crucial assist, a lofted through-ball, to striker [[Edin Džeko]], who converted in the 88th minute to steal a 2–1 victory over [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. His first league goal of the season came in a 5–0 thrashing of [[Aston Villa F.C.|Aston Villa]] at home in the very next league match, on 17 November.
+
+On 19 January 2013, Silva scored twice against [[Fulham F.C.|Fulham]] at home in a 2–0 win. On 9 March, he scored the fifth and final goal in Manchester City's 5–0 win against [[Barnsley F.C.|Barnsley]] at the [[City of Manchester Stadium]] in the quarter-finals of the [[2012–13 FA Cup|FA Cup]], sealing progression to the semi-finals. He finished the season with four goals and ten assists in 32 league appearances for a City squad that finished runners-up to city rivals [[Manchester United F.C.|Manchester United]] for the Premier League title.
+
+====2013–14====
+On 19 August 2013, Silva scored Manchester City's opening goal of the [[2013–14 Premier League]] season in a 4–0 win against [[Newcastle United F.C.|Newcastle United]] at the City of Manchester Stadium.&lt;ref&gt;{{cite news |last=Winter |first=Henry |title=Manchester City 4 Newcastle United 0: match report |url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/10241976/Manchester-City-4-Newcastle-United-0-match-report.html |accessdate=3 February 2014 |newspaper=The Daily Telegraph |location=London |date=19 August 2013}}&lt;/ref&gt; On 10 December 2013, he scored his first [[2013–14 UEFA Champions League|Champions League]] goal of the season in a 3–2 win at champions [[FC Bayern Munich|Bayern Munich]].&lt;ref&gt;{{cite web |url=http://www1.skysports.com/football/live/match/301292/analysis |title=Silva lining |publisher=Sky Sports |date=10 December 2013 |accessdate=30 April 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140203153744/http://www1.skysports.com/football/live/match/301292/analysis |archivedate=3 February 2014}}&lt;/ref&gt; He was named Manchester City's Player of the Month for March 2014, after scoring in away matches against [[Hull City A.F.C.|Hull City]] and [[Arsenal F.C.|Arsenal]].&lt;ref name="Mar14POTM"&gt;{{cite web |url=http://mcfc.co.uk/News/Team-news/2014/April/Silva-is-player-of-the-month |title=Silva voted Etihad Player of the Month |publisher=Manchester City F.C. |date=9 April 2014 |accessdate=30 April 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140411133659/http://mcfc.co.uk/News/Team-news/2014/April/Silva-is-player-of-the-month |archivedate=11 April 2014}}&lt;/ref&gt;
+
+====2014–15====
+On 10 August, Silva played in the [[2014 FA Community Shield]], a match City lost 3–0 to [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/0/football/28647186 |title=Arsenal 3–0 Man City |publisher=BBC Sport |first=Mandeep |last=Sanghera |date=10 August 2014 |accessdate=7 March 2015}}&lt;/ref&gt; Two days later, he signed a five-year contract extension with City.&lt;ref&gt;{{cite web |url=http://www.mcfc.co.uk/News/Team-news/2014/August/David-Silva-announcement |title=David Silva signs five-year deal at City |publisher=Manchester City F.C. |date=12 August 2014 |accessdate=12 August 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140812122542/http://www.mcfc.co.uk/News/Team-news/2014/August/David-Silva-announcement |archivedate=12 August 2014}}&lt;/ref&gt; Like the previous season, on 17 August, Silva scored Manchester City's opening goal of the [[2014–15 Premier League]] season in a 2–0 away win against Newcastle United. Silva then scored against West Brom on Boxing Day.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/11313830/West-Bromwich-Albion-1-Manchester-City-3-match-report-David-Silva-sparkles-as-champions-shrug-off-snow-storm.html |title=West Bromwich Albion 1 Manchester City 3, match report: David Silva sparkles as champions shrug off snow storm |work=The Daily Telegraph |first=Jonathan |last=Liew |date=26 December 2014 |accessdate=7 March 2015}}&lt;/ref&gt;
+
+On 21 February 2015, Silva scored a brace against Newcastle United in a 5–0 win.&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/manchester-city-vs-newcastle-united-match-report-david-silva-shines-as-champions-stroll-to-comfortable-win-over-poor-magpies-10061804.html |title=Manchester City vs Newcastle United match report: David Silva shines as champions stroll to comfortable win over poor Magpies |date=21 February 2015 |accessdate=7 March 2015 |work=The Independent |last=Walker |first=Michael}}&lt;/ref&gt; He won the Etihad Player of the Month award for his performances in February.&lt;ref name="Feb15POTM"&gt;{{cite web |url=http://www.mcfc.co.uk/News/Team-news/2015/March/Silva-voted-player-of-the-month |title=Silva voted Etihad Player of the Month |publisher=Manchester City F.C. |first=David |last=Clayton |date=10 March 2015 |accessdate=11 March 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150313041457/http://www.mcfc.co.uk/News/Team-news/2015/March/Silva-voted-player-of-the-month |archivedate=13 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.marca.com/en/2015/03/10/en/football/international_football/1426018474.html |title=Silva, Mr February |work=Marca |date=10 March 2015 |accessdate=11 March 2015}}&lt;/ref&gt; On 4 March, Silva scored in 1–0 win against [[Leicester City F.C.|Leicester City]] to take him to ten league goals in a season for the first time in his career.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2015/mar/04/manchester-city-leicester-city-premier-league-match-report |title=Manchester City's David Silva pieces together victory over Leicester |date=4 March 2015 |accessdate=7 March 2015 |work=The Guardian |publisher= |last=Taylor |first=Daniel}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.espnfc.com.au/barclays-premier-league/23/blog/post/2327784/manchester-city-ease-pressure-with-2-0-victory-over-leicester |title=Manchester City handle business with 2–0 defeat of Leicester City |publisher=ESPN FC |accessdate=22 March 2015}}&lt;/ref&gt; [[Jamie Redknapp]] described him as a "maestro" for his performances for City,&lt;ref&gt;{{cite web |url=http://www1.skysports.com/football/news/11679/9726494/jamie-redknapp-labels-david-silva-a-maestro-after-manchester-citys-win-over-newcastle |title=Jamie Redknapp labels David Silva a maestro after another sparkling performance from the Spanish playmaker |first=Jamie |last=Redknapp |date=22 February 2015 |publisher=Sky Sports |accessdate=8 March 2015}}&lt;/ref&gt; while his teammate Edin Džeko called him "the best player in the Premier League."&lt;ref&gt;{{cite web |url=http://www.espnfc.com/manchester-city/story/2311125/manchester-citys-edin-dzeko-david-silva-best-player-in-the-premier-league |title=Manchester City's Edin Dzeko: David Silva best player in Premier League |last=Palmer |first=Kevin |date=21 February 2015 |publisher=ESPN FC |accessdate=8 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://uk.eurosport.yahoo.com/news/football-silva-premier-leagues-golden-boy-says-dzeko-212319768--sow.html |title=Football – Silva is Premier League's golden boy, says Dzeko |date=21 February 2015 |publisher=Eurosport UK |accessdate=8 March 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150402154140/https://uk.eurosport.yahoo.com/news/football-silva-premier-leagues-golden-boy-says-dzeko-212319768--sow.html |archivedate=2 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.financialexpress.com/article/sports/manchester-citys-david-silva-is-premier-leagues-golden-boy-says-edin-dzeko/45918/ |title=Manchester City's David Silva is Premier League's golden boy, says Edin Dzeko |work=The Financial Express |date=22 February 2015 |accessdate=8 March 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150402153008/http://www.financialexpress.com/article/sports/manchester-citys-david-silva-is-premier-leagues-golden-boy-says-edin-dzeko/45918/ |archivedate=2 April 2015}}&lt;/ref&gt;
+
+On 19 April, in a 2–0 victory over West Ham, Silva was caught in the face by the elbow of [[Cheikhou Kouyaté]], requiring eight minutes of treatment before being substituted for [[Samir Nasri]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/32273516 |title=Manchester City 2–0 West Ham United |publisher=BBC Sport |first=Mandeep |last=Sanghera |date=19 April 2015 |accessdate=26 April 2015}}&lt;/ref&gt; Tests confirmed that he had not fractured his cheekbone.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/32377366 |title=David Silva: Man City midfielder has not broken cheekbone |publisher=BBC Sport |date=20 April 2015 |accessdate=20 April 2015}}&lt;/ref&gt; On 10 May, Silva scored a goal in City's 6–0 win over Queens Park Rangers, which resulted in the latter's relegation.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2015/may/10/manchester-city-qpr-premier-league-match-report#comments |title=QPR relegated by crushing defeat to Manchester City and Sergio Agüero |work=The Guardian |first=Daniel |last=Taylor |date=10 May 2015 |accessdate=11 May 2015}}&lt;/ref&gt;
+
+====2015–16====
+[[File:David Silva shaved Man City 2017 (36471171422) (cropped).jpg|thumb|180px|Silva warming up before a preseason match against Tottenham in July 2017]]
+
+In the opening match of the [[2015–16 Premier League|Premier League]] season, in a 0–3 win at [[West Bromich Albion F.C.|West Brom]], Silva delivered a performance his manager [[Manuel Pellegrini]] labelled "unbelievable".&lt;ref&gt;{{cite news |url=http://indianexpress.com/article/sports/football/it-was-an-unbelievable-performance-from-david-silva-says-manchester-city-manager-manuel-pellegrini/ |title=It was an unbelievable performance from David Silva, says Manchester City manager Manuel Pellegrini |work=[[Indian Express]] |accessdate=14 August 2015}}&lt;/ref&gt; As well as assisting the team's third goal, Silva was later credited with the first goal.&lt;ref&gt;{{cite web |url=http://www.espnfc.com/manchester-city/story/2562014/david-silva-credited-with-scoring-man-citys-first-goal |title=David Silva credited with scoring Man City's first goal rather than Yaya Toure |publisher=ESPN FC |date=14 August 2015 |accessdate=14 August 2015}}&lt;/ref&gt; After contributing another three assists for the team in August (in wins against [[Chelsea F.C.|Chelsea]] and [[Watford F.C.|Watford]]),&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/33839794 |title=Manchester City 3–0 Chelsea |publisher=BBC Sport |first=Phil |last=McNulty |date=16 August 2015 |accessdate=17 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/34025307 |title=Manchester City 2–0 Watford |publisher=BBC Sport |first=Chris |last=Bevan |date=29 August 2015 |accessdate=17 January 2016}}&lt;/ref&gt; Silva was nominated for both of the [[Manchester City F.C.|Manchester City]] and [[Premier League Player of the Month]] Awards for August, winning the former.&lt;ref name="Aug15POTM"&gt;{{cite web |url=http://www.mcfc.co.uk/News/Team-news/2015/September/David-Silva-is-Etihad-Player-of-the-Month-for-August-2015/1442575826 |title=Silva voted Etihad Player of the Month |publisher=Manchester City F.C. |date=18 September 2015 |accessdate=16 January 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20150919232349/http://www.mcfc.co.uk/News/Team-news/2015/September/David-Silva-is-Etihad-Player-of-the-Month-for-August-2015/1442575826 |archivedate=19 September 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/34216391 |title=Andre Ayew &amp; Manuel Pellegrini win Premier League awards |publisher=BBC Sport |date=11 September 2015 |accessdate=17 January 2016}}&lt;/ref&gt;
+
+Silva was injured for most of October and November after picking up an ankle injury, while playing for [[Spain national football team|Spain]] on 9 October.&lt;ref&gt;{{cite web |url=http://mancitysquare.com/2015/10/10/manchester-city-suffer-david-silva-injury-blow/ |title=Manchester City suffer David Silva injury blow |publisher=Man City Square |date=10 October 2015 |accessdate=17 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.espnfc.com/manchester-city/story/2765806/david-silva-backs-manuel-pellegrini-as-man-city-boss |title=David Silva backs Manuel Pellegrini to continue on as Man City boss |publisher=ESPN FC |date=20 December 2015 |accessdate=17 January 2016}}&lt;/ref&gt; He made his return, as a 75th-minute substitute, in a 3–1 league defeat of [[Southampton F.C.|Southampton]] on 28 November.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2015/nov/29/david-silva-manchester-city-southampton-premier-league |title=David Silva's return adds lustre to Manchester City win over Southampton |work=The Guardian |date=29 November 2015 |accessdate=18 January 2016}}&lt;/ref&gt; He netted the opener in the last [[2015–16 UEFA Champions League|UEFA Champions League]] group stage match on 8 December, in a 4–2 home defeat of [[Borussia Mönchengladbach]], which resulted in Manchester City topping their group for the first time.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/34999620 |title=Man City 4–2 Borussia Monchengladbach |publisher=BBC Sport |first=Luke |last=Reddy |date=8 December 2015 |accessdate=16 January 2016}}&lt;/ref&gt; Silva provided another three assists in home victories against [[Tyne–Wear derby|Tyne-Wear]] rivals [[Newcastle United F.C.|Newcastle United]] and [[Sunderland F.C.|Sunderland]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/34366600 |title=Manchester City 6–1 Newcastle United |publisher=BBC Sport |first=Chris |last=Bevan |date=3 October 2015 |accessdate=17 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/35139944 |title=Manchester City 4–1 Sunderland |publisher=BBC Sport |first=Andy |last=Cryer |date=26 December 2015 |accessdate=17 January 2016}}&lt;/ref&gt;
+
+In a 4–0 home league win against [[Crystal Palace F.C.|Crystal Palace]] on 16 January 2016, Silva scored one, set-up another two goals and played a key pass in the remaining goal.&lt;ref&gt;{{cite web |url=https://www.cpfc.co.uk/news/article/report-manchester-city-crystal-palace-2905013.aspx6 |title=Report: Manchester City 4–0 Crystal Palace |publisher=Crystal Palace F.C. |date=16 January 2016 |accessdate=16 January 2016}}{{dead link|date=June 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.itv.com/news/2016-01-16/premier-league-match-report-man-city-4-0/ |title=Premier League match report: Man City 4–0 Crystal Palace |publisher=[[ITV (TV network)|ITV]] |date=16 January 2016 |accessdate=18 January 2016}}&lt;/ref&gt; Silva started the [[2016 Football League Cup Final]] on 28 February, as [[Manchester City F.C.|Manchester City]] defeated [[Liverpool F.C.|Liverpool]] 3–1 on penalties, winning his second League Cup with the club.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/live/2016/feb/28/liverpool-v-manchester-city-capital-one-cup-final-live?page=with:block-56d32602e4b074a9f6b35f83#liveblog-navigation |title=Capital One Cup: Liverpool 1:1 Man City |work=The Guardian |date=28 February 2016 |accessdate=6 March 2016}}&lt;/ref&gt; He claimed another brace of assists in a 4–0 home defeat of [[Aston Villa F.C.|Aston Villa]] six days later.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/35675905 |title=Manchester City 4–0 Aston Villa |publisher=BBC Sport |first=Chris |last=Bevan |date=5 March 2016 |accessdate=6 March 2016}}&lt;/ref&gt;
+
+====2016–17====
+After scoring 8 goals in 44 appearances and providing numerous assists, Silva won his first [[Etihad]] Player of the Season award for his outstanding contribution, as voted for by [[Manchester City]] fans.&lt;ref&gt;{{cite web |url=https://www.mancity.com/news/first-team/2017/05/29/etihad-airways-player-of-the-season-2016-17-winner-revealed/1496051208767 |title=Etihad Player of the Season Revealed |website=Manchester City FC |date=29 May 2017 |access-date=30 May 2017}}&lt;/ref&gt;
+
+====2017–18====
+Silva started the [[2017–18 Manchester City F.C. season|2017–18 season]] with yet another display of finesse, providing eight Premier League assists in 14 appearances, which was the highest total for any player in Europe's top five leagues.&lt;ref&gt;{{cite web |first=Josh |last=Wright |url=https://www.whoscored.com/News/HEdbzjliAUaS6rPvHMnGmw/Show/Manchester-City-midfielder-signs-new-one-year-deal |publisher=WhoScored |date=30 November 2017 |accessdate=1 December 2017 |title=Manchester City midfielder signs new one-year deal}}&lt;/ref&gt; On 30 November 2017, Silva signed a one-year contract extension with Manchester City keeping him at the club until 2020.&lt;ref&gt;{{cite web |url=https://www.mancity.com/news/first-team/first-team-news/2017/november/man-city-david-silva-contract-extension |title=David Silva signs new City deal |first=Rob |last=Pollard |date=30 November 2017 |accessdate=1 December 2017 |publisher=Manchester City}}&lt;/ref&gt; He also scored in the [[2018 EFL Cup Final]] against [[Arsenal F.C.]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/43101681 |title=EFL Cup |publisher=BBC Sport |date=25 February 2018 |accessdate=1 March 2018}}&lt;/ref&gt; For his contributions, Silva was nominated for the [[PFA Players' Player of the Year|PFA Player of the year]] as City won the [[2017–18 Premier League|Premier League]].&lt;ref&gt;{{cite web |url=http://www.goal.com/en/news/pfa-player-of-the-year-who-are-the-nominees-when-is-the/zd8xpgzrmob1juy7gk6mza14 |title=PFA Player of the Year |publisher=Goal.com |date=22 April 2018}}&lt;/ref&gt; Silva finished the season with 10 goals and 13 assists across all competitions.&lt;ref&gt;{{cite web |title=David Silva: Football Statistics |url=https://www.whoscored.com/Players/14102/Show/David-Silva}}&lt;/ref&gt;
+
+====2018–19====
+On 15 September 2018, in a 3–0 home win over Fulham, Silva scored his 50th Premier League goal in his 253rd appearance in the competition, also making his 350th appearance for Manchester City in the same match.&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/football/45456654 |title=Manchester City 3-0 Fulham |publisher=BBC Sport |author1=Alex Bysouth |date=15 September 2018 |accessdate=22 September 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.fourfourtwo.com/sg/news/quickest-50-premier-league-goals-silva-reaches-milestone |title=The quickest to 50 Premier League goals as Silva reaches milestone |publisher=FourFourTwo |date=17 September 2018 |accessdate=22 September 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.skysports.com/football/news/11679/11499307/watch-david-silvas-manchester-city-highlights-as-midfielder-hits-50-premier-league-goals |title=WATCH: David Silva's Manchester City highlights as midfielder hits 50 Premier League goals |publisher=Sky Sports |date=15 September 2018 |accessdate=22 September 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.mancity.com/news/first-team/media-watch/2018/september/man-city-transfer-gossip-bernardo-silva-david-silva-sep-16 |title=Media watch: Praise for City's Silva streak! |publisher=www.mancity.com |date=16 September 2018 |accessdate=22 September 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:David Silva and Leonardo Bonucci Euro 2012 final.jpg|thumb|right|200px|Silva (left) on the ball for Spain in the [[UEFA Euro 2012 Final]]]]
+Silva first represented Spain in the [[2003 FIFA U-17 World Championship]] in [[Finland]], scoring three goals. In 2006, he became an [[Spain national under-21 football team|under-21 international]] and scored four goals during the [[2005 FIFA World Youth Championship]]; this was enough to earn him joint-fourth place in the goal ranking, alongside Italian [[Forward (association football)|striker]] [[Graziano Pellè]].
+
+Silva made his [[Spain national football team|senior international]] debut in the 1–0 friendly home defeat to [[Romania national football team|Romania]] on 15 November 2006, and continued to receive call-ups to the side after good contributions in his first games. On 22 August 2007, he scored his first two goals for Spain, netting twice in a 3–2 friendly win versus [[Greece national football team|Greece]], and was then called up to the squad of 23 for [[UEFA Euro 2008]].
+
+In the semi-finals game versus [[Russia national football team|Russia]], Silva scored the third goal for Spain after a quick counter-attack in which [[Cesc Fàbregas]] delivered a low cross, and he sent the ball into [[Igor Akinfeev]]'s goal with his left foot.&lt;ref&gt;[http://www.euro2008.uefa.com/tournament/matches/match=301698/index.html Clinical Spain set up Germany final date]  {{webarchive|url=https://web.archive.org/web/20080911200335/http://www.euro2008.uefa.com/tournament/matches/match%3D301698/index.html |date=11 September 2008 }}&lt;/ref&gt; In [[UEFA Euro 2008 Final|the final]], he was involved in an incident with [[Germany national football team|Germany]]'s [[Lukas Podolski]]. After he pulled Podolski to the ground, the German approached Silva, which resulted in an angry exchange of words and a coming together of heads that the referee decided not to punish. Shortly afterward, Spanish coach [[Luis Aragonés]] substituted Silva for [[Santi Cazorla]] in an attempt to calm the tensions.&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/sport1/hi/football/euro_2008/7363545.stm |title=Germany 0–1 Spain |publisher=BBC Sport |first=Phil |last=McNulty |date=29 June 2008 |accessdate=1 October 2011}}&lt;/ref&gt;
+
+After appearing regularly during [[2010 FIFA World Cup]] [[2010 FIFA World Cup qualification (UEFA)|qualification]] – Spain won all ten fixtures – Silva was also picked for the squad for the finals in [[South Africa]]. His participation was, however, a small one, as the national team won the tournament: he started in the first match, a 0–1 group stage defeat against [[Switzerland national football team|Switzerland]], then played the last four minutes of the 1–0 win against Germany in the semi-finals.
+
+On 11 August 2010, during an international friendly with [[Mexico national football team|Mexico]], Silva scored two minutes into second-half injury time, ending the game with a 1–1 draw.&lt;ref&gt;{{cite web |url=http://soccernet.espn.go.com/report?id=290887&amp;league=FIFA.FRIENDLY&amp;cc=5739 |title=Silva salvages draw for Spain |publisher=ESPNsoccernet |date=11 August 2010 |accessdate=17 August 2010}}&lt;/ref&gt; In a [[UEFA Euro 2012 qualifying|Euro 2012 qualifier]] against [[Liechtenstein national football team|Liechtenstein]] on 3 September 2010, Silva scored after 62 minutes, in a 4–0 away win.&lt;ref&gt;[http://soccernet.espn.go.com/report?id=299308&amp;cc=4716 Torres grabs brace for Spain] {{webarchive |url=https://web.archive.org/web/20100907044308/http://soccernet.espn.go.com/report?id=299308&amp;cc=4716 |date=7 September 2010 }}; ESPNsoccernet, 3 September 2010&lt;/ref&gt; The following month, in the same competition, he scored through a rare header, as the national team downed [[Lithuania national football team|Lithuania]] in [[Salamanca]] (3–1).
+
+In a friendly against [[Colombia national football team|Colombia]] on 9 February 2011, he came off the bench to score the game's only goal with just four minutes remaining, helping Spain to a hard-fought 1–0 win.&lt;ref&gt;{{cite web |url=http://www.goal.com/en-gb/match/57279/spain-vs-colombia/report |title=Spain 1–0 Colombia: Substitute David Silva grabs late winner to save lacklustre world champions |work=Goal.com |date=9 February 2011}}&lt;/ref&gt; He scored twice and provided one assist in Spain's 3–1 victory against [[Scotland national football team|Scotland]] in their final match of the [[UEFA Euro 2012 qualifying|Euro 2012 qualifiers]]. The win saw the Spaniards enter the tournament with a perfect qualifying record by winning all their group games.&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-2047545/Spain-3-Scotland-1-Silva-double-ensures-Leveins-men-miss-Euro-play-offs.html |title=Spain 3 Scotland 1: Levein's dream dies in six minutes as Silva stars in Spanish win |date=11 October 2011 |location=London |work=Daily Mail |first=Peter |last=Jardine}}&lt;/ref&gt; He scored the first goal in Spain's 2–2 comeback against [[Costa Rica national football team|Costa Rica]], a friendly match where he came on as a substitute in the second half with Spain trailing 2–0.&lt;ref&gt;{{cite web |url=http://www.goal.com/en-gb/match/70171/costa-rica-vs-spain/report |title=Costa Rica 2–2 Spain: Silva &amp; Villa save world champions after Arsenal's Joel Campbell looked to have secured victory |publisher=Goal.com |date=15 November 2011}}&lt;/ref&gt; He once again scored in a friendly against [[Venezuela national football team|Venezuela]] to make the score 2–0 in a match that ended in a 5–0 win. Heading into Euro 2012, he scored in their pre-tournament friendly against [[China football team|China]] by finishing off a short give and go from [[Andrés Iniesta]] in the 84th minute.
+
+Silva was a starter in all six matches of Spain's Euro 2012 campaign. In the 14th minute of the [[UEFA Euro 2012 Final|Euro 2012 Final]], he headed home a Cesc Fàbregas cross, giving Spain a 1–0 lead.&lt;ref&gt;{{cite web |url=http://espnfc.com/en/report/346764/report.html?=dsf |title=Spain claim historic win |date=1 July 2012 |publisher=ESPN FC |accessdate=29 November 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130115231727/http://espnfc.com/en/report/346764/report.html?=dsf |archivedate=15 January 2013}}&lt;/ref&gt;
+The match ended 4–0 and concluded the tournament in which Silva scored two goals and made three assists, the best efficiency (goals and assists) of any player at the Euros.&lt;ref&gt;{{cite web |url=http://espnfc.com/en/records/index/league/uefa-euro/season/2012/statsnrecords.html |title=Stats &amp; Records |publisher=ESPN FC |date=2 July 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120615173808/http://www.espnfc.com/en/records/index/league/uefa-euro/season/2012/statsnrecords.html |archivedate=15 June 2012}}&lt;/ref&gt; He was subsequently named in UEFA's Euro 2012 Team of the Tournament for his performances.&lt;ref&gt;{{cite web |title=UEFA EURO 2012 Team of the Tournament |url=http://www.uefa.org/mediaservices/mediareleases/newsid=1838241.html?rss=1838241+UEFA+EURO+2012+Team+of+the+Tournament |publisher=UEFA |accessdate=3 February 2014 |date=2 July 2012}}&lt;/ref&gt;
+
+[[File:David Silva 2018.jpg|thumb|upright|Silva represented [[Spain national football team|Spain]] at the [[2018 FIFA World Cup]] in Russia.]]
+
+Silva was named in Vicente del Bosque's 23-man squad list for Spain's contestation of the [[2013 FIFA Confederations Cup]], held in Brazil. On 20 June 2013, he scored two goals in Spain's 10–0 [[2013 FIFA Confederations Cup Group B|group stage]] demolition of [[Tahiti national football team|Tahiti]] at the [[Maracanã Stadium|Maracanã]].&lt;ref&gt;{{cite web |url=http://espnfc.com/us/en/report/365339/report.html?soccernet=true&amp;cc=5901 |title=Torres' 4 goals inspire Spanish rout |date=20 June 2013 |accessdate=22 June 2013 |publisher=ESPN FC}}&lt;/ref&gt;
+
+After being part of Spain's consecutive unsuccessful campaigns at [[2014 FIFA World Cup]] and [[UEFA Euro 2016]], Silva continued his goal scoring record under new boss Julen Lopetegui, scoring 9 times in 12 matches.{{citation needed|date= June 2017}} In May 2018 Silva was named to Spain's squad for the [[2018 FIFA World Cup]] in Russia.&lt;ref&gt;(Simpson, Christopher) [https://bleacherreport.com/articles/2777080-david-de-gea-isco-headline-spains-full-2018-world-cup-provisional-squad-roster David De Gea, Isco Headline Spain's Full 2018 World Cup Provisional Squad Roster] ''Bleacher Report''. Retrieved 22 May 2018.&lt;/ref&gt;
+
+After the [[2018 FIFA World Cup]] Silva announced his retirement from international football.&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/football/45176114 |title=David Silva: Manchester City's Spain midfielder retires from international football |accessdate=21 November 2018 |date=13 August 2018 |publisher=bbc.com}}&lt;/ref&gt;
+
+==Style of play==
+A talented and agile left-footed player,&lt;ref name="How Pellegrini will seek to get the best out of City's wide men"/&gt;&lt;ref&gt;{{cite web |url=http://www.espnfc.com/club/manchester-city/382/blog/post/1846930/quick-feet-of-silva-bring-hope-for-the-future |title=Quick feet of Silva bring hope for the future |publisher=ESPN FC |author1=Simon Curtis |date=30 October 2013 |accessdate=25 January 2016}}&lt;/ref&gt; Silva is known for having an excellent first touch, good [[dribbling]] skills, and outstanding technical ability, which, along with his intelligent attacking movements, allow him to retain possession in tight spaces, and to create space for himself and teammates to open up a defence.&lt;ref name="Play without a striker"&gt;{{cite web |url=http://www.espnfc.us/barclays-premier-league/23/blog/post/2204679/no-striker-no-problem-for-city |title=A novel idea to solve Manchester City's striker crisis: Play without a striker |publisher=ESPN FC |author1=Simon Curtis |date=18 December 2014 |accessdate=25 January 2016}}&lt;/ref&gt;&lt;ref name="David Silva as good as Eden Hazard and Arjen Robben"&gt;{{cite web |url=http://www.espnfc.us/manchester-city/story/2343814/david-silva-as-good-as-eden-hazard-and-arjen-robben-says-frank-lampard |title=David Silva as good as Eden Hazard and Arjen Robben, says Frank Lampard |publisher=ESPN FC |author1=Richard Jolly |date=12 March 2015 |accessdate=25 January 2016}}&lt;/ref&gt; Essentially a traditional number 10,&lt;ref name="David Silva the shining light as Manchester City escape United shadow"&gt;{{cite web |url=https://www.theguardian.com/football/blog/2011/oct/24/david-silva-manchester-city-united-mancini |title=David Silva the shining light as Manchester City escape United shadow |work=The Guardian |author1=Paul Hayward |date=24 October 2011 |accessdate=25 January 2016}}&lt;/ref&gt; his composure on the ball, as well as his vision, passing accuracy, ability to read the game, pick a pass, and control the tempo of his team's play have seen him become one of the best players in the world in his position, and earned him the nickname ''[[Merlin]]''.&lt;ref name="How Pellegrini will seek to get the best out of City's wide men"/&gt;&lt;ref name="David Silva as good as Eden Hazard and Arjen Robben"/&gt;&lt;ref name="David Silva the shining light as Manchester City escape United shadow"/&gt;&lt;ref name="Man City want Silva and Aguero back as soon as possible"&gt;{{cite web |url=http://www.espnfc.us/manchester-city/story/2711505/kevin-de-bruyne-man-city-need-david-silva-sergio-aguero-back |title=Kevin De Bruyne: Man City want Silva and Aguero back as soon as possible |publisher=ESPN FC |date=13 November 2015 |accessdate=25 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/0/football/14883765 |title=David Silva among world's best, says Roberto Mancini |publisher=BBC Sport |date=12 September 2011 |accessdate=25 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.espnfc.us/club/manchester-city/382/blog/post/2203478/david-silva-deserves-more-recognition-as-man-citys-magician |title=David Silva deserves more recognition as Manchester City's main magician |publisher=ESPN FC |author1=Richard Jolly |date=19 December 2014 |accessdate=25 January 2016}}&lt;/ref&gt; Although he primarily serves as a [[playmaker]] for his team,&lt;ref name="Man City want Silva and Aguero back as soon as possible"/&gt; he is capable of scoring goals himself as well as creating them,&lt;ref name="David Silva as good as Eden Hazard and Arjen Robben"/&gt;&lt;ref&gt;{{cite web |url=https://www.telegraph.co.uk/sport/football/teams/manchester-city/10716332/Manchester-United-v-Manchester-City-David-Silva-targets-perfect-finish-to-Premier-League-season.html |title=Manchester United v Manchester City: David Silva targets perfect finish to Premier League season |work=The Daily Telegraph |author1=Jason Burt |date=22 March 2014 |accessdate=25 January 2016}}&lt;/ref&gt; which enables him to be deployed in several offensive roles:&lt;ref name="How Pellegrini will seek to get the best out of City's wide men"/&gt;&lt;ref name="Play without a striker"/&gt; he is usually fielded in a free role as an [[attacking midfielder]], where he is given space to roam the pitch,&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/blog/2015/aug/16/david-silva-manchester-city-jose-mourinho-chelsea |title=Manchester City's David Silva exposes Chelsea's defensive naivety |work=The Guardian |first=Michael |last=Cox |date=16 August 2015 |accessdate=25 January 2016}}&lt;/ref&gt; but has also been used as a [[Forward (association football)#Winger|winger]],&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2010/jun/20/david-silva-chelsea-valencia-spain |title=Spain's David Silva: Chelsea would be a great club to play for |work=The Guardian |date=20 June 2010 |accessdate=15 January 2016}}&lt;/ref&gt; as a [[false 9]],&lt;ref name="Play without a striker"/&gt; as a [[second striker]] or as a deeper lying [[central midfielder]].&lt;ref name="How Pellegrini will seek to get the best out of City's wide men"/&gt;&lt;ref name="Play without a striker"/&gt;
+
+==Personal life==
+During December 2017, Silva had been missing games to return to Spain for personal reasons. On 3 January 2018, he said that his new son, Mateo, had been born extremely prematurely and was fighting to stay alive.&lt;ref&gt;{{cite news |title=David Silva says prematurely born son is 'fighting day by day' |url=https://www.theguardian.com/football/2018/jan/03/david-silva-premature-son-manchester-city |accessdate=3 January 2018 |work=The Guardian |date=3 January 2018}}&lt;/ref&gt; On 11 May 2018, Mateo was reported as healthy and was allowed to come home.{{citation needed|date=October 2018}}
+
+==Career statistics==
+===Club===
+{{updated|match played 16 February 2019}}&lt;ref name="Stats"&gt;{{cite web |url=http://www.espnfc.com/player/43815/david-silva |title=David Silva Player Profile |publisher=ESPN FC |accessdate=28 January 2018}}&lt;/ref&gt;&lt;ref name=Soccerway&gt;{{cite web |title=David Silva: Summary |url=https://uk.soccerway.com/players/david-josue-jimenez-silva/3026/ |website=Soccerway |publisher=Perform Group |accessdate=24 November 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|[[SD Eibar|Eibar]]
+|[[2004–05 Segunda División|2004–05]]
+|[[Segunda División]]
+|35||4||0||0||colspan="2"|—||35||4
+|-
+|[[Celta de Vigo|Celta Vigo]]
+|[[2005–06 La Liga|2005–06]]&lt;ref&gt;{{Soccerbase season|41962|2005|access-date=19 July 2015}}&lt;/ref&gt;
+|[[La Liga]]
+|34||4||0||0||colspan="2"|—||34||4
+|-
+|rowspan="5"|[[Valencia CF|Valencia]]
+|[[2006–07 La Liga|2006–07]]&lt;ref&gt;{{Soccerbase season|41962|2006|access-date=19 July 2015}}&lt;/ref&gt;
+|rowspan=4|La Liga
+|36||4||2||1||11||3||49||8
+|-
+|[[2007–08 La Liga|2007–08]]&lt;ref&gt;{{Soccerbase season|41962|2007|access-date=19 July 2015}}&lt;/ref&gt;
+|34||5||8||1||6||0||48||6
+|-
+|[[2008–09 La Liga|2008–09]]&lt;ref&gt;{{Soccerbase season|41962|2008|access-date=19 July 2015}}&lt;/ref&gt;
+|19||4||3||0||3||1||25||5
+|-
+|[[2009–10 La Liga|2009–10]]&lt;ref&gt;{{Soccerbase season|41962|2009|access-date=19 July 2015}}&lt;/ref&gt;
+|30||8||2||1||7||1||39||10
+|-
+!colspan=2|Total
+!119!!21!!15!!3!!27!!5!!161!!29
+|-
+| rowspan="10"|[[Manchester City F.C.|Manchester City]]
+|[[2010–11 Premier League|2010–11]]&lt;ref&gt;{{Soccerbase season|41962|2010|access-date=19 July 2015}}&lt;/ref&gt;
+|rowspan=9|[[Premier League]]
+|35||4||8||1||10||1||53||6
+|-
+|[[2011–12 Manchester City F.C. season|2011–12]]&lt;ref&gt;{{Soccerbase season|41962|2011|access-date=19 July 2015}}&lt;/ref&gt;
+|36||6||3||0||10||2||49||8
+|-
+|[[2012–13 Manchester City F.C. season|2012–13]]&lt;ref&gt;{{Soccerbase season|41962|2012|access-date=19 July 2015}}&lt;/ref&gt;
+|32||4||6||1||3||0||41||5
+|-
+|[[2013–14 Manchester City F.C. season|2013–14]]&lt;ref&gt;{{Soccerbase season|41962|2013|access-date=19 July 2015}}&lt;/ref&gt;
+|27||7||7||0||6||1||40||8
+|-
+|[[2014–15 Manchester City F.C. season|2014–15]]&lt;ref&gt;{{Soccerbase season|41962|2014|access-date=19 July 2015}}&lt;/ref&gt;
+|32||12||4||0||6||0||42||12
+|-
+|[[2015–16 Manchester City F.C. season|2015–16]]&lt;ref&gt;{{Soccerbase season|41962|2015|access-date=13 September 2016}}&lt;/ref&gt;
+|24||2||4||0||8||2||36||4
+|-
+|[[2016–17 Manchester City F.C. season|2016–17]]&lt;ref&gt;{{Soccerbase season|41962|2016|access-date=13 September 2016}}&lt;/ref&gt;
+|34||4||4||2||7||2||45||8
+|-
+|[[2017–18 Manchester City F.C. season|2017–18]]&lt;ref&gt;{{Soccerbase season|41962|2017|access-date=28 January 2018}}&lt;/ref&gt;
+|29||9||4||1||7||0||40||10
+|-
+|[[2018–19 Manchester City F.C. season|2018–19]]&lt;ref&gt;{{Soccerbase season|41962|2018|access-date=27 January 2019}}&lt;/ref&gt;
+|23||6||4||0||5||3||32||9
+|-
+!colspan=2|Total
+!274!!54!!44!!5!!62!!11!!381!!70
+|-
+!colspan="3"|Career total
+!462!!83!!59!!8!!88!!16!!609!!107
+|}
+
+===International===
+:Source:&lt;ref name=Soccerway/&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="14"|[[Spain national football team|Spain]]
+|-
+|2006||1||0
+|-
+|2007||10||2
+|-
+|2008||9||1
+|-
+|2009||12||3
+|-
+|2010||12||4
+|-
+|2011||10||4
+|-
+|2012||15||4
+|-
+|2013||8||2
+|-
+|2014||10||2
+|-
+|2015||7||1
+|-
+|2016||15||5
+|-
+|2017||9||7
+|-
+|2018||7||0
+|-
+!colspan="2"|Total||125||35
+|}
+
+===International goals===
+:''Spain score listed first, score column indicates score after each Silva goal.''&lt;ref name=Soccerway/&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|1
+|rowspan=2|22 August 2007||rowspan=2|[[Toumba Stadium]], [[Thessaloniki]], Greece||rowspan=2 align=center|6||rowspan=2|{{fb|Greece}}||align=center|2–2||rowspan=2 align=center|3–2||rowspan=2|[[Exhibition game#Association football|Friendly]]
+|-
+!scope=row|2
+|align=center|3–2
+|-
+!scope=row|3
+|26 June 2008||[[Ernst-Happel-Stadion]], [[Vienna]], Austria||align=center|18||{{fb|Russia}}||align=center|3–0||align=center|3–0||[[UEFA Euro 2008 knockout stage|UEFA Euro 2008]]
+|-
+!scope=row|4
+|rowspan=2|5 September 2009||rowspan=2|[[Estadio Riazor]], [[A Coruña]], Spain||rowspan=2 align=center|28||rowspan=2|{{fb|Belgium}}||align=center|1–0||rowspan=2 align=center|5–0||rowspan=3|[[2010 FIFA World Cup qualification – UEFA Group 5|2010 FIFA World Cup qualification]]
+|-
+!scope=row|5
+|align=center|4–0
+|-
+!scope=row|6
+|14 October 2009||[[Bilino Polje Stadium]], [[Zenica]], Bosnia and Herzegovina||align=center|30||{{fb|Bosnia &amp; Herzegovina}}||align=center|2–0||align=center|5–2
+|-
+!scope=row|7
+|8 June 2010||[[Estadio de La Condomina]], [[Murcia]], Spain||align=center|36||{{fb|Poland}}||align=center|2–0||align=center|6–0||rowspan=2|Friendly
+|-
+!scope=row|8
+|11 August 2010||[[Estadio Azteca]], [[Mexico City]], Mexico||align=center|39||{{fb|Mexico}}||align=center|1–1||align=center|1–1
+|-
+!scope=row|9
+|3 September 2010||[[Rheinpark Stadion]], [[Vaduz]], Liechtenstein||align=center|40||{{fb|Liechtenstein}}||align=center|4–0||align=center|4–0||rowspan=2|[[UEFA Euro 2012 qualifying Group I|UEFA Euro 2012 qualifying]]
+|-
+!scope=row|10
+|8 October 2010||[[Helmántico Stadium]], [[Salamanca]], Spain||align=center|42||{{fb|Lithuania}}||align=center|3–1||align=center|3–1
+|-
+!scope=row|11
+|9 February 2011||[[Santiago Bernabéu Stadium|Santiago Bernabéu]], [[Madrid]], Spain||align=center|45||{{fb|Colombia}}||align=center|1–0||align=center|1–0||Friendly
+|-
+!scope=row|12
+|rowspan=2|11 October 2011||rowspan=2|[[Estadio José Rico Pérez]], [[Alicante]], Spain||rowspan=2 align=center|52||rowspan=2|{{fb|Scotland}}||align=center|1–0||rowspan=2 align=center|3–1||rowspan=2|UEFA Euro 2012 qualifying
+|-
+!scope=row|13
+|align=center|2–0
+|-
+!scope=row|14
+|15 November 2011||[[Estadio Nacional de Costa Rica (2011)|Estadio Nacional de Costa Rica]], [[San José, Costa Rica|San José]], Costa Rica||align=center|54||{{fb|Costa Rica}}||align=center|1–2||align=center|2–2||rowspan=3|Friendly
+|-
+!scope=row|15
+|29 February 2012||[[La Rosaleda Stadium|La Rosaleda]], [[Málaga]], Spain||align=center|55||{{fb|Venezuela}}||align=center|2–0||align=center|5–0
+|-
+!scope=row|16
+|3 June 2012||[[Estadio de La Cartuja]], [[Seville]], Spain||align=center|58||{{fb|China}}||align=center|1–0||align=center|1–0
+|-
+!scope=row|17
+|14 June 2012||[[Stadion Energa Gdańsk]], [[Gdańsk]], Poland||align=center|60||{{fb|Republic of Ireland}}||align=center|2–0||align=center|4–0||[[UEFA Euro 2012 Group C|UEFA Euro 2012]]
+|-
+!scope=row|18
+|1 July 2012||[[Olimpiyskiy National Sports Complex]], [[Kiev]], Ukraine||align=center|65||{{fb|Italy}}||align=center|1–0||align=center|4–0||[[UEFA Euro 2012 Final|UEFA Euro 2012]]
+|-
+!scope=row|19
+|rowspan=2|20 June 2013||rowspan=2|[[Maracanã Stadium]], [[Rio de Janeiro]], Brazil||rowspan=2 align=center|74||rowspan=2|{{fb|Tahiti}}||align=center|2–0||rowspan=2 align=center|10–0||rowspan=2|[[2013 FIFA Confederations Cup]]
+|-
+!scope=row|20
+|align=center|10–0
+|-
+!scope=row|21
+|8 September 2014||[[Estadi Ciutat de València]], [[Valencia]], Spain||align=center|86||{{fb|Macedonia}}||align=center|4–1||align=center|5–1||rowspan=3|[[UEFA Euro 2016 qualifying Group C|UEFA Euro 2016 qualifying]]
+|-
+!scope=row|22
+|12 October 2014||[[Stade Josy Barthel]], [[Luxembourg City]], Luxembourg||align=center|88||{{fb|Luxembourg}}||align=center|1–0||align=center|4–0
+|-
+!scope=row|23
+|14 June 2015||[[Borisov Arena]], [[Barysaw]], Belarus||align=center|92||{{fb|Belarus}}||align=center|1–0||align=center|1–0
+|-
+!scope=row|24
+|1 June 2016||[[Red Bull Arena (Salzburg)|Red Bull Arena]], [[Salzburg]], Austria||align=center|98||{{fb|South Korea}}||align=center|1–0||align=center|6–1||rowspan=3|Friendly
+|-
+!scope=row|25
+|rowspan=2|1 September 2016||rowspan=2|[[King Baudouin Stadium]], [[Brussels]], Belgium||rowspan=2 align=center|104||rowspan=2|{{fb|Belgium}}||align=center|1–0||rowspan=2 align=center|2–0
+|-
+!scope=row|26
+|align=center|2–0
+|-
+!scope=row|27
+|rowspan=2|5 September 2016||rowspan=2|[[Estadio Reino de León]], [[León, Spain|León]], Spain||rowspan=2 align=center|105||rowspan=2|{{fb|Liechtenstein}}||align=center|3–0||rowspan=2 align=center|8–0||rowspan=3|[[2018 FIFA World Cup qualification – UEFA Group G|2018 FIFA World Cup qualification]]
+|-
+!scope=row|28
+|align=center|8–0
+|-
+!scope=row|29
+|24 March 2017||[[El Molinón]], [[Gijón]], Spain||align=center|110||{{fb|ISR}}||align=center|1–0||align=center|4–1
+|-
+!scope=row|30
+|28 March 2017||[[Stade de France]], [[Paris]], France||align=center|111||{{fb|FRA}}||align=center|1–0||align=center|2–0||rowspan=2|Friendly
+|-
+!scope=row|31
+|7 June 2017||[[Estadio Nueva Condomina]], Murcia, Spain||align=center|112||{{fb|COL}}||align=center|1–0||align=center|2–2
+|-
+!scope=row|32
+|11 June 2017||[[Philip II Arena]], [[Skopje]], Macedonia||align=center|113||{{fb|MKD}}||align=center|1–0||align=center|2–1||rowspan=2|2018 FIFA World Cup qualification
+|-
+!scope=row|33
+|5 September 2017||[[Rheinpark Stadion]], [[Vaduz]], Liechtenstein||align=center|115||{{fb|Liechtenstein}}||align=center|4–0||align=center|8–0
+|-
+!scope=row|34
+|rowspan=2|11 November 2017||rowspan=2|La Rosaleda, Málaga, Spain||rowspan=2 align=center|117||rowspan=2|{{fb|Costa Rica}}||align=center|3–0||rowspan=2 align=center|5–0||rowspan=2|Friendly
+|-
+!scope=row|35
+|align=center|4–0
+|}
+
+==Honours==
+[[File:Spain national football team Euro 2012 trophy 02.jpg|thumb|right|250px|Silva (''pictured centre'') won three consecutive major trophies ([[UEFA Euro 2008|Euro 2008]], [[2010 FIFA World Cup|2010 World Cup]], and [[UEFA Euro 2012|Euro 2012]]) with Spain]]
+
+'''Valencia'''
+*[[Copa del Rey]]: [[2007–08 Copa del Rey|2007–08]]
+
+'''Manchester City'''
+*[[Premier League]]: [[2011–12 Premier League|2011–12]], [[2013–14 Premier League|2013–14]], [[2017–18 Premier League|2017–18]]&lt;ref name=PremProfile&gt;{{cite web |url=https://www.premierleague.com/players/4145/David-Silva/overview |title=David Silva: Overview |publisher=Premier League |accessdate=28 September 2018}}&lt;/ref&gt;
+*[[FA Cup]]: [[2010–11 FA Cup|2010–11]]
+*[[EFL Cup|Football League/EFL Cup]]: [[2013–14 Football League Cup|2013–14]], [[2015–16 Football League Cup|2015–16]], [[2017–18 EFL Cup|2017–18]],&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/43101681 |title=Arsenal 0–3 Manchester City |first=Phil |last=McNulty |publisher=BBC Sport |date=25 February 2018 |accessdate=25 February 2018}}&lt;/ref&gt; [[2018–19 EFL Cup|2018–19]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/47268861 |title=Chelsea 0–0 Manchester City |first=Phil |last=McNulty |publisher=BBC Sport |date=24 February 2019 |accessdate=24 February 2019}}&lt;/ref&gt;
+*[[FA Community Shield]]: [[2012 FA Community Shield|2012]], [[2018 FA Community Shield|2018]]
+
+'''Spain U17'''
+*[[FIFA U-17 World Cup|FIFA U-17 World Championship]] runner-up: [[2003 FIFA U-17 World Championship|2003]]
+
+'''Spain U19'''
+*[[UEFA European Under-19 Championship]]: [[2004 UEFA European Under-19 Championship|2004]]
+
+'''Spain'''
+*[[FIFA World Cup]]: [[2010 FIFA World Cup|2010]]
+*[[UEFA European Championship]]: [[UEFA Euro 2008|2008]], [[UEFA Euro 2012|2012]]
+*[[FIFA Confederations Cup]] runner-up: [[2013 FIFA Confederations Cup|2013]]
+*FIFA Confederations Cup third place: [[2009 FIFA Confederations Cup|2009]]
+
+'''Individual'''
+*FIFA U-17 World Championship Bronze Ball: [[2003 FIFA U-17 World Championship|2003]]&lt;ref&gt;{{cite web |url=https://www.fifa.com/u17worldcup/archive/finland2003/awards/index.html |title=FIFA U-17 World Championship Finland 2003 |publisher=FIFA.com |accessdate=21 May 2017}}&lt;/ref&gt;
+*[[La Liga|Pedro Zaballa Award]]: [[2004–05 La Liga#Pedro Zaballa award|2005]]
+*[[Premier League Player of the Month]]: [[2011–12 Premier League#Monthly awards|September 2011]]&lt;ref name=PremProfile/&gt;
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Premier League 3|2011–12 Premier League]],&lt;ref name=1112PFA/&gt; [[PFA Team of the Year (2010s)#Premier League 9|2017–18 Premier League]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/43810017 |title=Manchester City players dominate PFA team of the year |publisher=BBC Sport |date=18 April 2018 |accessdate=5 May 2018}}&lt;/ref&gt;
+*[[UEFA European Championship Team of the Tournament]]: [[UEFA Euro 2012#Awards|2012]]
+*[[Manchester City F.C.|Manchester City]] Players' Player of the Year: [[2011–12 Manchester City F.C. season#Etihad Player of the Year awards|2011–12]]
+*Manchester City Player of the Month: October 2010, November 2010, December 2010,&lt;ref name="Hat-trick" /&gt; September 2011, March 2014,&lt;ref name="Mar14POTM" /&gt; December 2014,&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-2910268/David-Silva-wins-Manchester-City-s-player-month-award.html |title=David Silva wins Manchester City's player of the month award as Manuel Pellegrini's men prepare to face Arsenal |work=Daily Mail |first=Joe |last=Strange |date=14 January 2015 |accessdate=26 September 2016}}&lt;/ref&gt; February 2015,&lt;ref name="Feb15POTM" /&gt; August 2015,&lt;ref name="Aug15POTM" /&gt; January 2017&lt;ref&gt;{{Cite web |url=https://www.mancity.com/citytv/features/2017/03/02/david%20silva%20wins%20manchester%20city%20january%20player%20of%20the%20month/1488451136600 |title=David Silva wins Man City Player of the Month |website=Manchester City official website |language=en |date=2 March 2017|access-date=30 May 2017}}&lt;/ref&gt;
+*[[FIFPro World XI|FIFA FIFPro World XI]] 5th team: 2015, 2016, 2018&lt;ref&gt;{{cite web |url=https://www.fifpro.org/news/2015-world-xi-the-reserve-teams-2/en/ |title=2015 World XI: the Reserve Teams - FIFPro World Players' Union |publisher=FIFPro.org |date=11 January 2016 |access-date=1 October 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.fifpro.org/news/2016-world-11-the-reserve-teams/en/ |title=2016 World 11: the reserve teams - FIFPro World Players' Union |publisher=FIFPro.org |date=9 January 2017 |access-date=1 October 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.fifpro.org/news/world-11-the-reserve-teams-for-2017-18/en/ |title=World 11: The Reserve Team for 2017-18 |publisher=FIFPro.org |date=24 September 2018 |accessdate=25 September 2018}}&lt;/ref&gt;
+*[[Manchester City F.C.#Player of the Year|Manchester City Player of the Season]]: 2016–17&lt;ref&gt;{{Cite news |url=https://www.mancity.com/news/first-team/2017/05/29/etihad-airways-player-of-the-season-2016-17-winner-revealed/1496051208767 |title=Etihad Airways Player of the Season: Revealed! |work=Manchester City official website |date=29 May 2017|access-date=30 May 2017 |language=en}}&lt;/ref&gt;
+*[[Premier League]] top assist provider: [[2011–12 Premier League|2011–12]]&lt;ref&gt;{{cite web|url=https://www.premierleague.com/history/2011-12|title=2011/12 Season Review|publisher=Premier League|accessdate=5 December 2018}}&lt;/ref&gt;
+
+'''Decorations'''
+*Medalla de Oro de Canarias: 2010&lt;ref&gt;{{cite web |url=http://agencias.abc.es/agencias/noticia.asp?noticia=827661 |title=Las universidades canarias, Tadeo, Pedro y Silva, Medallas de Oro de Canarias |newspaper=ABC |date=24 May 2011 |language=es}}&lt;/ref&gt;
+*[[Royal Order of Sports Merit|Gold Medal of the Royal Order of Sporting Merit]]: 2011&lt;ref&gt;{{cite news |url=http://www.mundodeportivo.com/20111005/futbol/seleccion-espanola/las-campeones-del-mundo-de-futbol-ya-tienen-la-real-orden-del-merito-deportivo_54226408413.html |title=Royal Order of Sporting Merit 2011 |work=Mundo Deportivo |date=5 October 2011}}&lt;/ref&gt;
+
+==See also==
+*[[List of footballers with 100 or more caps]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Official website|http://www.davidjimenezsilva.com/en}}
+*{{BDFutbol|537}}
+*[http://www.bdfutbol.com/en/p/j537.html?cat=SEL National team data] at BDFutbol
+*[http://www.mancity.com/en/teams/first-team/midfield/david-silva Manchester City F.C. Profile]
+*[https://www.premierleague.com/players/4145/David-Silva/overview Premier League profile]
+*{{Soccerbase}}
+*{{NFT player|id=17397}}
+*{{FIFA player|200176}}
+*{{ESPN FC|43815/david-silva}}
+*[http://www.goal.com/en/people/spain/10425/david-silva Silva at Goal.com]
+
+{{Manchester City F.C. squad}}
+{{Navboxes
+| title = Spain squads
+| bg = #DB000D
+| fg = #FBEA0E
+| bordercolor = #000000
+| list1 = 
+{{Spain squad UEFA Euro 2008}}
+{{Spain squad 2009 FIFA Confederations Cup}}
+{{Spain squad 2010 FIFA World Cup}}
+{{Spain squad UEFA Euro 2012}}
+{{Spain squad 2013 FIFA Confederations Cup}}
+{{Spain squad 2014 FIFA World Cup}}
+{{Spain squad UEFA Euro 2016}}
+{{Spain squad 2018 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg =
+| list1 = 
+{{2011–12 Premier League PFA Team of the Year}}
+{{2017–18 Premier League PFA Team of the Year}}
+{{UEFA Euro 2012 Team of the Tournament}}
+{{Manchester City F.C. Player of the Year}}
+}}
+
+{{DEFAULTSORT:Silva, David}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:People from Mogán, Las Palmas]]
+[[Category:Spanish footballers]]
+[[Category:Canarian footballers]]
+[[Category:Association football midfielders]]
+[[Category:La Liga players]]
+[[Category:Segunda División players]]
+[[Category:Segunda División B players]]
+[[Category:Valencia CF Mestalla footballers]]
+[[Category:Valencia CF players]]
+[[Category:SD Eibar footballers]]
+[[Category:Celta de Vigo players]]
+[[Category:Premier League players]]
+[[Category:Manchester City F.C. players]]
+[[Category:Spain youth international footballers]]
+[[Category:Spain under-21 international footballers]]
+[[Category:Spain international footballers]]
+[[Category:UEFA Euro 2008 players]]
+[[Category:2009 FIFA Confederations Cup players]]
+[[Category:2010 FIFA World Cup players]]
+[[Category:UEFA Euro 2012 players]]
+[[Category:UEFA European Championship-winning players]]
+[[Category:FIFA World Cup-winning players]]
+[[Category:Spanish expatriate footballers]]
+[[Category:Spanish people of Japanese descent]]
+[[Category:Expatriate footballers in England]]
+[[Category:2013 FIFA Confederations Cup players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:Spanish expatriate sportspeople in England]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:FIFA Century Club]]
+[[Category:2018 FIFA World Cup players]]</text>
+      <sha1>bsv4xrwnmx8b4clrzfj0v4t21upd00k</sha1>
+    </revision>
+  </page>
+</mediawiki>

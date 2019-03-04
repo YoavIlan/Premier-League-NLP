@@ -1,0 +1,398 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sadio Mané</title>
+    <ns>0</ns>
+    <id>34758489</id>
+    <revision>
+      <id>885575519</id>
+      <parentid>885419630</parentid>
+      <timestamp>2019-02-28T22:14:19Z</timestamp>
+      <contributor>
+        <username>Nfc123</username>
+        <id>1265316</id>
+      </contributor>
+      <minor/>
+      <comment>/* Club */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="41257">{{pp|small=yes}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox football biography
+| name           = Sadio Mané
+| image          = Sadio Mané Senegal.jpg
+| image_size     = 200
+| caption        = Mané playing for [[Senegal national football team|Senegal]] at the [[2018 FIFA World Cup]]
+| fullname       = Sadio Mané&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1992|4|10|df=y}}
+| birth_place    = [[Sédhiou]], Senegal
+| height         = 1.75 m&lt;ref name="Southampton F.C."&gt;{{cite web |url=http://www.saintsfc.co.uk/team/player-profile/sadio-mane/10 |title= Sadio Mané: Southampton Player Profiles |publisher=Southampton F.C. |accessdate=7 March 2016}}&lt;/ref&gt;
+| position       = [[Midfielder#Winger|Winger]]&lt;ref&gt;{{cite web |url= http://www.premierleague.com/en-gb/players/profile.overview.html/sadio-mane |title= Premier League Player Profile Sadio Mané |author=&lt;!--Staff writer(s); no by-line.--&gt; |date= 2015 |website= Premier League |publisher= Barclays Premier League|accessdate= 12 January 2015}}&lt;/ref&gt;
+| currentclub    = [[Liverpool F.C.|Liverpool]]
+| clubnumber     = 10
+| youthyears1    = 
+| youthclubs1    = [[Génération Foot]]
+| years1         = 2011–2012 |clubs1 = [[FC Metz|Metz]] |caps1 = 22 |goals1 = 2
+| years2         = 2012–2014 |clubs2 = [[FC Red Bull Salzburg|Red Bull Salzburg]] |caps2 = 63 |goals2 = 31
+| years3         = 2014–2016 |clubs3 = [[Southampton F.C.|Southampton]] |caps3 = 67 |goals3 = 21
+| years4         = 2016–     |clubs4 = [[Liverpool F.C.|Liverpool]] |caps4 = 82 |goals4 = 37
+| nationalyears1 = 2012  |nationalteam1 = [[Senegal national under-23 football team|Senegal U23]] | nationalcaps1 = 4 |nationalgoals1 = 0
+| nationalyears2 = 2012– |nationalteam2 = [[Senegal national football team|Senegal]] | nationalcaps2 = 58 |nationalgoals2 = 15
+| pcupdate       = 27 February 2019
+| ntupdate       = 14:54, 16 October 2018
+}}
+'''Sadio Mané''' (born 10 April 1992) is a Senegalese professional [[Association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for {{English football updater|Liverpoo}} club [[Liverpool F.C.|Liverpool]] and the [[Senegal national football team|Senegal national team]].
+
+Having begun his career with [[FC Metz|Metz]] in France, he transferred to [[FC Red Bull Salzburg|Red Bull Salzburg]] in 2012. After winning the [[Austrian Football Bundesliga#Österreichische Fußball-Bundesliga|Austrian Bundesliga]] and [[Austrian Cup]] in [[2013–14 FC Red Bull Salzburg season|2014]], he was signed by [[Southampton F.C.|Southampton]]. In [[2014–15 Southampton F.C. season|2015]], Mané set a new [[Premier League]] [[Premier League records and statistics|record]] for the fastest [[hat-trick]] when he scored three times in 176 seconds during a 6–1 win over [[Aston Villa F.C.|Aston Villa]].&lt;ref name=trick&gt;{{cite news|url=https://www.theguardian.com/football/2015/may/16/southampton-aston-villa-premier-league-match-report|title=Southampton’s Sadio Mané hits record hat-trick to rout Aston Villa|date=16 May 2015|work=The Guardian}}&lt;/ref&gt; He transferred to Liverpool in 2016 for a fee of £34 million, making him the most expensive African player in history at that time.&lt;ref name=BBC36642523/&gt;&lt;ref&gt;{{cite news|title=Eight things about the Premier League Africans|url=https://www.bbc.co.uk/news/world-africa-37255038|agency=BBC News|date=4 September 2016}}&lt;/ref&gt; Since joining Liverpool, Mané among other achievements scored in the [[2018 UEFA Champions League Final]].
+
+Mané has earned over 50 [[Cap (association football)|caps]] for Senegal since his debut in 2012, and represented the national team at the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Olympics]], [[2015 Africa Cup of Nations]], [[2017 Africa Cup of Nations]] and the [[2018 FIFA World Cup]].
+
+==Club career==
+===Early career===
+Born in [[Sédhiou]], Sénégal, Mané started his career at the Académie Génération Foot, Senegalese football academy.&lt;ref&gt;{{cite web|title=Sadio MANE de passage à l’Académie Génération Foot|url=http://www.asgenerationfoot.com/site/?p=3424|publisher=Academie Generation Foot|language=French}}{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+Mané made his professional debut for [[FC Metz|Metz]] on 14 January 2012, coming on as a [[Substitute (association football)|substitute]] for [[Kévin Diaz (footballer born 1988)|Kévin Diaz]] in the 75th minute of a 0–1 home defeat against [[SC Bastia|Bastia]] in [[Ligue 2]].&lt;ref&gt;{{cite web|title=Metz 0–1 Bastia|url=https://int.soccerway.com/matches/2012/01/14/france/ligue-2/fc-de-metz/sporting-club-de-bastia/1115285/|website=Soccerway|accessdate=23 February 2015}}&lt;/ref&gt; He made 19 appearances in [[2011–12 Ligue 2|his first league season]], 12 as a starter, and scored a solitary goal in a 2–5 loss to [[EA Guingamp|Guingamp]] at the [[Stade Saint-Symphorien]] on 4 May.&lt;ref&gt;{{cite web|title=Metz 2–5 Guingamp| url=https://int.soccerway.com/matches/2012/05/04/france/ligue-2/fc-de-metz/en-avant-de-guingamp/1115453/|website=Soccerway|accessdate=23 February 2015}}&lt;/ref&gt; Metz were [[relegation|relegated]] to the [[Championnat National]] at the end of the season.
+
+===Red Bull Salzburg===
+[[File:RBS gegen Metz59.JPG|thumb|Mané (right) playing for [[FC Red Bull Salzburg|Red Bull Salzburg]] in 2013]]
+
+On 31 August 2012, Mané moved to [[Austrian Football Bundesliga|Austrian Bundesliga]] side [[FC Red Bull Salzburg|Red Bull Salzburg]] for the third biggest transfer fee that [[FC Metz]] had ever received.&lt;ref&gt;{{cite web|title=Sadio Mané transféré au Red Bull Salzburg|trans-title=Sadio Mané transferred to Red Bull Salzburg|url=http://www.fcmetz.com/article/Transfert/2012-08-31-17-25-55_sadio-mane-transfere-au-red-bull-salzburg.html|website=www.fcmetz.com|publisher=[[FC Metz]]|accessdate=2 September 2014|language=French|date=31 August 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20141103230754/http://www.fcmetz.com/article/Transfert/2012-08-31-17-25-55_sadio-mane-transfere-au-red-bull-salzburg.html|archivedate=3 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Die Bullen im Kaufrausch|trans-title=The Bulls on a spending spree|url=http://www.news.at/a/red-bull-salzburg-die-bullen-kaufrausch-340805|website=www.news.at|publisher=news.at|accessdate=2 September 2014|language=German|date=31 August 2014}}&lt;/ref&gt; The fee was believed to be €4 million.&lt;ref&gt;{{cite web | url = http://diepresse.com/home/sport/fussball/national/3840165/Salzburg_Wer-Geld-hat-kann-gross-einkaufen | title =Salzburg: Wer Geld hat, kann groß einkaufen | language = German | trans-title = Salzburg: Who got money, can go on a shopping spree | publisher = [[Die Presse]] | accessdate = 2 September 2014 | date = 17 July 2014}}&lt;/ref&gt;
+
+He scored his first [[hat-trick]] for the club on 31 October, in a 3–1 away win at [[SC Kalsdorf|Kalsdorf]] in the third round of the [[Austrian Cup]].&lt;ref&gt;{{cite web|title=Kalsdorf 1–3 Salzburg|url=http://www.goal.com/en-ie/match/kalsdorf-vs-salzburg/1397693/lineups|website=Goal.com|accessdate=23 February 2015}}&lt;/ref&gt;
+
+On 27 October 2013, he netted his first hat-trick in the Austrian Bundesliga, during a 3–0 win away to [[SV Grödig|Grödig]].&lt;ref&gt;{{cite web|title=Grödig 0–3 Salzburg|url=http://www.goal.com/en-gb/match/gr%C3%B6dig-vs-salzburg/1487388/preview|website=Goal.com|accessdate=23 February 2015}}&lt;/ref&gt; He scored another treble on 7 May 2014 as Salzburg won 7–0 at [[SV Horn|Horn]] in the cup semi-finals;&lt;ref&gt;{{cite news|title=Red Bulls in cup final after goal fest!|url=http://www.redbulls.com/en/fc-red-bull-salzburg/news/saison_2013_14/red-bulls-in-cup-final-after-goal-fest.html|accessdate=23 February 2015|publisher=[[Red Bull]]|date=7 May 2014}}&lt;/ref&gt; the season ended with the team winning a domestic [[Double (association football)|double]]. At the end of August 2014 Mané forced a transfer out of the club, by not coming to the training and to the most important game for Salzburg at that time to qualify for the Champions League.&lt;ref&gt;[http://www.weltfussball.at/news/_n1232661_/skandal-um-sadio-mane-vor-malmoe-spiel/ Skandal um Sadio Mané vor Malmö-Spiel], weltfussball.at, 26 August 2014&lt;/ref&gt;
+
+===Southampton===
+====2014–15 season====
+On 1 September 2014, Mané transferred to [[Premier League]] side [[Southampton F.C.|Southampton]] for £11.8 million, signing a four-year contract.&lt;ref&gt;{{cite web| title=Southampton sign £10m forward Sadio Mane &amp; Toby Alderweireld |url=https://www.bbc.co.uk/sport/0/football/29025087|publisher=[[BBC Sport]]| accessdate=3 September 2014|date=2 September 2014}}&lt;/ref&gt; He made his debut 22 days later in a 2–1 [[Football League Cup|League Cup]] victory over [[Arsenal F.C.|Arsenal]], winning the penalty for Southampton's first goal.&lt;ref&gt;{{cite web |title=Arsenal 1–2 Southampton |url=https://www.bbc.co.uk/sport/0/football/29216769 |publisher=BBC Sport |date=23 September 2014 |accessdate=23 September 2014}}&lt;/ref&gt; He made his first league appearance for the club in another 2–1 victory over [[Queens Park Rangers F.C.|Queens Park Rangers]] on 27 September, starting and assisting [[Ryan Bertrand]] for the first goal of the game.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/0/football/29289926|title=Southampton 2–1 Queens Park Rangers|publisher=BBC Sport|date=27 September 2014|accessdate=27 September 2014}}&lt;/ref&gt; He scored his first goal for the club in an 8–0 victory over [[Sunderland A.F.C.|Sunderland]] on 18 October,&lt;ref&gt;{{cite web |last1=Reddy |first1=Luke |url=https://www.bbc.co.uk/sport/0/football/29580147 |title=Southampton 8–0 Sunderland |work=BBC Sport |date=18 October 2014 |accessdate=18 October 2014}}&lt;/ref&gt; although this was subsequently credited as an own goal by [[Patrick van Aanholt]].&lt;ref&gt;{{cite web|title=Southampton 8 – 0 Sunderland |url=http://www.premierleague.com/en-gb/matchday/matches/2014-2015/epl.match-stats.html/southampton-vs-sunderland|publisher=Premier League |accessdate=24 October 2014|date=18 October 2014}}&lt;/ref&gt; He did, however, score his first goal in his next game, a 1–0 win over [[Stoke City F.C.|Stoke City]] a week later.&lt;ref&gt;{{cite web|last1=Canavan|first1=Steve|title=Southampton 1–0 Stoke|url=https://www.bbc.co.uk/sport/0/football/29670448|publisher=BBC Sport |accessdate=26 October 2014|date=25 October 2014}}&lt;/ref&gt;
+
+In December and January he scored in three successive matches, against [[Crystal Palace F.C.|Crystal Palace]],&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/30544147 |title=Crystal Palace 1–3 Southampton |publisher=[[BBC Sport]] |date=26 December 2014 |accessdate=2 January 2015}}&lt;/ref&gt; [[Chelsea F.C.|Chelsea]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/30566736 |title=Southampton 1–1 Chelsea |publisher=[[BBC Sport]] |date=28 December 2014 |accessdate=2 January 2015}}&lt;/ref&gt; and [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/30600817 |title=Southampton 2–0 Arsenal |publisher=[[BBC Sport]] |date=1 January 2015 |accessdate=2 January 2015 }}&lt;/ref&gt; Mané scored two late winning goals in 1–0 league victories at [[Queens Park Rangers F.C.|Queens Park Rangers]] on 7 February 2015 and at home to [[Crystal Palace F.C.|Crystal Palace]] on 3 March respectively.&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/31071178 | title=QPR 0–1 Southampton | publisher=BBC Sport | date=7 February 2015 | accessdate=6 August 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/31598153 | title=Southampton 1–0 Crystal Palace | publisher=[[British Broadcasting Corporation|BBC]] Sport | date=3 March 2015 | accessdate=6 August 2015}}&lt;/ref&gt; However, Mané had been dropped from Southampton's starting line-up for their 0–2 home defeat to [[Liverpool F.C.|Liverpool]] on 22 February as a punishment for being late to the stadium.&lt;ref&gt;{{cite news|title=Southampton: Sadio Mane dropped for being late – Koeman|url=https://www.bbc.co.uk/sport/0/football/31579123|accessdate=22 February 2015|publisher=BBC Sport|date=22 February 2015}}&lt;/ref&gt;
+
+On 16 May, during Southampton's final home match of the season, Mané scored three times in 2 minutes 56 seconds in a 6–1 win over [[Aston Villa F.C.|Aston Villa]] to set a new [[Premier League records and statistics|Premier League record]] for the fastest [[hat-trick]]. The record had been held since 1994 by [[Robbie Fowler]], who scored three against [[Arsenal F.C.|Arsenal]] in 4 minutes and 33 seconds.&lt;ref name=trick/&gt; Mané finished the season with 10 goals from 32 appearances in all competitions.
+
+====2015–16 season====
+[[File:Audi- quattro-Cup 23.JPG|thumb|Mané (right) playing for [[Southampton F.C.|Southampton]] in 2015]]
+
+Mané began the [[2015–16 Southampton F.C. season|2015–16 season]] by registering two assists in the [[2015–16 UEFA Europa League|UEFA Europa League]] third qualifying round first leg match with [[Vitesse Arnhem]] at home and scoring in the return leg, as Southampton eased through to the next round 5–0 on aggregate.&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/33667103 | title=Southampton 3–0 Vitesse Arnhem | publisher=[[British Broadcasting Corporation|BBC]] Sport | date=30 July 2015 | accessdate=6 August 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/33738509 | title=Vitesse Arnhem 0–2 Southampton | publisher=[[British Broadcasting Corporation|BBC]] Sport | date=6 August 2015 | accessdate=6 August 2015}}&lt;/ref&gt; On 2 December, he took 39 seconds to open the scoring against Liverpool in the quarter-finals of the League Cup, but the Saints eventually lost 6–1 at home.&lt;ref&gt;{{cite news|title=Southampton 1–6 Liverpool|url=https://www.bbc.co.uk/sport/0/football/34918281|accessdate=2 December 2015|publisher=BBC Sport|date=2 December 2015}}&lt;/ref&gt;
+
+On 2 January 2016, he was again dropped from the starting line-up by manager [[Ronald Koeman]] for a match at [[Norwich City F.C.|Norwich City]] when he turned up late for a pre-match meeting.&lt;ref&gt;{{cite news|title=Sadio Mane: Southampton midfielder dropped for being late|url=https://www.bbc.co.uk/sport/0/football/35214588|accessdate=3 January 2016|work=BBC Sport|date=2 January 2016}}&lt;/ref&gt; He received a straight red card on 12 March at the end of a 2–1 win at [[Stoke City]] for a collision into [[Erik Pieters]],&lt;ref&gt;{{cite news|last1=Sharpe|first1=Rich|title=Stoke City 1 Southampton 2: Ronald Koeman says his side will appeal against Sadio Mane’s red card|url=http://www.stokesentinel.co.uk/Stoke-City-1-Southampton-2-Ronald-Koeman-says/story-28913551-detail/story.html|accessdate=13 March 2016|work=Stoke Sentinel|date=13 March 2016}}&lt;/ref&gt; although this was quickly overturned on appeal.&lt;ref&gt;{{cite web|title=Southampton win appeal against Sadio Mane red card|url=https://www.bbc.co.uk/sport/football/35803664|publisher=BBC Sport|accessdate=15 March 2016|date=15 March 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Sadio Mane's claim against red card upheld by Commission|url=http://www.thefa.com/news/governance/2016/mar/sadio-mane-southampton-red-card-appeal-upheld|publisher=The FA|accessdate=15 March 2016|date=15 March 2016}}&lt;/ref&gt;
+
+Having failed to score in the league for over four months, Mané scored twice in a 3–2 victory over [[Liverpool F.C.|Liverpool]] on 20 March 2016,&lt;ref&gt;{{cite web|last1=Henson|first1=Mike|title=Southampton 3 Liverpool 2|url=https://www.bbc.co.uk/sport/football/35796778|publisher=BBC Sport|accessdate=2 May 2016|date=20 March 2016}}&lt;/ref&gt; followed by five goals in the next five matches, including a hat-trick in a 4–2 victory against [[Manchester City F.C.|Manchester City]] on 1 May.&lt;ref&gt;{{cite news|last1=Rich|first1=James|title=Southampton’s Sadio Mané in hat-trick romp against Manchester City|url=https://www.theguardian.com/football/2016/may/01/southampton-manchester-city-premier-league-match-report|accessdate=2 May 2016|work=The Guardian|date=1 May 2016}}&lt;/ref&gt; He finished the season as Southampton's top scorer, with 15 goals in all competitions.
+
+===Liverpool===
+[[File:Liver-SM 2017 (11 cropped).jpg|thumb|upright|Mané playing for [[Liverpool F.C.|Liverpool]] in 2017]]
+
+On 28 June 2016, Mané joined [[Liverpool F.C.|Liverpool]] for a transfer fee of £34 million on a five-year contract. The transfer fee made him the most expensive African player in history at the time.&lt;ref name=BBC36642523&gt;{{cite web|title=Sadio Mane: Liverpool complete £34m signing of Southampton forward|url=https://www.bbc.com/sport/football/36642523|publisher=BBC Sport|accessdate=28 June 2016|date=28 June 2016}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.skysports.com/football/news/11669/10326309/sadio-mane-has-medical-as-liverpool-agree-transfer-fee-of-16334m-with-southampton|title=Sadio Mane has medical as Liverpool agree transfer fee of £34m with Southampton|last=|first=|date=28 June 2016|website=[[Sky Sports]]|publisher=|access-date=}}&lt;/ref&gt; On 14 August, he made his [[Premier League]] debut for the Reds, scoring the 4th goal in a 4–3 away win against [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite news|last1=Ladyman|first1=Ian|title=Arsenal 3–4 Liverpool: Philippe Coutinho's magical brace and Sadio Mane stunner heap misery on Arsene Wenger's men in north London thriller |url=http://www.dailymail.co.uk/sport/football/article-3740114/Arsenal-3-4-Liverpool-Philippe-Coutinho-s-magical-brace-Sadio-Mane-stunner-heaps-misery-Arsene-Wenger-s-men-north-London-thriller.html|accessdate=14 August 2016|work=Daily Mail|date=14 August 2016}}&lt;/ref&gt; Having missed Liverpool's defeat at [[Burnley F.C.|Burnley]] on match day two through a slight shoulder injury, Mane returned to the starting line-up against [[Burton Albion F.C.|Burton Albion]] in the [[2016–17 EFL Cup|League Cup]] where he had two assists in a 5–0 win.&lt;ref&gt;{{cite news|title=Liverpool hit five to see of Burton in EFL Cup |url=http://www.liverpoolfc.com/news/first-team/232883-liverpool-hit-five-to-see-off-burton-in-efl-cup|accessdate=23 August 2016|work=LiverpoolFC.com|date=23 August 2016}}&lt;/ref&gt;
+
+On 19 December, Mané scored the only goal of the 227th [[Merseyside derby]] in added time against [[Everton F.C.|Everton]] at [[Goodison Park]].&lt;ref&gt;{{citeweb|url= https://www.theguardian.com/football/2016/dec/19/everton-liverpool-premier-league-match-report|title=Sadio Mané’s injury-time winner earns Liverpool dramatic derby victory|date=19 December 2016|work=Guardian|accessdate=21 December 2016}}&lt;/ref&gt;
+On 11 February 2017, Mané scored two goals within two minutes against [[Tottenham Hotspur]] at Anfield, for Liverpool's first league win in 2017.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2017/feb/11/liverpool-tottenham-hotspur-premier-league-match-report|title=Liverpool’s Sadio Mané fires quickfire double to stun Tottenham|first=Paul |last=Wilson|work=The Guardian|date=11 February 2017|accessdate=12 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/football/2017/02/11/liverpool-vs-tottenham-premier-league-live-score/|title=Liverpool 2 Tottenham 0: Sadio Mane scores twice as Reds record first league win of 2017|first=Sam |last=Wallace|first2=JJ |last2=Bull|work=Daily Ttelegraph|date=12 February 2017|accessdate=12 February 2017}}&lt;/ref&gt; On 20 April 2017, Mané was named in the [[PFA Team of the Year]] after scoring 13 league goals in his first season with Liverpool.&lt;ref name=PFA1617&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39648483 |title=PFA teams of the year: Chelsea and Tottenham dominate Premier League XI |publisher=BBC Sport |date=20 April 2017 |accessdate=6 May 2018}}&lt;/ref&gt; Despite missing the latter part of the campaign through injury, Mané was awarded the Liverpool [[Liverpool F.C.#Player of the Season|Player of the Season]] award on 9 May 2017.&lt;ref&gt;{{cite web|last1=Shaw|first1=Chris|title=Sadio Mane takes top prizes at LFC Players' Awards|url=http://www.liverpoolfc.com/news/first-team/262799-sadio-mane-takes-top-prizes-at-lfc-players-awards|publisher=Liverpool F.C.|accessdate=10 May 2017|date=9 May 2017}}&lt;/ref&gt;
+
+In the first match of the new season, on 12 August 2017, away to [[Watford F.C.|Watford]], Mané scored Liverpool's first goal of the season in a 3–3 draw. He was named [[Premier League Player of the Month]] after scoring a goal in each of the Reds' three matches in August.&lt;ref&gt;{{cite news|last1=Frankland|first1=Josh|title=Liverpool's Sadio Mane wins August's Premier League Player of the Month award|url=http://www.skysports.com/football/news/11669/11025598/liverpools-sadio-mane-wins-augusts-premier-league-player-of-the-month-award|accessdate=8 September 2017|publisher=Sky Sports|date=8 September 2017}}&lt;/ref&gt; On 9 September 2017, he was given a straight red card in the first half of a 5–0 loss to [[Manchester City F.C.|Manchester City]] for a high boot against goalkeeper [[Ederson Moraes|Ederson]],&lt;ref&gt;{{cite news|last1=Ogden|first1=Mark|title=Man City ease past Liverpool after Mane sees red for Ederson challenge|url=http://www.espnfc.com/blog/the-match/60/post/3199105/man-city-ease-past-liverpool-after-sadio-mane-sees-red-for-ederson-challenge|accessdate=9 September 2017|publisher=ESPN|date=9 September 2017}}&lt;/ref&gt; resulting in a three-match ban.&lt;ref&gt;{{cite web|title=Sadio Mane: Liverpool lose appeal against length of ban for red card|url=https://www.bbc.co.uk/sport/football/41232863|publisher=BBC Sport|accessdate=22 September 2017|date=12 September 2017}}&lt;/ref&gt; Mané, [[Mohamed Salah]], [[Roberto Firmino]] and [[Philippe Coutinho]] made up a prolific attacking quartet dubbed the "Fab Four" and "Fab Three" after the mid-season exit of the latter.&lt;ref&gt;{{cite news|last1=Burton|first1=Chris|title=Klopp sees Mane mojo back as part of Liverpool's 'Fab Three'|url=http://www.goal.com/en-gb/news/klopp-sees-mane-mojo-back-as-part-of-liverpools-fab-three/1mzi60n72yhyr1f4yt92n0oku1|accessdate=22 April 2018|publisher=Goal.com|date=20 February 2018}}&lt;/ref&gt;
+
+On 14 February 2018, Mané scored his first [[List of UEFA Champions League hat-tricks|hat-trick]] for Liverpool in a 5–0 away win against [[F.C.Porto|Porto]] in the [[2017–18 UEFA Champions League knockout phase|round of 16]] first leg of the [[2017–18 UEFA Champions League]].&lt;ref&gt;{{citeweb|url= https://www.theguardian.com/football/2018/feb/14/sadio-mane-liverpool-jurgen-klopp-porto-champions-league|title=Sadio Mané is Liverpool’s comeback king with hat-trick, says Jürgen Klopp|date=14 February 2018|work=Guardian|accessdate=15 February 2018}}&lt;/ref&gt; In doing so, he became only the second player to score an away hat-trick for the club in Europe.&lt;ref&gt;{{cite news|url=https://www.liverpoolfc.com/news/first-team/332404-liverpool-2018-review|title=Records, special nights and new stars - the story of Liverpool's 2018|publisher=Liverpool Football Club|last=Flemming|first=Scott|date=1 January 2019|accessdate=1 January 2019}}&lt;/ref&gt; Later, with a goal in the 3–0 win over [[A.F.C. Bournemouth|AFC Bournemouth]] on 14 April, he overtook [[Demba Ba]]'s record of 43 to become the highest scoring Senegalese in Premier League history.&lt;ref&gt;{{cite news|title=Mane makes Premier League history with latest Liverpool goal|url=http://www.goal.com/en-om/news/mane-makes-premier-league-history-with-latest-liverpool-goal/l41g5m3n7cwy1xk09e1ljeh2y|accessdate=22 April 2018|publisher=Goal.com|date=14 April 2018}}&lt;/ref&gt;
+
+On 26 May, during the [[2018 UEFA Champions League Final]] against [[Real Madrid CF|Real Madrid]], Mané scored Liverpool's equalizing goal in a 3–1 defeat.&lt;ref&gt;{{cite journal |author=Avi Creditor |title=LIVE: Benzema Blocks Karius Throw for Bizarre Opener, Mane Answers in UCL Final |url=https://www.si.com/soccer/2018/05/26/real-madrid-liverpool-champions-league-final-goals-video-salah-mane-ronaldo-isco |date=26 May 2018 |access-date=26 May 2018 |magazine=[[Sports Illustrated]] |publisher=[[Time Inc.]]}}&lt;/ref&gt; In doing so, he became the first Senegalese player to score in the final of the competition. His goal was also his 10th for the campaign which saw Liverpool become the first team in history to have three players score 10+ goals in a single Champions League season, with Mané achieving the milestone alongside fellow [[Forward (association football)|forwards]] [[Mohamed Salah]] and [[Roberto Firmino]].&lt;ref&gt;{{cite news|url=http://www.goal.com/en/news/mane-makes-champions-league-history-for-liverpools-fab-three/1igcjwc8w03114w064vd49r2x|title=Mane makes Champions League history for Liverpool's 'Fab Three'|publisher=Goal|last=Burton|first=Chris|date=26 May 2018|accessdate=27 May 2018}}&lt;/ref&gt;
+
+On 22 November 2018, Mané signed new long-term deal with The Reds.&lt;ref&gt;{{cite news |title=Sadio Mane: Senegal forward agrees new long-term Liverpool deal |url=https://www.bbc.com/sport/football/46310219 |work=BBC Sport |date=22 November 2018}}&lt;/ref&gt;
+
+==International career==
+Mané was part of the [[Senegal national under-23 football team|Senegal team]] at the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Olympic tournament]], and started every match as they advanced through [[Football at the 2012 Summer Olympics – Men's tournament – Group A|Group A]] as runners-up to [[Great Britain national football team|Great Britain]] before losing 4–2 after extra time in the quarter-finals to eventual champions [[Mexico national under-23 football team|Mexico]].
+
+Mané was ruled out of the [[Senegal national football team|Senegalese squad]] for the [[2015 Africa Cup of Nations]] after suffering a calf injury in Southampton's 2–0 win against [[Arsenal F.C.|Arsenal]] on 1 January 2015.&lt;ref&gt;{{cite news|title=Sadio Mane: Senegal midfielder to miss Africa Cup of Nations|url=https://www.bbc.co.uk/sport/0/football/30676190|accessdate=5 January 2015|work=BBC Sport|date=4 January 2014}}&lt;/ref&gt; He later returned to the squad, and started in their final two group matches against [[South Africa national football team|South Africa]] and [[Algeria national football team|Algeria]] in a [[2015 Africa Cup of Nations Group C|group stage exit]].&lt;ref&gt;{{cite news|last1=Begley|first1=Emlyn|title=South Africa 1–1 Senegal|url=https://www.bbc.co.uk/sport/0/football/30843618|accessdate=23 February 2015|publisher=BBC Sport|date=23 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Hughes|first1=Ian|title=Senegal 0–2 Algeria|url=https://www.bbc.co.uk/sport/0/football/30891881|accessdate=23 February 2015|publisher=BBC Sport|date=27 January 2015}}&lt;/ref&gt;
+
+Mané represented Senegal at the [[2017 Africa Cup of Nations]] in Gabon and scored a goal in each of the nation's opening two games, 2–0 wins against [[Tunisia national football team|Tunisia]] and [[Zimbabwe national football team|Zimbabwe]].&lt;ref&gt;{{cite web|url=http://www.thisisanfield.com/2017/01/senegal-africa-cup-nations-quarter-finals-sadio-mane-scores/|title=Senegal through to Africa Cup of Nations quarter-finals as Sadio Mane scores again|website=This is Anfield|last=Lusby|first=Jack|date=20 January 2017|accessdate=29 January 2017}}&lt;/ref&gt; After a goalless draw in the quarter-final clash against [[Cameroon national football team|Cameroon]], he missed in the penalty shootout as Senegal were eliminated.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2017/jan/28/cameroon-senegal-sadio-mane-burkina-faso-tunisia-africa-cup-of-nations|title=Cameroon through to semi-finals after Senegal’s Sadio Mané misses penalty|website=Guardian|date=28 January 2017}}&lt;/ref&gt;
+
+In May 2018, he was named in Senegal's 23-man squad for the [[2018 FIFA World Cup]] in Russia.&lt;ref&gt;{{cite web|title=Revealed: Every World Cup 2018 squad - 23-man &amp; preliminary lists &amp; when will they be announced?|url=http://www.goal.com/en-gb/amp/news/revealed-every-world-cup-2018-squad-23-man-preliminary-lists/oa0atsduflsv1nsf6oqk576rb|website=Goal|accessdate=18 May 2018}}&lt;/ref&gt; He scored the opening goal in a 2–2 draw against [[Japan national football team|Japan]] in the group stage.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/44439190|title=World Cup 2018: Japan come back twice against Senegal to draw 2-2|date=24 June 2018|work=BBC Sport|access-date=25 June 2018|language=en-GB}}&lt;/ref&gt;
+
+==Personal life==
+Mané is a practising [[Muslim]] and often makes [[Dua|du'a]] before the start of each match.&lt;ref&gt;{{cite news |title=Sadio Mane: The little man with a big heart who has fuelled Liverpool's title challenge |url=http://www.liverpoolecho.co.uk/sport/football/football-news/sadio-mane-little-man-big-12348124 |first=James|last=Pearce |work=Liverpool Echo |date=20 December 2016 |accessdate=14 January 2018}}&lt;/ref&gt; He pursued a career in football despite his father forbidding him from playing the sport as a child.&lt;ref&gt;{{cite web|title=VIDEO: Sadio Mané révèle que son père lui interdisait de jouer au foot|trans-title=Sadio Mané reveals that his father forbade him from playing football |url=http://rmcsport.bfmtv.com/football/video-sadio-mane-revele-que-son-pere-lui-interdisait-de-jouer-au-foot-1318447.html|publisher= RMC Sport News|accessdate=30 April 2018|date=3 December 2017|language=French}}&lt;/ref&gt; He currently resides in [[Allerton, Liverpool|Allerton]] and has been burgled twice, once in November 2017 and again in February 2019.&lt;ref&gt;{{cite web |title=Burglars target homes of Liverpool's Mane and Lovren |url=https://www.bbc.co.uk/news/uk-england-merseyside-41848346 |accessdate=20 February 2019 |publisher=BBC News |date=2 November 2017}}&lt;/ref&gt;&lt;ref&gt; {{cite web |title=Sadio Mane: Liverpool forward's house burgled during Champions League match |url=https://www.bbc.co.uk/sport/47309681 |accessdate=20 February 2019 |publisher=BBC Sport |date=20 February 2019}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 27 February 2019}}&lt;ref name=sw&gt;{{Soccerway|sadio-mane/201602|accessdate=25 August 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=FIXTURES / RESULTS 2012–13|url=http://www.ligue1.com/coupeLigue/calendrier_resultat#sai=81&amp;jour=56|website=www.ligue1.com|publisher=[[Ligue 1]]|accessdate=2 September 2014}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup{{efn|Appearances in [[Austrian Cup]] and [[FA Cup]]}}
+!colspan=2|League Cup{{efn|Appearances in [[Coupe de la Ligue]] and [[EFL Cup]]}}
+!colspan=2|Europe
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[FC Metz|Metz]]
+|[[2011–12 Ligue 2|2011–12]]
+|[[Ligue 2]]
+|19||1||0||0||0||0||colspan="2"|—||19||1
+|-
+|[[2012–13 Championnat National|2012–13]]
+|[[Championnat National]]
+|3||1||0||0||1||0||colspan="2"|—||4||1
+|-
+!colspan="2"|Total
+!22!!2!!0!!0!!1!!0!!0!!0!!23!!2
+|-
+|rowspan=4|[[FC Red Bull Salzburg|Red Bull Salzburg]]
+|[[2012–13 Austrian Football Bundesliga|2012–13]]
+|[[Austrian Football Bundesliga|Austrian Bundesliga]]
+|26||16||3||3||colspan="2"|—||colspan="2"|—||29||19
+|-
+|[[2013–14 Austrian Football Bundesliga|2013–14]]
+|Austrian Bundesliga
+|33||13||4||5||colspan="2"|—||13{{efn|Two appearances in [[UEFA Champions League]], eleven appearances and five goals in [[UEFA Europa League]]}}||5||50||23
+|-
+|[[2014–15 Austrian Football Bundesliga|2014–15]]
+|Austrian Bundesliga
+|4||2||1||1||colspan="2"|—||3{{efn|name=UCL|Appearances in UEFA Champions League}}||0||8||3
+|-
+!colspan="2"|Total
+!63!!31!!8!!9!!0!!0!!16!!5!!87!!45
+|-
+|rowspan=3|[[Southampton F.C.|Southampton]]
+|[[2014–15 Southampton F.C. season|2014–15]]&lt;ref&gt;{{soccerbase season|67510|2014|accessdate=5 February 2019}}&lt;/ref&gt;
+|[[Premier League]]
+|30||10||0||0||2||0||colspan="2"|—||32||10
+|-
+|[[2015–16 Southampton F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|67510|2015|accessdate=5 February 2019}}&lt;/ref&gt;
+|Premier League
+|37||11||1||0||2||3||3{{efn|name=UEL|Appearances in UEFA Europa League}}||1||43||15
+|-
+!colspan="2"|Total
+!67!!21!!1!!0!!4!!3!!3!!1!!75!!25
+|-
+|rowspan=4|[[Liverpool F.C.|Liverpool]]
+|[[2016–17 Liverpool F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|67510|2016|accessdate=5 February 2019}}&lt;/ref&gt;
+|Premier League
+|27||13||0||0||2||0||colspan="2"|—||29||13
+|-
+|[[2017–18 Liverpool F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|67510|2017|accessdate=5 February 2019}}&lt;/ref&gt;
+|Premier League
+|29||10||2||0||0||0||13{{efn|name=UCL}}||10||44||20
+|-
+|[[2018–19 Liverpool F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|67510|2018|accessdate=5 February 2019}}&lt;/ref&gt;
+|Premier League
+|26||14||0||0||1||0||7{{efn|name=UCL}}||1||34||15
+|-
+!colspan="2"|Total
+!82!!37!!2!!0!!3!!0!!20!!11!!107!!48
+|-
+!colspan="3"|Career total
+!233!!91!!10!!9!!8!!3!!39!!17!!291!!120
+|}
+
+{{notelist}}
+
+===International===
+{{updated|matches played 13 October 2018}}&lt;ref name="NFT Profile"&gt;{{NFT player|id=47674|accessdate=20 January 2014}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=6|[[Senegal national football team|Senegal]]
+|-
+!Year!!Apps!!Goals
+|-
+|2012||6||2
+|-
+|2013||8||1
+|-
+|2014||9||3
+|-
+|2015||9||3
+|-
+|2016||7||1
+|-
+|2017||10||4
+|-
+|2018||9||1
+|-
+!Total||58||15
+|}
+
+====International goals====
+:''As of match played 24 June 2018. Senegal score listed first, score column indicates score after each Mané goal (includes one unofficial goal).''&lt;ref name=SW&gt;{{Soccerway|sadio-mane/201602}}&lt;/ref&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|1
+|2 June 2012||[[Stade Léopold Sédar Senghor]], [[Dakar]], Senegal||align=center|2||{{fb|LBR}}||align=center|3–1||align=center|3–1||[[2014 FIFA World Cup qualification – CAF Second Round|2014 FIFA World Cup qualification]]
+|-
+!scope=row|2
+|14 November 2012||[[Stade Général Seyni Kountché]], [[Niamey]], Niger||align=center|6||{{fb|NIG}}||align=center|1–1||align=center|1–1||[[Exhibition game#Association football|Friendly]]
+|-
+!scope=row|3
+|7 September 2013||[[Stade de Marrakech]], [[Marrakesh]], Morocco||align=center|12||{{fb|UGA}}||align=center|1–0||align=center|1–0||2014 FIFA World Cup qualification
+|-
+!scope=row|4
+|5 March 2014||[[Stade Municipal Saint-Leu-la-Forêt]], [[Saint-Leu-la-Forêt]], France||align=center|15||{{fb|MLI}}||align=center|1–0||align=center|1–1||Friendly
+|-
+!scope=row|5
+|5 September 2014||Stade Léopold Sédar Senghor, Dakar, Senegal||align=center|18||{{fb|EGY}}||align=center|2–0||align=center|2–0||rowspan=2|[[2015 Africa Cup of Nations qualification Group G|2015 Africa Cup of Nations qualification]]
+|-
+!scope=row|6
+|10 September 2014||[[Botswana National Stadium]], [[Gaborone]], Botswana||align=center|19||{{fb|BOT}}||align=center|1–0||align=center|2–0
+|-
+!scope=row|7
+|13 June 2015||Stade Léopold Sédar Senghor, Dakar, Senegal||align=center|27||{{fb|BFA}}||align=center|3–1||align=center|3–1||rowspan=2|[[2017 Africa Cup of Nations qualification Group K|2017 Africa Cup of Nations qualification]]
+|-
+!scope=row|8
+|5 September 2015||[[Sam Nujoma Stadium]], [[Windhoek]], Namibia||align=center|28||{{fb|NAM}}||align=center|2–0||align=center|2–0
+|-
+!scope=row|9
+|13 November 2015||[[Mahamasina Municipal Stadium]], [[Antananarivo]], Madagascar||align=center|31||{{fb|MAD}}||align=center|2–2||align=center|2–2||[[2018 FIFA World Cup qualification – CAF Second Round|2018 FIFA World Cup qualification]]
+|-
+!scope=row|10
+|4 June 2016||[[Prince Louis Rwagasore Stadium]], [[Bujumbura]], Burundi||align=center|36||{{fb|BDI}}||align=center|1–0||align=center|2–0||2017 Africa Cup of Nations qualification
+|-
+!scope=row|11
+|15 January 2017||[[Stade de Franceville]], [[Franceville]], Gabon||align=center|41||{{fb|TUN}}||align=center|1–0||align=center|2–0||rowspan=2|[[2017 Africa Cup of Nations Group B|2017 Africa Cup of Nations]]
+|-
+!scope=row|12
+|19 January 2017||Stade de Franceville, Franceville, Gabon||align=center|42||{{fb|ZIM}}||align=center|1–0||align=center|2–0
+|-
+!scope=row|13
+|27 March 2017||[[Stade Sébastien Charléty]], [[Paris]], France||align=center|45||{{fb|CIV}}||align=center|1–0||align=center|1–1||Friendly
+|-
+!scope=row|14
+|5 September 2017||[[Stade du 4 Août]], [[Ouagadougou]], Burkina Faso||align=center|47||{{fb|BFA}}||align=center|2–2||align=center|2–2||[[2018 FIFA World Cup qualification – CAF Third Round|2018 FIFA World Cup qualification]]
+|-
+!scope=row|15
+|24 June 2018||[[Central Stadium (Yekaterinburg)|Central Stadium]], [[Yekaterinburg]], Russia||align=center|54||{{fb|JPN}}||align=center|1–0||align=center|2–2||[[2018 FIFA World Cup Group H|2018 FIFA World Cup]]
+|}
+
+==Honours==
+'''Red Bull Salzburg'''&lt;ref name=sw /&gt;
+*[[Austrian Football Bundesliga]]: [[2013–14 Austrian Football Bundesliga|2013–14]]
+*[[Austrian Cup]]: [[2013–14 Austrian Cup|2013–14]]
+
+'''Liverpool'''
+*[[UEFA Champions League]] runner-up: [[2017–18 UEFA Champions League|2017–18]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44258022 |title=Real Madrid 3–1 Liverpool |first=Phil |last=McNulty |publisher=BBC Sport |date=26 May 2018 |accessdate=27 May 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*[[CAF Team of the Year]]: 2015, 2016,&lt;ref&gt;{{cite web | url=http://www.cafonline.com/en-US/NewsCenter/News/NewsDetails?id=JjXA1yebDNx8I52tgKCOlg%3d%3d | title=CAF – CAF Awards – Previous Editions – 2016 | publisher=CAFOnline | accessdate=7 January 2017}}&lt;/ref&gt; 2018&lt;ref&gt;{{cite news|title=Salah and Mane Picked in First Africa Best 11 |url=https://fifpro.org/news/salah-mahrez-and-mane-in-first-africa-best-11/en/|publisher=FIFPro |date=8 January 2019|accessdate=8 January 2019}}&lt;/ref&gt;
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Premier League 8|2016–17 Premier League]]&lt;ref name=PFA1617/&gt;
+*[[Premier League Player of the Month]]: [[2017–18 Premier League#Monthly awards|August 2017]]&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/6519/Sadio-Mané/overview |title=Sadio Mané: Overview |publisher=Premier League |accessdate=29 September 2018}}&lt;/ref&gt;
+*[[Liverpool F.C.|Liverpool]] Players' Player of the Year: [[2016–17 Liverpool F.C. season|2016–17]]&lt;ref&gt;{{citeweb|url= http://www.skysports.com/football/news/11669/10870841/liverpools-sadio-mane-scoops-two-player-of-the-year-awards|title=Liverpool's Sadio Mane scoops two Player of the Year awards|date=9 May 2017|work=Sky Sports|accessdate=18 May 2017}}&lt;/ref&gt;
+*[[Liverpool F.C. Player of the Season|Liverpool Player of the Year]]: 2016–17&lt;ref&gt;{{citeweb|url= http://www.liverpoolecho.co.uk/sport/football/football-news/sadio-mane-double-2017-liverpool-13011798|title=Sadio Mane does the double at 2017 Liverpool Players' Awards|date=9 May 2017|work=Liverpool Echo|accessdate=18 May 2017}}&lt;/ref&gt;
+*[[FIFPro World XI|FIFA FIFPro World XI]] 4th team: 2018&lt;ref&gt;{{cite web |url=https://www.fifpro.org/news/world-11-the-reserve-teams-for-2017-18/en/|title=World 11: The Reserve Team for 2017-18|publisher=FIFPro.org|date=24 September 2018|accessdate=25 September 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*{{Soccerbase}}
+*{{Soccerway|sadio-mane/201602}}
+*{{FIFA|353790}}
+*[http://www.foot-national.com/19220-joueur-football-Mane-Sadio.html Sadio Mané profile at FootNational]
+*[http://www.liverpoolfc.com/team/first-team/player/sadio-mane Liverpool FC profile]
+
+{{Liverpool F.C. squad}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2015 CAF Team of the Year}}
+{{2016–17 Premier League PFA Team of the Year}}
+{{Liverpool F.C. Player of the Season}}
+}}
+{{Navboxes
+| title = Senegal squads
+| bg = green
+| fg = yellow
+| list1 = 
+{{Senegal squad 2012 Summer Olympics}}
+{{Senegal squad 2015 Africa Cup of Nations}}
+{{Senegal squad 2017 Africa Cup of Nations}}
+{{Senegal squad 2018 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Mane, Sadio}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:Senegalese footballers]]
+[[Category:Association football wingers]]
+[[Category:FC Metz players]]
+[[Category:FC Red Bull Salzburg players]]
+[[Category:Southampton F.C. players]]
+[[Category:Liverpool F.C. players]]
+[[Category:Ligue 2 players]]
+[[Category:Championnat National players]]
+[[Category:Austrian Football Bundesliga players]]
+[[Category:Premier League players]]
+[[Category:Olympic footballers of Senegal]]
+[[Category:Footballers at the 2012 Summer Olympics]]
+[[Category:Senegal international footballers]]
+[[Category:Senegalese Muslims]]
+[[Category:Expatriate footballers in France]]
+[[Category:Expatriate footballers in Austria]]
+[[Category:Expatriate footballers in England]]
+[[Category:Senegalese expatriate footballers]]
+[[Category:Senegalese expatriate sportspeople in France]]
+[[Category:Senegalese expatriate sportspeople in Austria]]
+[[Category:Senegalese expatriate sportspeople in England]]
+[[Category:2015 Africa Cup of Nations players]]
+[[Category:2017 Africa Cup of Nations players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:People from Sédhiou Region]]
+[[Category:Génération Foot players]]</text>
+      <sha1>72f4fclyexiy9lv9pyb2kqzab2n4bf9</sha1>
+    </revision>
+  </page>
+</mediawiki>

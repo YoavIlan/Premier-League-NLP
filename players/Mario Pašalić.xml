@@ -1,0 +1,282 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mario Pašalić</title>
+    <ns>0</ns>
+    <id>39196689</id>
+    <revision>
+      <id>885423299</id>
+      <parentid>885201827</parentid>
+      <timestamp>2019-02-27T23:09:28Z</timestamp>
+      <contributor>
+        <username>ReaperSox</username>
+        <id>30842826</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20150">{{Infobox football biography
+| name = Mario Pašalić
+| image = Mario Pašalić 2017.jpg
+| caption = Pašalić with Spartak in 2017
+| fullname = Mario Pašalić
+| birth_date = {{birth date and age|1995|2|9|df=y}}
+| birth_place = [[Mainz]], [[Rhineland-Palatinate]], Germany
+| height = {{height|m=1.89}}&lt;ref&gt;http://www.spartak.com/team/persons/mario_pashalich&lt;/ref&gt;
+| position = [[Midfielder#Central midfielder|Central Midfielder]]
+| currentclub = [[Atalanta B.C.|Atalanta]]&lt;br /&gt;(on loan from [[Chelsea F.C.|Chelsea]])
+| clubnumber = 88
+| youthyears1 = 2003–2005
+| youthclubs1 = GOŠK Kaštel Gomilica
+| youthyears2 = 2006–2013
+| youthclubs2 = [[HNK Hajduk Split|Hajduk Split]]
+| years1 = 2013–2014
+| clubs1 = [[HNK Hajduk Split|Hajduk Split]]
+| caps1 = 32
+| goals1 = 11
+| years2 = 2014–
+| clubs2 = [[Chelsea F.C.|Chelsea]]
+| caps2 = 0
+| goals2 = 0
+| years3 = 2014–2015
+| clubs3 = → [[Elche CF|Elche]] (loan)
+| caps3 = 31
+| goals3 = 3
+| years4 = 2015–2016
+| clubs4 = → [[AS Monaco FC|Monaco]] (loan)
+| caps4 = 16
+| goals4 = 3
+| years5 = 2016–2017
+| clubs5 = → [[A.C. Milan|Milan]] (loan)
+| caps5 = 24
+| goals5 = 5
+| years6 = 2017–2018
+| clubs6 = → [[FC Spartak Moscow|Spartak Moscow]] (loan)
+| caps6 = 21
+| goals6 = 4
+| years7 = 2018–
+| clubs7 = → [[Atalanta B.C.|Atalanta]] (loan)
+| caps7 = 21
+| goals7 = 1
+| nationalyears1 = 2009
+| nationalteam1 = Croatia U14
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2011
+| nationalteam2 = Croatia U16
+| nationalcaps2 = 2
+| nationalgoals2 = 0
+| nationalyears3 = 2011
+| nationalteam3 = [[Croatia national under-17 football team|Croatia U17]]
+| nationalcaps3 = 10
+| nationalgoals3 = 2
+| nationalyears4 = 2013
+| nationalteam4 = [[Croatia national under-19 football team|Croatia U19]]
+| nationalcaps4 = 4
+| nationalgoals4 = 2
+| nationalyears5 = 2014–2016
+| nationalteam5 = [[Croatia national under-21 football team|Croatia U21]]
+| nationalcaps5 = 12
+| nationalgoals5 = 7
+| nationalyears6 = 2014–
+| nationalteam6 = [[Croatia national football team|Croatia]]
+| nationalcaps6 = 8
+| nationalgoals6 = 0
+| pcupdate = 26 February 2019
+| ntupdate = {{date|2018-10-16}}
+}}
+
+'''Mario Pašalić''' ({{IPA-sh|mâːrio paʃǎliːtɕ|hr}};&lt;ref&gt;{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&amp;id=e1xhXRU%3D|title=Màrija|quote=Mȃrio|website=Hrvatski jezični portal|accessdate=2018-03-17|language=sh}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&amp;id=eV9nXhA%3D&amp;keyword=pa%C5%A1a|title=pȁša&lt;sup&gt;2&lt;/sup&gt;|quote=Pašàlīć|website=Hrvatski jezični portal|accessdate=2018-03-17|language=sh}}&lt;/ref&gt; born 9 February 1995) is a Croatian [[Association football|footballer]] who plays as a [[Midfielder#Central midfielder|central midfielder]] for [[Atalanta B.C.|Atalanta]] on loan from [[Chelsea F.C.|Chelsea]] and the [[Croatia national football team|Croatian national team]].
+
+He began his career at [[HNK Hajduk Split|Hajduk Split]] before moving to [[Chelsea F.C.|Chelsea]] for a reported £3&amp;nbsp;million in 2014. Chelsea loaned him to [[Elche CF|Elche]], [[AS Monaco FC|Monaco]], [[A.C. Milan|Milan]], [[FC Spartak Moscow|Spartak Moscow]] and then [[Atalanta B.C.|Atalanta]].
+
+Pašalić made his senior international debut for [[Croatia national football team|Croatia]] in 2014.
+
+==Club career==
+
+===Hajduk Split===
+Born in [[Mainz]], Germany, Pašalić moved to Croatia at early age and started playing football at county club NK GOŠK Kaštel Gomilica before joining the [[HNK Hajduk Split|Hajduk Split]]'s youth academy in 2006. A youth international, he first gained wider recognition in the 2011–12 season, scoring 17 goals for the under-17s, despite being a midfielder, and scoring the winner for the under-19s in a 3–2 success against [[NK Hrvatski Dragovoljac|Hrvatski Dragovoljac]], which secured the club's championship trophy.
+
+During the pre-season, however, Pašalić was diagnosed with a [[staphylococcus]] infection, being sidelined for the first half of the [[2012–13 Prva HNL|2012–13 campaign]].&lt;ref&gt;{{cite news|url=http://www.dalmacijanews.com/Hajduk/View/tabid/88/ID/108416/Novi-pocetak-Junak-titule-Hajdukovih-juniora-Mario-Pasalic-vraca-se-nakon-teske-bolesti.aspx|title=Hajdukovih juniora Mario Pašalić vraća se nakon teške bolesti|last=Duplančić|first=Blaž|date=5 January 2013|work=Dalmacija News|language=Croatian|accessdate=21 April 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130108105325/http://www.dalmacijanews.com/Hajduk/View/tabid/88/ID/108416/Novi-pocetak-Junak-titule-Hajdukovih-juniora-Mario-Pasalic-vraca-se-nakon-teske-bolesti.aspx|archivedate=8 January 2013|df=}}&lt;/ref&gt; He played his first match as a professional on 14 April 2013 [[Substitute (association football)|replacing]] [[Ivan Vuković]] in the 90th minute of a 2–1 home success against [[HNK Cibalia|Cibalia]].&lt;ref&gt;{{cite web|url=http://www.sportcom.hr/sport/nogomet/domaci-nogomet/maxtv-prva-liga/maxtv-prva-liga-hajduk-pobijedio-pogotkom-iz-zale%C4%91a-lokomotiva-postignula-pet-pogodaka-u-nastavku.html|title=Hajduk pobijedio pogotkom iz zaleđa, petarda lokosa|language=Croatian|publisher=SportCom|date=14 April 2013|accessdate=28 July 2014}}&lt;/ref&gt;
+
+In summer 2013, Pašalić signed a four-year professional contract with Hajduk and went on to make 36 appearances in all competitions during the [[2013–14 Prva HNL|2013–14 season]], scoring 11 goals and assisting a further five. On 14 September 2013, he scored two goals in a [[Eternal derby (Croatia)|derby]] 2–0 victory against [[GNK Dinamo Zagreb|Dinamo Zagreb]],&lt;ref&gt;{{cite web|url=http://www.hrsport.net/Vijest.aspx?ID=466158|title=Video: Hajduk pobijedio Dinamo na Poljudu, Mario Pašalić junak derbija|language=Croatian|publisher=HRSport|date=14 September 2013|accessdate=28 July 2014}}&lt;/ref&gt; and repeated the same fate on 8 February the following year, in a 2–1 win at city rivals [[RNK Split]].&lt;ref&gt;{{cite web|url=http://www.hrsport.net/Vijest.aspx?ID=470477|title=Video: Mario Pašalić s dva pogotka u samoj završnici donio preokret Hajduku protiv Splita|language=Croatian|publisher=HRSport|date=8 February 2014|accessdate=28 July 2014}}&lt;/ref&gt;
+
+===Chelsea===
+On 9 July 2014, [[Chelsea F.C.|Chelsea]] announced the signing of Pašalić for a reported fee of [[Pound sterling|£]]3&amp;nbsp;million.&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/sport/football/article-2606423/Mario-Pasalic-join-Chelsea-Hajduk-Split-3m-deal-forward-expected-sent-loan-Jose-Mourinho.html|title=Mario Pasalic to join Chelsea from Hajduk Split in £3m deal but forward expected to be sent out on loan by Jose Mourinho|publisher=[[Daily Mail]]|date=16 April 2014|accessdate=23 July 2014}}&lt;/ref&gt; Upon signing, Pašalić said, "I am very happy because I am now a Chelsea player."&lt;ref&gt;{{cite news|url=http://www.chelseafc.com/news/latest-news/2014/07/pasalic-signs.html|title=Pasalic signs|date=9 July 2014|work=Chelsea Official site|accessdate=9 July 2014}}&lt;/ref&gt;
+
+====Loan to Elche====
+On 22 July 2014, Pašalić joined [[Elche CF|Elche]] on a season-long loan deal.&lt;ref&gt;{{cite news|url=http://www.chelseafc.com/news/latest-news/2014/07/spanish-loan-for-pasalic.html|title=Spanish loan for Pasalic|date=22 July 2014|work=Chelsea Official site|accessdate=23 July 2014}}&lt;/ref&gt; He made his [[La Liga]] debut on 25 August, starting and being [[Penalty card#Yellow card|booked]] in a 0–3 away loss against [[FC Barcelona|Barcelona]].&lt;ref&gt;{{cite news|url=http://www.espnfc.com/spanish-primera-division/match/402623/barcelona-elche/report|title=Enrique off to a winning start|publisher=[[ESPN FC]]|date=24 August 2014|accessdate=30 April 2015}}&lt;/ref&gt; On 12 April 2015, Pašalić scored his first goal in [[Spanish football league system|the top flight of Spanish football]], netting the last in a 2–0 win at [[Córdoba CF|Córdoba]].&lt;ref&gt;{{cite news|url=http://www.espnfc.com/spanish-primera-division/match/402324/cordoba-elche/report|title=Cordoba 0–2 Elche|publisher=ESPN FC|date=12 April 2015|accessdate=30 April 2015}}&lt;/ref&gt; On 29 April 2015, Pašalić scored in a 4–0 victory over [[Deportivo de La Coruña]].&lt;ref&gt;{{cite news|url=https://int.soccerway.com/matches/2015/04/29/spain/primera-division/elche-club-de-futbol/real-club-deportivo-de-la-coruna/1821995/|title=Elche 4–0 Deportivo de La Coruña|publisher=Soccerway|date=29 April 2015|accessdate=6 July 2015}}&lt;/ref&gt; On 3 May 2015, he scored a late goal which turned out to be the winner in the match against [[Málaga CF|Málaga]] in a 2–1 victory.&lt;ref&gt;{{cite news|url=https://int.soccerway.com/matches/2015/05/03/spain/primera-division/malaga-club-de-futbol/elche-club-de-futbol/1822015/|title=Málaga 1–2 Elche|publisher=Soccerway|date=3 May 2015|accessdate=6 July 2015}}&lt;/ref&gt;
+
+====Loan to Monaco====
+On 3 July 2015, it was announced that Pašalić will spend the [[2015–16 AS Monaco FC season|2015–16 season]] on loan at [[AS Monaco FC|Monaco]].&lt;ref&gt;{{cite web|title=Pašalić rejoint l’AS Monaco|url=http://www.asmonaco.com/fr/article/pasalic-rejoint-l-as-monaco-68320.html|publisher=AS Monaco|accessdate=3 July 2015}}&lt;/ref&gt; Striker [[Radamel Falcao]] went on loan to Chelsea as part of the loan agreement for Pašalić to join the Monégasque side.&lt;ref&gt;{{cite news|title=Radamel Falcao: Chelsea sign Monaco striker on loan. So far he has featured in to pre-season games for Monaco F.C.|url=https://www.bbc.co.uk/sport/0/football/33384795 |publisher=BBC Sport (British Broadcasting Corporation)|date=3 July 2015|accessdate=3 July 2015}}&lt;/ref&gt; During an interview about his loan move to Monaco, Pašalić stated that staying at Chelsea this season was never an option and that he "needs to improve, grow and then hope to get a chance with Chelsea".&lt;ref&gt;{{cite news|title=Pasalic: Monaco move can boost my Chelsea chances|url=http://www.goal.com/en-us/news/69/transfer-zone/2015/07/03/13276822/pasalic-monaco-move-can-boost-my-chelsea-chances|publisher=Goal|date=3 July 2015|accessdate=6 July 2015}}&lt;/ref&gt;
+
+On 28 July, Pašalić made his Monaco debut in a 3–1 victory against Swiss side [[BSC Young Boys|Young Boys]] in the [[UEFA Champions League]] third qualifying round, in which he scored the final goal to make it 3–1.&lt;ref&gt;{{Cite news|title=UEFA Champions League 2016 - Young Boys-Monaco — UEFA.com|url=http://www.uefa.com/uefachampionsleague/season=2016/matches/round=2000632/match=2015626/index.html|publisher=UEFA|date=28 July 2015}}&lt;/ref&gt; On 8 August, Pašalić made his [[Ligue 1]] debut after playing 25 minutes in a 2–1 win over [[OGC Nice|Nice]].&lt;ref&gt;{{Cite web|title=Chelsea here Chelsea there|url=https://www.chelseafc.com/news/latest-news/2015/08/chelsea-here-chelsea-there0.html|work=Chelsea Official site|accessdate=10 August 2015}}&lt;/ref&gt; On 19 August, Pašalić scored against [[Valencia CF|Valencia]], but it was not enough to stop Monaco from losing 3–1 in the first leg of the Champions League play-off.&lt;ref&gt;{{Cite news|title=Valencia 3–1 Monaco: Rodrigo &amp; Co. pick apart wasteful visitors|url=http://www.goal.com/en/match/valencia-vs-monaco/2134112/reportl|publisher=Goal|date=19 August 2015}}&lt;/ref&gt; In the [[2015–16 Coupe de France]], Pašalić scored twice in two appearances.&lt;ref&gt;{{Cite web|title = Evian TG vs. Monaco – 20 January 2016 – Soccerway|url = https://int.soccerway.com/matches/2016/01/20/france/coupe-de-france/football-croix-de-savoie-74/association-sportive-monaco-fc/2184009/|website = int.soccerway.com|access-date = 2016-01-20}}&lt;/ref&gt;
+
+====Loan to Milan====
+On 27 August 2016, Pašalić joined [[Serie A]] side [[A.C. Milan|Milan]] on a season-long loan.&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news/latest-news/2016/08/pasalic-in-milan-switch.html|title=Pasalic in Milan switch |publisher=Chelsea F.C. |date=27 August 2016}}&lt;/ref&gt; A month after the loan was completed, there were reports that stated Milan was looking to cut the loan short and return Pašalić in January.&lt;ref&gt;{{cite web|url=http://www.ibtimes.co.uk/ac-milan-planning-cut-short-mario-pasalics-season-long-loan-deal-1583088 |title=AC Milan planning to cut short Mario Pasalic's season-long loan deal |date=25 September 2016 |publisher=IBT}}&lt;/ref&gt; He made his debut off the substitutes' bench on 30 October 2016 in a 1–0 win against [[Delfino Pescara 1936|Pescara]].&lt;ref&gt;http://www.milannews.it/i-tabellini/milan-pescara-1-0-il-tabellino-del-match-234968&lt;/ref&gt; In the following game, Pašalić made his first start in a 2–1 win over [[U.S. Città di Palermo|Palermo]].&lt;ref&gt;{{cite web|url=http://www.espnfc.us/lineups?gameId=461180 |title=Palermo vs Milan |date=6 November 2016 |publisher=ESPN}}&lt;/ref&gt; Pašalić scored his first goal for Milan in a 2-1 home victory against [[F.C. Crotone|Crotone]].&lt;ref&gt;{{cite web|url=http://www.legaseriea.it/it/serie-a-tim/match-report/2016-17/UNICO/UNI/15/MILCRO|title=Stagione 2016–17 &lt;nowiki&gt;|&lt;/nowiki&gt; 15^ Giornata|language=Italian|date=4 December 2016|accessdate=4 December 2016}}&lt;/ref&gt;
+
+Pašalić scored the winning penalty in the [[2016 Supercoppa Italiana]] against [[Juventus F.C.|Juventus]], bringing Milan its first major trophy since 2011 after the regular match finished in a 1–1 draw (4–5 penalties). On 8 February 2017 Pašalić scored an 89th-minute winner against Bologna in Milan's 1–0 away win. On 2 April Pašalić scored the equalizer in Milan's 1–1 away draw with Pescara.
+
+==== Loan to Spartak Moscow ====
+On 2 August 2017, Pašalić signed a new four-year deal with Chelsea and joined [[FC Spartak Moscow|Spartak Moscow]] on loan for the 2017/18 season.&lt;ref&gt;{{Cite web|url=http://www.chelseafc.com/news/latest-news/2017/08/pasalic-in-russian-loan-move.html|title=Pasalic in Russian loan move|website=www.chelseafc.com|language=en-gb|access-date=2017-08-02}}&lt;/ref&gt;
+
+====Loan to Atalanta====
+On 25 July 2018, Pašalić agreed to join [[Italy|Italian]] side [[Atalanta B.C.|Atalanta]] on a season-long loan with an option to purchase at the end of the spell.&lt;ref&gt;{{Cite news |title=Pasalic heads to Italy |url=https://www.chelseafc.com/en/news/2018/7/25/pasalic-heads-to-italy |publisher=Chelsea Official Site |date=25 July 2018 |accessdate=25 July 2018}}&lt;/ref&gt;
+
+==International career==
+On 14 May 2014, Pašalić was on [[Croatia national football team|Croatia]] manager [[Niko Kovač]]'s 30-man list that was named to participate in [[2014 FIFA World Cup]].&lt;ref&gt;{{cite news|last1=Jones|first1=Simon|title=Chelsea make £3m move for Croatia's teenage sensation Pasalic|url=http://www.dailymail.co.uk/sport/football/article-2548647/Chelsea-talks-teenage-star-Mario-Pasalic-make-Croatias-squad-Brazil.html|work=Daily Mail}}&lt;/ref&gt; He was not, however, selected for the final squad.&lt;ref&gt;{{cite news|title=Pasalic loan move to Monaco|url=http://www.chelseafc.com/news/latest-news/2015/07/pasalic-loan-to-monaco.html|work=Chelsea Official site}}&lt;/ref&gt; He made his debut for Croatia on 4 September 2014 when he replaced [[Mario Mandžukić]] in a friendly home victory over [[Cyprus national football team|Cyprus]].&lt;ref&gt;{{cite news|title=Mario Pašalić Profile|url=http://www.chelseafc.com/teams/on-loan-players/mario-pasalic.html|work=Chelsea Official site}}&lt;/ref&gt;
+
+In May 2018 he was named in Croatia’s preliminary 32 man [[Croatia national football team|squad]] for the [[2018 World Cup]] in [[Russia]]&lt;ref&gt;http://www.goal.com/en-gb/amp/news/revealed-every-world-cup-2018-squad-23-man-preliminary-lists/oa0atsduflsv1nsf6oqk576rb&lt;/ref&gt; but did not make the final 23.&lt;ref&gt;{{cite news |url=http://hns-cff.hr/en/news/18052/head-coach-dalic-presents-24-man-croatia-squad/ |title=Head coach Dalić presents 24-man Croatia squad |website=hns-cff.hr |publisher=Croatian Football Federation |date=21 May 2018 |access-date=21 May 2018}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 27 February 2019.}}&lt;ref&gt;{{cite web|url=http://www.worldfootball.net/player_summary/mario-pasalic/2/|title=Mario Pašalić &gt; Club Matches|publisher=worldfootball.net|accessdate=4 May 2015}}&lt;/ref&gt;&lt;ref&gt;{{Soccerway|mario-paali/215485}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" |Club
+! rowspan="2" | Season
+! colspan="3" |League
+! colspan=2 | National Cup
+! colspan=2 | Europe
+! colspan=2 | Other
+! colspan=2 | Total
+|-
+!Division
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+| rowspan="3" |[[HNK Hajduk Split|Hajduk Split]]
+|[[2012–13 HNK Hajduk Split season|2012–13]]|| rowspan="2" |[[Prva HNL]]||2||0||0||0||0||0|| colspan="2" |—||2||0
+|-
+|[[2013–14 HNK Hajduk Split season|2013–14]]||30||11||3||0||3&lt;ref group=lower-alpha name=UEL&gt;Appearance(s) in [[UEFA Europa League|Europa League]]&lt;/ref&gt;||0||1&lt;ref group=lower-alpha name=HrSup&gt;Appearance in [[Croatian Super Cup]]&lt;/ref&gt;||0||37||11
+|-
+! colspan="2" |Total
+!32||11||3||0||3||0||1||0||39||11
+|-
+| rowspan="1" |[[Elche CF|Elche (loan)]]
+|[[2014–15 Elche CF season|2014–15]]|| rowspan="1" |[[La Liga]]||31||3||4||0|| colspan="2" |—|| colspan="2" |—||35||3
+|-
+| rowspan="1" |[[AS Monaco FC|Monaco (loan)]]
+|[[2015–16 AS Monaco FC season|2015–16]]|| rowspan="1" |[[Ligue 1]]||16||3||3||2||9&lt;ref group="lower-alpha" name="UCL"&gt;Appearance(s) in [[UEFA Champions League|Champions League]]&lt;/ref&gt;&lt;ref group="lower-alpha" name="UEL" /&gt;||2||1&lt;ref group="lower-alpha" name="CDL"&gt;Appearance(s) in [[Coupe de la Ligue]]&lt;/ref&gt;||0||29||7
+|-
+| rowspan="1" |[[A.C. Milan|Milan (loan)]]
+|[[2016–17 A.C. Milan season|2016–17]]|| rowspan="1" |[[Serie A]]||23||5||2||0|| colspan="2" |—||1&lt;ref group="lower-alpha" name="SC"&gt;Appearance in [[Supercoppa Italiana]]&lt;/ref&gt;||0||26||5
+|-
+| rowspan="1" |[[FC Spartak Moscow|Spartak Moscow (loan)]]
+|[[2017–18 FC Spartak Moscow season|2017–18]]|| rowspan="1" |[[Russian Premier League]]||21||4||4||1||7&lt;ref group="lower-alpha" name="UCL"/&gt;&lt;ref group="lower-alpha" name="UEL" /&gt;||0|| colspan="2" |—||32||5
+|-
+| rowspan="1" |[[Atalanta B.C.|Atalanta (loan)]]
+|[[2018–19 Atalanta B.C. season|2018–19]]|| rowspan="1" |[[Serie A]]||21||1||3||2||4&lt;ref group="lower-alpha" name="UEL" /&gt;||1||colspan="2"|—||28||4
+|-
+! colspan="3" |Career total
+!144||27||19||5||23||3||3||0||189||35
+|}
+{{reflist|group=lower-alpha}}
+
+==Honours==
+
+===Club===
+;[[HNK Hajduk Split Reserves and Academy|Hajduk Split Reserves]]
+* [[Prva HNL Academy|Croatian U-19 championship]]: 2012
+
+; Milan
+* [[Supercoppa Italiana]]: [[2016 Supercoppa Italiana|2016]]
+
+; Individual
+*[[Football Oscar]]: [[Prva HNL]] Team of the Year 2014
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://hajduk.hr/prva-momcad/mario-pasalic/8 Mario Pašalić] at hajduk.hr
+* {{NFT player|pid=56828}}
+* {{CFF player|31350/mario-pasalic}}
+
+{{S-start}}
+{{S-ach|aw}}
+{{Succession box|title=[[Heart of Hajduk Award]]|before=[[Goran Jozinović]]|after = {{TBD}}|years=2014}}
+{{S-end}}
+{{Atalanta B.C. squad}}
+
+{{DEFAULTSORT:Pasalic, Mario}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Mainz]]
+[[Category:German people of Croatian descent]]
+[[Category:German footballers]]
+[[Category:Croatian footballers]]
+[[Category:Association football midfielders]]
+[[Category:Croatia youth international footballers]]
+[[Category:Croatia under-21 international footballers]]
+[[Category:Croatia international footballers]]
+[[Category:HNK Hajduk Split players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Elche CF players]]
+[[Category:AS Monaco FC players]]
+[[Category:A.C. Milan players]]
+[[Category:FC Spartak Moscow players]]
+[[Category:Atalanta B.C. players]]
+[[Category:Croatian First Football League players]]
+[[Category:La Liga players]]
+[[Category:Ligue 1 players]]
+[[Category:Serie A players]]
+[[Category:Russian Premier League players]]
+[[Category:Croatian expatriate footballers]]
+[[Category:Croatian expatriate sportspeople in the United Kingdom]]
+[[Category:Croatian expatriate sportspeople in Spain]]
+[[Category:Croatian expatriate sportspeople in Monaco]]
+[[Category:Croatian expatriate sportspeople in Russia]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Expatriate footballers in Monaco]]
+[[Category:Expatriate footballers in Russia]]
+[[Category:Footballers from Rhineland-Palatinate]]</text>
+      <sha1>p0tn3s0cii09agkabsczxfj9ttcbnvw</sha1>
+    </revision>
+  </page>
+</mediawiki>

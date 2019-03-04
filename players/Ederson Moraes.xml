@@ -1,0 +1,294 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ederson Moraes</title>
+    <ns>0</ns>
+    <id>42928625</id>
+    <revision>
+      <id>885311981</id>
+      <parentid>885311655</parentid>
+      <timestamp>2019-02-27T07:00:06Z</timestamp>
+      <contributor>
+        <username>JackintheBox</username>
+        <id>30011325</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/90.252.162.6|90.252.162.6]] ([[User talk:90.252.162.6|talk]]) to last version by Mediocre Legacy</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29602">{{Use dmy dates|date=December 2018}}
+{{Portuguese name|Santana|Moraes}}
+{{Infobox football biography
+| name           = Ederson
+| image          = Ederson (cropped).png
+| image_size     =
+| caption        = Ederson training with [[Brazil national football team|Brazil]] at the [[2018 FIFA World Cup]]
+| fullname       = Ederson Santana de Moraes&lt;ref&gt;{{cite web|title=Squads for 2017/18 Premier League confirmed|url=https://www.premierleague.com/news/465277|publisher=Premier League|date=1 September 2017|access-date=9 September 2017}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1993|8|17|df=y}}&lt;ref name="FIFA"&gt;{{cite web|url=https://tournament.fifadata.com/documents/fwc/2018/pdf/fwc_2018_squadlists.pdf|title=2018 FIFA World Cup Russia: List of players|date=10 June 2018|website=[[FIFA]]|page=4|format=PDF|access-date=11 June 2018}}&lt;/ref&gt;
+| birth_place    = [[Osasco]], Brazil
+| height         = 1.88 m&lt;ref name="FIFA"/&gt;
+| position       = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub    = [[Manchester City F.C.|Manchester City]]
+| clubnumber     = 31
+| youthyears1    = 2008–2009
+| youthclubs1    = [[São Paulo FC|São Paulo]]
+| youthyears2    = 2009–2011
+| youthclubs2    = [[S.L. Benfica|Benfica]]
+| years1         = 2011–2012
+| clubs1         = [[G.D. Ribeirão|Ribeirão]]
+| caps1          = 29
+| goals1         = 0
+| years2         = 2012–2015
+| clubs2         = [[Rio Ave F.C.|Rio Ave]]
+| caps2          = 37
+| goals2         = 0
+| years3         = 2015
+| clubs3         = [[S.L. Benfica B|Benfica B]]
+| caps3          = 4
+| goals3         = 0
+| years4         = 2015–2017
+| clubs4         = [[S.L. Benfica|Benfica]]
+| caps4          = 37
+| goals4         = 0
+| years5         = 2017–
+| clubs5         = [[Manchester City F.C.|Manchester City]]
+| caps5          = 62
+| goals5         = 0
+| nationalyears1 = 2014
+| nationalteam1  = [[Brazil national under-23 football team|Brazil U23]]
+| nationalcaps1  = 5
+| nationalgoals1 = 0
+| nationalyears2 = 2017–
+| nationalteam2  = [[Brazil national football team|Brazil]]
+| nationalcaps2  = 3
+| nationalgoals2 = 0
+| club-update    = 10:59, 7 February 2019 (UTC)
+| nationalteam-update = 20 November 2018
+}}
+'''Ederson Santana de Moraes''' (born 17 August 1993), known simply as '''Ederson''' ({{IPA-pt|ˈɛdɛɾsõ|br}}), is a Brazilian professional [[Association football|footballer]] who plays as a [[goalkeeper (association football)|goalkeeper]] for {{English football updater|ManchesC}} club [[Manchester City F.C.|Manchester City]] and the [[Brazil national football team|Brazil national team]]. He is considered the world's most expensive goalkeeper from a transfer value perspective by the [[International Centre for Sports Studies|CIES]].&lt;ref&gt;{{cite web |url=http://www.football-observatory.com/IMG/sites/b5wp/2018/239/en/ |title=Updated transfer valuations: Mbappé takes the lead |publisher=International Centre for Sports Studies (CIES) |first1=Raffaele |last1=Poli |first2=Roger |last2=Besson |first3=Loïc |last3=Ravenel |date=5 November 2018 |accessdate=5 November 2018}}&lt;/ref&gt;
+
+He started his career at [[São Paulo FC|São Paulo]] in 2008 before joining Portuguese side [[S.L. Benfica|Benfica]] one year later, where he would spend two seasons. In 2012, he transferred from [[G.D. Ribeirão|Ribeirão]] to [[Primeira Liga]] side [[Rio Ave F.C.|Rio Ave]] and became a regular starter there. He rejoined Benfica in 2015 and was assigned to the [[S.L. Benfica B|reserves]] before debuting for the first team, with whom he would win four major titles in two seasons.
+
+For the 2017–18 season, Ederson joined English club Manchester City for £35 million and became the most expensive goalkeeper of all-time in terms of the nominal value of [[pound sterling]] at the time of his transfer.&lt;ref&gt;{{cite news|date=8 June 2017|title=Ederson Moraes:Manchester City sign goalkeeper from Benfica for £35 million|trans-title=Most expensive goalkeeper in history in sterling|url=https://www.bbc.co.uk/sport/football/40080163|website=BBC Sport|access-date=8 June 2017}}&lt;/ref&gt; He went on to win the Premier League and [[EFL Cup]] in [[2017–18 Manchester City F.C. season|his first season]] in England.
+
+Ederson made his senior debut for Brazil in 2017 after previously being [[Cap (sport)|capped]] at [[Brazil national under-23 football team|under-23]] level. He was chosen in Brazil's squad for the [[2018 FIFA World Cup|2018 World Cup]].
+
+==Club career==
+===Early career / Rio Ave===
+Born in [[Osasco]], [[São Paulo (state)|São Paulo]], Ederson started his [[association football|football]] career in 2008 at local club [[São Paulo FC]] with whom he played one season, before joining [[S.L. Benfica|Benfica]] in Portugal. Here, at the age of 16, he spent two years as a [[S.L. Benfica Juniors|junior]], eventually leaving for [[Portuguese Second Division|Second Division]] side [[G.D. Ribeirão|Ribeirão]] in 2011. A year later, he joined [[Primeira Liga]] side [[Rio Ave F.C.|Rio Ave]]. In summer 2012, he officially signed a contract with Rio Ave. In May 2015, following a string of good performances and a call to the [[Brazil national under-23 football team|Brazil under-23 squad]], he signed a new contract with the club that would last until 2019.{{Citation needed|date=December 2016}}
+
+===Benfica===
+[[File:Zenit-Benf (7).jpg|alt=|thumb|318x318px|left|Ederson playing for [[S.L. Benfica|Benfica]] against [[FC Zenit Saint Petersburg|Zenit]] in 2016]]
+On 27 June 2015, Ederson joined Portuguese champions Benfica.&lt;ref&gt;{{cite web|url=https://www.dn.pt/desporto/benfica/interior/conheca-os-novos-reforcos-do-benfica-4648648.html|title=Conheça os 10 novos reforços do Benfica|language=Portuguese|trans-title=Meet the 10 new Benfica players|last=Ruela|first=João|date=27 June 2015|publisher=[[Diário de Notícias]]|access-date=28 June 2015}}&lt;/ref&gt; Then, in July, he officially signed a five-year contract with the club, in a deal worth €500,000, and set a €45 million release clause. Rio Ave would keep 50% of the upcoming keeper's economic rights. In the [[2015–16 S.L. Benfica season|2015–16 season]], Ederson started as a second choice in line for the first team, defended by compatriot and international [[Júlio César (football goalkeeper, born 1979)|Júlio César]]. Ederson first played some matches in the [[Segunda Liga]] with the [[S.L. Benfica B|reserve team]] and in the [[Taça da Liga]] with the main squad, before playing in the Primeira Liga on 5 March 2016 against [[Derby de Lisboa|local rivals]] [[Sporting CP]], replacing injured Júlio César. Benfica won the Lisbon derby 0–1 and took the first place of Primeira Liga. He would then be part of eleven more victories that would seal Benfica's 35th league title, their third in a row.&lt;ref&gt;{{Cite web|url=http://www.thefinalball.com/player_results.php?id=136885&amp;epoca_id=145&amp;ps=0|title=Ederson Moraes|website=thefinalball.com|access-date=22 December 2016}}&lt;/ref&gt; Five days later, he played the [[2016 Taça da Liga Final|Taça da Liga final]] against [[C.S. Marítimo|Marítimo]], which Benfica won 6–2. In addition, he played three matches in the [[2015–16 UEFA Champions League|Champions League campaign]], where Benfica reached the quarter-finals. In his [[2016–17 S.L. Benfica season|next season]], he and Benfica won the treble of [[2016–17 Primeira Liga|Primeira Liga]], [[2016–17 Taça de Portugal|Taça de Portugal]] and [[2016 Supertaça Cândido de Oliveira|Supertaça Cândido de Oliveira]].
+
+===Manchester City===
+[[File:Ederson Moraes (36243872090) (cropped).jpg|thumb|right|Ederson with Manchester City in 2017]]
+On 1 June 2017, Benfica announced that Ederson had joined [[Premier League]] club [[Manchester City F.C.|Manchester City]] for £35 million (€40 million).&lt;ref&gt;{{cite news|date=1 June 2017|title=Ederson transferido para o Manchester City|trans-title=Ederson transferred to Manchester City|url=http://www.slbenfica.pt/30/news/info/t8JYPAn5zkKsW8hlgu_4Dg|language=Portuguese|website=S.L. Benfica|access-date=1 June 2017}}&lt;/ref&gt; At the time, the transfer made him the [[Goalkeeper (association football)#Highest fees|second most expensive goalkeeper of all-time]] – currently fourth highest –&lt;ref&gt;{{cite news|date=8 June 2017|title=Ederson Moraes:Manchester City sign goalkeeper from Benfica for £35 million|trans-title=Most expensive goalkeeper in history in sterling, not euro|url=https://www.bbc.co.uk/sport/football/40080163|website=BBC Sport|access-date=8 June 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|date=1 June 2017|title=Segundo guardião mais caro da história|trans-title=Second most expensive goalkeeper in history|url=http://www.slbenfica.pt/30/news/info/2Kdv5qwR8EychtYuojW0Jw|language=Portuguese|website=S.L. Benfica|access-date=1 June 2017}}&lt;/ref&gt; after [[Gianluigi Buffon]] (£33 million), whose transfer fee, although the second highest ever in pounds sterling, still remained the highest of all time in euros (€52 million in 2001) until [[Alisson (footballer, born 1992)|Alisson]]'s (€75 million in 2018) and now [[Kepa Arrizabalaga|Kepa]]'s (€80 million in 2018).&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/44890499|title=Alisson: Liverpool make Brazilian world's most expensive keeper|date=19 July 2018|publisher=bbc.com}}&lt;/ref&gt; Ederson's transfer equalled [[Axel Witsel]]'s as the largest fee a club has ever paid for a Benfica player.&lt;ref&gt;{{cite news|date=1 June 2017|title=Fotos: Ederson iguala Witsel como a transferência mais cara do Benfica|trans-title=Photos: Ederson equals Witsel as Benfica's highest transfer|url=https://desporto.sapo.pt/futebol/primeira_liga/artigo/2017/06/01/ederson-iguala-witsel-na-transferencia-mais-cara-do-benfica|language=Portuguese|website=[[SAPO (company)|Sapo Desporto]]|access-date=1 June 2017}}&lt;/ref&gt;
+
+Ederson was immediately inserted as [[Pep Guardiola]]'s first choice goalkeeper, supplanting [[Claudio Bravo]]. He made his competitive debut for the club on 12 August 2017 in a 0–2 away win at [[Brighton &amp; Hove Albion F.C.|Brighton]], where he kept a clean sheet.&lt;ref&gt;{{cite news|date=12 August 2017|title=Brighton &amp; Hove Albion 0–2 Manchester City|url=https://www.bbc.co.uk/sport/football/40835422|publisher=BBC Sport|accessdate=22 August 2017}}&lt;/ref&gt; On 9 September against [[Liverpool F.C.|Liverpool]], Ederson suffered a kick to the face by [[Sadio Mané]], and was forced to leave the game after eight minutes of treatment.&lt;ref&gt;{{cite web |url=http://www.espnfc.com/manchester-city/story/3199384/manchester-city-keeper-ederson-avoids-broken-bone-but-may-miss-one-game |title=Man City keeper Ederson avoids broken bone, may miss one game |work=ESPN FC |first=Jonathan |last=Smith |date=9 September 2017}}&lt;/ref&gt; Ederson received eight stitches, and Mané was sent off by referee [[Jonathan Moss (referee)|Jon Moss]] and banned for the subsequent three matches.{{citation needed|date=December 2018}} Ederson made his next start the following week in the [[2017–18 UEFA Champions League#Group stage|Champions League]] against [[Feyenoord]], sporting a piece of protective headgear.{{citation needed|date=December 2018}}
+
+On 19 August 2018, Ederson became the first Manchester City goalkeeper in [[Premier League]] history to have recorded an assist, as his goal-kick was converted by [[Sergio Agüero]] for the opening goal in an eventual 6–1 win over [[Huddersfield Town A.F.C.|Huddersfield Town]].&lt;ref&gt;{{Cite news|url=https://www.standard.co.uk/sport/football/manchester-city-6-huddersfield-1-sergio-aguero-scores-hattrick-as-terriers-are-hit-for-six-a3915101.html|title=Aguero scores hat-trick as Man City hit Huddersfield for six|work=Evening Standard|access-date=20 August 2018|language=en-GB}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.squawka.com/en/news/ederson-makes-man-city-history-with-assist-against-huddersfield/1054269#IWl6mfS2YFRpicyy.97|title=Ederson makes Man City history with assist against Huddersfield|work=Squawka Football News|access-date=20 August 2018|language=en}}&lt;/ref&gt;
+
+==International career==
+[[File:Ederson.png|left|thumb|208x208px|Ederson training with [[Brazil national football team|Brazil]] in 2018]]
+Ederson was named in [[Brazil national football team|Brazil]]'s provisional squad for [[Copa América Centenario]]&lt;ref&gt;{{cite web |url=http://www.goal.com/brasilglobaltour/en/news/5457/brasil-global-tour/2016/04/29/22949232/dunga-names-40-man-preliminary-copa-america-squad|title=Dunga names 40-man preliminary Copa America squad |work=[[Goal (website)|Goal]] |date=29 April 2016 |accessdate=30 June 2016}}&lt;/ref&gt; but was cut from the final squad due to injury.&lt;ref&gt;{{cite news|url=http://www.maisfutebol.iol.pt/benfica/internacional/brasil-ederson-falha-a-copa-america-por-lesao|title=Brasil: Ederson falha a Copa América por lesão|work=Maisfutebol|language=pt|date=31 May 2016|accessdate=31 October 2018}}&lt;/ref&gt; His debut for the national team came in a 3–0 win over [[Chile national football team|Chile]] in a [[2018 FIFA World Cup qualification (CONMEBOL)|2018 World Cup qualifier]] in October 2017.&lt;ref&gt;{{cite web|url=http://www.espn.com/soccer/report?gameId=431551|title=Gabriel Jesus, Paulinho help Brazil end Chile's World Cup hopes|publisher=ESPN|date=11 October 2017|accessdate=31 October 2018}}&lt;/ref&gt; In May 2018, he was named in [[Tite (football manager)|Tite]]'s final [[Brazil national football team|23-man squad]] for the [[2018 FIFA World Cup|World Cup]] in Russia.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44116590|title=World Cup: Neymar named in Brazil's 23-man squad|work=BBC Sport|date=14 May 2018|accessdate=31 October 2018}}&lt;/ref&gt;
+
+==Style of play==
+An agile, large, courageous, energetic, commanding, and physically imposing keeper,&lt;ref name="profiled"&gt;{{cite web|url=http://www.skysports.com/football/news/11679/10897209/who-is-benficas-ederson-moraes-man-city-transfer-target-profiled|title=Who is Ederson Moraes? Manchester City's new goalkeeper profiled|publisher=Sky Sports|author1=Jack Wilkinson|date=8 June 2017|accessdate=17 January 2018}}&lt;/ref&gt;&lt;ref name="perfect fit"&gt;{{cite news|url=http://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-keeper-ederson-news-13848752|title=Man City goalkeeper Ederson proving 'the perfect fit' for Pep Guardiola|work=Manchester Evening News|author1=Richard Fay|date=2 November 2017|accessdate=17 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/blog/2017/sep/10/manchester-city-liverpool-pep-guardiola-jurgen-klopp-ederson|title=Ederson’s bravery exposes Liverpool’s flaws on Jürgen Klopp’s day to forget|work=The Guardian|author1=Barney Ronay|date=10 September 2017|accessdate=17 January 2018}}&lt;/ref&gt;&lt;ref name="A&amp;E GK Brazil Strengths"&gt;{{cite web |url=http://www.espn.com/soccer/club/brazil/205/blog/post/3440627/alisson-ederson-make-goalkeeper-one-of-brazils-greatest-strengths|title=Alisson, Ederson make goalkeeper one of Brazil's greatest strengths  |publisher=ESPN FC |author1=Tim Vickery |date=2 April 2018 |accessdate=21 January 2019 }}&lt;/ref&gt; Ederson possesses physical strength, excellent reflexes&lt;ref name="perfect fit"/&gt;&lt;ref name="Who is Ederson?"&gt;{{cite news|url=https://www.telegraph.co.uk/football/2017/05/29/ederson-benfica-star-man-city-could-make-worlds-expensive-goalkeeper/|title=Who is Ederson? The Benfica star Man City could make the world's most expensive goalkeeper|work=The Daily Telegraph|author1=JJ Bull|date=29 May 2017|accessdate=17 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.calciomercato.com/news/1993-la-serie-la-caccia-al-portiere-25047|title=1993 - La Serie: la caccia al portiere|publisher=Calciomercato.com|language=Italian|author1=Emanuele Tramacere|date=16 May 2017|accessdate=16 January 2018}}&lt;/ref&gt; and shot-stopping abilities between the posts,&lt;ref name="profiled"/&gt;&lt;ref name="Who is Ederson?"/&gt; and developed a reputation as a penalty saving specialist during his time with Benfica.&lt;ref&gt;{{cite web|url=http://it.uefa.com/uefachampionsleague/news/newsid=2480913.html#/|title=Rigori: chi li para e chi no|publisher=UEFA.com|language=Italian|date=21 June 2017|accessdate=16 January 2018}}&lt;/ref&gt; However, he is mostly highly regarded for his outstanding distribution and skill with the ball at his feet: his control and confidence on the ball enables him to retain possession and quickly play the ball out from the back on the ground with his hands or either foot – even when put under pressure – or launch an attack with long kicks.&lt;ref name="profiled"/&gt;&lt;ref name="perfect fit"/&gt;&lt;ref name="Who is Ederson?"/&gt;&lt;ref&gt;{{cite web|url=https://www.foxsports.it/2017/05/29/calciomercato-manchester-city-piu-cinquanta-milioni-ederson-moraes/|title=Calciomercato, follia Manchester City: più di 50 mln per Ederson Moraes|publisher=www.foxsports.it|language=Italian|author1=Francesco Bizzarri|date=29 May 2017|accessdate=16 January 2018}}&lt;/ref&gt;&lt;ref name="nuovo Julio Cesar"&gt;{{cite web|url=http://www.calciomercato.com/news/inter-ecco-ederson-il-nuovo-julio-cesar-378496|title=Inter: ecco Ederson, il nuovo Julio Cesar|publisher=www.calciomercato.com|language=Italian|author1=Matteo Serra|date=12 May 2016|accessdate=16 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/news/11679/11002959/ederson-one-of-the-best-with-his-feet-shay-given-tells-premier-league-daily|title=Ederson 'one of the best with his feet', Shay Given tells Premier League Daily|publisher=Sky Sports|date=24 August 2017|accessdate=16 January 2018}}&lt;/ref&gt;&lt;ref name="Golden gloves"&gt;{{cite web|url=https://www.thescore.com/news/1387066|title=Golden gloves: Manchester City's decision to sign Ederson paying off|publisher=The Score|author1=Carlo Campo|date=30 September 2017|accessdate=17 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.espn.com/soccer/english-premier-league/23/blog/post/3300856/man-city-keeper-ederson-as-important-as-david-de-gea-is-for-man-united|title=Man City keeper Ederson as important as David De Gea is for Man United|publisher=ESPN FC|author1=Mark Ogden|date=8 December 2017|accessdate=17 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.thescore.com/liga/news/1289056-perfect-player-series-building-a-flawless-goalkeeper|title=Perfect player series: Building a flawless goalkeeper|publisher=The Score|author1=Gianluca Nesci|date=24 July 2017|accessdate=17 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.independent.co.uk/sport/football/premier-league/ederson-profile-manchester-city-pep-guardiola-goalkeepers-feature-vs-liverpool-united-a8291301.html|title=How Ederson redefined what is expected of a Goalkeeper|work=The Independent|author=Luke Brown|date=6 April 2018|accessdate=6 April 2018}}&lt;/ref&gt; Although naturally left-footed,&lt;ref name="A&amp;E GK Brazil Strengths"/&gt; he is capable of using either foot.&lt;ref&gt;{{cite web |url=https://www.independent.ie/world-news/and-finally/who-on-earth-is-manchester-city-target-ederson-moraes-35767550.html |title=Who on Earth is Manchester City target Ederson Moraes? |publisher=The Irish Independent |author1=Max McLean |date=29 May 2017 |accessdate=21 January 2019 }}&lt;/ref&gt; Regarding his distribution, former Manchester City goalkeeper [[Shay Given]] described Ederson as "the best goalkeeper in the world with his feet" in 2018;&lt;ref&gt;{{cite web |url=https://www.telegraph.co.uk/football/2018/04/06/ederson-vs-david-de-gea-shay-given-compares-premier-leagues/ |title=Ederson vs David De Gea: Shay Given compares the Premier League's two best goalkeepers |publisher=The Telegraph |author1=Shay Given |date=6 April 2018 |accessdate=21 January 2019 }}&lt;/ref&gt; his range of passing has also led to him be described as a ''[[Playmaker#Playmaking in other positions|playmaker]]'' in the media.&lt;ref&gt;{{cite web |url=https://www.theguardian.com/football/2018/dec/07/ederson-ball-playing-midfielder-goalkeeper-manchester-city |title=Ederson leads way as a ball-playing Premier League midfielder in gloves |publisher=The Guardian |author1=Jonathan Wilson |date=7 December 2018 |accessdate=21 January 2019 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.usatoday.com/story/sports/soccer/2017/10/18/the-brick-wall-ederson-solving-keeper-issues-at-man-city/106762812/ |title='The Brick Wall': Ederson solving keeper issues at Man City |publisher=USA Today |author1=Steve Douglas |author2=Mauricio Savarese |date=18 October 2017 |accessdate=21 January 2019 }}&lt;/ref&gt;
+
+He is also very quick when rushing off his line,&lt;ref name="Golden gloves" /&gt; and often functions as a [[Goalkeeper (association football)#Sweeper-keeper|sweeper-keeper]].&lt;ref&gt;{{cite web|url=http://www.espn.com/soccer/english-premier-league/23/blog/post/3220404/manchester-citys-34-7-million-bet-on-ederson-is-paying-off|title=Manchester City's £34.7 million bet on Ederson is paying off|publisher=ESPN FC|author1=Jonathan Smith|date=4 October 2017|accessdate=17 January 2018}}&lt;/ref&gt; Regarded as a highly promising prospect,&lt;ref name="Who is Ederson?" /&gt; in spite of his young age, he has already stood out for his decision making, consistency, and composure in goal, as well as his ability to organise his defence, and is also an intelligent reader of the game.&lt;ref name="profiled" /&gt;&lt;ref name="perfect fit" /&gt;&lt;ref name="Who is Ederson?" /&gt;&lt;ref name="nuovo Julio Cesar" /&gt;
+
+==Personal life==
+Ederson acquired Portuguese citizenship in 2016.&lt;ref&gt;{{cite news|last=Rodrigues|first=Vítor|date=24 September 2016|title=Ederson e Jardel já são portugueses|trans-title=Ederson and Jardel are already Portuguese|url=https://www.ojogo.pt/futebol/1a-liga/benfica/noticias/interior/ederson-e-jardel-ja-portugueses-5407055.html|language=Portuguese|newspaper=O Jogo|access-date=16 March 2018}}&lt;/ref&gt; His body is heavily covered in [[tattoo]]s, including a rose and a skull on his neck, angel's wings on his back and a Portuguese League trophy on his leg, which he won for Benfica in 2015 and in 2016.&lt;ref&gt;{{cite web |title=Man City's £35m Signing Ederson Is Covered In Amazing Tattoos |url=https://www.foottheball.com/players-in-focus/manchester-citys-35million-signing-ederson-covered-amazing-tattoos-including-flowers-faces-skulls-religious-icons/213698 |work=foottheball.com |accessdate=25 October 2018}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 6 February 2019}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup{{efn|Includes [[Taça de Portugal]]}}
+!colspan="2"|League Cup{{efn|Includes [[Taça da Liga]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[G.D. Ribeirão|Ribeirão]]
+|[[2011–12 Segunda Divisão|2011–12]]&lt;ref name="ForaDeJogo"&gt;{{ForaDeJogo|name=Ederson|access-date=11 February 2018}}&lt;/ref&gt;
+|[[Portuguese Second Division|Segunda Divisão]]
+|29||0||1||0||0||0||colspan="2"|—||colspan="2"|—||30||0
+|-
+|rowspan="4"|[[Rio Ave F.C.|Rio Ave]]
+|[[2012–13 Primeira Liga|2012–13]]&lt;ref name="ForaDeJogo"/&gt;
+|[[Primeira Liga]]
+|2||0||2||0||3||0||colspan="2"|—||colspan="2"|—||7||0
+|-
+|[[2013–14 Primeira Liga|2013–14]]&lt;ref name="ForaDeJogo"/&gt;
+|Primeira Liga
+|18||0||7||0||3||0||colspan="2"|—||colspan="2"|—||28||0
+|-
+|[[2014–15 Primeira Liga|2014–15]]&lt;ref name="ForaDeJogo"/&gt;
+|Primeira Liga
+|17||0||5||0||4||0||2{{efn|Appearances in [[UEFA Europa League]]}}||0||0||0||28||0
+|-
+!colspan="2"|Total
+!37||0||14||0||10||0||2||0||0||0||63||0
+|-
+|[[S.L. Benfica B|Benfica B]]
+|[[2015–16 LigaPro|2015–16]]&lt;ref name="ForaDeJogo"/&gt;
+|[[LigaPro]]
+|4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||0
+|-
+|rowspan="3"|[[S.L. Benfica|Benfica]]
+|[[2015–16 S.L. Benfica season|2015–16]]&lt;ref name="ForaDeJogo"/&gt;
+|Primeira Liga
+|10||0||0||0||5||0||3{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||0||0||18||0
+|-
+|[[2016–17 S.L. Benfica season|2016–17]]&lt;ref name="ForaDeJogo"/&gt;
+|Primeira Liga
+|27||0||3||0||3||0||5{{efn|name=UCL}}||0||0||0||38||0
+|-
+!colspan="2"|Total
+!37||0||3||0||8||0||8||0||0||0||56||0
+|-
+|rowspan="3"|[[Manchester City F.C.|Manchester City]]
+|[[2017–18 Manchester City F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|66557|2017|access-date=11 August 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|36||0||0||0||0||0||9{{efn|name=UCL}}||0||colspan=2|—||45||0
+|-
+|[[2018–19 Manchester City F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|66557|2018|access-date=9 November 2018}}&lt;/ref&gt;
+|Premier League
+|26||0||2||0||0||0||6{{efn|name=UCL}}||0||0||0||34||0
+|-
+!colspan="2"|Total
+!62||0||2||0||0||0||15||0||0||0||79||0
+|-
+!colspan="3"|Career total
+!169||0||20||0||18||0||25||0||0||0||232||0
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 20 November 2018}}&lt;ref name="NFT"&gt;{{NFT player|name=Ederson|accessdate=21 October 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Brazil national football team|Brazil]]
+|2017||1||0
+|-
+|2018||2||0
+|-
+!colspan="2"|Total||3||0
+|}
+
+==Honours and achievements==
+'''Rio Ave'''&lt;ref name="SW"&gt;{{Soccerway|accessdate=3 February 2018}}&lt;/ref&gt;
+*[[Taça de Portugal]] runner-up: [[2013–14 Taça de Portugal|2013–14]]
+*[[Taça da Liga]] runner-up: [[2013–14 Taça da Liga|2013–14]]
+
+'''Benfica'''&lt;ref name="SW"/&gt;
+*[[Primeira Liga]]: [[2015–16 Primeira Liga|2015–16]], [[2016–17 Primeira Liga|2016–17]]
+*Taça de Portugal: [[2016–17 Taça de Portugal|2016–17]]
+*Taça da Liga: [[2015–16 Taça da Liga|2015–16]]
+
+'''Manchester City'''
+*[[Premier League]]: [[2017–18 Premier League|2017–18]]&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/12707/Ederson/overview |title=Ederson: Overview |publisher=Premier League |accessdate=15 May 2018}}&lt;/ref&gt;
+*[[EFL Cup]]: [[2017–18 EFL Cup|2017–18]],&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/43101681 |title=Arsenal 0–3 Manchester City |first=Phil |last=McNulty |publisher=BBC Sport |date=25 February 2018 |accessdate=25 February 2018}}&lt;/ref&gt; [[2018–19 EFL Cup|2018–19]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/47268861 |title=Chelsea 0–0 Manchester City |first=Phil |last=McNulty |publisher=BBC Sport |date=24 February 2019 |accessdate=24 February 2019}}&lt;/ref&gt;
+*[[FA Community Shield]]: [[2018 FA Community Shield|2018]]&lt;ref name=shield2018&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44995783 |title=Chelsea 0–2 Manchester City |first=Chris |last=Bevan |publisher=BBC Sport |date=5 August 2018 |accessdate=7 August 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*''[[O Jogo]]'' Team of the Year: 2016&lt;ref&gt;{{cite news |url=https://www.ojogo.pt/multimedia/fotografias/interior/iniciativa-o-jogo-eis-o-melhor-onze-de-2016-5579923.html|title=Iniciativa O Jogo: eis o melhor onze de 2016|trans-title=O Jogo initiative: the best eleven of 2016|work=O Jogo|language=Portuguese|date=1 January 2017|accessdate=27 January 2018}}&lt;/ref&gt;
+*[[LPFP Awards#Primeira Liga Awards|LPFP Primeira Liga Goalkeeper of the Year]]: [[2016–17 Primeira Liga|2016–17]]&lt;ref&gt;{{cite news|date=7 July 2017|title=Primeiro clássico da época joga-se em Alvalade|trans-title=First classic of the season will be played at Alvalade|url=http://www.record.pt/futebol/futebol-nacional/liga-nos/detalhe/siga-o-sorteio-da-liga-201718-em-direto.html|language=Portuguese|newspaper=Record|access-date=7 July 2017}}&lt;/ref&gt;
+*[[UEFA Champions League]] Breakthrough XI: 2017&lt;ref&gt;{{cite news|date=24 December 2017|url=http://www.uefa.com/uefachampionsleague/news/newsid=2526639.html#/champions+league+breakthrough+team+2017|website=UEFA.com: The official website for European football|title=Champions League breakthrough team of 2017|access-date=24 December 2017}}&lt;/ref&gt;
+
+'''Records'''
+*[[Guinness World Record]] for the longest [[drop kick]]: 75.35 metres (247&amp;nbsp;ft)&lt;ref name="Guinness"&gt;{{cite web |last=Swatman |first=Rachel |title=Watch Man City’s Ederson smash drop kick title as yet more records go to English champions |url=http://www.guinnessworldrecords.com/news/2018/5/watch-man-citys-ederson-smash-drop-kick-title-as-yet-more-records-go-to-english |work=Guiness World Records |date=20 May 2018 |accessdate=31 October 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://sport.sky.it/calcio-estero/premier-league/2018/05/11/manchester-city-ederson-guinness-world-records-rinvio.html|title=Ederson è nel Guinness dei primati: il suo record è incredibile|work=[[Sky Sport (Italy)|Sky Sport]]|date=11 May 2018|access-date=12 May 2018|language=it}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerbase}}
+
+{{Manchester City F.C. squad}}
+{{Brazil squad 2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Ederson Moraes}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:People from Osasco]]
+[[Category:Brazilian footballers]]
+[[Category:Brazil international footballers]]
+[[Category:Olympic footballers of Brazil]]
+[[Category:Brazilian expatriate footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:G.D. Ribeirão players]]
+[[Category:Rio Ave F.C. players]]
+[[Category:S.L. Benfica B players]]
+[[Category:S.L. Benfica footballers]]
+[[Category:Manchester City F.C. players]]
+[[Category:Primeira Liga players]]
+[[Category:LigaPro players]]
+[[Category:Premier League players]]
+[[Category:Brazilian expatriate sportspeople in Portugal]]
+[[Category:Expatriate footballers in Portugal]]
+[[Category:Naturalised citizens of Portugal]]
+[[Category:Brazilian expatriate sportspeople in England]]
+[[Category:Expatriate footballers in England]]
+[[Category:2018 FIFA World Cup players]]</text>
+      <sha1>phr77fwxl8tngctury1sd99ud1rbvtj</sha1>
+    </revision>
+  </page>
+</mediawiki>

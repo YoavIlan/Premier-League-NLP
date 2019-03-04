@@ -1,0 +1,350 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Steven Defour</title>
+    <ns>0</ns>
+    <id>8453232</id>
+    <revision>
+      <id>880437717</id>
+      <parentid>877122654</parentid>
+      <timestamp>2019-01-27T12:19:56Z</timestamp>
+      <contributor>
+        <username>Nfc123</username>
+        <id>1265316</id>
+      </contributor>
+      <comment>app 26 jan</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23515">{{Use dmy dates|date=February 2018}}
+{{Infobox football biography
+|name = Steven Defour
+|image = Dinamo-Anderleht (4).jpg
+|image_size = 200
+|caption = Defour playing for [[R.S.C. Anderlecht|Anderlecht]] in 2015
+|fullname = Steven Arnold Defour&lt;ref&gt;{{cite web|url=http://www.englandfootballonline.com/Seas2010-20/2011-12/M0905Bel2012PreBel.html|title=England 1 Belgium 0 [1–0]|work=England Football Online|accessdate=17 December 2013}}&lt;/ref&gt;
+|birth_date = {{birth date and age|1988|4|15|df=y}}&lt;ref name="11v11"&gt;{{cite web|url=http://www.11v11.com/players/steven-defour-224995/|title=Steven Defour|work=11v11.com|publisher=AFS Enterprises|accessdate=16 April 2017}}&lt;/ref&gt;
+|birth_place = [[Mechelen]], Belgium
+|height = {{height|m=1.73}}&lt;ref name="11v11"/&gt;
+|position = [[Midfielder]]
+|currentclub = [[Burnley F.C.|Burnley]]
+|clubnumber = 16
+|youthyears1 = 1993–1997 | youthclubs1 = Zennester Hombeek
+|youthyears2 = 1997–2004 | youthclubs2 = [[KV Mechelen|Mechelen]]
+|years1 = 2004–2006 | clubs1 = [[K.R.C. Genk|Genk]] | caps1 = 30 | goals1 = 1
+|years2 = 2006–2011 | clubs2 = [[Standard Liège]] | caps2 = 127 | goals2 = 13
+|years3 = 2011–2014 | clubs3 = [[FC Porto|Porto]] | caps3 = 65 | goals3 = 3
+|years4 = 2014–2016 | clubs4 = [[R.S.C. Anderlecht|Anderlecht]] | caps4 = 63 | goals4 = 9
+|years5 = 2016– | clubs5 = [[Burnley F.C.|Burnley]] | caps5 = 51 | goals5 = 2
+|nationalyears1 = 2003 | nationalteam1 = [[Belgium national youth football team|Belgium U15]] | nationalcaps1 = 5 | nationalgoals1 = 1
+|nationalyears2 = 2003–2004 | nationalteam2 = [[Belgium national youth football team|Belgium U16]] | nationalcaps2 = 11 | nationalgoals2 = 1
+|nationalyears3 = 2004–2005 | nationalteam3 = [[Belgium national under-17 football team|Belgium U17]] | nationalcaps3 = 11 | nationalgoals3 = 1
+|nationalyears4 = 2005 | nationalteam4 = [[Belgium national under-18 football team|Belgium U18]] | nationalcaps4 = 1 | nationalgoals4 = 0
+|nationalyears5 = 2006–2017 | nationalteam5 = [[Belgium national football team|Belgium]] | nationalcaps5 = 52 | nationalgoals5 = 2
+|club-update = 21:29, 3 December 2018 (UTC)
+|nationalteam-update = 
+}}
+'''Steven Arnold Defour''' (born 15 April 1988) is a Belgian professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Premier League]] club [[Burnley F.C.|Burnley]].
+
+In his senior career he played for [[K.R.C. Genk|Genk]], [[Standard Liège]], [[FC Porto|Porto]], [[R.S.C. Anderlecht|Anderlecht]] and Burnley, winning nine honours with the second and third teams combined.
+
+Defour earned his first [[Cap (sport)|cap]] for [[Belgium national football team|Belgium]] in 2006, and represented the nation in the [[2014 FIFA World Cup|2014 World Cup]].
+
+==Club career==
+===Racing Genk===
+Born in [[Mechelen]], Defour played youth football with local [[KV Mechelen]], moving to [[K.R.C. Genk]] in 2004 due to the club's financial difficulties. He made his [[Belgian Pro League|Pro League]] debut during the [[2004–05 Belgian First Division|2004–05 season]] and, at just 17, became first-choice, finishing the [[2005–06 Belgian First Division|2005–06 campaign]] with 26 games and one goal to help his team to the fifth position.
+
+When Genk failed to qualify for [[UEFA|European competition]], Defour tried to move to [[AFC Ajax]] in the summer of 2006. Genk, enraged by earlier reports that the Dutch team had approached the player to broker a deal without their consent, did not accept the proposed transfer fee and after protracted negotiations Ajax pulled out of the deal. Defour tried to force a transfer by threatening to leave, using a Belgian law that allowed professional athletes on fixed-term contracts to leave their employers before the end of the stipulated term, but Ajax did not express a renewed interest in his services and he ended up signing for [[Standard Liège]] for a much-reduced transfer fee, effectively breaking a [[gentlemen's agreement]] between Belgian sides not to sign under-contract players using the aforementioned law.&lt;ref&gt;{{cite news|url=http://www.nieuwsblad.be/sportwereld/cnt/gi8rr5fv|title=Defour 'slachtoffer' van 33 jaar oude vete|trans-title=Defour 'victim' of 33-year-old feud|newspaper=[[Het Nieuwsblad]]|language=Dutch|date=5 May 2006|accessdate=9 January 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.vi.nl/nieuws/transfer-defour-naar-ajax-van-de-baan.htm|title=Transfer Defour naar Ajax van de baan|trans-title=Defour's transfer to Ajax not happening|publisher=[[Voetbal International]]|language=Dutch|date=7 June 2006|accessdate=9 January 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.hbvl.be/Archief/guid/steven-defour-verbreekt-contract-bij-genk.aspx?artikel=cc86655b-7696-4656-8654-9124b6ad9238|title=Steven Defour verbreekt contract bij Genk|trans-title=Steven Defour breaks contract with Genk|newspaper=[[Het Belang van Limburg]]|language=Dutch|date=16 June 2006|accessdate=9 January 2014}}&lt;/ref&gt;
+
+===Standard Liège===
+Defour joined Standard on a five-year deal,&lt;ref&gt;{{cite web|url=http://www.voetbalbelgie.be/nl/article.php?id=4766|title=Standard neemt Steven Defour over|trans-title=Standard signs Steven Defour|publisher=Voetbal België|language=Dutch|date=11 July 2006|accessdate=9 January 2014}}&lt;/ref&gt; being appointed [[Captain (association football)|team captain]] at the start of [[2007–08 Belgian First Division|his second year]] after taking over from Portugal's [[Sérgio Conceição]] – he was just 19 years old. He received the [[Belgian Golden Shoe]] at the end of the season in the process, leading the ''Reds'' to their first league title in 25 years.
+
+In late 2009, shortly after scoring four goals in 31 games to help Standard [[2008–09 Belgian First Division|renew its domestic supremacy]], Defour broke his right foot. During his period of recovery he received a letter from [[Alex Ferguson]], manager of [[Manchester United F.C.|Manchester United]], wishing him all the best in his recovery,&lt;ref&gt;[http://soccernet.espn.go.com/news/story?id=836270&amp;sec=transfers&amp;cc=4716 Defour ready to make next step]; [[ESPN FC|ESPN Soccernet]], 26 October 2010&lt;/ref&gt; and this led to persistent rumours of a switch to the English club, but he refuted these by saying "I do know that Manchester United are monitoring me – if everything goes well and I continue playing as I am, there is a better chance of me leaving than there was at the start of the season";&lt;ref&gt;[http://www.talksport.co.uk/sports-news/football/premier-league/transfer-rumours/2079/5/defour-ready-make-manchester-united-move Defour ready to make Manchester United move]; [[Talksport]], 26 October 2010&lt;/ref&gt; eventually, nothing came of it.
+
+===Porto===
+[[File:OM - FC Porto - Valais Cup 2013 - Steven Defour.jpg|120px|thumb|right|Defour playing for Porto in 2013]]
+On 15 August 2011, Portuguese club [[FC Porto]] agreed with Standard Liége&lt;ref&gt;{{cite web|url=http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/ir_compradefour_15082011.pdf|title=Comunicado|trans-title=Announcement|publisher=FC Porto|language=Portuguese|date=15 August 2011|accessdate=18 August 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20111224082944/http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/ir_compradefour_15082011.pdf|archivedate=24 December 2011|df=dmy-all}}&lt;/ref&gt; to buy the sporting rights of Defour for [[Euro|€]]6&amp;nbsp;million, and he signed a five-year contract.&lt;ref&gt;{{cite web|url=http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/CompraDefour16082011.pdf|title=Comunicado|trans-title=Announcement|publisher=FC Porto|language=Portuguese|date=16 August 2011|accessdate=18 August 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20111215231444/http://www.fcporto.pt/IncFCP/PDF/Investor_Relations/FactosRelevantes/CompraDefour16082011.pdf|archivedate=15 December 2011|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/news/story/_/id/944429/fc-porto-deal-for-standard-liege's-steven-defour?cc=5739|title=FC Porto deal for Defour|publisher=ESPN Soccernet|date=16 August 2011|accessdate=30 August 2011}}&lt;/ref&gt; He finished [[2011–12 Primeira Liga|his first year]] with 37 appearances all competitions comprised and added two goals, helping his new team win the [[Primeira Liga]] championship.
+
+On 18 September 2012, Defour netted Porto's second goal against [[GNK Dinamo Zagreb]], in [[2012–13 UEFA Champions League|the season]]'s [[UEFA Champions League|Champions League]] group stage (2–0 away win).&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000347/match=2009496/postmatch/report/index.html|title=Porto extend Dinamo losing streak|publisher=UEFA|date=18 September 2012|accessdate=7 January 2014}}&lt;/ref&gt; On 13 March of the following year, for the same competition but in the [[Single-elimination tournament|round-of-16]], he was [[Penalty card#Yellow card|booked]] twice and subsequently [[Ejection (sports)|sent off]] in the 49th minute of the second leg of the tie at [[Málaga CF]], as the [[Porto|northerners]] lost 0–2 at [[La Rosaleda Stadium]] and 1–2 on aggregate.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/season=2013/matches/round=2000348/match=2009593/postmatch/report/index.html|title=Santa Cruz sends Málaga into last eight|publisher=UEFA|date=13 March 2013|accessdate=7 January 2014}}&lt;/ref&gt;
+
+===Anderlecht===
+On 13 August 2014, Defour signed a five-year deal with [[R.S.C. Anderlecht]], for €6&amp;nbsp;million. On 25 January of the following year, when playing at Standard Liège, he was sent off for deliberately kicking the ball at home fans who had unfurled a banner depicting his severed head under the slogan "Red or Dead". His ejection caused the visiting supporters to rip out their seats and throw them onto the pitch,&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2015/jan/25/anderlecht-steven-defour-standard-liege-banner|title=Anderlecht's Steven Defour sees red over Standard Liège fans' banner|newspaper=[[The Guardian]]|date=25 January 2015|accessdate=25 January 2015}}&lt;/ref&gt; and the banner received criticism from both the [[Royal Belgian Football Association]] and the league.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/30975769|title=Standard Liege: Steven Defour sent off after fans' horror banner|publisher=[[BBC Sport]]|date=25 January 2015|accessdate=25 January 2015}}&lt;/ref&gt;
+
+===Burnley===
+On 16 August 2016, Defour signed for [[Premier League]] club [[Burnley F.C.|Burnley]] for a club-record transfer fee of £8&amp;nbsp;million.&lt;ref&gt;{{cite web|url=http://www.burnleyfootballclub.com/news/article/2016-17/defour-joins-the-clarets-3251096.aspx|title=Burnley: Defour joins the Clarets|publisher=Burnley F.C.|date=16 August 2016|accessdate=16 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37064070|title=Steven Defour: Burnley sign Belgium midfielder from Anderlecht|publisher=BBC Sport|date=16 August 2016|accessdate=16 August 2016}}&lt;/ref&gt; He made his competitive debut four days later, starting in a 2–0 home win over [[Liverpool F.C.|Liverpool]] in which he helped create the second goal by [[Andre Gray]] but was substituted early in the second half due to a lack of fitness.&lt;ref&gt;{{cite web|url=http://www.espnfc.com/club/burnley/379/blog/post/2934285/michael-keane-steven-defour-and-andre-gray-stand-out-as-burnley-stun-liverpool|title=Keane, Defour and Gray stand out as Burnley stun Liverpool|publisher=ESPN FC|date=20 August 2016|accessdate=4 March 2017}}&lt;/ref&gt; On 10 September, also at [[Turf Moor]], he scored his first goal for his new team to open a 1–1 draw with fellow promotee [[Hull City A.F.C.|Hull City]], and was praised after the match by manager [[Sean Dyche]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/37330153|title=Defour is cheap as chips – Dyche|publisher=BBC Sport|date=10 September 2016|accessdate=4 March 2017}}&lt;/ref&gt;
+
+==International career==
+[[File:Steven Defour - Belgium.jpg|180px|thumb|right|Defour lining-up for [[Belgium national football team|Belgium]] in 2011]]
+Defour made his debut for the [[Belgium national football team|Belgian senior team]] in May 2006, aged just 18.&lt;ref&gt;{{cite news|url=http://www.hbvl.be/Archief/guid/rene-vandereycken-roept-negen-debutanten-op.aspx?artikel=2c4deaaf-1b7e-46ef-8b9a-b491631db866|title=René Vandereycken roept negen debutanten op|trans-title=René Vandereycken calls up nine first-timers|newspaper=Het Belang van Limburg|language=Dutch|date=6 May 2006|accessdate=9 January 2014}}&lt;/ref&gt; He scored his first goal on 6 September 2008, in a 3–2 win against [[Estonia national football team|Estonia]] at his club ground the [[Stade Maurice Dufrasne]] for the [[2010 FIFA World Cup]] [[2010 FIFA World Cup qualification (UEFA)|qualifiers]].&lt;ref&gt;{{cite web|url=http://www.rtbf.be/sport/football/diablesrouges/detail_defour-a-deja-marque-contre-l-estonie-ah-bon-j-avais-oublie?id=9453361|title=Defour a déjà marqué contre l'Estonie: "Ah bon? J'avais oublié"|trans-title=Defour already scored against Estonia: "Ah good? I had forgotten"|publisher=[[RTBF]]|language=French|date=12 November 2016|accessdate=4 March 2017}}&lt;/ref&gt;
+
+Defour scored once in three appearances in [[2014 FIFA World Cup qualification (UEFA)|qualification]] for the [[2014 FIFA World Cup|2014 World Cup]], opening a 2–0 win away to [[Scotland national football team|Scotland]] on 6 September 2013.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/23962691|title=Scotland 0–2 Belgium|publisher=BBC Sport|date=6 September 2013|accessdate=4 March 2017}}&lt;/ref&gt; He was selected for the [[2014 FIFA World Cup|finals]] in Brazil by manager [[Marc Wilmots]],&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/belgium/10810493/Belgium-World-Cup-2014-squad.html|title=Belgium World Cup 2014 squad|newspaper=[[The Daily Telegraph]]|date=4 June 2014|accessdate=27 June 2014}}&lt;/ref&gt; making his debut in [[FIFA World Cup|the competition]] on 26 June in the third group stage match against [[South Korea national football team|South Korea]] after Belgium had already won their first two outings and sealed qualification, and was sent off in the last minute of the first half of the eventual 1–0 success after a rash tackle on [[Kim Shin-wook]].&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/matches/round=255931/match=300186480/match-report.html|title=Koreans crash to ten-man Belgium|publisher=FIFA|date=26 June 2014|accessdate=27 June 2014}}&lt;/ref&gt;
+
+On 25 May 2018, 30-year-old Defour announced his retirement from international football.&lt;ref&gt;{{cite news|url=http://www.lancashiretelegraph.co.uk/sport/16248986.Defour_to_focus_on_Clarets_after_international_retirement/|title=Steven Defour to focus on Burnley after international retirement|newspaper=[[Lancashire Telegraph]]|date=25 May 2018|accessdate=25 May 2018}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 26 January 2019}}&lt;ref&gt;{{ESPN Soccernet|69602}}&lt;/ref&gt;
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|League Cup
+!colspan=2|[[UEFA#Club|Europe]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+|rowspan=3|[[K.R.C. Genk|Genk]]
+|[[2004–05 Belgian First Division|2004–05]]
+|[[Belgian First Division A|Belgian First Division]]
+|4||0||0||0||colspan=2|—||0||0||colspan=2|—||4||0
+|-
+|[[2005–06 Belgian First Division|2005–06]]
+|Belgian First Division
+|26||1||2||0||colspan=2|—||1&lt;ref group=lower-alpha name=UC&gt;Appearances in [[UEFA Cup]]&lt;/ref&gt;||0||colspan=2|—||29||1
+|-
+!colspan=2|Total
+!30||1||2||0||colspan=2|—||1||0||colspan=2|—||33||1
+|-
+|rowspan=7|[[Standard Liège]]
+|[[2006–07 Belgian First Division|2006–07]]
+|Belgian First Division
+|29||4||7||1||colspan=2|—||4&lt;ref group=lower-alpha name=SL&gt;Two appearances in [[UEFA Champions League]], two in [[UEFA Cup]]&lt;/ref&gt;||0||colspan=2|—||40||5
+|-
+|[[2007–08 Belgian First Division|2007–08]]
+|Belgian First Division
+|24||1||3||1||colspan=2|—||3&lt;ref group=lower-alpha name=UC/&gt;||0||colspan=2|—||30||2
+|-
+|[[2008–09 Belgian First Division|2008–09]]&lt;ref name="S. Defour"&gt;{{cite web|url=https://int.soccerway.com/players/steven-defour/13523/|title=S. Defour|publisher=Soccerway|accessdate=16 August 2016}}&lt;/ref&gt;
+|Belgian Pro League
+|33||4||1||0||colspan=2|—||10&lt;ref group=lower-alpha name=SL2&gt;Two appearances in [[UEFA Champions League]], eight in [[UEFA Cup]]&lt;/ref&gt;||0||1&lt;ref group=lower-alpha name=BSC&gt;Appearance in [[Belgian Super Cup]]&lt;/ref&gt;||0||45||4
+|-
+|[[2009–10 Belgian Pro League|2009–10]]&lt;ref name="S. Defour"/&gt;
+|Belgian Pro League
+|13||1||0||0||colspan=2|—||3&lt;ref group=lower-alpha name=UEL&gt;Appearances in [[UEFA Europa League]]&lt;/ref&gt;||0||1&lt;ref group=lower-alpha name=BSC/&gt;||0||17||1
+|-
+|[[2010–11 Belgian Pro League|2010–11]]&lt;ref name="S. Defour"/&gt;
+|Belgian Pro League
+|27||3||5||0||colspan=2|—||colspan=2|—||colspan=2|—||32||3
+|-
+|[[2011–12 Belgian Pro League|2011–12]]&lt;ref name="S. Defour"/&gt;
+|Belgian Pro League
+|1||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0||1||0
+|-
+!colspan=2|Total
+!127||13||16||2||colspan=2|—||20||0||2||0||165||15
+|-
+|rowspan=4|[[FC Porto|Porto]]
+|[[2011–12 Primeira Liga|2011–12]]&lt;ref name="S. Defour"/&gt;
+|[[Primeira Liga]]
+|24||1||2||1||3||0||8&lt;ref group=lower-alpha name=POR&gt;Six appearances in [[UEFA Champions League]], two in [[UEFA Europa League]]&lt;/ref&gt;||0||0||0||37||2
+|-
+|[[2012–13 Primeira Liga|2012–13]]&lt;ref name="S. Defour"/&gt;
+|Primeira Liga
+|25||2||2||0||5||1||7&lt;ref group=lower-alpha name=UCL&gt;Appearances in [[UEFA Champions League]]&lt;/ref&gt;||1||1&lt;ref group=lower-alpha name=PSC&gt;Appearance in [[Supertaça Cândido de Oliveira]]&lt;/ref&gt;||0||40||4
+|-
+|[[2013–14 Primeira Liga|2013–14]]&lt;ref name="S. Defour"/&gt;
+|Primeira Liga
+|16||0||6||1||4||0||9&lt;ref group=lower-alpha name=POR2&gt;Five appearances in [[UEFA Champions League]], four in [[UEFA Europa League]]&lt;/ref&gt;||0||1&lt;ref group=lower-alpha name=PSC/&gt;||0||36||1
+|-
+!colspan=2|Total
+!65||3||10||2||12||1||24||1||2||0||113||7
+|-
+|rowspan=4|[[R.S.C. Anderlecht|Anderlecht]]
+|[[2014–15 Belgian Pro League|2014–15]]&lt;ref name="S. Defour"/&gt;
+|Belgian Pro League
+|29||6||4||1||colspan=2|—||6&lt;ref group=lower-alpha name=AND&gt;Four appearances in [[UEFA Champions League]], two in [[UEFA Europa League]]&lt;/ref&gt;||0||colspan=2|—||39||7
+|-
+|[[2015–16 Belgian Pro League|2015–16]]&lt;ref name="S. Defour"/&gt;
+|Belgian Pro League
+|32||2||1||1||colspan=2|—||9&lt;ref group=lower-alpha name=UEL/&gt;||0||colspan=2|—||42||3
+|-
+|[[2016–17 Belgian First Division A|2016–17]]&lt;ref name="S. Defour"/&gt;
+|Belgian First Division A
+|2||1||colspan=2|—||colspan=2|—||2&lt;ref group=lower-alpha name=UCL/&gt;||0||colspan=2|—||4||1
+|-
+!colspan=2|Total
+!63||9||5||2||colspan=2|—||17||0||colspan=2|—||85||11
+|-
+|rowspan=4|[[Burnley F.C.|Burnley]]
+|[[2016–17 Burnley F.C. season|2016–17]]&lt;ref name="S. Defour"/&gt;
+|[[Premier League]]
+|21||1||3||1||0||0||colspan=2|—||colspan=2|—||24||2
+|-
+|[[2017–18 Burnley F.C. season|2017–18]]&lt;ref name="S. Defour"/&gt;
+|Premier League
+|24||1||0||0||1||0||colspan=2|—||colspan=2|—||25||1
+|-
+|[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name="S. Defour"/&gt;
+|Premier League
+|6||0||2||0||1||0||0||0||colspan=2|—||9||0
+|-
+!colspan=2|Total
+!51||2||5||1||2||0||0||0||colspan=2|—||58||3
+|-
+!colspan=3|Career total
+!336||28||38||7||14||1||62||1||4||0||454||37
+|}
+
+{{reflist|group=lower-alpha}}
+
+===International===
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by national team and year&lt;ref name="EU"&gt;{{cite web|url=http://eu-football.info/_player.php?id=25581|title=Steven Defour|publisher=European Football|accessdate=18 August 2016}}&lt;/ref&gt;
+|-
+!National team||Year||Apps||Goals
+|-
+|rowspan=11|[[Belgium national football team|Belgium]]
+|2006||3||0
+|-
+|2007||9||0
+|-
+|2008||6||1
+|-
+|2009||5||0
+|-
+|2010||4||0
+|-
+|2011||5||0
+|-
+|2012||5||0
+|-
+|2013||5||1
+|-
+|2014||6||0
+|-
+|2016||3||0
+|-
+|2017||1||0
+|-
+! colspan=2|Total||52||2
+|}
+
+===International goals===
+{{updated|13 October 2014}} (Belgium score listed first, score column indicates score after each Defour goal)&lt;ref name="EU"/&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|1
+|6 September 2008||[[Stade Maurice Dufrasne]], [[Liège]], Belgium||15||{{fb|EST}}||2–1||3–2||[[2010 FIFA World Cup qualification (UEFA)|2010 World Cup qualification]]
+|-
+!scope=row|2
+|6 September 2013||[[Hampden Park]], [[Glasgow]], Scotland||39||{{fb|SCO}}||1–0||2–0||[[2014 FIFA World Cup qualification (UEFA)|2014 World Cup qualification]]
+|}
+
+==Honours==
+[[File:Defour Mirallas Fellaini v USA.jpg|thumb|right|Defour (left) with [[Belgium national football team|Belgian]] teammates [[Kevin Mirallas]] (middle) and [[Marouane Fellaini]] before a [[Exhibition match|friendly]] against the [[United States national men's soccer team|United States]] on 29 May 2013]]
+
+===Club===
+'''Standard Liège'''&lt;ref name=SW&gt;{{cite web|url=https://int.soccerway.com/players/steven-defour/13523/|title=S. Defour –Trophies|work=Soccerway|publisher=Perform Group|accessdate=26 April 2017}}&lt;/ref&gt;
+*[[Belgian Pro League]]: [[2007–08 Belgian First Division|2007–08]], [[2008–09 Belgian First Division|2008–09]]
+*[[Belgian Cup]]: [[2010–11 Belgian Cup|2010–11]]
+*[[Belgian Supercup]]: [[2008 Belgian Super Cup|2008]], [[2009 Belgian Super Cup|2009]]
+
+'''Porto'''&lt;ref name=SW/&gt;
+*[[Primeira Liga]]: [[2011–12 Primeira Liga|2011–12]], [[2012–13 Primeira Liga|2012–13]]
+*[[Supertaça Cândido de Oliveira]]: [[2012 Supertaça Cândido de Oliveira|2012]], [[2013 Supertaça Cândido de Oliveira|2013]]
+
+===Individual===
+*[[Belgian Golden Shoe]]: 2007&lt;ref&gt;{{cite web|url=http://www.rsssf.com/miscellaneous/belgpoy.html|title=Belgium – Player of the Year Awards|publisher=[[Rec.Sport.Soccer Statistics Foundation]]|accessdate=26 April 2017}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* {{Zerozero}}
+* {{ForaDeJogo}}
+* {{Soccerbase}}
+* [http://static.belgianfootball.be/project/publiek/jrinteren/speler_PH_5167.htm National team data]
+* {{NFT player|pid=14361}}
+* {{FIFA player|290824}}
+
+{{Burnley F.C. squad}}
+{{Belgium squad 2014 FIFA World Cup}}
+{{Belgian Golden Shoe}}
+
+{{DEFAULTSORT:Defour, Steven}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:People from Mechelen]]
+[[Category:Flemish sportspeople]]
+[[Category:Belgian footballers]]
+[[Category:Association football midfielders]]
+[[Category:Belgian First Division A players]]
+[[Category:K.R.C. Genk players]]
+[[Category:Standard Liège players]]
+[[Category:R.S.C. Anderlecht players]]
+[[Category:Primeira Liga players]]
+[[Category:FC Porto players]]
+[[Category:Premier League players]]
+[[Category:Burnley F.C. players]]
+[[Category:Belgium youth international footballers]]
+[[Category:Belgium international footballers]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:Belgian expatriate footballers]]
+[[Category:Expatriate footballers in Portugal]]
+[[Category:Expatriate footballers in England]]
+[[Category:Belgian expatriate sportspeople in Portugal]]
+[[Category:Belgian expatriate sportspeople in England]]</text>
+      <sha1>hck6nzulqtv14egfvtqno6hgmxvifz0</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,455 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lucas Piazon</title>
+    <ns>0</ns>
+    <id>41641747</id>
+    <revision>
+      <id>885964078</id>
+      <parentid>885488630</parentid>
+      <timestamp>2019-03-03T13:22:17Z</timestamp>
+      <contributor>
+        <username>Katz191</username>
+        <id>13817382</id>
+      </contributor>
+      <minor/>
+      <comment>/* Loan to Fulham */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="38003">{{Use dmy dates|date=January 2014}}
+{{Portuguese name|Domingues|Piazon}}
+{{Infobox football biography
+| name           = Lucas Piazon
+| image          = Lucas_Piazon.jpg
+| fullname       = Lucas Domingues Piazon&lt;ref&gt;{{Cite web|title=Premier League Clubs submit Squad Lists |url=http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/squad-lists-february-2012.pdf |publisher=Premier League |format=PDF |accessdate=2 February 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120227041058/http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/squad-lists-february-2012.pdf |archivedate=27 February 2012 |df= }}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1994|1|20|df=y}}
+| birth_place    = [[São Paulo]], Brazil
+| height         = 1.82 m&lt;ref&gt;{{cite news|url=http://www.premierleague.com/en-gb/players/profile.html/lucas-piazon|title=Player Profile: Lucas Piazon|publisher=Premier League|accessdate=31 July 2012}}&lt;/ref&gt;
+| position = [[Forward (association football)|Winger]]
+| currentclub    =  [[A.C. ChievoVerona|Chievo]]&lt;br /&gt;(on loan from [[Chelsea F.C.|Chelsea]])
+| clubnumber     = 7
+| youthyears1    = 2001–2006
+| youthclubs1 = [[Coritiba Foot Ball Club|Coritiba]]
+| youthyears2    = 2007–2008
+| youthclubs2 = [[Clube Atlético Paranaense|Atlético Paranaense]]
+| youthyears3    = 2008–2011
+| youthclubs3 = [[São Paulo FC|São Paulo]]
+| youthyears4    = 2011–2012
+| youthclubs4 = [[Chelsea F.C. Reserves and Academy|Chelsea]]
+| years1         = 2012–
+| clubs1 = [[Chelsea F.C.|Chelsea]]
+| caps1 = 1
+| goals1 = 0
+| years2         = 2013
+| clubs2 = → [[Málaga CF|Málaga]] (loan)
+| caps2 = 11
+| goals2 = 0
+| years3         = 2013–2014
+| clubs3 = → [[SBV Vitesse|Vitesse]] (loan)
+| caps3 = 29
+| goals3 = 11
+| years4         = 2014–2015
+| clubs4 = → [[Eintracht Frankfurt]] (loan)
+| caps4 = 22
+| goals4 = 2
+| years5         = 2015–2016
+| clubs5 = → [[Reading F.C.|Reading]] (loan)
+| caps5 = 23
+| goals5 = 3
+| years6         = 2016–2018
+| clubs6 = → [[Fulham F.C.|Fulham]] (loan)
+| caps6 = 53
+| goals6 = 10
+| years7          =2019–
+| clubs7 = → [[A.C. ChievoVerona|Chievo]] (loan)
+| caps7 = 2
+| goals7 = 0
+| nationalyears1 = 2009–2010
+| nationalteam1  = [[Brazil national under-15 football team|Brazil U15]]
+| nationalcaps1  = 7
+| nationalgoals1 = 10
+| nationalyears2 = 2011
+| nationalteam2  = [[Brazil national under-17 football team|Brazil U17]]
+| nationalcaps2  = 15
+| nationalgoals2 = 4
+| nationalyears3 = 2014
+| nationalteam3  = [[Brazil national under-20 football team|Brazil U20]]
+| nationalcaps3  = 3
+| nationalgoals3 =  1
+| nationalyears4 = 2015
+| nationalteam4  = [[Brazil national under-23 football team|Brazil U23]]
+| nationalcaps4  = 5
+| nationalgoals4 =  1
+| medaltemplates = {{MedalCountry|{{flagu|Brazil}}}}
+{{MedalSport | Men's [[association football|Football]]}}
+{{MedalCompetition|[[Pan American Games]]}}
+{{MedalBronze | [[2015 Pan American Games|2015 Toronto]] |[[Football at the 2015 Pan American Games – Men's tournament|Team Competition]]}}
+| club-update = 24 February 2019 
+| nationalteam-update = 
+}}
+'''Lucas Domingues Piazon''' (born 20 January 1994) is a Brazilian professional [[association football|footballer]] who plays for [[Serie A]] club [[A.C. ChievoVerona|Chievo]], on loan from [[Chelsea F.C.|Chelsea]]. He is primarily a [[Forward (association football)|striker]], although he has also been deployed as a left [[Winger (association football)#Winger|winger]], as an [[attacking midfielder]] or in the hole behind the striker.
+
+==Early life==
+Piazon was born in [[São Paulo]], to António Carlos Piazon, a commercial representative, and Marizabel Domingues, a lawyer. He had a financially secure upbringing that allowed him to focus on both school and football at the same time. Both of Piazon's parents took an active role in his career. He grew up with his sister Juliana, who is three years younger than him&lt;ref&gt;{{cite news|url=http://www.chelseaindia.com/forum/viewtopic.php?f=27&amp;t=781&amp;start=0|title=Piazon sister|publisher=ChelseaIndia|deadurl=yes|archiveurl=https://web.archive.org/web/20140116080351/http://www.chelseaindia.com/forum/viewtopic.php?f=27&amp;t=781&amp;start=0|archivedate=16 January 2014|df=dmy-all}}&lt;/ref&gt; and was a [[Chelsea F.C.|Chelsea]] supporter from an early age, aspiring to play for them some day.&lt;ref&gt;{{cite news|url=http://pitacodogringo.wordpress.com/2011/06/13/interview-with-chelsea-signing-lucas-piazon-full-version/|title=Piazon Biography|date=11 June 2011|accessdate=11 June 2011|publisher=pitacodogringo}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.independent.ie/sport/soccer/boy-from-brazil-set-for-life-at-chelsea-2672129.html|title=Brazilian to Stamford Bridge|date=11 June 2011|accessdate=11 June 2011|work=The Independent}}&lt;/ref&gt;
+
+When he was young, Piazon's family moved to [[Paraná (state)|Paraná]]. Piazon's football skills began to blossom at age eight. He developed an interest in [[futsal]] (indoor football) like other Brazilian footballers (such as [[Zico]] and [[Ronaldinho]]). He began playing for [[Coritiba Foot Ball Club|Coritiba]]. At the age of 11, Piazon made the switch from [[Indoor soccer|indoor]] to the field.
+
+==Club career==
+
+===Youth career===
+Piazon began his professional career with [[Coritiba Foot Ball Club|Coritiba]]. He made an impression with them becoming top scorer in every youth tournament he appeared in. In 2007, he moved to neighbouring club, [[Clube Atlético Paranaense|Atlético Paranaense]]. He again turned out, as Atlético reached the finals of the U-15 Copa do Brasil in 2008, which they eventually lost to [[São Paulo FC|São Paulo]]. São Paulo became very impressed with his performance and made an offer. At the age of 14, Piazon left his family behind in Curitiba and joined São Paulo. In May, he began to attract the attention of international scouts when he helped guide São Paulo through the Brazilian qualifiers for the [[Manchester United Premier Cup|Premier Cup]] (Nike Cup). It was around this time that he was also called up by Brazil's U-15s. In August, São Paulo travelled to Manchester for the Premier Cup finals. In the Group stage, Piazon scored in the 3–0 win versus [[Manchester United F.C.|Manchester United]]. São Paulo then went on to beat [[SV Werder Bremen|Werder Bremen]] in the final match.
+
+===Chelsea===
+In early 2011, Chelsea secured the services of Piazon by means of a pre-contract, having to fight off the interest from a number of the world's leading clubs, including Italian team [[Juventus F.C.|Juventus]].&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/8568660/Brazils-best-young-footballers-no-long-available-on-the-cheap.html|title=Brazil's best young footballers no longer available on the cheap|date=10 June 2011|accessdate=8 July 2011|work=The Daily Telegraph|location=London|first=Jon|last=Cotterill}}&lt;/ref&gt; On 15 March 2011, São Paulo announced that Piazon could only play for the Chelsea senior team after 20 January 2012 when he became eligible to obtain a work visa, but he would join in the 2011 summer transfer window. Chelsea announced ten days later with Piazon passing a medical in London in early March 2011. It was reported that Chelsea paid in the region of [[Pound sterling|£]]5&amp;nbsp;million to acquire Piazon, which could rise to £10&amp;nbsp;million depending on several clauses.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2011/mar/15/chelsea-brazilian-teenager-lucas-piazon
+|title=Chelsea strike deal to sign Brazilian teenager Lucas Piazon|date=15 March 2011|accessdate=8 July 2011|work=The Guardian|location=London|first=Dominic|last=Fifield}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.bbc.co.uk/blogs/timvickery/2011/04/will_piazon_stand_out_at_stamf.html|title=Will Piazon stand out at Stamford Bridge?|date=11 April 2011|accessdate=8 July 2011|publisher=BBC Sport}}&lt;/ref&gt; He was transferred to Chelsea during the 2011 summer transfer window and started playing for the reserves.&lt;ref&gt;{{cite news|url=http://www.chelseafc.com/news-article/article/2324419|archive-url=https://archive.is/20130425084522/http://www.chelseafc.com/news-article/article/2324419|dead-url=yes|archive-date=25 April 2013|title=TERMS AGREED FOR YOUNG BRAZILIAN|date=25 March 2011|accessdate=25 June 2014|publisher=Chelsea F.C.}}&lt;/ref&gt; In an interview, he stated, "[I chose Chelsea because] I like the [[Premier League]]. I think my way of playing and my skills are more suited to the Premier League."&lt;ref&gt;{{cite web|url=http://www.givemefootball.com/premier-league/chelsea-starlet-im-not-kaka |title=Chelsea teenager Lucas Piazon rejects Kaka comparisons |publisher=Give Me Football |date=21 October 2011 |accessdate=2 November 2011}}&lt;/ref&gt;
+
+Piazon made his debut for the reserve team against [[Fulham F.C.|Fulham]], thereafter saying, "I am able to play in the Youth Cup now." "Everybody knows I am here to play, so my main aims for the season are to play as many youth games as possible and hopefully feature in the reserves as well, and I want to win the Youth Cup." He also stated, "I am enjoying the company of [[Ramires]], [[Alex (footballer, born 1982)|Alex]] and, of course, [[David Luiz]] is my best friend here. He is so funny and always joking so it's nice."&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2514375 |archive-url=https://archive.is/20140625123649/http://www.chelseafc.com/news-article/article/2514375 |dead-url=yes |archive-date=25 June 2014 |title=Youth Report: Chelsea 4 Fulham 2 |publisher=Chelsea F.C. |date=12 November 2011 |accessdate=25 June 2014 }}&lt;/ref&gt; Piazon scored his first reserve goal in an away victory against [[Arsenal F.C.|Arsenal]], just before full-time with a solo effort, inside the box before firing it into the net.&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2552711 |archive-url=https://archive.is/20140625123644/http://www.chelseafc.com/news-article/article/2552711 |dead-url=yes |archive-date=25 June 2014 |title=RESERVE REPORT: ARSENAL 0 CHELSEA 4 |publisher=Chelsea F.C. |date=21 December 2011 |accessdate=25 June 2014 }}&lt;/ref&gt; He has scored twice in five games for the reserves and once in six for the youth team, most notably the winner in the [[FA Youth Cup]] tie against [[Doncaster Rovers F.C.|Doncaster Rovers]].&lt;ref&gt;{{cite web|url=http://www.givemefootball.com/premier-league/chelsea-sign-up-brazilian-starlet |title=Chelsea sign up Brazilian starlet |publisher=Give Me Football |date=26 January 2012 |accessdate=26 January 2012}}&lt;/ref&gt;
+He won the FA Youth Cup on 9 May 2012 against Blackburn, although failing to score in the match.
+
+On 20 January 2012, his 18th birthday, Piazon obtained a [[work visa]] and became eligible to play for the Chelsea senior team. On 26 January 2012, he signed a contract extension that will keep him with the club until 2017.&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2589434 |archive-url=https://archive.is/20130425105748/http://www.chelseafc.com/news-article/article/2589434 |dead-url=yes |archive-date=25 April 2013 |title=Piazon Signs Extension |publisher=Chelsea F.C. |date=26 January 2012 |accessdate=25 June 2014 }}&lt;/ref&gt; After impressing at Under-18 and Reserve level, Piazon was given the number 35 shirt, which was previously worn by [[Juliano Belletti]]. He was an unused substitute on the Chelsea bench, on 31 January 2012, in their 1–1 league draw against [[Swansea City A.F.C.|Swansea City]]&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/16695854.stm |title=Piazon makes bench |publisher=BBC Sport |date=31 January 2012 |accessdate=31 January 2012}}&lt;/ref&gt; and on 5 February 2012, in the 3–3 draw against [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/16779082 |title=Chelsea v Man U |publisher=BBC Sport |date=5 February 2012 |accessdate=5 February 2012}}&lt;/ref&gt; Former Chelsea manager [[André Villas-Boas]] said, after the [[Manchester United F.C.|Manchester United]] game, "He [Piazon] has trained more with the first team, which is very good for him. He's made great progress since arriving and in the last two games was on the bench. Unfortunately, he had no opportunity to enter, but has done a great job in the reserves team. He is a player that we have high hopes for."&lt;ref&gt;{{cite web|url=http://www.tribalfootball.com/articles/avb-chelsea-have-high-hopes-lucas-piazon-2687411 |title=AVB: Chelsea have high hopes for Lucas Piazon |publisher= Tribal Football |accessdate= 2 September 2012}}&lt;/ref&gt;
+
+On 10 May 2012, Piazon was named Chelsea Young Player of the Year in his first season. He was part of the side that won the FA Youth Cup Final 24 hours earlier. "I am very happy and I didn't expect this. It has been a fantastic week for me. David Luiz and Ramires have helped me a lot here as when I came in I was alone. I hope to be at Chelsea a long time and I will keep working." he said.&lt;ref&gt;{{cite news|url=http://www.chelseafc.com/news-article/article/2767955 |location=London |publisher=Chelsea F.C. |title=Piazon pick up Chelsea award |date=25 June 2014 }}{{dead link|date=May 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; Later that week, he was named on the bench on the final day of the season, in a home game against [[Blackburn Rovers F.C.|Blackburn Rovers]] which Chelsea won 2–1, but was not involved in the game.&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/17973169 "Chelsea 2–1 Blackburn"] BBC Sport. 13 May 2012. Retrieved 22 May 2012.&lt;/ref&gt; He told that he's looking forward to continuing his development and would like to make the breakthrough into the senior side, saying "I hope to be in the main group, train with them every day and if I have a chance to play some games." He went on to say that he's "always dreamed of playing for Chelsea."&lt;ref&gt;{{cite news|url=http://www1.skysports.com/football/news/11095/7884927/|title=Piazon living Chelsea dream|date=9 July 2012|accessdate=9 July 2012|publisher=Sky Sports}}&lt;/ref&gt;
+
+====2012–13 season====
+The pre-season prior to the start of the [[2012–13 Chelsea F.C. season|2012–13 season]], Piazon was given a chance to prove himself by Chelsea manager [[Roberto Di Matteo]] after being taken on tour in the United States, came on as a substitute in three of the four matches, making his senior debut in the 4–2 win over [[Seattle Sounders FC|Seattle Sounders]].&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2853452/title/match-report-seattle-sounders-2-chelsea-4 |archive-url=https://archive.is/20130119114156/http://www.chelseafc.com/news-article/article/2853452/title/match-report-seattle-sounders-2-chelsea-4 |dead-url=yes |archive-date=19 January 2013 |title=MATCH REPORT: SEATTLE SOUNDERS 2 CHELSEA 4 |publisher=Chelsea F.C. |accessdate=19 July 2012 }}&lt;/ref&gt; He scored his first goal in his second senior Chelsea appearance, the equaliser to earn Chelsea a 1–1 draw against [[Paris Saint-Germain F.C.|Paris Saint-Germain]] at [[Yankee Stadium]]. Afterwards, he spoke of his delight: "It was good for me, it was special, to score in my second game", said the forward.&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2857424/title/match-report-chelsea-1-paris-st-germain-1 |archive-url=https://archive.is/20130119052844/http://www.chelseafc.com/news-article/article/2857424/title/match-report-chelsea-1-paris-st-germain-1 |dead-url=yes |archive-date=19 January 2013 |title=MATCH REPORT: CHELSEA 1 PARIS ST-GERMAIN 1 |publisher=Chelsea F.C. |accessdate=23 July 2012 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2857441/title/piazon-a-special-feeling |title=PIAZON: A SPECIAL FEELING |publisher=Chelsea F.C. |accessdate=23 July 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20140102182122/http://www.chelseafc.com/news-article/article/2857441/title/piazon-a-special-feeling |archivedate=2 January 2014 |df=dmy-all }}&lt;/ref&gt; Piazon came on in the 3–2 defeat to the MLS All-Stars in the [[2012 MLS All-Star Game]]&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2861129/title/match-report-mls-all-stars-3-chelsea-2 |archive-url=https://archive.is/20130119010819/http://www.chelseafc.com/news-article/article/2861129/title/match-report-mls-all-stars-3-chelsea-2 |dead-url=yes |archive-date=19 January 2013 |title=MATCH REPORT: MLS ALL-STARS 3 CHELSEA 2 |publisher=Chelsea F.C. |accessdate=26 July 2012 }}&lt;/ref&gt; and was an unused substitute in the following fixture, with [[Fernando Torres]] taking his place in a 1–0 loss to [[A.C. Milan|Milan]].&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2864211/title/match-report-chelsea-0-ac-milan-1 |archive-url=https://archive.is/20130119020331/http://www.chelseafc.com/news-article/article/2864211/title/match-report-chelsea-0-ac-milan-1 |dead-url=yes |archive-date=19 January 2013 |title=MATCH REPORT: CHELSEA 0 AC MILAN 1 |publisher=Chelsea F.C. |accessdate=29 July 2012 }}&lt;/ref&gt;
+
+Piazon was named in Chelsea's 22-man [[2012–13 UEFA Champions League|Champions League]] squad, along with fellow Brazilians [[Oscar (footballer, born 1991)|Oscar]], David Luiz and Ramires&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2910233/title/champions-league-squad-announced |title=CHAMPIONS LEAGUE SQUAD ANNOUNCED |publisher=Chelsea F.C. |accessdate=4 September 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120905212154/http://www.chelseafc.com/news-article/article/2910233/title/champions-league-squad-announced |archivedate=5 September 2012 |df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://esportes.terra.com.br/futebol/europeu/liga-dos-campeoes/noticias/0,,OI6129611-EI20455,00-Piazon+e+surpresa+em+relacionados+do+Chelsea+para+Liga+dos+Campeoes.html |title=Piazon in Chelsea Champions League squad |publisher= esportes.terra.com |accessdate= 4 September 2012}}&lt;/ref&gt; and was chosen ahead of [[Florent Malouda]].&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-2198221/Florent-Malouda-left-Chelseas-Champions-League-squad.html?ito=feeds-newsxml |title= CL Squad – Piazon in, Malouda out |work=Daily Mail |accessdate= 4 September 2012 |location=London |date=4 September 2012}}&lt;/ref&gt; Piazon made his competitive debut for Chelsea, starting in their [[2012–13 Football League Cup|League Cup]] fixture against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]], which ended a 6–0 win for the Blues, also assisting the goal for [[Ryan Bertrand]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/19632463 |title= Chelsea 6–0 Wolves |publisher=BBC Sport |accessdate= 24 September 2012}}&lt;/ref&gt; On 31 October 2012, Piazon played his second game in the [[Football League Cup|League Cup]] against Manchester United, which ended 5–4 win for Chelsea after extra time with Piazon being substituted in the 55th minute for [[Eden Hazard]].&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/2966389/title/match-report-chelsea-5-manchester-united-4-(aet) |title=MATCH REPORT: CHELSEA 5 MANCHESTER UNITED 4 (AET) |publisher=Chelsea F.C. |accessdate=31 October 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20121102231246/http://www.chelseafc.com/news-article/article/2966389/title/match-report-chelsea-5-manchester-united-4-(aet) |archivedate=2 November 2012 |df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/20053672 |title= Chelsea 5–4 Man Utd |publisher=BBC Sport |accessdate= 31 October 2012}}&lt;/ref&gt; Piazon netted a goal in the U-19's comprehensive 6–0 defeat of [[Molde FK#Reserve squad|Molde]] on 8 November in the [[2012–13 NextGen Series#Group 3|NextGen Series]].&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/under21s-article/article/2974480/title/under-19s-report-chelsea-6-molde-0 |title=UNDER-19S REPORT: CHELSEA 6 MOLDE 0 |publisher=Chelsea F.C. |date=8 November 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20131005154352/http://www.chelseafc.com/under21s-article/article/2974480/title/under-19s-report-chelsea-6-molde-0 |archivedate=5 October 2013 |df= }}&lt;/ref&gt;
+On 23 December, he made his Premier League debut in an 8–0 win against [[Aston Villa F.C.|Aston Villa]], during which he assisted a goal for Ramires and took a penalty kick which he had won, only for it to be saved by Aston Villa goalkeeper [[Brad Guzan]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/20745787 "Chelsea 8–0 Aston Villa"] BBC Sport. 23 December 2012. Retrieved 23 December 2012.&lt;/ref&gt;
+
+====Loan to Málaga====
+During the 2013 January transfer window, Piazon was loaned to Spanish [[La Liga]] side [[Málaga CF|Málaga]] until the end of the season.&lt;ref&gt;{{cite web|url=http://www.espn.co.uk/football/sport/story/188425.html |title=Piazon joins Malaga on loan |publisher=ESPN |date=15 January 2013}}&lt;/ref&gt; He made his debut for Málaga on 24 January 2013, coming on as a substitute in the 4–2 home defeat in the [[2012–13 Copa del Rey|Copa del Rey]] quarter-final against [[FC Barcelona|Barcelona]]. On 16 February, he assisted [[Javier Saviola]]'s winner in a 1–0 home win against [[Athletic Bilbao]].&lt;ref&gt;{{cite web|url=http://espnfc.com/en/report/348289/report.html?soccernet=true&amp;cc=null |archiveurl=https://web.archive.org/web/20130222042345/http://espnfc.com/en/report/348289/report.html?soccernet=true&amp;cc=null |archivedate=22 February 2013 |title=Saviola sends Malaga to victory |publisher=ESPN |date=16 February 2013}}&lt;/ref&gt; On 9 March 2013, Piazon made his second assist for Málaga with a great ball from a free-kick that found [[Martín Demichelis]], who headed to score in a 1–1 draw against [[Real Valladolid]].&lt;ref&gt;{{cite web|url=http://espnfc.com/en/report/350149/report.html?soccernet=true&amp;cc=null |archiveurl=https://web.archive.org/web/20130508055951/http://espnfc.com/en/report/350149/report.html?soccernet=true&amp;cc=null |archivedate=8 May 2013 |title=Malaga held to draw |publisher=ESPN |date=9 March 2013 }}&lt;/ref&gt;
+
+====Loan to Vitesse====
+On 9 August 2013, Piazon was loaned to [[Eredivisie]] club [[SBV Vitesse|Vitesse]] until the end of the 2013–14 season.&lt;ref&gt;{{cite web|url=http://www.vitesse.nl/vitessenl/nieuws/detail/3699 |title=Piazon to Vitesse |language=Dutch |publisher=Vitesse |date=9 August 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news-article/article/3343277/title/piazon-heads-to-vitesse-on-loan |title=PIAZON HEADS TO VITESSE ON LOAN |publisher=Chelsea F.C. |date=9 August 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130812043856/http://www.chelseafc.com/news-article/article/3343277/title/piazon-heads-to-vitesse-on-loan |archivedate=12 August 2013 |df= }}&lt;/ref&gt; On 17 August 2013, he made his debut for Vitesse in a 1–1 draw at [[Roda JC Kerkrade|Roda JC]].&lt;ref&gt;{{cite web|url=http://www.espnfc.com/gamecast/statistics/id/367118/statistics.html |title=Roda JC 1–1 Vitesse Arnhem |publisher=ESPN FC |date=17 August 2013}}&lt;/ref&gt; On 22 September, Piazon scored his first goals in his professional career and for Vitesse, scoring a brace in the 3–0 win at home to [[PEC Zwolle]].&lt;ref&gt;{{cite web|url=http://www.espnfc.com/gamecast/statistics/id/367077/statistics.html |title=Vitesse Arnhem 3–0 PEC Zwolle |publisher=ESPN FC |date= 22 September 2013}}&lt;/ref&gt; In the following Eredivisie fixture, against [[N.E.C. (football club)|NEC]], Piazon scored the winner for Vitesse in the 92nd minute, from outside the box, which ended 3–2 on 29 September.&lt;ref&gt;{{cite web|url=http://www.espnfc.com/gamecast/statistics/id/367069/statistics.html |title=NEC 2–3 Vitesse Arnhem |publisher=ESPN FC |date= 29 September 2013}}&lt;/ref&gt; On 19 October 2013, he scored a brace and assisted [[Patrick van Aanholt]]'s winner, as Vitesse came from 2–0 down to win 3–2 at [[SC Heerenveen|Heerenveen]].&lt;ref&gt;{{cite web|url=http://www.espnfc.com/gamecast/statistics/id/367054/statistics.html |title=SC Heerenveen 2–3 Vitesse Arnhem |publisher=ESPN FC |date= 19 October 2013}}&lt;/ref&gt; On 24 November, Piazon scored two penalties at [[Go Ahead Eagles]] in a 3–0 win.&lt;ref&gt;{{cite web|url=http://www.espnfc.com/gamecast/statistics/id/367025/statistics.html |title=Go Ahead Eagles 0–3 Vitesse Arnhem |publisher=ESPN FC |date= 24 November 2013}}&lt;/ref&gt; In Vitesse's fixture away to [[PSV Eindhoven|PSV]] on 7 December, Piazon scored another goal as Vitesse convincingly won 6–2 to stay at the top of the Eredivisie table.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/25287088 |title=Vitesse Arnhem hammered PSV Eindhoven to keep their place at the top of the Dutch table. |publisher=BBC Sport |date=7 December 2013 |accessdate=9 December 2013 }}&lt;/ref&gt;
+
+====Loan to Frankfurt====
+On 24 July 2014, Piazon joined [[Eintracht Frankfurt]] on loan for the [[2014–15 Eintracht Frankfurt season|2014–15 season]].&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news/latest-news/2014/07/piazon-loaned-to-frankfurt.html |title=Piazon loaned to Frankfurt |publisher=Chelsea F.C. |date=24 July 2014}}&lt;/ref&gt; On 2 August, he scored his first goal in a 4–2 friendly win against [[U.C. Sampdoria|Sampdoria]].
+
+On 23 August, Piazon made his debut in the Bundesliga against [[SC Freiburg]], a 1–0 victory.&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2014/08/23/germany/bundesliga/eintracht-frankfurt/sc-freiburg/1713105/ |title=Eintracht Frankfurt vs. Freiburg  1 – 0 |work=Soccerway |date=23 August 2014}}&lt;/ref&gt; His first Bundesliga goal came on 28 September against [[Hamburger SV]]; having came off the bench in the 86th minute for [[Stefan Aigner]], in the 90th minute he struck a free-kick from nearly 30 yards out to seal a 2–1 victory.&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/sport/football/article-2772823/Chelsea-loanee-Lucas-Piazon-scores-stunning-gasp-free-kick-Frankfurt-beat-Lewis-Holtby-s-happless-Hamburg.html |title=Chelsea loanee Lucas Piazon scores stunning last gasp free kick for Frankfurt to beat Lewis Holtby's hapless Hamburg|publisher=Daily Mail |date=28 September 2014}}&lt;/ref&gt;
+
+====Loan to Reading====
+On 31 August 2015, Piazon joined [[Reading F.C.|Reading]] on a season-long loan deal.&lt;ref&gt;{{Cite news |title=Piazon loaned to Reading|url=http://www.chelseafc.com/news/latest-news/2015/08/piazon-loaned-to-reading.html |publisher=Chelsea F.C.|accessdate=1 September 2015|date=31 August 2015}}&lt;/ref&gt; On 11 September 2015, Piazon made his Reading debut and provided an assist to [[Oliver Norwood]] in a thrilling 5–1 triumph against [[Ipswich Town F.C.|Ipswich Town]] coming on as a 77th-minute substitute for [[Matěj Vydra]].&lt;ref&gt;{{Cite news |title=BBC Sport – Reading 5–1 Ipswich Town |url=https://www.bbc.co.uk/sport/0/football/34148740 |publisher=BBC Sport |date=11 September 2015}}&lt;/ref&gt; On 26 September, he scored his first goal for Reading in a 2–1 win against [[Burnley F.C.|Burnley]].&lt;ref&gt;{{cite news|title=Burnley 1–2 Reading|url=https://www.bbc.co.uk/sport/0/football/34299078|accessdate=28 September 2015|publisher=BBC Sport|date=26 September 2015}}&lt;/ref&gt; Piazon returned to Chelsea on 28 April 2016, a week before his loan deal was due to expire.&lt;ref&gt;{{cite web|title=Chelsea duo return to the Bridge|url=http://www.readingfc.co.uk/news/article/chelsea-duo-lucas-piazon-michael-hector-return-stamford-bridge-3083631.aspx|website=readingfc.co.uk|publisher=Reading F.C.|accessdate=28 April 2016}}&lt;/ref&gt;
+
+====Loan to Fulham====
+On 31 August 2016, Piazon joined Fulham on a season-long loan, joining Chelsea teammate [[Tomáš Kalas]].&lt;ref&gt;{{Cite news |title=Piazon in temporary Fulham switch |url=http://www.chelseafc.com/news/latest-news/2016/08/piazon-in-temporary-fulham-switch.html |publisher=Chelsea Official Site |date=31 August 2016 |accessdate=31 August 2016}}&lt;/ref&gt; Piazon made his Fulham debut and scored his first goal for the club in a 2–1 [[EFL Cup]] defeat against [[Bristol City F.C.|Bristol City]] on 21 September 2016.&lt;ref&gt;{{cite news
+|url=https://www.bbc.co.uk/sport/football/37357714|title=Fulham 1–2 Bristol City|publisher=BBC Sport|date=21 September 2016|accessdate=21 September 2016}}&lt;/ref&gt;
+
+On 17 January 2017, Piazon's loan at Fulham was extended until the end of the season.&lt;ref&gt;{{Cite news |title=Piazon extends Fulham stay |url=http://www.chelseafc.com/news/latest-news/2017/01/piazon-extends-fulham-stay.html |publisher=Chelsea Official Site |date=17 January 2017|accessdate=17 January 2017}}&lt;/ref&gt; On 14 July 2017, Piazon's loan was extended for a further season.&lt;ref&gt;{{Cite news |title=Extension and loan for Piazon |url=http://www.chelseafc.com/news/latest-news/2017/07/piazon-returns-for-fulham-loan.html |publisher=Chelsea Official Site |date=14 July 2017 |accessdate=14 July 2017}}&lt;/ref&gt;
+
+On 15 August 2017, Piazon suffered a fracture-dislocation of his right ankle after a tackle from Leeds player [[Conor Shaughnessy]] in their 0–0 draw at Elland Road. He has since had successful surgery and is undergoing rehabilitation, but there is no timetable on his return.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/40858332|title=Leeds United 0–0 Fulham|publisher=BBC Sport}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/40943788|title=Lucas Piazon: Fulham's on-loan midfielder breaks leg in draw at Leeds|date=15 August 2017|publisher=|via=www.bbc.com}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.getwestlondon.co.uk/sport/football/football-news/fulham-give-update-chelsea-loanee-13491645|title=Fulham give update on Lucas Piazon injury|first=Ryan|last=O'Donovan|date=17 August 2017|publisher=}}&lt;/ref&gt;
+
+====Loan to Chievo====
+
+In January 2019, he joined on loan [[A.C. ChievoVerona|ChievoVerona]].&lt;ref&gt;{{cite web|url=https://www.chievoverona.it/en/highlights/news/official-lucas-piazon-giallobl%C3%B9|title=OFFICIAL: LUCAS PIAZON IS GIALLOBLÙ|publisher=A.C. ChievoVerona|date=31 January 2019|accessdate=8 February 2019}}&lt;/ref&gt;
+
+==International career==
+Piazon has represented Brazil at both under-15 and under-17 levels. At under-15 level, he helped his team to second place in the [[South American Under-15 Football Championship]] of [[2009 South American Under-15 Football Championship|2009]] in Bolivia, being the top goalscorer with ten goals.
+
+At the under-17 level, during an international game for Brazil's U17 squad against Paraguay, Piazon scored an extraordinary goal when he kicked the ball with such force that it broke through the side netting of the goals, in a game which they went on to lose 2–1. In the [[2011 FIFA U-17 World Cup]], he scored in a 3–3 draw against the [[Ivory Coast national under-17 football team|Ivory Coast]].
+
+==Style of play==
+A tactical player, Piazon is known for his [[Dribbling|flair]], [[Passing (association football)|passing]], [[Shooting (association football)|powerful shooting]], [[Direct free kick|free-kicks]], [[Penalty kick (association football)|penalty kick]]s, reading of the game and [[Association football positions#Attacking|clinical finishing]]. Piazon commented on his playing style, "I'd say my playing style is different from typical Brazilian forwards. When you think about these, you think about dribbles and flashy moves. My football is simpler and more direct. It's more like a midfielder playing up front. I like to pass quickly. I don't hog the ball and I don't tend to run with it."&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/8568660/Brazils-best-young-footballers-no-long-available-on-the-cheap.html |title=Piazon Style |work=The Daily Telegraph |date=5 February 2012 |accessdate=5 February 2012 |location=London |first=Jon |last=Cotterill}}&lt;/ref&gt;
+
+The media have often drawn comparisons between Piazon and Brazilian playmaker [[Kaká]], as the pair possess similar attributes and natural technical finesse. Piazon also somewhat resembles Kaká. However, Piazon has rejected comparisons saying: "I don't think [we are similar]", Piazon says of Kaká. "My style and his style are different because I am a [[Winger (soccer)|winger]], or a [[second striker]], and he is a [[Midfielder|central midfielder]]. He went on to say, "I don't think the comparison is because of our style. I think it is because we both played at São Paulo and maybe we can look similar on the pitch sometimes."&lt;ref&gt;{{cite web|url=http://www.sambafoot.com/en/news/24902_lucas_piazon___i_don_t_think_i_resemble_kaka_.html |title=Lucas Piazon: "I don't think I resemble Kaká" |publisher=Samba Foot |date=5 February 2012 |accessdate=5 February 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.givemefootball.com/premier-league/chelsea-starlet-im-not-kaka |title=Chelsea starlet: I'm not Kaka |publisher=Give Me Football |date=5 February 2012 |accessdate=5 February 2012}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 24 February 2019}}&lt;ref&gt;{{Soccerway|lucas-domingues-piazon/180825|accessdate=26 May 2018}}&lt;/ref&gt;&lt;ref name="Lucas Piazon » Club matches"&gt;{{cite web|title=Lucas Piazon » Club matches|url=http://www.worldfootball.net/player_summary/lucas-piazon/2/|publisher=World Football|accessdate=19 August 2015}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"| Club
+!rowspan="2"| Season
+!colspan="3"| League
+!colspan="2"| National Cup
+!colspan="2"| League Cup
+!colspan="2"| Continental
+!colspan="2"| Other
+!colspan="2"| Total
+|-
+! League
+! {{Tooltip|Apps|Appearances}}
+! {{Tooltip|Goals}}
+! {{Tooltip|Apps|Appearances}}
+! {{Tooltip|Goals}}
+! {{Tooltip|Apps|Appearances}}
+! {{Tooltip|Goals}}
+! {{Tooltip|Apps|Appearances}}
+! {{Tooltip|Goals}}
+! {{Tooltip|Apps|Appearances}}
+! {{Tooltip|Goals}}
+! {{Tooltip|Apps|Appearances}}
+! {{Tooltip|Goals}}
+|-
+|rowspan=3| [[Chelsea F.C.|Chelsea]]
+| [[2012–13 Chelsea F.C. season|2012–13]]
+| rowspan="1"| [[Premier League]]
+| 1
+| 0
+| 0
+| 0
+| 2
+| 0
+| 0
+| 0
+| 0
+| 0
+| '''3'''
+| '''0'''
+|-
+| [[2018–19 Chelsea F.C. season|2018–19]]
+| rowspan="1"| [[Premier League]]
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+|colspan="2"|—
+| '''0'''
+| '''0'''
+|-
+!colspan="2"| Total
+! 1
+! 0
+! 0
+! 0
+! 2
+! 0
+! 0
+! 0
+! 0
+! 0
+! 3
+! 0
+|-
+| [[Málaga CF|Málaga]] (loan)
+| [[2012–13 Málaga CF season|2012–13]]
+| [[La Liga]]
+| 11
+| 0
+| 1
+| 0
+|colspan="2"|—
+| 2
+| 0
+|colspan="2"|—
+| '''14'''
+| '''0'''
+|-
+| [[SBV Vitesse|Vitesse]] (loan)
+| [[2013–14 Eredivisie|2013–14]]
+| [[Eredivisie]]
+| 29
+| 11
+| 2
+| 0
+|colspan="2"|—
+|colspan="2"|—
+|colspan="2"|—
+| '''31'''
+| '''11'''
+|-
+| [[Eintracht Frankfurt]] (loan)
+| [[2014–15 Eintracht Frankfurt season|2014–15]]
+| [[Bundesliga]]
+| 22
+| 2
+| 1
+| 0
+|colspan="2"|—
+|colspan="2"|—
+|colspan="2"|—
+| '''23'''
+| '''2'''
+|-
+| [[Reading F.C.|Reading]] (loan)
+| [[2015–16 Reading F.C. season|2015–16]]
+| rowspan="3"|[[EFL Championship|Championship]]
+| 23
+| 3
+| 3
+| 2
+| 1
+| 0
+|colspan="2"|—
+|colspan="2"|—
+| '''27'''
+| '''5'''
+|-
+| rowspan="3"|[[Fulham F.C.|Fulham]] (loan)
+| [[2016–17 Fulham F.C. season|2016–17]]
+| 30
+| 5
+| 2
+| 0
+| 1
+| 1
+|colspan="2"|—
+| 1
+| 0
+| '''34'''
+| '''6'''
+|-
+| [[2017–18 Fulham F.C. season|2017–18]]
+| 23
+| 5
+| 1
+| 0
+| 1
+| 1
+|colspan="2"|—
+| 1
+| 0
+| '''26'''
+| '''6'''
+|-
+!colspan="2"| Total
+! 53
+! 10
+! 3
+! 0
+! 2
+! 2
+! colspan="2"|—
+! 2
+! 0
+! 60
+! 12
+|-
+| [[A.C. Chievo Verona|Chievo]] (loan)
+| [[2018–19 A.C. ChievoVerona season|2018–19]]
+| [[Serie A]]
+| 2
+| 0
+| 0
+| 0
+|colspan="2"|—
+|colspan="2"|—
+|colspan="2"|—
+| '''2'''
+| '''0'''
+|-
+!colspan="3"| Career total
+! 141
+! 26
+! 10
+! 2
+! 5
+! 2
+! 2
+! 0
+! 2
+! 0
+! 160
+! 30
+|}
+
+==Honours==
+'''Chelsea'''
+*[[FA Youth Cup]]: [[2011–12 FA Youth Cup|2011–12]]{{citation needed|date=February 2017}}
+
+'''Fulham'''
+*[[EFL Championship play-offs]]: [[2018 English Football League play-offs#Championship|2018]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44178427 |title=Aston Villa 0–1 Fulham |first=Phil |last=Cartwright |publisher=BBC Sport |date=26 May 2018 |accessdate=26 May 2018}}&lt;/ref&gt;
+
+'''Brazil U17'''
+*[[South American U-17 Championship]]: [[2011 South American U-17 Championship|2011]]{{citation needed|date=February 2017}}
+
+'''Brazil U20'''
+*[[Toulon Tournament]]: [[2014 Toulon Tournament|2014]]{{citation needed|date=February 2017}}
+
+'''Individual'''
+*[[Chelsea F.C. Reserves and Academy#Young Player of the Year|Chelsea Young Player of the Year]]: 2011–2012{{citation needed|date=February 2017}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* {{soccerbase|63986}}
+* [https://web.archive.org/web/20121011001345/http://www.chelseafc.com/first-team/player/59808 Chelsea profile]
+
+{{A.C. ChievoVerona squad}}
+
+{{DEFAULTSORT:Piazon, Lucas}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from São Paulo]]
+[[Category:Brazilian people of Italian descent]]
+[[Category:Brazilian footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Expatriate footballers in the Netherlands]]
+[[Category:Expatriate footballers in Germany]]
+[[Category:Expatriate footballers in Italy]]
+[[Category:Brazilian expatriate footballers]]
+[[Category:Brazilian expatriate sportspeople in England]]
+[[Category:Brazilian expatriate sportspeople in Spain]]
+[[Category:Brazilian expatriate sportspeople in the Netherlands]]
+[[Category:Brazilian expatriate sportspeople in Germany]]
+[[Category:Association football forwards]]
+[[Category:Chelsea F.C. players]]
+[[Category:Málaga CF players]]
+[[Category:SBV Vitesse players]]
+[[Category:Eintracht Frankfurt players]]
+[[Category:Reading F.C. players]]
+[[Category:Fulham F.C. players]]
+[[Category:A.C. ChievoVerona players]]
+[[Category:Premier League players]]
+[[Category:La Liga players]]
+[[Category:Eredivisie players]]
+[[Category:Bundesliga players]]
+[[Category:Brazil youth international footballers]]
+[[Category:Brazil under-20 international footballers]]
+[[Category:Footballers at the 2015 Pan American Games]]
+[[Category:Pan American Games bronze medalists for Brazil]]
+[[Category:Pan American Games medalists in football]]
+[[Category:English Football League players]]</text>
+      <sha1>pumqoui2h8qkgqn7rdhnju6s4ny7obd</sha1>
+    </revision>
+  </page>
+</mediawiki>

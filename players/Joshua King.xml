@@ -1,0 +1,130 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Joshua King</title>
+    <ns>0</ns>
+    <id>5938751</id>
+    <revision>
+      <id>884724633</id>
+      <parentid>868039565</parentid>
+      <timestamp>2019-02-23T16:15:57Z</timestamp>
+      <contributor>
+        <username>Iggy the Swan</username>
+        <id>31885086</id>
+      </contributor>
+      <minor/>
+      <comment>fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4605">{{for|the Norwegian footballer|Joshua King (footballer)}}
+{{Infobox scientist
+|name              = Joshua King
+|image             = Joshua King by William Beechey.jpg
+|image_size        = 
+|caption           = Joshua King by [[William Beechey]]
+|birth_date        = {{birth date|1798|01|16|df=y}}
+|birth_place       = [[Lowick, Cumbria|Lowick]], [[Ulverston]], [[Lancashire]], England
+|death_date        = {{death date and age|1857|09|01|1798|01|16|df=y}}
+|death_place       = President's Lodge, [[Queens' College, Cambridge]], England
+|residence         = 
+|citizenship       = 
+|nationality       = 
+|ethnicity         = 
+|field             = 
+|work_institutions = [[University of Cambridge]]
+|alma_mater        = [[Queens' College, Cambridge]]
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         = 
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = [[Smith's Prize]] &lt;small&gt;(1819)&lt;/small&gt;&lt;br&gt;[[Senior Wrangler]]&lt;br&gt;[[Lucasian Professor of Mathematics]]
+|religion          = 
+|footnotes         = 
+|signature         =
+}}
+
+'''Joshua King''' (16 January 1798 – 1 September 1857) was the [[Lucasian Professor of Mathematics]] at the [[University of Cambridge]] from 1839 to 1849.&lt;ref&gt;{{acad|id=KN814J|name=King, Joshua}}&lt;/ref&gt; He was also the President of [[Queens' College, Cambridge]], from 1832 until his death and [[Vice-Chancellor of Cambridge University]] from 1833–4.&lt;ref&gt;{{cite web|url=http://www.queens.cam.ac.uk/life-at-queens/about-the-college/college-facts/fellows-and-presidents/fellows-1800-1899|title=Fellows 1800 – 1899|publisher=}}&lt;/ref&gt;
+
+==Education==
+Educated at [[Hawkshead Grammar School]], Joshua King went first to [[Trinity College, Cambridge]] in 1815 but moved to [[Queens' College, Cambridge|Queens' College]] in February 1816 as a sizar (i.e. a student receiving some financial assistance), and graduated [[Senior Wrangler]] in 1819.
+
+==Career==
+He was elected a Fellow of the [[Queens' College, Cambridge|Queens’]] in 1820, and served as its President from 1832 to his death – the first person not in holy orders to be so elected. In the University, he was [[Lucasian Professor of Mathematics]] from 1839, resigning because of ill-health in 1849 having given no lectures and published only one paper. His interests seemingly shifted from mathematics to law and politics, although he declined to stand as [[Tory]] candidate for Parliament for either the town or the University. He served on many committees, and was Vice-Chancellor in 1833/34. He died on 1 September 1857 aged 59, and was buried in the antechapel of the College.
+
+:&lt;blockquote&gt;"Joshua King came to Cambridge from [[Hawkshead Grammar School]]. It was soon evident that the school had produced someone of importance. He became [[Senior Wrangler]], and his reputation in Cambridge was immense. It was believed that nothing less than a second [[Isaac Newton|Newton]] had appeared. They expected his work as a mathematician to make an epoch in the science. At an early age he became president of [[Queens' College, Cambridge|Queens’]]; later, he was Lucasian Professor. He published nothing; in fact, he did no mathematical work. But as long as he kept his health, he was an active and prominent figure in Cambridge, and he maintained his enormous reputation. When he died, it was felt that the memory of such an extraordinary man should not be permitted to die out, and his papers should be published. So his papers were examined, and nothing whatever worth publishing was found."&lt;ref&gt;[http://www.queens.cam.ac.uk/page-510 Queens' College Record 2004] 
+ {{webarchive |url=https://web.archive.org/web/20100411225040/http://www.queens.cam.ac.uk/page-510 |date=April 11, 2010 }}&lt;/ref&gt;&lt;/blockquote&gt;
+
+== References ==
+{{reflist}}
+
+{{s-start}}
+{{s-aca}}
+{{s-bef|before=[[Henry Godfrey (Queens')|Henry Godfrey]]}}
+{{s-ttl|title=President of [[Queens' College, Cambridge]]|years=1832–1857}}
+{{s-aft|after=[[George Phillips (Orientalist)|George Phillips]]}}
+{{end}}
+
+{{Lucasian Professors of Mathematics}}
+{{Presidents of Queens' College, Cambridge}}
+{{authority control}}
+
+{{DEFAULTSORT:King, Joshua}}
+[[Category:Senior Wranglers]]
+[[Category:19th-century English mathematicians]]
+[[Category:1798 births]]
+[[Category:1857 deaths]]
+[[Category:People from Ulverston]]
+[[Category:People educated at Hawkshead Grammar School]]
+[[Category:Alumni of Queens' College, Cambridge]]
+[[Category:Fellows of Queens' College, Cambridge]]
+[[Category:Presidents of Queens' College, Cambridge]]
+[[Category:Vice-Chancellors of the University of Cambridge]]</text>
+      <sha1>j2lm1yu8ud7zwxlvjkb8zl6y8meloan</sha1>
+    </revision>
+  </page>
+</mediawiki>

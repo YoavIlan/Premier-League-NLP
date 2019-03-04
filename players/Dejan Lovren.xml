@@ -1,0 +1,430 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dejan Lovren</title>
+    <ns>0</ns>
+    <id>14704742</id>
+    <revision>
+      <id>885956205</id>
+      <parentid>885948043</parentid>
+      <timestamp>2019-03-03T11:53:23Z</timestamp>
+      <contributor>
+        <username>Daemonickangaroo2018</username>
+        <id>34033838</id>
+      </contributor>
+      <comment>Undid revision 885948043 by [[Special:Contributions/185.215.90.90|185.215.90.90]] ([[User talk:185.215.90.90|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="41526">{{Redirect|Lovren|his brother|Davor Lovren}}
+{{Use dmy dates|date=June 2018}}
+{{Infobox football biography
+| name = Dejan Lovren
+| image = Dejan Lovren 2018.jpg
+| image_size = 
+| caption = Lovren with [[Croatia national football team|Croatia]] at the [[2018 FIFA World Cup]]
+| fullname = Dejan Lovren&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1989|07|5|df=y}}
+| birth_place = [[Zenica]], [[Socialist Federal Republic of Yugoslavia|SFR Yugoslavia]]
+| height = 1.88 m&lt;ref&gt;{{cite web|url=http://www.liverpoolfc.com/team/first-team/player/dejan-lovren|title=First Team Profiles |publisher=Liverpoolfc.co.uk |date= |accessdate=20 September 2014}}&lt;/ref&gt;
+| position = [[Centre back]]
+| currentclub = [[Liverpool F.C.|Liverpool]]
+| clubnumber = 6
+| youthyears1 =
+| youthclubs1 = [[BSC Sendling]]
+| youthyears2 = 1999–2002
+| youthclubs2 = NK Ilovac
+| youthyears3 = 2002–2004
+| youthclubs3 = [[NK Karlovac]]
+| youthyears4 = 2004–2006
+| youthclubs4 = [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+| years1 = 2006–2010
+| clubs1 = [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+| caps1 = 37
+| goals1 = 1
+| years2 = 2006–2008
+| clubs2 = → [[NK Inter Zaprešić|Inter Zaprešić]] (loan)
+| caps2 = 50
+| goals2 = 1
+| years3 = 2010–2013
+| clubs3 = [[Olympique Lyonnais|Lyon]]
+| caps3 = 72
+| goals3 = 2
+| years4 = 2013–2014
+| clubs4 = [[Southampton F.C.|Southampton]]
+| caps4 = 31
+| goals4 = 2
+| years5 = 2014–
+| clubs5 = [[Liverpool F.C.|Liverpool]]
+| caps5 = 118
+| goals5 = 5&lt;!--ONLY SHOW LEAGUE GOALS IN INFOBOX --&gt;
+| nationalyears1 = 2004–2005
+| nationalteam1 = [[Croatia national under-17 football team|Croatia U17]]
+| nationalcaps1 = 18
+| nationalgoals1 = 2
+| nationalyears2 = 2006
+| nationalteam2 = [[Croatia national under-18 football team|Croatia U18]]
+| nationalcaps2 = 2
+| nationalgoals2 = 0
+| nationalyears3 = 2006–2008
+| nationalteam3 = [[Croatia national under-19 football team|Croatia U19]]
+| nationalcaps3 = 10
+| nationalgoals3 = 1
+| nationalyears4 = 2007–2009
+| nationalteam4 = [[Croatia national under-20 football team|Croatia U20]]
+| nationalcaps4 = 5
+| nationalgoals4 = 0
+| nationalyears5 = 2007–2010
+| nationalteam5 = [[Croatia national under-21 football team|Croatia U21]]
+| nationalcaps5 = 19
+| nationalgoals5 = 3
+| nationalyears6 = 2009–
+| nationalteam6 = [[Croatia national football team|Croatia]]
+| nationalcaps6 = 50
+| nationalgoals6 = 2
+| medaltemplates = 
+{{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|CRO}}}}
+{{Medal|Comp|[[FIFA World Cup]]}}
+{{Medal|RU|[[2018 FIFA World Cup|2018 Russia]]|}}
+| club-update = 09:49, 11 February 2019 (UTC)
+| nationalteam-update = 17:44, 18 November 2018 (UTC)
+}}
+'''Dejan Lovren''' ({{IPA-sh|dějan lǒʋren|hr}};&lt;ref&gt;{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&amp;id=f1lhXhQ%3D&amp;keyword=Dejan|title=Dèjan|quote=Dèjan|website=Hrvatski jezični portal|accessdate=17 March 2018|language=sh}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&amp;id=e15hWxQ%3D&amp;keyword=Sv. |title=Lóvro| quote=Lòvren| website=Hrvatski jezični portal|accessdate=17 March 2018|language=sh}}&lt;/ref&gt; born 5 July 1989) is a Croatian professional [[Association football|footballer]] who plays as a [[centre back]] for {{English football updater|Liverpoo}} club [[Liverpool F.C.|Liverpool]] and the [[Croatia national football team|Croatia national team]].
+
+Lovren began his career at [[GNK Dinamo Zagreb|Dinamo Zagreb]] before moving to [[Olympique Lyonnais]] in January 2010. He spent three-and-a-half seasons with the [[Ligue 1]] team and won the 2012 [[Coupe de France]] before he signed for [[Southampton F.C.|Southampton]] in 2013. After one season with Southampton, he joined [[Liverpool F.C.|Liverpool]] for £20&amp;nbsp;million and has since made over 150 appearances for the club.
+
+Having previously represented Croatia at various youth levels, he made his senior debut in 2009 and has since gone on to make over 40 appearances for his country. He was selected in Croatia's squads for the [[2014 FIFA World Cup]] in Brazil and the [[2018 FIFA World Cup]] in Russia, the latter of which were beaten finalists against [[France national football team|France]].
+
+==Early life==
+Lovren was born to [[Croats|Croatian]] parents in the city of [[Zenica]], SFR Yugoslavia (now Bosnia and Herzegovina).&lt;ref name="LFC profile"&gt;{{cite web|title=Dejan Lovren Player Profile|url=http://www.lfchistory.net/Players/Player/Profile/1275|publisher=LFC History|accessdate=15 May 2016}}&lt;/ref&gt; His family fled from Yugoslavia to [[Munich]] to escape the [[Bosnian War]] when Lovren was three years old, and he spent the next seven years in Germany. Speaking about his time as a refugee, Lovren stated that he was "a happy boy, I spoke [[German language|German]] perfectly, I went to school, I played for a little club."{{cn|date=February 2019}}
+
+His family eventually had to leave as they did not possess necessary documentation to reside in Germany and settled in [[Karlovac]], Croatia, 50 kilometres southwest of the capital city of [[Zagreb]].&lt;ref name="gard"&gt;{{cite news|last1=Doyle|first1=Paul|title=Dejan Lovren puts traumas behind him to enjoy Southampton high life|url=https://www.theguardian.com/football/2013/nov/30/dejan-lovren-southampton-croatia-chelsea|work=The Guardian|date=30 November 2013|accessdate=15 June 2014}}&lt;/ref&gt; Lovren initially found settling in Croatia difficult, and struggled in school for a couple of years due to his unfamiliarity with the [[Croatian language]].&lt;ref name="gard" /&gt; His younger brother [[Davor Lovren|Davor]] is also a footballer.&lt;ref&gt;{{cite news|url=http://metro.co.uk/2015/10/26/liverpool-identify-dejan-lovrens-brother-davor-as-possible-transfer-target-report-5463030/|title=Liverpool identify Dejan Lovren's brother Davor as possible transfer target|first=Mark|last=Brus|newspaper=[[Metro (British newspaper)|Metro]]|date=26 October 2015}}&lt;/ref&gt;
+
+==Club career==
+===Dinamo Zagreb===
+Lovren first played football in Germany with Munich-based [[BSC Sendling]].&lt;ref&gt;{{cite web |title=Dejan Lovren: Vom BSC Sendling ins WM-Halbfinale  (From  BSC Sendling to the World Cup semi-final) |url=https://www.fupa.net/berichte/bsc-sendling-muenchen-dejan-lovren-vom-bsc-sendling-ins-wm-h-2108278.html |website=www.fupa.net |accessdate=29 August 2018 |language=German |date=10 July 2018}}&lt;/ref&gt; After moving to Croatia, he played for local teams NK Ilovac and [[NK Karlovac]] as a youth before joining [[GNK Dinamo Zagreb]] in 2004.
+
+On 10 May 2006, he made his debut for Dinamo in a [[Croatian First Football League]] match against [[NK Varaždin|NK Varteks Varaždin]]. On 17 July 2006, Lovren was loaned to [[NK Inter Zaprešić]] for two seasons where he made 50 league appearances and scored one goal. Following his return from loan Lovren regularly featured in Dinamo's starting XI, appearing in 38 matches throughout the [[NK Dinamo Zagreb season 2008–09|2008–09 season]] and scoring three goals. In the [[NK Dinamo Zagreb season 2009–10|2009–10 season]], he featured in all four of Dinamo's [[UEFA Champions League]] qualifiers against [[Pyunik Yerevan]] and [[FC Red Bull Salzburg|Red Bull Salzburg]], and managed to score a header against Pyunik.&lt;ref&gt;{{Cite news|title=Dinamo pred praznim Maksimirom prošao dalje| url=http://sport.dnevnik.hr/clanak/champions_league/uzivo-dinamo-pyunik-0-0.html| publisher =Dnevnik| date=21 July 2009|accessdate=8 September 2009| language=Croatian |deadurl=yes |archiveurl=https://web.archive.org/web/20090825183856/http://sport.dnevnik.hr/clanak/champions_league/uzivo-dinamo-pyunik-0-0.html|archivedate=25 August 2009}}&lt;/ref&gt;
+
+===Lyon===
+[[File:Dejan Lovren.jpg|thumb|upright|Lovren playing for [[Olympique Lyonnais|Lyon]] in 2010]]
+
+In January 2010, Lovren signed for French [[Ligue 1]] club [[Olympique Lyonnais]] for €8&amp;nbsp;million plus €1.5&amp;nbsp;million in incentives on a four-and-a-half-year contract.&lt;ref&gt;{{cite web|title=Reference Document 2008/09 |url=http://www.actusnews.com/documents/ACTUS-0-3288-OL-DDR-0809-GB.pdf |work=Olympique Lyonnais |publisher=www.actusnews.com|accessdate=15 June 2013|page=101 |format=PDF}}&lt;/ref&gt; He made his competitive debut on 24 January 2010 in their 2–1 defeat at [[AS Monaco FC|AS Monaco]] in the [[Coupe de France]], playing the full match. His Ligue 1 debut came on 31 January in Lyon's 2–1 win at home against [[Paris Saint-Germain F.C.|Paris Saint-Germain]], once again playing the full 90 minutes. During the second half of the season, he made 10 appearances, mostly as a substitute. He was not allowed to participate in Lyon's matches in the UEFA Champions League that season as he had already played in the competition for Dinamo Zagreb.
+
+Lovren's playing time increased during the [[2010–11 Olympique Lyonnais season|2010–11 season]] following the departure of two other defenders, [[Jean-Alain Boumsong]] and [[Mathieu Bodmer]], in the summer of 2010. During the season, he gradually established himself as a first team regular starter, playing as a centre-back alongside [[Cristiano Marques Gomes|Cris]] as well as being used as a right or left full-back, demonstrating himself as a versatile defender.&lt;ref&gt;{{cite web|url=http://www.tribalfootball.com/articles/support-inside-barcelona-lyon-defender-lovren-increasing-3422641|title=Support inside Barcelona for Lyon defender Lovren increasing|year=2012|work=tribalfootball.com|accessdate=15 November 2016}}&lt;/ref&gt; In November 2010 Lovren was listed in the ''[[Don Balón]]'' list of the 100 best young players in the world.&lt;ref&gt;{{cite web|title=Don Balon's list of the 100 best young players in the world|url=http://www.thespoiler.co.uk/2010/11/02/don-balons-list-of-the-100-best-young-players-in-the-world/|publisher=Don Balón|date=2 November 2010|accessdate=9 April 2013}}&lt;/ref&gt;
+
+On 23 January 2012, Lovren extended his contract with Lyon for two more seasons, signing with the French club until 2016. He started for Lyon in the [[2012 Coupe de France Final]], a 1–0 win over [[US Quevilly|Quevilly]], but was substituted after 18 minutes for [[Bakary Koné]].
+
+===Southampton===
+On 14 June 2013, Lovren signed for [[Southampton F.C.|Southampton]] on a four-year contract for an undisclosed fee,&lt;ref&gt;{{cite web |title=Saints Land Lovren|publisher=Southampton FC|url=http://www.saintsfc.co.uk/news/article/saints-land-lovren-868792.aspx |accessdate=14 June 2013|date= 14 June 2013}}&lt;/ref&gt; which was estimated at £8.5&amp;nbsp;million.&lt;ref&gt;{{cite news |last=Simpson|first=Gordon|title=Saints make £8m swoop for defender |url=http://www.dailyecho.co.uk/sport/saints/news/10487269.Saints_make___8m_swoop/|date=14 June 2013|newspaper=Southampton Echo|accessdate=15 June 2013}}&lt;/ref&gt; He made his debut on 17 August 2013, in a 1–0 win against [[West Bromwich Albion F.C.|West Bromwich Albion]].&lt;ref&gt;{{cite web |title=West Brom 0 – 1 Southampton| url=https://www.bbc.co.uk/sport/0/football/23644676| publisher=BBC Sport|date=17 August 2013|accessdate=19 August 2013}}&lt;/ref&gt; He scored his first goal for Southampton against [[Liverpool F.C.|Liverpool]] at [[Anfield]] on 21 September 2013, a goal which proved to be the winner.&lt;ref&gt;{{cite web|title=Liverpool 0 – 1 Southampton| url=https://www.bbc.co.uk/sport/0/football/24089810|publisher=BBC Sport|date=21 September 2013 |accessdate=21 September 2013}}&lt;/ref&gt; On 19 October, he assisted [[Adam Lallana]] for the equalising goal against [[Manchester United F.C.|Manchester United]] in a 1–1 draw at [[Old Trafford]].&lt;ref&gt;{{cite web|title=Manchester United 1 – 1 Southampton| url=https://www.bbc.com/sport/0/football/24503988| publisher=BBC Sport|date=19 October 2013 |accessdate=19 June 2014}}&lt;/ref&gt; He added a second league goal in a 2–2 away draw against [[Sunderland A.F.C.|Sunderland]] on 18 January 2014,&lt;ref&gt;{{cite web|title=Sunderland 2 – 2 Southampton|url=https://www.bbc.co.uk/sport/0/football/25693406|publisher=[[BBC Sport]]|date=18 January 2014|accessdate=20 January 2014}}&lt;/ref&gt; but was stretchered off late in the game and required hospital treatment after the match.&lt;ref&gt;{{cite web|title=Pochettino admits concern over Lovren and Ramirez injuries|url=http://www.goal.com/en-my/news/3890/england/2014/01/19/4553427/pochettino-admits-concern-over-lovren-and-ramirez-injuries|first=Harry|last=Slavin|publisher=Goal.com|date=19 January 2014|accessdate=20 January 2014}}&lt;/ref&gt; On 23 January, it was announced that along with midfielder [[Gastón Ramírez]], Lovren would be out for six-to-eight weeks with ankle ligament damage.&lt;ref&gt;{{cite web|title=Gaston Ramirez and Dejan Lovren out for up to eight weeks| url=https://www.bbc.co.uk/sport/0/football/25848751| publisher=BBC Sport|date=23 January 2014|accessdate=23 January 2014}}&lt;/ref&gt;
+
+At the conclusion of his first season in the [[Premier League]], Lovren was named in [[Bloomberg L.P.|Bloomberg Sports]]' Power 50 list, which provides statistical rankings of performances from players in Europe's top five leagues.&lt;ref&gt;{{cite web|title=Saints trio in Bloomberg Power 50|publisher=Southampton FC|url=http://www.saintsfc.co.uk/news/article/22052014-fonte-lovren-lambert-bloomberg-power-50-1569451.aspx|date=22 May 2014|accessdate=24 May 2014}}&lt;/ref&gt; He was the fifth-highest ranked player from the Premier League in 31st position.&lt;ref&gt;{{cite web|title=Power 50 List|publisher=[[Bloomberg L.P.|Bloomberg Sports]]|url=https://www.bsports.com/power50-list#.U4Dh6CqtNMU|archive-url=https://web.archive.org/web/20140525214140/https://www.bsports.com/power50-list#.U4Dh6CqtNMU|dead-url=yes|archive-date=25 May 2014|accessdate=24 May 2014}}&lt;/ref&gt; After much speculation regarding Lovren's future following the departures of [[Adam Lallana]], [[Luke Shaw]] and [[Rickie Lambert]] from Southampton, the ''[[Liverpool Echo]]'' reported on 25 July 2014 that Southampton had agreed a fee with [[Liverpool F.C.|Liverpool]] for the sale of Lovren, who was set to undergo a medical at the Merseyside club after reportedly handing in a transfer request at Southampton.&lt;ref&gt;{{cite news|title = Liverpool FC agree £20m deal for Lovren|work=Liverpool Echo| url= http://www.liverpoolecho.co.uk/sport/football/transfer-news/liverpool-fc-agree-20m-deal-7509715|date=25 July 2014|accessdate=26 July 2014}}&lt;/ref&gt;
+
+===Liverpool===
+[[File:Dejan Lovren cropped.jpg|thumb|upright|200px|Lovren playing for [[Liverpool F.C.|Liverpool]] in 2014]]
+
+On 27 July 2014, Lovren became the third Southampton player that transfer window to join Liverpool, after [[Rickie Lambert]] and [[Adam Lallana]]. He signed a four-year deal for a reported fee of £20&amp;nbsp;million, becoming the most expensive defender in Liverpool's history until [[Virgil van Dijk]] joined the club in 2018.&lt;ref&gt;{{cite web|title = Liverpool sign Dejan Lovren from Southampton|publisher=BBC Sport| url= https://www.bbc.co.uk/sport/0/football/28492306| date=27 July 2014|accessdate=27 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title = Dejan Lovren seals Liverpool transfer|publisher=Liverpool Football Club| url= http://liverpoolfc.com/news/latest-news/167331-dejan-lovren-seals-liverpool-transfer|date=27 July 2014|accessdate=27 July 2014}}&lt;/ref&gt;
+
+On 10 August 2014 he made his debut in a friendly for Liverpool against [[Borussia Dortmund]] at [[Anfield]], scoring the second goal in a 4–0 victory,&lt;ref&gt;{{cite web|title = Liverpool 4–0 Borussia Dortmund|publisher=BBC Sport| url= https://www.bbc.co.uk/sport/0/football/28732036|date=10 August 2014|accessdate=10 August 2014}}&lt;/ref&gt; and made his competitive debut on 17 August in the club's opening game of the Premier League season, playing the full 90 minutes in a 2–1 win over former club Southampton at [[Anfield]].&lt;ref&gt;{{cite web|title=Liverpool 2–1 Southampton |url=https://www.bbc.co.uk/sport/0/football/28730043|accessdate=17 August 2014|publisher=BBC Sport |date=17 August 2014}}&lt;/ref&gt; He scored his first official goal for Liverpool on 28 October, when he headed in the game-winner from a free-kick in a fourth round [[Football League Cup|League Cup]] 2–1 victory over [[Swansea City F.C.|Swansea City]].&lt;ref&gt;{{cite web|title=Liverpool 2–1 Swansea |url=https://www.bbc.co.uk/sport/0/football/29699743|publisher=BBC Sport|accessdate=29 October 2014|date=28 October 2014}}&lt;/ref&gt; However, following his poor performance in a [[UEFA Champions League|Champions League]] defeat to [[FC Basel|Basel]], Lovren was dropped from the first team.&lt;ref&gt;{{cite web|last1=Lewis|first1=Darren|title=Dejan Lovren's Liverpool future in doubt as teammates lose faith in defender after dismal start| url=https://www.mirror.co.uk/sport/football/transfer-news/dejan-lovrens-liverpool-future-doubt-4800297|publisher=[[Daily Mirror]]|accessdate=5 November 2015|date=12 December 2015}}&lt;/ref&gt; As the last penalty taker, Lovren put his attempt over the crossbar as Liverpool lost in a [[penalty shootout]] to [[Beşiktaş J.K.|Beşiktaş]] on 26 February 2015 as they were eliminated from the last 32 of the [[UEFA Europa League]].&lt;ref&gt;{{cite news|last1=Whalley|first1=Mike|title=Besiktas 1–0 Liverpool|url=https://www.bbc.co.uk/sport/0/football/31627521|accessdate=27 February 2015|work=BBC Sport|date=26 February 2015}}&lt;/ref&gt; The ''[[The Daily Telegraph|Telegraph]]'' website included Lovren in a feature about the 2014–15 Premier League's 20 worst signings which remarked on the number of his errors that resulted in opposition goals.&lt;ref&gt;{{cite news |title=20 worst Premier League signings of the 2014–15 season| url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/11616110/20-worst-Premier-League-signings-of-the-201415-season.html?frame=3257609|website=[[The Daily Telegraph]]|accessdate=4 November 2015|date=4 June 2015}}&lt;/ref&gt;
+
+Lovren regained his place in the lineup for the first three games of the [[2015–16 Liverpool F.C. season|2015–16 season]] and performed well securing three clean sheets and seven points. However, following a pair of defeats to [[West Ham United]] and rivals [[Manchester United]] in which the defence conceded six goals, Lovren again lost his place to [[Mamadou Sakho]].&lt;ref&gt;{{cite web|title=Rodgers Insists Sakho Remains in His Long-Term Plans |url=http://liverpooloffside.sbnation.com/liverpool-fc-news-coverage/2015/9/17/9344453/brendan-rodgers-mamadou-sakho-start-bordeaux-new-contract-lovren|publisher=[[SB Nation]]|accessdate=4 November 2015|date=17 September 2015}}&lt;/ref&gt; On 8 November he came on as a substitute for Sakho in a 2–1 defeat to [[Crystal Palace FC|Crystal Palace]] at [[Anfield]], with Sakho sustaining a knee injury that ruled him out for two months.&lt;ref&gt;{{cite web|title=Liverpool's Mamadou Sakho out six to eight weeks with knee injury|url=http://www.espnfc.com/liverpool/story/2709248/mamadou-sakho-out-six-eight-weeks-for-liverpool-knee-injury|publisher=[[ESPN FC]]|accessdate=13 November 2015|date=13 November 2015}}&lt;/ref&gt; On 13 December, in a 2–2 draw against [[West Bromwich Albion F.C.|West Bromwich Albion]], Lovren was stretchered off the pitch in the 79th minute due to injury and was replaced by [[Divock Origi]].&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/0/football/35055770 |title=Liverpool 0–0 West Brom |date=13 December 2015|publisher=BBC Sport |accessdate= 14 December 2015}}&lt;/ref&gt; The following 14 April, Lovren scored a stoppage-time winning goal in a 4–3 [[2015–16 UEFA Europa League|Europa League]] quarter-final win over [[Borussia Dortmund]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2016/apr/14/liverpool-borussia-dortmund-europa-league-report|title=Liverpool's Dejan Lovren sinks Borussia Dortmund in stirring comeback|last=Hunter|first=Andy|date=14 April 2016|work=[[The Guardian]]|publisher=[[Guardian Media Group]]|accessdate=15 April 2016}}&lt;/ref&gt; Having endured a difficult start to his career at Liverpool, by the end of the 2015–16 season under [[Jürgen Klopp]], Lovren was described as having transformed into a "calm and composed" leader on the pitch by the ''Liverpool Echo''.&lt;ref&gt;{{cite web|last1=Pearce|first1=James|title=Blood Red: Lovren's transformation epitomises Liverpool FC's progress under Klopp|url=http://www.liverpoolecho.co.uk/sport/football/football-news/blood-red-lovrens-transformation-epitomises-11297940|publisher=Liverpool Echo|accessdate=15 May 2016|date=7 May 2016}}&lt;/ref&gt;
+
+On 28 April 2017, Lovren extended his contract with Liverpool, until 2021.&lt;ref&gt;{{cite web|title=Dejan Lovren: Liverpool centre-back signs new deal until 2021 |url=https://www.bbc.com/sport/football/39744882|website=BBC Sport|accessdate=28 April 2017|date=28 April 2017}}&lt;/ref&gt;
+
+[[File:Spartak Moscow VS. Liverpool (15).jpg|thumb|left|Lovren (right) playing for Liverpool in 2017]]
+
+On 17 December 2017, Lovren scored his first goal of the season in a 4–0 win over [[AFC Bournemouth|Bournemouth]]; a result which saw Liverpool become the first team in Premier League history to win four consecutive away league matches by a margin of at least three goals.&lt;ref&gt;{{cite web|url=http://www.goal.com/en-za/news/liverpool-make-history-with-away-game-goal-tally/12jskoyjq9br01o8rlni44sp02|title=Liverpool Make History with Record Away Goal Tally |publisher=Goal|last=Crawford|first=Stephen|date=17 December 2017|accessdate=18 December 2017}}&lt;/ref&gt; After [[Virgil van Dijk]]'s arrival on 1 January, he and Lovren built a steady partnership at the heart of Liverpool's defence.&lt;ref&gt;{{cite web|url=https://uk.reuters.com/article/uk-soccer-champions-final-vandijk/van-dijk-has-made-me-a-better-player-says-liverpools-lovren-idUKKCN1IN301|title=van Dijk has made me a better player, says Liverpool's Lovren|publisher=Reuters|date=26 May 2018|accessdate=23 June 2018}}&lt;/ref&gt; On 14 January 2018, Lovren captained Liverpool for the first time in a 4–3 win against [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{Cite web| first =Chris| last=Shaw | date= 14 January 2018 |url=https://www.liverpoolfc.com/news/first-team/287374-lovren-being-liverpool-captain-was-an-honour| title=Lovren: Being Liverpool captain was an honour|publisher=Liverpool FC|access-date=16 May 2018}}&lt;/ref&gt; On 13 May, Lovren scored his second goal of the season in a 4–0 win over [[Brighton &amp; Hove Albion F.C.|Brighton and Hove Albion]], which secured Liverpool's qualification for the [[UEFA Champions League]] next season.&lt;ref&gt;{{Cite web| url=https://www.bbc.com/sport/football/44020158| title=Liverpool 4–0 Brighton &amp; Hove Albion|date=13 May 2018| publisher=BBC Sport|access-date=14 May 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:Dejan Lovren Croatia.jpg|thumb|150px|right|Lovren with Croatia at the [[2018 FIFA World Cup]]]]
+Lovren has made 54 appearances and scored six goals for various Croatian youth national teams.&lt;ref&gt;{{cite web|url=http://www.hns-cff.hr/?ln=hr&amp;w=statistike&amp;repka=U&amp;id=14746|title=Hrvatski nogometni savez|website=www.hns-cff.hr}}&lt;/ref&gt; He received his first call–up to [[Croatia national football team|Croatian national team]] in August 2009 by manager [[Slaven Bilić]], who included the player in his match squad against [[Belarus national football team|Belarus]]. Lovren was an unused substitute, but still was reportedly delighted with the new experience.&lt;ref&gt;{{Cite news|title=Novi reprezentativac spreman za "modre" izazove|url=http://www.nk-dinamo.hr/vijest/prikaz/1812/default.aspx|archive-url=https://web.archive.org/web/20090816233706/http://www.nk-dinamo.hr/vijest/prikaz/1812/default.aspx|dead-url=yes|archive-date=16 August 2009|publisher=NK Dinamo|date=14 August 2009|accessdate=6 September 2009|language=Croatian}}&lt;/ref&gt; He made his debut against [[Qatar national football team|Qatar]] on 8 November 2009, coming on as a substitute for [[Danijel Pranjić]].
+
+On 2 September 2011, Lovren scored his first international goal, against [[Malta national football team|Malta]] in a [[UEFA Euro 2012 qualifying]] match. He was included by manager Slaven Bilić in the preliminary 23-man squad for [[UEFA Euro 2012]] but had to withdraw because of injury one week before the tournament.{{cn|date=February 2019}} Lovren scored his second goal for Croatia on 26 March 2013 in a [[2014 FIFA World Cup qualifying]] match against [[Wales national football team|Wales]] at [[Liberty Stadium]] in [[Swansea]]. It was an equalizer that leveled the match after [[Gareth Bale]] had given Wales the lead from a penalty which Lovren conceded. Croatia eventually won the game 1–2.&lt;ref&gt;{{cite web|title=Lovren izjednačio, Eduardo zabio za pobjedu!|url=http://gol.dnevnik.hr/clanak/nogomet/reprezentacije/hrvatska-u-walesu-nastavlja-pobjednicki-niz-sammir-i-eduardo-u-postavi---280080.html |publisher=gol.dnevnik.hr|date=26 March 2013|language=Croatian|accessdate=9 April 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Pope|first=Bruce|title=Wales 1 – 2 Croatia |url=https://www.bbc.co.uk/sport/0/football/21881457 |publisher=BBC Sport|date=26 March 2013|accessdate=15 June 2013}}&lt;/ref&gt;
+
+In May 2014, Lovren was named in manager [[Niko Kovač]]'s provisional 30-man squad for the [[2014 FIFA World Cup]] in Brazil.&lt;ref&gt;{{cite web|title=Provisional Croatia call for Lovren| publisher=Southampton FC|url=http://www.saintsfc.co.uk/news/article/14052014-dejan-lovren-croatia-wc-provisional-1551891.aspx|date=14 May 2014|accessdate=24 May 2014}}&lt;/ref&gt; In the opening match of the tournament, on 12 June against the hosts [[Brazil national football team|Brazil]] in [[São Paulo]], Lovren was judged by the Japanese referee [[Yuichi Nishimura]] to have fouled [[Frederico Chaves Guedes|Fred]] in the 69th minute when the score was 1–1. A controversial penalty was given, which was converted by [[Neymar]] and led to Brazil's eventual 3–1 win.&lt;ref&gt;{{cite news| title=Brazil 3–1 Croatia |url=https://www.bbc.co.uk/sport/0/football/25285029|work=BBC Sport| date=12 June 2014|accessdate=12 June 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=World Cup 2014: Brazil v Croatia referee scandalous – Dejan Lovren| url=https://www.bbc.co.uk/sport/0/football/27827271 |work=BBC Sport|date=13 June 2014|accessdate=13 June 2014}}&lt;/ref&gt;
+
+Lovren's deteriorating relationship with manager [[Ante Čačić]] ultimately resulted in him being left out of Croatia's squad for [[UEFA Euro 2016]].&lt;ref&gt;{{cite news| last1=Islamović| first1=Elvir| title=Čačić looks to Croatia youth as Lovren misses out| url=http://www.uefa.com/uefaeuro/news/newsid=2365263.html |accessdate=1 June 2016| publisher=UEFA |date=16 May 2016}}&lt;/ref&gt;
+
+In May 2018, he was named in Croatia's [[Croatia national football team|squad]] for the [[2018 World Cup]] in [[Russia]].&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gb/amp/news/revealed-every-world-cup-2018-squad-23-man-preliminary-lists/oa0atsduflsv1nsf6oqk576rb|title=Revealed: Every World Cup 2018 squad - 23-man &amp; preliminary lists &amp; when will they be announced? - Goal.com|publisher=}}&lt;/ref&gt; He then featured throughout the competition as Croatia reached the final where they lost to [[France national football team|France]].&lt;ref name="BBC44754965" /&gt;
+
+On 11 September, Lovren missed Croatia's debut match in the [[2018–19 UEFA Nations League|inaugural edition]] of [[UEFA]]'s new tournament [[UEFA Nations League|Nations League]], the team's 6–0 historical defeat to [[Spain national football team|Spain]], due to injury.&lt;ref&gt;{{cite web|title=Spain 6–0 Croatia |first=Elvir|last=Islamović|date=11 September 2018 |url=https://www.uefa.com/uefanationsleague/season=2019/matches/round=2000959/match=2024040/index.html?iv=true| publisher=[[UEFA]]|accessdate=11 January 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=POTVRĐENA CRNA PROGNOZA Na Španjolsku bez Dejana Lovrena, ali za otvaranje Lige nacija se zato vraća jedan od ključnih Vatrenih |date=7 September 2018 |url=https://sportske.jutarnji.hr/nogomet/reprezentacija/potvrdena-crna-prognoza-na-spanjolsku-bez-dejana-lovrena-ali-za-otvaranje-lige-nacija-se-zato-vraca-jedan-od-kljucnih-vatrenih/7804074| publisher=[[Sportske novosti]]|accessdate=11 January 2019}}&lt;/ref&gt; He came back a month later for a match against [[England national football team|England]], that ended up as a goalless draw.&lt;ref&gt;{{cite web|title=Croatia 0–0 England |first=Phil|last=McNulty|date=13 October 2018 |url=https://www.bbc.com/sport/football/45755081| publisher=[[BBC]]|accessdate=11 January 2019}}&lt;/ref&gt; On 15 November, he took part in Spain's 3–2 defeat. After the match, Lovren sparked controversy after calling the Spain team "a bunch of pussies" on an [[Instagram]] live stream and admitting that he deliberately elbowed Spanish defender [[Sergio Ramos]], whom he had a feud in the media with prior to the match.&lt;ref&gt;{{cite web|title=Dejan Lovren Brags About Elbowing Sergio Ramos On Instagram|first=Josh|last=Lawless|date=16 November 2018 |url=http://www.sportbible.com/football/news-dejan-lovren-brags-about-elbowing-sergio-ramos-on-instagram-20181116| work=SPORTbible|accessdate=11 January 2019}}&lt;/ref&gt; Three days later, Croatia suffered a 2–1 defeat to England and got relegated from [[2018–19 UEFA Nations League A|League A]] to [[2020–21 UEFA Nations League#League B|League B]] of the [[2020–21 UEFA Nations League|next edition]] of the Nations League.&lt;ref&gt;{{cite web|title=England 2-1 Croatia in Nations League: Three Lions deliver Wembley win to savour |first=Phil|last=McNulty|date=18 November 2018 |url=https://www.bbc.com/sport/football/46255258| publisher=[[BBC]]|accessdate=11 January 2019}}&lt;/ref&gt;
+
+Due to showing disrespect towards the Spanish national team and flag and a deliberate elbowing of Sergio Ramos, on 11 January 2019 UEFA banned Lovren for one international match, a [[UEFA Euro 2020 qualifying]] match against [[Azerbaijan national football team|Azerbaijan]].{{cn|date=February 2019}}
+
+==Personal life==
+Lovren first became involved in an [[on-again, off-again relationship|on and off relationship]] with Anita Sekulić in 2005, when he was aged 16. The couple went through a crisis during Lovren's life in [[Lyon]], splitting up for a short time, but then reconciled. Soon after, Sekulić got pregnant and the couple married in July 2012. On 28 August of the same year, the couple became parents of a daughter named Elena. In June 2013, the couple married in a church. On 21 June 2015, they became parents of a son, Josip, named after Dejan's paternal grandfather.&lt;ref name="lajk"&gt;{{cite news|url=https://www.jutarnji.hr/vijesti/lovrenovi-prijatelji-otkrivaju-pravi-uzrok-sukoba-s-cacicem-dejan-je-zeni-obecao-dva-tjedna-u-lipnju.-imaju-problema-u-braku/3740361/|title=LOVRENOVI PRIJATELJI OTKRIVAJU PRAVI UZROK SUKOBA S ČAČIĆEM 'Dejan je ženi obećao dva tjedna u lipnju. Imaju problema u braku!'|first=Mark|last=Cigoj|newspaper=[[Jutarnji list]]|date=17 April 2016}}&lt;/ref&gt;
+ 
+In 2016, the public found out about Anita's affair with a forestry worker Dario Torbić, an old friend of hers. Lovren tried and managed to win her back with a make-or-break holiday in June, since he was not chosen for [[UEFA Euro 2016 squads#Croatia|Croatia's Euro 2016 squad]].
+ 
+In 2013, Lovren founded a fashion brand ''Russell Brown'' with his [[groomsman|best man]] Lovro Krčar. Three years after, the brand was shut down due to unknown reasons. Rumours suggest that the reason for the closure was due to a poor relationship between Lovren and Krčar. In May 2018, he founded another brand ''Rock Filius''.&lt;ref&gt;{{cite news|url=https://miss7.24sata.hr/amp/moda/dejan-lovren-ima-novi-modni-brend-opet-20281|title=Dejan Lovren ima novi modni brend - opet!|first=Anamaria|last=Butković|newspaper=[[24sata (Croatia)|24sata]]|date=9 May 2018}}&lt;/ref&gt; On 29 May 2018, Lovren opened a four star hotel ''Joel'' in [[Novalja]], near [[Zrće]].&lt;ref&gt;{{cite news|url=https://www.24sata.hr/show/uz-blagoslov-svecenika-dejan-lovren-je-otvorio-svoj-hotel-575772|title=Uz blagoslov svećenika Dejan Lovren je otvorio svoj hotel|first=Rozeta|last=Bogeljić|newspaper=[[24sata (Croatia)|24sata]]|date=30 May 2018}}&lt;/ref&gt;
+ 
+During [[2014 FIFA World Cup]] in [[Brazil]], paparazzi leaked explicit photos of several Croatian internationals taking a "[[nude swimming|skinny dip]]" in the pool of the Brazilian hotel they resided in. Lovren was the one who reportedly suffered the most since almost his entire body was exposed.&lt;ref&gt;{{cite news|url=https://m.vecernji.hr/sport/goli-lovren-i-carli-opustali-se-na-bazenu-u-drustvu-srne-i-modrica-944937|title=Goli Lovren i Čarli opuštali se na bazenu u društvu Srne i Modrića|newspaper=[[Večernji list]]|date=15 June 2014}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 7 January 2019}}&lt;ref&gt;{{cite web | url = http://www.worldfootball.net/player_summary/dejan-lovren/2/ | title = Dejan Lovren: Club Matches | publisher = worldfootball.net}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ligue1.com/joueur/lovren-dejan|title=Ligue1.com –  Player profile Dejan LOVREN (Olympique Lyonnais)|website=www.ligue1.com}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup{{efn|Appearances in [[Coupe de France]] and [[FA Cup]]}}
+!colspan="2"|League Cup{{efn|Appearances in [[Coupe de la Ligue]] and [[EFL Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|[[2005–06 Croatian First Football League|2005–06]]
+|[[Croatian First Football League]]
+|1||0||0||0||colspan="2"|—||0||0||1||0
+|-
+|[[2006–07 Croatian First Football League|2006–07]]
+|Croatian First Football League
+|0||0||0||0||colspan="2"|—||0||0||0||0
+|-
+|[[2007–08 Croatian First Football League|2007–08]]
+|Croatian First Football League
+|0||0||0||0||colspan="2"|—||0||0||0||0
+|-
+|[[2008–09 Croatian First Football League|2008–09]]
+|Croatian First Football League
+|22||1||8||1||colspan="2"|—||8{{efn|Three appearances in [[UEFA Champions League]], five appearances and one goal in [[UEFA Cup]]}}||1||38||3
+|-
+|[[2009–10 Croatian First Football League|2009–10]]
+|Croatian First Football League
+|14||0||4||0||colspan="2"|—||11{{efn|Four appearances and one goal in [[UEFA Champions League]], seven appearances in [[UEFA Europa League]]}}||1||21||1
+|-
+!colspan=2|Total
+!37!!1!!12!!1!!colspan="2"|—!!19!!2!!60!!4
+|-
+|rowspan="3"|[[NK Inter Zaprešić|Inter Zaprešić]] (loan)
+|[[2006–07 Croatian Second Football League|2006–07]]
+|[[Croatian Second Football League]]
+|21||0||4||0||colspan="2"|—||colspan="2"|—||25||0
+|-
+|[[2007–08 Croatian Second Football League|2007–08]]
+|Croatian Second Football League
+|29||1||2||0||colspan="2"|—||colspan="2"|—||31||1
+|-
+!colspan=2|Total
+!50!!1!!6!!0!!colspan="2"|—!!colspan="2"|—!!56!!1
+|-
+|rowspan="5"|[[Olympique Lyonnais|Lyon]]
+|[[2009–10 Ligue 1|2009–10]]
+|[[Ligue 1]]
+|8||0||1||0||1||0||0||0||10||0
+|-
+|[[2010–11 Ligue 1|2010–11]]
+|Ligue 1
+|28||0||2||0||1||0||6{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||37||1
+|-
+|[[2011–12 Ligue 1|2011–12]]
+|Ligue 1
+|18||1||3||0||2||0||8{{efn|name=UCL}}||0||31||1
+|-
+|[[2012–13 Ligue 1|2012–13]]
+|Ligue 1
+|18||1||0||0||1||0||5{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||24||1
+|-
+!colspan=2|Total
+!72!!2!!6!!0!!5!!0!!19!!1!!102!!3
+|-
+|[[Southampton F.C.|Southampton]]
+|[[2013–14 Southampton F.C. season|2013–14]]&lt;ref&gt;{{soccerbase season|44118|2013|accessdate=22 July 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|31||2||0||0||0||0||colspan=2|—||31||2
+|-
+|rowspan=6|[[Liverpool F.C.|Liverpool]]
+|[[2014–15 Liverpool F.C. season|2014–15]]&lt;ref&gt;{{soccerbase season|44118|2014|accessdate=22 July 2017}}&lt;/ref&gt;
+|Premier League
+|26||0||4||0||2||1||6{{efn|Four appearances in [[UEFA Champions League]], two appearances in [[UEFA Europa League]]}}||0||38||1
+|-
+|[[2015–16 Liverpool F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|44118|2015|accessdate=22 July 2017}}&lt;/ref&gt;
+|Premier League
+|24||0||1||0||4||0||10{{efn|name=UEL}}||1||39||1
+|-
+|[[2016–17 Liverpool F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|44118|2016|accessdate=22 July 2017}}&lt;/ref&gt;
+|Premier League
+|29||2||0||0||3||0||colspan=2|—||32||2
+|-
+|[[2017–18 Liverpool F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|44118|2017|accessdate=27 May 2018}}&lt;/ref&gt;
+|Premier League
+|29||2||0||0||0||0||14{{efn|name=UCL}}||0||43||2
+|-
+|[[2018–19 Liverpool F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|44118|2018|accessdate=29 December  2018}}&lt;/ref&gt;
+|Premier League
+|9||1||1||0||1||0||2{{efn|name=UCL}}||0||13||1
+|-
+!colspan=2|Total
+!117||5||6||0||10||1||32||1||166||7
+|-
+!colspan=3|Career total
+!312||10||30||1||15||1||68||4||411||16
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 15 July 2018}}&lt;ref&gt;{{NFT player |id=33780 |name=Lovren, Dejan |accessdate=27 June 2018}}&lt;/ref&gt;&lt;ref name="eu-football" /&gt;
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=9|[[Croatia national football team|Croatia]]
+|2009||2||0
+|-
+|2010||3||0
+|-
+|2011||8||1
+|-
+|2012||1||0
+|-
+|2013||9||1
+|-
+|2014||7||0
+|-
+|2016||1||0
+|-
+|2017||6||0
+|-
+|2018||9||0
+|-
+!colspan=2|Total!!46!!2
+|}
+
+====International goals====
+:''Scores and results list Croatia's goal tally first.''&lt;ref name =eu-football&gt;{{cite web|title=Dejan Lovren profile|url=http://eu-football.info/_player.php?id=25458|publisher=eu-football.info|accessdate=27 June 2018}}&lt;/ref&gt;
+
+{| class="wikitable"
+! Goal !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+! 1
+| 2 September 2011 || [[Ta'Qali Stadium]], [[Ta' Qali]] || {{fb|MLT}} || align=center|'''3'''–1 || align=center|3–1 || [[UEFA Euro 2012 qualifying Group F|UEFA Euro 2012 qualifying]]
+|-
+! 2
+| 26 March 2013 || [[Liberty Stadium]], [[Swansea]] || {{fb|WAL}} || align=center|'''1'''–1 || align="center" |2–1 || [[2014 FIFA World Cup qualification – UEFA Group A|2014 FIFA World Cup qualification]]
+|}
+
+==Honours==
+Source:&lt;ref&gt;{{Soccerway|dejan-lovren/55819|accessdate=12 July 2014}}&lt;/ref&gt;
+
+'''Dinamo Zagreb'''
+*[[Croatian First Football League]]: [[2008–09 Croatian First Football League|2008–09]]
+*[[Croatian Football Cup]]: [[2008–09 Croatian Football Cup|2008–09]]
+
+'''Inter Zaprešić'''
+*[[Croatian Second Football League]]: [[2006–07 Croatian Second Football League|2006–07]]
+
+'''Lyon'''
+*[[Coupe de France]]: [[2011–12 Coupe de France|2011–12]]
+
+'''Liverpool'''
+*[[UEFA Champions League]] runner-up: [[2017–18 UEFA Champions League|2017–18]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44258022 |title=Real Madrid 3–1 Liverpool |first=Phil |last=McNulty |publisher=BBC Sport |date=26 May 2018 |accessdate=27 May 2018}}&lt;/ref&gt;
+*[[UEFA Europa League]] runner-up: [[2015–16 UEFA Europa League|2015–16]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/36254631 |title=Liverpool 1–3 Sevilla |first=Phil |last=McNulty |publisher=BBC Sport |date=18 May 2016 |accessdate=27 May 2018}}&lt;/ref&gt;
+
+'''Croatia'''
+*[[FIFA World Cup]] runner-up: [[2018 FIFA World Cup|2018]]&lt;ref name=BBC44754965&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44754965 |title=France 4–2 Croatia |first=Phil |last=McNulty |publisher=BBC Sport |date=15 July 2018 |accessdate=1 September 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*[[FIFPro World XI|FIFA FIFPro World XI]] 4th team: 2018&lt;ref&gt;{{cite web |url=https://www.fifpro.org/news/world-11-the-reserve-teams-for-2017-18/en/|title=World 11: The Reserve Team for 2017-18|publisher=FIFPro.org|date=24 September 2018|accessdate=25 September 2018}}&lt;/ref&gt;
+
+'''Orders'''
+* [[File:Order of Prince Branimir.jpg|left|50px]] [[Order of Duke Branimir]] with Ribbon: 2018&lt;ref&gt;{{cite web|url=http://predsjednica.hr/objava/1/1/2707|title=News: President Decorates Croatian National Football Team Players and Coaching Staff|date=13 November 2018|publisher=Office of the President of the Republic of Croatia|accessdate=11 January 2019|quote=the Order of Prince Branimir with Ribbon was awarded to Mr. Dejan Lovren...}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.liverpoolfc.com/team/first-team/player/dejan-lovren Liverpool F.C. profile]
+*{{Soccerbase}}
+*{{CFF player|14746/dejan-lovren}}
+
+{{Liverpool F.C. squad}}
+{{Navboxes colour
+|title= Croatia squads
+|bg=white
+|fg=red
+|bordercolor=#171796
+|list1=
+{{Croatia squad 2014 FIFA World Cup}}
+{{Croatia squad 2018 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Lovren, Dejan}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:People from Zenica]]
+[[Category:Croats of Bosnia and Herzegovina]]
+[[Category:Croatian people of Bosnia and Herzegovina descent]]
+[[Category:Yugoslav emigrants to Germany]]
+[[Category:Croatian footballers]]
+[[Category:Association football central defenders]]
+[[Category:Croatia under-21 international footballers]]
+[[Category:Croatia international footballers]]
+[[Category:NK Inter Zaprešić players]]
+[[Category:GNK Dinamo Zagreb players]]
+[[Category:Olympique Lyonnais players]]
+[[Category:Southampton F.C. players]]
+[[Category:Liverpool F.C. players]]
+[[Category:Croatian First Football League players]]
+[[Category:Ligue 1 players]]
+[[Category:Premier League players]]
+[[Category:Croatian expatriate footballers]]
+[[Category:Expatriate footballers in France]]
+[[Category:Expatriate footballers in England]]
+[[Category:Croatian expatriate sportspeople in France]]
+[[Category:Croatian expatriate sportspeople in England]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:2018 FIFA World Cup players]]</text>
+      <sha1>glq24a4um8qvy9qq1gp4f2qjbsj8g6c</sha1>
+    </revision>
+  </page>
+</mediawiki>

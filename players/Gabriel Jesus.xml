@@ -1,0 +1,349 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Gabriel Jesus</title>
+    <ns>0</ns>
+    <id>45365611</id>
+    <revision>
+      <id>885105992</id>
+      <parentid>885091774</parentid>
+      <timestamp>2019-02-26T00:24:00Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Undid revision 885087821 by [[Special:Contributions/208.93.33.51|208.93.33.51]] ([[User talk:208.93.33.51|talk]]) unsourced</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39096">{{Use dmy dates|date=August 2018}}
+{{Infobox football biography
+| name = Gabriel Jesus
+| image = 20180610 FIFA Friendly Match Austria vs. Brazil Gabriel Jesus 850 1688.jpg
+| image_size = 200
+| caption = Jesus with [[Brazil national football team|Brazil]] in 2018
+| fullname = Gabriel Fernando de Jesus&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=12 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1997|4|3|df=y}}&lt;ref name=SW&gt;{{cite web |title=Gabriel Jesus |url=https://int.soccerway.com/players/gabriel-fernando-de-jesus/364017/ |work=Soccerway |publisher=Perform Group |accessdate=28 January 2018}}&lt;/ref&gt;
+| birth_place = [[São Paulo]], Brazil
+| height = 1.75 m&lt;ref&gt;{{cite web |title=Gabriel Jesus: Overview |url=https://www.premierleague.com/players/19680/Gabriel-Jesus/overview |publisher=Premier League |accessdate=16 November 2017}}&lt;/ref&gt;
+| position = [[Forward (association football)|Forward]]
+| currentclub = [[Manchester City F.C.|Manchester City]]
+| clubnumber = 33
+| youthyears1 = 2010–2012
+| youthclubs1 = Anhanguera
+| youthyears2 = 2013–2015
+| youthclubs2 = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| years1 = 2015–2017
+| clubs1 = [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| caps1 = 47 &lt;!--LEAGUE (SERIE A) ONLY--&gt;
+| goals1 = 16 &lt;!--LEAGUE (SERIE A) ONLY--&gt;
+| years2 = 2017–
+| clubs2 = [[Manchester City F.C.|Manchester City]]
+| caps2 = 59 &lt;!--LEAGUE ONLY--&gt;
+| goals2 = 26 &lt;!--LEAGUE ONLY--&gt;
+| nationalyears1 = 2015
+| nationalteam1 = [[Brazil national under-20 football team|Brazil U20]]
+| nationalcaps1 = 6
+| nationalgoals1 = 1
+| nationalyears2 = 2015–
+| nationalteam2 = [[Brazil national under-23 football team|Brazil U23]]
+| nationalcaps2 = 11
+| nationalgoals2 = 5
+| nationalyears3 = 2016–
+| nationalteam3 = [[Brazil national football team|Brazil]]
+| nationalcaps3 = 24
+| nationalgoals3 = 11
+| club-update = 10:30, 7 February 2019 (UTC)
+| nationalteam-update = 03:45, 17 October 2018 (UTC)
+| medaltemplates = {{MedalCountry|[[Brazil national football team|Brazil]]}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{MedalGold|[[Football at the 2016 Summer Olympics – Men's tournament|2016 Rio de Janeiro]]|}}
+{{MedalCompetition|[[FIFA U-20 World Cup]]|[[2015 FIFA U-20 World Cup|2015]]}}
+{{Medal|Silver|[[FIFA U-20 World Cup]]|[[2015 FIFA U-20 World Cup|2015]]}}
+}}
+'''Gabriel Fernando de Jesus''' (born 3 April 1997), commonly known as '''Gabriel Jesus''' ({{IPA-pt|ɡabɾiˈɛw ʒeˈzus}}), is a Brazilian professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for {{English football updater|ManchesC}} club [[Manchester City F.C.|Manchester City]] and  the [[Brazil national football team|Brazil national team]].
+
+Jesus began his career at [[Sociedade Esportiva Palmeiras|Palmeiras]]. He was voted the [[Prêmio Craque do Brasileirão|best newcomer]] of the [[2015 Campeonato Brasileiro Série A]], a year in which he also helped his team win the [[Copa do Brasil]]. The following year he was named the [[Bola de Ouro|player of the season]] as Palmeiras [[2016 Campeonato Brasileiro Série A|won their first national league title in 22 years]]. He joined Manchester City in January 2017 for a transfer fee of €32 million,&lt;ref name="CityConfirm"&gt;{{Cite news |title=Man City confirm Gabriel Jesus move |url=https://www.mancity.com/news/first-team/2017/01/19/manchester-city-welcome-gabriel-jesus/1483615876492 |publisher=Manchester City FC|date=19 January 2017 |accessdate=19 January 2017}}&lt;/ref&gt; and won the [[Premier League]] and [[EFL Cup]] in 2018.
+
+After winning 21 caps and scoring seven goals at youth level, including reaching the final of the [[2015 FIFA U-20 World Cup]] and winning an [[Olympic medal|Olympic gold medal]] at the [[Football at the 2016 Summer Olympics – Men's tournament|2016 Summer Olympics]],&lt;ref&gt;{{cite web|url=https://www.rio2016.com/en/news/brazil-s-two-gabriels-set-to-light-up-rio-2016-olympic-football-tournament |last=Marché |first=Patrick |title=Brazil's two Gabriels set to light up Rio 2016 Olympic football tournament |publisher=International Olympic Committee |date=13 July 2016 |accessdate=17 July 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160805192530/https://www.rio2016.com/en/news/brazil-s-two-gabriels-set-to-light-up-rio-2016-olympic-football-tournament |archivedate= 5 August 2016 |df= }}&lt;/ref&gt; Jesus made his senior debut for [[Brazil national football team|Brazil]] in September 2016.
+
+==Early life==
+Born in [[São Paulo]], Jesus grew up in the neighborhood of Jardim Peri. After initially playing street football, he joined amateur clubs in the region, his last one being Associação Atlética Anhanguera.&lt;ref name="PTD"&gt;{{cite web|url=http://www.verdao.net/noticia.php?n=12383|title=PTD fala com Gabriel Fernando, destaque do sub-17|trans-title=PTD speaks with Gabriel Fernando, under-17's spotlight|website=Verdao.net|publisher=Palmeiras Todo Dia|language=pt|accessdate=23 February 2016|date=4 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://globoesporte.globo.com/futebol/times/palmeiras/noticia/2015/01/joia-2015-famoso-na-base-gabriel-jesus-e-fenomeno-do-palmeiras.html|title=Famoso na base, Gabriel Jesus é "fenômeno" do Palmeiras|trans-title=Famous at the youth setup, Jesus is Palmeiras' "phenomenon"|publisher=[[Globo Esporte]]|language=pt|date=1 January 2015|accessdate=23 February 2016}}&lt;/ref&gt;
+
+==Club career==
+
+===Palmeiras===
+On 1 July 2013, Jesus signed a youth contract with [[Sociedade Esportiva Palmeiras|Palmeiras]].&lt;ref name="PTD"/&gt; He was also the club's top goalscorer during the year, scoring 54 goals in 48 matches.
+
+In January 2014, after lengthy negotiations, Jesus signed a three-year contract for Palmeiras with an additional two, with his salary to increase from [[Brazilian real|R$]]15,000 to four times as much in the fifth year; the fee to buy him out from his contract increased tenfold to R$30 million.&lt;ref&gt;{{cite web|url=http://www.palmeiras.com.br/noticias/ler/34888-artilheiro-do-paulista-sub-17-atacante-gabriel-jesus-renova-com-o-palmeiras|title=Artilheiro do Paulista Sub-17, atacante Gabriel Jesus renova com o Palmeiras|trans-title=Paulista under-17's top scorer, forward Gabriel Jesus renews with Palmeiras|publisher=Palmeiras' official website|language=pt|accessdate=23 February 2016}}&lt;/ref&gt; However, the deal changed the balance of his economic rights from 75–25% in favour of Palmeiras, to 70–30% in favour of his agents.&lt;ref name=estadao&gt;{{cite news|last1=Batista|first1=Gabriel|title=Gabriel Jesus luta para superar a timidez e lidar com fama no Palmeiras|trans-title=Gabriel Jesus fought to overcome shyness and lead Palmeiras to glory|url=http://esportes.estadao.com.br/noticias/futebol,desafio-de-gabriel-jesus-e-se-acostumar-com-os-holofotes-no-palmeiras,1751885|accessdate=23 February 2016|publisher=Estadão|date=28 August 2015|language=Portuguese}}&lt;/ref&gt;
+
+Jesus scored 37 goals in 22 games for Palmeiras in the 2014 edition of the state under-17 championship, leading to offers from clubs throughout the country and abroad.&lt;ref name="PTD"/&gt; He was first included in Palmeiras' squad for a senior match on 27 August 2014, remaining an unused [[Substitute (association football)|substitute]] as they lost 0–1 at home to [[Clube Atlético Mineiro]] in the [[2014 Copa do Brasil knockout stages|first leg of the last 16]] of [[2014 Copa do Brasil|the year]]'s [[Copa do Brasil]]. He did not make any senior appearances during the campaign, as his side was seriously threatened with relegation;&lt;ref&gt;{{cite web|url=http://esporteinterativo.com.br/futebol-brasileiro/joia-do-palmeiras-gabriel-jesus-acredita-ser-muito-cedo-para-jogar-no-elenco-profissional/|title=Joia do Palmeiras, Jesus acredita ser muito cedo para jogar no elenco profissional|trans-title=Palmeiras' pearl, Jesus thinks it is too soon to play in the main squad|publisher=[[Esporte Interativo]]|language=pt|accessdate=23 February 2016}}&lt;/ref&gt; this decision, took by managers [[Ricardo Gareca]] and [[Dorival Júnior]], was widely criticized by the supporters, who demanded a change for the youngster through a [[petition]].&lt;ref&gt;{{cite web|url=http://globoesporte.globo.com/futebol/times/palmeiras/noticia/2014/12/em-jogo-do-ano-torcedor-faz-abaixo-assinado-e-exige-escalacao-de-joia.html|title=Em jogo do ano, torcedor faz abaixo-assinado e "exige" escalação de Joia|trans-title=In game of the year, supporters create petition and "demand" pearl in the line-up|publisher=Globo Esporte|language=pt|accessdate=23 February 2016}}&lt;/ref&gt;
+
+[[File:Gabriel Jesus 2015.jpg|thumb|left|upright|Jesus warming up for [[Sociedade Esportiva Palmeiras|Palmeiras]] in 2015]]
+
+Jesus made his senior debut on 7 March 2015 in the season's [[Campeonato Paulista]], replacing [[Leandro Pereira]] in the 73rd minute of a 1–0 win over [[CA Bragantino]] at [[Allianz Parque]].&lt;ref&gt;{{cite news|title=Gabriel Jesus estreia, e Palmeiras vence 6ª seguida|trans-title=Gabriel Jesus debuts, and Palmeiras win for the 6th consecutive time|url=http://esportes.terra.com.br/futebol/estaduais/campeonato-paulista/gabriel-jesus-estreia-e-palmeiras-vence-6-seguida,629a4135166fb410VgnVCM10000098cceb0aRCRD.html|accessdate=23 February 2016|publisher=Terra|date=7 March 2015|language=Portuguese}}&lt;/ref&gt; He totalled eight appearances, all off the bench, as the ''Verdão'' lost on a [[penalty shoot-out (association football)|penalty shootout]] in [[2015 Campeonato Paulista|the final]] against [[Santos FC|Santos]].
+
+Jesus made his first career start on 29 April in the [[2015 Copa do Brasil Second Round|second leg of the second round]] of [[2015 Copa do Brasil|the year's cup]], a 1–1 draw at [[Sampaio Corrêa Futebol Clube]] (6–2 aggregate). On 9 May, he made his first appearance in the [[Campeonato Brasileiro Série A]], starting in a 2–2 home draw against Atlético Mineiro on the first day of [[2015 Campeonato Brasileiro Série A|the season]].&lt;ref&gt;{{cite news|last1=Ribeiro Júnior|first1=Ronaldo|title=Rafael Marques marca no último minuto e Verdão arranca empate contra o Galo|trans-title=Rafael Marques scores in the last minute and the ''Verdão'' start with a draw against the ''Galo''|url=http://www.goal.com/br/match/palmeiras-vs-atl%C3%A9tico-mg/2015177/report|accessdate=23 February 2016|publisher=Goal.com|date=9 May 2015|language=Portuguese}}&lt;/ref&gt;
+
+Jesus' first professional goal came in [[2015 Copa do Brasil Third Round|the next round of the cup]], away to [[Agremiação Sportiva Arapiraquense]] on 15 July, the only goal of the two-legged tie.&lt;ref&gt;{{cite news|title=Gabriel Jesus marca, Palmeiras vence o ASA e avança na Copa do Brasil|trans-title=Gabriel Jesus scores, Palmeiras defeat ASA and advance in the Copa do Brasil|url=http://globoesporte.globo.com/al/futebol/copa-do-brasil/jogo/15-07-2015/asa-arapiraca-palmeiras/|accessdate=23 February 2016|publisher=Globo|date=17 July 2015|language=Portuguese}}&lt;/ref&gt; On 26 August, his two first-half strikes at the [[Estádio Governador Magalhães Pinto]] gave Palmeiras a 3–2 win over [[Cruzeiro Esporte Clube]] (5–3 aggregate), putting them into the quarter-finals.&lt;ref&gt;{{cite news|title=Jogo rápido e show de Gabriel Jesus: como o Palmeiras eliminou o Cruzeiro|trans-title=Fast play and Gabriel Jesus show: how Palmeiras eliminated Cruzeiro|url=http://globoesporte.globo.com/futebol/times/palmeiras/noticia/2015/08/jogo-rapido-e-show-de-gabriel-jesus-como-o-palmeiras-eliminou-o-cruzeiro.html|accessdate=23 February 2016|publisher=Globo|date=27 August 2015|language=Portuguese}}&lt;/ref&gt; Four days later he got his first league goals, starting and finishing a 3–2 win over [[Joinville Esporte Clube]]; the first goal came after 52 seconds.&lt;ref&gt;{{cite news|title=Só Jesus salva! Garoto brilha de novo e põe Palmeiras no G-4|trans-title=Only Jesus saves! Lad shines again and puts Palmeiras into the G-4|url=http://esportes.terra.com.br/futebol/brasileiro-serie-a/campeonato-brasileiro-palmeiras-x-joinville,5b17ed17e986d2605aebeb83bce79b28x4qoRCRD.html|accessdate=23 February 2016|publisher=Terra|date=30 August 2015|language=Portuguese}}&lt;/ref&gt;
+
+Jesus finished the campaign with four goals from 20 games, and his team defeated Santos to win the cup; he was also a starter in both legs of [[2015 Copa do Brasil Finals|the finals]], but being substituted before half-time due to a [[shoulder]] injury. He was elected [[Prêmio Craque do Brasileirão|Best Newcomer]] in the league.&lt;ref name="CBF"&gt;{{cite news|last1=de Sousa|first1=Luan|title=Gabriel Jesus é eleito revelação do Brasileiro em prêmio da CBF|trans-title=Gabriel Jesus is elected revelation of the Brasileiro at the CBF awards|url=http://www.palmeiras.com.br/noticias/ler/36891-gabriel-jesus-e-eleito-revelacao-do-brasileiro-em-premio-da-cbf#.VsvcTfmLTIU|accessdate=23 February 2016|publisher=Sociedade Esportiva Palmeiras|date=1 December 2015|language=Portuguese}}&lt;/ref&gt;
+
+On 4 February 2016, Jesus scored his first ''Paulista'' goal, opening a 2–2 home draw with [[Esporte Clube São Bento]] in the second game of [[2016 Campeonato Paulista|the season]].&lt;ref&gt;{{cite news|title=Com gol no fim, Palmeiras sofre para empatar com São Bento por 2 a 2 no Pacaembu|trans-title=With a goal at the end, Palmeiras suffer in order to draw 2–2 with São Bento in the Pacaembu|url=http://www.parana-online.com.br/editoria/esportes/news/932489/?noticia=COM+GOL+NO+FIM+PALMEIRAS+SOFRE+PARA+EMPATAR+COM+SAO+BENTO+POR+2+A+2+NO+PACAEMBU|accessdate=3 April 2016|publisher=Paraná Online|date=4 February 2016|language=Portuguese}}&lt;/ref&gt; Twelve days later, he scored his first goal in continental football, a 2–2 draw away to Uruguay's [[Club Atlético River Plate (Montevideo)|River Plate]] in the opening game of the [[2016 Copa Libertadores second stage|group stage]] of [[2016 Copa Libertadores|the year's]] [[Copa Libertadores]], after coming on at the interval in place of fellow youngster [[Erik Lima]].&lt;ref&gt;{{cite web|url=http://www.foxsports.com/soccer/story/copa-lib-palmeiras-held-by-river-plate-tachira-down-olimpia-021716|title=Palmeiras held by River Plate, Táchira down Olimpia|publisher=[[Fox Sports]]|date=16 February 2016|accessdate=23 February 2016}}&lt;/ref&gt; Away to [[Rosario Central]] on 6 April, he scored twice in a 3–3 draw but was sent off for the first time in his career for fighting with Damián Musto; he later apologised for his misconduct.&lt;ref&gt;{{cite news|title=Gabriel Jesus explica expulsão e admite erro: 'Fui infeliz em revidar'|trans-title=Gabriel Jesus explains his expulsion and admits his error: "I was irresponsible to retaliate"|url=http://esporte.uol.com.br/futebol/campeonatos/libertadores/ultimas-noticias/2016/04/07/gabriel-jesus-explica-expulsao-na-argentina-fui-infeliz-em-revidar.htm#fotoNav=8|accessdate=7 April 2016|publisher=UOL|date=7 April 2016|language=Portuguese}}&lt;/ref&gt;
+
+In the opening game of the [[2016 Campeonato Brasileiro Série A|national season]] at home to [[Clube Atlético Paranaense]] on 14 May, Jesus scored twice in the second half of a 4–0 win.&lt;ref&gt;{{cite news|title=Gabriel Jesus brilha, e Palmeiras goleia Atlético-PR na estreia do Brasileirão|trans-title=Gabriel Jesus shines, and Palmeiras thrash Atlético-PR in the opening game of the ''Brasileirão''|url=http://espn.uol.com.br/noticia/598904_gabriel-jesus-brilha-e-palmeiras-goleia-atletico-pr-na-estreia-do-brasileirao|accessdate=29 June 2016|publisher=UOL|date=14 May 2016|language=Portuguese}}&lt;/ref&gt; He scored 12 goals as the team won their first national championship since 1994, and was named ''[[Bola de Ouro]]'' for player of the season.&lt;ref&gt;{{cite news|title=Manchester City-bound Gabriel Jesus earns Brazil's Bola de Ouro|url=http://www.espnfc.com/manchester-city/story/3018497/manchester-city-bound-gabriel-jesus-earns-brazil-league-bola-de-ouro|accessdate=20 December 2016|publisher=ESPN FC|date=13 December 2016}}&lt;/ref&gt;
+
+===Manchester City===
+[[File:MC-Shahter (5).jpg|thumb|Gabriel Jesus in action against [[Shakhtar Donetsk]] in September 2017]]
+On 3 August 2016, it was announced that Jesus would sign for [[Premier League]] club [[Manchester City F.C.|Manchester City]] in January 2017 on a contract until the summer of 2021.&lt;ref&gt;{{cite web |url=http://www.mancity.com/news/first-team/2016/07/25/city-sign-gabriel-jesus/1469474304156 |title=City sign Gabriel Jesus |publisher=Manchester City F.C. |date=3 August 2016 |accessdate=18 August 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160817211140/http://www.mancity.com/news/first-team/2016/07/25/city-sign-gabriel-jesus/1469474304156 |archivedate=17 August 2016  }}&lt;/ref&gt; City paid a reported fee of £27&amp;nbsp;million/€33&amp;nbsp;million, plus add-ons.&lt;ref&gt;{{cite news |first=Simon |last=Stone |url=https://www.bbc.co.uk/sport/football/36964045 |title=Gabriel Jesus: Man City sign Brazilian winger from Palmeiras |publisher=BBC Sport |date=3 August 2016 |accessdate=18 August 2016}}&lt;/ref&gt; The transfer was fully completed on 19 January 2017.
+
+Jesus made his first Premier League appearance on 21 January, coming on as an 82nd-minute substitute for [[Raheem Sterling]] in a 2–2 draw with [[Tottenham Hotspur F.C.|Tottenham Hotspur]] at the [[City of Manchester Stadium]].&lt;ref&gt;{{cite news|url=https://www.mancity.com/news/first-team/2017/01/21/manchester-city-gabriel-jesus-interview-tottenham-debut/1485033558304|title=Gabriel Jesus reflects on City debut|date=21 January 2017|publisher=Manchester City Football Club}}&lt;/ref&gt; A week later, Jesus made his first appearance in Manchester City's starting XI, assisting a goal for Sterling in a 3–0 [[2016–17 FA Cup|FA Cup]] win over [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{Cite news|url=https://www.mirror.co.uk/sport/football/news/pep-guardiola-hails-gabriel-jesus-9713159|title=Pep Guardiola hails Gabriel Jesus "the future of Man City" as £27million man bags assist in fourth round FA Cup win|date=28 January 2017|work=The Mirror}}&lt;/ref&gt;  On 1 February he made his first [[Premier League]] start in place of [[Sergio Agüero]], and assisted [[Kevin De Bruyne]] in the 17th minute and then scored his first goal for the club in the 39th.  With this, he became the first Manchester City player to have a goal and an assist in their first Premier League start, as well as only the third City player to be involved in two or more goals in their first Premier League start.&lt;ref&gt;{{Cite news|url=http://www.goal.com/en/news/1862/premier-league/2017/02/01/32216682/gabriel-jesus-is-first-man-city-player-ever-to-score-and|title=The Brazil international, who replaced Sergio Aguero in the XI against West Ham, set up the opener before scoring his first goal for his new club|date=1 February 2017|work=Goal.com}}&lt;/ref&gt; In his fourth game (third league start) Jesus broke a metatarsal in his right foot and was expected to be out for the remainder of the [[2016–17 Premier League]] season.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/39009054|title=Gabriel Jesus: Manchester City forward 'may be out for season'|publisher=BBC Sport|date=17 February 2017|accessdate=19 February 2017}}&lt;/ref&gt; However, he returned in April for the [[Manchester Derby]], coming on as a substitute in a goalless draw.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/39018821|title=Manchester City 0-0 Manchester United|publisher=BBC Sport|date=27 April 2017|accessdate=27 April 2017}}&lt;/ref&gt; Jesus ended the 2016–17 season with 7 goals and 4 assists in 11 games.&lt;ref&gt;{{cite news|url=https://www.premierleague.com/players/19680/Gabriel-Jesus/stats?co=1&amp;se=54|title=Gabriel Jesus Statistics|publisher=Premier League|date=21 August 2017|accessdate=22 August 2017}}&lt;/ref&gt;
+
+He scored his first Premier League goal of the [[2017–18 Premier League|2017–18 season]] on 26 August, an equaliser in a 2–1 away win over [[A.F.C. Bournemouth|AFC Bournemouth]],&lt;ref&gt;{{Cite news|url=http://bbc.co.uk/sport/football/40984015|title=AFC Bournemouth 1–2 Manchester City|publisher=BBC Sport|date=26 August 2017}}&lt;/ref&gt; and added two more in a 5–0 win against [[Liverpool F.C.|Liverpool]] on 9 September.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/41133350|title=Manchester City 5–0 Liverpool|publisher=BBC Sport|date=9 September 2017}}&lt;/ref&gt; He had a 14-game goal drought between 18 November 2017 and 7 March 2018 that encompassed a knee medial ligament injury on New Year's Eve, and after breaking his duck in the Champions League loss to [[FC Basel]] he admitted that fear of getting injured was affecting his game.&lt;ref&gt;{{cite news|last1=Wallace|first1=Sam|title=Gabriel Jesus still playing with fear of being injured again after lay-off|url=https://www.telegraph.co.uk/football/2018/03/08/gabriel-jesus-still-playing-fear-injured-lay-off/|accessdate=23 April 2018|work=The Daily Telegraph|date=8 March 2018}}&lt;/ref&gt; Jesus scored the last Premier League goal in the 2017–18 season against Southampton in the 94th minute, to secure City a league record 100 points.&lt;ref&gt;{{cite news|last1=Johnston|first1=Neil|title= Man City reach 100 point with late goal against Southampton|url=https://www.bbc.com/sport/football/44020180|accessdate=13 May 2018|work=BBC Sport|date=13 May 2018}}&lt;/ref&gt;On 9 January 2019, Gabriel Jesus scored 4 goals for the first time in his career against [[Burton Albion F.C.|Burton Albion]] in a 9-0 victory.&lt;ref&gt;{{Cite news|url=https://www.theguardian.com/football/2019/jan/09/manchester-city-burton-albion-carabao-cup-match-report|title=Gabriel Jesus hits four in Manchester City’s 9-0 destruction of Burton Albion|last=Stadium|first=Daniel Taylor at the Etihad|date=2019-01-09|work=The Guardian|access-date=2019-01-20|language=en-GB|issn=0261-3077}}&lt;/ref&gt;
+
+==International career==
+[[File:ECUADOR vs BRASIL - ARCO SUR (29393657185).jpg|thumb|Jesus on his debut with senior national team.]]
+Jesus was part of the [[Brazil national under-20 football team|Brazil under-20 team]] that finished as runners-up at the [[2015 FIFA U-20 World Cup|2015 U-20 World Cup]] in New Zealand. He scored their first goal of the tournament in a 4–2 win over [[Nigeria national under-20 football team|Nigeria]] in [[New Plymouth]],&lt;ref&gt;{{cite news|title=Brazil triumph in Taranaki thriller|url=https://www.fifa.com/u20worldcup/matches/round=271602/match=300269536/match-report.html|accessdate=23 February 2016|publisher=FIFA|date=1 June 2015}}&lt;/ref&gt; and converted as they advanced past [[Uruguay national under-20 football team|Uruguay]] and [[Portugal national under-20 football team|Portugal]] on penalties.
+
+In 2016, he was chosen in [[Dunga]]'s provisional 40-man squad for the [[Copa América Centenario]] in the United States, and was considered as a replacement for the injured [[Douglas Costa]] in the final selection but missed out through the lack of a [[Visa policy of the United States|U.S. visa]].&lt;ref&gt;{{cite news|title=Gabriel Jesus fica fora da Copa América Centenário por falta de documentação|trans-title=Gabriel Jesus remains out of the Copa América Centenario due to a lack of documents|url=http://istoe.com.br/gabriel-jesus-fica-fora-da-copa-america-centenario-por-falta-de-documentacao/|accessdate=20 June 2016|publisher=Istoé|date=28 May 2016|language=Portuguese}}&lt;/ref&gt; Later that year, he was one of five forwards named in the squad for the team's hosting of the [[Football at the 2016 Summer Olympics – Men's tournament|Olympic tournament]].&lt;ref&gt;{{cite news|title=Rio 2016: Neymar and Douglas Costa in Brazil Olympic squad|url=https://www.bbc.co.uk/sport/football/36666740|accessdate=29 June 2016|publisher=BBC Sport|date=29 June 2016}}&lt;/ref&gt; He scored twice against Danish keeper [[Jeppe Højbjerg]] in their final group game against [[Denmark national under-21 football team|Denmark]], an eventual 4–0 win, and in the semi-final against [[Honduras national under-23 football team|Honduras]] he added two more in a 6–0 victory.&lt;ref&gt;{{cite web|title=Rio Olympics 2016: Neymar scores after 14 seconds as Brazil reach final|url=https://www.bbc.com/sport/olympics/37111213|publisher=BBC Sport|accessdate=18 August 2016}}&lt;/ref&gt; Jesus won the Olympics with his team against Germany in a penalty shootout, scoring one of the penalties.&lt;ref&gt;{{cite web|url=https://www.fifa.com/mensolympic/news/y=2016/m=8/news=neymar-s-golden-penalty-sees-brazil-to-victory-2823069.html|title=Neymar's golden penalty sees Brazil to victory|date=20 August 2016|publisher=FIFA}}&lt;/ref&gt;
+
+Jesus made his debut for the senior team on 1 September 2016, in a [[2018 FIFA World Cup qualification (CONMEBOL)|2018 FIFA World Cup qualification]] game against [[Ecuador national football team|Ecuador]] in [[Quito]]. He started the match and scored twice, as Brazil won 3–0.&lt;ref&gt;{{cite web|title=Gabriel Jesus reminds how good Brazil can be in 3–0 win over Ecuador|url=http://www.espnfc.com/world-cup-qualifying-conmebol/65/blog/post/2942340/gabriel-jesus-reminds-how-good-brazil-can-be-in-3-0-win-over-ecuador|website=ESPN FC|publisher=ESPN|accessdate=2 September 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.fifa.com/fifa-tournaments/players-coaches/people=386559/index.html|title=Gabriel Jesus|publisher=FIFA|accessdate=12 October 2017}}&lt;/ref&gt; Jesus was Brazil's highest scorer in the [[CONMEBOL]] World Cup qualifiers, with 7 goals in 10 matches.&lt;ref&gt;{{cite web|title=Top Scorers World Cup Qualification CONMEBOL 2018|url=https://www.eurosport.com/football/world-cup-qualification-conmebol/2018/standingperson.shtml|website=Eurosport|accessdate=1 January 2018}}&lt;/ref&gt;
+In May 2018, he was named in Tite’s final [[2018 FIFA World Cup squads#Brazil|23-man squad]] for the [[2018 FIFA World Cup]] in Russia.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/44116590|title=World Cup: Neymar named in Brazil's 23-man squad|date=14 May 2018|publisher=BBC Sport|accessdate=2 June 2018}}&lt;/ref&gt; Jesus started all five games for Brazil at the tournament without scoring a goal.&lt;ref&gt;{{cite news |title=Brazil sent packing: Kevin De Bruyne's magic fires up Belgium to knock Selecao out of World Cup |url=https://www.telegraph.co.uk/world-cup/2018/07/06/brazil-vs-belgium-world-cup-2018-live-score-neymar-latest-updates/ |work=The Telegraph |date=6 July 2018}}&lt;/ref&gt;
+
+==Style of play==
+A talented and versatile forward, Jesus is capable of playing in several attacking positions: he has been deployed as a [[Forward (association football)#Centre-forward|centre forward]], as an out-and-out [[Forward (association football)#Striker|striker]], as a [[Forward (association football)#False 9|false 9]], as an [[Forward (association football)#Second striker|inside forward]], as a [[Midfielder#Winger|winger]] or as an [[Midfielder#Attacking midfielder|attacking midfielder]], and is renowned for his pace, technical skills, [[Dribbling#Association football|dribbling]] ability, creativity, finishing, movement, and work ethic. Former Brazilian striker [[Ronaldo (Brazilian footballer)|Ronaldo]] has praised Jesus and touted him for future success with the [[Brazil national football team|Brazilian national team]].&lt;ref name=neymar&gt;{{cite web|url=http://soccerlens.com/gabriel-jesus-the-brazilian-wonderkid-on-everyones-radar/190164/|title=Gabriel Jesus: The Brazilian wonderkid on everyone’s radar - Sportslens|date=10 April 2016|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/blog/2017/sep/30/chelsea-manchester-city-gabriel-jesus-sergio-aguero|title=Gabriel Jesus stars to help Manchester City cope without Sergio Agüero|publisher=The Guardian|author1=Barney Ronay|date=30 September 2017|accessdate=21 October 2017}}&lt;/ref&gt;
+
+==Video game and goal celebration==
+Appearing in [[EA Sports]]' [[FIFA (video game series)|''FIFA'']] video game series, Jesus’s [[goal celebration]] – ‘Alô-mãe’, where he makes a telephone gesture – features in ''[[FIFA 19]]''.&lt;ref&gt;{{cite news |title=UPDATED FIFA 19 new celebrations and tutorial, ft Cristiano Ronaldo, Paul Pogba and Neymar |url=https://talksport.com/football/418292/fifa-19-new-celebrations-cristiano-ronaldo-paul-pogba-neymar |accessdate=11 October 2018 |agency=Talksport}}&lt;/ref&gt;
+
+==Personal life==
+Gabriel Jesus came to England with his mother and older brother along with two friends.{{cn|date=December 2018}} He comes from a religious family and reportedly chose to wear the number 33 in tribute to the age at which [[Jesus|Jesus Christ]] is believed to have been [[Crucifixion of Jesus|crucified]].&lt;ref&gt;{{cite news|title=Jesus could wear Michael Johnson's old Man City shirt number|url=http://www.manchestereveningnews.co.uk/sport/football/football-news/gabriel-jesus-number-man-city-12251145|date=30 November 2016|accessdate=2 February 2017|work=[[Manchester Evening News]]|last=Brennan|first=Stuart}}&lt;/ref&gt; He and [[Neymar]] got matching tattoos in August 2016 depicting a boy overlooking a [[favela]].&lt;ref&gt;{{cite web|last=Wright|first=Chris|title=Gabriel Jesus and Barcelona ace Neymar have matching tattoos|url=http://www.espnfc.us/blog/the-toe-poke/65/post/2921757/gabriel-jesus-and-barcelona-ace-neymar-have-matching-tattoos|date=2 August 2016|accessdate=6 February 2017|publisher=[[ESPN FC]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|work=[[FOX Sports]]|title=Brazil teammates Neymar and Gabriel Jesus reveal matching tattoos|url=http://www.foxsports.com/soccer/story/brazil-teammates-neymar-and-gabriel-jesus-reveal-matching-tattoos-080216|date=2 August 2016|accessdate=6 February 2017}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 6 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup{{efn|Appearances in [[Copa do Brasil]] and [[FA Cup]]}}
+!colspan=2|League Cup{{efn|Appearances in [[EFL Cup]]}}
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[Sociedade Esportiva Palmeiras|Palmeiras]]
+|[[2015 Sociedade Esportiva Palmeiras season|2015]]&lt;ref name=SW/&gt;
+|[[Campeonato Brasileiro Série A|Série A]]
+|20||4||9||3||colspan=2|—||colspan=2|—||8{{efn|name=CP|Appearances in [[Campeonato Paulista]]}}||0||37||7
+|-
+|[[2016 Sociedade Esportiva Palmeiras season|2016]]&lt;ref name=SW/&gt;
+|Série A
+|27||12||2||0||colspan=2|—||5{{efn|Appearances in [[Copa Libertadores]]}}||4||12{{efn|name=CP}}||5||46||21
+|-
+!colspan=2|Total
+!47||16||11||3||colspan=2|—||5||4||20||5||83||28
+|-
+|rowspan=4|[[Manchester City F.C.|Manchester City]]
+|[[2016–17 Manchester City F.C. season|2016–17]]&lt;ref&gt;{{Soccerbase season|91392|2016|access-date=2 April 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|10||7||1||0||colspan=2|—||0||0||colspan=2|—||11||7
+|-
+|[[2017–18 Manchester City F.C. season|2017–18]]&lt;ref&gt;{{Soccerbase season|91392|2017|access-date=2 April 2018}}&lt;/ref&gt;
+|Premier League
+|29||13||0||0||4||0||9{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||4||colspan=2|—||42||17
+|-
+|[[2018–19 Manchester City F.C. season|2018–19]]&lt;ref&gt;{{Soccerbase season|91392|2018|access-date=27 January 2019}}&lt;/ref&gt;
+|Premier League
+|20||6||2||2||5||5||4{{efn|name=UCL}}||3||1{{efn|Appearance in [[FA Community Shield]]}}||0||32||16
+|-
+!colspan=2|Total
+!59||26||3||2||9||5||13||7||1||0||85||40
+|-
+!colspan=3|Career total
+!106||42||14||5||9||5||18||11||21||5||168||68
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 16 October 2018}}&lt;ref name=SW/&gt;&lt;ref name=NFT&gt;{{cite web|url=http://www.national-football-teams.com/player/65013/Gabriel_Jesus.html|title=Jesus, Gabriel|publisher=National Football Teams|accessdate=28 January 2018}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=3|[[Brazil national football team|Brazil]]
+|2016||6||5
+|-
+|2017||7||3
+|-
+|2018||11||3
+|-
+!colspan=2|Total||24||11
+|}
+
+===International goals===
+:''Scores and results list Brazil's goal tally first, score column indicates score after each Jesus goal.''&lt;ref name=NFT/&gt;
+
+{| class="wikitable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+| 1. || rowspan=2|1 September 2016 || rowspan=2|[[Estadio Olímpico Atahualpa]], [[Quito]], Ecuador || rowspan=2 align=center | 1 || rowspan=2|{{Fb|ECU}} || align=center | 2–0&lt;ref&gt;{{cite web|title=2018 FIFA World Cup Russia™ - Matches - Ecuador-Brazil|url=https://www.fifa.com/worldcup/matches/round=276453/match=300359712/report.html|website=FIFA.com|accessdate=1 January 2018}}&lt;/ref&gt;&lt;/center&gt; || rowspan=2 align=center | 3–0 || rowspan=7| [[2018 FIFA World Cup qualification (CONMEBOL)|2018 FIFA World Cup qualification]]
+|-
+| 2. || align=center | 3–0
+|-
+| 3. || 6 October 2016 || [[Arena das Dunas]], [[Natal, Rio Grande do Norte|Natal]], Brazil || align=center | 3 || {{fb|BOL}} || align=center | 4–0 || align=center | 5–0
+|-
+| 4. || 11 October 2016 || [[Estadio Metropolitano de Mérida]], [[Mérida, Mérida|Mérida]], Venezuela || align=center | 4 || {{fb|VEN}} || align=center | 1–0 || align=center | 2–0
+|-
+| 5. || 15 November 2016 || [[Estadio Nacional de Lima]], [[Lima]], Peru || align=center | 6 || {{fb|PER}} || align=center | 1–0 || align=center | 2–0
+|-
+| 6. || rowspan=2|10 October 2017 || rowspan=2|[[Allianz Parque]], [[São Paulo]], Brazil || rowspan=2 align=center | 11 || rowspan=2|{{fb|CHI}} || align=center | 2–0 || rowspan=2 align=center | 3–0
+|-
+| 7. || align=center | 3–0
+|-
+| 8. || 10 November 2017 || [[Stade Pierre-Mauroy]], [[Villeneuve-d'Ascq]], France || align=center | 12 || {{Fb|JPN}} || align=center | 3–0 || align=center | 3–1 || rowspan=4|[[Exhibition game#Association football|Friendly]]
+|-
+| 9. || 27 March 2018 || [[Olympiastadion (Berlin)|Olympiastadion]], [[Berlin]], Germany || align=center | 15 || {{Fb|GER}} || align=center | 1–0 || align=center | 1–0
+|-
+| 10. || 10 June 2018 || [[Ernst-Happel-Stadion]], [[Vienna]], Austria || align=center | 17 || {{Fb|AUT}} || align=center | 1–0 || align=center | 3–0
+|-
+| 11. || 12 October 2018 || [[King Saud University|King Saud University Stadium]], [[Riyadh]], Saudi Arabia || align=center | 23 || {{Fb|KSA}} || align=center | 1–0 || align=center | 2–0
+|}
+
+==Honours==
+===Club===
+'''Palmeiras'''
+*[[Campeonato Brasileiro Série A]]: [[2016 Campeonato Brasileiro Série A|2016]]&lt;ref&gt;{{cite web|url=https://www.usatoday.com/story/sports/soccer/2016/11/27/gabriel-jesus-wins-title-with-palmeiras-before-man-city-move/94520188/|title=Gabriel Jesus wins title with Palmeiras before Man City move|date=27 November 2016|publisher=USA Today|accessdate=3 December 2016}}&lt;/ref&gt;
+*[[Copa do Brasil]]: [[2015 Copa do Brasil|2015]]&lt;ref&gt;{{cite web|url=http://www.espnfc.us/story/2738623/palmeiras-defeat-santos-in-pks-win-copa-do-brasil|title=Palmeiras defeat Santos on penalties, win third Copa do Brasil|date=3 December 2015|work=ESPN FC|accessdate=3 December 2015}}&lt;/ref&gt;
+
+'''Manchester City'''
+*[[Premier League]]: [[2017–18 Premier League|2017–18]]&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/19680/Gabriel-Jesus/overview |title=Gabriel Jesus: Overview |publisher=Premier League |accessdate=15 May 2018}}&lt;/ref&gt;
+*[[EFL Cup]]: [[2017–18 EFL Cup|2017–18]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/43101681 |title=Arsenal 0–3 Manchester City |first=Phil |last=McNulty |publisher=BBC Sport |date=25 February 2018 |accessdate=25 February 2018}}&lt;/ref&gt;
+*[[FA Community Shield]]: [[2018 FA Community Shield|2018]]&lt;ref name=shield2018&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44995783 |title=Chelsea 0–2 Manchester City |first=Chris |last=Bevan |publisher=BBC Sport |date=5 August 2018 |accessdate=10 August 2018}}&lt;/ref&gt;
+
+[[File:Brasil conquista primeiro ouro olímpico nos penaltis 1039272-20082016- mg 4595.jpg|thumb|Jesus celebrating with his Olympic gold medal in 2016]]
+
+===International===
+'''Brazil'''
+*[[Football at the Summer Olympics#Men's results|Olympic Gold Medal]]: [[Football at the 2016 Summer Olympics – Men's tournament|2016]]&lt;ref&gt;{{cite web|url=https://www.usatoday.com/story/sports/olympics/2016/08/20/with-penalty-kick-brazil-wins-1st-soccer-olympic-gold/89061838/|title=Neymar kick is gold: Brazil wins 1st Olympic soccer title|date=20 August 2016|publisher=USA Today|accessdate=3 December 2016}}&lt;/ref&gt;
+
+===Individual===
+*[[Prêmio Craque do Brasileirão|Campeonato Brasileiro Série A Best Newcomer]]: [[2015 Campeonato Brasileiro Série A|2015]]&lt;ref name="CBF"/&gt;
+*[[Prêmio Craque do Brasileirão|Campeonato Brasileiro Série A Best Player]]: [[2016 Campeonato Brasileiro Série A|2016]]&lt;ref name="craque"&gt;{{cite web|title=Palmeiras tem oito na seleção do Brasileirão, Gabriel Jesus é o craque|url=http://sportv.globo.com/site/programas/bem-amigos/noticia/2016/12/palmeiras-tem-oito-na-selecao-do-brasileirao-gabriel-jesus-e-o-craque.html|website=sportv.com|language=pt-BR}}&lt;/ref&gt;
+*[[Campeonato Brasileiro Série A Team of the Year]]: 2016&lt;ref name="craque"/&gt;
+*[[Bola de Ouro]]: 2016&lt;ref name="bdp"&gt;{{cite news|title=Gabriel Jesus wins Bola de Prata award for best player in the Brasileirao|url=http://www.sambafoot.com/en/news/85446_gabriel_jesus_wins_bola_de_prata_award_for_best_player_in_the_brasileirao.html|work=Sambafoot}}&lt;/ref&gt;
+*[[Bola de Ouro|Bola de Prata]]: 2016&lt;ref name="bdp"/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+*{{Soccerbase}}
+*{{NFT player|id=65013}}
+
+{{Manchester City F.C. squad}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{Bola de Ouro}}
+{{Craque do Brasileirão}}
+{{2016 Bola de Prata}}
+{{Campeonato Brasileiro Série A Best Newcomer}}
+{{2016 Campeonato Brasileiro Série A Team of the Year}}
+}}
+{{Navboxes
+|title=Brazil squads
+|bg= #FBEC5D
+|fg= #008000
+|bordercolor= Blue
+|list1=
+{{Brazil men's football squad 2016 Summer Olympics}}
+{{Brazil squad 2018 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Jesus, Gabriel}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from São Paulo]]
+[[Category:Brazilian footballers]]
+[[Category:Brazil youth international footballers]]
+[[Category:Brazil under-20 international footballers]]
+[[Category:Brazil international footballers]]
+[[Category:Association football forwards]]
+[[Category:Sociedade Esportiva Palmeiras players]]
+[[Category:Manchester City F.C. players]]
+[[Category:Campeonato Brasileiro Série A players]]
+[[Category:Olympic footballers of Brazil]]
+[[Category:Footballers at the 2016 Summer Olympics]]
+[[Category:Olympic gold medalists for Brazil]]
+[[Category:Olympic medalists in football]]
+[[Category:Medalists at the 2016 Summer Olympics]]
+[[Category:Premier League players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:Expatriate footballers in England]]
+[[Category:Brazilian expatriate sportspeople in England]]</text>
+      <sha1>avnlnghup9ah2wediykxrca62qfmtfh</sha1>
+    </revision>
+  </page>
+</mediawiki>

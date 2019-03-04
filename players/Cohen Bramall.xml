@@ -1,0 +1,168 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cohen Bramall</title>
+    <ns>0</ns>
+    <id>54988912</id>
+    <revision>
+      <id>885391145</id>
+      <parentid>885358715</parentid>
+      <timestamp>2019-02-27T19:18:21Z</timestamp>
+      <contributor>
+        <username>Struway2</username>
+        <id>4761363</id>
+      </contributor>
+      <comment>undo, per sources cited, which are consistent with birth records; the date at https://www.arsenal.com/academy/players/cohen-bramall would appear to be a typo</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12326">{{Infobox football biography
+| name        = Cohen Bramall
+| image       = 
+| image_size  =
+| caption     = 
+| fullname    = 
+| birth_date  = {{birth date and age|1996|4|2|df=y}}&lt;ref name=BCFCprofile/&gt;&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/21627/Cohen-Bramall/overview |title=Cohen Bramall: Overview |publisher=Premier League |accessdate=27 February 2019 |deadurl=no |archiveurl=http://web.archive.org/web/20190227191141/https://www.premierleague.com/players/21627/Cohen-Bramall/overview |archivedate=27 February 2019}}&lt;/ref&gt;
+| birth_place = [[Crewe]], England
+| height      = {{convert|1.75|m|order=flip}}&lt;ref name=BCFCprofile/&gt;
+| currentclub = [[Arsenal F.C.|Arsenal]]
+| clubnumber  = 39
+| position    = [[Left back]]
+| youthyears1 = | youthclubs1 = 
+| years1 = 2013–2014 | clubs1 = [[Kidsgrove Athletic F.C.|Kidsgrove Athletic]]    | caps1 =    | goals1 = 
+| years2 = 2014      | clubs2 = → [[Alsager Town F.C.|Alsager Town]] (dual registration) | caps2 = | goals2 = 
+| years3 = 2014      | clubs3 = [[Nantwich Town F.C.|Nantwich Town]]              | caps3 =    | goals3 = 
+| years4 = 2014      | clubs4 = [[Market Drayton Town F.C.|Market Drayton Town]]  | caps4 =    | goals4 = 
+| years5 = 2014–2015 | clubs5 = [[Newcastle Town F.C.|Newcastle Town]]            | caps5 =    | goals5 = 
+| years6 = 2015–2016 | clubs6 = [[Market Drayton Town F.C.|Market Drayton Town]]  | caps6 =    | goals6 = 
+| years7 = 2016–2017 | clubs7 = [[Hednesford Town F.C.|Hednesford Town]]          | caps7 = 21 | goals7 = 0
+| years8 = 2017–     | clubs8 = [[Arsenal F.C.|Arsenal]]                          | caps8 = 0  | goals8 = 0
+| years9 = 2017–2018 | clubs9 = → [[Birmingham City F.C.|Birmingham City]] (loan) | caps9 = 5  | goals9 = 0
+| nationalyears1 = 
+| nationalteam1 = 
+| nationalcaps1 =  
+| nationalgoals1 = 
+| club-update = 10:01, 7 May 2018 (UTC)
+| nationalteam-update = 
+}}
+'''Cohen Bramall''' (born 2 April 1996) is an English professional [[association football|footballer]] who plays as a [[left back]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]]. He spent the 2017–18 season on loan to [[Birmingham City F.C.|Birmingham City]] of the [[EFL Championship|Championship]].
+
+==Life and career==
+===Early life and career===
+Bramall was born in [[Crewe]], Cheshire.&lt;ref name=BCFCprofile&gt;{{cite web |url=https://www.bcfc.com/birmingham-city/players/cohen-bramall/ |title=Cohen Bramall |publisher=Birmingham City F.C. |accessdate=23 August 2017 |archiveurl=https://web.archive.org/web/20170823163657/https://www.bcfc.com/birmingham-city/players/cohen-bramall/ |archivedate=23 August 2017}}&lt;/ref&gt; He began his career in [[non-League football]] in his local area, with [[Kidsgrove Athletic F.C.|Kidsgrove Athletic]], [[Alsager Town F.C.|Alsager Town]], [[Nantwich Town F.C.|Nantwich Town]], [[Market Drayton Town F.C.|Market Drayton Town]]{{snd}}with whom he won the 2015–16 Shropshire Premier Cup in his second spell at the club&lt;ref name=1516ShropPrem&gt;{{cite web |url=http://www.pitchero.com/clubs/marketdraytontown/teams/24359/match-centre/0-3304430 |title=Drayton win T J Vickers Cup in penalty shoot out |first=Cliff |last=Taylor |publisher=Market Drayton Town F.C. |date=3 May 2016 |accessdate=11 September 2017}}&lt;br /&gt;{{cite news |url=https://www.shropshirestar.com/sport/non-league/2016/05/04/market-drayton-take-home-the-premier-cup/ |title=Market Drayton take home the Premier Cup |newspaper=Shropshire Star |date=4 May 2016 |accessdate=11 September 2017}}&lt;/ref&gt;{{snd}}and [[Newcastle Town F.C.|Newcastle Town]].&lt;ref name=Pitmenweb&gt;{{cite web |url=http://www.pitmenweb.com/playerprofilebramall.htm |title=Cohen Bramall: Defence/Midfield |website=PitmenWeb |accessdate=23 August 2017}}&lt;/ref&gt; In May 2016, he moved to [[Northern Premier League]] Premier Division club [[Hednesford Town F.C.|Hednesford Town]].&lt;ref name=Pitmenweb/&gt; He played on a part-time basis while working at a [[Bentley]] car factory.&lt;ref name=BBCToArsenal&gt;{{cite news |url=https://www.bbc.com/sport/football/38572994 |title=Cohen Bramall: Arsenal sign non-league left-back |date=10 January 2017 |publisher=BBC Sport |accessdate=22 August 2017}}&lt;/ref&gt;
+
+Bramall was first offered a trial with [[EFL Championship|Championship]] club [[Sheffield Wednesday F.C.|Sheffield Wednesday]], appearing with their under-23 side in a match.&lt;ref name=BMailMeet&gt;{{cite news |url=http://www.birminghammail.co.uk/sport/football/transfer-news/cohen-bramall-birmingham-city-arsenal-13506256 |title=Factory worker, rabonas and Arsenal – meet Birmingham City new boy Cohen Bramall |first=Alex |last=Dicken |newspaper=Birmingham Mail |date=21 August 2017 |accessdate=22 August 2017}}&lt;/ref&gt; [[Crystal Palace F.C.|Crystal Palace]] of the [[Premier League]] were also interested in signing him.&lt;ref name=BBCToArsenal/&gt;
+
+===Arsenal===
+After a short trial, Bramall signed professional forms with Premier League club [[Arsenal F.C.|Arsenal]] on 9 January 2017.&lt;ref&gt;{{cite web |url=https://www.arsenal.com/news/news-archive/20170109/cohen-bramall-joins-arsenal-under-23s |title=Cohen Bramall joins club as young pro |publisher=Arsenal F.C. |date=9 January 2017 |accessdate=15 August 2017}}&lt;/ref&gt; The fee was officially undisclosed,&lt;ref&gt;{{cite web |url=http://www.hednesfordtownfc.com/2017/01/cohen-bramall-makes-arsenal-move |title=Cohen Bramall makes Arsenal move |publisher=Hednesford Town F.C. |date=10 January 2017 |accessdate=25 August 2017}}&lt;/ref&gt; but was widely reported as around £40,000.&lt;ref name=BBCToArsenal/&gt;&lt;ref&gt;{{cite news |url=http://www.skysports.com/football/news/11670/10717289/arsenal-to-sign-hednesford-defender-cohen-bramall-sky-sources |title=Arsenal to sign Hednesford defender Cohen Bramall – Sky sources |publisher=Sky Sports |date=4 January 2017 |accessdate=25 August 2017}}&lt;br /&gt;{{cite news |url=https://www.expressandstar.com/sport/football/non-league/hednesford-town-fc/2017/01/10/hednesford-town-youngster-cohen-bramall-officially-joins-arsenal/ |title=Hednesford Town youngster Cohen Bramall officially joins Arsenal |newspaper=Express &amp; Star |location=Wolverhampton |date=10 January 2017 |accessdate=25 August 2017}}&lt;/ref&gt; He spent the remainder of the season playing for the club's [[Arsenal F.C. Reserves|under-23]] side.&lt;ref name=BMailMeet/&gt; During Arsenal's pre-season before the [[2017–18 Premier League|2017–18 season]], Bramall joined the first-team squad for the club's tour of Australia and China, making his senior debut in a friendly against [[A-League]] side [[Sydney F.C.|Sydney]].&lt;ref name=BMailMeet/&gt;
+
+====Birmingham City (loan)====
+On 21 August 2017, Bramall and Arsenal teammate [[Carl Jenkinson]] were [[loan (sports)|loaned]] to Championship club [[Birmingham City F.C.|Birmingham City]] until the end of the season.&lt;ref name=ToBCFC&gt;{{cite news |url=https://www.bbc.com/sport/football/41000686 |title=Birmingham loan Arsenal's Carl Jenkinson and Cohen Bramall plus Southampton's Sam Gallagher |publisher=BBC Sport |date=21 August 2017 |accessdate=22 August 2017}}&lt;/ref&gt; Bramall made his senior professional debut the next day in Birmingham's starting eleven for their [[EFL Cup]] match against [[A.F.C. Bournemouth|Bournemouth]]. He played 78 minutes in a 2–1 defeat.&lt;ref&gt;{{cite news |url=http://www.birminghammail.co.uk/sport/football/transfer-news/heres-how-birmingham-citys-arsenal-13515491 |title=Here's how Birmingham City's Arsenal loanee Cohen Bramall did on his professional debut |first=Alex |last=Dicken |newspaper=Birmingham Mail |date=23 August 2017 |accessdate=23 August 2017}}&lt;/ref&gt; He made his first [[English Football League|Football League]] appearance in Birmingham's next match, playing the whole of a 2–0 defeat at home to [[Reading F.C.|Reading]].&lt;ref name=sb1718/&gt; That was his last appearance until December, when, with central defenders [[Harlee Dean]] suspended and [[Marc Roberts (footballer)|Marc Roberts]] injured, he started at left wing-back in a 1–0 loss away to [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite news |url=https://www.birminghammail.co.uk/sport/football/football-news/fulham-v-birmingham-city-arsenal-14015944 |title=Fulham v Birmingham City: Arsenal loan man comes into makeshift defence at Craven Cottage |first=Brian |last=Dick |newspaper=Birmingham Mail |date=9 December 2018 |accessdate=7 May 2018}}&lt;/ref&gt;
+
+Despite speculation that the loan might be cut short in the January transfer window,&lt;ref&gt;{{cite news |url=https://www.birminghammail.co.uk/sport/football/transfer-news/cohen-bramall-carl-jenkinson-birmingham-14113518 |title=Cohen Bramall and Carl Jenkinson: Birmingham City boss Steve Cotterill on the Arsenal duo's futures |first=Brian |last=Dick |newspaper=Birmingham Mail |date=5 February 2018 |accessdate=7 May 2018}}&lt;/ref&gt; he remained at the club, and returned to the league team on 3 February, as a substitute for the injured [[Jonathan Grounds]] in a 3–1 win away to [[Sheffield Wednesday]]. He was involved in an incident for which Wednesday's [[Marco Matias (footballer)|Marco Matias]] was sent off for violent conduct. Former referee [[Mark Halsey]] said afterwards that if there had been a dismissable offence, it was committed by Bramall,&lt;ref&gt;{{cite news |url=https://www.birminghammail.co.uk/sport/football/football-news/referee-got-wrong-man-birmingham-14250737 |title=Referee 'got the wrong man' in Birmingham City's win at Sheffield Wednesday – ex Premier League official |first=Shane |last=Ireland |newspaper=Birmingham Mail |date=5 February 2018 |accessdate=7 May 2018}}&lt;/ref&gt; and Matias' red card was rescinded on appeal.&lt;ref&gt;{{cite news |url=https://www.thestar.co.uk/sport/football/sheffield-wednesday/sheffield-wednesday-win-appeal-over-marco-matias-red-card-against-birmingham-city-1-9005473 |title=Sheffield Wednesday win appeal over Marco Matias' red card against Birmingham City |first=Chris |last=Holt |newspaper=The Star |location=Sheffield |date=6 February 2018 |accessdate=7 May 2018}}&lt;/ref&gt; Bramall played in two more Championship matches in February, but those were his last.&lt;ref name=sb1718/&gt;
+
+==Career statistics==
+{{updated|end of 2017–18 season}}
+
+{| class=wikitable style=text-align:center
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Hednesford Town F.C.|Hednesford Town]]
+|[[2016–17 Northern Premier League#Premier Division|2016–17]]&lt;ref name=HTFCstats&gt;{{cite web |url=http://hednesfordtown.com/statistics/player.php?sort=apps&amp;id=452 |title=Cohen Bramall profile |website=hednesfordtown.com |publisher=Steve Walker |accessdate=2 September 2017 |archiveurl=http://web.archive.org/web/20170902142221/http://hednesfordtown.com/statistics/player.php?sort=apps&amp;id=452 |archivedate=2 September 2017}}&lt;/ref&gt;
+|[[Northern Premier League]] Premier Division||21||0||1||1||colspan=2|—||4{{efn|Three appearances in [[FA Trophy]], one in [[Birmingham Senior Cup]]}}||0||26||1
+|-
+|rowspan=1|[[Arsenal F.C.|Arsenal]]
+|[[2017–18 Arsenal F.C. season|2017–18]]&lt;ref name=sb1718/&gt;
+|[[Premier League]]||0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[Birmingham City F.C.|Birmingham City]] (loan)
+|[[2017–18 Birmingham City F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|104461|2017|accessdate=7 May 2018}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]||5||0||2||0||1||0||colspan=2|—||8||0
+|-
+!colspan=3|Career total
+!26||0||3||1||1||0||4||0||34||1
+|}
+
+{{notelist}}
+
+==Honours==
+'''Market Drayton Town'''
+*Shropshire Premier Cup: 2015–16&lt;ref name=1516ShropPrem/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway}}
+
+{{DEFAULTSORT:Bramall, Cohen}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:People from Crewe]]
+[[Category:Sportspeople from Cheshire]]
+[[Category:English footballers]]
+[[Category:Association football defenders]]
+[[Category:Kidsgrove Athletic F.C. players]]
+[[Category:Alsager Town F.C. players]]
+[[Category:Nantwich Town F.C. players]]
+[[Category:Market Drayton Town F.C. players]]
+[[Category:Newcastle Town F.C. players]]
+[[Category:Hednesford Town F.C. players]]
+[[Category:Arsenal F.C. players]]
+[[Category:Birmingham City F.C. players]]
+[[Category:Northern Premier League players]]
+[[Category:English Football League players]]</text>
+      <sha1>ifsygkdhl51svih0ax523hdj4xhf2i4</sha1>
+    </revision>
+  </page>
+</mediawiki>

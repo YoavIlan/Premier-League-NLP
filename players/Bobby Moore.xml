@@ -1,0 +1,571 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bobby Moore</title>
+    <ns>0</ns>
+    <id>18826090</id>
+    <revision>
+      <id>885204797</id>
+      <parentid>884888758</parentid>
+      <timestamp>2019-02-26T16:48:16Z</timestamp>
+      <contributor>
+        <username>JSWHU</username>
+        <id>15468484</id>
+      </contributor>
+      <comment>added [[Category:Carolina Lightnin' players]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="62226">{{Other people|Bobby Moore}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox football biography
+| name = Bobby Moore &lt;br /&gt; &lt;small&gt;[[Order of the British Empire|OBE]]&lt;/small&gt;
+| image = Bobby Moore 1969.jpg
+| image_size = 200
+| caption = Bobby Moore in 1969
+| fullname = Robert Frederick Chelsea Moore&lt;ref name="PFA"&gt;{{cite book
+ | editor-first = Barry J.
+ | editor-last = Hugman
+ | title = The PFA Premier &amp; Football League Players' Records 1946–2005
+ | year = 2005
+ | publisher = Queen Anne Press
+ | isbn = 978-1-85291-665-7
+ | page = 436 }}&lt;/ref&gt;
+| birth_date = {{birth date|1941|4|12|df=y}}&lt;ref name="PFA"/&gt;
+| birth_place = [[Municipal Borough of Barking|Barking]], [[Essex]], England&lt;!-- In Essex until 1965 --&gt;
+| death_date = {{death date and age|1993|2|24|1941|4|12|df=y}}
+| death_place = [[Putney]], London, England
+| position = [[Defender (association football)|Left half]]
+| youthyears1 = 
+| youthclubs1 = [[Barking F.C.|Barking]]
+| youthyears2 = 1956–1958
+| youthclubs2 = [[West Ham United F.C.|West Ham United]]
+| years1 = 1958–1974
+| clubs1 = [[West Ham United F.C.|West Ham United]]
+| caps1 = 544
+| goals1 = 24
+| years2 = 1974–1977
+| clubs2 = [[Fulham F.C.|Fulham]]
+| caps2 = 124
+| goals2 = 1
+| years3 = 1976
+| clubs3 = → [[San Antonio Thunder]]
+| caps3 = 24
+| goals3 = 1
+| years4 = 1978
+| clubs4 = [[Seattle Sounders (1974–83)|Seattle Sounders]]
+| caps4 = 7
+| goals4 = 0
+| years5 = 1978
+| clubs5 = [[Herning Fremad]]
+| caps5 = 9
+| goals5 = 0
+| years6 = 1983
+| clubs6 = [[Carolina Lightnin']]
+| caps6 = 8
+| goals6 = 0
+| totalcaps = 716
+| totalgoals = 26
+| nationalyears1 = 1960–1962
+| nationalteam1 = [[England national under-23 football team|England U23]]
+| nationalcaps1 = 9
+| nationalgoals1 = 2
+| nationalyears2 = 1962–1973&lt;ref&gt;{{Cite news|title=Robert Frederick Chelsea "Bobby" Moore – International Appearances |publisher=The Rec.Sport.Soccer Statistics Foundation |url=http://www.rsssf.com/miscellaneous/moore-intl.html |deadurl=yes |archiveurl=https://web.archive.org/web/20131015134541/http://www.rsssf.com/miscellaneous/moore-intl.html |archivedate=15 October 2013 |df=dmy }}&lt;/ref&gt;
+| nationalteam2 = [[England national football team|England]]
+| nationalcaps2 = 108
+| nationalgoals2 = 2
+| manageryears1 = 1980
+| managerclubs1 = [[Oxford City F.C.|Oxford City]]
+| manageryears2 = 1981–1982
+| managerclubs2 = [[Eastern AA]]
+| manageryears3 = 1984–1986
+| managerclubs3 = [[Southend United F.C.|Southend United]]
+| medaltemplates = {{medalCountry|[[England national football team|England]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{Medal|1st|[[1966 FIFA World Cup|1966 England]]|}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|3rd|[[UEFA Euro 1968|1968 Italy]]|}}
+}}
+'''Robert Frederick Chelsea Moore''' [[Order of the British Empire|OBE]] (12 April 1941&amp;nbsp;– 24 February 1993) was an English professional [[Association football|footballer]]. He most notably played for [[West Ham United F.C.|West Ham United]], [[Captain (association football)|captaining]] the club for more than ten years, and was the captain of the [[England national football team|England national team]] that won the [[1966 FIFA World Cup]]. He is widely regarded as one of the greatest [[Defender (association football)|defenders]] of all time, and was cited by [[Pelé]] as the greatest defender that he had ever played against.&lt;ref name="bobbymoore19412"&gt;{{cite web|url=http://www.bobbymoore.co.uk/Quotes.html|title=Bobby Moore 1941–1993|date=|publisher=Bobbymoore.co.uk|accessdate=31 May 2010}}&lt;/ref&gt;
+
+Widely regarded as West Ham's greatest ever player, Moore played over 600 games for the club during a 16 year tenure, winning the [[FA Cup]] in [[1964 FA Cup Final|1963–64]] and the [[UEFA Cup Winners' Cup]] in [[1965 European Cup Winners' Cup Final|1964–65]]. During his time at the club he won the [[Football Writers' Association Footballer of the Year|FWA Footballer of the Year]] in 1964 and the [[West Ham United|West Ham Player Of The Year]] in 1961, 1963, 1968 and 1970. In August 2008, West Ham United officially retired his number 6 shirt, 15 years after his death.&lt;ref name=":0"&gt;[http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/7541638.stm Hammers make Moore shirt gesture]&amp;nbsp;– BBC News, 4 July 2008&lt;/ref&gt;
+
+Moore was made captain of England in 1964, at age 23, going on to lift the [[FIFA World Cup Trophy|World Cup trophy]] in 1966. He won a total of 108 [[Cap (sport)|caps]] for his country, which at the time of his international retirement in 1973 was a national [[Progression of England association football caps record|record]]. This record was later broken by [[Peter Shilton]]. Moore's total of 108 caps continued as a record for an outfield player until 28 March 2009, when [[David Beckham]] gained his 109th cap.&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldfootball/news/newsid=1042546.html?cid=rssfeed&amp;att=|title=Beckham dedicates record to family|date=28 March 2009|publisher=Fifa.com|archiveurl=https://web.archive.org/web/20120306031021/http://www.fifa.com/worldfootball/news/newsid%3D1042546.html?cid=rssfeed&amp;att=|archivedate=6 March 2012|deadurl=yes|accessdate=31 May 2010|df=dmy-all}}&lt;/ref&gt; Moore is a member of the [[World Team of the 20th Century]]. A national team icon, a bronze statue of Moore is positioned at the entrance to [[Wembley Stadium]].
+
+A composed [[central defender]], Moore was best known for his reading of the game and ability to anticipate opposition movements, thereby distancing himself from the image of the hard-tackling, high-jumping defender. Receiving the [[BBC Sports Personality of the Year]] in 1966, he was the first footballer to win the award and he remained the only one for a further 24 years. Moore was given an [[Order of the British Empire|OBE]] in the [[New Year Honours|New Year Honours List]]. He was made an inaugural inductee of the [[English Football Hall of Fame]] in 2002 in recognition of his impact on the English game as a player and in the same year he was named in the BBC's list of the [[100 Greatest Britons]].
+
+==Football career==
+
+===Early days===
+
+[[File:BOBBY MOORE - 43 Waverley Gardens Barking London IG11 0BH.jpg|thumb|upright|Moore's childhood home, 43 Waverley Gardens, Barking, London]]
+Moore was born in [[Municipal Borough of Barking|Barking]], [[Essex]]. He attended Westbury Primary School Barking,  and [[Tom Hood School]], [[Leytonstone]], playing football for both schools.&lt;ref&gt;Moore, Bobby (1966)'' My Soccer Story'' Stanley Paul &amp; Co&lt;/ref&gt;
+
+In 1956, Moore joined West Ham United as a player and, after advancing through their youth set-up, he played his first game on 8 September 1958 against [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite web|url=http://www.westhamstats.info/westham.php?west=2&amp;ham=477&amp;united=Bobby_Moore|title=Welcome to the Wonderful World of West Ham United Statistics Bobby Moore|date= |accessdate=18 March 2011}}&lt;/ref&gt; In putting on the number six shirt, he replaced his mentor [[Malcolm Allison]], who was suffering from [[tuberculosis]].
+
+Allison never played another first team game for West Ham nor indeed any other First Division game as Moore became a regular. A composed [[central defender]], Moore was admired for his reading of the game and ability to anticipate opposition movements, thereby distancing himself from the image of the hard-tackling, high-jumping defender. Indeed, Moore's ability to head the ball or keep up with the pace was average at best, but the way he read the game, marshalled his team and timed his tackles marked him out as world class.
+
+Moore was sent off once over the course of his West Ham career, for a foul on [[Dave Wagstaffe]] in the final moment of a match against [[Manchester City F.C.|Manchester City]] in November 1961. The referee had simultaneously blown his whistle for the offence and for full time. As [[Penalty card|red cards]] were not issued at that time, the dismissal didn't become apparent until after the match.&lt;ref&gt;{{cite book |title=Seeing Red for the Claret and Blue |first=John |last=Powles |publisher=SoccerData |location=Nottingham |year=2011 |isbn=978-1-905891-54-2 |page=18}}&lt;/ref&gt;
+
+Moore also played [[cricket]] for the [[Essex County Cricket Club|Essex]] youth team alongside fellow West Ham player [[Geoff Hurst]].&lt;ref&gt;{{cite web|url=http://content-www.cricinfo.com/columns/content/story/208547.html |title=Test centuries against all nations, and plain sailing |publisher=www.cricinfo.com |date=2 May 2005 |accessdate=31 May 2010}}&lt;/ref&gt;
+
+===An England star, a European winner===
+In 1960, Moore earned a call up to the [[England national under-23 football team|England Under-23]] squad. His form and impact on West Ham as a whole earned him a late call-up to the [[England national football team|full England squad]] by [[Walter Winterbottom]] and [[The Football Association]] selection committee in 1962, when final preparations were being made for the summer's [[FIFA World Cup 1962|World Cup]] finals in [[Chile]]. Moore was uncapped as he flew to [[South America]] with the rest of the squad, but made his début on 20 May 1962 in England's final pre-tournament friendly&amp;nbsp;– a 4–0 win over [[Peru national football team|Peru]] in [[Lima]]. Also débuting that day was [[Tottenham Hotspur F.C.|Tottenham Hotspur]] defender [[Maurice Norman]]. Both proved so impressive that they stayed in the team for the whole of England's participation in the World Cup, which ended in defeat by eventual winners [[Brazil national football team|Brazil]] in the quarter finals at [[Viña del Mar]].
+
+[[File:Bobby Moore vs Josef Masopust 1963.jpg|thumb|left|Moore (left) vs. [[Josef Masopust]] at the [[1963 England v Rest of the World football match]].]]
+On 29 May 1963, 22-year-old Moore captained his country for the first time in just his 12th appearance after the retirement of [[Johnny Haynes]] and an injury to his successor, [[Jimmy Armfield]]. He was the youngest man ever to captain England at the highest level. England defeated [[Czechoslovakia national football team|Czechoslovakia]] 4–2 in the game and Armfield returned to the role of captain afterwards, but new coach [[Alf Ramsey]] gave Moore the job permanently during a series of summer friendlies in 1964, organised because England had failed to reach the latter stages of the [[UEFA European Football Championship|European Championships]].
+
+1964 turned out to be quite an eventful year for Moore. As well as gaining the England captaincy, he lifted the [[FA Cup]] as West Ham defeated [[Preston North End F.C.|Preston North End]] 3–2 in the final at [[Wembley Stadium (1923)|Wembley]], courtesy of a last-minute goal from [[Ronnie Boyce]]. On a personal level, Moore also was successfully treated for [[testicular cancer]] and was named the [[Football Writers' Association Footballer of the Year]].
+
+The FA Cup success would become the first of three successful Wembley finals in as many years for Moore. In 1965, he lifted the [[European Cup Winners Cup]] after West Ham defeated [[1860 Munich]] 2–0 in the final with both goals coming from [[Alan Sealey]]. By now he was the first choice captain for England with 30 caps, and around whom Ramsey was building a team to prove correct his prediction that they would win the [[FIFA World Cup 1966|1966 World Cup]].
+
+1966 had a mixed start for Moore. In January, he scored his first England goal in a 1–1 draw with [[Poland national football team|Poland]] at [[Goodison Park]],&lt;ref&gt;{{cite news|last=Hankin|first=Alex|title=Send in the clown: England's colourful history of matches against Poland|url=https://www.mirror.co.uk/sport/football/news/england-v-poland-down-the-years-1379070|accessdate=24 February 2013|newspaper=Daily Mirror|location=London|date=14 October 2012}}&lt;/ref&gt; but two months later captained West Ham to the final of the [[Football League Cup|League Cup]]&amp;nbsp;– in its last season before its transfer to Wembley as a one-off final&amp;nbsp;– which they lost 5–3 on [[aggregate score|aggregate]] to [[West Bromwich Albion F.C.|West Bromwich Albion]]. For Moore, who had scored in the first leg, and his West Ham teammates [[Geoff Hurst]] and [[Martin Peters]], considerable consolation lay ahead. Moore scored his second and ultimately final England goal in a friendly against [[Norway national football team|Norway]], two weeks before the World Cup would begin.
+
+===World Cup===
+{{Main|1966 FIFA World Cup}}
+
+[[File:Champions statue.jpg|thumb|right|The ''[[World Cup Sculpture]]'' featuring Moore with the World Cup trophy, on the shoulders of [[Geoff Hurst]] and [[Ray Wilson (English footballer)|Ray Wilson]], together with [[Martin Peters]]]]
+On the verge of his greatest triumph, details were released to the press in early 1966 that Moore wanted to leave West Ham. Moore had let his contract slip to termination, and only after the intervention of [[Alf Ramsey|Sir Alf Ramsey]] and realisation he was technically ineligible to play, did he re-sign with West Ham to allow him to captain the England team of 1966. Ramsey had summoned West Ham manager [[Ron Greenwood]] to England's hotel and told the two of them to resolve their differences and get a contract signed up.
+
+Moore was the leader of the [[History of the England national football team#1966 World Cup champions|World Cup winning side]] and established himself as a world-class player and sporting icon. With all their games at Wembley, England had got through their group with little trouble, they then beat [[Argentina national football team|Argentina]] in their quarter final and a [[Eusébio]]-led [[Portugal national football team|Portugal]] team in the semi-finals. [[Germany national football team|West Germany]] awaited in the final.
+
+According to Geoff Hurst's [[autobiography]], England full back [[George Cohen]] overheard Ramsey talking to his coaching staff about the possibility of dropping Moore for the final and deploying the more battle-hardened [[Norman Hunter (footballer)|Norman Hunter]] in his place. However, eventually they settled on keeping the captain in the team. Moore had not been playing badly, nor had he given the impression that he had been distracted by his contract dispute prior to the competition. The only possible explanations were that the Germans had some rather fast attacking players, which could expose Moore's own lack of pace, and that Hunter&amp;nbsp;– who was of a similar age to Moore but only had four caps&amp;nbsp;– was the club partner of Moore's co-defender with England, [[Jack Charlton]].
+
+[[File:The Queen presents the 1966 World Cup to England Captain, Bobby Moore. (7936243534).jpg|thumb|left|The Queen presents the 1966 [[FIFA World Cup Trophy|World Cup trophy]] to England captain Moore]]
+
+In the final, England went 1–0 down through [[Helmut Haller]], but Moore's awareness and quick-thinking helped England to a swift equaliser. He was fouled by [[Wolfgang Overath]] midway inside the German half and, rather than remonstrate or head back into defence, he picked himself up quickly while looking ahead and delivered an instant free kick on to Hurst's head, in a movement practised at West Ham. Hurst scored.
+
+The West Ham connection to England's biggest day became stronger when Peters scored to take England 2–1 up, but the Germans equalised in the final minute of normal time through [[Wolfgang Weber]]&amp;nbsp;– as Moore appealed unsuccessfully for a [[Handball (soccer)|handball]] decision&amp;nbsp;– to take the match into extra time.
+
+Ramsey was convinced the Germans were exhausted, and after Hurst [[1966 FIFA World Cup Final#Controversial third England goal in extra time|scored a controversial and heavily debated goal]], the game looked over. With seconds remaining, and England under the pressure of another German attack, the ball broke to Moore on the edge of his own penalty area. Teammates shouted at Moore to just get rid of the ball, but he calmly picked out the feet of Hurst &lt;span style="white-space:nowrap"&gt;40&amp;nbsp;yards&amp;nbsp;(40&amp;nbsp;m)&lt;/span&gt; upfield, who scored to bring the score to 4–2.
+
+Of many memorable images from that day, one is of Moore wiping his hands clean of mud and sweat on the velvet tablecloth before shaking the hand of [[Elizabeth II of the United Kingdom|Queen Elizabeth II]] as she presented him with the [[Jules Rimet trophy]] (World Cup).  ''[[The Guardian]]'' wrote "Moore is the calmest person in the stadium as he leads the England players up to the Royal Box".&lt;ref&gt;{{cite news |url=https://www.theguardian.com/sport/blog/2013/feb/22/vault-remembering-life-football-bobby-moore |title=From the Vault: Remembering the life and football of Bobby Moore |first=Hugh |last=McIlvanney |author-link=Hugh McIlvanney |first2=Frank |last2=Keating |author2-link=Frank Keating (journalist) |first3=David |last3=Lacey |date=22 February 2013 |access-date=4 July 2018 |newspaper=[[The Guardian]] |publisher=[[Guardian News and Media Limited]]}}&lt;/ref&gt;
+
+==As an icon==
+
+[[File:BobbyMooreBust.JPG|thumb|left|200|Bust of Bobby Moore in the entrance foyer of the stand bearing his name at West Ham's [[Boleyn Ground]].]]
+Moore became a national icon as a consequence of England's success, with him and the other two West Ham players taking the World Cup around the grounds which West Ham visited during the following domestic season. He was awarded the coveted [[BBC Sports Personality of the Year]] title at the end of 1966, the first footballer to do so, and remaining the only one for a further 24 years. He was also given an OBE in the New Year Honours List.
+
+Moore's image and popularity allowed him to start a number of business ventures, including a sports shop next to West Ham's ground, [[Boleyn Ground|Upton Park]], and he also appeared with his wife Tina, along with Peters and his wife Kathy, in a television advertisement for the pub industry, urging people to ''"Look in at the local"''.
+
+He continued to play for West Ham and England, earning his 50th cap in a 5–1 win over [[Wales national football team|Wales]] at the end of 1966 in a Home International match which also doubled up as a qualifier for the [[1968 European Football Championship|1968 European Championships]]. England ultimately reached the semi-finals (the tournament was just a four-team event) where they played [[Yugoslavian national football team|Yugoslavia]] in [[Florence]] and lost 1–0. England, as champions, did not have to qualify for the next World Cup, and Moore remained the first name on Ramsey's team sheet, winning his 78th cap prior to the squad's flight to [[South America]] for a short period of altitude-acclimatisation, before going on to the finals in [[Mexico]].
+
+===1970===
+{{further|Bogotá Bracelet}}
+The year 1970 was a bittersweet, mixed and eventful one for Moore. Retained as captain for the [[FIFA World Cup 1970|1970 World Cup]], there was however heavy disruption to preparations when an attempt was made to implicate Moore in the [[theft]] of a [[bracelet]] from a [[jeweller]] in [[Bogotá]], [[Colombia]], where England were involved in a warm-up game. A young assistant had claimed that Moore had removed the bracelet from the hotel shop without paying for it. While Moore had been in the shop (having entered with [[Bobby Charlton]] to look for a gift for Charlton's wife, Norma), no proof was offered to support the accusations. Moore was arrested and then released. He then travelled with the England team to play another match against [[Ecuador national football team|Ecuador]] in [[Quito]]. He played, winning his 80th cap, and England were 2–0 victors, but when the team plane stopped back in Colombia on the return to Mexico, Moore was detained and placed under four days of [[house arrest]]. Diplomatic pressure, plus the obvious weakness of the evidence, eventually saw the case dropped entirely, and an exonerated Moore returned to Mexico to rejoin the squad and prepare for the World Cup. Moore received a guard of honour from his squad when he arrived at the team hotel.
+{{quote box
+ |quote = By common consent, Bobby Moore's greatest game was the fabled [[1970 FIFA World Cup Group 3#Brazil vs England|1970 World Cup group match against Brazil]] in Guadalajara. To crown it all of course is "that tackle by Moore" celebrated in song ["[[Three Lions]]"] and replayed a million times since. One hundred years from now when anyone asks what made Moore special, it will be the first piece of evidence.
+|source = —''[[The Times]]'', "Most famous tackle looked like Superman stopping a train".&lt;ref&gt;{{cite news |title=Most famous tackle looked like Superman stopping a train |url=https://www.thetimes.co.uk/article/most-famous-tackle-looked-like-superman-stopping-a-train-0hrl0rlqvjs |accessdate=18 October 2018 |work=The Times}}&lt;/ref&gt;
+ |align = right
+ | width = 30%
+}}
+
+Moore went on to play a leading role in England's progress through their group. On 2 June he captained England to a 1–0 victory against Romania. In the second game against favourites [[Brazil national football team|Brazil]], there was a defining moment for Moore when he tackled [[Jairzinho]] with such precision and cleanness that it has been described as the perfect tackle.&lt;ref name=Tackle&gt;{{cite web|title=Bobby MOORE|url=https://www.fifa.com/classicfootball/players/player=174780/index.html|publisher=www.fifa.cm|accessdate=16 August 2011}}&lt;/ref&gt; It continues to be shown on television around the world.&lt;ref name=Tackle/&gt;&lt;ref&gt;{{cite web|title=Bobby Moore's tackle on Jairzinho in 1970 World Cup|url=https://www.bbc.co.uk/sport/0/football/21317369|publisher=BBC Sport|accessdate=24 February 2013}}&lt;/ref&gt; Brazil still won the game 1–0, but England progressed through the group. Moore swapped shirts with [[Pelé]] after the game.&lt;ref name=Tackle/&gt; The shirt was displayed at the [[National Football Museum]] in Manchester, courtesy of the Priory Collection.&lt;ref&gt;{{cite web|url=http://www.nationalfootballmuseum.com/collections/about-our-collections/current/the-priory-collection/ |title=The Priory Collection |publisher=www.nationalfootballmuseum.com |accessdate=27 July 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20121016064344/http://www.nationalfootballmuseum.com/collections/about-our-collections/current/the-priory-collection/ |archivedate=16 October 2012 }}&lt;/ref&gt; A 1–0 win over Czechoslovakia allowed England to finish second in the group and advance to the knockout stage.
+
+At the Quarter Final stage, a rematch of the 1966 World Cup against West Germany, England took a 2–0 lead but lost 3–2 in extra time. At the end of the year, Moore was voted runner-up (behind [[Gerd Müller]] of West Germany) for the 1970 [[Ballon d'Or|European Footballer of the Year]] award.&lt;ref&gt;{{cite web | url=http://worldsoccer.about.com/od/players/a/Ballon-D-Wouldor-Winners.htm | title=Ballon d'or winners | publisher=World od soccer | accessdate=27 July 2013}}&lt;/ref&gt;
+
+===Final years at the top===
+On 10 August 1970, Moore received an anonymous threat to kidnap his wife and hold her to a £10,000 ransom. This caused him to pull out of pre-season friendlies against [[Bristol City]] and [[Bournemouth]]. However, his services to West Ham were rewarded with a testimonial match against [[Glasgow Celtic F.C.|Celtic]] at the end of 1970.
+
+Although Moore was seen as an icon and a perfect influence on the game, he was not without his faults or controversies. On 7 January 1971, he and three West Ham teammates, [[Jimmy Greaves]], [[Brian Dear]] and [[Clyde Best]], were all fined by West Ham manager Greenwood after going out drinking in a nightclub until the early hours of the morning prior to an FA Cup third round tie against [[Blackpool F.C.|Blackpool]]. The [[nightclub]] in [[Blackpool]] was owned by Moore's friend, [[Boxing|boxer]] [[Brian London]]. West Ham lost the tie 4–0. They were all fined a week's wages. Blackpool were the bottom of [[Division One|Division one]] at the time, and were relegated at the end of the season. Coincidentally, Moore was featured on TV as the subject on ''[[This Is Your Life (UK TV series)|This Is Your Life]]'' the night before. [[Brian Glanville]] stated that it was not uncommon for Moore to drink heavily, but he was often seen training with West Ham the next day, working off the [[alcohol]] he had consumed the night before.&lt;ref&gt;{{cite web|last=Glanville|first=Brian|title=The real Bobby Moore|url=http://www.sportstaronnet.com/tss2839/stories/20050924000907700.htm|publisher=www.sportsstronthenet.com|accessdate=10 January 2013}}&lt;/ref&gt;
+
+Moore surpassed West Ham's appearances record in 1973 when he played for the club for the 509th time. Three days earlier, on [[Valentine's Day]] 1973, he won his 100th cap for England in a comprehensive 5–0 win over [[Scotland national football team|Scotland]] at [[Hampden Park]]. By this stage, only Peters and [[Alan Ball (footballer)|Alan Ball]] from the 1966 squad were also still involved with the England team. Later the same year, Moore was exposed defensively by [[Poland national football team|Poland]] in a qualifier for the [[FIFA World Cup 1974|1974 World Cup]] in [[Chorzów]], deflecting a free kick past goalkeeper [[Peter Shilton]] to put the home side ahead, and then losing possession to [[Wlodzimierz Lubanski]], who scored the second.
+
+Moore's form had dipped enough for Ramsey to choose not to select him for the return game at Wembley which England had to win to qualify. Any other result would send Poland through. Being replaced by [[Norman Hunter (footballer)|Norman Hunter]] in defense and Peters as the skipper for that match, Moore is understood to have asked Ramsey if this meant he was no longer required, to which Ramsey replied: "Of course not. I need you as my captain at the World Cup next year." It never happened, as England could only draw 1–1. During the Wembley match, Hunter attempted to make a tackle but instead trod on the ball and lost it, a similar error to Moore's lost possession in Chorzów, which allowed Poland to quickly counterattack and score thanks to Shilton's mistake. Allan Clarke equalised with a penalty, but England could not score again as goalkeeper [[Jan Tomaszewski]] blocked numerous English chances. Moore later told how he sat alongside Ramsey on the bench and kept urging him to make a substitution, but Ramsey was hesitant to do so. When [[Kevin Hector]] finally did come on for [[Martin Chivers]] after 85 minutes Moore could be seen on TV yanking down Hector's tracksuit bottoms while Ramsey sat immobile. Moore, later, said to [[David Miller (editor)|David Miller]] "you could 'feel' the minutes escaping. I said to Alf, we need someone to go through the middle. He just nodded. We couldn't get Kevin out there quick enough. We almost threw him onto the pitch." Hunter was in an inconsolable state as he was led off the pitch by Harold Shepherdson, and by Moore, whose place in the side he had taken.  England's failure to qualify for the 1974 FIFA World Cup signalled the end of Ramsey's reign as national team manager as he was sacked six months later.
+
+Moore won his 108th and final cap in the next game, a 1–0 friendly defeat to [[Italy national football team|Italy]] on 14 November 1973. He became England's most capped player, beating Bobby Charlton's record by two appearances, and equalled [[Billy Wright (footballer born 1924)|Billy Wright]]'s record of 90 appearances as captain. [[Peter Shilton]], [[David Beckham]] and [[Steven Gerrard]] have since overtaken the caps record, but the joint captaincy record remains.
+
+===After West Ham and England===
+Moore played his last game for West Ham in an FA Cup tie against [[Hereford United F.C.|Hereford United]] in January 1974. He was injured in the match. On 14 March the same year, he was allowed to leave West Ham after more than 15 years, taking with him the club record for appearances (since overtaken by [[Billy Bonds]]) and the most international caps for an outfield player.
+
+He joined London rivals [[Fulham F.C.|Fulham]], who were in the [[Football League Championship|Second Division]], for £25,000. During Moore's first season there they defeated West Ham in a League Cup tie and then reached the [[FA Cup Final 1975|FA Cup Final]] where they faced West Ham again. This time Fulham lost the game, 2–0, and Moore had made his final appearance at Wembley as a professional player.
+
+Moore played his final professional game in England for Fulham on 14 May 1977 against [[Blackburn Rovers F.C.|Blackburn Rovers]]. He played for two teams in the [[North American Soccer League (1968-1984)|North American Soccer League]]&amp;nbsp;– [[San Antonio Thunder]] in 1976 (24 games, 1 goal) and [[Seattle Sounders (NASL)|Seattle Sounders]] in 1978 (7 games). During 1976, there was also a final appearance on the international field for Team USA in games against Italy, Brazil and an England team captained by [[Gerry Francis]]. This was the [[1976 U.S.A. Bicentennial Cup Tournament|U.S.A. Bicentennial Cup Tournament]], which capitalised on NASL and more importantly England and Italy both failing to qualify for the [[1976 European Football Championship|European Championships that year]]. In April 1978 he signed his very last contract as a professional player, when he joined [[Denmark|Danish]] side [[Herning Fremad]] to promote Danish football's new transition to professional football, playing 9 games for the club before he retired.&lt;ref&gt;{{cite web|url=http://www.herningfremad.dk/default.asp?id=38&amp;h=37 |title=Historie |publisher=Herningfremad.dk |date= |accessdate=31 May 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110719124512/http://www.herningfremad.dk/default.asp?id=38&amp;h=37 |archivedate=19 July 2011 }}&lt;/ref&gt;
+
+In 1983, Moore appeared in 8 games for the now-defunct [[Carolina Lightnin']], after injuries left the club without cover.&lt;ref&gt;{{cite web|title=East End to NC end: The final playing days of West Ham legend Bobby Moore|url=http://www.wralsportsfan.com/east-end-to-nc-end-the-final-playing-days-of-west-ham-legend-bobby-moore/15843646/|publisher=WRALSportsFan.com|accessdate=12 July 2016}}&lt;/ref&gt;
+
+==Post-football career==
+Moore retired from playing professionally in 1978, and had a short relatively unsuccessful spell in football management at [[Eastern AA]] in [[Hong Kong]], [[Oxford City F.C.|Oxford City]] and [[Southend United F.C.|Southend United]]. Moore publicly supported [[Margaret Thatcher]] in the 1979 General Election.&lt;ref&gt;{{cite web|author=Mercury |url=http://www.sundaymercury.net/news/midlands-news/2010/01/31/the-celebrity-friends-of-margaret-thatcher-66331-25740208/ |title=The celebrity friends of Margaret Thatcher |work=Birmingham Mail |date=31 January 2010 |accessdate=3 January 2013}}&lt;/ref&gt;
+
+He became manager of Southend United in 1984. In his first full season, 1984–85, Southend narrowly avoided having to apply for re-election to the Football League amid severe financial difficulties. However, the side was gradually rebuilt and in the 1985–86 season Southend started well and were in the promotion race until the new year before eventually finishing 9th. His successor, [[David Webb (footballer)|David Webb]] built upon those foundations to win promotion the following year. Moore agreed to serve on the board of the club and held this role until his death.&lt;ref name=PeterMason&gt;{{cite book|last=Mason|first=Peter|title=Southend United: the official history of 'The Blues'|year=1994|isbn=1-874427-20-8|page=121}}&lt;/ref&gt; Moore joined London radio station [[Gold (radio)|Capital Gold]] as a football analyst and commentator in 1990.&lt;ref name=jp&gt;{{cite web|last=Jonathan|first=Pearce|title=Bobby Moore: Modest, generous, meticulous and very, very funny|url=https://www.bbc.co.uk/sport/0/football/21554794|publisher=BBC Sport|accessdate=25 February 2013}}&lt;/ref&gt;
+
+His life after football was eventful and difficult, with poor business dealings and his marriage ending. Moore's supporters said that the [[The Football Association|Football Association]] could have given a role to Moore, as the only [[England|Englishman]] to captain a [[FIFA World Cup]] winning team or given him an ambassadorial role.&lt;ref name=gu2013&gt;{{cite news|last=Campbell|first=Paul|title=From the Vault: Remembering the life and football of Bobby Moore|url=https://www.theguardian.com/sport/blog/2013/feb/22/vault-remembering-life-football-bobby-moore|accessdate=25 February 2013|newspaper=The Guardian|location=London|date=22 February 2013}}&lt;/ref&gt;
+
+==Illness and death==
+[[File:BMTRIBS.JPG|thumb|right|200|Tributes to Bobby Moore outside the Boleyn Ground on 6 March 1993]]
+Moore's first brush with cancer was in 1964, two years before the historic World Cup win. He was diagnosed with [[testicular cancer]], which he survived by having one testicle surgically removed; the cancer had not spread.&lt;ref&gt;Benedict, Luke (23 November 2012) [http://www.dailymail.co.uk/sport/football/article-2237346/Bobby-Moore-beat-testicular-cancer-1966-World-Cup-win.html Revealed: Legend Moore beat cancer before leading England to 1966 World Cup victory]. ''Daily Mail''&lt;/ref&gt; In April 1991, Moore underwent an emergency operation for suspected [[Colorectal cancer|colon cancer]], though at the time it was just reported that he had undergone an "emergency stomach operation".
+
+On 14 February 1993, he publicly announced he was suffering from [[Colorectal cancer|bowel]] and [[Liver cancer|liver]] cancer; by this stage the cancer had spread. Three days later, he commentated on an England match against [[San Marino national football team|San Marino]] at Wembley, alongside his friend [[Jonathan Pearce]]. That was to be his final public appearance; seven days later on 24 February, at 6.36 am, he died at the age of 51.
+
+[[File:City of London Cemetery - Bobby Moore grave plaque in the Memorial Gardens.jpg|thumb|left|Moore's grave in the Memorial Gardens, City of London Cemetery]]
+He was the first member of the England World Cup winning side to die, the second being [[Alan Ball, Jr.|Alan Ball]] 14 years later. Moore was also outlived by the trainer of the side, [[Harold Shepherdson]], who died in September 1995, and the manager of the side, [[Alf Ramsey]], who died in April 1999. [[Ray Wilson (English footballer)|Ray Wilson]] died in May 2018, as did Gordon Banks in February 2019. Bobby Moore's funeral was held on 2 March 1993 at Putney Vale crematorium and his ashes were buried in a plot at [[City of London Cemetery and Crematorium]] with his father, Robert Edward Moore (who died in 1978) and his mother, Doris Joyce Moore, who had died only the previous year.&lt;ref&gt;{{cite web|url=http://www.findagrave.com/cgi-bin/fg.cgi?page=pv&amp;GRid=7348504&amp;PIpi=21561444 |title=Bobby Moore (1941–1993) – Find A Grave Photos |publisher=Findagrave.com |date=17 September 2009 |accessdate=29 July 2011}}&lt;/ref&gt;
+
+The first West Ham home game after his death was on 6 March 1993, against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]. The Boleyn Ground was awash with floral tributes, scarves and other football memorabilia from both West Ham fans and those of other clubs. Fellow [[1966 FIFA World Cup|1966 World Cup]] winners [[Geoff Hurst]] and [[Martin Peters]] placed a floral replica of a West Ham shirt, showing Moore's number, 6, on the back, on the centre spot before the game. West Ham rested the No. 6 for the game, with the regular No. 6, [[Ian Bishop (footballer)|Ian Bishop]], wearing No. 12. The game was won by West Ham 3–1 with goals by [[Trevor Morley]], [[Julian Dicks]] and [[Matty Holmes]] for West Ham and [[Steve Bull]] for Wolves.&lt;ref name="Leatherdale"&gt;Leatherdale, Clive (1998). ''West Ham United From Greenwood To Redknapp''. Desert Island Books. {{ISBN|1-874287-19-8}}&lt;/ref&gt;
+[[File:BMWHUWW.JPG|thumb|West Ham and Wolves players line-up for a minute's silence for Bobby Moore before their game at the Boleyn Ground on 6 March 1993]]
+
+His former England teammate, [[Jack Charlton]], on a [[BBC]] documentary of Moore's life in and outside of football,&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/b0074r86 |title=Four Programmes&amp;nbsp;— Hero: The Bobby Moore Story |publisher=BBC |date= |accessdate=29 July 2011}}&lt;/ref&gt; said of Moore's death:
+
+&lt;blockquote&gt;Well, I only ever cried over two people, [[Billy Bremner]] and Bob... [long pause] He was a lovely man.&lt;/blockquote&gt;
+
+On 28 June 1993, his memorial service was held in [[Westminster Abbey]], attended by all the other members of the 1966 World Cup team. He was only the second sportsman to be so honoured, the first being the West Indian cricketer Sir [[Frank Worrell]].
+
+{{quote|For many years he delighted supporters of West Ham and was a formidable opponent in the eyes of those against whom he played. But it is for his appearances for England&amp;nbsp;— ninety of them as captain&amp;nbsp;— that he will be chiefly remembered, and supremely for his captaincy of the World Cup team of 1966.&lt;ref name="Northcott"&gt;Northcott, John (2007). ''The Claret &amp; Blue Book of West Ham United''. Pitch Publishing. {{ISBN|978-1-905411-02-3}}&lt;/ref&gt; |||[[Michael Mayne|Dean Of Westminster]]}}
+
+==Legacy==
+[[File:Bobby Moore statue.jpg|thumb|upright|right|The [[Statue of Bobby Moore, Wembley|statue of Bobby Moore]] outside the entrance to [[Wembley Stadium]]]]
+The Bobby Moore Fund is a charity in the United Kingdom, formed in 1993 by Stephanie Moore, and [[Cancer Research UK]] (CRUK) in memory of her late husband to raise money for research into [[bowel cancer]] and also public awareness of the disease.&lt;ref&gt;{{cite web|url=http://www.cancerresearchuk.org/bobbymoorefund/aboutus/ |title=The Bobby Moore Fund |publisher=Cancerresearchuk.org |date= |accessdate=19 June 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100706030140/http://www.cancerresearchuk.org/bobbymoorefund/aboutus/ |archivedate=6 July 2010 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.justgiving.com/bmf |title=Bobby Moore Fund for Cancer Research UK |publisher=Justgiving.com |date= |accessdate=19 June 2010}}&lt;/ref&gt;  A campaign, ''Make Bobby Proud'' was initiated in 2013 to fundraise. As of February 2013 the Bobby Moore Fund had raised £18.8m towards bowel cancer research.&lt;ref&gt;{{cite web|url=http://www.thefa.com/england/News/2013/england-brazil-bobby-moore |archive-url=https://archive.is/20130726201414/http://www.thefa.com/england/News/2013/england-brazil-bobby-moore |dead-url=yes |archivedate=26 July 2013 |title=The Bobby Moore Fund will benefit from England v Brazil match |publisher=www.thefa.com |accessdate=27 July 2013 }}&lt;/ref&gt;
+
+In 1996, [[comedian]]s [[Frank Skinner]] and [[David Baddiel]] used the line "But I still see that tackle by Moore" in the [[lyrics]] to their song "[[Three Lions]]", which was the England team's official song at the [[1996 European Football Championship|1996 European Championships]], which was adopted by fans rather than the tournament's official song ''We're In This Together'' by Simply Red. It referred to the famous incident with [[Jairzinho]] in 1970, and was re-created by Baddiel, Skinner and England [[Fullback (association football)|left back]] [[Stuart Pearce]] for the video. It was written in the context of a list of great England moments of the past as proof that England could win a tournament again.
+
+Moore was made an inaugural inductee of the [[English Football Hall of Fame]] in 2002 in recognition of his impact on the English game as a player. The same year he was named in the BBC's list of the [[100 Greatest Britons]].&lt;ref&gt;[http://news.bbc.co.uk/1/hi/entertainment/tv_and_radio/2208671.stm "100 great British heroes"]. BBC News. Retrieved 25 August 2016&lt;/ref&gt; In November 2003, to celebrate [[UEFA]]'s Jubilee, he was selected as the [[UEFA Jubilee Awards|Golden Player]] of England by [[The Football Association]] as their most outstanding player of the past 50 years.&lt;ref&gt;[http://www.uefa.com/uefa/news/Kind=256/newsId=130150.html Golden Players take centre stage]  {{webarchive|url=https://web.archive.org/web/20050317084104/http://www.uefa.com/uefa/news/Kind%3D256/newsId%3D130150.html |date=17 March 2005  }}&amp;nbsp;– UEFA, 29 November 2003&lt;/ref&gt;
+[[File:BobbyMooreBP.JPG|thumb|left|150|Sports Heritage [[Blue Plaque]] commemorating Bobby Moore at West Ham's [[Boleyn Ground]]]]
+On 28 April 2003, [[Prince Andrew, Duke of York|Prince Andrew]] as president of [[The Football Association]] unveiled the ''[[World Cup Sculpture]]'' (also called ''The Champions'') in a prominent place near the Boleyn Ground, at the junction of Barking Road and Green Street. It depicts Moore holding the [[Jules Rimet Trophy]] aloft, on the shoulders of [[Geoff Hurst]] and [[Ray Wilson (English footballer)|Ray Wilson]], together with [[Martin Peters]]. The one and a half-size bronze was sculpted by [[Philip Jackson (sculptor)|Philip Jackson]] after a famous photograph taken just after the 1966 final at the old Wembley. The south bank at West Ham's ground up until 2016, the [[Boleyn Ground]] in [[Upton Park, London|Upton Park]], was named the Bobby Moore Stand shortly after Moore's death.
+
+[[File:Bobby Moore 20 years tribute.jpg|thumb|right|220|West Ham fans display a mosaic of Moore and 6 as a tribute to Moore twenty years after his death]]
+On Friday 11 May 2007, a [[Statue of Bobby Moore, Wembley|statue of Bobby Moore]] was unveiled by Sir [[Bobby Charlton]] outside the entrance of the newly reconstructed [[Wembley Stadium]] as the "finishing touch" to the project, with the stadium officially opening on Saturday 19 May with the staging of the [[2007 FA Cup Final]]. The twice life-size bronze statue, also sculpted by Jackson, depicts Moore looking down [[Olympic Way|Wembley Way]].&lt;ref name=WNSL10May2007&gt;{{cite web|url=http://www.wembleystadium.com/pressbox/pressReleases/Footballing+legend+Bobby+Moore+returns+to+Wembley.htm|title=Footballing legend Bobby Moore returns to Wembley|publisher=Wembley National Stadium|work=www.wembleystadium.com &gt; Press Releases|date=10 May 2007|accessdate=3 May 2010|archiveurl=https://web.archive.org/web/20080309194628/http://www.wembleystadium.com/pressbox/pressReleases/Footballing%2Blegend%2BBobby%2BMoore%2Breturns%2Bto%2BWembley.htm|dead-url=yes|archivedate=9 March 2008|df=dmy-all}}&lt;/ref&gt;&lt;ref name=WNSL11May2007&gt;{{cite web|url=http://www.wembleystadium.com/pressbox/pressReleases/bobbymoore2.htm|title=Footballing legend Bobby Moore takes his place at Wembley|publisher=Wembley National Stadium|work=www.wembleystadium.com &gt; Press Releases|date=11 May 2007|accessdate=3 May 2010|archiveurl=https://web.archive.org/web/20070630232224/http://www.wembleystadium.com/pressbox/pressReleases/bobbymoore2.htm|dead-url=yes|archivedate=30 June 2007|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;[http://news.bbc.co.uk/1/hi/england/6645383.stm Wembley's Moore statue unveiled] – BBC News, 11 May 2007&lt;/ref&gt;
+
+In August 2008 West Ham United officially retired the number 6 shirt as a mark of respect, 15 years after his death.&lt;ref name=":0"/&gt;
+On 26 July 2016, Moore became the first footballer to be honoured with an [[English Heritage]] [[Blue Plaque]] outside his home. The plaque was unveiled on a brick wall at Moore's childhood home in Waverley Gardens, Barking in a ceremony attended by his daughter, Roberta.&lt;ref name="bp"&gt;{{cite news | url=https://www.theguardian.com/uk-news/2016/jul/26/childhood-home-of-bobby-moore-receives-english-heritage-plaque | title=Childhood home of Bobby Moore receives English Heritage plaque | work=The Guardian | date=26 July 2016 | accessdate=27 July 2016}}&lt;/ref&gt;
+In April 2017 airline [[Norwegian Air|Norwegian]] announced Moore's image would appear on the tail fin one of their [[Boeing 737-800]] aircraft.&lt;ref&gt;[http://www.whufc.com/news/articles/2017/april/29-april/airline-honour-bobby "Airline to honour Bobby"]. WHUFC.com.&lt;/ref&gt; Moore is one of the company's six "British tail fin heroes", joining Queen frontman [[Freddie Mercury]], children's author [[Roald Dahl]], pioneering pilot [[Amy Johnson]], novelist [[Jane Austen]] and aviation entrepreneur [[Freddie Laker]].&lt;ref&gt;{{cite news |title=Norwegian Dreamliner takes off with new Jane Austen adorned tail fin for first time |url=https://www.mirror.co.uk/travel/news/norwegian-jane-austen-tail-fin-11687686 |accessdate=28 September 2018 |work=Daily Mirror}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Caswell|first1=Mark|title=Freddie Mercury unveiled as Norwegian's latest tail fin hero|url=https://www.businesstraveller.com/business-travel/2017/07/03/freddie-mercury-unveiled-norwegians-latest-tail-fin-hero/t|website=Business Traveller.com|accessdate=19 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Munro|first1=Scott|title=Freddie Mercury's image to appear on Norwegian aircraft|url=http://teamrock.com/news/2017-06-30/freddie-mercurys-image-to-appear-on-norwegian-aircraft|website=Teamrock.com|publisher=Future Publishing Limited|accessdate=19 August 2017}}&lt;/ref&gt; In 2018, Moore was added as an icon to the Ultimate Team in [[EA Sports]]' [[FIFA (video game series)|''FIFA'']] video game ''[[FIFA 19]]''.&lt;ref&gt;{{cite news |title=FIFA 19 Ultimate Team: What Icons are in the new game and how do you get them? |url=http://www.goal.com/en-ie/news/fifa-19-ultimate-team-what-icons-are-in-the-new-game-and-how/1qrv1f9kllmhd12ffdqdmfy91j |accessdate=14 September 2018 |publisher=''Goal''}}&lt;/ref&gt;
+
+==Quotations==
+* "My captain, my leader, my right-hand man. He was the spirit and the heartbeat of the team. A cool, calculating footballer I could trust with my life. He was the supreme professional, the best I ever worked with. Without him England would never have won the World Cup." [[Alf Ramsey]]*&lt;ref name="bobbymoore1941"&gt;{{cite web|url=http://www.bobbymoore.co.uk/Quotes.html |title=Bobby Moore 1941–1993 |publisher=Bobbymoore.co.uk |date= |accessdate=31 May 2010}}&lt;/ref&gt;
+* "He was my friend as well as the greatest defender I ever played against. The world has lost one of its greatest football players and an honourable gentleman." [[Pelé]]&lt;ref name="bobbymoore1941"/&gt;
+* "Bobby Moore was a real gentleman and a true friend." [[Franz Beckenbauer]]&lt;ref name="bobbymoore1941"/&gt;
+* "Moore was the best defender I have ever seen." [[Alex Ferguson|Sir Alex Ferguson]]&lt;ref&gt;{{cite book |last=Daniels |first=Phil |title=Moore than a legend |year=1997 |publisher=Goal! Publications| isbn=0-9529641-9-8 |page=145}}&lt;/ref&gt;
+* "Bobby Moore was the best defender in the history of the game" Franz Beckenbauer&lt;ref&gt;Lodge, Robert (2010) ''The Little Book of West Ham''. Carlton Books Ltd. {{ISBN|1847326870}}.&lt;/ref&gt;
+*"There should be a law against him. He knows what's happening 20 minutes before everyone else." [[Jock Stein]]&lt;ref&gt;{{cite news |title=From the Vault: Remembering the life and football of Bobby Moore |url=https://www.theguardian.com/sport/blog/2013/feb/22/vault-remembering-life-football-bobby-moore |accessdate=18 November 2018 |work=The Guardian}}&lt;/ref&gt;
+*"Ask me to talk about Bobby Moore the footballer and I will talk for days. Ask me about the man and I will dry up in a minute." [[Ron Greenwood]]&lt;ref&gt;''[[When Saturday Comes]]'' issue 260, October 2008&lt;/ref&gt;
+*"Immaculate footballer. Imperial defender. Immortal hero of 1966. First Englishman to raise the World Cup aloft. Favourite son of London's East End. Finest legend of West Ham United. National Treasure. Master of Wembley. Lord of the game. Captain extraordinary. Gentleman of all time." Inscription on the pedestal of the statue at Wembley Stadium.&lt;ref name=WNSL11May2007/&gt;
+
+==International goals==
+:''Scores and results list England's goal tally first.''&lt;ref&gt;{{cite web|url=http://www.thefa.com/England/MensSeniorTeam/Archive.aspx?p=335497 |title=Bobby Moore |accessdate=30 January 2010 |publisher=TheFA.com |date=30 January 2010 }}{{dead link|date=September 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;
+
+{| class="wikitable"
+|-
+! # !! Date !! Venue !! Opponent !! Result !! Competition
+|-
+| 1. || 5 January 1966 || [[Goodison Park]], [[Liverpool]] || {{fb|Poland}} || 1–1 ||Friendly
+|-
+| 2. || 29 June 1966 || [[Ullevaal Stadion]], [[Oslo]] || {{fb|Norway}} || 6–1 || Friendly
+|}
+
+==Career statistics==
+
+===Club===
+{| class="wikitable" style="text-align:center"
+|-
+! colspan=3 | Club performance
+! colspan=2 | League
+! colspan=2 | National Cup
+! colspan=2 | League Cup
+! colspan=2 | Other
+! colspan=2 | Total
+|-
+! Season !! Club !! League
+! Caps !! Goals
+! Caps !! Goals
+! Caps !! Goals
+! Caps !! Goals
+! Caps !! Goals
+|-
+! colspan=3 | England
+! colspan=2 | League
+! colspan=2 | [[FA Cup]]
+! colspan=2 | [[Football League Cup|League Cup]]
+! colspan=2 | Other
+! colspan=2 | Total
+|-
+|[[The Football League 1958-59|1958–59]]||rowspan="16"|[[West Ham United F.C.|West Ham United]]||rowspan="16"|[[Football League First Division|First Division]]||5||0||0||0||0||0||1&lt;ref group=lower-alpha name=SFC&gt;Appearances in [[Southern Professional Floodlit Cup]]&lt;/ref&gt;||0||6||0
+|-
+|[[The Football League 1959-60|1959–60]]||13||0||0||0||0||0||2&lt;ref group=lower-alpha name=SFC&gt;Appearances in [[Southern Professional Floodlit Cup]]&lt;/ref&gt;||0||15||0
+|-
+|[[The Football League 1960-61|1960–61]]||38||1||2||0||2||1||colspan="2"|—||42||2
+|-
+|[[The Football League 1961-62|1961–62]]||41||3||1||0||2||0||colspan="2"|—||44||3
+|-
+|[[The Football League 1962-63|1962–63]]||41||3||5||0||1||0||colspan="2"|—||47||3
+|-
+|[[The Football League 1963-64|1963–64]]||37||2||7||0||6||0||colspan="2"|—||50||2
+|-
+|[[The Football League 1964-65|1964–65]]||28||1||0||0||0||0||8&lt;ref group=lower-alpha name=CSH&gt;Appearance in [[FA Community Shield|Charity Shield]]&lt;/ref&gt;&lt;ref group=lower-alpha name=CWC&gt;Appearances in [[UEFA Cup Winners' Cup]]&lt;/ref&gt;||0||35||1
+|-
+|[[The Football League 1965-66|1965–66]]||37||0||4||0||9||2||6&lt;ref group=lower-alpha name=CWC&gt;Appearances in [[UEFA Cup Winners' Cup]]&lt;/ref&gt;||0||56||2
+|-
+|[[The Football League 1966-67|1966–67]]||40||2||2||0||6||0||colspan="2"|—||48||2
+|-
+|[[The Football League 1967-68|1967–68]]||40||4||3||0||3||0||colspan="2"|—||46||4
+|-
+|[[The Football League 1968-69|1968–69]]||41||2||3||0||3||0||colspan="2"|—||47||2
+|-
+|[[The Football League 1969-70|1969–70]]||40||0||1||0||2||0||colspan="2"|—||43||0
+|-
+|[[The Football League 1970-71|1970–71]]||39||2||1||0||2||0||colspan="2"|—||42||2
+|-
+|[[The Football League 1971-72|1971–72]]||40||1||4||0||10||0||colspan="2"|—||54||1
+|-
+|[[The Football League 1972-73|1972–73]]||42||3||2||0||2||0||colspan="2"|—||46||3
+|-
+|[[The Football League 1973-74|1973–74]]||22||0||1||0||1||0||1&lt;ref group=lower-alpha name=TEX&gt;Appearance in [[Texaco Cup]]&lt;/ref&gt;||0||24||0
+|-
+! colspan=3 | West Ham United total
+!544||24||36||0||49||3||18||0||647||27
+|-
+|[[The Football League 1973-74|1973–74]]||rowspan="4"|[[Fulham F.C.|Fulham]]||rowspan="4"|[[Football League Second Division|Second Division]]||10||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||10||1
+|-
+|[[The Football League 1974-75|1974–75]]||41||0||12||0||3||0||colspan="2"|—||54||0
+|-
+|[[The Football League 1975-76|1975–76]]||33||0||1||0||3||0||colspan="2"|—||37||0
+|-
+|[[The Football League 1976-77|1976–77]]||40||0||2||0||5||0||colspan="2"|—||47||0
+|-
+! colspan=3 | Fulham total
+!124||1||15||0||11||0!!colspan="2"|—!!148||1
+|-
+! colspan=3 | Career total
+!668||25||51||0||60||3||18||0||795||28
+|-
+|}
+
+{{Reflist|group=lower-alpha}}
+
+===International===
+{| class="wikitable" style="text-align:center"
+|-
+! colspan=3 | [[England national football team|England national team]]
+|-
+!Year!!Caps!!Goals
+|-
+|1962||8||0
+|-
+|1963||9||0
+|-
+|1964||9||0
+|-
+|1965||9||0
+|-
+|1966||15||2
+|-
+|1967||6||0
+|-
+|1968||9||0
+|-
+|1969||9||0
+|-
+|1970||11||0
+|-
+|1971||7||0
+|-
+|1972||6||0
+|-
+|1973||10||0
+|-
+!Total||108||2
+|}
+
+==Honours==
+
+=== Player ===
+
+====Club====
+
+; West Ham United
+
+* [[FA Cup]]: [[1964 FA Cup Final|1963–64]]
+* [[FA Charity Shield]] [[1964]]
+* [[UEFA Cup Winners' Cup]]: [[1965 European Cup Winners' Cup Final|1964–65]]
+
+====International====
+
+; England
+
+* [[FIFA World Cup]]: [[FIFA World Cup 1966|1966]]
+* [[UEFA European Championship|UEFA Euro]] third place: [[UEFA Euro 1968|1968]]
+
+===Individual===
+
+* [[Ballon d'Or]] runner-up: 1970
+* [[FWA Footballer of the Year]]: 1964
+* [[West Ham United|West Ham Player Of The Year]]: 1961, 1963, 1968, 1970
+* [[FIFA World Cup awards#All-Star Team|FIFA World Cup All-Star Team]]: [[1966 FIFA World Cup|1966]]
+* [[BBC Sports Personality Of The Year]]: 1966
+* [[Officer of the Order of the British Empire]]: 1967
+* [[UEFA European Football Championship Teams of the Tournament|UEFA Euro Team of the Tournament]]: 1968
+* [[World Soccer (magazine)|World Soccer]] World XI: 1968, 1969&lt;ref&gt;[http://beyondthelastman.com/2013/04/29/eric-battys-world-xis-the-sixties/ "ERIC BATTY'S WORLD XI – THE SIXTIES"] Retrieved on 13 May 2016&lt;/ref&gt;
+* [[English Football Hall of Fame|Inducted into the English Football Hall of Fame]]: 2002
+* [[UEFA Jubilee Awards]] – Greatest English Footballer of the last 50 Years (Golden Player): 2003
+* [[FIFA World Cup All-Time Team]]: 1994
+* [[World Team of the 20th Century]]: 1998
+* Number '''6''' retired by [[West Ham United F.C.|West Ham]]: 2008 (posthumous) &lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-1041391/West-Ham-retire-Bobby-Moores-No-6-shirt-50-years-Hammers-debut.html|title=West Ham retire Bobby Moore's No.6 shirt 50 years after his Hammers debut|date=4 August 2008|newspaper=Daily Mail|accessdate=28 April 2014|location=London}}&lt;/ref&gt;
+* [[Professional Footballers' Association|PFA]] Player of the Century: 2007&lt;ref&gt;{{cite news|url=http://www.givemefootball.com/pfa-legends/teams-of-the-century/player-of-the-century|title=Player of the Century: Bobby Moore gets the nod from GMF readers|date=7 September 2007|accessdate=31 May 2016|archiveurl=https://web.archive.org/web/20081021054311/http://www.givemefootball.com/pfa-legends/teams-of-the-century/player-of-the-century|archivedate=21 October 2008|deadurl=yes|publisher=Give Me Football}}&lt;/ref&gt;
+* [[Professional Footballers' Association|PFA]] Team of the Century (1907 to 2007):
+** Team of the Century 1907–1976&lt;ref&gt;{{cite news|url=http://www.givemefootball.com/pfa-legends/teams-of-the-century/team-of-the-century-1907-1976|title=England Boys of '66 dominate your Team of the Century: 1907–1976|date=28 August 2007|work=GiveMeFootball.com|accessdate=18 May 2016|archiveurl=https://web.archive.org/web/20081022110958/http://www.givemefootball.com/pfa-legends/teams-of-the-century/team-of-the-century-1907-1976|archivedate=22 October 2008|deadurl=yes|publisher=Give Me Football}}&lt;/ref&gt;
+** Overall Team of the Century&lt;ref&gt;{{cite news|url=http://www.givemefootball.com/pfa-legends/teams-of-the-century/your-overall-team-of-the-century|title=Your overall Team of the Century: the world's greatest-ever XI revealed!|date=6 September 2007|work=GiveMeFootball.com|accessdate=27 July 2017|archiveurl=https://web.archive.org/web/20081021032441/http://www.givemefootball.com/pfa-legends/teams-of-the-century/your-overall-team-of-the-century|archivedate=21 October 2008|deadurl=yes|publisher=Give Me Football}}&lt;/ref&gt;
+* [[World Soccer magazine|World Soccer]] Greatest XI of all time: 2013
+* [[100 Greatest Britons]]: 2002
+* [[Football League 100 Legends]]
+
+== In film and television ==
+Moore appeared in the 1981 film ''[[Escape to Victory]]'', as Terry Brady, and in [[cameo appearance|cameo]] roles, as himself, in several episodes of [[Till Death Us Do Part (British TV series)|''Till Death Do Us Part'']], including one of its spin-off films ''[[The Alf Garnett Saga]]''.
+
+''[[Tina and Bobby]]'', a television drama series about Tina and Bobby Moore's relationship, was broadcast on [[ITV (TV channel)|ITV]] in January 2017. The part of Bobby Moore is played by Lorne MacFadyen.&lt;ref&gt;{{cite news |url=http://www.scotsman.com/lifestyle/culture/tv-radio/interview-lorne-macfadyen-on-playing-bobby-moore-1-4315447 |title=Interview: Lorne MacFadyen on playing Bobby Moore |last=Christie |first=Janet |date=12 December 2016 |access-date=4 July 2018 |newspaper=[[The Scotsman]] |publisher=[[Johnston Publishing Ltd.]]}}&lt;/ref&gt;
+
+==Personal life==
+Moore met his first wife, Tina, in 1957 and they married on 30 June 1962.&lt;ref&gt;[http://www.ancestry.com Ancestry® | Genealogy, Family Trees &amp; Family History Records&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; They lived in a house in Chigwell, Essex, called Morlands.&lt;ref&gt;{{cite news |last=Pearlman |first=Natasha |title=Footballers' wives of 1966 relive the memories |url=http://www.dailymail.co.uk/femail/article-389630/Footballers-wives-1966-relive-memories.html |accessdate=5 August 2014 |work=Daily Mail |location=London |date=8 June 2006}}&lt;/ref&gt; They had a daughter, Roberta, and a son, Dean.
+
+They separated in 1984,&lt;ref&gt;{{cite news|url=http://observer.guardian.co.uk/osm/story/0,,1541919,00.html |title=The last days of Bobby Moore |work=The Observer |date=7 August 2005 |accessdate=29 July 2011 |location=London}}&lt;/ref&gt; and [[divorce]]d in 1986.&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/femail/article-389630/Footballers-wives-1966-relive-memories.html |title=Footballers' wives of 1966 relive the memories |work=Daily Mail |date=8 June 2006 |accessdate=29 July 2011 |location=London}}&lt;/ref&gt; He began a relationship with Stephanie Parlane-Moore (eight years his junior) after the collapse of his marriage to Tina, and they were married on 4 December 1991 until his death just over a year later.&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/news/uk/world-cup-hero-moore-has-cancer-1473074.html |title=World Cup hero Moore has cancer |work=The Independent |date=15 February 1993 |accessdate=29 July 2011 |location=London}}&lt;/ref&gt;
+
+Eighteen years after Moore's death, his son Dean was found dead in his flat on 28 July 2011. It is believed that his son, who was 43, had a medical condition and may have died from natural causes.&lt;ref&gt;{{cite news|first=Arthur |last=Martin |url=http://www.dailymail.co.uk/news/article-2019678/Bobby-Moores-son-Dean-43-dead-Notting-Hill-house.html |title=Bobby Moore's son Dean, 43, found dead in Notting Hill house |work=Daily Mail |date= 29 July 2011|accessdate=29 July 2011 |location=London}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Association football|English football}}
+*[[List of footballers with 100 or more caps]]
+{{Clear}}
+
+==References==
+{{reflist}}
+
+==External links==
+
+{{Commons category|Bobby Moore}}
+* [http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/7541638.stm Hammers make Moore shirt gesture]
+* [http://www.sporting-heroes.net/football-heroes/searchresults.asp?ButtonLeap=0&amp;countryLinkDescription=+matching+search+results&amp;FootballHeroName=bobby+moore&amp;FootballHeroClubCountry=&amp;FootballHeroDecade=Select+One&amp;SearchButton=Search Bobby Moore photos, biography &amp; statistics at sporting-heroes.net]
+* [http://www.bobbymooreonline.co.uk/ Bobby Moore Online]
+* [http://www.cancerresearchuk.org/bobbymoorefund/ The Bobby Moore Fund for Cancer Research UK Official Site]
+* [https://archive.is/20140620152741/http://www.camporetro.com/read/bobby-moore-second-eleven/ Bobby Moore: Captain, Leader, Legend.]
+* {{hugman|13881}}
+* [http://www.bigredbook.info/bobby_moore.html Bobby Moore's appearance on This Is Your Life]
+
+&lt;br&gt;
+{{s-start}}
+!colspan="3" style="background:#C1D8FF;"| [[FIFA World Cup|World Cup-winners records]]
+|-
+{{s-bef | before=[[Hilderaldo Bellini]]&lt;br&gt;28}}
+{{s-ttl | title=Youngest Captain&lt;br&gt;25| years=30 July 1966 – 25 June 1978}}
+{{s-aft | after=[[Daniel Passarella]]&lt;br&gt;25}}
+{{s-bef | before=[[Giuseppe Meazza]]&lt;br&gt;1910}}
+{{s-ttl | title=Latest Born Captain to Die&lt;br&gt;1941 | years=24 February 1993 – 25 October 2016}}
+{{s-aft | after=[[Carlos Alberto Torres|Carlos Alberto]]&lt;br&gt;1944}}
+{{s-bef | before=[[Gianpiero Combi]]&lt;br&gt;53}}
+{{s-ttl | title=Shortest Living Captain &lt;br&gt;51| years=24 February 1993 – ''present}}
+{{s-inc}}
+{{s-end}}
+&lt;BR&gt;
+{{Navboxes colour
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{FIFA World Cup Winning Captain}}
+{{FIFA World Cup Silver Ball}}
+{{UEFA Jubilee Awards}}
+{{World Team of the 20th Century}}
+{{1966 FIFA World Cup Team of the Tournament}}
+{{UEFA Euro 1968 Team of the Tournament}}
+{{FWA Footballer of the Year}}
+{{West Ham United F.C. Player of the Year}}
+{{BBC Sports Personality of the Year winners}}
+{{English Football Hall of Fame}}
+}}
+{{Navboxes colour
+| title = England squads
+| bg = white
+| fg = #0B0B3F
+| bordercolor = #0B0B3F
+| list1 = 
+{{England squad 1962 FIFA World Cup}}
+{{England squad 1966 FIFA World Cup}}
+{{England squad UEFA Euro 1968}}
+{{England squad 1970 FIFA World Cup}}
+}}
+{{Southend United F.C. managers}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Moore, Bobby}}
+[[Category:Bobby Moore|*]]
+[[Category:1941 births]]
+[[Category:1993 deaths]]
+[[Category:UEFA Golden Players]]
+[[Category:English football managers]]
+[[Category:English footballers]]
+[[Category:England international footballers]]
+[[Category:England under-23 international footballers]]
+[[Category:Association football central defenders]]
+[[Category:Fulham F.C. players]]
+[[Category:North American Soccer League (1968–84) players]]
+[[Category:San Antonio Thunder players]]
+[[Category:Seattle Sounders (1974–83) players]]
+[[Category:Southend United F.C. managers]]
+[[Category:West Ham United F.C. players]]
+[[Category:1962 FIFA World Cup players]]
+[[Category:1966 FIFA World Cup players]]
+[[Category:1970 FIFA World Cup players]]
+[[Category:FIFA World Cup-winning players]]
+[[Category:FIFA World Cup-winning captains]]
+[[Category:UEFA Euro 1968 players]]
+[[Category:BBC Sports Personality of the Year winners]]
+[[Category:People from Barking, London]]
+[[Category:Officers of the Order of the British Empire]]
+[[Category:Burials at Putney Vale Cemetery]]
+[[Category:English Football League players]]
+[[Category:English Football League managers]]
+[[Category:FIFA Century Club]]
+[[Category:Deaths from cancer in England]]
+[[Category:Deaths from colorectal cancer]]
+[[Category:English Football Hall of Fame inductees]]
+[[Category:English association football commentators]]
+[[Category:Sportspeople from London]]
+[[Category:Testicular cancer survivors]]
+[[Category:Eastern Sports Club football managers]]
+[[Category:English Football League representative players]]
+[[Category:Oxford City F.C. managers]]
+[[Category:English expatriate sportspeople in the United States]]
+[[Category:Expatriate soccer players in the United States]]
+[[Category:English expatriate footballers]]
+[[Category:Carolina Lightnin' players]]</text>
+      <sha1>cse4d1bazunpm3iqyaju4ampeqctx0j</sha1>
+    </revision>
+  </page>
+</mediawiki>

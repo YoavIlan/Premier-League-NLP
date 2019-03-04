@@ -1,0 +1,412 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>A.F.C. Bournemouth</title>
+    <ns>0</ns>
+    <id>451121</id>
+    <revision>
+      <id>885625212</id>
+      <parentid>884493499</parentid>
+      <timestamp>2019-03-01T06:29:10Z</timestamp>
+      <contributor>
+        <username>Steam n Whistle</username>
+        <id>33477803</id>
+      </contributor>
+      <comment>/* Current squad */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="47520">{{for|the non-League club|Bournemouth F.C.}}
+{{EngvarB|date=September 2013}}
+{{Use dmy dates|date=September 2017}}
+{{Infobox football club
+| clubname = AFC Bournemouth
+| image = AFC Bournemouth (2013).svg
+| nickname = The Cherries, Boscombe
+| short name = AFCB
+| ground = [[Dean Court]] &lt;!-- Vitality Stadium --&gt;
+| capacity = 11,329&lt;ref&gt;{{cite web |url=https://www.premierleague.com/publications |title=2018/19 Premier League Handbook |website=premierleague.com |access-date=3 January 2018 |archive-url=https://www.premierleague.com/publications |archive-date=3 January 2018 |dead-url=no |df=dmy-all }}&lt;/ref&gt;
+| image_size = 170px
+| fullname = Athletic Football Club Bournemouth&lt;ref&gt;{{cite book |last1=Dunne |first1=Michael |title=Dean Court Days: Harry Redknapp's Reign at Bournemouth |url=https://books.google.co.uk/books?id=2m1YDwAAQBAJ&amp;pg=PT13&amp;lpg=PT13&amp;dq=bournemouth+and+boscombe+athletic+change+name&amp;source=bl&amp;ots=wIsZoLs7rm&amp;sig=woGQjTCEDGOA8PAA9lwrlY6DIF8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiD-N_k2eDbAhUMJMAKHS94DKg4FBDoAQhDMAQ#v=onepage&amp;q=bournemouth%20and%20boscombe%20athletic%20change%20name&amp;f=false |access-date=19 June 2018 |archive-url=https://web.archive.org/web/20180620002328/https://books.google.co.uk/books?id=2m1YDwAAQBAJ&amp;pg=PT13&amp;lpg=PT13&amp;dq=bournemouth+and+boscombe+athletic+change+name&amp;source=bl&amp;ots=wIsZoLs7rm&amp;sig=woGQjTCEDGOA8PAA9lwrlY6DIF8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiD-N_k2eDbAhUMJMAKHS94DKg4FBDoAQhDMAQ#v=onepage&amp;q=bournemouth%20and%20boscombe%20athletic%20change%20name&amp;f=false |archive-date=20 June 2018 |dead-url=no |df=dmy-all }}&lt;/ref&gt;
+| founded = {{Start date and age|df=yes|1899}} (as Boscombe FC)
+| owner = [[Maxim Demin]]
+| chairman = Jeff Mostyn
+| manager = [[Eddie Howe]]
+| mgrtitle = Manager
+| league = {{English football updater|AFCBourn}}
+| season = {{English football updater|AFCBourn2}}
+| position = {{English football updater|AFCBourn3}}
+| website = https://www.afcb.co.uk
+&lt;!-- Home Kit --&gt;
+| pattern_la1 = _bournemouth1819h
+| pattern_b1 = _bournemouth1819h
+| pattern_ra1 = _bournemouth1819h
+| pattern_sh1 = _bournemouth1819h
+| pattern_so1 = _afcb1819hLong
+| leftarm1 = FF0000
+| body1 = FF0000
+| rightarm1 = FF0000
+| shorts1 = 000000
+| socks1 = 000000
+&lt;!-- Away Kit --&gt;
+| pattern_la2 = _afcb1819a
+| pattern_b2 = _bournemouth1819a
+| pattern_ra2 = _afcb1819a
+| pattern_sh2 = _afcb1819a
+| pattern_so2 = _afcb1819aLong
+| leftarm2 = FFFFFF
+| body2 = FFFFFF
+| rightarm2 = FFFFFF
+| shorts2 = 050052
+| socks2 = 050052
+&lt;!-- Third Kit --&gt;
+| pattern_la3=_bournemouth1819t
+| pattern_b3=_bournemouth1819t
+| pattern_ra3=_bournemouth1819t
+| pattern_sh3=_bournemouth1819t
+| pattern_so3=_afcb1819tLong
+| leftarm3=
+| body3=
+| rightarm3=
+| shorts3=
+| socks3=6BE8FF
+| current = 2018–19 A.F.C. Bournemouth season
+}}
+'''A.F.C. Bournemouth''' ({{IPAc-en|audio=en-uk-Bournemouth.ogg|ˈ|b|ɔːr|n|m|ə|θ}}) is a professional [[Association football|football]] club in [[Bournemouth]], [[Dorset]], that play in the [[Premier League]], the top tier of the [[English football league system]]. Formed in 1890 as '''Boscombe St. John's Institute F.C.''', the club adopted their current name in 1972. Nicknamed The Cherries, since 1910 Bournemouth have played their home games at [[Dean Court]]. Their home colours are red and black striped shirts, with black shorts and socks.
+
+A.F.C. Bournemouth have won the [[List of teams promoted from the English Football League Championship and predecessors|second]] and [[List of winners of English Football League One and predecessors|third]] tiers of English football, and were twice runners-up of the [[List of winners of English Football League Two and predecessors|fourth tier]]. They have also won the [[EFL Trophy|Football League Trophy]], and the [[Football League Third Division South Cup]].
+
+Bournemouth have spent the majority of their history bouncing between the third and fourth tier of English football.  Under manager [[Eddie Howe]], they have risen through the pyramid; the 2015–16 season was A.F.C. Bournemouth's first ever in England's top division.
+
+The club is currently owned by [[Maxim Demin]], a Russian multi-millionaire involved in the petrochemicals trading industry.&lt;ref&gt;{{cite web|url=https://www.skysports.com/football/news/11743/9827260/who-is-afc-bournemouths-russian-owner-maxim-demin | title=Who is Bournemouth's Russian owner Maxim Demin?|website=www.skysports.com/football/news/11743/9827260/who-is-afc-bournemouths-russian-owner-maxim-demin|access-date=12 January 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.thesun.co.uk/sport/football/8171260/eddie-howe-bournemouth-test-of-character-transfer | title=Howe faces test of character as storm clouds gather at cushy Bournemouth | website=www.thesun.co.uk/sport/football/8171260/eddie-howe-bournemouth-test-of-character-transfer |access-date=12 January 2019}}&lt;/ref&gt;
+
+==History==
+===Boscombe F.C.===
+Although the exact date of the club's foundation is not known, there is proof that it was formed in the autumn of 1899 out of the remains of the older Boscombe St. John's Institute F.C.&lt;ref&gt;{{Cite journal |last= |first= |title=AFC Bournemouth History |url=http://www.afcb.co.uk/club/club-history/ |date=12 May 2012 |accessdate=25 June 2015 |location=Bournemouth |publisher=AFC Bournemouth |postscript=&lt;!--None--&gt; |deadurl=yes |archiveurl=https://web.archive.org/web/20150626130115/http://www.afcb.co.uk/club/club-history/ |archivedate=26 June 2015 |df=dmy-all }}&lt;/ref&gt; The club was originally known as Boscombe F.C. The first president was Mr. J. C. Nutt.&lt;ref&gt;The official Handbook of Bournemouth and Boscombe Athletic Football Club; ''Golden Jubilee 1899–1949''&lt;/ref&gt;
+
+In their first season, 1899–1900, Boscombe F.C. competed in the Bournemouth and District Junior League. They also played in the Hants Junior Cup. During the first two seasons, they played on a football pitch in Castlemain Avenue, Pokesdown. From their third season, the team played on a pitch in [[King's Park, Boscombe|King's Park]]. In the 1905–06 season, Boscombe F.C. graduated to senior amateur football.&lt;ref&gt;{{cite web|url=http://www.afcb.co.uk/club/club-history/|date=24 May 2012|title=AFCB Club History|deadurl=yes|archiveurl=https://web.archive.org/web/20150626130115/http://www.afcb.co.uk/club/club-history/|archivedate=26 June 2015|df=dmy-all}}&lt;/ref&gt;
+
+In 1910, the club was granted a long lease over some wasteland next to Kings Park as the club's football ground by local businessman J.E. Cooper-Dean. With their own ground, named Dean Court after the benefactor, the club continued to thrive and dominated the local football scene. The same year the club signed its first professional player [[Baven Penton]].&lt;ref&gt;{{cite book | first1=Duncan |last1=Holley |first2=Gary |last2=Chalk | title=The Alphabet of the Saints| publisher= ACL &amp; Polar Publishing | year=1992|page = 270| isbn=0-9514862-3-3}}&lt;/ref&gt;
+
+Around about this time, the club obtained their nickname "The Cherries," with two foremost tales on how the club gained the nickname. First, because of the cherry-red striped shirts that the team played in and, perhaps less plausible, because Dean Court was built adjacent to the Cooper-Dean estate, which, it is believed may have encompassed numerous cherry orchards.
+
+For the first time, during the 1913–14 season, the club competed in the [[FA Cup]]. The club's progress, however, was halted in 1914 with the outbreak of [[World War I]], and Boscombe F.C. returned to the [[Hampshire League]].
+
+In 1920, the Third Division of the [[Football League]] was formed, and Boscombe were promoted to the [[Southern Football League|Southern League]], finding moderate success.
+
+[[File:Deancourt 14092013 vblackpool.jpg|400px|thumbnail|right|[[Dean Court]] ]]
+
+===Bournemouth and Boscombe Athletic F.C.===
+To make the club more representative of the district, the name was changed to Bournemouth and Boscombe Athletic F.C. in 1923. During the same year, the club was elected to the newly-expanded [[Football League Third Division (South)|Football League Third Division]]. The first league match was at [[Swindon Town F.C.|Swindon Town]] on 25 August 1923, which Bournemouth lost 3–1. The first league game at Dean Court was also against Swindon, where Bournemouth gained their first league point after a 0–0 draw.
+
+Initially, Bournemouth struggled in the Football League but eventually established themselves as a Third Division club. Bournemouth remains on the records as the longest continuous members of the Third Division.
+
+As a league club, Bournemouth had to wait until after the Second World War before winning their first trophy. This was accomplished as they beat [[Walsall F.C.|Walsall]] in the Third Division (South) Cup in the final at [[Stamford Bridge (stadium)|Stamford Bridge]].
+
+===A.F.C. Bournemouth===
+Under manager [[John Bond (footballer)|John Bond]], the club adopted the more streamlined A.F.C. Bournemouth name in 1972. At the same time, the club adopted a new badge as a symbol of the club's progress. The stripes in the background were based on the club shirt, while in the foreground is the profile of a player heading the ball, in honour of [[Dickie Dowsett]], a prolific scorer for the club in the 1950s and 1960s.&lt;ref&gt;{{cite web |title=Cherries launch evolved crest |url=http://www.afcb.co.uk/news/article/2013-07-15-cherries-launch-evolved-crest-912766.aspx |publisher=AFC Bournemouth |accessdate=10 August 2015 |archive-url=https://web.archive.org/web/20150925103202/http://www.afcb.co.uk/news/article/2013-07-15-cherries-launch-evolved-crest-912766.aspx |archive-date=25 September 2015 |dead-url=no |df=dmy-all }}&lt;/ref&gt;
+
+Their red and black kit, introduced in 1971, was based on the [[A.C. Milan]] strip.&lt;ref&gt;{{cite book |last1=Roopanarine |first1=Les |title=Harry Redknapp-The Biography |date=2011 |publisher=John Blake Publishing |isbn=9781843589426 |url=https://books.google.com.au/books?id=E0WUkWwx38AC&amp;pg=PT28 |accessdate=15 November 2018}}&lt;/ref&gt; This was the era of [[Ted MacDougall]], a prolific goalscorer who, in an FA Cup tie in November 1971, scored nine goals in an 11–0 win against [[Margate F.C.|Margate]].
+
+===Late 20th century===
+[[File:AFC Bournemouth League Performance.svg|thumb|right|300px|Chart of yearly table positions of Bournemouth in the League.]]
+The club recorded a famous victory over holders [[Manchester United F.C.|Manchester United]] in the [[FA Cup]] in January 1984, while they were managed by [[Harry Redknapp]].&lt;ref&gt;{{Cite news|last=Struthers |first=Greg |title=Caught in Time: Bournemouth beat Manchester United, FA Cup, 1984 |url=http://www.timesonline.co.uk/tol/sport/article786175.ece  |date=8 January 2006 |accessdate=17 February 2008 | location=London |newspaper=[[The Times]] |postscript=&lt;!--None--&gt;}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |last= |first= |title=8 January 1984: Bournemouth 2 Man Utd 0 |url=http://observer.guardian.co.uk/osm/story/0,,626795,00.html |date=6 January 2002 |accessdate=17 February 2008 |location=London |newspaper=[[The Observer]] |postscript=&lt;!--None--&gt; |archive-url=https://web.archive.org/web/20081211104810/http://observer.guardian.co.uk/osm/story/0,,626795,00.html |archive-date=11 December 2008 |dead-url=no |df=dmy-all }}&lt;/ref&gt;
+
+Redknapp took Bournemouth into the second tier of the English league for the first time in their history as Third Division champions in 1987. After comfortably surviving in their first season in the Second Division, Bournemouth made a serious challenge for promotion to the top flight in the [[1988–89 in English football|1988–89 season]]; they ultimately fell away after a poor run late in the season, but their eventual finish of 12th place remained their highest-ever in the Football League until the [[2013–14 A.F.C. Bournemouth season|2013–14 season]].
+
+On 5 May 1990, the final day of the [[1989–90 in English football|1989–90 season]], [[Leeds United F.C.|Leeds United]] had the chance to win the Second Division and gain promotion into the First Division by beating Bournemouth at Dean Court. Some United fans had already caused trouble in the town during the morning and the atmosphere was tense as Leeds won the match by a single goal. Combined with the results of other matches, this meant that Leeds were promoted while Bournemouth were relegated. The violence and destruction by visitors to Bournemouth continued over the holiday weekend, causing more than £1&amp;nbsp;million worth of damage and injury to opposing fans and police officers.&lt;ref name="archive.bournemouthecho.co.uk"&gt;{{cite web |url=http://archive.bournemouthecho.co.uk/2004/5/5/67408.html |title=Bournemouth, Poole, Christchurch news, sports and jobs. Dorset and Hampshire what's on and leisure&amp;nbsp;– Cherry-o Leeds! |website=Archive.bournemouthecho.co.uk |date=5 May 2004 |accessdate=17 May 2010 |archiveurl=https://web.archive.org/web/20100507170026/http://archive.bournemouthecho.co.uk/2004/5/5/67408.html |archivedate=7 May 2010 |deadurl=yes |df=dmy-all }}&lt;/ref&gt; The town's ''[[Bournemouth Daily Echo|Daily Echo]]'' newspaper reported that "spectators, including many young children, had to run to safety as missiles were hurled and riot police waded in to control the crowds."&lt;ref name="archive.bournemouthecho.co.uk"/&gt; The matter was raised in Parliament by one of the town's MPs. Financially, the Leeds trouble affected the club for more than a decade, as Bournemouth were prevented by local police from staging home games on Bank Holidays (traditionally a popular day for football) until a game against [[Shrewsbury Town F.C.|Shrewsbury Town]] on 21 April 2003.
+
+Redknapp remained at the club for two more seasons, both of which ended with the club falling three points short of the play-offs. However, mounting financial pressures caused him to resign his position at the end of the [[1991–92 in English football|1991–92 season]], and he subsequently rejoined former club [[West Ham United F.C.|West Ham United]] as a coach. He was replaced by [[Tony Pulis]], who built a much cheaper squad that could only manage two consecutive 17th-place finishes before Pulis walked out of the club, blaming financial pressures.{{cn|date=September 2018}}
+
+Bournemouth went the first few months of the [[1994–95 in English football|1994–95 season]] without a permanent manager in place, and a dreadful start saw them bottom of the table for much of the first half of the season. Despite a minor upturn in form when [[Mel Machin]] was appointed as manager, they looked highly unlikely to survive, given that there were five relegation spots in Division Two for that season due to league reconstruction. However, a late run of form combined with collapses by relegation rivals [[Cambridge United F.C.|Cambridge United]] and [[Plymouth Argyle F.C.|Plymouth Argyle]] saw them survive on the last day of the season by two points.
+
+Machin ultimately remained in charge for six years, most of which were marked by unremarkable mid-table finishes. The [[1998–99 in English football|1998–99 season]] proved to be arguably the highlight of his tenure, with the club making a serious playoff challenge for most of the season, but ultimately falling short and finishing seventh. However, a drop to 16th place in the [[1999–2000 A.F.C. Bournemouth season|1999–2000 season]] followed by a poor start to the following season saw Machin removed from his position and given the role of director of football.
+
+===Early 21st century===
+[[Image:AFC Bournemouth.svg|200px|thumb|right|Former AFC Bournemouth crest]]
+[[Sean O'Driscoll]] was promoted from the coaching staff in place of Mel Machin at the start of the [[2000–01 A.F.C. Bournemouth season|2000–01 season]]. In O'Driscoll's first season as manager, Bournemouth narrowly missed out on the Division Two playoffs but were relegated a year later in the new stadium (in the early part of the 2001–02 season, they played their home matches at [[Dorchester Town F.C.|Dorchester Town]]'s ground while their own stadium was being redeveloped). The board kept faith in O'Driscoll and they were rewarded with promotion via the Division Three playoffs in [[2002–03 in English football|2002–03]]. The club became the first to score five goals at the [[Millennium Stadium]] when they beat [[Lincoln City F.C.|Lincoln City]] 5-2 in the [[2002–03 in English football|2002–03]] Division Three play-off final with goals from [[Steve Fletcher]], [[Carl Fletcher (Welsh footballer)|Carl Fletcher]] (2), [[Stephen Purches]] and [[Garreth O'Connor]]. Under O'Driscoll, Bournemouth narrowly missed out on the play-offs for the [[2003–04 in English football|2003–04]] and [[2004–05 in English football|2004–05]] seasons, and just avoided relegation in the [[2005–06 in English football|2005–06]] season.
+
+Long-serving player [[James Hayter (footballer)|James Hayter]] scored the fastest league hat-trick in English Football League history during the [[2003–04 in English football|2003–04]] season. The Cherries were leading 3–0 against [[Wrexham F.C.|Wrexham]] thanks to goals from Stephen Purches, [[Warren Cummings]] and [[Warren Feeney]] when Hayter was brought onto the field as a substitute. With 86 minutes gone, Hayter managed to net three goals in the space of two minutes and 17 seconds, making the final score 6–0 to Bournemouth.
+
+In September 2006, with the team in eighth in the League, Sean O'Driscoll left to become manager of [[Doncaster Rovers F.C.|Doncaster Rovers]]. He was replaced by [[Kevin Bond (English footballer)|Kevin Bond]].
+
+===Decline and administration (2008–2009)===
+In February 2008, Bournemouth were forced into administration, suffering a ten-point deduction which put them in relegation trouble. Bournemouth had debts of around £4&amp;nbsp;million and almost went out of business completely.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/b/bournemouth/7233678.stm |title=Cherries go into administration |publisher=BBC News |date=8 February 2008 |accessdate=17 May 2010 |archive-url=https://web.archive.org/web/20080210215154/http://news.bbc.co.uk/sport1/hi/football/teams/b/bournemouth/7233678.stm |archive-date=10 February 2008 |dead-url=no |df=dmy-all }}&lt;/ref&gt; The off-field uncertainty continued throughout the season, with only one, ultimately unsuccessful, bid for the club accepted,&lt;ref&gt;{{Cite web |url=http://world.afcb.co.uk/page/NewsDetail/0,,10324~1280796,00.html |title=3 April Press conference transcript |website=Afcb.premiumtv.co.uk |access-date=17 May 2010 |archive-url=https://web.archive.org/web/20180404134434/http://world.afcb.co.uk/page/NewsDetail/0,,10324~1280796,00.html |archive-date=4 April 2018 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; and the club ended the season being relegated to [[League Two]].
+
+Ahead of the [[2008–09 in English football|2008–09 season]], the team's future in the Football League was put into doubt when the league threatened to block Bournemouth's participation in League Two, due to problems with the team's continuing administration and change in ownership. It ordered both Bournemouth and [[Rotherham United F.C.|Rotherham United]] to demonstrate that they could fulfil all of their fixtures and find a way out of administration,&lt;ref&gt;[https://www.theguardian.com/football/2008/aug/06/rotherham.bournemouth Troubled League Two clubs on the brink] {{Webarchive|url=https://web.archive.org/web/20170305003433/https://www.theguardian.com/football/2008/aug/06/rotherham.bournemouth |date=5 March 2017 }} ''The Guardian'', 6 August 2008&lt;/ref&gt; eventually allowing the club to compete with a 17-point penalty for failing to follow the Football League insolvency rules. The new company was also ordered to pay unsecured creditors the amount offered at the time of the original [[Trading while insolvent#Company voluntary agreement|CVA]] (around ten pence in the pound) within two years.&lt;ref&gt;[https://www.theguardian.com/football/2008/aug/07/bournemouth.leaguetwofootball Bournemouth hit by 17 point penalty] {{Webarchive|url=https://web.archive.org/web/20170305003419/https://www.theguardian.com/football/2008/aug/07/bournemouth.leaguetwofootball |date=5 March 2017 }} ''The Guardian'', 7 August 2008&lt;/ref&gt;
+
+Early into the season, manager Bond was sacked and was replaced by former player [[Jimmy Quinn (Northern Irish footballer)|Jimmy Quinn]], who would himself leave the club only a few months later.&lt;ref&gt;[http://www.bournemouthecho.co.uk/news/4013110.QUINN_AND_CHERRIES_PART_COMPANY Quinn and Cherries Part Company] {{Webarchive|url=https://web.archive.org/web/20120304065322/http://www.bournemouthecho.co.uk/news/4013110.QUINN_AND_CHERRIES_PART_COMPANY/ |date=4 March 2012 }} ''Bournemouth Daily Echo'', 31 December 2008&lt;/ref&gt;
+Former player [[Eddie Howe]] took over as manager with the club still ten points adrift at the bottom of the league and initially on a caretaker basis, becoming the youngest manager in the Football League at the age of 31.&lt;ref&gt;{{cite news |url=http://www.skysports.com/story/0,19528,11750_4817560,00.html |title=Howe handed permanent role |date=19 January 2009 |accessdate=19 January 2009 |publisher=Sky Sports |archive-url=https://web.archive.org/web/20090602062338/http://www.skysports.com/story/0,19528,11750_4817560,00.html |archive-date=2 June 2009 |dead-url=no |df=dmy-all }}&lt;/ref&gt;
+
+At the end of 2008, it was announced that local businessman Adam Murry had completed the purchase of 50% of the club's shares from previous chairman, Paul Baker. However, in January 2009, Murry missed the deadline to buy Baker's shares.&lt;ref&gt;[http://www.bournemouthecho.co.uk/news/4013023.UPDATED__CLUB_CONFIRMS_BAKER_BUY_OUT Club Confirms Baker Buy-Out] {{Webarchive|url=https://web.archive.org/web/20120304065441/http://www.bournemouthecho.co.uk/news/4013023.UPDATED__CLUB_CONFIRMS_BAKER_BUY_OUT/ |date=4 March 2012 }} ''Bournemouth Daily Echo'', 31 December 2008&lt;/ref&gt;
+
+In the final home game of the 2008–09 season, the Cherries guaranteed their Football League status by beating [[Grimsby Town F.C.|Grimsby Town]] 2–1 with a winning goal ten minutes from time by Bournemouth's Steve Fletcher, sparking wild celebrations after a fairytale ending to "The Great Escape." They finished their troubled season with their best away win in 30 years with a 4–0 victory at [[Morecambe F.C.|Morecambe]].
+
+In June 2009, a consortium including Adam Murry finally took over A.F.C. Bournemouth. The consortium included Jeff Mostyn, former vice-chairman Steve Sly, Neill Blake and former [[Dorchester Town]] chairman Eddie Mitchell.
+
+===Rise to the Premier League (2009–2015)===
+
+Howe's first full season in charge brought success as Bournemouth finished second in League Two to earn promotion with two games to spare. Howe subsequently left the club for [[Burnley F.C.|Burnley]] during the following season; his successor, another former Bournemouth player, [[Lee Bradbury]], led Bournemouth to the League One play-offs. The two-legged semi-final against [[Huddersfield Town F.C.|Huddersfield Town]] finished 3–3 after extra time, and Huddersfield went through the final by winning the penalty shoot-out 4–2. Bradbury was unable to lead Bournemouth to another promotion challenge in the [[2011–12 Football League One]], placing 11th after a season of indifferent results, and was replaced by youth team coach [[Paul Groves (footballer)|Paul Groves]] for the final games of the season.
+
+Groves remained in charge at the start of the [[2012–13 A.F.C. Bournemouth season|2012–13 season]], only to be sacked in October 2012 following a start which left the club near the bottom of the table. Eddie Howe returned as manager, and not only did he pull the club away from their early-season relegation battle, they achieved promotion to the [[Football League Championship|Championship]], returning to the second-tier of English football for the first time since 1990. The club also revealed a new club crest.&lt;ref&gt;[http://www.football-shirts.co.uk/fans/afc-bournemouth-launch-new-crest_21507.AFC Bournemouth Launch New Crest] ''Football-shirts.co.uk'', 15 July 2013&lt;/ref&gt; After a promising start to life in the Championship, the club was handed a fourth Round [[FA Cup]] tie with [[Premier League]] club [[Liverpool F.C.|Liverpool]] which ended in a 2–0 loss. Bournemouth finished their first season back in the Championship in tenth place, their highest ever position in the Football League.
+
+On 25 October 2014, Bournemouth won 8–0 away at [[St Andrew's (stadium)|St. Andrew's]] against [[Birmingham City F.C.|Birmingham City]]. It was the first time that the Cherries had ever scored eight goals in a league game and their largest winning margin in the league (barring a 10–0 win over [[Northampton Town F.C.|Northampton Town]] in September 1939, which was discounted after the league was abandoned due to the Second World War).&lt;ref name="bbc 2014-10-25"&gt;{{cite web| last =| first =| authorlink =| author2 =| year =2014| url =https://www.bbc.com/sport/0/football/29669693| title =Managerless Birmingham City suffered a humiliating defeat as Bournemouth scored eight goals at St Andrew's| format =| work =| publisher =BBC| accessdate =25 October 2014| archive-url =https://web.archive.org/web/20141026213420/http://www.bbc.com/sport/0/football/29669693| archive-date =26 October 2014| dead-url =no| df =dmy-all}}&lt;/ref&gt; The club followed up this success with a 2–1 victory over [[Premier League]] side [[West Bromwich Albion F.C.|West Bromwich Albion]] in the League Cup, reaching the quarter-finals of the competition for the first time. Bournemouth were again drawn against Liverpool but lost 3–1. The club spent most of the [[2014–15 A.F.C. Bournemouth season|2014–15 season]] near the top of the table, and a 3-0 win away at [[Charlton Athletic F.C.|Charlton Athletic]] on the final day of the season was enough to clinch the Championship title and a first-ever promotion to the top flight of English football.&lt;ref&gt;{{cite web|title=Gallery: All the incredible pictures as Cherries are crowned champions of Football League|url=http://www.bournemouthecho.co.uk/news/12928783.GALLERY__All_the_incredible_pictures_as_Cherries_are_crowned_champions_of_Football_League/|work=Bournemouth Echo|accessdate=2 May 2015|archive-url=https://web.archive.org/web/20150505021053/http://www.bournemouthecho.co.uk/news/12928783.GALLERY__All_the_incredible_pictures_as_Cherries_are_crowned_champions_of_Football_League/|archive-date=5 May 2015|dead-url=no|df=dmy-all}}&lt;/ref&gt;
+
+===Premier League era (2015–present)===
+Bournemouth's first ever game in the top flight of English football was a 1–0 defeat home to [[Aston Villa F.C.|Aston Villa]] played on 8 August 2015. Early on in the 2015–16 season the team was beset by a number of crippling injuries, including to their captain, [[Tommy Elphick]] and their star striker from the previous season, [[Callum Wilson (English footballer)|Callum Wilson]], the latter of which was injured for the majority of the season. The team struggled for most of the first half of the season until a turning point was reached during a game at Dean Court against [[Everton F.C.|Everton]] in which [[Junior Stanislas]] scored a goal in the seventh minute of stoppage time to tie the game. From there, Bournemouth defeated [[Chelsea F.C.|Chelsea]] and [[Manchester United F.C.|Manchester United]] in back-to-back wins. The team eventually finished 16th in the league, securing their Premier League status for another year. 
+
+Their second season, despite being largely tipped to suffer [[second season syndrome]], they defied all odds to finish in 9th place. Their squad was largely defined by the highly publicized loans of [[Jack Wilshere]] from Arsenal and [[Nathan Aké]] from Chelsea, but also by the strong form of [[Joshua King (footballer)|Josh King]], who scored 16 goals in 36 appearances, and the £15 million pound move of [[Jordon Ibe]] from [[Liverpool]]. A weak start to the season saw them in the relegation zone for the first three weeks, but after a 1–0 victory against [[West Bromwich Albion]], they never again dropped below 16th place in the table.&lt;ref&gt;{{cite news | url=https://www.bbc.com/sport/football/37263912 | work=BBC News | title=Wilson gets winner as Bournemouth beat West Brom | date=10 September 2016 | access-date=21 May 2018 | archive-url=https://web.archive.org/web/20180522121237/https://www.bbc.com/sport/football/37263912 | archive-date=22 May 2018 | dead-url=no | df=dmy-all }}&lt;/ref&gt; Key points of the season occurred when they soundly defeated [[Hull City]] 6–1 and defeated Liverpool 4–3, both of which helped their survival push at the end of the season, when they went unbeaten in the last five matches and earned 11 points from 15.
+
+In preparation for the following season, Howe signed Aké permanently for a club-record fee,&lt;ref&gt;{{cite web|url=http://bleacherreport.com/articles/2719012-nathan-ake-officially-completes-bournemouth-transfer-from-chelsea-for-record-fee|title=Nathan Ake Officially Completes Bournemouth Transfer from Chelsea for Record Fee|first=Christopher|last=Simpson|website=Bleacherreport.com|access-date=27 June 2018|archive-url=https://web.archive.org/web/20180627230829/http://bleacherreport.com/articles/2719012-nathan-ake-officially-completes-bournemouth-transfer-from-chelsea-for-record-fee|archive-date=27 June 2018|dead-url=no|df=dmy-all}}&lt;/ref&gt; while [[Asmir Begović]] and [[Jermain Defoe]] also signed deals at Dean Court.&lt;ref&gt;{{cite web|url=https://www.thesun.co.uk/sport/football/3683466/bournemouth-confirm-10m-signing-of-chelsea-goalkeeper-asmir-begovic-on-long-term-deal/|title=Bournemouth confirm £10m signing of Chelsea goalkeeper Asmir Begovic on long-term deal|date=30 May 2017|website=Thesun.co.uk|access-date=27 June 2018|archive-url=https://web.archive.org/web/20180628015540/https://www.thesun.co.uk/sport/football/3683466/bournemouth-confirm-10m-signing-of-chelsea-goalkeeper-asmir-begovic-on-long-term-deal/|archive-date=28 June 2018|dead-url=no|df=dmy-all}}&lt;/ref&gt; The season began poorly, with the team losing their first 4 matches.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/41133353|title=Arsenal 3–0 Bournemouth|website=Bbc.com|access-date=27 June 2018|archive-url=https://web.archive.org/web/20180717184559/https://www.bbc.com/sport/football/41133353|archive-date=17 July 2018|dead-url=no|df=dmy-all}}&lt;/ref&gt; However, a run of good form through late December and January saw them steer clear the relegation zone, and saw Howe earn his second Premier League Manager of the Month award.&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/356463|title=Howe wins January Barclays Manager of the Month|website=Premierleague.com|access-date=27 June 2018|archive-url=https://web.archive.org/web/20180627230710/https://www.premierleague.com/news/356463|archive-date=27 June 2018|dead-url=no|df=dmy-all}}&lt;/ref&gt; They won 2–1 at home against [[Arsenal F.C|Arsenal]],&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/42594402|title=Bournemouth 2–1 Arsenal|date=14 January 2018|work=BBC Sport|access-date=27 June 2018|archive-url=https://web.archive.org/web/20180713031052/https://www.bbc.com/sport/football/42594402|archive-date=13 July 2018|dead-url=no|df=dmy-all}}&lt;/ref&gt; had a 3–0 victory at [[Stamford Bridge (stadium)|Stamford Bridge]] against Chelsea&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/42799048|title=Chelsea 0–3 Bournemouth|date=31 January 2018|work=BBC Sport|access-date=27 June 2018|archive-url=https://web.archive.org/web/20180713024040/https://www.bbc.com/sport/football/42799048|archive-date=13 July 2018|dead-url=no|df=dmy-all}}&lt;/ref&gt; and gained 19 points from losing positions in the second half of the season; a Premier League Record.&lt;ref&gt;{{cite web|url=https://twitter.com/afcbournemouth/status/1031228761411342336|title=AFC Bournemouth 🍒 on Twitter|publisher=[[Twitter]]|accessdate=16 October 2018}}&lt;/ref&gt; The team battled inconsistent form the rest of the season, but still managed a 12th place finish.&lt;ref&gt;{{cite web|url=https://www.premierleague.com/tables?co=1&amp;se=79&amp;ha=-1|title=Premier League Table, Form Guide &amp; Season Archives|website=www.premierleague.com|access-date=27 June 2018|archive-url=https://web.archive.org/web/20180627230801/https://www.premierleague.com/tables?co=1&amp;se=79&amp;ha=-1|archive-date=27 June 2018|dead-url=no|df=dmy-all}}&lt;/ref&gt;
+
+==Financial Fair Play violation during promotion season==
+
+In 2016, Bournemouth was found guilty of violating the Football League’s Financial Fair Play regulations during 2014–2015, the season it secured promotion to the Premier League. 
+
+The club’s over-spend broke the ‘maximum deviation’, with a £38.3 million financial loss in 2014–2015. This followed a loss of £10.3 million in 2013–2014. 
+
+===Financial punishment===
+Bournemouth was originally fined £7.6 million by the Football League, but subsequently negotiated a settlement with a fine of £4.75 million for breaching Financial Fair Play rules. The decision followed months of speculation and investigation about the club breaking Football League regulations.&lt;ref&gt;{{cite web|url=https://www.skysports.com/football/news/11743/10267899/bournemouth-fined-7-6m-after-breaching-financial-fair-play-rules|title=Bournemouth fined £7.6m after breaching Financial Fair Play rules|website=www.skysports.com/football/news/11743/10267899/bournemouth-fined-7-6m-after-breaching-financial-fair-play-rules|access-date=4 January 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://talksport.com/football/395272/afc-bournemouth-fine-financial-fair-play/|title=CHERRIES CHARGED AFC Bournemouth agree to pay £4.75million fine for breaching Financial Fair Play rules|website=talksport.com/football/395272/afc-bournemouth-fine-financial-fair-play|access-date=4 January 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.mirror.co.uk/sport/football/news/bournemouth-face-hefty-fine-football-7066844
+|title=Bournemouth face hefty fine by the Football League for breaking Financial Fair Play rules|website=www.mirror.co.uk/sport/football/news/bournemouth-face-hefty-fine-football-7066844|access-date=4 January 2019}}&lt;/ref&gt;
+
+==Players==
+===Current squad===
+{{updated|31 January 2019}}&lt;ref&gt;{{cite web |title=First team |url=https://www.afcb.co.uk/teams/first-team |publisher=A.F.C. Bournemouth |accessdate=25 July 2018 |archive-url=https://web.archive.org/web/20160402202935/http://www.afcb.co.uk/team/player-profile/ |archive-date=2 April 2016 |dead-url=no |df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=AFCB – Squad numbers confirmed for 2018/19 |url=https://www.afcb.co.uk/news/club-news/squad-numbers-confirmed-for-201819 |publisher=A.F.C. Bournemouth |accessdate=26 July 2018 |archive-url=https://web.archive.org/web/20180727024356/https://www.afcb.co.uk/news/club-news/squad-numbers-confirmed-for-201819 |archive-date=27 July 2018 |dead-url=no |df=dmy-all }}&lt;/ref&gt;
+
+{{fs start}}
+{{fs player|no=1  |nat=POL |pos=GK |name=[[Artur Boruc]]}}
+{{fs player|no=2  |nat=ENG |pos=DF |name=[[Simon Francis (footballer)|Simon Francis]]|other=[[Captain (association football)|captain]]}}&lt;ref name="captain"&gt;{{cite web|title=Simon Francis named as AFC Bournemouth captain for the 2016/2017 season|url=http://www.afcb.co.uk/news/article/2016-17/simon-francis-named-as-afc-bournemouth-club-captain-for-201617-season.-3190098.aspx|publisher=A.F.C. Bournemouth|accessdate=13 December 2016|archive-url=https://web.archive.org/web/20170305014500/http://www.afcb.co.uk/news/article/2016-17/simon-francis-named-as-afc-bournemouth-club-captain-for-201617-season.-3190098.aspx|archive-date=5 March 2017|dead-url=no|df=dmy-all}}&lt;/ref&gt;
+{{fs player|no=3  |nat=ENG |pos=DF |name=[[Steve Cook]]|other=[[Captain (association football)|2nd vice-captain]]}}
+{{fs player|no=4  |nat=ENG |pos=MF |name=[[Dan Gosling]]}}
+{{fs player|no=5  |nat=NED |pos=DF |name=[[Nathan Aké]]}}
+{{fs player|no=6  |nat=ENG |pos=MF |name=[[Andrew Surman]]|other=[[Captain (association football)|vice-captain]]}}&lt;ref name="captain"/&gt;
+{{fs player|no=8  |nat=COL |pos=MF |name=[[Jefferson Lerma]]}}
+{{fs player|no=9  |nat=FRA |pos=FW |name=[[Lys Mousset]]}}
+{{fs player|no=10 |nat=ENG |pos=MF |name=[[Jordon Ibe]]}}
+{{fs player|no=11 |nat=ENG |pos=DF |name=[[Charlie Daniels (footballer)|Charlie Daniels]]}}
+{{fs player|no=13 |nat=ENG |pos=FW |name=[[Callum Wilson (English footballer)|Callum Wilson]]}}
+{{fs player|no=15 |nat=ENG |pos=DF |name=[[Adam Smith (footballer, born 1991)|Adam Smith]]}}
+{{fs player|no=16 |nat=ENG |pos=MF |name=[[Lewis Cook (footballer, born 1997)|Lewis Cook]]}}
+{{fs mid}}
+{{fs player|no=17 |nat=NOR |pos=FW |name=[[Joshua King (footballer)|Joshua King]]}}
+{{fs player|no=19 |nat=ENG |pos=MF |name=[[Junior Stanislas]]}}
+{{fs player|no=20 |nat=WAL |pos=MF |name=[[David Brooks (footballer)|David Brooks]]}}
+{{fs player|no=21 |nat=ESP |pos=DF |name=[[Diego Rico]]}}
+{{fs player|no=22 |nat=USA |pos=MF |name=[[Emerson Hyndman]]}}
+{{Fs player|no=23 |nat=ENG|pos=DF|name=[[Nathaniel Clyne]]|other=on loan from [[Liverpool F.C.|Liverpool]]}}
+{{fs player|no=24 |nat=SCO |pos=MF |name=[[Ryan Fraser]]}}
+{{fs player|no=25 |nat=ENG |pos=DF |name=[[Jack Simpson (footballer)|Jack Simpson]]}}
+{{fs player|no=27 |nat=BIH |pos=GK |name=[[Asmir Begović]]}}
+{{Fs player|no=28 |nat=ENG |pos=MF |name=Kyle Taylor}}
+{{fs player|no=29 |nat=ENG |pos=FW |name=[[Dominic Solanke]]}}
+{{Fs player|no=33 |nat=WAL |pos=DF |name=[[Chris Mepham]]}}
+{{Fs player|no=42 |nat=IRL |pos=GK |name=Mark Travers}}
+{{fs end}}
+
+===Under-21s and Academy===
+{{Main article|AFC Bournemouth Under-21s and Academy}}
+
+===Out on loan===
+{{fs start}}
+{{fs player|no=7 |nat=ENG |pos=MF |name=[[Marc Pugh]]|other=at [[Hull City F.C.|Hull City]] until the end of the [[2018-19 in English football|2018–19 season]]}}
+{{Fs player|no=12 |nat=ENG |pos=GK |name=[[Aaron Ramsdale]]|other=at [[AFC Wimbledon]] until the end of the [[2018–19 in English football|2018–19 season]]}}
+{{fs player|no=14 |nat=AUS |pos=DF |name=[[Brad Smith (footballer, born 1994)|Brad Smith]]|other=at [[Seattle Sounders FC|Seattle Sounders]] until the end of the [[2019–20 in English football|2019–20 season]]}}
+{{fs player|no=18 |nat=ENG |pos=FW |name=[[Jermain Defoe]]|other=at [[Rangers F.C.|Rangers]] until the end of the [[2019–20 in English football|2019–20 season]]}}
+{{fs mid}}
+{{fs player|no=26 |nat=ENG |pos=DF |name=[[Tyrone Mings]]|other=at [[Aston Villa F.C.|Aston Villa]] until the end of the [[2018–19 in English football|2018–19 season]]}}
+{{Fs player|no=—|nat=ENG |pos=MF |name=[[Connor Mahoney]]|other=at [[Birmingham City F.C.|Birmingham City]] until the end of the [[2018–19 in English football|2018–19 season]]}}
+{{fs player|no=— |nat=IRL |pos=MF |name=[[Harry Arter]] |other=at [[Cardiff City F.C.|Cardiff City]] until the end of the [[2018–19 in English football|2018–19 season]]}}
+{{fs end}}
+
+==Club officials==
+{| class="wikitable"
+|-
+! Position !! Name
+|-
+|align="left"|'''Chairman'''
+|align="left"|{{flagicon|ENG}} Jeff Mostyn
+|-
+|align="left"|'''Chief Executive'''
+|align="left"|{{flagicon|ENG}} Neill Blake
+|-
+|align="left"|'''Manager'''
+|align="left"|{{flagicon|ENG}} [[Eddie Howe]]
+|-
+|align="left"|'''Assistant Manager'''
+|align="left"|{{flagicon|ENG}} [[Jason Tindall]]
+|-
+|align="left"|'''First Team Coach'''
+|align="left"|{{flagicon|ENG}} [[Stephen Purches]]
+|-
+|align="left"|'''First Team Coach'''
+|align="left"|{{flagicon|ENG}} [[Simon Weatherstone]]
+|-
+|align="left"|'''Assistant First Team Coach'''
+|align="left"|{{flagicon|ENG}} [[Steve Fletcher]]
+|-
+|align="left"|'''Head Goalkeeper Coach'''
+|align="left"|{{flagicon|ENG}} [[Neil Moss (footballer)|Neil Moss]]
+|-
+|align="left"|'''First Team Assistant Goalkeeper Coach'''
+|align="left"|{{flagicon|ENG}} Anthony White
+|-
+|align="left"|'''Development Squad/U23 Manager'''
+|align="left"|{{flagicon|ENG}} [[Shaun Cooper]]
+|-
+|align="left"|'''Development Squad/U23 Assistant Manager'''
+|align="left"|{{flagicon|ENG}} [[Mark Molesley]]
+|-
+|align="left"|'''Academy Manager'''
+|align="left"|{{flagicon|ENG}} Joe Roach
+|-
+|align="left"|'''Youth Team/U18 Manager'''
+|align="left"|{{flagicon|ENG}} [[Alan Connell]]
+|-
+|align="left"|'''Head of Sports Science'''
+|align="left"|{{flagicon|ENG}} Dan Hodges
+|-
+|align="left"|'''Head of Sports Medicine &amp; Physiotherapy'''
+|align="left"|{{flagicon|ENG}} Steve Hard
+|-
+|align="left"|'''Head of Performance Analysis'''
+|align="left"|{{flagicon|ENG}} Garvan Stewart
+|-
+|align="left"|'''Kit Manager'''
+|align="left"|{{flagicon|ENG}} Duncan Wells
+|-
+|align="left"|'''Finance Manager'''
+|align="left"|{{flagicon|ENG}} David Holiday
+|-
+|-
+|}&lt;ref&gt;{{cite web|url=https://www.afcb.co.uk/team/staff-profiles/|title=AFC Bournemouth Staff Profiles|website=Afcb.co.uk|access-date=1 April 2018|archive-url=https://web.archive.org/web/20170606092045/http://www.afcb.co.uk/team/staff-profiles/|archive-date=6 June 2017|dead-url=no|df=dmy-all}}&lt;/ref&gt;
+
+===Past managers===
+{{div col|colwidth=20em}}
+* {{flagicon|ENG}} Vincent Kitcher
+* {{flagicon|ENG}} [[Harry Kinghorn]] (twice)
+* {{flagicon|ENG}} [[Leslie Knighton]]
+* {{flagicon|ENG}} [[Frank Richards (football manager)|Frank Richards]]
+* {{flagicon|SCO}} [[Billy Birrell]]
+* {{flagicon|ENG}} [[Bob Crompton]]
+* {{flagicon|ENG}} [[Charlie Bell (footballer, born 1894)|Charlie Bell]]
+* {{flagicon|ENG}} [[Harry Lowe (footballer born March 1886)|Harry Lowe]]
+* {{flagicon|ENG}} [[Jack Bruton]]
+* {{flagicon|ENG}} [[Freddie Cox]] (twice)
+* {{flagicon|ENG}} [[Bill McGarry]]
+* {{flagicon|ENG}} [[Reg Flewin]]
+* {{flagicon|ENG}} [[John Bond (footballer)|John Bond]]
+* {{flagicon|ENG}} [[Trevor Hartley]]
+* {{flagicon|ENG}} [[Tony Nelson (footballer)|Tony Nelson]]
+* {{flagicon|SCO}} [[John Benson (footballer, born 1942)|John Benson]]
+* {{flagicon|ENG}} [[Alec Stock]]
+* {{flagicon|ENG}} [[David Webb (footballer)|David Webb]]
+* {{flagicon|ENG}} [[Don Megson]]
+* {{flagicon|ENG}} [[Harry Redknapp]]
+* {{flagicon|WAL}} [[Tony Pulis]]
+* {{flagicon|ENG}} [[Mel Machin]]
+* {{flagicon|IRE}} [[Sean O'Driscoll]]
+* {{flagicon|ENG}} [[Kevin Bond (English footballer)|Kevin Bond]]
+* {{flagicon|NIR}} [[Jimmy Quinn (Northern Irish footballer)|Jimmy Quinn]]
+* {{flagicon|ENG}} [[Eddie Howe]]
+* {{flagicon|ENG}} [[Lee Bradbury]]
+* {{flagicon|ENG}} [[Paul Groves (footballer)|Paul Groves]]
+{{div col end}}
+
+==Colours and crest==
+The team's colours have varied slightly throughout the club's history. Starting off playing in red and white stripes, Bournemouth have also played in all-red shirts, red with white sleeves, and mostly, since 1990, in red and black stripes, similar to that of [[A.C. Milan|Milan]].&lt;ref&gt;Redknapp, Harry (2014). "Always Managing". p. 109. Random House&lt;/ref&gt; A predominantly red shirt was chosen for the [[2004–05 in English football|2004–05]] and [[2005–06 in English football|2005–06]] seasons before a return to the stripes for the [[2006–07 in English football|2006–07]] season due to fan demand.&lt;ref&gt;{{Cite web|title = Q&amp;A: All you need to know about AFC Bournemouth – Journalism &amp; News from Bournemouth University|url = http://buzz.bournemouth.ac.uk/faq-afc-bournemouth/|website = Buzz|accessdate = 9 May 2015|archive-url = https://web.archive.org/web/20150518072124/http://buzz.bournemouth.ac.uk/faq-afc-bournemouth/|archive-date = 18 May 2015|dead-url = no|df = dmy-all}}&lt;/ref&gt;
+
+Since 2017 Bournemouth's kit has been manufactured by [[Umbro]]. Previously it has been made by [[Umbro]] (1974–78, 1983–86), [[Adidas]] (1978–81), Osca (1982–83), Henson (1986–87), Scoreline (1987–90), Ellgren (1990–92), Matchwinner (1993–95), [[Le Coq Sportif]] (1995–96), [[Patrick (sportswear company)|Patrick]] (1996–2000), Super League (200-01), TFG Sportswear (2001–03), Bourne Red (2003–08), [[Carbrini Sportswear]] (2008–11, 2014–15), [[Fila (company)|Fila]] (2011–14) and [[JD Sports]] (2015–17).
+
+Their shirts are currently sponsored by [[Mansion.com]]. On 2017–2018 season, the Mansion.com logo will appear on the left shirt sleeve of Bournemouth's home and third shirts. In addition, Casino.com, which is a subsidiary of Mansion, will feature on the sleeve of the club's away shirt.&lt;ref&gt;{{Cite news|url=http://www.slotsday.com/mansion-will-sponsor-bournemouth/|title=Mansion will sponsor Bournemouth|date=31 August 2017|website=Slotsday.com|access-date=31 August 2017|language=en-US|archive-url=https://web.archive.org/web/20170831133318/http://www.slotsday.com/mansion-will-sponsor-bournemouth/|archive-date=31 August 2017|dead-url=yes|df=dmy-all}}&lt;/ref&gt; Before this, sponsors have been Reg Heynes Toyota (1980–82, 1983–85), Coopers Beers (1985–87), Canberra Homes (1987–88), Nolan (1988–89), A1 Windscreens (1990–92), [[Exchange and Mart|Exchange &amp; Mart]] (1992–93), [[Liverpool Victoria|Frizzell]] (1993–97), Seward (1993–2006), Focal Point (2006–08, 2011–12), Carbrini Sportswear (2008–11), and Energy Consulting (2012–15).&lt;ref name="AFC Bournemouth - Historical Kits"&gt;{{Cite news| title = AFC Bournemouth – Historical Kits| website = Historicalkits.co.uk| accessdate = 18 January 2016| url = http://www.historicalkits.co.uk/Bournemouth/Bournemouth.htm| location = Unknown| archive-url = https://web.archive.org/web/20160102113431/http://www.historicalkits.co.uk/Bournemouth/Bournemouth.htm| archive-date = 2 January 2016| dead-url = no| df = dmy-all}}&lt;/ref&gt;
+
+==Honours==
+*'''[[Football League Championship]]''' ([[English football league system|English second tier]])
+**'''Champions''': [[2014–15 in English football|2014–15]]
+*'''[[Football League One]]''' ([[English football league system|English third tier]])
+** '''Champions''': [[1986-87 in English football|1986–87]]
+** '''Runners-up (2)''': [[1947-48 in English football|1947–48]], [[2012-13 in English football|2012–13]]
+*'''[[Football League Two]]''' ([[English football league system|English fourth tier]])
+** '''Runners-up (2)''': [[1970-71 in English football|1970–71]], [[2009-10 in English football|2009–10]]
+**'''Play-off winners''': [[2003 Football League Third Division play-off Final|2002–03]]
+**'''Promoted''': [[1981-82 in English football|1981–82]]
+*'''[[Southern Football League|Southern League]]'''
+**'''Runners-up''': [[1922-23 in English football|1922–23]]
+*'''[[Football League Trophy]]'''
+**'''Winners''': [[1983–84 Football League Trophy|1983–84]]
+**'''Runners-up''': [[1997–98 Football League Trophy|1997–98]]
+*'''[[Football League Third Division South Cup]]'''
+**'''Winners''': [[1945–46 in English football|1945–46]]&lt;ref&gt;{{cite book |last= Rollin |first= Jack |title= Soccer at War 1939–45 |year= 2005 |isbn= 0-7553-1431-X |page=259}}&lt;/ref&gt;
+
+==League history==
+{{See also|List of AFC Bournemouth seasons}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [https://www.afcb.co.uk/ Official website]
+* [https://www.theguardian.com/football/bournemouth Guardian Football]
+* [http://www.footballnewsdaily.net/afc-bournemouth/ Football News Daily]
+* [https://www.bbc.co.uk/sport/football/teams/afc-bournemouth BBC Sport]
+
+{{A.F.C. Bournemouth}}
+{{A.F.C. Bournemouth seasons}}
+{{Premier League}}
+
+{{DEFAULTSORT:Bournemouth, AFC}}
+[[Category:A.F.C. Bournemouth| ]]
+[[Category:Association football clubs established in 1899]]
+[[Category:Sport in Bournemouth|A.F.C. Bournemouth]]
+[[Category:EFL Trophy winners]]
+[[Category:1899 establishments in England]]
+[[Category:Football clubs in Dorset]]
+[[Category:Premier League clubs]]
+[[Category:Southern Football League clubs]]
+[[Category:Football clubs in England]]
+[[Category:Companies that have entered administration in the United Kingdom]]
+[[Category:Former English Football League clubs]]</text>
+      <sha1>qwuexck1fwe4yn261vmjxa307yain9n</sha1>
+    </revision>
+  </page>
+</mediawiki>

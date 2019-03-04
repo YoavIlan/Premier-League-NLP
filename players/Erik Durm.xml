@@ -1,0 +1,261 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Erik Durm</title>
+    <ns>0</ns>
+    <id>36798241</id>
+    <revision>
+      <id>877714812</id>
+      <parentid>876607145</parentid>
+      <timestamp>2019-01-10T13:09:54Z</timestamp>
+      <contributor>
+        <username>Liam E. Bekker</username>
+        <id>18600810</id>
+      </contributor>
+      <minor/>
+      <comment>/* International career */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19015">{{Use dmy dates|date=August 2013}}
+{{Infobox football biography
+| name = Erik Durm
+| image = Erik Durm IMG 1748.jpg
+| caption = Durm with [[Borussia Dortmund]] in 2014
+| fullname = Erik Durm&lt;ref&gt;{{Cite news
+| title = 2014 FIFA World Cup Brazil: List of Players
+| url = http://www.fifadata.com/document/fwc/2014/pdf/fwc_2014_squadlists.pdf
+| publisher = FIFA
+| format = PDF
+| page = 16
+| date = 11 June 2014
+| accessdate = 11 June 2014}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1992|05|12|df=y}}
+| birth_place = [[Pirmasens]], Germany
+| height = {{height|m=1.83}}
+| position = [[Defender (association football)#Full-back|Left back]] / [[Defender (association football)#Full-back|Right back]]
+| currentclub = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| clubnumber = 37
+| youthyears1 = 1997–2008
+| youthclubs1 = SG Rieschweiler
+| youthyears2 = 2008–2010
+| youthclubs2 = [[1. FC Saarbrücken|Saarbrücken]]
+| youthyears3 = 2010–2011
+| youthclubs3 = [[1. FSV Mainz 05|Mainz]]
+| years1 = 2010–2012
+| clubs1 = [[1. FSV Mainz 05 II|Mainz II]]
+| caps1  = 33
+| goals1 = 13
+| years2 = 2012–2015
+| clubs2 = [[Borussia Dortmund II]]
+| caps2  = 32
+| goals2 = 2
+| years3 = 2013–2018
+| clubs3 = [[Borussia Dortmund]]
+| caps3  = 64
+| goals3 = 2
+| years4 = 2018–
+| clubs4 = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| caps4 = 16
+| goals4 = 0
+| nationalyears1 = 2011
+| nationalteam1 = [[Germany national youth football team|Germany U19]]
+| nationalcaps1 = 2
+| nationalgoals1 = 2
+| nationalyears2 = 2011
+| nationalteam2 = [[Germany national under-20 football team|Germany U20]]
+| nationalcaps2 = 1
+| nationalgoals2 = 0
+| nationalyears3 = 2013–2014
+| nationalteam3 = [[Germany national under-21 football team|Germany U21]]
+| nationalcaps3 = 5
+| nationalgoals3 = 0
+| nationalyears4 = 2014–
+| nationalteam4 = [[Germany national football team|Germany]]
+| nationalcaps4 = 7
+| nationalgoals4 = 0
+| club-update = 09:57, 3 January 2019 (UTC)
+| nationalteam-update = 13:56, 19 November 2014 (UTC)
+| medaltemplates = {{medalTeam|[[Borussia Dortmund]]}}
+{{medalW|[[DFL-Supercup]]|[[2013 DFL-Supercup|2013]]}}
+{{medalW|[[DFL-Supercup]]|[[2014 DFL-Supercup|2014]]}}
+{{medalW|[[DFB-Pokal]]|
+[[2016–17 DFB-Pokal|2016–17]]}}
+{{Medal|Team|{{fb|Germany}}}}
+{{Medal|W|[[FIFA World Cup]]|[[2014 FIFA World Cup|2014]]}}
+}}
+'''Erik Durm''' (born 12 May 1992) is a German professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|full-back]] for [[Huddersfield Town A.F.C.|Huddersfield Town]] and the [[Germany national football team|German national team]]. He made his senior debut for Germany in 2014, and later that year was part of their squad which won the [[2014 FIFA World Cup|World Cup]].
+
+He has also played for [[1. FC Saarbrücken|Saarbrücken]], [[1. FSV Mainz 05|Mainz]] and [[Borussia Dortmund]].
+
+==Club career==
+
+===Early career===
+Durm began his club career in 1998 at the academy of SG Rieschweiler, before joining the academy of [[1. FC Saarbrücken]] in 2008 where he became youth league top scorer of the 2009–2010 season with 13 goals.&lt;ref name="pfaelzischer-merkur.de"&gt;{{cite web | url =http://www.pfaelzischer-merkur.de/sport/art27519,3173713#.UAgfO5HluSp|title = Der Traum von der Karriere als Fußballprofi | trans-title = The dream of a career as a professional football player | publisher = Pfälzischer Merkur | language=German | accessdate = 5 October 2013 | first = Andreas | last = Faas}}&lt;/ref&gt; In July 2010, Durm was enrolled at the academy of [[1. FSV Mainz 05]] and won the 2010–11 Youth Federation Cup in Germany and Durm debuted and played his only game of the 2010–11 season for the second team of 1. FSV Mainz 05 on 4 December 2010 against [[SV Elversberg]] in the German [[Regionalliga]].&lt;ref&gt;{{cite web | url = http://www.weltfussball.de/spielbericht/regionalliga-west-2010-2011-1-fsv-mainz-05-ii-sv-07-elversberg/ | title = 1. FSV Mainz 05 II 1:1 SV 07 Elversberg | language = German | publisher = weltfussball.de | date = 4 December 2010 | accessdate = 5 October 2013}}&lt;/ref&gt;
+
+In the 2011–12 season, Durm succeeded to the second team of 1. FSV Mainz 05 and scored seven goals in [[1. FSV Mainz 05 II]]'s and his first 10 games. Then Durm went on to score two goals in a 1. FSV Mainz 05 II 3–0 away win on matchday 7 against the second team of [[Eintracht Frankfurt]].&lt;ref&gt;{{cite web | url = http://www.kicker.de/news/fussball/regionalliga/startseite/558883/artikel_durm_torjaeger-begeistert-mainz.html | title = Durm: Torjäger begeistert Mainz | trans-title = Durm: Scorer inspires Mainz | language = German | publisher = kicker.de | date = 7 October 2011 | accessdate = 5 October 2013}}&lt;/ref&gt; Following the scoring of nine goals in the first half of the 2011–12 season, Durm scored four goals in the second half of the 2011–12 season and in January 2012, both 1. FSV Mainz 05 and Borussia Dortmund offered Durm a professional contract,&lt;ref&gt;{{cite web | url = http://www.allgemeine-zeitung.de/sport/top-clubs/mainz-05/11546703.htm | title = Mainz 05: Profiangebot für Erik Durm - Regionalliga-Stürmer zögert noch | trans-title = Mainz 05: Professional contract offer for Erik Durm - Regionalliga forward hesitates | language = German | publisher = [[Allgemeine Zeitung (Mainz)|Allgemeine Zeitung]] | date = 9 January 2012 | accessdate = 5 October 2013 | first = Jens | last = Grützner}}&lt;/ref&gt; but Durm declined the offer from 1. FSV Mainz 05 to sign with BVB.&lt;ref&gt;{{cite web | url = http://www.allgemeine-zeitung.de/sport/top-clubs/mainz-05/11604757.htm | title = Rätselraten um Zukunft von Erik Durm: Von Mainz 05 zum BVB - oder auch nicht | trans-title = Guesswork about the future of Erik Durm: from 1. FSV Mainz 05 to Borussia Dortmund - or not | language = German | publisher = [[Allgemeine Zeitung (Mainz)|Allgemeine Zeitung]] | date = 27 January 2012 | accessdate = 5 October 2013 | first = Jens | last = Grützner}}&lt;/ref&gt;
+
+===Borussia Dortmund===
+In the 2012–13 season, Durm signed a contract with [[Borussia Dortmund]] until June 2014 and Durm was inducted into [[Borussia Dortmund II]] competing in the German [[3. Liga|third league]].&lt;ref&gt;{{cite web | url = http://www.bvb.de/?%EF%8C%ECZ%1B%E7%F4%9C%5Ej%E7%82%9A | title = Erik Durm wechselt von Mainz 05 zum BVB | trans-title = Erik Durm moves from  Mainz 05 to BVB | language = German | publisher = Borussia Dortmund | date = 1 February 2012 | accessdate = 5 October 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = http://www.ruhrnachrichten.de/sport/bvb/amateure/art2108,1542360 | title = Erik Durm auf dem Weg zum BVB | trans-title = Erik Durm on the way to BVB | language = German | publisher = RuhrNachrichten.de | date = 30 January 2012 | accessdate = 5 October 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url = http://www.goal.com/de/news/968/transfermarkt/2012/02/01/2879875/borussia-dortmund-u20-nationalspieler-erik-durm-kommt-vom | title = Borussia Dortmund: U20-Nationalspieler Erik Durm kommt vom FSV Mainz 05 | trans-title = Borussia Dortmund: U20 player Erik Durm comes from FSV Mainz 05 | language = German | publisher = goal.com | date = 1 February 2012 | accessdate = 5 October 2013 | first = Claas | last = Philipp}}&lt;/ref&gt; In the [[2012–13 3. Liga|2012–13 3. Liga season]], on 21 July 2012, Durm made his professional football debut in a game for Borussia Dortmund II against [[VfL Osnabrück]].&lt;ref&gt;{{cite web | url = http://www.kicker.de/news/fussball/3liga/spieltag/3-liga/2012-13/1/1443746/spielbericht_vfl-osnabrueck-45_borussia-dortmund-ii-1291.html | title = VfL durch Manno und Zoller mit Auftaktsdreier | trans-title = VfL due to Manno and Zoller with opening three points | language = German | publisher = kicker.de | date = 27 July 2013 | accessdate = 5 October 2013}}&lt;/ref&gt; On 18 May 2013, Durm featured in the 38th and last matchday in a 1–0 away win over the second team of [[VfB Stuttgart]].
+
+In the 2013–14 Bundesliga season, Durm was inducted into Borussia Dortmund's first team and, on 10 August 2013, debuted for BVB in the Bundesliga; coming on in the 87th minute for [[Robert Lewandowski]] as a substitute in BVB's 4–0 win over [[FC Augsburg]].&lt;ref&gt;{{cite web | url = http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2013-14/1/1894565/spielbericht_fc-augsburg-91_borussia-dortmund-17.html | title = Dreierpack: Aubameyangs toller Einstand | trans-title = Triple Pack: Aubameyang's great debut | language = German | publisher = kicker.de | date = 10 August 2013 | accessdate = 5 October 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title= Augsburg : Dortmund 0-4 (0-1) |url=http://www.bundesliga.com/en/stats/matchday/?matchid=145159&amp;season=2013&amp;liga=51&amp;round=1 |publisher = bundesliga.com | date = 10 August 2013 | accessdate = 13 August 2013}}&lt;/ref&gt; Durm debuted in the UEFA Champions League on 1 October 2013 in a 3–0 victory over French club Olympique Marseille.
+
+At the start of the 2014–15 season, Durm came on as a substitute in the [[2014 DFL-Supercup]].&lt;ref name="2014 German Super Cup"&gt;{{cite news|title=Aubameyang köpft BVB zum Supercup-Sieg|url=http://www.kicker.de/d-supercup-fb-1/2014/1/2396815/spielbericht_bayern-muenchen-14_borussia-dortmund-17.html|accessdate=25 August 2014|publisher=kicker|date=11 August 2014|language=German}}&lt;/ref&gt; He scored his first [[Bundesliga]] goal in a 2-0 victory over [[Hertha Berlin]] on 9 May 2015.&lt;ref&gt;{{cite web | url = http://www.goal.com/en/match/borussia-dortmund-vs-hertha-bsc/1713945/report | title = Borussia Dortmund 2-0 Hertha Berlin: Subotic and Durm give hosts vital win | publisher = goal.com | date = 9 May 2015 | accessdate = 9 May 2015}}&lt;/ref&gt;
+
+=== Huddersfield Town ===
+On 13 July 2018, it was announced that Durm had completed a transfer to [[Huddersfield Town A.F.C.|Huddersfield Town]] for an undisclosed fee.&lt;ref&gt;{{Cite news|url=https://www.htafc.com/news/2018/july/transfer-erik-durm-joins-from-dortmund/|title=TRANSFER: ERIK DURM JOINS FROM DORTMUND!|access-date=2018-07-13|language=en-gb}}&lt;/ref&gt; Durm signed a one-year contract, with the club having the option to extend for a further year.&lt;ref&gt;{{Cite news|url=https://www.examiner.co.uk/sport/football/news/huddersfield-town-sign-world-cup-14907526|title=Huddersfield Town sign World Cup winner Erik Durm for undisclosed fee|last=Benson|first=Rory|date=2018-07-13|work=huddersfieldexaminer|access-date=2018-07-13}}&lt;/ref&gt;
+
+==International career==
+[[File:Erik Durm20140714 0009 (cropped).jpg|thumb|upright|Durm celebrating Germany's win at the [[2014 FIFA World Cup Final|2014 World Cup final]].]]
+
+===Youth===
+Durm played in 2011 for both the [[Germany national under-19 football team|German under-19 team]] and the [[Germany national under-20 football team|German under-20 team]]; and he debuted for the under-19 team on 31 May 2011, coached by [[Matan Öz]], in a 3–0 victory against [[Hungary national football team|Hungary]], and scored two goals.&lt;ref&gt;{{cite web|url=https://www.dfb.de/index.php?id=504292&amp;spielid=156&amp;action=schema&amp;teama=Deutschland&amp;teamb=Ungarn |title=Deutschland - Ungarn |trans-title=Germany - Hungary |language=German |publisher=dfb.de |date=31 May 2011 |accessdate=5 October 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131005004714/https://www.dfb.de/index.php?id=504292&amp;spielid=156&amp;action=schema&amp;teama=Deutschland&amp;teamb=Ungarn |archivedate=5 October 2013 |df=dmy }}&lt;/ref&gt; On 12 November 2011, Durm debuted for the German under-20 team against [[Poland national under-20 football team|Poland]].&lt;ref&gt;{{cite web|url=https://www.dfb.de/index.php?id=504295&amp;spielid=86&amp;action=schema&amp;teama=Polen&amp;teamb=Deutschland |title=Polen - Deutschland |trans-title=Poland - Germany |language=German |publisher=dfb.de |date=12 November 2011 |accessdate=5 October 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131004232749/https://www.dfb.de/index.php?id=504295&amp;spielid=86&amp;action=schema&amp;teama=Polen&amp;teamb=Deutschland |archivedate=4 October 2013 |df=dmy }}&lt;/ref&gt; Durm debuted for the [[Germany national under-21 football team|German under-21 team]] on 13 August 2013, in a 0–0 draw against [[France national under-21 football team|France]].
+
+===Senior===
+On 1 June 2014, Durm debuted for the [[Germany national football team|German senior team]] in a 2–2 draw against [[Cameroon national football team|Cameroon]] at the [[Borussia-Park]] in [[Mönchengladbach]]. He played 85 minutes before being substituted for [[Benedikt Höwedes]].&lt;ref&gt;{{cite news|title=Germany 2-2 Cameroon: Hosts pegged back by Choupo-Moting in thrilling climax|url=http://www.goal.com/en/match/germany-vs-cameroon/1630380/report|accessdate=30 April 2015|work=Goal.com|date=1 June 2014}}&lt;/ref&gt; The following day, he was named in Germany's squad for the [[2014 FIFA World Cup]].&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/germany/10810439/Germany-World-Cup-2014-squad.html|title=Germany World Cup 2014 squad|date=2 June 2014|accessdate=22 June 2014|work=The Telegraph}}&lt;/ref&gt; The team won the tournament with Durm as an unused substitute for all of the games.
+
+{{clear}}
+
+==Career statistics==
+
+===Club===
+{{updated|match played on 2 January 2019}}
+
+{| class="wikitable" Style="text-align: center"
+|-
+!rowspan="2"|Club!!rowspan="2"|Season!!colspan="3"|League!!colspan="2"|Cup!!colspan="2"|Continental!!colspan="2"|Other!!colspan="2"|Total!!rowspan="2"|{{Tooltip|Ref.|Reference}}
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[1. FSV Mainz 05 II|Mainz II]]||[[2010–11 Regionalliga|2010–11]]||[[Regionalliga West]]||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0||&lt;ref&gt;{{cite web|title=Erik Durm|url=http://www.kicker.de/news/fussball/bundesliga/vereine/2010-11/67220/vereinsspieler_durm-erik.html|website=kicker.de|publisher=kicker|accessdate=25 August 2014|language=German}}&lt;/ref&gt;
+|-
+|[[2011–12 Regionalliga|2011–12]]||Regionalliga West||32||13||colspan="2"|—||colspan="2"|—||colspan="2"|—||32||13||&lt;ref&gt;{{cite web|title=Erik Durm|url=http://www.kicker.de/news/fussball/bundesliga/vereine/2011-12/67220/vereinsspieler_durm-erik.html|website=kicker.de|publisher=kicker|accessdate=25 August 2014|language=German}}&lt;/ref&gt;
+|-
+!colspan="2"|Totals!!33!!13!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!33!!13!!—
+|-
+|rowspan="4"|[[Borussia Dortmund II]]||[[2012–13 Borussia Dortmund II season|2012–13]]||[[3. Liga]]||28||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||28||2||&lt;ref&gt;{{cite web|title=Erik Durm|url=http://www.kicker.de/news/fussball/bundesliga/vereine/2012-13/67220/vereinsspieler_durm-erik.html|website=kicker.de|publisher=kicker|accessdate=25 August 2014|language=German}}&lt;/ref&gt;
+|-
+|2013–14||3. Liga||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0||&lt;ref name="Erik Durm » Club matches"&gt;{{cite web|title=Erik Durm » Club matches|url=http://www.worldfootball.net/player_summary/erik-durm/2/|publisher=World Football|accessdate=23 May 2016}}&lt;/ref&gt;
+|-
+|2014–15||3. Liga||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0||&lt;ref name="Erik Durm » Club matches"/&gt;
+|-
+!colspan="2"|Totals!!32!!2!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!32!!2!!—
+|-
+|rowspan="7"|[[Borussia Dortmund]]||[[2013–14 Borussia Dortmund season|2013–14]]||[[Bundesliga]]||19||0||3||0||7&lt;ref group=lower-alpha name="UCL"&gt;Appearances in the [[UEFA Champions League]].&lt;/ref&gt;||0||0||0||29||0||&lt;ref name="Erik Durm » Club matches"/&gt;
+|-
+|[[2014–15 Borussia Dortmund season|2014–15]]||Bundesliga||18||1||4||0||5&lt;ref group=lower-alpha name="UCL"/&gt;||0||1&lt;ref group=lower-alpha&gt;Appearance in the [[DFL-Supercup|German Super Cup]].&lt;/ref&gt;||0||28||1||&lt;ref name="Erik Durm » Club matches"/&gt;
+|-
+|[[2015–16 Borussia Dortmund season|2015–16]]||Bundesliga||14||1||3||0||3&lt;ref group=lower-alpha&gt;Appearances in the [[UEFA Europa League]].&lt;/ref&gt;||0||colspan="2"|—||20||1||&lt;ref&gt;{{cite web|title=Erik Durm|url=http://www.kicker.de/news/fussball/bundesliga/vereine/2015-16/67220/vereinsspieler_durm-erik.html|website=kicker.de|publisher=kicker|accessdate=23 May 2016|language=German}}&lt;/ref&gt;
+|-
+|[[2016–17 Borussia Dortmund season|2016–17]]||Bundesliga||13||0||0||0||1&lt;ref group=lower-alpha name="UCL"/&gt;||0||0||0||14||0||&lt;ref&gt;{{cite web |title=Erik Durm |url=http://www.kicker.de/news/fussball/bundesliga/vereine/2016-17/67220/vereinsspieler_durm-erik.html |website=kicker.de |publisher=kicker |accessdate=10 December 2018 |language=German}}&lt;/ref&gt;
+|-
+|[[2017–18 Borussia Dortmund season|2017–18]]||Bundesliga||0||0||0||0||0||0||0||0||0||0||&lt;ref name="E. Durm Soccerway"&gt;{{cite web |title=E. Durm |url=https://int.soccerway.com/players/eric-durm/167009/ |website=Soccerway |publisher=Perform Group |accessdate=10 December 2018}}&lt;/ref&gt;
+|-
+|[[2018–19 Borussia Dortmund season|2018–19]]||Bundesliga||0||0||0||0||0||0||colspan="2"|—||0||0||&lt;ref name="E. Durm Soccerway"/&gt;
+|-
+!colspan="2"|Totals!!64!!2!!10!!0!!16!!0!!1!!0!!91!!2!!—
+|-
+|[[Huddersfield Town A.F.C.|Huddersfield Town]]||[[2018–19 Huddersfield Town A.F.C. season|2018–19]]||[[Premier League]]||16||0||0||0||colspan="2"|—||1&lt;ref group=lower-alpha name="EFL Cup"&gt;Appearances in the [[EFL Cup]].&lt;/ref&gt;||0||17||0||&lt;ref name="Erik Durm » Club matches"/&gt;
+|-
+!colspan="3"|Career totals!!145!!17!!10!!0!!16!!0!!2!!0!!173!!17!!—
+|}
+{{reflist|group=lower-alpha}}
+
+===International===
+{{updated|match played 18 November 2014}}&lt;ref name=eufoot&gt;{{cite web|title=Erik Durm|url=http://eu-football.info/_player.php?id=28691|website=EU-Football.info|accessdate=30 April 2015}}&lt;/ref&gt;
+{| class="wikitable" style="text-align:center"
+|-
+! colspan=5 | [[Germany national football team|Germany national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2014||7||0
+|-
+!Total||7||0
+|}
+
+==Honours==
+
+===Club===
+'''Borussia Dortmund'''
+*[[DFB-Pokal]]: [[2016–17 DFB-Pokal|2016–17]]
+*[[DFL-Supercup]]: [[2013 DFL-Supercup|2013]], [[2014 DFL-Supercup|2014]]
+
+===International===
+'''Germany'''
+*[[FIFA World Cup]]: [[2014 FIFA World Cup|2014]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*{{fussballdaten|durmerik|Erik Durm}}
+*[http://www.kicker.de/news/fussball/bundesliga/vereine/1-bundesliga/2014-15/borussia-dortmund-17/67220/spieler_durm-erik.html Profile] at kicker.de
+
+{{Huddersfield Town A.F.C. squad}}
+{{Germany squad 2014 FIFA World Cup}}
+
+{{DEFAULTSORT:Durm, Erik}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:People from Pirmasens]]
+[[Category:German footballers]]
+[[Category:1. FSV Mainz 05 II players]]
+[[Category:Borussia Dortmund II players]]
+[[Category:Borussia Dortmund players]]
+[[Category:Huddersfield Town A.F.C. players]]
+[[Category:3. Liga players]]
+[[Category:Bundesliga players]]
+[[Category:Germany under-21 international footballers]]
+[[Category:Germany youth international footballers]]
+[[Category:Germany international footballers]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:FIFA World Cup-winning players]]
+[[Category:Association football fullbacks]]
+[[Category:Footballers from Rhineland-Palatinate]]
+[[Category:Premier League players]]</text>
+      <sha1>q64bg6g751xha3bs9ju2ixpacb874cu</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,207 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Antonio Barreca</title>
+    <ns>0</ns>
+    <id>43808675</id>
+    <revision>
+      <id>881513845</id>
+      <parentid>881427233</parentid>
+      <timestamp>2019-02-03T02:26:45Z</timestamp>
+      <contributor>
+        <username>The Original Statto</username>
+        <id>34344132</id>
+      </contributor>
+      <comment>Monaco is NOT part of France. See [[Monaco]] wiki page.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11028">{{Use dmy dates|date=August 2018}}
+{{Infobox football biography
+| name           = Antonio Barreca
+| image          = 
+| caption        = 
+| fullname       = &lt;!--if different--&gt;
+| birth_date     = {{birth date and age|1995|3|18|df=y}}
+| birth_place    = [[Turin]], Italy
+| height         = 1.80m
+| position       = [[Full-back (football)|Full-back]]
+| currentclub    = [[Newcastle United F.C.|Newcastle United]] (on loan from [[AS Monaco FC|Monaco]])
+| clubnumber     = 23
+| youthyears1    = 2002–2014 | youthclubs1 = [[Torino F.C.|Torino]]
+| years1         = 2014–2018 | clubs1 = [[Torino F.C.|Torino]] | caps1 = 37  | goals1 = 0
+| years2         = 2014–2015 | clubs2 = → [[A.S. Cittadella|Cittadella]] (loan) | caps2  = 38 | goals2 = 1
+| years3         = 2015–2016 | clubs3 = → [[Cagliari Calcio|Cagliari]] (loan) | caps3  = 15 | goals3 = 0
+| years4         = 2018–     | clubs4 = [[AS Monaco FC|Monaco]] | caps4  = 9 | goals4 = 0
+| years5         = 2019–     |clubs5 = → [[Newcastle United FC|Newcastle United]] (loan) |caps5  = 1 | goals5 = 0
+| nationalyears1 = 2012–2013 | nationalteam1  = [[Italy national under-18 football team|Italy U18]]
+| nationalcaps1  = 6         | nationalgoals1 = 0
+| nationalyears2 = 2013      | nationalteam2  = [[Italy national under-19 football team|Italy U19]]
+| nationalcaps2  = 4         | nationalgoals2 = 0
+| nationalyears3 = 2014      | nationalteam3  = [[Italy national under-20 football team|Italy U20]]
+| nationalcaps3  = 1         | nationalgoals3 = 0
+| nationalyears4 = 2015–2017     | nationalteam4  = [[Italy national under-21 football team|Italy U21]]
+| nationalcaps4  = 13        | nationalgoals4 = 0
+| medaltemplates = 
+&lt;!-- don't include medal templates unless there is a medal 
+{{MedalSport | Association football }}
+{{MedalCountry | {{ITA}} }}
+--&gt;
+| pcupdate       = 14:34, 2 February 2019 (UTC)
+| ntupdate       = 27 June 2017
+}}
+'''Antonio Barreca''' (born 18 March 1995) is an Italian professional [[Association football|footballer]] who plays for [[Premier League]] club  [[Newcastle United F.C.|Newcastle United]], on loan from [[Ligue 1]] club [[AS Monaco FC|Monaco]].
+
+==Club career==
+
+===Early career===
+Born in [[Turin]] to [[Sicily|Sicilian]] parents, he grew up in the [[Torino F.C.|Torino]] youth, where he played for each youth category up to the ''[[Torino F.C. Primavera|Primavera]]''.&lt;ref&gt;[https://web.archive.org/web/20141216093035/http://toronext.com/2014/09/24/antonio-barreca-qualita-ce-si-vede/]&lt;/ref&gt; In 2013–14, he led the Primavera to the finals of the [[Campionato Nazionale Primavera|Campionato Primavera]], lost on penalties to [[A.C. Chievo Verona|Chievo]].&lt;ref name=youthcareer&gt;{{cite web|title=Antonio Barreca, il Torino ha trovato il terzino del futuro |url=http://www.iltalentocheverra.it/anteprima/antonio-barreca-il-torino-ha-trovato-il-terzino-del-futuro/ |archive-url=https://web.archive.org/web/20140412235910/http://www.iltalentocheverra.it/anteprima/antonio-barreca-il-torino-ha-trovato-il-terzino-del-futuro/ |dead-url=yes |archive-date=12 April 2014 |website=iltalentocheverra.it |accessdate=12 September 2014 |language=Italian }}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Regolamento del Campionato Primavera TIM 2012/2013 – "Trofeo Giacinto Facchetti" |url=http://www.legaseriea.it/c/document_library/get_file?uuid=b1faef1a-c5ce-4c60-bd3c-daed21541321&amp;groupId=10192 |format=PDF |work=legaseriea.it |publisher=[[Lega Serie A|Lega Nazionale Professionisti Serie A]] |date=13 July 2012 |accessdate=29 January 2014 |language=Italian}}&lt;/ref&gt; Coinciding with Torino's injury problems that season he was regularly called up to the first team by [[Giampiero Ventura]].
+
+====Loans to Cittadella and Cagliari====
+In his first season as a professional, Barreca was sent on loan to [[A.S. Cittadella|Cittadella]] in [[Serie B]]. He made his debut in the [[2014–15 Coppa Italia#Third round|third round]] of [[2014–15 Coppa Italia|Coppa Italia]], lost 4–1 to [[U.S. Sassuolo Calcio|Sassuolo]].&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2014/08/21/italy/coppa-italia/us-sassuolo-calcio/as-cittadella/1904847/|title=Sassuolo vs. Cittadella - 21 August 2014 - Soccerway|website=int.soccerway.com}}&lt;/ref&gt; Barreca scored his first goal in [[Serie B]] on 15 November 2014 in a 5–2 away loss to [[Carpi FC 1909|Carpi]].&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2014/11/15/italy/serie-b/carpi-fc-1909/as-cittadella/1882395/|title=Carpi vs. Cittadella - 15 November 2014 - Soccerway|website=int.soccerway.com}}&lt;/ref&gt;
+
+On 17 June 2015, he was loaned to [[Cagliari F.C.|Cagliari]] with a buyout clause and buy back clause in favour of Torino.&lt;ref&gt;{{cite web|url=http://m.tuttomercatoweb.com/serie-a/ufficiale-torino-preso-avelar-dal-cagliari-barreca-in-prestito-in-sardegna-693179 |title=UFFICIALE: Torino, preso Avelar dal Cagliari. Barreca in prestito in Sardegna - TUTTOmercatoWEB.com |website=M.tuttomercatoweb.com |date=17 June 2015 |accessdate=6 July 2017}}&lt;/ref&gt; He made his debut with the ''Sardi'' in the eighth round, away to [[Novara Calcio|Novara]] (1–0). He made 15 appearances for Cagliari, led by [[Massimo Rastelli]], who won the championship and were promoted to Serie A. On 26 June 2016 his contract was redeemed by Torino.&lt;ref&gt;{{cite web|url=http://torinofc.it/news/23/06/2016/barreca-al-toro_11518 |title=Barreca al Toro &amp;#124; TORINO FC 1906 SITO UFFICIALE |language=it |website=Torinofc.it |date= |accessdate=6 July 2017}}&lt;/ref&gt;
+
+===Torino===
+He made his debut for Torino on 13 August 2016, in the [[2016–17 Coppa Italia#Third round|third round]] of the [[2016–17 Coppa Italia|Coppa Italia]], won 4–1 against [[Pro Vercelli]] at the [[Stadio Olimpico Grande Torino]]. On 18 September, at age 21, he made his debut in [[Serie A]], entering as a substitute for [[Christian Molinaro]] in the first half of the match Torino Empoli (0–0). In December 2016 he was awarded the best young player of the year by the USSI (Unione Stampa Sportiva Italiana).&lt;ref&gt;{{cite web|url=http://www.tuttosport.com/news/calcio/serie-a/torino/2016/12/13-18694659/torino_barreca_rivelazione_dellanno_il_premio_dellussi/?cookieAccept |title=Torino, Barreca "rivelazione dell'anno": il premio dell'Ussi |publisher=Tuttosport |date=13 December 2016 |accessdate=6 July 2017}}&lt;/ref&gt;
+
+===Monaco===
+On 10 July 2018, he was sold to [[Ligue 1]] club [[AS Monaco FC|Monaco]].&lt;ref&gt;http://torinofc.it/news/10/07/2018/barreca-allas-monaco-fc_18033&lt;/ref&gt;
+
+====Loan to Newcastle United====
+On 31 January 2019, Barreca joined [[Premier League]] side [[Newcastle United F.C.|Newcastle United]] on loan until the end of the 2018–19 season.&lt;ref&gt;https://www.nufc.co.uk/news/latest-news/antonio-barreca-joins-newcastle-united&lt;/ref&gt;
+
+==International career==
+He represented the [[Italy national under-20 football team|Italy U-20]] team on 6 January 2013 in a match valid for the [[Under-20 Four Nations Tournament]]. ''Gli Azzurrini'' lost 2–1 away to [[Poland national under-20 football team|Poland]].
+
+He made his debut with the [[Italy national under-21 football team|Italy U-21]] squad on 12 August 2015, in a friendly match against [[Hungary national under-21 football team|Hungary]], played in [[Telki]].&lt;ref&gt;{{cite web|url=http://torinofc.it/news/04/08/2015/aramu-e-benassi-nazionale-under-21_9022 |title=Aramu e Benassi in Nazionale Under 21 &amp;#124; TORINO FC 1906 SITO UFFICIALE |language=it |website=Torinofc.it |date= |accessdate=6 July 2017}}&lt;/ref&gt;
+
+In June 2017, he was included in the Italy under-21 squad for the [[2017 UEFA European Under-21 Championship]] by manager [[Luigi Di Biagio]].&lt;ref&gt;{{cite web|url=http://www.football-italia.net/103752/u21-italy-squad-euros-named|title=U21: Italy squad for Euros named|publisher=Football Italia|date=6 June 2017|accessdate=16 June 2017}}&lt;/ref&gt;
+
+==Style of play==
+Barreca mainly covers the role of a left full-back or [[Leftwingback|wing-back]], but is often used with good results as a [[Left winger|winger]]: he has notable speed, [[Cross (football)|crossing]] ability and vision of the game.&lt;ref&gt;{{cite web|url=http://www.calciomercato.com/news/barreca-a-cm-mi-voleva-il-milan-sogno-di-giocare-in-rossonero-co-984806|title=Barreca a CM: 'Mi ha cercato il Milan'|publisher=CalcioMercato.com|language=Italian|author=Federico Ciapparoni|date=19 December 2014|accessdate=20 April 2017}}&lt;/ref&gt;
+
+==Career statistics==
+
+===Club===
+''Updated 6 January 2019''.
+{| class="wikitable" style="text-align: center;"
+|-
+! rowspan="2"|Club
+! rowspan="2"|Season
+! colspan="3"|League
+! colspan="2"|Cup
+! colspan="2"|[[UEFA#Club|Europe]]
+! colspan="2"|Other
+! colspan="2"|Total
+|-
+! Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+||[[Torino F.C.|Torino]]
+| [[2013–14 Torino F.C. season|2013–14]]||[[Serie A]]
+| 0||0||0||0||colspan="2"|–||colspan="2"|–||0||0
+|-
+||[[A.S. Cittadella|Cittadella]] (loan)
+| [[2014–15 Serie B|2014–15]]||[[Serie B]]
+| 38||1||1||0||colspan="2"|–||colspan="2"|–||39||1
+|-
+||[[Cagliari Calcio|Cagliari]] (loan)
+| [[2015–16 Serie B|2015–16]]||[[Serie B]]
+| 15||0||2||0||colspan="2"|–||colspan="2"|–||17||0
+|-
+|rowspan="3"|[[Torino F.C.|Torino]]
+| [[2016–17 Torino F.C. season|2016–17]]||rowspan="2"|[[Serie A]]||28||0||2||0|| colspan="2"|— || colspan="2"|—|||30|| 0
+|-
+| [[2017–18 Torino F.C. season|2017–18]]||9||0||0||0|| colspan="2"|— || colspan="2"|—|||9|| 0
+|-
+! colspan="2" | Total
+! 37 !! 0 !! 2 !! 0 !! 0 !! 0 !! 0 !! 0 !! 39 !! 0
+|-
+|rowspan="1"|[[A.S. Monaco|Monaco]]
+| [[2018–19 Ligue 1|2018–19]]||rowspan="1"|[[Ligue 1]]||7||0||1||0||1||0|| colspan="2"|—|||9||0
+|-
+! colspan="3" | Career total 
+! 97 !! 1 !! 6 !! 0 !! 1 !! 0 !! 0 !! 0 !! 104 !! 1
+|}
+
+==Honours==
+===Club===
+;Cagliari
+*[[Serie B]]: [[2015–16 Serie B|2015–16]]&lt;ref&gt;{{cite web|url=http://www.football-italia.net/84656/serie-b-cagliari-title-livorno-relegated|title=Serie B: Cagliari title, Livorno relegated - Football Italia|website=Football-italia.net|accessdate=6 July 2017}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.tuttocalciatori.net/Barreca_Antonio Tuttocalciatori Profile]
+* {{Soccerway|antonio-barreca/332746}}
+* [http://www.goal.com/en/people/italy/109247/antonio-barreca Goal Profile]
+
+{{Newcastle United F.C. squad}}
+
+{{portal bar|Association football|Italy}}
+
+{{DEFAULTSORT:Barreca, Antonio}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Association football fullbacks]]
+[[Category:Italian footballers]]
+[[Category:Italian expatriates in Monaco]]
+[[Category:Expatriate footballers in Monaco]]
+[[Category:Italy under-21 international footballers]]
+[[Category:Italy youth international footballers]]
+[[Category:People of Sicilian descent]]
+[[Category:Sportspeople from Turin]]
+[[Category:A.S. Cittadella players]]
+[[Category:Cagliari Calcio players]]
+[[Category:Torino F.C. players]]
+[[Category:AS Monaco FC players]]
+[[Category:Newcastle United F.C. players]]
+[[Category:Serie A players]]
+[[Category:Serie B players]]
+[[Category:Ligue 1 players]]</text>
+      <sha1>l9xbhqvuzrqc297x21k9epobq7z7w00</sha1>
+    </revision>
+  </page>
+</mediawiki>

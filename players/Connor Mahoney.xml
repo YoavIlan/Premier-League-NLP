@@ -1,0 +1,227 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Connor Mahoney</title>
+    <ns>0</ns>
+    <id>40448368</id>
+    <revision>
+      <id>885834115</id>
+      <parentid>885388928</parentid>
+      <timestamp>2019-03-02T17:14:48Z</timestamp>
+      <contributor>
+        <username>Struway2</username>
+        <id>4761363</id>
+      </contributor>
+      <comment>infobox and career stats match played 2 March</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21648">{{Use dmy dates|date=May 2016}}
+{{Use British English|date=May 2016}}
+{{Infobox football biography
+| name        = Connor Mahoney
+| image       = 
+| fullname    = Connor Anthony Mahoney&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date  =  {{birth date and age|1997|2|12|df=y}}&lt;ref&gt;{{cite web |url=http://accringtonstanley.co.uk/player/connor-mahoney/ |title=Player profile: Connor Mahoney |publisher=Accrington Stanley F.C |accessdate=17 November 2013}}&lt;/ref&gt;
+| birth_place =  [[Blackburn]], England&lt;ref name="11v11"&gt;{{cite web |url=http://www.11v11.com/players/connor-mahoney-241176/ |title=Connor Mahoney |website=11v11.com |publisher=AFS Enterprises |accessdate=17 November 2013}}&lt;/ref&gt;
+| height      = {{convert|1.75|m|order=flip}}&lt;ref name="11v11"/&gt;
+| position    = [[Midfielder#Winger|Winger]] / [[Forward (association football)#Winger|Forward]]
+| currentclub = [[Birmingham City F.C.|Birmingham City]] &lt;br&gt; (on loan from [[A.F.C. Bournemouth|AFC Bournemouth]])
+| clubnumber  = 7
+| youthyears1 = {{0|000}}
+| youthclubs1 = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+| youthyears2 = {{0|0000}}–2013
+| youthclubs2 = [[Accrington Stanley F.C.|Accrington Stanley]]
+| youthyears3 = 2013–2014
+| youthclubs3 = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+| years1      = 2013   
+| clubs1      = [[Accrington Stanley F.C.|Accrington Stanley]]  
+| caps1       = 4  
+| goals1      = 0
+| years2      = 2013–2017  
+| clubs2      = [[Blackburn Rovers F.C.|Blackburn Rovers]]  
+| caps2       = 16 
+| goals2      = 0
+| years3      = 2017–  
+| clubs3      = [[A.F.C. Bournemouth|AFC Bournemouth]]  
+| caps3       = 0 
+| goals3      = 0
+| years4      = 2018
+| clubs4      = → [[Barnsley F.C.|Barnsley]] (loan)
+| caps4       = 4
+| goals4      = 0
+| years5      = 2018–
+| clubs5      = → [[Birmingham City F.C.|Birmingham City]] (loan)
+| caps5       = 23
+| goals5      = 2
+| nationalyears1 = 2014 
+| nationalteam1= [[England national under-17 football team|England U17]] 
+| nationalcaps1 = 1 
+| nationalgoals1 = 0
+| nationalyears2 = 2014 
+| nationalteam2= [[England national under-18 football team|England U18]] 
+| nationalcaps2 = 1 
+| nationalgoals2 = 0
+| nationalyears3 = 2017
+| nationalteam3 = [[England national under-20 football team|England U20]] 
+| nationalcaps3 = 3
+| nationalgoals3 = 0
+| club-update = 17:14, 2 March 2019 (UTC)
+| nationalteam-update = 
+}}
+'''Connor Anthony Mahoney''' (born 12 February 1997) is an English professional [[Association football|footballer]] who plays as a winger for [[EFL Championship|Championship]] club [[Birmingham City F.C.|Birmingham City]], on [[loan (sports)|loan]] from [[A.F.C. Bournemouth|AFC Bournemouth]] of the [[Premier League]].
+
+==Career==
+Initially starting out at Burnley and Blackburn Rovers,&lt;ref&gt;{{cite news|title=Sky Sports Scout – Connor Mahoney|url=http://www.skysports.com/football/news/15198/9163001/sky-sports-scout-connor-mahoney|publisher=Sky Sports|date=21 May 2014|accessdate=31 August 2017}}&lt;/ref&gt; Mahoney moved to [[Accrington Stanley F.C.|Accrington Stanley]], where he progressed through the academy and began his career there.&lt;ref&gt;{{cite news|title=Accrington Stanley's footballing starlets are attracting attention from talent scouts|url=http://www.lancashiretelegraph.co.uk/sport/10724952.Accrington_Stanley___s_footballing_starlets_are_attracting_attention_from_talent_scouts/|newspaper=The Lancashire Telegraph|date=8 October 2013|accessdate=31 August 2017}}&lt;/ref&gt; He then made his professional debut on 28 August 2013 in a 2–0 [[Football League Cup|League Cup]] defeat against [[Cardiff City F.C.|Cardiff City]].&lt;ref&gt;{{cite news |title=Accrington 0–2 Cardiff|url=https://www.bbc.co.uk/sport/0/football/23776662|publisher=BBC Sport|date=28 August 2013|accessdate=4 September 2013}}&lt;/ref&gt; He then went on to make his league debut coming on as a substitute for [[Shay McCartan]] in the 1–0 home defeat to [[Burton Albion F.C.|Burton Albion]] on 31 August 2013.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/23853447|title=Accrington 0–1 Burton|publisher=BBC Sport|date=31 August 2013|accessdate=13 December 2013}}&lt;/ref&gt; By the time of his departure from Accrington Stanley, Mahoney went on to make 6 appearances.&lt;ref&gt;{{cite news|title=Blackburn Rovers to sign Accrington Stanley star Mahoney|url=http://www.lancashiretelegraph.co.uk/sport/10867795.Blackburn_Rovers_to_sign_Accrington_Stanley_star_Mahoney/|newspaper=The Lancashire Telegraph|date=10 December 2013|accessdate=31 August 2017}}&lt;/ref&gt;
+
+===Blackburn Rovers===
+Mahoney signed for [[Blackburn Rovers F.C.|Blackburn Rovers]] on 13 December 2013 and linked up with their development squad.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football-25366496|title=Blackburn Rovers sign Connor Mahoney from Accrington Stanley|publisher=BBC Sport|date=13 December 2013|accessdate=13 December 2013}}&lt;/ref&gt; He made an immediate impression and was given squad number 31 for the first team. He was an unused substitute in a 2–1 win against [[Leeds United F.C.|Leeds United]] at [[Elland Road]] on 1 January 2014.&lt;ref&gt;
+[https://www.bbc.co.uk/sport/0/football/25512911 "Leeds United 1–2 Blackburn Rovers"] BBC Sport. 1 January 2014. Retrieved 15 January 2014.&lt;/ref&gt;
+
+Mahoney made his competitive debut for Blackburn Rovers on 15 January against [[Manchester City F.C.|Manchester City]] in the [[FA Cup]], replacing [[Lee Williamson]] in the 89th minute of the match.&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/25647870 "Manchester City 5–0 Blackburn Rovers"] BBC Sport. 15 January 2014. Retrieved 15 January 2014.&lt;/ref&gt; On 12 February 2014, he signed his first professional contract with the club.&lt;ref&gt;{{cite web|title=Birthday boy Connor signs pro|url=http://www.rovers.co.uk/news/article/birthday-boy-connor-signs-pro-1359643.aspx|publisher=Blackburn Rovers F.C.|accessdate=16 February 2014|archiveurl=https://web.archive.org/web/20140225213140/http://www.rovers.co.uk/news/article/birthday-boy-connor-signs-pro-1359643.aspx|archivedate=31 August 2017|deadurl=yes}}&lt;/ref&gt; Following this, Mahoney would spend the next two seasons at the club's reserve, where he developed along the way.&lt;ref&gt;{{cite news|title=Who will be the next Blackburn Rovers youngster to break through?|url=http://www.lancashiretelegraph.co.uk/sport/12960494.Who_will_be_the_next_Blackburn_Rovers_youngster_to_break_through_/|newspaper=The Lancashire Telegraph|date=20 May 2015|accessdate=31 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Youngster Connor Mahoney edging back into first-team picture at Blackburn Rovers|url=http://www.lancashiretelegraph.co.uk/sport/13785117.Youngster_Connor_Mahoney_edging_back_into_first_team_picture_at_Blackburn_Rovers/|newspaper=The Lancashire Telegraph|date=26 September 2015|accessdate=31 August 2017}}&lt;/ref&gt;
+
+After making no first team appearances in the 2014–15 season, Mahoney said he's making his way to make a breakthrough in the first team for the 2015–16 season.&lt;ref&gt;{{cite news|title=Blackburn Rovers youngster Connor Mahoney determined to force his way into first team|url=http://www.lancashiretelegraph.co.uk/sport/13800620.Blackburn_Rovers_youngster_Connor_Mahoney_determined_to_force_his_way_into_first_team/|newspaper=The Lancashire Telegraph|date=3 October 2015|accessdate=31 August 2017}}&lt;/ref&gt; Having played in the reserve side throughout the 2015–16 season,&lt;ref&gt;{{cite news|title='He's got a chance' – Paul Lambert reckons Connor Mahoney can become a Blackburn Rovers regular|url=http://www.lancashiretelegraph.co.uk/sport/14440621._He_s_got_a_chance____Paul_Lambert_reckons_Connor_Mahoney_can_become_a_Blackburn_Rovers_regular/|newspaper=The Lancashire Telegraph|date=21 April 2016|accessdate=31 August 2017}}&lt;/ref&gt; Mahoney made his first Blackburn Rovers' appearances in two years, where he started and played 71 minutes before being substituted, in a 1–1 draw against [[Nottingham Forest F.C.|Nottingham Forest]] on 19 April 2016.&lt;ref&gt;{{cite news|title=Nottingham Forest 1 – 1 Blackburn Rovers|url=https://www.bbc.co.uk/sport/football/36021247|publisher=BBC Sport|date=19 April 2016|accessdate=31 August 2017}}&lt;/ref&gt; He also made another appearance, in the follow up match, in a 2–2 draw against [[Bristol City F.C.|Bristol City]].&lt;ref&gt;{{cite news|title=Blackburn Rovers 2 – 2 Bristol City|url=https://www.bbc.co.uk/sport/football/36060767|publisher=BBC Sport|date=23 April 2016|accessdate=31 August 2017}}&lt;/ref&gt; At the end of the 2015–16 season, he made 2 appearances for the side.
+
+In the 2016–17 season, Mahoney continued to remain in the reserve side at the start of the season, although he appeared twice as an unused substitute in late-August.&lt;ref&gt;{{cite news|title=Damien Johnson: Checkatrade Trophy 'perfect stage' for Blackburn Rovers youngsters|url=http://www.lancashiretelegraph.co.uk/sport/14711051.Damien_Johnson__Checkatrade_Trophy__perfect_stage__for_Blackburn_Rovers_youngsters/|newspaper=The Lancashire Telegraph|date=30 August 2016|accessdate=31 August 2017}}&lt;/ref&gt; In late-December, Mahoney began to appear as an unused substitute in a number of games.&lt;ref&gt;{{cite news|title=FUTURE STARS: The ones to watch at Blackburn Rovers in 2017...|url=http://www.lancashiretelegraph.co.uk/sport/15011655.FUTURE_STARS__The_ones_to_watch_at_Blackburn_Rovers_in_2017___/|newspaper=The Lancashire Telegraph|date=10 January 2017|accessdate=31 August 2017}}&lt;/ref&gt; Mahoney remained at the club, despite some loan bids from League One clubs for him.&lt;ref&gt;{{cite news|title=Owen Coyle keen to keep Connor Mahoney in first team picture as Blackburn Rovers turn down loan bids|url=http://www.lancashiretelegraph.co.uk/sport/15023729.Owen_Coyle_keen_to_keep_Connor_Mahoney_in_first_team_picture_as_Blackburn_Rovers_turn_down_loan_bids/|newspaper=The Lancashire Telegraph|date=14 January 2017|accessdate=31 August 2017}}&lt;/ref&gt; He then made his first appearance of the 2016–17 season, coming on as a second-half substitute, in a 1–0 win over [[Queens Park Rangers F.C.|Queens Park Rangers]] on 4 February 2017.&lt;ref&gt;{{cite news|title=Blackburn Rovers 1 – 0 Queens Park Rangers|url=https://www.bbc.co.uk/sport/football/38778703|publisher=BBC Sport|date=4 February 2017|accessdate=31 August 2017}}&lt;/ref&gt; Following this, Mahoney received a handful of first team appearances as Blackburn Rovers fought to survive relegation from the Championship.&lt;ref&gt;{{cite news|title=Owen Coyle keen to secure Connor Mahoney's long-term future at Blackburn Rovers but says talks in the hands of Paul Senior|url=http://www.lancashiretelegraph.co.uk/sport/15085890.Owen_Coyle_keen_to_secure_Connor_Mahoney_s_long_term_future_at_Blackburn_Rovers_but_says_talks_in_the_hands_of_Paul_Senior/|newspaper=The Lancashire Telegraph|date=11 February 2017|accessdate=31 August 2017}}&lt;/ref&gt; Then, he set up an equalising goal for [[Derrick Williams (footballer)|Derrick Williams]], in a 1–1 draw against [[Cardiff City F.C.|Cardiff City]] on 7 March 2017.&lt;ref&gt;{{cite news|title=Blackburn Rovers 1 – 1 Cardiff City|url=https://www.bbc.co.uk/sport/football/39111417|publisher=BBC Sport|date=7 March 2017|accessdate=31 August 2017}}&lt;/ref&gt; In the following match against [[Norwich City F.C.|Norwich City]] four days later, he set up a goal for [[Lucas João]] in a 2–2 draw.&lt;ref&gt;{{cite news|title=Norwich City 2 – 2 Blackburn Rovers|url=https://www.bbc.co.uk/sport/football/39162733|publisher=BBC Sport|date=11 March 2017|accessdate=31 August 2017}}&lt;/ref&gt; On 14 April 2017, in a match against Nottingham Forest, Mahoney also set up a goal for [[Tommie Hoban]], who scored the only goal in the game.&lt;ref&gt;{{cite news|title=Nottingham Forest 0 – 1 Blackburn Rovers|url=https://www.bbc.co.uk/sport/football/39523090|publisher=BBC Sport|date=14 April 2017|accessdate=31 August 2017}}&lt;/ref&gt; By the end of the 2016–17 season, which saw Blackburn Rovers relegated to League One, he had made 21 appearances in all competitions.
+
+===AFC Bournemouth===
+Following Blackburn Rovers' relegation in summer 2017, Mahoney was offered a new contract by the club.&lt;ref&gt;{{cite news|title=Rovers release six first-team players but are looking to secure the future of Connor Mahoney|url=http://www.lancashiretelegraph.co.uk/sport/15295134.Rovers_release_six_first_team_players_but_are_looking_to_secure_the_future_of_Connor_Mahoney/|newspaper=The Lancashire Telegraph|date=19 May 2017|accessdate=31 August 2017}}&lt;/ref&gt; However, he was also linked with moves away from the club, increasingly attracting interests from Nottingham Forest&lt;ref&gt;{{cite news|title=Connor Mahoney: Blackburn's Tony Mowbray expects Nottingham Forest move for winger|url=https://www.bbc.co.uk/sport/football/40290745|publisher=BBC Sport|date=15 June 2017|accessdate=31 August 2017}}&lt;/ref&gt; and [[Celtic F.C.|Celtic]].&lt;ref&gt;{{cite news|title=Rovers raid? Celtic interested in out-of-contract Blackburn Rovers winger Connor Mahoney, according to reports in England|url=https://www.thescottishsun.co.uk/sport/football/1130961/celtic-interest-blackburn-rovers-connor-mahoney-reports/|newspaper=The Scottish Sun|date=15 June 2017|accessdate=31 August 2017}}&lt;/ref&gt; It was reported that Mahoney turned down a contract extension at Blackburn Rovers and was set to leave the club.&lt;ref&gt;{{cite news|title=Connor Mahoney edging closer to Rovers exit|url=http://www.lancashiretelegraph.co.uk/sport/15331547.Connor_Mahoney_edging_closer_to_Rovers_exit/|newspaper=The Lancashire Telegraph|date=7 June 2017|accessdate=31 August 2017}}&lt;/ref&gt; On 4 July 2017 Mahoney made a move to [[Premier League]] club [[A.F.C. Bournemouth|AFC Bournemouth]], signing a four-year contract.&lt;ref&gt;{{cite news|title=Bournemouth sign Connor Mahoney on four-year deal after leaving Blackburn Rovers|url=https://www.bbc.co.uk/sport/football/40495709|publisher=BBC Sport|date=4 July 2017|accessdate=31 August 2017}}&lt;/ref&gt;
+
+After playing in two cup games for the Cherries in 2017, Connor moved to [[Barnsley F.C.|Barnsley]] on loan for the second half of the 2017–18 season.&lt;ref&gt;{{cite web|title=Mahoney completes Barnsley loan move|url=https://www.afcb.co.uk/news/first-team/mahoney-completes-barnsley-loan-move|date=29 January 2018|accessdate=29 January 2018}}&lt;/ref&gt;
+
+On 7 August 2018, Mahoney joined [[EFL Championship|Championship]] club [[Birmingham City F.C.|Birmingham City]] on a season-long loan deal.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45098389 |title=Connor Mahoney: Birmingham City sign Bournemouth winger on loan |publisher=BBC Sport |date=7 August 2018 |accessdate=8 August 2018}}&lt;/ref&gt; He made his debut as a second-half substitute in a 1–0 defeat away to [[Middlesbrough F.C.|Middlesbrough]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45066579 |title=Middlesbrough 1–0 Birmingham City |publisher=BBC Sport |date=11 August 2018 |accessdate=11 August 2018}}&lt;/ref&gt; Having started the match at home to [[Sheffield Wednesday]] on 27 October in place of the injured [[Jacques Maghoma]], Mahoney scored his first career goal just before half-time when he "cut in unchallenged from the left to fire in a right-footed shot past Cameron Dawson into the far roof of the net"; Birmingham went on to win 3–1.&lt;ref name=sb1819/&gt;&lt;ref&gt;{{cite news |url=https://www.skysports.com/football/birmham-vs-sheff-wed/392711 |title=Birmingham 3-1 Sheffield Wednesday: Blues keep up fine run |publisher=Sky Sports |date=27 October 2018 |accessdate=28 October 2018}}&lt;/ref&gt;
+
+==International career==
+In January 2014, he was called up by [[England national under-17 football team|England U17]] for the first time.&lt;ref&gt;{{cite web|title=Connor gets England call|url=http://www.rovers.co.uk/news/article/england-call-for-connor-1306783.aspx|publisher=Blackburn Rovers F.C.|accessdate=21 January 2014|archiveurl=https://web.archive.org/web/20140122052323/http://www.rovers.co.uk/news/article/england-call-for-connor-1306783.aspx|archivedate=31 August 2017|deadurl=yes}}&lt;/ref&gt; Mahoney made his England U17 (and his only appearance for the side) debut, in a 2–1 loss against [[Belgium national under-17 football team|Belgium U17]] on 30 January 2014.&lt;ref&gt;{{cite news|title=ENGLAND U17S SUFFER CRUEL DEFEAT AGAINST BELGIUM|url=http://www.thefa.com/news/2014/jan/30/england-u17s-v-belgium-match-report-300114|publisher=The Football Association|date=30 January 2014|accessdate=31 August 2017}}&lt;/ref&gt;
+
+Eight months later, in September 2014, Mahoney was called up by [[England national under-18 football team|England U18]].&lt;ref&gt;{{cite web|url=https://www.rovers.co.uk/news/2014/september/england-call-for-connor/|title=England call for Connor|publisher=Blackburn Rovers F.C.|date=20 September 2014|accessdate=31 August 2017|archiveurl=https://web.archive.org/web/20170831193534/https://www.rovers.co.uk/news/2014/september/england-call-for-connor/|archivedate=31 August 2017|deadurl=no}}&lt;/ref&gt; Four days later, he made his England U18 debut, in a 2–0 loss against [[Italy national under-18 football team|Italy U18]].&lt;ref&gt;{{cite web|url=https://www.rovers.co.uk/news/2014/september/mahoney-plays-for-england/|title=Mahoney plays for England|publisher=Blackburn Rovers F.C.|date=25 September 2014|accessdate=31 August 2017|archiveurl=https://web.archive.org/web/20170831193522/https://www.rovers.co.uk/news/2014/september/mahoney-plays-for-england/|archivedate=31 August 2017|deadurl=no}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 2 March 2019}}
+
+{| class="wikitable" style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Accrington Stanley F.C.|Accrington Stanley]]
+|[[2013–14 Accrington Stanley F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{Soccerbase season|72094|2013|accessdate=13 December 2013}}&lt;/ref&gt;
+|[[EFL League Two|League Two]]
+|4||0||0||0||1||0||1{{efn|name=FLT|Appearance in [[Football League Trophy]]}}||0||6||0
+|-
+|rowspan=5|[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|[[2013–14 Blackburn Rovers F.C. season|2013–14]]&lt;ref name=sb1314/&gt;
+|[[EFL Championship|Championship]]||0||0||1||0||0||0||colspan=2|—||1||0
+|-
+|[[2014–15 Blackburn Rovers F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{Soccerbase season|72094|2014|accessdate=13 October 2017}}&lt;/ref&gt;
+|Championship||0||0||0||0||0||0||colspan=2|—||0||0
+|-
+|[[2015–16 Blackburn Rovers F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{Soccerbase season|72094|2015|accessdate=13 October 2017}}&lt;/ref&gt;
+|Championship||2||0||0||0||0||0||colspan=2|—||2||0
+|-
+|[[2016–17 Blackburn Rovers F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{Soccerbase season|72094|2016|accessdate=13 October 2017}}&lt;/ref&gt;
+|Championship||14||0||2||0||2||0||colspan=2|—||18||0
+|-
+!colspan=2|Total
+!16||0||3||0||2||0||colspan=2|—||21||0
+|-
+|[[Blackburn Rovers F.C. Under-23s and Academy|Blackburn Rovers U23]]
+|2016–17&lt;ref name=sb1617/&gt;
+|colspan=3|—||colspan=2|—||colspan=2|—||3{{efn|name=EFT|Appearances in [[EFL Trophy]]}}||0||3||0
+|-
+|[[A.F.C. Bournemouth|AFC Bournemouth]]
+|[[2017–18 A.F.C. Bournemouth season|2017–18]]&lt;ref name=sb1718&gt;{{Soccerbase season|72094|2017|accessdate=28 January 2018}}&lt;/ref&gt;
+|[[Premier League]]||0||0||0||0||2||0||colspan=2|—||2||0
+|-
+|[[Barnsley F.C.|Barnsley]] (loan)
+|[[2017–18 Barnsley F.C. season|2017–18]]&lt;ref name=sb1718/&gt;
+|Championship||8||0||0||0||0||0||colspan=2|—||8||0
+|-
+|[[Birmingham City F.C.|Birmingham City]] (loan)
+|[[2018–19 Birmingham City F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|72094|2018|accessdate=2 March 2019}}&lt;/ref&gt;
+|Championship||23||2||1||0||1||0||colspan=2|—||25||2
+|-
+!colspan=3|Career total
+!51||2||4||0||6||0||4||0||66||2
+|}
+
+{{notelist}}
+
+==Personal life==
+Born in [[Blackburn]], England, Mahoney attended [[Witton Park High School]].&lt;ref&gt;{{cite news|title=Blackburn's Witton Park honours its students for best ever GCSEs|url=http://www.lancashiretelegraph.co.uk/news/10830517.Blackburn_s_Witton_Park_honours_its_students_for_best_ever_GCSEs/|newspaper=The Lancashire Telegraph|date=28 November 2013|accessdate=31 August 2017}}&lt;/ref&gt; Mahoney grew up supporting Blackburn Rovers.&lt;ref&gt;{{cite news|title=Accrington Stanley boss couldn't block Mahoney's Blackburn Rovers move|url=http://www.lancashiretelegraph.co.uk/sport/10875865.Accrington_Stanley_boss_couldn_t_block_Mahoney_s_Blackburn_Rovers_move/|newspaper=The Lancashire Telegraph|date=13 December 2013|accessdate=31 August 2017}}&lt;/ref&gt; His brother Dom is also a footballer.&lt;ref&gt;{{cite news|title=Family ties at Nelson|url=http://www.lancashiretelegraph.co.uk/sport/11251970.Family_ties_at_Nelson/|newspaper=The Lancashire Telegraph|date=3 June 2014|accessdate=31 August 2017}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerbase}}
+*[http://www.thefa.com/england/all-teams/players/m/connor-mahoney England profile] at The Football Association website
+
+{{Birmingham City F.C. squad}}
+
+{{DEFAULTSORT:Mahoney, Connor}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Blackburn]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:Association football midfielders]]
+[[Category:Association football forwards]]
+[[Category:Accrington Stanley F.C. players]]
+[[Category:Blackburn Rovers F.C. players]]
+[[Category:A.F.C. Bournemouth players]]
+[[Category:Birmingham City F.C. players]]
+[[Category:English Football League players]]</text>
+      <sha1>4cpjirjozo6rtrql79hs0nmfgkoeke6</sha1>
+    </revision>
+  </page>
+</mediawiki>

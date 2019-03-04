@@ -1,0 +1,525 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Wolverhampton Wanderers F.C.</title>
+    <ns>0</ns>
+    <id>217730</id>
+    <revision>
+      <id>885966095</id>
+      <parentid>885956467</parentid>
+      <timestamp>2019-03-03T13:42:17Z</timestamp>
+      <contributor>
+        <username>GN-z11</username>
+        <id>31851582</id>
+      </contributor>
+      <minor/>
+      <comment>no capitalisation needed</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="85277">{{EngvarB|date=November 2015}}
+{{Use dmy dates|date=November 2015}}
+{{Infobox football club
+| clubname    = Wolverhampton Wanderers
+| current     = 2018–19 Wolverhampton Wanderers F.C. season
+| image       = Wolverhampton Wanderers.svg
+| image_size  = 200px
+| fullname    = Wolverhampton Wanderers Football Club
+| nickname    = Wolves, The Wanderers
+| founded     = {{Start date and age|df=yes|1877}}, as ''St Luke's F.C.''
+| ground      = [[Molineux Stadium]]
+| capacity    = 32,050 &lt;ref&gt;{{cite web|url=https://www.premierleague.com/publications |title=Premier League Handbook 2018–19 |publisher=Premier League |date=30 July 2018 |accessdate=3 January 2019}}&lt;/ref&gt;
+| owner       = [[Fosun International]]
+| manager     = [[Nuno Espírito Santo]]
+| mgrtitle    = Head coach
+| chrtitle    = Chairman
+| chairman    = Jeff Shi
+| league      = {{English football updater|WolverhW}}
+| season      = {{English football updater|WolverhW2}}
+| position    = {{English football updater|WolverhW3}}
+| website     = http://www.wolves.co.uk/
+| pattern_la1 = _blackborder
+| pattern_b1  = _wwfc1819h
+| pattern_ra1 = _blackborder
+| pattern_sh1 = _wwfc1819h
+| pattern_so1 = _wwfc1819h
+| leftarm1    = FDBC02
+| body1       = FDBC02
+| rightarm1   = FDBC02
+| shorts1     = 000000
+| socks1      = FDBC02
+| pattern_la2       = _wal18a
+| pattern_b2        = _egy18A
+| pattern_ra2       = _wal18a
+| pattern_sh2       = _adidasonwhite
+| pattern_so2       = _3 stripes black
+| leftarm2          = FFFFFF
+| body2             = FFFFFF
+| rightarm2         = FFFFFF
+| shorts2           = 000000
+| socks2            = FFFFFF
+| pattern_la3 =
+| pattern_b3  =
+| pattern_ra3 =
+| pattern_sh3 =
+| pattern_so3 =
+| leftarm3    =
+| body3       =
+| rightarm3   =
+| shorts3     =
+| socks3      =
+}}
+'''Wolverhampton Wanderers Football Club''' {{IPAc-en|audio=en-uk-Wolverhampton.ogg|ˌ|w|ʊ|l|v|ər|ˈ|h|æ|m|p|t|ən}}, commonly known as '''Wolves''', is a professional [[association football|football]] club in [[Wolverhampton]], [[West Midlands (county)|West Midlands]], England. Formed as St Luke's F.C. in 1877, they have played at [[Molineux Stadium]] since 1889 and compete in the [[Premier League]], the top tier of English football, after winning the [[2017–18 EFL Championship]].
+
+Wolves were one of the founding members of the [[English Football League|Football League]] in [[1888–89 Football League|1888]]. The club spent 33 years in the top flight from 1932 to 1965, their longest continuous period at that level. In the 1950s, they were [[List of English football champions|League champions]] three times ([[1953–54 Football League|1953–54]], [[1957–58 Football League|1957–58]] and [[1958–59 Football League|1958–59]]), under the management of [[Stan Cullis]]. Wolves also finished League runners-up on five occasions, most recently in [[1959–60 Football League|1959–60]].
+
+Wolves have won the [[FA Cup]] four times, most recently in [[1960 FA Cup Final|1960]], and finished runners-up on a further four occasions. The club has also won the [[EFL Cup|Football League Cup]] twice, in [[1974 Football League Cup Final|1974]] and [[1980 Football League Cup Final|1980]].
+
+In 1953, Wolves was one of the first British clubs to install [[floodlight]]s,&lt;ref&gt;{{cite web |url=http://www.footballsite.co.uk/Statistics/Articles/DidYouKnow26.htm|title=Floodlights|publisher=footballsite.co.uk |accessdate=7 October 2018}}&lt;/ref&gt; taking part in televised "floodlit friendlies" against leading overseas club sides between 1953 and 1956 before the creation of the [[UEFA Champions League|European Cup]] in 1955.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2014/dec/13/wolves-world-champions-honved-molineux-hungary-wembley|title=The night Wolves became 'champions of the world' against Honved|work=[[The Observer]]|date=13 September 2014|first=Nick|last=Miller|accessdate=7 October 2018}}&lt;/ref&gt; Wolves reached the quarter-finals of the [[1959–60 European Cup]] and the semi-finals of the [[1960–61 European Cup Winners' Cup]], and were runners-up to [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in the inaugural [[1972 UEFA Cup Final]].
+
+Wolves' traditional strip consists of gold shirts and black shorts and the club badge one or more [[Wolf|wolves]]. Wolves have long-standing rivalries with other West Midlands clubs, the main one being with [[West Bromwich Albion F.C.|West Bromwich Albion]], against whom they contest the [[Black Country derby]], although the two clubs have not met in a League fixture since [[2011–12 Premier League|2011–12]], the last season they competed in the same division.
+
+==History==
+{{Main article|History of Wolverhampton Wanderers F.C.}}
+{{about||a statistical breakdown by season|List of Wolverhampton Wanderers F.C. seasons}}
+In the 2000 edition of "The Rough Guide to English Football", the history section on the Wolves page begins: "The very name Wolves thunders from the pages of English football history".&lt;ref name="Rough"&gt;Goldstein, Dan (editor). The Rough Guide to English Football (2000), page 582. Rough Guides Ltd.&lt;/ref&gt; As with several other clubs, [[Everton F.C.|Everton]] for example, Wolves had humble beginnings shaped by the twin influences of [[cricket]] and the [[Christian Church|church]]. The club was founded in 1877 as '''St Luke's F.C.''' by John Baynton and [[John Brodie (footballer born 1862)|John Brodie]], two pupils of St Luke's Church School in [[Blakenhall]], who had been presented with a football by their headmaster Harry Barcroft.&lt;ref name="Matthews"&gt;{{cite book |author=Matthews, Tony |title=Wolverhampton Wanderers: The Complete Record |year=2008 |publisher=Breedon Books |location=Derby |isbn=978-1-85983-632-3}}&lt;/ref&gt; The team played its first-ever game on 13 January 1877 against a reserve side from [[Stafford Road F.C.|Stafford Road]], later merging with the football section of a local cricket club called Blakenhall Wanderers to form '''Wolverhampton Wanderers''' in August 1879.&lt;ref name="Rough"/&gt;&lt;ref name="Matthews"/&gt; Having initially played on two different strips of land in the town, they relocated to a more substantial venue on [[Dudley Road]] in 1881, before lifting their first trophy in 1884 when they won the Wrekin Cup, during a season in which they played their first-ever [[FA Cup]] tie.&lt;ref name="Matthews"/&gt; Having become professional, the club were nominated to become one of the twelve founder members of the [[Football League]] in 1888,&lt;ref&gt;{{cite web |title=The Father of The Football League |publisher=[[The Football League]] |url=http://www.football-league.co.uk/footballleaguenews/20130227/the-father-of-the-football-league_2293334_3091039 |date=27 February 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130302121558/http://www.football-league.co.uk/footballleaguenews/20130227/the-father-of-the-football-league_2293334_3091039 |archivedate=2 March 2013 |df=dmy-all}}&lt;/ref&gt; in which they played the first Football League match ever staged (against [[Aston Villa F.C.|Aston Villa]]).&lt;ref name="FL History"&gt;{{cite web |url=http://www.football-league.co.uk/page/History/HistoryDetail/0,,10794~1357277,00.html |title=History of the Football League |publisher=[[The Football League]] |date=22 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110501121005/http://www.football-league.co.uk/page/History/HistoryDetail/0%2C%2C10794~1357277%2C00.html |archivedate=1 May 2011 |df=dmy-all}}&lt;/ref&gt; They ended the inaugural season in third place, as well as reaching their [[1889 FA Cup Final|first FA Cup Final]], losing 0–3 to the first [[Double (association football)#England|"Double"]] winners, [[Preston North End F.C.|Preston North End]]. At the conclusion of the campaign the club relocated for a final time when they moved to [[Molineux Stadium|Molineux]], then a pleasure park known as the Molineux Grounds.&lt;ref name="Matthews"/&gt;
+
+[[File:Wolverhampton wanderers 1893.jpg|thumb|right|250px|Wolves' 1893 FA Cup-winning team]]
+Wolves lifted the [[FA Cup]] for the first time in [[1893 FA Cup Final|1893]] when they beat [[Everton F.C.|Everton]] 1–0, and made a third [[1896 FA Cup Final|FA Cup Final appearance in 1896]]. The club added a second FA Cup Final triumph (a 3–1 win against [[Newcastle United]]) to their 1893 success in [[1908 FA Cup Final|1908]], two years after having dropped into the [[Football League Second Division|Second Division]] for the first time. After struggling during the years either side of the First World War to regain their place in the top division (a period that was punctuated by another [[1921 FA Cup Final|FA Cup Final appearance in 1921]]), the club suffered a [[1922–23 Football League#Second Division|further relegation in 1923]], entering the [[Football League Third Division North|Third Division (North)]], which they [[1923–24 Football League#Third Division North|won at the first attempt]]. Eight years after returning to the Second Division, Wolves regained their top-flight status as [[1931-32 Football League Second Division|Second Division Champions]] under [[Frank Buckley (footballer)|Major Frank Buckley]] after twenty-six years away. With Buckley at the helm the team became established as one of the leading club sides in England in the years leading up to the Second World War, as they finished runners-up in the league twice in succession ([[1937–38 Football League#First Division|1937–38]] &amp; [[1938–39 Football League#First Division|1938–39]]), as well as reaching the [[1939 FA Cup Final|last pre-war FA Cup Final]], in which they suffered a shock defeat to [[Portsmouth F.C.|Portsmouth]].&lt;ref&gt;{{cite news |title=The Cup Final: Today's prospects at Wembley| newspaper=The Times |location=London |date=29 April 1939|page=4}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://espnfc.com/columns/story?id=786336&amp;sec=englandopinion&amp;root=englandopinion&amp;cc=5739#|title=FA Cup final upsets|date=14 May 2010|publisher=[[ESPN]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.telegraph.co.uk/sport/football/teams/stoke-city/8509939/FA-Cup-Final-2011-Seven-Wembley-upsets-to-give-Stoke-City-hope-as-they-start-underdogs-against-Manchester-City.html |title=Seven Wembley upsets to give Stoke City hope as they start underdogs against Manchester City |date=12 May 2011|publisher=[[Daily Telegraph]]}}&lt;/ref&gt; In [[1937–38 Football League#First Division|1937–38]] Wolves came within a whisker of winning the club's first English league title: a win in the side's last game away to [[Sunderland F.C.|Sunderland]] would have clinched things, but in the event Wolves lost 0–1 and thus ended the campaign one point behind the eventual champions, [[Arsenal F.C.|Arsenal]].&lt;ref&gt;Matthews, Tony (1994). ''Wolves, The Complete Record'', page 31. Breedon Books Publishing Company. {{ISBN|1859830005}}.&lt;/ref&gt; One of the things Major Buckley and his Wolves side attracted a lot of attention for in the last two full seasons prior to the outbreak of the Second World War was Buckley's insistence that his players be injected with monkey gland extract to enhance their stamina and performance, a practice that the Football League elected not to sanction.&lt;ref&gt;{{cite web |url=https://www.theblizzard.co.uk/article/monkey-glands |title= Monkey Glands&amp;nbsp;– Major Frank Buckley took Wolves to 1930s prominence with dubious injections |date=1 December 2017|publisher=www.theblizzard.co.uk}}&lt;/ref&gt;
+
+When league football resumed after the Second World War, Wolves suffered yet another final day failure in the First Division. Just as in 1938, victory in their last match would have won the title but a 2–1 loss to title rivals [[Liverpool F.C.|Liverpool]] gave the championship to the Merseysiders instead.&lt;ref&gt;{{cite web |url=http://www.lfchistory.net/Articles/Article/2464|title=Billy wins his only League title in 1947|publisher=LFChistory.net}}&lt;/ref&gt; This game had been the last in a Wolves shirt for [[Stan Cullis]], and a year later he became manager of the club. In Cullis's first season in charge, he led Wolves to a first major honour in 41 years as they beat [[Leicester City F.C.|Leicester City]] to lift the [[1949 FA Cup Final|FA Cup]], and a year later, [[1949–50 Football League#First Division|only goal average prevented Wolves winning the league title]].
+
+The 1950s were by far the most successful period in the club's history.&lt;ref name="Cullis"&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/1193951.stm |title=Wolves legend Cullis dies |publisher=BBC Sport |date=28 February 2001}}&lt;/ref&gt; Captained by [[Billy Wright (footballer born 1924)|Billy Wright]], Wolves finally claimed the league championship for the first time in [[1953–54 Football League#First Division|1953–54]], overhauling [[Black Country derby|local rivals]] [[West Bromwich Albion F.C.|West Bromwich Albion]] late in the season. Two further titles were soon won in successive years ([[1957–58 Football League#First Division|1957–58]] and [[1958–59 Football League#First Division|1958–59]]), as Wolves vied with [[Manchester United]] to be acknowledged the premier team in English football at that juncture. Wolves were renowned both for the club's domestic success and for the staging of high-profile "floodlit friendlies" against other top club sides from around the world.&lt;ref name="European"&gt;{{cite book |author=Shipley, John |title=Wolves Against the World |year=2003 |publisher=The History Press |location=Stroud |isbn=0-7524-2947-7}}&lt;/ref&gt; Wolves had become one of the first club sides in Britain to invest in floodlighting in 1953 at a cost of £10,000&lt;ref&gt;{{cite web  |url=https://www.birminghammail.co.uk/sport/football/football-news/wolves-61-years-ago-today-8280713 |title=When Wolverhampton Wanderers invented European football |publisher=[[Birmingham Mail]] |date=13 December 2017}}&lt;/ref&gt; (£274,000 at 2018 prices&lt;ref&gt;{{cite web |url= http://inflation.iamkate.com/ |title=Historical UK inflation rates and calculator|access-date=8 September 2018}}&lt;/ref&gt;). Perhaps [[Wolverhampton Wanderers F.C. v Budapest Honvéd FC|the most famed of these friendlies]] saw Wolves defeat a [[Budapest Honvéd FC|Honvéd]] side including many members of the [[Hungary national football team|Hungarian national team]] that had recently humbled [[England national football team|England]] twice, leading the national media to proclaim Wolves "Champions of the World".&lt;ref name="UEFA"&gt;{{cite web |url=http://www.uefa.com/news/newsid=419682.html |title=Hats off to Hanot |date=12 May 2006 |publisher=[[UEFA]]}}&lt;/ref&gt; This became the final spur for [[Gabriel Hanot]], the editor of ''[[L'Équipe]]'', to propose [[European Cup and UEFA Champions League history|the creation of the European Cup]] (later rebranded as the [[UEFA Champions League]]). Wolves was one of the first British clubs to participate.&lt;ref name="UEFA"/&gt; In the 1957–58 season, Wolves defeated [[Real Madrid]] 5–4 (3–2 in Wolverhampton and 2–2 in Madrid) in home and away friendlies.&lt;ref&gt;{{cite web |url=https://origin.expressandstar.mna.arcpublishing.com/sport/football/wolverhampton-wanderers-fc/2016/02/16/classic-match-report-wolves-3-real-madrid-2-1957-2/ |title=Classic match report&amp;nbsp;– Wolves 3 Real Madrid 2, 1957 |publisher=Express and Star |date=16 February 2016}}&lt;/ref&gt;
+
+[[File:Wolverhampton Wanderers FC League Performance.svg|thumb|right|250px|Chart of yearly performance of Wolves in the [[English football league system|English Football League]] system.]]
+The 1960s began with [[1960 FA Cup Final|a fourth FA Cup victory]] and Wolves almost achieved the [[Double (association football)|first League and FA Cup 'double' of the 20th century]] in English football. They were pipped to the league title by a point on the final day of the season by [[Burnley F.C.|Burnley]]. Despite that bright start to the decade, the 1960s saw Wolves begin to decline. After finishing as [[1959-60 Football League#First Division|league runners-up in 1959–60]] and a creditable third-place league finish in [[Tottenham Hotspur]]'s [[1960-61 Football League#First Division|'double'-winning season]], the team faded and Cullis himself was sacked after sixteen years in post in September 1964 after a disastrous start to the [[1964-65 Football League First Division|1964–65 season]].&lt;ref name="Cullis"/&gt; Cullis's sacking did not prevent the season ending with relegation and the club's first spell outside the top division in more than 30 years. This lasted only two seasons as Wolves were [[1966–67 Football League#Second Division|promoted in 1967]] as Second Division runners-up.
+
+During the close season in 1967, Wolves played a mini-season in North America as part of the fledgling [[United Soccer Association|United Soccer Association league]] which imported clubs from Europe and South America. Playing as the "[[Los Angeles Wolves]]", they won the Western Division and ultimately the championship by defeating the Eastern Division champions [[Washington Whips]] in a final decider.&lt;ref&gt;{{cite web |url=http://www.wolvesheroes.com/2009/05/04/usa-1967/ |title=USA, 1967: Life in the Fast Lane|date=4 May 2009|publisher=Wolves Heroes}}&lt;/ref&gt;
+
+The club's return to the English top flight in 1967 heralded another period of relative success under [[Bill McGarry]], with [[1970–71 Football League#First Division|a fourth place league finish in 1971]] qualifying Wolves for the newly created [[UEFA Europa League|UEFA Cup]]. En route to [[1972 UEFA Cup Final|the UEFA Cup final]], they defeated [[Juventus F.C.|Juventus]] and [[Ferencvárosi TC|Ferencváros]] before losing to [[Tottenham Hotspur F.C.|Tottenham Hotspur]] 3–2 on aggregate; a 2–1 home defeat in the first leg proving decisive. Wolves lifted silverware two years later when they won the [[EFL Cup|League Cup]] for the first time by beating [[Manchester City F.C.|Manchester City]] 2–1 [[1974 Football League Cup Final|in the final]]. Despite [[1975–76 Football League#First Division|relegation again in 1976]], Wolves bounced back at the first attempt as [[1976–77 Football League#Second Division|Second Division champions]] under manager [[Sammy Chung]], and then under manager [[John Barnwell]], the turn of the decade saw them [[1979–80 Football League#First Division|finish in the top six in the league]] and win the [[1980 Football League Cup Final|1980 League Cup]], when then-record signing [[Andy Gray (footballer born 1955)|Andy Gray]] scored the only goal of the final to defeat the reigning European champions and League Cup holders [[Nottingham Forest F.C.|Nottingham Forest]].
+
+The multi-million pound rebuilding of the Molineux Street Stand in 1979 was to be the catalyst for the club's near-financial ruin during the next decade as difficulties in repaying the loans taken out to fund it led to receivership and relegation in 1982. The club was "saved" from liquidation at the last minute when it was purchased by a consortium fronted by former player [[Derek Dougan]].&lt;ref name="1982 deal"&gt;{{cite news |title=Wolves are saved by last-minute deal| newspaper=The Times |location=London |date=31 July 1982|page=17}}&lt;/ref&gt; Initially this takeover, financed by two Saudi brothers, Mahmud and Mohammad Bhatti of the company Allied Properties,&lt;ref&gt;{{cite news |title=Wolves 'will have to pay own way'| newspaper=The Times |location=London |date=9 August 1982|page=15}}&lt;/ref&gt; brought immediate [[1982–83 Football League#Second Division|promotion back to the First Division]] under manager [[Graham Hawkins]], but the Bhattis' failure to invest sufficiently in the club soon saw things unravel as the team suffered three consecutive relegations through the football divisions under different managers,&lt;ref name="Crisis3"&gt;{{cite news |title=Wolves: What's gone wrong at Molineux?|url=https://www.bbc.co.uk/sport/0/football/21589401 |publisher=BBC Sport|date=1 March 2013}}&lt;/ref&gt; as well as the almost-constant threat of the club being wound-up.&lt;ref name="Crisis1"&gt;{{cite news |title=Wolves in new crisis| newspaper=The Times |location=London |date=6 December 1982|page=23}}&lt;/ref&gt;&lt;ref name="Crisis2"&gt;{{cite news |title=Wolves try to suspend winding-up order| newspaper=The Times |location=London |date=30 July 1985|page=25}}&lt;/ref&gt;
+
+In 1986, with the club again in [[receivership]], a deal saw [[Wolverhampton City Council]] purchase the stadium and surrounding land, while a local developer paid off the club's outstanding debts in return for planning permission to develop the land adjacent to the stadium.&lt;ref name="1986 deal"&gt;{{cite news |title=Wolves in the clear| newspaper=The Times |location=London |date=6 August 1986|page=32}}&lt;/ref&gt; The 1986–87 season saw Wolves' first-ever campaign in the Fourth Division, where, with the guidance of new manager [[Graham Turner]] and the goals of [[Steve Bull]], who would ultimately score a club record 306 goals,&lt;ref&gt;{{cite news |url=http://www.wolves.co.uk/news/article/hof-steve-bull-2009-421293.aspx?pageView=full |title=Steve Bull |date=16 January 2009 |publisher=Wolverhampton Wanderers F.C |deadurl=yes |archiveurl=https://web.archive.org/web/20160304054807/http://www.wolves.co.uk/news/article/hof-steve-bull-2009-421293.aspx?pageView=full |archivedate=4 March 2016 |df=dmy-all}}&lt;/ref&gt; the team reached [[1987 Football League Fourth Division play-off Final|the final of the inaugural play-offs]] but were denied promotion by [[Aldershot F.C.|Aldershot]]. Building on that, the team achieved both the [[1987–88 Football League#Fourth Division|Fourth]] and [[1988–89 Football League#Third Division|Third Division]] championships in the next two seasons and won the [[1988 Football League Trophy Final]] at [[Wembley Stadium (1923)|Wembley]].
+
+[[File:Wolves Football League Championship 2008–09 030509.jpg|left|thumb|180px|Celebrating the Championship title in 2009.]]
+Lifelong fan [[Jack Hayward]] purchased the club in 1990 and immediately funded the extensive redevelopment of dilapidated Molineux into a modern all-seater stadium.&lt;ref name="1990 deal"&gt;{{cite news |title=Hayward pledge to restore the greatness of Wolves| newspaper=The Times |location=London |date=11 May 1990|page=43}}&lt;/ref&gt; With work completed in 1993, Hayward redirected his investment onto the playing side in an attempt to win promotion to the newly formed [[Premier League]]. Despite substantial spending, neither [[Graham Taylor (footballer)|Graham Taylor]] nor [[Mark McGhee]] could fulfil this, both managers leading the team to play-off defeats at the semi-final stages in [[1995 Football League play-offs#First Division|1995]] and [[1997 Football League play-offs#First Division|1997]] respectively. It was not until 2003 that Wolves were promoted, when they defeated [[Sheffield United F.C.|Sheffield United]] 3–0 in [[2003 Football League First Division play-off Final|the play-off final]] under [[Dave Jones (footballer born 1956)|Dave Jones]] to end a 19-year absence from the top level.&lt;ref name="2003 promotion"&gt;{{cite web |url=http://news.bbc.co.uk/sport1/hi/football/teams/w/wolverhampton_wanderers/2938952.stm |title=Hayward's dream come true |date=27 May 2003 |publisher=[[BBC Sport]]}}&lt;/ref&gt; Their stay proved short-lived as they were immediately relegated back to the newly retitled [[EFL Championship]].
+
+After former England manager [[Glenn Hoddle]] failed to bring a swift return, the rebuilding of the squad by [[Mick McCarthy]] rejuvenated the club with an unexpected [[2007 Football League play-offs#Championship|play-off finish]].&lt;ref&gt;{{cite news |url=http://www.bbc.co.uk/dna/606/A20554229|title="Merlin" casts magical Molineux spell|date=8 March 2007 |publisher=BBC Sport}}&lt;/ref&gt; The club was bought by [[Steve Morgan (businessman)|Steve Morgan]] in 2007&lt;ref name="2007 deal"&gt;{{cite news |title=Morgan buys Wolves|url=http://www.dailymail.co.uk/sport/football/article-456671/Morgan-buys-Wolves.html |publisher=Daily Mail|date=21 May 2007}}&lt;/ref&gt; and two years later the team returned to the Premier League as [[2008–09 Football League Championship]] title winners.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/7990074.stm |title=Wolves 1–0 QPR|date=18 April 2009 |publisher=BBC Sport}}&lt;/ref&gt; Wolves successfully battled relegation for two seasons before McCarthy's dismissal in the 2011–12 season,&lt;ref name="BBC 17012933"&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/17012933 |title=Wolves sack manager Mick McCarthy |publisher=[[BBC Sport]] |date=13 February 2012}}&lt;/ref&gt; which precipitated relegation under his assistant [[Terry Connor]].&lt;ref name="Connor"&gt;{{cite news|title=Connor appointed to end of season|url=https://www.bbc.co.uk/sport/0/football/17153404|publisher=BBC Sport|date=24 February 2012}}&lt;/ref&gt; Following relegation, Norwegian [[Ståle Solbakken]] became the club's first overseas manager&lt;ref name="Solbakken"&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/18030227 |title=Wolves appoint Norwegian Stale Solbakken as new manager |date=11 May 2012|publisher=[[BBC Sport]]}}&lt;/ref&gt; but his tenure lasted only six months before a poor run of results saw him replaced by [[Dean Saunders]] in January 2013.&lt;ref name="Solbakken sacked"&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/20870241 |title=Wolves sack manager Stale Solbakken after FA Cup exit|date=5 January 2013 |publisher=BBC Sport}}&lt;/ref&gt;&lt;ref name="Saunders"&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/20931554 |title=Dean Saunders: Wolves appoint Doncaster Rovers boss |date=7 January 2013 |publisher=[[BBC Sport]]}}&lt;/ref&gt; Saunders failed to bring any upturn, culminating in both the club's relegation to [[EFL League One]] and his own dismissal.&lt;ref name="Saunders sacked"&gt;{{cite news |title=Dean Saunders sacked after relegation to League One |url=https://www.bbc.co.uk/sport/0/football/22432597 |publisher=[[BBC Sport]] |date=7 May 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Wolves chairman Steve Morgan says club have failed their city|url=https://www.bbc.co.uk/sport/0/football/22415309|publisher=BBC Sport|date=4 May 2013}}&lt;/ref&gt; Following this, [[Kenny Jackett]] was appointed in May 2013 in the retitled position of head coach,&lt;ref name="Jackett"&gt;{{cite news|title=Kenny Jackett: Wolves name ex-Millwall boss as head coach|url=https://www.bbc.co.uk/sport/0/football/22731377|publisher=BBC Sport|date=31 May 2013}}&lt;/ref&gt; and led the team back to the EFL Championship in his first season, setting a new club record points total of 103 which is also an all-time record for the most points accumulated by any team during a Tier 3 season.
+
+On 21 July 2016, it was confirmed that the Chinese investment group [[Fosun International]] had bought the club's parent company, W.W. (1990) Ltd, from [[Steve Morgan (businessman)|Steve Morgan]] and his own company Bridgemere Group, for an undisclosed amount, with [[Jez Moxey]] stepping down from his role as a CEO (he was replaced by [[managing director]] Laurie Dalrymple).&lt;ref name="Fosun Group Takes Over"&gt;{{cite news |title=Fosun Group Takes Over Wolves |url=http://www.wolves.co.uk/news/article/2016-17/news-fosun-group-takes-over-wolves-3198807.aspx |publisher=Wolverhampton Wanderers |date=21 July 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Wolves bought by Chinese conglomerate Fosun International for £45m |url=https://www.bbc.co.uk/sport/football/36852323 |publisher=BBC Sport |date=21 July 2016}}&lt;/ref&gt; Days later, the new regime announced that Kenny Jackett's contract with the club had been terminated&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/36929363|title=Kenny Jackett: Wolves sack head coach after three seasons in charge |website=BBC Sport |publisher=BBC Sport |date=29 July 2016}}&lt;/ref&gt; and former Italian international [[Walter Zenga]] was appointed.&lt;ref&gt;{{cite news |title=Walter Zenga: Wolves name former Italy international as head coach |url=https://www.bbc.com/sport/football/36931955 |publisher=BBC Sport |date=30 July 2016}}&lt;/ref&gt; Zenga was sacked after just 14 league games and [[Paul Lambert]] appointed as his successor in November 2016 but, at the conclusion of the season, Lambert too was dismissed,&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/39896630 |title=Paul Lambert: Wolves boss leaves Molineux after seven months in charge |publisher=BBC Sport |date=30 May 2017}}&lt;/ref&gt; with former [[FC Porto]] boss [[Nuno Espirito Santo]] replacing him.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/40105588 |title=Nuno Espirito Santo: Wolves appoint former Porto boss as head coach |publisher=BBC Sport |date=31 May 2017}}&lt;/ref&gt; On 10 June 2017, Jeff Shi, one of the executive directors of the club, as well as one of the two directors of W.W. (1990), was nominated as the [[executive chairman]] of the board.&lt;ref name=chairman&gt;{{cite web |url=http://www.wolves.co.uk/news/article/2016-17/news-jeff-shi-appointed-chairman-3730032.aspx |title=Jeff Shi Appointed Chairman |date=10 June 2017 |access-date=10 June 2017 |publisher=Wolverhampton Wanderers F.C.}}&lt;/ref&gt; He moved from China to Wolverhampton in the summer 2017.&lt;ref&gt;{{cite news |url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2017/06/10/jeff-shi-becomes-chairman-of-wolves--and-relocates-to-wolverhampton/ |title=Jeff Shi becomes chairman of Wolves – and relocates to Wolverhampton |publisher=[[Express &amp; Star]] |date=10 June 2017}}&lt;/ref&gt; The Fosun Group investment has paid dividends with the club's 2017–18 EFL Championship title success, which ensures a return to the Premier League after a six-year absence.
+
+==Colours and badge==
+{{Football kit box|align=right|
+  pattern_la = _red stripes |
+  pattern_b  = _red stripes |
+  pattern_ra = _red stripes |
+  leftarm    = FFFlFF |
+  body       = FFFFFF |
+  rightarm   = FFFlFF |
+  shorts     = 153E7E |
+  socks      = 153E7E |
+  title      = Original colours.
+}}
+The club's traditional colours of gold and black allude to [[Wolverhampton City Council|the city council]]'s motto "'''out of darkness cometh light'''" with the two colours representing light and darkness respectively.&lt;ref&gt;{{cite news |title=1984: Wolves' recurring nightmare|url=https://www.theguardian.com/football/2003/may/25/sport.comment2 |publisher=The Guardian|date=25 May 2003}}&lt;/ref&gt; Although the team's original colours upon formation were red and white, adopted from the school colours of St Lukes, for much of their history their home colours have been their distinctive old gold shirts with black shorts.&lt;ref&gt;{{cite news |title=Wolverhampton Wanderers |url=http://thebeautifulhistory.wordpress.com/clubs/wolverhampton-wanderers/ |publisher=The Beautiful History}}&lt;/ref&gt;
+
+In the early decades of the club a variety of shirt designs using these colours were created, including stripes and diagonal halves, until the continual usage of a plain shirt design since the 1930s.&lt;ref name="HistoricalKits"&gt;{{cite news |title=Wolverhampton Wanderers – Historical Kits |url=http://www.historicalkits.co.uk/Wolverhampton_Wanderers/Wolverhampton_Wanderers.htm |publisher=Historicalkits.co.uk }}&lt;/ref&gt; Before the 1960s a darker shade of gold was used,&lt;ref&gt;The "old gold" colour was briefly revived during 2000–02.&lt;/ref&gt; known as "[[old gold]]", which is still often cited in the media as the club's colour.&lt;ref&gt;{{cite news |title=Old gold turns to dross for Wolves |url=https://www.theguardian.com/football/blog/2012/apr/19/wolves-terry-connor-relegation |work=The Guardian|date=19 April 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Wolves new boy Doyle cannot wait to slip on an old gold shirt for real |url=http://www.dailymail.co.uk/sport/football/article-1198084/Wolves-new-boy-Doyle-wait-slip-old-gold-shirt.html|work=Daily Mail|date=7 July 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Old Gold Pennant |url=https://www.mirror.co.uk/sport/football/transfer-news/jermaine-pennant-joins-wolves-on-loan-1374561|work=Daily Mirror|date=12 October 2012}}&lt;/ref&gt;
+[[File:Coat of arms of Wolverhampton City Council.png|thumb|left|110px|City coat of arms.]]
+Like most English teams, their earliest shirts usually only featured a badge on special occasions such as cup finals.&lt;ref name="HistoricalKits"/&gt; The first such badge to be worn on Wolves shirts was the coat of arms of [[Wolverhampton City Council]].&lt;ref name="HistoricalKits"/&gt; In the late 1960s, Wolves introduced their own club badge that appeared on their shirts consisting of a single leaping wolf, which later became three leaping wolves in the mid-1970s. Since 1979 the badge has consisted of a single "wolf head" design; the current badge was last redesigned in 2002.&lt;ref name="HistoricalKits"/&gt;
+
+Wolves' traditional away colours have been all-white, but recent decades have seen a variety of colours used, including black, blue, teal and purple.;&lt;ref name="HistoricalKits"/&gt; The current away kit made by Adidas is all-white with 3 black stripes on the shoulders, the outside of the shorts and top of the socks.
+{{-}}
+
+==Stadium==
+
+===Former grounds===
+When first founded the club used a field on Goldthorn Hill in the [[Blakenhall]] area as its home, which could accommodate some 2,000 spectators.&lt;ref name="Matthews"/&gt; In 1879 they relocated to John Harper's Field on Lower Villiers Street where they remained for two years before a short move to [[Dudley Road]], with the new ground situated opposite the Fighting Cocks Inn.&lt;ref name="Matthews"/&gt; It was here that they played their first ever [[FA Cup]] tie in 1883 and their first ever Football League fixture in September 1888. Although the site could only hold 2,500 spectators at first it was eventually developed to be capable of 10,000.&lt;ref name="Matthews"/&gt;
+
+===Molineux===
+{{Infobox venue
+| stadium_name=Molineux
+| image=Molineux Stadium, Wolverhampton, 2018.jpg
+| caption = Molineux Stadium, Wolverhampton, 2018
+| renovated=1924–34; 1978–79; 1991–93
+| expanded=2011–12
+| construction_cost=
+| architect=Alan Cotterell&lt;br /&gt;(Billy Wright &amp; Sir Jack Hayward stands)&lt;ref&gt;{{cite web|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2017/06/12/tributes-paid-to-architect-behind-vision-for-wolves-molineux/|title=Tributes paid to architect behind vision for Wolves' Molineux|publisher=Express &amp; Star |date=12 June 2017}}&lt;/ref&gt;&lt;br /&gt;AFL (Stan Cullis stand)&lt;br /&gt;Atherden &amp; Rutter (Steve Bull stand)&lt;ref&gt;{{cite web|url=http://www.wolves.co.uk/page/News/0,,10307~2060837,00.html|title=Stadium proposals|publisher=Wolverhampton Wanderers F.C|date=28 May 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20100531020851/http://www.wolves.co.uk/page/News/0,,10307~2060837,00.html|archivedate=31 May 2010|df=dmy-all}}&lt;/ref&gt;
+| main_contractors=Current design – [[Alfred McAlpine]]&lt;br /&gt;Redevelopment – Buckingham Group
+| tenants=Wolverhampton Wanderers F.C. (1889–present)
+| seating_capacity=32,050&lt;ref name="Capacity"&gt;{{cite web|url=https://pulse-static-files.s3.amazonaws.com/premierleague/document/2018/07/30/8944eb84-6450-4f80-8f46-64c6e2e1b929/PL_Handbook-2018-19.pdf |title=Premier League Handbook 2018/19 |publisher=Premier League |date=30 July 2018}}&lt;/ref&gt;
+}}
+{{Main article|Molineux Stadium}}
+{{See also|Sir Jack Hayward Training Ground}}
+In the summer of 1889 the club moved to its permanent home ever since, [[Molineux Stadium|Molineux]], in the [[Whitmore Reans]] area of the city. The stadium name originates from the [[Molineux Hotel|Molineux House]] built in the area by Benjamin Molineux, a local merchant, in the 18th century and whose grounds were later developed to include numerous public leisure facilities. When the Northampton Brewery Company purchased these grounds in 1889, they rented their use to the city's football club, who were seeking to find a home more befitting a Football League member.&lt;ref name="Matthews"/&gt; After renovating the site, the first ever official game was staged on 7 September 1889 before a crowd of 4,000.&lt;ref name="Matthews"/&gt; The ground was capable of hosting 20,000 spectators, although English football crowds rarely reached that number in the 19th century.&lt;ref name="Matthews"/&gt;
+
+Wolves bought the [[freehold (law)|freehold]] in 1923 and soon began a series of ground improvements under the auspices of [[Archibald Leitch]],&lt;ref&gt;{{cite web|url=http://molineuxstadiumthroughtheages.blogspot.com/p/molineux-archibald-leitch.html|title=Molineux - Archibald Leitch|publisher=molineuxstadiumthroughtheages.blogspot.com|accessdate=7 October 2018}}&lt;/ref&gt; beginning with the construction of a major grandstand on the Waterloo Road side.&lt;ref name="Programme"&gt;{{cite book |title=100 Years of Molineux 1889–1989: Special Souvenir Programme |year=1989 |publisher=Wolverhampton Wanderers F.C}}&lt;/ref&gt; In 1932, the club also built a new stand on the Molineux Street side and followed this by adding a roof to the South Bank two years later; this South Bank was historically the second largest of all [[Spion Kop (stadiums)|Kop ends]] in the country and regularly held crowds in excess of 30,000.&lt;ref&gt;{{cite web|url=https://www.expressandstar.com/sport/wolverhampton-wanderers-fc/2011/02/10/launch-of-a-golden-vision-at-molineux/|title=Launch of a golden vision at Molineux|publisher=Express &amp; Star |date=10 February 2011}}&lt;/ref&gt; The stadium finally now had four complete stands that would form its basis for the next half-century.
+
+In the days before seating regulations, the ground could hold more than 60,000 spectators, with the record attendance being 61,315 for a [[Football League First Division|First Division]] match against [[Liverpool F.C.|Liverpool]] on 11 February 1939.&lt;ref name="Matthews"/&gt; The 1940s and 1950s saw average attendances for seasons regularly exceed 40,000, coinciding with the club's peak on the field.&lt;ref name="Matthews"/&gt; During this time Molineux became one of the first British grounds to install floodlights, enabling it to host a series of midweek friendlies against teams from around the globe.&lt;ref name="Programme"/&gt; In the days prior to the formation of the [[UEFA Champions League|European Cup]] and international club competitions, these games were highly prestigious and gained huge crowds and interest with the [[BBC]] often televising such events.&lt;ref name="European"/&gt;&lt;ref&gt;{{cite web|title=Football from top to bottom|url=https://www.independent.co.uk/sport/football/news-and-comment/football-from-top-to-bottom-994699.html|publisher=The Independent|date=6 November 2008}}&lt;/ref&gt;
+
+When the Molineux Street Stand failed to meet new safety legislation, the club began building a new replacement stand behind the existing one on land where housing had been demolished. This new all-seater stand – named the John Ireland Stand after the then-club president – was completed in 1979 and was the first stage of a plan to rebuild the entire stadium.&lt;ref name="Programme"/&gt; The cost of the Ireland Stand escalated to over £2 million and plunged the club into a financial crisis. As a result, it was forced to enter receivership in 1982.&lt;ref name="Programme"/&gt; By the time the team dropped into the [[Football League Fourth Division|Fourth Division]] in 1986, only the John Ireland Stand and the South Bank terrace remained in use. New safety laws were implemented following the [[Bradford City stadium fire]] and these forced the closure of both the now-dilapidated North Bank and Waterloo Road Stand. The club did not have the funds necessary to rebuild them.&lt;ref name="Programme"/&gt;
+
+Following the takeover of the club by [[Jack Hayward|Sir Jack Hayward]] in 1990, £8.5&amp;nbsp;million of funding was made available to redevelop Molineux comprehensively.&lt;ref name="Matthews"/&gt; Between August 1991 and December 1993 three sides of the stadium were completely rebuilt to form a 28,525 capacity all-seater stadium that complied with the [[Taylor Report]]: the Waterloo Road Stand was replaced by the [[Billy Wright (footballer born 1924)|Billy Wright]] Stand, the North Bank terrace by the [[Stan Cullis]] Stand, and the South Bank terrace by the Sir Jack Hayward Stand (named the Jack Harris Stand until 2015).&lt;ref name="Matthews"/&gt; Aside from the addition of a temporary seating area in the southwest corner used during Wolves' seasons in the Premier League;&lt;ref&gt;{{cite web|title=Ground capacity raised|url=http://www.wolves.co.uk/page/News/0,,10307~390175,00.html|publisher=Wolverhampton Wanderers F.C|date=11 June 2003|deadurl=yes|archiveurl=https://web.archive.org/web/20120902140854/http://www.wolves.co.uk/page/News/0,,10307~390175,00.html|archivedate=2 September 2012|df=dmy-all}}&lt;/ref&gt; this redevelopment formed the stadium for almost twenty years.
+
+In 2010 plans were unveiled of an extensive redevelopment programme to enlarge the capacity and develop the facilities.&lt;ref name="Plans"&gt;{{cite web|title=Wolves unveil Molineux redevelopment plans|url=http://www.wolves.co.uk/page/News/0,,10307~2060349,00.html|publisher=Wolverhampton Wanderers F.C |date=28 May 2010|deadurl=yes |archiveurl=https://web.archive.org/web/20120630054439/http://www.wolves.co.uk/page/News/0,,10307~2060349,00.html |archivedate=30 June 2012}}&lt;/ref&gt; The first stage of this saw a new two-tier Stan Cullis Stand become fully operational for [[2012–13 Wolverhampton Wanderers F.C. season|the 2012–13 season]], raising the current official capacity to 31,700.&lt;ref&gt;{{cite web|url=http://www.wolves.co.uk/news/article/stan-cullis-stand-official-opening-090812-302651.aspx?pageView=full|title=Stan Cullis Stand official opening|publisher=Wolverhampton Wanderers F.C|date=24 August 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20170605023047/http://www.wolves.co.uk/news/article/stan-cullis-stand-official-opening-090812-302651.aspx?pageView=full|archivedate=5 June 2017|df=dmy-all}}&lt;/ref&gt; The proposed second stage planned to see the rebuilding of the oldest stand at the stadium (built in 1979 and renamed the Steve Bull Stand in 2003) to increase capacity to around 36,000, but this proposal was shelved when it became likely that the club would be relegated from the Premier League in 2012.&lt;ref&gt;{{cite web|url=http://www.wolves.co.uk/page/News/0,,10307~2581694,00.html |title=Wolves to postpone Steve Bull Stand redevelopment |publisher=Wolverhampton Wanderers F.C |date=19 January 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120122075352/http://www.wolves.co.uk/page/News/0,,10307~2581694,00.html |archivedate=22 January 2012}}&lt;/ref&gt;
+
+The club announced in March 2018 that preliminary discussions for the enlargement of the South Bank (the Sir Jack Hayward Stand) had taken place, together with proposals for the Steve Bull Stand.&lt;ref&gt;{{cite web|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2018/03/03/revealed-wolves-plan-for-huge-south-bank/ |title=Revealed: Wolves' plan for huge South Bank|publisher=[[Express &amp; Star]]|date=3 March 2018}}&lt;/ref&gt;
+
+It was initially thought that the Sir Jack Hayward stand would be rebuilt first, but in February 2019 it was announced that the Steve Bull stand would be rebuilt in 2020, with an increase from 9,500 seats to 11,000, followed by the expansion of the Sir Jack Hayward stand (South Bank) in 2022, a single tier stand is planned, doubling its size to 10,000, this would increase the ground capacity to 46,000. The change of plan appears to be to do with the logistics of housing away fans during construction.
+
+This will leave only the Billy Wright Stand to be developed in the future. Wolves' owners, Fosun, have plans for a final Molineux capacity of between 50,000 and 60,000, but this depends on the club continuing to improve and expand.
+
+==Players==
+===First team squad===
+{{updated|20 February 2019}}&lt;ref&gt;{{cite news|title=Squad numbers confirmed for 2018/19|url=https://www.wolves.co.uk/news/first-team/20180810-squad-numbers-confirmed-for-201819/|publisher=Wolverhampton Wanderers F.C|date=10 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Team|url=https://www.wolves.co.uk/team/first-team/|publisher=Wolverhampton Wanderers F.C|access-date=20 February 2019}}&lt;/ref&gt;
+{{Fs start}}
+{{Fs player|no=2 |pos=DF|nat=IRL|name=[[Matt Doherty (footballer, born 1992)|Matt Doherty]]|other=}}
+{{Fs player|no=5 |pos=DF|nat=ENG|name=[[Ryan Bennett (footballer)|Ryan Bennett]]|other=}}
+{{Fs player|no=7 |pos=FW|nat=POR|name=[[Ivan Cavaleiro]]|other=}}
+{{Fs player|no=8 |pos=MF|nat=POR|name=[[Rúben Neves]]|other=}}
+{{Fs player|no=9 |pos=FW|nat=MEX|name=[[Raúl Jiménez]]|other=on loan from [[S.L. Benfica|Benfica]]}}
+{{Fs player|no=10|pos=FW|nat=POR|name=[[Hélder Costa (footballer)|Hélder Costa]]|other=}}
+{{Fs player|no=11|pos=GK|nat=POR|name=[[Rui Patrício]]|other=}}
+{{Fs player|no=15|pos=DF|nat=FRA|name=[[Willy Boly]]|other=}}
+{{Fs player|no=16|pos=DF|nat=ENG|name=[[Conor Coady]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=17|pos=MF|nat=ENG|name=[[Morgan Gibbs-White]]|other=}}
+{{Fs player|no=18|pos=MF|nat=POR|name=[[Jota (footballer, born 1996)|Diogo Jota]]|other=}}
+{{Fs player|no=19|pos=DF|nat=SPA|name=[[Jonathan Castro Otto|Jonny Otto]]|other=}}
+{{Fs player|no=21|pos=GK|nat=ENG|name=[[John Ruddy]]|other=}}
+{{fs mid}}
+{{Fs player|no=23|pos=MF|nat=ENG|name=[[Ryan Giles]]|other=}}
+{{Fs player|no=25|pos=MF|nat=SCO|name=[[Elliot Watt]]|other=}}
+{{Fs player|no=26|pos=MF|nat=POR|name=[[Pedro Gonçalves]]|other=}}
+{{Fs player|no=27|pos=MF|nat=MAR|name=[[Romain Saïss]]|other=}}
+{{Fs player|no=28|pos=MF|nat=POR|name=[[João Moutinho]]|other=}}
+{{Fs player|no=29|pos=DF|nat=POR|name=[[Rúben Vinagre]]|other=}}
+{{Fs player|no=31|pos=GK|nat=ENG|name=[[Will Norris]]|other=}}
+{{Fs player|no=32|pos=MF|nat=BEL|name=[[Leander Dendoncker]]|other=on loan from [[R.S.C. Anderlecht|Anderlecht]]}}
+{{Fs player|no=37|pos=FW|nat=ESP|name=[[Adama Traoré (footballer, born 1996)|Adama Traoré]]|other=}}
+{{Fs player|no=45|pos=FW|nat=ENG|name=[[Niall Ennis]]|other=}}
+{{Fs player|no=47|pos=DF|nat=ENG|name=Cameron John|other=}}
+{{Fs player|no=49|pos=DF|nat=ENG|name=Max Kilman|other=}}
+{{fs end}}
+
+===Out on loan===
+{{Fs start}}
+{{Fs player|no=14|pos=FW|nat=NGR|name=[[Bright Enobakhare]]|other=on loan to [[Coventry City F.C.|Coventry City]]}}
+{{Fs player|no=24|pos=FW|nat=ENG|name=[[Benny Ashley-Seal]]|other=on loan to [[F.C. Famalicão|Famalicão]]}}
+{{Fs player|no=30|pos=DF|nat=ENG|name=[[Kortney Hause]]|other=on loan to [[Aston Villa F.C.|Aston Villa]]}}
+{{Fs player|no=33|pos=FW|nat=BRA|name=[[Léo Bonatini]]|other=on loan to [[Nottingham Forest F.C.|Nottingham Forest]]}}
+{{Fs player|no=— |pos=GK|nat=ENG|name=[[Harry Burgoyne]]|other=on loan to [[Falkirk F.C.|Falkirk]]}}
+{{Fs player|no=— |pos=GK|nat=SCO|name=[[Jack Ruddy]]|other=on loan to [[UD San Sebastián de los Reyes|S.S. Reyes]]}}
+{{Fs player|no=— |pos=DF|nat=HUN|name=Daniel Csóka|other=on loan to [[FC DAC 1904 Dunajská Streda|FC DAC 1904]]}}
+{{Fs player|no=— |pos=DF|nat=FRA|name=[[Sylvain Deslandes]]||other=on loan to [[FC Jumilla]]}}
+{{Fs player|no=— |pos=DF|nat=ENG|name=[[Ethan Ebanks-Landell]]|other=on loan to [[Rochdale A.F.C.|Rochdale]]}}
+{{Fs player|no=— |pos=DF|nat=ENG|name=Ben Goodliffe|other=on loan to [[Dagenham &amp; Redbridge F.C.|Dagenham &amp; Redbridge]]}}
+{{Fs player|no=— |pos=DF|nat=ENG|name=[[Aaron Hayden (footballer)|Aaron Hayden]]|other=on loan to [[Stourbridge F.C.|Stourbridge]]}}
+{{Fs player|no=— |pos=DF|nat=ENG|name=[[Connor Johnson]]|other=on loan to [[Walsall F.C.|Walsall]]}}
+{{Fs player|no=— |pos=DF|nat=WAL|name=Ryan Leak||other=on loan to [[FC Jumilla]]}}
+{{Fs mid}}
+{{Fs player|no=— |pos=DF|nat=GHA|name=[[Phil Ofosu-Ayeh]]|other=on loan to [[Würzburger Kickers]]}}
+{{Fs player|no=— |pos=DF|nat=POR|name=[[Roderick Miranda]]|other=on loan to [[Olympiacos F.C.|Olympiacos]]}}
+{{Fs player|no=— |pos=MF|nat=ENG|name=[[Jordan Graham]]|other=on loan to [[Oxford United F.C.|Oxford United]]}}
+{{Fs player|no=— |pos=MF|nat=POR|name=Boubacar Hanne||other=on loan to [[FC Jumilla]]}}
+{{Fs player|no=— |pos=MF|nat=SVK|name=[[Christián Herc]]|other=on loan to [[FC DAC 1904 Dunajská Streda|FC DAC 1904]]}}
+{{Fs player|no=— |pos=MF|nat=IRL|name=[[Connor Ronan]]|other=on loan to [[FC DAC 1904 Dunajská Streda|FC DAC 1904]]}}
+{{Fs player|no=— |pos=MF|nat=NED|name=[[Sherwin Seedorf]]||other=on loan to [[FC Jumilla]]}}
+{{Fs player|no=— |pos=MF|nat=SWI|name=[[Ming-yang Yang]]||other=on loan to [[FC Jumilla]]}}
+{{Fs player|no=— |pos=FW|nat=ESP|name=[[Rafa Mir]]|other=on loan to [[UD Las Palmas|Las Palmas]]}}
+{{Fs player|no=— |pos=FW|nat=ESP|name=David Wang|other=on loan to [[Sporting CP]]}}
+{{Fs player|no=— |pos=FW|nat=ENG|name=[[Donovan Wilson]]|other=on loan to [[Exeter City F.C.|Exeter City]]}}
+{{Fs player|no=— |pos=FW|nat=POL|name=[[Michał Żyro]]|other=on loan to [[Pogoń Szczecin]]}}
+{{Fs end}}
+
+===Academy===
+{{further information|Wolverhampton Wanderers F.C. Development Squad and Academy}}
+'''Wolverhampton Wanderers Academy''' is a [[Elite Player Performance Plan|Category 1 status]] facility and has produced several high-profile graduates including internationals [[Robbie Keane]] and [[Joleon Lescott]].&lt;ref&gt;{{cite news|title=Category One academy|url=http://www.wolves.co.uk/news/article/category-one-academy-274076.aspx?pageView=full|publisher=Wolverhampton Wanderers F.C|date=27 July 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20131224103936/http://www.wolves.co.uk/news/article/category-one-academy-274076.aspx?pageView=full|archivedate=24 December 2013|df=dmy-all}}&lt;/ref&gt; Many other players have gone on to play first team football at Molineux, including [[Carl Ikeme]] and [[Danny Batth]]. The academy is managed by Gareth Prosser and is based at the club's [[Sir Jack Hayward Training Ground]].&lt;ref&gt;{{cite news|title=Prosser appointed Academy Manager|url=http://www.wolves.co.uk/news/article/prosser-appointed-academy-manager-160713-917563.aspx?pageView=full|publisher=Wolverhampton Wanderers F.C|date=16 July 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20150414235536/http://www.wolves.co.uk/news/article/prosser-appointed-academy-manager-160713-917563.aspx?pageView=full|archivedate=14 April 2015|df=dmy-all}}&lt;/ref&gt;
+
+===Other teams===
+'''Wolverhampton Wanderers Under-23s''' compete in the newly created Division 2 of the [[Professional Development League|Premier League 2]]. The club qualify as an entrant in the competition by virtue of their academy holding Category 1 status.&lt;ref name="Reserves"&gt;{{cite web | title = Wolves in new Under-21 League | publisher = Wolverhampton Wanderers F.C | url = http://www.wolves.co.uk/news/article/in-reserve-010812-285590.aspx?pageView=full | date = 2 August 2012 | deadurl = yes | archiveurl = https://web.archive.org/web/20131224114225/http://www.wolves.co.uk/news/article/in-reserve-010812-285590.aspx?pageView=full | archivedate = 24 December 2013 | df = dmy-all }}&lt;/ref&gt; Although the league is designed for players aged 23 and below, three overage players may also feature.&lt;ref name="Reserves"/&gt; Home games are primarily staged at [[A.F.C. Telford United|AFC Telford United]]'s [[New Bucks Head]] home.
+
+'''[[Wolverhampton Wanderers W.F.C.|Wolves Women]]''' became the club's official women's team in 2008. They currently play at the fourth level of women's football, the FA Women's National League Division 1 Midlands. Their home games are played at [[Bilston Town F.C.|Bilston Town Football Club]]'s Queen Street stadium.&lt;ref&gt;{{cite web| title=Wolves Women To Face Man Utd| publisher=Wolverhampton Wanderers F.C | url=https://www.wolves.co.uk/news/women-and-girls/20180731-wolves-women-to-face-man-utd| date=31 July 2018}}&lt;/ref&gt;
+
+==Club officials==
+{{col-start}}
+{{col-2}}
+;Football staff&lt;ref name="Staff"&gt;{{cite web |title=Football Staff |url=https://www.wolves.co.uk/club/about-us/staff-profiles/ |publisher=Wolverhampton Wanderers F.C |date=June 2017}}&lt;/ref&gt;
+* Head Coach:  [[Nuno Espírito Santo]]
+* Assistant Head Coach: Rui Pedro Silva
+* First Team Coach: Julio Aibar
+* First Team Coach: [[Ian Cathro]]
+* Goalkeeping Coach: Rui Barbosa
+* Head of Recruitment: [[John Marshall (footballer, born 1964)|John Marshall]]
+* Academy Manager: Gareth Prosser
+* Head of Academy Player Development: [[Scott Sellars]]
+* Under-23 Head Coach: [[Rob Edwards (footballer, born 1982)|Rob Edwards]]
+* Fitness Coach: Antonio Dias
+* Head of Analysis: Andrew Findlay
+* First Team Analyst: John Boston
+* First Team Analyst: Mat Pearson
+* Academy U-18 Analyst: Daniel Simpson
+* Technical Recruitment Officer: Russell West
+
+;Medical staff
+* Head of Medical Department: Phil Hayward
+* First Team Physiotherapist: Ollie Leaper
+* First Team Sports Therapist: Danny Fishwick
+* First Team Therapist: Rui Fuste
+* Soft Tissue Therapist: Matt Wignall
+* Rehabilitation Coach: João Lapa
+* Club doctor: Matthew Perry
+{{col-2}}
+;Club executives&lt;ref name="Executives"&gt;{{cite news |title=Directors' profiles |url=https://www.wolves.co.uk/club/about-us/directors-profiles/|publisher=Wolverhampton Wanderers F.C |date=June 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Fosun Group Takes Over Wolves |url=http://www.wolves.co.uk/news/article/2016-17/news-fosun-group-takes-over-wolves-3198807.aspx |date=21 July 2016}}&lt;/ref&gt;
+* Owner: [[Fosun International]]&lt;ref group=nb&gt;The direct parent company of the club was W.W. (1990) Limited, which was acquired by Prestige Century Holdings Limited; Prestige Century was a subsidiary of Fosun Management Holdings Limited; Fosun Management Holdings was a subsidiary of Fosun International; Fosun International, a listed company of Hong Kong, is a subsidiary of Fosun International Holdings, which was majority owned by [[Guo Guangchang]], [[Liang Xinjun]] and [[Wang Qunbin]]&lt;/ref&gt;
+* Chairman: Jeff Shi
+* Club Representative: Sky Sun
+* Managing director: Laurie Dalrymple
+* [[Director of football|Sporting Director]]: [[Kevin Thelwell]]
+* Non-executive directors: John Bowater and John Gough
+* Club secretary: Matt Wild
+* Assistant Club Secretary: Alison Matthews
+* Honorary vice-presidents:&lt;br /&gt;[[Steve Bull]], [[Ron Flowers]] and [[Robert Plant]]
+{{col-end}}
+
+==Former players and managers==
+[[File:BillyWrightStatue.jpg|thumb|right|upright|Statue of [[Billy Wright (footballer born 1924)|Billy Wright]] outside [[Molineux Stadium]]]]
+
+===Notable players===
+''For details on all former players, see [[List of Wolverhampton Wanderers F.C. players]]''
+
+The club has been represented by numerous high-profile players over the years, most notably [[Billy Wright (footballer born 1924)|Billy Wright]], who captained England a record 90 times and was the first player to win a century of international caps,&lt;ref&gt;{{cite web| title =End of the Wright era| url =http://www.thefa.com/England/News/2010/OTD_280510| publisher=The Football Association|date=28 May 2010}}&lt;/ref&gt; as well as earning the [[FWA Footballer of the Year|Footballer of the Year Award]] (in 1952),&lt;ref&gt;{{cite web| title =Billy Wright| url =http://www.englandfootballonline.com/TeamPlyrsBios/PlayersW/BioWrightWA.html| publisher=England Football Online}}&lt;/ref&gt; an accolade also won by Wolves half-back [[Bill Slater (footballer)|Bill Slater]] in 1960.&lt;ref&gt;{{cite web| title=Time to celebrate Bill Slater, a footballer with a unique British sporting history| url =http://www.insidethegames.biz/blogs/16668-philip-barker-time-to-celebrate-bill-slater-a-footballer-with-a-unique-british-sporting-history| publisher=Inside the Games|date= 23 April 2012}}&lt;/ref&gt; In total, 34 players have won full England caps during their time with Wolves, including the club's record goalscorer [[Steve Bull]], the last of the club's England internationals to appear at a major tournament.&lt;ref&gt;{{cite web| title =England Players' Club Affiliations: Wolverhampton Wanderers |url =http://www.englandfootballonline.com/teamclubs/Clubs/Wolves.html| publisher=England Football Online}}&lt;/ref&gt;&lt;ref&gt;{{cite web| title =Wolves at the World Cup| url =http://www.wolves-stats.co.uk/Wolves_at_the_World_Cup.html| publisher =wolves-stats.co.uk| deadurl =yes| archiveurl =https://web.archive.org/web/20130528101927/http://www.wolves-stats.co.uk/Wolves_at_the_World_Cup.html| archivedate =28 May 2013| df =dmy-all}}&lt;/ref&gt;
+
+[[Andy Gray (footballer born 1955)|Andy Gray]], [[Emlyn Hughes]], [[Paul Ince]] and [[Denis Irwin]] are all previous League Championship medal winners who have also represented Wolves. [[Joleon Lescott]] went on to play for England 26 times scoring once. [[Robbie Keane]] went on to become Ireland's all-time leading goalscorer with 68 goals in 146 appearances.
+
+The '''Wolverhampton Wanderers Hall of Fame''' has inducted the following former players:&lt;ref name="Hall of Fame"&gt;{{cite web| title=Hall of Fame| url =http://www.wolves.co.uk/club/museum/halloffame.aspx?pageView=full| publisher=Wolverhampton Wanderers F.C}}&lt;/ref&gt;
+{{Div col|colwidth=18em}}
+* {{flagicon|ENG}} [[Mike Bailey (footballer)|Mike Bailey]]
+* {{flagicon|ENG}} [[Peter Broadbent (footballer)|Peter Broadbent]]
+* {{flagicon|ENG}} [[Steve Bull]]
+* {{flagicon|ENG}} [[Stan Cullis]]
+* {{flagicon|NIR}} [[Derek Dougan]]
+* {{flagicon|SCO}} [[Malcolm Finlayson]]
+* {{flagicon|ENG}} [[Ron Flowers]]
+* {{flagicon|ENG}} [[Johnny Hancocks]]
+* {{flagicon|ENG}} [[Billy Harrison (English footballer)|Billy Harrison]]
+* {{flagicon|ENG}} [[Kenny Hibbitt]]
+* {{flagicon|ENG}} [[Jackery Jones]]
+* {{flagicon|ENG}} [[John McAlle]]
+* {{flagicon|ENG}} [[Jimmy Mullen (footballer born 1923)|Jimmy Mullen]]
+* {{flagicon|ENG}} [[Andy Mutch]]
+* {{flagicon|ENG}} [[Derek Parkin]]
+* {{flagicon|ENG}} [[John Richards (footballer)|John Richards]]
+* {{flagicon|ENG}} [[Bill Slater (footballer)|Bill Slater]]
+* {{flagicon|ENG}} [[Roy Swinbourne]]
+* {{flagicon|ENG}} [[Andy Thompson (footballer, born 1967)|Andy Thompson]]
+* {{flagicon|ENG}} [[Dave Wagstaffe]]
+* {{flagicon|ENG}} [[Bert Williams (footballer, born 1920)|Bert Williams]]
+* {{flagicon|ENG}} [[Billy Wright (footballer born 1924)|Billy Wright]]
+{{div col end}}
+
+===Managerial history===
+[[File:StanCullisStatue.jpg|thumb|right|175px|Statue of Stan Cullis outside Molineux.]]
+{{Main article|List of Wolverhampton Wanderers F.C. managers}}
+Wolves can be identified as having had 27 different (permanently appointed) managers during the club's existence.&lt;ref name="Managers"&gt;{{cite news|title=Wolves: Manager history |url=http://www.soccerbase.com/teams/team.sd?team_id=2848&amp;teamTabs=managers|publisher=Soccerbase}}&lt;/ref&gt; The very first manager, [[George Worrall]], was identified by the title of "club secretary", a post that continued until the appointment of a full-time manager in the modern sense was made in 1922.
+
+The club's most successful manager is [[Stan Cullis]], whose 16-year tenure brought all three of Wolves' league championships as well as two FA Cup triumphs.&lt;ref&gt;{{cite news |title=Stan Cullis |url=http://www.wolves.co.uk/news/article/hof-stan-cullis-2009-421286.aspx?pageView=full |publisher=Wolverhampton Wanderers F.C |date=16 January 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20131224111032/http://www.wolves.co.uk/news/article/hof-stan-cullis-2009-421286.aspx?pageView=full|archivedate=24 December 2013 |df=dmy-all}}&lt;/ref&gt; Two other managers have been inducted into the Club Hall of Fame: [[Frank Buckley (footballer)|Major Frank Buckley]] and [[Graham Turner]].&lt;ref&gt;{{cite news |title=Hall of Fame Inductee Announcement |url=http://www.wolves.co.uk/news/article/hall-of-fame-buckley-and-honved-261012-448288.aspx?pageView=full |publisher=Wolverhampton Wanderers F.C. |date=26 October 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20131224111746/http://www.wolves.co.uk/news/article/hall-of-fame-buckley-and-honved-261012-448288.aspx?pageView=full |archivedate=24 December 2013 |df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Graham Turner |url=http://www.wolves.co.uk/news/article/hof-graham-turner-2010-421632.aspx?pageView=full |publisher=Wolverhampton Wanderers F.C. |date=14 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20151123041925/http://www.wolves.co.uk/news/article/hof-graham-turner-2010-421632.aspx?pageView=full |archivedate=23 November 2015 |df=dmy-all}}&lt;/ref&gt; Turner oversaw two successive divisional championship wins in the late-1980s, winning the [[1987-88 Football League#Fourth Division|Fourth Division title in 1987-88]] and the [[1988-89 Football League#Third Division|Third Division title the following season]]. [[Bill McGarry (footballer)|Bill McGarry]] and [[John Barnwell]] both won the [[League Cup]] for Wolves in the 1970s and 1980s.&lt;ref name="Managers"/&gt; 
+
+In the 21st century, [[Dave Jones (footballer born 1956)|Dave Jones]], [[Mick McCarthy]] and [[Nuno Espírito Santo]] have led the club into the [[Premier League]]. [[Kenny Jackett]] took Wolves to a record [[EFL League One]] (Tier 3) points haul of 103 as they won the divisional championship in the [[2013–14 Football League One|2013–14]] season. 
+
+Wolves have been managed by two former [[England national football team|England national team]] managers in [[Graham Taylor]] and [[Glenn Hoddle]].&lt;ref name="Managers"/&gt;
+
+==Support==
+As well as having numerous supporters' clubs across the United Kingdom,&lt;ref&gt;{{cite web| title=London Wolves| url=http://www.londonwolves.com/| publisher=London Wolves}}&lt;/ref&gt;&lt;ref&gt;{{cite web| title=Sussex Wolves| url=http://www.brightonwolves.co.uk/| publisher=Sussex Wolves}}&lt;/ref&gt;&lt;ref&gt;{{cite web| title=Yorkshire Wolves| url=http://yorkshirewolves.com/| publisher=Yorkshire Wolves}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Telford Wolves |url= http://telfordwolves.com/ |publisher= Telford Wolves}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title= Cannock Wolves |url= http://www.cannockwolves.co.uk/ |publisher= Cannock Wolves}}&lt;/ref&gt;&lt;ref&gt;{{cite web| title=Daventry Wolves| url= http://www.ddcwwfcsc.co.uk/| publisher=Daventry Wolves}}&lt;/ref&gt;&lt;ref&gt;{{cite web| title= Punjabi Wolves| url= http://www.punjabiwolves.com/| publisher=Punjabi Wolves}}&lt;/ref&gt; Wolverhampton Wanderers also have an international support base, with supporters' clubs in Australia,&lt;ref&gt;{{cite web|title=Melbourne Wolves |url=http://www.members.optusnet.com.au/~willisam/index.html |publisher=Melbourne Wolves |deadurl=yes |archiveurl=https://web.archive.org/web/20080421002453/http://www.members.optusnet.com.au/~willisam/index.html |archivedate=21 April 2008 }}&lt;/ref&gt; United States,&lt;ref&gt;{{cite web| title=American Wolves| url=https://wolvesusa.wordpress.com/| publisher=American Wolves}}&lt;/ref&gt; Sweden,&lt;ref&gt;{{cite web| title=Swede Wolves| url=http://www.svenskafans.com/england/wolves/| publisher=Swede Wolves}}&lt;/ref&gt; Spain, Germany,&lt;ref&gt;{{cite web|title=Berlin Wolves |url=http://geocities.com/berlinwolves/ |publisher=Berlin Wolves |deadurl=yes |archiveurl=https://web.archive.org/web/20091027014659/http://geocities.com/berlinwolves/ |archivedate=27 October 2009 }}&lt;/ref&gt; Republic of Ireland,&lt;ref&gt;{{cite web| title=Irish Wolves| url=http://www.irishwolves.org/| publisher=Irish Wolves}}&lt;/ref&gt; Malta,&lt;ref&gt;{{cite web| title=Malta Wolves| url=http://maltawolves.blogspot.co.uk/| publisher=Malta Wolves}}&lt;/ref&gt; Iceland and Norway&lt;ref&gt;{{cite web| title=Viking Wolves|url=http://www.vikingwolves.com/| publisher=Viking Wolves}}&lt;/ref&gt; amongst others. They have a particularly sizeable Scandinavian fanbase, due to the area's television coverage of Midlands football in the 1970s when the club were a regular top-flight team; the first-ever English match shown live in both Sweden and Norway involved Wolves (Wolverhampton Wanderers 1 [[Sunderland A.F.C.|Sunderland]] 0, [[Football League First Division]], Saturday [[1969–70 in English football|29 November 1969]]).&lt;ref&gt;{{cite web| title=The English Occupation of Sweden; How We Came to Love Your Football| url=http://www.thefightingcock.co.uk/2012/12/the-english-occupation-of-sweden-how-we-came-to-love-your-football/| publisher=thefightingcock.co.uk|date=11 December 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Hugh've Been Framed!| url=http://www.wolvesheroes.com/2009/11/29/hughve-been-framed/|publisher=wolvesheroes.com|date=29 November 2009}}&lt;/ref&gt;
+
+===Rivalries===
+{{See also|Wolverhampton Wanderers F.C. league record by opponent}}
+Wolves' longest-established and strongest rivalry is with [[West Bromwich Albion F.C.|West Bromwich Albion]], against whom the club contest the [[Black Country Derby]]. The two clubs, separated by eleven miles, have faced each other 159 times;&lt;ref name="Derby stats"&gt;{{cite web| title=Head to head: Leyton Orient vs. Wolves| url=http://www.soccerbase.com/teams/head_to_head.sd?team_id=2744&amp;team2_id=2848| publisher=Soccerbase}}&lt;/ref&gt; their first competitive clash being an [[FA Cup]] tie in 1886.&lt;ref name="Derby stats"/&gt; A national survey by the [[football pools]] found the rivalry to be the strongest in English football.&lt;ref name="Rivalries League"&gt;{{cite web| title=Rivalries League| url=http://www.footballpools.com/football-fever/Rivalries_Report_2008.pdf| publisher=The New Football Pools| date=February 2008| deadurl=yes| archiveurl=https://web.archive.org/web/20131015233159/http://www.footballpools.com/football-fever/Rivalries_Report_2008.pdf| archivedate=15 October 2013| df=dmy-all}}&lt;/ref&gt; Both clubs are founder members of the Football League and the two once contested the league title in [[1953–54 Wolverhampton Wanderers F.C. season|1953–54]], with Wolves finishing as champions.&lt;ref&gt;{{cite web| title=When the Black Country rivals Wolves and West Bromwich Albion ruled English football| url=http://www.birminghammail.co.uk/sport/football/football-news/when-the-black-country-rivals-wolves-and-west-178706| publisher=Birmingham Mail |date=9 February 2012}}&lt;/ref&gt;
+
+Wolves also share rivalries with the two Birmingham clubs, [[Aston Villa F.C.|Aston Villa]] and [[Birmingham City F.C.|Birmingham City]], though they are much farther away than West Bromwich. Wolves have played both Villa and Birmingham numerous times dating back to the 19th century.&lt;ref&gt;{{cite web |title=Head to head: Wolves v Aston Villa |url=http://www.soccerbase.com/teams/head_to_head.sd?team_id=2848&amp;team2_id=154 |publisher=Soccerbase}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Head to head: Wolves v Birmingham City |url=http://www.soccerbase.com/teams/head_to_head.sd?team_id=2848&amp;team2_id=291 |publisher=Soccerbase}}&lt;/ref&gt; Wolves' closest geographic rival is actually [[Walsall F.C.|Walsall]] but, as they have rarely competed at the same level,&lt;ref&gt;{{cite web |title=Head to head: Wolves v Walsall |url=http://www.soccerbase.com/teams/head_to_head.sd?team_id=2848&amp;team2_id=2737 |publisher=Soccerbase}}&lt;/ref&gt; it is of less significance. As Wolverhampton historically sat in [[Staffordshire]], a Staffordshire derby between Wolves and [[Stoke City F.C.|Stoke City]] was once recognised.
+
+With Wolves gaining promotion from the [[EFL Championship|Championship]] to the [[Premier League]] at the end of the 2017–18 season, West Bromwich Albion and Stoke City being relegated from the Premier League the same season, and Aston Villa suffering defeat in the 2017–18 Championship play-off final, Wolves will be the only West Midlands team in the English top flight during the 2018–19 season - the first time that Wolves will be the solo representative of the West Midlands in the top division in 120 seasons stretching back to 1888–89. Wolves’ most 'local' rivals in 2018–19 will be East Midlands side [[Leicester City F.C.|Leicester City]], who are based 63 miles away from Molineux.
+
+===Fan culture===
+During the club's peak in the 1950s, the home crowd's signature song was "The Happy Wanderer". In more recent times, "[[Hi Ho Silver Lining]]" – a 1967 rock song by [[Jeff Beck]] with its chorus modified to ''"Hi Ho Wolverhampton!"'' – has become a staple feature of home games.&lt;ref&gt;{{cite web| title=The Football Ground Guide: Molineux| url=http://www.footballgroundguide.com/wolverhampton_wanderers/index.htm#Visiting-Molineux| publisher=The Football Ground Guide| deadurl=yes| archiveurl=https://web.archive.org/web/20130217130801/http://www.footballgroundguide.com/wolverhampton_wanderers/index.htm#Visiting-Molineux| archivedate=17 February 2013| df=dmy-all}}&lt;/ref&gt; "[[The Liquidator (instrumental)|The Liquidator]]" instrumental by the [[Harry J. Allstars]] was also popularly used in the stadium until a request from the [[West Midlands Police]] to cease due to concerns that the obscene lyrics used by some fans during the chorus&lt;ref&gt;The offending lyrics were "Fuck off West Brom"&lt;/ref&gt; could incite trouble.&lt;ref&gt;{{cite web| title=Can we play you every week?| url=http://news.bbc.co.uk/sport1/hi/funny_old_game/1680656.stm| publisher=BBC Sport|date=28 November 2001}}&lt;/ref&gt;&lt;ref&gt;{{cite web| title=Wolverhampton Council (Licensing and Environmental Protection Panel) Meeting| url=http://www.wolverhampton.gov.uk/NR/rdonlyres/15397180-2094-4B5E-871B-CC4725E39132/0/limi210503.pdf| publisher=Wolverhampton Council| date=21 May 2003| deadurl=yes| archiveurl=https://web.archive.org/web/20080227065704/http://www.wolverhampton.gov.uk/NR/rdonlyres/15397180-2094-4B5E-871B-CC4725E39132/0/limi210503.pdf| archivedate=27 February 2008| df=dmy-all}}&lt;/ref&gt;
+
+As with all large city football teams the club attracted a number of hooligans in the 1960s. During the late 1970s and early 1980s, a [[hooligan firm]] named "The Subway Army" would often ambush fans in the [[Subway (underpass)|subway]] adjacent to the ground. The group was gradually broken up and virtually ceased to exist due to a large number of arrests – many as part of the police's nationwide "Operation GROWTH" (or "Get Rid of Wolverhampton's Troublesome Hooligans") in the late 1980s.&lt;ref&gt;{{cite book | author=Gary Armstrong and Dick Hobbs | editor = Richard Giulianotti, Norman Bonney and Mike Hepworth | title = Football, Violence and Social Identity | year = 1994 | publisher=Routledge | location = London | isbn = 0-415-09838-6 | pages = 196–228 | chapter = Tackled from behind}}&lt;/ref&gt;
+
+The club invites interaction with its supporters, and held a Fans' Parliament, usually attended by then-CEO [[Jez Moxey]], which invited independently selected candidates to attend meetings at Molineux every two months up to the acquisition of the club by Fosun in July 2016.&lt;ref&gt;{{cite web| title=Fans' Parliament| url=http://www.wolves.co.uk/fans/fans_parliament/| publisher=Wolverhampton Wanderers F.C}}&lt;/ref&gt; An independent [[fanzine]] named "A Load of Bull" (ALOB), in part a reference to leading goalscorer [[Steve Bull]], published supporters' views between 1989 and 2012.&lt;ref&gt;{{cite news| title =Fanzine Focus – A Load of Bull 1989–2012| url =http://www.junkarchive.co.uk/wordpress/| publisher =Junk Archive blog| date =30 March 2012| deadurl =yes| archiveurl =https://web.archive.org/web/20120420014534/http://www.junkarchive.co.uk/wordpress/| archivedate =20 April 2012| df =dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite news| title = A Load of Bull: End of an era| url = http://www.wolves.co.uk/page/News/0,,10307~2705979,00.html| publisher = Wolverhampton Wanderers F.C| date = 30 March 2012| deadurl = yes| archiveurl = https://web.archive.org/web/20120405174851/http://www.wolves.co.uk/page/News/0,,10307~2705979,00.html| archivedate = 5 April 2012| df = dmy-all}}&lt;/ref&gt;
+
+==Ownership and finances==
+The club is owned by the Chinese conglomerate group [[Fosun International]], which purchased the parent company of the club, W.W. (1990) Ltd., on 21 July 2016 for a reported £45&amp;nbsp;million from previous owner [[Steve Morgan (businessman)|Steve Morgan]] and his company Bridgemere Group.&lt;ref&gt;{{cite news|title=Fosun Group takes over Wolves|url=http://www.wolves.co.uk/news/article/2016-17/news-fosun-group-takes-over-wolves-3198807.aspx?pageView=full|publisher=Wolverhampton Wanderers F.C|date=21 July 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Wolves bought by Chinese conglomerate Fosun International for £45m|url=https://www.bbc.com/sport/football/36852323|publisher=BBC Sport|date=21 July 2016}}&lt;/ref&gt; Fosun International acquired "W.W. (1990)" via a wholly owned subsidiary, Prestige Century Holdings Limited.&lt;ref&gt;{{cite web|url=http://www.luzsaude.pt/media/6903741/fsd30876_prospeto_en.pdf|title=PROSPECTUS FOR GENERAL AND VOLUNTARY COMPETING PUBLIC TAKEOVER|date=26 September 2014|access-date=7 April 2017|publisher=Luz Saúde}}&lt;/ref&gt;&lt;ref&gt;2015–16 Financial Report of W.W. (1990) Ltd., [https://beta.companieshouse.gov.uk/company/02487393/filing-history filing in the Companies House]&lt;/ref&gt;
+
+Wolves' group parent company, which wholly owns both the "football club company" and the company holding its properties (including its [[Molineux Stadium|stadium]] and [[Sir Jack Hayward Training Ground|training facilities]]), has net assets valued at almost £50&amp;nbsp;million in 2015.&lt;ref&gt;{{cite book|title=Report and Financial Statements|publisher=W.W.(1990) Limited|date=31 May 2015}}&lt;/ref&gt; In the club's last published accounts (covering the 2016-17 season), Wolves registered a pre-tax loss of £23.2 million.&lt;ref&gt;{{cite news |title=Wolves reveal huge loss in latest accounts|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2018/03/07/wolves-reveal-huge-loss-in-latest-accounts/|publisher=[[Express &amp; Star]]|date=7 March 2018|access-date=15 August 2018}}&lt;/ref&gt; In the previous 2015–16 season, the club had achieved a final pre-tax profit of £5.8&amp;nbsp;million.&lt;ref name="Accounts"&gt;{{cite news |title=Wolves publish annual accounts|url=http://www.wolves.co.uk/news/article/2016-17/news-wolves-publish-annual-accounts-3598352.aspx|publisher=Wolverhampton Wanderers F.C|date=28 February 2017}}&lt;/ref&gt;
+
+Like most football clubs, significant commercial income is generated from shirt sponsorship deals.&lt;ref&gt;Historicalkits.co.uk&lt;/ref&gt; Past shirt sponsorship deals were as follows: [[Tatung Company|Tatung]] (1982–86), Benjamin Perry (1986), Staw Distribution (1986–88), [[Mander Brothers|Manders Paint &amp; Ink]] (1988–90), [[Goodyear Tire and Rubber Company|Goodyear]] (1990–2002), [[Doritos]] (2002–04), Chaucer Consulting (2004–09), [[Sportingbet]] (2009–13), [[What House?]] (2013–15), Silverbug (2015–16) and payday lender [[Dollar Financial Group|The Money Shop]] (2016-18). The club's current affiliation is with international gaming company W88, who signed a two-year sponsorship deal in June 2018 that made W88 the club's main sponsor on the team's return to the Premier League.&lt;ref&gt;{{Cite web|url=https://www.casinoreviews.co.uk/news/sport/w88-becomes-betting-partner-leicester-city-football-club.html|title=W88 Becomes Betting Partner of Leicester City Football Club|last=|first=|date=|website=|archive-url=|archive-date=|dead-url=|access-date=July 5, 2018}}&lt;/ref&gt;
+
+Fosun bought Wolves from Steve Morgan, who had taken ownership in August 2007 for a nominal sum of £10 with the proviso that £30&amp;nbsp;million was injected into the club,&lt;ref name="2007 deal"/&gt; ending an almost four-year search for a new buyer.&lt;ref&gt;{{cite news |title=Hayward to quit Wolves|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/wolverhampton_wanderers/3141952.stm |publisher=BBC Sport|date=26 September 2003}}&lt;/ref&gt; Morgan oversaw nine full seasons, but placed the club on the market for new owners in September 2015.&lt;ref&gt;{{cite web|title=Club statement: Steve Morgan|url=http://www.wolves.co.uk/news/article/club-statement-steve-morgan-2716227.aspx|publisher=Wolverhampton Wanderers F.C|date=28 September 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150930024356/http://www.wolves.co.uk/news/article/club-statement-steve-morgan-2716227.aspx|archivedate=30 September 2015|df=dmy-all}}&lt;/ref&gt; Morgan had bought the club from [[Jack Hayward|Sir Jack Hayward]], a lifelong fan of the club, who had himself purchased it in 1990 for £2.1&amp;nbsp;million.&lt;ref name="1990 deal"/&gt;&lt;ref name="RichList"&gt;{{cite news |title=Rich List Profiles: Sir Jack Hayward|url=http://www.birminghampost.net/birmingham-business/richlist/profiles2011/2011/01/23/38-34-sir-jack-hayward-120million-130m-65233-28031766/ |publisher=Birmingham Post|date=23 January 2011}}&lt;/ref&gt; During his tenure Sir Jack invested an estimated £50&amp;nbsp;million of his personal wealth to rebuild the club's stadium and fund new players, but the team only achieved one season in the top flight during his 17 years at the helm despite this increased spending power.&lt;ref name="RichList"/&gt;&lt;ref&gt;{{cite news |title=Hayward frees Wolves|url=https://www.theguardian.com/football/2007/may/21/newsstory.wolverhamptonwanderersfootball |work=The Guardian|date=21 May 2007}}&lt;/ref&gt;
+
+Hayward's takeover greatly improved the club's financial health, after a turbulent 1980s in which the club twice was declared bankrupt.&lt;ref name="1982 deal"/&gt;&lt;ref name="1986 deal"/&gt; In 1982 the club was "saved" from liquidation when it was purchased by two Saudi brothers, Mahmud and Mohammad Bhatti, as part of their company Allied Properties.&lt;ref name="1982 deal"/&gt; However, their failure to sufficiently invest in the club saw it face several winding-up orders as well as successive relegations through the football divisions.&lt;ref name="Crisis3"/&gt;&lt;ref name="Crisis1"/&gt;&lt;ref name="Crisis2"/&gt; In 1986 the [[Receivership|official receiver]] was again called in and a deal eventually brokered for [[Wolverhampton City Council]] to purchase [[Molineux Stadium|the club's stadium]] for £1.12&amp;nbsp;million, along with the surrounding land, while a local developer, Gallagher Estates, in conjunction with the [[Asda]] supermarket chain, agreed to pay off the club's outstanding debts in return for the building of an Asda superstore on land adjacent to the stadium.&lt;ref name="Matthews"/&gt;&lt;ref name="1986 deal"/&gt;&lt;ref name="Programme"/&gt;
+
+==Honours==
+{{Main article|List of Wolverhampton Wanderers F.C. records and statistics}}
+In the all-time table since the league's inception in 1888, Wolves sit fourth in terms of points gathered in all divisions at the end of the 2017-18 season.&lt;ref name="RSSSF"&gt;{{cite web |url=http://www.rsssf.com/tablese/engprof-alltime.html |title=England&amp;nbsp;– Professional Football All-Time Tables |publisher=RSSSF}}&lt;/ref&gt; Only Manchester United, Liverpool and [[Arsenal F.C.|Arsenal]] have more all-time points. With 7,733 league goals scored over 119 seasons (as of the end of 2017-18 season), Wolves have the third highest total of all-time league goals: only Manchester United and Liverpool have more.
+
+{{col-start}}
+{{col-2}}
+;League
+'''[[List of English football champions|Football League First Division]]''', superseded by the '''[[Premier League]]''' (Tier 1)
+* Champions '''(3)''': [[1953–54 Wolverhampton Wanderers F.C. season|1953–54]], [[1957–58 Wolverhampton Wanderers F.C. season|1957–58]], [[1958–59 Wolverhampton Wanderers F.C. season|1958–59]]
+* Runners-up '''(5)''': [[1937–38 Football League#First Division|1937–38]], [[1938–39 Wolverhampton Wanderers F.C. season|1938–39]], [[1949–50 Wolverhampton Wanderers F.C. season|1949–50]], [[1954–55 Wolverhampton Wanderers F.C. season|1954–55]], [[1959–60 Wolverhampton Wanderers F.C. season|1959–60]]
+* 3rd place finishes '''(6)''': [[1888-89 Football League|1888–89]], [[1897-98 Football League#First Division|1897–98]], [[1946–47 Football League#First Division|1946–47]], [[1952–53 Football League#First Division|1952–53]], [[1955–56 Football League#First Division|1955–56]], [[1960–61 Football League#First Division|1960–61]]
+&lt;small&gt;[n.b. In [[1946–47 Football League#First Division|1946–47]] and [[1955–56 Football League#First Division|1955–56]], Wolves finished third on [[Goal Average|goal average]] having accumulated the same number of points as the team finishing second. Had [[goal difference]] been used instead (as it has in the English leagues since 1976), Wolves would have been runners-up on these two occasions.]&lt;/small&gt;
+
+'''[[List of winners of English Football League Championship and predecessors|EFL Championship/Football League Second Division (1892–1992)]]''' (Tier 2)
+* Champions '''(4)''': [[1931–32 Football League#Second Division|1931–32]], [[1976–77 Football League#Second Division|1976–77]], [[2008–09 Wolverhampton Wanderers F.C. season|2008–09]], [[2017–18 Wolverhampton Wanderers F.C. season|2017–18]]
+* Runners-up '''(2)''': [[1966–67 Football League#Second Division|1966–67]], [[1982-83 Football League#Second Division|1982–83]]
+* Play-off winners '''(1)''': [[2003 Football League First Division play-off Final|2002–03]]
+
+'''[[List of winners of English Football League One and predecessors|EFL League One/Football League Third Division]]''' (Tier 3)
+* Champions '''(3)''': [[1923–24 Football League Third Division North|1923–24]] (North), [[1988–89 Football League#Third Division|1988–89]], [[2013–14 Wolverhampton Wanderers F.C. season|2013–14]]
+
+'''[[List of winners of English Football League Two and predecessors|Football League Fourth Division]]''' (Tier 4)
+* Champions '''(1)''': [[1987–88 Football League#Fourth Division|1987–88]]
+{{col-2}}
+;Cup
+'''[[UEFA Cup]]'''
+* Runners-up '''(1)''': [[1972 UEFA Cup Final|1971–72]]
+
+'''[[FA Cup]]'''
+* Winners '''(4)''': [[1893 FA Cup Final|1892–93]], [[1908 FA Cup Final|1907–08]], [[1949 FA Cup Final|1948–49]], [[1960 FA Cup Final|1959–60]]
+* Runners-up '''(4)''': [[1889 FA Cup Final|1888–89]], [[1896 FA Cup Final|1895–96]], [[1921 FA Cup Final|1920–21]], [[1939 FA Cup Final|1938–39]]
+
+'''[[EFL Cup|Football League Cup]]'''
+* Winners '''(2)''': [[1974 Football League Cup Final|1973–74]], [[1980 Football League Cup Final|1979–80]]
+
+'''[[FA Community Shield|FA Charity Shield]]'''
+* Winners '''(4)''': [[1949 FA Charity Shield|1949]]*, [[1954 FA Charity Shield|1954]]*, [[1959 FA Charity Shield|1959]], [[1960 FA Charity Shield|1960]]* (* joint holders)
+* Runners-up '''(1)''': [[1958 FA Charity Shield|1958]]
+
+'''[[EFL Trophy|Football League Trophy]]'''
+* Winners '''(1)''': [[1988 Football League Trophy Final|1987–88]]
+
+'''[[Texaco Cup]]'''
+* Winners '''(1)''': [[1970-71 Texaco Cup|1970–71]]
+{{col-end}}
+
+==League history==
+Wolverhampton Wanderers was a founder member of the Football League in 1888. The 2018–19 season is Wolves' 120th in the football league system. Wolves has spent 114 of their 120 seasons to date within the top two tiers of English football. Wolves played in the third tier on four separate occasions, each occasion lasting just one season; three of these seasons ended with promotion back to the second tier as Champions, and one ended in relegation to the fourth tier. The club has played two seasons in England's fourth tier (in the 1980s).
+
+* 1888–1906 Division 1  (T1) - 18 seasons
+* 1906–1923 Division 2  (T2) - 13 seasons (no league football between 1915 &amp; 1919 due to [[World War I]])
+* 1923–1924 Division 3N (T3) - 1 season
+* 1924–1932 Division 2  (T2) - 8 seasons
+* 1932–1965 Division 1  (T1) - 26 seasons (no league football between 1939 &amp; 1946 due to [[World War II]])
+&lt;br&gt;
+* 1965–1967 Division 2  (T2) - 2 seasons
+* 1967–1976 Division 1  (T1) - 9 seasons
+* 1976–1977 Division 2  (T2) - 1 season
+* 1977–1982 Division 1  (T1) - 5 seasons
+* 1982–1983 Division 2  (T2) - 1 season
+&lt;br&gt;
+* 1983–1984 Division 1  (T1) - 1 season
+* 1984–1985 Division 2  (T2) - 1 season
+* 1985–1986 Division 3  (T3) - 1 season
+* 1986–1988 Division 4  (T4) - 2 seasons
+* 1988–1989 Division 3  (T3) - 1 season
+&lt;br&gt;
+* 1989–1992 Division 2      (T2) - 3 seasons
+* 1992–2003 Division 1 [new](T2) - 11 seasons
+* 2003–2004 Premier League  (T1) - 1 season
+* 2004–2009 Championship    (T2) - 5 seasons
+* 2009–2012 Premier League  (T1) - 3 seasons
+&lt;br&gt;
+* 2012–2013 Championship    (T2) - 1 season
+* 2013–2014 League One      (T3) - 1 season
+* 2014–2018 Championship    (T2) - 4 seasons
+* 2018–     Premier League  (T1) - 1 season (so far)
+
+''T1 = Tier 1 of the football league system; T2 = Tier 2 of the football league system; T3 = Tier 3 of the football league system; T4 = Tier 4 of the football league system.''
+&lt;br&gt;
+* Seasons spent at Tier 1 of the football league system: 64 (incl. 2018–19)
+* Seasons spent at Tier 2 of the football league system: 50
+* Seasons spent at Tier 3 of the football league system: 4
+* Seasons spent at Tier 4 of the football league system: 2
+&lt;br&gt;
+* Longest continuous run of seasons spent in Tier 1: 26 (1932-1965; league football suspended 1939-46 due to World War II)
+* Longest continuous run of seasons spent in Tier 2: 14 (1989-2003)
+* Longest continuous run of seasons spent in Tier 3: 1 (1923-24; 1985-86; 1988-89; 2013-14)
+* Longest continuous run of seasons spent in Tier 4: 2 (1986-1988)
+
+==Footnotes==
+{{reflist|group=nb}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|English football}}
+{{Commons category|Wolverhampton Wanderers F.C.}}
+* [http://www.wolves.co.uk Official Wolverhampton Wanderers F.C. site]
+* [https://www.bbc.co.uk/sport/football/teams/wolverhampton-wanderers BBC Sport, Wolves]
+* [http://www.soccerbase.com/teams/team.sd?team_id=2848 Wolves at Soccerbase]
+
+{{Wolverhampton Wanderers F.C.}}
+{{Premier League}}
+{{Football League Championship}}
+{{Original Football League clubs}}
+{{Men's Football in the West Midlands}}
+
+[[Category:Wolverhampton Wanderers F.C.| ]]
+[[Category:1877 establishments in England]]
+[[Category:Association football clubs established in 1877]]
+[[Category:EFL Cup winners]]
+[[Category:FA Cup winners]]
+[[Category:EFL Trophy winners]]
+[[Category:Football clubs in England]]
+[[Category:Football clubs in the West Midlands (county)]]
+[[Category:Fosun International]]
+[[Category:Premier League clubs]]
+[[Category:Sport in Wolverhampton]]
+[[Category:The Football League founder members]]
+[[Category:United Soccer Association imported teams]]</text>
+      <sha1>1dmdo602o7xtj4w8t1qsthqc587rn67</sha1>
+    </revision>
+  </page>
+</mediawiki>

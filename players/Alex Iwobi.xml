@@ -1,0 +1,261 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Alex Iwobi</title>
+    <ns>0</ns>
+    <id>48163241</id>
+    <revision>
+      <id>885939250</id>
+      <parentid>885507639</parentid>
+      <timestamp>2019-03-03T08:52:10Z</timestamp>
+      <contributor>
+        <username>GiantSnowman</username>
+        <id>1005449</id>
+      </contributor>
+      <minor/>
+      <comment>update - match played 2 March 2019</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19152">{{EngvarB|date=January 2019}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox football biography
+|name           = Alex Iwobi
+|image          = Alex Iwobi (24109638313) (cropped).jpg
+|image_size     = 200
+|caption        = Iwobi playing for [[Arsenal F.C.|Arsenal]] in 2016
+|fullname       = Alexander Chuka Iwobi&lt;ref&gt;{{cite web |url=http://www.cafonline.com/en-us/competitions/qcan2017/TeamDetails/playerdetails?CompetitionPlayerId=9PLZLwyxIAmO73W9ZXXjW%2BL7u%2BTkaxtkS8A%2BGq2VhgcjWLxL024Qcwv7fD7Lj%2FAV |title=Player details |publisher=Confederation of African Football |accessdate=26 January 2017}}&lt;/ref&gt;
+|birth_date     = {{birth date and age|1996|5|3|df=y}}
+|birth_place    = [[Lagos]], Nigeria
+|height         = 1.80 m&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/4717/Alex-Iwobi/overview |title=Alex Iwobi: Overview |publisher=Premier League |accessdate=2 January 2019}}&lt;/ref&gt;
+|position       = [[Midfielder#Winger|Winger]] / [[Forward (association football)|Forward]]
+|currentclub    = [[Arsenal F.C.|Arsenal]]
+|clubnumber     = 17
+|youthyears1    = 2004–2015
+|youthclubs1    = [[Arsenal F.C.|Arsenal]]
+|years1         = 2015–
+|clubs1         = [[Arsenal F.C.|Arsenal]]
+|caps1          = 91&lt;!--LEAGUE ONLY, NO LIVE UPDATES, DON'T FORGET TO UPDATE club-update PARAMETER--&gt;
+|goals1         = 11
+|nationalyears1 = 2011–2012
+|nationalteam1  = [[England national under-16 football team|England U16]]
+|nationalcaps1  = 7
+|nationalgoals1 = 1
+|nationalyears2 = 2013
+|nationalteam2  = [[England national under-17 football team|England U17]]
+|nationalcaps2  = 3
+|nationalgoals2 = 0
+|nationalyears3 = 2013
+|nationalteam3  = [[England national under-18 football team|England U18]]
+|nationalcaps3  = 1
+|nationalgoals3 = 0
+|nationalyears4 = 2015–
+|nationalteam4  = [[Nigeria national football team|Nigeria]]
+|nationalcaps4  = 21
+|nationalgoals4 = 5
+|club-update    = 08:52, 3 March 2019 (UTC)
+|ntupdate       = 26 June 2018
+}}
+'''Alexander Chuka Iwobi''' ({{IPAc-en|ɪ|ˈ|w|oʊ|b|i}} {{respell|ih|WOH|bee}};&lt;ref&gt;{{Citation |last=Arsenal |title=Arsenal: Introducing Alex Iwobi |date=22 May 2014 |url=https://www.youtube.com/watch?v=G54QflUOpKo&amp;t=22s |accessdate=17 November 2017}}&lt;/ref&gt; born 3 May 1996) is a Nigerian professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[Nigeria national football team|Nigeria national team]].
+
+==Early and personal life==
+Iwobi was born in [[Lagos]] before moving to England at the age of four, following a brief stay in [[Turkey]].&lt;ref&gt;{{cite news |last1=Taylor |first1=Daniel |title=How Arsenal's Alex Iwobi became England's loss and Nigeria's gain |url=https://www.theguardian.com/football/blog/2016/mar/26/arsenal-alex-iwobi-england-nigeria |accessdate=10 April 2016 |newspaper=The Guardian |date=26 March 2016}}&lt;/ref&gt;&lt;ref name = "AFC"&gt;{{cite web |url=http://www.arsenal.com/academy/players/alex-iwobi |title=Profile |accessdate=11 October 2015 |publisher=Arsenal F.C.}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last1=Lawrence |first1=Amy |title=Alex Iwobi: ‘I did extra training. My mum made me do kick-ups in the living room’ |url=https://www.theguardian.com/football/2016/dec/09/alex-iwobi-arsenal-extra-sessions |accessdate=6 November 2018 |newspaper=The Guardian |date=9 December 2016}}&lt;/ref&gt; He is the nephew of former professional footballer [[Jay-Jay Okocha]].&lt;ref name = "AFC"/&gt; He grew up in Newham.&lt;ref name = "indy"/&gt;
+
+He is "best mates" with former Arsenal teammate [[Tyrell Robinson]].&lt;ref&gt;{{cite news |url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/15813458.bradford-city-tyrell-robinson-will-not-ease-off-after-signing-new-contract/ |title=Bradford City: Tyrell Robinson will not ease off after signing new contract |date=9 January 2018 |accessdate=10 January 2018 |author=Simon Parker |newspaper=Telegraph &amp; Argus}}&lt;/ref&gt;
+
+==Club career==
+[[File:Alex Iwobi 20150814.jpg|thumb|upright|Iwobi (right) playing for [[Arsenal F.C. Reserves|Arsenal U21s]] in 2015]]
+
+Iwobi joined [[Arsenal F.C.|Arsenal]] while still at primary school,&lt;ref name="Alex Iwobi signs new contract"&gt;{{cite news |url=http://www.arsenal.com/news/news-archive/20151006/alex-iwobi-signs-new-contract |title=Alex Iwobi signs new contract |date=6 October 2015 |accessdate=25 March 2016 |publisher=Arsenal F.C.}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.telegraph.co.uk/sport/football/teams/arsenal/11915430/Who-is-Alex-Iwobi.html |title=Arsenal tie down young Nigerian forward Alex Iwobi to a new long term contract: but who is he? |newspaper=The Daily Telegraph}}&lt;/ref&gt; in 2004,&lt;ref&gt;{{cite web|url=https://www.90min.com/posts/6247986-alex-iwobi-reveals-how-close-he-was-to-leaving-arsenal-after-talks-with-premier-league-pair|title=Alex Iwobi Reveals How Close He Was to Leaving Arsenal After Talks With Premier League Pair|date=15 December 2018|website=90min.com}}&lt;/ref&gt; and was nearly released by the club at the age of 14 and again at the age of 16.&lt;ref name = "indy"&gt;{{cite web|url=https://www.independent.co.uk/sport/football/premier-league/arsenal-news-alex-iwobi-emirates-gunners-a7362431.html|title=How Alex Iwobi avoided an Emirates exit to become Arsenal's breakout star|date=14 October 2016|website=The Independent}}&lt;/ref&gt;
+
+He was first involved in a [[first-team]] match as an unused [[Substitute (association football)|substitute]] in a [[Football League Cup|League Cup]] match against [[West Bromwich Albion F.C.|West Bromwich Albion]] on 25 September 2013.&lt;ref&gt;{{cite web |title=Results/matches: 2013/14 |url=http://www.soccerbase.com/teams/team.sd?team_id=142&amp;teamTabs=results&amp;season_id=143 |website=Soccerbase |publisher=Centurycomm |accessdate=25 March 2016}}&lt;/ref&gt; He signed a long-term contract with Arsenal in October 2015.&lt;ref name="Alex Iwobi signs new contract"/&gt;&lt;ref&gt;{{cite web |url=http://www.premierleague.com/en-gb/players/profile.overview.html/alex-iwobi-2 |title=Profile |accessdate=13 October 2015 |publisher=Premier League}}&lt;/ref&gt;
+
+On 27 October 2015, Iwobi made his first-team debut for the club, starting in a 3–0 defeat to [[Sheffield Wednesday F.C.|Sheffield Wednesday]] in the Round of 16 of the League Cup.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/34654548 |title=Arsene Wenger 'used too many senior players' in League Cup exit |date=28 October 2015 |accessdate=1 November 2015 |publisher=BBC Sport}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/34578025 |title=Sheffield Wednesday 3–0 Arsenal |date=27 October 2015 |accessdate=1 November 2015 |author=Luke Reddy |publisher=BBC Sport}}&lt;/ref&gt; He made his Premier League debut four days later in a 3–0 win against [[Swansea City A.F.C.|Swansea City]] at the [[Liberty Stadium]], as a stoppage time substitute for [[Mesut Özil]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/34623949 |title=Swansea City 0–3 Arsenal |date=31 October 2015 |accessdate=1 November 2015 |author=Dafydd Pritchard |publisher=BBC Sport}}&lt;/ref&gt; Iwobi made his [[UEFA Champions League|Champions League]] debut as an 85th-minute substitute in a 5–1 defeat against Bayern Munich.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/34892626 |title=Bayern Munich 5–1 Arsenal |date=4 November 2015 |publisher=BBC Sport}}&lt;/ref&gt; Iwobi started in the first team for the [[2015–16 FA Cup]] 3rd and 4th round home wins against [[Sunderland A.F.C.|Sunderland]] and [[Burnley F.C.|Burnley]] respectively.&lt;ref&gt;{{cite news |last1=Critchley |first1=Mark |title=Arsenal vs Sunderland team news: Alex Iwobi handed first-team chance, Petr Cech starts in goal |url=https://www.independent.co.uk/sport/football/fa-league-cups/arsenal-vs-sunderland-team-news-alex-iwobi-handed-first-team-chance-petr-cech-starts-in-goal-a6803886.html |accessdate=1 February 2016 |newspaper=The Independent |date=9 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last1=Hytner |first1=David |title=Arsène Wenger makes England quip over Arsenal's in-form Alex Iwobi |url=https://www.theguardian.com/football/2016/jan/31/arsene-wenger-england-arsenal-alex-iwobi-roy-hodgson-burnley-fa-cup |accessdate=1 February 2016 |newspaper=The Guardian |date=31 January 2016}}&lt;/ref&gt;
+
+After getting a first Champions League start in a 3–1 away defeat to Barcelona,&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/35814925 |title=Champions League: Barcelona 3–1 Arsenal (agg 5–1) |date=16 March 2016 |publisher=BBC Sport}}&lt;/ref&gt; Iwobi went on to score two goals in his first two Premier League starts in wins against [[Everton F.C.|Everton]],&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/35792188 |title=Everton 0–2 Arsenal |date=19 March 2016 |publisher=BBC Sport}}&lt;/ref&gt; and [[Watford F.C.|Watford]], respectively.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/35902639 |title=Arsenal 4–0 Watford |date=2 April 2016 |publisher=BBC Sport}}&lt;/ref&gt;
+
+In the following season, Iwobi changed his squad number from 45 to 17. This was due to Chilean forward [[Alexis Sánchez]] taking up the newly vacated number 7 from the departing [[Tomáš Rosický]].&lt;ref&gt;{{cite news |url=http://www.espnfc.com/english-premier-league/story/2881382/granit-xhaka-to-wear-arsenal-no-16-shirt-alex-iwobi-to-wear-no-17 |title=Granit Xhaka to wear Arsenal No. 16 shirt, Alex Iwobi takes over No. 17 |date=27 May 2016 |publisher=ESPN FC}}&lt;/ref&gt;
+
+Iwobi went on to feature throughout Arsenal's victorious [[2016–17 FA Cup|FA Cup campaign of 2016–17]]. As so he earned a winners medal as being part of the squad that beat Chelsea by 2 goals to 1 in the [[2016-17 FA Cup|final of such]].&lt;ref name=FACup /&gt; He achieved further success with Arsenal in the [[2017 FA Community Shield|2017 Community Shield]], in which Arsenal beat Chelsea on penalties.&lt;ref name=CS&gt;{{cite web |url=https://www.goal.com/en-au/amp/news/lets-keep-it-going-iwobi-lauds-arsenal-after-community/1gyizgop73z4s1v9kp2jfxd23j |title='Let's keep it going' – Iwobi lauds ARSENAL after Community Shield Triumph |website=Goal.com}}&lt;/ref&gt;
+
+In May 2018, after Arsenal manager [[Arsène Wenger]] announced he would be leaving the club, Iwobi described him as an "inspiration" and stated it was sad but exciting.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/43988015 |title=Nigeria's Alex Iwobi says Wenger exit 'sad' and 'exciting' |date=3 May 2018 |publisher=BBC Sport}}&lt;/ref&gt;
+
+In August 2018 he signed a new long-term contract with the club, reportedly until 2023.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45060242|title=Alex Iwobi: Arsenal midfielder signs new 'long-term' deal|date=3 August 2018|publisher=BBC Sport}}&lt;/ref&gt;
+
+==International career==
+[[File:Alex Iwobi-Nigeria.jpg|thumb|upright|Iwobi with [[Nigeria national football team|Nigeria]] in 2017]]
+
+Iwobi started as a youth international for England, with whom he won the [[Victory Shield]] of 2011.&lt;ref&gt;{{cite web |url=http://www.thefa.com/england/all-teams/players/i/alex-iwobi |title=Profile |accessdate=11 October 2015 |publisher=The Football Association}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/blog/2016/mar/26/arsenal-alex-iwobi-england-nigeria |title=How Arsenal's Alex Iwobi became England's loss and Nigeria's gain |date=26 March 2016 |newspaper=The Guardian}}&lt;/ref&gt;&lt;ref name=Trophy /&gt; Iwobi went on though to play for [[Nigeria national football team|Nigeria]]. He made his senior debut for the Super Eagles on 8 October 2015, replacing [[Ahmed Musa (footballer)|Ahmed Musa]] in the 57th minute of a 2–0 friendly defeat to [[DR Congo national football team|DR Congo]] in [[Visé]], Belgium.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/34497630 |title=Arsenal's Alex Iwobi encouraged by Nigeria opportunity |date=10 October 2015 |accessdate=11 October 2015 |author=Oluwashina Okeleji |publisher=BBC Sport}}&lt;/ref&gt;
+
+He was selected by Nigeria for their 35-man provisional squad for the [[2016 Summer Olympics]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/36623763 |title=Kelechi Iheanacho included in Nigeria's Olympics squad |date=24 June 2016 |accessdate=25 June 2016 |author=Oluwashina Okeleji |publisher=BBC Sport}}&lt;/ref&gt; He was not a part of the 18-man final squad.&lt;ref&gt;{{cite web |url=https://www.fifa.com/mensolympic/teams/team=1889763/players.html |title=Olympic Football Tournament Rio 2016 - Nigeria |publisher=FIFA}}&lt;/ref&gt;
+
+In August 2017 Iwobi pulled out of Nigeria's squad for that month's World Cup qualifiers due to injury.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/41068525 |title=Iwobi ruled out of Nigeria's World Cup qualifiers against Cameroon |date=27 August 2017 |accessdate=31 August 2017 |publisher=BBC Sport}}&lt;/ref&gt; On 7 October 2017, Iwobi scored for Nigeria in a 1–0 win over Zambia to secure the Super Eagles a spot in the 2018 FIFA World Cup in Russia.&lt;ref&gt;{{cite web |url=http://punchng.com/iwobi-sends-nigeria-to-russia-2018/ |title=Iwobi sends Nigeria to Russia 2018 }}&lt;/ref&gt;
+
+He was named in Nigeria's 23-man squad for the [[2018 FIFA World Cup]] in Russia.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44346451|title=World Cup 2018: Arsenal's Iwobi in Nigeria's 23-man squad|date=3 June 2018|publisher=|via=www.bbc.co.uk}}&lt;/ref&gt; He said that the team needed to learn from its performance after going out in the group stages.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44888104|title=Alex Iwobi: Nigeria must learn from 2018 World Cup|date=19 July 2018|publisher=|via=www.bbc.co.uk}}&lt;/ref&gt;
+
+==Controversy==
+In January 2018 a video allegedly showing Iwobi at a late-night party 36 hours before a match was released.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42617708|title=Alex Iwobi: Arsenal forward faces fine over pre-match party claims|date=5 May 2018|accessdate=1 February 2019|publisher=BBC Sport}}&lt;/ref&gt;
+
+In January 2019, Iwobi was the subject of alleged racism from Indian actress [[Esha Gupta]], an Arsenal ambassador.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/news/world-asia-india-47042681|title=Esha Gupta: Has Instagram exposed everyday racism in India?|date=1 February 2019|accessdate=1 February 2019|publisher=BBC News}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 2 March 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[Arsenal F.C.|Arsenal]]
+|[[2015–16 Arsenal F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|72651|2015|accessdate=10 April 2016}}&lt;/ref&gt;
+|[[Premier League]]
+|13||2||5||0||1||0||2{{efn|name=UCL|Appearance(s) in [[UEFA Champions League]]}}||0||0||0||21||2
+|-
+|[[2016–17 Arsenal F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|72651|2016|accessdate=20 December 2016}}&lt;/ref&gt;
+|Premier League
+|26||3||3||0||2||0||7{{efn|name=UCL}}||1||colspan=2|—||38||4
+|-
+|[[2017–18 Arsenal F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|72651|2017|accessdate=6 August 2017}}&lt;/ref&gt;
+|Premier League
+|26||3||1||0||5||0||6{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||1{{efn|Appearances in [[FA Community Shield]]}}||0||39||3
+|-
+|[[2018–19 Arsenal F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|72651|2018|accessdate=23 December 2018}}&lt;/ref&gt;
+|Premier League
+|27||3||2||1||3||0||6{{efn|name=UEL}}||0||0||0||37||4
+|-
+!colspan=3|Career total
+!91!!11!!11!!1!!11!!0!!21!!1!!1!!0!!135!!13
+|}
+
+{{notelist}}
+
+===International===
+{{updated|26 June 2018}}&lt;ref name = "NFT"&gt;{{NFT player|pid=60750|accessdate=24 June 2017}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=4|[[Nigeria national football team|Nigeria]]
+|2015||2||0
+|-
+|2016||6||1
+|-
+|2017||5||3
+|-
+|2018||7||1
+|-
+!colspan=2|Total!!21!!5
+|}
+
+===International goals===
+:''Scores and results list Nigeria's goal tally first.''&lt;ref name = "NFT"/&gt;
+
+{| class="wikitable"
+! No !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 9 October 2016 || [[Levy Mwanawasa Stadium]], Ndola, Zambia || {{fb|ZAM}} || align=center | 1–0 || align=center | 2–1 || rowspan=2 | [[2018 FIFA World Cup qualification]]
+|-
+| 2. || 7 October 2017 || [[Godswill Akpabio International Stadium]], Uyo, Nigeria || {{fb|ZAM}} || align=center | 1–0 || align=center | 1–0
+|-
+| 3. || rowspan=2 | 14 November 2017 || rowspan=2 | [[Krasnodar Stadium]], Krasnodar, Russia || rowspan=2 | {{fb|ARG}} || align=center | 2–2|| rowspan=2 | &lt;center&gt;4–2&lt;/center&gt;|| rowspan=3 | [[Exhibition game#Association football|Friendly]]
+|-
+| 4.|| align=center | 4–2
+|-
+| 5. || rowspan=2 | 2 June 2018 || rowspan=2 | [[Wembley Stadium]], London, England || rowspan=2 | {{fb|ENG}} || align=center | 1–2|| rowspan=2 | &lt;center&gt;1–2&lt;/center&gt;
+|}
+
+==Honours==
+'''Arsenal'''
+*[[FA Cup]]: [[2016–17 FA Cup|2016–17]]&lt;ref name=FACup&gt;{{cite news |last1=Dede |first1=Steve |title=Arsenal star is an FA Cup winner |url=http://pulse.ng/sports/football/alex-iwobi-wins-fa-cup-title-with-arsenal-id6746129.html |accessdate=29 May 2017 |website=pulse.ng |date=28 May 2017}}&lt;/ref&gt;
+*[[FA Community Shield]]: [[2015 FA Community Shield|2015]], [[2017 FA Community Shield|2017]]&lt;ref name=CS /&gt;
+
+'''England U16'''
+*[[Victory Shield]]: 2011&lt;ref name=Trophy&gt;{{cite news |url=http://www.heraldscotland.com/sport/13040755.Victory_Shield__Scotland_U16_2_England_U16_4/ |title=Victory Shield: Scotland U16 2 England U16 4 |newspaper=The Herald |location=Glasgow}}&lt;/ref&gt;
+
+'''Individual'''
+*[[CAF Awards#CAF Youth Player of the Year|CAF Youth Player of the Year]]: 2016&lt;ref&gt;{{Cite web |url=http://www.africanews.com/2017/01/05/live-african-football-lovers-await-top-continental-honours-hosted-in-nigeria/ |title=[LIVE] Algerian Riyad Mahrez is 2016 African Player of the Year |last=AfricaNews |date=7 January 2017 |website=Africanews |accessdate=7 January 2017}}&lt;/ref&gt;
+*[[CAF Team of the Year]]: 2016 (as a substitute)&lt;ref&gt;{{cite web |url=http://www.cafonline.com/en-US/NewsCenter/News/NewsDetails?id=JjXA1yebDNx8I52tgKCOlg%3d%3d |title=CAF – CAF Awards – Previous Editions – 2016 |publisher=CAFOnline |accessdate=7 January 2017}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Soccerbase}}
+
+{{Arsenal F.C. squad}}
+{{Nigeria squad 2018 FIFA World Cup}}
+
+{{DEFAULTSORT:Iwobi, Alex}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Lagos]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:Nigerian footballers]]
+[[Category:Nigeria international footballers]]
+[[Category:Association football wingers]]
+[[Category:Association football forwards]]
+[[Category:Arsenal F.C. players]]
+[[Category:Premier League players]]
+[[Category:Expatriate footballers in England]]
+[[Category:Nigerian expatriates in England]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:English people of Nigerian descent]]</text>
+      <sha1>efsouc1ug72ahkjs7iro6a4u46ozgrg</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,241 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Willy Boly</title>
+    <ns>0</ns>
+    <id>31587341</id>
+    <revision>
+      <id>886057028</id>
+      <parentid>885708078</parentid>
+      <timestamp>2019-03-04T00:57:25Z</timestamp>
+      <contributor>
+        <ip>82.23.42.196</ip>
+      </contributor>
+      <comment>/* Career statistics */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15451">{{Infobox football biography
+| name = Willy Boly
+| image = Shahter-Braga (7).jpg
+| image_size = 200
+| caption = Boly playing for [[S.C. Braga|Braga]]
+| fullname = Willy-Arnaud Zobo Boly&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/844127|title=2018/19 Premier League squads confirmed|publisher=Premier League|date=3 September 2018|accessdate=4 September 2018}}&lt;/ref&gt;
+| birth_date = {{Birth date and age|1991|2|3|df=y}}
+| birth_place = [[Melun]], France
+| height = 1.95 m&lt;ref&gt;{{cite web|url=https://www.wolves.co.uk/team/seniors/willy-boly/|title=Willy Boly|publisher=Wolverhampton Wanderers F.C|accessdate=10 August 2018}}&lt;/ref&gt;
+| position = [[Defender (association football)#Centre-back|Centre back]]
+| currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| clubnumber = 15
+| youthyears1 = 2000–2002 | youthclubs1 = Rosny-sous-Bois
+| youthyears2 = 2002–2006 | youthclubs2 = CFF Paris
+| youthyears3 = 2004–2007 | youthclubs3 = [[Clairefontaine (football)|Clairefontaine]]
+| youthyears4 = 2007–2011 | youthclubs4 = [[AJ Auxerre|Auxerre]]
+| years1 = 2010–2014 | clubs1 = [[AJ Auxerre|Auxerre B]] | caps1 = 27 | goals1 = 2
+| years2 = 2011–2014 | clubs2 = [[AJ Auxerre|Auxerre]] | caps2 = 97 | goals2 = 3
+| years3 = 2014–2015 | clubs3 = [[S.C. Braga B|Braga B]] | caps3 = 16 | goals3 = 1
+| years4 = 2015–2016 | clubs4 = [[S.C. Braga B|Braga]] | caps4 = 25 | goals4 = 2
+| years5 = 2016–2018 | clubs5 = [[FC Porto|Porto]] | caps5 = 4 | goals5 = 0
+| years6 = 2017–2018 | clubs6 = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan) | caps6 = 36 | goals6 = 3
+| years7 = 2018– | clubs7 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] | caps7 = 24 | goals7 = 3
+| nationalyears1 = 2006 | nationalteam1 = [[France national under-16 football team|France U16]] | nationalcaps1 = 1 | nationalgoals1 = 0
+| nationalyears2 = 2007–2008 | nationalteam2  = [[France national under-17 football team|France U17]] | nationalcaps2 = 4 | nationalgoals2 = 0
+| nationalyears4 = 2010 | nationalteam4 = [[France national under-19 football team|France U19]] | nationalcaps4 = 1 | nationalgoals4 = 0
+| club-update = 00:03, 12 February 2019 (UTC)
+| nationalteam-update =
+}}
+'''Willy-Arnaud Zobo Boly''' (born 3 February 1991) is a French professional [[Association football|footballer]] who plays as a [[Defender (association football)#Centre-back|centre back]] for [[Premier League]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].
+
+==Club career==
+===Auxerre===
+Born in [[Melun]], [[Seine-et-Marne]], Boly played youth football for three clubs, also having a three-year spell at the [[Clairefontaine (football)|INF Clairefontaine]] academy.&lt;ref&gt;{{cite web|url=http://www.aja-mag.fr/dossier_boly-se-sent-pret.html|title=Willy Boly: "Je me sens prêt"|trans-title=Willy Boly: "I feel ready"|publisher=AJA Mag|language=fr|date=16 April 2011|accessdate=24 April 2011}}&lt;/ref&gt; He made his senior debut with [[AJ Auxerre]]'s reserves and, in February 2011, he signed his first professional contract after agreeing to a three-year deal with an option for a fourth.&lt;ref&gt;{{cite web|url=http://www.mercato365.com/infos-clubs/auxerre/article_500741_Auxerre-W.Boly-passe-pro.shtml|title=W. Boly passe pro|trans-title=W. Boly turns pro|publisher=Mercato 365|language=fr|date=19 February 2011|accessdate=24 April 2011}}&lt;/ref&gt;
+
+On 16 April 2011, Boly made his [[Ligue 1]] debut by playing the full 90 minutes in a 1–0 away win against [[Toulouse FC]].&lt;ref&gt;{{cite web|url=http://www.eurosport.fr/football/ligue-1/2010-2011/toulouse-fc-aj-auxerre_mtc379013/live.shtml|title=Toulouse FC 0–1 AJ Auxerre|publisher=[[Eurosport]]|language=fr|date=16 April 2011|accessdate=10 March 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.lesviolets.com/actu/tfc-0-1-auxerre-un-hold-up-qui-fait-tres-mal,11243.html|title=TFC 0–1 Auxerre: Un hold-up qui fait très mal|trans-title=TFC 0–1 Auxerre: Quite harmful hold-up|publisher=Les Violets|language=fr|date=17 April 2011|accessdate=10 March 2016}}&lt;/ref&gt; He scored his first goal in the competition the following matchday, in a 1–1 home draw to [[RC Lens]].&lt;ref&gt;{{cite web|url=http://www.rclensois.fr/match/auxerre-lens-score-final-1-1-a11706.html|title=Auxerre-Lens: Score final (1–1)|trans-title=Auxerre-Lens: Final score (1–1)|publisher=RC Lensois|language=fr|date=24 April 2011|accessdate=10 March 2016}}&lt;/ref&gt;
+
+Boly was an undisputed starter in the [[2011–12 Ligue 1|2011–12 season]] (33 games, one goal),&lt;ref&gt;{{cite news|url=http://sport24.lefigaro.fr/football/ligue-1/Homes-Clubs/auxerre/actualites/auxerre-s-ecroule-en-fin-de-match-534559|title=Auxerre s’écroule en fin de match|trans-title=Auxerre collapse towards the end of the match|newspaper=[[Le Figaro]]|language=fr|date=11 February 2012|accessdate=10 March 2016}}&lt;/ref&gt; but the ''AJA'' were relegated to [[Ligue 2]] after finishing last.&lt;ref&gt;{{cite web|url=http://www.les-transferts.com/ligue-1/auxerre-boly-vers-la-roma.html|title=Auxerre: Boly vers la Roma?|trans-title=Auxerre: Boly to Roma?|publisher=Les Transferts|language=fr|date=22 April 2012|accessdate=10 March 2016}}&lt;/ref&gt;
+
+===Braga===
+On 1 September 2014, Boly moved to Portugal and joined [[S.C. Braga]] on a four-year deal.&lt;ref&gt;{{cite news|url=https://www.lequipe.fr/Football/Actualites/Boly-a-braga/495468|title=Boly à Braga|trans-title=Boly to Braga|newspaper=[[L'Équipe]]|language=fr|date=1 September 2014|accessdate=6 October 2014}}&lt;/ref&gt; He spent [[2014–15 Segunda Liga|his first season]] with [[S.C. Braga B|the B-team]], in the [[Segunda Liga]].&lt;ref&gt;{{cite web|url=http://www.maisfutebol.iol.pt/sporting-braga/willy-boly/boly-sp-braga-estamos-a-caminhar-para-o-que-fonseca-quer|title=Boly (Sp. Braga): "Estamos a caminhar para o que Fonseca quer"|trans-title=Boly (Sp. Braga): "We are going in the direction of Fonseca's wishes"|publisher=Mais Futebol|language=pt|date=9 September 2015|accessdate=10 March 2016}}&lt;/ref&gt;
+
+===Porto===
+On 31 August 2016, Boly signed a five-year contract with [[FC Porto]] with a €45 million buyout clause.&lt;ref&gt;{{cite news|url=http://www.record.pt/futebol/futebol-nacional/liga-nos/fc-porto/detalhe/oficial-willy-boly-e-reforco-dos-dragoes.html|title=Oficial: Willy Boly é reforço dos dragões|trans-title=Official: Willy Boly bolsters dragons|newspaper=[[Record (newspaper)|Record]]|language=Portuguese|date=31 August 2016|accessdate=8 July 2017}}&lt;/ref&gt; He played only eight competitive matches during his spell,&lt;ref&gt;{{cite news|url=https://www.ojogo.pt/futebol/1a-liga/porto/noticias/interior/boly-um-caso-de-sucesso-que-pode-ser-jackpot-de-verao-9010368.html|title=Boly: um caso de sucesso que pode ser jackpot de verão|trans-title=Boly: a case of success who might be a summer jackpot|newspaper=[[O Jogo]]|first=Carlos|last=Gouveia|language=pt|date=27 December 2017|accessdate=7 June 2018}}&lt;/ref&gt; including the 0–1 away loss against [[Juventus F.C.]] for [[2016–17 UEFA Champions League|the last-16 stage]] of the [[UEFA Champions League]] where he featured the second half after coming on as a [[Substitute (association football)|substitute]] for [[André Silva (footballer, born 1995)|André Silva]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/live/2017/mar/14/juventus-porto-champions-league-live|title=Juventus 1–0 Porto (agg 3–0): Champions League last 16, second leg – as it happened|newspaper=[[The Guardian]]|first=Scott|last=Murray|date=14 March 2017|accessdate=7 June 2018}}&lt;/ref&gt;
+
+===Wolverhampton Wanderers===
+On 8 July 2017, Boly joined [[EFL Championship]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a [[2017–18 EFL Championship|season]]-long loan, reuniting him with his former head coach [[Nuno Espírito Santo]].&lt;ref&gt;{{cite web|url=https://www.wolves.co.uk/news/first-team/20170708-willy-boly/|title=Willy Boly!|publisher=Wolverhampton Wanderers|date=8 July 2017|accessdate=8 July 2017}}&lt;/ref&gt; He made his competitive debut for the latter on the opening day of [[2017–18 EFL Championship|the season]], a 1–0 home win against [[Middlesbrough F.C.|Middlesbrough]],&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/40760787|title=Wolverhampton Wanderers 1–0 Middlesbrough|publisher=[[BBC Sport]]|date=5 August 2017|accessdate=31 October 2017}}&lt;/ref&gt; and scored his first goal on 31 October to help to a 2–0 away win over [[Norwich City F.C.|Norwich City]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/41730398|title=Norwich City 0–2 Wolverhampton Wanderers|publisher=BBC Sport|date=31 October 2017|accessdate=31 October 2017}}&lt;/ref&gt;
+
+After helping achieve promotion while making 37 official appearances, Boly signed a permanent contract.&lt;ref&gt;{{cite web|url=https://talksport.com/football/wolverhampton-wanderers-fc-transfer-news-benik-afobe-and-willy-boly-join-premier-league-new|title=Benik Afobe and Willy Boly join Premier League new boys on permanent deals|publisher=[[Talksport]]|date=1 June 2018|accessdate=1 June 2018}}&lt;/ref&gt; He made his [[Premier League]] debut on 11 August 2018, in a 2–2 home draw against [[Everton F.C.|Everton]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45067374|title=Wolverhampton Wanderers 2–2 Everton|publisher=BBC Sport|first=Shamoon|last=Hafez|date=11 August 2018|accessdate=14 August 2018}}&lt;/ref&gt; He scored his first goal in the competition two weeks later in a 1–1 home draw to [[Manchester City F.C.|Manchester City]],&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2018/aug/25/wolves-manchester-city-premier-league-match-report|title=Manchester City rely on Aymeric Laporte to share spoils with Wolves|newspaper=The Guardian|first=Stuart|last=James|date=25 August 2018|accessdate=28 August 2018}}&lt;/ref&gt; but the goal proved controversial as television replays showed the ball was deflected into the goal by his forearm after glancing off his head.&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/sport/football/premier-league/wolves-vs-manchester-city-willy-boly-goal-reaction-premier-league-highlights-watch-video-a8508101.html|title=Pep Guardiola refuses to criticise referee after Willy Boly's handball in Manchester City draw|newspaper=[[The Independent]]|first=Jack|last=Watson|date=26 August 2018|accessdate=28 August 2018}}&lt;/ref&gt;
+
+==International career==
+Born to [[Demographics of Ivory Coast|Ivorian parents]], Boly represented [[France national football team|France]] at [[France national under-16 football team|under-16]], [[France national under-17 football team|under-17]] and [[France national under-19 football team|under-19 levels]].&lt;ref&gt;{{cite web|url=http://news.abidjan.net/h/461420.html|title=Football / Willy Boly (International Franco-ivoirien de l’AJ Auxerre en France) Tout sur ce défenseur central qui peut aider les Eléphants!|trans-title=Football / Willy Boly (French-Ivorian international of France's AJ Auxerre) Everything about this central defender who might help the Elephants!|publisher=News Abidjan|language=fr|date=6 June 2013|accessdate=23 May 2018}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 2 March 2019}}&lt;ref&gt;{{Soccerway|willy-boly/158635|accessdate=5 July 2017}}&lt;/ref&gt;
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|[[UEFA|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+| rowspan="6"|[[AJ Auxerre|Auxerre]]
+|[[2010–11 Ligue 1|2010–11]]
+|[[Ligue 1]]
+|8||1||0||0||0||0||colspan="2"|—||colspan="2"|—||8||1
+|-
+|[[2011–12 Ligue 1|2011–12]]
+|Ligue 1
+|33||1||2||0||2||0||colspan="2"|—||colspan="2"|—||37||1
+|-
+|[[2012–13 Ligue 2|2012–13]]
+|[[Ligue 2]]
+|25||1||0||0||2||0||colspan="2"|—||colspan="2"|—||27||1
+|-
+|[[2013–14 Ligue 2|2013–14]]
+|Ligue 2
+|30||0||4||1||4||0||colspan="2"|—||colspan="2"|—||38||1
+|-
+|[[2014–15 Ligue 2|2014–15]]
+|Ligue 2
+|1||0||0||0||2||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!97!!3!!6!!1!!10!!0!!colspan=2|—!!colspan=2|—!!113!!4
+|-
+| rowspan="4"|[[S.C. Braga|Braga]]
+|[[2014–15 Primeira Liga|2014–15]]
+|[[Primeira Liga]]
+|0||0||0||0||1||0||0||0||colspan="2"|—||1||0
+|-
+|[[2015–16 Primeira Liga|2015–16]]
+|Primeira Liga
+|22||2||4||0||1||0||12&lt;ref group=lower-alpha name="UEL"&gt;Appearances in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||0||colspan="2"|—||39||2
+|-
+|[[2016–17 Primeira Liga|2016–17]]
+|Primeira Liga
+|3||0||0||0||0||0||0||0||1&lt;ref group=lower-alpha name="SCO"&gt;Appearance in the [[Supertaça Cândido de Oliveira]]&lt;/ref&gt;||0||4||0
+|-
+!colspan="2"|Total
+!25!!2!!4!!0!!2!!0!!12!!0!!1!!0!!44!!2
+|-
+| rowspan="1"|[[FC Porto|Porto]]
+|[[2016–17 FC Porto season|2016–17]]
+|Primeira Liga
+|4||0||0||0||2||0||1&lt;ref group=lower-alpha name="UCL"&gt;Appearance in the [[UEFA Champions League|Champions League]]&lt;/ref&gt;||0||colspan="2"|—||7||0
+|-
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
+|[[2017–18 Wolverhampton Wanderers F.C. season|2017–18]]
+|[[EFL Championship|Championship]]
+|36||3||0||0||1||0||colspan="2"|—||colspan=2|—||37||3
+|-
+|rowspan="2"|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]
+|[[Premier League]]
+|27||3||3||0||0||0||colspan="2"|—||colspan=2|—||30||3
+|-
+!colspan="2"|Wolves total
+!63!!6!!3!!0!!1!!0!!colspan=2|—!!colspan=2|—!!67!!6
+|-
+!colspan="3"|Career total
+!189!!11!!13!!1!!15!!0!!13!!0!!1!!0!!231!!12
+|}
+
+{{reflist|group=lower-alpha}}
+
+==Honours==
+'''Braga'''
+*[[Taça de Portugal]]: [[2015–16 Taça de Portugal|2015–16]]
+
+'''Wolverhampton Wanderers'''
+*[[EFL Championship]]: [[2017–18 EFL Championship|2017–18]]&lt;ref&gt;{{cite book|editor-first=John|editor-last=Anderson|title=Football Yearbook 2018–2019|year=2018|publisher=Headline Publishing Group|location=London|isbn=978-1-4722-6106-9|pages=386–387}}&lt;/ref&gt;
+
+'''Individual'''
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Championship 9|2017–18 Championship]]&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/43808543|title=PFA Championship Team of the Year: Wolves &amp; Fulham trios named in line-up|publisher=BBC Sport|date=18 April 2018|accessdate=5 May 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{LFP|id=boly-willy}}
+*{{Lequipe|36151}}
+*{{TheFinalBall}}
+*{{ForaDeJogo}}
+*{{Soccerbase|58372}}
+
+{{Wolverhampton Wanderers F.C. squad}}
+{{2017–18 EFL Championship PFA Team of the Year}}
+
+{{DEFAULTSORT:Boly, Willy}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:French people of Ivorian descent]]
+[[Category:Sportspeople from Melun]]
+[[Category:French footballers]]
+[[Category:Association football defenders]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:AJ Auxerre players]]
+[[Category:Primeira Liga players]]
+[[Category:LigaPro players]]
+[[Category:S.C. Braga B players]]
+[[Category:S.C. Braga players]]
+[[Category:FC Porto players]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:France youth international footballers]]
+[[Category:French expatriate footballers]]
+[[Category:Expatriate footballers in Portugal]]
+[[Category:Expatriate footballers in England]]
+[[Category:French expatriate sportspeople in Portugal]]</text>
+      <sha1>s3obexitlg4aimnpoh781fd2iam7rab</sha1>
+    </revision>
+  </page>
+</mediawiki>

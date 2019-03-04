@@ -1,0 +1,240 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ola Aina</title>
+    <ns>0</ns>
+    <id>51379893</id>
+    <revision>
+      <id>882700626</id>
+      <parentid>882670748</parentid>
+      <timestamp>2019-02-10T20:28:29Z</timestamp>
+      <contributor>
+        <username>Keith D</username>
+        <id>2278355</id>
+      </contributor>
+      <comment>Fix timestamp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13916">{{Use dmy dates|date=October 2017}}
+{{Infobox football biography
+|name            = Ola Aina
+|image           = Ola Aina 2016.jpg
+|image_size      = 200
+|caption         = 
+|fullname        = Temitayo Olufisayo Olaoluwa Aina&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
+|birth_date      = {{birth date and age|1996|10|8|df=y}}&lt;ref name="11v11"&gt;{{cite web |title=Ola Aina |url=http://www.11v11.com/players/ola-aina-250021/|work=11v11.com |publisher=AFS Enterprises|accessdate=16 January 2016}}&lt;/ref&gt;
+|birth_place     = [[London Borough of Southwark|Southwark]], [[London]], England
+|height          = 1.75 m&lt;ref name="11v11"/&gt;
+|position        = [[Defender (association_football)#Wing-back|Wing-back]]
+|currentclub     = [[Torino F.C.|Torino]]&lt;br /&gt;(on loan from [[Chelsea F.C.|Chelsea]])
+|clubnumber      = 34
+|youthyears1     = 2007–2015
+|youthclubs1     = [[Chelsea F.C.|Chelsea]]
+|years1          = 2015–
+|clubs1          = [[Chelsea F.C.|Chelsea]]
+|caps1           = 3
+|goals1          = 0
+|years2          = 2017–2018
+|clubs2          = → [[Hull City A.F.C.|Hull City]] (loan)
+|caps2           = 44
+|goals2          = 0
+|years3          = 2018–
+|clubs3          = → [[Torino F.C.|Torino]] (loan)
+|caps3           = 20
+|goals3          = 1
+|nationalyears1  = 2011–2012
+|nationalteam1   = [[England national under-16 football team|England U16]]
+|nationalcaps1   = 6
+|nationalgoals1  = 0
+|nationalyears2  = 2012–2013
+|nationalteam2   = [[England national under-17 football team|England U17]]
+|nationalcaps2   = 11
+|nationalgoals2  = 0
+|nationalyears3  = 2013
+|nationalteam3   = [[England national under-18 football team|England U18]]
+|nationalcaps3   = 1
+|nationalgoals3  = 0
+|nationalyears4  = 2013–2015
+|nationalteam4   = [[England national under-19 football team|England U19]]
+|nationalcaps4   = 13
+|nationalgoals4  = 0
+|nationalyears5  = 2015–2016
+|nationalteam5   = [[England national under-20 football team|England U20]]
+|nationalcaps5   = 6
+|nationalgoals5  = 0
+|nationalyears6  = 2017–
+|nationalteam6   = [[Nigeria national football team|Nigeria]]
+|nationalcaps6   = 8
+|nationalgoals6  = 0
+|club-update     = 16:08, 10 February 2019 (UTC)
+|ntupdate        = 17:05, 17 November 2018 (UTC)
+}}
+'''Temitayo Olufisayo Olaoluwa "Ola" Aina''' (born 8 October 1996) is a professional [[Association football|footballer]] who plays as a [[Defender (association_football)#Wing-back|wing-back]] for Italian club [[Torino F.C.|Torino]], on loan from English club [[Chelsea F.C.|Chelsea]], and the [[Nigeria national football team|Nigeria national team]].
+
+==Club career==
+===Chelsea===
+====Early career====
+Ola Aina signed for Chelsea as an under-11 and made his youth team debut as a schoolboy in the 2012–13 season and went on to start in both legs of the semi-final and final of the FA Youth Cup. In his youth career, he has also represented Chelsea in the under-18s, under-19s, and under-21 levels.&lt;ref name="Chelsea Profile"&gt;{{cite web|url=http://www.chelseafc.com/teams/first-team/ola-aina.html |title=Ola Aina Chelsea Profile |accessdate=23 August 2016 |publisher=Chelsea F.C.}}&lt;/ref&gt; On 19 July 2014, Aina made his first-team debut in a pre-season friendly against [[AFC Wimbledon]], after [[Todd Kane]]'s injury. Aina started the match and was [[Substitute (association football)|substituted]] at half-time for [[Branislav Ivanović]] as Chelsea went on to win 3–2.&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news/latest-news/2014/07/afc-wimbledon-v-chelsea.html |title=Match report: AFC Wimbledon 2 Chelsea 3 |date=19 July 2014 |publisher=Chelsea F.C.|accessdate=26 August 2016}}&lt;/ref&gt;
+
+Before the 2015–16 season, he was included in the pre-season tour, playing three matches in the [[2015 International Champions Cup|International Champions Cup]]. After impressing Chelsea manager [[José Mourinho]], Aina was included in the first-team squad for the [[2015–16 Chelsea F.C. season|campaign]]. Although he spent the entire season training full-time with the first-team, he continued his role in the under-21s and under-19s sides.&lt;ref name="Chelsea Profile" /&gt; On 23 September 2015, Aina was included in the match-day squad against [[Walsall F.C.|Walsall]] in the fourth round of the [[2015–16 Football League Cup|League Cup]], although he was an unused substitute.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/34265632 |title=Walsall 1–4 Chelsea |date=23 September 2015|publisher=BBC Sports|accessdate=26 August 2016}}&lt;/ref&gt;
+
+Due to a lack of first-team opportunities, Aina refused a new contract despite his current contact ending at the end of the season.&lt;ref&gt;{{cite web|url=https://www.mirror.co.uk/sport/football/transfer-news/arsenal-join-transfer-race-sign-7161465 |title=Arsenal join transfer race to sign Chelsea's England Under-21 right-back Ola Aina |date=11 January 2016|accessdate=26 August 2016}}&lt;/ref&gt;
+
+====2016–17 season====
+On 6 July 2016, he signed a new four-year contract, ending the rumours of him leaving the London side.&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news/latest-news/2016/07/aina-seals-new-deal.html |title=Aina seals new deal |date=6 July 2016 |publisher=Chelsea F.C.|accessdate=26 August 2016}}&lt;/ref&gt; After signing a new contract, Aina was included in the travelling squad to Austria and the United States. He went on to play in all six pre-season matches. On 23 August 2016, Aina was given his professional debut by manager [[Antonio Conte]] in a 3–2 victory over [[Bristol Rovers F.C.|Bristol Rovers]] in the [[2016–17 EFL Cup|EFL Cup]], being replaced by [[John Terry]] in the 77th minute.&lt;ref&gt;{{Cite news |title=Chelsea 3–2 Bristol Rovers |url=https://www.bbc.co.uk/sport/football/37091061 |publisher=BBC Sport |date=23 August 2016 |accessdate=23 August 2016}}&lt;/ref&gt; On 15 October 2016, he made his [[Premier League]] debut in a 3–0 victory over reigning champions [[Leicester City F.C.|Leicester City]], replacing goalscorer [[Victor Moses]] in the 82nd minute.&lt;ref&gt;{{Cite news |title=Chelsea 3–0 Leicester City |url=https://www.bbc.co.uk/sport/football/37594219 |publisher=BBC Sport |date=15 October 2016 |accessdate=15 October 2016}}&lt;/ref&gt;
+
+====Loan to Hull City====
+On 11 July 2017, Chelsea announced that they had loaned Aina to [[EFL Championship|Championship]] side [[Hull City A.F.C.|Hull City]].&lt;ref&gt;{{Cite news |title=First loan for Aina |url=http://www.chelseafc.com/news/latest-news/2017/07/aina-out-on-loan.html |publisher=Chelsea Official Site |date=11 July 2017 |accessdate=11 July 2017}}&lt;/ref&gt; He made his debut on the opening day of the season, 5 August 2017, away to [[Aston Villa F.C.|Aston Villa]], in a 1–1 draw.&lt;ref&gt;{{cite news
+  | url = https://www.bbc.co.uk/sport/football/40760772
+  | title = Aston Villa 1–1 Hull City
+  | date = 5 August 2017
+  | work = BBC Sport
+  | publisher = BBC
+  | accessdate = 5 August 2017}}&lt;/ref&gt;
+He scored the only goal in a 1–0 defeat of [[Blackburn Rovers F.C.|Blackburn Rovers]] in the third-round of the [[FA Cup]] on 6 January 2018.&lt;ref&gt;{{cite news
+  | url = https://www.bbc.co.uk/sport/football/42519393
+  | title = Blackburn Rovers 0–1 Hull City
+  | date = 6 January 2018
+  | work = BBC Sport
+  | publisher = BBC
+  | accessdate = 6 January 2018}}&lt;/ref&gt;
+
+====Loan to Torino====
+On 14 August 2018, Aina joined Italian club [[Torino F.C.|Torino]] on a season-long loan after signing a new three-year deal with Chelsea.&lt;ref&gt;{{Cite news |title=New contract and loan for Aina |url=https://www.chelseafc.com/en/news/2018/8/14/new-contract-and-loan-for-aina |publisher=Chelsea Official Site |date=14 August 2018 |accessdate=14 August 2018}}&lt;/ref&gt;  He made his [[Serie A]] debut a  few days later in Torino's 0–1 opening day defeat at home to [[A.S. Roma|Roma]], coming on as a substitute in place of fellow right-back [[Lorenzo De Silvestri]] who went off injured after just 25 minutes.&lt;ref&gt;{{cite web|url=http://www.legaseriea.it/en/serie-a/match-report/2018-19/UNICO/UNI/1/TORROM|title=Fixtures and Results - Season 2018-19 - 1^ Match Day - Lega Serie A|website=www.legaseriea.it|accessdate=19 August 2018}}&lt;/ref&gt;
+
+==International career==
+===England youth teams===
+Aina has represented England at [[England national under-16 football team|under-16]], [[England national under-17 football team|under-17]], [[England national under-18 football team|under-18]], [[England national under-19 football team|under-19]] and [[England national under-20 football team|England under-20]] levels.
+
+===Nigeria===
+[[File:Ola Aina-Nigeria.jpg|thumb|right|Aina with Nigeria against Argentina, Uzomedia]]
+On 28 March 2017, Aina was pictured alongside [[Chuba Akpom]] of [[Arsenal F.C.|Arsenal]] after discussions with [[Nigeria Football Federation]] president, [[Amaju Pinnick]].&lt;ref&gt;{{cite web|url=http://www.goal.com/en-ng/news/4110/nigerians-abroad/2017/03/28/34076632/chelseas-ola-aina-brighton-and-hove-albions-chuba-akpom|title=Chelsea's Ola Aina, Brighton and Hove Albion's Chuba Akpom pledge allegiance to Nigeria|author=Oludare, Shina|date=28 March 2017|publisher=Goal Nigeria|accessdate=28 March 2017}}&lt;/ref&gt; In May 2017, Aina pledged his international future to Nigeria and obtained a Nigerian passport in preparation to making the switch from England to Nigeria.&lt;ref&gt;{{cite web|url=http://dailypost.ng/2017/05/12/nff-confirms-ola-aina-joel-bazee-now-nigerian-passports-tammy-abraham-follow/|title=NFF confirms Ola Aina, Joel Bazee now have Nigerian passports, Tammy Abraham to follow|date=12 May 2017|publisher=|accessdate=15 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.vanguardngr.com/2017/05/nff-formally-applies-ainas-intl-switch/|title=NFF formally applies for Aina's int'l switch – Vanguard News|date=4 May 2017|publisher=|accessdate=15 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.thesun.co.uk/sport/football/3481081/chelsea-ola-aina-nigeria-england/|title=Chelsea's London-born starlet Ola Aina poised to snub England and play for Nigeria|date=4 May 2017|publisher=|accessdate=15 May 2017}}&lt;/ref&gt; In the same month, he was called up for the first time to play for Nigeria.&lt;ref&gt;{{cite web|url=http://www.espnfc.com/nigeria/story/3122106/chelseas-ola-aina-gets-nigeria-call|title=Chelsea's Ola Aina gets Nigeria call|publisher=|accessdate=17 May 2017}}&lt;/ref&gt;
+
+In May 2018 he was named in Nigeria’s  preliminary 30 man [[Nigeria national football team| squad]] for the [[2018 World Cup]] in [[Russia]].&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gb/amp/news/revealed-every-world-cup-2018-squad-23-man-preliminary-lists/oa0atsduflsv1nsf6oqk576rb|title=Revealed: Every World Cup 2018 squad - 23-man &amp; preliminary lists &amp; when will they be announced? |website= Goal.com|publisher=|accessdate=17 May 2018}}&lt;/ref&gt; However, he did not make the final 23.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/44346451|title=World Cup 2018: Arsenal's Iwobi in Nigeria's 23-man squad|date=3 June 2018|publisher=|accessdate=20 August 2018|work=BBC Sport}}&lt;/ref&gt;
+
+==Club statistics==
+{{updated|match played 10 February 2019.}}&lt;ref name="Soccerway"&gt;{{Soccerway|temitayo-aina/274798|accessdate=8 January 2017}}&lt;/ref&gt;
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|[[UEFA competitions|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Chelsea F.C.|Chelsea]]
+||[[2015–16 Chelsea F.C. season|2015–16]]
+|[[Premier League]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+||[[2016–17 Chelsea F.C. season|2016–17]]
+|Premier League
+|3||0||1||0||2||0||colspan="2"|—|| colspan="2" |—||6||0
+|-
+!colspan="2"|Total
+!3!!0!!1!!0!!2!!0!!0!!0!!0!!0!!6!!0
+|-
+|rowspan="1"|[[Hull City A.F.C.|Hull City]] (loan)
+||[[2017–18 Hull City A.F.C. season|2017–18]]
+|[[EFL Championship|Championship]]
+|44||0||2||1||0||0||colspan="2"|—||colspan="2"|—||46||1
+|-
+|rowspan="1"|[[Torino F.C.|Torino]] (loan)
+||[[2018–19 Torino F.C. season|2018–19]]
+|[[Serie A]]
+|20||1||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||22||1
+|-
+!colspan="3"|Career total
+!63!!0!!5!!1!!2!!0!!0!!0!!0!!0!!70!!1
+|}
+
+{{notelist}}
+
+==Honours==
+'''Chelsea'''&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/teams/first-team/ola-aina.html |title=Ola Aina's Profile |publisher=Chelsea F.C. |date=23 August 2016 |accessdate=26 August 2016}}&lt;/ref&gt;
+*[[Professional Development League|Barclays U21 Premier League]]: [[2013–14 Professional U21 Development League|2013–14]]
+*[[FA Youth Cup]]: [[2013–14 FA Youth Cup|2013–14]], [[2014–15 FA Youth Cup|2014–15]]
+*[[UEFA Youth League]]: [[2014–15 UEFA Youth League|2014–15]], [[2015–16 UEFA Youth League|2015–16]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.thefa.com/england/all-teams/players?p=352317 England profile] at The FA
+*{{Soccerbase}}
+
+{{Torino F.C. squad}}
+&lt;!--{{Chelsea F.C. squad}}--&gt;
+
+{{DEFAULTSORT:Aina, Ola}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:English footballers]]
+[[Category:Nigerian footballers]]
+[[Category:Association football defenders]]
+[[Category:Chelsea F.C. players]]
+[[Category:Hull City A.F.C. players]]
+[[Category:Torino F.C. players]]
+[[Category:England youth international footballers]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:Serie A players]]
+[[Category:English expatriate footballers]]
+[[Category:Nigerian expatriate footballers]]
+[[Category:Expatriate footballers in Italy]]
+[[Category:English people of Nigerian descent]]
+[[Category:Black English sportspeople]]
+[[Category:Footballers from Greater London]]
+[[Category:People from Southwark]]</text>
+      <sha1>l1ps8ip19zv85bt20um6j0fdknbhazr</sha1>
+    </revision>
+  </page>
+</mediawiki>

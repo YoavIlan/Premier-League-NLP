@@ -1,0 +1,220 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Aaron Ramsdale</title>
+    <ns>0</ns>
+    <id>52471236</id>
+    <revision>
+      <id>885266324</id>
+      <parentid>885185774</parentid>
+      <timestamp>2019-02-27T00:13:40Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/81.155.18.44|81.155.18.44]] ([[User talk:81.155.18.44|talk]]) to last revision by Himark1863 ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15621">{{Infobox football biography
+| name = Aaron Ramsdale
+| image = 
+| image_size = 
+| caption = 
+| fullname = Aaron Christopher Ramsdale&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/844127 |title=2018/19 Premier League squads confirmed |publisher=Premier League |date=3 September 2018 |accessdate=4 September 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1998|5|14|df=y}}
+| birth_place = [[Stoke on Trent]], [[England]]
+| height = {{convert|1.88|m|ftin|order=flip}}
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[AFC Wimbledon]] &lt;br&gt; (on loan from [[A.F.C. Bournemouth|Bournemouth]])
+| clubnumber = 35 &lt;!--12--&gt;
+| youthyears1 = 
+| youthclubs1 = [[Bolton Wanderers F.C.|Bolton Wanderers]]
+| youthyears2 = {{0|0000}}–2016
+| youthclubs2 = [[Sheffield United F.C. Academy|Sheffield United]]
+| years1 = 2016–2017
+| clubs1 = [[Sheffield United F.C.|Sheffield United]]
+| caps1 = 0
+| goals1 = 0
+| years2 = 2017–
+| clubs2 = [[A.F.C. Bournemouth|Bournemouth]]
+| caps2 = 0
+| goals2 = 0
+| years3 = 2018
+| clubs3 = → [[Chesterfield F.C.|Chesterfield]] (loan)
+| caps3 = 19
+| goals3 = 0
+| years4 = 2019–
+| clubs4 = → [[AFC Wimbledon]] (loan)
+| caps4 = 4
+| goals4 = 0
+| nationalyears1 = 2016
+| nationalteam1 = [[England national under-18 football team|England U18]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2016–2017
+| nationalteam2 = [[England national under-19 football team|England U19]]
+| nationalcaps2 = 12
+| nationalgoals2 = 0
+| nationalyears3 = 2017–
+| nationalteam3 = [[England national under-20 football team|England U20]]
+| nationalcaps3 = 3
+| nationalgoals3 = 0
+| nationalyears4 = 2018–
+| nationalteam4 = [[England national under-21 football team|England U21]]
+| nationalcaps4 = 1
+| nationalgoals4 = 0
+| medaltemplates = 
+| club-update = 15:13, 3 February 2019 (UTC)
+| nationalteam-update = 12:32, 5 September 2018 (UTC)
+}}
+
+'''Aaron Christopher Ramsdale''' is an English [[Association football|footballer]] who plays as a [[goalkeeper (association football)|goalkeeper]] for [[AFC Wimbledon]] on loan from [[A.F.C. Bournemouth|Bournemouth]].
+
+==Club career==
+
+Born and raised in [[Chesterton, Staffordshire|Chesterton]], near [[Stoke-on-Trent|Stoke-on-Trent,]]&lt;ref name="Ramsdale1" /&gt; Ramsdale joined [[Bolton Wanderers F.C.|Bolton Wanderers]] but he was released at 15, due to being small at the time.&lt;ref&gt;{{cite news|title=AFC Bournemouth: Jussi Jaaskelainen inspired Aaron Ramsdale's rise to the top flight|url=http://www.bournemouthecho.co.uk/sport/15095962.AFC_Bournemouth__Jaaskelainen_inspired_Ramsdale__39_s_rise_to_the_top_flight/|publisher=Bournemouth Echo|date=16 February 2017|accessdate=1 February 2018}}&lt;/ref&gt; After being released by Bolton Wanderers, he joined [[Sheffield United F.C.|Sheffield United]] in 2013.&lt;ref name="Ramsdale1"&gt;{{cite web|url=https://www.sufc.co.uk/news/2014/august/development-squad/|title=Development Squad|publisher=Sheffield United F.C.|date=1 August 2014|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201200046/https://www.sufc.co.uk/news/2014/august/development-squad/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt; After graduating from [[Sheffield United F.C. Academy|Sheffield United's youth academy]],&lt;ref name="Ramsdale1"/&gt; Ramsdale signed a scholarship with the club in May 2014.&lt;ref&gt;{{cite web|url=https://www.sufc.co.uk/news/2014/may/welcome-to-the-new-scholars/|title=Welcome to the new scholars|publisher=Sheffield United F.C.|date=8 May 2014|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201200607/https://www.sufc.co.uk/news/2014/may/welcome-to-the-new-scholars/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt; Ramsdale appeared twice as an unused substitute during the 2015–16 season against [[Coventry City F.C.|Coventry City]] and [[Scunthorpe United F.C.|Scunthorpe United]].&lt;ref&gt;{{cite news|title=Coventry City 3 – 1 Sheffield United|url=https://www.bbc.co.uk/sport/football/36118188|publisher=BBC Sport|date=30 April 2016|accessdate=1 February 2018}}&lt;br&gt;{{cite news|title=Sheffield United 0 – 2 Scunthorpe United|url=https://www.bbc.co.uk/sport/football/36180664|publisher=BBC Sport|date=8 May 2016|accessdate=1 February 2018}}&lt;/ref&gt; In May 2016, he signed his first professional contract with the club.&lt;ref&gt;{{cite web|url=https://www.sufc.co.uk/news/2016/may/professional-deals-for-youngsters/|title=Professional deals for youngsters|publisher=Sheffield United F.C.|date=6 May 2016|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201202123/https://www.sufc.co.uk/news/2016/may/professional-deals-for-youngsters/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt;
+
+Ramsdale made his professional début starting in a 6–0 home victory over [[Leyton Orient F.C.|Leyton Orient]] in the [[FA Cup]], keeping a clean-sheet in the process.&lt;ref&gt;{{cite news|title=Sheffield United: Selfless George Long catches Blades boss Chris Wilder's eye|url=http://www.thestar.co.uk/sport/football/sheffield-united/sheffield-united-selfless-george-long-catches-blades-boss-chris-wilder-s-eye-1-8222245|accessdate=4 December 2016|publisher=Sheffield Star|date=7 November 2016}}&lt;/ref&gt; He also made another appearance in the FA Cup against [[Bolton Wanderers F.C.|Bolton Wanderers]] but lost 3–2.&lt;ref&gt;{{cite news|title=Bolton Wanderers 3 – 2 Sheffield United|url=https://www.bbc.co.uk/sport/football/38120945|publisher=BBC Sport|date=4 December 2016|accessdate=1 February 2018}}&lt;/ref&gt;
+
+===A.F.C. Bournemouth===
+On 31 January 2017, he was signed by [[Premier League]] club [[A.F.C. Bournemouth|Bournemouth]] for an undisclosed fee believed to be in the region of £800,000.&lt;ref&gt;{{cite news|title=AFC Bournemouth sign young 'keeper Aaron Ramsdale from Sheffield United|url=http://www.afcb.co.uk/news/article/2016-17/afc-bournemouth-keeper-aaron-ramsdale-from-sheffield-united-3547589.aspx|date=31 January 2017|accessdate=11 February 2017|publisher=A.F.C. Bournemouth|archiveurl=https://web.archive.org/web/20170201214616/http://www.afcb.co.uk/news/article/2016-17/afc-bournemouth-keeper-aaron-ramsdale-from-sheffield-united-3547589.aspx|archivedate=1 February 2017|deadurl=yes}}&lt;/ref&gt; However, the move was reported to cost £1 million.&lt;ref&gt;{{cite news|title=Sheffield United: Blades manager Chris Wilder explains why Aaron Ramsdale was allowed to depart|url=https://www.thestar.co.uk/sport/football/sheffield-united/sheffield-united-blades-manager-chris-wilder-explains-why-aaron-ramsdale-was-allowed-to-depart-1-8364033|publisher=The Star|date=1 February 2017|accessdate=1 February 2018}}&lt;/ref&gt;
+
+Ramsdale was on the bench for the final game of the 2016–17 season against [[Leicester City F.C.|Leicester City]].&lt;ref&gt;{{cite news|title=Leicester City 1 – 1 AFC Bournemouth|url=https://www.bbc.co.uk/sport/football/39912024|publisher=BBC Sport|date=21 May 2017|accessdate=1 February 2018}}&lt;/ref&gt;
+
+====Chesterfield (loan)====
+In the January transfer window, Ramsdale was loaned out to [[Chesterfield F.C.|Chesterfield]] for the rest of the 2017–18 season.&lt;ref&gt;{{cite web|url=https://www.chesterfield-fc.co.uk/news/2018/january/20180105-fourth-new-recruit-joins-spireites/|title=Fourth New Recruit Joins Spireites|publisher=Chesterfield F.C.|date=5 January 2018|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201212800/https://www.chesterfield-fc.co.uk/news/2018/january/20180105-fourth-new-recruit-joins-spireites/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt;
+
+Ramsdale made his Chesterfield debut against [[Accrington Stanley F.C.|Accrington Stanley]] on 6 January 2018, but scored an own goal after he ''"allowed a seemingly harmless [[Kayden Jackson|Jackson]] strike from the right to squirm into the net"'', in a 4–0 loss.&lt;ref&gt;{{cite news|title=Accrington Stanley 4 – 0 Chesterfield|url=https://www.bbc.co.uk/sport/football/42519872|publisher=BBC Sport|date=6 January 2018|accessdate=1 February 2018}}&lt;/ref&gt; In a follow-up match against [[Luton Town F.C.|Luton Town]] on 13 January 2018, he kept a clean sheet, in a 2–0 win.&lt;ref&gt;{{cite news|title=Chesterfield 2 – 0 Luton Town|url=https://www.bbc.co.uk/sport/football/42587767|publisher=BBC Sport|date=13 January 2018|accessdate=1 February 2018}}&lt;/ref&gt;
+
+====AFC Wimbledon (loan)====
+On 4 January 2019, Ramsdale joined [[AFC Wimbledon]] on loan until the end of the 2018–19 season.&lt;ref&gt; {{cite web|url=https://www.afcwimbledon.co.uk/news/2019/january/dons-sign-goalkeeper-on-loan-from-bournemouth/|title=Dons sign goalkeeper on loan from Bournemouth|website=www.afcwimbledon.co.uk|date=4 January 2019}} &lt;/ref&gt; The next day, Ramsdale made his debut for the Dons in a 3–2 Third Round FA Cup victory over [[Fleetwood Town F.C.|Fleetwood Town]] at [[Highbury Stadium (Fleetwood)|Highbury Stadium]].&lt;ref&gt; {{cite web|url=https://www.afcwimbledon.co.uk/news/2019/january/dons-march-into-fourth-round-with-a-dramatic-winner/|title=Dons march into fourth round with a dramatic winner|website=www.afcwimbledon.co.uk|date=5 January 2019}} &lt;/ref&gt; His league debut came a week later in a 1–1 draw with [[Coventry City F.C.|Coventry City]] at the [[Ricoh Arena|Ricoh Arena]].&lt;ref&gt; {{citeweb|url=https://www.afcwimbledon.co.uk/fixtures/first-team/201819/january/coventry-city-vs-afc-wimbledon-on-12-jan-19/#|title=Dons earn a creditable draw at Coventry|website=www.afcwimbledon.co.uk|date=12 January 2019}} &lt;/ref&gt;
+
+==International career==
+Ramsdale has represented England at [[England national under-18 football team|Under 18]], [[England national under-19 football team|Under 19]] and [[England national under-20 football team|Under 20]] level.&lt;ref&gt;{{cite web|url=http://www.thefa.com/england/all-teams/players?p=357107|title=Profile – Aaron Ramdale|work=The Football Association|accessdate=13 March 2017}}&lt;/ref&gt;
+
+He was first called up by England U18 in March 2016, where he made his debut on his debut for the side, in a 4–1 win over [[Republic of Ireland national football team|Republic of Ireland U18]] on 27 March 2016.&lt;ref&gt;{{cite web|url=https://www.sufc.co.uk/news/2016/march/call-up-for-young-keeper/|title=Call-up for young keeper|publisher=Sheffield United F.C.|date=16 March 2016|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201202427/https://www.sufc.co.uk/news/2016/march/call-up-for-young-keeper/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt; He went on to make two appearances for the England U18 side.
+
+In August 2016, Ramsdale was called up by England U19, where he made his debut on 4 September 2016, in a 1–0 loss against [[Belgium national football team|Belgium U19]].&lt;ref&gt;{{cite web|url=https://www.sufc.co.uk/news/2016/august/ramsdale-called-up/|title=Ramsdale called-up|publisher=Sheffield United F.C.|date=24 August 2016|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201203304/https://www.sufc.co.uk/news/2016/august/ramsdale-called-up/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt; Ramsdale started all five games for the [[England national under-19 football team|England under-19]] side that won the [[2017 UEFA European Under-19 Championship]].&lt;ref name="U19 Champion"&gt;{{cite web|title=European Under-19 Championship: England beat Portugal in final|url=https://www.bbc.co.uk/sport/football/40619862|publisher=BBC Sport|date=15 July 2017|accessdate=9 August 2017}}&lt;br&gt;{{cite news|title=Chelsea crucial to England winning U19 European Championship – Ramsdale|url=http://www.espn.co.uk/football/england-u19/story/3158799/chelsea-crucial-to-england-winning-u19-european-championship-aaron-ramsdale|publisher=ESPN|date=16 July 2017|accessdate=1 February 2018}}&lt;/ref&gt; During the tournament, Ramsdale kept three clean sheets in five matches.&lt;ref&gt;{{cite web|url=https://www.afcb.co.uk/news/first-team/ramsdales-england-u19s-make-euros-final|title=RAMSDALE'S ENGLAND U19S MAKE EUROS FINAL|publisher=AFC Bournemouth|date=12 July 2017|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201205538/https://www.afcb.co.uk/news/first-team/ramsdales-england-u19s-make-euros-final|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt;
+
+After winning the UEFA European U19-Championship, Ramsdale was called up by England U20 in August 2017, where he made his debut on 4 September 2017, in a 0–0 draw against [[Switzerland national football team|Switerzland U20]].&lt;ref&gt;{{cite web|url=https://www.afcb.co.uk/news/club-news/players-set-for-international-action|title=PLAYERS SET FOR INTERNATIONAL ACTION|publisher=AFC Bournemouth|date=29 August 2017|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201205844/https://www.afcb.co.uk/news/club-news/players-set-for-international-action|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt;
+
+On 18 May 2018, Ramsdale received a call up to [[England national under-21 football team|England U21]]s for the first time by Manager [[Adrian Boothroyd]], for the [[Toulon Tournament]] with Englands group containing fixtures against [[Qatar national under-20 football team|Qatar U21]]s, China U21s and [[Mexico national under-20 football team|Mexico U21]]s.&lt;ref&gt;{{citenews|publisher=FA.COM|date=18 May 2018|accessdate=18 May 2018|title=ENGLAND U21S HEAD TO MAURICE REVELLO TOURNAMENT IN TOULON WITH A 20-MAN SQUAD
+|url=http://www.thefa.com/news/2018/may/18/england-u21s-squad-named-for-toulon-180518}}&lt;/ref&gt;
+Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing the full 90 minutes in a 4–0 win against Qatar.
+
+==Career statistics==
+{{updated|match played 2 February 2019}}
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[EFL Cup|League Cup]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Sheffield United F.C.|Sheffield United]]
+|[[2016–17 Sheffield United F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|91150|2016|accessdate=9 January 2018}}&lt;/ref&gt;
+|[[EFL League One|League One]]
+|0||0||2||0||0||0||0||0||2||0
+|-
+|[[A.F.C. Bournemouth|Bournemouth]]
+|[[2017–18 A.F.C. Bournemouth season|2017–18]]&lt;ref name="AR17"&gt;{{soccerbase season|91150|2017|accessdate=9 January 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||colspan="2"|–||0||0
+|-
+|[[Chesterfield F.C.|Chesterfield]] (loan)
+|[[2017–18 Chesterfield F.C. season|2017–18]]&lt;ref name="AR17"/&gt;
+|[[EFL League Two|League Two]]
+|19||0||0||0||0||0||0||0||19||0
+|-
+|[[AFC Wimbledon|AFC Wimbledon]]
+|[[2018-19 AFC Wimbledon season|2018–19]]&lt;ref&gt;{{soccerbase season|91150|2018|accessdate=6 January 2019}}&lt;/ref&gt;
+|[[EFL League One|League One]]
+|4||0||2||0||0||0||0||0||6||0
+|-
+!colspan="3"|Career total
+!23!!0!!4!!0!!0!!0!!0!!0!!27!!0
+|}
+
+{{reflist|group=lower-alpha}}
+
+==Honours==
+===International===
+; England U19
+* [[UEFA European Under-19 Championship]]: [[2017 UEFA European Under-19 Championship|2017]]&lt;ref name="U19 Champion"/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerbase}}
+
+{{AFC Wimbledon squad}}
+&lt;!--{{A.F.C. Bournemouth squad}}--&gt;
+
+{{DEFAULTSORT:Ramsdale, Aaron}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Stoke-on-Trent]]
+[[Category:English footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Bolton Wanderers F.C. players]]
+[[Category:Sheffield United F.C. players]]
+[[Category:A.F.C. Bournemouth players]]
+[[Category:Chesterfield F.C. players]]
+[[Category:English Football League players]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]</text>
+      <sha1>hkt7668u2277a9a9o2fidrvsjv398ye</sha1>
+    </revision>
+  </page>
+</mediawiki>

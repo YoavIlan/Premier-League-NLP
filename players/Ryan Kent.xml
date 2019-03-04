@@ -1,0 +1,222 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ryan Kent</title>
+    <ns>0</ns>
+    <id>47794862</id>
+    <revision>
+      <id>884153653</id>
+      <parentid>883906554</parentid>
+      <timestamp>2019-02-19T21:29:25Z</timestamp>
+      <contributor>
+        <ip>2A00:23C4:FB2:E500:E552:B55F:C3DB:9453</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13166">{{Use dmy dates|date=April 2016}}
+{{Use British English|date=April 2016}}
+{{Infobox football biography
+| name= Ryan Kent
+| image = RyanKent.jpg
+| caption = Kent with Liverpool U21 at [[Goodison Park]] on 30 April 2015
+| fullname = Ryan Kent&lt;ref&gt;{{cite web |title=Premier League clubs publish retained lists |url=https://www.premierleague.com/news/408901 |publisher=Premier League |date=9 June 2017 |accessdate=24 July 2017}}&lt;/ref&gt;
+| birth_date  = {{birth date and age|df=y|1996|11|11}}&lt;ref name="Premier League"&gt;{{cite web |url=https://www.premierleague.com/players/13509/Ryan-Kent/overview |title=Premier League Player Profile Ryan Kent |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=2017 |publisher=Premier League |accessdate=2 August 2017}}&lt;/ref&gt;
+| birth_place = [[Oldham]], England
+| height = {{convert|1.72|m|order=flip}}&lt;ref name="Premier League"/&gt;
+| position = [[Midfielder#Winger|Winger]]&lt;ref name="coventrytelegraph.net"&gt;{{cite web |last=McCartney |first=Aidan |url=http://www.coventrytelegraph.net/sport/football/football-news/who-ryan-kent-seven-things-10013378 |title=Who is Ryan Kent? Seven things you need to know about Coventry City's new signing |publisher=Coventry Telegraph |date= |accessdate=2016-01-09}}&lt;/ref&gt;
+| currentclub = [[Rangers F.C.|Rangers]] (on loan from [[Liverpool F.C.|Liverpool]])
+| clubnumber = 14
+| youthyears1 = 2003–2015
+| youthclubs1 = [[Liverpool F.C.|Liverpool]]
+| years1 = 2015–     | clubs1 = [[Liverpool F.C.|Liverpool]] | caps1 = 0| goals1 = 0
+| years2 = 2015–2016 | clubs2 = → [[Coventry City F.C.|Coventry City]] (loan) | caps2 = 17| goals2 = 1
+| years3 = 2016–2017 | clubs3= → [[Barnsley F.C.|Barnsley]] (loan) | caps3 = 44|  goals3 = 3
+| years4 = 2017–2018 | clubs4= → [[SC Freiburg]] (loan) | caps4 = 6 |  goals4 = 0
+| years5 = 2018     | clubs5= → [[Bristol City F.C.|Bristol City]] (loan) | caps5 = 10|  goals5 = 0
+| years6 = 2018–     | clubs6= → [[Rangers F.C.|Rangers]] (loan) | caps6 = 17|       goals6 = 5
+| nationalyears1 = 2013–2014 
+| nationalteam1 = [[England national under-18 football team|England U18]] 
+| nationalcaps1 = 2
+| nationalgoals1 = 2
+| nationalyears2 = 2015–2016   
+| nationalteam2 = [[England national under-20 football team|England U20]] 
+| nationalcaps2 = 6
+| nationalgoals2 = 1
+| club-update = 19:28, 2 February 2019 (UTC)
+| nationalteam-update = 
+}}
+'''Ryan Kent''' (born 11 November 1996) is an English professional [[Association football|footballer]] who plays as a [[Midfielder (association football)|winger]] for [[Rangers F.C.|Rangers]], on loan from [[Liverpool F.C.|Liverpool]].
+
+A graduate of the Liverpool academy, Kent made his professional debut in 2015, before spending consecutive [[loan (sports)|loan]] spells with [[EFL League One|League One]] side [[Coventry City F.C.|Coventry City]] and [[EFL Championship|Championship]] side [[Barnsley F.C.|Barnsley]], winning the club's Young Player of the Season award with the latter. In 2017, he departed on loan once again, joining [[Bundesliga]] side Freiburg.
+
+He is also a former England youth international, having previously represented his nation at [[England national under-18 football team|U18]] and [[England national under-20 football team|U20]] levels.
+
+==Club career==
+===Liverpool===
+====Early career====
+[[File:RyanKent2.jpg|thumb|left|Ryan Kent after a friendly match Liverpool U18s at Kirkby Academy]]
+Oldham-born Kent joined Liverpool at the age of seven and progressed through the Liverpool academy to become a regular member of the U21 squad.&lt;ref&gt;{{cite web |url=http://www.liverpoolfc.com/team/academy/player/ryan-kent |title=Ryan Kent |publisher=Liverpool FC |date= |accessdate=2016-01-09 |deadurl=yes |archiveurl=https://web.archive.org/web/20151229091220/http://www.liverpoolfc.com/team/academy/player/ryan-kent |archivedate=29 December 2015 |df=dmy-all}}&lt;/ref&gt; After an impressive end to the 2014–15 campaign for the reserves his performances were rewarded with a new 4 and 1/2 year contract in March 2015.&lt;ref name="coventrytelegraph.net"&gt;{{cite web |last=McCartney |first=Aidan |url=http://www.coventrytelegraph.net/sport/football/football-news/who-ryan-kent-seven-things-10013378 |title=Who is Ryan Kent? Seven things you need to know about Coventry City's new signing |publisher=Coventry Telegraph |date= |accessdate=2016-01-09}}&lt;/ref&gt; This was followed by a call-up to the first-team squad for their 2015 pre-season tour with the player being named in Liverpool's 30-man squad for their tour of [[Thailand]], Australia and [[Malaysia]].&lt;ref&gt;{{cite web |title=Liverpool's 30-man tour squad confirmed |url=http://www.lfctour.com/news/latest-news/liverpool-s-30-man-tour-squad-confirmed |publisher=Liverpool F.C. |date=11 July 2015 |accessdate=13 September 2015}}&lt;/ref&gt; On 17 July 2015 Ryan Kent made his first-team debut when he came off the bench in the 2–1 win over Australian A-League side Brisbane Roar and was handed a first-team squad number for the Reds.
+
+====Loan to Coventry City====
+Liverpool received a number of offers to take Kent on loan after the player impressed in preseason.&lt;ref&gt;{{cite web |last=Pearce |first=James |url=http://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-fc-consider-loan-offers-9791888 |title=Liverpool FC consider loan offers from Championship clubs for Ryan Kent |publisher=Liverpool Echo |date=2015-08-04 |accessdate=2016-01-09}}&lt;/ref&gt; Kent eventually joined [[Coventry City]] in September 2015 on a youth loan deal for four months until 16 January 2016.&lt;ref&gt;{{cite web |url=http://www.ccfc.co.uk/news/article/signing-ryan-kent-coventry-city-liverpool-2679255.aspx |title=Coventry City snap up Liverpool midfielder Ryan Kent on a youth loan deal |publisher=CCFC Official Site |date=2015-09-10 |accessdate=2015-09-10}}&lt;/ref&gt; Kent made his professional debut while on youth loan at [[Coventry City]] as a substitute on 12 September 2015 in a 1–0 [[Football League One|League One]] loss to [[Scunthorpe United F.C.|Scunthorpe United]].&lt;ref&gt;{{cite web |url=http://www.ccfc.co.uk/news/article/x-2683389.aspx |title=Scunthorpe United 1–0 Coventry City |publisher=CCFC Official Site |date=2015-09-12 |accessdate=2015-09-12}}&lt;/ref&gt; On 3 November, Kent played and scored in a 4–3 win over Barnsley.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/34644924 |title=Coventry 4–3 Barnsley |publisher=[[BBC Sport]] |date=3 November 2015 |accessdate=29 August 2016}}&lt;/ref&gt; The next day it was announced that he would return to Liverpool during the upcoming international break to be assessed by new Liverpool manager [[Jürgen Klopp]].&lt;ref&gt;{{cite web |author= |url=http://www.thisisanfield.com/2015/11/klopp-invites-ryan-kent-back-to-melwood-following-impressive-coventry-city-goal/ |title=Klopp invites Ryan Kent back to Melwood following impressive Coventry City goal |publisher=This Is Anfield |date= |accessdate=2016-01-09}}&lt;/ref&gt;
+
+On 5 January 2016 he was recalled by Liverpool and was named in the first-team to make his competitive debut for them, starting the [[FA Cup]] third round match away to [[Exeter City F.C.|Exeter City]]. The match ended 2–2  with Kent being withdrawn from the action after 57 minutes.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/35155398 |title=Exeter City – Liverpool |date=8 January 2016 |work=[[BBC Sport]] |accessdate=8 January 2016}}&lt;/ref&gt;
+
+[[File:Ryan Kent.jpg|150px|thumb|Kent playing for [[Rangers F.C.|Rangers]] in 2018]]
+
+====Loan to Barnsley====
+On 26 July 2016, Kent was loaned to [[Barnsley F.C.|Barnsley]] for the season.&lt;ref&gt;{{cite web |title=Ryan Kent makes loan move to Barnsley |url=http://www.liverpoolfc.com/news/first-team/229278-ryan-kent-makes-loan-move-to-barnsley |publisher=Liverpool FC |date=26 July 2016 |accessdate=28 July 2016}}&lt;/ref&gt; He scored his first goal for them in a 4–0 win against [[Rotherham United F.C.|Rotherham United]] on 27 August 2016.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/37138603 |title=Barnsley 4–0 Rotherham |publisher=[[BBC Sport]] |date=27 August 2016 |accessdate=29 August 2016}}&lt;/ref&gt; Ryan Kent was named Barnsley's Young Player of the Season at the club's end of season awards.&lt;ref&gt;https://www.thisisanfield.com/2017/04/liverpool-loanee-ryan-kent-wins-barnsleys-young-player-season-award/&lt;/ref&gt;
+
+====Loan to SC Freiburg====
+On 10 August 2017, after an impressive preseason, Kent signed a new long term contract with Liverpool,&lt;ref&gt;http://www.liverpoolfc.com/news/first-team/271498-ryan-kent-signs-new-long-term-liverpool-deal&lt;/ref&gt; and was loaned out to Freiburg for the season on the last day of the summer transfer window.&lt;ref&gt;{{cite news |title=Ryan Kent joins SC Freiburg on season-long loan |url=http://www.liverpoolfc.com/news/first-team/273896-ryan-kent-joins-sc-freiburg-on-season-long-loan |work=Liverpool FC |date=31 August 2017}}&lt;/ref&gt;After making just six appearances, Kent's loan spell at Freiburg was terminated and he returned to parent club Liverpool on 8 January.&lt;ref&gt;{{cite news |title=Ryan Kent cleared to play after Reds return |url=http://www.liverpoolfc.com/news/first-team/286664-ryan-kent-cleared-to-play-after-reds-return |work=Liverpool FC |date=8 January 2018}}&lt;/ref&gt;
+
+====Loan to Bristol City====
+On 12 January 2018, Ryan Kent joined Bristol City on loan until the end of the season.&lt;ref&gt;https://www.bcfc.co.uk/news/city-loan-in-liverpool-s-kent/&lt;/ref&gt;
+
+====Loan to Rangers ====
+On 22 July 2018, Kent joined [[Rangers F.C.|Rangers]] on season-long loan for the 2018/19 season.&lt;ref&gt;{{ cite news | url=https://rangers.co.uk/news/headlines/rangers-sign-ryan-kent/ | title=Rangers Sign Ryan Kent | publisher=Rangers Football club | work=Rangers.co.uk | first=Nick | last=Thomson }}&lt;/ref&gt;
+
+==International career==
+On 27 August 2015, Kent was called up to the [[England national under-20 football team|England U20]] squad for a double header against the Czech Republic.
+
+==Career statistics==
+{{updated|match played 2 February 2019}}
+
+{| class="wikitable" Style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Clubs
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!League!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[Liverpool F.C.|Liverpool]]
+|[[2015-16 Liverpool F.C. season|2015–16]]&lt;ref name="RK15"&gt;{{soccerbase season|85445|2015|accessdate=4 October 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||1||0||0||0||0||0||0||0||1||0
+|-
+|[[2016–17 Liverpool F.C. season|2016–17]]&lt;ref name="RK16"/&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||colspan="4"|—||0||0
+|-
+|[[2017–18 Liverpool F.C. season|2017–18]]&lt;ref name="RK17"/&gt;
+|[[Premier League]]
+|0||0||0||0||0||0|||0||0||0||0||0||0
+|-
+|[[2018–19 Liverpool F.C. season|2018–19]]&lt;ref name="RK18"/&gt;
+|[[Premier League]]
+|0||0||0||0||0||0|||0||0||0||0||0||0
+|-
+!colspan="2" | Total
+!0!!0!!1!!0!!0!!0!!0!!0!!0!!0!!1!!0
+|-
+|[[Coventry City F.C.|Coventry City]] (loan)
+|[[2015–16 Coventry City F.C. season|2015–16]]&lt;ref name="RK15"/&gt;
+|[[EFL League One|League One]]
+|17||1||0||0||0||0||colspan="4"|—||17||1
+|-
+|[[Barnsley F.C.|Barnsley]] (loan)
+|[[2016–17 Barnsley F.C. season|2016–17]]&lt;ref name="RK16"&gt;{{soccerbase season|85445|2016|accessdate=4 October 2017}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|44||3||2||0||1||0||colspan="4"|—||47||3
+|-
+|[[SC Freiburg|Freiburg]] (loan)
+|[[2017–18 SC Freiburg season|2017–18]]&lt;ref name="RK17"&gt;{{soccerbase season|85445|2017|accessdate=4 October 2017}}&lt;/ref&gt;
+|[[Bundesliga]]
+|6||0||0||0||colspan="6"|—||6||0
+|-
+|[[Bristol City F.C.|Bristol City]] (loan)
+|[[2017–18 Bristol City F.C. season|2017–18]]&lt;ref name="RK17"/&gt;
+|[[EFL Championship|Championship]]
+|10||0||0||0||1||0||colspan="4"|—||11||0
+|-
+|[[Rangers F.C.|Rangers]] (loan)
+|[[2018–19 Rangers F.C. season|2018–19]]&lt;ref name="RK18"&gt;{{soccerbase season|85445|2018|accessdate=13 August 2018}}&lt;/ref&gt;
+|[[Scottish Premiership|Premiership]]
+|15||5||0||0||3||0||9{{efn|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||27||5
+|-
+!colspan="3" | Career totals
+!92!!9!!3!!0!!5!!0!!9!!0!!0!!0!!109!!9
+|}
+
+{{reflist|group=lower-alpha}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.liverpoolfc.com/team/first-team/player/ryan-kent Ryan Kent profile] at the Liverpool F.C. website
+*[http://www.thefa.com/england/all-teams/players?p=355754 Ryan Kent profile] at the Football Association website
+*{{Soccerbase}}
+
+&lt;!-- {{Liverpool F.C. squad}} --&gt;
+{{Rangers F.C. squad}}
+
+{{DEFAULTSORT:Kent, Ryan}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Footballers from Oldham]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:Association football wingers]]
+[[Category:Liverpool F.C. players]]
+[[Category:Coventry City F.C. players]]
+[[Category:Barnsley F.C. players]]
+[[Category:SC Freiburg players]]
+[[Category:Bristol City F.C. players]]
+[[Category:English Football League players]]
+[[Category:Bundesliga players]]
+[[Category:Rangers F.C. players]]
+[[Category:Scottish Professional Football League players]]</text>
+      <sha1>keifbio4u6hatvhrop4a1ijtdqcdo4j</sha1>
+    </revision>
+  </page>
+</mediawiki>

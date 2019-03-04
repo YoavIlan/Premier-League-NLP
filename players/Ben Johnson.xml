@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ben Johnson</title>
+    <ns>0</ns>
+    <id>69634</id>
+    <revision>
+      <id>878791831</id>
+      <parentid>842259623</parentid>
+      <timestamp>2019-01-16T23:22:34Z</timestamp>
+      <contributor>
+        <username>Animalparty</username>
+        <id>10357594</id>
+      </contributor>
+      <comment>{{hndis|Johnson, Ben}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2422">'''Ben''' or '''Benjamin Johnson''' may refer to:
+
+*[[Ben Jonson]] (1572–1637), English poet and dramatist
+*[[Ben Johnson (actor)]] (1918–1996), American actor
+*[[Ben Johnson (offensive tackle)]] (born 1980), former American football offensive tackle of the National Football League
+*[[Ben Johnson (tight end)]], American football tight end
+*[[Ben Johnson (artist)]] (born 1946), British painter
+*[[Ben Johnson (chairman)]] (1939–2014), American Makah politician
+*[[Ben Johnson (cricketer)]] (born 1973), Australian cricketer 
+*[[Ben Johnson (footballer)]] (born 1981), Australian rules footballer
+*[[Ben Johnson (ice hockey)]] (born 1994), American professional ice hockey player
+*[[Ben Johnson (musician)]] (born 1984),  American musician, member of the band 100 Monkeys
+*[[Ben Johnson (outfielder)]] (born 1981), American Major League Baseball outfielder
+*[[Ben Johnson (pitcher)]] (born 1931), American former Major League Baseball pitcher
+*[[Ben Johnson (politician)]] (1858–1950), American lawyer
+*[[Ben Johnson (soccer)]] (born 1977), American soccer player
+*[[Ben Johnson (sprinter)]] (born 1961), Canadian sprinter
+*[[Ben Johnson (American sprinter)]] (1914–1992), American sprinter
+*[[Ben F. Johnson]] (1914–2006), American politician in Georgia and academic administrator
+*[[Ben Patrick Johnson]] (born 1969), American voice-over actor, author, and commentator/activist
+*[[Ben Campbell Johnson]] (1932–2016), American minister and professor
+*[[Benita Johnson]] (born 1979), Australian distance runner
+*[[Benjamin Johnson (judge)]] (1784–1849), United States federal judge
+*[[Benjamin Johnson (rugby league)]], rugby league footballer of the 1910s
+*[[Benjamin Johnson (actor)]] (1665–1742), English actor
+*[[Benjamin F. Johnson]] (1818–1905), American Mormon pioneer
+*[[Benjamin Newhall Johnson]] (1856–1923), American attorney and historian
+*[[Benton Johnson]] (born 1928), American sociologist
+*[[Benny Johnson]] (1948–1988), American football defensive back
+
+==Other uses==
+*[[Ben Johnson (film)|''Ben Johnson'' (film)]], a 2005 Malayalam-language film
+
+==See also==
+*[[Ben Johnson House (Bardstown, Kentucky)]], listed on the NRHP in Kentucky
+*[[Ben Johnson House (Flemingsburg Junction, Kentucky)]], [[National Register of Historic Places listings in Fleming County, Kentucky|listed on the NRHP in Fleming County, Kentucky]]
+*[[Ben Johnston (disambiguation)]]
+
+{{hndis|Johnson, Ben}}</text>
+      <sha1>kfh9stqfebjltxe51r9851pql5p0ju2</sha1>
+    </revision>
+  </page>
+</mediawiki>

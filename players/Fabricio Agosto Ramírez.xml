@@ -1,0 +1,249 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Fabricio Agosto Ramírez</title>
+    <ns>0</ns>
+    <id>15214616</id>
+    <revision>
+      <id>885880825</id>
+      <parentid>885856861</parentid>
+      <timestamp>2019-03-02T23:07:37Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/LC1878|LC1878]] ([[User talk:LC1878|talk]]): Unsourced ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16237">{{Spanish name|Agosto|Ramírez}}
+{{Infobox football biography
+| name = Fabri
+| image = Fabricio Agosto.jpg
+| image_size = 210
+| caption =
+| fullname = Fabricio Agosto Ramirez&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/844127|title=2018/19 Premier League squads confirmed|publisher=Premier League|date=3 September 2018|accessdate=4 September 2018}}&lt;/ref&gt;
+| birth_date = {{Birth date and age|1987|12|31|df=y}}
+| birth_place = [[Las Palmas]], Spain
+| height = 1.84 m&lt;ref&gt;{{cite web|url=http://www.fulhamfc.com/player-profiles/fabri|title=Fabricio Agosto Ramirez|publisher=Fulham F.C.|accessdate=8 January 2019|deadurl=no|archiveurl=https://web.archive.org/web/20180809030321/http://www.fulhamfc.com/player-profiles/fabri|archivedate=9 August 2018}}&lt;/ref&gt;
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Fulham F.C|Fulham]]
+| clubnumber = 31
+| youthyears1 = 2003–2005 | youthclubs1 = [[UD Vecindario|Vecindario]] 
+| youthyears2 = 2005–2006 | youthclubs2 = [[Deportivo de La Coruña|Deportivo La Coruña]]
+| years1 = 2006–2008 | clubs1 = [[Deportivo de La Coruña B|Deportivo B]] | caps1 = 54 | goals1 = 0 
+| years2 = 2007–2009 | clubs2 = [[Deportivo de La Coruña|Deportivo La Coruña]] | caps2 = 6 | goals2 = 0  
+| years3 = 2009–2011 | clubs3 = [[Real Valladolid|Valladolid]] | caps3 = 1 | goals3 = 0
+| years4 = 2010–2011 | clubs4 = → [[Recreativo de Huelva|Recreativo]] (loan) | caps4 = 40 | goals4 = 0
+| years5 = 2011–2013 | clubs5 = [[Real Betis|Betis]] | caps5 = 17 | goals5 = 0 
+| years6 = 2013–2016 | clubs6 = [[Deportivo de La Coruña|Deportivo La Coruña]] | caps6 = 37 | goals6 = 0
+| years7 = 2016–2018 | clubs7 = [[Beşiktaş J.K.|Beşiktaş]] | caps7 = 66 | goals7 = 0 
+| years8 = 2018– | clubs8 = [[Fulham F.C.|Fulham]] | caps8 = 2 | goals8 = 0 
+| totalcaps = | totalgoals =  
+| nationalyears1 = 2007 | nationalteam1 = [[Spain national under-20 football team|Spain U20]] | nationalcaps1 = 1 | nationalgoals1 = 0 
+| club-update = 11 December 2018
+| nationalteam-update =
+}}
+'''Fabricio Agosto Ramírez''' ({{IPA-es|faˈβɾiθjo aˈɣosto raˈmiɾeθ}}; born 31 December 1987), known simply as '''Fabricio''' or '''Fabri''' {{IPA-es|ˈfaβɾi|}}, is a Spanish [[Association football|footballer]] who plays for [[Premier League]] club [[Fulham F.C.|Fulham]] as a [[Goalkeeper (association football)|goalkeeper]].
+
+He appeared in 55 [[La Liga]] matches during five seasons, representing  [[Deportivo de La Coruña|Deportivo]] (two spells) [[Real Valladolid|Valladolid]] and [[Real Betis|Betis]] in the competition. He also competed professionally in Turkey and England, winning the [[Süper Lig]] championship with [[Beşiktaş J.K.|Beşiktaş]] in [[2016–17 Süper Lig|2016–17]].
+
+==Club career==
+===Spain===
+Fabricio was born in [[Las Palmas]], [[Canary Islands]]. After being bought at almost 18 from local [[UD Vecindario]], he finished his football formation at [[Deportivo de La Coruña]]. After suspensions to goalkeeping teammates [[Dudu Aouate]] and [[Gustavo Munúa]] due to a post-training punching session,&lt;ref&gt;[http://www.cnn.com/2008/SPORT/football/01/11/spain.deportivo/index.html Deportivo keepers axed after fight]; [[CNN]], 11 January 2008&lt;/ref&gt; he was made first-choice, and made his [[La Liga]] debut on 13 January 2008 in a 3–4 away loss against [[Villarreal CF]];&lt;ref&gt;[http://www.marca.com/marcador/futbol/2007_08/primera/jornada_19/vil_dep/index.html Cabeza de turco blanquiazul (White-and-blue Turkish head)]; [[Marca (newspaper)|Marca]], 13 January 2008 (in Spanish)&lt;/ref&gt; in February both offenders were reinstated in the first team, and he returned to [[Deportivo de La Coruña B|the B-squad]].
+
+In January 2008, [[Arsenal F.C.|Arsenal]] reportedly showed interest in signing Fabri, considered "one of Spain's brightest talents".&lt;ref&gt;[http://www.skysports.com/story/0,19528,11670_3046046,00.html Gunners in Depor starlet link]; [[Sky Sports]], 14 January 2008&lt;/ref&gt; During the [[2008–09 La Liga|2008–09 season]] he was definitely promoted to backup duties as Munúa and Aouate were both deemed surplus to requirements, and also [[2008–09 Copa del Rey|appeared]] in the [[Copa del Rey]];&lt;ref&gt;[http://masdeporte.as.com/masdeporte/2008/11/12/polideportivo/1226543103_850215.html El Deportivo pasa y Omar Bravo se estrena como goleador (Deportivo go through and Omar Bravo gets first goal)]; [[Diario AS]], 12 November 2008 (in Spanish)&lt;/ref&gt; however, after the [[Israel]]i's move to [[RCD Mallorca]], Munúa was again reinstated as second-choice and Fabricio returned to the reserves.
+ 
+On 13 July 2009, Fabricio was released by ''Depor'', joining [[Real Valladolid]] on a 2+2 contract.&lt;ref&gt;[http://www.realvalladolid.es/noticias/actualidad/14072009/Fabricio-apuesta-futuro-porteria/ Fabricio, apuesta de futuro en la portería (Fabricio, bet for future in goal)]; Real Valladolid, 13 July 2009 (in Spanish)&lt;/ref&gt; On 19 August of the following year he signed for [[Recreativo de Huelva]] in [[Segunda División|division two]], on a [[2010–11 Segunda División|one-year]] loan deal.&lt;ref&gt;[http://www.goal.com/es/news/21/fichajes/2010/08/19/2078362/mercado-es-oficial-el-recreativo-ficha-a-fabricio-y-descarta Mercado: Es oficial, el Recreativo ficha a Fabricio y descarta a Ibrahima (Market: It's official, Recreativo sign Fabricio and rule out Ibrahima)]; [[Goal (website)|Goal]], 19 August 2010 (in Spanish)&lt;/ref&gt;
+
+Fabri returned to the top flight for the [[2011–12 La Liga|2011–12 campaign]], moving to [[Real Betis]].&lt;ref&gt;[http://www.marca.com/2011/06/22/futbol/equipos/betis/1308748724.html Fabricio se convierte en nuevo guardameta bético (Fabricio becomes new ''bético'' goalkeeper)]; Marca, 22 June 2011 (in Spanish)&lt;/ref&gt; He featured in 17 overall contests in his first year, keeping [[Shutout|clean sheets]] against [[Real Zaragoza]] (2–0, away),&lt;ref&gt;[http://www.marca.com/marcador/futbol/2011_12/primera/jornada_24/zar_bet/ El Zaragoza compra billete para el infierno (Zaragoza buy a ticket to hell)]; Marca, 20 February 2012 (in Spanish)&lt;/ref&gt; [[Málaga CF]] (2–0, also away)&lt;ref&gt;[http://www.marca.com/marcador/futbol/2011_12/primera/jornada_31/mga_bet/ Excesivo castigo en La Rosaleda (Excessive punishment at La Rosaleda)]; Marca, 31 March 2012 (in Spanish)&lt;/ref&gt; and [[CA Osasuna]] (1–0 at the ''[[Estadio Benito Villamarín]]'').&lt;ref&gt;[http://www.goal.com/es/match/63251/betis-vs-osasuna/report Betis 1–0 Osasuna: Rubén Castro da los tres puntos (Betis 1–0 Osasuna: Rubén Castro gives three points)]; Goal, 15 April 2012 (in Spanish)&lt;/ref&gt; however, following a run-in with manager [[Pepe Mel]],&lt;ref&gt;[http://www.marca.com/2012/09/16/futbol/equipos/betis/1347790957.html Mel: "No encuentro sentido a lo que dijo Fabricio" (Mel: "I find no logic in what Fabricio said")]; Marca, 16 September 2012 (in Spanish)&lt;/ref&gt; he was demoted to third-choice and eventually left the club in the 2013 summer, returning to Deportivo.&lt;ref&gt;[http://www.lavozdegalicia.es/noticia/deportivo/2013/08/17/fabricio-regresa-deportivo/00031376741714463829767.htm Fabricio regresa al Deportivo (Fabricio returns to Deportivo)]; [[La Voz de Galicia]], 17 August 2013 (in Spanish)&lt;/ref&gt;
+
+Fabricio played second-fiddle to [[Germán Lux]] in [[2013–14 Segunda División|his first year]] in his second spell in [[Galicia (Spain)|Galicia]],&lt;ref&gt;[http://www.marca.com/2014/06/06/futbol/equipos/deportivo/1402052029.html La afición del Dépor, pendiente de la renovación de Germán Lux (Dépor's faithful, hanging on Germán Lux's renewal)]; Marca, 6 June 2014 (in Spanish)&lt;/ref&gt; but subsequently became the starter.&lt;ref&gt;[http://www.lavozdegalicia.es/noticia/deportivo/2014/10/22/espina-saco-fabricio-deportivo/00031413998327890884356.htm La «espina» que se sacó Fabricio en el Deportivo («Thorn» off Fabricio's side at Deportivo)]; La Voz de Galicia, 22 October 2014 (in Spanish)&lt;/ref&gt; He lost the vast majority of [[2015–16 La Liga|2015–16]], however, due to a [[tibia]] injury he originally contracted ten years ago (in 2011, whilst at Betis, he also suffered a potentially career-threatening shoulder ailment).&lt;ref&gt;[http://www.diariodesevilla.es/article/deportes/1081980/fabricio/supera/una/lesion/comprometio/su/carrera.html Fabricio supera una lesión que comprometió su carrera (Fabricio overcomes career-threatening injury)]; Diario de Sevilla, 6 October 2011 (in Spanish)&lt;/ref&gt;&lt;ref&gt;[http://media.lavozdegalicia.es/noticia/torremarathon/2015/12/05/diez-anos-ligamento-roto/0003_201512H5P46991.htm Diez años con el ligamento roto (Ten years with a ruptured ligament)]; La Voz de Galicia, 5 December 2015 (in Spanish)&lt;/ref&gt;
+
+===Beşiktaş===
+In July 2016, Fabri moved abroad for the first time, signing for Turkish [[Süper Lig]] champions [[Beşiktaş J.K.|Beşiktaş JK]].&lt;ref&gt;{{cite web|url=http://es.besoccer.com/noticia/fabricio-dice-adios-al-depor-para-fichar-por-el-besiktas|title=Fabricio dice adiós al Dépor para fichar por el Besiktas|trans-title=Fabricio says goodbye to Dépor to sign for Beşiktaş|publisher=Be Soccer|language=Spanish|date=10 July 2016|accessdate=2 January 2017}}&lt;/ref&gt; In a [[2016–17 UEFA Champions League|0–6 loss]] at [[FC Dynamo Kyiv]] in the [[UEFA Champions League]] group stage on 6 December, he began to cry after conceding the fourth goal of the first half.&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/sport/football/european/champions-league-besiktas-goalkeeper-cries-video-a7460781.html|title=Besiktas goalkeeper Fabricio cries after conceding four first half goals in Champions League|publisher=[[The Independent]]|last=Critchley|first=Mark|date=7 December 2016|accessdate=2 January 2017}}&lt;/ref&gt;
+
+In [[2016–17 Süper Lig|his first season]] in [[Istanbul]], Fabricio only missed two matches in 34 as his team were crowned champions for the second consecutive time and 15th overall.&lt;ref name=Champion&gt;{{cite news|url=https://www.superdeporte.es/futbol/2017/05/28/besiktas-fabricio-campeon-superliga-turca/337237.html|title=Fabricio, en la mira de La Roja, campeón con el Besiktas|trans-title=Fabricio, poised for ''La Roja'', champion with Besiktas|publisher=[[Super Deporte]]|last=Marín|first=Rafa|language=es|date=28 May 2017|accessdate=14 August 2018}}&lt;/ref&gt;
+
+===Fulham===
+On 24 July 2018, Fabri joined [[Premier League]] club [[Fulham F.C.|Fulham]] on a three-year deal with the option of a fourth year.&lt;ref&gt;{{cite web|url=http://www.fulhamfc.com/news/2018/july/24/fabri-confirmed|title=Fabri confirmed|publisher=Fulham F.C|date=24 July 2018|accessdate=24 July 2018}}&lt;/ref&gt; He was already known to their goalkeeping coach José Sambade Carreira, with the pair having worked together at Deportivo.&lt;ref&gt;{{Cite web|url=http://www.skysports.com/football/news/11681/11447362/fulham-complete-fabri-signing-from-besiktas|title=Fulham complete Fabri signing from Besiktas|publisher=Sky Sports|date=24 July 2018|accessdate=25 July 2018}}&lt;/ref&gt; His first appearance in the [[Premier League]] took place on 11 August, in a 0–2 home defeat against [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{Cite web|url=https://www.bbc.com/sport/football/45067373|title=Fulham 0–2 Crystal Palace|publisher=[[BBC Sport]]|last=Jennings|first=Patrick|date=11 August 2018|accessdate=14 August 2018}}&lt;/ref&gt;
+
+==International career==
+A former [[Spain national youth football team|youth international]] for [[Spain national football team|Spain]], in February 2018 Fabri announced that he was of Uruguayan descent and wanted to represent [[Uruguay national football team|its national team]] at the [[2018 FIFA World Cup]].&lt;ref&gt;{{cite news|url=http://www.marca.com/futbol/futbol-internacional/2018/02/14/5a842870e2704ef6498b4634.html|title=Fabricio reina en Turquía y oposita a la selección uruguaya|trans-title=Fabricio reigns in Turkey and is poised for the Uruguayan national team|publisher=Marca|language=es|date=14 February 2018|accessdate=22 February 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.sabah.com.tr/spor/futbol/2018/02/15/musleraya-rakip|title=Muslera’ya rakip!|trans-title=Competing against Muslera!|publisher=[[Sabah (newspaper)|Sabah]]|language=tr|date=15 February 2018|accessdate=19 February 2018}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played on 18 August 2018}}
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Deportivo de La Coruña|Deportivo]] 
+|[[2006–07 La Liga|2006–07]]&lt;ref name="BD"&gt;{{cite web|url=http://www.bdfutbol.com/en/j/j4148.html|title=Fabricio: Fabricio Agosto Ramírez|publisher=BDFutbol|accessdate=29 December 2017}}&lt;/ref&gt;
+|[[La Liga]]
+|0||0||0||0||colspan="2"|—||0||0
+|-
+|[[2007–08 La Liga|2007–08]]&lt;ref name="BD"/&gt;
+|La Liga
+|6||0||0||0||colspan="2"|—||6||0
+|-
+|[[2008–09 La Liga|2008–09]]&lt;ref name="BD"/&gt;
+|La Liga
+|0||0||4||0||2{{efn|Appearances in [[UEFA Intertoto Cup]]|name=UI}}||0||6||0
+|-
+!colspan="2"|Total
+!6!!0!!4!!0!!2!!0!!12!!0
+|-
+|rowspan="1"|[[Real Valladolid|Valladolid]] 
+|[[2009–10 La Liga|2009–10]]&lt;ref name="BD"/&gt;
+|La Liga
+|1||0||2||0||colspan="2"|—||3||0
+|-
+|[[Recreativo de Huelva|Recreativo]] (loan)
+|[[2010–11 Segunda División|2010–11]]&lt;ref name="BD"/&gt;
+|[[Segunda División]]
+|40||0||1||0||colspan="2"|—||41||0
+|-
+|rowspan="3"|[[Real Betis|Betis]] 
+|[[2011–12 La Liga|2011–12]]&lt;ref name="BD"/&gt;
+|La Liga
+|15||0||2||0||colspan="2"|—||17||0
+|-
+|[[2012–13 La Liga|2012–13]]&lt;ref name="BD"/&gt;
+|La Liga
+|2||0||0||0||colspan="2"|—||2||0
+|-
+!colspan="2"|Total
+!17!!0!!2!!0!!colspan="2"|—!!19!!0
+|-
+|rowspan="4"|[[Deportivo de La Coruña|Deportivo]]
+|[[2013–14 Segunda División|2013–14]]&lt;ref name="BD"/&gt;
+|Segunda División
+|6||0||2||0||colspan="2"|—||8||0
+|-
+|[[2014–15 La Liga|2014–15]]&lt;ref name="BD"/&gt;
+|La Liga
+|31||0||0||0||colspan="2"|—||31||0
+|-
+|[[2015–16 La Liga|2015–16]]&lt;ref name="BD"/&gt;
+|La Liga
+|0||0||0||0||colspan="2"|—||0||0
+|-
+!colspan="2"|Total
+!37!!0!!2!!0!!colspan="2"|—!!39!!0
+|-
+|rowspan="3"|[[Beşiktaş J.K.|Beşiktaş]]
+|[[2016–17 Süper Lig|2016–17]]&lt;ref name="SW"&gt;{{cite web|url=https://int.soccerway.com/players/fabricio-agosto-ramiorez/61656/|title=Fabri|publisher=Soccerway|accessdate=29 December 2017}}&lt;/ref&gt;
+|[[Süper Lig]]
+|32||0||1||0||11{{efn|Includes appearances in [[UEFA Champions League]] and [[UEFA Europa League]]|name=UECL}}||0||44||0
+|-
+|[[2017–18 Süper Lig|2017–18]]&lt;ref name="SW"/&gt;
+|Süper Lig
+|34||0||2||0||6{{efn|Includes appearances in [[UEFA Champions League]]|name=UCL}}||0||42||0
+|-
+!colspan="2"|Total
+!66!!0!!3!!0!!17!!0!!86!!0
+|-
+|[[Fulham F.C.|Fulham]]
+|[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name="SW"/&gt;
+|[[Premier League]]
+|2||0||0||0||colspan="2"|—||2||0
+|-
+!colspan="3"|Career total
+!169!!0!!14!!0!!19!!0!!201!!0
+|}
+
+{{notelist}}
+
+==Honours==
+'''Beşiktaş'''
+*[[Süper Lig]]: [[2016–17 Süper Lig|2016–17]]&lt;ref name=Champion/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{BDFutbol|4148|Fabricio}}
+*{{Futbolme profile|14058|Fabricio}}
+*{{TFF player|1924086|Fabricio}}
+
+{{Fulham F.C. squad}}
+
+{{DEFAULTSORT:Fabricio Agosto Ramirez}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Spanish people of Uruguayan descent]]
+[[Category:Footballers from Las Palmas de Gran Canaria]]
+[[Category:Spanish footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:La Liga players]]
+[[Category:Segunda División players]]
+[[Category:Segunda División B players]]
+[[Category:Tercera División players]]
+[[Category:Deportivo de La Coruña B players]]
+[[Category:Deportivo de La Coruña players]]
+[[Category:Real Valladolid players]]
+[[Category:Recreativo de Huelva players]]
+[[Category:Real Betis players]]
+[[Category:Süper Lig players]]
+[[Category:Beşiktaş J.K. footballers]]
+[[Category:Premier League players]]
+[[Category:Fulham F.C. players]]
+[[Category:Spain youth international footballers]]
+[[Category:Spanish expatriate footballers]]
+[[Category:Expatriate footballers in Turkey]]
+[[Category:Expatriate footballers in England]]
+[[Category:Spanish expatriate sportspeople in Turkey]]
+[[Category:Spanish expatriate sportspeople in England]]</text>
+      <sha1>dvme6wxr7en1kwuw9trrl6jtd15j0e0</sha1>
+    </revision>
+  </page>
+</mediawiki>

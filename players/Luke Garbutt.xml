@@ -1,0 +1,274 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Luke Garbutt</title>
+    <ns>0</ns>
+    <id>33329422</id>
+    <revision>
+      <id>884781586</id>
+      <parentid>855770692</parentid>
+      <timestamp>2019-02-23T23:35:41Z</timestamp>
+      <contributor>
+        <ip>2A02:C7F:5A18:E00:697C:87C7:30A9:16BF</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19380">{{Use British English|date=October 2012}}
+{{Use dmy dates|date=October 2012}}
+{{Infobox football biography
+| name                = Luke Garbutt
+| image               = Luke Garbutt3 (cropped).jpg
+| image_size          = 200
+| caption             = Garbutt playing for [[England national under-19 football team|England U19s]] in 2012
+| fullname            = Luke Samuel Garbutt&lt;ref name=Hugman&gt;{{Hugman|23122|accessdate=16 August 2016}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1993|5|21|df=y}}&lt;ref name=Hugman/&gt;
+| birth_place         = [[Harrogate]], England
+| height              = {{height|m=1.79|precision=0}}&lt;ref&gt;{{cite web |url=http://m.premierleague.com/en-gb/players/playerprofile.html/luke-garbutt |title=Barclays Premier League Player Profile Luke Garbutt |publisher=Premier League |accessdate=6 November 2012}}&lt;/ref&gt;
+| position            = [[Defender (association football)#Full-back|Left-back]]
+| currentclub         = [[Oxford United F.C.|Oxford United]]&lt;br&gt;(on loan from [[Everton F.C.|Everton]])
+| clubnumber          = 3
+| youthyears1         = 2001–2009
+| youthclubs1         = [[Leeds United F.C.|Leeds United]]
+| youthyears2         = 2009–2011
+| youthclubs2         = [[Everton F.C.|Everton]]
+| years1              = 2011–
+| clubs1              = [[Everton F.C.|Everton]]
+| caps1               = 5
+| goals1              = 0
+| years2              = 2011–2012
+| clubs2              = → [[Cheltenham Town F.C.|Cheltenham Town]] (loan)
+| caps2               = 34
+| goals2              = 2
+| years3              = 2013–2014
+| clubs3              = → [[Colchester United F.C.|Colchester United]] (loan)
+| caps3               = 19
+| goals3              = 2
+| years4              = 2015–2016
+| clubs4              = → [[Fulham F.C.|Fulham]] (loan)
+| caps4               = 25
+| goals4              = 1
+| years5              = 2016–2017
+| clubs5              = → [[Wigan Athletic F.C.|Wigan Athletic]] (loan)
+| caps5               = 8
+| goals5              = 0
+| years6              = 2018– 
+| clubs6              = → [[Oxford United F.C.|Oxford United]] (loan) 
+| caps6               = 16 
+| goals6              = 1 
+| nationalyears1      = 2008
+| nationalteam1       = [[England national under-16 football team|England U16]]
+| nationalcaps1       = 5
+| nationalgoals1      = 0
+| nationalyears2      = 2008–2010
+| nationalteam2       = [[England national under-17 football team|England U17]]
+| nationalcaps2       = 24
+| nationalgoals2      = 3
+| nationalyears3      = 2010
+| nationalteam3       = [[England national under-18 football team|England U18]]
+| nationalcaps3       = 1
+| nationalgoals3      = 0
+| nationalyears4      = 2011–2012
+| nationalteam4       = [[England national under-19 football team|England U19]]
+| nationalcaps4       = 7
+| nationalgoals4      = 0
+| nationalyears5      = 2013–2014
+| nationalteam5       = [[England national under-20 football team|England U20]]
+| nationalcaps5       = 5
+| nationalgoals5      = 0
+| nationalyears6      = 2014–2015
+| nationalteam6       = [[England national under-21 football team|England U21]]
+| nationalcaps6       = 11
+| nationalgoals6      = 0
+| medaltemplates      =
+| club-update         = 23:35, 23 February 2019 (UTC)
+| nationalteam-update = 13:00, 24 June 2015 (UTC)
+}}
+'''Luke Samuel Garbutt''' (born 21 May 1993) is an English professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Oxford United F.C.|Oxford United]], on loan from [[Everton F.C.|Everton]].
+
+==Club career==
+===Early career===
+Born in [[Harrogate]], [[North Yorkshire]],&lt;ref name=Hugman/&gt; Garbutt attended [[Harrogate Grammar School]] where he played in the Year 7 School Football team that reached the Harrogate and District Cup Final in 2005. His impressive performances for his junior club team, Pannal Ash Juniors, saw him signed by [[Leeds United F.C.|Leeds United]] where he began his professional career. Shortly after leaving school, he was signed from their academy by [[Everton F.C.|Everton]] in 2009, for an initial fee of £600,000 which was set by a tribunal as the two clubs could not agree a fee.&lt;ref&gt;{{cite news|title=Everton reveal Luke Garbutt compensation fee|url=https://www.telegraph.co.uk/sport/football/teams/everton/6154979/Everton-reveal-Luke-Garbutt-compensation-fee.html|newspaper=Daily Telegraph|accessdate=2 July 2018|date=8 September 2009|location=London}}&lt;/ref&gt; He was loaned to [[Cheltenham Town F.C.|Cheltenham Town]] during the 2011–12 season.
+
+In the [[2012–13 Everton F.C. season|2012–13 season]] Garbutt made his Everton debut, coming on at half-time during a 5–0 [[2012–13 Football League Cup|League Cup]] second-round win over [[Leyton Orient F.C.|Leyton Orient]] on 29 August 2012.&lt;ref&gt;{{cite news | url=http://www.dailymail.co.uk/sport/football/article-2194845/Everton-v-Leyton-Orient-live.html | title=Capital One Cup Live: Everton 5 Leyton Orient 0 – as it happened from Goodison Park |newspaper=Daily Mail | accessdate=29 August 2012 | location=London | first=Dan | last=Ripley | date=29 August 2012}}&lt;/ref&gt;
+
+Ahead of the [[2013–14 Everton F.C. season|2013–14 season]], Garbutt signed a new two-year contract with Everton,&lt;ref&gt;{{cite news|title=Everton left-back Luke Garbutt signs new two-year contract|url=http://www1.skysports.com/football/news/12691/8803812/Everton-left-back-Luke-Garbutt-signs-new-two-year-contract|publisher=Sky Sports|date=3 July 2013|accessdate=14 July 2013}}&lt;/ref&gt; and during the season went to [[Colchester United F.C.|Colchester United]] on loan.
+
+Garbutt made his Premier League debut as a late substitute at Southampton in April 2014&lt;ref&gt;{{cite news|title=Garbutt Pleased With Progress|url=http://www.evertonfc.com/news/archive/2014/05/26/garbutt-pleased-with-progress|publisher=Everton F.C.|date=26 May 2014 |archivedate=28 May 2014 |archiveurl=https://web.archive.org/web/20140528032838/http://www.evertonfc.com:80/news/archive/2014/05/26/garbutt-pleased-with-progress |accessdate=2 July 2018}}&lt;/ref&gt; and built on that with his first appearance for England's Under-21s in a 3–1 European Championship qualifying win over Wales the following month.&lt;ref&gt;{{cite news|title=Wales U21 v England U21|url=http://www1.skysports.com/football/live/match/307941/teams|publisher=Sky Sports|date=19 May 2014|accessdate=26 May 2014}}&lt;/ref&gt;
+
+====Loan to Cheltenham Town====
+In September 2011 he joined [[Cheltenham Town F.C.|Cheltenham Town]] on an initial one-month loan deal.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/15108318 |title=Everton's Luke Garbutt joins Cheltenham Town on loan |publisher=BBC Sport |date=29 September 2011 |accessdate=2 July 2018}}&lt;/ref&gt; He made his professional debut as Cheltenham beat [[Wycombe Wanderers F.C.|Wycombe Wanderers]] 3–1 on 4 October 2011 in the [[Football League Trophy]].&lt;ref&gt;{{cite news|title=Wycombe 1 – 3 Cheltenham|url=http://news.bbc.co.uk/sport1/hi/football/15071272.stm|publisher=BBC Sport|accessdate=7 October 2011|date=4 October 2011}}&lt;/ref&gt; His [[FA Cup]] debut was memorable as Cheltenham were drawn away to [[Premier League]] team [[Tottenham Hotspur F.C.|Tottenham Hotspur]]; the game ended 3–0 to Tottenham.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/16371883 |title=Tottenham 3–0 Cheltenham |publisher=BBC Sport |date=7 January 2012 |accessdate=8 February 2012}}&lt;/ref&gt; He continued to extend his loan spell and on 31 January 2012 scored his first goal, a free kick in a 3–1 win away at [[Macclesfield Town F.C.|Macclesfield]], sending Cheltenham to the top of the league in the process.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/16664329 |title=Macclesfield 1–3 Cheltenham |publisher=BBC Sport |date=31 January 2012 |accessdate=8 February 2012}}&lt;/ref&gt; He scored again in the following game, netting the opening goal against [[Crawley Town F.C.|Crawley Town]] from outside the area.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/16805415 |title=Crawley Town 4–2 Cheltenham |publisher=BBC Sport |date=7 February 2012 |accessdate=8 February 2012}}&lt;/ref&gt; On 13 February he extended his loan spell by a further five weeks.&lt;ref&gt;{{cite web |url=http://www1.skysports.com/football/news/11750/7519044/Garbutt-set-for-Robins-stay |title=Garbutt set for Robins stay |publisher=Sky Sports |date=13 February 2012 |accessdate=14 February 2012}}&lt;/ref&gt;
+
+====Loan to Colchester United====
+On 13 September 2013, Garbutt joined [[Football League One|League One]] side [[Colchester United F.C.|Colchester United]] on an initial 28-day loan.&lt;ref&gt;{{cite web |url=http://www.evertonfc.com/news/archive/2013/09/13/garbutt-loaned-to-colchester |archivedate=21 February 2014 |archiveurl=https://web.archive.org/web/20140221204016/http://www.evertonfc.com:80/news/archive/2013/09/13/garbutt-loaned-to-colchester |title=Garbutt Loaned To Colchester |first=Matthew |last=Gamble |publisher=Everton F.C. |accessdate=2 July 2018}}&lt;/ref&gt; He made his debut the following day, in a 2–2 draw against [[Bradford City A.F.C.|Bradford City]] at [[Valley Parade]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/23999401 |title=Bradford 2–2 Colchester |publisher=BBC Sport |date=14 September 2013 |accessdate=15 September 2013}}&lt;/ref&gt; On 28 January 2014, Everton recalled Garbutt from his loan spell following the lengthy injury to [[Bryan Oviedo]].&lt;ref&gt;{{Cite web |title=Garbutt Recalled |url=http://www.evertonfc.com/news/archive/2014/01/28/garbutt-recalled |publisher=Everton F.C. |date=28 January 2014}}&lt;/ref&gt;
+
+===Everton===
+
+After making his first start for the club at the beginning of the [[2014–15 Everton F.C. season|2014–15 season]] in a [[Football League Cup|League Cup]] defeat to [[Swansea City A.F.C.|Swansea City]] in September,&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/29216771 |title=Swansea City 3-0 Everton |publisher=BBC Sport |date=23 September 2014 |accessdate=17 March 2015}}&lt;/ref&gt; Garbutt started the final two [[UEFA Europa League]] group stage games, helping Everton finish top of the group with a clean sheet in a 2–0 win away to [[VfL Wolfsburg|Wolfsburg]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/30204400 |title=VfL Wolfsburg 0-2 Everton |publisher=BBC Sport |date=27 November 2014 |accessdate=17 March 2015}}&lt;/ref&gt; Garbutt was part of the starting 11 in both legs of the Europa League round of 16 tie against Swiss side [[BSC Young Boys]] in February, Everton progressing 7–2 on aggregate.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/31523676 |title=BSC Young Boys 1-4 Everton |publisher=BBC Sport |date=19 February 2015 |accessdate=17 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/31627528 |title=Everton 3-1 BSC Young Boys |publisher=BBC Sport |date=26 February 2015 |accessdate=17 March 2015}}&lt;/ref&gt; This was the beginning of an extended run in the first team for Garbutt, starting in the following Premier League game against [[Arsenal F.C.|Arsenal]],&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/31572602 |title=Arsenal 2-0 Everton |publisher=BBC Sport |date=1 March 2015 |accessdate=17 March 2015}}&lt;/ref&gt; taking advantage of an injury to regular left-back [[Leighton Baines]] to maintain his place in the starting 11.&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/england/under-21/2015/mar/luke-garbutt-enjoying-dream-run-at-everton |title=Luke Garbutt enjoying dream run at Everton |publisher=Football Association |date=15 March 2015 |accessdate=17 March 2015}}&lt;/ref&gt;
+
+On 30 June 2015, Everton announced that Garbutt had signed new five-year deal with the club.&lt;ref&gt;{{cite web|title=Garbutt Signs New Deal|url=http://www.evertonfc.com/news/2015/06/30/garbutt-signs-new-deal|publisher=Everton F.C.|date=30 June 2015|accessdate=30 June 2015}}&lt;/ref&gt;
+
+====Loan spells====
+On 25 July 2015, Garbutt was loaned to [[Football League Championship|Championship]] side [[Fulham F.C.|Fulham]] for the [[2015–16 Football League Championship|2015–16 season]].&lt;ref&gt;{{Cite web |title=Luke Garbutt: Fulham sign Everton defender on loan |url=https://www.bbc.com/sport/0/football/33663469 |publisher=BBC Sport |date=25 July 2015|accessdate=25 July 2015}}&lt;/ref&gt; He scored his first goal for Fulham in a 2–2 draw with [[Bolton Wanderers]] on 19 December 2015.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/35077677|title=Bolton 2-2 Fulham|publisher=BBC Sport |date=19 December 2015 |accessdate=2 January 2016 }}&lt;/ref&gt;
+On 16 August 2016, Garbutt returned to the Championship, joining newly promoted [[Wigan Athletic F.C.|Wigan Athletic]] on a four-and-a-half-month loan.&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/37099488|title=Luke Garbutt: Wigan Athletic sign Everton left-back on loan|date=16 August 2016|publisher=BBC Sport |accessdate=16 August 2016}}&lt;/ref&gt;
+On 2 July 2018, Garbutt joined [[EFL League One|League One]] club [[Oxford United F.C.|Oxford United]] on a season-long loan.&lt;ref&gt;{{cite web|url=http://www.evertonfc.com/news/2018/07/02/garbutt-joins-oxford-united-on-loan|title=Garbutt Joins Oxford United On Season-Long Loan|publisher=Everton F.C.|date=2 July 2018|accessdate=2 July 2018}}&lt;/ref&gt;
+
+==International career==
+
+Garbutt has represented England at [[England national under-16 football team|under-16]], [[England national under-17 football team|under-17]], [[England national under-18 football team|under-18]] and [[England national under-19 football team|under-19]] level.&lt;ref&gt;{{cite web|title=Luke Garbutt profile at thefa.com|url=http://www.thefa.com/England/All-Teams/Players/G/Luke-Garbutt|publisher=Football Association |accessdate=7 October 2011}}&lt;/ref&gt;
+
+He made his England U-16 début against Germany in March 2008 and made his final England U-16 appearance against Scotland in November 2008. Four months earlier, he had made his England U-17 début against Finland.
+
+He helped England win the [[2010 UEFA European Under-17 Football Championship]] and played in the final where England beat Spain 2–1.&lt;ref&gt;{{cite web|title=England comeback seals U17 crown|url=http://www.uefa.com/UNDER17/matches/season=2010/round=15345/match=2002343/index.html|publisher=UEFA|accessdate=8 August 2011|date=30 May 2010}}&lt;/ref&gt;
+
+On 17 May 2013, he was named in manager [[Peter Taylor (footballer born 1953)|Peter Taylor]]'s provisional squad for the [[2013 FIFA U-20 World Cup]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/england/mens-u20s/News/2013/provisional-world-cup-squad |title=U20 World Cup squad|publisher=Football Association |date=17 May 2013 |accessdate=17 June 2013}}&lt;/ref&gt; Initially he did not make the final 21-man squad, but after [[Leeds United F.C.|Leeds United]] defender [[Sam Byram]] pulled out through injury he was named as his replacement.&lt;ref&gt;{{cite web |url=http://www.thefa.com/england/mens-u20s/News/2013/sam-byram-withdrawn-from-world-cup-squad-110613 |title=Byram withdrawn from U20 squad |publisher=Football Association |date=11 June 2013 |accessdate=17 June 2013}}&lt;/ref&gt; He made his debut on 16 June, in a 3–0 win in a warm-up game against [[Uruguay national under-20 football team|Uruguay]].&lt;ref&gt;{{cite web |url=https://archive.is/20130624222816/http://www.thefa.com/england/mens-u20s/News/2013/uruguay-report-160613 |title=Training win for Three Lions|publisher=Football Association |date=16 June 2013 |accessdate=17 June 2013}}&lt;/ref&gt;
+
+On 11 August, he was called up to the [[England national under-21 football team|England under-21 squad]] to replace [[Southampton F.C.|Southampton]] left-back [[Luke Shaw]], for the friendly match against [[Scotland national under-21 football team|Scotland]].&lt;ref&gt;{{cite web |url=http://www.evertonfc.com/news/archive/2013/08/11/garbutt-gets-young-lions-call |title=Garbutt Gets Young Lions Call |publisher=Everton F.C. |date=11 August 2013 |accessdate=15 September 2013}}&lt;/ref&gt; Garbutt was an unused substitute as England won the game 6–0.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/23690472 |title=England Under-21s thrash Scotland 6–0 in friendly |publisher=BBC Sport |date=13 August 2013 |accessdate=15 September 2013}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 14 August 2018.}}&lt;ref&gt;{{soccerbase|id=53091|name=Luke Garbutt}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[Football League Cup|League Cup]]
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[Everton F.C.|Everton]]
+|[[2011–12 Everton F.C. season|2011–12]]
+|[[Premier League]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|[[2012–13 Everton F.C. season|2012–13]]
+|Premier League
+|0||0||0||0||1||0||0||0||0||0||1||0
+|-
+|[[2013–14 Everton F.C. season|2013–14]]
+|Premier League
+|1||0||0||0||0||0||0||0||0||0||1||0
+|-
+|[[2014–15 Everton F.C. season|2014–15]]
+|Premier League
+|4||0||0||0||1||0||5||0||0||0||10||0
+|-
+!colspan=3|Total
+!5||0||0||0||2||0||5||0||0||0||12||0
+|-
+|[[Cheltenham Town F.C.|Cheltenham Town]] (loan)
+|[[2011–12 Cheltenham Town F.C. season|2011–12]]
+|[[Football League Two|League Two]]
+|34||2||1||0||0||0||0||0||1||0||36||2
+|-
+|[[Colchester United F.C.|Colchester United]] (loan)
+|[[2013–14 Colchester United F.C. season|2013–14]]
+|[[Football League One|League One]]
+|19||2||1||1||0||0||0||0||0||0||20||3
+|-
+|[[Fulham F.C.|Fulham]] (loan)
+|[[2015–16 Fulham F.C. season|2015–16]]
+|[[Football League Championship|Championship]]
+|25||1||1||0||0||0||0||0||0||0||26||1
+|-
+|[[Wigan Athletic F.C.|Wigan Athletic]] (loan)
+|[[2016–17 Wigan Athletic F.C. season|2016–17]]
+|[[Football League Championship|Championship]]
+|8||0||0||0||0||0||0||0||0||0||8||0
+|-
+|[[Oxford United F.C.|Oxford United]] (loan)
+|[[2018–19 Oxford United F.C. season|2018–19]]
+|[[EFL League One|League One]]
+|3||0||0||0||1||0||0||0||0||0||4||0
+|-
+!colspan="3"|Career total
+!94!!5!!3!!1!!3!!0!!5!!0!!1!!0!!106!!6
+|}
+
+==Honours==
+===International===
+;[[England national under-17 football team|England U17]]
+*[[UEFA European Under-17 Football Championship]] (1): [[2010 UEFA European Under-17 Football Championship|2010]]
+
+;Individual
+* [[UEFA European Under-17 Championship]] Team of the Tournament: [[2010 UEFA European Under-17 Championship|2010]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://www.evertonfc.com/player-profile/luke-garbutt Luke Garbutt profile at evertonfc.com]
+*[http://www.thefa.com/england/all-teams/players/g/luke-garbutt Luke Garbutt] at TheFA.com
+*{{Soccerbase}}
+*{{UEFA player|250007232}}
+
+{{Oxford United F.C. squad}}
+&lt;!--{{Everton F.C. squad}}--&gt;
+
+{{DEFAULTSORT:Garbutt, Luke}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:People from Harrogate]]
+[[Category:Footballers from North Yorkshire]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:Association football defenders]]
+[[Category:Everton F.C. players]]
+[[Category:Cheltenham Town F.C. players]]
+[[Category:Colchester United F.C. players]]
+[[Category:Fulham F.C. players]]
+[[Category:Wigan Athletic F.C. players]]
+[[Category:Oxford United F.C. players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]</text>
+      <sha1>6bdsill7hxe76l4za6cnkkc931f08da</sha1>
+    </revision>
+  </page>
+</mediawiki>

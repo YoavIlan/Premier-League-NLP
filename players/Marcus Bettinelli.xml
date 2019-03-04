@@ -1,0 +1,217 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Marcus Bettinelli</title>
+    <ns>0</ns>
+    <id>40391875</id>
+    <revision>
+      <id>885983590</id>
+      <parentid>885944706</parentid>
+      <timestamp>2019-03-03T16:10:31Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/79.254.0.197|79.254.0.197]] ([[User talk:79.254.0.197|talk]]): No improvement ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16102">{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=September 2018}}
+{{Infobox football biography
+| name                = Marcus Bettinelli
+| image               = Marcus Bettinelli 12-04-2014 1.jpg
+| image_size          = 200
+| caption             = Bettinelli playing for [[Accrington Stanley F.C.|Accrington Stanley]] in 2014
+| fullname            = Marcus Bettinelli&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/844127 |title=2018/19 Premier League squads confirmed |publisher=Premier League |date=3 September 2018 |accessdate=7 September 2018}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1992|5|24|df=y}}&lt;ref&gt;{{cite web |url=http://www.espnfc.co.uk/player/177545/marcus-bettinelli |title=Marcus Bettinelli |website=ESPN FC |accessdate=7 September 2018}}&lt;/ref&gt;
+| birth_place         = [[Camberwell]], England
+| height              = {{convert|1.94|m|order=flip}}&lt;ref&gt;{{cite web |url=http://www.fulhamfc.com/player-profiles/marcus-bettinelli |title=Marcus Bettinelli |publisher=Fulham F.C. |accessdate=7 September 2018}}&lt;/ref&gt;
+| position            = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub         = [[Fulham F.C.|Fulham]]
+| clubnumber          = 1
+| youthyears1         = {{0|0000}}–2010
+| youthclubs1         = [[Fulham F.C.|Fulham]]
+| years1              = 2010–
+| clubs1              = [[Fulham F.C.|Fulham]]
+| caps1               = 89
+| goals1              = 0
+| years2              = 2012–2013
+| clubs2              = → [[Dartford F.C.|Dartford]] (loan)
+| caps2               = 35
+| goals2              = 0
+| years3              = 2013
+| clubs3              = → [[Accrington Stanley F.C.|Accrington Stanley]] (loan)
+| caps3               = 17
+| goals3              = 0
+| years4              = 2014
+| clubs4              = → [[Accrington Stanley F.C.|Accrington Stanley]] (loan)
+| caps4               = 22
+| goals4              = 0
+| nationalyears1      = 2015
+| nationalteam1       = [[England national under-21 football team|England U21]]
+| nationalcaps1       = 1
+| nationalgoals1      = 0
+| club-update         = 17:58, 15 November 2018 (UTC)
+| nationalteam-update = 
+}}
+'''Marcus Bettinelli''' (born 24 May 1992) is an English professional [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{English football updater|Fulham}} club [[Fulham F.C.|Fulham]]. He has been capped by the [[England national under-21 football team|England national under-21 team]] and called up for the [[England national football team|senior team]].
+
+==Club career==
+Bettinelli was born in [[Camberwell]], London.&lt;ref&gt;{{cite web |url=https://www.11v11.com/players/marcus-bettinelli-239791/ |title=Marcus Bettinelli |website=11v11.com |publisher=AFS Enterprises |accessdate=7 September 2018}}&lt;/ref&gt; He started his career with [[Fulham F.C.|Fulham]], signing his first professional contract in July 2010.&lt;ref&gt;{{Hugman|26032|accessdate=7 September 2018}}&lt;/ref&gt;
+
+Bettinelli joined [[National League (division)|Conference Premier]] club [[Dartford F.C.|Dartford]] on 17 August 2012 on a one-month [[Loan (sports)|loan]] to gain first-team experience.&lt;ref&gt;{{cite web |url=http://www.fulhamfc.com/news/2012/august/17/bettinelli-loan-deal |title=Bettinelli loan deal |publisher=Fulham F.C. |date=17 August 2012 |accessdate=7 September 2018}}&lt;/ref&gt; He made his debut a day later, in a 2–0 away loss against [[Macclesfield Town F.C.|Macclesfield Town]].&lt;ref&gt;{{cite web |url=http://www.fulhamfc.com/news/2012/august/21/bettinelli-makes-darts-debut |title=Bettinelli makes Darts debut |publisher=Fulham F.C. |date=21 August 2012 |accessdate=7 September 2018}}&lt;/ref&gt; Having made seven appearances so far, his loan spell was extended for another month.&lt;ref&gt;{{cite web |url=http://www.fulhamfc.com/news/2012/september/21/bettenelli-extends-darts-spell |title=Bettinelli extends Darts spell |publisher=Fulham F.C. |date=21 September 2012 |accessdate=7 September 2018}}&lt;/ref&gt; This would happen again, as it was extended until Christmas.&lt;ref&gt;{{cite news |url=https://www.kentonline.co.uk/dartford/news/fulham-goalkeeper-marcus-bettine-a59303/ |title=Fulham goalkeeper Marcus Bettinelli extends loan spell with Blue Square Bet Premier Dartford until Christmas |first=Steve |last=Tervet |website=KentOnline |publisher=KM Group |date=26 October 2012 |accessdate=7 September 2018}}&lt;/ref&gt; He went on to make 42 appearances in all competitions before being recalled by Fulham on 26 March 2013.&lt;ref&gt;{{cite news |url=https://www.kentonline.co.uk/dartford/news/marcus-bettinelli-returns-to-ful-a54532/ |title=Marcus Bettinelli returns to Fulham from loan spell at Dartford |first=Alex |last=Hoad |website=KentOnline |publisher=KM Group |date=26 March 2013 |accessdate=7 September 2018}}&lt;/ref&gt;
+
+Bettinelli joined [[EFL League Two|League Two]] club [[Accrington Stanley F.C.|Accrington Stanley]] on 28 August 2013 on a one-month loan.&lt;ref name=loan&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/23878140 |title=Fulham: Marcus Bettinelli joins Accrington Stanley on loan |publisher=BBC Sport |date=29 August 2013 |accessdate=7 September 2018}}&lt;/ref&gt; He made his debut the same day in the [[EFL Cup|League Cup]] against [[Cardiff City F.C.|Cardiff City]] in a 2–0 home defeat.&lt;ref name=sb1314/&gt; His [[English Football League|Football League]] debut on 31 August, in a 1–0 home defeat to [[Burton Albion F.C.|Burton Albion]].￼￼&lt;ref name=sb1314/&gt; Fulham confirmed on 2 September 2013 that Bettinelli would stay with Accrington for the rest of the [[2013–14 Accrington Stanley F.C. season|2013–14 season]],&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/23931848 |title=Fulham: Marcus Bettinelli to stay at Accrington for full season |publisher=BBC Sport |date=2 September 2013 |accessdate=7 September 2018}}&lt;/ref&gt; but he was recalled on 26 December&lt;ref&gt;{{cite web |url=http://accringtonstanley.co.uk/2013/12/bettinelli-recalled/ |title=Bettinelli recalled |first=Dan |last=Jewell |publisher=Accrington Stanley F.C. |date=26 December 2013 |accessdate=7 September 2018}}&lt;/ref&gt; and was named as a [[Substitute (association football)|substitute]] in Fulham's 2–1 away win over [[Norwich City F.C.|Norwich City]] in the league as cover for [[David Stockdale]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/25442183 |title=Norwich City 1–2 Fulham |first=Matt |last=Monaghan |publisher=BBC Sport |date=26 December 2013 |accessdate=7 September 2018}}&lt;/ref&gt; On 3 January 2014, he re-joined Accrington Stanley on loan until 30 January 2014.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/25588090 |title=Accrington re-sign Fulham's Marcus Bettinelli on loan |publisher=BBC Sport |date=3 January 2014 |accessdate=7 September 2018}}&lt;/ref&gt;
+
+Bettinelli agreed a two-year extension to his Fulham contract on 10 January 2014, which would keep him at the club until June 2016.&lt;ref&gt;{{cite web |url=http://www.fulhamfc.com/news/2014/january/10/new-deal-for-marcus |title=New deal for Marcus |publisher=Fulham F.C. |date=10 January 2014 |archiveurl=https://web.archive.org/web/20140110125210/http://www.fulhamfc.com/news/2014/january/10/new-deal-for-marcus |archivedate=10 January 2014 |deadurl=yes}}&lt;/ref&gt; He made his debut for the club on 26 August in the second round of the [[EFL Cup|League Cup]] away to West London rivals [[Brentford F.C.|Brentford]], keeping a clean sheet in a 1–0 victory.&lt;ref&gt;{{cite news |url=https://www.skysports.com/football/brentford-vs-fulham/report/325020 |title=Capital One Cup: Fulham earn 1-0 win at Brentford |publisher=Sky Sports |date=27 August 2014 |accessdate=13 September 2018}}&lt;/ref&gt; Four days later he made his league debut for Fulham in the [[EFL Championship|Championship]], a 1–1 home draw with [[Cardiff City F.C.|Cardiff City]]. On 5 December, he was sent off after 18 minutes in a 5–0 loss to Watford at [[Craven Cottage]] for fouling [[Matěj Vydra]], conceding a penalty that [[Troy Deeney]] put past substitute goalkeeper [[Gábor Király]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/30241297 |title=Fulham 0–5 Watford |publisher=BBC Sport |date=5 December 2014 |accessdate=13 September 2018}}&lt;/ref&gt;
+
+Bettinelli signed another contract extension on 30 August 2017, keeping him at Fulham until June 2020 with an option in the club's favour to extend for a further year.&lt;ref&gt;{{cite web |url=http://www.fulhamfc.com/news/2017/august/30/marcus-bettinelli-new-deal |title=Bettinelli's new deal |publisher=Fulham F.C. |date=30 August 2017 |accessdate=7 September 2018}}&lt;/ref&gt; He was second-choice to [[David Button]] for all but the last six matches of the [[2016–17 EFL Championship]] season and thought that his Fulham career was over, but manager [[Slaviša Jokanović]] eventually made him the starting goalkeeper for the following season.&lt;ref&gt;{{cite news |url=https://www.getwestlondon.co.uk/sport/football/football-news/marcus-bettinelli-admits-thought-fulham-14488693 |title=Marcus Bettinelli admits he thought his Fulham career was over last season |first=Ryan |last=O'Donovan |website=Get West London |publisher=Reach |date=3 April 2018 |accessdate=13 September 2018}}&lt;/ref&gt; Fulham finished third and qualified for the [[2018 EFL play-offs|play-offs]], defeating [[Derby County F.C.|Derby County]] 2–1 on aggregate in the semi-final and [[Aston Villa F.C.|Aston Villa]] 1–0 in the [[2018 EFL Championship play-off Final|final]] at [[Wembley Stadium]].&lt;ref name=sb1718/&gt;&lt;ref name=playoffs/&gt;
+
+==International career==
+In November 2014, Bettinelli was called up to the [[England national under-21 football team|England U21]] squad for the first time for matches against [[Portugal national under-21 football team|Portugal]] and [[France national under-21 football team|France]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2014/nov/06/squad-named-for-portugal-france-061114 |title=England under-21s squad named for double header |first=Nicholas |last=Veevers |publisher=The Football Association |date=6 November 2014 |accessdate=7 September 2018}}&lt;/ref&gt; He made his debut for the under-21 side in a friendly against the [[Czech Republic national under-21 football team|Czech Republic]] on 27 March 2015 in a 1–0 away win.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2015/mar/27/czech-republic-england-under-21s-friendly-match-report |title=Tom Carroll scores winner for England under-21s against Czech Republic |newspaper=The Guardian |location=London |agency=Press Association |date=27 March 2015 |accessdate=7 September 2018}}&lt;/ref&gt; This proved to be his only appearance for the under-21 team.&lt;ref&gt;{{cite web |url=http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg4.html |title=England's matches: The under 21's: 2010–20 |website=England Football Online |publisher=Chris Goodwin, Glen Isherwood &amp; Peter Young |date=7 September 2018 |accessdate=7 September 2018}}&lt;/ref&gt;
+
+In September 2018, he was called up to the [[England national football team|England]] squad for matches against [[Spain national football team|Spain]] and [[Switzerland national football team|Switzerland]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45413352 |title=England call up Marcus Bettinelli as Adam Lallana withdraws |publisher=BBC Sport |accessdate=4 September 2018 |date=4 September 2018}}&lt;/ref&gt;
+
+==Personal life==
+He is the son of [[Fulham F.C. Academy|Fulham Academy]] goalkeeping coach Vic Bettinelli.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/chelsea/11547224/Chelsea-want-Fulhams-England-U-21-keeper-Marcus-Bettinelli-to-replace-Petr-Cech.html |title=Chelsea want Fulham's England U-21 keeper Marcus Bettinelli to replace Petr Cech |newspaper=The Daily Telegraph |location=London |first=Jason |last=Burt |date=18 April 2015 |accessdate=7 September 2018}}&lt;/ref&gt; Bettinelli is of partial Italian descent on his father's side.&lt;ref&gt;{{cite web |url=https://www.thetimes.co.uk/article/fulham-goalkeeper-im-happier-earning-less-if-it-means-that-i-get-to-play-59j0rlvcw |title=Fulham goalkeeper: I'm happier earning less if it means that I get to play |first=Henry |last=Winter |newspaper=The Times |location=London |date=29 April 2017 |accessdate=7 September 2018}}{{subscription required|s}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 20 October 2018}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=8|[[Fulham F.C.|Fulham]]
+|[[2012–13 Fulham F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|66524|2012|accessdate=7 September 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2013–14 Fulham F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|66524|2013|accessdate=7 September 2018}}&lt;/ref&gt;
+|Premier League
+|0||0||colspan=2|—||0||0||colspan=2|—||0||0
+|-
+|[[2014–15 Fulham F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|66524|2014|accessdate=7 September 2018}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|39||0||4||0||2||0||colspan=2|—||45||0
+|-
+|[[2015–16 Fulham F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|66524|2015|accessdate=7 September 2018}}&lt;/ref&gt;
+|Championship
+|11||0||0||0||1||0||colspan=2|—||12||0
+|-
+|[[2016–17 Fulham F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|66524|2016|accessdate=7 September 2018}}&lt;/ref&gt;
+|Championship
+|6||0||3||0||0||0||2{{efn|name=CPO|Appearances in [[EFL Championship play-offs|Championship play-offs]]}}||0||11||0
+|-
+|[[2017–18 Fulham F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|66524|2017|accessdate=6 November 2018}}&lt;/ref&gt;
+|Championship
+|26||0||0||0||1||0||3{{efn|name=CPO}}||0||30||0
+|-
+|[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|66524|2018|accessdate=15 November 2018}}&lt;/ref&gt;
+|Premier League
+|7||0||0||0||0||0||colspan=2|—||7||0
+|-
+!colspan=2|Total
+!89||0||7||0||4||0||5||0||105||0
+|-
+|[[Dartford F.C.|Dartford]] (loan)
+|[[2012–13 Football Conference#Conference Premier|2012–13]]&lt;ref name=Soccerway&gt;{{cite web |url=https://uk.soccerway.com/players/marcus-bettinelli/194646/ |title=M. Bettinelli: Summary |website=Soccerway |publisher=Perform Group |accessdate=30 September 2018}}&lt;/ref&gt;
+|[[National League (division)|Conference Premier]]
+|35||0||0||0||colspan=2|—||7{{efn|Appearances in [[FA Trophy]]}}||0||42||0
+|-
+|[[Accrington Stanley F.C.|Accrington Stanley]] (loan)
+|[[2013–14 Accrington Stanley F.C. season|2013–14]]&lt;ref name=sb1314/&gt;
+|[[EFL League Two|League Two]]
+|39||0||1||0||1||0||0||0||41||0
+|-
+!colspan=3|Career total
+!163||0||8||0||5||0||12||0||188||0
+|}
+
+{{notelist}}
+
+==Honours==
+'''Fulham'''
+*[[EFL Championship play-offs]]: [[2018 English Football League play-offs#Championship|2018]]&lt;ref name=playoffs&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44178427 |title=Aston Villa 0–1 Fulham |first=Phil |last=Cartwright |publisher=BBC Sport |date=26 May 2018 |accessdate=26 May 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.fulhamfc.com/player-profiles/marcus-bettinelli Profile] at the Fulham F.C. website
+*[http://www.thefa.com/england/mens-seniors/squad/marcus-bettinelli Profile] at the Football Association website
+*{{Soccerbase}}
+
+{{Fulham F.C. squad}}
+
+{{DEFAULTSORT:Bettinelli, Marcus}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:People from Camberwell]]
+[[Category:Footballers from Greater London]]
+[[Category:English footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Fulham F.C. players]]
+[[Category:Dartford F.C. players]]
+[[Category:Accrington Stanley F.C. players]]
+[[Category:National League (English football) players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:English people of Italian descent]]</text>
+      <sha1>br3wh5aqrmxuqu51assc9olxzs2870w</sha1>
+    </revision>
+  </page>
+</mediawiki>

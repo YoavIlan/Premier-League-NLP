@@ -1,0 +1,273 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pape Souaré</title>
+    <ns>0</ns>
+    <id>31152501</id>
+    <revision>
+      <id>884387195</id>
+      <parentid>884379585</parentid>
+      <timestamp>2019-02-21T08:56:19Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <minor/>
+      <comment>Moving from [[Category:Senegalese expatriates in France]] to [[Category:Senegalese expatriate sportspeople in France]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11927">{{Infobox football biography
+|name           = Pape Souaré
+|image          = Pape Souaré (LOSC Lille).JPG
+|image_size     = 150
+|caption        = Souaré playing for [[Lille OSC|Lille]] in 2014
+|fullname       = Pape N'Diaye Souaré&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
+|birth_date     = {{birth date and age|1990|6|6|df=y}}
+|birth_place    = Mbao, Senegal
+|height         = 1.78 m&lt;ref name = "NFT"/&gt;
+|position       = [[Defender (association football)|Left back]]
+|currentclub    = [[Crystal Palace F.C.|Crystal Palace]]
+|clubnumber     = 27
+|years1         = 2007–2008
+|clubs1         = [[Diambars FC|Diambars]]
+|caps1          = 
+|goals1         = 
+|years2         = 2008–2012
+|clubs2         = [[Lille OSC|Lille B]]
+|caps2          = 55
+|goals2         = 7
+|years3         = 2008–2015
+|clubs3         = [[Lille OSC|Lille]]
+|caps3          = 53
+|goals3         = 3
+|years4         = 2012–2013
+|clubs4         = → [[Stade Reims|Reims]] (loan)
+|caps4          = 23
+|goals4         = 0
+|years5         = 2015–
+|clubs5         = [[Crystal Palace F.C.|Crystal Palace]]
+|caps5          = 48
+|goals5         = 0
+|nationalyears1 = 2012
+|nationalteam1  = [[Senegal national under-23 football team|Senegal Olympic]]
+|nationalcaps1  = 4
+|nationalgoals1 = 0
+|nationalyears2 = 2012–
+|nationalteam2  = [[Senegal national football team|Senegal]]
+|nationalcaps2  = 22
+|nationalgoals2 = 1
+|club-update    = 17:24, 11 August 2018 (UTC)
+|ntupdate       = 18:09, 13 May 2018 (UTC)
+}}
+'''Pape N'Diaye Souaré''' ({{IPA-fr|pap swaʁe|lang}};&lt;ref&gt;{{cite web|title=Affaire Pape Ndiaye Souaré: Voici ce qu'en pense le sélectionneur, Aliou Cissé|url=https://www.youtube.com/watch?v=T500YSkJOEE|work=[[YouTube]]|date=16 September 2016|accessdate=30 October 2017}}&lt;/ref&gt; born 6 June 1990) is a Senegalese professional [[association football|footballer]] who plays as a [[Defender (association football)|left back]] for [[Premier League]] club [[Crystal Palace F.C.|Crystal Palace]].
+
+==Club career==
+Born in Mbao, [[Pikine Department]], Souaré spent his early career with [[Diambars FC|Diambars]], [[Lille OSC|Lille II]], [[Lille OSC|Lille]] and [[Stade Reims|Reims]].&lt;ref name = "NFT"&gt;{{NFT player|pid=46802|accessdate=1 February 2015}}&lt;/ref&gt;&lt;ref name = "SW"&gt;{{soccerway|pape-souare/95905|accessdate=1 February 2015}}&lt;/ref&gt;&lt;ref&gt;{{lfpfr2|id=souare-pape-ndiaye|name=Pape Ndiaye Souare}}&lt;/ref&gt;
+
+He moved to [[Crystal Palace F.C.|Crystal Palace]] on a three-and-a half-year deal in January 2015 for an undisclosed fee,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/31069468|title=Pape Souare: Crystal Palace sign Lille and Senegal defender|date=30 January 2015|accessdate=1 February 2015|publisher=BBC Sport}}&lt;/ref&gt; reported as £3.45 million.&lt;ref name=debut&gt;{{cite news|last1=Fifield|first1=Dominic|title=Liverpool fight back to edge past Crystal Palace with Adam Lallana winner|url=https://www.theguardian.com/football/2015/feb/14/crystal-palace-liverpool-fa-cup-match-report|accessdate=14 September 2017|work=The Observer|date=14 February 2015}}&lt;/ref&gt; He made his Palace debut on 14 February in the fifth round of the [[FA Cup]], a 2–1 home loss to [[Liverpool F.C.|Liverpool]], and was described by Dominic Fifield of ''[[The Observer]]'' as looking "rusty and susceptible".&lt;ref name=debut/&gt;
+
+On 22 January 2016, it was announced that Souaré had signed a new three-and-a half-year contract with Palace.&lt;ref&gt;{{cite web|title=Souare Signs New Deal|url=https://www.cpfc.co.uk/news/2016/january/souare-signs-new-deal/|website=cpfc.co.uk|date=22 January 2016|accessdate=22 January 2016}}&lt;/ref&gt; He was sent off on 13 February at the end of a 2–1 loss to [[Watford F.C.|Watford]] at [[Selhurst Park]], for fouling [[Valon Behrami]].&lt;ref&gt;{{cite news|last1=Lake|first1=Jefferson|title=Crystal Palace 1-2 Watford: Troy Deeney double downs Eagles|url=http://www.skysports.com/football/c-palace-vs-watford/341441|accessdate=14 September 2017|publisher=Sky Sports|date=13 February 2016}}&lt;/ref&gt;
+
+After over a year out of football following a car crash, Souaré made his first appearance on 19 September 2017 in a 1–0 home win over [[Huddersfield Town]] in the third round of the [[EFL Cup]]. He was praised for his performance by manager [[Roy Hodgson]].&lt;ref&gt;{{cite news|title=Crystal Palace 1-0 Huddersfield Town|url=https://www.bbc.com/sport/football/41235280|accessdate=20 September 2017|publisher=BBC Sport|date=19 September 2017}}&lt;/ref&gt;
+
+==International career==
+Souaré made his international debut for [[Senegal national football team|Senegal]] on 29 February 2012, in a goalless friendly draw against South Africa at the [[Moses Mabhida Stadium]] in [[Durban]].&lt;ref name = "NFT"/&gt;&lt;ref&gt;{{cite news|last1=Fadjri|first1=Wal|title=Afrique du sud-Sénégal (0-0) : L'espoir est permis|url=http://www.seneweb.com/news/Sport/afrique-du-sud-senegal-0-0-l-rsquo-espoir-est-permis_n_60449.html|accessdate=14 September 2017|publisher=Seneweb|date=1 March 2012|language=French}}&lt;/ref&gt; He later competed at the 2012 Summer Olympics,&lt;ref&gt;{{cite web|url=http://www.losc.fr/actualites-foot-lille/jo-souare-decisif-avec-le-senegal|title=Souaré décisif avec le Sénégal|date=30 July 2012|language=French|publisher=Lille OSC}}&lt;/ref&gt;&lt;ref&gt;{{FIFA player|353769}}&lt;/ref&gt; and was a squad member at the [[2015 Africa Cup of Nations]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/30743603|title=2015 Africa Cup of Nations: Sadio Mane included in Senegal squad|date=9 January 2015|accessdate=1 February 2015|publisher=BBC Sport}}&lt;/ref&gt; He scored his first international goal from a 20-yard free kick on 29 March 2016 as the ''Lions de Teranga'' won 2–1 away to [[Niger national football team|Niger]] in [[2017 Africa Cup of Nations qualification]].&lt;ref&gt;{{cite news|title=WATCH: Crystal Palace man scores awesome free-kick for his country Senegal|url=http://www.croydonadvertiser.co.uk/watch-crystal-palace-man-scores-awesome-free-kick/story-29017847-detail/story.html|accessdate=14 September 2017|work=Croydon Advertiser|date=30 March 2016}}&lt;/ref&gt; Following his car crash, he returned to the national team in March 2018.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/43318367|title=Souare back in Senegal squad after life-threatening car crash|date=7 March 2018|accessdate=9 March 2018|author=Momodou Bah|publisher=BBC Sport}}&lt;/ref&gt;
+
+He was not included in Senegal's squad for the 2018 FIFA World Cup.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44161142|title=World Cup 2018: Pape Souare left out of Senegal squad|date=17 May 2018|accessdate=18 May 2018|publisher=BBC Sport}}&lt;/ref&gt;
+
+==Personal life==
+On 11 September 2016, Souaré was airlifted to hospital after being involved in a road accident on the [[M4 motorway|M4]]. He sustained injuries to his thigh and jawbone.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37337420|title=Pape Souare: Crystal Palace defender airlifted to hospital after M4 crash|date=12 September 2016|accessdate=18 September 2016|publisher=BBC Sport}}&lt;/ref&gt; It was thought that he would be out for 6 months,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37383412|title=Pape Souare: Crystal Palace defender could be out for six months|date=16 September 2016|accessdate=18 September 2016|publisher=BBC Sport}}&lt;/ref&gt; although he returned to training after 11 months.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/40880691|title=Pape Souare: Crystal Palace defender back in training 11 months after car crash|date=9 August 2017|accessdate=10 August 2017|publisher=BBC Sport}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/41088144|title=Pape Souare: Crystal Palace defender back in action|date=29 August 2017|accessdate=31 August 2017|publisher=BBC Sport}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|31 October 2018}}&lt;ref name = "NFT"/&gt;&lt;ref name = "SW"/&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|Cup
+!colspan=2|League Cup
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=5|[[Lille OSC|Lille B]]
+|[[2008–09 Championnat de France amateur|2008–09]]
+|[[Championnat de France amateur|CFA]]
+|16||1||0||0||0||0||0||0||16||1
+|-
+|[[2009–10 Championnat de France amateur|2009–10]]
+|CFA
+|19||5||0||0||0||0||0||0||19||5
+|-
+|[[2010–11 Championnat de France amateur|2010–11]]
+|CFA
+|13||0||0||0||0||0||0||0||13||0
+|-
+|[[2011–12 Championnat de France amateur|2011–12]]
+|CFA
+|7||1||0||0||0||0||0||0||7||1
+|-
+!colspan=2|Total
+!55!!7!!0!!0!!0!!0!!0!!0!!55!!7
+|-
+|rowspan=6|[[Lille OSC|Lille]]
+|[[2010–11 Ligue 1|2010–11]]
+|[[Ligue 1]]
+|4||0||0||0||0||0||1||0||5||0
+|-
+|[[2011–12 Ligue 1|2011–12]]
+|Ligue 1
+|4||0||0||0||1||0||0||0||5||0
+|-
+|[[2012–13 Ligue 1|2012–13]]
+|Ligue 1
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2013–14 Ligue 1|2013–14]]
+|Ligue 1
+|33||3||2||0||1||0||0||0||36||3
+|-
+|[[2014–15 Ligue 1|2014–15]]
+|Ligue 1
+|12||0||1||0||1||0||9||0||23||0
+|-
+!colspan=2|Total
+!53!!3!!3!!0!!3!!0!!10!!0!!69!!3
+|-
+|[[Stade Reims|Reims]] (loan)
+|[[2012–13 Ligue 1|2012–13]]
+|Ligue 1
+|23||0||1||0||1||0||0||0||25||0
+|-
+|rowspan=6|[[Crystal Palace F.C.|Crystal Palace]]
+|[[2014–15 Crystal Palace F.C. season|2014–15]]
+|[[Premier League]]
+|9||0||1||0||0||0||0||0||10||0
+|-
+|[[2015–16 Crystal Palace F.C. season|2015–16]]
+|Premier League
+|34||0||5||0||2||0||0||0||41||0
+|-
+|[[2016–17 Crystal Palace F.C. season|2016–17]]
+|Premier League
+|3||0||0||0||1||0||0||0||4||0
+|-
+|[[2017–18 Crystal Palace F.C. season|2017–18]]
+|Premier League
+|1||0||1||0||2||0||0||0||4||0
+|-
+|[[2018–19 Crystal Palace F.C. season|2018–19]]
+|Premier League
+|1||0||1||0||2||0||0||0||4||0
+|-
+!colspan=2|Total
+!48!!0!!8!!0!!7!!0!!0!!0!!63!!0
+|-
+!colspan=3|Career total
+!180!!10!!11!!0!!11!!0!!10!!0!!212!!10
+|}
+
+===International goals===
+{{updated|25 September 2016}}
+:''Scores and results list Senegal's goal tally first.&lt;ref name = "SW"/&gt;
+{|class="wikitable plainrowheaders sortable"
+|-
+!Goal!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| 1. || 29 March 2016 || [[Stade Général Seyni Kountché]], [[Niamey]], Niger || {{fb|NIG}} || align=center | '''2'''–0 || align=center | 2–1 || [[2017 Africa Cup of Nations qualification Group K|2017 Africa Cup of Nations qualification]]
+|}
+
+==Honours==
+'''Lille'''
+*[[Ligue 1]]: [[2010–11 Ligue 1|2010–11]]&lt;ref&gt;{{cite web|url=http://www.footballdatabase.eu/football.club.lille.2010-2011.24..fr.html|title=2010-2011 Lille season|date=|publisher=footballdatabase}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat|Pape N'Diaye Souaré}}
+*{{Soccerbase}}
+
+{{Crystal Palace F.C. squad}}
+{{Navboxes
+| title = Senegal squads
+| bg = green
+| fg = yellow
+| bordercolor = 
+| list1 = 
+{{Senegal squad 2012 Summer Olympics}}
+{{Senegal squad 2015 Africa Cup of Nations}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Souare, Pape}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:People from Dakar Region]]
+[[Category:Senegalese footballers]]
+[[Category:Diambars FC players]]
+[[Category:Lille OSC players]]
+[[Category:Stade de Reims players]]
+[[Category:Crystal Palace F.C. players]]
+[[Category:Ligue 1 players]]
+[[Category:Association football fullbacks]]
+[[Category:Senegalese expatriate footballers]]
+[[Category:Senegalese expatriate sportspeople in France]]
+[[Category:Expatriate footballers in France]]
+[[Category:Senegalese expatriate sportspeople in England]]
+[[Category:Expatriate footballers in England]]
+[[Category:Senegal international footballers]]
+[[Category:Olympic footballers of Senegal]]
+[[Category:Footballers at the 2012 Summer Olympics]]
+[[Category:2015 Africa Cup of Nations players]]
+[[Category:Premier League players]]</text>
+      <sha1>5ge35t6cfvk8xmgcj908rny5e0mxp6r</sha1>
+    </revision>
+  </page>
+</mediawiki>

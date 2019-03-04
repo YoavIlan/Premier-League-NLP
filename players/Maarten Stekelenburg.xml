@@ -1,0 +1,374 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Maarten Stekelenburg</title>
+    <ns>0</ns>
+    <id>4999719</id>
+    <revision>
+      <id>885350476</id>
+      <parentid>883880482</parentid>
+      <timestamp>2019-02-27T13:52:46Z</timestamp>
+      <contributor>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
+      </contributor>
+      <comment>/* Club */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26257">{{About|the footballer born in 1982|the footballer born in 1972|Maarten Stekelenburg (footballer, born 1972)}}
+{{Use dmy dates|date=February 2013}}
+{{Infobox football biography
+| name        = Maarten Stekelenburg
+| image       = Stekelenburg Audi quattro-Cup 44.JPG
+| image_size  = 200
+| caption     = Stekelenburg with [[Southampton F.C.|Southampton]] in 2015
+| alt         = 
+| fullname    = Maarten Stekelenburg&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
+| birth_date  = {{birth date and age|1982|9|22|df=y}}&lt;ref&gt;{{cite web |title=FIFA World Cup South Africa 2010: List of players: Netherlands |url=https://www.fifa.com/mm/document/tournament/competition/01/22/85/78/fwc_2010_squadlists.pdf |publisher=FIFA |format=PDF |page=20 |date=4 June 2010 |accessdate=11 February 2018}}&lt;/ref&gt;
+| birth_place = [[Haarlem]], Netherlands
+| height      = 1.98 m&lt;ref&gt;{{cite web |title=Player profile: Maarten Stekelenburg |url=http://www.evertonfc.com/players/m/ms/maarten-stekelenburg |publisher=Everton F.C. |accessdate=14 December 2018}}&lt;/ref&gt;
+| currentclub = [[Everton F.C.|Everton]]
+| clubnumber  =  22
+| position    = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = 
+| youthyears2 =
+| youthyears3 = 1997–2002
+| youthclubs1 = Zandvoort '75
+| youthclubs2 = Schoten
+| youthclubs3 = [[Ajax Youth Academy|Ajax]]
+| years1 = 2002–2011 |clubs1 = [[AFC Ajax|Ajax]]                         | caps1 = 191 | goals1 = 0
+| years2 = 2011–2013 |clubs2 = [[A.S. Roma|Roma]]                        | caps2 = 48  | goals2 = 0
+| years3 = 2013–2016     |clubs3 = [[Fulham F.C.|Fulham]]                | caps3 = 19  | goals3 = 0
+| years4 = 2014–2015 |clubs4 = → [[AS Monaco|Monaco]] (loan)             | caps4 = 1   | goals4 = 0
+| years5 = 2015–2016     |clubs5 = → [[Southampton F.C.|Southampton]] (loan) | caps5 = 17  | goals5 = 0
+| years6 = 2016–    |clubs6 = [[Everton F.C.|Everton]]                   | caps6 = 19  | goals6 = 0
+| nationalyears1 = 2002–2003
+| nationalteam1  = [[Netherlands national under-21 football team|Netherlands U21]]
+| nationalcaps1  = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2004–
+| nationalteam2  = [[Netherlands national football team|Netherlands]]
+| nationalcaps2  = 58
+| nationalgoals2 = 0
+| medaltemplates = {{MedalCountry|{{NED}}}}
+{{MedalSport | Men's [[association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{Medal|RU|[[2010 FIFA World Cup|2010 South Africa]]|[[Netherlands national football team|Team]]}}
+| club-update = 17:04, 1 July 2017 (UTC)
+| nationalteam-update = 17:04, 1 July 2017 (UTC)
+}}
+'''Maarten Stekelenburg''' ({{IPA-nl|ˈmaːrtə(n) ˈsteːkələ(n)ˌbɵrx}}; born 22 September 1982) is a Dutch [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Premier League]] club [[Everton F.C.|Everton]] and the [[Netherlands national football team|Netherlands national team]].
+
+Stekelenburg began his career at [[AFC Ajax|Ajax]], playing 282 matches over nine seasons and winning nine honours, including two [[Eredivisie]] titles. He went on to play for [[A.S. Roma|Roma]], [[Fulham F.C.|Fulham]], [[AS Monaco FC|Monaco]], [[Southampton F.C.|Southampton]] and Everton.
+
+Stekelenburg made his debut for the Netherlands in 2004, and has earned 58 caps in total as of July 2018. He was understudy to [[Edwin van der Sar]] at the [[2006 FIFA World Cup]] and [[UEFA Euro 2008]], then was first choice as he helped his nation to the [[2010 FIFA World Cup|2010 World Cup]] [[2010 FIFA World Cup Final|final]] and played at [[UEFA Euro 2012|Euro 2012]].
+
+==Club career==
+===Ajax===
+Stekelenburg began his career at Zandvoort '75 before joining VV Schoten, which he left for [[AFC Ajax|Ajax]] when he was 15 years old. He made his official debut for Ajax on 24 February 2002, in a match against [[NAC Breda]]. At the start of the 2002–03 season, he won his first prize when Ajax won the [[Johan Cruyff Shield]]. In 2004, he and Ajax won the [[Eredivisie]] championship, having played ten matches that season.
+
+Stekelenburg became the first choice goalkeeper at Ajax in the 2005–06 season. In 2006, he won his first [[KNVB Cup]]. At the start of the 2006–07 season, he won his second Johan Cruyff Shield, which he helped his team defend the next season, and later on in 2006–07, he won his second KNVB Cup.
+
+[[File:Ebecilio Stekelenburg Van der Wiel.jpg|thumb|Stekelenburg with his Ajax teammates]]
+
+Stekelenburg was named Ajax "Player of the Year" for the [[2007–08 Eredivisie|2007–08 season]], succeeding [[Wesley Sneijder]].
+During the [[2008–09 Eredivisie|2008–09 season]], he lost his place in the goal to [[Kenneth Vermeer]] due to injuries. He re-established himself as the first-choice goalkeeper under new manager [[Martin Jol]] and subsequently had a very strong season for both Ajax and the Dutch national side. During the 2009–10 season, Stekelenburg went on to have a consistent season, playing in all of Ajax's Eredivisie and Europa League matches, the latter after they were eliminated from the [[UEFA Champions League]] in the group stage. However, Stekelenburg sustained a finger injury which kept him out for the remainder of the season. He made a total of 51 appearances in the 2010–11 season in all competitions.
+
+After winning the [[2010–11 Eredivisie]] on 15 May 2011, Stekelenburg dropped the trophy&lt;ref&gt;{{Cite web|url=https://www.youtube.com/watch?v=sqrrzWN8WKQ|title=Ajax kampioen: Maarten Stekelenburg laat de schaal vallen!!|publisher=YouTube|date=15 May 2011|accessdate=30 December 2017|language=nl}}&lt;/ref&gt; while standing on top of the Ajax team coach with [[Jan Vertonghen]]. He won Ajax Player of the Year for the second time.&lt;ref&gt;{{cite news |url= http://www.skysports.com/story/0,19528,11854_7055164,00.html |title= Roma told to up Stekelenburg bid |publisher= Sky Sports |date= 22 July 2011 |accessdate= 21 August 2011}}&lt;/ref&gt;
+
+===Roma===
+On 1 August 2011, it was announced Stekelenburg had officially transferred to [[A.S. Roma|Roma]] for €6.325&amp;nbsp;million transfer fee plus bonuses, making him the first Dutch footballer to ever play for the Italian club.&lt;ref name="Stekelenburg naar AS Roma"&gt;{{cite web|title=Definitief: Stekelenburg naar AS Roma &amp;#124; Ajax1.nl &amp;#124; De site met het laatste Ajax nieuws, foto's, Video's, Columns, Twitter, Hyve|url=http://ajax1.nl/archief/definitief-stekelenburg-naar-roma/|publisher=Ajax1.nl|accessdate=1 August 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite press release|url=http://res.cloudinary.com/as-roma-turbine-sandbox/image/upload/v1447693974/asroma-uat/hvnwyxqo1gdbhnj1mw2w.pdf|title=Acquisizione A Titolo Definitivo Dei Diritti Alle Prestazioni Sportive Del Calciatore Maarten Stekelenburg|date=1 August 2011|access-date=2 July 2017|publisher=A.S. Roma|language=Italian}}&lt;/ref&gt; He picked the number 24 shirt, which is the day his son was born.&lt;ref&gt;{{cite news|url=http://www.football-italia.org/node/10180|title=Stekelenburg: 'Forza Roma!'|date=6 August 2011|accessdate=19 August 2011|work=Football Italia}}&lt;/ref&gt; He made his debut on 11 September 2011, against [[Cagliari Calcio|Cagliari]].
+
+===Fulham===
+On 3 June 2013, Roma [[director of football|sporting director]] [[Franco Baldini]] confirmed he had finalised a deal with [[Premier League]] club [[Fulham F.C.|Fulham]] for the sale of Stekelenburg.&lt;ref&gt;{{cite web |url=http://www1.skysports.com/football/news/11681/8755642/Transfer-news-Roma-confirm-Fulham-deal-for-Maarten-Stekelenburg |title=Transfer news: Roma confirm Fulham deal for Maarten Stekelenburg | publisher=Sky Sports|date=3 June 2013 |accessdate=3 June 2013}}&lt;/ref&gt; Two days later, on 5 June, Fulham announced Stekelenburg had signed on a four-year contract for an undisclosed transfer fee;&lt;ref&gt;{{cite web |url=http://www.fulhamfc.com/news/2013/june/05/stekelenburg|title=Stekelenburg Signs|publisher=Fulham FC|date=5 June 2013|accessdate=5 June 2013}}&lt;/ref&gt; Roma later disclosed the fee was €5.6&amp;nbsp;million.&lt;ref&gt;{{cite web|url=http://res.cloudinary.com/as-roma-turbine-sandbox/image/upload/v1445281943/asroma-uat/lugmjrzb0usuepz0d0ew.pdf|title=Relazione Finanziaria Annuale Al 30 Giugno 2014|date=6 October 2014|access-date=28 July 2017|publisher=A.S. Roma|language=Italian|page=122|quote=Valore di Cessione}}&lt;/ref&gt; He made his debut on 17 August in a 1–0 win away to [[Sunderland A.F.C.|Sunderland]]; however, he came off injured in the second half and was replaced by [[David Stockdale]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/23644878|title=Sunderland 0–1 Fulham|publisher=BBC Sport|date=17 August 2013|accessdate=20 August 2013}}&lt;/ref&gt; He returned on 21 October at a win against Crystal Palace, but went on to lose the next four starts in a row.
+
+Following the sacking of [[René Meulensteen]] as Fulham manager, Stekelenburg was dropped to the bench in favour of Stockdale by [[Felix Magath]], and following Fulham's relegation and Stockdale's departure, lost his place in the squad altogether, as Magath favoured [[Jesse Joronen]] and [[Marcus Bettinelli]].
+
+===Monaco===
+On 9 August 2014, Stekelenburg joined French club [[AS Monaco FC|Monaco]] on a season-long loan.&lt;ref&gt;{{cite web|author=@simonremoussin |url=http://www.asm-fc.com/en/article/maarten-stekelenburg-joins-as-monaco-on-loan-65465.html |title=Maarten Stekelenburg joins AS Monaco on loan &amp;#124; News &amp;#124; AS Monaco FC |website=Asm-fc.com |date= |accessdate=2016-01-18 |deadurl=yes |archiveurl=https://web.archive.org/web/20141030161059/http://www.asm-fc.com/en/article/maarten-stekelenburg-joins-as-monaco-on-loan-65465.html |archivedate=30 October 2014 |df= }}&lt;/ref&gt; With [[Danijel Subašić]] as Monaco's starting goalkeeper, Stekelenburg was preferred for cup matches, making his debut in the round of 16 of the [[Coupe de la Ligue]] away to [[Olympique Lyonnais|Lyon]] on 17 December. After a 1–1 draw at the [[Stade de Gerland]], he helped Monaco win 5–4 in a [[penalty shoot-out (association football)|penalty shootout]] by saving from [[Jordan Ferri]].&lt;ref&gt;{{cite news|last1=Pitzus|first1=Alessandro|title=OL – ASM (1–1, 5 t.a.b. 4) : Au bout du suspense, Monaco a sorti Lyon|trans-title= OL – ASM (1–1, 5–4 on penalties): After suspense, Monaco put Lyon out on penalties|url=http://www.eurosport.fr/football/coupe-de-la-ligue/2014-2015/ol-asm-1-1-5-t.a.b.-4-au-bout-du-suspense-monaco-a-sorti-lyon_sto4516963/story.shtml|accessdate=23 June 2015|publisher=Eurosport|date=17 December 2014|language=French}}&lt;/ref&gt; In the semi-finals on 4 February 2015 against [[SC Bastia|Bastia]] at the [[Stade Louis II]], it again went to penalties after a goalless draw. He saved from [[Guillaume Gillet]] and [[Giovanni Sio]], but Monaco were eliminated nonetheless.&lt;ref&gt;{{cite news|title=Coupe de la Ligue : Bastia rejoint le PSG en finale en éliminant Monaco aux tirs au but|trans-title=Coupe de la Ligue: Bastia join PSG in the final by eliminating Monaco on penalties|url=http://www.eurosport.fr/football/coupe-de-la-ligue/2014-2015/coupe-de-la-ligue-bastia-rejoint-le-psg-en-finale-en-eliminant-monaco-aux-tirs-au-but_sto4590327/story.shtml|accessdate=23 June 2015|publisher=Eurosport|language=French}}&lt;/ref&gt; His sole [[Ligue 1]] appearance came on 22 March away to [[Stade de Reims|Reims]], a 3–1 victory.&lt;ref&gt;{{cite news|last1=Bregevin|first1=Vincent|title=Ligue 1 – Reims – Monaco (1–3) : L'ASM s'impose à Reims et est dans la course au titre|trans-title=Ligue 1 – Reims – Monaco (1–3): ASM impose themselves on Reims and stay on course for the title|url=http://www.eurosport.fr/football/ligue-1/2014-2015/ligue-1-reims-monaco-1-3-l-asm-s-impose-a-reims-et-revient-a-un-point-du-podium_sto4650188/story.shtml|accessdate=23 June 2015|publisher=Eurosport|date=22 March 2015|language=French}}&lt;/ref&gt; On 1 June, the club announced Stekelenburg would return to Fulham after his season-long loan expired.&lt;ref&gt;{{cite news|url=http://www.asmonaco.com/en/article/berbatov-story-ending-at-as-monaco-68167.html|title=Berbatov : story ending at AS Monaco|publisher=AS Monaco FC|date=1 June 2015|accessdate=2 June 2015}}&lt;/ref&gt;
+
+===Southampton===
+On 22 June 2015, [[Southampton F.C.|Southampton]] signed Stekelenburg on a season-long loan from Fulham.&lt;ref&gt;{{Cite news |title=Saints sign Dutch goalkeeper Stekelenburg |url=http://www.saintsfc.co.uk/news/article/20150622-announcement-southampton-sign-maarten-stekelenburg-fulham-2502863.aspx |publisher=Southampton F.C. |date=22 June 2015}}&lt;/ref&gt; He made his debut for the club on 30 July in the [[2015–16 UEFA Europa League qualifying phase and play-off round|third qualifying round]] of [[2015–16 UEFA Europa League|the season's Europa League]], a 3–0 win over [[SBV Vitesse|Vitesse]] at [[St Mary's Stadium]].&lt;ref&gt;{{cite news|last1=Williams|first1=Adam|title=Southampton 3–0 Vitesse|url=https://www.bbc.co.uk/sport/0/football/33667103|accessdate=30 July 2015|publisher=BBC Sport|date=30 July 2015}}&lt;/ref&gt; He made his Premier League debut for ''the Saints'' in a 2–2 draw away to [[Newcastle United F.C.|Newcastle United]] on the opening day of the [[2015–16 Premier League]] season.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/33750572|title=Newcastle 2–2 Southampton match report|publisher=BBC Sport|accessdate=9 August 2015}}&lt;/ref&gt;
+
+===Everton===
+On 1 July 2016, [[Everton F.C.|Everton]], managed by compatriot [[Ronald Koeman]], announced they had signed Stekelenburg from Fulham for an undisclosed transfer fee.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36690263|title=Maarten Stekelenburg: Everton sign goalkeeper from Fulham|publisher=BBC Sport|accessdate=1 July 2016|date=1 July 2016}}&lt;/ref&gt; He made his debut on 13 August as ''the Toffees'' began their campaign with a 1–1 home draw against [[Tottenham Hotspur F.C.|Tottenham Hotspur]],&lt;ref&gt;{{cite news|last1=Hart|first1=Simon|title=Everton vs Tottenham: Erik Lamela cancels out Ross Barkley opener as Maarten Stekelenburg denies Spurs|url=https://www.independent.co.uk/sport/football/premier-league/everton-vs-tottenham-erik-lamela-cancels-out-ross-barkley-opener-as-maartin-stekelenburg-denies-a7189206.html|accessdate=16 October 2016|work=The Independent|date=13 August 2016}}&lt;/ref&gt; and on 15 October, he saved penalties from [[Kevin De Bruyne]] and [[Sergio Agüero]] to ensure the same result away to [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{cite news|last1=Herbert|first1=Ian|title=Maarten Stekelenburg saves two penalties as Nolito rescues City a point|url=https://www.independent.co.uk/sport/football/premier-league/manchester-city-vs-everton-match-report-maarten-stekelenburg-nolito-romelu-lukaku-a7363461.html|accessdate=16 October 2016|work=The Independent|date=15 October 2016}}&lt;/ref&gt; Stekelenburg was limped off the field after suffering from a leg injury in the 63rd minute of the [[Merseyside derby]] at Goodison Park against [[Liverpool F.C.|Liverpool]] on 19 December 2016. Stekelenburg returned to action in April 2017, when Ronald Koeman dropped [[Joel Robles]] after 17-straight starts by the Spanish goalkeeper.&lt;ref&gt;{{cite news|last1=Kirkbride|first1=Phil|title=Everton boss Ronald Koeman explains decision to drop Joel Robles|url=http://www.liverpoolecho.co.uk/sport/football/football-news/everton-boss-ronald-koeman-explains-12933595|accessdate=1 July 2017|work=Liverpool Echo|date=23 April 2017}}&lt;/ref&gt;
+
+==International career==
+===Netherlands national football team===
+Stekelenburg was a member of the Dutch squad at the [[2001 FIFA World Youth Championship]]. He made his international debut for the [[Netherlands national football team|Netherlands]] on 3 September 2004 against [[Liechtenstein national football team|Liechtenstein]], whom they beat 3–0.
+
+====2006 World Cup and Euro 2008====
+Stekelenburg was called up by manager [[Marco van Basten]] for the squad of the [[2006 FIFA World Cup]] in Germany, but he did not play any match during this tournament as [[Edwin van der Sar]] was first choice.
+
+Despite his international debut in 2004, Stekelenburg was called-up to Van Basten's [[UEFA Euro 2008]] squad to play as understudy to Van der Sar. He participated in the Group C match against [[Romania national football team|Romania]] on 17 June—with the Netherlands already having qualified for the quarter-finals, the coach fielded a second-string side to give players like Stekelenburg an appearance. He kept a clean sheet in the 2–0 win at the [[Stade de Suisse]] in [[Bern]].&lt;ref&gt;{{cite news|last1=Chowdhury|first1=Saj|title=France 0–2 Italy &amp; Netherlands 2–0 Romania|url=http://news.bbc.co.uk/sport1/hi/football/euro_2008/7363393.stm|accessdate=23 June 2015|publisher=BBC Sport|date=17 June 2008}}&lt;/ref&gt;
+
+In a September 2008 friendly match against [[Australia national soccer team|Australia]], Stekelenburg was sent-off after 44 minutes of the first half for fouling [[Joshua Kennedy]], becoming the first goalkeeper of the Dutch national side to receive a red card.
+
+====2010 World Cup and after====
+[[File:Michael Krohn-Dehli - Maarten Stekelenburg 20120609.jpg|thumb|Stekelenburg beaten by [[Michael Krohn-Dehli]] at Euro 2012]]
+
+After Van der Sar's retirement from the national team, Stekelenburg became the Netherlands' first-choice goalkeeper under manager [[Bert van Marwijk]]. Stekelenburg was included in the preliminary squad for the [[2010 FIFA World Cup]] in South Africa.&lt;ref&gt;{{cite web |url=https://www.google.com/hostednews/afp/article/ALeqM5iO9bETRJh0iovmmUN7ZeFDugTEIg |title=Van Marwijk trims Dutch squad to 27 | publisher=AFP|date=15 May 2010 |accessdate=18 May 2010}}&lt;/ref&gt; On 27 May 2010, Van Marwijk announced he would be part of the final 23-man squad participating in the competition.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2010/may/27/holland-world-cup-23-man-squad |title=Holland coach Bert van Marwijk finalises World Cup squad |newspaper=The Guardian |date=27 May 2010 |agency=Press Association |accessdate=27 May 2010}}&lt;/ref&gt; Stekelenburg helped the Netherlands reach [[2010 FIFA World Cup Final|the final of the competition]] against [[Spain national football team|Spain]] by making key saves throughout the tournament, from [[Kaká]] in the Netherlands' 2–1 victory against [[Brazil national football team|Brazil]] in the quarter-finals.&lt;ref name=reuters/&gt; He conceded six goals in the whole tournament, two of them being [[Penalty kick (association football)|penalty kick]]s. Despite making a number of saves in the final, he ended up on the losing side, conceding the match's only goal to [[Andrés Iniesta]] in the 116th minute.
+
+Stekelenburg played all three matches during the group stages of [[UEFA Euro 2012|Euro 2012]] as the Netherlands finished bottom of [[UEFA Euro 2012 Group B|their group]].
+
+On 7 October 2016, four years after his last international appearance, Stekelenburg started in a [[2018 FIFA World Cup qualification – UEFA Group A|2018 FIFA World Cup qualification]] match against [[Belarus national football team|Belarus]], a 4–1 Dutch victory.
+
+==Career statistics==
+
+===Club===
+[[File:Maarten Stekelenburg.JPG|thumb|upright|Stekelenburg with the Netherlands national team]]
+
+{{updated|match played 2 October 2018}}&lt;ref&gt;{{cite web|url=http://www.footballdatabase.eu/football.joueurs.maarten.stekelenburg.10751.en.html|title=Football: Maarten Stekelenburg|accessdate=15 May 2011|publisher=Football Database EU}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.espnfc.com/player/11631/maarten-stekelenburg|title=Maarten Stekelenburg|accessdate=29 July 2010|publisher=ESPN FC}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.vi.nl/Spelers/Speler/Maarten-Stekelenburg.htm|title=Maarten Stekelenburg Statistics|accessdate=29 July 2010|publisher=Voetbal International}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.soccerbase.com/players/player.sd?player_id=26345|title=Maarten Stekelenburg|publisher=Soccerbase|accessdate=14 December 2016}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other&lt;ref&gt;Includes other competitive competitions, including the [[Johan Cruijff Shield]]&lt;/ref&gt;
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+| rowspan="10"|[[AFC Ajax|Ajax]]
+|[[2002–03 Eredivisie|2002–03]]
+|[[Eredivisie]]
+||9||0||0||0||colspan="2"|—||3||0||1||0||13||0
+|-
+|[[2003–04 Eredivisie|2003–04]]
+|Eredivisie
+||10||0||0||0||colspan="2"|—||1||0||0||0||11||0
+|-
+|[[2004–05 Eredivisie|2004–05]]
+|Eredivisie
+||11||0||1||0||colspan="2"|—||4||0||1||0||17||0
+|-
+|[[2005–06 Eredivisie|2005–06]]
+|Eredivisie
+||27||0||4||0||colspan="2"|—||6||0||4||0||41||0
+|-
+|[[2006–07 Eredivisie|2006–07]]
+|Eredivisie
+||32||0||4||0||colspan="2"|—||9||0||5||0||50||0
+|-
+|[[2007–08 Eredivisie|2007–08]]
+|Eredivisie
+||31||0||1||0||colspan="2"|—||4||0||5||0||41||0
+|-
+|[[2008–09 Eredivisie|2008–09]]
+|Eredivisie
+||12||0||1||0||colspan="2"|—||2||0||0||0||15||0
+|-
+|[[2009–10 Eredivisie|2009–10]]
+|Eredivisie
+||33||0||7||0||colspan="2"|—||10||0||0||0||50||0
+|-
+|[[2010–11 Eredivisie|2010–11]]
+|Eredivisie
+||26||0||4||0||colspan="2"|—||13||0||1||0||44||0
+|-
+!colspan="2"|Total
+!191!!0!!22!!0!!colspan="2"|—!!52!!0!!17!!0!!282!!0
+|-
+| rowspan="3"|[[A.S. Roma|Roma]]
+|[[2011–12 Serie A|2011–12]]
+|[[Serie A]]
+||29||0||2||0||colspan="2"|—||2||0||colspan="2"|—||33||0
+|-
+|[[2012–13 Serie A|2012–13]]
+|Serie A
+||19||0||3||0||colspan="2"|—||0||0||colspan="2"|—||22||0
+|-
+!colspan="2"|Total
+!48!!0!!5!!0!!colspan="2"|—!!2!!0!!colspan="2"|—!!55!!0
+|-
+| rowspan="2"|[[Fulham F.C.|Fulham]]
+|[[2013–14 Premier League|2013–14]]
+|[[Premier League]]
+||19||0||1||0||1||0||0||0||colspan="2"|—||21||0
+|-
+!colspan="2"|Total
+!19!!0!!1!!0!!1!!0!!0!!0!!colspan="2"|—!!21!!0
+|-
+||[[AS Monaco FC|Monaco]] (loan)
+|[[2014–15 Ligue 1|2014–15]]
+|[[Ligue 1]]
+||1||0||4||0||3||0||0||0||colspan="2"|—||8||0
+|-
+||[[Southampton F.C.|Southampton]] (loan)
+|[[2015–16 Premier League|2015–16]]
+|Premier League
+||17||0||1||0||3||0||4||0||colspan="2"|—||25||0
+|-
+| rowspan="4"|[[Everton F.C.|Everton]]
+|[[2016–17 Premier League|2016–17]]
+|Premier League
+||19||0||0||0||2||0||0||0||colspan="2"|—||21||0
+|-
+|[[2017–18 Premier League|2017–18]]
+|Premier League
+||0||0||0||0||1||0||2||0||colspan="2"|—||3||0
+|-
+|[[2018–19 Premier League|2018–19]]
+|Premier League
+||0||0||0||0||2||0||0||0||colspan="2"|—||2||0
+|-
+!colspan="2"|Total
+!19!!0!!0!!0!!5!!0!!2!!0!!colspan="2"|—!!26!!0
+|-
+!colspan="3"|Career total
+!295!!0!!33!!0!!12!!0!!60!!0!!17!!0!!417!!0
+|}
+
+===International===
+{{updated|match played 13 November 2016}}&lt;ref&gt;{{NFT player|id=8259|name=Stekelenburg, Maarten|accessdate=28 May 2015}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+! National team!!Year!!Apps!!Goals
+|-
+| rowspan=9 | [[Netherlands national football team|Netherlands]]
+|2004||1||0
+|-
+|2006||2||0
+|-
+|2007||7||0
+|-
+|2008||5||0
+|-
+|2009||9||0
+|-
+|2010||15||0
+|-
+|2011||5||0
+|-
+|2012||10||0
+|-
+|2016||4||0
+|-
+! colspan="2"|Total||58||0
+|}
+
+==Honours==
+'''Ajax'''
+*[[Eredivisie]]: [[2003–04 Eredivisie|2003–04]], [[2010–11 Eredivisie|2010–11]]
+*[[KNVB Cup]]: [[2005–06 KNVB Cup|2005–06]], [[2006–07 KNVB Cup|2006–07]], [[2009–10 KNVB Cup|2009–10]]
+*[[Johan Cruyff Shield]]: [[2002 Johan Cruyff Shield|2002]], [[2006 Johan Cruyff Shield|2006]], [[2007 Johan Cruyff Shield|2007]]
+
+'''Netherlands'''
+*[[FIFA World Cup]] Runner-up: [[2010 FIFA World Cup Final|2010]]
+
+'''Individual'''
+*[[AFC Ajax]] Player of the Year: 2008, 2011
+
+==Personal life==
+Stekelenburg is deaf in one ear.&lt;ref name=reuters&gt;{{cite news|title=Profile of Netherlands squad|url=http://uk.reuters.com/article/2010/07/09/uk-soccer-world-dutch-penpix-idUKTRE6683IW20100709|accessdate=23 June 2015|publisher=Reuters|date=9 July 2010}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Maarten Stekelenburg}}
+*{{Soccerbase}}
+*{{FIFA player|184599}}
+*[https://web.archive.org/web/20110722010223/http://www.wereldvanoranje.nl/profielen/profiel.php?id=474 Wereld van oranje.nl Profile] {{nl icon}}
+*{{NFT player|id=8259}}
+*[https://web.archive.org/web/20160814114048/http://www.onsoranje.nl/team-statistieken/teams/speler/25/4f8c4268-c2480283-432155 Holland U21 stats] at OnsOranje
+*[http://www.evertonfc.com/players/m/ms/maarten-stekelenburg Maarten Stekelenburg profile] at the official [[Everton F.C.]] website
+
+{{AFC Ajax Player of the Year}}
+{{Navboxes
+|title= Netherlands squads
+|bg= #F1771D
+|fg= white
+|list1=
+{{Netherlands squad 2006 FIFA World Cup}}
+{{Netherlands squad UEFA Euro 2008}}
+{{Netherlands squad 2010 FIFA World Cup}}
+{{Netherlands squad UEFA Euro 2012}}
+}}
+{{Everton F.C. squad}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stekelenburg, Maarten}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Dutch people with disabilities]]
+[[Category:Sportspeople from Haarlem]]
+[[Category:Dutch footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Netherlands youth international footballers]]
+[[Category:Netherlands under-21 international footballers]]
+[[Category:Netherlands international footballers]]
+[[Category:Dutch expatriate footballers]]
+[[Category:Eredivisie players]]
+[[Category:AFC Ajax players]]
+[[Category:A.S. Roma players]]
+[[Category:Fulham F.C. players]]
+[[Category:AS Monaco FC players]]
+[[Category:Southampton F.C. players]]
+[[Category:Everton F.C. players]]
+[[Category:Serie A players]]
+[[Category:Premier League players]]
+[[Category:Expatriate footballers in Italy]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Monaco]]
+[[Category:Dutch expatriate sportspeople in Italy]]
+[[Category:Dutch expatriate sportspeople in England]]
+[[Category:Dutch expatriate sportspeople in Monaco]]
+[[Category:2006 FIFA World Cup players]]
+[[Category:2010 FIFA World Cup players]]
+[[Category:UEFA Euro 2008 players]]
+[[Category:UEFA Euro 2012 players]]</text>
+      <sha1>27d6jj99pv6ho5w3j8h7uh3i64crsmo</sha1>
+    </revision>
+  </page>
+</mediawiki>

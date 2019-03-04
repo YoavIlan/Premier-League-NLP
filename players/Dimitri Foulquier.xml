@@ -1,0 +1,246 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dimitri Foulquier</title>
+    <ns>0</ns>
+    <id>33284304</id>
+    <revision>
+      <id>885624232</id>
+      <parentid>885335599</parentid>
+      <timestamp>2019-03-01T06:15:19Z</timestamp>
+      <contributor>
+        <username>Steam n Whistle</username>
+        <id>33477803</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11112">{{Infobox football biography
+| name = Dimitri Foulquier
+| image = Dimitri Foulquier.jpg
+| image_size = 150
+| fullname = Dimitri Foulquier&lt;ref&gt;{{cite web |url=http://www.thefa.com/-/media/files/thefaportal/governance-docs/registrations/august-2017.ashx |title=List of players under written contract registered between 01/08/2017 and 31/08/2017 |publisher=The Football Association |format=PDF |page=5 |accessdate=17 February 2018}}&lt;/ref&gt;
+| birth_date  = {{Birth date and age|1993|3|23|df=y}}
+| birth_place = [[Sarcelles]], France
+| height = 1.84 m
+| position = [[Defender (association football)#Full-back|Right back]]
+| currentclub = [[Getafe CF|Getafe]]&lt;br/&gt;(on loan from [[Watford F.C.|Watford]])
+| clubnumber = 24
+| youthyears1 = 2000–2001
+| youthclubs1 = Capesterre Belle-Eau
+| youthyears2 = 2001–2007
+| youthclubs2 = Marquisat Capesterre
+| youthyears3 = 2007–2011
+| youthclubs3 = [[Stade Rennais F.C.|Rennes]]
+| years1 = 2011–2014
+| clubs1 = [[Stade Rennais F.C.|Rennes]]
+| caps1  = 19
+| goals1 = 0
+| years2 = 2013–2017
+| clubs2 = [[Granada CF|Granada]]
+| caps2  = 92
+| goals2 = 1
+| years3 = 2017–
+| clubs3 = [[Watford F.C.|Watford]]
+| caps3  = 0
+| goals3 = 0
+| years4 = 2017–2018
+| clubs4 = → [[RC Strasbourg]] (loan)
+| caps4 = 16
+| goals4 = 0
+| years5 = 2018–
+| clubs5 = → [[Getafe CF|Getafe]] (loan)
+| caps5 = 13
+| goals5 = 2
+&lt;!-- This is for LEAGUE GOALS ONLY. Do NOT include other goals. --&gt;
+| nationalyears1 = 2010–2011
+| nationalteam1  = [[France national under-18 football team|France U18]]
+| nationalcaps1  = 7
+| nationalgoals1 = 0
+| nationalyears2 = 2011–2012
+| nationalteam2  = [[France national under-19 football team|France U19]]
+| nationalcaps2  = 10
+| nationalgoals2 = 1
+| nationalyears3 = 2012–2013
+| nationalteam3  = [[France national under-20 football team|France U20]]
+| nationalcaps3  = 13
+| nationalgoals3 = 0
+| nationalyears4 = 2013–2014
+| nationalteam4  = [[France national under-21 football team|France U21]]
+| nationalcaps4  = 13
+| nationalgoals4 = 0
+| nationalyears5 = 2018–
+| nationalteam5  = [[Guadeloupe national football team|Guadeloupe]]
+| nationalcaps5  = 1
+| nationalgoals5 = 0
+| club-update = 13:27, 4 July 2018 (UTC)
+| ntupdate    = 15 February 2019
+}}
+'''Dimitri Foulquier''' (born 23 March 1993) is a [[Association football|footballer]] who plays  as a [[Defender (association football)#Full-back|right back]] for the Spanish club [[Getafe CF]] on loan from English club [[Watford F.C.|Watford]]. Foulquier previously represented the [[France national under-21 football team]],&lt;ref name="foulquier_trophy"&gt;{{cite news |title=Jeunes: Dimitri Foulquier récompensé |url=http://www.stade-rennais-online.com/+Jeunes-Dimitri-Foulquier+.html |work=[[Stade Rennais F.C.]] |date=19 April 2010 |accessdate=2 October 2011 | language = French}}&lt;/ref&gt; before switching to represent the [[Guadeloupe national football team]].
+
+== Club career ==
+Born in [[Sarcelles]], Foulquier was raised in [[Capesterre-de-Marie-Galante|Capesterre]], a [[Communes of France|commune]] in the [[overseas region]] and [[Overseas department|department]] of [[Guadeloupe]].&lt;ref name="foulquier_career"&gt;{{cite news |title=Dimitri Foulquier ne se "prend pas la tête" |url=http://www.stade-rennais-online.com/2164-Dimitri-Foulquier-ne-se-prend.html |work=[[Stade Rennais F.C.]] |date=24 April 2011 |accessdate=2 October 2011 | language = French}}&lt;/ref&gt;
+
+=== Rennes ===
+After excelling with local clubs in the commune, he was spotted by [[Stade Rennais F.C.|Rennes]] scout [[Patrick Rampillon]] and, subsequently, joined the professional club in July 2007.&lt;ref name="foulquier_career"/&gt;&lt;ref&gt;{{cite news |title=Dimitri, graine de champion  |url=http://www.viva.presse.fr/Dimitri-graine-de-champion_13918.html |work=Viva Presse |date=24 April 2011 |accessdate=2 October 2011 | language = French}}&lt;/ref&gt;
+
+Foulquier was awarded the ''Best Academy Player'' award for the 2009–10 season.&lt;ref name="foulquier_trophy"/&gt; After appearing on the bench in matches during the [[2010–11 Ligue 1|2010–11 season]],&lt;ref name="foulquier_career"/&gt; he was promoted to the senior team by manager [[Frédéric Antonetti]] for the [[2011–12 Ligue 1|2011–12 season]]. Foulquier was assigned the number 24 shirt and made his professional debut on 2 October 2011 in a league match against [[Lille OSC|Lille]], starting but being replaced on the half-time in the eventual 0–2 away loss.&lt;ref&gt;{{cite web|url=http://www.ligue1.com/ligue1/feuille_match/74452|title=LOSC Lille – Stade Rennais FC|publisher=[[Ligue 1]]|date=2 October 2011|accessdate=13 August 2014}}&lt;/ref&gt;
+
+=== Granada ===
+On 27 August 2013, Foulquier was loaned to [[La Liga]] side [[Granada CF|Granada]].&lt;ref&gt;{{cite web|url=http://www.marca.com/2013/08/27/futbol/equipos/granada/1377614220.html|title=Foulquier llega cedido|trans-title=Foulquier arrives on loan|language=Spanish|publisher=[[Marca (newspaper)|Marca]]|date=27 August 2013|accessdate=13 August 2014}}&lt;/ref&gt; He made his debut in the competition on 30 September, [[Substitute (association football)|replacing]] [[Michael Pereira]] in a 2–0 home win against [[Athletic Bilbao]].&lt;ref&gt;{{cite web|url=http://www.marca.com/eventos/marcador/futbol/2013_14/primera/jornada_7/gda_ath/|title=El Arabi recupera la sonrisa del público granadino|trans-title=El Arabi recovers the smiles from the ''granadino'' attendance|language=Spanish|publisher=Marca|date=1 October 2013|accessdate=13 August 2014}}&lt;/ref&gt;
+
+On 25 May 2014, the [[Andalusia]]ns bought Foulquier outright, for a €2 million fee, with the player signing a five-year deal.&lt;ref&gt;{{cite web|url=http://www.marca.com/2014/05/25/futbol/equipos/granada/1401048374.html|title=El Granada ejerce la opción de compra sobre Foulquier|trans-title=Granada activates the buyout clause over Foulquier|language=Spanish|publisher=Marca|date=25 May 2014|accessdate=13 August 2014}}&lt;/ref&gt;
+
+=== Watford ===
+Foulquier signed for [[Watford F.C.|Watford]] on 25 August 2017,&lt;ref&gt;[http://www.watfordobserver.co.uk/sport/watfordfc/watfordfcnews/15496588.French_Under_21_Foulquier_joins_Hornets/ France Under-21 right-back Dimitri Foulquier joins Watford from Granada]&lt;/ref&gt; but was immediately loaned out to [[Ligue 1]] side [[RC Strasbourg]] for the remainder of the 2017–18 Season.&lt;ref&gt;https://www.lequipe.fr/Football/Actualites/Watford-prete-dimitri-foulquier-a-strasbourg/828745&lt;/ref&gt;
+
+On 23 August 2018, Foulquier returned to Spain and its first division after agreeing to a one-year loan deal with [[Getafe CF]].&lt;ref&gt;{{cite web|url=https://www.watfordfc.com/teams/first-team/official-foulquier-joins-getafe|title=Official: Foulquier Joins Getafe|publisher=Watford FC|date=23 August 2018|access-date=23 August 2018}}&lt;/ref&gt;
+
+== International career ==
+Foulquier was a [[France national youth football team|France youth international]], having represented his country at [[France national under-18 football team|under-18]] through [[France national under-21 football team|under-21]] levels, including winning the [[2013 FIFA U-20 World Cup]], in which he scored in the [[Penalty shoot-out (association football)|penalty shoot-out]] in the final.&lt;ref name="U-20 WC"&gt;{{cite web|title=France triumph after shootout drama|url=https://www.fifa.com/u20worldcup/matches/round=259225/match=300232810/match-report.html#nosticky|publisher=[[FIFA]]|accessdate=5 August 2015|date=13 July 2013}}&lt;/ref&gt;
+
+Foulquier was called up to the [[Guadeloupe national football team]] for [[CONCACAF Nations League]] match against [[Curaçao national football team|Curaçao]] on 19 November 2018.&lt;ref&gt;{{cite web|url=http://www.guadeloupe.franceantilles.mobi/actualite/sports/football/beauvue-et-d-autres-pros-avec-les-gwada-boys-511787.php|title=Beauvue et d'autres pros avec les Gwada Boys - Toute l'actualité de la Guadeloupe en ligne - FranceAntilles.fr|website=www.guadeloupe.franceantilles.mobi}}&lt;/ref&gt; He made his debut for the squad in that game, as a starter, which Guadeloupe lost with the score of 0–6.&lt;ref&gt;{{cite web|publisher=[[CONCACAF]]|url=https://www.concacafnationsleague.com/en/nations-league-qualifying/game-detail/440489#tab_match=match-details|title=Curaçao v Guadeloupe game report|date=19 November 2018}}&lt;/ref&gt;
+
+== Career statistics ==
+=== Club ===
+{{Updated|4 July 2018}}&lt;ref&gt;{{cite web|title=D. Foulquier|url=https://int.soccerway.com/players/dimitri-foulquier/175301/|website=Soccerway|accessdate=14 January 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|Cup&lt;ref group="nb"&gt;Includes [[Coupe de France]], [[Coupe de la Ligue]], [[Trophée des champions]]&lt;/ref&gt;
+!colspan=2|[[UEFA|Europe]]&lt;ref group="nb"&gt;Includes [[UEFA Super Cup]]&lt;/ref&gt;
+!colspan=2|Total
+|-
+!Division||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+|rowspan=4|[[Stade Rennais F.C.|Rennes]]
+|[[2011–12 Ligue 1|2011–12]]
+|rowspan=3|[[Ligue 1]]
+|2||0||0||0||1||0||3||0
+|-
+|[[2012–13 Ligue 1|2012–13]]
+|15||0||2||0||0||0||17||0
+|-
+|[[2013–14 Ligue 1|2013–14]]
+|2||0||0||0||0||0||2||0
+|-
+!colspan=2|Total
+!19||0||2||0||1||0||22||0
+|-
+|rowspan=5|[[Granada CF|Granada]]
+|[[2013–14 La Liga|2013–14]]
+|rowspan=4|[[La Liga]]
+|24||0||1||0||0||0||25||0
+|-
+|[[2014–15 La Liga|2014–15]]
+|25||0||2||0||0||0||27||0
+|-
+|[[2015–16 La Liga|2015–16]]
+|21||1||3||0||0||0||24||1
+|-
+|[[2016–17 La Liga|2016–17]]
+|22||0||0||0||0||0||22||0
+|-
+!colspan=2|Total
+!92||1||6||0||0||0||98||1
+|-
+|rowspan=1|[[RC Strasbourg|Strasbourg]]
+|[[2017–18 Ligue 1|2017–18]]
+|rowspan=1|[[Ligue 1]]
+|16||0||3||0||colspan=2|–||19||0
+|-
+!colspan=3|Career total
+!127||1||11||0||1||0||139||1
+|}
+
+&lt;references group="nb" /&gt;
+
+== Honours ==
+=== International ===
+'''France U-20'''
+*[[FIFA U-20 World Cup]]: [[2013 FIFA U-20 World Cup|2013]]&lt;ref name="U-20 WC" /&gt;
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.stade-rennais-online.com/Dimitri-Foulquier,1950.html Club Profile]
+* {{lfpfr2|id=foulquier-dimitri|name=Dimitri Foulquier}}
+* {{leqstat|id=40631}}
+* [http://www.fff.fr/equipes-de-france/tous-les-joueurs/fiche-joueur/2709115099-dimitri-foulquier France stats] at FFF
+* {{NFT player|72662}}
+
+{{Getafe CF squad}}
+&lt;!--{{Watford F.C. squad}}--&gt;
+
+{{DEFAULTSORT:Foulquier, Dimitri}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:People from Sarcelles]]
+[[Category:Guadeloupean footballers]]
+[[Category:Guadeloupe international footballers]]
+[[Category:French footballers]]
+[[Category:French expatriate footballers]]
+[[Category:French expatriate sportspeople in Spain]]
+[[Category:French people of Guadeloupean descent]]
+[[Category:Association football fullbacks]]
+[[Category:Stade Rennais F.C. players]]
+[[Category:Granada CF footballers]]
+[[Category:Getafe CF footballers]]
+[[Category:Watford F.C. players]]
+[[Category:RC Strasbourg Alsace players]]
+[[Category:Ligue 1 players]]
+[[Category:La Liga players]]
+[[Category:France youth international footballers]]
+[[Category:France under-21 international footballers]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Expatriate footballers in England]]
+[[Category:Sportspeople from Val-d'Oise]]</text>
+      <sha1>8rdrdid86o3edlu17v4iv2voxhlc2uf</sha1>
+    </revision>
+  </page>
+</mediawiki>

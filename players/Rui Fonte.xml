@@ -1,0 +1,311 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rui Fonte</title>
+    <ns>0</ns>
+    <id>20173329</id>
+    <revision>
+      <id>883413730</id>
+      <parentid>877213491</parentid>
+      <timestamp>2019-02-15T07:35:10Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Speedily moving category Segunda Liga players to [[:Category:LigaPro players]] per [[WP:CFDS|CFDS]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26217">{{Use dmy dates|date=May 2018}}
+{{Portuguese name|da Rocha|Fonte}}
+{{Infobox football biography
+|name = Rui Fonte
+|image = Rui Fonte, Fulham FC (35911422634).jpg
+|image_size = 200
+|caption = Fonte playing for [[Fulham F.C.|Fulham]] in 2017
+|fullname = Rui Pedro da Rocha Fonte&lt;ref&gt;{{cite web|url=https://www.efl.com/siteassets/efl-documents/efl-professional-retain-list--free-transfers---2017-18.pdf|title=Club list of registered players: As at 19th May 2018: Fulham|publisher=English Football League|page=16|format=PDF|accessdate=17 June 2018}}&lt;/ref&gt;
+|birth_date = {{birth date and age|1990|4|23|df=y}}&lt;ref name=Soccerway/&gt;
+|birth_place = [[Lisbon]], Portugal
+|height = 1.81 m&lt;ref name=Soccerway/&gt;
+|position = [[Forward (association football)|Forward]], [[Midfielder#Winger|winger]]
+|currentclub = [[Lille OSC|Lille]] (on loan from [[Fulham F.C.|Fulham]])
+|clubnumber = 10
+|youthyears1 = 1998–1999 | youthclubs1 = Sacavenense
+|youthyears2 = 1999–2006 | youthclubs2 = [[Sporting Clube de Portugal|Sporting CP]]
+|youthyears3 = 2006–2009 | youthclubs3 = [[Arsenal F.C.|Arsenal]]
+|years1 = 2008–2009  | clubs1 = [[Arsenal F.C.|Arsenal]] | caps1 = 0 | goals1 = 0
+|years2 = 2009 | clubs2 = → [[Crystal Palace F.C.|Crystal Palace]] (loan) | caps2 = 10 | goals2 = 0
+|years3 = 2009–2011 | clubs3 = [[Sporting Clube de Portugal|Sporting CP]] | caps3 = 0 | goals3 = 0
+|years4 = 2009–2010 | clubs4 = → [[Vitória F.C.|Vitória Setúbal]] (loan) | caps4 = 13 | goals4 = 0
+|years5 = 2010–2011 | clubs5 = → [[RCD Espanyol B|Espanyol B]] (loan) | caps5 = 22 | goals5 = 8
+|years6 = 2010–2011 | clubs6 = → [[RCD Espanyol|Espanyol]] (loan) | caps6 = 11 | goals6 = 0
+|years7 = 2011–2013 | clubs7 = [[RCD Espanyol|Espanyol]] | caps7 = 29 | goals7 = 1
+|years8 = 2013–2015 | clubs8 = [[S.L. Benfica B|Benfica B]] | caps8 = 26 | goals8 = 18
+|years9 = 2013–2016 | clubs9 = [[S.L. Benfica|Benfica]] | caps9 = 0 | goals9 = 0
+|years10 = 2015 | clubs10 = → [[C.F. Os Belenenses|Belenenses]] (loan) | caps10 = 12 | goals10 = 2
+|years11 = 2015–2016 | clubs11 = → [[S.C. Braga|Braga]] (loan) | caps11 = 15 | goals11 = 4
+|years12 = 2016–2017 | clubs12 = [[S.C. Braga|Braga]] | caps12 = 28 | goals12 = 13
+|years13 = 2017– | clubs13 = [[Fulham F.C.|Fulham]] | caps13 = 27 | goals13 = 3
+|years14 = 2018– | clubs14 = → [[Lille OSC|Lille]] (loan) | caps14 = 3 | goals14 = 0
+|totalcaps = | totalgoals = 
+|nationalyears1 = 2005–2006 | nationalteam1 = [[Portugal national under-16 football team|Portugal U16]] | nationalcaps1 = 12 | nationalgoals1 = 3
+|nationalyears2 = 2006–2007 | nationalteam2 = [[Portugal national under-17 football team|Portugal U17]] | nationalcaps2 = 13 | nationalgoals2 = 2
+|nationalyears3 = 2008 | nationalteam3 = [[Portugal national under-18 football team|Portugal U18]] | nationalcaps3 = 5  | nationalgoals3 = 3
+|nationalyears4 = 2008–2009 | nationalteam4 = [[Portugal national under-19 football team|Portugal U19]] | nationalcaps4 = 12 | nationalgoals4 = 8
+|nationalyears5 = 2010 | nationalteam5 = [[Portugal national under-20 football team|Portugal U20]] | nationalcaps5 = 5  | nationalgoals5 = 2
+|nationalyears6 = 2008–2012 | nationalteam6 = [[Portugal national under-21 football team|Portugal U21]] | nationalcaps6 = 22 | nationalgoals6 = 8
+|club-update = 10:36, 11 October 2018 (UTC)
+|nationalteam-update =
+}}
+'''Rui Pedro da Rocha Fonte''' (born 23 April 1990) is a Portuguese professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] or a [[Midfielder#Winger|right winger]] for French club [[Lille OSC]] on loan from [[Fulham F.C.|Fulham]].
+
+After signing for [[Arsenal F.C.|Arsenal]] as a 16-year-old, he only made one competitive appearance for the club before signing with [[Sporting Clube de Portugal|Sporting]], who loaned him several times for the duration of his contract, including at [[RCD Espanyol|Espanyol]] who acquired him permanently in 2011. He subsequently joined [[S.L. Benfica|Benfica]], where injury problems saw him feature sparingly until his release; with his next team, [[S.C. Braga|Braga]], he notably won the [[2016 Taça de Portugal Final|2016 Portuguese Cup]].
+
+All youth levels comprised, Fonte earned 69 [[Cap (sport)|caps]] for [[Portugal national football team|Portugal]], scoring 26 goals.
+
+==Club career==
+===Early years / Arsenal===
+Fonte was born in [[Lisbon]],&lt;ref&gt;{{Hugman|23066|accessdate=1 September 2017}}&lt;/ref&gt; and joined [[Sporting Clube de Portugal]]'s youth system at only nine. In 2006 he signed a three-year contract with [[Arsenal F.C.|Arsenal]], with a clause stating he was to return to his previous club if the English did not extend the contract beyond the original period.
+
+A regular member of Arsenal's [[Arsenal F.C. Reserves|reserves]], Fonte made his debut for the first team in a [[Exhibition game#Association football|friendly]] against [[Barnet F.C.|Barnet]] in the 2008 pre-season.&lt;ref&gt;{{cite web|url=http://www.arsenal.com/match/report/0809//first-team/barnet-1-2-arsenal-picture-gallery|title=Barnet 1–2 Arsenal|publisher=Arsenal F.C.|date=19 July 2008|accessdate=19 October 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131019171026/http://www.arsenal.com/match/report/0809//first-team/barnet-1-2-arsenal-picture-gallery|archivedate=19 October 2013|df=dmy-all}}&lt;/ref&gt; He made his competitive debut for the Gunners as a [[Substitute (association football)|substitute]] for [[Carlos Vela]] in a [[EFL Cup|League Cup]] match against [[Wigan Athletic F.C.|Wigan Athletic]] on 11 November 2008, a [[2008–09 Football League Cup|3–0 home win]].&lt;ref&gt;{{cite web|url=http://www.arsenal.com/match/report/0809/post/first-team/arsenal-3-0-wigan-athletic-match-report|title=Arsenal 3–0 Wigan Athletic|publisher=Arsenal F.C|first=Chris|last=Harris|date=11 November 2008|accessdate=19 October 2013}}&lt;/ref&gt;
+
+On 30 January 2009, Fonte signed for [[EFL Championship|Championship]] side [[Crystal Palace F.C.|Crystal Palace]] on a one-month loan, with his older brother [[José Fonte|José]] playing a big role in persuading club and player of each other's merits.&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/crystal_palace/7861771.stm|title=Palace sign Arsenal striker Fonte|publisher=[[BBC Sport]]|date=30 January 2009|accessdate=31 January 2009}}&lt;/ref&gt; He made his debut for his new team in a 0–1 home defeat to [[Blackpool F.C.|Blackpool]] on the following day,&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/7856654.stm|title=Crystal Palace 0–1 Blackpool|publisher=BBC Sport|date=31 January 2009|accessdate=31 January 2009}}&lt;/ref&gt; and his loan was subsequently extended until the end of the season;&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/crystal_palace/7929365.stm|title=Crystal Palace extend Fonte loan|publisher=BBC Sport|date=6 March 2009|accessdate=27 March 2009}}&lt;/ref&gt; Palace were docked a point and fined £20,000 for fielding him in their final match, despite his loan having expired.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2009/jun/01/crystal-palace-point-deducted-rui-fonte|title=Crystal Palace have one point deducted for fielding ineligible Rui Fonte|newspaper=[[The Guardian]]|date=1 June 2009|accessdate=3 September 2017}}&lt;/ref&gt;
+
+On 19 May 2009, it was announced that Arsenal had decided not to extend Fonte's three-year contract, and the player returned to Sporting.&lt;ref&gt;{{cite web|url=http://www.portugoal.net/index.php/more-sporting-news/1564-rui-fonte-returns-to-sporting|title=Rui Fonte returns to Sporting|publisher=PortuGOAL|date=19 May 2009|accessdate=19 May 2009}}&lt;/ref&gt; He spent the [[2009–10 Primeira Liga|2009–10 campaign]] on loan to [[Vitória F.C.|Vitória de Setúbal]], making his [[Primeira Liga]] debut on 17 August in a 0–0 home draw against [[Vitória S.C.|Vitória de Guimarães]] (one minute played)&lt;ref&gt;{{cite web|url=https://desporto.sapo.cv/futebol/jogo/v-setubal-vs-v-guimaraes-62843|title=V. Setúbal 0–0 V. Guimarães|publisher=[[SAPO (company)|SAPO]]|language=Portuguese|date=17 August 2009|accessdate=3 September 2018}}&lt;/ref&gt; and appearing sparingly during the campaign as the former barely escaped relegation.
+
+===Espanyol===
+Fonte played [[2010–11 La Liga|2010–11]] on loan to [[RCD Espanyol]], in Spain. He spent the vast majority of his spell with [[RCD Espanyol B|the reserves]], his first [[La Liga]] appearances consisting of one minute in a 1–0 home win over [[Sporting de Gijón]] on 5 December 2010,&lt;ref&gt;{{cite web|url=http://espnfc.com/en/report/301850/report.html?soccernet=true|title=Garcia rescues Espanyol|publisher=[[ESPN FC|ESPN Soccernet]]|date=5 December 2010|accessdate=19 October 2013}}&lt;/ref&gt; and ten in a 0–1 loss to [[Real Madrid C.F.|Real Madrid]] also at the ''[[RCDE Stadium|Estadi Cornellà-El Prat]]'', two months later.&lt;ref&gt;{{cite web|url=http://espnfc.com/en/report/301979/report.html?soccernet=true|title=Ten-man Real grind out win|publisher=ESPN Soccernet|date=13 February 2011|accessdate=19 October 2013}}&lt;/ref&gt;
+
+On 14 July 2011, Fonte signed permanently for Espanyol for two years.&lt;ref&gt;{{cite web|url=http://www.fichajes.net/noticias/firma-por-dos-a%C3%B1os-20110714.html|title=Firma por dos años|trans-title=Signs for two years|publisher=Fichajes|language=Spanish|date=14 July 2011|accessdate=19 January 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://futbol.as.com/futbol/2011/07/14/mas_futbol/1310594428_850215.html|title=Rui Fonte: "Estoy feliz por firmar por dos años"|trans-title=Rui Fonte: "I am happy to have signed for two years"|newspaper=[[Diario AS]]|language=Spanish|date=14 July 2011|accessdate=7 January 2016}}&lt;/ref&gt; On 17 January of the following year he scored his first official goal for the ''Pericos'', in a 3–2 home win against [[CD Mirandés]] for [[2011–12 Copa del Rey|the quarter-finals]] of the [[Copa del Rey]]&lt;ref&gt;{{cite news|url=http://www.marca.com/marcador/futbol/2011_12/copa/cuartos/ida/esp_mir/|title=Asalto frustrado a Cornellá|trans-title=Frustrated assault on Cornellá|newspaper=[[Marca (newspaper)|Marca]]|language=Spanish|date=17 January 2012|accessdate=19 January 2012}}&lt;/ref&gt;– he also netted in the second leg, albeit in a 1–2 and 4–4 aggregate loss;&lt;ref&gt;{{cite news|url=http://www.marca.com/marcador/futbol/2011_12/copa/cuartos/vuelta/mir_esp/|title=El milagro de Anduva|trans-title=Miracle in Anduva|newspaper=Marca|language=Spanish|date=24 January 2012|accessdate=24 January 2012}}&lt;/ref&gt; in between he scored his first goal in the league, closing the scoresheet in a 3–0 home success over [[Granada CF]].&lt;ref&gt;{{cite web|url=http://espnfc.com/en/report/325241/report.html?soccernet=true|title=Baena sets Espanyol on their way|publisher=ESPN Soccernet|date=21 January 2012|accessdate=24 January 2012}}&lt;/ref&gt;
+
+===Benfica===
+On 29 January 2013, Fonte terminated his contract with Espanyol and, on the next day, signed with [[S.L. Benfica]] on a five-and-a-half-year contract.&lt;ref&gt;{{cite web|url=http://www.maisfutebol.iol.pt/espanha/benfica-rui-fonte-espanhol-rescisao-contrato/1414618-1486.html|title=Oficial: Rui Fonte rescindiu com o Espanhol|trans-title=Official: Rui Fonte cut ties with Espanyol|publisher=Mais Futebol|language=Portuguese|date=29 January 2013|accessdate=1 February 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/Futebol/Nacional/1a_liga/Benfica//interior.aspx?content_id=801929|title=Rui Fonte assina por cinco épocas e meia|trans-title=Rui Fonte signs for five and a half seasons|newspaper=[[Record (newspaper)|Record]]|language=Portuguese|date=30 January 2013|accessdate=1 February 2013}}&lt;/ref&gt; He was initially assigned to [[S.L. Benfica B|the B-team]] in the [[LigaPro|Segunda Liga]], suffering a knee injury in his debut against [[C.F. União]] and being sidelined for the rest of [[2012–13 Segunda Liga|the campaign]].&lt;ref&gt;{{cite web|url=https://desporto.sapo.pt/futebol/segunda-liga/artigos/rui-fonte-so-regressa-na-proxima-epoca|title=Rui Fonte só regressa na próxima época|trans-title=Rui Fonte only returns the next season|publisher=SAPO|language=Portuguese|date=6 February 2013|accessdate=21 December 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://futbol.as.com/futbol/2013/02/06/primera/1360163468_539730.html|title=Rui Fonte, cinco meses de baja tras lesionarse en una rodilla|trans-title=Rui Fonte, five months out after injuring knee|newspaper=Diario AS|language=Spanish|date=6 February 2013|accessdate=7 January 2016}}&lt;/ref&gt;
+
+In January 2015, [[Jorge Jesus]] confirmed that Fonte was promoted to Benfica's first team after the loan of [[Nélson Oliveira]].&lt;ref&gt;{{cite web|url=http://www.slbenfica.pt/noticias/detalhedenoticia/tabid/2788/ArticleId/40085/language/pt-PT/Jorge-Jesus-Homenagear-Eusebio-pela-referencia-que-foi.aspx|title=Jorge Jesus: "Homenagear Eusébio pela referência que foi"|trans-title=Jorge Jesus: "Pay hommage to Eusébio for the reference he was"|publisher=S.L. Benfica|language=Portuguese|date=9 January 2015|accessdate=9 January 2015}}&lt;/ref&gt; His first competitive appearance took place on the 14th, as he played the first half of the 4–0 home win against [[F.C. Arouca]] for [[2014–15 Taça da Liga|the third round]] of the [[Taça da Liga]].&lt;ref&gt;{{cite news|url=https://www.dn.pt/desporto/benfica/interior/benfica-goleia-arouca-na-taca-da-liga-4342595.html|title=Benfica goleia Arouca na Taça da Liga|trans-title=Benfica rout Arouca in League Cup|newspaper=[[Diário de Notícias]]|language=Portuguese|date=14 January 2015|accessdate=7 January 2016}}&lt;/ref&gt;
+
+On 2 February 2015, Fonte, at the time second level top scorer for Benfica B with 17 goals in 21 matches,&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/futebol/futebol-nacional/liga-nos/detalhe/rui-fonte-e-goncalo-paciencia-o-europeu-em-ponto-de-mira-966815.html|title=Rui Fonte e Gonçalo Paciência: O Europeu em ponto de mira|trans-title=Rui Fonte and Gonçalo Paciência: Sights set on European Championships|newspaper=Record|language=Portuguese|date=4 August 2015|accessdate=7 January 2016}}&lt;/ref&gt; was loaned to [[C.F. Os Belenenses]], until the end of [[2014–15 Primeira Liga|the season]].&lt;ref&gt;{{cite web|url=http://www.ligaportugal.pt/media/51916/listagem-registo-contratos-dia-02-02-2015.pdf|title=Contratos de trabalho desportivo e contratos de formação desportiva recepcionados na Liga Portugal dia 02 de Fevereiro de 2015|trans-title=Sporting work contracts and sporting training contracts registered at Liga Portugal on 02 February 2015|publisher=[[Liga Portuguesa de Futebol Profissional]]|language=Portuguese|date=2 February 2015|accessdate=3 February 2015|format=PDF|deadurl=yes|archiveurl=https://web.archive.org/web/20150203124958/http://www.ligaportugal.pt/media/51916/listagem-registo-contratos-dia-02-02-2015.pdf|archivedate=3 February 2015|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.abola.pt/nnh/ver.aspx?id=528461|title=Rui é reforço|trans-title=Rui Fonte is an addition|newspaper=[[A Bola]]|language=Portuguese|date=3 February 2015|accessdate=3 February 2015}}&lt;/ref&gt; For [[2015–16 Primeira Liga|2015–16]], in the same predicament, he joined [[S.C. Braga]] also in the top level.&lt;ref&gt;{{cite web|url=http://www.scbraga.pt/news/futebol/rui-fonte-reforca-o-sc-braga|title=Rui Fonte reforça o plantel do SC Braga|trans-title=Rui Fonte strengthens SC Braga squad|publisher=S.C. Braga|language=Portuguese|date=30 July 2015|access-date=30 July 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150730161649/http://www.scbraga.pt/news/futebol/rui-fonte-reforca-o-sc-braga|archivedate=30 July 2015|df=dmy-all}}&lt;/ref&gt;
+
+===Braga===
+On 16 December 2015, after having replaced [[Wilson Eduardo]] for the last 11 minutes of regulation time, Fonte scored the 4–3 winner for the hosts against Sporting, helping [[2015–16 Taça de Portugal|oust]] his former club from the [[Taça de Portugal]].&lt;ref&gt;{{cite news|url=https://expresso.sapo.pt/desporto/2015-12-16-Taca-Braga-deixa-Sporting-para-tras|title=Taça: Braga deixa Sporting para trás|trans-title=Cup: Braga leave Sporting behind|newspaper=[[Expresso (newspaper)|Expresso]]|language=Portuguese|date=16 December 2015|accessdate=7 January 2016}}&lt;/ref&gt; The following 22 May, after being injured for nearly three months,&lt;ref&gt;{{cite web|url=http://scbraga.pt/rui-fonte-e-pedro-santos-regressam/|title=Rui Fonte e Pedro Santos regressam|trans-title=Rui Fonte and Pedro Santos return|publisher=S.C. Braga|language=Portuguese|date=14 May 2016|accessdate=23 May 2016}}&lt;/ref&gt; he started in [[2016 Taça de Portugal Final|the final of the domestic cup]], netting in a 2–2 draw against [[FC Porto]] (4–2 [[Penalty shoot-out (association football)|penalty shootout]] win).&lt;ref name=RR&gt;{{cite web|url=https://rr.sapo.pt/noticia/54785/sp_braga_vence_taca_de_portugal|title=Sp. Braga vence Taça de Portugal|trans-title=Sp. Braga win Portuguese Cup|publisher=[[Rádio Renascença]]|language=Portuguese|date=22 May 2016|accessdate=22 May 2016}}&lt;/ref&gt;
+
+On 1 September 2016, Fonte signed a three-year contract with Braga.&lt;ref&gt;{{cite web|url=http://scbraga.pt/rui-fonte-e-reforco-do-sc-braga/|title=Rui Fonte é reforço do SC Braga|trans-title=Rui Fonte is a SC Braga addition|publisher=S.C. Braga|language=Portuguese|date=1 September 2016|accessdate=1 September 2016}}&lt;/ref&gt; He scored 11 goals during [[2016–17 Primeira Liga|the campaign]] (15 overall), helping to a fifth-place finish.&lt;ref&gt;{{cite web|url=https://desporto.sapo.pt/futebol/primeira-liga/artigos/rui-fonte-quer-marcar-mais-golos-do-que-no-ano-passado|title=Rui Fonte quer marcar mais golos do que no ano passado|trans-title=Rui Fonte wants to score more goals than last year|publisher=SAPO|language=Portuguese|date=30 June 2017|accessdate=17 August 2017}}&lt;/ref&gt;
+
+===Fulham===
+On 17 August 2017, Fonte transferred to Championship club [[Fulham F.C.|Fulham]] after agreeing to a three-year contract.&lt;ref&gt;{{Cite web|url=http://www.fulhamfc.com/news/2017/august/17/fonte-joins|title=Fonte joins|publisher=Fulham F.C|date=17 August 2017|accessdate=17 August 2017}}&lt;/ref&gt; He scored in his second league appearance, a 2–0 away win over [[Ipswich Town F.C.|Ipswich Town]].&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/40983498|title=Ipswich Town 0–2 Fulham|publisher=BBC Sport|date=26 August 2017|accessdate=27 August 2017}}&lt;/ref&gt;
+
+On 31 August 2018, Fonte joined [[Lille OSC]] from France on a [[2018–19 Ligue 1|season]]-long loan, reuniting with his older brother [[José Fonte]].&lt;ref&gt;{{Cite web|url=http://www.losc.fr/actualites-foot-lille/un-renfort-offensif-nomm%C3%A9-rui-fonte|title=Un renfort offensif nommé Rui Fonte|trans-title=An attacking addition named Rui Fonte|publisher=Lille OSC|language=French|date=31 August 2018|accessdate=31 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/news/11813/11487322/rui-fonte-joins-lille-from-fulham-on-season-loan|title=Rui Fonte joins Lille from Fulham on season loan|publisher=[[Sky Sports]]|date=31 August 2018|accessdate=1 September 2018}}&lt;/ref&gt;
+
+==International career==
+Fonte made his debut for the [[Portugal national under-21 football team|Portugal under-21s]] against [[Spain national under-21 football team|Spain]] on 18 November 2008, scoring the first goal in a 4–1 victory.&lt;ref&gt;{{cite web|url=http://www.uefa.com/under21/news/newsid=775935.html|title=Portugal plunder Iberian bragging rights|publisher=UEFA|date=18 November 2008|accessdate=19 October 2013}}&lt;/ref&gt; He was called up to the full side for the first time on 31 March 2015 for a friendly with [[Cape Verde national football team|Cape Verde]], remaining on the bench in the 0–2 defeat in [[Estoril]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/32140214|title=Portugal 0–2 Cape Verde Islands|publisher=BBC Sport|date=31 March 2015|accessdate=1 April 2015}}&lt;/ref&gt;
+
+==Personal life==
+Fonte's older brother, [[José Fonte|José]], is also a footballer – a [[Defender (association football)|defender]], he played most of his professional career in England, and the two were teammates at Sporting (youth), Crystal Palace and Lille.&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/crystal_palace/7861771.stm|title=Palace sign Arsenal striker Fonte|publisher=BBC Sport|date=30 January 2009|accessdate=18 April 2014}}&lt;/ref&gt;
+
+Their father, [[Artur Fonte|Artur]], played 12 seasons in the Portuguese top division.&lt;ref&gt;{{cite web|url=http://www.maisfutebol.iol.pt/figura-da-jornada/belenenses/rui-fonte-so-precisa-de-confianca-para-abrir-o-livro|title=Rui Fonte só "precisa de confiança para abrir o livro"|trans-title=Rui Fonte only «needs confidence to open the book»|publisher=Mais Futebol|language=Portuguese|date=17 February 2015|accessdate=24 April 2017}}&lt;/ref&gt;
+
+==Club statistics==
+{{updated|match played 1 September 2018}}&lt;ref name=Soccerway&gt;{{cite web|url=https://uk.soccerway.com/players/rui-fonte/68184/|title=Rui Fonte: Summary|website=Soccerway|publisher=Perform Group|accessdate=5 July 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.worldfootball.net/player_summary/rui-fonte/2/|title=Rui Fonte » Club matches|publisher=Worldfootball|accessdate=23 April 2017}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Europe
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Arsenal F.C.|Arsenal]]
+|[[2008–09 Premier League|2008–09]]
+|[[Premier League]]
+|0||0||0||0||1||0||colspan="2"|—||1||0
+|-
+|[[Crystal Palace F.C.|Crystal Palace]] (loan)
+|[[2008–09 Crystal Palace F.C. season|2008–09]]
+|[[EFL Championship|Championship]]
+|10||0||0||0||0||0||colspan="2"|—||10||0
+|-
+|[[Vitória F.C.|Setúbal]]
+|[[2009–10 Primeira Liga|2009–10]]
+|[[Primeira Liga]]
+|13||0||0||0||2||0||colspan="2"|—||15||0
+|-
+|rowspan="4"|[[RCD Espanyol|Espanyol]]
+|[[2010–11 La Liga|2010–11]]
+|rowspan="3"|[[La Liga]]
+|11||0||0||0||colspan="2"|—||colspan="2"|—||11||0
+|-
+|[[2011–12 La Liga|2011–12]]
+|19||1||5||2||colspan="2"|—||colspan="2"|—||24||3
+|-
+|[[2012–13 La Liga|2012–13]]
+|10||0||2||0||colspan="2"|—||colspan="2"|—||12||0
+|-
+!colspan="2"|Total
+!40!!1!!7!!2!!colspan="2"|—!!0!!0!!47!!3
+|-
+|rowspan="4"|[[S.L. Benfica B|Benfica B]]
+|[[2012–13 Segunda Liga|2012–13]]
+|rowspan="3"|[[LigaPro|Segunda Liga]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2013–14 Segunda Liga|2013–14]]
+|4||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||1
+|-
+|[[2014–15 Segunda Liga|2014–15]]
+|21||17||colspan="2"|—||colspan="2"|—||colspan="2"|—||21||17
+|-
+!colspan="2"|Total
+!26!!18!!0!!0!!0!!0!!0!!0!!26!!18
+|-
+|[[S.L. Benfica|Benfica]]
+|[[2014–15 Primeira Liga|2014–15]]
+|Primeira Liga
+|0||0||0||0||1||0||colspan="2"|—||1||0
+|-
+|[[C.F. Os Belenenses|Belenenses]]
+|[[2014–15 Primeira Liga|2014–15]]
+|Primeira Liga
+|12||2||0||0||0||0||colspan="2"|—||12||2
+|-
+|rowspan="4"|[[S.C. Braga|Braga]]
+|[[2015–16 Primeira Liga|2015–16]]
+|rowspan="3"|Primeira Liga
+|15||4||3||2||3||2||7&lt;ref group=lower-alpha name="UEL"&gt;Appearances in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||0||28||8
+|-
+|[[2016–17 Primeira Liga|2016–17]]
+|22||10||2||1||5||2||4&lt;ref group=lower-alpha name="UEL"/&gt;||0||33||13
+|-
+|[[2017–18 Primeira Liga|2017–18]]
+|2||1||0||0||0||0||2&lt;ref group=lower-alpha name="UEL"/&gt;||1||4||2
+|-
+!colspan="2"|Total
+!37!!14!!5!!3!!8!!4!!11!!0!!61!!21
+|-
+|rowspan="2"|[[Fulham F.C.|Fulham]]
+|[[2017–18 Fulham F.C. season|2017–18]]
+|[[EFL Championship|Championship]]
+|27||3||1||0||0||0||colspan="2"|—||28||3
+|-
+|[[2018–19 Fulham F.C. season|2018–19]]
+|[[Premier League]]
+|0||0||0||0||1||0||colspan="2"|—||1||0
+|-
+|[[Lille OSC|Lille]] (loan)
+|[[2018–19 Lille OSC season|2018–19]]
+|[[Ligue 1]]
+|0||0||0||0||1||0||colspan="2"|—||1||0
+|-
+!colspan="3"|Career total
+!166!!38!!13!!5!!13!!4!!11!!0!!203!!47
+|}
+
+{{reflist|group=lower-alpha}}
+
+==Honours==
+'''Benfica'''
+*[[Taça da Liga]]: [[2014–15 Taça da Liga|2014–15]]
+
+'''Braga'''
+*[[Taça de Portugal]]: [[2015–16 Taça de Portugal|2015–16]]&lt;ref name=RR/&gt;
+
+'''Fulham'''
+*[[EFL Championship play-offs]]: [[2018 English Football League play-offs#Championship|2018]]&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44178427|title=Aston Villa 0–1 Fulham|first=Phil|last=Cartwright|publisher=BBC Sport|date=26 May 2018|accessdate=26 May 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.slbenfica.pt/Jogador/tabid/1066/PID/2098/SeID/13/Rui%20Fonte.aspx Benfica official profile] {{pt icon}}
+* {{Zerozero}}
+* {{ForaDeJogo}}
+* {{Soccerbase}}
+* {{BDFutbol|8561}}
+* [https://www.fpf.pt/pt/Jogadores/Pesquisar-Jogadores-Internacionais/Jogador/playerId/612646 National team data] {{pt icon}}
+* {{UEFA player|250005488}}
+
+{{Lille OSC squad}}
+
+{{DEFAULTSORT:Fonte, Rui}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Lisbon]]
+[[Category:Portuguese footballers]]
+[[Category:Association football wingers]]
+[[Category:Association football forwards]]
+[[Category:Primeira Liga players]]
+[[Category:LigaPro players]]
+[[Category:Sporting CP footballers]]
+[[Category:Vitória F.C. players]]
+[[Category:S.L. Benfica footballers]]
+[[Category:S.L. Benfica B players]]
+[[Category:C.F. Os Belenenses players]]
+[[Category:S.C. Braga players]]
+[[Category:English Football League players]]
+[[Category:Arsenal F.C. players]]
+[[Category:Crystal Palace F.C. players]]
+[[Category:Fulham F.C. players]]
+[[Category:Ligue 1 players]]
+[[Category:Lille OSC players]]
+[[Category:La Liga players]]
+[[Category:Tercera División players]]
+[[Category:RCD Espanyol B footballers]]
+[[Category:RCD Espanyol footballers]]
+[[Category:Portugal youth international footballers]]
+[[Category:Portugal under-21 international footballers]]
+[[Category:Portuguese expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Expatriate footballers in France]]
+[[Category:Portuguese expatriate sportspeople in England]]
+[[Category:Portuguese expatriate sportspeople in Spain]]</text>
+      <sha1>3zbaxyedfptsoze71isnrhpocxkv3ok</sha1>
+    </revision>
+  </page>
+</mediawiki>

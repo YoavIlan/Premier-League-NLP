@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cuco Martina</title>
+    <ns>0</ns>
+    <id>24420782</id>
+    <revision>
+      <id>883558287</id>
+      <parentid>883557199</parentid>
+      <timestamp>2019-02-16T03:33:10Z</timestamp>
+      <contributor>
+        <username>Abelmoschus Esculentus</username>
+        <id>33231271</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/85.255.237.71|85.255.237.71]] ([[User talk:85.255.237.71|talk]]) ([[WP:HG|HG]]) (3.4.7)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17962">{{Use dmy dates|date=October 2018}}
+{{Infobox football biography
+|name           = Cuco Martina
+|image          = Audi- quattro-Cup 05.JPG
+|image_size     = 200
+|caption        = Martina with Southampton in 2015
+|fullname       = Rhu-endly Aurelio Jean-Carlo Martina&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
+|birth_date     = {{birth date and age|1989|9|25|df=y}}
+|birth_place    = [[Rotterdam]], Netherlands
+|height         = 1.85 m&lt;ref name = "NFT"/&gt;
+|position       = [[Defender (association football)#Full-back|Right back]]
+|currentclub    = [[Feyenoord]]&lt;br&gt;(on loan from [[Everton F.C.|Everton]])
+|clubnumber     = 24
+|youthyears1    = 
+|youthclubs1    = [[Feyenoord]]
+|years1         = 2008–2011
+|clubs1         = [[RBC Roosendaal]]
+|caps1          = 68
+|goals1         = 2
+|years2         = 2011–2013
+|clubs2         = [[RKC Waalwijk]]
+|caps2          = 43
+|goals2         = 1
+|years3         = 2013–2014
+|clubs3         = [[Jong FC Twente|Jong Twente]]
+|caps3          = 11
+|goals3         = 0
+|years4         = 2013–2015
+|clubs4         = [[FC Twente|Twente]]
+|caps4          = 48
+|goals4         = 1
+|years5         = 2015–2017
+|clubs5         = [[Southampton F.C.|Southampton]]
+|caps5          = 24
+|goals5         = 1
+|years6         = 2017–
+|clubs6         = [[Everton F.C.|Everton]]
+|caps6          = 21
+|goals6         = 0
+|years7         = 2018–2019
+|clubs7         = → [[Stoke City F.C.|Stoke City]] (loan)
+|caps7          = 17
+|goals7         = 0
+|years8         = 2019–
+|clubs8         = → [[Feyenoord]] (loan)
+|caps8          = 0
+|goals8         = 0
+|nationalyears1 = 2011–
+|nationalteam1  = [[Curaçao national football team|Curaçao]]
+|nationalcaps1  = 38
+|nationalgoals1 = 1
+|club-update    = 18:23, 1 January 2019 (UTC)
+|ntupdate       = 23:03, 10 September 2018 (UTC)
+}}
+'''Rhu-endly Aurelio Jean-Carlo''' "'''Cuco'''" '''Martina''' (born 25 September 1989) is a professional [[association football|footballer]] who plays for [[Feyenoord]] on loan from [[Premier League]] club [[Everton F.C.|Everton]]. He plays primarily as a [[Defender (association football)#Full-back|right back]], but can also play as a [[Defender (association football)#Centre-back|centre back]] or [[Midfielder#Defensive midfielder|defensive midfielder]].&lt;ref name = "NFT"/&gt;
+
+A youth player at [[Feyenoord]], he began his senior career with [[RBC Roosendaal]] in the [[Eerste Divisie]], followed by two seasons each at [[Eredivisie]] clubs [[RKC Waalwijk]] and [[FC Twente]]. In 2015, he joined [[Premier League]] club [[Southampton F.C.|Southampton]], and two years later [[Everton F.C.|Everton]].
+
+Born and raised in the Netherlands, he represents [[Curaçao national football team|Curaçao]] at international level, for whom he is captain. First capped in 2011, he has won the 2017 Caribbean Cup, and he represented the team at the [[2017 CONCACAF Gold Cup]].
+
+==Early and personal life==
+Martina was born in [[Rotterdam]].&lt;ref name = "NFT"/&gt; He grew up in the south of the city with his mother, brothers and sister.&lt;ref name = "TI"&gt;{{cite web |url=http://www.twenteinsite.nl/cuco-martina-heet-eigenlijk-rhu-endly.html|title=Cuco Martina heet eigenlijk Rhu-endly|date=27 March 2014|accessdate=7 July 2015| language=Dutch|publisher=Twente Insite}}&lt;/ref&gt; Martina did not know his father, and states his elder brother was instead like a father to him.&lt;ref name = "TI"/&gt; His brother [[Javier Martina|Javier]] is also a footballer.&lt;ref name = "SFC"&gt;{{cite web|url=https://southamptonfc.com/news/2015-07-07/in-profile-cuco-martina |title=In Profile: Cuco Martina|date=7 July 2015|accessdate=7 March 2017|publisher=Southampton F.C.}}&lt;/ref&gt; [[Derwin Martina|Derwin]] is not related to him, despite media reports to the contrary.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39198728|title=Derwin Martina: York City release defender after playing one game for reserve team|date=7 March 2017|accessdate=7 March 2017|publisher=BBC Sport}}&lt;/ref&gt;
+
+==Club career==
+===Netherlands===
+Martina played youth football with [[Feyenoord]].&lt;ref name = "TI"/&gt; He spent his early senior career with [[RBC Roosendaal]] in the [[Eerste Divisie]].&lt;ref name = "NFT"/&gt;&lt;ref&gt;{{cite web|url=http://www.vi.nl/spelers/carriere/rhuendly-martina.htm|title=Profile|accessdate=7 July 2015|language=Dutch|publisher=Voetbal International}}&lt;/ref&gt;&lt;ref name = "SW"&gt;{{soccerway|cuco-martina/57652|accessdate=26 June 2017}}&lt;/ref&gt; In 2011, he joined [[RKC Waalwijk]] of the [[Eredivisie]].&lt;ref&gt;{{cite news|last1=Ummels|first1=Jody|title=Overzicht van de Brabantse voetbaltransfers|url=http://www.omroepbrabant.nl/?news/157404722/Overzicht+van+de+Brabantse+voetbaltransfers.aspx|publisher=Omroep Brabant|accessdate=26 August 2017|date=27 June 2011|language=Dutch}}&lt;/ref&gt; He played 59 official matches in two seasons in [[North Brabant]], scoring to open a 2–0 home win over [[N.E.C. (football club)|N.E.C.]] on 8 December 2012.&lt;ref&gt;{{cite news|title=Degelijk RKC Waalwijk verslaat dramatisch NEC: 2–0|url=http://www.omroepbrabant.nl/?news/185050572/Degelijk+RKC+Waalwijk+verslaat+dramatisch+NEC+2-0.aspx|accessdate=26 August 2017|publisher=Omroep Brabant|date=8 December 2012|language=Dutch}}&lt;/ref&gt;
+
+On 30 July 2013, he joined [[FC Twente]] on a three-year deal for an undisclosed fee.&lt;ref&gt;{{cite news|title=Cuco Martina naar FC Twente|url=http://www.fctwente.nl/blog/2013/07/cuco-martina-naar-fc-twente/|accessdate=26 August 2017|publisher=FC Twente|date=30 July 2013|language=Dutch}}&lt;/ref&gt; Martina played 59 games across all competitions for the [[Enschede]] club, scoring once: an added-time equaliser in a 2–2 home draw with Feyenoord on 23 February 2014.&lt;ref&gt;{{cite news|title=FEYENOORD PEGGED BACK IN INJURY TIME|url=https://www.feyenoord.com/feyenoord-1/results/fc-twente-feyenoord-netherlands-eredivisie-2013-2014/post-match|accessdate=26 August 2017|publisher=Feyenoord|date=23 February 2014}}&lt;/ref&gt;
+
+===Southampton===
+He signed a two-year contract with English club [[Southampton F.C.|Southampton]] on 7 July 2015.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/33426049|title=Cuco Martina: Southampton sign FC Twente defender|date=7 July 2015|accessdate=7 July 2015|publisher=BBC Sport}}&lt;/ref&gt; An unused substitute in the first leg,&lt;ref&gt;{{cite news|last1=Williams|first1=Adam|title=Southampton 3–0 Vitesse|url=https://www.bbc.co.uk/sport/0/football/33667103|accessdate=9 August 2015|publisher=BBC Sport|date=30 July 2015}}&lt;/ref&gt; Martina made his Southampton debut in their [[UEFA Europa League]] third qualifying round second leg away to [[SBV Vitesse|Vitesse Arnhem]], playing the full 90 minutes of a 2–0 win on 6 August.&lt;ref&gt;{{cite news|last1=Jennings|first1=Patrick|title=Vitesse 0–2 Southampton|url=https://www.bbc.co.uk/sport/0/football/33738509|accessdate=9 August 2015|publisher=BBC Sport|date=6 August 2015}}&lt;/ref&gt; Three days later, he made his league debut as a half-time substitute for fellow new signing [[Cédric Soares]] in a 2–2 draw against [[Newcastle United F.C.|Newcastle United]].&lt;ref&gt;{{cite news|last1=Davis|first1=Matt|title=Newcastle 2–2 Southampton|url=https://www.bbc.co.uk/sport/0/football/33750572|accessdate=9 August 2015|date=9 August 2015}}&lt;/ref&gt; Martina became the first-ever Curaçao international to play for [[Southampton F.C.|Southampton]] and the second to play in the [[Premier League]] after [[West Bromwich Albion F.C.|West Bromwich Albion]]'s [[Shelton Martis]] in 2009.&lt;ref name = "SFC"/&gt;
+
+On 26 December 2015, on his first start, Martina scored his only goal for the Saints, a long-range strike to open a 4–0 win over [[Arsenal F.C.|Arsenal]]. He became the first Curaçaoan to score in the Premier League.&lt;ref&gt;{{cite news|title=Martina: An unbelievable feeling|url=http://www.saintsfc.co.uk/news/article/20151226-cuco-martina-post-southampton-arsenal-2869805.aspx|accessdate=27 December 2015|publisher=Southampton F.C.|date=26 December 2015}}&lt;/ref&gt; He was released by Southampton at the end of the 2016–17 season.&lt;ref&gt;{{cite web|title=Saints release four players|url=https://southamptonfc.com/news/2017-05-25/southampton-2017-retained-list-players-released|publisher=Southampton FC|accessdate=26 May 2017|date=25 May 2017}}&lt;/ref&gt;
+
+===Everton===
+On 17 July 2017, following his release from Southampton, Martina joined fellow [[Premier League]] side [[Everton F.C.|Everton]] on a three-year deal, reuniting with his former Saints manager [[Ronald Koeman]].&lt;ref&gt;{{cite web |title=Blues Swoop For Martina |url=http://www.evertonfc.com/news/2017/07/17/blues-swoop-for-martina |publisher=Everton Official Site |accessdate=17 July 2017 |date=17 July 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/40637068 |title=Cuco Martina: Everton sign out-of-contract Southampton defender |publisher= BBC Sport  |date=17 July 2017 |accessdate=20 July 2017 }}&lt;/ref&gt; Martina made his league debut for Everton on 12 August, when his club beat [[Stoke City F.C.|Stoke City]] 1–0 at [[Goodison Park]].&lt;ref&gt;{{cite news |title=Everton 1–0 Stoke City|url=https://www.bbc.com/sport/football/40835425 |publisher=BBC Sport |date=12 August 2017 |accessdate=12 August 2017}}&lt;/ref&gt;
+
+Martina joined Stoke, newly relegated to the [[EFL Championship]], on a loan for the [[2018–19 Stoke City F.C. season|2018–19]] season.&lt;ref&gt;{{cite web |title=Cuco Martina: Stoke City sign Everton defender on a season-long loan deal |url=https://www.bbc.co.uk/sport/football/45224825 |website=BBC Sport |accessdate=17 August 2018}}&lt;/ref&gt; He made his debut on 25 August, playing the full 90 minutes in a 2–0 home win over [[Hull City A.F.C.|Hull City]].&lt;ref&gt;{{cite news |title=Stoke City 2&amp;ndash;0 Hull City |url=https://www.bbc.co.uk/sport/football/45229933 |accessdate=17 September 2018 |publisher=BBC Sport |date=25 August 2018}}&lt;/ref&gt;
+
+Martina's loan with Stoke was cancelled on 31 January 2019,&lt;ref&gt;{{cite web |title=Martina returns to Everton |url=https://www.stokecityfc.com/news/martina-returns-to-everton |website=Stoke City |accessdate=31 January 2019}}&lt;/ref&gt; and he re-joined [[Feyenoord]] on loan for the remainder of the [[2018–19 Feyenoord season|2018–19]] season.&lt;ref&gt;{{cite web |title=Martina Makes Feyenoord Loan Switch |url=http://www.evertonfc.com/news/2019/01/31/martina |website=Everton |accessdate=31 January 2019}}&lt;/ref&gt;
+
+==International career==
+Martina made his international debut for [[Curaçao national football team|Curaçao]] on 9 August 2011, in their first match since the dissolution of the [[Netherlands Antilles national football team|Netherlands Antilles]]. He played the first half of the 1–0 friendly loss to the [[Dominican Republic national football team|Dominican Republic]] at the [[Estadio Panamericano, San Cristóbal|Estadio Panamericano in San Cristóbal]], before being substituted for [[Kenny Kunst]].&lt;ref name = "NFT"&gt;{{NFT player|pid=44883|accessdate=7 July 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.rkcwaalwijk.nl/rkc-waalwijk-nieuws/zoet-houdt-weer-de-nul-martina-met-curacao-onderuit/|archiveurl=https://web.archive.org/web/20120402130941/http://www.rkcwaalwijk.nl/rkc-waalwijk-nieuws/zoet-houdt-weer-de-nul-martina-met-curacao-onderuit/|title=Zoet houdt weer de nul, Martina met Curaçao onderuit|date=7 September 2011|archivedate=2 April 2012|accessdate=7 July 2015|language=Dutch|publisher=RKC Waalwijk}}&lt;/ref&gt; He has played in qualifying matches for the 2014 and 2018 World Cups.&lt;ref&gt;{{FIFA player|347633}}&lt;/ref&gt; He served as national team captain.&lt;ref&gt;{{cite web|url=http://www.liverpoolecho.co.uk/sport/football/football-news/who-everton-target-cuco-martina-11793958|title=Who is Everton target Cuco Martina? Everything you need to know|date=24 August 2016|accessdate=15 July 2017|author=Connor O'Neill|publisher=Liverpool Echo}}&lt;/ref&gt;
+
+Martina was part of the Curaçao squad that won the [[2017 Caribbean Cup]] in [[Martinique]], defeating [[Jamaica national football team|Jamaica]] 2–1 in the final.&lt;ref&gt;{{cite news|last1=Williams|first1=Sean|title=Boyz edged 1–2 by Curacao in Caribbean Cup final|url=http://www.jamaicaobserver.com/sports/boyz-edged-1-2-by-curacao-in-caribbean-cup-final_103087?profile=1511|accessdate=26 August 2017|date=26 June 2017}}&lt;/ref&gt; He captained the team at the [[2017 CONCACAF Gold Cup]].&lt;ref&gt;{{cite web|title=Curaçao 2 – 0 Jamaica|url=http://www.concacaf.com/category/gold-cup/game-detail/393983|publisher=CONCACAF|accessdate=26 August 2017}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 1 January 2019}}&lt;ref name="Soccerway"&gt;{{soccerway|cuco-martina/57652|accessdate=18 December 2015}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[RBC Roosendaal]]
+|[[2008–09 Eerste Divisie|2008–09]]
+|[[Eerste Divisie]]
+|14||0||0||0||colspan="2"|—||colspan="2"|—||14||0
+|-
+|[[2009–10 Eerste Divisie|2009–10]]
+|Eerste Divisie
+|23||1||1||0||colspan="2"|—||colspan="2"|—||24||1
+|-
+|[[2010–11 Eerste Divisie|2010–11]]
+|Eerste Divisie
+|32||1||0||0||colspan="2"|—||colspan="2"|—||32||1
+|-
+!colspan=2|Total
+!69!!2!!1!!0!!colspan="2"|—||colspan="2"|—||70!!2
+|-
+|rowspan=3|[[RKC Waalwijk]]
+|[[2011–12 Eredivisie|2011–12]]
+|[[Eredivisie]]
+|23||0||0||0||colspan="2"|—||colspan="2"|—||23||0
+|-
+|[[2012–13 Eredivisie|2012–13]]
+|Eredivisie
+|34||1||2||0||colspan="2"|—||colspan="2"|—||36||1
+|-
+!colspan=2|Total
+!57!!1!!2!!0!!colspan="2"|—||colspan="2"|—||59!!1
+|-
+|rowspan=3|[[FC Twente]]
+|[[2013–14 Eredivisie|2013–14]]
+|Eredivisie
+|16||1||1||0||colspan="2"|—||0||0||17||1
+|-
+|[[2014–15 Eredivisie|2014–15]]
+|Eredivisie
+|32||0||5||0||colspan="2"|—||2{{efn|name=UEL}}||0||39||0
+|-
+!colspan=2|Total
+!48!!1!!6!!0!!colspan="2"|—||2!!0!!56!!1
+|-
+|[[Jong FC Twente]]
+|[[2013–14 Eerste Divisie|2013–14]]
+|Eerste Divisie
+|11||0||0||0||colspan="2"|—||colspan="2"|—||11||0
+|-
+|rowspan="3"|[[Southampton F.C.|Southampton]]
+|[[2015–16 Southampton F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|61122|2015|accessdate=24 September 2016}}&lt;/ref&gt;
+|[[Premier League]]
+|15||1||1||0||0||0||2{{efn|name=UEL}}||0||18||1
+|-
+|[[2016–17 Southampton F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|61122|2016|accessdate=19 January 2017}}&lt;/ref&gt;
+|Premier League
+|9||0||2||0||2||0||5{{efn|Appearance(s) in [[UEFA Europa League]]|name=UEL}}||0||18||0
+|-
+!colspan=2|Total
+!24||1||3||0||2||0||7||0||36||1
+|-
+|rowspan="3"|[[Everton F.C.|Everton]]
+|[[2017–18 Everton F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|61122|2017|accessdate=7 April 2018}}&lt;/ref&gt;
+|Premier League
+|21||0||1||0||0||0||6{{efn|name=UEL}}||0||28||0
+|-
+|[[2018–19 Everton F.C. season|2018–19]]&lt;ref name =sb2018&gt;{{soccerbase season|61122|2018|accessdate=30 August 2018}}&lt;/ref&gt;
+|Premier League
+|0||0||0||0||0||0||colspan=2|—||0||0
+|-
+!colspan=2|Total
+!21!!0!!1!!0!!0!!0!!6!!0!!28!!0
+|-
+|[[Stoke City F.C.|Stoke City]] (loan)
+|[[2018–19 Stoke City F.C. season|2018–19]]&lt;ref name = sb2018/&gt;
+|[[EFL Championship|Championship]]
+|17||0||0||0||1||0||colspan=2|—||18||0
+|-
+!colspan=3|Career total
+!245!!5!!13!!0!!3!!0!!15!!0!!278!!5
+|}
+
+{{notelist}}
+
+===International===
+:''Statistics accurate as of matches played on 10 September 2018''.&lt;ref name=NFT/&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=9|[[Curaçao national football team|Curaçao]]
+|-
+|2011||9||0
+|-
+|2012||0||0
+|-
+|2013||2||0
+|-
+|2014||6||0
+|-
+|2015||7||0
+|-
+|2016||4||0
+|-
+|2017||7||0
+|-
+|2018||3||1
+|-
+!colspan=2|Total!!38!!1
+|}
+
+===International goals===
+{{updated|10 September 2018. Scores and results list Curaçao's goal tally first.}}&lt;ref name="Soccerway"/&gt;
+
+{| class="wikitable plainrowheaders"
+|-
+!No.!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| 1. || 10 September 2018 || [[Ergilio Hato Stadium]], [[Willemstad]], Curaçao || {{fb|GRN}} || align=center|'''2'''–0|| align=center|10–0|| [[2019–20 CONCACAF Nations League qualifying|2019–20 CONCACAF Nations League qualification]]
+|}
+
+==Honours==
+'''Southampton'''&lt;ref name = "SW"/&gt;
+*[[EFL Cup]] runner-up: [[2017 EFL Cup Final|2016–17]]
+
+'''Curaçao'''&lt;ref name = "SW"/&gt;
+*[[Caribbean Cup]]: [[2017 Caribbean Cup|2017]]
+
+'''Individual'''
+*[[CONCACAF Awards|CONCACAF Best XI]]: [[2018 CONCACAF Awards|2018]]&lt;ref&gt;{{cite web|url=https://www.concacaf.com/en/awards/news/mexico-leads-way-in-concacaf-men-s-best-xi|title=Mexico leads way in Concacaf Men’s Best XI|website=www.concacaf.com|date=15 January 2019|accessdate=16 January 2019}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+*{{Soccerbase}}
+
+{{Feyenoord squad}}
+{{Curaçao squad 2017 CONCACAF Gold Cup}}
+
+{{DEFAULTSORT:Martina, Cuco}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Footballers from Rotterdam]]
+[[Category:Dutch footballers]]
+[[Category:Dutch people of Curaçao descent]]
+[[Category:Curaçao footballers]]
+[[Category:Curaçao international footballers]]
+[[Category:Association football fullbacks]]
+[[Category:Feyenoord players]]
+[[Category:RBC Roosendaal players]]
+[[Category:RKC Waalwijk players]]
+[[Category:FC Twente players]]
+[[Category:Southampton F.C. players]]
+[[Category:Everton F.C. players]]
+[[Category:Stoke City F.C. players]]
+[[Category:Dutch expatriate footballers]]
+[[Category:Dutch expatriate sportspeople in England]]
+[[Category:Expatriate footballers in England]]
+[[Category:Eredivisie players]]
+[[Category:Eerste Divisie players]]
+[[Category:Premier League players]]
+[[Category:2014 Caribbean Cup players]]
+[[Category:2017 CONCACAF Gold Cup players]]
+[[Category:English Football League players]]</text>
+      <sha1>k5opl9fi408dxflm7fh4xqrkj5l33wq</sha1>
+    </revision>
+  </page>
+</mediawiki>

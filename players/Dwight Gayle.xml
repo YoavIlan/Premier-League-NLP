@@ -1,0 +1,283 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dwight Gayle</title>
+    <ns>0</ns>
+    <id>36765506</id>
+    <revision>
+      <id>883428441</id>
+      <parentid>883296313</parentid>
+      <timestamp>2019-02-15T10:06:25Z</timestamp>
+      <contributor>
+        <username>Daemonickangaroo2018</username>
+        <id>34033838</id>
+      </contributor>
+      <comment>/* West Bromwich Albion (loan) */ dive</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35268">{{Use British English|date=December 2017}}
+{{Use dmy dates|date=January 2018}}
+{{Infobox football biography
+| name = Dwight Gayle
+| image = Dwight Gayle 2017.jpg
+| image_size = 
+| caption = Gayle playing for [[Newcastle United F.C.|Newcastle United]] in 2017
+| fullname = Dwight Devon Boyd Gayle&lt;ref&gt;{{Hugman|23139|accessdate=23 January 2018}}&lt;/ref&gt;
+&lt;!--Please note that Gayle's birthday is 17 October 1989 and nothing else per ref. This must "not" be changed as many users have done that in the past. Thank you.--&gt;
+| birth_date = {{birth date and age|1989|10|17|df=y}}&lt;ref&gt;{{cite web |url=https://www.11v11.com/players/dwight-gayle-239788/ |title=Dwight Gayle |website=11v11.com |publisher=AFS Enterprises |accessdate=2 January 2018}}&lt;/ref&gt;
+| birth_place = [[Walthamstow]], England
+| height = {{convert|1.74|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.wba.co.uk/teams/senior/forward/dwight-gayle/ |title=Dwight Gayle |publisher=West Bromwich Albion F.C. |accessdate=2 September 2018}}&lt;/ref&gt;
+| position = [[Forward (association football)#Striker|Striker]]
+| currentclub = [[West Bromwich Albion F.C.|West Bromwich Albion]]&lt;br /&gt;(on loan from [[Newcastle United F.C.|Newcastle United]])
+| clubnumber = 16
+| youthyears1 = {{0|0000}}–2007
+| youthclubs1 = [[Arsenal F.C. Under-23s and Academy|Arsenal]]
+| years1 = 2007–2009
+| clubs1 = Ryan
+| caps1 = 
+| goals1 = 
+| years2 = 2009–2011
+| clubs2 = [[Stansted F.C.|Stansted]]
+| caps2 = 
+| goals2 = 
+| years3 = 2011–2013
+| clubs3 = [[Dagenham &amp; Redbridge F.C.|Dagenham &amp; Redbridge]]
+| caps3 = 18
+| goals3 = 7
+| years4 = 2011–2012
+| clubs4 = → [[Bishop's Stortford F.C.|Bishop's Stortford]] (loan)
+| caps4 = 42
+| goals4 = 29
+| years5 = 2012–2013
+| clubs5 = → [[Peterborough United F.C.|Peterborough United]] (loan)
+| caps5 = 9
+| goals5 = 7
+| years6 = 2013
+| clubs6 = [[Peterborough United F.C.|Peterborough United]]
+| caps6 = 20
+| goals6 = 6
+| years7 = 2013–2016
+| clubs7 = [[Crystal Palace F.C.|Crystal Palace]]
+| caps7 = 64
+| goals7 = 15
+| years8 = 2016–
+| clubs8 = [[Newcastle United F.C.|Newcastle United]]
+| caps8 = 67
+| goals8 = 29
+| years9 = 2018–
+| clubs9 = → [[West Bromwich Albion F.C.|West Bromwich Albion]] (loan)
+| caps9 = 26
+| goals9 = 16
+| club-update = 11:11, 14 February 2019 (UTC)
+| nationalteam-update = 
+}}
+'''Dwight Devon Boyd Gayle''' (born 17 October 1989) is an English professional [[Association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for [[West Bromwich Albion F.C.|West Bromwich Albion]] of the [[EFL Championship|Championship]], on [[Loan (sports)|loan]] from {{English football updater|NewcastU}} club [[Newcastle United F.C.|Newcastle United]].
+
+Gayle began his career in the [[Arsenal F.C. Under-23s and Academy|Arsenal Academy]]. After being released as a teenager, over the following seasons he worked his way back up through the [[English football league system|English football pyramid]] via stints at Ryan, [[Stansted F.C.|Stansted]], [[Bishop's Stortford F.C.|Bishop's Stortford]], [[Dagenham &amp; Redbridge F.C.|Dagenham &amp; Redbridge]] and [[Peterborough United F.C.|Peterborough United]], before establishing himself in the Premier League with [[Crystal Palace F.C.|Crystal Palace]]. In 2016, he signed for Newcastle United.
+
+==Career==
+===Early career===
+Gayle was born in [[Walthamstow]], London.&lt;ref&gt;{{cite book|editor1-first=Glenda|editor1-last=Rollin|editor2-first=Jack|editor2-last=Rollin |title=Sky Sports Football Yearbook 2012–2013 |year=2012 |publisher=Headline Publishing Group |location=London |isbn=978-0-7553-6356-8 |page=474 |edition=43rd}}&lt;/ref&gt; He started his career in the [[Arsenal F.C. Under-23s and Academy|academy]] of [[Arsenal F.C.|Arsenal]]&lt;ref name="Gayle goes Posh"&gt;{{cite news |url=https://www.thesun.co.uk/sol/homepage/sport/football/4616315/Peterborough-have-won-the-race-to-sign-striker-Dwight-Gayle.html |title=Gayle goes Posh |newspaper=The Sun |location=London |date=29 October 2012 |accessdate=17 November 2012}}&lt;/ref&gt; but was released as a teenager. In 2007 he dropped down to the [[Essex Olympian Football League]] to play for Ryan,&lt;ref&gt;{{cite web |url=http://www.ryanfc.net/news/dwight-gayle-signs-for-crystal-palace--93/ |title=Dwight Gayle signs for Crystal Palace |publisher=Ryan F.C. |date=30 June 2013 |accessdate=7 February 2018}}&lt;/ref&gt; before moving up to join [[Essex Senior Football League|Essex Senior League]] club [[Stansted F.C.|Stansted]] in 2009, where he went on to score 57 goals in the 2010–11 season.&lt;ref name= "57 goals"&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/23170099 |title=Crystal Palace sign Dwight Gayle from Peterborough United |publisher=BBC Sport |accessdate=16 August 2013}}&lt;/ref&gt;
+
+===Dagenham &amp; Redbridge===
+In the summer of 2011, he signed for [[EFL League Two|League Two]] club [[Dagenham &amp; Redbridge F.C.|Dagenham &amp; Redbridge]]. In August 2011, he was sent out to [[Bishop's Stortford F.C.|Bishop's Stortford]] on a season-long [[Loan (sports)|loan]],&lt;ref&gt;{{cite web |url=http://nonleague.pitchero.com/news/gayle-joins-blues-on-season-long-loan-5715/ |title=Gayle joins Blues on season-long loan |first=Steve |last=Whitney |publisher=Pitchero Non-league |date=13 August 2011 |accessdate=19 August 2012}}&lt;/ref&gt; during which he scored 29 goals in 42 appearances in the [[National League North|Conference North]].&lt;ref name=Soccerway/&gt; He then signed a three-year professional contract with Dagenham &amp; Redbridge in July 2012.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/18817020 |title=Dagenham &amp; Redbridge striker Dwight Gayle extends contract |publisher=BBC Sport |date=12 July 2012 |accessdate=19 August 2012}}&lt;/ref&gt; He made his professional debut for the Daggers on 18 August 2012, in a 2–0 defeat to [[Cheltenham Town F.C.|Cheltenham Town]].&lt;ref name=sb1213/&gt;
+
+===Peterborough United===
+[[File:Dwight Gayle.jpg|thumb|150px|upright|Gayle playing for [[Peterborough United F.C.|Peterborough United]] in 2012]]
+
+In November 2012, Gayle joined [[Peterborough United F.C.|Peterborough United]] on loan the club had an option to make the move permanent in January 2013.&lt;ref name=posh&gt;{{cite web |title=Dwight Gayle joins Peterborough United from Dagenham |url=https://www.bbc.co.uk/sport/0/football/20414673 |publisher=BBC Sport |date=20 November 2012 |accessdate=23 December 2012}}&lt;/ref&gt; His Peterborough debut came on 24 November as a 53rd-minute substitute for [[Saido Berahino]] in a 1–1 away draw with [[Ipswich Town F.C.|Ipswich Town]].&lt;ref&gt;{{cite web |title=Ipswich 1–1 Peterborough United |url=https://www.bbc.co.uk/sport/0/football/20374573 |publisher=BBC Sport |date=24 November 2012 |accessdate=23 December 2012}}&lt;/ref&gt; Gayle's first Peterborough goal was on 1 December: he picked up a poor backpass by [[Blackpool F.C.|Blackpool]]'s [[Alex Baptiste]] to score what was only a consolation goal in a 4–1 home defeat.&lt;ref&gt;{{cite web |title=Peterborough United 1–4 Blackpool |url=https://www.bbc.co.uk/sport/0/football/20474434 |publisher=BBC Sport |date=1 December 2012 |accessdate=23 December 2012}}&lt;/ref&gt; Peterborough manager [[Darren Ferguson]] said of Gayle: "He listens. He picks up things quickly, which is always a sign of a good player. He's going to be a really good player the boy".&lt;ref name=df&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/20757193 |title=Dwight Gayle: Peterborough United expect interest in striker |publisher=BBC Sport |date=17 December 2012 |accessdate=28 August 2017}}&lt;/ref&gt;
+
+On 24 December, after scoring five goals in six matches during his loan spell, Gayle agreed to sign permanently for Peterborough. He joined on 2 January 2013 on a four-and-a-half-year contract for a fee of £500,000 which could rise to £750,000.&lt;ref&gt;{{cite news |title=Posh confirm permanent Gayle deal |url=https://www.bbc.co.uk/sport/0/football/20836916 |publisher=BBC Sport |date=24 December 2012 |accessdate=24 December 2012}}&lt;/ref&gt; On 2 March, he scored a hat-trick in a 3–2 win against [[Blackburn Rovers F.C.|Blackburn Rovers]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/21556879 |title=Blackburn 2–3 Peterborough |publisher=BBC Sport |date=2 March 2013 |accessdate=3 March 2013}}&lt;/ref&gt;
+
+===Crystal Palace===
+On 3 July 2013, Gayle signed a four-year contract for newly promoted Premier League club [[Crystal Palace F.C.|Crystal Palace]] for an undisclosed fee, reported as a club record £4.5&amp;nbsp;million&lt;ref&gt;{{cite web |url=https://www.theguardian.com/football/2013/jul/03/crystal-palace-dwight-gayle-peterborough |title=Crystal Palace complete £4.5m deal for Peterborough's Dwight Gayle |first=Dominic |last=Fifield |date=3 July 2013 |newspaper=The Guardian |accessdate=14 June 2016}}&lt;/ref&gt; His former club Dagenham &amp; Redbridge received £1&amp;nbsp;million of the initial transfer fee plus 20% of any extra payments made due to a sell-on clause added when he signed for Peterborough United.&lt;ref&gt;{{cite web |url=https://www.cpfc.co.uk/news/2013/july/gayle-completes-palace-switch/ |title=Gayle completes Palace switch |publisher=Crystal Palace F.C. |date=3 July 2013 |accessdate=16 August 2013}}&lt;/ref&gt;&lt;ref name=" 57 goals" /&gt; He made his Palace debut playing 90 minutes in a home match against [[Tottenham Hotspur F.C.|Tottenham Hotspur]] on 18 August in a 1–0 loss.&lt;ref&gt;{{cite web |url=http://www.hertsandessexobserver.co.uk/Sport/Blues-News/Gayle-makes-Premier-League-debut-for-Palace-against-Spurs-as-old-team-Stansted-draw-in-FA-Cup-20130818160224.htm |title=Gayle makes Premier League debut for Palace against Spurs as old team Stansted draw in FA Cup |first=Alasdair |last=Gold |newspaper=Herts and Essex Observer |date=18 August 2013 |accessdate=19 August 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130821025827/http://www.hertsandessexobserver.co.uk/Sport/Blues-News/Gayle-makes-Premier-League-debut-for-Palace-against-Spurs-as-old-team-Stansted-draw-in-FA-Cup-20130818160224.htm |archivedate=21 August 2013}}&lt;/ref&gt; On 31 August, Gayle scored his first goal for the club and his first in the Premier League by successfully converting a penalty against [[Sunderland A.F.C.|Sunderland]] after he was fouled by [[John O'Shea]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/23822589 |title=Crystal Palace 3–1 Sunderland |first=Saj |last=Chowdhury |publisher=BBC Sport |date=31 August 2013 |accessdate=31 August 2013}}&lt;/ref&gt; On 5 October, he scored in a 3–1 defeat against [[Liverpool F.C.|Liverpool]] at [[Anfield]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/24350200 |title=Liverpool 3–1 Crystal Palace |first=Alistair |last=Magowan |publisher=BBC Sport |date=5 October 2013 |accessdate=27 December 2013}}&lt;/ref&gt; On 25 December, he scored the only goal in a 1–0 away win against [[Aston Villa F.C.|Aston Villa]] in added time at the end of the match.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/25442145 |title=Aston Villa 0–1 Crystal Palace |first=Jonathan |last=Jurejko |publisher=BBC Sport |date=26 December 2013 |accessdate=27 December 2013}}&lt;/ref&gt; In part due to injury, he found first team appearance opportunities limited for the remainder of the season.&lt;ref&gt;{{cite news |url=https://www.mirror.co.uk/sport/football/news/crystal-palaces-relegation-fight-hit-3285193 |title=Crystal Palace's relegation fight hit by Dwight Gayle injury blow |first=Darren |last=Witcoop |date=25 March 2014 |newspaper=Daily Mirror |accessdate=14 June 2016}}&lt;/ref&gt; He returned towards the end of the season scoring two goals as Palace came back from 3–0 down to draw 3–3 at home to Liverpool, which effectively ended their chances of the League title.&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-2621511/Dwight-Gayle-set-Crystal-Palace-exit-despite-heroics-against-Liverpool.html |title=Gayle could be set for Palace exit despite heroics against Liverpool |first=Sami |last=Mokbel |newspaper=Daily Mail |date=6 May 2014 |accessdate=14 June 2016}}&lt;/ref&gt; 
+
+On 26 August 2014, Gayle scored his first hat-trick for Crystal Palace, scoring three times in the first half to give Palace a 3–0 win over [[Walsall F.C.|Walsall]] in the second round of the [[2014–15 Football League Cup|League Cup]].&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-2734975/Walsall-0-3-Crystal-Palace-Dwight-Gayle-fires-hat-trick-cruise-past-League-One-strugglers-Capital-One-Cup.html |title=Walsall 0–3 Crystal Palace: Dwight Gayle fires in a hat-trick to cruise past League One side in the Capital One Cup |first=Laurie |last=Whitwell |newspaper=Daily Mail |date=26 August 2014 |accessdate=26 August 2014}}&lt;/ref&gt; Four days later, he scored his first goal of the [[2014–15 Premier League|Premier League season]] in the opening minute of a 3–3 draw at [[Newcastle United F.C.|Newcastle United]].&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/28906780 |title=Newcastle 3–3 Crystal Palace |first=Richard |last=Winton |date=30 August 2014 |accessdate=20 January 2015 |publisher=BBC Sport}}&lt;/ref&gt; On 23 November, Gayle scored in the home fixture against Liverpool for the second consecutive season as Palace defeated the Merseyside team 3–1.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/30072811 |title=Crystal Palace 3–1 Liverpool |first=Saj |last=Chowdhury |date=23 November 2014 |accessdate=20 January 2015 |publisher=BBC Sport}}&lt;/ref&gt; On 4 January, Gayle scored his first goal of 2015 in a 4–0 win over [[Dover Athletic F.C.|Dover Athletic]] in the third round of the [[2014–15 FA Cup|FA Cup]]. He then scored three goals in the team's next two matches; a 2–1 home win over Tottenham Hotspur and a 3–2 defeat of [[Burnley F.C.|Burnley]] at [[Turf Moor]].&lt;ref name=sb1415/&gt;&lt;ref&gt;{{Cite news |url=https://www.theguardian.com/football/2015/jan/17/burnley-crystal-palace-premier-league-match-report |title=Crystal Palace's Dwight Gayle hits late winner to stun Burnley |first=Richard |last=Jolly |date=18 January 2015 |newspaper=The Observer |accessdate=28 August 2017}}&lt;/ref&gt; Gayle ended the season as top scorer in all competitions for Crystal Palace, despite, like the season before, struggling to hold down a consistent place in the starting eleven.&lt;ref&gt;{{cite web |url=https://www.11v11.com/teams/crystal-palace/tab/players/season/2015/ |title=All Crystal Palace players: 2015 |website=11v11.com |publisher=AFS Enterprises |accessdate=14 June 2016}}&lt;/ref&gt;
+
+On 11 August 2015, [[Bristol City F.C.|Bristol City]] manager [[Steve Cotterill]] confirmed that Crystal Palace had accepted an undisclosed bid for Gayle.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/33873738 |title=Dwight Gayle: Bristol City boss Cotterill confirms accepted bid |date=11 August 2015 |accessdate=12 August 2015 |publisher=BBC Sport}}&lt;/ref&gt; On 15 August, the transfer broke down as it was confirmed that Bristol City were no longer interested in signing Gayle.&lt;ref&gt;{{cite news |url=http://www.bcfc.co.uk/news/article/red-card-a-game-changer-cotterill-2621012.aspx |title=Red card a game changer – Cotterill |first=Mark |last=Perrow |date=15 August 2015 |accessdate=16 August 2015 |publisher=Bristol City F.C. |deadurl=yes |archiveurl=https://web.archive.org/web/20150923183214/http://www.bcfc.co.uk/news/article/red-card-a-game-changer-cotterill-2621012.aspx |archivedate=23 September 2015}}&lt;/ref&gt; Gayle failed to hold down a regular first-team place, due to a series of injuries throughout the season.&lt;ref&gt;{{cite web |url=http://www.ibtimes.co.uk/liverpool-vs-crystal-palace-alan-pardew-reveals-dwight-gayle-doubt-due-injury-1527610 |title=Liverpool vs Crystal Palace: Alan Pardew reveals Dwight Gayle is doubt due to injury |first=Eduardo |last=Fernandez-Abascal |date=6 November 2015 |newspaper=International Business Times |accessdate=14 June 2016}}&lt;/ref&gt; On 12 April 2016, Gayle signed a contract with Crystal Palace to keep him at the club until 2019.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2016/apr/12/dwight-gayle-crystal-palace-contract |title=Dwight Gayle agrees new contract with Crystal Palace until 2019 |first=Dominic |last=Fifield |date=12 April 2016 |newspaper=The Guardian |accessdate=14 June 2016}}&lt;/ref&gt; On 7 May 2016, the penultimate match of the season, Gayle scored two goals in a 2–1 victory over [[Stoke City F.C.|Stoke City]] to confirm Crystal Palace's safety in the Premier League. For the third season in a row Gayle, despite being unable to hold down a consistent place in the team, finished the season as top scorer in all competitions for Crystal Palace.&lt;ref&gt;{{cite web |url=https://www.sportsmole.co.uk/football/crystal-palace/2015-16/top-scorers.html |title=Crystal Palace: 2015–16 (Premier League) |accessdate=2 September 2017}}&lt;/ref&gt;
+
+===Newcastle United===
+On 1 July 2016, Gayle signed a five-year contract for newly relegated [[EFL Championship|Championship]] club Newcastle United.&lt;ref&gt;{{cite web |url=http://www.nufc.co.uk/articles/20160701/united-complete-gayle-capture_2281670_5691447 |title=United complete Gayle capture |publisher=Newcastle United F.C. |date=1 July 2016 |accessdate=1 July 2016}}&lt;/ref&gt; He made his debut for the club on 5 August, in a 1–0 defeat to [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite web |url=https://bbc.co.uk/sport/football/36921094 |title=Fulham 1–0 Newcastle United |publisher=BBC Sport |date=5 August 2016 |accessdate=4 September 2016}}&lt;/ref&gt; He scored his first goal for the club on 13 August, in a 2–1 defeat to [[Huddersfield Town A.F.C.|Huddersfield Town]]. After having his spot kick saved, he scored from the rebound with his head.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/36993966 |title=Newcastle United 1–2 Huddersfield Town |publisher=BBC Sport |date=13 August 2016 |accessdate=20 November 2016}}&lt;/ref&gt; Gayle would score in the next two matches for Newcastle, with a brace in a 4–1 win over [[Reading F.C.|Reading]],&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/37030439 |title=Newcastle United 4–1 Reading |publisher=BBC Sport |date=17 August 2016 |accessdate=5 November 2017}}&lt;/ref&gt; and the only goal of the game against [[Bristol City F.C.|Bristol City]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/37067397 |title=Bristol City 0–1 Newcastle United |publisher=BBC Sport |date=20 August 2016 |accessdate=5 November 2017}}&lt;/ref&gt; It was not until over a month later when he found the net again, scoring a hat-trick against [[Norwich City F.C.|Norwich City]], coming back from 3–1 down to win 4–3 in stoppage time.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/37426290 |title=Newcastle United 4–3 Norwich City |publisher=BBC Sport |date=28 September 2016 |accessdate=28 September 2016}}&lt;/ref&gt; During October, Gayle scored braces in consecutive victories against [[Brentford F.C.|Brentford]]&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/37593786 |title=Newcastle United 3–1 Brentford |publisher=BBC Sport |date=18 October 2016 |accessdate=20 November 2016}}&lt;/ref&gt; and [[Barnsley F.C.|Barnsley]],&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/37615018 |title=Barnsley 0–2 Newcastle United |publisher=BBC Sport |date=18 October 2016 |accessdate=20 November 2016}}&lt;/ref&gt; and on 20 November, Gayle scored another brace, this time against [[Leeds United F.C.|Leeds United]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/37965461 |title=Leeds United 0–2 Newcastle United |publisher=BBC Sport |date=20 November 2016 |accessdate=28 August 2017}}&lt;/ref&gt; On 10 December, Gayle scored a hat-trick against [[Birmingham City F.C.|Birmingham City]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/38193496 |title=Newcastle United 4–0 Birmingham City |publisher=BBC Sport |date=10 December 2016 |accessdate=10 December 2016}}&lt;/ref&gt; He would later score in matches against [[Burton Albion F.C.|Burton Albion]] and [[Nottingham Forest F.C.|Nottingham Forest]], ending 2016 as the league's top scorer with 19 goals.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/38271711 |title=Burton Albion 1–2 Newcastle United |publisher=BBC Sport |date=17 December 2016 |accessdate=5 November 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/38412240 |title=Newcastle United 3–1 Nottingham Forest |publisher=BBC Sport |date=30 December 2016 |accessdate=5 November 2017}}&lt;/ref&gt;
+
+On 14 January 2017, Gayle scored the opening goal in an eventual 2–1 win over Brentford, and in doing so, became the first Newcastle player since [[Alan Shearer]] to score 20 league goals in a season. A few minutes later however, he sustained a hamstring injury, and had to be substituted off.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/38551590 |title=Brentford 1–2 Newcastle United |publisher=BBC Sport |date=14 January 2017 |accessdate=5 November 2017}}&lt;/ref&gt; This injury kept him out for the next four matches; he would make his return against Norwich City,&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/38889065 |title=Norwich City 2–2 Newcastle United |publisher=BBC Sport |date=14 February 2017 |accessdate=5 November 2017}}&lt;/ref&gt; and started the match against Aston Villa, but once again, had to leave the pitch early.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/38952759 |title=Newcastle United 2–0 Aston Villa |publisher=BBC Sport |date=20 February 2017 |accessdate=5 November 2017}}&lt;/ref&gt; It would become a recurring problem for Gayle, and on three occasions from February to April, he had to be substituted off in the first half.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/39111416 |title=Reading 0–0 Newcastle United |publisher=BBC Sport |date=7 March 2017 |accessdate=5 November 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/39239330 |title=Birmingham 0–0 Newcastle United |publisher=BBC Sport |date=18 March 2017 |accessdate=5 November 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/39464957 |title=Sheffield Wednesday 2–1 Newcastle United |publisher=BBC Sport |date=8 April 2017 |accessdate=5 November 2017}}&lt;/ref&gt; Unsurprisingly, his goal tally also suffered, as he scored twice during this period, netting against Huddersfield Town and [[Wigan Athletic F.C.|Wigan Athletic]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/39086346 |title=Huddersfield Town 1–3 Newcastle United |publisher=BBC Sport |date=20 February 2017 |accessdate=5 November 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/39389117 |title=Newcastle United 2–1 Wigan Athletic |publisher=BBC Sport |date=1 April 2017 |accessdate=5 November 2017}}&lt;/ref&gt; Gayle was absent for the rest of April, and made his return on the final day of the season, scoring in a 3–0 win over [[Barnsley F.C.|Barnsley]], as Newcastle edged out [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] by a point to win the [[2016–17 EFL Championship|Championship]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/39760419 |title=Newcastle United 3–0 Barnsley |publisher=BBC Sport |date=7 May 2017 |accessdate=11 August 2017}}&lt;/ref&gt;
+
+On 18 November 2017, Gayle scored the opening goal in an eventual 4–1 loss to [[Manchester United F.C.|Manchester United]]. His goal was the first that the ''Red Devils'' had conceded from open play since 31 December 2016.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/41951920 |title=Manchester United 4–1 Newcastle United |publisher=BBC Sport |date=18 November 2017 |accessdate=10 December 2017}}&lt;/ref&gt; On 2 December, Gayle again scored the opening goal, this time, in a 3–1 loss to [[Chelsea F.C.|Chelsea]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/42119935 |title=Chelsea 4–1 Newcastle United |publisher=BBC Sport |date=2 December 2017 |accessdate=10 December 2017}}&lt;/ref&gt; On 9 December, Gayle was involved in both Newcastle goals in a 3–2 loss to [[Leicester City F.C.|Leicester City]], assisting [[Joselu]] for the first and then scoring the equaliser.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/42205603 |title=Newcastle United 2–3 Leicester City |publisher=BBC Sport |date=9 December 2017 |accessdate=26 May 2018}}&lt;/ref&gt; In the second half of the season, Gayle remained a first team regular, but only scored three more goals for Newcastle – a brace against [[AFC Bournemouth]] in a 2–2 draw on 24 February 2018,&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/43094246 |title=Bournemouth 2–2 Newcastle United |publisher=BBC Sport |date=24 February 2018 |accessdate=19 August 2018}}&lt;/ref&gt; and a goal against Chelsea in a 3–0 win, the final day of the season.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/44020154 |title=Newcastle United 3–0 Chelsea |publisher=BBC Sport |date=13 May 2018 |accessdate=19 August 2018}}&lt;/ref&gt;
+
+====West Bromwich Albion (loan)====
+On 6 August 2018, Gayle joined newly relegated Championship club [[West Bromwich Albion F.C.|West Bromwich Albion]] on a season-long loan deal from Newcastle. The deal included [[Salomón Rondón]] going the other way for the 2018–19 season.&lt;ref&gt;{{cite news |url=https://www.wba.co.uk/news/2018/august/gayle-arrives-at-the-hawthorns/ |title=Gayle arrives at The Hawthorns |publisher=West Bromwich Albion F.C. |accessdate=6 August 2018}}&lt;/ref&gt; On 11 August, Gayle drew a foul from his former Newcastle teammate [[Tim Krul]], now of [[Norwich City F.C.|Norwich City]], with the resulting penalty scored by [[Jay Rodriguez]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/45066581 |title=Norwich City 3–4 West Bromwich Albion |publisher=BBC Sport |date=11 August 2018 |accessdate=19 August 2018}}&lt;/ref&gt; On 18 August, Gayle scored his first goal for the club, the fourth goal in a emphatic 7–1 win over [[Queens Park Rangers F.C.|Queens Park Rangers]]. He was also the fouled player for both of Rodriguez's penalties.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/45152565 |title=West Bromwich Albion 7–1 Queens Park Rangers |publisher=BBC Sport |date=18 August 2018 |accessdate=19 August 2018}}&lt;/ref&gt; During September, Gayle scored four times in three consecutive home match wins over [[Stoke City F.C.|Stoke City]], [[Bristol City F.C.|Bristol City]] and [[Millwall F.C.|Millwall]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/45304577 |title=West Bromwich Albion 2–1 Stoke City |publisher=BBC Sport |date=1 September 2018 |accessdate=1 December 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/45479782 |title=West Bromwich Albion 4–2 Bristol City |publisher=BBC Sport |date=18 September 2018 |accessdate=1 December 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/45529540 |title=West Bromwich Albion 2–0 Millwall |publisher=BBC Sport |date=22 September 2018 |accessdate=1 December 2018}}&lt;/ref&gt; On 29 September, he scored the third goal, a free-kick, in a 3–2 win over [[Preston North End F.C.|Preston North End]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/45609719 |title=Preston 2–3 West Bromwich Albion |publisher=BBC Sport |date=29 September 2018 |accessdate=1 December 2018}}&lt;/ref&gt; For his performances, he was awarded with the Championship Player of the Month by the [[English Football League|EFL]].&lt;ref&gt;{{cite web |url=https://www.efl.com/news/2018/october/player-of-the-month-dwight-gayle/ |title=Player of the Month: Dwight Gayle |publisher=EFL.com |date=5 October 2018 |accessdate=1 December 2018}}&lt;/ref&gt; On 6 October, Gayle scored a brace in a 4–1 win over [[Reading F.C.|Reading]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/45688429 |title=West Bromwich Albion 4–1 Reading |publisher=BBC Sport |date=6 October 2018 |accessdate=1 December 2018}}&lt;/ref&gt;
+
+On 14 February 2019, Gayle was suspended for two matches after accepting a charge of "successful deception of a match official", following an incident in the match against [[Nottingham Forest F.C.|Nottingham Forest]] earlier that week when he "won" a late penalty enabling his team to take a 2–2 draw.&lt;ref&gt;{{cite web |title=Dwight Gayle: West Brom striker banned for 'diving' |url=https://www.bbc.co.uk/sport/football/47245351 |publisher=BBC Sport |accessdate=15 February 2019 |date=14 February 2019}}&lt;/ref&gt;
+
+==Style of play==
+He is described as an "energetic, hardworking, pacey striker" and a "natural finisher".&lt;ref name=posh/&gt;
+
+==Personal life==
+Gayle is of Jamaican descent through his father.&lt;ref&gt;{{cite web |url=https://twitter.com/dwightgayle/status/286791066059939841 |title=@209fifashirts Jamaica and England |first=Dwight |last=Gayle |date=3 January 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.chroniclelive.co.uk/sport/football/football-news/dwight-gayle-not-focused-international-12231210 |title=Dwight Gayle not focused on international football but reveals he can play for Jamaica |first=Lee |last=Ryder |date=26 November 2016 |newspaper=The Chronicle |location=Newcastle |accessdate=28 August 2017}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 12 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Bishop's Stortford F.C.|Bishop's Stortford]]
+|[[2011–12 Football Conference#Conference North|2011–12]]&lt;ref&gt;{{cite web |url=http://www.bsfc.co.uk/club/archives/2011-12-season/first-team-results/ |title=2011/12 results |publisher=Bishop's Stortford F.C. |archiveurl=https://archive.today/20130420044122/http://www.bsfc.co.uk/club/archives/2011-12-season/first-team-results/ |archivedate=20 April 2013 |deadurl=yes |access-date=12 March 2013 |df=dmy-all}}&lt;/ref&gt;
+|[[National League North|Conference North]]
+|42||29||3||1||colspan=2|—||10{{efn|Three appearances and one goal in [[FA Trophy]], two appearances and two goals in [[Herts Charity Cup]], five appearances and nine goals in [[Herts Senior Cup]]}}||12||55||42
+|-
+|[[Dagenham &amp; Redbridge F.C.|Dagenham &amp; Redbridge]]
+|[[2012–13 Dagenham &amp; Redbridge F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|65426|2012|accessdate=15 February 2017}}&lt;/ref&gt;
+|[[EFL League Two|League Two]]
+|18||7||1||0||0||0||1{{efn|Appearance in [[EFL Trophy|Football League Trophy]]}}||0||20||7
+|-
+|[[Peterborough United F.C.|Peterborough United]]
+|[[2012–13 Peterborough United F.C. season|2012–13]]&lt;ref name=sb1213/&gt;
+|[[EFL Championship|Championship]]
+|29||13||colspan=2|—||colspan=2|—||colspan=2|—||29||13
+|-
+|rowspan=4|[[Crystal Palace F.C.|Crystal Palace]]
+|[[2013–14 Crystal Palace F.C. season|2013–14]]&lt;ref&gt;{{soccerbase season|65426|2013|accessdate=15 February 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|23||7||2||1||0||0||colspan=2|—||25||8
+|-
+|[[2014–15 Crystal Palace F.C. season|2014–15]]&lt;ref name =sb1415 &gt;{{soccerbase season|65426|2014|accessdate=15 February 2017}}&lt;/ref&gt;
+|Premier League
+|25||5||2||1||2||4||colspan=2|—||29||10
+|-
+|[[2015–16 Crystal Palace F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|65426|2015|accessdate=15 February 2017}}&lt;/ref&gt;
+|Premier League
+|16||3||1||0||3||4||colspan=2|—||20||7
+|-
+!colspan=2|Total
+!64||15||5||2||5||8||colspan=2|—||74||25
+|-
+|rowspan=3|[[Newcastle United F.C.|Newcastle United]]
+|[[2016–17 Newcastle United F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|65426|2016|accessdate=3 August 2017}}&lt;/ref&gt;
+|Championship
+|32||23||0||0||2||0||colspan=2|—||34||23
+|-
+|[[2017–18 Newcastle United F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|65426|2017|accessdate=14 May 2018}}&lt;/ref&gt;
+|Premier League
+|35||6||2||0||0||0||colspan=2|—||37||6
+|-
+!colspan=2|Total
+!67||29||2||0||2||0||colspan=2|—||71||29
+|-
+|[[West Bromwich Albion F.C.|West Bromwich Albion]] (loan)
+|[[2018–19 West Bromwich Albion F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|65426|2018|accessdate=12 February 2019}}&lt;/ref&gt;
+|Championship
+|26||16||0||0||1||0||colspan=2|—||27||16
+|-
+!colspan=3|Career total
+!238||107||11||3||8||8||11||12||267||130
+|}
+
+{{notelist}}
+
+==Honours==
+'''Crystal Palace'''
+*[[FA Cup]] runner-up: [[2015–16 FA Cup|2015–16]]&lt;ref name=Soccerway/&gt;
+
+'''Newcastle United'''
+*[[EFL Championship]]: [[2016–17 EFL Championship|2016–17]]&lt;ref name=Soccerway&gt;{{cite web |url=https://uk.soccerway.com/players/dwight-gayle/201233/ |title=D. Gayle: Summary |website=Soccerway |publisher=Perform Group |accessdate=2 September 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Championship 8|2016–17 Championship]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39648483 |title=PFA teams of the year: Chelsea and Tottenham dominate Premier League XI |publisher=BBC Sport |date=20 April 2017 |accessdate=6 May 2018}}&lt;/ref&gt;
+*[[Crystal Palace F.C.|Crystal Palace]] Goal of the Year: 2014&lt;ref name=Award&gt;{{cite web |url=http://www.yourlocalguardian.co.uk/news/local/11195815.Palace_fans_vote_Speroni_for_player_of_the_year___but_will_he_be_there_next_season_/ |title=Crystal Palace fans vote Speroni for player of the year |first=Andrew |last=Bloss |newspaper=Your Local Guardian |date=7 May 2014 |accessdate=28 August 2017}}&lt;/ref&gt;
+*EFL Championship Goal of the Month: August 2016&lt;ref name=GoaloftheMonth&gt;{{cite web |url=http://www.skysports.com/football/news/11688/10580380/goal-of-the-month-winners-from-the-sky-bet-championship-league-one-and-league-two |title=Goal of the Month winners from the Sky Bet Championship, League One and League Two |publisher=Sky Sports |date=16 September 2016 |accessdate=28 August 2017}}&lt;/ref&gt;
+*[[Professional Footballers Association|PFA]] Fans' Player of the Month: October 2016&lt;ref name=FansPotM&gt;{{cite web |url=http://www.skysports.com/football/news/11095/10675655/sky-sports-announces-november-shortlists-for-pfa-fans-player-of-the-month |title=Sky Sports announces November shortlists for PFA Fans' Player of the Month |publisher=Sky Sports |date=1 December 2016 |accessdate=28 August 2017}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.wba.co.uk/teams/senior/forward/dwight-gayle/ Profile] at the West Bromwich Albion F.C. website
+*{{Soccerbase}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2011–12 Conference North Team of the Year}}
+{{2016–17 EFL Championship PFA Team of the Year}}
+}}
+{{West Bromwich Albion F.C. squad}}
+&lt;!--{{Newcastle United F.C. squad}}--&gt;
+
+{{DEFAULTSORT:Gayle, Dwight}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Footballers from Walthamstow]]
+[[Category:English footballers]]
+[[Category:Association football forwards]]
+[[Category:Arsenal F.C. players]]
+[[Category:Stansted F.C. players]]
+[[Category:Dagenham &amp; Redbridge F.C. players]]
+[[Category:Bishop's Stortford F.C. players]]
+[[Category:Peterborough United F.C. players]]
+[[Category:Crystal Palace F.C. players]]
+[[Category:Newcastle United F.C. players]]
+[[Category:West Bromwich Albion F.C. players]]
+[[Category:National League (English football) players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:Black English sportspeople]]
+[[Category:English people of Jamaican descent]]</text>
+      <sha1>nyhs6pzw1az8u6lktm728vwmcvsmhw0</sha1>
+    </revision>
+  </page>
+</mediawiki>

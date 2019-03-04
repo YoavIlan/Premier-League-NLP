@@ -1,0 +1,237 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Callum Paterson</title>
+    <ns>0</ns>
+    <id>36633786</id>
+    <revision>
+      <id>885833173</id>
+      <parentid>885245123</parentid>
+      <timestamp>2019-03-02T17:07:37Z</timestamp>
+      <contributor>
+        <username>Kosack</username>
+        <id>4446447</id>
+      </contributor>
+      <comment>Updated stats</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23458">{{lead too short|date=June 2017}}
+{{EngvarB|date=April 2013}}
+{{Use dmy dates|date=April 2013}}
+{{Infobox football biography
+| name           = Callum Paterson
+| image          = Callum Paterson.png
+| fullname       = Callum Thomas Owen Paterson&lt;ref&gt;{{cite web |url=https://www.efl.com/siteassets/efl-documents/efl-professional-retain-list--free-transfers---2017-18.pdf |title=Club list of registered players: As at 19th May 2018: Cardiff City |publisher=English Football League |format=PDF |page=12 |accessdate=17 June 2018}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|df=y|1994|10|13}}
+| birth_place    = [[London]], England&lt;ref name="London"&gt;{{cite journal |last=Kiddie |first=Paul |title=Heart of Midlothian Pen Pics |journal=Scottish Communities League Cup Programme |volume=Semi-final Inverness v Hearts |date=January 2013 |page=P28}}&lt;/ref&gt;
+| height         = 
+| position       = [[Utility player]]
+| currentclub    = [[Cardiff City F.C.|Cardiff City]]
+| clubnumber     = 13
+| youthyears1    = 2004–2010  | youthclubs1 = [[Tynecastle Boys Club]]
+| youthyears2    = 2010–2012  | youthclubs2 = [[Heart of Midlothian F.C. Under-20s and Academy|Heart of Midlothian]]
+| years1         = 2012–2017 | clubs1 = [[Heart of Midlothian F.C.|Heart of Midlothian]] | caps1 = 137 | goals1 = 33
+| years2         = 2017– | clubs2 = [[Cardiff City F.C.|Cardiff City]] | caps2 = 58 | goals2 = 14 &lt;!-- When updating please update club-update and stats table below not just Infobox.--&gt;
+| nationalyears1 = 2012
+| nationalcaps1  = 1
+| nationalgoals1 = 0
+| nationalteam1  = [[Scotland national under-18 football team|Scotland U18]]
+| nationalyears2 = 2012
+| nationalcaps2  = 1
+| nationalgoals2 = 0
+| nationalteam2  = [[Scotland national under-19 football team|Scotland U19]]
+| nationalyears3 = 2012–2015
+| nationalteam3  = [[Scotland national under-21 football team|Scotland U21]]
+| nationalcaps3  = 12
+| nationalgoals3 = 2
+| nationalyears4 = 2016–
+| nationalteam4  = [[Scotland national football team|Scotland]]
+| nationalcaps4  = 11
+| nationalgoals4 = 0
+| club-update       = 17:07, 2 March 2019 (UTC)
+| ntupdate       = 22 September 2018 (UTC)
+}}
+'''Callum Thomas Owen Paterson''' (born 13 October 1994)&lt;ref&gt;{{cite web | url=https://www.uefa.com/uefanationsleague/season=2019/teams/player=250053754/index.html | title=Callum Paterson | publisher=[[Uefa]] | work=uefa.com | accessdate=23 September 2012}}&lt;/ref&gt; is a professional [[association football|footballer]] who plays for [[Premier League]] club [[Cardiff City F.C.|Cardiff City]] and [[Scotland national football team|Scotland]]. Paterson started his career with [[Heart of Midlothian F.C.|Heart of Midlothian]], helping them win promotion to the [[Scottish Premiership]] in 2015. He moved to Cardiff City in 2017, and helped them win promotion to the Premier League in 2018.
+
+Paterson mainly played for Hearts as a [[Defender (association football)#Full-back|right-back]], but was also sometimes used as a [[Forward (association football)#Striker|striker]]. Since moving to Cardiff he has mainly played as a [[midfielder]], but will occasionally play higher up the pitch to help aid the attack. He has been praised for his work rate, pace, aerial ability, positioning, and goalscoring prowess.
+
+==Early life==
+Paterson's father is [[Scottish people|Scottish]] and his mother is from [[Zimbabwe]]. His maternal grandfather is South African.&lt;ref name="edinburghnews"/&gt; Paterson was born in [[London]] and moved from there to Scotland when he was three years old.&lt;ref name="edinburghnews"&gt;{{cite web|url=http://www.edinburghnews.scotsman.com/sport/football/hearts/callum-paterson-reveals-he-s-eligible-for-four-countries-1-3626686|title=Callum Paterson reveals he's eligible for four countries|work=Edinburgh News (Scotsman)|date=6 December 2014}}&lt;/ref&gt;&lt;ref name = "London"/&gt; He grew up in [[South Queensferry]]&lt;ref name="Queensferry"&gt;{{cite web | url=http://www.linlithgowgazette.co.uk/news/local-headlines/queensferry-teen-s-debut-for-hearts-1-2423582 | title=Queensferry teen's debut for Hearts | publisher=Linlithgow Gazette | work=linlithgowgazette.co.uk | date=21 July 2012 | accessdate=4 August 2012}}&lt;/ref&gt; where he attended [[Queensferry High School]].&lt;ref&gt;{{cite web | url=http://www.linlithgowgazette.co.uk/sport/local-sport/cousins-snapped-up-for-senior-squads-1-276891 | title=Cousins snapped up for senior squads | publisher=Linlithgow Gazette | work=linlithgowgazette.co.uk | date=16 July 2010 | accessdate=12 December 2012}}&lt;/ref&gt; He is the cousin of fellow footballer [[Michael Travis (footballer)|Michael Travis]].&lt;ref name = "Queensferry"/&gt;
+
+==Club career==
+===Heart of Midlothian===
+Paterson began his career as a youth player at [[Tynecastle F.C.|Tynecastle]]&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-news/hearts-starlet-callum-paterson-cant-1273229 | title=I can't believe I'm about to face Steven Gerrard, says Hearts starlet | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=22 August 2012 | accessdate=23 September 2012}}&lt;/ref&gt; before joining [[Heart of Midlothian F.C.|Heart of Midlothian]] in 2010.&lt;ref&gt;{{cite web | url=http://www.hydc.co.uk/callum_paterson.html | title=Callum Paterson | publisher=Heart of Midlothian Youth Development Committee | work=hydc.co.uk | accessdate=4 August 2012 | deadurl=yes | archiveurl=https://archive.is/20130527201218/http://www.hydc.co.uk/callum_paterson.html | archivedate=27 May 2013 | df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/21370530 | title=Foot injury ends Callum Paterson's season | publisher=[[BBC Sport]] | work=bbc.co.uk | date=7 February 2013 | accessdate=7 February 2013}}&lt;/ref&gt; A member of the club's Under-20 side&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/page/Squad/DevelopmentTeamDetail/0,,10289,00.html | title=U20 team | publisher=[[Heart of Midlothian F.C.]] | work=heartsfc.co.uk | accessdate=4 August 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20110901234010/http://www.heartsfc.co.uk/page/Squad/DevelopmentTeamDetail/0%2C%2C10289%2C00.html | archivedate=1 September 2011 | df=dmy-all }}&lt;/ref&gt; he was promoted to the first team during pre-season in the summer of 2012 and made his first team debut on 14 July, in a friendly against [[Raith Rovers F.C.|Raith Rovers]] where he scored the first goal of the game.&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/articles/20120714/match-report-raith-rovers-0-3-hearts_2241384_2847597 | title=Match Report: Raith Rovers 0–3 Hearts | publisher=[[Heart of Midlothian F.C.]] | accessdate=4 August 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20120927071330/http://www.heartsfc.co.uk/articles/20120714/match-report-raith-rovers-0-3-hearts_2241384_2847597 | archivedate=27 September 2012 | df=dmy-all }}&lt;/ref&gt; Having impressed during these pre-season fixtures,&lt;ref&gt;{{cite web | url=http://www.scotsman.com/sport/football/spl/hearts-boss-backs-young-talent-1-2448792 | title=Hearts boss backs young talent | publisher=[[Johnston Press]] | work=[[The Scotsman]] | date=3 August 2012 | accessdate=4 August 2012}}&lt;/ref&gt; on 4 August he made his [[Scottish Premier League]] (SPL) debut aged 17, in a 2–0 win over [[St Johnstone F.C.|St Johnstone]].&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/19025830 | title=Hearts 2&amp;nbsp;– 0 St Johnstone | publisher=[[BBC]] | work=BBC Sport | date=4 August 2012 | accessdate=4 August 2012}}&lt;/ref&gt; He made his European debut on 23 August, in a 1–0 defeat to [[Liverpool F.C.|Liverpool]] at [[Tynecastle Stadium|Tynecastle]].&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/19279553 | title=Hearts 0–1 Liverpool | publisher=[[BBC]] | work=BBC Sport | date=23 August 2012 | accessdate=23 August 2012}}&lt;/ref&gt; On 31 August, Paterson signed a new contract extending his stay with the club until 2015.&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/articles/20120831/contract-for-callum_2241384_2906740 | title=Contract for Callum | publisher=[[Heart of Midlothian F.C.]] | work=heartsfc.co.uk | date=31 August 2012 | accessdate=1 September 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20131203074744/http://www.heartsfc.co.uk/articles/20120831/contract-for-callum_2241384_2906740 | archivedate=3 December 2013 | df=dmy-all }}&lt;/ref&gt; On 22 September 2012, he scored his first two Career goals&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-match-reports/spl-dundee-united-0-hearts-1338414 | title=Hearts kid Callum Paterson gets first career goals as they demolish Dundee United | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=22 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt; in a 3–0 win over [[Dundee United F.C.|Dundee Utd]] in the [[Scottish Premier League|SPL]].&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/19615258 | title=Dundee Utd 0–3 Hearts | publisher=[[BBC]] | work=BBC Sport | date=22 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt; On 22 January 2013,&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/articles/20130124/injury-blow-for-callum_2241384_3051618 | title=Injury blow for Callum | publisher=[[Heart of Midlothian F.C.]] | work=heartsfc.co.uk | date=24 January 2013 | accessdate=26 January 2013 | deadurl=yes | archiveurl=https://web.archive.org/web/20131203063253/http://www.heartsfc.co.uk/articles/20130124/injury-blow-for-callum_2241384_3051618 | archivedate=3 December 2013 | df=dmy-all }}&lt;/ref&gt; Paterson suffered ligament damage to his foot&lt;ref&gt;{{cite web | url=http://www1.skysports.com/football/news/11781/8477655/ | title=Callum Paterson out until next season after surgery on injured foot | publisher=[[Sky Sports]] | work=skysports.com | date=7 February 2013 | accessdate=7 February 2013}}&lt;/ref&gt; in training that ruled him out of the [[Scottish League Cup]] Semi-final against [[Inverness Caledonian Thistle F.C.|Inverness]] that weekend.&lt;ref&gt;{{cite web | url=http://www1.skysports.com/football/news/11790/8430279/Hearts-teenager-Callum-Paterson-to-miss-semi-final-and-will-have-scan-on-his-ankle | title=Hearts teenager Callum Paterson to miss semi-final and will have scan on his ankle | publisher=[[Sky Sports]] | work=skysports.com | date=24 January 2013 | accessdate=26 January 2013}}&lt;/ref&gt; The injury required surgery and ultimately ruled him out for the remainder of the season.&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-news/blow-for-hearts-as-striker-callum-paterson-1591668 | title=Blow for Hearts as striker Callum Paterson is ruled out for the rest of the season | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=7 February 2013 | accessdate=7 February 2013}}&lt;/ref&gt; During his debut season Paterson made twenty seven appearances, scoring four times&lt;ref&gt;{{Soccerbase season|65785|2012|accessdate=1 July 2013}}&lt;/ref&gt; In doing so he played as a [[Defender (association football)#Full back|right-back]], [[midfielder]] and as a [[Striker (association football)|striker]],&lt;ref&gt;{{cite web | url=http://sport.stv.tv/football/clubs/hearts/191436-hearts-boss-says-callum-paterson-will-be-a-full-time-striker-after-double/ | title=Hearts boss says Callum Paterson will be a full-time striker after double | publisher=[[Scottish Television|STV]] | work=sport.stv.tv | date=22 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-match-reports/spl-dundee-united-0-hearts-1338938 | title=Hearts starlet Callum Paterson set for extended run up front | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=23 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt; with the latter being the position he played in before joining Hearts.&lt;ref&gt;{{cite web | url=http://www.scotsman.com/edinburgh-evening-news/football/hearts/hearts-youngster-callum-paterson-may-retain-striking-berth-against-dundee-united-1-2535109 | title=Hearts youngster Callum Paterson may retain striking berth against Dundee Unite | publisher=[[Edinburgh Evening News]] | work=scotsman.com | date=23 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt;
+
+On 11 August 2013, Paterson scored his first goal of the 2013–14 campaign, when he headed home the only goal in the [[Edinburgh derby]] against [[Hibernian F.C.|Hibernian]] at Tynecastle.&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/23565318 | title=A Callum Paterson header gave Hearts a vital victory and bragging rights in a frantic and edgy Edinburgh derby. | publisher=[[BBC Sport]] | work=bbc.co.uk/sport | date=11 August 2013 | accessdate=6 May 2014}}&lt;/ref&gt; On 27 April 2014, Paterson scored a brace against city rivals Hibernian in a 2–1 win. A week later he scored again in a 5–0 win over [[Kilmarnock F.C.|Kilmarnock]] and also scored three days later against [[Partick Thistle F.C.|Partick Thistle]]. Hearts were relegated at the end of the season, but immediately won promotion by winning the [[2014–15 Scottish Championship]]. In their first season back in the top flight, Hearts finished third in the [[2015–16 Scottish Premiership]] and qualified for European competition.
+
+During the summer of 2016, Patterson was subject to interest from several [[EFL Championship]] sides, with Hearts rejecting two bids from [[Wigan Athletic F.C.|Wigan Athletic]]&lt;ref&gt;{{cite news |title=Callum Paterson: Hearts reject new Wigan bid for full-back |url=https://www.bbc.co.uk/sport/football/37181276 |publisher=BBC Sport |date=24 August 2016 |accessdate=24 August 2016}}&lt;/ref&gt; Despite the interest, he stayed at the club, managing to score 9 goals in 20 appearances, before suffering a serious knee injury on 27 December, which ruled him out for six to nine months.&lt;ref&gt;{{cite news |title=Callum Paterson: Hearts right-back sidelined for six to nine months |url=https://www.bbc.co.uk/sport/football/38450959 |publisher=BBC Sport |date=28 December 2016 |accessdate=28 December 2016}}&lt;/ref&gt; Despite missing the last few months of the season, Paterson managed to pick up the club's Young Player of the Year Award.&lt;ref name=YPLOY/&gt;
+
+===Cardiff City===
+On 7 June 2017, Paterson agreed a three-year deal with [[EFL Championship]] club [[Cardiff City F.C.|Cardiff City]].&lt;ref&gt;{{cite news |title=Callum Paterson: Scotland defender joins Cardiff City on three-year deal |url=https://www.bbc.co.uk/sport/football/40189922 |publisher=BBC Sport |date=7 June 2016 |accessdate=7 June 2016}}&lt;/ref&gt; The knee injury suffered at Hearts kept him out of the first two months of the season, making his playing return for the [[Cardiff City F.C. Academy|Under-23 side]] in a 4–0 win over [[Burnley F.C.|Burnley]], on 18 September.&lt;ref&gt;{{cite news |title=U23 Match Report Burnley 0–4 Cardiff City |url=https://www.cardiffcityfc.co.uk/news/2017/september/match-report-for-burnley-u23-vs-cardiff-city-u23-on-18-sep-17/ |publisher=Cardiff City Football Club |date=18 September 2017 |accessdate=18 September 2017}}&lt;/ref&gt; On 21 October, Paterson returned to the first team, making his debut in a 1–0 win over [[Middlesbrough F.C.|Middlesbrough]], before scoring his first goal for the club, the winner at [[Barnsley F.C.|Barnsley]], a month later.&lt;ref&gt;{{cite news |title=Middlesbrough 0–1 Cardiff City |url=https://www.bbc.co.uk/sport/football/41618274 |publisher=BBC Sport |date=21 October 2017 |accessdate=22 October 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Barnsley 0–1 Cardiff City |url=https://www.bbc.co.uk/sport/football/41978131 |publisher=BBC Sport |date=21 November 2017 |accessdate=23 November 2017}}&lt;/ref&gt; Cardiff manager, [[Neil Warnock]] moved Paterson into a central midfield position in the new year, later stating the reasoning behind the move was because he couldn't defend.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/42682884 |title=Callum Paterson: Cardiff 'wobble' out of way, says Scotland international |date=15 January 2018 |accessdate=13 February 2018 |work=BBC Sport |publisher=BBC}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Neil Warnock reveals why he won't actually play 'defender' Callum Paterson in defence |url=https://www.walesonline.co.uk/sport/football/football-news/neil-warnock-reveals-wont-actually-14419127 |publisher=South Wales Echo |date=16 March 2018 |accessdate=17 March 2018}}&lt;/ref&gt; Following his move to the new position, Paterson scored a brace against [[Sunderland A.F.C.|Sunderland]] on 13 January and found the back of the net three times in March.&lt;ref&gt;{{cite news |title=Cardiff City 4–0 Sunderland |url=https://www.bbc.co.uk/sport/football/42587431 |publisher=BBC Sport |date=13 January 2018 |accessdate=17 March 2018}}&lt;/ref&gt; He continued his good form throughout the rest of the season, scoring 10 goals, ending as the club's top goal scorer in the league, as they were promoted to the [[Premier League]]. Paterson was also voted Young Player of the Season by the Cardiff fans.&lt;ref&gt;{{cite news |title=Awards 2018: The Winners |url=https://www.cardiffcityfc.co.uk/news/2018/may/awards-2018/ |publisher=Cardiff City F.C. |date=6 May 2018 |accessdate=6 May 2018}}&lt;/ref&gt;
+
+Paterson played his first Premier League game against [[A.F.C. Bournemouth|Bournemouth]] on the opening day of the season. As Cardiff struggled for goals, Paterson was moved into a central forward role, where he scored his first Premier League goal in a 4–2 win over [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite news |title=Cardiff City 4–2 Fulham |url=https://www.bbc.co.uk/sport/football/45847412 |publisher=BBC Sport |date=20 October 2018 |accessdate=20 October 2018}}&lt;/ref&gt;
+
+==International career==
+Paterson earned caps at both [[Scotland national under-18 football team|under-18]] and [[Scotland national under-19 football team|under-19]] level in 2012 before establishing himself as a regular in [[Scotland national under-21 football team|Scotland under-21]] squads.&lt;ref&gt;{{cite web |url=http://www.fitbastats.com/scotlandu21/player.php?playerid=545|title=Scotland U21 player Callum Paterson |website=FitbaStats|accessdate=28 October 2018}}&lt;/ref&gt;
+
+On 10 November 2014, manager [[Gordon Strachan]] called Paterson into the [[Scotland national football team|senior Scottish squad]] for the first time after [[Phil Bardsley]] pulled out of the squad injured, ahead of a European qualifier against the [[Republic of Ireland national football team|Republic of Ireland]] and a friendly against [[England national football team|England]].&lt;ref&gt;{{cite news|title=Hearts defender Callum Paterson called up by Scotland|url=https://www.bbc.co.uk/sport/0/football/29989566|accessdate=10 November 2014|work=BBC Sport|date=10 November 2014}}&lt;/ref&gt;
+
+He made his senior debut for Scotland on 29 May 2016 in a 1–0 friendly defeat against [[Italy national football team|Italy]].
+
+==Career statistics==
+{{updated|match played 2 March 2019}}&lt;ref&gt;{{cite web | url=https://int.soccerway.com/players/callum-paterson/256154/ | title=C Paterson | publisher=Soccerway | work=uk.soccerway.com | accessdate=4 August 2012}}&lt;/ref&gt;
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+! rowspan=2 | Club
+! rowspan=2 | Season
+! colspan=3 | League
+! colspan=2 | Domestic Cup
+! colspan=2 | [[League Cup]]
+! colspan=2 | Other
+! colspan=2 | Total
+|-
+! Division
+! App
+! Goals
+! App
+! Goals
+! App
+! Goals
+! App
+! Goals
+! App
+! Goals
+|-
+| rowspan=6 | [[Heart of Midlothian F.C.|Heart of Midlothian]]
+|[[2012–13 Heart of Midlothian F.C. season|2012–13]]&lt;ref&gt;{{soccerbase season|65785|2012|accessdate=4 August 2012}}&lt;/ref&gt;
+|[[Scottish Premier League]]
+|22||3||1||0||2||1||2&lt;ref group=lower-alpha name="UEL"&gt;Appearances in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||0||27||4
+|-
+|[[2013–14 Heart of Midlothian F.C. season|2013–14]]&lt;ref&gt;{{soccerbase season|65785|2013|accessdate=4 August 2012}}&lt;/ref&gt;
+|[[Scottish Premiership]]
+|37||11||1||0||4||0||0||0||42||11
+|-
+|[[2014–15 Heart of Midlothian F.C. season|2014–15]]&lt;ref&gt;{{soccerbase season|65785|2014|accessdate=4 August 2012}}&lt;/ref&gt;
+|[[Scottish Championship]]
+|29||6||1||0||1||0||1&lt;ref group=lower-alpha name="SSC"&gt;Appearance in the [[Scottish Challenge Cup]]&lt;/ref&gt;||1||32||7
+|-
+|[[2015–16 Heart of Midlothian F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|65785|2015|accessdate=4 August 2012}}&lt;/ref&gt;
+|rowspan="2"|[[Scottish Premiership]]
+|29||5||3||1||4||1||0||0||36||7
+|-
+|[[2016–17 Heart of Midlothian F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|65785|2016|accessdate=4 August 2012}}&lt;/ref&gt;
+|20||8||0||0||1||1||0||0||21||9
+|-
+!colspan=2|Hearts total
+!137!!33!!6!!1!!12!!3!!3!!1!!158!!38
+|-
+|rowspan=3|[[Cardiff City F.C.|Cardiff City]]
+|[[2017–18 Cardiff City F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|65785|2017|accessdate=4 August 2012}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|32||10||3||0||0||0||0||0||35||10 
+|-
+|[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|65785|2018|accessdate=1 August 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|26||4||1||0||1||0||0||0||28||4 &lt;!-- Update the totals below as well.--&gt;
+|-
+!colspan=2|Cardiff City total
+!58!!14!!4!!0!!1!!0!!0!!0!!63!!14
+|-
+!colspan=3|Career total
+!195!!47!!10!!1!!13!!3!!3!!1!!221!!52
+|}
+{{reflist|group=lower-alpha}}
+
+==Honours==
+'''Heart of Midlothian'''
+*[[Scottish Championship]]: [[2014–15 Scottish Championship|2014–15]]
+
+'''Cardiff City'''
+*[[EFL Championship]] runner-up: [[2017–18 EFL Championship|2017–18]]&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Football Yearbook 2018–2019 |year=2018 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-6106-9 |pages=106–107}}&lt;/ref&gt;
+
+'''Individual'''
+*[[Heart of Midlothian F.C.|Heart of Midlothian]] Young Player of the Year: [[2016–17 Heart of Midlothian F.C. season|2016–17]]&lt;ref name=YPLOY&gt;{{cite web |url=https://www.thescottishsun.co.uk/sport/football/908426/jamie-walker-or-callum-paterson-find-out-who-picked-up-hearts-player-of-the-year-gong/ |title=PAT ON THE BACK? Jamie Walker or Callum Paterson? Find out who picked up Hearts' Player of the Year gong |work=[[The Scottish Sun]] |date=23 April 2017 |accessdate=23 April 2017}}&lt;/ref&gt;
+*[[Cardiff City F.C.|Cardiff City]] Young Player of the Year: [[2017–18 Cardiff City F.C. season|2017–18]]
+
+==See also==
+* [[List of Scotland international footballers born outside Scotland]]
+
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Twitter}}
+
+{{Cardiff City F.C. Squad}}
+
+{{DEFAULTSORT:Paterson, Callum}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Scottish footballers]]
+[[Category:Scotland youth international footballers]]
+[[Category:Heart of Midlothian F.C. players]]
+[[Category:Scottish Premier League players]]
+[[Category:Footballers from Greater London]]
+[[Category:Sportspeople from Edinburgh]]
+[[Category:Association football utility players]]
+[[Category:Scotland under-21 international footballers]]
+[[Category:Scottish Professional Football League players]]
+[[Category:People educated at Queensferry High School]]
+[[Category:Scotland international footballers]]
+[[Category:Scottish people of South African descent]]
+[[Category:Scottish people of Zimbabwean descent]]
+[[Category:Cardiff City F.C. players]]
+[[Category:English Football League players]]
+[[Category:Association football fullbacks]]
+[[Category:Association football midfielders]]
+[[Category:Association football forwards]]
+[[Category:Premier League players]]
+[[Category:Anglo-Scots]]</text>
+      <sha1>hnkzqd7andeo8rdqzxibykgjrvymg4j</sha1>
+    </revision>
+  </page>
+</mediawiki>

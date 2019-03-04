@@ -1,0 +1,325 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Patrick van Aanholt</title>
+    <ns>0</ns>
+    <id>23918527</id>
+    <revision>
+      <id>885843300</id>
+      <parentid>885734524</parentid>
+      <timestamp>2019-03-02T18:21:44Z</timestamp>
+      <contributor>
+        <username>Eagleash</username>
+        <id>17699731</id>
+      </contributor>
+      <comment>updating</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24761">{{EngvarB|date=April 2013}}
+{{Use dmy dates|date=April 2013}}
+{{Infobox football biography
+| fullname = Patrick John Miguel van Aanholt&lt;ref&gt;{{cite web |title=Squads for 2016/17 Premier League confirmed |url=https://www.premierleague.com/news/84136 |publisher=Premier League |date=1 September 2016 |accessdate=15 September 2016}}&lt;/ref&gt;
+| image = Van Aanholt in 2016 (cropped).jpg
+| image_size = 
+| caption = Van Aanholt in 2016
+| birth_date = {{Birth date and age|1990|8|29|df=yes}}
+| birth_place = [['s-Hertogenbosch]], Netherlands
+| height = 1.77 m&lt;ref&gt;{{cite web |url= http://www.premierleague.com/en-gb/players/profile.html/patrick-van-aanholt |title= Premier League Player Profile Patrick van Aanholt |author=&lt;!--Staff writer(s); no by-line.--&gt; |year= 2015 |publisher= Premier League |accessdate= 15 January 2015}}&lt;/ref&gt;
+| position = [[Full back (association football)|Left back]]
+| currentclub = [[Crystal Palace F.C.|Crystal Palace]]
+| clubnumber = 3
+| youthclubs1 = [[FC Den Bosch]]
+| youthclubs2 = [[PSV Eindhoven|PSV]]
+| youthyears1 = 2003–2005
+| youthyears2 = 2005–2007
+| clubs1 = [[Chelsea F.C.|Chelsea]]
+| clubs2 = → [[Coventry City F.C.|Coventry City]] (loan)
+| years1 = 2009–2014
+| years2 = 2009–2010
+| caps1 = 2
+| caps2 = 20
+| goals1 = 0
+| goals2 = 0
+| nationalteam1 = Netherlands U16
+| nationalteam2 = [[Netherlands national football team|Netherlands U17]]
+| nationalyears1 = 2005–2006
+| nationalyears2 = 2006–2007
+| nationalcaps1 = 7
+| nationalcaps2 = 17
+| nationalgoals1 = 0
+| nationalgoals2 = 6
+| youthyears3 = 2007–2009
+| youthclubs3 = [[Chelsea F.C.|Chelsea]]
+| years3 = 2010
+| clubs3 = → [[Newcastle United F.C.|Newcastle United]] (loan)
+| caps3 = 7
+| goals3 = 0
+| years4 = 2011
+| clubs4 = → [[Leicester City F.C.|Leicester City]] (loan)
+| caps4 = 12
+| goals4 = 1
+| years5 = 2011
+| clubs5 = → [[Wigan Athletic F.C.|Wigan Athletic]] (loan)
+| caps5 = 3
+| goals5 = 0
+| years6 = 2012–2014
+| clubs6 = → [[SBV Vitesse|Vitesse]] (loan)
+| caps6 = 83
+| goals6 = 7
+| years7 = 2014–2017
+| clubs7 = [[Sunderland A.F.C.|Sunderland]]
+| caps7 = 82
+| goals7 = 7
+| years8 = 2017–
+| clubs8 = [[Crystal Palace F.C.|Crystal Palace]]
+| caps8 = 68
+| goals8 = 8
+| nationalyears3 = 2007–2008
+| nationalteam3 = Netherlands U18
+| nationalcaps3 = 2
+| nationalgoals3 = 0
+| nationalyears4 = 2008–2009
+| nationalteam4 = [[Netherlands national football team|Netherlands U19]]
+| nationalcaps4 = 8
+| nationalgoals4 = 1
+| nationalyears5 = 2010
+| nationalteam5 = Netherlands U20
+| nationalcaps5 = 1
+| nationalgoals5 = 0
+| nationalyears6 = 2010–2013
+| nationalteam6 = [[Netherlands U-21 national football team|Netherlands U21]]
+| nationalcaps6 = 16
+| nationalgoals6 = 0
+| nationalyears7 = 2013–
+| nationalteam7 = [[Netherlands national football team|Netherlands]]
+| nationalcaps7 = 9
+| nationalgoals7 = 0
+| pcupdate = 18:21, 2 March 2019 (UTC)
+| nationalteam-update = 16 October 2018
+}}
+
+'''Patrick John Miguel van Aanholt''' (born 29 August 1990) is a Dutch professional [[Association football|footballer]] who plays as a [[Full back (association football)|left back]] for [[Premier League]] club [[Crystal Palace F.C.|Crystal Palace]].
+
+He began his professional career at [[Chelsea F.C.|Chelsea]], where he was used sparingly, spending time on loan at five other clubs. He joined [[Sunderland A.F.C.|Sunderland]] for around £1.5&amp;nbsp;million in 2014 and was transferred to Crystal Palace in January 2017, for a fee rising to £14&amp;nbsp;million.
+
+Van Aanholt represented the Netherlands at numerous youth levels before making his [[Netherlands national football team|full international]] debut in 2013.
+
+==Personal life==
+Van Aanholt was born in [['s-Hertogenbosch]] to parents from [[Curaçao]]. He is the cousin of fellow Dutch international [[Leroy Fer]], who currently plays for [[Swansea City A.F.C.|Swansea City]].&lt;ref&gt;{{cite web|url=http://www.kilburntimes.co.uk/sport/football/queens-park-rangers/qpr_midfielder_leroy_fer_looking_forward_to_facing_cousin_against_sunderland_1_3746231|title=QPR midfielder Leroy Fer looking forward to facing cousin against Sunderland|first=Rob|last=Brennan}}&lt;/ref&gt;
+
+==Club career==
+
+[[File:Patrick van Aanholt 4740.jpg|thumbnail|left|Van Aanholt playing for [[Chelsea F.C.|Chelsea]] in 2010.|alt=|250x250px]]
+
+===Chelsea===
+Van Aanholt joined [[Chelsea F.C.|Chelsea]]'s youth ranks in 2007, making his professional debut while on loan at [[Coventry City F.C.|Coventry City]] on 9 August 2009 in a 2–1 [[Football League Championship]] win over [[Ipswich Town F.C.|Ipswich Town]].&lt;ref&gt;{{cite web | url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/8187233.stm | title=Coventry 2–1 Ipswich | publisher=BBC Sport | date=9 August 2009 | accessdate=7 August 2010}}&lt;/ref&gt; He was later recalled to Chelsea in December due to the exit of many players due to the [[African Nations Cup]].
+
+Van Aanholt was first selected for Chelsea in an [[FA Cup]] tie away to [[Preston North End F.C.|Preston North End]] in the [[FA Cup 2009–10|2009–10]] edition of the Cup, wearing the squad number 52, but did not make an appearance, remaining on the bench. He made his Chelsea debut on 24 March 2010 in a 0–5 away win at [[Portsmouth F.C.|Portsmouth]], replacing [[Yuri Zhirkov]] at left-back after 71 minutes.&lt;ref&gt;{{cite news|title=Portsmouth 0–5 Chelsea|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8580687.stm|accessdate=8 August 2014|publisher=[[BBC Sport]]|date=24 March 2010}}&lt;/ref&gt; He then made his home debut, on 27 March 2010, against [[Aston Villa F.C.|Aston Villa]] in a 7–1 victory, again as a substitute.&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/9/england/2010/03/27/1852127/premier-league-player-ratings-chelsea-7-1-aston-villa|title=Premier League Player Ratings: Chelsea 7–1 Aston Villa |date=27 March 2010}}&lt;/ref&gt; On 29 January 2010, Van Aanholt joined [[Newcastle United F.C.|Newcastle United]] on a one-month loan deal after regular left back [[José Enrique (footballer)|José Enrique]] suffered an injury. He provided cover for the Spaniard, sustaining Newcastle's productive left flank alongside [[Jonás Gutiérrez]]. Van Aanholt played his last game in the 1–2 away victory at [[Watford F.C.|Watford]].
+
+Van Aanholt scored his first career goal on 22 September 2010 in the 4–3 defeat to former club Newcastle in the [[2010–11 Football League Cup|League Cup]].&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/report?id=307975&amp;cc=5739|archiveurl=https://web.archive.org/web/20100926130707/http://soccernet.espn.go.com/report?id=307975&amp;cc=5739|archivedate=26 September 2010|title=Ameobi sends Chelsea crashing out|date=22 September 2010|work=ESPN Soccernet|accessdate=2010-12-08}}&lt;/ref&gt; On 26 January 2011, he joined [[Leicester City F.C|Leicester City]] on loan until the end of the season.&lt;ref&gt;{{cite web |url=http://www.skysports.com/story/0,19528,11668_6703047,00.html | title=Foxes clinch Van Aanholt loan |work=Sky Sports | date=26 January 2011 |accessdate=26 January 2011}}&lt;/ref&gt; He made his debut in a 1–0 win over [[Sheffield United F.C.|Sheffield United]] on 1 February 2011,&lt;ref name="Sheff Utd   0 - 1   Leicester"&gt;{{cite news|title = Sheff Utd 0 – 1 Leicester|url = http://news.bbc.co.uk/sport2/hi/football/eng_div_1/9379936.stm|publisher = BBC Sport|date = 1 February 2011|accessdate = 1 March 2011}}&lt;/ref&gt; and suffered a torn muscle in his thigh at the end of the month after playing six games.&lt;ref name="Leicester's Patrick van Aanholt set to miss a month"&gt;{{cite news|title = Leicester's Patrick van Aanholt set to miss a month|url = http://news.bbc.co.uk/sport2/hi/football/teams/l/leicester_city/9410062.stm|publisher = BBC Sport|date = 28 February 2011|accessdate = 1 March 2011}}&lt;/ref&gt; Van Aanholt scored his first senior league goal in a 4–0 victory over [[Burnley F.C.|Burnley]] on 9 April 2011.&lt;ref name="Report: Leicester City 4 Burnley 0"&gt;{{cite news|title = Leicester City vs Burnley|url = http://www.lcfc.com/page/MatchReport/0,,10274~52285,00.html|archiveurl = https://web.archive.org/web/20110413061448/http://www.lcfc.com/page/MatchReport/0,,10274~52285,00.html|archivedate = 13 April 2011|publisher = Leicester City F.C.|date = 9 April 2011|accessdate = 9 April 2011}}&lt;/ref&gt;
+
+On transfer deadline day, 31 August 2011, Van Aanholt signed for [[Wigan Athletic F.C.|Wigan Athletic]] on a season-long loan deal.&lt;ref&gt;{{cite web|url=http://uk.eurosport.yahoo.com/31082011/58/spl-wigan-sign-maloney-celtic.html|title=Yahoo UK &amp; Ireland – Sports News – Live Scores – Results}}&lt;/ref&gt; Van Aanholt's loan spell, originally a season-long arrangement, was later terminated by mutual consent between all three parties. During this uneventful loan spell, Van Aanholt played three league matches and one League Cup tie for the ''Latics'', but did not feature in their first team after 1 October.&lt;ref&gt;{{cite news|url=http://www.chelseafc.com/news-article/article/2568792|title=Chelsea FC:Latest News|date=1 October 2011|accessdate=6 July 2014}}&lt;/ref&gt;
+
+====Vitesse (loan spells)====
+[[File:Patrick van Aanholt (2012).jpg|left|thumb|207x207px|Van Aanholt with [[SBV Vitesse|Vitesse]] in 2012.]]
+On 6 January 2012, Van Aanholt returned to Chelsea during a season-long loan at Wigan. Nine days later, he signed for Dutch club [[SBV Vitesse|Vitesse]] on loan until the end of the season, alongside fellow Chelsea teammates [[Tomáš Kalas]] and [[Ulises Dávila]]. On 11 July 2012, Van Aanholt rejoined Vitesse on a new loan deal for the [[2012–13 Eredivisie|2012–13 season]].&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news-article/article/2841591|title=VITESSE LOANS FOR YOUNG PAIR}}&lt;/ref&gt; On 7 July 2013, the Vitesse loan deal was extended for the [[2013–14 Eredivisie|2013–14 season]]. He made his first start of the [[2013–14 Vitesse season|2013–14 season]] in a 1–1 first leg draw away at [[FC Petrolul Ploiești|Petrolul Ploiești]] in the [[UEFA Europa League]], a match in which he was booked in the 86th minute.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2014/matches/round=2000467/match=2012363/index.html|title=UEFA Europa League 2013/14 – History – Petrolul-Vitesse – UEFA|last=uefa.com}}&lt;/ref&gt; He went on to start eight of the next nine league fixtures for Vitesse,&lt;ref&gt;{{cite web|url=http://www.soccerbase.com/players/player.sd?player_id=51881&amp;season_id=143|title=Patrick van Aanholt – Football Stats – Crystal Palace – Season 2013/2014 – Soccer Base|website=soccerbase.com}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.soccerbase.com/teams/team.sd?team_id=2692&amp;teamTabs=results&amp;season_id=143|title=Latest Vitesse Arn. Results, Fixtures &amp; Betting Odds – Soccer Base|website=soccerbase.com}}&lt;/ref&gt; including earning an assist in a 1–1 draw at [[Roda JC Kerkrade|Roda JC]].&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2013/08/17/netherlands/eredivisie/roda-jc/sbv-vitesse/1478352/|title=Roda JC vs. Vitesse – 17 August 2013 – Soccerway}}&lt;/ref&gt;
+
+On 7 December 2013, Van Aanholt netted Vitesse's fifth goal in a 2–6 away victory over [[PSV Eindhoven|PSV]], keeping Vitesse at the top of the [[Eredivisie]] table.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/25287088 |title=Vitesse Arnhem hammered PSV Eindhoven to keep their place at the top of the Dutch table. |publisher=BBC Sport |date=7 December 2013 |accessdate=9 December 2013 }}&lt;/ref&gt;
+
+===Sunderland===
+[[File:Patrick van Aanholt in 2015 (cropped).jpg|alt=|thumb|278x278px|Van Aanholt playing for [[Sunderland A.F.C.|Sunderland]] in 2015.]]
+
+====2014–15 season====
+On 25 July 2014, Van Aanholt left Chelsea and signed for [[Sunderland A.F.C.|Sunderland]] for an undisclosed fee, believed to be between £1.5–2&amp;nbsp;million, on a four-year contract.&lt;ref&gt;{{cite news|title=Sunderland sign Patrick van Aanholt from Chelsea|url=http://www1.skysports.com/football/news/11095/9394844/transfer-news-sunderland-sign-patrick-van-aanholt-from-chelsea|publisher=Sky Sports|date=25 July 2014|accessdate=25 July 2014}}&lt;/ref&gt; He made his competitive debut on 16 August as Sunderland began their [[Premier League]] campaign away to [[West Bromwich Albion F.C.|West Bromwich Albion]], assisting [[Sebastian Larsson]] for the final goal of a 2–2 draw.&lt;ref&gt;{{cite news|last1=Strickland|first1=Jamie|title=West Brom 2–2 Sunderland|url=https://www.bbc.co.uk/sport/0/football/28718388|accessdate=25 August 2014|publisher=[[BBC Sport]]|date=16 August 2014}}&lt;/ref&gt; On 3 November, as Sunderland won 1–3 at [[Crystal Palace F.C.|Crystal Palace]]; Van Aanholt set up the opening goal for [[Steven Fletcher (footballer)|Steven Fletcher]], but was later stretchered off in the first-half with a shoulder injury and replaced by [[Wes Brown]].&lt;ref&gt;{{cite news|title=Patrick van Aanholt: Sunderland defender injures shoulder|url=https://www.bbc.co.uk/sport/0/football/29890554|accessdate=3 November 2014|publisher=BBC Sport|date=3 November 2014}}&lt;/ref&gt; Van Aanholt scored his first goal for Sunderland on his return from injury on 4 January 2015, the only goal in an [[FA Cup]] third round win over [[Leeds United F.C.|Leeds United]].&lt;ref&gt;{{cite news|last1=Williams|first1=Adam|title=Sunderland 1–0 Leeds|url=https://www.bbc.co.uk/sport/0/football/30614387|accessdate=4 January 2015|publisher=BBC Sport}}&lt;/ref&gt;
+
+====2015–16 season====
+On 28 November 2015, Van Aanholt scored the first goal in a 2–0 at home to [[Stoke City F.C.|Stoke City]].&lt;ref&gt;{{cite news|title=Sunderland 2–0 Stoke|url=https://www.bbc.co.uk/sport/football/34887488|publisher=BBC Sport|date=4 January 2015}}&lt;/ref&gt; He scored his second of the season on 16 January 2016, where he gave Sunderland the lead against [[Tottenham Hotspur F.C.|Tottenham Hotspur]], although Sunderland would go on to lose 4–1.&lt;ref&gt;{{cite news|title=Spurs 4–1 Sunderland|url=https://www.bbc.co.uk/sport/football/35270647|publisher=BBC Sport}}&lt;/ref&gt; His third of the season came the following week, on 23 January 2016, where he scored the equaliser in a 1–1 draw at home to [[A.F.C. Bournemouth|AFC Bournemouth]].&lt;ref&gt;{{cite news|title=Sunderland 1–1 Bournemouth|url=https://www.bbc.co.uk/sport/football/35330994|publisher=BBC Sport}}&lt;/ref&gt; He scored his fourth goal of the season when he opened the scoring with a 25-yard free-kick in a 3–0 win against [[Everton F.C.|Everton]]. The result sealed Sunderland's Premier League safety, and relegated local rivals Newcastle United, along with [[Norwich City F.C.|Norwich City]].&lt;ref&gt;{{cite news|title=Sunderland 3–0 Everton|url=https://www.bbc.co.uk/sport/football/35733486|publisher=BBC Sport}}&lt;/ref&gt;
+
+On 8 June 2016, Van Aanholt put pen to paper, signing a new four-year deal, keeping him at the club until the year 2020.&lt;ref&gt;{{cite web|url=https://twitter.com/SunderlandAFC/status/740528862627520512?ref_src=twsrc%5Etfw |title=Van Aanholt signs new deal |accessdate=8 June 2016|work=Sunderland's Official Twitter|date=8 June 2016}}{{Primary source inline|date=January 2018}}&lt;/ref&gt;
+[[File:Patrick van Aanholt in 2017 (cropped).jpg|left|thumb|286x286px|Van Aanholt playing for [[Crystal Palace F.C.|Crystal Palace]] in 2017.]]
+
+====2016–17 season====
+On 13 August 2016, in the opening game of the season, Van Aanholt conceded an early penalty, as Sunderland fell to a 2–1 defeat at [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36994521 |title= Manchester City 2–1 Sunderland|publisher = BBC Sport}}&lt;/ref&gt; He scored his first goal of the [[2016–17 Premier League|season]] on 21 August 2016 in a 1–2 Premier League defeat to [[Middlesbrough F.C.|Middlesbrough]]&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37075121 |title=Sunderland 1–2 Middlesbrough|publisher = BBC Sport}}&lt;/ref&gt; On 1 October, he came off the bench to score a late equaliser in a 1–1 draw at home to West Brom.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37459853 |title=Sunderland 1–1 West Bromwich Albion|publisher = BBC Sport}}&lt;/ref&gt; Van Aanholt scored his third goal of the season on 17 December to give Sunderland a 1–0 home win against Watford.&lt;ref&gt;{{cite web|url=http://www.scoresway.com/?sport=soccer&amp;page=match&amp;id=2241925 |title=SUNDERLAND VS WATFORD 1–0}}&lt;/ref&gt;
+
+===Crystal Palace===
+On 30 January 2017, it was confirmed that Van Aanholt had moved to [[Crystal Palace F.C.|Crystal Palace]] on a four-and-a-half-year deal for an initial fee of £9&amp;nbsp;million, rising to £14&amp;nbsp;million, rejoining his former Sunderland manager [[Sam Allardyce]]. He was given the number 3 shirt.&lt;ref&gt;{{cite news|last=Muro|first=Giuseppe|title=Allardyce gets Van Aanholt but he's still in the market|date=30 January 2017|work=London Evening Standard|page= 63|location =London UK}}&lt;/ref&gt;
+
+Van Aanholt made his first appearance for the Eagles in a 2–0 win at [[A.F.C. Bournemouth|Bournemouth]] on 31 January.&lt;ref&gt;{{cite news|url=https://www.cpfc.co.uk/news/2017/february/van-aanholt-we-were-solid--compact/|title=Van Aanholt: We Were Solid &amp; Compact|date=1 February 2017|work=Crystal Palace Football Club}}&lt;/ref&gt; His home debut, a 0–4 loss to former club Sunderland at [[Selhurst Park]], came four days later.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2017/feb/04/crystal-palace-sunderland-premier-league-match-report|title=Sunderland's Jermain Defoe heaps misery on broken Crystal Palace|date=5 February 2017|work=The Guardian}}&lt;/ref&gt;
+
+On 25 February 2017, Van Aanholt scored his first goal for Crystal Palace; the only goal of a 1–0 victory against relegation rivals [[Middlesbrough F.C.|Middlesbrough]].&lt;ref&gt;{{Cite news|url=https://www.theguardian.com/football/2017/feb/25/crystal-palace-middlesbrough-premier-league-match-report|title=Crystal Palace out of drop zone after Patrick van Aanholt goal sinks Boro|date=26 February 2017|work=The Guardian}}&lt;/ref&gt;
+
+==International career==
+On 19 November 2013, Van Aanholt won his first senior cap for the [[Netherlands national football team|Netherlands]] in a friendly match against [[Colombia national football team|Colombia]], coming on in injury time for [[Memphis Depay]] in a 0–0 draw at the [[Amsterdam Arena]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/friendlies/season=2014/matches/round=2000374/match=2013101/postmatch/report/ |title=Netherlands cling on against Colombia |publisher=UEFA |date=19 November 2013 |accessdate=9 December 2013 }}&lt;/ref&gt;
+
+In September 2017, Van Aanholt was called up to the [[Curaçao national football team]] for a friendly against [[Qatar national football team|Qatar]], but he did not make an appearance.&lt;ref&gt;{{cite web|url=http://www.football-oranje.com/van-aanholt-called-curacao/|title=Van Aanholt Called Up by Curacao - Football Oranje|date=26 September 2017|publisher=}}&lt;/ref&gt; As all his international appearances for Netherlands had been in friendly matches, he was still eligible to represent Curaçao.&lt;ref&gt;{{cite web|url=http://www.football-oranje.com/van-aanholt-called-curacao/|title=Van Aanholt Called Up by Curacao - Football Oranje|date=26 September 2017|publisher=}}&lt;/ref&gt;
+
+He was included in [[Ronald Koeman]]’s first starting line up when [[Dutch national football team|Holland]] took on [[England national football team|England]] on March 23, 2018 in a friendly international.&lt;ref&gt;{{cite web|url=https://www.cpfc.co.uk/news/2018/march/van-aanholt-wins-seventh-dutch-cap/|title=Van Aanholt Wins Seventh Netherlands Cap|publisher=}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 2 March 2019.}}&lt;ref&gt;{{cite news|url=http://www.soccerbase.com/players/player.sd?player_id=51881|title=Games played by Patrick van Aanholt|date=16 November 2013|accessdate=16 November 2013}}&lt;br /&gt;&lt;br /&gt;*League Only as Soccerbase don't count Dutch Cup and Europa League matches for whatever reason*&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://espnfc.com/player/_/id/138746/patrick-van-aanholt?cc=5739|title=Patrick van Aanholt Appearances|date=16 November 2013|accessdate=16 November 2013}}&lt;br /&gt;&lt;br /&gt;*Listed ESPNFC ref as it shows he has indeed played in the Dutch Cup and Europa League*&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|-
+! colspan=3 | Club performance
+! colspan=2 | League
+! colspan=2 | Cup
+! colspan=2 | League Cup
+! colspan=2 | Continental
+! colspan=2 | Total
+|-
+! Season !! Club !! League
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+|-
+! colspan=3 | England
+! colspan=2 | League
+! colspan=2 | [[FA Cup]]
+! colspan=2 | [[Football League Cup|League Cup]]
+! colspan=2 | [[UEFA|Europe]]
+! colspan=2 | Total
+|-
+|[[Coventry City F.C. season 2009–10|2009–10]]||[[Coventry City F.C.|Coventry City]] (loan)||[[Football League Championship|Championship]]||20||0||0||0||0||0||0||0||20||0
+|-
+|[[2009–10 Newcastle United F.C. season|2009–10]]||[[Newcastle United F.C.|Newcastle United]] (loan)||Championship||7||0||0||0||0||0||0||0||7||0
+|-
+|[[Chelsea F.C. season 2009–10|2009–10]]||rowspan=2|[[Chelsea F.C.|Chelsea]]||rowspan=2|[[Premier League]]||2||0||0||0||0||0||0||0||2||0
+|-
+|[[Chelsea F.C. season 2010-11|2010–11]]||0||0||1||0||1||1||4||0||6||1
+|-
+|[[2010-11 Leicester City F.C. season|2010–11]]||[[Leicester City F.C.|Leicester City]] (loan)||Championship||12||1||0||0||0||0||0||0||12||1
+|-
+|[[2011–12 Wigan Athletic F.C. season|2011–12]]||[[Wigan Athletic F.C.|Wigan Athletic]] (loan)||Premier League||3||0||0||0||1||0||0||0||4||0
+|-
+|-
+! colspan=3 | Netherlands
+! colspan=2 | League
+! colspan=2 | [[KNVB Cup]]
+! colspan=2 | League Cup
+! colspan=2 | [[UEFA|Europe]]
+! colspan=2 | Total
+|-
+|[[2011–12 Eredivisie|2011–12]]||rowspan=3|[[SBV Vitesse|Vitesse]] (loan)||rowspan=3|[[Eredivisie]]||9||0||1||0||colspan=2| — ||colspan=2| — ||10||0
+|-
+|[[2012–13 Eredivisie|2012–13]]||31||1||4||0||colspan=2| — ||4||1||39||2
+|-
+|[[2013–14 Eredivisie|2013–14]]||29||4||3||1||colspan=2| — ||2||0||34||5
+|-
+! colspan=3 | England
+! colspan=2 | League
+! colspan=2 | [[FA Cup]]
+! colspan=2 | League Cup
+! colspan=2 | [[UEFA|Europe]]
+! colspan=2 | Total
+|-
+|[[2014–15 Sunderland A.F.C. season|2014–15]]||rowspan=3|[[Sunderland A.F.C|Sunderland]]||rowspan=3|Premier League||28||0||4||1||1||0||colspan=2| — ||33||1
+|-
+|[[2015–16 Sunderland A.F.C. season|2015–16]]|||33||4||1||0||2||0||colspan=2| — ||36||4
+|-
+|[[2016–17 Sunderland A.F.C. season|2016–17]]|||21||3||2||0||3||0||colspan=2| — ||26||3
+|-
+! colspan=3 | Sunderland total
+!82||7||7||1||6||0||0||0||95||8
+|-
+|[[2016–17 Crystal Palace F.C. season|2016–17]]||rowspan=3|[[Crystal Palace F. C.|Crystal Palace]]||rowspan=3|Premier League||11||2||0||0||0||0||colspan=2| — ||11||2
+|-
+|[[2017–18 Crystal Palace F.C. season|2017–18]]
+|28||5||1||0||3||0||colspan=2| — ||32||5
+|-
+|[[2018–19 Crystal Palace F.C. season|2018–19]]
+|29||1||2||0||1||1||colspan=2| — ||32||2
+|-
+! colspan=3 | Crystal Palace total
+!68||8||3||0||4||1||0||0||75||9
+|-
+! colspan=3 | Career total
+!263||21||19||2||12||2||10||1||304||26
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Patrick van Aanholt}}
+* {{Soccerbase}}
+* [https://www.vi.nl/spelers/patrick-van-aanholt/profiel Patrick van Aanholt] at ''[[Voetbal International]]'' {{nl icon}}
+* {{ESPN FC|138746/patrick-van-aanholt}}
+* {{Webarchive |url=https://web.archive.org/web/20141217100008/http://www.onsoranje.nl/team-statistieken/teams/speler/22/4f8c4268-2a74c715-018736 |title=Netherlands U17 profile at OnsOranje }}
+* {{Webarchive |url=https://web.archive.org/web/20141217100235/http://www.onsoranje.nl/team-statistieken/teams/speler/20/4f8c4268-2a74c715-018736 |title=Netherlands U19 profile at OnsOranje }}
+* {{Webarchive |url=https://web.archive.org/web/20120922000521/http://onsoranje.nl/team-statistieken/teams/speler/25/4f8c4268-2a74c715-018736 |title=Netherlands U21 profile at OnsOranje }}
+
+{{Crystal Palace F.C. squad}}
+
+{{DEFAULTSORT:Aanholt, Patrick Van}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from 's-Hertogenbosch]]
+[[Category:Dutch footballers]]
+[[Category:Netherlands youth international footballers]]
+[[Category:Netherlands under-21 international footballers]]
+[[Category:Association football fullbacks]]
+[[Category:Chelsea F.C. players]]
+[[Category:Coventry City F.C. players]]
+[[Category:Newcastle United F.C. players]]
+[[Category:Leicester City F.C. players]]
+[[Category:Wigan Athletic F.C. players]]
+[[Category:SBV Vitesse players]]
+[[Category:Sunderland A.F.C. players]]
+[[Category:Crystal Palace F.C. players]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:Eredivisie players]]
+[[Category:Netherlands international footballers]]
+[[Category:Dutch expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Dutch expatriate sportspeople in England]]
+[[Category:Dutch people of Curaçao descent]]</text>
+      <sha1>i3e7u7vs5vyii9gm7rvyky2f0bhyrq0</sha1>
+    </revision>
+  </page>
+</mediawiki>

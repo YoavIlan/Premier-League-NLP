@@ -1,0 +1,398 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Riyad Mahrez</title>
+    <ns>0</ns>
+    <id>41586458</id>
+    <revision>
+      <id>885938633</id>
+      <parentid>885938479</parentid>
+      <timestamp>2019-03-03T08:42:48Z</timestamp>
+      <contributor>
+        <username>GiantSnowman</username>
+        <id>1005449</id>
+      </contributor>
+      <minor/>
+      <comment>update - match played 2 March 2019</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="48424">{{Use dmy dates|date=April 2018}}
+{{Infobox football biography
+|name           = Riyad Mahrez
+|image          = Algérie - Arménie - 20140531 - Riyad Mahrez.jpg
+|image_size     = 200
+|caption        = Mahrez lining up for [[Algeria national football team|Algeria]] in 2014
+|fullname       = Riyad Karim Mahrez&lt;ref name="2017 Africa Cup of Nations Squad List - Algeria"&gt;{{cite web
+| title = 2017 Africa Cup of Nations Squad List – Algeria | url = http://www.cafonline.com/Portals/0/Total%20AFCON%202016/CAN%20Gabon%20Squad%20lists.pdf | publisher = CAF
+| format = PDF
+| accessdate = 10 January 2017}}&lt;/ref&gt;
+|birth_date     = {{birth date and age|1991|2|21|df=y}}&lt;ref name=PremProfile/&gt;
+|birth_place    = [[Sarcelles]], France
+|height         = 1.79 m&lt;ref name=PremProfile/&gt;
+|position       = [[Midfielder#Winger|Winger]]
+|currentclub    = [[Manchester City F.C.|Manchester City]]
+|clubnumber     = 26
+|youthyears1    = 2004–2009
+|youthclubs1    = AAS Sarcelles
+|years1         = 2009–2010
+|clubs1         = [[Quimper Kerfeunteun F.C.|Quimper]]
+|caps1          = 27
+|goals1         = 1
+|years2         = 2010–2013
+|clubs2         = [[Le Havre AC|Le Havre II]]
+|caps2          = 60
+|goals2         = 24
+|years3         = 2011–2014
+|clubs3         = [[Le Havre AC|Le Havre]]
+|caps3          = 60
+|goals3         = 6
+|years4         = 2014–2018
+|clubs4         = [[Leicester City F.C.|Leicester City]]
+|caps4          = 158
+|goals4         = 42
+|years5         = 2018–
+|clubs5         = [[Manchester City F.C.|Manchester City]]
+|caps5          = 22
+|goals5         = 6
+|nationalyears1 = 2014–
+|nationalteam1  = [[Algeria national football team|Algeria]]
+|nationalcaps1  = 43
+|nationalgoals1 = 10
+|club-update    = 08:42, 3 March 2019 (UTC)
+|ntupdate       = 18:33, 18 November 2018 (UTC)
+}}
+'''Riyad Karim Mahrez''' ({{lang-ar|رياض كريم محرز}}; born 21 February 1991) is a professional [[association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for {{English football updater|ManchesC}} club [[Manchester City F.C.|Manchester City]] and the [[Algeria national football team|Algerian national team]].
+
+Mahrez began his career as a youth player for French club AAS Sarcelles. He turned professional in 2009 with [[Quimper Kerfeunteun F.C.|Quimper]], where he played for only one season before moving to [[Le Havre AC|Le Havre]], spending a total of three years with them, initially playing for their reserve team and then becoming a first-team regular. In January 2014, Mahrez signed for English side [[Leicester City F.C.|Leicester City]], helping them win the [[EFL Championship|Championship]] and promotion to the Premier League at the end of his first season. In the 2015–16 season he was the [[Algerian Footballer of the Year]], the [[PFA Players' Player of the Year]], and was a member of the Premier League [[PFA Team of the Year]] as he helped Leicester City win the [[2015–16 Premier League|Premier League]].
+
+Born in France, Mahrez made his international debut for [[Algeria national football team|Algeria]] in 2014 and represented them at the [[2014 FIFA World Cup]] and both the [[2015 Africa Cup of Nations|2015]] and [[2017 Africa Cup of Nations|2017]] [[Africa Cup of Nations]]. In 2016 he was named [[Confederation of African Football|CAF]]'s [[African Footballer of the Year]].
+
+==Early life==
+Mahrez was born in [[Sarcelles]], France, to an Algerian father and a mother of Algerian and Moroccan descent.&lt;ref&gt;{{cite web|url=http://www.djazairess.com/fr/letemps/140838|title=Riyad Mahrez : "On a une équipe capable de faire de belles choses"|date=10 January 2015|accessdate=6 March 2016|language=French|publisher=DjaZairess}}&lt;/ref&gt; His father Ahmed was from [[Beni Snous]], [[Tlemcen District]].&lt;ref&gt;{{cite web|url=http://www.lebuteur.com/article/detail?id=33412|title=Mahrez honoré à Tlemcen|date=4 June 2015|accessdate=28 January 2016|language=French|publisher=El Heddaf}}&lt;/ref&gt; Growing up, Mahrez would regularly spend his holidays in Algeria.&lt;ref&gt;{{cite web|url=http://www.lebuteur.com/article/detail?id=4572&amp;titre=comment-la-faf-a-chipe-mahrez-au-maroc|title=Comment la FAF a chipé Mahrez au Maroc|date=9 May 2014|accessdate=10 June 2014|language=French|publisher=Le Buteur}}&lt;/ref&gt;&lt;ref name=doyle&gt;{{cite web|url=https://www.theguardian.com/football/2015/sep/12/leicester-city-riyad-mahrez-father-dream-algeria-world-cup|title=Leicester City's Riyad Mahrez is fast fulfilling his late father's dreams|date=12 September 2015|accessdate=14 September 2015|author=Paul Doyle|publisher=The Guardian}}&lt;/ref&gt; His childhood friends included fellow footballers such as [[Wissam Ben Yedder]].&lt;ref&gt;{{cite news|title=Ben Yedder's unquestionable self-belief driving him to reach new heights|url=https://www.uefa.com/insideuefa/about-uefa/news/newsid=2518566.html|accessdate=23 November 2017|publisher=UEFA|date=12 December 2017}}&lt;/ref&gt;
+
+Mahrez's father had played football in Algeria.&lt;ref name=doyle/&gt; When Mahrez was fifteen, his father died of a heart attack. He reflected that "I don't know if I started to be more serious but after the death of my dad things started to go for me. Maybe in my head, I wanted it more".&lt;ref name=doyle/&gt;
+
+==Club career==
+
+===Early career===
+Although often overlooked by teams due to his slender build, Mahrez developed ball skills that brought him attention.&lt;ref name=doyle/&gt;
+
+He joined AAS Sarcelles in 2004.&lt;ref name = "journey"&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/35688719|title=Riyad Mahrez: Leicester forward's journey to top of Premier League|date=10 March 2016|accessdate=10 March 2016|author=Steve Crossman|publisher=BBC Sport}}&lt;/ref&gt;
+
+In 2009, Mahrez joined [[Championnat de France amateur|CFA]] side [[Quimper Kerfeunteun F.C.|Quimper]] from AAS Sarcelles, making 22 appearances and scoring 2 goals in his first season with the club.&lt;ref name="Quimper"&gt;{{cite web|url=http://stat2foot.com/qrclubs/quimper0910.htm |language=French |title=QUIMPER 17e CFA Groupe D |publisher=Stat2foot.com |accessdate=11 January 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140111075652/http://stat2foot.com/qrclubs/quimper0910.htm |archivedate=11 January 2014 }}&lt;/ref&gt; While playing for Quimper he lived with [[Mathias Pogba]].&lt;ref name = "journey"/&gt;
+
+He joined [[Le Havre AC|Le Havre]] in 2010, turning down offers from leading French teams [[Paris Saint-Germain]] and [[Olympique de Marseille|Marseille]] to join them, being enticed by their youth system.&lt;ref name=doyle/&gt; He initially played for their reserve team, Le Havre II, before going on to play 60 times and score 6 goals for the first team in the French [[Ligue 2]] from 2011 until leaving in January 2014.&lt;ref name = "SW"/&gt;&lt;ref&gt;{{LFP|id=mahrez-riyad|name=Riyad Mahrez}}&lt;/ref&gt; He criticised Ligue 2 for what he saw as a reliance on defence and teams aiming for a goalless draw in every match.&lt;ref name=doyle/&gt;
+
+===Leicester City===
+[[File:Riyad Mahrez.jpg|thumb|right|Mahrez playing for Leicester in 2014]]
+[[File:Mahrez free kick 1 (16476351346).jpg|thumb|303px|Mahrez taking a free kick away to [[Arsenal F.C.|Arsenal]] in February 2015.]]
+
+====2013–14 season====
+While Mahrez was playing for Le Havre, English [[EFL Championship|Championship]] club [[Leicester City F.C.|Leicester City]]'s scout [[Steve Walsh (scout)|Steve Walsh]] was monitoring teammate [[Ryan Mendes]], but was instead impressed by Mahrez.&lt;ref&gt;{{cite news|title=Leicester City star Riyad Mahrez not target of original scouting mission says head of recruitment|url=http://www.leicestermercury.co.uk/Riyad-target-scouting-mission/story-28029571-detail/story.html|accessdate=26 April 2016|work=Leicester Mercury|date=22 October 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20151129020313/http://www.leicestermercury.co.uk/Riyad-target-scouting-mission/story-28029571-detail/story.html|archivedate=29 November 2015|df=}}&lt;/ref&gt; Mahrez had never heard of Leicester, whom he initially presumed to be a rugby club.&lt;ref&gt;{{cite news|last1=Brewin|first1=Joe|title=Riyad Mahrez: The street-schooled dreamer whose ambition knew no limits|url=http://www.fourfourtwo.com/features/riyad-mahrez-street-schooled-dreamer-whose-ambition-knew-no-limits|accessdate=1 September 2016|work=FourFourTwo|date=25 April 2016}}&lt;/ref&gt; On 11 January 2014, he signed a three-and-a-half-year contract.&lt;ref&gt;{{cite web|url=http://www.lcfc.com/news/article/110114-riyad-mahrez-signs-for-leicester-city-1287938.aspx|title=Riyad Mahrez Signs For Leicester City|date=11 January 2014|accessdate=11 January 2014|publisher=Leicester City F.C.}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/25639726|title=Transfer window: Riyad Mahrez joins Leicester from Le Havre|date=11 January 2014|accessdate=13 January 2014|publisher=BBC Sport}}&lt;/ref&gt; His friends and family were initially sceptical of a move to English football due to its physical nature, believing that his style of play would be more suited to Spain.&lt;ref name=doyle/&gt;
+
+Mahrez made his debut on 25 January 2014, coming on in the 79th minute as a substitute replacing fellow winger [[Lloyd Dyer]], in the 2–0 win against [[Middlesbrough F.C.|Middlesbrough]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/25789370|title=Leicester 2&amp;nbsp;– 0 Middlesbrough|date=25 January 2014|accessdate=25 January 2014|publisher=BBC Sport}}&lt;/ref&gt; After making four substitute appearances for Leicester, including scoring his first goal for the club, an 82nd-minute equaliser against [[Leicester City F.C.–Nottingham Forest F.C. rivalry|local rivals]] [[Nottingham Forest F.C.|Nottingham Forest]], manager Nigel Pearson announced in February 2014 that he thought Mahrez was ready to start games.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/26278839|title=Riyad Mahrez: Nigel Pearson says winger ready to start games|date=21 February 2014|accessdate=23 February 2014|publisher=BBC Sport}}&lt;/ref&gt; Leicester ended [[2013–14 Football League Championship|the season]] as winners of the Championship, returning to the Premier League for the first time in ten years.&lt;ref name=champ&gt;{{cite news|title=Leicester City promoted to Premier League after 10-year absence|url=https://www.bbc.co.uk/sport/0/football/26906091|accessdate=20 December 2015|publisher=BBC Sport|date=5 April 2014}}&lt;/ref&gt;
+
+====2014–15 season====
+Mahrez made his Premier League debut on 16 August 2014, and scored his first goal in the division on 4 October 2014 in a 2–2 draw with [[Burnley F.C.|Burnley]].&lt;ref name = "SB"/&gt;&lt;ref&gt;{{cite web|url=http://www.leicestermercury.co.uk/Leicester-City-news-Unknown-Riyad-Mahrez-making/story-23059629-detail/story.html|title='Unknown' Riyad Mahrez making impressive strides, says Nigel Pearson|date=8 October 2014|accessdate=16 October 2014|publisher=Leicester Mercury|deadurl=yes|archiveurl=https://web.archive.org/web/20141020150217/http://www.leicestermercury.co.uk/Leicester-City-news-Unknown-Riyad-Mahrez-making/story-23059629-detail/story.html|archivedate=20 October 2014|df=}}&lt;/ref&gt; Mahrez was part of the Leicester team that won seven of its final nine matches of the season to avoid relegation to the Football League. He scored both goals in a 2–0 defeat of [[Southampton F.C.|Southampton]] on 9 May&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/32561831|title=Leicester 2–0 Southampton}}&lt;/ref&gt; and ended [[2014–15 Leicester City F.C. season|the season]] with four goals and three assists from 30 appearances.&lt;ref&gt;{{cite news|url=http://m.premierleague.com/en-gb/players/playerprofile.html/riyad-mahrez|title=Riyad Mahrez|accessdate=20 December 2015|work=Premier League|deadurl=yes|archiveurl=https://web.archive.org/web/20151222111631/http://m.premierleague.com/en-gb/players/playerprofile.html/riyad-mahrez|archivedate=22 December 2015|df=}}&lt;/ref&gt;
+
+====2015–16 season====
+He signed a new four-year contract with Leicester in August 2015.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/33789418|title=Riyad Mahrez: Leicester City winger signs new contract|date=5 August 2015|accessdate=6 August 2015|publisher=BBC Sport}}&lt;/ref&gt; On 8 August 2015, Mahrez scored two goals in the season opener against [[Sunderland A.F.C.|Sunderland]] in a 4–2 home win.&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2015/08/08/england/premier-league/leicester-city-fc/sunderland-association-football-club/2043050/|title=Leicester City 4–2 Sunderland|date=8 August 2015|accessdate=10 August 2015|publisher=Soccerway}}&lt;/ref&gt; He was later described as the club's "match winner" by captain [[Wes Morgan]], following "superb form" which saw him score four goals in the first three games of the season.&lt;ref&gt;{{cite web|url=http://www.leicestermercury.co.uk/t-rely-Mahrez-time-ndash-Wes/story-27760222-detail/story.html|title=We can't rely on Riyad Mahrez all the time, says Wes Morgan|date=9 September 2015|accessdate=9 September 2015|publisher=Leicester Mercury|deadurl=yes|archiveurl=https://web.archive.org/web/20150911235806/http://www.leicestermercury.co.uk/t-rely-Mahrez-time-ndash-Wes/story-27760222-detail/story.html|archivedate=11 September 2015|df=}}&lt;/ref&gt;
+
+After scoring four goals in the opening four games of the 2015–16 season, Mahrez was nominated for the [[Premier League Player of the Month]] award.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/34216391|title=Andre Ayew &amp; Manuel Pellegrini win Premier League awards|date=11 September 2015|accessdate=13 September 2015|publisher=BBC Sport}}&lt;/ref&gt; By 3 November 2015, he had scored seven goals in 10 Premier League games.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/34709767|title=Riyad Mahrez wary of Leicester City's rising expectations|date=3 November 2015|accessdate=3 November 2015|publisher=BBC Sport}}&lt;/ref&gt; On 5 December, Mahrez scored a hat-trick as Leicester defeated [[Swansea City F.C.|Swansea City]] 3–0 to go top of the Premier League, putting him on ten league goals for the season and making him the first Algerian to score a [[List of Premier League hat-tricks|Premier League hat-trick]].&lt;ref&gt;{{cite news|last1=Pritchard|first1=Dafydd|title=Swansea 0–3 Leicester|url=https://www.bbc.co.uk/sport/0/football/34951743|accessdate=20 December 2015|publisher=BBC Sport|date=5 December 2015}}&lt;/ref&gt; Mahrez and his midfield partners [[Marc Albrighton]], [[N'Golo Kanté]] and [[Danny Drinkwater]] received plaudits for their part in Leicester's early season run of form,&lt;ref&gt;{{cite news|last1=Laurence|first1=Martin|title=Why Riyad Mahrez, and not Jamie Vardy, has been the player of the season so far|url=https://www.theguardian.com/football/who-scored-blog/2015/dec/08/riyad-mahrez-jamie-vardy-player-season-premier-league|accessdate=17 January 2016|work=The Guardian|date=8 December 2015}}&lt;/ref&gt; and manager [[Claudio Ranieri]] described Mahrez and forward [[Jamie Vardy]] as "priceless" ahead of the January transfer window.&lt;ref&gt;{{cite news|title=Jamie Vardy and Riyad Mahrez priceless – Claudio Ranieri|url=https://www.bbc.co.uk/sport/0/football/35098801|accessdate=17 January 2016|publisher=BBC Sport|date=15 December 2015}}&lt;/ref&gt;
+
+In January 2016 Mahrez's transfer value was said to have risen from £4.5 million to £30.1 million, ranking him among the top 50 most valuable players in Europe.&lt;ref&gt;{{cite web|title = Leicester City winger Riyad Mahrez ranked in top 50 most valuable players in Europe at nearly £30m|url = http://www.leicestermercury.co.uk/Leicester-City-winger-Riyad-Mahrez-ranked-50/story-28475654-detail/story.html|publisher = Leicester Mercury|date = 6 January 2016|accessdate = 7 February 2016}}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title = Leicester City: Why we are all rooting for the Foxes|url = https://www.bbc.com/sport/football/35480812|publisher = BBC Sport|date = 3 February 2016|accessdate = 7 February 2016}}&lt;/ref&gt; In the same year, Mahrez's popularity in his homeland led Leicester to have over almost three times as many [[Facebook]] fans in Algeria than in the UK.&lt;ref&gt;{{cite news|title=African players in the Premier League|url=https://www.bbc.co.uk/sport/football/35844104|accessdate=18 March 2016|publisher=BBC Sport|date=18 March 2016}}&lt;/ref&gt; The barbershop in Sarcelles that he frequented from his childhood became a destination for fans from as far as Belgium, desiring the same haircut.&lt;ref name="journey"/&gt;
+
+Mahrez was one of four Leicester players named in the [[PFA Team of the Year]] in April 2016,&lt;ref name = "PFATeam"&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36106596|title=PFA awards: Leicester and Spurs dominate Premier League team|date=21 April 2016|accessdate=21 April 2016|publisher=BBC Sport}}&lt;/ref&gt; and later that month he won the [[PFA Players' Player of the Year]] award.&lt;ref name = "PFAPlayer"&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36124713|title=Riyad Mahrez: Leicester City forward named PFA Player of the Year|date=25 April 2016|accessdate=25 April 2016|publisher=BBC Sport}}&lt;/ref&gt; He was the first African to earn the accolade.&lt;ref&gt;{{cite news|title=Bargain of the century Riyad Mahrez first African to win EPL player of the season|url=https://www.tvnz.co.nz/one-news/sport/football/bargain-century-riyad-mahrez-first-african-win-epl-player-season|accessdate=25 April 2016|agency=Associated Press|publisher=TVNZ|date=25 April 2016}}&lt;/ref&gt; When Leicester finished the season as champions, Mahrez became the first Algerian to win a Premier League medal.&lt;ref name = "PL"&gt;{{cite news|title=Leicester City: The ridiculous statistics|url=http://www.football365.com/news/leicester-city-the-ridiculous-statistics|accessdate=3 May 2016|publisher=Football 365|date=3 May 2016}}&lt;/ref&gt;
+
+====2016–17 season====
+{{Quote box |width=35% |align=right |quoted=1 |quote=I am fiercely ambitious and feel now is the time to move on to a new experience. I've always enjoyed a good relationship with the chairman and everyone at the club, and I hope I have been able to repay the faith shown to me by my performances and commitment on the pitch during my time here. |salign=right |source=— Mahrez speaking to ''[[The Guardian]]'' about his desire to leave Leicester City.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2017/may/30/riyad-mahrez-leicester-city-transfer-request-time-to-move-on |title=Riyad Mahrez asks to leave Leicester: 'I feel now is the time to move on' |date=30 May 2017 |accessdate=3 June 2017 |newspaper=theguardian}}&lt;/ref&gt;}}
+
+He signed a new four-year contract with Leicester in August 2016.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37112706|title=Riyad Mahrez: Leicester City winger signs new four-year deal|date=17 August 2016|accessdate=18 August 2016|publisher=BBC Sport}}&lt;/ref&gt; He was nominated for the [[2016 Ballon d'Or|Ballon d'Or]] in October 2016,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37748717|title=Ballon d'Or: Jamie Vardy, Riyad Mahrez, Gareth Bale &amp; Sergio Aguero on shortlist|date=24 October 2016|accessdate=29 October 2016|publisher=BBC Sport}}&lt;/ref&gt; finishing seventh.&lt;ref&gt;{{cite web|url=http://www.dzfoot.com/2016/12/12/ballon-dor-2016-ryad-mahrez-7e-95861.php|title=Ballon d'Or 2016 : Ryad Mahrez 7e !|date=12 December 2016|accessdate=12 December 2016|language=French|publisher=dzfoot.com}}&lt;/ref&gt; He won the [[BBC African Footballer of the Year]] award in December 2016.&lt;ref name = "BBCAfrican"&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/38210161|title=Riyad Mahrez wins BBC African Footballer of the Year 2016 award|date=12 December 2016|accessdate=12 December 2016|publisher=BBC Sport}}&lt;/ref&gt; Mahrez did not offer a big season especially with the decline in the level of Leicester much, but helped the team's arrival in the [[2016–17 UEFA Champions League#Quarter-finals|quarter-finals of the Champions League]] for the first time, scoring four goals and two assists.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/39275115|title=Leicester reach Champions League quarter-finals and threaten to defy logic again|date=15 March 2017|accessdate=3 June 2017|publisher=BBC Sport}}&lt;/ref&gt; On 6 May, Mahrez played his 100th Premier League game for Leicester, against [[Watford F.C.|Watford]], scoring in the process.&lt;ref&gt;{{cite web|url=https://fr.starafrica.com/football/articles/premier-league-36e-j-100e-match-et-6e-de-mahrez/|title=Premier League (36e J) : 100e match et 6e but de Mahrez !|date=8 May 2017|accessdate=3 June 2017|publisher=fr.starafrica.com}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.dzfoot.com/2017/05/06/angleterre-6e-but-de-mahrez-pour-sa-100e-en-pl-102774.php|title=Angleterre : 6e but de Mahrez pour sa 100e en PL|date=6 May 2017|accessdate=3 June 2017|publisher=dzfoot.com}}&lt;/ref&gt;
+
+====2017–18 season====
+At the end of the 2016–17 season, Mahrez announced that he wished to leave the club.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/40098443|title=Riyad Mahrez: Leicester forward releases statement asking to leave the club|date=30 May 2017|accessdate=30 May 2017|publisher=BBC Sport}}&lt;/ref&gt; Following the announcement, [[Arsenal F.C.|Arsenal]] manager [[Arsene Wenger]] stated his interest in signing Mahrez,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/40142219|title=Riyad Mahrez: Arsenal boss Arsene Wenger interested in Leicester winger|date=3 June 2017|accessdate=4 June 2017|publisher=BBC Sport}}&lt;/ref&gt; and Italian side [[A.S. Roma|Roma]] had a bid for Mahrez rejected in July 2017.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/40679721|title=Riyad Mahrez: Leicester reject Roma bid for Algeria winger|date=21 July 2017|accessdate=21 July 2017|publisher=BBC Sport}}&lt;/ref&gt; In August 2017 he spoke of his "focus" despite his uncertain future at the club.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/40911451|title=Riyad Mahrez: Algeria winger 'focused' despite uncertain future|date=12 August 2017|accessdate=22 August 2017|publisher=BBC Sport}}&lt;/ref&gt; The [[Algerian Football Federation]] reported on 31 August, the last day of the transfer window, that it had allowed him to leave the national team and travel quickly to Europe in order to complete his transfer to an interested club; this transfer did not materialise.&lt;ref&gt;{{cite web|url=http://www.faf.dz/mahrez-autorise-a-aller-officialiser-son-transfert-vers-son-nouveau-club/|title=Mahrez autorisé à aller officialiser son transfert vers son nouveau club|date=31 August 2017|accessdate=31 August 2017|publisher=Algerian Football Federation|language=French|deadurl=yes|archiveurl=https://web.archive.org/web/20170831042018/http://www.faf.dz/mahrez-autorise-a-aller-officialiser-son-transfert-vers-son-nouveau-club/|archivedate=31 August 2017|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Riyad Mahrez remains at Leicester despite being released from Algeria squad|url=https://www.bbc.co.uk/sport/football/41105659|date=1 September 2017|accessdate=6 October 2017|publisher=BBC Sport}}&lt;/ref&gt; In January 2018 he again asked for a transfer away from the club.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42875848|title=Riyad Mahrez: Leicester City winger hands in transfer request as Man City make bid|date=30 January 2018|accessdate=31 January 2018|author=Simon Stone|publisher=BBC Sport}}&lt;/ref&gt; After a move to [[Manchester City F.C.|Manchester City]] fell through,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42895613|title=Riyad Mahrez: Leicester will 'help' winger after Man City walk away from potential deal|date=1 February 2018|accessdate=6 February 2018|publisher=BBC Sport}}&lt;/ref&gt; Mahrez stopped attending training at Leicester.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42918406|title=Riyad Mahrez: Leicester forward misses training for fourth day|date=2 February 2018|accessdate=2 February 2018|author=Simon Stone|publisher=BBC Sport}}&lt;/ref&gt; His behaviour was criticised by commentator and former player [[Chris Sutton]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42953586|title=Riyad Mahrez: Leicester midfielder acting like 'big baby' since move fell through – Chris Sutton|date=6 February 2018|accessdate=6 February 2018|publisher=BBC Sport}}&lt;/ref&gt; Mahrez was critical about the "untrue assumptions" about his absence from the team,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/43001730|title=Riyad Mahrez: Leicester winger criticises 'untrue assumptions' about absence|date=9 February 2018|accessdate=12 February 2018|publisher=BBC Sport}}&lt;/ref&gt; and later thanked his teammates for their support.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/43331305|title=Riyad Mahrez: Leicester winger says team-mates stood by him|date=8 March 2018|accessdate=9 March 2018|publisher=BBC Sport}}&lt;/ref&gt;
+
+===Manchester City===
+On 10 July 2018, [[Manchester City F.C.|Manchester City]] confirmed the signing of Mahrez on a five-year contract. The transfer fee of £60m will also make Mahrez the [[List of most expensive association football transfers|most expensive African footballer]], and also Manchester City's most expensive signing and a record transfer fee received by [[Leicester City F.C.|Leicester City]].&lt;ref&gt;{{cite news|title=City sign Riyad Mahrez from Leicester|url=https://www.mancity.com/news/first-team/first-team-news/2018/july/man-city-sign-riyad-mahrez-leicester|accessdate=10 July 2018|work=|date=10 July 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/football/44709129?ns_mchannel=social&amp;ns_campaign=bbc_sport&amp;ns_source=facebook&amp;ns_linkname=sport |title=Riyad Mahrez: Manchester City sign winger from Leicester for £60m |publisher=bbc.com |date=10 July 2018 |accessdate=10 July 2018 }}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=City sign Riyad Mahrez from Leicester|url=https://www.mancity.com/news/first-team/first-team-news/2018/july/man-city-sign-riyad-mahrez-leicester|publisher=Manchester City F.C.|date=10 July 2018}}&lt;/ref&gt; He stated he wanted to win the Champions League with the club.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44809552|title=Riyad Mahrez: I want to win Champions League with Manchester City|date=12 July 2018|publisher=BBC Sport|accessdate=16 July 2018}}&lt;/ref&gt; He made his debut as a starter on 5 August, as City defeated Chelsea 2–0 to win the [[2018 FA Community Shield]] at [[Wembley Stadium]].&lt;ref name=shield&gt;{{cite news |last1=Bevan |first1=Chris |title=Chelsea 0&amp;ndash;2 Manchester City |url=https://www.bbc.co.uk/sport/football/44995783 |accessdate=5 August 2018 |publisher=BBC Sport |date=5 August 2018}}&lt;/ref&gt; On 22 September 2018, coming on as a substitute in the 61st minute Mahrez scored a brace for Citizens against [[Cardiff City F.C.|Cardiff City]], The first goal was his first with Manchester City.&lt;ref&gt;{{cite news |title=Riyad Mahrez double caps five-star Manchester City’s rout of Cardiff |url=https://www.theguardian.com/football/2018/sep/22/cardiff-manchester-city-premier-league-match-report |accessdate=16 November 2018 |publisher=BBC Sport |date=22 September 2018}}&lt;/ref&gt;
+
+On 29 October 2018, Mahrez scored the only goal for Manchester City in a 1–0 away victory against [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. He dedicated the goal to [[Vichai Srivaddhanaprabha]], the former owner of his previous club Leicester City, who had recently [[2018 Leicester City F.C. helicopter crash|died in a helicopter crash]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/46026701|title=Leicester helicopter crash: Riyad Mahrez dedicates Man City goal to Foxes owner|publisher=BBC Sport|date=29 October 2018|accessdate=6 November 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:Riyad Mahrez - 2014 World Cup.jpg|thumbnail|right|Mahrez playing for [[Algeria national football team|Algeria]] against [[Belgium national football team|Belgium]] at the [[2014 FIFA World Cup]].]]
+In November 2013, French-born Mahrez expressed his desire to represent [[Algeria national football team|Algeria]] internationally.&lt;ref&gt;{{cite web|url=http://www.dzfoot.com/news-14868-verts-riyad-mahrez-je-sais-que-je-peux-jouer-en-en.php |title=Riyad Mahrez "Je sais que je peux jouer en EN" |trans-title=Riyad Mahrez "I know that I can play in the national team" |language=French |date=11 November 2013 |accessdate=11 January 2014 |publisher=DZFoot |deadurl=yes |archiveurl=https://web.archive.org/web/20140112090928/http://www.dzfoot.com/news-14868-verts-riyad-mahrez-je-sais-que-je-peux-jouer-en-en.php |archivedate=12 January 2014 }}&lt;/ref&gt; He was called up to the provisional Algeria squad for the [[2014 FIFA World Cup]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/27374742|title=World Cup 2014: Nabil Bentaleb in Algeria's 30-man squad|date=12 May 2014|accessdate=12 May 2014|publisher=BBC Sport}}&lt;/ref&gt; On 31 May 2014, Mahrez made his international debut for the ''Desert Foxes'' as a starter in a pre-World Cup friendly match against [[Armenia national football team|Armenia]], and he was subsequently called up to the full squad for the tournament on 2 June.&lt;ref&gt;{{cite web|url=http://www.lcfc.com/news/article/020614-world-cup-beckons-for-mahrez-1592375.aspx|title=World Cup Beckons For Mahrez|date=2 June 2014|accessdate=2 June 2014|publisher=Leicester City F.C.}}&lt;/ref&gt; The Algerian media were critical of his inclusion and alleged that he had paid manager [[Vahid Halilhodžić]] for a place in the squad.&lt;ref&gt;{{cite news|last1=Tironi|first1=Hrvoje|title=People accused Mahrez of giving me money to go to the World Cup! – Halilhodzic|url=http://www.goal.com/en-gb/news/2565/exclusive/2016/02/13/20291192/people-accused-mahrez-of-giving-me-money-to-go-to-the-world|accessdate=4 May 2016|publisher=Goal.com|date=13 February 2016}}&lt;/ref&gt;&lt;ref name=msn&gt;{{cite news|last1=Ouali|first1=Amer|title=Leicester City and Riyad Mahrez gaining fans in Algeria|url=http://www.msn.com/en-us/sports/premier-league/leicester-city-and-riyad-mahrez-gaining-fans-in-algeria/ar-BBq9qOz|accessdate=4 May 2016|agency=AFP|publisher=MSN|date=29 February 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160603102929/http://www.msn.com/en-us/sports/premier-league/leicester-city-and-riyad-mahrez-gaining-fans-in-algeria/ar-BBq9qOz|archivedate=3 June 2016|df=}}&lt;/ref&gt; Mahrez played in the opening group game against [[Belgium national football team|Belgium]], then was dropped for the remainder of the tournament, in which Algeria reached the last 16.&lt;ref name=msn/&gt;
+
+On 15 October 2014, Mahrez scored his first international goal, as well as setting up [[Islam Slimani]] in Algeria's 3–0, [[2015 Africa Cup of Nations qualification|Africa Cup of Nations]] qualifier against [[Malawi national football team|Malawi]].&lt;ref&gt;{{cite web|url=http://www.lcfc.com/news/article/151014-mahrez-stars-in-algeria-win-2017946.aspx|title=Mahrez Stars In Algeria Win|date=15 October 2014|accessdate=16 October 2014|publisher=Leicester City F.C.}}&lt;/ref&gt; In December 2014 he was announced as a member of Algeria's squad for the [[2015 Africa Cup of Nations|final tournament in Equatorial Guinea]] for the first time.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/30477709|title=Nations Cup 2015: Newcastle's Mehdi Abeid in Algeria squad|date=15 December 2014|accessdate=18 December 2014|publisher=BBC Sport}}&lt;/ref&gt; his first meeting was against [[South Africa national football team|South Africa]] where he participated in the 60 minutes before the change in the second throw against [[Ghana national football team|Ghana]] substitute in the last 20 minutes where the Algerian team were defeated by a single goal in their last game in the [[2015 Africa Cup of Nations Group C|group stage]] against [[Senegal national football team|Senegal]] led Mehrez the national team to the quarter-finals, scoring the first goal of a match ending 2–0.&lt;ref&gt;{{cite news|last1=Hughes|first1=Ian|title=Senegal 0–2 Algeria|url=https://www.bbc.co.uk/sport/0/football/30891881|accessdate=20 December 2015|publisher=BBC Sport|date=27 January 2015}}&lt;/ref&gt; then against [[Ivory Coast national football team|Ivory Coast]] gave assists for [[El Arabi Hillel Soudani]] were not enough to exclude from the quarter-finals 3–1.&lt;ref&gt;{{cite news|last1=Hughes|first1=Ian|title=Ivory Coast 3–1 Algeria|url=https://www.bbc.com/sport/football/30971819|accessdate=1 February 2015|publisher=BBC Sport|date=16 January 2017}}&lt;/ref&gt; then in the second Round of the [[2018 FIFA World Cup qualification – CAF Second Round|2018 World Cup qualifier]] against [[Tanzania national football team|Tanzania]] helped Mehrez in the team qualified for the [[2018 FIFA World Cup qualification – CAF Third Round|group stage]] where he scored a goal and assists for [[Carl Medjani]].&lt;ref&gt;{{cite news|last1=Hughes|first1=Ian|title=Algeria 7–0 Tanzania|url=http://www.dzfoot.com/2015/11/17/algerie-tanzanie-live-tweet-77327.php|accessdate=17 November 2015|publisher=DZfoot|date=16 January 2017}}&lt;/ref&gt;
+
+Mahrez was named in coach [[Georges Leekens]]' Algeria squad for the [[2017 Africa Cup of Nations]] in Gabon.&lt;ref&gt;{{cite news|title=Sofiane Feghouli left out of Algeria's final Africa Cup of Nations squad|url=https://www.bbc.com/sport/football/38479829|accessdate=15 January 2017|publisher=BBC Sport|date=31 December 2016}}&lt;/ref&gt; In their opening game, he scored both goals in a 2–2 draw with [[Zimbabwe national football team|Zimbabwe]]&lt;ref&gt;{{cite news|title=Algeria 2 2 Zimbabwe|url=https://www.bbc.com/sport/football/38545952|accessdate=15 January 2017|publisher=BBC Sport|date=15 January 2017}}&lt;/ref&gt; and was awarded Man of the Match.&lt;ref&gt;{{cite web|url=https://twitter.com/CAF_Online/status/820694598624362496|title=R. Mahrez has been selected as the Total Man of the Match! Well done!|publisher=Twitter|work=CAF|date=15 January 2017}}&lt;/ref&gt;
+
+In October 2017, with Algeria's chances of reaching the [[2018 FIFA World Cup]] already ended, Mahrez and his (at the time) Leicester teammate [[Islam Slimani]] were dropped from the national team, with coach [[Lucas Alcaraz]] selecting several new players.&lt;ref&gt;{{cite news|title=Algeria look to the future as Mahrez and Slimani are left out of World Cup qualifier|url=https://www.bbc.co.uk/sport/football/41455809|accessdate=6 October 2017|publisher=BBC Sport|date=1 October 2017}}&lt;/ref&gt; On 18 November 2018, in the [[2019 Africa Cup of Nations qualification|2019 Africa Cup of Nations qualifier]] Mahrez scored a brace in a 4–1 away victory against [[Togo national football team|Togo]], His first goal with the national team since [[2017 Africa Cup of Nations]] to lead Algeria to qualify for the [[2019 Africa Cup of Nations]].&lt;ref&gt;{{cite news|title=Afcon 2019: Mahrez brace helps Algeria qualify for Nations Cup|url=https://www.bbc.com/sport/football/46255664|accessdate=18 November 2018|publisher=BBC Sport|date=18 November 2018}}&lt;/ref&gt;
+
+==Personal life==
+Mahrez married his English girlfriend Rita Johal in 2015.&lt;ref name=doyle/&gt;&lt;ref&gt;{{cite web|title=Mais qui est Rita, la très jolie femme de Mahrez ?|url=http://www.sports.fr/football/angleterre/articles/rita-la-tres-jolie-femme-de-riyad-mahrez-1505289/|website=Sports.fr|accessdate=6 June 2016|language=French|date=30 April 2016}}&lt;/ref&gt; Their daughter was born later that year.&lt;ref&gt;{{cite news|last1=Percy|first1=John|title='Flying' Riyad Mahrez coming to terms with dramatic ascent and comparisons with Lionel Messi|url=https://www.telegraph.co.uk/sport/football/teams/leicester-city/12048440/Flying-Riyad-Mahrez-coming-to-terms-with-dramatic-ascent-and-comparisons-with-Lionel-Messi.html|accessdate=27 April 2016|work=The Daily Telegraph|date=13 December 2015}}&lt;/ref&gt;
+
+Mahrez is a practising Muslim.&lt;ref&gt;{{cite web|url=https://www.mirror.co.uk/sport/football/news/thriving-premier-league-shining-example-6842237|title=Thriving Premier League a shining example of multiculturalism in week of Paris terrorist attack|date=16 November 2015|accessdate=28 April 2016|author=Dave Kidd|publisher=Daily Mirror}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Duchâteau|first1=Romain|title=Riyad Mahrez, l'enfant chéri de Sarcelles|url=http://www.sofoot.com/riyad-mahrez-l-enfant-cheri-de-sarcelles-207264.html|accessdate=13 May 2016|publisher=SoFoot|date=29 August 2015|language=French}}&lt;/ref&gt; In June 2017, he made the [[Umrah]] pilgrimage to [[Mecca]].&lt;ref&gt;{{cite news|title=رياض محرز يؤدي مناسك العمرة في مكة المكرمة|url=https://arabic.cnn.com/sport/2017/06/12/mahrez-omrah-mecca-algeria|accessdate=13 June 2017|publisher=CNN|date=12 June 2017|language=Arabic}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 2 March 2019}}&lt;ref name = "Quimper"/&gt;&lt;ref name = "SW"&gt;{{Soccerway|riyad-mahrez/156662}}&lt;/ref&gt;&lt;ref name = "SB"&gt;{{soccerbase|74357|accessdate=27 January 2019}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.footballdatabase.eu/football.joueurs.riyad.mahrez.97374.fr.html| title = Riyad Mahrez | accessdate = 20 September 2016 | publisher = Footballdatabase}}&lt;/ref&gt;&lt;ref name = "NFT"/&gt;
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup&lt;ref group="lower-alpha"&gt;Includes the [[Coupe de France]] and [[FA Cup]]&lt;/ref&gt;
+!colspan="2"|League Cup&lt;ref group="lower-alpha"&gt;Includes the [[Coupe de la Ligue]] and [[EFL Cup|League Cup]]&lt;/ref&gt;
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Quimper Kerfeunteun F.C.|Quimper]]
+|[[2009–10 Championnat de France amateur|2009–10]]
+|rowspan=4| [[Championnat de France Amateurs|CFA]]
+||27||1||0||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||27||1
+|-
+|rowspan=4|[[Le Havre AC|Le Havre II]]
+|[[2010–11 Championnat de France amateur|2010–11]]
+||32||13||0||0||0||0||colspan="2"|—|| colspan="2" |—||32||13
+|-
+|[[2011–12 Championnat de France amateur|2011–12]]
+||25||11||0||0||0||0||colspan="2"|—|| colspan="2" |—||25||11
+|-
+|[[2012–13 Championnat de France amateur|2012–13]]
+||3||0||0||0||0||0||colspan="2"|—|| colspan="2" |—||3||0
+|-
+!colspan="2"|Total
+!60!!24!!0!!0!!0!!0!!colspan="2"|—!! colspan="2" |—!!60!!24
+|-
+|rowspan=4|[[Le Havre AC|Le Havre]]
+|[[2011–12 Le Havre AC season|2011–12]]
+|rowspan=3| [[Ligue 2]]
+||9||0||0||0||0||0||colspan="2"|—|| colspan="2" |—||9||0
+|-
+|[[2012–13 Le Havre AC season|2012–13]]
+||34||4||4||1||1||0||colspan="2"|—|| colspan="2" |—||39||5
+|-
+|[[2013–14 Le Havre AC season|2013–14]]
+||17||2||0||0||2||3||colspan="2"|—|| colspan="2" |—||19||5
+|-
+!colspan="2"|Total
+!60!!6!!4!!1!!3!!3!!colspan="2"|—!! colspan="2" |—!!67!!10
+|-
+|rowspan=6|[[Leicester City F.C.|Leicester City]]
+|[[2013–14 Leicester City F.C. season|2013–14]]
+|[[EFL Championship|Championship]]
+||19||3||0||0||0||0||colspan="2"|—|| colspan="2" |—||19||3
+|-
+|[[2014–15 Leicester City F.C. season|2014–15]]
+|rowspan=4| [[Premier League]]
+||30||4||1||0||1||0||colspan="2"|—|| colspan="2" |—||32||4
+|-
+|[[2015–16 Leicester City F.C. season|2015–16]]
+||37||17||0||0||2||1||colspan="2"|—|| colspan="2" |—||39||18
+|-
+|[[2016–17 Leicester City F.C. season|2016–17]]
+||36||6||2||0||0||0||9&lt;ref group="lower-alpha" name="UCL"&gt;All appearance(s) in [[UEFA Champions League]]&lt;/ref&gt;||4||1&lt;ref group="lower-alpha" name="CS"&gt;Appearance in [[FA Community Shield]]&lt;/ref&gt;||0||48||10
+|-
+|[[2017–18 Leicester City F.C. season|2017–18]]
+||36||12||3||0||2||1|| colspan="2" |—|| colspan="2" |—||41||13
+|-
+!colspan="2"|Total
+!158!!42!!6!!0!!5!!2!!9!!4!!1!!0!!179!!48
+|-
+|[[Manchester City F.C.|Manchester City]]
+|[[2018–19 Manchester City F.C. season|2018–19]]
+|Premier League
+||22||6||3||2||5||2||5&lt;ref group="lower-alpha" name="UCL"/&gt;||1||1&lt;ref group="lower-alpha" name="CS"/&gt;||0||36||11
+|-
+!colspan="3"|Career total
+!328!!80!!12!!2!!13!!7!!14!!5!!2!!0!!369!!94
+|}
+
+{{Reflist|group=lower-alpha}}
+
+===International===
+{{updated|match played 18 November 2018}}&lt;ref name = "NFT"&gt;{{NFT player|id=55595|accessdate=8 June 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+! colspan=3 | [[Algeria national football team|Algeria]]
+|-
+!Year!!Apps!!Goals
+|-
+|2014||9||2
+|-
+|2015||13||2
+|-
+|2016||5||2
+|-
+|2017||8||2
+|-
+|2018||8||2
+|-
+!Total||43||10
+|}
+
+===International goals===
+:''Scores and results list Algeria's goal tally first.''&lt;ref&gt;{{cite web|url=http://www.dzfoot.com/iframe_include/joueur_iframe.php?id=2100 |title=La fiche de Riyad Mahrez |publisher=DZFoot |accessdate=9 May 2015}}&lt;/ref&gt;
+
+{|class="wikitable"
+|-
+!Goal!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| 1. || 15 October 2014 || [[Mustapha Tchaker Stadium]], [[Blida]], Algeria || {{fb|MWI}} || align=center | '''2'''–0 || align=center | 3–0 || rowspan=2|[[2015 Africa Cup of Nations qualification]]
+|-
+| 2. || 15 November 2014 || [[Mustapha Tchaker Stadium]], [[Blida]], Algeria || {{fb|ETH}} || align=center | '''2'''–1 || align=center | 3–1
+|-
+| 3. || 27 January 2015 || [[Nuevo Estadio de Malabo|Nuevo Estadio]], [[Malabo]], Equatorial Guinea || {{fb|SEN}} || align=center | '''1'''–0 || align=center | 2–0|| [[2015 Africa Cup of Nations]]
+|-
+| 4. || 17 November 2015 || [[Mustapha Tchaker Stadium]], [[Blida]], Algeria || {{fb|TAN}} || align=center | '''3'''–0 || align=center | 7–0 || [[2018 FIFA World Cup qualification (CAF)|2018 FIFA World Cup qualification]]
+|-
+| 5. || rowspan=2 | 4 September 2016 || rowspan=2 | [[Mustapha Tchaker Stadium]], [[Blida]], Algeria || rowspan=2 | {{fb|LES}} || align=center | '''2'''–0 || rowspan=2 align=center | 6–0 || rowspan=2 | [[2017 Africa Cup of Nations qualification]]
+|-
+| 6. || align=center | '''6'''–0
+|-
+| 7. || rowspan=2 | 15 January 2017 || rowspan=2 | [[Stade de Franceville]], [[Franceville]], Gabon || rowspan=2 | {{fb|ZIM}} || align=center | '''1'''–0 || rowspan=2 align=center | 2–2 || rowspan=2 | [[2017 Africa Cup of Nations]]
+|-
+| 8. || align=center | '''2'''–2
+|-
+| 9. || rowspan=2 | 18 November 2018 || rowspan=2 | [[Stade Municipal (Lomé)|Stade Municipal]], [[Lomé]], Togo || rowspan=2 | {{fb|TOG}} || align=center | '''1'''–0 || rowspan=2 align=center | 4–1 || rowspan=2 | [[2019 Africa Cup of Nations qualification]]
+|-
+| 10. || align=center | '''3'''–0
+|}
+
+==Honours==
+'''Leicester City'''
+*[[Premier League]]: [[2015–16 Premier League|2015–16]]&lt;ref name=PremProfile&gt;{{cite web |url=https://www.premierleague.com/players/8983/Riyad-Mahrez/overview |title=Riyad Mahrez: Overview |publisher=Premier League |accessdate=4 October 2018}}&lt;/ref&gt;
+*[[EFL Championship|Football League Championship]]: [[2013–14 Football League Championship|2013–14]]&lt;ref name=champ/&gt;
+
+'''Manchester City'''
+*[[EFL Cup]]: [[2018–19 EFL Cup|2018–19]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/47268861 |title=Chelsea 0–0 Manchester City |first=Phil |last=McNulty |publisher=BBC Sport |date=24 February 2019 |accessdate=24 February 2019}}&lt;/ref&gt;
+*[[FA Community Shield]]: [[2018 FA Community Shield|2018]]&lt;ref name=shield/&gt;
+
+'''Individual'''
+&lt;!-- Facebook Football Awards should not be included, see talk page --&gt;
+*[[Algerian Footballer of the Year]]: 2015,&lt;ref&gt;{{cite web|url=http://www.lcfc.com/news/article/riyad-mahrez-named-algerian-footballer-of-the-year-2919607.aspx|title=Riyad Mahrez Named Algerian Footballer of the Year|date=25 January 2016|accessdate=25 January 2016|publisher=Leicester City F.C.}}&lt;/ref&gt; 2016&lt;ref&gt;{{cite web|url=http://www.lebuteur.com/article/detail?titre=mahrez-ballon-dor-el-heddaf-le-buteur-2016-video&amp;id=67670|title=Mahrez, Ballon d'Or El Heddaf – Le Buteur 2016 (Vidéo)|date=8 June 2017|accessdate=9 June 2017|publisher=lebuteur.com}}&lt;/ref&gt;
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Premier League 7|2015–16 Premier League]]&lt;ref name = "PFATeam"/&gt;
+*[[PFA Players' Player of the Year]]: [[PFA Players' Player of the Year|2015–16]]&lt;ref name = "PFAPlayer"/&gt;
+*[[PFA Fans' Player of the Year]]: [[PFA Fans' Player of the Year#2016|2016]]&lt;ref&gt;{{cite web|url=http://www.sportsmole.co.uk/football/leicester-city/news/mahrez-named-pfa-fans-player-of-the-season_272943.html|title=Leicester City's Riyad Mahrez named as PFA Fans' Player of the Season|date=17 May 2016|accessdate=20 May 2016|publisher=Sports Mole}}&lt;/ref&gt;
+*[[Leicester City F.C.|Leicester City Player of the Year]]: 2015–16&lt;ref&gt;{{Cite news|url=http://www.lcfc.com/news/article/riyad-mahrez-named-leicester-city-player-of-the-season-3107732.aspx|title=Riyad Mahrez Named Leicester City Player of the Season|last=City|first=Leicester|accessdate=30 December 2016}}&lt;/ref&gt;
+*[[BBC African Footballer of the Year]]: 2016&lt;ref name="BBCAfrican" /&gt;
+*[[Facebook Football Awards|Facebook FA Premier League Player of the Year : 2016]] &lt;ref&gt;{{Cite news|url=https://www.mirror.co.uk/sport/football/news/facebook-football-awards-riyad-mahrez-7930898|title=Facebook Football Awards: Which Leicester star wins player of the year?|last=Richards|first=Alex|date=9 May 2016|newspaper=mirror|accessdate=1 February 2017}}&lt;/ref&gt;
+*[[El Heddaf Arab Footballer of the Year]]: 2016&lt;ref&gt;{{Cite news|url=http://www.lebuteur.com/article/detail?titre=mahrez-joueur-arabe-de-lannee&amp;id=62109|title=Mahrez, joueur arabe de l'année|publisher=[[El Heddaf]]|date=26 December 2016|accessdate=}}&lt;/ref&gt;
+*Lion d'Or African Footballer of the Year: 2016&lt;ref&gt;{{Cite news|url=http://www.almountakhab.com/node/155838|title=رياض محرز يتوج بجائزة "الأسد الذهبي" لـ "المنتخب"|publisher=AlMountakhab official|date=1 January 2017|accessdate=}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.lebuteur.com/article/detail?id=62300&amp;titre=une-nouvelle-recompense-pour-mahrez|title=Une nouvelle récompense pour Mahrez|publisher=[[El Heddaf]]|date=1 January 2017|accessdate=}}&lt;/ref&gt;
+*[[CAF African Footballer of the Year]]: 2016&lt;ref&gt;{{cite web|url=https://www.lequipe.fr/Football/Actualites/Riyad-mahrez-elu-joueur-africain-de-l-annee-2016/766080|title=Riyad Mahrez élu Joueur africain de l'année 2016|date=5 January 2017|accessdate=6 January 2017|publisher=lequipe.fr}}&lt;/ref&gt;
+*[[CAF Team of the Year]]: 2016,&lt;ref&gt;{{cite web | url=http://www.cafonline.com/en-US/NewsCenter/News/NewsDetails?id=JjXA1yebDNx8I52tgKCOlg%3d%3d | title=CAF – CAF Awards – Previous Editions – 2016 | publisher=CAFOnline | accessdate=7 January 2017}}&lt;/ref&gt; 2018&lt;ref&gt;{{cite news|title=Salah and Mane Picked in First Africa Best 11 |url=https://fifpro.org/news/salah-mahrez-and-mane-in-first-africa-best-11/en/|publisher=FIFPro |date=8 January 2019|accessdate=8 January 2019}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.mancity.com/riyad-mahrez Riyaz Mahrez profile] at the Manchester City F.C. website
+*{{Soccerbase}}
+*{{leqstat|id=36911}}
+*{{FIFA player}}
+*{{UEFA player}}
+
+{{Manchester City F.C. squad}}
+{{Navboxes
+| title = Algeria squads
+| bg = white
+| fg = #52A937
+| bordercolor = #52A937
+| list1 = 
+{{Algeria squad 2014 FIFA World Cup}}
+{{Algeria squad 2015 Africa Cup of Nations}}
+{{Algeria squad 2017 Africa Cup of Nations}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2015–16 Premier League PFA Team of the Year}}
+{{Algerian Footballer of the Year}}
+{{BBC African Footballer of the Year}}
+{{African Footballer of the Year}}
+{{Leicester City F.C. Player of the Year}}
+{{PFA Players' Player of the Year}}
+{{PFA Fans' Player of the Year}}
+}}
+
+{{DEFAULTSORT:Mahrez, Riyad}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Algerian footballers]]
+[[Category:Algeria international footballers]]
+[[Category:French footballers]]
+[[Category:Algerian people of Moroccan descent]]
+[[Category:French people of Algerian descent]]
+[[Category:French people of Moroccan descent]]
+[[Category:Le Havre AC players]]
+[[Category:Ligue 2 players]]
+[[Category:Association football wingers]]
+[[Category:People from Sarcelles]]
+[[Category:Quimper Kerfeunteun F.C. players]]
+[[Category:Leicester City F.C. players]]
+[[Category:Manchester City F.C. players]]
+[[Category:English Football League players]]
+[[Category:Algerian expatriate footballers]]
+[[Category:Algerian expatriate sportspeople in England]]
+[[Category:French expatriate footballers]]
+[[Category:French expatriate sportspeople in England]]
+[[Category:Expatriate footballers in England]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:2015 Africa Cup of Nations players]]
+[[Category:2017 Africa Cup of Nations players]]
+[[Category:Premier League players]]
+[[Category:French Muslims]]
+[[Category:Algerian Muslims]]
+[[Category:Sportspeople from Val-d'Oise]]</text>
+      <sha1>q61woj3eg5vulo7hmctbuyk2m9dptxm</sha1>
+    </revision>
+  </page>
+</mediawiki>

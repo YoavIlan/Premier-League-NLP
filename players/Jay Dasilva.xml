@@ -1,0 +1,250 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jay Dasilva</title>
+    <ns>0</ns>
+    <id>52873705</id>
+    <revision>
+      <id>885838917</id>
+      <parentid>885252138</parentid>
+      <timestamp>2019-03-02T17:54:21Z</timestamp>
+      <contributor>
+        <username>LTFC 95</username>
+        <id>24768641</id>
+      </contributor>
+      <comment>Career statistics as of match played 2 March 2019</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17252">{{Use British English|date=July 2017}}
+{{Use dmy dates|date=July 2017}}
+{{Infobox football biography
+|name                = Jay Dasilva
+|image               = 
+|image_size          = 
+|caption             = 
+|fullname            = Jay Rhys Dasilva&lt;ref&gt;{{cite web |title=Premier League clubs publish retained lists |url=https://www.premierleague.com/news/408901 |publisher=Premier League |date=9 June 2017 |accessdate=22 July 2017}}&lt;/ref&gt;
+|birth_date          = {{birth date and age|1998|4|22|df=y}}&lt;ref name=11v11&gt;{{cite web |title=Jay Dasilva |url=https://www.11v11.com/players/jay-dasilva-253784/ |website=11v11.com |publisher=AFS Enterprises |accessdate=22 July 2017}}&lt;/ref&gt;
+|birth_place         = [[Luton]], England
+|height              = {{convert|1.70|m|order=flip}}&lt;ref name=11v11/&gt;
+|position            = [[Defender (association football)|Defender]]
+|currentclub         = [[Bristol City F.C.|Bristol City]]&lt;br /&gt;(on loan from [[Chelsea F.C.|Chelsea]])
+|clubnumber          = 3
+|youthyears1         = 2007–2012
+|youthclubs1         = [[Luton Town F.C.|Luton Town]]
+|youthyears2         = 2012–2016
+|youthclubs2         = [[Chelsea F.C.|Chelsea]]
+|years1              = 2016–
+|clubs1              = [[Chelsea F.C.|Chelsea]]
+|caps1               = 0
+|goals1              = 0
+|years2              = 2017
+|clubs2              = → [[Charlton Athletic F.C.|Charlton Athletic]] (loan)
+|caps2               = 10
+|goals2              = 0
+|years3              = 2017–2018
+|clubs3              = → [[Charlton Athletic F.C.|Charlton Athletic]] (loan)
+|caps3               = 38
+|goals3              = 0
+|years4              = 2018–
+|clubs4              = → [[Bristol City F.C.|Bristol City]] (loan)
+|caps4               = 18
+|goals4              = 0
+|nationalyears1      = 2012–2013
+|nationalteam1       = [[England national under-16 football team|England U16]]
+|nationalcaps1       = 4
+|nationalgoals1      = 0
+|nationalyears2      = 2013–2015
+|nationalteam2       = [[England national under-17 football team|England U17]]
+|nationalcaps2       = 21
+|nationalgoals2      = 1
+|nationalyears3      = 2015–2016
+|nationalteam3       = [[England national under-18 football team|England U18]]
+|nationalcaps3       = 4
+|nationalgoals3      = 0
+|nationalyears4      = 2016–2017
+|nationalteam4       = [[England national under-19 football team|England U19]]
+|nationalcaps4       = 15
+|nationalgoals4      = 0
+|nationalyears5      = 2017–
+|nationalteam5       = [[England national under-20 football team|England U20]]
+|nationalcaps5       = 4
+|nationalgoals5      = 0
+|nationalyears6      = 2018–
+|nationalteam6       = [[England national under-21 football team|England U21]]
+|nationalcaps6       = 7
+|nationalgoals6      = 0
+|club-update         = 17:54, 2 March 2019 (UTC)
+|nationalteam-update = 18:28, 16 October 2018 (UTC)
+}}
+'''Jay Rhys Dasilva''' (born 22 April 1998) is an English professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for {{English football updater|BristolC}} club [[Bristol City F.C.|Bristol City]], on [[Loan (sports)|loan]] from {{English football updater|Chelsea}} club [[Chelsea F.C.|Chelsea]], and the [[England national under-21 football team|England national under-21 team]].
+
+==Club career==
+===Chelsea===
+Dasilva joined Chelsea from [[Luton Town F.C.|Luton Town]] in 2012, aged just thirteen, along with his brothers Cole and Rio,&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/news/article-2088254/Jay-Rio-Cole-Dasilva-Footballing-brothers-aged-just-12-13-signed-Chelsea.html|title=Now that's a hat-trick! The three footballing brothers aged just 12 and 13 signed by Chelsea in deal that could net their club £1m|date=18 January 2012|accessdate=14 January 2017|newspaper=Daily Mail|location=London}}&lt;/ref&gt; and was quickly integrated into the club's youth setup, making his under-18 debut as an under-15 the following year. The following season, he made 23 appearances for the youth team, including scoring in the [[2013–14 FA Youth Cup]] final first leg against [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/sport/football/article-2615464/Fulham-3-Chelsea-2-Charly-Musondas-late-strike-boosts-Blues-Youth-Cup-final.html|title=Fulham 3 Chelsea 2: Charly Musonda's late strike boosts Blues in Youth Cup final|date=29 April 2014|accessdate=14 January 2017|newspaper=Daily Mail|location=London}}&lt;/ref&gt;
+
+During his second full season with the under-18s, Dasilva won the [[2014–15 FA Youth Cup]], as well as the [[2014–15 UEFA Youth League]], playing all but one game in the UEFA Youth League. He signed his first professional contract in July 2015,&lt;ref&gt;{{cite web|url=http://www.squawka.com/news/chelsea-sign-jay-dasilva-to-a-professional-contract/415188|title=Chelsea sign Jay Da Silva to a professional contract|date=10 July 2015|accessdate=14 January 2017|publisher=Squawka}}&lt;/ref&gt; having forced himself into Chelsea's under-21 side, where he established himself as a key player over the next year. He became one of the only players in history to win three [[FA Youth Cup]]s, alongside teammate [[Jake Clarke-Salter]] and five of the famed [[Busby Babes]], when he was part of the Chelsea side that lifted the [[2015–16 FA Youth Cup]].&lt;ref name="Chelsea Profile"&gt;{{cite web|url=http://www.chelseafc.com/teams/on-loan-players/jay-dasilva.html|title=Jay Dasilva|accessdate=14 January 2017|publisher=Chelsea F.C.}}&lt;/ref&gt; He was also a member of the Chelsea side that claimed the [[2015–16 UEFA Youth League]], however he was an unused substitute in the final victory against [[Paris Saint-Germain F.C.|PSG]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefayouthleague/season=2016/matches/round=2000699/match=2019575/index.html|title=Chelsea defeat Paris to retain Youth League title|date=18 April 2016|accessdate=14 January 2017|publisher=UEFA}}&lt;/ref&gt;
+
+====Charlton Athletic (loan)====
+On 30 December 2016, Dasilva was loaned to [[EFL League One|League One]] side [[Charlton Athletic F.C.|Charlton Athletic]].&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news/latest-news/2016/12/charlton-loan-move-for-dasilva.html|title=Charlton loan move for Dasilva|date=30 December 2016|accessdate=14 January 2017|publisher=Chelsea F.C.}}&lt;/ref&gt; He made his debut for ''The Addicks'' on 14 January 2017, coming on as a substitute for [[Lewis Page]] against [[Millwall F.C.|Millwall]]. He was brought on in the 28th minute, but was later substituted in the 80th minute of the game.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/38539095|title=Charlton Athletic 0–0 Millwall|date=14 January 2017|accessdate=14 January 2017|publisher=BBC Sport}}&lt;/ref&gt; On 4 April 2017, Dasilva was given his first start for Charlton by manager [[Karl Robinson]], in their 2–0 home defeat against [[Milton Keynes Dons F.C.|Milton Keynes Dons]], featuring for the entire 90 minutes.&lt;ref&gt;{{Cite news |title=Charlton Athletic 0–2 Milton Keynes Dons |url=https://www.bbc.co.uk/sport/football/39312460 |publisher=BBC Sport |date=4 April 2017 |accessdate=29 April 2017}}&lt;/ref&gt;
+
+On 21 July 2017, Dasilva signed a new contract with Chelsea until 2021 and rejoined Charlton Athletic for a second loan spell.&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news/latest-news/2017/07/new-deal-and-loan-for-dasilva.html|title=New deal and loan for Dasilva|date=21 July 2017|accessdate=21 July 2017|publisher=Chelsea F.C.}}&lt;/ref&gt;
+
+On 7 May 2018, Dasilva was voted the 2017–18 Fans Player of the Year.&lt;ref name="Charltonpoty"&gt;{{cite web|url=https://www.cafc.co.uk/news/view/5af08928d8cc1/jay-dasilva-named-201718-player-of-the-year|title=Jay Dasilva named 2017/18 Player of the Year|date=7 May 2018|accessdate=14 May 2018|publisher=Charlton Athletic F.C.}}&lt;/ref&gt;
+
+====Bristol City (loan)====
+
+On 9 August 2018, Dasilva joined [[Bristol City F.C.|Bristol City]] on a season long loan from Chelsea.&lt;ref&gt;[https://www.bcfc.co.uk/news/city-sign-chelsea-defender-dasilva/ City sign Chelsea defender Dasilva] [[Bristol City F.C.|Bristol City]]. 9 August 2018. Retrieved 9 August 2018.&lt;/ref&gt;
+
+==International career==
+Dasilva has represented England at [[England national under-16 football team|under-16]], [[England national under-17 football team|under-17]], [[England national under-18 football team|under-18]],&lt;ref name="FA Profile"&gt;{{cite web|url=http://www.thefa.com/england/all-teams/players?p=354511|title=Profile|accessdate=14 January 2017|publisher=The Football Association}}&lt;/ref&gt; [[England national under-19 football team|under-19]],&lt;ref&gt;{{cite web |title=England's matches: The under 19's: 2010–20 |url=http://www.englandfootballonline.com/MatchRsl/MatchRslTmU19pg2.html |website=England Football Online |publisher=Chris Goodwin, Glen Isherwood &amp; Peter Young |date=20 July 2018 |accessdate=11 August 2018}}&lt;/ref&gt; [[England national under-20 football team|under-20]]&lt;ref&gt;{{cite web |title=England's matches: The under 20's |url=http://www.englandfootballonline.com/MatchRsl/MatchRslTmU20.html |website=England Football Online |publisher=Chris Goodwin, Glen Isherwood &amp; Peter Young |date=28 March 2018 |accessdate=11 August 2018}}&lt;/ref&gt; and [[England national under-21 football team|under-21]] youth levels.&lt;ref&gt;{{cite web |title=England's matches: The under 21's: 2010–20 |url=http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg4.html |website=England Football Online |publisher=Chris Goodwin, Glen Isherwood &amp; Peter Young |date=9 June 2018 |accessdate=11 August 2018}}&lt;/ref&gt;
+
+He was called up to the England under-16 team shortly after joining Chelsea's youth ranks for a [[Victory Shield]] game against [[Scotland national under-16 football team|Scotland]].&lt;ref&gt;{{cite web|url=http://www.dunstabletoday.co.uk/sport/football/hatters/england-u16-call-for-chelsea-s-former-hatters-starlet-1-4530821 |title=England U16 call for Chelsea's former Hatters starlet |date=28 November 2012 |accessdate=5 May 2017 |publisher=Dunstable Today}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/20497968 |title=Phil Neville on the importance of the England youth team |date=28 November 2012 |accessdate=5 May 2017 |publisher=BBC Sport |author=Phil McNulty}}&lt;/ref&gt; He made 4 appearances in total at this age level.&lt;ref name="FA Profile"/&gt;
+
+He was later called up to the England under-17 team for [[2015 UEFA European Under-17 Championship qualification]] in 2014. He scored his first and only goal at this age group, described as a 'brilliant solo effort', in a 3–1 victory over [[France national under-17 football team|France]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/under17/news/newsid=2174257.html |title=England show champion form with France |date=30 October 2014 |accessdate=5 May 2017 |publisher=UEFA}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/sport/football/article-2814479/England-U17-3-1-France-U17-Chris-Willock-Patching-Jay-DaSilva-target-Young-Lions-make-three-wins-three.html |title=England U17 3–1 France U17: Chris Willock, Will Patching and Jay DaSilva on target as Young Lions make it three wins from three |date=30 October 2014 |accessdate=5 May 2017 |newspaper=Daily Mail|location=London}}&lt;/ref&gt; He maintained his place in the squad for [[2015 UEFA European Under-17 Championship|the full tournament]],&lt;ref&gt;{{cite web|url=http://www.thefa.com/news/2015/apr/22/england-u17s-squad-named-for-uefa-european-championship-in-bulgaria-220415 |title=John Peacock Names his England Under-17s Group |date=22 April 2015 |accessdate=5 May 2017 |work=The FA}}&lt;/ref&gt; and played in every game as England were knocked out by eventual semi-finalists [[Russia national under-17 football team|Russia]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/under17/season=2015/matches/round=2000665/match=2016633/postmatch/report/index.html#russia+england+reign |title=Tataev strikes as Russia end England reign |date=16 May 2015 |accessdate=5 May 2017 |publisher=UEFA}}&lt;/ref&gt; His last match for the under-17s came in a 0–0 draw with [[South Korea national under-17 football team|South Korea]] at the [[2015 FIFA U-17 World Cup]].&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/sport/football/article-3287392/England-U17-0-0-South-Korea-U17-Young-Lions-fail-seal-automatic-World-Cup-qualification.html |title=England U17 0–0 South Korea U17: Young Lions fail to seal automatic World Cup qualification with stalemate in Chile |date=24 October 2015 |accessdate=5 May 2017 |newspaper=Daily Mail |location=London}}&lt;/ref&gt;&lt;ref name="FA Profile"/&gt;
+
+In March 2017, Dasilva was called up to the England under-19 team for [[2017 UEFA European Under-19 Championship qualification]].&lt;ref&gt;{{cite web|url=http://www.thefa.com/home/news/2017/mar/16/england-under-19s-squad-160317 |title=Keith Downing Finalises Squad to Play Norway, Spain and Belarus at SGP |date=16 March 2017 |accessdate=5 May 2017 |work=The FA}}&lt;/ref&gt; In July 2017, Dasilva captained the England under-19 team to victory at the [[2017 UEFA European Under-19 Championship]].&lt;ref name="U19 Champion"&gt;{{cite web|title=European Under-19 Championship: England beat Portugal in final|url=https://www.bbc.co.uk/sport/football/40619862|publisher=BBC Sport|date=15 July 2017|accessdate=22 November 2017}}&lt;/ref&gt;
+
+==Playing style==
+After seeing him perform in the 2014–15 UEFA Youth League final against [[FC Shakhtar Donetsk|Shakhtar Donetsk]], former [[Arsenal F.C.|Arsenal]] striker and pundit [[Ian Wright]] claimed he was "better than any [current] Premier League left back".&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/sport/football/article-3038246/Ian-Wright-says-Chelsea-UEFA-Youth-League-winner-Jay-Dasilva-better-Premier-League-left-back.html|title=Chelsea UEFA Youth League winner Jay Dasilva is better than any Premier League left back, insists Arsenal legend Ian Wright|date=14 April 2015|accessdate=14 January 2017|newspaper=Daily Mail|location=London}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 2 March 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[Chelsea F.C.|Chelsea]]
+|[[2016–17 Chelsea F.C. season|2016–17]]&lt;ref name=sb1617/&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||colspan=2|—||0||0
+|-
+|[[2017–18 Chelsea F.C. season|2017–18]]&lt;ref name=sb1718/&gt;
+|Premier League
+|0||0||colspan=2|—||colspan=2|—||0||0||0||0
+|-
+|[[2018–19 Chelsea F.C. season|2018–19]]&lt;ref name=sb1819/&gt;
+|Premier League
+|0||0||colspan=2|—||colspan=2|—||0||0||0||0
+|-
+!colspan=2|Total
+!0!!0!!0!!0!!0!!0!!0!!0!!0!!0
+|-
+|[[Chelsea F.C. Reserves and Academy|Chelsea U23]]
+|2016–17&lt;ref name=sb1617/&gt;
+|colspan=3|—||colspan=2|—||colspan=2|—||2{{efn|Appearances in [[EFL Trophy]]}}||0||2||0
+|-
+|rowspan=3|[[Charlton Athletic F.C.|Charlton Athletic]] (loan)
+|[[2016–17 Charlton Athletic F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|83099|2016|accessdate=21 July 2017}}&lt;/ref&gt;
+|[[EFL League One|League One]]
+|10||0||colspan=2|—||colspan=2|—||colspan=2|—||10||0
+|-
+|[[2017–18 Charlton Athletic F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|83099|2017|accessdate=14 May 2018}}&lt;/ref&gt;
+|League One
+|38||0||2||0||1||0||3{{efn|One appearance in EFL Trophy, two in [[EFL League One play-offs|League One play-offs]]}}||0||44||0
+|-
+!colspan=2|Total
+!48!!0!!2!!0!!1!!0!!3!!0!!54!!0
+|-
+|[[Bristol City F.C.|Bristol City]] (loan)
+|[[2018–19 Bristol City F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|83099|2018|accessdate=2 March 2019}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|18||0||3||0||1||0||colspan=2|—||22||0
+|-
+!colspan=3|Career total
+!66!!0!!5!!0!!2!!0!!5!!0!!78!!0
+|}
+
+{{notelist}}
+
+==Honours==
+===Club===
+'''Chelsea Reserves'''&lt;ref name="Chelsea Profile"/&gt;
+*[[FA Youth Cup]]: [[2013–14 FA Youth Cup|2013–14]], [[2014–15 FA Youth Cup|2014–15]], [[2015–16 FA Youth Cup|2015–16]]
+*[[UEFA Youth League]]: [[2014–15 UEFA Youth League|2014–15]], [[2015–16 UEFA Youth League|2015–16]]
+
+===International===
+'''England'''
+*[[UEFA European Under-19 Championship]]: [[2017 UEFA European Under-19 Championship|2017]]&lt;ref name="U19 Champion"/&gt;
+
+===Individual===
+*[[Charlton Athletic F.C.|Charlton Athletic]] Fans' Player of the Year: 2017–18&lt;ref name="Charltonpoty"/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.chelseafc.com/teams/on-loan-players/jay-dasilva.html Jay Dasilva profile] at the Chelsea F.C. website
+*[http://www.thefa.com/england/all-teams/players?p=354511 Jay Dasilva profile] at the Football Association website
+*{{soccerbase|83099|Jay Dasilva}}
+
+{{Charlton Athletic F.C. Player of the Year}}
+{{Bristol City F.C. squad}}
+
+{{DEFAULTSORT:Dasilva, Jay}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Luton]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:Association football defenders]]
+[[Category:Chelsea F.C. players]]
+[[Category:Charlton Athletic F.C. players]]
+[[Category:Bristol City F.C. players]]
+[[Category:English Football League players]]</text>
+      <sha1>9s43qwynfb5vlpi41row1y315xh06zv</sha1>
+    </revision>
+  </page>
+</mediawiki>

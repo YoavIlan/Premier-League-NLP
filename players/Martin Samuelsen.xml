@@ -1,0 +1,265 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Martin Samuelsen</title>
+    <ns>0</ns>
+    <id>47308490</id>
+    <revision>
+      <id>884587867</id>
+      <parentid>884421729</parentid>
+      <timestamp>2019-02-22T16:46:03Z</timestamp>
+      <contributor>
+        <username>Lofoten1994</username>
+        <id>31473074</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14768">{{For|the Swedish ice hockey player|Martin Samuelsson}}
+{{Use British English|date=July 2015}}
+{{Use dmy dates|date=July 2015}}
+{{Infobox football biography
+|name        = Martin Samuelsen
+|image       = Martin Samuelsen.jpg
+|image_size  = 200
+|caption     = Samuelsen warming up for [[West Ham United F.C.|West Ham United]] in 2015
+|fullname    = Martin Samuelsen&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=18 February 2018}}&lt;/ref&gt;
+|birth_date  = {{birth date and age|df=y|1997|04|17}}&lt;ref name="SW"/&gt;
+|birth_place = [[Haugesund]], Norway
+| height     = 1.89 m&lt;ref&gt;{{cite web |url=http://www.premierleague.com/en-gb/players/profile.overview.html/martin-samuelson |title=Player Profile: Martin Samuelsen |accessdate=22 April 2016 |publisher=Premier League}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.whufc.com/Teams/First-Team/Squad/Martin-Samuelson |title=Player profile West Ham Martin Samuelsen |accessdate=10 June 2016 |publisher=Premier League |deadurl=yes |archiveurl=https://web.archive.org/web/20160604180957/http://www.whufc.com/Teams/First-Team/Squad/Martin-Samuelson |archivedate=4 June 2016 |df=dmy-all }}&lt;/ref&gt;
+|position    = [[Midfielder#Attacking midfielder|Attacking midfielder]] / [[Midfielder#Winger|Winger]]
+|currentclub = [[FK Haugesund|Haugesund]] (on loan from [[West Ham United F.C.|West Ham United]])
+|clubnumber  = 11
+|youthyears1 = 2011–2012
+|youthclubs1 = [[SK Vard Haugesund|Vard Haugesund]]
+|youthyears2 = 2012–2015
+|youthclubs2 = [[Manchester City F.C.|Manchester City]]
+|youthyears3 = 2015
+|youthclubs3 = [[West Ham United F.C.|West Ham United]]
+|years1      = 2015–
+|clubs1      = [[West Ham United F.C.|West Ham United]]
+|caps1       = 0
+|goals1      = 0
+|years2 = 2015–2016
+|clubs2 = → [[Peterborough United F.C.|Peterborough United]] (loan)
+|caps2 = 17
+|goals2 = 1
+|years3 = 2016
+|clubs3 = → [[Blackburn Rovers F.C.|Blackburn Rovers]] (loan)
+|caps3 = 3
+|goals3 = 0
+|years4 = 2017
+|clubs4 = → [[Peterborough United F.C.|Peterborough United]] (loan)
+|caps4 = 11
+|goals4 = 1
+|years5 = 2018
+|clubs5 = → [[Burton Albion F.C.|Burton Albion]] (loan)
+|caps5 = 9
+|goals5 = 0
+|years6 = 2018–2019
+|clubs6 = → [[VVV-Venlo]] (loan)
+|caps6 = 10
+|goals6 = 0
+|years7 = 2019–
+|clubs7 = → [[FK Haugesund|Haugesund]] (loan)
+|caps7 = 0
+|goals7 = 0
+|nationalyears1 = 2013
+|nationalteam1  = Norway U16
+|nationalcaps1  = 10
+|nationalgoals1 = 0
+|nationalyears2 = 2014
+|nationalteam2  = [[Norway national under-17 football team|Norway U17]]
+|nationalcaps2  = 11
+|nationalgoals2 = 1
+|nationalyears3 = 2015
+|nationalteam3  = Norway U18
+|nationalcaps3  = 7
+|nationalgoals3 = 3
+|nationalyears4 = 2016–
+|nationalteam4  = [[Norway national under-21 football team|Norway U21]]
+|nationalcaps4  = 8
+|nationalgoals4 = 0
+|nationalyears5 = 2016–
+|nationalteam5  = [[Norway national football team|Norway]]
+|nationalcaps5  = 3
+|nationalgoals5 = 1
+|club-update = 16:06, 3 February 2019 (UTC)
+|nationalteam-update = 21:44, 16 October 2018 (UTC)
+}}
+
+'''Martin Samuelsen''' (born 17 April 1997) is a Norwegian professional [[association football|footballer]] who plays for [[FK Haugesund|Haugesund]], on loan from [[West Ham United F.C.|West Ham United]], and the [[Norway national football team|Norway national team]]. After long spells at the academies of [[SK Vard Haugesund|Vard Haugesund]] and [[Manchester City F.C.|Manchester City]] and short trials at big clubs across Europe, Samuelsen signed for West Ham in June 2015. Samuelsen, a versatile player, can play both central and wide [[Midfielder|midfield]] positions as well as a [[Forward (association football)|forward]]. He went on loan at [[Peterborough United F.C.|Peterborough United]] for the majority of the [[2015–16 Peterborough United F.C. season|2015–16 season]].
+
+Samuelsen has represented his country at youth level, earning caps at under-16, [[Norway national under-17 football team|under-17]], under-18 and [[Norway national under-21 football team|under-21]] levels. In June 2016, he made his debut for the [[Norway national football team|Norway senior team]].
+
+== Youth career ==
+Having just turned 14, Samuelsen was playing for [[SK Vard Haugesund|Vard Haugesund]] at youth level when he reportedly attracted interest from clubs such as [[Real Madrid C.F.|Real Madrid]] and [[Chelsea F.C.|Chelsea]]. A year later, he joined Manchester City where he spent three years at their academy, playing regular football for their [[Manchester City F.C. Reserves and Academy|Elite Development Squad]].&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/sport/football/article-3132548/West-Ham-sign-former-Manchester-City-starlet-Martin-Samuelsen-two-year-deal.html|title=West Ham sign former Manchester City starlet Martin Samuelsen on two-year deal|work=Daily Mail|accessdate=23 July 2015}}&lt;/ref&gt;
+
+== Professional career ==
+
+=== West Ham United ===
+After the transfer to West Ham United was announced on 20 June 2015, Samuelsen scored on his debut in a friendly at [[Peterborough United F.C.|Peterborough United]] three weeks later.&lt;ref&gt;{{cite web|url=http://www.whufc.com/News/Articles/2015/July/11-July/Live-Petetborough-United-v-West-Ham-United|title=FT&amp;nbsp;— Peterborough United 3–3 West Ham United|publisher=West Ham United F.C.|accessdate=23 July 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150714102829/http://www.whufc.com/News/Articles/2015/July/11-July/Live-Petetborough-United-v-West-Ham-United|archivedate=14 July 2015|df=dmy-all}}&lt;/ref&gt; He made his professional debut for the club five days later at the [[Boleyn Ground]] in a [[UEFA Europa League|Europa League]] second qualifying round match against [[Birkirkara F.C.|Birkirkara]], replacing [[Morgan Amalfitano]] after 59 minutes.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/33541179|title=West Ham United 1–0 Birkirkara FC|author=Neil Johnston|publisher=BBC Sport|accessdate=23 July 2015}}&lt;/ref&gt; Samuelsen is contracted to the [[East London]] club until June 2020.&lt;ref&gt;{{cite web|url=https://www.whufc.com/news/articles/2016/august/23-august/samuelsen-pens-new-deal|title=Samuelsen pens new deal|accessdate=23 August 2016}}&lt;/ref&gt;
+
+==== Peterborough United (loan) ====
+On 24 November 2015, [[Peterborough United F.C.|Peterborough United]] announced the signing of Samuelsen on a one-month loan deal until 2 January.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/0/football/34914271|title=Peterborough: Miles Addison and Martin Samuelsen sign|publisher=BBC Sport|date=24 November 2015|accessdate=24 November 2015}}&lt;/ref&gt; Samuelsen scored his first goal for Peterborough on 2 January 2016 in a 3–2 away win against [[Sheffield United F.C.|Sheffield United]]. With the game at 2–2, he received the ball near the [[touch-line]] before weaving past several defenders and shooting past Sheffield goalkeeper [[George Long (footballer)|George Long]]. The manner of the goal drew comparisons with the playing style of [[Lionel Messi]].&lt;ref name="Messi"&gt;{{cite news | url=http://www.peterboroughtoday.co.uk/sport/football/peterborough-united/posh-report-sheffield-united-2-peterborough-united-3-there-are-only-two-lionel-messis-1-7129883 | title=POSH REPORT: Sheffield United 2, Peterborough United 3: ‘There are only two Lionel Messis’ | work=Peterborough Today | date=2 January 2016 | accessdate=4 January 2016}}&lt;/ref&gt; In January his loan was extended until the end of the 2015–16 season.&lt;ref&gt;{{cite web|url=http://www.theposh.com/news/article/samuelsen-2884943.aspx|title=Samuelsen Extends Loan Stay|author=Phil Adlam|accessdate=22 April 2016}}&lt;/ref&gt; Samuelsen returned to West Ham on 22 April 2016 to compete in the [[U21 Premier League Cup]] final which West Ham won over two legs.&lt;ref&gt;{{cite web|url=http://www.peterboroughtoday.co.uk/sport/football/posh/posh-latest-samuelsen-returns-to-hammers-1-7346048|title=POSH LATEST: Samuelsen returns to Hammers|accessdate=22 April 2016}}&lt;/ref&gt;
+
+==== Blackburn Rovers (loan) ====
+On 25 August 2016, Samuelsen joined [[Blackburn Rovers F.C.|Blackburn Rovers]] on a season-long loan.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/37186551| title=Blackburn Rovers sign West Ham United winger on loan| publisher=BBC Sport| date=25 August 2016| accessdate=25 August 2016}}&lt;/ref&gt; On 22 November 2016, Samuelsen's loan at the club was cut short after a lack of playing time.&lt;ref&gt;{{cite web|url=http://rovers.co.uk//news/article/2016-17/martin-samuelsen-blackburn-rovers-west-ham-united-3429153.aspx|title=Samuelsen returns to West Ham|publisher=Blackburn Rovers F.C.|accessdate=22 November 2016}}&lt;/ref&gt;
+
+==== Peterborough United (loan) ====
+On 1 January 2017, Samuelsen returned to Peterborough United on loan until the end of the 2016–17 season.&lt;ref&gt;{{Cite news|url=https://www.bbc.com/sport/football/38484305|title=Martin Samuelsen: West Ham's Norway midfielder returns to Peterborough on loan|date=1 January 2017|publisher=BBC Sport|accessdate=28 February 2017}}&lt;/ref&gt;
+
+==== Burton Albion (loan) ====
+On 17 January 2018, Samuelsen joined [[Burton Albion F.C.|Burton Albion]] on loan until the end  of the 2017–18 season.&lt;ref&gt;{{Cite news|url=https://www.bbc.com/sport/football/42724469|title=Martin Samuelsen: Burton Albion sign West Ham United's Norway forward on loan|date=17 January 2018|publisher=BBC Sport|accessdate=17 January 2017}}&lt;/ref&gt;
+
+==== VVV-Venlo (loan) ====
+In August 2018, Samuelsen joined [[VVV-Venlo]] in a season-long loan deal.&lt;ref&gt;{{Cite web | title = Samuelsen goes on season-long loan to VVV-Venlo | publisher = West Ham United F.C. | date = 25 July 2018 | accessdate = 25 July 2018 | url = https://www.whufc.com/news/articles/2018/july/25-july/samuelsen-goes-season-long-loan-vvv-venlo}}&lt;/ref&gt;
+
+== International career ==
+Samuelsen has represented [[Norway national football team|Norway's]] youth teams on numerous occasions throughout his youth career. On 25 March 2016, aged 18, Samuelsen made his debut for [[Norway national under-21 football team|Norway U21s]] against [[Netherlands national under-21 football team|Netherlands Under 21s]] in a 1–0 win. Three days later, he played again for the U21s this time against [[Spain national under-21 football team|Spain Under 21s]] in a 1–0 defeat.
+
+Following Norway's failure to qualify for [[UEFA Euro 2016|Euro 2016]], Samuelsen was picked for the [[Norway national football team|Norway national team]] aged 19. He made his debut by coming off the bench in the 53rd minute replacing [[Pål André Helland]] in a 3–2 win over [[Iceland national football team|Iceland]]. Samuelsen won the free-kick that led to Norway's third goal just after coming on.&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/norway-vs-iceland/353955|title=Norway 3–2 Iceland|publisher=Sky Sports|accessdate=1 June 2016}}&lt;/ref&gt; Samuelsen scored his first goal for the national team in a 4–1 win against [[San Marino national football team|San Marino]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37620415|title=Norway v San Marino|publisher=BBC Sport|accessdate=5 February 2018}}&lt;/ref&gt;
+
+== Career statistics ==
+{{updated|match played 2 February 2019}}&lt;ref name="SW"&gt;{{cite web | url=https://int.soccerway.com/players/martin-samuelsen/316325/ | title=M. Samuelsen | publisher=Soccerway | accessdate=30 July 2015}}&lt;/ref&gt;
+{| class="wikitable" style="text-align:center"
+|-
+!Club!!Season!!League!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+!colspan="3"|
+!colspan="2"|[[Premier League|League]]
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[Football League Cup|League Cup]]
+!colspan="2"|[[UEFA|Europe]]
+!colspan="2"|Total
+|-
+|rowspan="2"|[[West Ham United F.C.|West Ham United]]
+|[[2015–16 West Ham United F.C. season|2015–16]]
+|rowspan="1"|[[Premier League]]
+||0||0||0||0||0||0||2&lt;ref group=lower-alpha name=UEL&gt;Appearances in [[UEFA Europa League]]&lt;/ref&gt;||0||2||0
+|-
+!colspan="2"|Total
+!0!!0!!0!!0!!0!!0!!2!!0!!2!!0
+|-
+|rowspan="3"|[[Peterborough United F.C.|Peterborough United]] (loan)
+|[[2015–16 Peterborough United F.C. season|2015–16]]
+|rowspan="2"|[[Football League One|League One]]
+||17||1||3||1||0||0||colspan="2"|—||20||2
+|-
+|[[2016-17 Peterborough United F.C. season|2016–17]]
+||10||1||1||0||0||0||colspan="2"|—||11||1
+|-
+!colspan="2"|Total
+!27!!2!!4!!1!!0!!0!!0!!0!!31!!3
+|-
+|[[Blackburn Rovers F.C.|Blackburn Rovers]] (loan)
+|[[2016–17 Blackburn Rovers F.C. season|2016–17]]
+|rowspan=2|[[Football League Championship|Championship]]
+||3||0||0||0||1||0||colspan="2"|—||4||0
+|-
+|[[Burton Albion F.C.|Burton Albion]] (loan)
+|[[2017–18 Burton Albion F.C. season|2017–18]]
+||9||0||0||0||0||0||colspan="2"|—||9||0
+|-
+|[[VVV-Venlo|VVV Venlo]] (loan)
+|[[2018–19 Eredivisie|2018–19]]
+|[[Eredivisie]]
+||10||0||2||2||colspan="2"|—||colspan="2"|—||12||2
+|-
+|[[FK Haugesund|Haugesund]] (loan)
+|[[2019 Eliteserien|2019]]
+|[[Eliteserien]]
+||0||0||0||0||colspan="2"|—||colspan="2"|—||0||0
+|-
+!colspan="3"|Career total
+!49!!2!!6!!3!!1!!0!!2!!0!!58!!5
+|}
+{{reflist|group=lower-alpha}}
+
+=== International goals ===
+:''Scores and results list Norway's goal tally first.''&lt;ref name="SW"/&gt;
+
+{| class="wikitable" style="font-size:85%;"
+! No !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 11 October 2016 || [[Ullevaal Stadion]], [[Oslo]], [[Norway]] || {{fb|SMR}} || align=center | '''3'''–1 || align=center | 4–1 || [[2018 FIFA World Cup qualification – UEFA Group C|2018 FIFA World Cup qualification]]
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{Soccerbase}}
+* {{WorldFootball.net|martin-samuelsen}}
+*[https://www.fotball.no/fotballdata/person/profil/?fiksId=2915376 International profile] at Fotball.No
+
+&lt;!--{{West Ham United F.C. squad}}--&gt;
+{{FK Haugesund squad}}
+
+{{DEFAULTSORT:Samuelsen, Martin}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:People from Haugesund]]
+[[Category:Norwegian footballers]]
+[[Category:Norway international footballers]]
+[[Category:West Ham United F.C. players]]
+[[Category:Peterborough United F.C. players]]
+[[Category:Manchester City F.C. players]]
+[[Category:Association football midfielders]]
+[[Category:Norway youth international footballers]]
+[[Category:Norwegian expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Norwegian expatriate sportspeople in England]]
+[[Category:Norwegian expatriate sportspeople in the United Kingdom]]
+[[Category:English Football League players]]
+[[Category:Blackburn Rovers F.C. players]]
+[[Category:Burton Albion F.C. players]]
+[[Category:VVV-Venlo players]]
+[[Category:Eredivisie players]]
+[[Category:Expatriate footballers in the Netherlands]]
+[[Category:Norwegian expatriate sportspeople in the Netherlands]]</text>
+      <sha1>aao0s2tjk2zge1rkh1tm1zdom5fmiq7</sha1>
+    </revision>
+  </page>
+</mediawiki>

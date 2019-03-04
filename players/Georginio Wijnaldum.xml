@@ -1,0 +1,407 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Georginio Wijnaldum</title>
+    <ns>0</ns>
+    <id>10678321</id>
+    <revision>
+      <id>885094758</id>
+      <parentid>885091561</parentid>
+      <timestamp>2019-02-25T22:49:27Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted to revision 884152688 by [[Special:Contributions/ToBeFree|ToBeFree]] ([[User talk:ToBeFree|talk]]): Rvv ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="38494">{{Use dmy dates|date=September 2018}}
+{{Infobox football biography
+| name = Georginio Wijnaldum
+| image = 20160604 AUT NED 8839.jpg
+| image_size = 
+| caption = Wijnaldum with [[Netherlands national football team|Netherlands]] in 2016
+| fullname = Georginio Gregion Emile Wijnaldum&lt;ref&gt;{{cite news
+| title = 2014 FIFA World Cup Brazil: List of Players
+| url = http://www.fifadata.com/document/fwc/2014/pdf/fwc_2014_squadlists.pdf
+| publisher = FIFA
+| format = PDF
+| page = 26
+| date = 11 June 2014
+| accessdate = 11 June 2014}}&lt;/ref&gt;
+| birth_date = {{Birth date and age|1990|11|11|df=yes}}
+| birth_place = [[Rotterdam]], Netherlands
+| height = 1.75 m&lt;ref&gt;{{cite web |url=http://www.premierleague.com/en-gb/players/profile.html/georginio-wijnaldum |title=Georginio Wijnaldum profile |work=[[Premier League]] |access-date= 18 January 2016}}&lt;/ref&gt;
+| position = [[Midfielder (association football)|Midfielder]]
+| currentclub = [[Liverpool F.C.|Liverpool]]
+| clubnumber = 5
+| youthyears1 = 1997–2004
+| youthclubs1 = [[Sparta Rotterdam]]
+| youthyears2 = 2004–2007
+| youthclubs2 = [[Feyenoord]]
+| years1 = 2007–2011
+| clubs1 = [[Feyenoord]]
+| caps1 = 111
+| goals1 = 23
+| years2 = 2011–2015
+| clubs2 = [[PSV Eindhoven|PSV]]
+| caps2 = 109
+| goals2 = 40
+| years3 = 2015–2016
+| clubs3 = [[Newcastle United F.C.|Newcastle United]]
+| caps3 = 38
+| goals3 = 11
+| years4 = 2016–
+| clubs4 = [[Liverpool F.C.|Liverpool]]
+| caps4 = 93
+| goals4 = 9
+| nationalyears1 = 2005–2007
+| nationalteam1 = [[Netherlands national under-17 football team|Netherlands U17]]
+| nationalcaps1 = 15
+| nationalgoals1 = 4
+| nationalyears2 = 2007–2009
+| nationalteam2 = [[Netherlands national under-19 football team|Netherlands U19]]
+| nationalcaps2 = 17
+| nationalgoals2 = 5
+| nationalyears3 = 2009–2013
+| nationalteam3 = [[Netherlands national under-21 football team|Netherlands U21]]
+| nationalcaps3 = 24
+| nationalgoals3 = 10
+| nationalyears4 = 2011–
+| nationalteam4 = [[Netherlands national football team|Netherlands]]
+| nationalcaps4 = 51
+| nationalgoals4 = 10
+| medaltemplates = 
+| club-update = 09:45, 11 February 2019 (UTC)
+| nationalteam-update = 16 November 2018
+}}
+
+'''Georginio Gregion Emile Wijnaldum''' ({{IPA-nl|ɟɔrˈɟiɲoː ʋɛiˈnɑldʏm}}; born 11 November 1990) is a Dutch professional [[association football|footballer]] who plays as a [[midfielder]] for [[Premier League]] club [[Liverpool F.C.|Liverpool]] and the [[Netherlands national football team|Netherlands national team]].
+
+A youth product of [[Eredivisie]] side [[Feyenoord]], Wijnaldum became the youngest player ever to represent the club when he made his debut in 2007, and went on to play 134 matches over the course of a five-year spell. Following his departure from Feyenoord, Wijnaldum spent four seasons at [[PSV Eindhoven|PSV]] where he won the [[KNVB Cup]] in the first season and the Eredivisie in his last. He also earned the [[Dutch Footballer of the Year]] award during his time with PSV. In 2015, Wijnaldum joined Premier League side [[Newcastle United F.C.|Newcastle United]] for £14.5&amp;nbsp;million, before departing following the club's relegation a year later to join Liverpool in a £23&amp;nbsp;million deal.
+
+Wijnaldum is also a full Dutch international, having earned more than 50 caps since making his debut in 2011, and was a member of the squad which came third at the [[2014 FIFA World Cup]].
+
+==Early life==
+Wijnaldum was born and raised in [[Rotterdam]], [[South Holland]].&lt;ref name="Liverpool transfer target Georginio Wijnaldum: 10 things you need to know!"&gt;{{cite news |title=Liverpool transfer target Georginio Wijnaldum: 10 things you need to know! |url=http://www.talksport.co.uk/magazine/features/2011-03-02/liverpool-transfer-target-georginio-wijnaldum-10-things-you-need-know |newspaper=talksport.co.uk, [[Talksport]]|author=Sian Parry |language= |trans-title= |date=2 March 2011 |accessdate= }}&lt;/ref&gt; When he was six years old, his parents, who are both of [[Afro-Surinamese]] descent, went through a divorce with the result that his mother moved to [[Amsterdam]].&lt;ref name="Liverpool transfer target Georginio Wijnaldum: 10 things you need to know!"/&gt;&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gh/news/4389/ghana/2013/05/15/3980540/im-not-a-ghanaian-boateng-was-the-name-of-my-step-father|title='I'm not a Ghanaian; Boateng was the name of my step father,' PSV's Georginio Wijnaldum&amp;nbsp;– Goal.com|date=15 May 2013|publisher=}}&lt;/ref&gt; However, Wijnaldum decided to stay in Rotterdam and moved in with his grandmother, where he lived for the remainder of his childhood.&lt;ref name="10 things you need to know about Georginio Wijnaldum"&gt;{{cite news |title=10 things you need to know about Georginio Wijnaldum |url=http://www.mirrorfootball.co.uk/opinion/blogs/football-spy/Liverpool-target-Georginio-Wijnaldum-10-things-you-need-to-know-about-Dutch-midfielder-plus-watch-video-of-him-in-action-article385049.html |newspaper=mirrorfootball.co.uk, [[Daily Mirror]] |language= |trans-title= |date=8 April 2010 |accessdate= }}&lt;/ref&gt;
+
+In Wijnaldum's younger years, he never showed interest in football. He never played with a ball or watched football on TV. His ambition was to become a gymnast or acrobat. This changed when Wijnaldum's cousin asked him to come to [[Sparta Rotterdam]]'s opening day with him; then he was invited to the Sparta Rotterdam youth academy and his love for football started to grow slowly.&lt;ref name=kameraadjes&gt;{{cite news |title=Georginio Wijnaldum |url=http://www.feyenoord.nl/content/asp/kameraadjes/website/feyenoord.asp?speler=10010000030408 |newspaper=Kameraadjes |language=Dutch |trans-title= |date= |accessdate=6 October 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090908122341/http://www.feyenoord.nl/content/asp/kameraadjes/website/feyenoord.asp?speler=10010000030408 |archivedate=8 September 2009  }}&lt;/ref&gt;
+
+Wijnaldum has two younger brothers, one of whom, [[Giliano Wijnaldum]], currently plays for Sparta Rotterdam, as well as a half-brother, [[Rajiv van La Parra]], who currently plays for [[Huddersfield Town A.F.C.|Huddersfield Town]].&lt;ref&gt;{{cite web|url=http://www.football-oranje.com/spotlight-on-georginio-wijnaldum-newcastles-new-dutch-delight/|title=Spotlight on Georginio Wijnaldum: Newcastle's new Dutch delight&amp;nbsp;– Football Oranje|date=12 July 2015|publisher=}}&lt;/ref&gt; Wijnaldum was formerly known as Georginio Boateng, but following his mother's divorce, he took her maiden name (Wijnaldum).&lt;ref name="ad"&gt;{{cite news |title='Goed ventje' laat zich niet gek maken |url=http://www.ad.nl/ad/nl/1046/Eredivisie/article/detail/344867/2008/11/07/Goed-ventje-laat-zich-niet-gek-maken.dhtml |newspaper=AD |language=Dutch |trans-title='Good boy' won't be caught with his head in the clouds |date=7 November 2008 |accessdate=6 October 2009}}&lt;/ref&gt;
+
+==Club career==
+
+===Early career===
+At age six, Wijnaldum developed himself rapidly at Sparta Rotterdam, winning two championship titles in his first two seasons. Soon [[AFC Ajax|Ajax]], [[PSV Eindhoven|PSV]] and [[Feyenoord]] showed interest in the youngster, but Wijnaldum declined all offers: "I didn't watch football on TV and I didn't know any of the first team players of Sparta or any of the top clubs. I only knew the real famous players of ''Oranje'', so the offers didn't impress me much. I had a good time at Sparta, I wanted to stay." After playing for Sparta Rotterdam for seven seasons and representing the Netherlands at various youth levels, Wijnaldum decided to accept a new Feyenoord offer. He was convinced playing for Feyenoord was better for his development as a football player and believed in Feyenoord's vision.&lt;ref name="kameraadjes"/&gt;
+
+At Feyenoord, Wijnaldum joined a successful generation with the likes of [[Leroy Fer]] and [[Luís Pedro]]. Wijnaldum stood out as an exceptional talent. In January 2007, a few weeks after turning 16, Wijnaldum was invited to the first team's training camp in [[Belek]], Turkey, by Feyenoord manager [[Erwin Koeman]].&lt;ref&gt;{{cite news |title=Talent in Turkije (4): Georginio Wijnaldum |url=http://www.feyenoord.nl/pages/newsdetail/S2/20070112Wijnaldum.aspx |newspaper=Feyenoord.nl |language=Dutch |trans-title=Talent in Turkey (4): Georginio Wijnaldum |date=12 January 2007 |accessdate=6 October 2009 |archive-url=https://web.archive.org/web/20081002142801/http://www.feyenoord.nl/pages/newsdetail/S2/20070112Wijnaldum.aspx |archive-date=2 October 2008 |dead-url=yes |df=dmy-all }}&lt;/ref&gt;
+
+===Feyenoord===
+[[File:Georginio Wijnaldum 001.jpg|left|thumb|300x300px|Wijnaldum with [[Feyenoord]] in 2007.]]
+On 8 April 2007, Wijnaldum made his official debut in Feyenoord's starting line-up in the [[Eredivisie]] home match against [[FC Groningen|Groningen]] (0–4).&lt;ref&gt;{{cite news|title=Mokerslag in de Kuip: 0–4 |url=http://www.feyenoord.nl/pages/datapresenter/S2/10010000000002-10010000000016/wedstrijdinfo.aspx?contentcode=matchinfo&amp;dataid=10010000010179 |archive-url=https://web.archive.org/web/20120813144350/http://www.feyenoord.nl/pages/datapresenter/S2/10010000000002-10010000000016/wedstrijdinfo.aspx?contentcode=matchinfo&amp;dataid=10010000010179 |dead-url=yes |archive-date=13 August 2012 |newspaper=Feyenoord.nl |language=Dutch |trans-title=Slam dunk in de Kuip: 0–4 |date=8 April 2007 |accessdate=6 October 2009 }}&lt;/ref&gt; At the age of 16 and 148 days, Wijnaldum became the youngest player ever to play in Feyenoord's first team and was chosen Feyenoord's man of the match. On 2 December 2007, Wijnaldum scored his first Eredivisie goal for Feyenoord, against [[Heracles Almelo]] in a 6–0 home win.&lt;ref&gt;{{cite news|title=Swingend en glibberend voorbij Heracles: 6–0 |url=http://www.feyenoord.nl/pages/datapresenter/S2/10010000000002-10010000000016/wedstrijdinfo.aspx?contentcode=matchinfo&amp;dataid=10010000030681 |newspaper=Feyenoord.nl |language=Dutch |trans-title=Swinging and slipping past Heracles: 6–0 |date=2 December 2007 |accessdate=6 October 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20110927002434/http://www.feyenoord.nl/pages/datapresenter/S2/10010000000002-10010000000016/wedstrijdinfo.aspx?contentcode=matchinfo&amp;dataid=10010000030681 |archivedate=27 September 2011  }}&lt;/ref&gt;
+
+In the 2008–09 season, Wijnaldum made his official European debut. On 18 September 2008, he was named in the starting line-up in the [[UEFA Europa League|UEFA Cup]] [[2008–09 UEFA Cup first round|home match]] against [[Kalmar FF]] (0–1).&lt;ref&gt;{{cite news|title=Teleurstellende rentree op Europees podium |url=http://www.feyenoord.nl/pages/datapresenter/S2/10010000000002-10010000000016/wedstrijdinfo.aspx?contentcode=matchinfo&amp;dataid=10010000032667 |newspaper=Feyenoord.nl |language=Dutch |trans-title=Disappointing comeback on European stage |date=18 September 2008 |accessdate=6 October 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20120308064933/http://www.feyenoord.nl/pages/datapresenter/S2/10010000000002-10010000000016/wedstrijdinfo.aspx?contentcode=matchinfo&amp;dataid=10010000032667 |archivedate=8 March 2012  }}&lt;/ref&gt; On 2 October 2008, he scored his first European goal for Feyenoord in the return match against Kalmar FF, which resulted in a 1–2 win and a place in the [[2008–09 UEFA Cup group stage|competition's group stage]].&lt;ref&gt;{{cite news|title=Feyenoord naar groepsfase UEFA Cup |url=http://www.feyenoord.nl/pages/datapresenter/S2/10010000000002-10010000000016/wedstrijdinfo.aspx?contentcode=matchinfo&amp;dataid=10010000032668 |newspaper=Feyenoord.nl |language=Dutch |trans-title=Feyenoord to group stage UEFA Cup |date=2 October 2008 |accessdate=6 October 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20120813144409/http://www.feyenoord.nl/pages/datapresenter/S2/10010000000002-10010000000016/wedstrijdinfo.aspx?contentcode=matchinfo&amp;dataid=10010000032668 |archivedate=13 August 2012  }}&lt;/ref&gt;
+
+On 6 March 2009, Wijnaldum signed a new contract at Feyenoord which would have kept him at [[De Kuip]] until summer 2012.&lt;ref&gt;{{cite news |title=Feyenoord verlengt contract Wijnaldum |url=http://www.feyenoord.nl/pages/newsdetail/S2/20090306_wijnaldum.aspx |newspaper=Feyenoord.nl |language=Dutch |trans-title=Feyenoord renews contract Wijnaldum |date=6 March 2009 |accessdate=6 October 2009 |archive-url=https://web.archive.org/web/20120813144510/http://www.feyenoord.nl/pages/newsdetail/S2/20090306_wijnaldum.aspx |archive-date=13 August 2012 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; On 27 February 2011, he helped his struggling Feyenoord to a 5–1 demolition of Groningen, scoring four goals. He scored two goals from open play in the first half and two more from the penalty spot to add his total for [[2010–11 Eredivisie|the season]] to eight goals.&lt;ref&gt;[http://soccernet.espn.go.com/report/_/id/295507?cc=5901 Match: Feyenoord Rotterdam v FC Groningen&amp;nbsp;– Dutch Eredivisie&amp;nbsp;– ESPN FC]. Soccernet.espn.go.com (27 February 2011). Retrieved on 2 August 2013.&lt;/ref&gt;
+
+===PSV===
+[[File:Dinamo-PSV (7).jpg|thumb|272x272px|Wijnaldum with [[PSV Eindhoven|PSV]] in 2014.]]
+On 29 June 2011, the technical director of Feyenoord announced the club had reached a transfer deal for Wijnaldum reported to be worth €5&amp;nbsp;million with [[PSV Eindhoven|PSV]].&lt;ref&gt;[http://www.voetbalzone.nl/doc.asp?uid=141028 'Ik had Wijnaldum liever aan buitenlandse club verkocht']. Voetbalzone.nl. Retrieved on 2 August 2013.&lt;/ref&gt; On the opening day of the [[2011–12 Eredivisie|2011–12 Eredivisie season]], Wijnaldum made his debut for PSV in a 3–1 loss against [[AZ Alkmaar|AZ]].&lt;ref&gt;{{cite news|title=Report: AZ Alkmaar vs PSV Eindhoven|url=http://soccernet.espn.go.com/report?id=321917&amp;cc=5739|publisher=ESPN Soccernet|date=7 August 2011|accessdate=11 March 2012}}&lt;/ref&gt; On 21 August 2011, Wijnaldum scored his first goal for PSV in a 3–0 victory against [[ADO Den Haag]]. Since joining the club, Wijnaldum established himself in the starting 11 as he scored goals and developed assists from his attacking role in midfield in Eredivisie, the KNVB Cup and the UEFA Europa League. After the retirement of [[Mark van Bommel]] and the departure of [[Kevin Strootman]] in the summer of 2013, Wijnaldum was named PSV's captain for the [[2013–14 Eredivisie]] season. However, he played just 11 matches that year, scoring four goals, due to a back injury. For the [[2014–15 Eredivisie]] season, Wijnaldum returned to full fitness and captained PSV to their first Eredivisie title since [[2007–08 Eredivisie|2008]].
+
+===Newcastle United===
+On 11 July 2015, Wijnaldum joined English [[Premier League]] club [[Newcastle United F.C.|Newcastle United]] on a five-year contract, for a reported transfer fee of £14.5&amp;nbsp;million, making him the most expensive signing of [[Mike Ashley (businessman)|Mike Ashley]]'s ownership.&lt;ref&gt;{{cite news|title=Newcastle United: Georginio Wijnaldum seals five-year deal|url=https://www.bbc.co.uk/sport/0/football/33474195|work=[[BBC Sport]]|date=11 July 2015}}&lt;/ref&gt; Wijnaldum made his debut on 9 August as Newcastle began the season with a 2–2 home draw against [[Southampton F.C|Southampton]], heading in a goal from [[Gabriel Obertan]]'s cross.&lt;ref&gt;{{cite news|last1=Davis|first1=Matt|title=Newcastle 2–2 Southampton|url=https://www.bbc.co.uk/sport/0/football/33750572|accessdate=9 August 2015|work=[[BBC Sport]]|date=9 August 2015}}&lt;/ref&gt; He would score his second Newcastle goal in a 2–2 draw with [[Chelsea F.C.|Chelsea]] on 26 September.&lt;ref&gt;{{cite news |last1=Olsen |first1=Connor |title=Newcastle 2–2 Chelsea |url=https://www.bbc.co.uk/sport/0/football/34299598 |accessdate=26 September 2015 |work=[[BBC Sport]] |date=26 September 2015}}&lt;/ref&gt; On 18 October, Wijnaldum scored four goals in a 6–2 home win over [[Norwich City F.C.|Norwich City]],&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/0/football/34498802|title=Newcastle United 6–2 Norwich City|date=18 October 2015|work=[[BBC Sport]]|accessdate=18 October 2015}}&lt;/ref&gt; becoming only the second Newcastle player to score more than three goals in a Premier League match.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/34567846|title=Steve McClaren: Boss has had 'enormous' support from Newcastle|date=18 October 2015|work=[[BBC Sport]]|accessdate=19 October 2015}}&lt;/ref&gt; Wijnaldum was considered the player of the match in a game against [[Liverpool F.C.|Liverpool]] when he forced [[Martin Škrtel]] into an own goal as well as scoring himself in a 2–0 win.&lt;ref&gt;{{cite news |url=http://www.espnfc.us/barclays-premier-league/match/422519/newcastle-united-liverpool/report |title=Newcastle beat Liverpool as Georginio Wijnaldum is the star of the show |work=[[ESPN.com]] |date=6 December 2015 |accessdate=6 December 2015}}&lt;/ref&gt; He scored against [[Manchester United F.C.|Manchester United]] in a 3–3 draw on 12 January 2016,&lt;ref&gt;{{cite news|last=Dawkes|first=Phil|title=Newcastle United 3–3 Manchester United|url=https://www.bbc.co.uk/sport/football/35229750|work=[[BBC Sport]]|date=12 January 2016}}&lt;/ref&gt; and again four days later in a 2–1 win against [[West Ham United F.C.|West Ham United]],&lt;ref&gt;{{cite news|last=Sanghera|first=Mandeep|title=Newcastle United 2–1 West Ham United|url=https://www.bbc.co.uk/sport/football/35270693|work=[[BBC Sport]]|date=16 January 2016}}&lt;/ref&gt; and later scored twice against [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in a 5–1 win on the final day of the season, finishing the season as Newcastle's top goalscorer.&lt;ref&gt;{{cite news|last=Chowdhury|first=Saj|title=Newcastle United 5–1 Tottenham Hotspur|url=https://www.bbc.co.uk/sport/football/36240333|access-date=23 July 2016|work=[[BBC Sport]]|date=15 May 2016}}&lt;/ref&gt; However, after the season, Newcastle were relegated to the [[EFL Championship|Championship]].
+[[File:Georginio Wijnaldum Liverpool vs Hull City 2016-09-24.jpg|left|thumb|227x227px|Wijnaldum playing in a Premier League match against [[Hull City A.F.C.|Hull City]], 24 September 2016.]]
+
+===Liverpool===
+On 22 July 2016, Wijnaldum returned to the Premier League, signing for Liverpool on a five-year contract, for an initial £23&amp;nbsp;million with a further £2&amp;nbsp;million in conditional add-ons. He was given the number 5 shirt.&lt;ref&gt;{{cite news|title=Liverpool complete Georginio Wijnaldum capture|url=http://www.liverpoolfc.com/news/first-team/228707-liverpool-complete-georginio-wijnaldum-capture|publisher=Liverpool F.C.|date=23 July 2016}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.bbc.com/sport/football/36846756|title=Georginio Wijnaldum: Liverpool sign midfielder from Newcastle for £25m|access-date=22 July 2016}}&lt;/ref&gt;
+
+==== 2016–17 season ====
+Wijnaldum made his Premier League debut for Liverpool against [[Arsenal F.C.|Arsenal]] on 14 August 2016, where he played 80 minutes and provided an assist for [[Adam Lallana]] before being replaced by [[Kevin Stewart (footballer)|Kevin Stewart]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2016/aug/14/arsenal-liverpool-premier-league-match-report|title=Liverpool and Coutinho stun stuttering Arsenal in seven-goal thriller|date=14 August 2016|work=The Guardian|accessdate=16 August 2016}}&lt;/ref&gt; He scored his first goal for the club in a 6–1 thrashing of [[Watford F.C.|Watford]] on 6 November.&lt;ref&gt;{{cite web|url=http://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-6-1-watford-full-12135880|title=Liverpool 6–1 Watford full-time report&amp;nbsp;– Joy of six as Reds romp to Premier League summit|website=www.liverpoolecho.co.uk|date=6 November 2016|accessdate=6 November 2016}}&lt;/ref&gt; On 31 December, he scored the match's only goal with a powerful header in Liverpool's 1–0 win over [[Manchester City F.C.|Manchester City]] to take Liverpool four points clear in second. He was highly praised for his goal.&lt;ref&gt;{{citeweb|title=Liverpool 1–0 Manchester City: Liverpool maintained their pursuit of Premier League leaders Chelsea as they moved to within six points of the pacesetters with victory over Manchester City at Anfield|last=McNulty|first=Phil|url=https://www.bbc.co.uk/sport/football/38424665|date=31 December 2016|work=BBC Sport|accessdate=1 January 2016}}&lt;/ref&gt; Wijnaldum sealed Liverpool's 3–1 win over Arsenal on 4 March 2017 with a close-range finish in stoppage time.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/39086717|title=Liverpool 3–1 Arsenal|last=McNulty|first=Phil|publisher=BBC Sport|date=4 March 2017|accessdate=12 April 2017}}&lt;/ref&gt; In the final match of the [[2016–17 Premier League]] season, with Liverpool needing a win over [[Middlesbrough F.C.|Middlesbrough]] to secure a top-four finish and a [[2017–18 UEFA Champions League]] berth, Wijnaldum opened the scoring with a first-half stoppage time goal as Liverpool won 3–0.&lt;ref&gt;{{cite news|url=http://www.espnfc.us/club/liverpool/364/blog/post/3131140/wijnaldum-coutinho-and-lallana-send-liverpool-to-champions-league|title=Wijnaldum, Coutinho and Lallana send Liverpool to Champions League|last=Usher|first=Dave|publisher=ESPN FC|date=22 May 2017|accessdate=23 May 2017}}&lt;/ref&gt;
+[[File:Liver-SM 2017 (10).jpg|thumb|252x252px|Wijnaldum playing in a [[2017–18 UEFA Champions League|UEFA Champions League]] match against [[FC Spartak Moscow|Spartak Moskva]], 6 December 2017.]]
+
+==== 2017–18 season ====
+On 28 October 2017, Wijnaldum scored his first goal of the [[2017–18 Liverpool F.C. season|2017–18 season]], scoring the third goal in Liverpool's 3–0 win over newly-promoted [[Huddersfield Town A.F.C.|Huddersfield Town]].&lt;ref&gt;{{Cite news|url=https://www.bbc.com/sport/football/41703861|title=Liverpool 3-0 Huddersfield Town|date=28 October 2017|work=BBC Sport|access-date=16 September 2018|language=en-GB}}&lt;/ref&gt; On 2 May 2018, Wijnaldum scored his first away goal since May 2015, and his first for an English club, when he netted in a 7–6 aggregate victory over [[AS Roma|Roma]] to help Liverpool progress to the final of the [[2017–18 UEFA Champions League|2017–18 Champions League]].&lt;ref&gt;{{cite news|url=https://www.express.co.uk/sport/football/954411/Georginio-Wijnaldum-Liverpool-Roma-goal-Champions-League|title=Georginio Wijnaldum: Liverpool star ends INCREDIBLE unwanted streak with Roma goal|publisher=Express|last=Amako|first=Uche|date=2 May 2018|accessdate=3 May 2018}}&lt;/ref&gt; His goal also saw Liverpool break the competition's record for the most goals scored in a single campaign, with the club's tally of 46 surpassing the record of 45 previously held by [[FC Barcelona|Barcelona]].&lt;ref&gt;{{cite news|url=http://www.goal.com/en-za/news/liverpool-break-champions-league-scoring-record/hyuflrkic5z41kokj9ecpn4dr|title=Liverpool break Champions League scoring record|publisher=Goal|date=2 May 2018|accessdate=3 May 2018}}&lt;/ref&gt; Wijnaldum played for Liverpool in the [[2018 UEFA Champions League Final]] against [[Real Madrid C.F.|Real Madrid]], playing the full 90 minutes as Liverpool lost 1–3.&lt;ref&gt;{{Cite news|url=https://www.bbc.com/sport/football/44258022|title=Real Madrid 3-1 Liverpool|date=26 May 2018|work=BBC Sport|access-date=7 August 2018|language=en-GB}}&lt;/ref&gt;
+
+==== 2018–19 season ====
+On 15 September 2018, Wijnaldum scored his first ever Premier League away goal,&lt;ref&gt;{{Cite news|url=http://www.goal.com/en/news/wijnaldum-breaks-three-year-away-goal-drought-with-vital/1umhrl3acnde1rs3qij88qw2z|title=Wijnaldum breaks three-year away goal drought with vital Liverpool strike {{!}} Goal.com|access-date=16 September 2018|language=en}}&lt;/ref&gt; scoring the opening goal in a 2–1 win over [[Tottenham Hotspur F.C.|Tottenham Hotspur]].&lt;ref&gt;{{Cite news|url=https://www.bbc.com/sport/football/45456656|title=Liverpool beat Tottenham Hotspur 2-1 to maintain 100% Premier League start|date=15 September 2018|work=BBC Sport|access-date=16 September 2018|language=en-GB}}&lt;/ref&gt; He made his 100th appearance for the club on 29 September in a 1–1 Premier League draw with Chelsea.&lt;ref&gt;{{cite news|url=https://www.liverpoolfc.com/match/2018-19/first-team/chelsea-v-liverpool-live-matchday-blog|title=Chelsea v Liverpool: Live matchday blog|publisher=Liverpool FC|date=29 September 2018|accessdate=25 October 2018}}&lt;/ref&gt; On 9 February 2019, He scored his 9th league goal for the club in a 3-0 victory over [[AFC Bournemouth]]
+
+==International career==
+
+===Youth===
+Wijnaldum was one of the key players of the [[Netherlands national under-17 football team|Netherlands under-17 squad]] on the [[2007 UEFA European Under-17 Championship]] in Belgium. However, the team finished third in their group behind England and Belgium, failing to qualify for the knockout stage. Quickly after the tournament, Wijnaldum was selected for the [[Netherlands national under-19 football team|Netherlands under-19 squad]]. Despite excellent individual performances, the team underachieved and failed to qualify for the [[2008 UEFA European Under-19 Championship]] in the Czech Republic and [[2009 UEFA European Under-19 Championship]] in Ukraine.
+
+On 12 November 2008, the young midfielder got invited to the Netherlands B by manager [[Johan Neeskens]]. Wijnaldum had to deny the invitation due to an injury.&lt;ref&gt;{{cite news |title=Wijnaldum en Fer niet naar Nederland B |url=http://www.feyenoord.nl/pages/newsdetail/S2/20081117_ned_b.aspx |newspaper=Feyenoord.nl |language=Dutch |trans-title=Wijnaldum and Fer won't go to Netherlands B |date=17 November 2008 |accessdate=6 October 2009 |archive-url=https://web.archive.org/web/20120819221639/http://www.feyenoord.nl/pages/newsdetail/S2/20081117_ned_b.aspx |archive-date=19 August 2012 |dead-url=yes |df=dmy-all }}&lt;/ref&gt;
+
+Wijnaldum had to deny his first [[Netherlands national under-21 football team|Netherlands under-21]] invitation on 9 August 2009.&lt;ref&gt;{{cite news |title=Wijnaldum meldt zich af voor Jong Oranje |url=http://www.feyenoord.nl/pages/newsdetail/S2/20090809wijnaldum_jong_oranje.aspx |newspaper=Feyenoord.nl |language=Dutch |trans-title=Wijnaldum logs off for Jong Oranje |date=9 August 2009 |accessdate=6 October 2009 |archive-url=https://web.archive.org/web/20120819221712/http://www.feyenoord.nl/pages/newsdetail/S2/20090809wijnaldum_jong_oranje.aspx |archive-date=19 August 2012 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; He received an invitation for the friendly match against [[England national under-21 football team|England]] by manager [[Cor Pot]].&lt;ref&gt;{{cite news |title=Biseswar, Wijnaldum en Fer in voorselectie Jong Oranje |url=http://www.feyenoord.nl/pages/newsdetail/S2/20090729_spelers_jong_oranje.aspx |newspaper=Feyenoord.nl |language=Dutch |trans-title=Biseswar, Wijnaldum and Fer in pre-selection Jong Oranje |date=29 July 2009 |accessdate=6 October 2009 |archive-url=https://web.archive.org/web/20120819221753/http://www.feyenoord.nl/pages/newsdetail/S2/20090729_spelers_jong_oranje.aspx |archive-date=19 August 2012 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; Wijnaldum made his official Netherlands U21 debut on 4 September 2009, in the [[2011 UEFA European Under-21 Championship]] qualification match against [[Finland national under-21 football team|Finland]] (2–0).
+
+===Senior===
+[[File:De Guzman Wijnaldum NL 2015.jpg|thumb|Wijnaldum (right) training alongside [[Jonathan de Guzmán|Jonathan de Guzman]] (left) with [[Netherlands national football team|the Netherlands]] in 2015.]]
+On 30 May 2011, Wijnaldum was named in the [[Netherlands national football team|Netherlands senior squad]] for friendlies against [[Brazil national football team|Brazil]] and [[Uruguay national football team|Uruguay]], but did not play in either match.&lt;ref&gt;[https://web.archive.org/web/20110703121011/http://www.nieuwslog.nl/2011/05/30/wijnaldum-vervangt-sneijder-bij-het-nederlands-elftal/ Wijnaldum vervangt Sneijder bij het Nederlands elftal]. nieuwslog.nl (30 May 2011)&lt;/ref&gt; He made his international debut in the match against [[San Marino national football team|San Marino]] on 2 September 2011, appearing as a substitute in the 86th minute and promptly scoring the final goal in an 11–0 win.&lt;ref&gt;{{cite web |title=San Marino on the end of record Netherlands win |url=http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002054/postmatch/report/index.html |work=[[UEFA]]|date= 2 September 2011 |accessdate=23 June 2014}}&lt;/ref&gt;
+
+Wijnaldum was a member of the Netherlands squad for the [[2014 FIFA World Cup]], and scored his second goal for the nation in a 3–0 win against Brazil in the third-place play-off.&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/0/football/28173517|title=Brazil 0–3 Netherlands|date=12 July 2014|accessdate=13 July 2014|work=BBC}}&lt;/ref&gt;
+
+On 9 September 2018, he made his 50th appearance for the Netherlands in a 2–1 [[UEFA Nations League]] defeat to [[France national football team|France]].&lt;ref&gt;{{cite news|url=https://www.liverpoolecho.co.uk/sport/football/football-news/incredible-gini-wijnaldum-stat-highlights-15137696|title=The incredible Gini Wijnaldum stat which highlights why he's found a new level at Liverpool this season|publisher=Liverpool Echo|last=O'Neill|first=Caoimhe|date=11 September 2018|accessdate=14 September 2018}}&lt;/ref&gt;
+
+==Career statistics==
+
+===Club===
+{{updated|30 January 2019}}
+{| class="wikitable" style="text-align:center"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|Cup{{efn|Appearances in [[KNVB Cup]] and [[FA Cup]]}}
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=6|[[Feyenoord]]
+|[[2006–07 Feyenoord season|2006–07]]
+|[[Eredivisie]]
+|3||0||0||0||colspan=2|—||0||0||colspan=2|—||3||0
+|-
+|[[2007-08 Feyenoord season|2007–08]]
+|Eredivisie
+|10||1||2||0||colspan=2|—||0||0||colspan=2|—||12||1
+|-
+|[[2008–09 Feyenoord season|2008–09]]
+|Eredivisie
+|33||4||3||0||colspan=2|—||6{{efn|name=UC|Appearances in [[UEFA Cup]]}}||1||3{{efn|One appearance in [[Johan Cruyff Shield]], two in [[UEFA Europa League]] Play-offs}}||0||45||5
+|-
+|[[2009–10 Feyenoord season|2009–10]]
+|Eredivisie
+|31||4||7||1||colspan=2|—||colspan=2|—||colspan=2|—||38||5
+|-
+|[[2010–11 Feyenoord season|2010–11]]
+|Eredivisie
+|34||14||1||0||colspan=2|—||2{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan=2|—||37||14
+|-
+!colspan=2|Total
+!111!!23!!13!!1!!colspan=2|—!!8!!1!!3!!0!!135!!25
+|-
+|rowspan=5|[[PSV Eindhoven|PSV]]
+|[[2011–12 PSV Eindhoven season|2011–12]]
+|Eredivisie
+|32||8||6||2||colspan=2|—||12{{efn|name=UEL}}||4||colspan=2|—||50||14
+|-
+|[[2012–13 PSV Eindhoven season|2012–13]]
+|Eredivisie
+|33||14||6||1||colspan=2|—||5{{efn|name=UEL}}||4||1{{efn|Appearance in [[Johan Cruyff Shield]]}}||1||45||20
+|-
+|[[2013–14 PSV Eindhoven season|2013–14]]
+|Eredivisie
+|11||4||0||0||colspan=2|—||4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||colspan=2|—||15||4
+|-
+|[[2014–15 PSV Eindhoven season|2014–15]]
+|Eredivisie
+|33||14||3||2||colspan=2|—||8{{efn|name=UEL}}||2||colspan=2|—||44||18
+|-
+!colspan=2|Total
+!109!!40!!15!!5!!colspan=2|—!!29!!10!!1!!1!!154!!56
+|-
+|rowspan=2|[[Newcastle United F.C.|Newcastle United]]
+|[[2015–16 Newcastle United F.C. season|2015–16]]
+|[[Premier League]]
+|38||11||1||0||1||0||colspan=2|—||colspan=2|—||40||11
+|-
+!colspan=2|Total
+!38!!11!!1!!0!!1!!0!!colspan=2|—!!colspan=2|—!!40!!11
+|-
+| rowspan=4 |[[Liverpool F.C.|Liverpool]]
+|[[2016–17 Liverpool F.C. season|2016–17]]
+|Premier League
+|36||6||1||0||5||0||colspan=2|—||colspan=2|—||42||6
+|-
+|[[2017–18 Liverpool F.C. season|2017–18]]
+|Premier League
+|33||1||2||0||1||0||14{{efn|name=UCL}}||1|| colspan=2 |—||50||2
+|-
+|[[2018–19 Liverpool F.C. season|2018–19]]
+|Premier League
+|22||2||0||0||0||0||6{{efn|name=UCL}}||0|| colspan=2 |—||28
+||2
+|-
+!colspan=2|Total
+!91!!9!!3!!0!!6!!0!!20!!1!!0!!0!!120!!10
+|-
+!colspan=3 |Total
+!349!!83!!32!!6!!7!!0!!57!!12!!4!!1!!449!!102
+|}
+
+{{notelist}}
+
+===International===
+&lt;!-- NOTE: when updating stats, update the infobox too! --&gt;
+{{updated|match played 16 November 2018}}&lt;ref&gt;{{cite web|url=https://us.soccerway.com/players/georginio-wijnaldum/8828/|title=Netherlands - G. Wijnaldum - Profile with news, career statistics and history - Soccerway|website=us.soccerway.com}}&lt;/ref&gt;
+{| class="wikitable" style="text-align:center"
+|-
+! National team!!Year!!Apps!!Goals
+|-
+| rowspan="8"|[[Netherlands national football team|Netherlands]]
+|2011||2||1
+|-
+|2012||0||0
+|-
+|2013||1||0
+|-
+|2014||13||1
+|-
+|2015||9||2
+|-
+|2016||11||3
+|-
+|2017||9||1
+|-
+|2018||6||2
+|-
+! colspan=2|Total!!51!!10
+|}
+
+===International goals===
+:''As of match played 16 November 2018. Scores and results list Netherlands' goal tally first, score column indicates score after each Wijnaldum goal.''&lt;ref name=SW&gt;{{Soccerway|georginio-wijnaldum/8828}}&lt;/ref&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|1
+|2 September 2011||[[Philips Stadion]], [[Eindhoven]], Netherlands||align=center|1||{{fb|San Marino}}||align=center|11–0||align=center|11–0||[[UEFA Euro 2012 qualifying Group E|UEFA Euro 2012 qualification]]
+|-
+!scope=row|2
+|12 July 2014||[[Estádio Nacional Mané Garrincha]], [[Brasília]], Brazil||align=center|12||{{fb|Brazil}}||align=center|3–0||align=center|3–0||[[2014 FIFA World Cup knockout stage|2014 FIFA World Cup]]
+|-
+!scope=row|3
+|12 June 2015||[[Skonto Stadium]], [[Riga]], Latvia||align=center|20||{{fb|Latvia}}||align=center|1–0||align=center|2–0||rowspan="2"|[[UEFA Euro 2016 qualifying Group A|UEFA Euro 2016 qualification]]
+|-
+!scope=row|4
+|10 October 2015||[[Astana Arena]], [[Astana]], Kazakhstan||align=center|23||{{fb|Kazakhstan}}||align=center|1–0||align=center|2–1
+|-
+!scope=row|5
+|1 June 2016||[[Stadion Energa Gdańsk]], [[Gdańsk]], Poland||align=center|29||{{fb|Poland}}||align=center|2–1||align=center|2–1||rowspan="3"|[[Exhibition game#Association football|Friendly]]
+|-
+!scope=row|6
+|4 June 2016||[[Ernst-Happel-Stadion]], [[Vienna]], Austria||align=center|30||{{fb|Austria}}||align=center|2–0||align=center|2–0
+|-
+!scope=row|7
+|1 September 2016||Philips Stadion, Eindhoven, Netherlands||align=center|31||{{fb|Greece}}||align=center|1–0||align=center|1–2
+|-
+!scope=row|8
+|9 June 2017||[[De Kuip]], [[Rotterdam]], Netherlands||align=center|40||{{fb|LUX}}||align=center|3–0||align=center|5–0||[[2018 FIFA World Cup qualification – UEFA Group A|2018 FIFA World Cup qualification]]
+|-
+!scope=row|9
+|13 October 2018||[[Johan Cruyff Arena]], [[Amsterdam]], Netherlands||align=center|50||{{fb|GER}}||align=center|3–0||align=center|3–0||rowspan="2"|[[2018–19 UEFA Nations League A]]
+|-
+!scope=row|10
+|16 November 2018||De Kuip, Rotterdam, Netherlands||align=center|51||{{fb|FRA}}||align=center|1–0||align=center|2–0
+|}
+
+==Honours==
+'''PSV'''
+*[[Eredivisie]]: [[2014–15 Eredivisie|2014–15]]&lt;ref name=sqk&gt;{{cite web|url=http://www.squawka.com/news/where-are-they-now-dutch-footballer-of-the-year-winners/615652|title=Where are they now? Dutch Footballer of the Year award winners of the last 10 years|website=Squawka|last=Smith|first=Matt|date=9 March 2016|accessdate=25 March 2017}}&lt;/ref&gt;
+*[[KNVB Cup]]: [[2011–12 KNVB Cup|2011–12]]&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2012/04/08/netherlands/knvb-beker/psv-nv/stichting-heracles-almelo/1254876/|title=PSV vs. Heracles&amp;nbsp;– 8 April 2012&amp;nbsp;– Soccerway|publisher=}}&lt;/ref&gt;
+
+'''Liverpool'''
+*[[UEFA Champions League]] runner-up: [[2017–18 UEFA Champions League|2017–18]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44258022 |title=Real Madrid 3–1 Liverpool |first=Phil |last=McNulty |publisher=BBC Sport |date=26 May 2018 |accessdate=27 May 2018}}&lt;/ref&gt;
+
+'''Netherlands'''
+*[[FIFA World Cup]] third place: [[2014 FIFA World Cup#Third place play-off|2014]]&lt;ref name="match300186502"&gt;{{cite web | url = https://www.fifa.com/worldcup/matches/round=255957/match=300186502/index.html#nosticky | title = 2014 FIFA World Cup Brazil™: Brazil-Netherlands – Overview | publisher = FIFA | date = 12 July 2014 | accessdate = 14 July 2014}}&lt;/ref&gt;
+
+'''Individual'''
+*Rotterdam talent of the year: 2007&lt;ref&gt;{{cite news |title=Wijnaldum Rotterdams sporttalent |url=http://www.feyenoord.nl/pages/newsdetail/S1/10010000031426-999-10010000000003.aspx |newspaper=Feyenoord.nl |language=Dutch |trans-title= |date=19 December 2007 |accessdate=6 October 2009 |archive-url=https://web.archive.org/web/20081002213600/http://www.feyenoord.nl/pages/newsdetail/s1/10010000031426-999-10010000000003.aspx |archive-date=2 October 2008 |dead-url=yes |df=dmy-all }}&lt;/ref&gt;
+*[[Dutch Footballer of the Year]]: 2014–15&lt;ref name=sqk/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [http://www.liverpoolfc.com/team/first-team/player/georginio-wijnaldum Liverpool F.C. profile]
+* [https://www.vi.nl/spelers/georginio-wijnaldum/profiel Georginio Wijnaldum] at ''[[Voetbal International]]'' {{nl icon}}
+* [http://www.feyenoord.nl/pages/datapresenter/s2/playerinfo.aspx?dataid=10010000030408 Official Georginio Wijnaldum profile on Feyenoord.nl] {{nl icon}}
+* {{Soccerbase}}
+* [http://www.onsoranje.nl/team-statistieken/teams/speler/22/4f8c4268-2a72e970-736861 Holland U17 stats] at OnsOranje
+* [http://www.onsoranje.nl/team-statistieken/teams/speler/20/4f8c4268-2a72e970-736861 Holland U19 stats] at OnsOranje
+* [http://www.onsoranje.nl/team-statistieken/teams/speler/25/4f8c4268-2a72e970-736861 Holland U21 stats] at OnsOranje
+
+{{Dutch Footballer of the Year}}
+{{Netherlands squad 2014 FIFA World Cup}}
+{{Liverpool F.C. squad}}
+
+{{DEFAULTSORT:Wijnaldum, Georginio}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Dutch footballers]]
+[[Category:Dutch people of Surinamese descent]]
+[[Category:Feyenoord players]]
+[[Category:PSV Eindhoven players]]
+[[Category:Newcastle United F.C. players]]
+[[Category:Eredivisie players]]
+[[Category:Premier League players]]
+[[Category:Footballers from Rotterdam]]
+[[Category:Netherlands youth international footballers]]
+[[Category:Netherlands under-21 international footballers]]
+[[Category:Netherlands international footballers]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:Association football midfielders]]
+[[Category:Dutch expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Dutch expatriate sportspeople in England]]
+[[Category:Liverpool F.C. players]]</text>
+      <sha1>fo8q84yh236icelgtvocg65gxfjksp2</sha1>
+    </revision>
+  </page>
+</mediawiki>

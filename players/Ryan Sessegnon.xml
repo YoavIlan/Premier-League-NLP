@@ -1,0 +1,224 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ryan Sessegnon</title>
+    <ns>0</ns>
+    <id>51287745</id>
+    <revision>
+      <id>882613333</id>
+      <parentid>880837177</parentid>
+      <timestamp>2019-02-10T08:41:44Z</timestamp>
+      <contributor>
+        <username>Mighty platypus</username>
+        <id>34602910</id>
+      </contributor>
+      <comment>Updated appearances</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27704">{{EngvarB|date=January 2019}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox football biography
+| name = Ryan Sessegnon
+| image = Ryan Sessegnon 2017.jpg
+| image_size = 200
+| caption = Sessegnon playing for [[Fulham F.C.|Fulham]] in 2017
+| fullname = Kouassi Ryan Sessegnon&lt;ref&gt;{{cite web |url=https://www.thefa.com/~/media/files/thefaportal/governance-docs/registrations/player-registration---july-2016.ashx |title=List of Players Registered as Scholars in Accordance with Rule C.3 Between 01/07/2016 and 31/07/2016 |publisher=The Football Association |format=PDF |page=51 |archiveurl=https://web.archive.org/web/20161112083038/http://www.thefa.com/~/media/files/thefaportal/governance-docs/registrations/player-registration---july-2016.ashx |archivedate=12 November 2016 |deadurl=yes}}&lt;/ref&gt;
+| birth_date = {{birth date and age|2000|05|18|df=y}}&lt;ref&gt;{{cite web |url=http://www.uefa.com/under17/season=2016/teams/player=250097165/index.html |title=Ryan Sessegnon |publisher=UEFA |accessdate=10 August 2016}}&lt;/ref&gt;
+| birth_place = [[Roehampton]], England
+| height = {{height|ft=5|in=10}}&lt;ref name=FulhamProfile&gt;{{cite web |url=https://www.fulhamfc.com/player-profiles/ryan-sessegnon |title=Ryan Sessegnon |publisher=Fulham F.C. |accessdate=24 May 2017}}&lt;/ref&gt;
+| position = [[Midfielder#Winger|Left winger]] / [[left back]]
+| currentclub = [[Fulham F.C.|Fulham]]
+| clubnumber = 3
+| youthyears1 = 2008–2016
+| youthclubs1 = [[Fulham F.C. Academy|Fulham]]
+| years1 = 2016–
+| clubs1 = [[Fulham F.C.|Fulham]]
+| caps1 = 94
+| goals1 = 22
+| nationalyears1 = 2015–2016
+| nationalteam1 = [[England national under-16 football team|England U16]]
+| nationalcaps1 = 10
+| nationalgoals1 = 2
+| nationalyears2 = 2016
+| nationalteam2 = [[England national under-17 football team|England U17]]
+| nationalcaps2 = 5
+| nationalgoals2 = 0
+| nationalyears3 = 2016–2017
+| nationalteam3 = [[England national under-19 football team|England U19]]
+| nationalcaps3 = 14
+| nationalgoals3 = 4
+| nationalyears4 = 2018–
+| nationalteam4 = [[England national under-21 football team|England U21]]&lt;ref&gt;{{cite web |url=http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg4.html |title=England's matches: The under 21's: 2010–20 |website=England Football Online |date=15 November 2018 |accessdate=10 December 2018}}&lt;br /&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45479514 |title=Latvia U21 1–2 England U21 |publisher=BBC Sport |date=11 September 2018 |accessdate=10 December 2018}}&lt;br /&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/46283328 |title=Denmark U21 1–5 England U21 |publisher=BBC Sport |date=20 November 2018 |accessdate=10 December 2018}}&lt;/ref&gt;
+| nationalcaps4 = 7
+| nationalgoals4 = 0
+| club-update = 08:41, 10 February 2019 (UTC)
+| nationalteam-update = 21:33, 1 January 2019 (UTC)
+}}
+'''Kouassi Ryan Sessegnon''' (born 18 May 2000) is an English professional [[association football|footballer]] who plays as a [[left back]] or [[Midfielder#Winger|left winger]] for {{English football updater|Fulham}} club [[Fulham F.C.|Fulham]] and the [[England national under-21 football team|England under-21 national team]].
+
+After eight years in the club's youth teams, Sessegnon was promoted to the Fulham senior team in 2016, and made an instant impact on the team, and was considered a club superstar in his [[2016–17 EFL Championship|debut season]], which saw his team finish sixth in the [[EFL Championship|Championship]] and qualify for the [[2017 Football League play-offs|promotion play-offs]], where they were defeated in the semi-finals by [[Reading F.C.|Reading]]. In his second season, Sessegnon renewed his form, and helped Fulham achieve promotion to the Premier League via the play-offs.
+
+Sessegnon has previously represented his country at [[England national under-16 football team|under-16]], [[England national under-17 football team|under-17]] and [[England national under-19 football team|under-19]] levels.
+
+==Early life==
+Sessegnon was born in [[Roehampton]], London,&lt;ref name=FulhamProfile/&gt; and has a twin brother, [[Steven Sessegnon|Steven]], who also plays for [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite news |last=Singer |first=Jonny |url=http://www.dailymail.co.uk/sport/football/article-3283256/Fulham-s-future-looking-bright-toppling-big-guns-win-Premier-League-s-U16-International-Cup-patience-key-success-says-academy-coach-Kevin-Betsy.html |title=Fulham's future looking bright after toppling big guns to win the Premier League's U16 International Cup... but patience is key to success, says academy coach Kevin Betsy |newspaper=Daily Mail |location=London |date=21 October 2015 |accessdate=14 September 2016}}{{Unreliable source?|date=May 2017}}&lt;/ref&gt; Sessegnon is a distant cousin of the Beninese international footballer [[Stéphane Sessègnon]].&lt;ref&gt;{{cite news |last=Collomosse |first=Tom |url=https://www.standard.co.uk/sport/football/fulham-teen-ryan-sessegnon-can-rise-to-challenge-as-chelsea-tottenham-and-europe-look-on-a3451296.html |title=Fulham teen Ryan Sessegnon can rise to challenge as Chelsea, Tottenham and Europe look on |newspaper=London Evening Standard |date=27 January 2017 |accessdate=7 June 2017}}&lt;/ref&gt;
+
+==Club career==
+===Fulham===
+Sessegnon joined Fulham in 2008 in their under-nine team.&lt;ref name=FulhamProfile/&gt;
+
+====2016–17 season====
+On 9 August 2016, Sessegnon made his first-team debut in an [[EFL Cup]] match against [[Leyton Orient F.C.|Leyton Orient]] aged 16 years and 81 days.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/36949840 |title=Leyton Orient 2–3 Fulham |publisher=BBC Sport |date=9 August 2016 |accessdate=10 August 2016}}&lt;/ref&gt; On 16 August, he made his league debut in a [[EFL Championship|Championship]] match against [[Leeds United F.C.|Leeds United]] in a 1–1 draw.&lt;ref&gt;{{cite web |url=http://www.leedsunited.com/news/article/116sde3jdhs0b1u5ajmem29p05/title/wood-strikes-to-clinch-late-point |title=Wood strikes to clinch late point |publisher=Leeds United F.C. |date=16 August 2016 |accessdate=16 August 2016}}&lt;/ref&gt; On 20 August, he scored his first professional goal in a league match against [[Cardiff City F.C.|Cardiff City]], becoming the first professional footballer in the English leagues to have been born in the 2000s to score a goal in a first-team game and the youngest player ever to have scored in a Championship match.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/37067348 |title=Fulham 2–2 Cardiff |publisher=BBC Sport |date=20 August 2016 |accessdate=22 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Shode |first=Lekan |url=http://www.90min.com/posts/3666315-man-united-enter-transfer-race-with-liverpool-to-sign-fulham-starlet-ryan-sessegnon |title=Man United Enter Transfer Race With Liverpool to Sign Fulham Starlet Ryan Sessegnon |publisher=90min |date=24 August 2016 |accessdate=14 September 2016}}&lt;/ref&gt; He scored the winner on his [[FA Cup]] debut, also against Cardiff, on 8 January, becoming one of the youngest goalscorers in the history of the competition.&lt;ref&gt;{{Cite news |url=https://www.standard.co.uk/sport/football/fulhams-16yearold-ryan-sessegnon-marks-fa-cup-debut-with-goal-to-become-one-of-the-competitions-a3435396.html |title=Fulham's 16-year-old starlet Sessegnon marks FA Cup debut with a goal |date=8 January 2017 |newspaper=London Evening Standard |accessdate=1 July 2017}}&lt;/ref&gt; 
+
+On 11 March, Sessegnon scored twice in an away match against eventual league champions [[Newcastle United F.C.|Newcastle United]],&lt;ref&gt;{{Cite web |url=https://www.fulhamfc.com/first-team/2016_2017/league/away/newcastle-united |title=Newcastle United 1–3 Fulham |publisher=Fulham F.C. |accessdate=1 July 2017}}&lt;/ref&gt; with former Newcastle player [[Alan Shearer]] praising his performance as "brilliant".&lt;ref&gt;{{Cite web |url=https://twitter.com/alanshearer/status/840613425080336384 |title=He was brilliant, as was his captain Tom Cairney |last=Shearer |first=Alan |date=11 March 2017 |website=@alanshearer|access-date=1 July 2017}}&lt;/ref&gt; In total, Sessegnon made 30 appearances in all competitions, including in the second leg of Fulham's play-off semi-final defeat against [[Reading F.C.|Reading]],&lt;ref&gt;{{Cite news |url=https://www.bbc.co.uk/sport/football/39853033 |title=Reading 1–0 Fulham (agg: 2–1) |date=16 May 2017 |publisher=BBC Sport |accessdate=1 July 2017}}&lt;/ref&gt; scoring seven goals, and was named in the [[PFA Team of the Year (2010s)#Championship 8|PFA Championship Team of the Year]],&lt;ref name=1617PFA&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39648483 |title=PFA teams of the year: Chelsea and Tottenham dominate Premier League XI |publisher=BBC Sport |date=20 April 2017 |accessdate=5 May 2018}}&lt;/ref&gt; the youngest player ever included.&lt;ref&gt;{{Cite news |url=http://www.squawka.com/news/confirmed-brighton-dominate-cship-toty-but-one-newcastle-inclusion-has-fans-talking/936519#M2G4Jg4prFy4oRl2.97 |title=Ryan Sessegnon becomes youngest ever player in PFA Championship Team of the Year |work=Squawka Football News |accessdate=1 July 2017}}&lt;/ref&gt;
+
+Media interest in Sessegnon grew as his debut season progressed. In February 2017, Italian newspaper ''[[La Gazzetta dello Sport]]'' ranked Sessegnon as one of the top 30 Under-20s players in Europe,&lt;ref&gt;{{Cite news |url=https://www.thesun.co.uk/sport/football/2925930/marcus-rashford-tom-davies-ryan-sessegnon-top-30-under-20s-europe/ |title=Marcus Rashford, Tom Davies and Ryan Sessegnon named in the top 30 Under-20s stars in Europe |date=22 February 2017 |newspaper=The Sun |accessdate=1 July 2017}}{{Unreliable source?|date=July 2017}}&lt;/ref&gt; while in May 2017, ''[[Sports Illustrated]]'' named him as the 19th-best under-20 player in world football.&lt;ref&gt;{{Cite news |url=https://www.si.com/planet-futbol/2017/05/16/top-20-under-20-world-soccer |title=Top 20 Under 20: The world's best rising soccer stars |last=Lyttleton |first=Ben |work=Sports Illustrated |accessdate=1 July 2017}}&lt;/ref&gt; Fulham striker [[Neeskens Kebano]] called him "the future of English football",&lt;ref&gt;{{Cite news |url=https://www.mirror.co.uk/sport/football/news/fulhams-ryan-sessegnon-the-future-10405372 |title=Sessegnon 'the future of English football' says Fulham teammate before playoffs |last=Walters |first=Mike |date=11 May 2017 |newspaper=Daily Mirror |location=London |accessdate=1 July 2017}}&lt;/ref&gt; with teammate [[Stefan Johansen]] saying it was "99% certain he will be one of the top left-backs in the world".&lt;ref&gt;{{Cite news |url=http://www.skysports.com/football/news/11681/10767778/ryan-sessegnon-in-focus-fulham-teenager-is-the-next-english-star |title=Ryan Sessegnon in focus: Fulham teenager is the next English star |publisher=Sky Sports |accessdate=1 July 2017}}&lt;/ref&gt; 
+
+As the summer transfer window approached, interest was reported from numerous [[Premier League]] clubs, including [[Everton F.C.|Everton]],&lt;ref&gt;{{Cite news |url=http://www.getwestlondon.co.uk/sport/football/transfer-news/everton-latest-club-linked-fulhams-12715620 |title=Everton the latest club to be linked with Ryan Sessegnon |last=O'Donovan |first=Ryan |date=9 March 2017 |work=getwestlondon |accessdate=1 July 2017}}&lt;/ref&gt; [[Liverpool F.C.|Liverpool]]&lt;ref&gt;{{Cite news |url=http://www.liverpoolecho.co.uk/sport/football/transfer-news/liverpool-plotting-summer-move-fulhams-12944494 |title=Liverpool plotting summer move for Fulham's Ryan Sessegnon |last=Pearce |first=James |date=26 April 2017 |newspaper=Liverpool Echo |accessdate=1 July 2017}}&lt;/ref&gt; and [[Manchester United F.C.|Manchester United]],&lt;ref&gt;{{Cite news |url=https://www.telegraph.co.uk/football/2017/06/01/manchester-united-keen-sign-fulham-wonderkid-ryan-sessegnon/ |title=Manchester United keen to sign Fulham wonderkid Ryan Sessegnon |newspaper=The Daily Telegraph |location=London |accessdate=1 July 2017}}&lt;/ref&gt; as well as [[Bundesliga]] sides [[FC Bayern Munich|Bayern Munich]] and [[RB Leipzig]],&lt;ref&gt;{{Cite news |url=https://www.dreamteamfc.com/c/archives/news-gossip/186636/fulham-newcastle-ryan-sessegnon/ |title=Who is the English 16-year-old who scored twice against Newcastle? |date=11 March 2017 |work=Dream Team FC |accessdate=1 July 2017}}&lt;/ref&gt; with Sessegnon potentially available for a compensation fee of £2&amp;nbsp;million&lt;ref&gt;{{Cite web |url=http://metro.co.uk/2017/06/01/jose-mourinho-personally-requests-manchester-united-sign-ryan-sessegnon-6678646/ |title=Jose Mourinho personally rates teenage star and requests Man Utd sign him |last=Metro.co.uk |first=Metro Sport Reporter for |date=1 June 2017 |website=Metro |accessdate=1 July 2017}}&lt;/ref&gt; as [[The Football Association|Football Association]] rules meant he could not sign professional terms until his 17th birthday on 18 May 2017.&lt;ref&gt;{{Cite web |url=http://www.thefa.com/~/media/Files/TheFAPortal/governance-docs/registrations/fa-rule-c---relating-to-players.ashx. |title=The website for the English football association, the Emirates FA Cup and the England football team |last=Association |first=The Football |publisher=The Football Association |accessdate=1 July 2017}}&lt;/ref&gt; However, on 28 June 2017, it was announced Sessegnon had signed his first professional contract with Fulham, committing him to the club until 2020.&lt;ref&gt;{{cite web |url=https://www.fulhamfc.com/news/2017/june/28/sess-turns-pro |title=Sess Turns Pro |publisher=Fulham F.C. |accessdate=1 July 2017}}&lt;/ref&gt; Sessegnon cited the likelihood of playing regularly in the first team as his reason, saying, "Last season I got a lot of opportunities so I want to continue that. When you are young you just want to play as many games as you can."&lt;ref&gt;{{Cite news |url=https://www.standard.co.uk/sport/football/tottenham-transfer-news-ryan-sessegnon-reveals-why-he-snubbed-premier-league-clubs-to-sign-new-a3575996.html |title=Ryan Sessegnon reveals why he snubbed Tottenham and Manchester United |date=29 June 2017 |newspaper=London Evening Standard |accessdate=1 July 2017}}&lt;/ref&gt;
+
+====2017–18 season====
+On 28 July 2017, Fulham announced that Sessegnon would wear the number 3 shirt, moving from his previous number 30.&lt;ref&gt;{{Cite web |url=http://www.fulhamfc.com/news/2017/july/28/squad-numbers |title=Squad Numbers |publisher=Fulham F.C. |accessdate=31 July 2017}}&lt;/ref&gt; He scored his first goal of the season in a 1–1 draw with Cardiff on 9 September.&lt;ref&gt;{{Cite news |url=https://www.bbc.co.uk/sport/football/41132796 |title=Fulham 1–1 Cardiff City |date=9 September 2017 |publisher=BBC Sport |accessdate=14 September 2017}}&lt;/ref&gt; In November 2017, ''[[FourFourTwo]]'' included Sessegnon in their 100 Best Teenagers in the World list, comparing him with [[Ashley Cole]] and [[David Alaba]].&lt;ref&gt;{{Cite news |url=https://www.fourfourtwo.com/my/features/fourfourtwos-100-best-teenagers-world-2017-40-21 |title=FourFourTwo's 100 Best Teenagers in the World 2017: 40–21 |date=9 November 2017 |work=FourFourTwo |accessdate=23 November 2017}}&lt;/ref&gt; On 21 November 2017, Sessegnon marked his 50th appearance for Fulham by scoring his first professional hat-trick in a 5–4 away victory against [[Sheffield United F.C.|Sheffield United]]&lt;ref name=SHUFUL&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/41978135 |title=Sheffield United 4–5 Fulham |publisher=BBC Sport |date=21 November 2017}}&lt;/ref&gt; – becoming the first seventeen-year-old to score a hat-trick in the top four tiers of English league football since [[Dele Alli]] in 2014.&lt;ref&gt;{{Cite web |url=https://twitter.com/OptaJoe/status/933257770790404096 |title=17 – Ryan Sessegnon was the first 17-year-old to score a hat-trick within the top four tiers of English league football since Dele Alli in March 2014 (Notts County 1–3 MK Dons in League One). Exciting.pic.twitter.com/Yax86Qt6kL |last=OptaJoe |date=22 November 2017 |website=@OptaJoe |accessdate=23 November 2017}}&lt;/ref&gt; After netting six goals in January 2018, courtesy of braces against [[Ipswich Town F.C.|Ipswich Town]], [[Burton Albion F.C.|Burton Albion]] and [[Barnsley F.C.|Barnsley]], Sessegnon was named [[Professional Footballers' Association|PFA]]&lt;ref name="ThePFA.com"&gt;{{Cite web |url=https://www.thepfa.com/thepfa/pfa-fans-player-of-the-month/january-pfa-championship-fans-player-of-the-month-ryan-sessegnon |title=Ryan Sessegnon voted the PFA Bristol Street Motors Player of the Month |publisher=Professional Footballers' Association |accessdate=10 February 2018 |archiveurl=https://web.archive.org/web/20180211072324/https://www.thepfa.com/thepfa/pfa-fans-player-of-the-month/january-pfa-championship-fans-player-of-the-month-ryan-sessegnon |archivedate=11 February 2018 |deadurl=yes}}&lt;/ref&gt; and [[EFL Championship Player of the Month|Championship Player of the Month]].&lt;ref&gt;{{Cite web |url=https://www.efl.com/news/2018/february/player-of-the-month-ryan-sessegnon---fulham/ |title=EFL Official Website Player of the Month: Ryan Sessegnon – Fulham |accessdate=10 February 2018}}&lt;/ref&gt; On 19 February 2018, Sessegnon was named tenth in the most promising under 20 prospects in the whole of Europe.  Sessegnon featured in a prestigious list by CIES with the likes of [[A.C. Milan|Milan]] goalkeeper [[Gianluigi Donnarumma]] featuring in 1st place and [[Paris Saint-Germain F.C.|Paris Saint-Germain]] striker [[Kylian Mbappé]] in 3rd place.&lt;ref&gt;{{cite news |title=Gianluigi Donnarumma: AC Milan keeper named top under-20 European prospect |url=https://www.bbc.co.uk/sport/football/43115781 |publisher=BBC Sport |date=19 February 2018}}&lt;/ref&gt;
+
+In April 2018 he was nominated for the EFL Championship Player of the Season and Young Player of the Season awards.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/43641225 |title=EFL awards: Tom Cairney, Ruben Neves &amp; Ryan Sessgenon on Championship shortlist |date=4 April 2018 |accessdate=4 April 2018 |publisher=BBC Sport}}&lt;/ref&gt; He also became the first Championship player to be nominated for the [[PFA Young Player of the Year]] award. On 15 April, Sessegnon won an unprecedented five awards when he was named [[Football League Awards#2018 awards|Championship Player of the Season]], Young Player of the Season, [[Football League Apprentice of the Year|Apprentice of the Year]], and named in the Team of the Season and EFL Club Developed XI.&lt;ref&gt;{{cite news |url=https://www.mirror.co.uk/sport/football/news/fulham-wonderkid-ryan-sessegnon-wins-12371190 |title=Fulham wonderkid Ryan Sessegnon wins FIVE gongs at EFL awards including Championship Player of the Year |last=Whaling |first=James |work=Mirror |date=15 April 2018 |accessdate=16 April 2018}}&lt;/ref&gt; Fulham finished the league season in third place, allowing them to advance to the [[EFL Championship play-offs|play-offs]], where Sessegnon helped his side secure a place in the play-off final by scoring the opening goal and assisting the game-winning goal in the semi-final second leg against [[Derby County F.C.|Derby County]].&lt;ref name="14 May 2018"&gt;{{cite web |last1=Dean |first1=Sam |title=Ryan Sessegnon blows Derby County away to fire Fulham into play-off final |url=https://www.telegraph.co.uk/football/2018/05/14/ryan-sessegnon-fires-fulham-play-off-final-derby-county-blown/ |website=The Daily Telegraph |accessdate=14 May 2018}}&lt;/ref&gt; On 26 May 2018, Sessegnon assisted [[Tom Cairney]]'s 23rd minute goal in a 1–0 win against [[Aston Villa F.C.|Aston Villa]] in the [[2018 EFL Championship play-off Final|Championship play-off final]] at [[Wembley Stadium|Wembley]] to secure promotion to the [[Premier League]] for Fulham.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2018/may/26/aston-villa-fulham-championship-play-off-final-match-report |title=Fulham promoted to Premier League after play-off win over Aston Villa |work=The Guardian |accessdate=24 October 2018 |date=26 May 2018}}&lt;/ref&gt;
+
+====2018–19 season====
+Sessegnon made his first ever [[Premier League]] appearance on 11 August 2018, the opening day of the new league campaign, which resulted in a 2–0 defeat to an established [[Crystal Palace F.C.|Crystal Palace]] at [[Craven Cottage]].&lt;ref&gt;{{cite web |url=https://www.premierleague.com/match/38310 |title=Fulham v Crystal Palace, 2018/19 |publisher=Premier League |date=11 August 2018 |accessdate=24 November 2018}}&lt;/ref&gt; On 20 October 2018, the English winger scored his first Premier League goal in a 4–2 away loss to [[Cardiff City F.C.|Cardiff City]], becoming the first player born in the 2000s to score in the competition.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45930086 |title=Premier League stats: Ryan Sessegnon and the millennium babies making an impact |publisher=BBC Sport |accessdate=24 October 2018 |date=21 October 2018}}&lt;/ref&gt; He made his 100th appearance for the club on 8 December, starting in a 4–1 league loss to [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite news |url=https://www.express.co.uk/sport/football/1055752/Man-Utd-Premier-League-TV-Stream-Fulham-Score-Goals-Jose-Mourinho-Paul-Pogba-Latest |title=Man Utd 4–1 Fulham AS IT HAPPENED: Romelu Lukaku scores first home goal since March |publisher=Express |last=Anderson |first=Jamie |date=8 December 2018 |accessdate=1 January 2019}}&lt;/ref&gt;
+
+==International career==
+In 2016, Sessegnon played up an age group to represent England in the [[2016 UEFA European Under-17 Championship|U17 Euros]].&lt;ref&gt;{{cite web |url=http://www.fulhamfc.com/news/2016/may/04/duo-on-england-duty |title=Duo on England duty |publisher=Fulham F.C. |date=4 May 2016 |accessdate=10 August 2016}}&lt;/ref&gt; He scored his first goal for [[England national under-19 football team|England Under-19s]] against [[Luxembourg national under-19 football team|Luxembourg]] in a [[UEFA European Under-19 Championship|European Under-19 Championship]] qualifier on 10 November 2016, scoring the second goal in a 2–0 win.&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2016/nov/10/england-u19s-luxembourg-report-101116 |title=The website for the English football association, the Emirates FA Cup and the England football team |publisher=The Football Association |accessdate=1 July 2017}}&lt;/ref&gt;
+
+On 26 June 2017, Sessegnon was named in the final 18-man squad for the [[2017 UEFA European Under-19 Championship|Euro U19s finals]].&lt;ref&gt;{{Cite web |url=http://www.thefa.com/news/2017/jun/26/england-u19-squad-for-euros-260617 |title=Young Lions squad for U19 Euro |last=Association |first=The Football |publisher=The Football Association |accessdate=1 July 2017}}&lt;/ref&gt; He went on to score three goals, including two in a 4–1 win over [[Germany national youth football team|Germany]],&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2017/jul/10/ryan-sessegnon-post-germany-100717 |title=Young Lions ace Ryan Sessegnon says first-team action has helped him at Euros finals |publisher=The Football Association |date=10 July 2017 |accessdate=13 July 2017}}&lt;/ref&gt; finishing the tournament as joint-top scorer&lt;ref&gt;{{cite web |url=http://www.uefa.com/under19/season=2017/statistics/index.html |title=Under-19 – Statistics |publisher=UEFA |accessdate=15 July 2017}}&lt;/ref&gt; as England were crowned champions for the first time.&lt;ref&gt;{{Cite news |url=https://www.standard.co.uk/sport/football/england-win-euro-u19-championship-as-lukas-nmecha-winner-downs-portgual-in-final-a3588831.html |title=England win Euro Under-19 Championship with win over Portugal |newspaper=London Evening Standard |accessdate=15 July 2017}}&lt;/ref&gt; He was subsequently included in the [[2017 UEFA European Under-19 Championship#Team of the Tournament|team of the tournament]].&lt;ref name="2017 Technical Report"&gt;{{cite web |title=2017 UEFA U19 Technical Report |url=http://www.uefa.com/under19/season=2017/technical-report/uefa-technical-team/index.html |publisher=UEFA |accessdate=5 October 2017}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 12 January 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[Fulham F.C.|Fulham]]
+|[[2016–17 Fulham F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|94024|2016|accessdate=27 December 2018}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|25||5||3||2||1||0||1{{efn|name=CPO|Appearance(s) in [[EFL Championship play-offs|Championship play-offs]]}}||0||30||7
+|-
+|[[2017–18 Fulham F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|94024|2017|accessdate=27 December 2018}}&lt;/ref&gt;
+|Championship
+|46||15||1||0||2||0||3{{efn|name=CPO}}||1||52||16
+|-
+|[[2018–19 Fulham F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|94024|2018|accessdate=1 January 2019}}&lt;/ref&gt;
+|[[Premier League]]
+|20||2||1||0||2||0||colspan=2|—||23||2
+|-
+!colspan=3|Career total
+!91||22||5||2||5||0||4||1||105||25
+|}
+
+{{notelist}}
+
+==Honours==
+'''Fulham'''
+*[[EFL Championship play-offs]]: [[2018 English Football League play-offs#Championship|2018]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44178427 |title=Aston Villa 0–1 Fulham |first=Phil |last=Cartwright |publisher=BBC Sport |date=26 May 2018 |accessdate=26 May 2018}}&lt;/ref&gt;
+
+'''England U19'''
+*[[UEFA European Under-19 Championship]]: [[2017 UEFA European Under-19 Championship|2017]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/40619862 |title=European Under-19 Championship: England beat Portugal in final |publisher=BBC Sport |date=15 July 2017 |accessdate=9 August 2017}}&lt;/ref&gt;
+
+'''Individual'''
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Championship 8|2016–17 Championship]],&lt;ref name=1617PFA/&gt; [[PFA Team of the Year (2010s)#Championship 9|2017–18 Championship]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/43808543 |title=PFA Championship Team of the Year: Wolves &amp; Fulham trios named in line-up |publisher=BBC Sport |date=18 April 2018 |accessdate=5 May 2018}}&lt;/ref&gt;
+*PFA Championship Player of the Month: January 2018&lt;ref name="ThePFA.com"/&gt;
+*[[EFL Championship Player of the Month]]: January 2018
+*UEFA European Under-19 Championship Team of the Tournament: [[2017 UEFA European Under-19 Championship#Team of the Tournament|2017]]&lt;ref name="2017 Technical Report"/&gt;
+*[[Football League Apprentice of the Year|LFE Championship Apprentice of the Year]]: [[Football League Awards#2018 Awards|2017–18]]&lt;ref&gt;{{Cite news |url=https://www.lfe.org.uk/news/ryan-sessegnon-receives-lfe-championship-apprentice-of-the-year-prize |title=Ryan Sessegnon Receives LFE Championship Apprentice of the Year Prize |work=LFE |accessdate=8 May 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.fulhamfc.com/player-profiles/ryan-sessegnon Profile] at the Fulham F.C. website
+*{{Soccerbase}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2016–17 EFL Championship PFA Team of the Year}}
+{{2017–18 EFL Championship PFA Team of the Year}}
+{{UEFA European Under-19 Championship awards}}
+{{Football League Championship Player of the Year}}
+{{The Football League Young Player of the Year}}
+}}
+{{Fulham F.C. squad}}
+
+{{DEFAULTSORT:Sessegnon, Ryan}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:People from Roehampton]]
+[[Category:Footballers from Greater London]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:Association football defenders]]
+[[Category:Association football wingers]]
+[[Category:Fulham F.C. players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:Black English sportspeople]]
+[[Category:Twin sportspeople]]
+[[Category:Twin people from England]]
+[[Category:English people of Beninese descent]]</text>
+      <sha1>frjoehlnyop1h45xtw4bozm271so2nh</sha1>
+    </revision>
+  </page>
+</mediawiki>

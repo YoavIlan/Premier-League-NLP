@@ -1,0 +1,362 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Nathaniel Chalobah</title>
+    <ns>0</ns>
+    <id>37053880</id>
+    <revision>
+      <id>885154641</id>
+      <parentid>885154609</parentid>
+      <timestamp>2019-02-26T08:37:33Z</timestamp>
+      <contributor>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
+      </contributor>
+      <comment>/* Small fix on stats bio */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="30294">{{EngvarB|date=January 2019}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox football biography
+| name = Nathaniel Chalobah
+| image = Nathaniel Chalobah 20160810.jpg
+| image_size = 200
+| caption = Chalobah training with [[Chelsea F.C.|Chelsea]] in 2016
+| fullname = Nathaniel Nyakie Chalobah&lt;ref name=Hugman&gt;{{Hugman|22548|accessdate=5 December 2017}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1994|12|12|df=y}}&lt;ref name=Hugman/&gt;
+| birth_place = [[Freetown]], Sierra Leone
+| height = {{convert|1.87|m|ftin|order=flip}}&lt;ref name=Soccerway/&gt;
+| position = [[Midfielder]] / [[Defender (association football)|Defender]]
+| currentclub = [[Watford F.C.|Watford]]
+| clubnumber = 14
+| youthyears1 = 2004–2005
+| youthclubs1 = [[Fulham F.C. Academy|Fulham]]
+| youthyears2 = 2005–2010
+| youthclubs2 = [[Chelsea F.C. Under-23s and Academy|Chelsea]]
+| years1 = 2010–2017
+| clubs1 = [[Chelsea F.C.|Chelsea]]
+| caps1=  10
+| goals1 = 0
+| years2 = 2012–2013
+| clubs2 = → [[Watford F.C.|Watford]] (loan)
+| caps2 = 38
+| goals2 = 5
+| years3 = 2013–2014
+| clubs3 = → [[Nottingham Forest F.C.|Nottingham Forest]] (loan)
+| caps3 = 12
+| goals3 = 2
+| years4 = 2014
+| clubs4 = → [[Middlesbrough F.C.|Middlesbrough]] (loan)
+| caps4 = 19
+| goals4 = 1
+| years5 = 2014–2015
+| clubs5 = → [[Burnley F.C.|Burnley]] (loan)
+| caps5 = 4
+| goals5 = 0
+| years6 = 2015
+| clubs6 = → [[Reading F.C.|Reading]] (loan)
+| caps6 = 15
+| goals6 = 1
+| years7 = 2015–2016
+| clubs7 = → [[S.S.C. Napoli|Napoli]] (loan)
+| caps7 = 5
+| goals7 = 0
+| years8 = 2017–
+| clubs8 = [[Watford F.C.|Watford]]
+| caps8 = 13
+| goals8 = 0 
+| nationalyears1 = 2008–2009
+| nationalteam1 = [[England national under-16 football team|England U16]]
+| nationalcaps1 = 6
+| nationalgoals1 = 0
+| nationalyears2 = 2009–2011
+| nationalteam2 = [[England national under-17 football team|England U17]]
+| nationalcaps2 = 34
+| nationalgoals2 = 1
+| nationalyears3 = 2011–2012
+| nationalteam3 = [[England national under-19 football team|England U19]]
+| nationalcaps3 = 13
+| nationalgoals3 = 2
+| nationalyears4 = 2014
+| nationalteam4 = [[England national under-20 football team|England U20]]
+| nationalcaps4 = 4
+| nationalgoals4 = 0
+| nationalyears5 = 2012–2017
+| nationalteam5 = [[England national under-21 football team|England U21]]
+| nationalcaps5 = 40
+| nationalgoals5 = 1
+| nationalyears6 = 2018–
+| nationalteam6 = [[England national football team|England]]
+| nationalcaps6 = 1
+| nationalgoals6 = 0
+| club-update = 08:37, 26 February 2019 (UTC)
+| nationalteam-update = 00:22, 19 January 2019 (UTC)
+}}
+'''Nathaniel Nyakie Chalobah''' (born 12 December 1994) is an English professional [[Association football|footballer]] who plays as a [[midfielder]] or [[Defender (association football)|defender]] for {{English football updater|Watford}} club [[Watford F.C.|Watford]] and the [[England national football team|England national team]].
+
+==Club career==
+===Chelsea===
+After initially joining the [[youth system|academy system]] at [[Fulham F.C.|Fulham]], Chalobah moved to the [[Chelsea F.C.|Chelsea]] academy at the age of 10.&lt;ref name="independent.co.uk"&gt;{{cite web |author=Sam Wallace |url=https://www.independent.co.uk/sport/football/international/chelsea-youngster-nathaniel-chalobah-hoping-to-be-part-of-jose-mourinhos-own-class-of-92-10341930.html |title=Chelsea youngster Nathaniel Chalobah hoping to be part of Jose Mourinho's own 'Class of 92' |newspaper=The Independent |location=London |date=24 June 2014 |accessdate=2 October 2016}}&lt;/ref&gt; During the 2010–11 season, he featured for Chelsea reserves while still a schoolboy, winning the national championship with the team that season.&lt;ref name=ChelseaProfile&gt;[http://www.chelseafc.com/chelsea-article/article/900396/title/nathaniel-chalobah "Nathaniel Chalobah"] {{webarchive|url=https://web.archive.org/web/20121205051455/http://www.chelseafc.com/chelsea-article/article/900396/title/nathaniel-chalobah |date=5 December 2012 }}. Chelsea F.C. Retrieved 18 September 2012.&lt;/ref&gt; In 2011–12, Chalobah regularly captained both Chelsea's reserve and youth teams, and led the 2012 [[FA Youth Cup]] winning team.&lt;ref name=ChelseaProfile/&gt; He signed a professional contract with Chelsea in January 2012 shortly after turning 17, lasting until summer 2014.&lt;ref name=ChelseaProfile/&gt; He was an unused substitute for the Chelsea first-team at the age of 15, in their League Cup clash against Newcastle&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/league_cup/9010051.stm |title=MATCH REPORT: Chelsea 3–4 Newcastle |publisher=BBC Sport |accessdate=18 September 2012 |date=18 September 2012 |first=Phil |last=Dawkes}}&lt;/ref&gt; and travelled with them to the [[2012 UEFA Champions League Final]] at the [[Allianz Arena]], which Chelsea won.{{citation needed|date=January 2019}} On 30 August 2013, Chalobah signed a new five-year contract with Chelsea, stating that he wished to stay at Chelsea for his entire career.&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/3442516/title/chalobah-signs-until-2018 |title=Chalobah signs until 2018 |publisher=Chelsea F.C. |date=30 August 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130901213110/http://www.chelseafc.com/news-article/article/3442516/title/chalobah-signs-until-2018 |archivedate=1 September 2013}}&lt;/ref&gt;
+
+====Loan to Watford====
+Chalobah signed on loan for [[EFL Championship|Championship]] club [[Watford F.C.|Watford]] on 31 August 2012 until January 2013.&lt;ref&gt;{{cite web |url=http://www.watfordfc.com/news/article/120831-chalobah-signs-345444.aspx |title=Official: Chelsea's Chalobah Signs |publisher=Watford F.C. |accessdate=3 September 2012 |date=31 August 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130227021107/http://www.watfordfc.com/news/article/120831-chalobah-signs-345444.aspx |archivedate=27 February 2013}}&lt;/ref&gt; He made his first-team debut for the club on 18 September 2012 against [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]], coming on as 73rd-minute substitute for [[Fernando Forestieri]].&lt;ref&gt;{{cite web |url=http://www.watfordfc.com/news/article/120918-brighton-report-374952.aspx |title=MATCH REPORT: Watford 0–1 Brighton |publisher=Watford F.C |accessdate=18 September 2012 |date=18 September 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20121014181642/http://www.watfordfc.com/news/article/120918-brighton-report-374952.aspx |archivedate=14 October 2012}}&lt;/ref&gt; He later made his first start, lasting the full 90 minutes in Watford's 2–2 draw with [[Bristol City F.C.|Bristol City]] on 23 September.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/17661490 |title=Brighton 2–2 Watford |publisher=BBC Sport |date=17 April 2012 |accessdate=2 October 2016}}&lt;/ref&gt; On 17 November, Chalobah scored his first goal for Watford in a 2–1 win over [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/20278320 |title=Watford 2–1 Wolves |publisher=BBC Sport |date=17 November 2012 |accessdate=2 October 2016}}&lt;/ref&gt; He scored his second goal for Watford in a 1–1 draw against [[Burnley F.C.|Burnley]], on 15 December, with a fine volley from the edge of the box.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/20650396 |title=Burnley 1–1 Watford |publisher=BBC Sport |date=15 December 2012 |accessdate=2 October 2016}}&lt;/ref&gt;
+
+On 2 January 2013, Chalobah extended his loan at Watford until the end of the 2012–13 season. In April, he scored his fifth goal of the season with a 30-yard shot that [[Leicester City F.C.|Leicester City]] goalkeeper [[Kasper Schmeichel]] said he never saw; Watford won 2–1.&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-2315517/Leicester-1-Watford-2-Screamer-Chelsea-starlet-Chalobah-keeps-Hull-edge.html |title=Leicester 1 Watford 2: Screamer from Chelsea loan star Chalobah keeps Hull on edge |first=Neil |last=Moxley |newspaper=Daily Mail |date=26 April 2013 |accessdate=30 August 2014}}{{Unreliable source?|date=September 2017}}&lt;/ref&gt;
+
+Chalobah played for Watford as they reached the [[2013 Football League Championship play-off Final|2013 Championship play-off Final]], in which they were defeated 1–0 by [[Crystal Palace F.C.|Crystal Palace]].&lt;ref name=sb1213/&gt;
+
+====Loan to Nottingham Forest====
+On 19 September 2013 Chalobah signed a loan deal with Nottingham Forest until 15 January 2014.&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news-article/article/3464334/title/chalobah-loaned-to-forest |title=Chalobah loaned to Forest |publisher=Chelsea F.C. |date=20 September 2013 |accessdate=20 September 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130921041226/http://www.chelseafc.com/news-article/article/3464334/title/chalobah-loaned-to-forest |archivedate=21 September 2013}}&lt;/ref&gt; Manager [[Billy Davies]] remarked upon his arrival, "He's a tremendous young talent."&lt;ref&gt;{{cite web |url=http://www.nottinghamforest.co.uk/news/article/chalobah-a-tremendous-talent-1066388.aspx |title=Chalobah 'A Tremendous Talent' |date=20 September 2013 |publisher=Nottingham Forest F.C. |accessdate=30 August 2014}}&lt;/ref&gt; Chalobah made his debut from the start in Forest's trip to [[Doncaster Rovers F.C.|Doncaster Rovers]] on 21 September 2013.&lt;ref name=sb1314/&gt; On 5 October 2013, Chalobah was sent off after a second booking in the 67th minute after already picking up a yellow in the first half during the away match against [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].{{citation needed|date=September 2017}} Though Forest were down to 10 men, they saw out a 3–1 victory.&lt;ref name=sb1314/&gt; Chalobah scored his first Forest goal in a 3–1 defeat away to [[Yeovil Town F.C.|Yeovil Town]] on 26 October 2013.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/24590303 |title=Yeovil Town 3–1 Nottingham Forest |publisher=BBC Sport |date=26 October 2013 |accessdate=1 September 2017}}&lt;/ref&gt;
+
+====Loan to Middlesbrough====
+On 16 January 2014, Chalobah joined [[Middlesbrough F.C.|Middlesbrough]] on loan for the remainder of the [[2013–14 Middlesbrough F.C. season|2013–14 season]].&lt;ref&gt;{{cite web |title=Boro sign Nathaniel |url=http://www.mfc.co.uk/page/news/latest/0,,1~3624050,00.html |publisher=Middlesbrough F.C. |date=16 January 2014 |accessdate=16 January 2014 |archiveurl=https://web.archive.org/web/20140117135512/http://www.mfc.co.uk/page/news/latest/0,,1~3624050,00.html |archivedate=17 January 2014 |deadurl=yes}}&lt;/ref&gt; On 25 January 2014, Chalobah made his debut against [[Leicester City F.C.|Leicester City]], coming off the bench in the 77th minute to replace [[Emmanuel Ledesma]].&lt;ref name=sb1314/&gt; The match ended in a 2–0 loss for Middlesbrough.&lt;ref name=sb1314/&gt; Chalobah made his first start on 1 February 2014, in a match against [[Doncaster Rovers F.C.|Doncaster Rovers]] which ended in a 0–0 draw.&lt;ref name=sb1314/&gt; On 5 April 2014, Chalobah scored his first Boro goal in a 1–0 win at home to Derby County.&lt;ref&gt;{{cite web |url=http://www.sportsmole.co.uk/football/middlesbrough/result/result-chalobah-strike-gives-boro-win_148252.html |title=Result: Nathaniel Chalobah strike gives Middlesbrough win |publisher=Sports Mole |accessdate=2 October 2016}}&lt;/ref&gt;
+
+====Loan to Burnley====
+On 1 September 2014, Chalobah joined [[Premier League]] newcomers [[Burnley F.C.|Burnley]] on loan from [[Chelsea F.C.|Chelsea]] until 2 January 2015.&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news/latest-news/2014/08/burnley-loan-for-chalobah.html |title=Burnley loan for Chalobah |publisher=Chelsea F.C. |date=1 September 2014 |accessdate=2 October 2016}}&lt;/ref&gt; On 28 September 2014, Chalobah made his debut as a first-half substitute against [[West Bromwich Albion F.C.|West Bromwich Albion]], although he could not prevent Burnley from losing 4–0.&lt;ref name=sb1314/&gt; On 30 September, Chalobah suffered an injury after being hit with an elbow in the throat in a Burnley U21s match, which caused a cartilage to fracture.&lt;ref&gt;{{cite web |url=http://theprideoflondon.com/2014/10/24/nathaniel-chalobah-fully-recovered-throat-injury/ |title=Nathaniel Chalobah Fully Recovered From Throat Injury |date=30 September 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://weaintgotnohistory.sbnation.com/2014/9/30/6875537/report-nathaniel-chalobah-burnley-injury-hospital |title=Report: Nathaniel Chalobah taken to hospital with apparent throat injury |date=30 September 2014}}&lt;/ref&gt; Chalobah returned to the pitch for the first team on 18 October 2014 against [[West Ham United F.C.|West Ham United]].&lt;ref name=sb1314/&gt; On 1 November 2014, Chalobah played his last match for Burnley against [[Arsenal F.C.|Arsenal]], which ended in a 3–0 loss.&lt;ref name=sb1314/&gt;
+
+Chalobah was unable to break into the first team at Burnley and returned to Chelsea when the loan ended on 2 January 2015. During his time with Burnley, Chalobah only made 4 substitute appearances with a total of 65 minutes on the pitch.&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-2894651/Nathaniel-Chalobah-returns-Chelsea-Sean-Dyche-admits-did-not-develop-Burnley.html |title=Nathaniel Chalobah returns to Chelsea as Sean Dyche admits he did not develop 'as much as he would have liked' at Burnley |newspaper=Daily Mail |location=London |date=2 January 2015}}{{Unreliable source?|date=September 2017}}&lt;/ref&gt;
+
+====Loan to Reading====
+On 22 January 2015, Chalobah joined Championship club [[Reading F.C.|Reading]] on loan for the remainder of the season.&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news/latest-news/2015/01/new-loan-for-chalobah-.html |title=New loan for Chalobah |publisher=Chelsea F.C. |date=22 January 2015}}&lt;/ref&gt; On 24 January 2015, Chalobah made his debut in a [[FA Cup]] match against [[Cardiff City F.C.|Cardiff City]], as the team won 2–1 to advance into the fifth round.&lt;ref name=sb1415/&gt; Three days later, Chalobah made his league debut against [[Millwall F.C.|Millwall]].&lt;ref name=sb1415/&gt;
+
+On 31 January 2015, in his home debut, Chalobah scored the second of a 2–0 victory over [[Sheffield Wednesday F.C.|Sheffield Wednesday]], helping the Royals to their first league win since December.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/30962939 |title=Reading 2–0 Sheffield Wednesday |date=31 January 2015}}&lt;/ref&gt; During his time with Reading, Chalobah made a total of 20 appearances and started in every appearance.&lt;ref name=sb1415/&gt;
+
+====Loan to Napoli====
+On 1 September 2015, Italian club [[S.S.C. Napoli|Napoli]] confirmed that Chalobah had joined the club on a season long loan from Chelsea.&lt;ref&gt;{{Cite news |title=The footballer of Sierra Leone arrives on loan from Chelsea |url=http://sscnapoli.it/static/news/Il-Napoli-ufficializza-l-ingaggio-di-Chalobah-5969.aspx |publisher=Napoli S.S.C. |date=1 September 2015 |accessdate=1 September 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150903004420/http://sscnapoli.it/static/news/Il-Napoli-ufficializza-l-ingaggio-di-Chalobah-5969.aspx |archivedate=3 September 2015}}&lt;/ref&gt; On 1 October 2015, Chalobah made his Napoli debut in a [[UEFA Europa League]] tie against [[Legia Warsaw]].&lt;ref name=Soccerway/&gt; The fixture resulted in a 2–0 victory for the Italian team, with Chalobah featuring for five minutes after replacing [[Allan (footballer, born 1991)|Allan]].&lt;ref name=Soccerway/&gt; On 26 November 2015, Chalobah was given his first Napoli start in a 1–0 victory over [[Club Brugge KV|Club Brugge]] in the UEFA Europa League group stage tie.&lt;ref name=Soccerway/&gt; On 10 December 2015, Chalobah scored his first Napoli goal in a 5–2 win over Legia Warsaw, scoring Napoli's first.&lt;ref name=Soccerway/&gt; On 6 January 2016, Chalobah finally made his [[Serie A]] debut in a 2–1 victory against [[Torino F.C.|Torino]], replacing [[Marek Hamšík]] in the 89th minute.&lt;ref name=Soccerway/&gt;
+
+Chalobah went on to make four more league appearances for Napoli before returning to Chelsea at the end of the campaign.&lt;ref name=Soccerway/&gt;
+
+====2016–17 season====
+In the summer of 2016, Chelsea rejected loan offers for Chalobah after new manager [[Antonio Conte]] had been impressed with Chalobah in pre-season, deciding that he should remain as part of Chelsea's first-team group.&lt;ref&gt;{{cite news |first=Jack |last=Pitt-Brooke |url=https://www.independent.co.uk/sport/football/premier-league/chelsea-transfer-news-antonio-conte-turned-down-leicester-loan-move-for-nathaniel-chalobah-last-a7230591.html |title=Chelsea transfer news: Antonio Conte turned down Leicester loan move for Nathaniel Chalobah last month |newspaper=The Independent |location=London |date=7 September 2016 |accessdate=2 October 2016}}&lt;/ref&gt; Chalobah made his first-team debut on 20 September 2016, when he came off the bench to replace [[Michy Batshuayi]] in the 79th minute of a 4–2 win over [[Leicester City F.C.|Leicester City]] to advance to the Fourth round of the [[2016–17 EFL Cup|EFL Cup]].&lt;ref&gt;{{cite web |url=http://www.espnfc.us/report?gameId=466015 |title=Cesc Fabregas hits two in extra-time as Chelsea advance past Leicester |date=20 September 2016 |work=ESPN FC}}&lt;/ref&gt; On 15 October 2016, on his second league appearance for Chelsea, Chalobah provided a back-heel pass to play [[Victor Moses]] through for the third goal in a 3–0 victory over Leicester City.&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/news/latest-news/2016/10/match-report.html |title=Match report: Chelsea 3 Leicester City 0 |date=15 October 2016 |publisher=Chelsea F.C.}}&lt;/ref&gt;
+
+===Return to Watford===
+On 13 July 2017, Chalobah signed for Premier League club [[Watford F.C.|Watford]] on a five-year contract for an undisclosed fee.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/40603257 |title=Nathaniel Chalobah: Watford sign midfielder from Chelsea on five-year deal |publisher=BBC Sport |date=13 July 2017 |accessdate=1 September 2017}}&lt;/ref&gt; On 26 September 2017, Chalobah was reported to have suffered a knee injury in a training session and was expected to have surgery.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/41405416 |title=Nathaniel Chalobah: Watford midfielder needs knee surgery |publisher=BBC Sport |date=26 September 2017 |accessdate=26 September 2017}}&lt;/ref&gt;
+
+==International career==
+[[File:Nathaniel Chalobah (cropped).jpg|thumb|upright|Chalobah playing for [[England national under-18 football team|England under-18s]] in 2012]]
+
+Chalobah made his [[England national under-16 football team|England under-16]] debut at the age of 13 in October 2008, and his [[England national under-17 football team|England under-17]] debut aged 14 in July 2009. He won the [[2010 UEFA European Under-17 Championship]] and later captaining the team at the age of 15. Chalobah made his [[England national under-19 football team|England under-19]] debut in September 2011.,&lt;ref&gt;[http://www.thefa.com/England/All-Teams/Players/C/Nathaniel-Chalobah "Nathaniel Chalobah"]. The Football Association. Retrieved 18 September 2012.&lt;/ref&gt; and went on to captain them until 8 November 2012 when he was called up to the [[England national under-21 football team|England under-21]] squad for a match against Northern Ireland.&lt;ref name="UNDER-21S SQUAD FOR BLACKPOOL"&gt;[https://www.thefa.com/England/mens-under-21s/News/2012/under-21s-squad-northern-ireland.aspx]. The Football Association. Retrieved 8 November 2012.&lt;/ref&gt; Chalobah made his England Under-21 debut on 13 November 2012, replacing [[Jordan Henderson]] in the 76th minute.&lt;ref name="ENGLAND V NORTHERN IRELAND"&gt;[http://www.thefa.com/England/mens-under-21s/News/2012/england-northern-ireland-twitter]. The Football Association. Retrieved 13 November 2012.&lt;/ref&gt;
+
+Chalobah was also eligible to play for [[Sierra Leone national football team|Sierra Leone]], the country where he was born, but has stated that he has a strong affiliation to England, the country of his upbringing.&lt;ref name="independent.co.uk"/&gt;
+
+In August 2017, Chalobah was named in the [[England national football team|England squad]] for the first time for the [[2018 FIFA World Cup qualification|2018 FIFA World Cup qualifiers]] against [[Malta national football team|Malta]] and [[Slovakia national football team|Slovakia]].&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2017/aug/29/nathaniel-chalobah-england-benefit-leaving-chelsea |title=Nathaniel Chalobah's England call-up shows benefit of leaving Chelsea |date=29 August 2017 |newspaper=The Guardian |location=London |accessdate=30 August 2017}}&lt;/ref&gt; He made his debut on 15 October 2018 as a substitute in the first minute of stoppage time in England's 3–2 win away to [[Spain national football team|Spain]] in the [[2018–19 UEFA Nations League A]], with the competitive status of the fixture tying him to England permanently from then on.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45780621 |title=Spain 2–3 England |first=Phil |last=McNulty |publisher=BBC Sport |date=15 October 2018 |accessdate=15 October 2018}}&lt;/ref&gt;
+
+==Style of play==
+Chalobah is known for his versatility, work-rate, and fitness levels, both in defending and attacking sense. He is described as, "Tall, athletic and can operate in either midfield or defence, being notably quick in the tackle."&lt;ref&gt;{{cite web |url=http://www.thefa.com/England/All-Teams/Players/C/Nathaniel-Chalobah |title=Nathaniel Chalobah |publisher=The Football Association |accessdate=3 September 2012 |date=31 August 2012}}&lt;/ref&gt;
+
+==Personal life==
+Born in [[Freetown]], Sierra Leone, Chalobah moved to England at the age of seven and grew up in [[Gipsy Hill]] in the [[London Borough of Lambeth]].&lt;ref name="independent.co.uk"/&gt; He played football for the first time at the age of nine.&lt;ref&gt;{{cite news |last=Magowan |first=Alistair |url=https://www.bbc.co.uk/sport/0/football/35054310 |title=Football talent spotting: Are clubs getting it wrong with kids? |publisher=BBC Sport |date=22 December 2015 |accessdate=2 October 2016}}&lt;/ref&gt; Chalobah attended St Andrews R.C. Primary school and further studied at [[Bishop Thomas Grant School]] in [[Streatham]], South London.&lt;ref&gt;{{cite web |url=http://www.tes.co.uk/Upload/Attachments/TES/3071793/NuntiusJuly%202011.pdf |title=News Magazine of Bishop Thomas Grant School |date=1 March 2013 |publisher=Bishop Thomas Grant School}}{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; His younger brother [[Trevoh Chalobah|Trevoh]] joined Chelsea as an Under-9 and has been capped by England up to U19 level.&lt;ref&gt;{{cite web |url=http://www.chelseafc.com/teams/development-squad/under-18s/player-profile/trevoh-chalobah.html |title=Player profile: Trevoh Chalobah |date=21 July 2016 |publisher=Chelsea F.C.}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 2 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup{{efn|Includes [[FA Cup]] and [[Coppa Italia]]}}
+!colspan=2|League Cup{{efn|Includes [[EFL Cup]]}}
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=8|[[Chelsea F.C.|Chelsea]]
+|[[2010–11 Chelsea F.C. season|2010–11]]&lt;ref name=sb1011&gt;{{soccerbase season|57093|2010|accessdate=1 September 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|[[2011–12 Chelsea F.C. season|2011–12]]&lt;ref name=sb1112&gt;{{soccerbase season|57093|2011|accessdate=1 September 2017}}&lt;/ref&gt;
+|Premier League
+|0||0||0||0||0||0||0||0||colspan=2|—||0||0
+|-
+|[[2012–13 Chelsea F.C. season|2012–13]]&lt;ref name=sb1213/&gt;
+|Premier League
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0||0||0
+|-
+|[[2013–14 Chelsea F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|57093|2013|accessdate=1 September 2017}}&lt;/ref&gt;
+|Premier League
+|0||0||colspan=2|—||colspan=2|—||0||0||colspan=2|—||0||0
+|-
+|[[2014–15 Chelsea F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|57093|2014|accessdate=1 September 2017}}&lt;/ref&gt;
+|Premier League
+|0||0||0||0||0||0||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2015–16 Chelsea F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|57093|2015|accessdate=1 September 2017}}&lt;/ref&gt;
+|Premier League
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0||0||0
+|-
+|[[2016–17 Chelsea F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|57093|2016|accessdate=1 September 2017}}&lt;/ref&gt;
+|Premier League
+|10||0||3||0||2||0||colspan=2|—||colspan=2|—||15||0
+|-
+!colspan=2|Total
+!10||0||3||0||2||0||0||0||0||0||15||0
+|-
+|[[Watford F.C.|Watford]] (loan)
+|[[2012–13 Watford F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|57093|2012|accessdate=1 September 2017}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|38||5||1||0||colspan=2|—||colspan=2|—||3{{efn|Appearances in [[EFL Championship play-offs|Championship play-offs]]}}||0||42||5
+|-
+|[[Nottingham Forest F.C.|Nottingham Forest]] (loan)
+|[[2013–14 Nottingham Forest F.C. season|2013–14]]&lt;ref name=sb1314/&gt;
+|Championship
+|12||2||0||0||colspan=2|—||colspan=2|—||colspan=2|—||12||2
+|-
+|[[Middlesbrough F.C.|Middlesbrough]] (loan)
+|[[2013–14 Middlesbrough F.C. season|2013–14]]&lt;ref name=sb1314/&gt;
+|Championship
+|19||1||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||19||1
+|-
+|[[Burnley F.C.|Burnley]] (loan)
+|[[2014–15 Burnley F.C. season|2014–15]]&lt;ref name=sb1415/&gt;
+|Premier League
+|4||0||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||4||0
+|-
+|[[Reading F.C.|Reading]] (loan)
+|[[2014–15 Reading F.C. season|2014–15]]&lt;ref name=sb1415/&gt;
+|Championship
+|15||1||5||0||colspan=2|—||colspan=2|—||colspan=2|—||20||1
+|-
+|[[S.S.C. Napoli|Napoli]] (loan)
+|[[2015–16 S.S.C. Napoli season|2015–16]]&lt;ref name=Soccerway&gt;{{cite web |url=https://uk.soccerway.com/players/nathaniel-chalobah/155131/ |title=N. Chalobah: Summary |website=Soccerway |publisher=Perform Group |accessdate=3 September 2018}}&lt;/ref&gt;
+|[[Serie A]]
+|5||0||1||0||colspan=2|—||3{{efn|Appearances in [[UEFA Europa League]]}}||1||colspan=2|—||9||1
+|-
+|rowspan=3|Watford
+|[[2017–18 Watford F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|57093|2017|accessdate=3 September 2018}}&lt;/ref&gt;
+|Premier League
+|6||0||0||0||0||0||colspan=2|—||colspan=2|—||6||0
+|-
+|[[2018–19 Watford F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|57093|2018|accessdate=19 January 2019}}&lt;/ref&gt;
+|Premier League
+|7||0||2||0||2||0||colspan=2|—||colspan=2|—||11||0
+|-
+!colspan=2|Total
+!13||0||2||0||2||0||colspan=2|—||colspan=2|—||17||0
+|-
+!colspan=3|Career total
+!116||9||11||0||4||0||3||1||3||0||137||10
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 15 October 2018}}&lt;ref&gt;{{NFT player |id=72262 |name=Chalobah, Nathaniel |accessdate=19 January 2019}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|[[England national football team|England]]
+|2018||1||0
+|-
+!colspan=2|Total||1||0
+|}
+
+==Honours==
+'''Chelsea'''
+*[[Premier League]]: [[2016–17 Premier League|2016–17]]&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/4105/Nathaniel-Chalobah/overview |title=Nathaniel Chalobah: Overview |publisher=Premier League |accessdate=17 December 2017}}&lt;/ref&gt;
+
+'''England U17'''
+*[[UEFA European Under-17 Championship]]: [[2010 UEFA European Under-17 Championship|2010]]&lt;ref&gt;{{cite web |url=http://www.uefa.com/under17/news/newsid=1493600.html |title=Coady's guide to England's champions |publisher=UEFA |date=30 May 2010 |accessdate=17 December 2017}}&lt;/ref&gt;
+
+'''England U21'''
+*[[Toulon Tournament]]: [[2016 Toulon Tournament|2016]]&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2016/may/29/france-toulon-final-report-280516 |title=England under-21s lift Toulon title after win over France |first=Nicholas |last=Veevers |publisher=The Football Association |date=29 May 2016 |accessdate=17 December 2017}}&lt;/ref&gt;
+
+'''Individual'''
+*[[The FA England Awards#England Men's Youth Player of the Year|England Men's Youth Player of the Year]]: 2013&lt;ref&gt;{{cite web |url=http://www.thefa.com/News/2013/feb/mens-youth-england-c-award-030213.aspx |title=Chalobah lands award |publisher=The Football Association |date=3 February 2013 |archiveurl=https://web.archive.org/web/20141007040739/http://www.thefa.com/News/2013/feb/mens-youth-england-c-award-030213.aspx |archivedate=7 October 2014}}&lt;/ref&gt;
+*[[Football League Young Player of the Month]]: May 2013&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/22645537 |title=Watford's Nathaniel Chalobah wins Young Player of the Month |first=Chris |last=Osborne |publisher=BBC Sport |date=24 May 2013 |accessdate=2 October 2016}}&lt;/ref&gt;
+
+==See also==
+*[[List of England international footballers born outside England]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.watfordfc.com/teams/first-team/nathaniel-chalobah Profile] at the Watford F.C. website
+*[http://www.thefa.com/england/mens-seniors/squad/nathaniel-chalobah Profile] at the Football Association website
+*{{Soccerbase}}
+
+{{Watford F.C. squad}}
+
+{{DEFAULTSORT:Chalobah, Nathaniel}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Freetown]]
+[[Category:Sierra Leonean footballers]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England international footballers]]
+[[Category:Association football defenders]]
+[[Category:Association football midfielders]]
+[[Category:Fulham F.C. players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Watford F.C. players]]
+[[Category:Nottingham Forest F.C. players]]
+[[Category:Middlesbrough F.C. players]]
+[[Category:Burnley F.C. players]]
+[[Category:Reading F.C. players]]
+[[Category:S.S.C. Napoli players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:Serie A players]]
+[[Category:Black English sportspeople]]
+[[Category:English people of Sierra Leonean descent]]
+[[Category:English expatriate footballers]]
+[[Category:English expatriate sportspeople in Italy]]
+[[Category:Expatriate footballers in Italy]]</text>
+      <sha1>ef0smh67bss6tf6yl3kdme88n2eyumr</sha1>
+    </revision>
+  </page>
+</mediawiki>

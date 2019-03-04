@@ -1,0 +1,284 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Calum Chambers</title>
+    <ns>0</ns>
+    <id>36863053</id>
+    <revision>
+      <id>882613496</id>
+      <parentid>882365891</parentid>
+      <timestamp>2019-02-10T08:44:07Z</timestamp>
+      <contributor>
+        <username>Mighty platypus</username>
+        <id>34602910</id>
+      </contributor>
+      <comment>Updated appearances</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23311">{{distinguish|text=the Australian rules footballer, [[Callum Chambers]]}}
+{{EngvarB|date=December 2018}}
+{{Use dmy dates|date=December 2018}}
+{{Infobox football biography
+| name = Calum Chambers
+| image = Calum Chambers cropped.jpg
+| image_size = 200
+| caption = Chambers after winning the [[2014 FA Community Shield]] with [[Arsenal F.C.|Arsenal]]
+| fullname = Calum Chambers&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1995|1|20|df=y}}&lt;ref name=Hugman&gt;{{Hugman|26074|accessdate=1 April 2016}}&lt;/ref&gt;
+| birth_place = [[Petersfield]], England
+| height = {{convert|1.82|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/4620/Calum-Chambers/overview |title=Calum Chambers: Overview |publisher=Premier League |accessdate=18 December 2017}}&lt;/ref&gt;
+| position = [[Defender (association football)|Defender]]
+| currentclub = [[Fulham F.C.|Fulham]]&lt;br /&gt;(on loan from [[Arsenal F.C.|Arsenal]])
+| clubnumber = 5&lt;!--21--&gt;
+| youthyears1 = 2002–2012
+| youthclubs1 = [[Southampton F.C. Academy|Southampton]]
+| years1 = 2012–2014
+| clubs1 = [[Southampton F.C.|Southampton]]
+| caps1 = 22
+| goals1 = 0
+| years2 = 2014–
+| clubs2 = [[Arsenal F.C.|Arsenal]]
+| caps2 = 48
+| goals2 = 2
+| years3 = 2016–2017
+| clubs3 = → [[Middlesbrough F.C.|Middlesbrough]] (loan)
+| caps3 = 24
+| goals3 = 1
+| years4 = 2018–
+| clubs4 = → [[Fulham F.C.|Fulham]] (loan)
+| caps4 = 19
+| goals4 = 1
+| nationalyears1 = 2012
+| nationalteam1 = [[England national under-17 football team|England U17]]
+| nationalcaps1 = 6
+| nationalgoals1 = 3
+| nationalyears2 = 2012–2014
+| nationalteam2 = [[England national under-19 football team|England U19]]
+| nationalcaps2 = 18
+| nationalgoals2 = 2
+| nationalyears3 = 2015–2017
+| nationalteam3 = [[England national under-21 football team|England U21]]
+| nationalcaps3 = 22
+| nationalgoals3 = 0
+| nationalyears4 = 2014–
+| nationalteam4 = [[England national football team|England]]
+| nationalcaps4 = 3
+| nationalgoals4 = 0
+| club-update = 08:44, 10 February 2019 (UTC)
+| nationalteam-update = 12:25, 30 January 2019 (UTC)
+}}
+'''Calum Chambers''' (born 20 January 1995) is an English professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Fulham F.C.|Fulham]], on [[Loan (sports)|loan]] from fellow {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]], and the [[England national football team|England national team]].
+
+Originally a member of [[Southampton F.C.|Southampton]]'s [[Southampton F.C. Academy|academy system]], Chambers was promoted to the first team at the beginning of the [[2012–13 Southampton F.C. season|2012–13]] campaign. After two seasons with the club, he moved to fellow Premier League club Arsenal.
+
+Chambers made his senior international debut for the [[England national football team|English national team]] in 2014.
+
+==Club career==
+===Southampton===
+Born in [[Petersfield]], Hampshire,&lt;ref name=Hugman/&gt; Chambers joined [[Southampton F.C.|Southampton]] at the age of seven.&lt;ref&gt;{{cite news |url=http://metro.co.uk/2014/07/14/who-is-arsenal-target-calum-chambers-4798262/ |title=Who is Arsenal target Calum Chambers? |author=James Phillips |newspaper=Metro |location=London |date=14 July 2014 |accessdate=3 August 2014}}&lt;/ref&gt; He went through the ranks at the club and at the beginning of the [[2012–13 Southampton F.C. season|2012–13 season]], Chambers was revealed as one of four youth players to be promoted to the first-team.&lt;ref&gt;{{cite web |url=http://www.saintsfc.co.uk/news/article/numbers-up-for-saints-318707.aspx |title=Numbers up for Saints |publisher=Southampton F.C. |date=17 August 2012 |accessdate=29 August 2012}}&lt;/ref&gt; During the pre-season period he made a number of appearances for the team, playing in the Memorial Cup against [[R.S.C. Anderlecht|Anderlecht]],&lt;ref&gt;{{cite web |url=http://www.saintsfc.co.uk/news/article/memorial-cup-report-237234.aspx?pageView=full#anchored |title=Memorial Cup − Report |publisher=Southampton F.C. |date=14 July 2012 |accessdate=29 August 2012}}&lt;/ref&gt; coming on as a second-half substitute in the matches against [[Thonon Évian Savoie F.C.|Évian Thonon Gaillard]] and [[Étoile Carouge FC|Étoile Carouge]],&lt;ref&gt;{{cite web |url=http://www.saintsfc.co.uk/news/article/evian-tg-0-1-saints-report-291272.aspx?pageView=full#anchored |title=Évian TG 0–1 Saints − Report |publisher=Southampton F.C. |date=21 July 2012 |accessdate=29 August 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.saintsfc.co.uk/news/article/etoile-carouge-1-4-saints-report-291269.aspx?pageView=full#anchored |title=Etoile Carouge 1–4 Saints − Report |publisher=Southampton F.C. |date=18 July 2012 |accessdate=29 August 2012}}&lt;/ref&gt; and making late appearances against [[AFC Ajax|Ajax]] and [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].&lt;ref&gt;{{cite web |url=http://www.saintsfc.co.uk/news/article/saints-0-1-ajax-report-275919.aspx?pageView=full#anchored |title=Saints 0–1 Ajax − Report |publisher=Southampton F.C. |date=28 July 2012 |accessdate=29 August 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.saintsfc.co.uk/news/article/saints-2-0-wolves-report-292113.aspx?pageView=full#anchored |title=Saints 2–0 Wolves − Report |publisher=Southampton F.C. |date=4 August 2012 |accessdate=29 August 2012}}&lt;/ref&gt;
+
+Chambers made his full debut for Southampton on 28 August 2012 in a 4–1 win over [[Stevenage F.C.|Stevenage]] in the second round of the [[2012–13 Football League Cup|League Cup]],&lt;ref name=sb1213/&gt; coming on as an 84th-minute substitute for [[Dean Hammond]] and providing the assist for the final goal of the match by [[Ben Reeves]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/19340365 |title=Stevenage 1–4 Southampton |publisher=BBC Sport |date=28 August 2012 |accessdate=11 April 2017}}&lt;/ref&gt;
+
+On 31 July 2013, Chambers signed a new four-year contract with Southampton.&lt;ref&gt;{{cite web |title=Chambers commits to Saints |url=http://www.saintsfc.co.uk/news/article/chambers-commits-to-saints-958138.aspx |publisher=Southampton F.C. |accessdate=1 August 2013 |date=31 July 2013}}&lt;/ref&gt;
+
+He made his first-team league debut on 17 August 2013, when he played the full 90 minutes at right-back of the opening match of the [[2013–14 Premier League|2013–14]] season in a 1–0 win against [[West Bromwich Albion F.C.|West Bromwich Albion]].&lt;ref&gt;{{cite news |first=Neil |last=Johnston |title=West Brom 0–1 Southampton |url=https://www.bbc.co.uk/sport/football/23644676 |publisher=BBC Sport |date=17 August 2013 |accessdate=11 April 2017}}&lt;/ref&gt; He made a total of 25 appearances for Southampton in all competitions, of which 22 were in the league, before leaving in the summer of 2014.&lt;ref name=sb1213/&gt;&lt;ref name=sb1314/&gt;
+
+===Arsenal===
+[[File:Calum ChambersOct2014.JPG|thumb|upright|Chambers (right) playing for [[Arsenal F.C.|Arsenal]] in 2014]]
+
+On 28 July 2014, it was announced that he had signed for [[Arsenal F.C.|Arsenal]] on a long-term contract for an undisclosed fee, rising to a potential £16&amp;nbsp;million with performance-related add-ons.&lt;ref&gt;{{cite web |title=Calum Chambers signs for Arsenal |url=http://www.arsenal.com/news/news-archive/20140728/calum-chambers-completes-move-to-arsenal |publisher=Arsenal F.C. |accessdate=28 July 2014 |date=28 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Arsenal sign Calum Chambers from Southampton in deal rising to £16m |url=https://www.theguardian.com/football/2014/jul/28/arsenal-sign-calum-chambers-southampton |accessdate=28 July 2014 |newspaper=The Guardian |location=London |date=28 July 2014}}&lt;/ref&gt;
+
+Chambers made his first appearance for Arsenal on 2 August 2014, starting in central defence in a 5–1 win against [[S.L. Benfica|Benfica]] in the pre-season [[Emirates Cup]] tournament.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2014/aug/02/arsenal-benfica-emirates-cup-match-report |title=Arsenal's Yaya Sanogo hits four in friendly rout of Benfica |date=2 August 2014 |accessdate=3 August 2014 |newspaper=The Guardian |location=London}}&lt;/ref&gt; On 10 August, Chambers made his competitive debut for Arsenal, playing the full 90 minutes of the [[2014 FA Community Shield]] against Premier League champions [[Manchester City F.C.|Manchester City]] at [[Wembley Stadium]]. Playing at centre back instead of his usual right back position to cover for [[Per Mertesacker]], the BBC wrote on his performance against the Premier League champions that "his mature performance defied his youthful years".&lt;ref name=2014FACS&gt;{{cite news |first=Mandeep |last=Sanghera |url=https://www.bbc.co.uk/sport/football/28647186 |title=Arsenal 3–0 Manchester City |publisher=BBC Sport |date=10 August 2014 |accessdate=11 April 2017}}&lt;/ref&gt; On 16 August, Chambers played his first [[Premier League]] match for Arsenal in a 2–1 win against [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{cite news |first=Saj |last=Chowdhury |url=https://www.bbc.co.uk/sport/football/28718788 |title=Arsenal 2–1 Crystal Palace |publisher=BBC Sport |date=16 August 2014 |accessdate=11 April 2017}}&lt;/ref&gt; He played the first European fixture of his career three days later, a goalless draw in the first leg of Arsenal's Champions League play-off away to [[Beşiktaş J.K.|Beşiktaş]].&lt;ref&gt;{{cite news |first=Chris |last=Bevan |title=Besiktas 0–0 Arsenal |url=http://bbc.co.uk/sport/football/28784340 |publisher=BBC Sport |date=19 August 2014 |accessdate=11 April 2017}}&lt;/ref&gt;
+
+Following a strong start to the season, Chambers was nominated for the [[Golden Boy (award)|Golden Boy Award 2014]], alongside international teammates [[Raheem Sterling]], [[Luke Shaw]] and [[John Stones]].&lt;ref&gt;{{cite news |last=Richards |first=Alex |title=England pair Raheem Sterling and Calum Chambers join Adnan Januzaj in Golden Boy award nominations |url=https://www.mirror.co.uk/sport/football/news/england-pair-raheem-sterling-calum-4523237 |accessdate=28 October 2014 |newspaper=Daily Mirror |location=London |date=28 October 2014}}&lt;/ref&gt; He scored the first senior goal of his career and registered an assist on 1 November as Arsenal beat [[Burnley F.C.|Burnley]] 3–0 in a Premier League home victory.&lt;ref&gt;{{cite news |last=Gheerbrant |first=James |title=Arsenal 3–0 Burnley |url=https://www.bbc.co.uk/sport/football/29768015 |publisher=BBC Sport |date=1 November 2014 |accessdate=11 April 2017}}&lt;/ref&gt; He was sent off for the first time in his career on 6 December, as Arsenal lost 3–2 at [[Stoke City F.C.|Stoke City]].&lt;ref&gt;{{cite news |last=Chowdhury |first=Saj |title=Stoke City 3–2 Arsenal |url=https://www.bbc.co.uk/sport/football/30257121 |publisher=BBC Sport |date=6 December 2014 |accessdate=11 April 2017}}&lt;/ref&gt;
+
+Chambers' appearances in the second half of the season were limited by the emergence of [[Héctor Bellerín]] at right-back.&lt;ref&gt;{{cite news |last=Fernandez-Abascal |first=Eduardo |title=Héctor Bellerín will 'fight' Mathieu Debuchy for Arsenal right-back slot after breakthrough season |url=http://www.ibtimes.co.uk/hector-bellerin-will-fight-mathieu-debuchy-arsenal-right-back-slot-after-breakthrough-season-1503876 |accessdate=2 June 2015 |work=International Business Times |date=1 June 2015}}&lt;/ref&gt; He was not in Arsenal's matchday squad when they won the [[2015 FA Cup Final]] 4–0 against [[Aston Villa F.C.|Aston Villa]] at Wembley Stadium on 30 May.&lt;ref&gt;{{cite news |last=McNulty |first=Phil |title=Arsenal 4–0 Aston Villa |url=https://www.bbc.co.uk/sport/football/32856754 |publisher=BBC Sport |date=30 May 2015 |accessdate=11 April 2017}}&lt;/ref&gt;
+
+Chambers began the [[2016–17 Premier League]] in the starting line-up for Arsenal and scored in a 3–4 loss against [[Liverpool F.C.|Liverpool]] in the first match of the season.&lt;ref&gt;{{cite news |last=Chowdhury |first=Saj |title=Arsenal 3–4 Liverpool |url=https://www.bbc.co.uk/sport/football/37001073 |publisher=BBC Sport |date=14 August 2016 |accessdate=11 April 2017}}&lt;/ref&gt;
+
+===Middlesbrough (loan)===
+[[File:Calum Chambers*.jpg|thumb|upright|Chambers playing for [[Middlesbrough F.C.|Middlesbrough]] in 2016]]
+
+On 30 August 2016, he joined fellow Premier League team [[Middlesbrough F.C.|Middlesbrough]] on a season-long [[Loan (sports)|loan]].&lt;ref&gt;{{cite news |title=Calum Chambers: Middlesbrough sign Arsenal defender on loan |url=https://www.bbc.co.uk/sport/football/37218210 |publisher=BBC Sport |date=30 August 2016 |accessdate=19 July 2017}}&lt;/ref&gt;
+
+===Return to Arsenal===
+Chambers made his first appearance of the [[2017–18 Arsenal F.C. season|2017–18 season]] in the 1–0 win over [[Doncaster Rovers F.C.|Doncaster Rovers]] in the [[EFL Cup]], but was substituted at half time due to injury.&lt;ref&gt;{{cite news |url=http://www.skysports.com/football/arsenal-vs-doncaster/384183 |title=Arsenal 1–0 Doncaster |publisher=Sky Sports |date=21 September 2017 |accessdate=4 October 2017}}&lt;/ref&gt;
+
+On 3 July 2018, Chambers signed a new long-term contract with Arsenal.&lt;ref&gt;{{cite web |title=Calum Chambers signs contract extension |url=https://www.arsenal.com/news/calum-chambers-signs-contract-extension |publisher=Arsenal F.C. |accessdate=3 July 2018 |date=3 July 2018}}&lt;/ref&gt;
+
+===Fulham (loan)===
+On 7 August 2018, Chambers signed with fellow Premier League side [[Fulham F.C.|Fulham]] on a season long loan.&lt;ref&gt;{{cite web |title=Calum Chambers joins Fulham on loan |url=https://www.arsenal.com/news/calum-chambers-joins-fulham-loan |accessdate=7 August 2018 |date=7 August 2018}}&lt;/ref&gt;
+
+==International career==
+Chambers made his debut for the [[England national under-17 football team|England under-17 team]] on 2 February against [[Portugal national under-17 football team|Portugal]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/England/All-Teams/Players/C/calum-chambers |title=Calum Chambers |publisher=The Football Association |accessdate=29 August 2012}}&lt;/ref&gt; In March, he played in all three of the team's matches in the [[2012 UEFA European Under-17 Championship elite round]], scoring their only goal of the tournament in a 1–0 win over [[Ukraine national under-17 football team|Ukraine]].&lt;ref&gt;{{cite web |url=http://www.uefa.com/under17/season=2012/teams/player=250047102/index.html |title=Calum Chambers |publisher=UEFA |accessdate=29 August 2012}}&lt;/ref&gt;
+
+On 26 September 2012, Chambers made the step up to the [[England national under-19 football team|England under-19 team]], playing the full 90 minutes in the team's 3–0 win over the [[Estonia national youth football team#Estonia National Under-19 Squad|Estonia under-19 team]] in the [[2013 UEFA European Under-19 Championship qualification|2013 UEFA European Under-19 Championship qualifying round]].&lt;ref&gt;{{cite web |url=http://www.uefa.com/under19/season=2013/matches/round=2000318/match=2009284/index.html |title=England-Estonia |publisher=UEFA |accessdate=27 September 2012}}&lt;/ref&gt; On 28 September Chambers came on as a second-half substitute in the England under-19 team's match against the [[Faroe Islands national under-19 football team|Faroe Islands]], which England won 6–0, scoring the final goal of the match in the 84th minute.&lt;ref&gt;{{cite web |url=http://www.uefa.com/under19/season=2013/matches/round=2000318/match=2009308/index.html |title=Faroe Islands-England |publisher=UEFA |accessdate=28 September 2012}}&lt;/ref&gt; He scored his second under-19 international goal in a 1–0 victory against [[Turkey national under-19 football team|Turkey]] on 21 March 2013.&lt;ref&gt;{{cite web |last=Veevers |first=Nichols |title=Chambers clinches win as England U19s head off to elite round on back of 1–0 win over Turkey |url=http://www.thefa.com/England/mens-u19s/News/2013/turkey-report-210313 |publisher=The Football Association |accessdate=22 March 2013 |date=21 March 2013}}&lt;/ref&gt;
+
+On 28 August 2014, he was named in the senior England squad for the first time, ahead of a friendly against [[Norway national football team|Norway]] and a [[UEFA Euro 2016 qualifying|Euro 2016 qualification match]] against [[Switzerland national football team|Switzerland]] in September.&lt;ref&gt;{{cite web |title=Roy calls up four new faces for Norway and Switzerland |url=http://www.thefa.com/news/england/2014/aug/norway-switzerland-squad-announcement-rose-colback-delph-chambers |accessdate=28 August 2014 |publisher=The Football Association |date=28 August 2014}}&lt;/ref&gt; He made his debut against Norway on 3 September, coming on for the last 9 minutes in place of John Stones as England won 1–0 at Wembley Stadium.&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 1–0 Norway |url=https://www.bbc.co.uk/sport/football/28947896 |publisher=BBC Sport |date=3 September 2014 |accessdate=11 April 2017}}&lt;/ref&gt; Initially chosen for the [[England national under-21 football team|under-21 team]], Chambers moved into the senior squad ahead of European qualifiers against [[San Marino national football team|San Marino]] and [[Estonia national football team|Estonia]] in October 2014 due to an injury to Stones.&lt;ref&gt;{{cite news |title=England: John Stones replaced by Calum Chambers in squad |url=https://www.bbc.co.uk/sport/football/29497934 |publisher=BBC Sport |date=5 October 2014 |accessdate=11 April 2017}}&lt;/ref&gt; He was given his first start on his second cap, against San Marino on 9 October at Wembley Stadium, playing at right back ahead of his former Southampton teammate [[Nathaniel Clyne]].&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 5–0 San Marino |url=https://www.bbc.co.uk/sport/football/29454223 |publisher=BBC Sport |date=9 October 2014 |accessdate=11 April 2017}}&lt;/ref&gt;
+
+Chambers then dropped back down to the under-21 team in March 2015, and made his debut in a 1–0 win against [[Czech Republic national under-21 football team|Czech Republic]] in Prague.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2015/mar/27/czech-republic-england-under-21s-friendly-match-report |title=Tom Carroll scores winner for England Under-21s against Czech Republic |newspaper=The Guardian |location=London |date=27 March 2015 |accessdate=28 March 2015}}&lt;/ref&gt; He was part of the team that won the [[2016 Toulon Tournament]], their first such win for 22 years.&lt;ref name=toulon&gt;{{cite news |title=England Under-21s win Toulon Tournament for first time in 22 years |url=https://www.bbc.co.uk/sport/football/36410296 |accessdate=29 May 2016 |publisher=BBC Sport |date=29 May 2016}}&lt;/ref&gt;
+
+On 5 June 2017, Chambers was called up to England's squad for the [[2017 UEFA European Under-21 Championship]] to be held in Poland.&lt;ref&gt;{{cite web |url=http://www.arsenal.com/news/news-archive/20170605/england-call-for-chambers-and-holding |title=England call for Chambers and Holding |publisher=Arsenal F.C. |date=5 June 2017 |accessdate=5 June 2017}}&lt;/ref&gt; Chambers went on to play in the semi-final of the tournament where England went out on penalties to Germany.&lt;ref&gt;{{cite web |url=http://www.uefa.com/under21/season=2017/matches/round=2000646/match=2022540/index.html |title=England 2–2 Germany: Germany win 4–3 on penalties |publisher=UEFA}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 29 January 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Europe
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[Southampton F.C.|Southampton]]
+|[[2012–13 Southampton F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|66152|2012|accessdate=7 April 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||1||0||colspan=2|—||colspan=2|—||1||0
+|-
+|[[2013–14 Southampton F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|66152|2013|accessdate=7 April 2017}}&lt;/ref&gt;
+|Premier League
+|22||0||0||0||2||0||colspan=2|—||colspan=2|—||24||0
+|-
+!colspan=2|Total
+!22||0||0||0||3||0||colspan=2|—||colspan=2|—||25||0
+|-
+|rowspan=5|[[Arsenal F.C.|Arsenal]]
+|[[2014–15 Arsenal F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|66152|2014|accessdate=1 April 2016}}&lt;/ref&gt;
+|Premier League
+|23||1||4||0||1||0||7{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||1{{efn|Appearance in [[FA Community Shield]]}}||0||36||1
+|-
+|[[2015–16 Arsenal F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|66152|2015|accessdate=6 September 2016}}&lt;/ref&gt;
+|Premier League
+|12||0||5||1||2||0||3{{efn|name=UCL}}||0||0||0||22||1
+|-
+|[[2016–17 Arsenal F.C. season|2016–17]]&lt;ref name=sb1617/&gt;
+|Premier League
+|1||1||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||1||1
+|-
+|[[2017–18 Arsenal F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|66152|2017|accessdate=24 August 2018}}&lt;/ref&gt;
+|Premier League
+|12||0||0||0||4||0||8{{efn|Appearances in [[UEFA Europa League]]}}||0||colspan=2|—||24||0
+|-
+!colspan=2|Total
+!48||2||9||1||7||0||18||0||1||0||83||3
+|-
+|[[Middlesbrough F.C.|Middlesbrough]] (loan)
+|[[2016–17 Middlesbrough F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|66152|2016|accessdate=19 July 2017}}&lt;/ref&gt;
+|Premier League
+|24||1||2||0||colspan=2|—||colspan=2|—||colspan=2|—||26||1
+|-
+|[[Fulham F.C.|Fulham]] (loan)
+|[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|66152|2018|accessdate=30 January 2019}}&lt;/ref&gt;
+|Premier League
+|17||1||1||0||1||0||colspan=2|—||colspan=2|—||19||1
+|-
+!colspan=3|Career total
+!111||4||12||1||11||0||18||0||1||0||153||5
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 12 October 2014}}&lt;ref&gt;{{NFT player |id=56800 |name=Chambers, Calum |accessdate=30 January 2019}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|[[England national football team|England]]
+|2014||3||0
+|-
+!colspan=2|Total||3||0
+|}
+
+==Honours==
+[[File:Arsenal FA Cup Winners Parade (18163652599).jpg|thumb|upright|Chambers (centre) during the victory parade that followed Arsenal's victory in the [[2015 FA Cup Final]]]]
+
+'''Arsenal'''
+*[[FA Community Shield]]: [[2014 FA Community Shield|2014]]&lt;ref name=2014FACS/&gt;
+
+'''England U21'''
+*[[Toulon Tournament]]: [[2016 Toulon Tournament|2016]]&lt;ref name=toulon/&gt;
+{{-}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.arsenal.com/arsenal/players/calum-chambers Profile] at the Arsenal F.C. website
+*[http://www.fulhamfc.com/player-profiles/calum-chambers Profile] at the Fulham F.C. website
+*{{Soccerbase}}
+
+{{Fulham F.C. squad}}
+
+{{DEFAULTSORT:Chambers, Calum}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:People from Petersfield]]
+[[Category:Sportspeople from Hampshire]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England international footballers]]
+[[Category:Association football defenders]]
+[[Category:Southampton F.C. players]]
+[[Category:Arsenal F.C. players]]
+[[Category:Middlesbrough F.C. players]]
+[[Category:Fulham F.C. players]]
+[[Category:Premier League players]]</text>
+      <sha1>37jcbnfovu16p7f8eimm5a6ospyt0cv</sha1>
+    </revision>
+  </page>
+</mediawiki>

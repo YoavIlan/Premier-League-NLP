@@ -1,0 +1,403 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kevin Mirallas</title>
+    <ns>0</ns>
+    <id>3497852</id>
+    <revision>
+      <id>883107905</id>
+      <parentid>880764422</parentid>
+      <timestamp>2019-02-13T09:38:53Z</timestamp>
+      <contributor>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
+      </contributor>
+      <comment>/* Small fix on stats bio */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28440">{{Spanish name|Mirallas|Castillo}}
+{{Use dmy dates|date=July 2018}}
+{{Infobox football biography
+| name = Kevin Mirallas
+| image = Kevin Mirallas.jpg
+| image_size = 220
+| caption = Mirallas playing for [[Olympiacos F.C.|Olympiacos]] in 2012
+| fullname = Kevin Antonio Joel Gislain Mirallas y Castillo&lt;ref name="Clubs submit retained and released lists"&gt;{{cite web|url=http://www.premierleague.com/en-gb/news/news/2013-14/jun/premier-league-clubs-submit-retained-and-released-lists.html |title=Clubs submit retained and released lists |publisher=Premier League |date=7 June 2013 |accessdate=24 July 2013 |deadurl=yes |archiveurl=https://www.webcitation.org/6I4e0zuBj?url=http://www.premierleague.com/en-gb/news/news/2013-14/jun/premier-league-clubs-submit-retained-and-released-lists.html |archivedate=13 July 2013 |df= }}&lt;/ref&gt;
+| birth_date = {{Birth date and age|1987|10|05|df=y}}&lt;ref name="Mirallas" /&gt;
+| birth_place = [[Liège]], Belgium
+| height = 1.82 m&lt;ref&gt;{{cite web|url=http://www.evertonfc.com/players/k/km/kevin-mirallas|title=Everton Football Club Profile|year=2014|work=web page|publisher=Everton F.C.|accessdate=3 November 2012}}&lt;/ref&gt;
+| position = [[Midfielder#Winger|Winger]]
+| currentclub = [[ACF Fiorentina|Fiorentina]]&lt;br&gt;(on loan from [[Everton F.C.|Everton]])
+| clubnumber = 11
+| youthyears1 = 1999–2004
+| youthclubs1 = [[Standard Liège]]
+| years1 = 2004–2008
+| clubs1 = [[Lille OSC|Lille]]
+| caps1 = 76
+| goals1 = 10
+| years2 = 2008–2010
+| clubs2 = [[AS Saint-Étienne|Saint-Étienne]]
+| caps2 = 53
+| goals2 = 3
+| years3 = 2010–2012
+| clubs3 = [[Olympiacos F.C.|Olympiacos]]
+| caps3 = 52
+| goals3 = 34
+| years4 = 2012–
+| clubs4 = [[Everton F.C.|Everton]]
+| caps4 = 151
+| goals4 = 29
+| years5 = 2018
+| clubs5 = → [[Olympiacos F.C.|Olympiacos]] (loan)
+| caps5 = 13
+| goals5 = 2
+| years6 = 2018–
+| clubs6 = → [[ACF Fiorentina|Fiorentina]] (loan)
+| caps6 = 16
+| goals6 = 2
+| nationalyears1 = 2003
+| nationalteam1 = [[Belgium national youth football team|Belgium U16]]
+| nationalcaps1 = 10
+| nationalgoals1 = 8
+| nationalyears2 = 2003–2004
+| nationalteam2 = [[Belgium national under-17 football team|Belgium U17]]
+| nationalcaps2 = 13
+| nationalgoals2 = 7
+| nationalyears3 = 2005
+| nationalteam3 = [[Belgium national under-18 football team|Belgium U18]]
+| nationalcaps3 = 4
+| nationalgoals3 = 0
+| nationalyears4 = 2005–2006
+| nationalteam4 = [[Belgium national under-19 football team|Belgium U19]]
+| nationalcaps4 = 16
+| nationalgoals4 = 4
+| nationalyears5 = 2006–2007
+| nationalteam5 = [[Belgium national under-21 football team|Belgium U21]]
+| nationalcaps5 = 5
+| nationalgoals5 = 2
+| nationalyears6 = 2007–
+| nationalteam6 = [[Belgium national football team|Belgium]]
+| nationalcaps6 = 60
+| nationalgoals6 = 10 &lt;!--Please adjust the "nationalteam-update" parameter below when adapting the number of caps. Thank you.--&gt;
+| club-update = 09:38, 13 February 2019 (UTC)
+| nationalteam-update = 00:40, 28 March 2018 (UTC)
+}}
+'''Kevin Antonio Joel Gislain Mirallas y Castillo''' (born 5 October 1987), more commonly known as '''Kevin Mirallas''' ({{IPA-es|ˈkeβin miˈɾaʎas}}), is a Belgian professional [[Association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for [[ACF Fiorentina|Fiorentina]] on loan from [[Everton F.C.|Everton]] and the [[Belgium national football team|Belgium national team]].
+
+Mirallas started his professional career in [[Ligue 1|France]] with [[Lille OSC|Lille]] and [[AS Saint-Étienne|Saint-Étienne]] before moving to [[Superleague Greece|Greece]] with [[Olympiacos F.C.|Olympiacos]] in 2010. Mirallas enjoyed success during his time at Olympiacos scoring 34 goals in 52 league games, including being the league's [[Greek Superleague Top Goalscorer|top scorer]] in his second season with 20 goals in 25 games. His impressive performances attracted the attention of Everton who signed him in the summer of 2012 for £6 million.
+
+Mirallas has over 50 caps for [[Belgium national football team|Belgium]] since his senior debut in 2007. He has represented Belgium at various youth levels and has featured for them at senior level at the [[Football at the 2008 Summer Olympics – Men's tournament|2008 Olympics]] and the [[2014 FIFA World Cup]]; the latter of which he helped his team reach the quarter-final.
+
+==Club career==
+===Early career===
+Mirallas spent his youth career playing for his hometown club [[Standard Liège]].&lt;ref&gt;{{cite web | url=http://www.evertonfc.com/news/archive/2012/08/19/blues-complete-mirallas-swoop | title=Blues Complete Mirallas Swoop | publisher=[[Everton F.C.]] | accessdate=30 August 2012}}&lt;/ref&gt; He then left Belgium and began his first team career in France by signing for [[Lille OSC]] and played for them since the opening of the 2004–05 season.&lt;ref name="Mirallas"&gt;{{cite web | url=https://int.soccerway.com/players/kevin-mirallas/2073/ | title=K. Mirallas | publisher=Soccerway | accessdate=16 April 2018}}&lt;/ref&gt; Mirallas participated in the [[UEFA Cup]] in his first season at the club. Mirallas subsequently was transferred to [[AS Saint-Étienne]] for €4 million, and began to make a name for himself by scoring against [[Olympique Lyonnais|Lyon]] on his debut in the Rhone-Loire derby.&lt;ref&gt;{{cite web|url=http://www.goal.com/en-us/match/22778/o-lyon-vs-as-saint-etienne/preview?ICID=OP|title=O. Lyon 1–1 AS Saint-Etienne|publisher=Goal |date=1 February 2009 }}&lt;/ref&gt;
+
+===Olympiacos===
+In June 2010 Mirallas joined Greek club [[Olympiacos F.C.|Olympiacos]] on a one-year loan for a fee of €2.5 million.&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldfootball/clubfootball/news/newsid=1249999.html?cid=rssfeed&amp;att=|title=Fédération Internationale de Football Association (FIFA) – FIFA|last=FIFA.com}}&lt;/ref&gt; Mirallas made his debut in a 5–0 win against [[KS Besa Kavaje]] in the Second Qualifying Round of the [[UEFA Europa League]] Qualifiers&lt;ref&gt;{{cite web|url=http://www.sport24.gr/football/EuropaLeague/mpesa-olympiakos_0-5.411865.html|title=Μπέσα-Ολυμπιακός 0–5 |publisher=Sport24 |date=15 July 2010 }}&lt;/ref&gt; and scored his first two goals for the club in a 3–1 home win against [[Ethnikos Olympiakos Volos F.C.|Olympiakos Volos]].&lt;ref&gt;{{cite web|url=http://www.sport24.gr/football/ellada/SuperLeague/olympiakos-olympiakos_voloy_3-1.560554.html|title=Ολυμπιακός-Ολυμπιακός Βόλου 3–1 |publisher=Sport24 |date=2 October 2010 }}&lt;/ref&gt; Mirallas scored in a 2–1 away loss to their greatest rivals [[Panathinaikos]] in the [[Derby of the eternal enemies]] after which his contract was extended to four years.&lt;ref&gt;{{cite news|url= http://www.sport24.gr/football/omades/Olympiakos/h_sent_etien_anakoinwse_miralas.766204.html |title= Η Σεντ Ετιέν ανακοίνωσε Μιραλάς! |publisher=Sport24 |date= 1 February 2011}}&lt;/ref&gt; Olympiacos won that season's [[Greek Super League]] and Mirallas finished as the club's top scorer with 14 goals, with only Panathinaikos's [[Djibril Cissé]] scoring more league goals than him. The following season Mirallas scored his first ever hat-trick for Olympiacos in a 4–0 away win against [[Levadiakos F.C.]]&lt;ref&gt;{{cite web|url=https://www.fifa.com/world-match-centre/news/newsid/155/745/3/index.html|title=Mirallas treble sends Olympiacos top |publisher=FIFA |date=14 December 2011 }}&lt;/ref&gt; and scored four in a 7–2 victory over [[Asteras Tripolis]].&lt;ref&gt;{{cite web|url=http://www.olympiacos.org/en/article/9998/olympiacos-fc-asteras-tripolis-7-2|title=OLYMPIACOS F.C. – ASTERAS TRIPOLIS 7–2 |publisher=Olympiacos.org |date=25 March 2012 }}&lt;/ref&gt; Olympiacos again won the league,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/19265336|title=Everton have signed forward Kevin Mirallas on a four-year deal from Olympiakos for a fee of about £6m |publisher=BBC Sport |date=19 August 2012 }}&lt;/ref&gt; and Mirallas was the league's top scorer with 20 goals.&lt;ref name="greekts"&gt;{{cite web|url=http://www.superleaguegreece.net/statistics/playerstats/16/all/by:SUM_goals/page:1|title=Στατιστικά Παικτών|publisher=Super League Greece|accessdate=19 August 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120805043920/http://www.superleaguegreece.net/statistics/playerstats/16/all/by:SUM_goals/page:1|archivedate=5 August 2012}}&lt;/ref&gt;
+
+===Everton===
+In August 2012, Mirallas joined [[Premier League]] club [[Everton F.C.|Everton]] for a reported fee of £6 million.&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/football/19265336 | title=Everton sign Kevin Mirallas from Olympiakos for £6m | publisher=[[BBC Sport]] | accessdate=19 August 2012}}&lt;/ref&gt; He made his debut as a second-half substitute during a 3–1 [[Premier League|league]] win over [[Aston Villa F.C.|Aston Villa]] at Villa Park in which he had a headed goal disallowed due to it being ruled offside.&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/football/19304226 | title=Aston Villa 1–3 Everton | publisher=[[BBC Sport]] | accessdate=25 August 2012}}&lt;/ref&gt; In his first start four days later, Mirallas scored twice and provided two assists as Everton won 5–0 against [[Leyton Orient F.C.|Leyton Orient]] in the second round of the [[2012–13 Football League Cup|League Cup]].&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/football/19340512 | title=Everton 5–0 Leyton Orient | publisher=[[BBC Sport]] | accessdate=29 August 2012}}&lt;/ref&gt; He scored his first league goal on 22 September 2012, in a 3–0 away win against [[Swansea City A.F.C.|Swansea City]] after heading in his initial effort which rebounded off the underside of the bar.&lt;ref&gt;[https://www.bbc.co.uk/sport/football/19615118 "Swansea 0–3 Everton"] BBC Sport. 22 September 2012. Retrieved 22 September 2012.&lt;/ref&gt; Mirallas suffered a number of injuries which limited his number of appearances during the middle part of the season. He made a number of brief cameos, notably against [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in December. Mirallas' next goal came against [[Oldham Athletic A.F.C|Oldham Athletic]] in a 3–1 win on 26 February 2013 in the fifth round of the [[2012–13 FA Cup|FA Cup]]. He then scored again, scoring his second league goal of the season against [[Reading F.C.|Reading]] in a 3–1 win on 2 March 2013. He scored his first brace in [[David Moyes]]' last home game in charge of Everton in a 2–0 win against [[West Ham United]].&lt;ref&gt;{{cite news |url= http://www.whufc.com/articles/20130512/mirallas-double-downs-hammers_2236884_3176299 |title= Mirallas double downs Hammers |publisher= West Ham United F.C. |date= 12 May 2013 |deadurl= yes |archiveurl= https://web.archive.org/web/20140522142447/http://www.whufc.com/articles/20130512/mirallas-double-downs-hammers_2236884_3176299 |archivedate= 22 May 2014 |df= dmy-all }}&lt;/ref&gt;
+
+[[File:Kevin Mirallas 2015.jpg|thumbnail|190px|Mirallas warming-up for Everton in 2015]]
+
+Mirallas scored and assisted a goal during a 3–3 draw in the first [[Merseyside derby]] of the [[2013–14 Everton F.C. season|2013–14 season]] on 23 November.&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/football/24969016 | title=Everton 3–3 Liverpool | publisher=[[BBC Sport]] | accessdate=26 May 2014}}&lt;/ref&gt; He also received a booking for a high challenge on [[Luis Suárez]] which opposing manager [[Brendan Rodgers]] described as reckless and insisted Mirallas was lucky to remain on the pitch.&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/football/25069608 | title=Everton 3–3 Liverpool: Brendan Rodgers angry with Kevin Mirallas | publisher=[[BBC Sport]] | accessdate=26 May 2014}}&lt;/ref&gt; He went on to score eight goals in the season, before it was ended in April due to a groin injury.&lt;ref&gt;{{cite web | url=https://www.theguardian.com/football/2014/apr/22/kevin-mirallas-everton-injured-rest-of-season | title=Everton's Kevin Mirallas ruled out for rest of season with injury | work=[[The Guardian]] | accessdate=26 May 2014}}&lt;/ref&gt; Mirallas created 61 chances for his teammates during the season, the most of any Everton player.&lt;ref&gt;{{cite web | url=http://www.squawka.com/news/squawka-awards-a-statistical-review-of-evertons-season/111807 | title=Squawka Awards: A statistical review of Everton’s Premier League season | publisher=Squawka | accessdate=5 June 2014}}&lt;/ref&gt;
+
+On 18 September 2014, Mirallas scored his first European goal for Everton, in a 4–1 win over [[VfL Wolfsburg|Wolfsburg]] in the first match of their [[2014-15 UEFA Europa League|Europa League]] campaign.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/29240782 |title=Everton marked their Europa League return with a dominant victory over Germans Wolfsburg at Goodison Park. |publisher=BBC Sport |date=18 September 2014 |accessdate=21 September 2015 }}&lt;/ref&gt; He signed a new three-year contract with the club in August 2015.&lt;ref&gt;{{cite web|title=Mirallas Pens New Deal|url=http://www.evertonfc.com/news/2015/08/07/mirallas-pens-new-deal|publisher=Everton F.C.|accessdate=7 August 2015}}&lt;/ref&gt;
+
+Mirallas scored his 29th Premier League goals for Everton on 11 March 2017 as Everton cruised to victory over West Bromwich Albion at Goodison Park in a 3–0 win.&lt;ref&gt;{{cite web|title=Everton 3–0 West Bromwich Albion|url=https://www.bbc.com/sport/football/39163818|publisher=BBC Sport|first=Neil|last=Johnston|date=11 March 2017|accessdate=11 March 2017}}&lt;/ref&gt; On 12 May 2017, Mirallas signed a new three-year contract deal with Everton until the end of June 2020.&lt;ref&gt;{{cite web|title=Mirallas Signs New Contract|url=http://www.evertonfc.com/news/2017/05/12/mirallas-signs-new-contract|publisher=Everton FC|date=12 May 2017|accessdate=12 May 2017}}&lt;/ref&gt;
+
+====Loan to Olympiacos====
+On 7 January 2018, Mirallas agreed to return to former club Olympiacos on loan until the end of the [[2017–18 Olympiacos F.C. season|2017–18 season]].&lt;ref&gt;{{cite web|title=Everton forward Kevin Mirallas has rejoined Greek club Olympiakos on loan until the end of the season.|url=https://www.bbc.co.uk/sport/football/42593788|publisher=BBC Sport|date=7 January 2018|accessdate=7 January 2018}}&lt;/ref&gt; The club did not have an option to purchase Mirallas as part of the contract.&lt;ref&gt;{{Cite news|url=http://www.skysports.com/football/news/11671/11198607/kevin-mirallas-leaves-everton-for-olympiakos|publisher=Sky Sports|title=Kevin Mirallas leaves Everton for Olympiacos|date=7 January 2018}}&lt;/ref&gt; On 16 April, Mirallas scored a stunning strike from the edge of the penalty area on the stroke of half-time in a 5–1 home win against [[Kerkyra F.C.|Kerkyra]].&lt;ref&gt;{{Cite news|url=https://www.onsports.gr/podosfairo/superleague/story/594339/olympiakos-kerkyra-5-1-pentara-me-tin-ayra-toy-martins |title=Ολυμπιακός – Κέρκυρα 5–1: Πεντάρα με την… αύρα του Μαρτίνς |publisher=www.onsports.gr | language = Greek | date = 16 April 2018}}&lt;/ref&gt; On 4 May, his loan spell was terminated by mutual consent due to Everton's high asking price to purchase Mirallas outright, as well as Mirallas' overall sub-par performances with Olympiacos.&lt;ref&gt;{{Cite news|url=http://www.contra.gr/Soccer/Hellas/Superleague/olympiacos/parelthon-apo-ton-olympiako-o-miralas.5184702.html|title=Παρελθόν από τον Ολυμπιακό ο Μιραλάς!|work=Contra.gr|access-date=4 May 2018|language=en}}&lt;/ref&gt;
+
+====Loan to Fiorentina====
+On 4 August 2018, Mirallas signed for [[ACF Fiorentina|Fiorentina]] on a season-long loan deal with the option to make the transfer permanent.&lt;ref&gt;{{cite web|title=Mirallas Poised For Fiorentina Loan Move|url=http://www.evertonfc.com/news/2018/08/03/mirallas-makes-fiorentina-loan-move|date=4 August 2018|accessdate=4 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Mirallas joins Fiorentina|url=http://en.violachannel.tv/breaking-detail/items/mirallas-joins-fiorentina.html|date=4 August 2018|accessdate=6 August 2018}}&lt;/ref&gt;
+
+==International career==
+[[File:Kevin Mirallas vs DaMarcus Beasley USA vs. Belgium.jpg|thumb|right|Mirallas in action against [[DaMarcus Beasley]] during an [[Exhibition match|international friendly]] against the [[United States national men's soccer team|United States]] on 29 May 2013]]
+Mirallas has represented Belgium at [[Belgium national under-17 football team|under-17]], [[Belgium national under-19 football team|under-19]] and [[Belgium national under-21 football team|under-21]] level, and was one of the leading figures in guiding the [[Belgium national under-21 football team|under-21s]] to the semi-finals of the [[2007 UEFA European Under-21 Football Championship]].
+
+He scored twice in the [[2008 Summer Olympics]] football tournament, once against China (2–0 victory) and once against Italy (3–2 victory).&lt;ref&gt;{{cite web|publisher=Sports Reference|title=Kevin Mirallas Biography and Statistics|url=https://www.sports-reference.com/olympics/athletes/mi/kevin-mirallas-1.html|accessdate=20 August 2009}}&lt;/ref&gt;
+He made his full international debut for the [[Belgium national football team|senior team]] in 2007 and scored his first ever international goal against [[Serbia national football team|Serbia]] in Brussels on 23 August of that year, as a [[Mousa Dembélé (footballer, born 1987)|Mousa Dembélé]] brace helped the Red Devils to a 3–2 home victory.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2008/matches/round=2241/match=83783/postmatch/report/index.html|title=Dembélé double downs Serbia |publisher=UEFA |date=23 August 2007 }}&lt;/ref&gt;
+
+Mirallas was part of the Belgian squad which reached the quarter-finals at the [[2014 FIFA World Cup]], making his tournament debut in the second group match, a 1–0 win over [[Russia national football team|Russia]] in the [[Maracanã Stadium|Maracanã]], as a 75th-minute substitute for [[Dries Mertens]]. In a game of few opportunities, Mirallas hit the post with Belgium's first shot on target, with another substitute [[Divock Origi]] scoring the only goal two minutes from full-time.&lt;ref&gt;{{cite news|last1=Chase|first1=Graham|title=Belgium 1–0 Russia|url=https://www.bbc.co.uk/sport/football/25285242|accessdate=22 November 2014|publisher=BBC Sport|date=22 June 2014}}&lt;/ref&gt;
+
+In May 2018 he was left out of Belgium’s preliminary [[Belgium national football team|squad]] for the [[2018 World Cup]] in [[Russia]].&lt;ref&gt;{{cite web|title= World Cup 2018: Belgium announce initial 28-man squad for Russia| url= https://www.independent.co.uk/sport/football/world-cup/belgium-world-cup-squad-confirmed-russia-2018-nainggolan-hazard-de-bruyne-lukaku-a8361241.html%3Famp 2018}}&lt;/ref&gt;
+
+==Style of play==
+{{BLP unsourced section|date=August 2016}}
+Mirallas was deployed as a centre forward for Olympiacos but since his move to Everton he has been deployed mainly as a winger or a free roaming forward. He is known for his pace, close ball control, passing ability and proficiency in one-on-one situations.
+
+==Personal life==
+Mirallas' father was born in Spain.&lt;ref&gt;{{cite web|url=http://premierskills.britishcouncil.org/en/learn-english/kevin-mirallas-player-profile|title=Premier Skills English|deadurl=bot: unknown|archiveurl=https://web.archive.org/web/20140521215542/http://premierskills.britishcouncil.org/en/learn-english/kevin-mirallas-player-profile|archivedate=21 May 2014}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 9 February 2019|&lt;ref name="Mirallas"/&gt;&lt;ref&gt;{{cite web| title=Kevin Mirallas French stats|url=http://www.lfp.fr/joueur/mirallas-kevin|publisher=[[Ligue de Football Professionnel|LFP]]|accessdate=10 March 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web| title=Kevin Mirallas Personal Detail|url=https://www.premierleague.com/players/4507/player/overview|publisher=[[Premier League]]|accessdate=13 May 2017}}&lt;/ref&gt;}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|Europe
+!colspan="2"|Total
+|-
+!Division||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+|rowspan="5"|[[Lille OSC|Lille]]
+|[[2004–05 Ligue 1|2004–05]]
+|rowspan="4"|[[Ligue 1]]
+|3||1||0||0||0||0||0||0||3||1
+|-
+|[[2005–06 Ligue 1|2005–06]]
+|15||1||0||0||2||0||2||0||19||1
+|-
+|[[2006–07 Ligue 1|2006–07]]
+|23||2||0||0||2||0||5||0||30||2
+|-
+|[[2007–08 Ligue 1|2007–08]]
+|35||6||2||1||0||0||0||0||37||7
+|-
+!colspan="2"|Total
+!76||10||2||1||4||0||7||0||89||11
+|-
+|rowspan="3"|[[AS Saint-Étienne|Saint-Étienne]]
+|[[2008–09 Ligue 1|2008–09]]
+|rowspan="2"|[[Ligue 1]]
+|30||3||2||0||0||0||8||1||40||4
+|-
+|[[2009–10 Ligue 1|2009–10]]
+|23||0||4||1||2||0||0||0||29||1
+|-
+!colspan="2"|Total
+!53||3||6||1||2||0||8||1||69||5
+|-
+|rowspan="3"|[[Olympiacos F.C.|Olympiacos]]
+|[[2010–11 Olympiacos F.C. season|2010–11]]
+|rowspan="2"|[[Superleague Greece|Superleague]]
+|27||14||3||0||colspan="2"|—||3||0||33||14
+|-
+|[[2011–12 Olympiacos F.C. season|2011–12]]
+|25||20||3||0||colspan="2"|—||6||0||34||20
+|-
+!colspan="2"|Total
+!52||34||6||0||colspan="2"|—||9||0||67||34
+|-
+|rowspan="7"|[[Everton F.C.|Everton]]
+|[[2012–13 Everton F.C. season|2012–13]]
+|rowspan="6"|[[Premier League]]
+|27||6||4||1||2||2||colspan="2"|—||33||9
+|-
+|[[2013–14 Everton F.C. season|2013–14]]
+|32||8{{efn|name=DubiousGoal|Mirallas' Everton F.C. profile gives him nine Premier League goals for the 2013–14 season,&lt;ref&gt;{{cite web |url=http://www.evertonfc.com/players/k/km/kevin-mirallas |title=Kevin Mirallas |publisher=Everton F.C. |accessdate=13 May 2017}}&lt;/ref&gt; one more than do other sources. After the [[Dubious Goals Panel]] awarded his goal on 19 October 2013 against [[Hull City A.F.C.|Hull City]] to [[Gareth Barry]],&lt;ref&gt;{{cite web |url=http://www.evertonfc.com/news/2013/10/28/barry-credited-with-hull-strike |title=Barry credited with Hull strike |first=Daniel |last=Alston |publisher=Everton F.C. |date=28 October 2013 |accessdate=13 May 2017}}&lt;/ref&gt; Everton's website added it to Barry's record but failed to subtract it from Mirallas'. For more detail and sources, see [[Talk:Kevin Mirallas#Everton goals 2013–14]].}}
+|4||0||1||0||colspan="2"|—||37||8
+|-
+|[[2014–15 Everton F.C. season|2014–15]]
+|29||7||2||1||0||0||5{{efn|name=UC|Appearances in [[UEFA Europa League]]}}|||3||36||11
+|-
+|[[2015–16 Everton F.C. season|2015–16]]
+|23||4||3||1||4||1||colspan="2"|—||30||6
+|-
+|[[2016–17 Everton F.C. season|2016–17]]
+|35||4||1||0||1||0||colspan="2"|—||37||4
+|-
+|[[2017–18 Everton F.C. season|2017–18]]
+|5||0||0||0||1||0||7{{efn|name=UC|Appearances in [[UEFA Europa League]]}}|||0||13||0
+|-
+!colspan="2"|Total
+!151||29||14||3||9!!3!!9!!3!!186!!38
+|-
+|[[Olympiacos F.C.|Olympiacos]] (loan)
+|[[2017–18 Olympiacos F.C. season|2017–18]]
+|[[Superleague Greece|Superleague]]
+|13||2||3||0||colspan="2"|—||colspan="2"|—||16||2
+|-
+|[[ACF Fiorentina|Fiorentina]] (loan)
+|[[2018–19 ACF Fiorentina season|2018–19]]
+|[[Serie A]]
+|16||2||2||0||colspan="2"|—||colspan="2"|—||18||2
+|-
+!colspan="3"|Career total
+!361!!80!!33!!5!!15!!3!!33!!4!!444!!92
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 27 March 2018|&lt;ref&gt;{{NFT player|id=23194|name=Kevin Mirallas|accessdate=6 August 2018}}&lt;/ref&gt;}}
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Belgium national football team|Belgium national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2007||6||2
+|-
+|2008||4||1
+|-
+|2009||9||1
+|-
+|2010||2||0
+|-
+|2011||3||0
+|-
+|2012||8||2
+|-
+|2013||10||3
+|-
+|2014||8||0
+|-
+|2015||1||0
+|-
+|2016||4||0
+|-
+|2017||4||1
+|-
+|2018||1||0
+|-
+!Total||60||10
+|}
+
+===International goals===
+:''Scores and results lists Belgium's goal tally first.''&lt;ref&gt;{{cite web|url=http://eu-football.info/_player.php?id=25594|publisher=eu-football.info|title=Kevin Mirallas|accessdate=28 March 2017}}&lt;/ref&gt;
+{| class="wikitable"
+|-
+! Goal !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 22 August 2007 || [[King Baudouin Stadium]], [[Brussels]], [[Belgium]] || {{fb|SRB}} || '''2'''–0 || 3–2 || [[UEFA Euro 2008 qualifying]]
+|-
+| 2. || 12 September 2007 || [[Almaty Central Stadium]], [[Almaty]], [[Kazakhstan]] || {{fb|KAZ}} || '''2'''–1  || 2–2 || UEFA Euro 2008 qualifying
+|-
+| 3. || 19 November 2008 || [[Stade Josy Barthel]], [[Luxembourg City]], [[Luxembourg]] || {{fb|LUX}} || '''1'''–0  || 1–1 || [[Friendly match|Friendly]]
+|-
+| 4. || 14 November 2009 || [[Jules Ottenstadion]], [[Ghent]], Belgium || {{fb|HUN}} || '''3'''–0  || 3–0 || Friendly
+|-
+| 5. || 25 May 2012 || King Baudouin Stadium, Brussels, Belgium || {{fb|MNE}} || '''1'''–1  || 2–2 || Friendly
+|-
+| 6. || 12 October 2012 || [[Stadium Crvena Zvezda]], [[Belgrade]], [[Serbia]]  || {{fb|SRB}} || '''3'''–0  || 3–0 || [[2014 FIFA World Cup qualification - UEFA Group A|2014 FIFA World Cup Qualifying]]
+|-
+| 7. || 29 May 2013 || [[FirstEnergy Stadium (Cleveland)|FirstEnergy Stadium]], [[Cleveland, Ohio|Cleveland]], [[United States]] || {{fb|USA}} || '''1'''–0  || 4–2 || Friendly
+|-
+| 8. || 6 September 2013 || [[Hampden Park]], [[Glasgow]], [[United Kingdom]] || {{fb|SCO}} || '''2'''–0  || 2–0 || 2014 FIFA World Cup Qualifying
+|-
+| 9. || 19 November 2013 || King Baudouin Stadium, Brussels, Belgium || {{fb|JPN}} || '''1'''–0  || 2–3 || Friendly
+|-
+| 10. || 28 March 2017 || [[Fisht Olympic Stadium]], [[Sochi]], [[Russia]] || {{fb|RUS}} || '''1'''–1  || 3–3 || Friendly
+|}
+
+==Honours==
+===Club===
+;[[Olympiacos F.C.|Olympiacos]]&lt;ref name="Mirallas" /&gt;
+*[[Superleague Greece]] (2): [[2010–11 Super League Greece|2010–11]], [[2011–12 Superleague Greece|2011–12]]
+*[[Greek Football Cup]] (1): [[2011–12 Greek Football Cup|2011–12]]
+
+===Individual===
+*[[Greek Superleague Top Goalscorer|Superleague Greece Top Scorer]] (1): [[2011–12 Superleague Greece|2011–12]]&lt;ref name="greekts" /&gt;
+*Superleague Greece Player of the Season (1): [[2011–12 Superleague Greece|2011–12]]&lt;ref&gt;{{cite news |title = Kevin Mirallas is speler van het jaar in Griekenland|url=http://www.nieuwsblad.be/sportwereld/cnt/dmf20120504_091 |author = rvh |language=nl |newspaper=[[Het Nieuwsblad]] |date=4 May 2012 |accessdate=19 August 2014}}&lt;/ref&gt;
+*[[BBC Goal of the Month|Premier League Goal of the Month]] (1): May 2013&lt;ref&gt;{{cite web|title=Kevin Mirallas – player profile|url=https://premierskillsenglish.britishcouncil.org/players/player-week/kevin-mirallas-player-profile|publisher=Premier Skills (British Council)|accessdate=11 February 2015}}&lt;/ref&gt; &lt;small&gt;vs. [[West Ham United F.C.|West Ham United]]&lt;/small&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[http://www.evertonfc.com/player-profile/kevin-mirallas Kevin Mirallas Profile] at EvertonFC.com
+*[http://www.belgianfootball.be/en/all-red-devils Belgium Stats] at Belgian FA
+*{{UEFA player|74685}}
+*{{FIFA player|290903}}
+*{{Lequipe|21596}}
+*{{Soccerbase}}
+*{{NFT player|id=23194}}
+
+{{ACF Fiorentina squad}}
+{{Navboxes
+|bg=gold
+|fg=navy
+|title= Awards
+|list1=
+{{Super League Greece foreigner of the year}}
+{{Super League Greece top scorers}}
+}}
+{{Navboxes colour|title = Belgium squads|bg = #D4071A|fg = #FFCE4A|bordercolor = Black|list1 =
+{{Belgium men's football squad 2008 Summer Olympics}}
+{{Belgium squad 2014 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Mirallas, Kevin}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Belgian footballers]]
+[[Category:Belgian expatriate sportspeople in France]]
+[[Category:Belgian expatriate sportspeople in Greece]]
+[[Category:Belgian expatriate sportspeople in England]]
+[[Category:Belgian expatriate sportspeople in Italy]]
+[[Category:Lille OSC players]]
+[[Category:AS Saint-Étienne players]]
+[[Category:Olympiacos F.C. players]]
+[[Category:Everton F.C. players]]
+[[Category:ACF Fiorentina players]]
+[[Category:Belgium youth international footballers]]
+[[Category:Belgium under-21 international footballers]]
+[[Category:Belgium international footballers]]
+[[Category:Ligue 1 players]]
+[[Category:Superleague Greece players]]
+[[Category:Premier League players]]
+[[Category:Belgian people of Spanish descent]]
+[[Category:Belgian expatriate footballers]]
+[[Category:Expatriate footballers in France]]
+[[Category:Expatriate footballers in Greece]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Italy]]
+[[Category:Footballers at the 2008 Summer Olympics]]
+[[Category:Olympic footballers of Belgium]]
+[[Category:Sportspeople from Liège]]
+[[Category:Association football wingers]]
+[[Category:2014 FIFA World Cup players]]</text>
+      <sha1>53e1hz37s6qd9q6rvrvor1o1r635myd</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,224 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jordan Graham</title>
+    <ns>0</ns>
+    <id>41299681</id>
+    <revision>
+      <id>885079155</id>
+      <parentid>884926917</parentid>
+      <timestamp>2019-02-25T20:46:17Z</timestamp>
+      <contributor>
+        <username>Dave.Dunford</username>
+        <id>144047</id>
+      </contributor>
+      <comment>first goal + update career stats + Oxford squad</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15918">{{Use dmy dates|date=January 2018}}
+{{Use British English|date=May 2014}}
+{{Infobox football biography
+| name=Jordan Graham
+| image= 
+| fullname=Jordan Graham&lt;ref&gt;{{Cite news|title=Premier League Clubs submit Squad Lists |url=http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/Premier-League-Squad-Lists-January-2014.pdf |publisher=Premier League |format=PDF |page=35 |date=4 February 2014 |accessdate=12 February 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140316063138/http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/Premier-League-Squad-Lists-January-2014.pdf |archivedate=16 March 2014 |df= }}&lt;/ref&gt;
+| birth_date={{birth date and age|1995|3|5|df=y}}
+| birth_place=[[Coventry]], England
+| height= 
+| position=[[Midfielder#Winger|Winger]]
+| currentclub = [[Oxford United F.C.|Oxford United]]&lt;br&gt;(on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]])
+| clubnumber  = 18
+| youthyears1 = 2002–2013
+| youthclubs1 = [[Aston Villa Under-21s and Academy|Aston Villa]]
+| years1 = 2013–2015 | clubs1 =   [[Aston Villa F.C.|Aston Villa]]                                     | caps1 = 0          | goals1 = 0
+| years2 = 2013      | clubs2 = → [[Ipswich Town F.C.|Ipswich Town]] (loan)                            | caps2 = 2          | goals2 = 0
+| years3 = 2014      | clubs3 = → [[Bradford City A.F.C.|Bradford City]] (loan)                        | caps3 = 1          | goals3 = 0
+| years4 = 2014–2015 | clubs4 = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)      | caps4 = 0          | goals4 = 0
+| years5 = 2015–     | clubs5 =   [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]             | caps5 = 14         | goals5 = 1
+| years6 = 2015      | clubs6 = → [[Oxford United F.C.|Oxford United]] (loan)                          | caps6 = 5          | goals6 = 0
+| years7 = 2017–2018 | clubs7 = → [[Fulham F.C.|Fulham]] (loan)                                        | caps7 = 3          | goals7 = 0
+| years8 = 2018–2019 | clubs8 = → [[Ipswich Town F.C.|Ipswich Town]] (loan)                            | caps8 = 4          | goals8 = 0
+| years9 = 2019–     | clubs9 = → [[Oxford United F.C.|Oxford United]] (loan)                          | caps9 = 8          | goals9 = 1
+| nationalyears1 = 2010      | nationalteam1 = Republic of Ireland U15                                 | nationalcaps1 = 2  | nationalgoals1 = 2
+| nationalyears2 = 2010–2011 | nationalteam2 = [[England national under-16 football team|England U16]] | nationalcaps2 = 5  | nationalgoals2 = 0
+| nationalyears3 = 2011–2012 | nationalteam3 = [[England national under-17 football team|England U17]] | nationalcaps3 = 11 | nationalgoals3 = 0
+| club-update = 15:06, 23 February 2019 (UTC)
+| ntupdate = 
+}}
+'''Jordan Graham''' (born 5 March 1995) is an English professional footballer who plays as a winger for [[Oxford United F.C.|Oxford United]] on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] . Graham has represented both [[England national football team|England]] and the [[Republic of Ireland national football team|Republic of Ireland]] at youth level. He is a product of the [[Aston Villa Under-21s and Academy|Aston Villa Academy]], having spent twelve years there as a junior.
+
+==Career==
+Graham is a product of the Aston Villa youth academy and was a member of their [[NextGen Series]] winning side in the 2012–13 season.&lt;ref name=nextgen/&gt; He signed a professional contract with Villa in March 2012.&lt;ref&gt;{{cite web | url=http://www.avfc.co.uk/page/NewsDetail/0,,10265~2634177,00.html| title=Academy starlet Graham signs professional contract| publisher=Aston Villa F.C|date= 7 March 2012}}&lt;/ref&gt;
+
+In November, he joined [[Ipswich Town F.C.|Ipswich Town]] on loan, where he made his professional debut on 7 December 2013 in a 2–1 win over [[Huddersfield Town A.F.C.|Huddersfield]].&lt;ref&gt;{{Cite web | url = https://www.bbc.co.uk/sport/0/football/25163687 | title = Ipswich 2–1 Huddersfield | publisher = BBC Sport| date = 7 December 2013}}&lt;/ref&gt; Graham also made an appearance in the victory over [[Doncaster Rovers F.C.|Doncaster Rovers]] before he returned to Villa at the end of December 2013.&lt;ref&gt;{{cite web | url = http://www.twtd.co.uk/ipswich-town-news/24305? | title= Loanee Returns to Villa | publisher=Ipswich Town F.C | date = 31 December 2013}}&lt;/ref&gt;
+
+On 10 January 2014, he joined League One side [[Bradford City A.F.C.|Bradford City]] on a one-month loan deal,&lt;ref&gt;{{Cite web |title=Graham comes to city |url=http://www.bradfordcityfc.co.uk/news/article/graham-joins-city-1285252.aspx |publisher=Bradford City AFC |date=10 January 2014}}&lt;/ref&gt; for whom he made one appearance: against his future club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on 1 February 2014.&lt;ref&gt;{{Cite web | url =https://www.bbc.co.uk/sport/0/football/25891950| title=Wolverhampton Wanderers 2–0 Bradford City| publisher=BBC Sport| date=1 February 2014}}&lt;/ref&gt;
+
+The winger joined Wolverhampton Wanderers, now returned to the Championship, in November 2014 on loan until the January transfer window.&lt;ref&gt;{{Cite web | url = https://www.bbc.co.uk/sport/0/football/30238820| title =Aston Villa: Wolves sign midfielder Jordan Graham on loan| publisher = BBC Sport| date =27 November 2014}}&lt;/ref&gt; Injury prevented him from making any appearances during this loan period,&lt;ref&gt;{{cite web | url =http://www.wolves.co.uk/news/article/jordan-graham-completes-move-2182698.aspx| title=Jordan Graham completes move| publisher = Wolverhampton Wanderers F.C | date = 5 January 2015}}&lt;/ref&gt; but he signed a permanent 18-month deal with the club on 5 January 2015 for an undisclosed fee.&lt;ref&gt;{{cite web | url =https://www.bbc.co.uk/sport/0/football/30682931| title=Jordan Graham completes move| publisher =BBC Sport| date = 5 January 2015}}&lt;/ref&gt;
+
+After failing to make a first-team appearance for Wolves, he was sent on a month-long loan to League Two side [[Oxford United F.C.|Oxford United]] in September 2015.&lt;ref&gt;{{cite news| title=Oxford United: Winger Jordan Graham set to join on loan|publisher=BBC Sport|url=https://www.bbc.com/sport/0/football/34381097|date=28 September 2015}}&lt;/ref&gt; Following a successful initial month, his loan was extended by two months,&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/34621656 |title=Jordan Graham: Winger extends Oxford loan by two months |publisher=BBC Sport |date=23 October 2015|accessdate=27 October 2015}}&lt;/ref&gt; but a few days later he was recalled by Wolves after an injury crisis at his parent club.&lt;ref&gt;{{cite web |url=http://www.oufc.co.uk/news/article/oxford-united-wolves-jordan-graham-2767506.aspx |title=Winger Graham Returns To Wolves |publisher=Oxford United F.C. |date=27 October 2015 |accessdate=27 October 2015}}&lt;/ref&gt;
+
+Graham scored his first goal in his club career for Wolverhampton Wanderers on 28 December 2015 in the 52nd minute of a Championship game against [[Charlton Athletic F.C.|Charlton Athletic]] at The Valley.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/35147801 |title=Charlton Athletic 0 Wolverhampton Wanderers 2 |publisher=BBC Sport |date=28 December 2015 |accessdate=1 February 2016}}&lt;/ref&gt; He suffered torn knee ligaments during a game against [[Cardiff City F.C.|Cardiff City]] on 16 January 2016. Despite this, Graham extended his contract with Wolves until the end of the 2017–18 season, with the club having the option of two additional years.&lt;ref&gt;{{cite web| url=https://www.bbc.com/sport/football/35533293| publisher=BBC Sport| title=Wolves: Jordan Graham and Kortney Hause extend contracts|date=9 February 2016}}&lt;/ref&gt; The initial prognosis of his injury was that he was expected to be missing from action for between nine and 12 months,&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/35343431 |title=Jordan Graham: Wolves winger out for nine months with injury |publisher=BBC Sport |date=18 January 2016 |accessdate=1 February 2016}}&lt;/ref&gt; but after suffering several setbacks during his recovery, he did not return to first-team football until 15 months later, on 25 April 2017, in a 1–0 defeat against [[Huddersfield Town A.F.C.|Huddersfield]] at Molineux.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/39035260| publisher=BBC Sport| title=Wolverhampton Wanderers 0–1 Huddersfield Town|date=25 April 2017}}&lt;/ref&gt;
+
+On 31 August 2017, he joined [[EFL Championship|Championship]] rivals [[Fulham F.C.|Fulham]] on loan until the end of the season.&lt;ref&gt;{{cite web|url=https://www.wolves.co.uk/news/first-team/20170831-graham-loaned-to-fulham/|title=Graham Loaned To Fulham
+|publisher=Wolverhampton Wanderers F.C.|date=31 August 2017}}&lt;/ref&gt; On 15 January 2018, after making just three league appearances, Graham returned to Wolves.&lt;ref&gt;{{cite web|url=http://www.fulhamfc.com/news/2018/january/15/jordan-graham-returns-to-wolves|title=Graham Returns To Wolves|publisher=Fulham F.C.|date=15 January 2018|accessdate= 27 March 2018}}&lt;/ref&gt;
+
+On 28 August 2018, Graham signed for [[Ipswich Town F.C.|Ipswich Town]] on a season-long loan.&lt;ref&gt;{{cite web|url=http://www.eadt.co.uk/sport/town-sign-wolves-winger-graham-1-5670222|title=Ipswich Town sign Wolves winger Jordan Graham|publisher=EADT|date=28 August 2018|accessdate= 28 August 2018}}&lt;/ref&gt; After [[Paul Lambert]] replaced Paul Hurst as Ipswich manager, Graham began training with Oxford United, with a view to an official loan in January,&lt;ref&gt;[https://www.shropshirestar.com/sport/football/wolverhampton-wanderers-fc/2018/11/15/jordan-graham-snubbed-by-ex-wolves-boss-paul-lambert-at-ipswich/ "Jordan Graham snubbed by ex-Wolves boss Paul Lambert at Ipswich"] Shropshire Star November 15 2018&lt;/ref&gt; which was confirmed in December 2018.&lt;ref&gt;{{cite news |url=https://www.oxfordmail.co.uk/sport/oxfordunited/usnews/17319558.jordan-graham-to-return-on-loan-at-oxford-united-next-week/ |first=David |last=Pritchard |title=Jordan Graham to return on loan at Oxford United next week |newspaper=Oxford Mail |date=25 December 2018 |accessdate=4 January 2019}}&lt;/ref&gt; He scored his first Oxford goal, and the second League goal of his career, with a well-taken free kick in a surprise away victory over [[Blackpool F.C.|Blackpool]] on 23 February 2019.&lt;ref&gt;{{cite news |url=https://www.oxfordmail.co.uk/sport/oxfordunited/usnews/17456186.oxford-united-hero-jordan-graham-on-a-high/ |first=Jack |last=Johnson |title=Oxford United hero Jordan Graham on a high |newspaper=Oxford Mail |date=25 February 2019 |accessdate=25 February 2019}}&lt;/ref&gt;
+
+==International career==
+Graham has played for the [[England national under-16 football team|England U16]] side, being part of the squad that retained the 2010–11 [[Victory Shield]].&lt;ref&gt;{{cite web | url=http://www.thefa.com/england/All-Teams/Players/g/JordanGraham | title=Jordan Graham | publisher=www.thefa.com | accessdate=8 December 2013}}&lt;/ref&gt; He has also represented the [[England national under-17 football team|England U17]] side, playing in and winning the 2012 Algarve Tournament.&lt;ref&gt;{{cite web | url=http://www.avfc.co.uk/page/ReservesProfile/0,,10265~2388257,00.html | title=Jordan Graham Squad Profile | publisher=www.avfc.co.uk | accessdate=8 December 2013}}&lt;/ref&gt; Graham also represented the [[Republic of Ireland national football team]] at under-15 level in the 2010 Tri-Nations tournament, scoring twice against Northern Ireland U15s.&lt;ref&gt;{{cite web|url=http://www.fai.ie/international/youth-teams/under-15/100982-republic-u15s-complete-double-over-north.html |title=Republic U15s Complete Double over North |publisher=Football Association of Ireland |accessdate=8 December 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131213001950/http://www.fai.ie/international/youth-teams/under-15/100982-republic-u15s-complete-double-over-north.html |archivedate=13 December 2013 |df= }}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 23 April 2018}}
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[EFL Cup|League Cup]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Aston Villa F.C.|Aston Villa]]
+|[[2013–14 Aston Villa F.C. season|2013–14]]&lt;ref name="JG13"&gt;{{soccerbase season|73896|2013|accessdate=4 October 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[Ipswich Town F.C.|Ipswich Town]] (loan)
+|[[2013–14 Ipswich Town F.C. season|2013–14]]&lt;ref name="JG13"/&gt;
+|[[EFL Championship|Championship]]
+|2||0||0||0||0||0||0||0||2||0
+|-
+|[[Bradford City A.F.C.|Bradford City]] (loan)
+|[[2013–14 Bradford City A.F.C. season|2013–14]]&lt;ref name="JG13"/&gt;
+|[[EFL League One|League One]]
+|1||0||0||0||0||0||0||0||1||0
+|-
+|rowspan="5"|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[2014–15 Wolverhampton Wanderers F.C. season|2014–15]]&lt;ref name="JG14"&gt;{{soccerbase season|73896|2014|accessdate=4 October 2017}}&lt;/ref&gt;
+|rowspan="4"|[[EFL Championship|Championship]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2015–16 Wolverhampton Wanderers F.C. season|2015–16]]&lt;ref name="JG15"&gt;{{soccerbase season|73896|2015|accessdate=4 October 2017}}&lt;/ref&gt;
+|11||1||1||0||0||0||0||0||12||1
+|-
+|[[2016–17 Wolverhampton Wanderers F.C. season|2016–17]]&lt;ref name="JG16"&gt;{{soccerbase season|73896|2016|accessdate=4 October 2017}}&lt;/ref&gt;
+|2||0||0||0||0||0||0||0||2||0
+|-
+|[[2017–18 Wolverhampton Wanderers F.C. season|2017–18]]&lt;ref name="JG17"&gt;{{soccerbase season|73896|2017|accessdate=4 October 2017}}&lt;/ref&gt;
+|1||0||0||0||2||0||0||0||3||0
+|-
+!colspan="2"|Wolves total
+!14!!1!!1!!0!!2!!0!!0!!0!!20!!1
+|-
+|[[Oxford United F.C.|Oxford United]] (loan)
+|[[2015–16 Oxford United F.C. season|2015–16]]&lt;ref name="JG15"/&gt;
+|[[EFL League Two|League Two]]
+|5||0||0||0||0||0||1&lt;ref group=lower-alpha name="FLT"&gt;Appearances in the [[EFL Trophy|Football League Trophy]]&lt;/ref&gt;||0||6||0
+|-
+|[[Fulham F.C.|Fulham]] (loan)
+|[[2017–18 Fulham F.C. season|2017–18]]&lt;ref name="JG17"/&gt;
+|[[EFL Championship|Championship]]
+|3||0||0||0||0||0||0||0||3||0
+|-
+
+|-
+|[[Ipswich Town F.C.|Ipswich Town]] (loan)
+|[[2018–19 Ipswich Town F.C. season|2018–19]]
+|[[EFL Championship|Championship]]
+|4||0||0||0||0||0||0||0||4||0
+|-
+
+|-
+|[[Oxford United F.C.|Oxford United]] (loan)
+|[[2018–19 Oxford United F.C. season|2018–19]]
+|[[EFL League Two|League One]]
+|8||1||1||0||0||0||2&lt;ref group=lower-alpha name="FLT" /&gt;||0||11||1
+|-
+
+!colspan="3"|Career total
+!37!!2!!2!!0!!2!!0!!3!!0!!44!!2
+|}
+{{reflist|group=lower-alpha}}
+
+==Honours==
+===Club===
+;Aston Villa U19
+*[[NextGen Series]]: [[2012–13 NextGen series|2012–13]]&lt;ref name=nextgen&gt;{{cite news|last1=Percy|first1=John|title=NextGen Series Final: Chelsea U19 0 Aston Villa U19 2|url=https://www.telegraph.co.uk/sport/football/teams/aston-villa/9965508/NextGen-Series-Final-Chelsea-U19-0-Aston-Villa-U19-2.html|accessdate=13 September 2014|work=The Daily Telegraph|date=1 April 2013}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerbase}}
+*{{soccerway|jordan-graham/215563|Jordan Graham}}
+
+&lt;!--{{Ipswich Town F.C. squad}}--&gt;
+{{Oxford United F.C. squad}}
+
+{{DEFAULTSORT:Graham, Jordan}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Coventry]]
+[[Category:Association football forwards]]
+[[Category:English footballers]]
+[[Category:Republic of Ireland youth international footballers]]
+[[Category:English people of Irish descent]]
+[[Category:Aston Villa F.C. players]]
+[[Category:Black English sportspeople]]
+[[Category:Ipswich Town F.C. players]]
+[[Category:Bradford City A.F.C. players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Oxford United F.C. players]]
+[[Category:English Football League players]]
+[[Category:Fulham F.C. players]]</text>
+      <sha1>l6hvi0hk8g9hsz05uv1hdrhuhpanyff</sha1>
+    </revision>
+  </page>
+</mediawiki>

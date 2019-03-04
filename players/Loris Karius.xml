@@ -1,0 +1,268 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Loris Karius</title>
+    <ns>0</ns>
+    <id>37821010</id>
+    <revision>
+      <id>885816857</id>
+      <parentid>885151703</parentid>
+      <timestamp>2019-03-02T15:02:16Z</timestamp>
+      <contributor>
+        <username>RootPOI</username>
+        <id>25825475</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27432">{{pp-vandalism|small=yes}}
+{{Use dmy dates|date=September 2017}}
+{{Infobox football biography
+|name        = Loris Karius
+|image       = Loris Karius.jpg
+|image_size  = 200
+|caption     = Karius playing for [[Liverpool F.C.|Liverpool]] in the [[2018 UEFA Champions League Final]]
+|fullname    = Loris Sven Karius&lt;ref&gt;{{cite web |title=Squads for 2017/18 Premier League confirmed |url=https://www.premierleague.com/news/465277 |publisher=Premier League |date=1 September 2017 |accessdate=9 September 2017}}&lt;/ref&gt;
+|birth_date  = {{birth date and age|1993|6|22|df=y}} 
+|birth_place = [[Biberach an der Riss]], Germany
+|height      = 1.89m&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/19600/Loris-Karius/overview |title=Loris Karius: Overview |publisher=Premier League |accessdate=6 January 2018}}&lt;/ref&gt;
+|position    = [[Goalkeeper (association football)|Goalkeeper]]
+|currentclub = [[Beşiktaş J.K.|Beşiktaş]]&lt;br&gt;(on loan from [[Liverpool F.C.|Liverpool]])
+|clubnumber  = 1
+|youthyears1 = 1998–2000
+|youthclubs1 = FV Biberach
+|youthyears2 = 2000–2001
+|youthclubs2 = SG Mettenberg
+|youthyears3 = 2001–2005
+|youthclubs3 = [[SSV Ulm 1846]]
+|youthyears4 = 2005–2009
+|youthclubs4 = [[VfB Stuttgart]]
+|youthyears5 = 2009–2011
+|youthclubs5 = [[Manchester City F.C.|Manchester City]]
+|years1      = 2011–2013 |clubs1      = [[1. FSV Mainz 05 II|Mainz 05 II]] |caps1   = 27 |goals1  = 0
+|years2      = 2012–2016 |clubs2      = [[1. FSV Mainz 05|Mainz 05]]       |caps2   = 91 |goals2  = 0
+|years3      = 2016–     |clubs3      = [[Liverpool F.C.|Liverpool]]       |caps3   = 29 |goals3  = 0
+|years4      = 2018–     |clubs4      = → [[Beşiktaş J.K.|Beşiktaş]] (loan)|caps4   = 20 |goals4  = 0
+|nationalyears1    = 2008–2009 |nationalteam1  = [[Germany national under-16 football team|Germany U16]]|nationalcaps1  = 3 |nationalgoals1  = 0 
+|nationalyears2    = 2009      |nationalteam2  = [[Germany national under-17 football team|Germany U17]]|nationalcaps2  = 1 |nationalgoals2  = 0 
+|nationalyears3    = 2010      |nationalteam3  = [[Germany national under-18 football team|Germany U18]]|nationalcaps3  = 1 |nationalgoals3  = 0 
+|nationalyears4    = 2011      |nationalteam4  = [[Germany national under-19 football team|Germany U19]]|nationalcaps4  = 1 |nationalgoals4  = 0 
+|nationalyears5    = 2012      |nationalteam5  = [[Germany national under-20 football team|Germany U20]]|nationalcaps5  = 1 |nationalgoals5  = 0 
+|nationalyears6    = 2014      |nationalteam6  = [[Germany national under-21 football team|Germany U21]]|nationalcaps6  = 1 |nationalgoals6  = 0  
+|club-update       = 2 March 2019
+|nationalteam-update = 
+}}
+'''Loris Sven Karius''' (born 22 June 1993) is a German professional footballer who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Süper Lig]] club [[Beşiktaş J.K.|Beşiktaş]],&lt;ref name="Liverpool FC"&gt;{{Cite news|url=https://www.liverpoolfc.com/news/first-team/313594-loris-karius-besiktas-loan|title=Loris Karius joins Besiktas on two-year loan|work=Liverpool FC|access-date=2018-08-25}}&lt;/ref&gt; on loan from [[Premier League]] club [[Liverpool F.C.|Liverpool]]. He represented Germany at [[Germany national youth football team|youth level]].
+
+Born in [[Biberach an der Riss|Biberach]], Karius began his career with [[VfB Stuttgart|Stuttgart]] before moving to [[Manchester City F.C.|Manchester City]] in 2009. After two years in Manchester City's youth system, he returned to Germany with [[1. FSV Mainz 05|Mainz 05]]. He established himself as first-choice goalkeeper for the [[Bundesliga]] side before transferring to Liverpool in 2016 for a fee of £4.75&amp;nbsp;million.&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/football/2016/05/24/liverpool-sign-475m-goalkeeper-loris-karius-from-mainz/|title=Liverpool sign £4.75m goalkeeper Loris Karius from Mainz|last=Bascombe|first=Chris|date=2016-05-24|work=The Telegraph|access-date=2018-06-04|language=en-GB|issn=0307-1235}}&lt;/ref&gt;
+
+==Early life==
+Karius was born in [[Biberach an der Riss|Biberach]], Baden-Württemberg on 22 June 1993 to Christine and Harald Karius.&lt;ref&gt;{{citeweb|url=http://www.schwaebische.de/home_artikel,-_arid,2795603.html|title=15-Jähriger Biberacher hält künftig Robinhos Schüsse|author=Staff writer(s)|website=Schwäbische Zeitung das Onlineportal|language=German|date=8 May 2008|accessdate=7 November 2016}}&lt;/ref&gt; Harald intended for his son to become a [[motocross]] rider, but Loris' grandfather, Karl, encouraged him to focus on football.&lt;ref name=goalinterview&gt;{{cite web|url=http://www.goal.com/en/news/1862/premier-league/2016/11/09/29350962/introducing-loris-karius-how-the-goalkeeper-kicked-past-his|title=Introducing Loris Karius: How the goalkeeper kicked past his struggles to become Liverpool’s No.1|first=Melissa|last=Reddy|website=[[Goal (website)|Goal]]|date=10 November 2016|accessdate=16 November 2016}}&lt;/ref&gt;
+
+Karius attended [[Pestalozzi-Gymnasium Biberach]] until his move to England in 2009 where he was then privately tutored.&lt;ref&gt;{{citeweb|url=http://www.spox.com/de/sport/fussball/nachwuchs/1103/Artikel/loris-karius-vfb-stuttgart-manchester-city-jerome-boateng.html|title=Der Werdegang von Loris Karius bei Manchester City|author=Staff writer(s)|website=Spox|language=German|date=17 March 2011|accessdate=7 November 2016}}&lt;/ref&gt;
+
+==Club career==
+===Early career===
+Karius played for local team SG Mettenberg and [[SSV Ulm 1846]] before joining [[VfB Stuttgart]], where he rose through the youth ranks and appeared for the German under-16 national team against Macedonia in September 2008.&lt;ref&gt;{{citeweb|url=http://www.schwaebische.de/mediathek_galid,205691_titel,-Fussballprofi-Loris-Karius-in-der-Heimat-_toid,157.html|title=Fußballprofi Loris Karius in der Heimat|author=Staff writer(s)|website=Schwäbische Zeitung das Onlineportal|language=German|date=27 March 2016|accessdate=7 November 2016}}&lt;/ref&gt;
+
+===Manchester City===
+[[Manchester City F.C.|Manchester City]] invited Karius and his family to England after watching him in Germany's under-16 game against Azerbaijan, and completed his signing on 1 July 2009.&lt;ref&gt;{{citeweb|url=http://www.espnfc.com/story/632981|title=Stuttgart hit out at City over young goalkeeper|author=Staff writer(s)|publisher=[[ESPN FC]]|date=26 March 2009|accessdate=7 November 2016}}&lt;/ref&gt; Karius played for the under-18 and the under-21 Manchester City teams, but failed to make a senior appearance during his time in Manchester.&lt;ref&gt;{{cite web|url=https://www.telegraph.co.uk/football/2018/04/09/loris-karius-delighted-finally-get-game-former-club-man-city|title=Loris Karius delighted to finally get a game at former club Man City|publisher=The Daily Telegraph|accessdate=7 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.irishtimes.com/sport/soccer/champions-league/loris-karius-out-to-prove-manchester-city-wrong-1.3455598|title=Loris Karius out to prove Manchester City wrong|publisher=The Irish Times|accessdate=7 June 2018}}&lt;/ref&gt;
+
+===Mainz 05===
+[[File:Loris-Karius-2015-07.jpg|thumb|left|upright|Karius with [[1. FSV Mainz 05|Mainz 05]] in 2015]]
+
+Manchester City loaned Karius to [[1. FSV Mainz 05|Mainz 05]] in August 2011, where he played for Mainz 05's reserve team, [[1. FSV Mainz 05 II|Mainz 05 II]], in the [[Regionalliga]]. On 11 January 2012, the move was made permanent with Karius committing himself to a two-year deal with an option for a third year that would extend his contract to June 2015.&lt;ref&gt;{{citeweb|url=http://www.kicker.de/news/fussball/bundesliga/startseite/563095/artikel_bis-2014_05-bindet-karius.html|title=Bis 2014: 05 bindet Karius|author=Staff writer(s)|publisher=''[[Kicker (sports magazine)|kicker]]''|language=German|date=11 January 2012|accessdate=7 November 2016}}&lt;/ref&gt;
+
+He made his Mainz 05 debut on 1 December 2012 in a [[Bundesliga]] match against [[Hannover 96]] when he was substituted for [[Shawn Parker]] after goalkeeper [[Christian Wetklo]] had been sent off, which, aged 19 years, 5 months and 9 days old, made Karius the youngest goalkeeper ever to play in the Bundesliga.&lt;ref name=goalinterview/&gt;&lt;ref&gt;{{citeweb|url=http://www.goal.com/en/match/mainz-05-vs-hannover-96/1300903/lineups|title=Mainz 05 vs Hannover 96 Match Report|author=Staff writer(s)|website=[[Goal (website)|Goal]]|date=1 December 2012|accessdate=7 November 2016}}&lt;/ref&gt; He made no further appearances in the 2012–13 season, but established himself as first-choice goalkeeper in the 2013–14 season and on 12 January 2015 signed a three-year contract extension.&lt;ref&gt;{{citeweb|url=http://www.bundesliga.de/de/liga/news/loris-karius-verlaengert-bei-mainz-05.jsp|title=Loris Karius verlängert beim 1. FSV Mainz 05|author=Staff writer(s)|publisher=[[Bundesliga]]|language=German|date=12 January 2015|accessdate=7 November 2016}}&lt;/ref&gt;&lt;ref&gt;{{citeweb|url=http://www.dailystar.co.uk/sport/football/419780/CONFIRMED-Arsenal-target-Loris-Karius-pens-contract-2018 |title=Arsenal target Loris Karius pens contract until 2018|first=Alex|last=Harris|publisher=[[Daily Star (British newspaper)|''Daily Star'']]|date=12 January 2015|accessdate=7 November 2016}}&lt;/ref&gt;
+
+Karius was ever-present in the [[2015–16 1. FSV Mainz 05 season|2015–16 season]], keeping nine clean sheets, saving two penalties and being voted the second-best goalkeeper in the league in a poll of 235 fellow Bundesliga players, ranking behind only [[Manuel Neuer]].&lt;ref&gt;{{citeweb|url=http://www.bundesliga.com/en/news/Bundesliga/noblmd32-bundesliga-your-team-of-the-season-goalkeepers.jsp|title=Team of the Season: Neuer sweeps the board in goalkeeper vote|author=Staff writer(s)|publisher=[[Bundesliga]]|date=6 May 2016|accessdate=7 November 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-bound-loris-karius-voted-11376318|title=Liverpool-bound Loris Karius voted second-best Bundesliga goalkeeper|first=Kristian|last=Walsh|publisher=''[[Liverpool Echo]]''|date=24 May 2016|accessdate=7 November 2016}}&lt;/ref&gt;
+
+===Liverpool===
+[[File:Liver-SM 2017 (5) (Loris Karius).jpg|thumb|130px|Karius lining up for [[Liverpool F.C|Liverpool]] in 2017]]
+
+On 24 May 2016, Karius signed with [[Liverpool F.C|Liverpool]] for a fee of £4.75&amp;nbsp;million on a five-year deal.&lt;ref&gt;{{cite web |url=http://www.liverpoolfc.com/news/first-team/222991-liverpool-agree-deal-to-sign-loris-karius |title=Liverpool agree deal to sign Loris Karius |date=24 May 2016 |first=James |last=Carroll |publisher=[[Liverpool F.C.|Liverpool Football Club]] |accessdate=24 May 2016}}&lt;/ref&gt;&lt;ref&gt;{{citeweb|url=https://www.independent.co.uk/sport/football/transfers/loris-karius-signs-liverpool-goalkeeper-transfer-news-a7046946.html|title=Mainz goalkeeper completes £4.7million move after release clause activated|first=Simon|last=Hughes|publisher=''[[The Independent]]''|date=24 May 2016|accessdate=7 November 2016}}&lt;/ref&gt; He was given the number 1 jersey.&lt;ref&gt;{{cite web |url=http://www.liverpoolfc.com/news/first-team/222989-liverpool-confirm-loris-karius-squad-number |title=Liverpool confirm Loris Karius squad number |date=24 May 2016 |first=James |last=Carroll |publisher=[[Liverpool F.C.|Liverpool Football Club]] |accessdate=24 May 2016}}&lt;/ref&gt;
+
+==== 2016–17 season ====
+He made his debut in a 3–0 [[EFL Cup]] win over [[Derby County F.C.|Derby County]] on 20 September 2016.&lt;ref&gt;{{cite news
+|url=https://www.bbc.co.uk/sport/football/37346111|title=Derby 0–3 Liverpool |author=Staff writer(s)|publisher=[[BBC Sport]]|date=20 September 2016|accessdate=21 September 2016}}&lt;/ref&gt; He played his first [[Premier League]] match against [[Hull City A.F.C.|Hull City]], which ended in a 5–1 victory for the Reds, on 24 September.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/37393500 |title=Liverpool 5–1 Hull City |date=24 September 2016 |first=Phil|last=Dawkes|publisher=[[BBC Sport]]|accessdate=7 November 2016}}&lt;/ref&gt; He kept his first Premier League [[Shutout|clean sheet]] on 17 October in a 0–0 draw with rivals [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite news|url=https://www.mirror.co.uk/sport/football/news/liverpool-loris-karius-de-gea-9072543|title=Liverpool keeper Loris Karius inspired by David De Gea and insists it will take time to produce at a high level|last=Maddock|first=David|date=18 October 2016|accessdate=24 October 2016|website=[[Daily Mirror]]}}&lt;/ref&gt; On 24 October 2016, [[Jürgen Klopp]] confirmed that Karius was Liverpool's first-choice goalkeeper, ahead of [[Simon Mignolet]].&lt;ref&gt;{{cite web|url=https://www.independent.co.uk/sport/football/fa-league-cups/liverpool-news-jurgen-klopp-simon-mignolet-efl-cup-vs-spurs-a7378771.html |title=Liverpool news: Jurgen Klopp confirms Simon Mignolet is no longer No 1 as Liverpool prepare for EFL Cup clash |date=24 October 2016 |author=Staff writer(s) |publisher=''[[The Independent]]''|accessdate=7 November 2016}}&lt;/ref&gt; After two sub-par performances in early December, which included spilling [[Lewis Cook (footballer, born 1997)|Lewis Cook]]’s tame shot into the path of [[Nathan Aké]] to tap home into an empty net to give Bournemouth a 4–3 win, Karius was dropped from the starting eleven. Regarding this decision, Klopp stated he wanted to take Karius "out the firing line," and that "Karius is a young goalkeeper. He will bounce back."&lt;ref&gt;{{cite news|title=Liverpool boss Jurgen Klopp backs keeper for future success|url=https://www.bbc.com/sport/football/38324774|author=Staff writer(s)|accessdate=15 December 2016|publisher=BBC Sport|date=14 December 2016}}&lt;/ref&gt;
+
+==== 2017–18 season ====
+In the 2018 Champions League quarter-final 2nd leg at [[Manchester City]], with the aggregate scoreline at 3–1 to Liverpool Karius was involved in a controversial incident when he failed to clear a cross into the penalty area, punching the ball downward which ricocheted off teammate James Milner and into the path of Man City striker [[Gabriel Jesus]] who scored, only for the linesman to incorrectly give offside.&lt;ref&gt;{{cite news |title=Manchester City 1–2 (agg. 1–5) Liverpool: Mo Salah and Roberto Firmino stun Blues to advance to Champions League semi-finals – 5 talking points |url=https://www.mirror.co.uk/sport/football/match-reports/manchester-city-1-2-agg-12338906 |access-date=12 July 2018 |newspaper=[[The Daily Mirror]] |last=Rathborn |first=Jack |date=10 April 2018}}&lt;/ref&gt; In the Champions League semi-final home leg against [[AS Roma]], with the scoreline at 0–0 Karius let [[Aleksandar Kolarov]]’s shot go through his hands with the ball then hitting the crossbar, before Liverpool went on to win 5–2.&lt;ref&gt;{{cite news |title=Liverpool 5–2 Roma: Win unlike any football I've seen before – Lawrenson |url=https://www.bbc.co.uk/sport/football/43888382 |publisher=[[BBC]] |date=25 April 2018 |work=[[BBC Sport]] |access-date=13 July 2018 |last=Lawrenson |first=Mark}}&lt;/ref&gt; In the away game in Rome, Karius was involved in controversy when he came rushing out of his goal and brought down [[Edin Dzeko]] inside the penalty area, but instead of a penalty and red card the linesman gave offside in what ''The Telegraph'' called “an extremely tight call”.&lt;ref name="Telegraph"/&gt; Minutes later Karius parried a Roma shot into the path of Dzeko who made the scoreline 2–1 to Roma, before the game finished 4–2 to Roma and 7–6 to Liverpool on aggregate.&lt;ref name="Telegraph"&gt;{{cite news |title=Liverpool ride their luck in Rome but survive to reach eighth European Cup final |url=https://www.telegraph.co.uk/football/2018/05/02/roma-vs-liverpool-champions-league-live-score-updates/ |access-date=12 July 2018 |newspaper=[[The Daily Telegraph]] |last=Burt |first=Jason |date=3 May 2018 |publisher=[[Telegraph Media Group Limited]]}}&lt;/ref&gt;
+
+Karius started for Liverpool against [[Real Madrid C.F.|Real Madrid]] in the [[2018 UEFA Champions League Final]] which Liverpool lost 3–1.&lt;ref&gt;{{Cite news|url=https://www.bbc.com/sport/football/44258022|title=Real Madrid 3–1 Liverpool|date=2018-05-26|work=BBC Sport|access-date=2018-07-06|language=en-GB}}&lt;/ref&gt; He was deemed at fault for two of the goals, the first and third; the first after his throw was blocked by [[Karim Benzema]] and deflected into the net, and the second after he mishandled [[Gareth Bale]]'s 40-yard strike.&lt;ref&gt;{{cite web |url=https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-stand-loris-karius-despite-14711508 |title=Liverpool will stand by Loris Karius despite Champions League horror show |publisher=Liverpool Echo |author=Ian Doyle |date=27 May 2018 |accessdate=27 May 2018}}&lt;/ref&gt;
+
+After the match, he wept and tearfully apologised to Liverpool fans who remained in the stands.&lt;ref&gt;{{cite web |url=https://metro.co.uk/2018/05/26/loris-karius-gives-tearful-apology-liverpool-fans-mistakes-real-madrid-7580859/ |title=Loris Karius gives tearful apology to Liverpool fans after mistakes against Real Madrid |publisher=Metro |author=Chris Dawie |date=26 May 2018 |accessdate=27 May 2018}}&lt;/ref&gt; He also stated that his mistakes "lost the team the final".&lt;ref&gt;{{cite news |date=26 May 2018 |title=Loris Karius apologises to Liverpool for Champions League horror show: 'my mistakes lost us the final' |url=https://www.independent.co.uk/sport/football/european/loris-karius-liverpool-champions-league-mistakes-real-madrid-final-mohamed-salah-sergio-ramos-a8371136.html |work=The Independent |accessdate=26 May 2018}}&lt;/ref&gt; After the match, Karius received online [[death threats]], mainly on [[Twitter]], which prompted [[Merseyside Police]] to launch an investigation.&lt;ref&gt;{{cite news |date=26 May 2018 |title=Liverpool goalkeeper Loris Karius sent death threats by fans after howlers during Champions League final |url=https://www.standard.co.uk/news/uk/liverpool-goalkeeper-loris-karius-sent-death-threats-by-fans-after-howlers-during-champions-league-a3849211.html |publisher=Standard.co.uk |accessdate=27 May 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |date=26 May 2018 |title=Loris Karius: Liverpool goalkeeper receives death threats after howlers|url=https://www.thesouthafrican.com/loris-karius-liverpool-death-threats/|publisher=The South African |accessdate=27 May 2018}}&lt;/ref&gt; Five days later, Karius underwent an examination at [[Massachusetts General Hospital]]. Medics concluded he had suffered a concussion from an elbow to his head, reportedly from [[Sergio Ramos]] just minutes before his first mistake. Doctors, however, did not pinpoint the exact moment he was concussed. According to doctor [[Ross Zafonte]], it was possible the concussion affected his performance.&lt;ref&gt;{{cite web |last1=Zafonte |first1=Ross |last2=Herget |first2=Lenore |title=Statement regarding Loris Karius From Dr. Ross Zafonte and Lenore Herget, PT, DPT |url=https://www.massgeneral.org/News/newsarticle.aspx?id=6792 |publisher=[[Massachusetts General Hospital]] |accessdate=4 June 2018 |date=4 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Loris Karius: Liverpool keeper concussed during Champions League final – doctors |url=https://www.bbc.co.uk/sport/football/44363648 |accessdate=4 June 2018 |work=[[BBC Sport]] |date=4 June 2018}}&lt;/ref&gt; Later, on 6 July, at the start of pre season, Klopp stated that Karius was "100% influenced by his concussion", leading to his errors, with Klopp saying "We don't use it as an excuse, we use it as an explanation. For me, it's 100% the explanation [for his performance]. He was influenced by that knock – that is 100%".&lt;ref&gt;{{Cite news|url=https://www.mirror.co.uk/sport/football/news/jurgen-klopp-says-loris-karius-12862355|title=Klopp opens up on Karius Champions League final concussion for the first time|last=Jones|first=Mark|date=2018-07-06|work=mirror|access-date=2018-07-06}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.bbc.com/sport/football/44735514|title=Loris Karius: Liverpool keeper influenced by Champions League final concussion – Jurgen Klopp|date=2018-07-06|work=BBC Sport|access-date=2018-07-06|language=en-GB}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.liverpoolfc.com/news/first-team/306090-jurgen-klopp-loris-karius-concussion|title=Jürgen Klopp speaks on Loris Karius concussion|work=Liverpool FC|access-date=2018-07-06}}&lt;/ref&gt;
+
+==== 2018–19 season ====
+Karius’s handling was back in the spotlight in July 2018 during pre season with Liverpool.&lt;ref name="Errors"/&gt;&lt;ref name="RTE"/&gt; In the warm-up to Liverpool’s pre-season opener against [[Chester City F.C.|Chester City]], footage showed Karius spilling the ball into his own net.&lt;ref name="Errors"/&gt; Against [[Tranmere Rovers]] on 10 July, he fumbled a free-kick which directly led to a goal.&lt;ref name="RTE"&gt;{{cite news |title=Klopp rallies behind Karius after pre-season blunder |url=https://www.rte.ie/sport/soccer/2018/0710/977810-klopp-rallies-behind-karius-after-pre-season-blunder/ |accessdate=23 August 2018 |agency=RTE}}&lt;/ref&gt; Nine days later Liverpool broke the world transfer fee record for a goalkeeper when they signed [[Alisson (footballer, born 1992)|Alisson]] for an initial fee of €62.5 million (£56m), which could rise to €72 million (£66.8 million) with performance-based bonuses, and relegated Karius to a back up.&lt;ref&gt;{{cite web |url=https://www.liverpoolecho.co.uk/sport/football/transfer-news/liverpool-confirm-signing-alisson-becker-14930903 |title=Liverpool confirm signing of Alisson Becker in world record deal |author=Pearce, James |publisher=Liverpool Echo |date=19 July 2018 |access-date=1 August 2018 |archive-url=https://web.archive.org/web/20180720022616/https://www.liverpoolecho.co.uk/sport/football/transfer-news/liverpool-confirm-signing-alisson-becker-14930903 |archive-date=20 July 2018 |dead-url=no |df=dmy-all }}&lt;/ref&gt; Against [[Borussia Dortmund]] on 22 July, Karius came rushing out of his box but his scuffed clearance fell straight into the path of [[Maximilian Philipp]] who was unable to put the ball into the empty net from 40 yards. He was deemed at fault for Dortmund’s third goal late on when he parried [[Christian Pulisic]]’s shot from close range directly into the path of [[Jacob Bruun Larsen]], who scored.&lt;ref name="Errors"&gt;{{cite news |title=Liverpool fans worry for Loris Karius as he makes a mistake after four minutes against Borussia Dortmund |url= https://metro.co.uk/2018/07/22/liverpool-fans-worry-loris-karius-makes-mistake-four-minutes-borussia-dortmund-7746854/?ito=cbshare |accessdate=23 August 2018 |work=Metro}}&lt;/ref&gt;
+
+==== Loan to Beşiktaş ====
+On 25 August 2018, Karius joined Turkish club [[Beşiktaş J.K.|Beşiktaş]] on a two-year loan move.&lt;ref&gt;{{Cite news|url=https://www.bbc.com/sport/football/45311332|title=Loris Karius: Liverpool goalkeeper joins Turkey's Besiktas on loan|date=2018-08-25|work=BBC Sport|access-date=2018-08-25|language=en-GB}}&lt;/ref&gt;&lt;ref name="Liverpool FC"/&gt;
+
+==International career==
+Karius represented Germany at all youth levels from under-16 onward, but his appearances were limited due to competition from [[Manuel Neuer]], [[Timo Horn]] and [[Marc-André ter Stegen]].{{citation needed|date=November 2017}}
+
+==Career statistics==
+{{updated|match played 2 March 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup{{efn|Includes [[DFB-Pokal]] and [[FA Cup]]}}
+!colspan=2|League Cup{{efn|Includes [[EFL Cup]]}}
+!colspan=2|Europe
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[1. FSV Mainz 05 II|Mainz 05 II]]
+|[[2011–12 Regionalliga#Regionalliga West|2011–12]]&lt;ref name=Soccerway/&gt;
+|[[Regionalliga West]]
+|18||0||colspan=2|—||colspan=2|—||colspan=2|—||18||0
+|-
+|[[2012–13 Regionalliga#Regionalliga Südwest|2012–13]]&lt;ref name=Soccerway/&gt;
+|[[Regionalliga Südwest]]
+|6||0||colspan=2|—||colspan=2|—||colspan=2|—||6||0
+|-
+|[[2013–14 Regionalliga#Regionalliga Südwest|2013–14]]&lt;ref name=Soccerway/&gt;
+|Regionalliga Südwest
+|3||0||colspan=2|—||colspan=2|—||colspan=2|—||3||0
+|-
+!colspan=2|Total
+!27||0||colspan=2|—||colspan=2|—||colspan=2|—||27||0
+|-
+|rowspan=6|[[1. FSV Mainz 05|Mainz 05]]
+|[[2011–12 1. FSV Mainz 05 season|2011–12]]&lt;ref name=Soccerway/&gt;
+|[[Bundesliga]]
+|0||0||0||0||colspan=2|—||0||0||0||0
+|-
+|[[2012–13 1. FSV Mainz 05 season|2012–13]]&lt;ref name=Soccerway/&gt;
+|Bundesliga
+|1||0||0||0||colspan=2|—||colspan=2|—||1||0
+|-
+|[[2013–14 Bundesliga|2013–14]]&lt;ref name=Soccerway/&gt;
+|Bundesliga
+|23||0||0||0||colspan=2|—||colspan=2|—||23||0
+|-
+|[[2014–15 1. FSV Mainz 05 season|2014–15]]&lt;ref name=Soccerway/&gt;
+|Bundesliga
+|33||0||1||0||colspan=2|—||2{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||36||0
+|-
+|[[2015–16 1. FSV Mainz 05 season|2015–16]]&lt;ref name=Soccerway/&gt;
+|Bundesliga
+|34||0||2||0||colspan=2|—||colspan=2|—||36||0
+|-
+!colspan=2|Total
+!91||0||3||0||colspan=2|—||2||0||96||0
+|-
+|rowspan=4|[[Liverpool F.C.|Liverpool]]
+|[[2016–17 Liverpool F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|63894|2016|accessdate=6 January 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|10||0||3||0||3||0||colspan=2|—||16||0
+|-
+|[[2017–18 Liverpool F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|63894|2017|accessdate=29 May 2018}}&lt;/ref&gt;
+|Premier League
+|19||0||1||0||0||0||13{{efn|Appearances in [[UEFA Champions League]]}}||0||33||0
+|-
+|[[2018–19 Liverpool F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|63894|2018|accessdate=1 October 2018}}&lt;/ref&gt;
+|Premier League
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+!colspan=2|Total
+!29||0||4||0||3||0||13||0||49||0
+|-
+|[[Beşiktaş J.K.|Beşiktaş]]
+|[[2018–19 Beşiktaş J.K. season|2018–19]]&lt;ref name=Soccerway&gt;{{cite web |url=https://uk.soccerway.com/players/loris--karius/205201/ |title=L. Karius |website=Soccerway |publisher=Perform Group |accessdate=1 October 2018}}&lt;/ref&gt;
+|[[Süper Lig]]
+|20||0||0||0||colspan=2|—||5{{efn|name=UEL}}||0||25||0
+|-
+!colspan=3|Career total
+!167||0||7||0||3||0||20||0||197||0
+|}
+
+{{notelist}}
+
+==Honours==
+'''Liverpool'''
+*[[UEFA Champions League]] runner-up: [[2017–18 UEFA Champions League|2017–18]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44258022 |title=Real Madrid 3–1 Liverpool |first=Phil |last=McNulty |publisher=BBC Sport |date=26 May 2018 |accessdate=27 May 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.liverpoolfc.com/team/first-team/player/loris-karius Liverpool F.C. profile]
+*{{Soccerbase|63894}}
+
+&lt;!-- {{Liverpool F.C. squad}} --&gt;
+{{Beşiktaş J.K. squad}}
+
+{{DEFAULTSORT:Karius, Loris}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:People from Biberach an der Riss]]
+[[Category:German footballers]]
+[[Category:Footballers from Baden-Württemberg]]
+[[Category:Germany youth international footballers]]
+[[Category:Germany under-21 international footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Manchester City F.C. players]]
+[[Category:1. FSV Mainz 05 II players]]
+[[Category:1. FSV Mainz 05 players]]
+[[Category:Liverpool F.C. players]]
+[[Category:Beşiktaş J.K. footballers]]
+[[Category:Bundesliga players]]
+[[Category:Premier League players]]
+[[Category:Süper Lig players]]
+[[Category:German expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:German expatriate sportspeople in England]]
+[[Category:Expatriate footballers in Turkey]]
+[[Category:German expatriate sportspeople in Turkey]]</text>
+      <sha1>ei5gokhhb1v8f8a1zlm9zu1v89nqhck</sha1>
+    </revision>
+  </page>
+</mediawiki>

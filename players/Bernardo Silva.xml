@@ -1,0 +1,361 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bernardo Silva</title>
+    <ns>0</ns>
+    <id>40113903</id>
+    <revision>
+      <id>885273631</id>
+      <parentid>885265808</parentid>
+      <timestamp>2019-02-27T01:08:46Z</timestamp>
+      <contributor>
+        <username>Master FishAreBlue</username>
+        <id>35165883</id>
+      </contributor>
+      <minor/>
+      <comment>adding uefa nations league info</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="31914">{{Use dmy dates|date=August 2018}}
+{{Portuguese name|Mota Veiga|Carvalho e Silva}}
+{{Infobox football biography
+| name = Bernardo Silva
+| image = Por-Mar (9) (cropped).jpg
+| image_size = 
+| caption = Silva with [[Portugal national football team|Portugal]] at the [[2018 FIFA World Cup]]
+| fullname = Bernardo Mota Veiga de Carvalho e Silva&lt;ref&gt;{{cite web|title=Squads for 2017/18 Premier League confirmed|url=https://www.premierleague.com/news/465277|publisher=Premier League|date=1 September 2017|access-date=9 September 2017}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1994|8|10|df=y}}&lt;ref name=FIFA&gt;{{cite web|url=http://tournament.fifadata.com/documents/FCC/2017/PDF/FCC_2017_SQUADLISTS.PDF|title=FIFA Confederations Cup Russia 2017: List of players: Portugal|website=FIFA|format=PDF|page=7|date=20 March 2018|access-date=29 March 2018|archive-url=https://web.archive.org/web/20170724170755/http://tournament.fifadata.com/documents/FCC/2017/PDF/FCC_2017_SQUADLISTS.PDF|archive-date=24 July 2017|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+| birth_place = [[Lisbon]], Portugal
+| height = 1.73 m&lt;ref name=FIFA/&gt;
+| position = [[Midfielder]]
+| currentclub = [[Manchester City]]
+| clubnumber = 20
+| youthyears1 = 2002–2013
+| youthclubs1 = [[S.L. Benfica|Benfica]]
+| years1 = 2013–2015
+| clubs1 = [[S.L. Benfica B|Benfica B]]
+| caps1 = 38
+| goals1 = 7
+| years2 = 2013–2015
+| clubs2 = [[S.L. Benfica|Benfica]]
+| caps2 = 1
+| goals2 = 0
+| years3 = 2014–2015&lt;!-- DO NOT REMOVE LOAN PERIOD --&gt;
+| clubs3 = → [[AS Monaco FC|Monaco]] (loan)
+| caps3 = 15
+| goals3 = 2
+| years4 = 2015–2017
+| clubs4 = [[AS Monaco FC|Monaco]]
+| caps4 = 86
+| goals4 = 22
+| years5 = 2017–
+| clubs5 = [[Manchester City F.C.|Manchester City]]
+| caps5 = 61
+| goals5 = 11
+| nationalyears1 = 2013
+| nationalteam1 = [[Portugal national under-19 football team|Portugal U19]]
+| nationalcaps1 = 13
+| nationalgoals1 = 2
+| nationalyears2 = 2013–2015
+| nationalteam2 = [[Portugal national under-21 football team|Portugal U21]]
+| nationalcaps2 = 14
+| nationalgoals2 = 6
+| nationalyears3 = 2015–
+| nationalteam3 = [[Portugal national football team|Portugal]]
+| nationalcaps3 = 33
+| nationalgoals3 = 3
+| club-update = 02:37, 11 February 2019 (UTC)
+| nationalteam-update = 11 October 2018
+}}
+'''Bernardo Mota Veiga de Carvalho e Silva''' ({{IPA-pt|bɨɾˈnaɾdu ˈsiɫvɐ}}; born 10 August 1994) is a Portuguese professional [[Association football|footballer]] who plays as a [[midfielder]] for {{English football updater|ManchesC}} club [[Manchester City F.C.|Manchester City]] and the [[Portugal national football team|Portugal national team]].
+
+Born in [[Lisbon]], Silva came through [[S.L. Benfica|Benfica]]'s youth academy. In 2013, he began playing for the club's [[S.L. Benfica B|reserve side]] and was promoted to the first team the following season. He was on loan at the [[Ligue 1]] side [[AS Monaco|Monaco]] during the 2014–15 season, with ''Les Monégasques'' making the move permanent in the winter of 2015. After winning the [[List of Ligue 1 champions|national championship]] with them in 2017, Silva was sold to the English club [[Manchester City]] for a reported fee of £43.5 million. He subsequently won the Premier League and [[EFL Cup]] in [[2017–18 Manchester City F.C. season|his first season]] in England.
+
+Silva made his senior debut for Portugal in 2015 after previously being [[Cap (sport)|capped]] by Portugal youth teams at [[Portugal national under-21 football team|under-21]] and [[Portugal national under-19 football team|under-19]] levels. He was chosen in Portugal's squads for the [[2017 FIFA Confederations Cup|2017 Confederations Cup]] and [[2018 FIFA World Cup|2018 World Cup]].
+
+==Club career==
+===Benfica===
+A product of [[S.L. Benfica|Benfica]]'s youth system, Silva played for its ranks, and in 2013 they won the 2012–13 Portuguese Juniors Championship.&lt;ref&gt;{{cite news|url=https://expresso.sapo.pt/comentario-benfica-garante-titulo-nacional-de-juniores-com-bis-de-joao-cancelo=f808015 |title=Benfica garante título nacional de juniores com "bis" de João Cancelo|trans-title=Benfica gains portuguese juniors title with a brace from João Cancelo|work=Expresso|date=18 May 2013|accessdate=24 May 2013}}&lt;/ref&gt; He made his debut for [[S.L. Benfica B|Benfica B]] in a [[Segunda Liga]] match against [[C.D. Trofense|Trofense]] on 10 August 2013 (Matchday 1).&lt;ref&gt;{{cite web|title=Trofense 0 – 0 Benfica B|url=http://www.lpfp.pt/segunda_liga/pages/jogo.aspx?epoca=20132014&amp;jornada=1&amp;jogo=8342|work=LPFP|date=10 August 2013}}&lt;/ref&gt;
+
+On 19 October 2013, Silva made his debut for [[S.L. Benfica|Benfica]] at the age of 19, in a [[2013–14 Taça de Portugal]] third round 1–0 away victory against [[Campeonato de Portugal (league)|Campeonato Nacional de Seniores]] club C.D. Cinfães, coming out of the bench in the 80th minute.&lt;ref&gt;{{cite web|title=Porto e Benfica cumprem na terceira eliminatória|url=http://pt.uefa.com/memberassociations/association=por/news/newsid=2012030.html|work=pt.uefa.com|accessdate=25 January 2014|language=Portuguese|date=19 October 2013}}&lt;/ref&gt; His good performance for Benfica B in the [[2013–14 Segunda Liga]] earned him the league's Breakthrough Player of the Year award.&lt;ref name="breakthrough award"&gt;{{cite news|title=Bernardo Silva considerado o Jogador Revelação da II Liga|url=http://www.slbenfica.pt/noticias/detalhedenoticia/tabid/2788/ArticleId/37198/language/pt-PT/.aspx|work=SL Benfica website|date=6 July 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140819083100/http://www.slbenfica.pt/noticias/detalhedenoticia/tabid/2788/ArticleId/37198/language/pt-PT/.aspx|archivedate=19 August 2014}}&lt;/ref&gt; He was a member of Benfica's domestic [[Treble (association football)|treble]]-winning team of the [[2013–14 S.L. Benfica season|2013–14 season]].
+
+===Monaco===
+On 7 August 2014, Silva joined [[AS Monaco FC|Monaco]] on one-year loan deal.&lt;ref&gt;{{cite news|title=Futebol: Ivan Cavaleiro e Bernardo Silva emprestados|url=http://www.slbenfica.pt/noticias/detalhedenoticia/tabid/2788/ArticleId/37653/language/pt-PT/.aspx|work=SL Benfica|date=7 August 2014|deadurl=yes|archive-url=https://web.archive.org/web/20140810003640/http://www.slbenfica.pt/noticias/detalhedenoticia/tabid/2788/ArticleId/37653/language/pt-PT/.aspx|archive-date=10 August 2014}}&lt;/ref&gt; He made his Monaco debut on 17 August in a Ligue 1 away match against [[Girondins de Bordeaux]], replacing [[Lucas Ocampos]] in the second half.&lt;ref&gt;{{cite news|title=Bordeaux – Monaco|url=https://www.bbc.com/sport/0/football/28784326|accessdate=17 August 2014|work=BBC Sport|date=17 August 2014}}&lt;/ref&gt; On 21 September, he made his first start for Monaco, in a 1–0 Ligue 1 home win against [[En Avant de Guingamp|Guingamp]].&lt;ref&gt;{{cite news|title=Monaco sort de la zone rouge|url=http://news.fr.msn.com/sport/monaco-sort-de-la-zone-rouge-3|accessdate=24 September 2014|work=news.fr.msn.com|date=21 September 2014|language=French}}&lt;/ref&gt; On 14 December, he scored the only goal of the 1–0 home win against [[Olympique de Marseille]] in a [[Ligue 1]] match.&lt;ref name=sw&gt;{{Soccerway}}&lt;/ref&gt;
+[[File:CSKA-Monaco (4).jpg|thumb|Bernardo Silva playing for Monaco in the [[2016–17 UEFA Champions League|2016–17 Champions League]]]]
+On 20 January 2015, Benfica announced that Silva's economic and sports rights had been sold to Monaco for €15.75 million;&lt;ref&gt;{{cite web|url=http://web3.cmvm.pt/sdi2004/emitentes/docs/FR53634.pdf|title=Comunicado|language=Portuguese|trans-title=Announcement|date=20 January 2015|work=[[S.L. Benfica]]|publisher=[[Portuguese Securities Market Commission|CMVM]]|format=PDF|accessdate=21 January 2015}}&lt;/ref&gt; he signed a contract for Monaco that would expire on 30 June 2019.&lt;ref&gt;{{cite web|url=http://www.asm-fc.com/en/article/bernardo-silva-commits-to-the-club-until-2019-67008.html|title=Bernardo Silva commits to the club until 2019|date=21 January 2015|website=[[AS Monaco FC]]|accessdate=23 January 2015|dead-url=yes|archive-url=https://web.archive.org/web/20150127002350/http://www.asm-fc.com/en/article/bernardo-silva-commits-to-the-club-until-2019-67008.html|archive-date=27 January 2015}}&lt;/ref&gt;
+
+On 10 April 2015, he scored twice in a 3–0 away win against [[Stade Malherbe Caen|Caen]] in a Ligue 1 match.&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2015/04/10/france/ligue-1/stade-malherbe-caen-calvados-basse-norma/association-sportive-monaco-fc/1687321/|title=Caen vs. Monaco|date=10 April 2015|website=Soccerway|access-date=17 May 2015}}&lt;/ref&gt;
+
+On 10 August 2015, Silva extended his contract by one year, tying him to the club until June 2020.&lt;ref&gt;{{cite news|url=http://www.asmonaco.com/fr/article/bernardo-silva-prolonge-d-un-an-68591.html|title=Bernardo Silva prolonge d'un an|publisher=AS Monaco official website|date=10 August 2015|access-date=28 May 2017|archive-url=https://web.archive.org/web/20180111164930/http://www.asmonaco.com/fr/article/bernardo-silva-prolonge-d-un-an-68591.html|archive-date=11 January 2018|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+
+In the [[2016–17 UEFA Champions League group stage|2016–17 Champions League group stage]] away match against [[PFC CSKA Moscow|CSKA Moscow]] on 18 October 2016, Silva scored Monaco's equalizer in the 87th minute to ensure that the match finished in 1–1 draw.&lt;ref&gt;{{cite news|url=http://www.goal.com/en-gb/match/cska-moskva-vs-monaco/2348365?ICID=FX|title=CSKA Moscow vs Monaco, 2016–2017 UEFA Champions League group stage|publisher=www.goal.com|date=18 October 2016}}&lt;/ref&gt; On 15 January 2017, he scored Monaco's last two goals in a 4–1 away victory against [[Olympique de Marseille|Marseille]] to help Monaco move to the top of the Ligue 1 table for the first time since Week 5 of the current Ligue 1 season.&lt;ref&gt;{{cite news|url=http://www.ligue1.com/ligue1/article/monaco-blast-way-to-top-spot.htm|title=Monaco blast way to top spot|publisher=www.ligue1.com|date=15 January 2017}}&lt;/ref&gt;
+On 29 January, Silva scored the 92nd-minute equalizer to cancel out [[Edinson Cavani]]'s 81st-minute goal in the 1–1 Ligue 1 draw against the reigning Ligue 1 champions [[Paris Saint-Germain F.C.|Paris Saint-Germain]] at the [[Parc des Princes]] to help Monaco return to the Ligue 1 summit.&lt;ref&gt;{{cite news|url=http://www.ligue1.com/ligue1/article/monaco-return-to-ligue-1-summit-with-psg-draw.htm|title=Monaco return to Ligue 1 summit with PSG draw|publisher=www.ligue1.com|date=29 January 2017}}&lt;/ref&gt;
+
+Silva finished the 2016–17 season with 8 goals and 9 [[assist (football)|assists]] in Ligue 1 and 11 goals and 12 assists in 58 matches across all competitions.&lt;ref&gt;{{cite news|url=http://bleacherreport.com/articles/2707934-bernardo-silva-joins-manchester-city-on-5-year-contract-from-monaco|title=Bernardo Silva Joins Manchester City on 5-Year Contract from Monaco|publisher=Bleacher Report|date=27 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2017/may/28/bernardo-silva-monaco-manchester-city|title=Bernardo Silva: the ‘bubble gum player’ bringing his magic to Manchester City|publisher=The Guardian|date=28 May 2017}}&lt;/ref&gt;
+
+===Manchester City===
+On 26 May 2017, [[Manchester City F.C|Manchester City]] confirmed the signing of Silva on a five-year contract after passing his medical tests. Although the transfer fee remains undisclosed, it has been reported to amount to €50 million (£43.5 million).&lt;ref&gt;{{cite web|url=https://www.lequipe.fr/Football/Actualites/Bernardo-silva-transfere-de-monaco-a-manchester-city/804732|title=Bernardo Silva transféré de Monaco à Manchester City|date=26 May 2017|language=fr|work=[[L'Équipe]]|accessdate=28 May 2017}}&lt;/ref&gt;
+
+Silva officially joined the club on 1 July 2017, ahead of the [[2017–18 Manchester City F.C. season|2017–18 season]].&lt;ref&gt;{{cite web|url=https://www.mancity.com/news/first-team/2017/05/26/man-city-to-sign-bernardo-silva-monaco-transfer/1495797186416|title=Bernardo Silva agrees to join Manchester City|date=26 May 2017|author=Rob Pollard|publisher=[[Manchester City F.C.|Manchester City Football Club]]|accessdate=26 May 2017}}&lt;/ref&gt;
+
+On 13 February 2018, he scored his first [[UEFA Champions League|Champions League]] goal for the City in a 4–0 away victory against [[FC Basel|Basel]] in the first leg of the round of 16 stage.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/43038304|title=FC Basel 0-4 Manchester City|date=13 February 2018|work=BBC Sport|access-date=14 February 2018|language=en-GB}}&lt;/ref&gt;
+
+On 5 March 2018, he scored the solitary winning goal against Chelsea at home – a key win which put them only three wins away from winning the Premier League title.&lt;ref&gt;{{Cite web|title=Manchester City 1 - 0 Chelsea|url=https://www.bbc.co.uk/sport/football/43186392|work=BBC Sport|date=5 March 2018}}&lt;/ref&gt; Silva has established himself as a consistent performer, playing the most matches of any City player in the season up to the end of February 2018.&lt;ref&gt;{{Cite web|title=Bernardo Silva has played more times for Manchester City in 2017-18 than any other star, including Kevin De Bruyne|url=https://www.thesun.co.uk/sport/football/5611411/manchester-city-most-games-played-shock/|work=The Sun|date=19 February 2018}}&lt;/ref&gt; By the end of the season, Silva had played for Manchester City 53 times in all competitions – the most of any City player that season and helped them to a record 100 points in the Premier League and the EFL Cup.
+
+==International career==
+In 2013, Silva represented Portugal at the [[2013 UEFA European Under-19 Championship|2013 European Under-19 Championship]],&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/Futebol/selecoes/interior.aspx?content_id=833181|title=Sub-19: Rui Silva substitui José Costa|trans-title=Sub-19: Rui Silva replaces José Costa|publisher=Record|language=Portuguese|date=14 July 2013|accessdate=14 July 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20150924150341/http://www.record.xl.pt/Futebol/selecoes/interior.aspx?content_id=833181|archivedate=24 September 2015}}&lt;/ref&gt; reaching the semi-finals. For his performances, Silva was named among the top 10 talents under the age of 19 in Europe by a selection of [[UEFA]] reporters.&lt;ref&gt;{{cite news| url=http://www.uefa.com/under19/news/newsid=1978673.html| title=Ten Under-19 talents to watch|publisher=uefa.com|date=2 August 2013|accessdate=5 August 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Bernardo Silva entre os maiores talentos europeus|url=http://www.record.xl.pt/Futebol/Nacional/1a_liga/Benfica/interior.aspx?content_id=836687|newspaper=Record|date=2 August 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Bernardo Silva, o Messizinho do Seixal que sofre pelo clube|url=https://maisfutebol.iol.pt/reportagem-benfica-bernardo-silva-jorge-jesus-seixal-formacao-benfica-juniores-benfica-equipa-b-benfica-topnews/527bdb08e4b0034d0f843bec.html|website=Maisfutebol|date=18 November 2013}}&lt;/ref&gt;
+
+On 31 March 2015, he made his senior debut for Portugal, starting in a 0–2 friendly defeat to [[Cape Verde national football team|Cape Verde]] in [[Estoril]].&lt;ref&gt;{{cite news|title=Portugal 0–2 Cape Verde Islands|url=https://www.bbc.co.uk/sport/0/football/32140214|accessdate=31 March 2015|work=BBC Sport|date=31 March 2015}}&lt;/ref&gt;
+
+On 27 June 2015, he scored [[Portugal national under-21 football team|Portugal U21]]s' first goal in a 5–0 win against [[Germany national under-21 football team|Germany U21]] in the semi-finals of the [[2015 UEFA European Under-21 Championship|European Under-21 Championship]] in Czech Republic.&lt;ref&gt;{{cite web|url=http://www.uefa.com/under21/season=2015/matches/round=2000409/match=2015382/postmatch/report/index.html|title=Five-goal Portugal stun Germany in semi-finals|last=Hart|first=Simon|date=27 June 2015|publisher=[[UEFA]]|access-date=27 June 2015}}&lt;/ref&gt; He was left out of the [[Portugal national football team|Portugal]] squad for the finals of [[Euro 2016]] due to injury.&lt;ref&gt;{{cite web|url=https://www.thesun.co.uk/sport/football/2653149/bernardo-silva-manchester-city-transfer-monaco/|title=Who is Bernardo Silva? Manchester City and United transfer target and Monaco ace – here's what we know|date=26 May 2017|publisher=The Sun}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://uk.reuters.com/article/uk-soccer-euro-por-squad/silva-out-sanches-in-as-portugal-name-euro-squad-idUKKCN0Y82SF|title=Silva out, Sanches in as Portugal name Euro squad|publisher=Reuters|date=18 May 2016|accessdate=24 January 2018}}&lt;/ref&gt;
+
+Silva was selected for the [[Portugal national football team|Portugal]] squad for the [[2017 FIFA Confederations Cup|2017 Confederations Cup]] which was hosted in [[Russia]]. He scored the second goal of the match in the group stage of the tournament, a 4-0 win over [[New Zealand national football team|New Zealand]].&lt;ref&gt; {{cite news |url=https://www.fifa.com/confederationscup/matches/round=274633/match=300334887/index.html |title=New Zealand vs Portugal |work=FIFA |accessdate=26 February 2019}}&lt;/ref&gt; The national team reached the semi-finals before losing out to [[Chile national football team|Chile]] in a [[Penalty shoot-out (association football)|penalty shootout]] after a 0–0 draw at the end of regulation time. Silva missed the [[2017 FIFA Confederations Cup knockout stage#Third place play-off|third place play-off]] in which Portugal defeated [[Mexico national football team|Mexico]] 2–1 after extra time.&lt;ref&gt;{{cite web|url=https://www.fifa.com/confederationscup/matches/round=274643/match=300334886/match-report.html|title=Portugal come from behind to finish third|website=FIFA|date=2 July 2017|accessdate=2 July 2017|quote=Portugal finished their FIFA Confederations Cup Russia 2017 campaign on a high by beating Mexico 2-1 after extra time in the play-off for third place at the Spartak Stadium in Moscow in front of 42,659 fans. }}&lt;/ref&gt;
+
+Silva was named in Portugal's 23-man squad for the [[2018 FIFA World Cup|2018 World Cup]] in Russia.&lt;ref&gt;{{cite news |last=Crawford |first=Stephen |url=http://www.goal.com/en/news/revealed-every-world-cup-2018-squad-23-man-preliminary-lists/oa0atsduflsv1nsf6oqk576rb |title=Revealed: Every World Cup 2018 squad – Final 23-man lists |work=GOAL |accessdate=18 September 2018}}&lt;/ref&gt; He featured in all 4 matches with Portugal, but was knocked out of the tournament after a 1-2 loss to Uruguay.&lt;ref&gt;{{cite news |url=https://www.fifa.com/worldcup/players/player/395205/ |title=Bernardo Silva |work=FIFA |accessdate=24 February 2019}}&lt;/ref&gt;
+
+Silva was selected for three matches in the [[2018-19 UEFA Nations League]] group stage, scoring a goal in a 3-2 victory against [[Poland national football team|Poland]].&lt;ref&gt;{{cite news |url=https://www.uefa.com/uefanationsleague/season=2019/teams/player=250059115/statistics/ |title=Bernardo Silva ||work=UEFA |accessdate=26 February 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.uefa.com/uefanationsleague/season=2019/matches/round=2000959/match=2024021/index.html?iv=true&amp;iv=true |title=Poland vs Portugal |work=UEFA |accessdate=26 February 2019}}&lt;/ref&gt;
+
+==Personal life==
+Silva is a supporter of [[S.L. Benfica|Benfica]].&lt;ref&gt;{{cite news|date=20 March 2017|title=Para Bernardo Silva, Benfica tem vantagem no clássico|trans-title=To Bernardo Silva, Benfica have advantage in the classic|url=https://rr.sapo.pt/noticia/78874/para_bernardo_silva_benfica_tem_vantagem_no_classico|language=Portuguese|website=Renascença|access-date=28 August 2017}}&lt;/ref&gt; His English has been described as "perfect" by the media,&lt;ref&gt;{{Cite web|title=Bernardo Silva: Five things about 'little Messi,' set to join Manchester City|quote=It's reasonable to suppose he will settle quickly in England, especially considering his more-than-passable English skills, despite never having lived there.|url=http://www.espn.co.uk/football/blog/soccer-transfers/3/post/3041796/bernardo-silva-five-things-about-little-messi-set-to-join-manchester-city|work=ESPN|date=26 May 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|title=Calm and collected: Bernardo Silva ready to make his name in the Premier League with Manchester City|quote=He grew up in a comfortable middle-class home; his mother is an art teacher, his father a businessman. They sent him to private school – his English is immaculate with an American tinge – and wanted him to keep studying.|url=https://www.independent.co.uk/sport/football/premier-league/manchester-city-bernardo-silva-interview-ready-to-make-name-manchester-city-a7937211.html|work=The Independent|date=8 September 2017}}&lt;/ref&gt; partly as a result of his parents sending him to an English-speaking school in Lisbon when he was six years old.&lt;ref&gt;{{Cite web|title=Bernardo Silva reveals his Man City goals|quote=He speaks softly, earnestly and in perfect English - a skill picked up from studying in a British college in Lisbon from a young age and improved further (more importantly) when it was established that it was the only common language he shared with his French girlfriend.|url=https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-news-bernardo-silva-13435458|work=Manchester Evening News|date=6 August 2017}}&lt;/ref&gt; Silva is a [[cousin]] of [[Matilde Fidalgo]]. Both were born in 1994 and they also share the same [[Grandparent#Great-grandparents|great-grandparents]] and play internationally for the Portugal national team.&lt;ref&gt;{{cite web|title=Bernardo Silva e Matilde: primos à conversa na seleção|url=https://bancada.pt/futebol/portugal/bernardo-silva-e-matilde-primos-a-conversa-na-selecao|website=Bancada.pt|accessdate=16 April 2018}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 24 February 2019}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup{{efn|Appearances in [[Taça de Portugal]], [[Coupe de France]], and [[FA Cup]]}}
+!colspan="2"|League Cup{{efn|Appearances in [[Taça da Liga]], [[Coupe de la Ligue]], and [[EFL Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[S.L. Benfica B|Benfica B]]
+|[[2013–14 Segunda Liga|2013–14]]&lt;ref name="ForaDeJogo"&gt;{{ForaDeJogo|name=Bernardo Silva|accessdate=11 August 2018}}&lt;/ref&gt;
+|[[Segunda Liga]]
+|38||7||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||38||7
+|-
+|[[S.L. Benfica|Benfica]]
+|[[2013–14 S.L. Benfica season|2013–14]]&lt;ref name="ForaDeJogo"/&gt;
+|[[Primeira Liga]]
+|1||0||1||0||1||0||0||0||colspan="2"|—||3||0
+|-
+|[[AS Monaco FC|Monaco]] (loan)
+|[[2014–15 AS Monaco FC season|2014–15]]&lt;ref name="SW"/&gt;
+|[[Ligue 1]]
+|15||2||1||1||2||0||3{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||colspan="2"|—||21||3
+|-
+|rowspan="4"|Monaco
+|[[2014–15 AS Monaco FC season|2014–15]]&lt;ref name="SW"/&gt;
+|Ligue 1
+|17||7||2||0||1||0||4{{efn|name=UCL}}||0||colspan="2"|—||24||7
+|-
+|[[2015–16 AS Monaco FC season|2015–16]]&lt;ref name="SW"/&gt;
+|Ligue 1
+|32||7||3||0||1||0||8{{efn|Two appearances in UEFA Champions League, six appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||44||7
+|-
+|[[2016–17 AS Monaco FC season|2016–17]]&lt;ref name="SW"/&gt;
+|Ligue 1
+|37||8||3||0||3||0||15{{efn|name=UCL}}||3||colspan="2"|—||58||11
+|-
+!colspan="2"|Total
+!86||22||8||0||5||0||27||3||colspan="2"|—||126||25
+|-
+|rowspan="3"|[[Manchester City F.C.|Manchester City]]
+|[[2017–18 Manchester City F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|75983|2017|accessdate=11 August 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|35||6||3||1||6||1||9{{efn|name=UCL}}||1||colspan="2"|—||53||9
+|-
+|[[2018–19 Manchester City F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|75983|2018|accessdate=21 October 2018}}&lt;/ref&gt;
+|Premier League
+|26||5||1||1||2||0||6{{efn|name=UCL}}||2||1{{efn|Appearance in [[FA Community Shield]]}}||0||36||8
+|-
+!colspan="2"|Total
+!61||11||4||2||8||1||15||3||1||0||89||17
+|-
+!colspan="3"|Career total
+!201||42||13||2||16||1||45||6||1||0||277||52
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 11 October 2018}}&lt;ref name="NFT"&gt;{{NFT player|pid=59002|accessdate=28 January 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Portugal national football team|Portugal]]
+|2015||6||0
+|-
+|2016||4||1
+|-
+|2017||12||1
+|-
+|2018||11||1
+|-
+!colspan="2"|Total||33||3
+|}
+
+====International goals====
+:''Scores and results list Portugal's goal tally first. Score column indicates score after each Silva goal.''&lt;ref name="NFT"/&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope="col"|No.
+!scope="col data-sort-type=date"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+!scope="row" style="text-align:center"|1
+|1 September 2016||[[Estádio do Bessa]], [[Porto]], Portugal||align="center"|8||{{fb|GIB}}||align="center"|4–0||align="center"|5–0||[[Exhibition game#Association football|Friendly]]
+|-
+!scope="row" style="text-align:center"|2
+|24 June 2017||[[Krestovsky Stadium]], [[Saint Petersburg]], Russia||align="center"|15||{{fb|NZL}}||align="center"|2–0||align="center"|4–0||[[2017 FIFA Confederations Cup Group A|2017 Confederations Cup]]
+|-
+!scope="row" style="text-align:center"|3
+|11 October 2018||[[Silesian Stadium|Stadion Śląski]], [[Chorzów]], Poland||align="center"|33||{{fb|POL}}||align="center"|3–1||align="center"|3–2||[[2018–19 UEFA Nations League A]]
+|}
+
+==Honours==
+'''Benfica'''
+*[[Primeira Liga]]: [[2013–14 Primeira Liga|2013–14]]&lt;ref name="honours"&gt;{{cite web|url=https://www.fifa.com/confederationscup/players/player=395205/profile-detail.html|title=FIFA Confederations Cup Russia 2017 – Players – Bernardo Silva|website=FIFA|access-date=11 August 2018|quote=He therefore played his part – albeit a small one – in Benfica's treble-winning 2013/14 campaign.}}&lt;/ref&gt;
+*[[Taça de Portugal]]: [[2013–14 Taça de Portugal|2013–14]]&lt;ref name="honours"/&gt;
+*[[Taça da Liga]]: [[2013–14 Taça da Liga|2013–14]]&lt;ref name=honours/&gt;
+
+'''Monaco'''
+*[[Ligue 1]]: [[2016–17 Ligue 1|2016–17]]&lt;ref name="honours"/&gt;
+
+'''Manchester City'''
+*[[Premier League]]: [[2017–18 Premier League|2017–18]]&lt;ref&gt;{{cite web|url=https://www.premierleague.com/players/5067/Bernardo-Silva/overview|title=Bernardo Silva: Overview|publisher=Premier League|accessdate=15 May 2018}}&lt;/ref&gt;
+*[[EFL Cup]]: [[2017–18 EFL Cup|2017–18]],&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/43101681|title=Arsenal 0–3 Manchester City|first=Phil|last=McNulty|publisher=BBC Sport|date=25 February 2018|accessdate=25 February 2018}}&lt;/ref&gt; [[2018–19 EFL Cup|2018–19]]&lt;ref&gt;https://www.bbc.co.uk/sport/football/47268861&lt;/ref&gt;
+*[[FA Community Shield]]: [[2018 FA Community Shield|2018]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44995783 |title=Chelsea 0–2 Manchester City |first=Chris |last=Bevan |publisher=BBC Sport |date=5 August 2018 |accessdate=7 August 2018}}&lt;/ref&gt;
+
+'''Portugal U21'''&lt;ref name="SW"&gt;{{soccerway|id=298753|name=Bernardo Silva|accessdate=11 August 2018}}&lt;/ref&gt;
+*[[UEFA European Under-21 Championship]] runner-up: [[2015 UEFA European Under-21 Championship|2015]]
+
+'''Portugal'''
+*[[FIFA Confederations Cup]] third place: [[2017 FIFA Confederations Cup|2017]]
+
+'''Individual'''
+*[[LPFP Awards#Segunda Liga Awards|Segunda Liga Breakthrough Player of the Year]]: [[2013–14 Segunda Liga|2013–14]]&lt;ref name="breakthrough award" /&gt;
+*[[SJPF Segunda Liga Player of the Month]]: October 2013, December 2013 &amp; January 2014&lt;ref&gt;{{cite web|title=Liga Honra: Bernardo Silva eleito melhor jogador do mês de outubro|url=https://maisfutebol.iol.pt/liga-de-honra-benfica-bernardo-silva-benfica-b/527b8d72e4b00656ed704883.html|work=Maisfutebol|date=7 November 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Bernardo Silva melhor do mês na Segunda Liga|url=http://www.record.xl.pt/Futebol/Nacional/liga_honra/benfica_b/interior.aspx?content_id=861992|newspaper=Record|date=9 January 2014|dead-url=yes|archive-url=https://web.archive.org/web/20140109195512/http://www.record.xl.pt/Futebol/Nacional/liga_honra/benfica_b/interior.aspx?content_id=861992|archive-date=9 January 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Benfiquista Bernardo Silva eleito melhor futebolista da II Liga em janeiro|url=https://expresso.sapo.pt/benfiquista-bernardo-silva-eleito-melhor-futebolista-da-ii-liga-em-janeiro=f854856|newspaper=Record|date=7 February 2014}}&lt;/ref&gt;
+*[[UEFA European Under-19 Championship]] Team of the Tournament: [[2013 UEFA European Under-19 Championship|2013]]&lt;ref&gt;{{cite web|title=Technical Report|url=http://demonry.com/1801758.html|publisher=Union of European Football Associations|pages=18–19|format=PDF|deadurl=yes|archiveurl=https://web.archive.org/web/20160427195319/http://demonry.com/1801758.html|archivedate=27 April 2016}}&lt;/ref&gt;
+*UEFA European Under-21 Championship Team of the Tournament: [[2015 UEFA European Under-21 Championship#Team of the tournament|2015]]&lt;ref&gt;{{cite web|url=http://www.uefa.com/under21/news/newsid=2262826.html|title=The official Under-21 Team of the Tournament|date=1 July 2015|publisher=UEFA.com|access-date=2 July 2015}}&lt;/ref&gt;
+*[[UNFP Player of the Month]]: January 2017&lt;ref name="POTM"&gt;{{cite web|url=http://www.unfp.org/2017/02/bernardo-silva-et-faneva-andriatsima-joueurs-du-mois-de-janvier/|title=Bernardo Silva et Faneva Andriastsima, joueurs du mois de Janvier !|website=UNFP|date=14 February 2017|accessdate=11 May 2017}}&lt;/ref&gt;
+*[[National Union of Professional Footballers|UNFP]] [[Ligue 1]] [[Trophées UNFP du football#Team of the Year|Team of the Year]]: [[Trophées UNFP du football#2017|2016–17]]&lt;ref&gt;{{cite news|url=http://sport24.lefigaro.fr/football/ligue-1/fil-info/trophees-unfp-le-palmares-complet-de-l-edition-2017-859420|title=Trophées UNFP : Le Palmarès Complet de l'Édition 2017|accessdate=15 May 2017}}&lt;/ref&gt;
+*[[Alan Hardaker Trophy]]: [[2019 EFL Cup Final|2019]]&lt;ref name="motm"&gt;{{cite tweet |user=Carabao_Cup |title=Your 2019 Carabao Cup Final Man of the Match is the impressive @BernardoCSilva! #EFL {{!}} #CarabaoCupFinal |number=1099754441304129537 |date=24 February 2019 |accessdate=24 February 2019 }}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{ForaDeJogo}}
+*{{Soccerbase}}
+*{{UEFA player}}
+*[https://www.fpf.pt/pt/Jogadores/Jogador/playerId/681422 National team data] {{pt icon}}
+
+{{Manchester City F.C. squad}}
+{{Navboxes
+|title = Awards
+|bg = gold
+|fg = navy
+|list1 = 
+{{2016–17 Ligue 1 UNFP Team of the Year}}
+{{Alan Hardaker Trophy}}
+}}
+{{Navboxes
+| title = Portugal squads
+| bg = #900020
+| fg = gold
+| bordercolor = #006600
+| list1 = 
+{{Portugal squad 2017 FIFA Confederations Cup}}
+{{Portugal squad 2018 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Silva, Bernardo}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Lisbon]]
+[[Category:Portuguese footballers]]
+[[Category:LigaPro players]]
+[[Category:S.L. Benfica B players]]
+[[Category:Primeira Liga players]]
+[[Category:S.L. Benfica footballers]]
+[[Category:Ligue 1 players]]
+[[Category:AS Monaco FC players]]
+[[Category:Premier League players]]
+[[Category:Manchester City F.C. players]]
+[[Category:Portuguese expatriate footballers]]
+[[Category:Expatriate footballers in Monaco]]
+[[Category:Expatriate footballers in England]]
+[[Category:Portuguese expatriate sportspeople in Monaco]]
+[[Category:Portuguese expatriate sportspeople in England]]
+[[Category:Portugal youth international footballers]]
+[[Category:Portugal under-21 international footballers]]
+[[Category:Portugal international footballers]]
+[[Category:2017 FIFA Confederations Cup players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:Association football midfielders]]
+[[Category:Association football wingers]]</text>
+      <sha1>o30tghx85cvo1jg8o0x1y6in7htbh0w</sha1>
+    </revision>
+  </page>
+</mediawiki>

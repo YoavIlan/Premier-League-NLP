@@ -1,0 +1,299 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dominic Solanke</title>
+    <ns>0</ns>
+    <id>44174775</id>
+    <revision>
+      <id>884938392</id>
+      <parentid>884836912</parentid>
+      <timestamp>2019-02-24T23:50:01Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 2 edits by [[Special:Contributions/81.129.245.252|81.129.245.252]] ([[User talk:81.129.245.252|talk]]): Incomplete ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28128">{{EngvarB|date=January 2019}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox football biography
+| name = Dominic Solanke
+| image = Dominic Solanke v Maribor 2014.jpg
+| image_size = 200
+| caption = Solanke playing for [[Chelsea F.C.|Chelsea]] in 2014
+| fullname = Dominic Ayodele Solanke-Mitchell&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/465277 |title=Squads for 2017/18 Premier League confirmed |publisher=Premier League |date=1 September 2017 |accessdate=14 November 2017}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1997|9|14|df=y}}&lt;ref&gt;{{cite web |url=https://www.11v11.com/players/dominic-solanke-242901/ |title=Dominic Solanke |website=11v11.com |publisher=AFS Enterprises |accessdate=14 November 2017}}&lt;/ref&gt;
+| birth_place = [[Reading, Berkshire|Reading]], England
+| height = {{convert|1.87|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/10443/Dominic-Solanke/overview |title=Dominic Solanke: Overview |publisher=Premier League |accessdate=10 December 2017}}&lt;/ref&gt;
+| position = [[Striker (association football)|Striker]]
+| currentclub = [[AFC Bournemouth]]
+| clubnumber = 29
+| youthyears1 = 2004–2014
+| youthclubs1 = [[Chelsea F.C.|Chelsea]]
+| years1 = 2014–2017
+| clubs1 = [[Chelsea F.C.|Chelsea]]
+| caps1 = 0
+| goals1 = 0
+| years2 = 2015–2016
+| clubs2 = → [[SBV Vitesse|Vitesse]] (loan)
+| caps2 = 25
+| goals2 = 7
+| years3 = 2017–2019
+| clubs3 = [[Liverpool F.C.|Liverpool]]
+| caps3 = 21
+| goals3 = 1
+| years4 = 2019–
+| clubs4 = [[AFC Bournemouth]]
+| caps4 = 2
+| goals4 = 0
+| nationalyears1 = 2012–2013
+| nationalteam1 = [[England national under-16 football team|England U16]]
+| nationalcaps1 = 6
+| nationalgoals1 = 1
+| nationalyears2 = 2013–2014
+| nationalteam2 = [[England national under-17 football team|England U17]]
+| nationalcaps2 = 14
+| nationalgoals2 = 11
+| nationalyears3 = 2014–2015
+| nationalteam3 = [[England national under-18 football team|England U18]]
+| nationalcaps3 = 7
+| nationalgoals3 = 2
+| nationalyears4 = 2015–2016
+| nationalteam4 = [[England national under-19 football team|England U19]]
+| nationalcaps4 = 10
+| nationalgoals4 = 3
+| nationalyears5 = 2016–2017
+| nationalteam5 = [[England national under-20 football team|England U20]]
+| nationalcaps5 = 15
+| nationalgoals5 = 10
+| nationalyears6 = 2015–
+| nationalteam6 = [[England national under-21 football team|England U21]]
+| nationalcaps6 = 15
+| nationalgoals6 = 8
+| nationalyears7 = 2017–
+| nationalteam7 = [[England national football team|England]]
+| nationalcaps7 = 1
+| nationalgoals7 = 0
+| club-update = 15:15, 19 February 2019 (UTC)
+| nationalteam-update = 13:11, 5 February 2019 (UTC)
+}}
+'''Dominic Ayodele Solanke-Mitchell''' (born 14 September 1997), known as '''Dominic Solanke''', is an English professional [[Association football|footballer]] who plays as a [[Striker (association football)|striker]] for {{English football updater|AFCBourn}} club [[AFC Bournemouth]] and the [[England national football team|England national team]].
+
+Solanke started his career with [[Chelsea F.C.|Chelsea]], making his first-team debut in October 2014. He spent the [[2015–16 Vitesse season|2015–16 season]] on [[Loan (sports)|loan]] with [[SBV Vitesse|Vitesse]] in the [[Eredivisie]]. He signed for [[Liverpool F.C.|Liverpool]] in July 2017, making 27 appearances before joining AFC Bournemouth in January 2019.
+
+Solanke has represented England at all youth, [[England national under-21 football team|under-21]] and [[England national football team|senior]] levels. He has won the [[2014 UEFA European Under-17 Championship]] and the [[2017 FIFA U-20 World Cup]] with his country and received the [[FIFA U-20 World Cup#Golden Ball|Golden Ball]] award for best player in the latter tournament.
+
+==Early life==
+Solanke was born in [[Reading, Berkshire|Reading]], Berkshire to a Nigerian father and an English mother.&lt;ref name=early&gt;{{cite news |first=Neil |last=Jones |title=Liverpool target Dominic Solanke – Who is he and why do the Reds want him? |url=http://www.liverpoolecho.co.uk/sport/football/transfer-news/liverpool-dominic-solanke-new-signing-13111437 |newspaper=Liverpool Echo |date=5 June 2017 |accessdate=14 November 2017}}&lt;/ref&gt; He attended [[Brighton Hill Community College]] in [[Basingstoke]].&lt;ref name=early/&gt;
+
+==Club career==
+===Chelsea===
+====Early career====
+Solanke started his career with [[Chelsea F.C.|Chelsea]] in 2004 in their under-eight team.&lt;ref&gt;{{cite news |first=Tom |last=Canning |title=Dominic Solanke: Reading-born youngster makes Chelsea debut in Champions League |url=http://www.getreading.co.uk/sport/football/football-news/dominic-solanke-reading-born-youngster-makes-7978614 |website=Get Reading |publisher=Trinity Mirror |date=22 October 2014 |accessdate=14 November 2017}}&lt;/ref&gt; During the [[2013–14 Chelsea F.C. season|2013–14 season]], Solanke scored 20 goals in 25 appearances for the [[Chelsea F.C. Under-23s and Academy|under-18 team]].&lt;ref&gt;{{cite web |first=Vincent |last=Ralph |title=Five facts about Chelsea player Dominic Solanke |url=http://www.hitc.com/en-gb/2014/10/18/five-facts-about-chelsea-player-dominic-solanke/ |website=HITC |publisher=Entrepreneur |date=18 October 2014 |accessdate=14 November 2017}}&lt;/ref&gt; On 6 May 2014, he scored two late goals as Chelsea came from two goals down to beat local rivals [[Fulham F.C.|Fulham]] 7–6 on aggregate in the [[FA Youth Cup Finals|FA Youth Cup Final]].&lt;ref name=fayc1314&gt;{{cite web |first=Jamie |last=Reid |title=Chelsea seal Youth Cup glory after thriller at the Bridge |url=http://www.thefa.com/news/2014/may/05/chelsea-v-fulham-final-second-leg-report |publisher=The Football Association |date=6 May 2014 |accessdate=14 November 2017}}&lt;/ref&gt; On 29 July 2014, [[José Mourinho]] stated a belief that he should blame himself were Solanke not to become a senior [[England national football team|England international]] under his management, and indicated that the player would train with the first-team squad during the [[2014–15 Chelsea F.C. season|2014–15 season]].&lt;ref&gt;{{cite web |title=Mourinho: Our bright blue future |url=http://www.chelseafc.com/news/latest-news/2014/07/mourinho--our-bright-blue-future.html |publisher=Chelsea F.C. |date=29 July 2014 |accessdate=14 November 2017}}&lt;/ref&gt;
+
+====2014–15 season====
+Solanke signed his first professional contract with Chelsea in September 2014.&lt;ref&gt;{{cite web |title=Dominic Solanke |url=http://www.chelseafc.com/teams/development-squad/under-21s/u21-player-profiles/dominic-solanke.html |publisher=Chelsea F.C. |archiveurl=https://web.archive.org/web/20141021231732/http://www.chelseafc.com/teams/development-squad/under-21s/u21-player-profiles/dominic-solanke.html |archivedate=21 October 2014 |deadurl=yes}}&lt;/ref&gt; Due to the injury of [[Diego Costa]], Solanke was named on the bench for a [[Premier League]] match against [[Crystal Palace F.C.|Crystal Palace]] on 18 October 2014.&lt;ref&gt;{{cite news |first=Tom |last=Rostance |title=Crystal Palace 1–2 Chelsea |url=https://www.bbc.co.uk/sport/football/29580146 |publisher=BBC Sport |date=18 October 2014 |accessdate=14 November 2017}}&lt;/ref&gt; Three days later, he made his first-team debut as a [[Substitute (association football)|substitute]] for [[Oscar (footballer, born 1991)|Oscar]] in the 73rd minute of a 6–0 win over [[NK Maribor]] in the [[UEFA Champions League]].&lt;ref&gt;{{cite news |first=Gary |last=Rose |title=Chelsea 6–0 Maribor |url=https://www.bbc.co.uk/sport/football/29362738 |publisher=BBC Sport |date=21 October 2014 |accessdate=14 November 2017}}&lt;/ref&gt; This made him the youngest player to debut in the UEFA Champions League for Chelsea.{{citation needed|date=November 2017}}
+
+He finished as top scorer in the group stages of the [[UEFA Youth League]] after scoring a hat-trick in the final group stage match against [[Sporting CP]].&lt;ref&gt;{{cite web |title=Star of 2014: Dominic Solanke |url=http://www.uefa.com/under17/news/newsid=2197705.html |publisher=UEFA |date=28 December 2014 |accessdate=14 November 2017}}&lt;/ref&gt; On 10 April 2015, Solanke scored two goals in the semi-final of the [[2014–15 UEFA Youth League]] against [[A.S. Roma Primavera|A.S. Roma]] to send Chelsea into the final.&lt;ref&gt;{{cite web |title=Chelsea ease past Roma into Youth League final |url=http://www.uefa.com/uefayouthleague/season=2015/matches/round=2000560/match=2016403/ |publisher=UEFA |date=10 April 2015 |accessdate=14 November 2017}}&lt;/ref&gt; He scored in the 3–2 win over [[FC Shakhtar Donetsk|Shakhtar Donetsk]] in the UEFA Youth League final,&lt;ref name=uyl1415&gt;{{cite web |title=Brown inspires Chelsea to Youth League glory |url=http://www.uefa.com/uefayouthleague/season=2015/matches/round=2000561/match=2016409/index.html |publisher=UEFA |date=13 April 2015 |accessdate=14 November 2017}}&lt;/ref&gt; ending the tournament with 12 goals in nine appearances as Chelsea won the title.&lt;ref&gt;{{cite web |title=Solanke crowned UEFA Youth League top scorer |url=http://www.uefa.com/uefayouthleague/news/newsid=2232130.html |publisher=UEFA |date=13 April 2015 |accessdate=14 November 2017}}&lt;/ref&gt; On 20 April 2015, Solanke scored a late goal to give team side a 3–1 win in the first leg of the [[FA Youth Cup]] final against [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{cite news |title=Chelsea beat Manchester City 3–1 in FA Youth Cup first leg |url=http://www.skysports.com/football/news/11668/9815677/chelsea-beat-manchester-city-3-1-in-fa-youth-cup-first-leg |publisher=Sky Sports |date=21 April 2015 |accessdate=14 November 2017}}&lt;/ref&gt; He played in the 2–1 win in the second leg, as Chelsea won the final 5–2 on aggregate.&lt;ref name=fayc1415&gt;{{cite web |first=Nicholas |last=Veevers |title=Chelsea retain the FA Youth Cup after 2–1 win over Man City |url=http://www.thefa.com/news/2015/apr/27/final-report-270415 |publisher=The Football Association |date=27 April 2015 |accessdate=14 November 2017}}&lt;/ref&gt; On 7 May 2015, Solanke reached 41 goals for the season after scoring a hat-trick in a 4–3 victory over Liverpool U21.&lt;ref&gt;{{cite news |first=Kristian |last=Walsh |title=Chelsea Under-21s 4 Liverpool FC Under-21s 3: Reds spurn title opportunity in thriller |url=http://www.liverpoolecho.co.uk/sport/football/football-news/chelsea-under-21s-4-liverpool-fc-9205993 |newspaper=Liverpool Echo |date=7 May 2015 |accessdate=14 November 2017}}&lt;/ref&gt; He was awarded the inaugural [[List of Chelsea F.C. players#Academy Player of the Year|Chelsea Academy Player of the Year]] award for the 2014–15 season.&lt;ref name=academypoty&gt;{{cite web |title=Hazard at the double |url=http://www.chelseafc.com/news/latest-news/2015/05/oscar-wins-goal-of-the-season.html |publisher=Chelsea F.C. |date=26 May 2015 |accessdate=14 November 2017}}&lt;/ref&gt;
+
+====2015–16 season: Loan to Vitesse====
+On 4 August 2015, Solanke joined [[Eredivisie]] club [[SBV Vitesse|Vitesse]] on a season-long loan to gain first-team experience.&lt;ref&gt;{{cite web |title=Solanke loaned to Vitesse |url=https://www.chelseafc.com/news/latest-news/2015/08/solanke-loaned-to-vitesse.html |publisher=Chelsea F.C. |date=4 August 2015 |accessdate=14 November 2017}}&lt;/ref&gt; After getting approval from [[FIFA]] to play in the Netherlands, he made his debut on 23 August 2015, coming off the bench in the 79th minute against [[Feyenoord]], the match ending in a 2–0 defeat for Vitesse.&lt;ref name=Soccerway/&gt; A week later, Solanke scored his first goal in a 4–1 victory over [[SC Cambuur]] after coming off the bench with 15 minutes to go.&lt;ref&gt;{{cite news |title=Einde: Vitesse-SC Cambuur 4–1 |trans-title=End: Vitesse-SC Cambuur 4–1 |url=http://www.lc.nl/sport/Einde-Vitesse-SC-Cambuur-4-1-21019147.html |newspaper=Leeuwarder Courant |location=Leeuwarden |date=30 August 2015 |accessdate=14 November 2017 |language=Dutch}}&lt;/ref&gt; He ended the season with seven goals in 25 appearances,&lt;ref name=Soccerway/&gt; just three behind top scorer [[Valeri Qazaishvili]] and one behind runner-up [[Milot Rashica]].&lt;ref&gt;{{cite web |title=Top scorers: Vitesse: 2015–16 (Eredivisie) |url=https://www.sportsmole.co.uk/football/vitesse/2015-16/top-scorers.html |website=Sports Mole |accessdate=14 November 2017}}&lt;/ref&gt;
+
+====2016–17 season====
+After rejecting many loan offers from several clubs, Solanke was retained as Chelsea's third-choice striker behind Diego Costa and [[Michy Batshuayi]] for the first half of the [[2016–17 Chelsea F.C. season|2016–17]] season.{{citation needed|date=November 2017}} On 23 August 2016, he was involved in Chelsea's matchday squad for the first time since returning from his loan at Vitesse, for their [[EFL Cup]] home tie against [[Bristol Rovers F.C.|Bristol Rovers]].&lt;ref name=Soccerway/&gt; He remained as an unused substitute in Chelsea's 3–2 victory.&lt;ref&gt;{{cite news |title=Chelsea 3–2 Bristol Rovers |url=https://www.bbc.co.uk/sport/football/37091061 |publisher=BBC Sport |date=23 August 2016 |accessdate=14 November 2017}}&lt;/ref&gt; In February 2017, Chelsea manager [[Antonio Conte]] confirmed that it was likely that Solanke would leave the club in the summer upon the expiry of his contract.&lt;ref&gt;{{cite news |first=Louis |last=Sealey |title=Antonio Conte aims subtle dig at Chelsea youngster Dominic Solanke |url=http://metro.co.uk/2017/02/17/antonio-conte-aims-subtle-dig-6455012/ |newspaper=Metro |location=London |date=17 February 2017 |accessdate=14 November 2017}}&lt;/ref&gt;
+
+===Liverpool===
+On 30 May 2017, Solanke agreed to sign for Premier League club [[Liverpool F.C.|Liverpool]] on 1 July upon the expiration of his Chelsea contract.&lt;ref&gt;{{cite web |first=Chris |last=Shaw |title=Reds agree terms to sign Dominic Solanke |url=http://www.liverpoolfc.com/news/first-team/265085-reds-agree-terms-to-sign-dominic-solanke |publisher=Liverpool F.C. |date=30 May 2017 |accessdate=14 November 2017}}&lt;/ref&gt; He was officially confirmed as a Liverpool player on 10 July 2017,&lt;ref&gt;{{cite web |title=Dominic Solanke joins Liverpool |url=http://www.liverpoolfc.com/news/first-team/267941-dominic-solanke-joins-liverpool |publisher=Liverpool F.C. |date=10 July 2017 |accessdate=14 November 2017}}&lt;/ref&gt; with Liverpool expected to pay a tribunal-set fee of around £3&amp;nbsp;million.&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=Dominic Solanke: Liverpool sign 19-year-old Chelsea striker |url=https://www.bbc.co.uk/sport/football/40095005 |publisher=BBC Sport |date=11 July 2017 |accessdate=14 November 2017}}&lt;/ref&gt; He made his debut for the club on 16 August 2017, coming on as a substitute for [[Roberto Firmino]] in a 2–1 [[UEFA Champions League]] first-leg win over [[TSG 1899 Hoffenheim|Hoffenheim]].&lt;ref&gt;{{cite web |url=http://www.goal.com/en/news/dominic-solankes-liverpool-debut-a-sign-of-positive-things/npp6zrznck2i1ed583ji21yw3 |title=Dominic Solanke Debut a sign of Positive Things |website=Goal.com |last=Fayiga |first=Kunle |date=16 August 2017 |accessdate=30 January 2018}}&lt;/ref&gt; His first Premier League start for Liverpool came on 30 November in a 3–0 win over [[Stoke City F.C.|Stoke City]] at the [[Bet365 Stadium]].&lt;ref&gt;{{cite news |url=http://www.skysports.com/football/news/11669/11149397/dominic-solanke-impresses-on-first-premier-league-start-for-liverpool |title=Dominic Solanke impresses on first Premier League start for Liverpool |publisher=Sky Sports |last=Wright |first=Nick |date=30 November 2017 |accessdate=30 January 2018}}&lt;/ref&gt; He scored his first Liverpool goal on 13 May 2018, the final day of the 2017–18 season, in the 4–0 home victory against [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].&lt;ref&gt;{{cite news |title=Liverpool 4–0 Brighton &amp; Hove Albion |url=https://www.bbc.com/sport/football/44020158 |publisher=BBC Sport |date=13 May 2018}}&lt;/ref&gt;
+
+===AFC Bournemouth===
+Solanke signed for fellow Premier League club [[AFC Bournemouth]] on 4 January 2019 on a long-term contract for an undisclosed fee,&lt;ref&gt;{{cite web |url=https://www.afcb.co.uk/news/first-team/cherries-complete-solanke-swoop |title=Cherries complete Solanke swoop |publisher=AFC Bournemouth |date=4 January 2019 |accessdate=4 January 2019}}&lt;/ref&gt; reported by [[BBC Sport]] as £19&amp;nbsp;million.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/46763610 |title=Dominic Solanke: Bournemouth sign striker from Liverpool in £19m deal |publisher=BBC Sport |date=4 January 2019 |accessdate=4 January 2019}}&lt;/ref&gt; He made his debut on 2 February in a 2–0 away loss against Cardiff City in the league.&lt;ref&gt;{{cite web |url=https://www.afcb.co.uk/news/first-team/gallery-solanke-debuts-in-cardiff-defeat |title=Gallery: Solanke debuts in Cardiff defeat |publisher=AFC Bournemouth |date=3 February 2019 |accessdate=5 February 2019}}&lt;/ref&gt;
+
+==International career==
+Solanke has represented England at all youth levels.&lt;ref name=FA&gt;{{cite web |title=Dominic Solanke |url=http://www.thefa.com/england/all-teams/players/s/dominic-solanke |publisher=The Football Association |accessdate=14 November 2017}}&lt;/ref&gt; In May 2014, Solanke was part of the [[England national under-17 football team|under-17 team]] that won the [[2014 UEFA European Under-17 Championship]]. He was the tournament's joint top scorer with four goals in four appearances, a brace against Turkey, a goal in the semi-final secured a place in the final, and England's goal in the final.&lt;ref name=2014u17&gt;{{cite web |title=2014 UEFA European Under-17 Championship – Technical report |url=http://www.uefa.com/under17/season=2014/technical-report/tr-under17-2014.pdf |publisher=UEFA |format=PDF |archiveurl=https://web.archive.org/web/20170914014819/http://www.uefa.com/under17/season=2014/technical-report/tr-under17-2014.pdf |archivedate=14 September 2017 |deadurl=yes}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Tottenham Hotspur midfielder Joshua Onomah helped England win Under-17 European Championship against the Netherlands tonight |url=http://www.croydonguardian.co.uk/sport/football/premierleague/news_articles/11228327.Spurs_midfielder_helps_England_win_Under_17_European_Championship/ |newspaper=Croydon Guardian |location=London |date=21 May 2014 |accessdate=14 November 2017}}&lt;/ref&gt;
+
+In January 2015, Solanke was named the [[The FA England Awards#England Men's Youth Player of the Year|England Men's Youth Player of the Year]] for 2014.&lt;ref name=englandypoty&gt;{{cite web |title=Solanke wins England award |url=http://www.chelseafc.com/news/latest-news/2015/01/solanke-wins-england-award.html |publisher=Chelsea F.C. |date=9 January 2015 |accessdate=14 November 2017}}&lt;/ref&gt; In March 2015, Solanke collected his trophy and was invited to train with the senior England squad.&lt;ref&gt;{{cite news |first=Simon |last=Peach |title=Chelsea teenager Dominic Solanke trains with senior England team after winning Youth Player of the Year award |url=https://www.standard.co.uk/sport/football/chelsea-teenager-dominic-solanke-trains-with-senior-england-team-after-winning-youth-player-of-the-10130128.html |newspaper=London Evening Standard |date=24 March 2015 |accessdate=14 November 2017}}&lt;/ref&gt; He was named in the [[England national under-19 football team|under-19 squad]] for the [[2016 UEFA European Under-19 Championship]].&lt;ref&gt;{{cite web |first=Nicholas |last=Veevers |title=England under-19s squad named for Euro finals challenge |url=http://www.thefa.com/news/2016/jul/06/under-19s-euro-squad-named-060716 |publisher=The Football Association |date=6 July 2016 |accessdate=14 November 2017}}&lt;/ref&gt;
+
+Solanke was named in the [[England national under-20 football team|under-20 squad]] for the [[2017 FIFA U-20 World Cup]].&lt;ref&gt;{{cite web |first=Nicholas |last=Veevers |title=World Cup squad selected |url=http://www.thefa.com/news/2017/may/08/england-under-20s-world-cup-squad-announced-080517 |publisher=The Football Association |date=8 May 2017 |accessdate=14 November 2017}}&lt;/ref&gt; He scored four goals in the tournament;&lt;ref&gt;{{cite web |title=Liverpool-bound Dominic Solanke wins Under-20 World Cup Golden Ball |url=http://www.espn.co.uk/football/england-u20/story/3142253/liverpool-bound-dominic-solanke-wins-under-20-world-cup-golden-ball |publisher=ESPN FC |date=12 June 2017 |accessdate=14 November 2017}}&lt;/ref&gt; in the quarter-final, he scored the only goal against [[Mexico national under-20 football team|Mexico]] as England advanced into the semi-final,&lt;ref&gt;{{cite web |title=Video: Liverpool signing Solanke sends England into U20 World Cup semi-finals |url=http://www.goal.com/en/news/video-liverpool-signing-solanke-sends-england-into-u20-world-cup-/ama9v0bn5o6z1qkc9qi55e2l3 |website=Goal.com |date=6 June 2017 |accessdate=14 November 2017}}&lt;/ref&gt; and scored twice in the semi-final as England beat [[Italy national under-20 football team|Italy]] 3–1 to reach the final.&lt;ref&gt;{{cite news |first=Shamoon |last=Hafez |title=Under-20 World Cup: Italy 1–3 England |url=https://www.bbc.co.uk/sport/football/40202212 |publisher=BBC Sport |date=8 June 2017 |accessdate=14 November 2017}}&lt;/ref&gt; Solanke started as England beat [[Venezuela national under-20 football team|Venezuela]] 1–0 in the final.&lt;ref name=2017u20&gt;{{cite news |title=Under-20 World Cup: England beat Venezuela in final |url=https://www.bbc.co.uk/sport/football/40237981 |publisher=BBC Sport |date=11 June 2017 |accessdate=14 November 2017}}&lt;/ref&gt; Solanke was awarded the [[FIFA U-20 World Cup#Golden Ball|Golden Ball]] as the player of the tournament.&lt;ref name=goldenball&gt;{{cite news |first=Tom |last=Dutton |title=Former Chelsea striker Dominic Solanke named Player of the Tournament as England win U20 World Cup |url=https://www.standard.co.uk/sport/football/former-chelsea-striker-dominic-solanke-named-player-of-the-tournament-as-england-win-u20-world-cup-a3562296.html |newspaper=London Evening Standard |date=11 June 2017 |accessdate=14 November 2017}}&lt;/ref&gt;
+
+Solanke was called up by the senior team for the first time in November 2017 for a friendly against [[Brazil national football team|Brazil]] at [[Wembley Stadium]].&lt;ref&gt;{{cite news |title=England v Brazil: Dominic Solanke, Lewis Cook and Angus Gunn called up for friendly |url=https://www.bbc.co.uk/sport/football/41950285 |publisher=BBC Sport |date=11 November 2017 |accessdate=14 November 2017}}&lt;/ref&gt; He came on as a 75th-minute substitute in a 0–0 draw.&lt;ref&gt;{{cite news |first=Phil |last=McNulty |title=England 0–0 Brazil |url=https://www.bbc.co.uk/sport/football/41884888 |publisher=BBC Sport |date=14 November 2017 |accessdate=14 November 2017}}&lt;/ref&gt;
+
+==Style of play==
+Solanke primarily plays as a [[Striker (association football)|striker]], although can also operate as either an [[attacking midfielder]] or a [[Midfielder#Winger|winger]].{{citation needed|date=November 2017}} Former Chelsea striker [[Tore André Flo]] has said that Solanke "works really hard", has "got very good physique" and "a great touch on the ball". He went on to say: "He's quick but often what impresses me the most is when he looks like he's lost the ball, he somehow manages to get out with the ball, no matter how tight the situation is or how difficult it looks".&lt;ref&gt;{{cite news |first=Dev |last=Trehan |title=Dominic Solanke backed to succeed at Chelsea by Tore Andre Flo |url=http://www.skysports.com/football/news/11668/9866785/tore-andre-flo-is-a-fan-of-chelsea-youngster-dominic-solanke |publisher=Sky Sports |date=27 May 2015 |accessdate=14 November 2017}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 9 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup{{efn|Includes [[KNVB Cup]] and [[FA Cup]]}}
+!colspan=2|League Cup{{efn|Includes [[EFL Cup]]}}
+!colspan=2|Europe
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[Chelsea F.C.|Chelsea]]
+|[[2014–15 Chelsea F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|78519|2014|accessdate=4 January 2019}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0|||0||0||0||0||1{{efn|name=UCL|Appearance(s) in [[UEFA Champions League]]}}||0||1||0
+|-
+|[[2016–17 Chelsea F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|78519|2016|accessdate=4 January 2019}}&lt;/ref&gt;
+|Premier League
+|0||0|||0||0||0||0||colspan=2|—||0||0
+|-
+!colspan=2|Total
+!0||0||0||0||0||0||1||0||1||0
+|-
+|[[SBV Vitesse|Vitesse]] (loan)
+|[[2015–16 Vitesse season|2015–16]]&lt;ref name=Soccerway&gt;{{cite web |url=https://uk.soccerway.com/players/dominic-solanke/320283/ |title=D. Solanke: Summary |website=Soccerway |publisher=Perform Group |accessdate=4 January 2019}}&lt;/ref&gt;
+|[[Eredivisie]]
+|25||7||1||0||colspan=2|—||colspan=2|—||26||7
+|-
+|rowspan=3|[[Liverpool F.C.|Liverpool]]
+|[[2017–18 Liverpool F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|78519|2017|accessdate=4 January 2019}}&lt;/ref&gt;
+|Premier League
+|21||1||1||0||1||0||4{{efn|name=UCL}}||0||27||1
+|-
+|[[2018–19 Liverpool F.C. season|2018–19]]&lt;ref name=sb1819/&gt;
+|Premier League
+|0||0||colspan=2|—||0||0||0||0||0||0
+|-
+!colspan=2|Total
+!21||1||1||0||1||0||4||0||27||1
+|-
+|[[AFC Bournemouth]]
+|[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|78519|2018|accessdate=5 February 2019}}&lt;/ref&gt;
+|Premier League
+|2||0||0||0||colspan=2|—||colspan=2|—||2||0
+|-
+!colspan=3|Career total
+!48||8||2||0||1||0||5||0||56||8
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 14 November 2017}}&lt;ref&gt;{{NFT player |id=69383 |name=Solanke, Dominic |accessdate=5 February 2019}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|[[England national football team|England]]
+|2017||1||0
+|-
+!colspan=2|Total||1||0
+|}
+
+==Honours==
+'''Chelsea Youth'''
+*[[FA Youth Cup]]: [[2013–14 FA Youth Cup|2013–14]],&lt;ref name=fayc1314/&gt; [[2014–15 FA Youth Cup|2014–15]]&lt;ref name=fayc1415/&gt;
+*[[UEFA Youth League]]: [[2014–15 UEFA Youth League|2014–15]]&lt;ref name=uyl1415/&gt;
+
+'''Liverpool'''
+*[[UEFA Champions League]] runner-up: [[2017–18 UEFA Champions League|2017–18]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44258022 |title=Real Madrid 3–1 Liverpool |first=Phil |last=McNulty |publisher=BBC Sport |date=26 May 2018 |accessdate=27 May 2018}}&lt;/ref&gt;
+
+'''England U17'''
+*[[UEFA European Under-17 Championship]]: [[2014 UEFA European Under-17 Championship|2014]]&lt;ref name=2014u17/&gt;
+
+'''England U20'''
+*[[FIFA U-20 World Cup]]: [[2017 FIFA U-20 World Cup|2017]]&lt;ref name=2017u20/&gt;
+
+'''Individual'''
+*[[List of Chelsea F.C. players#Academy Player of the Year|Chelsea Academy Player of the Year]]: [[2014–15 Chelsea F.C. season|2014–15]]&lt;ref name=academypoty/&gt;
+*[[The FA England Awards#England Men's Youth Player of the Year|England Men's Youth Player of the Year]]: 2014&lt;ref name=englandypoty/&gt;
+*[[FIFA U-20 World Cup#Golden Ball|FIFA U-20 World Cup Golden Ball]]: 2017&lt;ref name=goldenball/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.liverpoolfc.com/team/first-team/player/dominic-solanke Profile] at the Liverpool F.C. website
+*{{Soccerbase}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{FIFA U-20 World Cup awards}}
+{{UEFA European Under-17 Football Championship awards}}
+}}
+{{A.F.C. Bournemouth squad}}
+
+{{DEFAULTSORT:Solanke, Dominic}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Reading, Berkshire]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England international footballers]]
+[[Category:Association football forwards]]
+[[Category:Chelsea F.C. players]]
+[[Category:SBV Vitesse players]]
+[[Category:Liverpool F.C. players]]
+[[Category:A.F.C. Bournemouth players]]
+[[Category:Eredivisie players]]
+[[Category:Premier League players]]
+[[Category:English expatriate footballers]]
+[[Category:Expatriate footballers in the Netherlands]]
+[[Category:English expatriate sportspeople in the Netherlands]]
+[[Category:Black English sportspeople]]
+[[Category:English people of Nigerian descent]]
+[[Category:English people of Yoruba descent]]
+[[Category:Yoruba sportspeople]]</text>
+      <sha1>0nm50kj58a912hivkapnhqpqlfglklq</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,267 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dan Gosling</title>
+    <ns>0</ns>
+    <id>8372979</id>
+    <revision>
+      <id>879899036</id>
+      <parentid>877104094</parentid>
+      <timestamp>2019-01-24T02:59:25Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <comment>Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22798">{{EngvarB|date=June 2013}}
+{{Use dmy dates|date=June 2013}}
+{{Infobox football biography
+| name           = Dan Gosling
+| image          = Dan Gosling.JPG
+| image_size     = 200
+| caption        = Gosling playing for [[Everton F.C.|Everton]]
+| fullname       = Daniel Gosling&lt;ref name="PFA"&gt;{{cite book|last=Hugman|first=Barry|title=The PFA Footballers' Who's Who 2007–08|year=2007|publisher=Mainstream Publishing|location=Edinburgh|isbn=978-1-84596-246-3|page=164}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1990|2|1|df=y}}&lt;ref name="Premier League"&gt;{{cite web |url=http://www.premierleague.com/en-gb/players/profile.html/dan-gosling |title=Premier League Player Profile Dan Gosling |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=2016 |publisher=Barclays Premier League |accessdate=3 February 2016}}&lt;/ref&gt;
+| birth_place    = [[Brixham]], England
+| height         = {{convert|1.78|m|order=flip}}&lt;ref name="Premier League"/&gt;
+| position       = [[Midfielder]]
+| currentclub    = [[AFC Bournemouth]]
+| clubnumber     = 4
+| youthyears1    = {{0|0000}}–2003 | youthclubs1 = Brixham United
+| youthyears2    = 2003–2006 | youthclubs2 = [[Plymouth Argyle F.C.|Plymouth Argyle]]
+| years1         = 2006–2008 | clubs1 = [[Plymouth Argyle F.C.|Plymouth Argyle]]   | caps1 = 22  | goals1 = 2
+| years2         = 2008–2010 | clubs2 = [[Everton F.C.|Everton]]                   | caps2 = 22  | goals2 = 4
+| years3         = 2010–2014 | clubs3 = [[Newcastle United F.C.|Newcastle United]] | caps3 = 24  | goals3 = 1
+| years4         = 2013–2014 | clubs4 = → [[Blackpool F.C.|Blackpool]] (loan)      | caps4 = 14  | goals4 = 2
+| years5         = 2014–     | clubs5 = [[AFC Bournemouth]]                        | caps5 = 120 | goals5 = 5
+| nationalyears1 = 2007
+| nationalteam1  = [[England national under-17 football team|England U17]]
+| nationalcaps1  = 5
+| nationalgoals1 = 0
+| nationalyears2 = 2007–2008
+| nationalteam2  = [[England national under-18 football team|England U18]]
+| nationalcaps2  = 2
+| nationalgoals2 = 0
+| nationalyears3 = 2008–2009
+| nationalteam3  = [[England national under-19 football team|England U19]]
+| nationalcaps3  = 8
+| nationalgoals3 = 1
+| nationalyears4 = 2009–2011
+| nationalteam4  = [[England national under-21 football team|England U21]]
+| nationalcaps4  = 3
+| nationalgoals4 = 0
+| club-update = 16:15, 6 January 2019 (UTC)
+| nationalteam-update =
+}}
+'''Daniel Gosling''' (born 1 February 1990) is an English professional [[Association football|footballer]] who plays for {{English football updater|AFCBourn}} club [[AFC Bournemouth]] as a [[midfielder|central midfielder]], [[midfielder|right midfielder]] or [[Fullback (association football)|right fullback]]. Gosling is a versatile player, having operated as a box-to-box midfielder on several occasions and occasionally deputised at right back to accommodate substitutions. His previous clubs are [[Newcastle United F.C.|Newcastle United]], [[Plymouth Argyle F.C.|Plymouth Argyle]] and [[Everton F.C.|Everton]].
+
+==Club career==
+===Plymouth Argyle===
+Born in [[Brixham]], Devon, Gosling was spotted by [[Plymouth Argyle F.C.|Plymouth Argyle]] scouts when he was playing in the under-12 side of hometown club Brixham United.&lt;ref&gt;{{cite news|title=Gosling ready for FA Cup final|url=http://www.thisiscornwall.co.uk/news/Everton-s-Gosling-pride-Westcountry-FA-Cup-final/article-1035681-detail/article.html|newspaper=[[Western Morning News]]|date=30 May 2009}}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; On 9 December 2006, at age 16 years and 310 days, he made his professional debut against [[Hull City A.F.C.|Hull City]], coming on as a first-half substitute for injured Captain [[Paul Wotton]] and became the fourth youngest debutant. His full debut came on New Year's Day 2007, against [[Southampton F.C.|Southampton]] at [[Home Park]]. He proved his versatility in a solid performance, by moving from right-midfield to right-back after an early injury to defender [[Mathias Kouo-Doumbé]].
+
+Gosling established himself as a regular in the reserve team, and his impressive performances were noticed by manager [[Ian Holloway]]. At the beginning of March 2007 he trained for a week with [[Premier League|Premiership]] club [[Chelsea F.C.|Chelsea]]&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport1/hi/football/teams/p/plymouth_argyle/6407861.stm | title=Chelsea look at Argyle teenagers | publisher=[[BBC Sport]] | accessdate=18 July 2007 | date=1 March 2007}}&lt;/ref&gt; along with teammates [[Luke Summerfield]] and [[Scott Sinclair]]. That same year he was named The Herald's Young Sports Personality of the Year in 2007.&lt;ref&gt;{{cite news|title=James hoping to see Gosling star in FA Cup|url=http://www.thisiscornwall.co.uk/news/James-hoping-Gosling-star-FA-Cup/article-1032414-detail/article.html|archive-url=https://archive.is/20130505122040/http://www.thisiscornwall.co.uk/news/James-hoping-Gosling-star-FA-Cup/article-1032414-detail/article.html|dead-url=yes|archivedate=5 May 2013|newspaper=[[Cornish Guardian]]|date=29 May 2009}}&lt;/ref&gt;
+
+===Everton===
+In January 2008, Gosling signed a two and a half-year contract for [[Premier League]] team [[Everton F.C.|Everton]] from Plymouth, days after Everton's [[Lukas Jutkiewicz]] was loaned to the Pilgrims.&lt;ref&gt;{{cite web | url=http://www.evertonfc.com/news/archive/blues-confirm-gosling-deal.html | accessdate=3 January 2008 | publisher= Everton F.C. | title=Blues confirm Gosling deal}}&lt;/ref&gt; His first-team debut came in a 1–0 away victory against [[Middlesbrough F.C.|Middlesbrough]] in December 2008,&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/7787565.stm|publisher=BBC Sport|date=26 December 2008|accessdate=9 February 2009|title=Middlesbrough 0–1 Everton|first=Phil|last=McNulty}}&lt;/ref&gt; and his first goal for the club came two days later in a 3–0 victory over [[Sunderland A.F.C.|Sunderland]] at [[Goodison Park]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/7788412.stm|publisher=BBC Sport|date=28 December 2008|accessdate=9 February 2009|title=Everton 3–0 Sunderland|first=Phil|last=McNulty }}&lt;/ref&gt; After the match, he was given a standing ovation by his own teammates in the dressing room.&lt;ref&gt;{{cite news|title=Dan Gosling earns standing ovation from team-mates after debut Everton goal|url=http://www.liverpoolecho.co.uk/everton-fc/everton-fc-news/2008/12/29/dan-gosling-earns-standing-ovation-from-team-mates-after-debut-everton-goal-100252-22564647/|newspaper=[[Liverpool Echo]]|date=29 December 2008}}&lt;/ref&gt;
+
+In February 2009, Gosling came on as a substitute and scored the only goal in the [[FA Cup]] fourth round replay at [[Goodison Park]] against crosstown rivals [[Liverpool F.C.|Liverpool]] in the 118th minute.&lt;ref&gt;{{cite news |title=Everton 1–0 Liverpool (aet) |url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/7861675.stm|publisher=BBC Sport|first=Phil|last=McNulty|accessdate=4 February 2009 | date=4 February 2009}}&lt;/ref&gt; An error by live broadcasters [[ITV (TV network)|ITV]] during the match meant the goal was missed by millions of TV viewers,&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2009/feb/05/itv-fa-cup-coverage|newspaper=[[The Guardian]]|title=ITV apologises after cameras miss only goal in Merseyside derby|first=Matt|last=Scott|date=5 February 2009|accessdate=9 February 2009 | location=London}}&lt;/ref&gt; including Gosling's mother Hilary.&lt;ref&gt;{{cite news|title=Dan Gosling's mother missed Everton goal due to ITV advertising blunder|url=https://www.telegraph.co.uk/sport/football/4534229/Dan-Goslings-mother-missed-Everton-goal-due-to-ITV-advertising-blunder.html|newspaper=[[The Daily Telegraph]]|date=6 February 2009}}&lt;/ref&gt; The goal scored against Liverpool was voted Everton's 'Goal of the Season' by the fans of the club. He went on to play in the [[2009 FA Cup Final]], coming on as a second-half substitute.
+
+In the 2009–10 season, Gosling was mostly on the bench for league games, but was in the starting eleven for most of the [[2009-10 Football League Cup|League Cup]] and [[Europa League]] matches. In March 2010, he ruptured his [[anterior cruciate ligament]] after a collision with [[Wolverhampton Wanderers]] goalkeeper [[Marcus Hahnemann]], and was ruled out of playing for nine months.&lt;ref&gt;{{cite news|title=Gosling out for nine months|url=http://www.premierleague.com/page/Headlines/0,,12306~2011112,00.html|publisher=Premier League|date=31 March 2010|accessdate=1 April 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20100401203515/http://www.premierleague.com/page/Headlines/0%2C%2C12306~2011112%2C00.html|archivedate=1 April 2010|df=dmy-all}}&lt;/ref&gt;
+
+====Contract negotiations and exit====
+Negotiations for a contract extension began in May 2009. Gosling declared ''"there's no other club I'd rather be at"'',&lt;ref&gt;{{cite web|title=Gosling set for new deal|url=http://www.skysports.com/story/0,19528,11661_5350257,00.html|publisher=Sky Sports|date=27 May 2009}}&lt;/ref&gt; however no extension was agreed and his contract with Everton expired on 30 June 2010.&lt;ref&gt;{{cite news|last=Hunter|first=Andy|title=Dan Gosling's free agent move leaves Everton seething|url=https://www.theguardian.com/football/2010/jul/07/dan-gosling-everton-free-agent|publisher=Guardian|accessdate=8 July 2010|date=7 July 2010 | location=London}}&lt;/ref&gt; During contract negotiations Gosling was represented by [[David Hodgson (footballer)|David Hodgson]], a solicitor and former professional football player.
+
+On 6 July 2010, the ''[[Daily Mirror]]'' reported that the [[Professional Football Compensation Committee|PFCC tribunal]]'s decision allowed Gosling to leave Everton under the [[Bosman ruling]] with no compensation being paid by the club who sign the player.&lt;ref&gt;{{cite news|title=Everton lose England U21 starlet for nothing after admin error|url=http://www.mirrorfootball.co.uk/news/England-U21-starlet-Dan-Gosling-walks-out-of-Everton-for-nothing-after-amazing-admin-error-Exclusive-article517849.html|newspaper=Daily Mirror|date=6 July 2010|accessdate=7 July 2010}}&lt;/ref&gt; The ''[[Daily Mail]]'' reported that the player earned £8,000 per week and had rejected a verbal offer of a £15,000 a week contract from Everton.&lt;ref&gt;{{cite news|title=Dan Gosling quits Everton|url=http://www.dailymail.co.uk/sport/football/article-1292869/Dan-Gosling-takes-flight-Everton-shock-starlet-eyes-West-Ham.html|work=Daily Mail|accessdate=8 July 2010 | location=London | first=John | last=Edwards | date=8 July 2010}}&lt;/ref&gt; Everton were required to submit a contract with better terms than the existing contract to Gosling before the 30 May deadline to enable the club to receive compensation from any English club interested in signing Gosling. The compensation amount has been reported as being as high as £4million.
+
+The PFCC tribunal based their decision on Everton's contract offer being verbally arranged and not in writing: had the contract been in writing the Merseyside club would have been entitled to compensation should Gosling have moved to another English club (but not to a non-English club) as he is under 24 years of age. The tribunal's decision also meant that Gosling's previous club [[Plymouth Argyle F.C.|Plymouth Argyle]] would receive no monetary amount despite a sell-on clause in Gosling's Everton contract.&lt;ref&gt;{{cite web|last=Ryder|first=Lee|title=NUFC battle with Sunderland for Dan Gosling |url=http://www.chroniclelive.co.uk/newcastle-united/nufc-news/2010/07/08/nufc-battle-with-sunderland-for-dan-gosling-72703-26810849/|publisher=Chronicle Live|accessdate=8 July 2010|date=8 July 2010}}&lt;/ref&gt; As the playing contract expired Everton and Plymouth are also no longer entitled to [[Solidarity Contribution (football)|solidarity contributions]] despite the player being registered with the clubs before he turned 23.&lt;ref&gt;{{cite web|title=SOLIDARITY MECHANISM|url=https://www.fifa.com/mm/document/affederation/administration/01/06/30/78/statusinhalt_en_122007.pdf|work=[[FIFA]]|accessdate=8 July 2010|page=38}}&lt;/ref&gt; During the season Plymouth went into administration.
+
+===Newcastle United===
+On 22 July 2010, Gosling signed for [[Newcastle United F.C.|Newcastle United]]&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/8844933.stm|title=Dan Gosling signs four-year deal with Newcastle|publisher=BBC Sport|date=22 July 2010}}&lt;/ref&gt; He made only one appearance in his first season for the club, because of a continuing problem with his knee, resulting in surgery in February 2011. From then on, he only made substitute appearances due to the prominent pairing of [[Cheick Tioté]] and [[Yohan Cabaye]]. Following Cabaye's departure in January 2014, he began to be used more regularly until the end of the season. His only goal for the club came in a 3–1 defeat to [[Manchester City F.C.|Manchester City]] on 19 November 2011, which ended the Magpies' unbeaten start to the 2011–12 season.
+
+====Blackpool (loan)====
+On 4 October 2013, Gosling signed a three-month loan deal with [[Blackpool F.C.|Blackpool]].&lt;ref&gt;[http://www.blackpoolfc.co.uk/news/article/gosling-completes-loan-move-1095410.aspx "Gosling Completes Loan Move"] Blackpool Official Website. 4 October 2013. Retrieved 7 October 2013.&lt;/ref&gt; He returned in January 2014, having made 14 appearances.&lt;ref name="Loan Pair Back On Tyneside"&gt;{{cite press release | url=http://www.nufc.co.uk/articles/20140103/loan-pair-back-on-tyneside_2281670_3602728? | title=Loan Pair Back On Tyneside | publisher=Newcastle United | date=3 January 2014 | accessdate=3 January 2014}}&lt;/ref&gt;
+
+===AFC Bournemouth===
+On 16 May 2014, Gosling agreed a four-year deal with [[AFC Bournemouth]].&lt;ref&gt;{{Cite web |title=AFC Bournemouth agree four year deal with Newcastle United's Dan Gosling |url=http://www.afcb.co.uk/news/article/2014-05-16-afc-bournemouth-agree-four-year-deal-with-newcastle-uniteds-dan-gosling-1554878.aspx |work=AFC Bournemouth |date=16 May 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140519012517/http://www.afcb.co.uk/news/article/2014-05-16-afc-bournemouth-agree-four-year-deal-with-newcastle-uniteds-dan-gosling-1554878.aspx |archivedate=19 May 2014 |df=dmy-all }}&lt;/ref&gt;
+
+==International career==
+Gosling earned himself a call-up to the England Under-17s squad for the UEFA European U17 Championship Qualifying Round in Bosnia at the end of March 2007 after displaying good form for the Pilgrims,&lt;ref&gt;{{cite web | url=http://www.thefa.com/England/U17s/NewsAndFeatures/Postings/2007/03/17sBosnia.htm | archive-url=https://archive.is/20071029052657/http://www.thefa.com/England/U17s/NewsAndFeatures/Postings/2007/03/17sBosnia.htm | dead-url=yes | archivedate=29 October 2007 | title=Peacock calls on Gosling | publisher=[[The Football Association]] | accessdate=18 July 2007}}&lt;/ref&gt; and was also included in the England U17 squad for the [[2007 UEFA European Under-17 Football Championship|2007 European Championships]] in Belgium.&lt;ref&gt;{{cite web | url=http://www.uefa.com/competitions/under17/teams/team=400039/index.html | title=UEFA European U-17 C'ship – Teams – England | publisher=UEFA | accessdate=18 July 2007 | archiveurl=https://web.archive.org/web/20070701003400/http://www.uefa.com/competitions/under17/teams/team%3D400039/index.html | archivedate=1 July 2007 | deadurl=yes | df=dmy-all }}&lt;/ref&gt; England finished twenty-third in that tournament, qualifying for the [[2007 FIFA U-17 World Cup]], with Gosling also making the tournament squad.&lt;ref&gt;{{cite web|url=http://www.thefa.com/England/U17WorldCup/NewsFeatures/Postings/2007/08/WorldCupsquadannounced.htm|title=TheFA.com – Peacock names squad&lt;!-- Bot generated title --&gt;|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Trouble in Gosling's nest|url=https://www.fifa.com/tournaments/archive/u17worldcup/korea2007/news/newsid=572577.html#trouble+goslings+nest|publisher=[[FIFA]]|date=17 August 2007}}&lt;/ref&gt; He was promoted to the under-19 squad for the [[2008 UEFA European Under-19 Football Championship|2008 European Championships]].
+
+In the summer of 2009, Gosling was called up for the final squad to participate in the [[2009 UEFA European Under-19 Football Championship|U19 European Championship]] and started in every game. He scored a goal against Ukraine in the group stage match to give England the lead but Ukraine equalised to draw 2–2.&lt;ref&gt;{{cite web|url=http://www.evertonfc.com/news/archive/gosling-nets-for-england.html|title=Everton FC – Undergoing Maintenance|website=www.evertonfc.com}}&lt;/ref&gt; England ended the tournament as runners-up to Ukraine.&lt;ref&gt;{{cite news|title=England Under-19 0–2 Ukraine Under-19|url=https://www.theguardian.com/football/2009/aug/02/england-under-19s-european-championship-final|newspaper=[[The Guardian]]|date=2 August 2009}}&lt;/ref&gt;
+
+Gosling was called up to the [[England national under-21 football team|England U21]] squad for the first time as a replacement for injured clubmate [[Jack Rodwell]]. He was named as a substitute in Stuart Pearce's 18-man squad for the double [[2011 UEFA European Under-21 Football Championship qualification|qualifier]] against Portugal on 14 November and Lithuania three days later.&lt;ref&gt;{{cite news|title=England's starting eleven v Portugal|url=http://thefa.com/England/MensUnder-21Team/MatchCentre/2009/EnglandvPortugal/Report.aspx|publisher=[[The Football Association]]|date=14 November 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Dan Gosling hoping to grab second England U21 cap|url=http://www.thisisplymouth.co.uk/news/Gosling-hoping-grab-second-England-U21-cap/article-1522863-detail/article.html|archive-url=https://archive.is/20120912071001/http://www.thisisplymouth.co.uk/news/Gosling-hoping-grab-second-England-U21-cap/article-1522863-detail/article.html|dead-url=yes|archivedate=12 September 2012|newspaper=[[The Herald (Plymouth)|The Herald]]|date=17 November 2009}}&lt;/ref&gt; He made his debut in the match when he came on as an extra time substitute for [[Fabian Delph]] against Portugal.&lt;ref&gt;{{cite news|title=Everton FC's Dan Gosling caps perfect week with his first England Under-21 call-up|url=http://www.liverpoolecho.co.uk/everton-fc/everton-fc-news/2009/11/11/everton-fc-s-dan-gosling-caps-perfect-week-with-his-first-england-under-21-call-up-100252-25139627/|newspaper=[[Liverpool Echo]]|date=11 November 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Former coach praises star Gosling|url=http://news.bbc.co.uk/sport2/hi/football/internationals/8355548.stm|publisher=[[BBC Sport]]|date=11 November 2009 | accessdate=2 January 2010}}&lt;/ref&gt;
+
+==Personal life==
+Gosling was charged with misconduct under Rule E8(b) of the FA's regulations, which relates to players betting on football matches, and on 10 March 2014, Gosling admitted "multiple breaches", requesting a personal hearing to answer his case.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/26515814|title=Dan Gosling: Newcastle midfielder admits to FA betting charge|publisher=[[BBC Sport]]|date=10 March 2014|accessdate=10 March 2014}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|the end of the 2017–18 season}}&lt;ref&gt;{{cite web|title=D.Gosling|url=https://int.soccerway.com/players/dan-gosling/15647/|accessdate=1 July 2016}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"| Division
+!rowspan="2"|Season
+!colspan="2"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[EFL Cup|League Cup]]
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Total
+|-
+!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+| rowspan="3" style="vertical-align:center;"|[[Plymouth Argyle F.C.|Plymouth Argyle]]
+| rowspan="2" style="vertical-aligh:center;"|[[EFL Championship|Championship]]
+|[[2006–07 Football League Championship|2006–07]]
+|12||2||2||0||0||0||-||-||14||2
+|-
+|[[2007–08 Football League Championship|2007–08]]
+|10||0||0||0||0||0||-||-||10||0
+|-
+!colspan="2"|Total
+!22!!2!!2!!0!!0!!0!!-!!-!!24!!2
+|-
+| rowspan="4" style="vertical-align:center;"|[[Everton F.C.|Everton]]
+| rowspan="3" style="vertical-align:center;"|[[Premier League]]
+|[[2007-08 FA Premier League|2007–08]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2008-09 FA Premier League|2008–09]]
+|11||2||6||1||0||0||0||0||17||3
+|-
+|[[2009-10 FA Premier League|2009–10]]
+|11||2||0||0||2||1||7||0||20||3
+|-
+!colspan="2"|Total
+!22!!4!!6!!1!!2!!1!!7!!0!!37!!6
+|-
+| rowspan="5" style="vertical-align:center;"|[[Newcastle United F.C.|Newcastle United]]
+| rowspan="4" style="vertical-align:center;"|[[Premier League]]
+|[[2010–11 Premier League|2010–11]]
+|1||0||0||0||0||0||-||-||1||0
+|-
+|[[2011–12 Premier League|2011–12]]
+|12||1||2||0||2||0||-||-||16||1
+|-
+|[[2012–13 Premier League|2012–13]]
+|3||0||0||0||1||0||5||0||9||0
+|-
+|[[2013–14 Premier League|2013–14]]
+|8||0||0||0||2||0||0||0||10||0
+|-
+!colspan="2"|Total
+!24!!1!!2!!0!!5!!0!!5!!0!!36!!1
+|-
+|[[Blackpool F.C.|Blackpool]] (loan)
+|Championship
+|[[2013–14 Football League Championship|2013–14]]
+|14||2||0||0||0||0||-||-||14||2
+|-
+|rowspan="5"|[[AFC Bournemouth]]
+|Championship
+|[[2014–15 Football League Championship|2014–15]]
+|18||0||1||0||5||5||-||-||24||5
+|-
+||[[Premier League]]
+|[[2015–16 Premier League|2015–16]]
+|34||3||1||0||3||1||-||-||38||4
+|-
+||[[Premier League]]
+|[[2016–17 Premier League|2016–17]]
+|27||2||1||0||3||1||-||-||31||3
+|-
+||[[Premier League]]
+|[[2017–18 Premier League|2017–18]]
+|28||0||0||0||3||0||-||-||31||0
+|-
+!colspan="2"|Total
+!107!!5!!3!!0!!14!!7!!-!!-!!124!!12
+|-
+!colspan="3"|Total
+!189!!14!!13!!1!!21!!8!!12!!0!!235!!23
+|}
+
+==Honours==
+'''Everton'''
+*[[FA Cup]] runner-up: [[2008–09 FA Cup|2008–09]]
+
+'''AFC Bournemouth'''
+*[[EFL Championship|Football League Championship]]: [[2014–15 Football League Championship|2014–15]]
+
+'''Individual'''
+*[[List of Everton F.C. records and statistics#Evertonfc.com player awards|Everton Goal of the Season]]: [[2008–09 Everton F.C. season|2008–09]] vs. [[Liverpool F.C.|Liverpool]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerbase}}
+*[https://wayback.archive-it.org/all/20120428013316/http://www.thefa.com/England/All-Teams/Players/G/Danny-Gosling Dan Gosling] at [[The Football Association]]
+*{{UEFA player|1901669}}
+*{{FIFA player|274101}}
+
+{{A.F.C. Bournemouth squad}}
+
+{{DEFAULTSORT:Gosling, Dan}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:People from Brixham]]
+[[Category:Association football midfielders]]
+[[Category:English footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England youth international footballers]]
+[[Category:Plymouth Argyle F.C. players]]
+[[Category:Everton F.C. players]]
+[[Category:Newcastle United F.C. players]]
+[[Category:Blackpool F.C. players]]
+[[Category:A.F.C. Bournemouth players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]</text>
+      <sha1>onla6hs85ppyck2hlirh2fu7gl43fyg</sha1>
+    </revision>
+  </page>
+</mediawiki>

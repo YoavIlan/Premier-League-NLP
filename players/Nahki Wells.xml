@@ -1,0 +1,355 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Nahki Wells</title>
+    <ns>0</ns>
+    <id>30148815</id>
+    <revision>
+      <id>885940106</id>
+      <parentid>885320748</parentid>
+      <timestamp>2019-03-03T09:02:41Z</timestamp>
+      <contributor>
+        <username>GiantSnowman</username>
+        <id>1005449</id>
+      </contributor>
+      <minor/>
+      <comment>update - match played 2 March 2019</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="50055">{{Use British English|date=June 2013}}
+{{Use dmy dates|date=June 2013}}
+{{Infobox football biography
+|name                = Nahki Wells
+|image               = Nahki Wells.jpg
+|image_size          = 200
+|caption             = Wells playing for [[Huddersfield Town A.F.C.|Huddersfield Town]] in 2015
+|fullname            = Nahki Michael Wells&lt;ref&gt;{{cite web |url=http://www.bdfutbol.com/en/j/j25372.html |title=Wells: Nahki Michael Wells: Player |publisher=BDFutbol |accessdate=31 December 2017}}&lt;/ref&gt;
+|birth_date          = {{birth date and age|1990|6|1|df=y}}&lt;ref name=Hugman&gt;{{cite web |title=Nahki Wells |url=http://hugmansfootballers.com/player/25718 |work=Barry Hugman's Footballers |accessdate=19 March 2016}}&lt;/ref&gt;
+|birth_place         = [[Hamilton, Bermuda|Hamilton]], Bermuda
+|height              = 1.70 m&lt;ref name=SW&gt;{{cite web |title=N. Wells |url=https://uk.soccerway.com/players/nahki-wells/170326/ |work=Soccerway |publisher=Perform Group |accessdate=26 December 2017}}&lt;/ref&gt;
+|position            = [[Forward (association football)|Forward]]
+|currentclub         = [[Queens Park Rangers F.C.|Queens Park Rangers]]&lt;br&gt;(on loan from [[Burnley F.C.|Burnley]])
+|clubnumber          = 32
+|youthyears1         = 2002–2009
+|youthclubs1         = [[Dandy Town Hornets F.C.|Dandy Town Hornets]]
+|years1              = 2009–2010
+|clubs1              = [[Dandy Town Hornets F.C.|Dandy Town Hornets]]
+|caps1               = 
+|goals1              = 20
+|years2              = 2010
+|clubs2              = [[Bermuda Hogges F.C.|Bermuda Hogges]]
+|caps2               = 9
+|goals2              = 2
+|years3              = 2010–2011
+|clubs3              = [[Eccleshill United F.C.|Eccleshill United]]
+|caps3               = 
+|goals3              = 
+|years4              = 2011
+|clubs4              = [[Carlisle United F.C.|Carlisle United]]
+|caps4               = 3
+|goals4              = 0
+|years5              = 2011–2014
+|clubs5              = [[Bradford City A.F.C.|Bradford City]]
+|caps5               = 91
+|goals5              = 42
+|years6              = 2014
+|clubs6              = → [[Huddersfield Town A.F.C.|Huddersfield Town]] (loan)&lt;ref name = "loan1"/&gt;&lt;ref name = "loan2"/&gt;
+|caps6               = 1
+|goals6              = 1
+|years7              = 2014–2017
+|clubs7              = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+|caps7               = 143
+|goals7              = 44
+|years8              = 2017–
+|clubs8              = [[Burnley F.C.|Burnley]]
+|caps8               = 9
+|goals8              = 0
+|years9              = 2018–
+|clubs9              = → [[Queens Park Rangers F.C.|Queens Park Rangers]] (loan)
+|caps9               = 31
+|goals9              = 6
+|nationalyears1      = 2007–
+|nationalteam1       = [[Bermuda national football team|Bermuda]]
+|nationalcaps1       = 10
+|nationalgoals1      = 6
+|club-update         = 09:02, 3 March 2019 (UTC)
+|nationalteam-update = 00:36, 29 November 2018 (UTC)
+}}
+'''Nahki Michael Wells''' (born 1 June 1990) is a Bermudian professional [[association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Queens Park Rangers F.C.|Queens Park Rangers]], on loan from [[Burnley F.C.|Burnley]], and the [[Bermuda national football team|Bermuda national team]].
+
+Wells began his career in his native Bermuda, playing for [[Dandy Town Hornets F.C.|Dandy Town Hornets]] and [[Bermuda Hogges F.C.|Bermuda Hogges]]. After moving to England, where he had a brief spell in non-league football with [[Eccleshill United F.C.|Eccleshill United]], Wells has since played in [[the Football League]] for [[Carlisle United F.C.|Carlisle United]], [[Bradford City A.F.C.|Bradford City]] and Huddersfield Town.
+
+==Club career==
+===Early career===
+Wells was born in [[Hamilton, Bermuda|Hamilton]].&lt;ref name=SW/&gt; He began his career in his native Bermuda with the [[Dandy Town Hornets F.C.|Dandy Town Hornets]],&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/11049034.Bradford_City_awaiting_Bermudian_bill_for_Wells/|title=Bradford City awaiting Bermudian bill for Nahki Wells|date=4 March 2014|accessdate=4 March 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; a team he had first joined at the age of 12.&lt;ref&gt;{{cite web|url=http://www.carlisleunited.co.uk/page/ProfilesDetail/0,,10361~54782,00.html|title=Player profile|accessdate=12 February 2011|publisher=Carlisle United F.C. official website|deadurl=yes|archiveurl=https://web.archive.org/web/20110119062748/http://www.carlisleunited.co.uk/page/ProfilesDetail/0,,10361~54782,00.html|archivedate=19 January 2011|df=dmy-all}}&lt;/ref&gt; Wells had a trial with Dutch club [[AFC Ajax|Ajax]] as a teenager; he was offered a contract but ultimately did not sign for the club.&lt;ref name = "Ajax"&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10237594.Ajax_loss_was_Bradford_City_gain_on_Wells_signing/|title=Ajax loss was Bradford City gain on Nahki Wells signing|date=20 February 2013|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; After spending the 2009–10 season with the senior team of the Dandy Town Hornets, scoring 20 goals,&lt;ref&gt;{{cite web|url=http://www.rsssf.com/tablesb/berm2010.html|title=Bermuda 2009/10|accessdate=21 December 2010|publisher=Rec.Sport.Soccer Statistics Foundation}}&lt;/ref&gt; Wells spent the 2010 season in the [[USL PDL]] with the [[Bermuda Hogges F.C.|Bermuda Hogges]], scoring 2 goals in 9 games.&lt;ref name=NFT&gt;{{NFT player |id=31769 |name=Wells, Nahki |accessdate=14 January 2018}}&lt;/ref&gt;&lt;ref name="BH2010"&gt;{{cite web|url=http://www.uslsoccer.com/teams/2010/roster/6188091.html|title=Bermuda Hogges 2010 Roster|publisher=United Soccer Leagues|deadurl=yes|archiveurl=https://web.archive.org/web/20121024041535/http://www.uslsoccer.com/teams/2010/roster/6188091.html|archivedate=24 October 2012|df=dmy-all}}&lt;/ref&gt;
+
+Wells later moved to England to attend the [[Richmond, The American International University in London#Richmond Soccer Academy and Italian Study Centers|Richmond International Academic &amp; Soccer Academy]] in Leeds, and also played club football with local non-League team [[Eccleshill United F.C.|Eccleshill United]].&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10194781.Bradford_City_striker_Wells_a_guest_of_Eccleshill_United/|title=Bradford City striker Nahki Wells a guest of Eccleshill United|date=30 January 2013|author=Ian Whiting|work=Telegraph &amp; Argus}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10294126.Wells_sets_Eccleshill_United_standard/|title=Nahki Wells sets Eccleshill United standard|date=15 March 2013|author=Ian Whiting|work=Telegraph &amp; Argus}}&lt;/ref&gt; Wells underwent a trial with [[Carlisle United F.C.|Carlisle United]] in November 2010,&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/carlisle_united/9232086.stm|title=Bermuda striker Nahki Wells lands Carlisle trial|accessdate=21 December 2010|date=26 November 2010|publisher=BBC Sport}}&lt;/ref&gt; his second with the club.&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/carlisle-united/8216487/Cumbrians-snap-up-Wells.html|title=Cumbrians snap up Wells|accessdate=21 December 2010|date=21 December 2010|work=The Telegraph|location=London}}&lt;/ref&gt; Before moving to the UK, Well has sought the advice of compatriot [[Shaun Goater]].&lt;ref&gt;{{cite web|url=http://www.mediafire.com/?t57259hha3qf1qp|title=Goater feeds ambition of Bradford City striker Nahki Wells|accessdate=20 September 2011|date=20 September 2011|author=Simon Parker|work=Telegraph &amp; Argus}}{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; In December 2010, it was announced that Wells would sign for Carlisle United on 1 January 2011.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/carlisle_united/9308830.stm|title=Bermuda striker Nahki Wells to join Carlisle United United|accessdate=21 December 2010|date=21 December 2010|publisher=BBC Sport}}&lt;/ref&gt; Wells made his debut for Carlisle United on 15 January 2011, in a [[EFL League One|League One]] game against [[Bristol Rovers F.C.|Bristol Rovers]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_2/9359337.stm|title=Carlisle 4 – 0 Bristol Rovers|accessdate=12 February 2011|date=15 January 2011|publisher=BBC Sport}}&lt;/ref&gt; In March 2011, Wells publicly announced his wish to play at [[Wembley Stadium]] with Carlisle United in the [[2011 Football League Trophy Final]], to be played in April 2011.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/carlisle_united/9410919.stm|title=Bermuda striker Wells aims for Wembley with Carlisle|accessdate=1 March 2011|date=1 March 2011|publisher=BBC Sport}}&lt;/ref&gt; However, Wells did not make the matchday squad, as Carlisle United beat [[Brentford F.C.|Brentford]] 1–0.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/9443308.stm|title=Brentford 0 – 1 Carlisle|accessdate=3 April 2011|date=3 April 2011|publisher=BBC Sport|first=Stephan|last=Shemilt}}&lt;/ref&gt;
+
+On 3 May 2011, it was announced that Wells' contract with Carlisle United would not be renewed at the end of the season.&lt;ref&gt;{{cite web|url=http://www.carlisleunited.co.uk/page/NewsDetail/0,,10361~2352147,00.html|title=Decisions Made on Two|accessdate=3 May 2011|date=3 May 2011|publisher=Carlisle United F.C.|deadurl=yes|archiveurl=https://web.archive.org/web/20111004110022/http://www.carlisleunited.co.uk/page/NewsDetail/0,,10361~2352147,00.html|archivedate=4 October 2011|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://bermudasun.bm/main.asp?SectionID=8&amp;SubSectionID=203&amp;ArticleID=51871|title=Wells contract not renewed by Carlisle|accessdate=3 May 2011|date=3 May 2011|publisher=Bermunda Sun}}&lt;/ref&gt;
+
+===Bradford City===
+====2011–12 season====
+In late June 2011, Wells went on trial with [[Bradford City A.F.C.|Bradford City]] alongside four other players.&lt;ref&gt;{{cite web|url=http://www.bradfordcityfc.co.uk/page/News/0,,10266~2382537,00.html|title=Five on trial|accessdate=27 June 2011|date=27 June 2011|publisher=Bradford City A.F.C.|deadurl=yes|archiveurl=https://web.archive.org/web/20120327091239/http://www.bradfordcityfc.co.uk/page/News/0,,10266~2382537,00.html|archivedate=27 March 2012|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/13939127.stm|title=Bradford City take five players on pre-season trials|accessdate=28 June 2011|date=28 June 2011|publisher=BBC Sport}}&lt;/ref&gt; He signed a one-year contract with Bradford City on 22 July 2011.&lt;ref&gt;{{cite web|url=http://www.bradfordcityfc.co.uk/page/News/0,,10266~2398636,00.html|title=Wells wins City contract|accessdate=22 July 2011|date=22 July 2011|publisher=Bradford City A.F.C.|deadurl=yes|archiveurl=https://web.archive.org/web/20120905184324/http://www.bradfordcityfc.co.uk/page/News/0,,10266~2398636,00.html|archivedate=5 September 2012|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/b/bradford_city/9545634.stm|title=Bradford City bring in striker Nahki Wells|accessdate=22 July 2011|date=22 July 2011|publisher=BBC Sport}}&lt;/ref&gt; Wells made his debut for Bradford City on the opening day of the 2011–12 season, coming on as a 74th-minute substitute for [[Mark Stewart (footballer)|Mark Stewart]].&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/eng_div_3/14351989.stm "Bradford 1–2 Aldershot"] BBC Sport. 6 August 2011. Retrieved 8 January 2012.&lt;/ref&gt; He scored his first goal for the Bantams in a 4–2 win against [[Barnet F.C.|Barnet]].&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/eng_div_3/14600527.stm "Bradford 4–2 Barnet"] BBC Sport. 27 August 2011. Retrieved 8 January 2012.&lt;/ref&gt;
+
+On 9 March 2012, Bradford City exercised an option in Wells' contract, and extended his deal by one year.&lt;ref&gt;{{cite web|url=http://www.bradfordcityfc.co.uk/page/News/0,,10266~2642269,00.html|archive-url=https://archive.is/20120630224803/http://www.bradfordcityfc.co.uk/page/News/0,,10266~2642269,00.html|dead-url=yes|archive-date=30 June 2012|title=City take up Wells option|date=9 March 2012|publisher=Bradford City A.F.C.}}&lt;/ref&gt; On 14 April, he scored a hat-trick as Bradford beat [[Northampton Town F.C.|Northampton Town]] 3–1.&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/17643373 "Northampton 1–3 Bradford"] BBC Sport. 14 April 2012. Retrieved 14 April 2012.&lt;/ref&gt; He was later named in the Football League Two Team of the Week for that week.&lt;ref&gt;[http://www.bradfordcityfc.co.uk/page/News/0,,10266~1784558,00.html "Wells named in FL Team of the Week"] {{webarchive|url=https://web.archive.org/web/20120228172424/http://www.bradfordcityfc.co.uk/page/News/0%2C%2C10266~1784558%2C00.html |date=28 February 2012 }} Bradford City F.C. 17 April 2012. Retrieved 17 April 2012.&lt;/ref&gt; Following this, former Bradford City player [[Dean Windass]] urged Wells to remain with the club,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/9659447.Don_t_be_in_a_hurry_to_leave_Bantams__Windass_advises_Wells/|title=Dean Windass advises Nahki Wells: Don't be in a hurry to leave Bradford City|date=20 April 2012|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; while ex-Bermudian international [[Kyle Lightbourne]] compared him to [[Jermain Defoe]].&lt;ref&gt;{{cite web|url=http://www.royalgazette.com/article/20120420/SPORT01/704209977|title=Wells has Defoe magic, says Lightbourne|date=20 April 2012|publisher=Royal Gazette}}&lt;/ref&gt; In early May, Wells and Bradford City began discussions over a new four-year contract,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/9683345.Bradford_City_keen_to_play_down_talk_of_Wells_quitting_club/|title=Bradford City confident of tieing up four-year Nahki Wells deal|author=Simon Parker|date=3 May 2012|work=Telegraph &amp; Argus}}&lt;/ref&gt; and later that month he publicly assured fans that he would stay with the club.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/9706645.I___ll_be_a_Bradford_City_player_next_season__says_Wells/|title=Bradford City striker Nahki Wells will not let interest from 'big clubs' distract him|author=Simon Parker|date=16 May 2012|work=Telegraph &amp; Argus}}&lt;/ref&gt; In June there were further rumours of Wells leaving the club,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/9740619.Wells_rumour_mill_grinds_away_but_Bradford_City_in_no_rush_for_an_answer/|title=Nahki Wells rumour mill grinds away but Bradford City in no rush for an answer|author=Simon Parker|date=2 June 2012|work=Telegraph &amp; Argus}}&lt;/ref&gt; while it was later revealed that he nearly never signed for the club in the first place.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/9754447.Ellis_reveals_Wells_so_close_to_not_making_grade_at_Bradford_City/|title=Mark Ellis reveals Wells so close to not making grade at Bradford City|author=Simon Parker|date=12 June 2012|work=Telegraph &amp; Argus}}&lt;/ref&gt; In July, Wells stated he was in no rush to sign a new contract.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/9845380.Bradford_City_striker_Wells_in_no_rush_over_contract_negotiations/|title=Bradford City striker Nahki Wells in no rush over contract negotiations|author=Simon Parker|date=31 July 2012|work=Telegraph &amp; Argus}}&lt;/ref&gt;
+
+====2012–13 season====
+[[File:Nahki Wells (Bradford City).jpg|thumb|right|Wells celebrating [[Bradford City A.F.C.|Bradford City's]] victory in the [[2013 Football League Two play-off Final|2013 League Two play-off Final]]]]
+Wells scored a penalty on the opening day of the 2012–13 season in an away match against [[Gillingham F.C.|Gillingham]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/19221411 "Gillingham 3–1 Bradford"] BBC Sport. 18 August 2012. Retrieved 18 August 2012.&lt;/ref&gt; He scored his second goal of the season on 25 August in a 5–1 win against [[AFC Wimbledon]], and also assisted the fifth goal, crossing for James Hanson to score with a header.&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/19304428 "Bradford 5–1 AFC Wimbledon"] BBC Sport. 25 August 2012. Retrieved 25 August 2012.&lt;/ref&gt; In September 2012, Wells suffered a hip injury.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/9928357.Bradford_City__Wells_told_to_keep_calm_and_carry_on/|title=Bradford City: Nahki Wells told to keep calm and carry on|date=7 September 2012|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; On 25 September, Wells came off the bench to score two late goals to help Bradford overturn a 2–0 deficit against [[Burton Albion F.C.|Burton Albion]] in the [[EFL Cup|League Cup]] third round, with Bradford going on to win the game 3–2 in extra time.&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/19632333 "Bradford 3–2 Burton"] BBC Sport. 25 September 2012. Retrieved 25 September 2012.&lt;/ref&gt; At the end of September 2012, Wells signed a new three-year contract with the club,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/19759223|title=Bradford City forward Nahki Wells signs new deal|date=28 September 2012|publisher=BBC Sport}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/9956004.Wells_puts_pen_to_paper_on_new_Bradford_City_deal/|title=Nahki Wells puts pen to paper on new Bradford City deal|author=Simon Parker|date=28 September 2012|work=Telegraph &amp; Argus}}&lt;/ref&gt; in a move praised by [[Phil Parkinson]], the club's manager.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/9956376.Nahki_signing_a_big_deal_as_he_s_only_going_to_get_better__says_Bantams_boss/|title=Nahki Wells signing a big deal as he's only going to get better, says Bradford City boss Phil Parkinson|author=Simon Parker|date=29 September 2012|work=Telegraph &amp; Argus}}&lt;/ref&gt; In October 2012, Wells was banned by the club from celebrating his goals.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10008192.Bantams_bring_Wells_to_book_over_celebrations/|title=Bradford City bring Nahki Wells to book over celebrations|date=26 October 2012|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; As the January 2013 transfer window opened, Bradford City dismissed rumours linking Wells with a move away from the club.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10140245.Bradford_City_rubbish_Wells_transfer_rumours/|title=Bradford City rubbish Nahki Wells transfer rumours|date=4 January 2013|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; On 8 January 2013, he helped Bradford beat [[Premier League]] side [[Aston Villa F.C.|Aston Villa]] 3–1 in the first leg of the semi-final of the League Cup by opening the scoring in the 19th minute.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10148084.Wells_on_the_mark_as_Bradford_City_defy_odds_again/|title=Nahki Wells on the mark as Bradford City defy odds again|date=9 January 2013|work=Telegraph &amp; Argus}}&lt;/ref&gt; After appearing in the [[2013 Football League Cup Final|2013 League Cup Final]], Wells became the first player from Bermuda to appear in an English major cup final.&lt;ref name = "Ajax"/&gt; Although Wells did not complete the game,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10250198.Wells_gutted_not_to_complete_final_for_Bradford_City/|title=Nahki Wells gutted not to complete final for Bradford City|date=26 February 2013|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; prior to the match he spoke about being motivated by the recent death of a friend in a motorcycle accident,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10246463.Friend___s_death_giving_Wells_extra_motivation_to_achieve_Bradford_City_ambitions/|title=Friend's death giving Nahki Wells extra motivation to achieve Bradford City ambitions|date=23 February 2013|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; as well as how he was looking forward to facing opponents from a higher league.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10246609.Star_Bradford_City_striker_thinks_he_is_destined_for_greatness/|title=Star Bradford City striker thinks he is destined for greatness|date=23 February 2013|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; Wells hadn't scored for the club since 2 February 2013,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10335148.Bradford_City_striker_Wells__I_ll_get_my_Nak_back_against_Cobblers/|title=Bradford City striker Wells: I'll get my Nak back against Northampton|date=5 April 2013|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; until he scored the only goal of the game on 6 April 2013, in a 1–0 home victory against Northampton Town.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/21979701|title=Bradford 1–0 Northampton|date=6 April 2013|publisher=BBC Sport}}&lt;/ref&gt; Later that month, he was linked with a transfer to [[Burnley F.C.|Burnley]].&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10373858.Bradford_City_striker_Wells_watched_by_Burnley/|title=Bradford City striker Nahki Wells watched by Burnley|date=24 April 2013|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt;
+
+In May 2013, Wells scored three goals across two legs to help Bradford City qualify for the League Two play-off final. The goals took his tally for the season to 25, a target he had set himself before the season begun.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10401252.Bradford_City_hero_Wells__I_m_saving_my_final_two_goals_of_season_for_Wembley/|title=Bradford City hero Nahki Wells: I'm saving my final two goals of season for Wembley|date=6 May 2013|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; He then scored in the final against Northampton Town, which Bradford won 3–0 to earn promotion to League One.&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/22491339 "Bradford 3–0 Northampton"] BBC Sport. 18 May 2013. Retrieved 19 May 2013.&lt;/ref&gt; Following the promotion, Wells stated he wished to stay at the club,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10429067.Wells_pledges_future_to_Bantams_after_promotion_success/|title=Nahki Wells: I'm going nowhere!|date=18 May 2013|author=Ross Heppenstall|work=Telegraph &amp; Argus}}&lt;/ref&gt; though the club later admitted they might sell the player if a suitable offer came in.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10429454.Bradford_City_hot_shot_Wells_could_be_sold_to_highest_bidder/|title=Nahki Wells under contract but Bradford City boss Phil Parkinson admits he is 'ready to field phone calls'|date=20 May 2013|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; Former City player [[John Hendrie (Scottish footballer)|John Hendrie]] advised Wells to remain at the club.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10443104.Bradford_City__Hendrie_advises_Wells_to_stay_put/|title=Bradford City: John Hendrie advises Nahki Wells to stay put|date=25 May 2013|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt;
+
+====2013–14 season====
+Ahead of the 2013–14 season, Wells spoke of his desire for another good cup run,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10488000.Bradford_City_striker_Wells_up_for_another_tilt_at_Wembley/|title=Bradford City striker Nahki Wells up for another tilt at Wembley|date=17 June 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; and his belief that the club could achieve a second successive promotion.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10572305.We_have_a_real_shot_at_double_promotion__says_Bradford_City_striker_Wells/|title=We have a real shot at double promotion, says Bradford City striker Nahki Wells|date=26 July 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; In June 2012, manager Phil Parkinson said that only a high-money bid would persuade the club to sell either Wells or fellow striker [[James Hanson (footballer born 1987)|James Hanson]].&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10502613.Bradford_City___Stupid__bids_only_for_crown_jewels_Wells_and_Hanson/|title=Bradford City: 'Stupid' bids only for crown jewels Nahki Wells and James Hanson|date=24 June 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; In July 2013, the club rejected a bid from [[Peterborough United F.C.|Peterborough United]],&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10537969.Bradford_City_reject_bid_for_Wells/|title=Bradford City reject bid for Nahki Wells|date=10 July 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; and later revealed that they had had no further offers for the player.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10601936.All_quiet_on_Bradford_City_frontman_Wells/|title=All quiet on Bradford City frontman Nahki Wells|date=9 August 2013|accessdate=10 August 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; In August 2013, Wells' strike partner Hanson spoke positively of his partnership with Wells.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10601939.Bradford_City_strike_pair_One_to_watch/|title=Bradford City strike pair James Hanson and Nahki Wells One to watch|date=9 August 2013|accessdate=10 August 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; On 24 August 2013, Wells scored two goals in a home match against Sheffield United; in the process he set a new club record by scoring in his eighth consecutive match, a feat which was praised by teammate James Hanson.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10633834.Hanson_thrilled_to_play_alongside_record_breaking_Bradford_City_forward_partner_Wells/|title=James Hanson thrilled to play alongside record-breaking Bradford City forward partner Nahki Wells|date=26 August 2013|accessdate=27 August 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; After the match the club re-stated that they would not sell Wells,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10633630.Parkin__Bradford_City_won_t_sell_Wells/|title=Parkin: Bradford City won't sell Wells|date=24 August 2013|accessdate=24 August 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10636891.Wells_is_going_nowhere__insists_Bradford_City_boss/|title=Nahki Wells is going nowhere, insists Bradford City boss Phil Parkinson|date=28 August 2013|accessdate=2 September 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10642811.Bradford_City_strike_sensation_Wells_staying__cool__amid_transfer_hype/|title=Bradford City strike sensation Nahki Wells staying 'cool' amid transfer hype|date=30 August 2013|accessdate=2 September 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; and later confirmed they had not received any bids for the player on transfer deadline day.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10647671.Bradford_City__We_ve_had_no_Wells_bids_today/|title=Bradford City: We've had no Wells bids today|date=2 September 2013|accessdate=2 September 2013|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; On 4 September 2013, Wells was nominated for the League One Player of the Month award,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10652473.Wells_nominated_for_Football_League_prize/|title=Bradford City striker Nahki Wells nominated for Football League prize|date=4 September 2013|accessdate=4 September 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; winning the award two days later.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10658455.Bantams_award_winner_Wells__Team_the_real_prize_guys/|title=Bantams League One player of month Nahki Wells says team the real prize guys|date=6 September 2013|accessdate=6 September 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; Wells has publicly praised his strike partnership with Hanson,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10671292.Bantams_hitman_Wells_on_why_he_and_Hanson_are_such_a_striking_combination/|title=Bantams hitman Nahki Wells gives the lowdown on why he and James Hanson are such a striking combination|date=13 September 2013|accessdate=13 September 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; as has journalist Simon Parker, who described them as "[one of] the best front pairs that League One has to offer."&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10816720.Bradford_City__Wells_plus_Hanson_equals_must_see_TV/|title=Bradford City: Nahki Wells plus James Hanson equals must-see TV|date=19 November 2013|accessdate=19 November 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; Of the 53 goals that Wells scored for Bradford City, 49 came when he was playing with Hanson.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10932591.Bradford_City__Death_of_a_double_act_but_Hanson_looks_to_the_future/|title=Bradford City: Death of a double act but James Hanson looks to the future after Nahki Wells departure|date=14 January 2014|accessdate=15 January 2014|author=Andrew Davies|publisher=Telegraph &amp; Argus}}&lt;/ref&gt;
+
+In late September 2013 Wells suffered ankle ligament damage in a match, and was ruled out for a number of weeks.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10709385.Nahki_Wells_suffers_ankle_ligament_damage/|title=Nahki Wells suffers ankle ligament damage|date=1 October 2013|accessdate=1 October 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; Manager Phil Parkinson stated he would not rush Wells back into play,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10751072.Bradford_City_boss_Parkinson_will_not_rush_Wells__comeback/|title=Bradford City boss Phil Parkinson will not rush Nahki Wells' comeback|date=21 October 2013|accessdate=24 October 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; Wells returned, after two months out, to score a hat-trick against Coventry City.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10815306.Wells_helps_Bradford_City_see_the_light/|title=Nahki Wells helps Bradford City see the light|date=18 November 2013|accessdate=18 November 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; In December 2013, club co-chairman [[Julian Rhodes]] admitted that the player might leave the club,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10852569.Chances_of_signing_Bradford_City_striker_Wells_on_new_long_term_deal_unlikely__admits_Rhodes/|title=Chances of signing Bradford City striker Nahki Wells on new long-term deal unlikely, admits Julian Rhodes|date=4 December 2013|accessdate=4 December 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; as rumours surrounding the player's possible departure began to increase.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10860925.Wells_rumour_mill_set_to_go_into_overdrive_but_Bantams_just_being_shrewd_in_keeping_bases_open/|title=Nahki Wells rumour mill set to go into overdrive but Bantams just being shrewd in keeping their bases open|date=7 December 2013|accessdate=8 December 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; That same month, colleague Andrew Davies described Wells and Hanson as the best strike pair in the division,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10858057.Wells_and_Hanson_a_deadly_double_act_for_Bradford_City/|title=Nahki Wells and James Hanson a deadly double act for Bradford City|date=6 December 2013|accessdate=8 December 2013|author=Andrew Davies|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; and Davies also urged Wells to remain with the club,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10857668.Davies__Wells_can_achieve_ambitions_staying_at_Bradford_City/|title=Andrew Davies: Nahki Wells can achieve ambitions staying at Bradford City|date=6 December 2013|accessdate=8 December 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; while manager Phil Parkinson said that he did not want the club to sell the player.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10878682.I_m_hoping_for_an_offer_we_can_refuse__Bantams_boss_keeping_his_fingers_crossed_no_mega_bucks_bids_come_in_for_Wells/|title=I'm hoping for an offer we can refuse! Bantams boss keeping his fingers crossed no mega-bucks bids come in for Nahki Wells|date=16 December 2013|accessdate=17 December 2013|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; Wells picked up an injury at the end of December 2013,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10904645.Bradford_City_hopeful_on_Wells_injury/|title=Bradford City hopeful on Wells injury|date=30 December 2013|accessdate=2 January 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; and at the start of the January 2014 transfer window, manager Phil Parkinson said he wanted any transfer issues sorted quickly.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10908244.I_don___t_want_to_play_waiting_game_over_Wells_in_transfer_window__says_Bradford_City_boss/|title=Nahki Wells in transfer window, says Bradford City boss Phil Parkinson|date=2 January 2014|accessdate=2 January 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; The next day, 3 January 2014, the club announced that they had already rejected one offer for the player,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10911090.Bradford_City_refuse_first_Wells_offer/|title=Bradford City refuse first January offer for Nahki Wells|date=3 January 2014|accessdate=3 January 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; after saying that Wells has been receiving interest from a number of [[Premier League]] clubs,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10919235.Bradford_City_striker_Wells_attracting_Premier_interest/|title=Bradford City striker Nahki Wells attracting Premier interest|date=8 January 2014|accessdate=8 January 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; as well as Championship side Burnley.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10922609.Burnley_latest_club_to_be_linked_with_Bradford_City_hot_shot_Wells/|title=Burnley latest club to be linked with Bradford City hot-shot Nahki Wells|date=9 January 2014|accessdate=9 January 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; The club also said they would lose £1&amp;nbsp;million for the 2013–14 season if they did not sell Wells.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10913274.Nahki_Wells_future_a_dilemma_for_Bradford_City_finances/|title=Nahki Wells future a dilemma for Bradford City finances|date=4 January 2014|accessdate=5 January 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; Despite all the speculation, Parkinson said he felt Wells would be able to ignore off-the-field matters and concentrate on his playing,&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10914932.Parkinson_sure_in_demand_Wells_will_not_let_Bradford_City_down/|title=Phil Parkinson sure in-demand Nahki Wells will not let Bradford City down|date=6 January 2014|accessdate=7 January 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; though he later admitted that the player was being affected by the rumours.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10927726.Bradford_City_boss_says_speculation_affecting_Nahki_Wells/|title=Bradford City boss Phil Parkinson says speculation affecting form of Nahki Wells|date=10 January 2014|accessdate=10 January 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt;
+
+===Huddersfield Town===
+On 10 January 2014, Wells signed a four-and-a-half-year contract with [[Huddersfield Town A.F.C.|Huddersfield Town]] after transferring for an undisclosed club record fee.&lt;ref&gt;{{cite web|url=http://www.htafc.com/news/article/first-team-news-nahki-wells-signs-1286689.aspx|title=TERRIERS SIGN WELLS|date=10 January 2014|accessdate=10 January 2014|publisher=Huddersfield Town A.F.C.}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.bradfordcityfc.co.uk/news/article/wells-moves-to-huddersfield-town-1285097.aspx|title=Wells moves to Huddersfield|date=10 January 2014|accessdate=10 January 2014|publisher=Bradford City A.F.C.}}&lt;/ref&gt; The deal was initially completed a one-game loan deal, to allow time for the paperwork for the permanent move to be completed.&lt;ref name = "loan1"&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10928586.Huddersfield_boss_plays_down_Wells_transfer_talk/|title=UPDATED: Wells joins Huddersfield from Bradford City|date=10 January 2014|accessdate=10 January 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt;&lt;ref name = "loan2"&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/25682217|title=Transfer window: Huddersfield sign Bradford's Nahki Wells|date=10 January 2014|accessdate=10 January 2014|publisher=BBC Sport}}&lt;/ref&gt; Wells was criticised by a section for moving from Bradford City to a team considered a rival.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10930446.Bradford_City_fans_urged_to_respect_departing_Wells____ambition/|title=Bradford City fans urged to respect departing Nahki Wells' ambition|date=11 January 2014|accessdate=12 January 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt; On 11 January 2014, Wells made his Huddersfield Town debut, appearing as a substitute in the 55th minute, and scoring the winning goal in a 1–0 home victory against [[Millwall F.C.|Millwall]], less than 24 hours after joining the club.&lt;ref&gt;{{cite web|url=http://www.yorkshirepost.co.uk/sport/football/huddersfield/huddersfield-1-millwall-0-wells-nets-winner-on-debut-1-6367394|title=Huddersfield 1 Millwall 0: Wells nets winner on debut|date=11 January 2014|accessdate=12 January 2014|publisher=Yorkshire Post}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10931519.Robins_hails__absolute_snip__Nahki_Wells__winning_strike/|title=Mark Robins hails 'absolute snip' Nahki Wells' winning strike|date=13 January 2014|accessdate=13 January 2014|publisher=Telegraph &amp; Argus}}&lt;/ref&gt;
+
+Wells ended his first full-season with Huddersfield Town as the club's top scorer with 14 goals.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/teams/huddersfield-town/top-scorers|title=Top Scorers – Huddersfield Town – Football|website=BBC Sport}}&lt;/ref&gt; At the end of the 2016–17 season, former club Bradford City received a £250,000 bonus payment following Huddersfield's promotion to the Premier League.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/15278097.Wells_windfall_waits_for_Bantams___if_Huddersfield_go_up/|title=Wells windfall waits for Bantams – if Huddersfield go up|website=Bradford Telegraph and Argus}}&lt;/ref&gt;
+
+===Burnley===
+Wells, in the final year of his contract with Huddersfield, signed a three-year deal with [[Burnley F.C.|Burnley]] for £5&amp;nbsp;million on 31 August 2017.&lt;ref&gt;{{cite web|last1=Ferrington|first1=Juliette|title=Nahki Wells: Burnley sign striker from Huddersfield|url=https://www.bbc.co.uk/sport/football/41098534|website=BBC Sport|accessdate=31 August 2017|date=31 August 2017}}&lt;/ref&gt;
+
+===Queens Park Rangers===
+On 23 August 2018, Wells signed for [[EFL Championship|Championship]] side [[Queens Park Rangers F.C.|Queens Park Rangers]] on a season-long loan.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45286047|title=QPR: Brighton's Tomer Hemed and Burnley's Nahki Wells join on loan|date=23 August 2018|accessdate=24 August 2018|publisher=BBC Sport}}&lt;/ref&gt; He scored his first goal for QPR against [[Sheffield Wednesday]] on 23 October 2018.&lt;ref name = "2018-19"/&gt;
+
+==International career==
+Wells made his international debut for [[Bermuda national football team|Bermuda]] in 2007.&lt;ref name = "NFT"/&gt;
+
+Wells also made four unofficial international appearances for Bermuda in the [[International Island Games Association|2007 Island Games]].&lt;ref&gt;{{cite web|url=http://www.rhodesresults2007.com/Competitor.aspx?RegID=9486|title=Nahki Wells|accessdate=21 December 2010|publisher=NatWest Island Games XII}}&lt;/ref&gt;
+
+In late August 2011, Wells was recalled by Bermuda, joining their squad for FIFA World Cup qualifying matches in early September 2011.&lt;ref&gt;{{cite web|url=http://www.bradfordcityfc.co.uk/page/News/0,,10266~2429353,00.html|title=Wells given Bermuda call up|accessdate=23 August 2011|date=23 August 2011|publisher=Bradford City A.F.C.|deadurl=yes|archiveurl=https://web.archive.org/web/20120905185218/http://www.bradfordcityfc.co.uk/page/News/0,,10266~2429353,00.html|archivedate=5 September 2012|df=dmy-all}}&lt;/ref&gt; Wells appeared in five 2014 FIFA World Cup qualifying matches for Bermuda,&lt;ref&gt;{{FIFA player|295034}}&lt;/ref&gt; against [[Barbados national football team|Barbados]], [[Guyana national football team|Guyana]] and [[Trinidad and Tobago national football team|Trinidad and Tobago]].
+
+Wells was described as "one of Bermuda's most promising players, with an exceptionally bright future" in February 2012 by then Sports Minister [[Glenn Blakeney]],&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/9514779.Wells_doing_his_bit_for_club_and_country/|title=Bradford City striker Nahki Wells happy to be role model if it helps develop Bermuda football|date=7 February 2012|author=Simon Parker|work=Telegraph &amp; Argus}}&lt;/ref&gt; and was honoured by Premier [[Craig Cannonier]] in June 2013.&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10464826.Wells_honoured_for_Bradford_City_exploits/|title=Nahki Wells honoured after Bradford City exploits|date=5 June 2013|author=Ross Heppenstall|work=Telegraph &amp; Argus}}&lt;/ref&gt; He has been described as the country's "star footballer".&lt;ref&gt;{{cite web|url=http://www.thetelegraphandargus.co.uk/sport/sportbcfc/10916913.Bermuda_crazy_for_news_of_Bradford_City_striker_Wells/|title=Bermuda crazy for news of Bradford City striker Nahki Wells|date=7 January 2014|accessdate=7 January 2014|author=Simon Parker|publisher=Telegraph &amp; Argus}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 2 March 2019}}
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+|[[Bermuda Hogges F.C.|Bermuda Hogges]]
+|[[2010 PDL season|2010]]&lt;ref name = "BH2010"/&gt;
+|[[USL Premier Development League|USL PDL]]
+|9||2||colspan=2|—||colspan=2|—||colspan=2|—||9||2
+|-
+|[[Carlisle United F.C.|Carlisle United]]
+|[[2010–11 Carlisle United F.C. season|2010–11]]&lt;ref&gt;{{soccerbase season|58194|2010|accessdate=25 October 2014}}&lt;/ref&gt;
+|[[EFL League One|League One]]
+|3||0||colspan=2|—||colspan=2|—||colspan=2|—||3||0
+|-
+|rowspan=4|[[Bradford City A.F.C.|Bradford City]]
+|[[2011–12 Bradford City A.F.C. season|2011–12]]&lt;ref&gt;{{soccerbase season|58194|2011|accessdate=25 October 2014}}&lt;/ref&gt;
+|[[EFL League Two|League Two]]
+|33||10||3||2||0||0||1&lt;ref group=lower-alpha name=FLT&gt;Appearance in [[EFL Trophy|Football League Trophy]]&lt;/ref&gt;||0||37||12
+|-
+|[[2012–13 Bradford City A.F.C. season|2012–13]]&lt;ref name = "2012-13"&gt;{{soccerbase season|58194|2012|accessdate=19 March 2016}}&lt;/ref&gt;
+|League Two
+|39||18||3||1||7||3||5&lt;ref group=lower-alpha name=BRA&gt;Three appearances and four goals in [[EFL League Two play-offs|League Two play-offs]], two appearances in Football League Trophy&lt;/ref&gt;||4||54||26
+|-
+|[[2013–14 Bradford City A.F.C. season|2013–14]]&lt;ref name = "2013-14"&gt;{{soccerbase season|58194|2013|accessdate=25 October 2014}}&lt;/ref&gt;
+|League One
+|19||14||1||0||1||1||0||0||21||15
+|-
+!colspan=2|Total
+!91||42||7||3||8||4||6||4||112||53
+|-
+|rowspan=5|[[Huddersfield Town A.F.C.|Huddersfield Town]]
+|[[2013–14 Huddersfield Town A.F.C. season|2013–14]]&lt;ref name = "2013-14"/&gt;
+|Championship
+|22||7||colspan=2|—||colspan=2|—||colspan=2|—||22||7
+|-
+|[[2014–15 Huddersfield Town A.F.C. season|2014–15]]&lt;ref&gt;{{soccerbase season|58194|2014|accessdate=25 October 2014}}&lt;/ref&gt;
+|Championship
+|35||11||1||0||1||3||colspan=2|—||37||14
+|-
+|[[2015–16 Huddersfield Town A.F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|58194|2015|accessdate=13 February 2017}}&lt;/ref&gt;
+|Championship
+|44||17||2||1||1||0||colspan=2|—||47||18
+|-
+|[[2016–17 Huddersfield Town A.F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|58194|2016|accessdate=13 February 2017}}&lt;/ref&gt;
+|Championship
+|43||10||1||0||0||0||3&lt;ref group=lower-alpha&gt;Appearances in [[EFL Championship play-offs|Championship play-offs]]&lt;/ref&gt;||0||47||10
+|-
+!colspan=2|Total
+!144||45||4||1||2||3||3||0||153||49
+|-
+|rowspan=3|[[Burnley F.C.|Burnley]]
+|[[2017–18 Burnley F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|58194|2017|accessdate=11 February 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|9||0||1||0||0||0||colspan=2|—||10||0
+|-
+|[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name = "2018-19"&gt;{{soccerbase season|58194|2018|accessdate=12 August 2018}}&lt;/ref&gt;
+|Premier League
+|0||0||colspan=2|—||0||0||0||0||0||0
+|-
+!colspan=2|Total
+!9||0||1||0||0||0||0||0||10||0
+|-
+|[[Queens Park Rangers F.C.|Queens Park Rangers]] (loan)
+|[[2018–19 Queens Park Rangers F.C. season|2018–19]]&lt;ref name = "2018-19"/&gt;
+|Championship
+|31||6||3||2||0||0||colspan=2|—||34||8
+|-
+!colspan=3|Career total
+!287||95||15||6||10||7||9||4||321||112
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 16 November 2018}}&lt;ref name = "NFT"/&gt;
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by national team and year
+|-
+!National team||Year||Apps||Goals
+|-
+|rowspan=5|[[Bermuda national football team|Bermuda]]
+|2007||1||0
+|-
+|2008||1||0
+|-
+|2011||5||2
+|-
+|2015||2||3
+|-
+|2018||1||1
+|-
+!colspan=2|Total||10||6
+|}
+
+===International goals===
+:''As of match played 16 November 2018. Scores and results list Bermuda's goal tally first.''&lt;ref&gt;{{cite web |title=Nahki Wells |url=http://caribbeanfootballdatabase.com/bermuda/players/nahkiwells.html |work=Caribbean Football Database |accessdate=18 May 2013}}&lt;/ref&gt;
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|&lt;center&gt;1&lt;/center&gt;
+|7 October 2011 ||[[Bermuda National Stadium]], [[Devonshire Parish]], Bermuda||&lt;center&gt;5&lt;/center&gt; || {{fb|TRI}} || &lt;center&gt;2–0&lt;/center&gt; || &lt;center&gt;2–1&lt;/center&gt; || rowspan=2| [[2014 FIFA World Cup qualification – CONCACAF Second Round|2014 FIFA World Cup qualification]]
+|-
+!scope=row|&lt;center&gt;2&lt;/center&gt;
+|14 November 2011 ||Bermuda National Stadium, Devonshire Parish, Bermuda||&lt;center&gt;7&lt;/center&gt;|| {{fb|BRB}} || &lt;center&gt;1–0&lt;/center&gt; ||&lt;center&gt;2–1&lt;/center&gt;
+|-
+!scope=row|&lt;center&gt;3&lt;/center&gt;
+|25 March 2015 || [[Thomas Robinson Stadium]], [[Nassau, Bahamas|Nassau]], Bahamas ||&lt;center&gt;8&lt;/center&gt;||rowspan=3|{{fb|BAH}} || &lt;center&gt;2–0&lt;/center&gt; || &lt;center&gt;5–0&lt;/center&gt; || rowspan=3| [[2018 FIFA World Cup qualification – CONCACAF First Round|2018 FIFA World Cup qualification]]
+|-
+!scope=row|&lt;center&gt;4&lt;/center&gt;
+|rowspan=2| 29 March 2015 || rowspan=3| Bermuda National Stadium, Devonshire Parish, Bermuda||rowspan=2|&lt;center&gt;9&lt;/center&gt;||&lt;center&gt;1–0&lt;/center&gt; || rowspan=2| &lt;center&gt;3–0&lt;/center&gt;
+|-
+!scope=row|&lt;center&gt;5&lt;/center&gt;
+|&lt;center&gt;3–0&lt;/center&gt;
+|-
+!scope=row|&lt;center&gt;6&lt;/center&gt;
+|16 November 2018 || &lt;center&gt;10&lt;/center&gt;||{{fb|SLV}} || &lt;center&gt;1–0&lt;/center&gt; || &lt;center&gt;1–0&lt;/center&gt; ||[[2019–20 CONCACAF Nations League qualifying|2019–20 CONCACAF Nations League qualification]]
+|}
+
+==Honours==
+'''Bradford City'''
+*[[Football League Two play-offs]]: [[2013 Football League play-offs#League Two|2013]]&lt;ref name = "2012-13"/&gt;
+*[[Football League Cup]] runner-up: [[2012–13 Football League Cup|2012–13]]&lt;ref name=SW/&gt;
+
+'''Huddersfield Town'''
+*[[EFL Championship play-offs]]: [[2017 English Football League play-offs#Championship|2017]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39995791 |title=Huddersfield Town 0–0 Reading |first=Ian |last=Woodcock |publisher=BBC Sport |date=29 May 2017 |accessdate=26 May 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.burnleyfootballclub.com/teams/first-team/forward/nahki-wells/ Nahki Wells profile] at the Burnley F.C. website
+*{{Soccerbase}}
+
+{{Huddersfield Town A.F.C. Player of the Year}}
+&lt;!-- {{Burnley F.C. squad}} --&gt;
+{{Queens Park Rangers F.C. squad}}
+
+{{DEFAULTSORT:Wells, Nahki}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:People from Hamilton, Bermuda]]
+[[Category:Bermudian footballers]]
+[[Category:Bermuda international footballers]]
+[[Category:Association football forwards]]
+[[Category:Dandy Town Hornets players]]
+[[Category:Bermuda Hogges players]]
+[[Category:Eccleshill United F.C. players]]
+[[Category:Carlisle United F.C. players]]
+[[Category:Bradford City A.F.C. players]]
+[[Category:Huddersfield Town A.F.C. players]]
+[[Category:Burnley F.C. players]]
+[[Category:Queens Park Rangers F.C. players]]
+[[Category:USL League Two players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:Bermudian expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Bermudian expatriates in the United Kingdom]]</text>
+      <sha1>mli2v08ew96l7qplw0k05mcsctm9u5x</sha1>
+    </revision>
+  </page>
+</mediawiki>

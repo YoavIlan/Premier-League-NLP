@@ -1,0 +1,392 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Stephan Lichtsteiner</title>
+    <ns>0</ns>
+    <id>3497944</id>
+    <revision>
+      <id>884924160</id>
+      <parentid>881876886</parentid>
+      <timestamp>2019-02-24T21:58:13Z</timestamp>
+      <contributor>
+        <ip>82.11.161.249</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="44065">{{Use dmy dates|date=June 2018}}
+{{Infobox football biography
+| name           = Stephan Lichtsteiner
+| image          = Stephan Lichtsteiner 2018 (cropped).jpg
+| image_size     =
+| caption        = Lichtsteiner with [[Switzerland national football team|Switzerland]] at the [[2018 FIFA World Cup]]
+| fullname       = Stephan Lichtsteiner&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/844127 |title=2018/19 Premier League squads confirmed |publisher=Premier League |date=3 September 2018 |accessdate=4 September 2018}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1984|1|16|df=y}}&lt;ref&gt;{{cite web |url=https://www.fifadata.com/document/fwc/2014/pdf/fwc_2014_squadlists.pdf |title=2014 FIFA World Cup Brazil: List of players: Switzerland |publisher=FIFA |format=PDF |page=30 |date=14 July 2014 |accessdate=4 September 2018}}&lt;/ref&gt;
+| birth_place    = [[Adligenswil]], Switzerland
+| height         = 1.82 m&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/5520/Stephan-Lichtsteiner/overview |title=Stephan Lichtsteiner: Overview |publisher=Premier League |accessdate=8 January 2019}}&lt;/ref&gt;
+| position       = [[Defender (association football)#Full-back|Right-back]] &lt;br&gt; [[Defender (association football)#Wing-back|Right wing-back]] &lt;br&gt; [[Midfielder#Winger|Right midfielder]]
+| currentclub    = [[Arsenal F.C.|Arsenal]]
+| clubnumber     = 12
+| youthyears1    = 1991–1996 | youthclubs1    = FC Adligenswil
+| youthyears2    = 1996–2000 | youthclubs2    = [[FC Luzern|Luzern]]
+| youthyears3    = 2000–2001 | youthclubs3    = [[Grasshopper Club Zürich|Grasshopper]]
+| years1         = 2001–2005 |clubs1 = [[Grasshopper Club Zürich|Grasshopper]] |caps1 = 79  |goals1 = 4
+| years2         = 2005–2008 |clubs2 = [[Lille OSC|Lille]]                     |caps2 = 89  |goals2 = 5
+| years3         = 2008–2011 |clubs3 = [[S.S. Lazio|Lazio]]                    |caps3 = 100 |goals3 = 3
+| years4         = 2011–2018 |clubs4 = [[Juventus F.C.|Juventus]]              |caps4 = 201 |goals4 = 12
+| years5         = 2018–     |clubs5 = [[Arsenal F.C.|Arsenal]]                |caps5 = 12   |goals5 = 0
+| nationalyears1 = 2003–2005
+| nationalyears2 = 2006–
+| nationalteam1  = [[Switzerland national under-21 football team|Switzerland U21]]
+| nationalteam2  = [[Switzerland national football team|Switzerland]]
+| nationalcaps1  = 30
+| nationalcaps2  = 104
+| nationalgoals1 = 1
+| nationalgoals2 = 8
+| club-update = 22:22, 24 February 2019 (UTC)
+| nationalteam-update = 11 September 2018
+}}
+'''Stephan Lichtsteiner''' ({{IPA-de|lɪçtʃtaɪnər}}; born 16 January 1984) is a Swiss professional [[Association football|footballer]] who plays for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and [[Captain (association football)|captains]] the  [[Switzerland national football team|Switzerland national team]]. An attacking [[Defender (association football)#Full-back|right-back]] or [[Defender (association football)#Wing-back|wing-back]], he is known for his energetic runs down the [[Midfielder#Winger|right wing]], as well as his stamina and athleticism, which have earned him the nicknames "[[Forrest Gump]]" and "The Swiss [[Express train|Express]]".&lt;ref name="champ"/&gt;
+
+He began his professional career with [[Grasshopper Club Zürich|Grasshopper]], winning a league title in 2002–03, and moved to [[Lille OSC|Lille]] in 2005, helping the French club to Champions League qualification in his first season with the team. In 2008, he joined Italian club [[S.S. Lazio|Lazio]], and won both the [[Coppa Italia]] and [[Supercoppa Italiana]] the following year. In 2011, he signed for [[Juventus F.C.|Juventus]] for a fee of €10 million. He played 257 total games for the Turin side over seven years and won 14 trophies, including the [[Serie A]] title in each of his seasons with the team. In the summer of 2018, he was signed by Arsenal.
+
+A full international since 2006, Lichtsteiner has earned over [[100 caps]] for Switzerland, making him their third most capped player of all time. He has represented his country at two [[UEFA European Championship]]s and three [[FIFA World Cup]]s.
+
+==Early years==
+Lichtsteiner was born in [[Adligenswil]], [[Canton of Lucerne]] and played for the local football club. He left home as a teenager to play for [[Grasshopper Zürich]] and made his first team debut in [[2001–02 Nationalliga A|2001–02]] in the former Nationalliga A (now the [[Swiss Super League]]) but only made one league appearance. The following season, he began to establish himself as a first team regular and helped the club to the league title. While living in [[Zürich]] he completed a banking apprenticeship with [[Credit Suisse]] but ultimately chose a career in football.&lt;ref&gt;{{cite news|title=The Down-to-Earth Powerhouse|url=https://www.credit-suisse.com/sg/en/about-us/sponsorship/football/news.article.html/article/pwp/news-and-expertise/2013/10/en/portrait-lichtsteiner.html|publisher=[[Credit Suisse|credit-suisse.com]]|date=15 October 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20140714141048/https://www.credit-suisse.com/sg/en/about-us/sponsorship/football/news.article.html/article/pwp/news-and-expertise/2013/10/en/portrait-lichtsteiner.html|archivedate=14 July 2014}}&lt;/ref&gt;
+
+==Club career==
+===Lille===
+During the 2004–05 season Lichtsteiner sealed a transfer to [[Lille OSC]] as one of five Swiss players to enter [[Ligue 1]] during the summer of 2005. He became a regular in his first season and helped Lille to a third-place finish to secure a Champions League spot. His last season ended disappointingly as Lille finished seventh in the league and missed out on European football next season just by a point. However he did end with 4 goals, his highest tally so far.&lt;ref&gt;{{cite news|title=Lichtsteiner: We can progress|url=https://www.fifa.com/worldfootball/clubfootball/news/newsid=758086.html|publisher=[[FIFA|fifa.com]]|date=2 May 2008}}&lt;/ref&gt;
+
+===Lazio===
+After some good performances at [[UEFA Euro 2008]], several clubs, including [[Paris Saint-Germain F.C.|Paris Saint-Germain]] and [[Everton F.C.|Everton]], expressed interest in signing Lichtsteiner.&lt;ref&gt;{{cite news|title=Lichtsteiner vers la Lazio|url=https://www.lequipe.fr/Football/breves2008/20080717_152319_lichtsteiner-vers-la-lazio_Dev.html|archive-url=https://archive.is/20120703012343/http://www.lequipe.fr/Football/breves2008/20080717_152319_lichtsteiner-vers-la-lazio_Dev.html|dead-url=yes|archive-date=3 July 2012|publisher=[[L'Équipe]]|date=17 July 2008|language=French}}&lt;/ref&gt; He rejected PSG's bid and, in July, signed a four-year contract with Italian side [[S.S. Lazio]] for an undisclosed fee believed to be in the region of €1.5 million&lt;ref&gt;{{cite web|url=http://www.piazzadellaliberta.it/2008/07/16/calciomercato-lazio-preso-lichtsteiner/#more-8381|title=Calciomercato Lazio: preso Lichtsteiner|work=piazzadellalibertà.it|accessdate=16 July 2008 |archiveurl = https://web.archive.org/web/20080717012353/http://www.piazzadellaliberta.it/2008/07/16/calciomercato-lazio-preso-lichtsteiner/#more-8381 &lt;!-- Bot retrieved archive --&gt; |archivedate = 17 July 2008|language=it}}&lt;/ref&gt; as a replacement for fellow Swiss international [[Valon Behrami]], who went to [[West Ham United]].&lt;ref&gt;{{cite news|title=Lazio è arrivato lo svizzero Lichtsteiner|url=http://www.corrieredellosport.it/Notizie/Calcio/36704/Lazio%2C+%C3%A8+arrivato+lo+svizzero+Lichtsteiner|publisher=Corriere Dello Sport|date=16 July 2008|language=Italian}}{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; In the April [[Derby della Capitale]] against cross-city rivals [[A.S. Roma|Roma]], he scored his first goal to put Lazio 3–1 up in a heated derby encounter, which ended in a 4–2 win to Lazio, and resulted in numerous bookings.&lt;ref&gt;{{cite news|title=Championnat d'Italie: Lichtsteiner à la fête dans le derby romain|url=http://www.lematin.ch/flash-info/sport/championnat-italie-lichtsteiner-fete-derby-romain|publisher=[[Le Matin (Switzerland)|Le Matin]]|date=11 April 2009|language=French}}&lt;/ref&gt; Lichtsteiner himself was also booked for a heated confrontation with Roma defender [[Christian Panucci]], after the Italian had fouled him.&lt;ref&gt;{{cite web|url=http://sports.espn.go.com/espnmag/story?id=4070089|title=WGATU: Rivalries boil-over on the pitch|work=ESPN.com}}&lt;/ref&gt; During the season, Lichtsteiner formed an attacking tandem down the flanks with Serbian international full-back [[Aleksandar Kolarov]] on the other side of the pitch. Although Lazio finished tenth, they ended the season on a high by winning the [[2008–09 Coppa Italia|Coppa Italia]], and thus earning a place in the [[UEFA Europa League]] the next season. He played a part in Lazio's successful campaign, scoring in the penalty shoot-out against [[U.C. Sampdoria|Sampdoria]] in the [[2009 Coppa Italia Final|final]], and also claimed the [[Supercoppa Italiana]] at the beginning of the next season. After Kolarov's departure, his future at Lazio became increasingly in doubt, as several clubs expressed interest in him. At the end of the 2010–11 season, he opted not to see out the final year of his contract, despite the ''Biancocelesti'' qualifying for the Europa League.&lt;ref&gt;{{cite news|title=Conte key for Lichtsteiner|url=http://soccernet.espn.go.com/news/story/_/id/930775/stephan-lichtsteiner-says-antonio-conte-was-key-to-juventus-switch?cc=3436|publisher=[[ESPN Soccernet]]|date=28 June 2011}}&lt;/ref&gt;
+
+===Juventus===
+[[File:Stephan Lichtsteiner'13.JPG|thumb|upright|Lichtsteiner playing for Juventus in December 2013]]
+On 27 June 2011, [[Juventus F.C.|Juventus]] confirmed that Lichtsteiner had undergone a medical in [[Turin]] and reached an agreement with Lazio to pay €10 million in three installments.&lt;ref&gt;{{cite news|title=Lichtsteiner non-ha dubbi "La Juve è sempre la Juve"|url=http://www.gazzetta.it/Calcio/SerieA/Juventus/10-07-2011/lichtsteiner-non-ha-dubbi-801947977793.shtml|publisher=[[La Gazzetta dello Sport]]|date=10 July 2011|language=Italian}}&lt;/ref&gt; The transfer was confirmed on 1 July 2011. He marked his debut on 11 September 2011 against [[Parma F.C.|Parma]] by scoring the first goal in the 4–1 home victory, the first league goal to be scored in Juventus' new [[Juventus Stadium|stadium]].&lt;ref&gt;{{cite web|title=Juventus Stadium|url=http://www.uefa.com/uefaeuropaleague/news/newsid=1966779.html|publisher=UEFA.com|date=24 June 2013|accessdate=3 January 2016}}&lt;/ref&gt;
+Juventus went on to win the ''Scudetto'' and he played a vital part in their strong defensive record, only missing a handful of matches through injury and suspensions.&lt;ref name="champ"&gt;{{cite news|title=Champions of Italy: Stephan Lichtsteiner|url=http://www.juventus.com/juve/en/news/7june2012_lich_campioni|publisher=juventus.com|date=7 June 2012}}&lt;/ref&gt;
+Lichtsteiner repeated his opening matchday feat the following season by converting his left-sided counterpart [[Kwadwo Asamoah]]'s pass in the 2–0 win.&lt;ref&gt;{{cite news|title=Lightning strikes twice for Lichtsteiner|url=http://www.juventus.com/juve/en/news/25ago2012_licht_eng|publisher=juventus.com|date=26 August 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120828062342/http://www.juventus.com/juve/en/news/25ago2012_licht_eng|archivedate=28 August 2012}}&lt;/ref&gt; He played fewer matches during [[2013–14 Serie A|2013–14 season]] due to injuries but contributed three goals in all competitions and won his third consecutive [[Serie A]] title. His [[Cross (football)|crossing]] and ball-playing ability from the right flank, as well as his ability to make attacking runs to get on the end of [[Andrea Pirlo]]'s long passes, came to the fore as a right-sided wing-back in [[Antonio Conte|Conte's]] [[Formation (association football)#3–5–2|3–5–2 formation]].&lt;ref name="Lichtsteiner is vital to Juventus"&gt;{{cite web|url=http://www.espn.com/soccer/blog/name/93/post/2152566/headline|title=Stephan Lichtsteiner is vital to Juventus' style of play|publisher=ESPN FC|author1=Mina Rzouki|date=19 November 2014|accessdate=20 February 2018}}&lt;/ref&gt; As a result, he finished the season as Juventus's top assist-maker in the league, alongside [[Paul Pogba]], with eight.&lt;ref&gt;{{cite web|url=https://www.foxsports.com/soccer/juventus-team-stats?competition=3&amp;season=2013&amp;category=STANDARD|title=2013-14 Juventus Serie A Statistics and Leaders: Standard|publisher=Fox Sports|accessdate=20 February 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.juventus.com/it/squadre/prima-squadra/difensori/stephan-lichtsteiner/index.php|title=Stephan Lichtsteiner|publisher=juventus.com}}&lt;/ref&gt;
+
+On 6 June 2015, Lichtsteiner started for Juventus in the [[2015 UEFA Champions League Final]] as the team were defeated 3–1 by [[FC Barcelona|Barcelona]] at Berlin's [[Olympiastadion Berlin|Olympiastadion]]; he was involved in [[Álvaro Morata]]'s temporary equalising goal.&lt;ref&gt;{{cite news|url=http://www.uefa.com/uefachampionsleague/season=2015/matches/round=2000552/match=2015227/postmatch/report/index.html|title=Barcelona see off Juventus to claim fifth title|date=6 June 2015|work=UEFA}}&lt;/ref&gt; On 23 September 2015, Lichtsteiner was substituted at half time during a league match against [[Frosinone Calcio|Frosinone]] due to breathing difficulty. It was later necessary for heart surgery to be performed to correct [[cardiac arrhythmia]], which caused him to be out for a month.&lt;ref&gt;{{cite web|url=http://www.football-italia.net/73851/surgeon-one-month-lichtsteiner|title=Surgeon: 'One month for Lichtsteiner' - Football Italia|publisher=}}&lt;/ref&gt; On 3 November 2015, Lichtsteiner returned from injury, starting against [[Borussia Mönchengladbach]] in the [[2015–16 UEFA Champions League group stage#Group D|2015–16 Champions League]] and scoring the equalizing goal in the 44th minute of a 1–1 away draw;&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2015/nov/04/juventus-stephan-lichsteiner-heart-surgery-return-goal|title=Juventus' Stephan Lichtsteiner marks heart surgery return with volleyed goal|publisher=The Guardian|date=4 November 2015|accessdate=5 November 2015}}&lt;/ref&gt; the goal was later voted one of the best goals of the tournament that season.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2391294.html|title=Top ten goals of the 2015/16 Champions League|publisher=UEFA.com|date=18 July 2016|accessdate=18 July 2016}}&lt;/ref&gt;
+
+At the beginning of the 2016–17 season, Lichtsteiner was excluded from Juventus's squad for the [[2016–17 UEFA Champions League|UEFA Champions League]] group stage;&lt;ref&gt;{{cite web|url=http://www.juventus.com/en/news/news/2016/juventus-submits-champions-league-squad.php|title=Juventus submits Champions League squad|publisher=Juventus F.C.|date=1 September 2016|access-date=24 December 2016}}&lt;/ref&gt; this was due to the fact that the club had signed rightback [[Dani Alves]], and had already filled their squad quota, as Juventus were also required to have four club youth products in the 25-men squad, even though initially the only former youth product in the first team was [[Claudio Marchisio]]. Thus, Lichtsteiner was excluded to make way for other players.&lt;ref&gt;{{cite web|url=http://www.juventus.com/en/news/news/2016/marotta-analyses--satisfying--summer-.php|title=Marotta analyses 'satisfying' summer|publisher=Juventus F.C.|date=8 September 2016|accessdate=2 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/news/newsid=2400510.html|title=UEFA Champions League squads: how it works|publisher=UEFA.com|date=1 September 2016|accessdate=2 February 2017}}&lt;/ref&gt; Juventus had also re-signed [[Juan Cuadrado]] on loan, which meant that Lichsteiner would face competition for the starting right fullback/wingback/winger position, leading to rumours that he would be leaving the club; nevertheless, he later stated that he would be remaining with Juventus.&lt;ref&gt;{{cite web|url=http://www.espnfc.us/juventus/story/2942565/juventus-omit-stephan-lichsteiner-from-champions-league-squad|title=Juventus omit Stephan Lichsteiner from Champions League squad|publisher=ESPN FC|author1=Ben Gladwell|date=2 September 2016|accessdate=2 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.football-italia.net/90772/lichtsteiner-pledges-juve|title=Lichtsteiner pledges to Juve|publisher=Football Italia|date=1 September 2016|accessdate=2 February 2017}}&lt;/ref&gt; Despite competition for a starting spot, Lichtsteiner took part in the [[2016 Supercoppa Italiana]] on 23 December 2016, as one of the starting eleven, as Juventus lost to [[A.C. Milan|Milan]] on penalties.&lt;ref&gt;{{cite web|url=http://www.football-italia.net/96104/milan-beat-juve-super-cup-shoot-out|title=Milan beat Juve in Super Cup shoot-out|publisher=Football Italia|date=23 December 2016|accessdate=2 February 2017}}&lt;/ref&gt; On 2 February 2017, Lichsteiner renewed his contract until 30 June 2018.&lt;ref&gt;{{cite web|url=http://www.football-italia.net/97815/lichtsteiner-renews-juventus|title=Lichtsteiner renews with Juventus|publisher=Football Italia|date=2 February 2017|accessdate=2 February 2017}}&lt;/ref&gt;
+
+On 7 March 2018, Lichtsteiner made his 250th appearance for Juventus in a 2–1 win over [[Tottenham Hotspur F.C.|Tottenham]] at [[Wembley Stadium]], in the second leg of the round of 16 of the [[2017–18 UEFA Champions League|UEFA Champions League]], coming off the bench in the second half to help create [[Gonzalo Higuaín]]'s goal.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/43306558|title=Tottenham Hotspur 1-2 Juventus|publisher=BBC Sport|author1=Phil McNulty|date=7 March 2018|accessdate=9 March 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.independent.co.uk/sport/football/european/tottenham-juventus-champions-league-match-report-paulo-dybala-gonzalo-higuain-a8244981.html|title=Paulo Dybala and Gonzalo Higuain stun Tottenham to send Juventus into Champions League quarter-finals|publisher=The Independent|author1=Luke Brown|date=8 March 2018|accessdate=9 March 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.juventus.com/en/news/news/2018/tottenham-juve-talking-points.php|title=Tottenham-Juve: Talking Points|publisher=Juventus F.C.|date=8 March 2018|accessdate=11 March 2018}}&lt;/ref&gt; He made his 200th Serie A appearance with the club in a 3–1 home win over [[Bologna F.C. 1909|Bologna]] on 5 May, after which he announced that he would be leaving the club at the end of the season.&lt;ref&gt;{{cite web |url=http://www.sportmediaset.mediaset.it/mercato/juventus/juve-lichtsteiner-scudetto-e-addio-lascio-a-fine-stagione-giochero-all-estero-_1212165-201802a.shtml |title=Juve - Lichtsteiner, scudetto e addio: "Lascio a fine stagione, giocherò all'estero" |publisher=www.sportmediaset.mediaset.it |language=Italian |date=6 May 2018 |accessdate=28 September 2018 }}&lt;/ref&gt; On 19 May, Lichtsteiner made his final appearance for Juventus in the last match of the season in a 2–1 home win over [[Hellas Verona F.C.|Verona]] as the club celebrated winning their seventh consecutive league title; during the same match, he missed a penalty, and was given a send-off later during the game when he came off, despite Juventus having already made all three substitutions.&lt;ref&gt;{{cite web|url=http://www.beinsports.com/us/serie-a/video/juventus-bid-farewell-to-buffon-in-win-over-v/878156|title=Juventus Bid Farewell To Buffon In Win Over Verona|publisher=www.beinsports.com|date=19 May 2018|accessdate=19 May 2018}}&lt;/ref&gt;
+
+===Arsenal===
+On 5 June 2018, Lichtsteiner signed for [[Arsenal F.C.|Arsenal]] on a free transfer.&lt;ref&gt;{{cite web|url=https://www.football-italia.net/122477/official-arsenal-sign-lichtsteiner|title=OFFICIAL: Arsenal sign Lichtsteiner|publisher=Football Italia|date=5 June 2018}}&lt;/ref&gt; He made his Arsenal debut on 12 August, coming on as a substitute in the 35th minute for the injured [[Ainsley Maitland-Niles]] in an eventual 2–0 home defeat to [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{cite web |url=https://www.theguardian.com/football/live/2018/aug/12/arsenal-v-manchester-city-premier-league-live |title=Arsenal 0-2 Man City |publisher=The Guardian |author1=Nick Ames |date=12 August 2018 |accessdate=26 August 2018 }}&lt;/ref&gt; On 31 October 2018, Lichtsteiner scored his first goal for Arsenal in the first half of a 2–1 home win over [[Blackpool F.C.|Blackpool]] in the [[2018–19 EFL Cup|2018–19]] [[EFL Cup]].&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/football/2018/10/31/arsenal-vs-blackpool-chelsea-vs-derby-carabao-cup-fourth-round/|title=Arsenal hold off Blackpool's late surge after Matteo Guendouzi rashly sees red|work=The Telegraph|last=Dean|first=Sam|last2=Bagchi|first2=Rob|language=en-GB|date=31 October 2018|access-date=1 November 2018|issn=0307-1235}}&lt;/ref&gt;
+
+==International career==
+[[File:Sergio Agüero (L), Stephan Lichtsteiner (R) - Switzerland vs. Argentina, 29th February 2012.jpg|thumb|Lichtsteiner defending against [[Sergio Agüero]] of Argentina in a 2012 friendly match]]
+A former youth international, Lichtsteiner played in the [[1999 UEFA European Under-16 Football Championship|1999 U16]] and the [[2004 UEFA European Under-21 Football Championship|2004 U21 European Championships]]. He was first called up to the [[Switzerland national football team|senior squad]] on two occasions in 2005 but was an unused substitute both times. On 11 November 2006, he made his senior debut in a friendly against [[Brazil national football team|Brazil]] which ended in a 2–1 loss.
+
+Although he missed out on the [[2006 FIFA World Cup|2006 World Cup]], Lichtsteiner was given a chance to prove himself as first choice right back [[Philipp Degen]] was out with long-term injury.&lt;ref&gt;{{cite news|title=Liege-Einheit für Stephan Lichtsteiner|url=http://www.nzz.ch/nachrichten/sport/aktuell/lichtsteiner_unterzieht_sich_einer_therapie_1.569792.html|publisher=[[Neue Zürcher Zeitung]]|date=15 October 2007|language=German}}&lt;/ref&gt; In May, [[Köbi Kuhn]] named him in the squad for the [[Euro 2008]]. He played every match at the tournament and eventually replaced Degen as first choice right back. Switzerland ended the tournament with two losses and a win. He retained his starting place under new manager [[Ottmar Hitzfeld]] and played every minute in 8 of the 10 [[2010 FIFA World Cup qualification (UEFA)|2010 World Cup qualifiers]].
+
+Lichtsteiner played seven games in [[UEFA Euro 2012 qualifying]], with the Swiss failing to reach the finals in Poland and Ukraine. He scored his first international goal on 11 October 2010 in the final game, a 2–0 win over [[Montenegro national football team|Montenegro]] in [[Basel]].&lt;ref&gt;{{cite news |last1=James |first1=Andy |title=Switzerland end on a high against Montenegro |url=https://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002284/postmatch/report/index.html#switzerland+finish+high |accessdate=14 September 2018 |publisher=UEFA |date=11 October 2011}}&lt;/ref&gt; In [[2014 FIFA World Cup qualification (UEFA)|2014 FIFA World Cup qualification]], he played eight full matches in a successful campaign, scoring two first-half goals on 6 September 2013 in a 4–4 draw with [[Iceland national football team|Iceland]] at the [[Stade de Suisse]].&lt;ref&gt;{{cite news |title=Eight-goal thriller in Bern |url=https://www.skysports.com/football/switzerland-vs-iceland/report/253629 |accessdate=14 September 2018 |publisher=Sky Sports |date=6 September 2013}}&lt;/ref&gt; Manager [[Vladimir Petković]] named him in the 23-man squad for the [[2014 FIFA World Cup|finals in Brazil]],&lt;ref&gt;{{cite news |title=Switzerland squad for 2014 World Cup: the 23 chosen by Ottmar Hitzfeld |url=https://www.theguardian.com/football/2014/jun/06/switzerland-world-cup-squad-brazil-2014 |accessdate=14 September 2018 |work=The Guardian |date=6 June 2014}}&lt;/ref&gt; where he played every minute in a run to the last 16.
+
+Due to injury to regular captain [[Gökhan Inler]], Lichtsteiner wore the Swiss armband for the first time on 14 October 2014 in his 70th match, a 4–0 away win over [[San Marino national football team|San Marino]] in [[UEFA Euro 2016 qualifying]].&lt;ref&gt;{{cite news |title=Lichtsteiner: "Von alleine fällt der Ball nicht rein" |url=https://www.srf.ch/sport/fussball/nationalmannschaft/lichtsteiner-von-alleine-faellt-der-ball-nicht-rein |accessdate=14 September 2018 |publisher=SRF |date=14 October 2014 |language=German}}&lt;/ref&gt; Prior to the [[UEFA Euro 2016|finals in France]] Lichtsteiner was made permanent captain as Inler was dropped due to lack of playing time at club level.&lt;ref&gt;{{cite news|title=Interview with Switzerland captain Stephan Lichtsteiner|url=http://www.worldsoccer.com/euro-2016/interview-with-switzerland-captain-stephan-lichtsteiner-375261|work=[[World Soccer (magazine)|World Soccer]]|date=31 May 2016}}&lt;/ref&gt; The Swiss made it out of the group stage and faced [[Poland national football team|Poland]] in the Round of 16. With the score at 1–1, the match was decided by [[Penalty shoot-out (association football)|penalties]], and Lichtsteiner took first and scored but the Swiss lost as [[Granit Xhaka]] missed.&lt;ref&gt;{{cite news |last1=Johnston |first1=Neil |title=Switzerland 1&amp;ndash;1 Poland |url=https://www.bbc.co.uk/sport/football/36566078 |accessdate=14 September 2018 |publisher=BBC Sport |date=25 June 2016}}&lt;/ref&gt;
+
+In [[2018 FIFA World Cup qualification (UEFA)|2018 FIFA World Cup qualification]], Lichtsteiner scored in home wins over the [[Faroe Islands national football team|Faroe Islands]], [[Andorra national football team|Andorra]] and [[Hungary national football team|Hungary]], as the Swiss qualified through the play-offs.&lt;ref&gt;{{cite news |title=Switzerland down Faroe Islands to stay perfect |url=https://theworldgame.sbs.com.au/switzerland-down-faroe-islands-to-stay-perfect |accessdate=14 September 2018 |publisher=SBS |date=14 November 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Switzerland down Andorra to maintain perfect record |url=https://theworldgame.sbs.com.au/switzerland-down-andorra-to-maintain-perfect-record |accessdate=14 September 2018 |publisher=SBS |date=1 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last1=Chessex |first1=Robin |title=La Nati a cru une heure à la qualification |url=https://www.20min.ch/ro/sports/football/story/La-Nati-a-cru-une-heure-a-la-qualification-25735498?httpredirect |accessdate=14 September 2018 |work=20 minutes |date=8 October 2017 |language=French}}&lt;/ref&gt; He was named in  Petković's 23-man squad for the [[2018 FIFA World Cup|finals]] in Russia.&lt;ref&gt;{{cite news |title=2018 World Cup: Switzerland name Granit Xhaka and Xherdan Shaqiri in squad |url=https://www.bbc.co.uk/sport/football/44360966 |accessdate=22 June 2018 |publisher=BBC Sport |date=4 June 2018}}&lt;/ref&gt; On 8 June, in the final warm-up game against [[Japan national football team|Japan]], he became the fourth Swiss to earn [[List of footballers with 100 or more caps|100 international caps]] in the 2–0 victory.&lt;ref&gt;{{cite news |last1=Orimolade |first1=Akindélé |title=Lichtsteiner est centenaire |url=https://fr.besoccer.com/info/lichtsteiner-puissance-100-443237 |accessdate=22 June 2018 |publisher=BeSoccer |date=8 June 2018 |language=French}}&lt;/ref&gt; He was fined 5,000 [[Swiss franc]]s after the 2–1 group win over [[Serbia national football team|Serbia]] for his part in the controversial goal celebrations of [[Xherdan Shaqiri]] and [[Granit Xhaka]].&lt;ref&gt;{{cite news |title=World Cup 2018: Switzerland trio avoid bans for 'eagle gesture' goal celebrations |url=https://www.bbc.co.uk/sport/football/44606965 |accessdate=25 June 2018 |publisher=BBC Sport |date=25 June 2018}}&lt;/ref&gt;
+
+==Style of play==
+A dynamic, hard-working, consistent, and versatile defender, Lichtsteiner is capable of playing anywhere along the right flank, and has been deployed as an attacking [[Defender (association football)#Full-back|full-back]] or [[Defender (association football)#Wing-back|wing-back]] in a four-man back-line, or also as [[Midfielder#Winger|winger]] in a 3–5–2 formation. Although he predominantly plays on the right, he has also been used on the left flank on occasion, or even as a makeshift [[Defender (association football)#Centre-back|centre-back]]. A quick, physically strong, tenacious, and tactically intelligent player, he is known for his energetic runs up and down the wing, which enable him to exploit spaces and get on the end of long balls, thus enabling him to help out at both ends of the pitch and cover the right flank effectively. His stamina, dedication and athleticism have earned him the nicknames "[[Forrest Gump]]" and "The Swiss [[Express train|Express]]".&lt;ref name="champ"/&gt;&lt;ref name="Gunners struggle vs. Man City"&gt;{{cite web |url=http://www.espn.com/soccer/club/arsenal/359/blog/post/3594617/arsenals-uncomfortable-petr-cech-earns-5-10-as-gunners-struggle-vs-man-city |title=Arsenal's uncomfortable Petr Cech earns 5/10 as Gunners struggle vs. Man City |publisher=ESPN FC |author1=James McNicholas |date=12 August 2018 |accessdate=26 August 2018 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.skysports.com/football/news/11670/11583684/rob-holdings-knee-surgery-went-well-says-arsenal-defender |title=Rob Holding's knee surgery 'went well' says Arsenal defender |publisher=Sky Sports |author1=Lyall Thomas |date=16 December 2018 |accessdate=12 January 2019 }}&lt;/ref&gt; Although not particularly skilful from a technical standpoint, he is capable of linking up with teammates and making attacking runs to get on the end of passes, which enable him to get into positions from which he can create chances for strikers with crosses from the touchline, or even score goals himself; while he is mainly regarded for his offensive contribution, he is also known for being reliable defensively. However, at times Lichsteiner has also drawn criticism in the media for lacking composure under pressure, being too rash and aggressive in his challenges, and prone to defensive errors, as well as for being inconsistent in his crossing and distribution from the right wing.&lt;ref name="Lichtsteiner is vital to Juventus"/&gt;&lt;ref&gt;{{cite web|url=http://www.gazzetta.it/Calcio/Squadre/Juventus/09-11-2012/isla-scusate-ritardo-juve-turbo-destra--913164517005.shtml|title=Isla, scusate il ritardo Juve, il turbo sulla destra|publisher=La Gazzetta dello Sport|language=Italian|author1=Riccardo Pratesi|date=9 November 2012|accessdate=20 February 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.football-italia.net/27593/full-steam-ahead-lichtsteiner|title=Full steam ahead for Lichtsteiner|publisher=Football Italia|author1=Antonio Labbate|date=22 November 2012|accessdate=20 February 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.gazzetta.it/Calcio/Serie-A/Juventus/06-02-2014/juventus-lichtsteiner-universale-terzino-esterno-goleador-8019316751.shtml|title=Juventus, Lichtsteiner l'universale: terzino, esterno e goleador|publisher=La Gazzetta dello Sport|language=Italian|date=6 February 2014|accessdate=20 February 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.goal.com/it/news/2/serie-a/2014/09/29/5141848/editoriale-difende-come-un-difensore-attacca-come-un|title=Difende come un difensore, attacca come un attaccante: Lichtsteiner, l'arma in più della Juventus|publisher=Goal.com|author=Renato Maisani|language=Italian|date=29 September 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tuttosport.com/calcio/serie_a/juventus/calciomercato/2011/06/27-132271/Juve,+arriva+Lichtsteiner%3A+visite+mediche,+poi+la+firma|title=Juve, arriva Lichtsteiner: visite mediche, poi la firma|publisher=Tutto Sport|author=Marina Salvetti|language=Italian|date=27 June 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20160304111335/http://www.tuttosport.com/calcio/serie_a/juventus/calciomercato/2011/06/27-132271/Juve,+arriva+Lichtsteiner:+visite+mediche,+poi+la+firma|archivedate=4 March 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.fifa.com/world-match-centre/news/newsid/758/086/index.html|title=Lichtsteiner: We can progress|publisher=FIFA.com|date=2 May 2008}}&lt;/ref&gt;
+
+==Personal life==
+Lichtsteiner is married to Manuela Markworth, an economist and fitness instructor. They have a daughter&lt;ref&gt;{{cite news|title=Stephan Lichtsteiner ist Papa geworden|url=http://www.glanzundgloria.sf.tv/Nachrichten/Archiv/2011/02/06/Schweiz/Stephan-Lichtsteiner-ist-Papa-geworden|publisher=[[Schweizer Fernsehen]]|date=6 February 2011|language=German}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Er ist Vater geworden!|url=http://www.schweizer-illustrierte.ch/stars/schweiz/er-ist-vater-geworden-0|publisher=[[Schweizer Illustrierte]]|date=5 February 2011|language=German}}&lt;/ref&gt; and a son.&lt;ref&gt;{{cite news|title=Baby Nummer 2: Nati-Star Stephan Lichtsteiner im Papa-Glück |url=http://www.srf.ch/unterhaltung/people/schweiz/baby-nummer-2-nati-star-stephan-lichtsteiner-im-papa-glueck|publisher=[[Schweizer Radio und Fernsehen|srf.ch]]|date=29 October 2014|language=German}}&lt;/ref&gt;
+
+Lichtsteiner acquired the nickname "[[Forrest Gump]]" from Lazio-supporting Radio Sei commentator Guido de Angelis after making a run down his flank to score in the 4–2 derby victory over crosstown rivals [[A.S. Roma]].&lt;ref&gt;{{cite news|title="Forrest Gump" Lichtsteiner trifft – Kommentator dreht durch|url=http://www.blick.ch/sport/fussball/international/serie-a/lichtsteiner-trifft-im-roemer-derby-116668|publisher=[[Blick]]|date=12 April 2009|language=German}}&lt;/ref&gt; His runs and athleticism has also earned him the nickname "The Swiss Express" since moving to Juventus.
+
+==Career statistics==
+===Club===
+{{updated|29 January 2019}}&lt;ref name=SW/&gt;&lt;ref&gt;{{cite web|url=http://soccernet.espn.go.com/players/stats?id=33644&amp;cc=5901|title=Stephan Lichtsteiner|publisher=ESPN FC|accessdate=3 January 2018}}&lt;/ref&gt; &lt;!--Update/revise or correct as necessary--&gt;
+
+{| class="wikitable" style="text-align:center"
+|+ Club statistics
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|[[UEFA|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[Grasshopper Club Zürich|Grasshopper]]
+||[[2001–02 Nationalliga A|2001–02]]
+|rowspan="4"|[[Swiss Super League]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+||[[2002–03 Nationalliga A|2002–03]]
+|25||0||colspan="2"|—||2&lt;ref group="lower-alpha"&gt;All appearance(s) in the [[UEFA Europa League|UEFA Cup]]&lt;/ref&gt;||0||colspan="2"|—||27||0
+|-
+||[[2003–04 Swiss Super League|2003–04]]
+|26||2||4||0||4&lt;ref group="lower-alpha"&gt;Two appearances in the [[UEFA Champions League]], two appearances in [[UEFA Europa League|UEFA Cup]]&lt;/ref&gt;||0||colspan="2"|—||34||2
+|-
+||[[2004–05 Swiss Super League|2004–05]]
+|27||2||1||0||colspan="2"|—||colspan="2"|—||28||2
+|-
+!colspan="2"|Total
+!79!!4!!5!!0!!6!!0!!colspan="2"|—!!90!!4
+|-
+|rowspan="4"|[[Lille OSC|Lille]]
+||[[2005–06 Ligue 1|2005–06]]
+|rowspan="3"|[[Ligue 1]]
+|31||1||4&lt;ref group="lower-alpha"&gt;Two appearances in [[Coupe de France]], two appearances in [[Coupe de la Ligue]]&lt;/ref&gt;||0||8&lt;ref group="lower-alpha"&gt;Four appearances in the [[UEFA Champions League]], Four appearances in [[UEFA Europa League|UEFA Cup]]&lt;/ref&gt;||0||colspan="2"|—||43||1
+|-
+||[[2006–07 Ligue 1|2006–07]]
+|24||0||5&lt;ref group="lower-alpha"&gt;Three appearances in [[Coupe de France]], two appearances in [[Coupe de la Ligue]]&lt;/ref&gt;||0||3&lt;ref group="lower-alpha" name="UCL"&gt;All appearance(s) in [[UEFA Champions League]]&lt;/ref&gt;||0||colspan="2"|—||32||0
+|-
+||[[2007–08 Ligue 1|2007–08]]
+|34||4||4&lt;ref group="lower-alpha"&gt;Three appearances and one goal in [[Coupe de France]], one appearance in [[Coupe de la Ligue]]&lt;/ref&gt;||1||colspan="2"|—||colspan="2"|—||34||5
+|-
+!colspan="2"|Total
+!89!!5!!13!!1!!11!!0!!colspan="2"|—!!113!!6
+|-
+|rowspan="4"|[[S.S. Lazio|Lazio]]
+||[[2008–09 Serie A|2008–09]]
+|rowspan="3"|[[Serie A]]
+|33||1||6||0||colspan="2"|—||colspan="2"|—||39||1
+|-
+||[[2009–10 Serie A|2009–10]]
+|33||2||2||0||7&lt;ref group="lower-alpha" name="UEL"&gt;All appearance(s) in [[UEFA Europa League]]&lt;/ref&gt;||0||1&lt;ref group="lower-alpha" name="ITA"&gt;Appearance in [[Supercoppa Italiana]]&lt;/ref&gt;||0||43||2
+|-
+||[[2010–11 Serie A|2010–11]]
+|34||0||1||0||colspan="2"|—||colspan="2"|—||35||0
+|-
+!colspan="2"|Total
+!100!!3!!9!!0!!7!!0!!1!!0!!117!!3
+|-
+|rowspan="8"|[[Juventus F.C.|Juventus]]
+|[[2011–12 Serie A|2011–12]]
+|rowspan="7"|[[Serie A]]
+|35||2||3||0||colspan="2"|—||colspan="2"|—||38||2
+|-
+|[[2012–13 Serie A|2012–13]]
+|28||4||1||0||6&lt;ref group="lower-alpha" name="UCL"/&gt;||0||1&lt;ref group="lower-alpha" name="ITA"/&gt;||0||36||4
+|-
+|[[2013–14 Serie A|2013–14]]
+|27||2||1||0||7&lt;ref group="lower-alpha"&gt;Three appearances in [[UEFA Champions League]], four in [[UEFA Europa League]]&lt;/ref&gt;||0||1&lt;ref group="lower-alpha" name="ITA"/&gt;||1||36||3
+|-
+|[[2014–15 Serie A|2014–15]]
+|32||3||3||0||13&lt;ref group="lower-alpha" name="UCL"/&gt;||0||1&lt;ref group="lower-alpha" name="ITA"/&gt;||0||49||3
+|-
+|[[2015–16 Serie A|2015–16]]
+|26||0||4||1||6&lt;ref group="lower-alpha" name="UCL"/&gt;||1||1&lt;ref group="lower-alpha" name="ITA"/&gt;||0||37||2
+|-
+|[[2016–17 Serie A|2016–17]]
+|26||1||2||0||1&lt;ref group="lower-alpha" name="UCL"/&gt;||0||1&lt;ref group="lower-alpha" name="ITA"/&gt;||0||30||1
+|-
+|[[2017–18 Serie A|2017–18]]
+|27||0||3||0||2&lt;ref group="lower-alpha" name="UCL"/&gt;||0||0||0||32||0
+|-
+!colspan="2"|Total
+!201!!12!!17!!1!!35!!1!!5!!1!!257!!15
+|-
+|[[Arsenal F.C.|Arsenal]]
+|[[2018–19 Premier League|2018–19]]
+|[[Premier League]]
+|10||0||3&lt;ref group="lower-alpha"&gt;Two appearances and one goal in [[EFL Cup]], one appearance in [[FA Cup]]&lt;/ref&gt;||1||5&lt;ref group="lower-alpha" name="UEL"/&gt;||0||0||0||18||1
+|-
+!colspan="3"|Career total
+!479!!24!!47!!3!!64!!1!!6!!1!!596!!29
+|}
+{{Reflist|group=lower-alpha}}
+
+===International===
+{{updated|11 September 2018}}&lt;ref name=SW/&gt;&lt;ref&gt;{{NFT player|id=12246|name=Stephan Lichtsteiner|accessdate=8 November 2017}}&lt;/ref&gt;&lt;ref name="Lichtsteiner Eu-football.info"&gt;{{cite news|url=https://eu-football.info/_player.php?id=12168|title=Stephan Lichtsteiner - national football team player|work=EU-Football.info|accessdate=8 November 2017}}&lt;/ref&gt;
+[[File:AUT vs. SUI 2015-11-17 - Stephan Lichtsteiner (2).jpg|thumb|upright|Lichtsteiner with Switzerland in 2015]]
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=13|[[Switzerland national football team|Switzerland]]
+|2006||1||0
+|-
+|2007||7||0
+|-
+|2008||11||0
+|-
+|2009||6||0
+|-
+|2010||11||0
+|-
+|2011||9||1
+|-
+|2012||9||1
+|-
+|2013||6||2
+|-
+|2014||11||1
+|-
+|2015||8||0
+|-
+|2016||9||1
+|-
+|2017||8||2
+|-
+|2018||8||0
+|-
+!colspan=2|Total!!104!!8
+|}
+
+===International goals===
+:{{updated|7 October 2017}} ''Switzerland score listed first, score column indicates score after each Lichtsteiner's goal.''&lt;ref name=SW/&gt;&lt;ref name="Lichtsteiner Eu-football.info"/&gt;
+{| class="wikitable sortable plainrowheaders"
+
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|1
+| 11 October 2011 || [[St. Jakob Park]], [[Basel]], Switzerland || align=center | 43 || {{fb|MNE}} || align=center | '''2'''–0 || align=center | 2–0 || [[UEFA Euro 2012 qualifying Group G|UEFA Euro 2012 qualifying]]
+|-
+!scope=row|2
+| 26 May 2012 || St. Jakob Park, Basel, Switzerland || align=center | 47 || {{fb|GER}} || align=center | '''4'''–2 || align=center | 5–3 || [[Exhibition game|Friendly]]
+|-
+!scope=row|3
+| rowspan=2| 6 September 2013 || rowspan=2|[[Stade de Suisse, Wankdorf|Stade de Suisse]], [[Bern]], Switzerland || rowspan=2 align=center| 59 || rowspan=2|{{fb|ISL}} || align=center | '''1'''–1 || rowspan="2" style="text-align:center"| 4–4 || rowspan=2| [[2014 FIFA World Cup qualification – UEFA Group E|2014 FIFA World Cup qualification]]
+|-
+!scope=row|4
+| align=center | '''3'''–1
+|-
+!scope=row|5
+| 3 June 2014 || [[Swissporarena]], [[Lucerne]], Switzerland || align=center | 63 || {{fb|PER}} || align=center | '''1'''–0 || align=center | 2–0 || Friendly
+|-
+!scope=row|6
+| 13 November 2016 || Swissporarena, Lucerne, Switzerland || align=center | 88 || {{fb|FRO}} || align=center | '''2'''–0 || align=center | 2–0 || rowspan=3|[[2018 FIFA World Cup qualification – UEFA Group B|2018 FIFA World Cup qualification]]
+|-
+!scope=row|7
+| 31 August 2017 || [[kybunpark]], [[St. Gallen]], Switzerland || align=center | 91 || {{fb|AND}} || align=center | '''3'''–0 || align=center | 3–0
+|-
+!scope=row|8
+| 7 October 2017 || [[St. Jakob Park]], [[Basel]], Switzerland || align=center | 93 || {{fb|HUN}} || align=center | '''5'''–1 || align=center | 5–2
+|}
+
+==Honours==
+'''Grasshopper'''&lt;ref name=SW&gt;{{cite web|url=https://int.soccerway.com/players/stephan-lichtsteiner/2057/|title=S. Lichsteiner|publisher=Soccerway|accessdate=13 December 2015}}&lt;/ref&gt;
+*[[Swiss Super League|Nationalliga A]]: [[2002–03 Nationalliga A|2002–03]]
+
+'''Lazio'''&lt;ref name=SW/&gt;
+*[[Coppa Italia]]: [[2008–09 Coppa Italia|2008–09]]
+*[[Supercoppa Italiana]]: [[2009 Supercoppa Italiana|2009]]
+
+'''Juventus'''&lt;ref name=SW/&gt;
+*[[Serie A]]: [[2011–12 Serie A|2011–12]], [[2012–13 Serie A|2012–13]], [[2013–14 Serie A|2013–14]], [[2014–15 Serie A|2014–15]], [[2015–16 Serie A|2015–16]], [[2016–17 Serie A|2016–17]], [[2017–18 Serie A|2017–18]]
+*Coppa Italia: [[2014–15 Coppa Italia|2014–15]], [[2015–16 Coppa Italia|2015–16]], [[2016–17 Coppa Italia|2016–17]], [[2017–18 Coppa Italia|2017–18]]
+*Supercoppa Italiana: [[2012 Supercoppa Italiana|2012]], [[2013 Supercoppa Italiana|2013]], [[2015 Supercoppa Italiana|2015]]
+
+'''Individual'''
+*[[Swiss Footballer of the Year]]: 2015&lt;ref&gt;{{cite news|title=Wolfsburger Ricardo Rodriguez Schweizer Fußballer des Jahres [Wolfsburg's Ricardo Rodriguez Swiss Player of the Year]|url=http://www.goal.com/de/news/869/schweiz/2014/09/02/5079549/wolfsburger-ricardo-rodriguez-schweizer-fu%C3%9Fballer-des-jahres|accessdate=8 September 2014|work=Goal.com|date=2 September 2014|language=German}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20121115142756/http://www.juventus.com/juve/en/campo/giocatori-e-staff/prima/giocatori/026lichtsteiner Profile] on Juventus website
+*[http://www.football.ch/nm/de/A_Team-portrait.aspx Profile] on [[Swiss Football Association|Swiss FA]] website {{de icon}}
+*{{ESPN FC|33644/stephan-lichtsteiner}}
+*{{FIFA player|196605}}
+
+{{Arsenal F.C. squad}}
+{{Navboxes
+|title = Switzerland squads
+|bg = red
+|fg = white
+|bordercolor = #CC0000
+|list1 =
+{{Switzerland squad UEFA Euro 2008}}
+{{Switzerland squad 2010 FIFA World Cup}}
+{{Switzerland squad 2014 FIFA World Cup}}
+{{Switzerland squad UEFA Euro 2016}}
+{{Switzerland squad 2018 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Lichtsteiner, Stephan}}
+[[Category:1984 births]]
+[[Category:Living people]]
+[[Category:People from Lucerne-Land District]]
+[[Category:Swiss footballers]]
+[[Category:FC Luzern players]]
+[[Category:Grasshopper Club Zürich players]]
+[[Category:Lille OSC players]]
+[[Category:S.S. Lazio players]]
+[[Category:Juventus F.C. players]]
+[[Category:Arsenal F.C. players]]
+[[Category:Switzerland under-21 international footballers]]
+[[Category:Switzerland international footballers]]
+[[Category:UEFA Euro 2008 players]]
+[[Category:Swiss Super League players]]
+[[Category:Ligue 1 players]]
+[[Category:Serie A players]]
+[[Category:Premier League players]]
+[[Category:Expatriate footballers in Italy]]
+[[Category:Expatriate footballers in France]]
+[[Category:Expatriate footballers in England]]
+[[Category:Swiss expatriate footballers]]
+[[Category:Swiss expatriate sportspeople in Italy]]
+[[Category:Swiss expatriate sportspeople in France]]
+[[Category:Swiss expatriate sportspeople in England]]
+[[Category:2010 FIFA World Cup players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:Association football fullbacks]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:FIFA Century Club]]</text>
+      <sha1>f9ar78y1mkn6xlng3sxf6mix0l8o1ed</sha1>
+    </revision>
+  </page>
+</mediawiki>

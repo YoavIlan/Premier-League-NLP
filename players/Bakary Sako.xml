@@ -1,0 +1,350 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bakary Sako</title>
+    <ns>0</ns>
+    <id>23179961</id>
+    <revision>
+      <id>881448360</id>
+      <parentid>880490662</parentid>
+      <timestamp>2019-02-02T17:35:14Z</timestamp>
+      <contributor>
+        <username>Eagleash</username>
+        <id>17699731</id>
+      </contributor>
+      <comment>updating</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25459">{{Use dmy dates|date=January 2018}}
+{{Infobox football biography
+| name           = Bakary Sako
+| image          = Bakary Sako (03-08-2011).jpg
+| image_size     = 200
+| caption        = Sako with [[AS Saint-Étienne|Saint-Étienne]] in 2011
+| fullname       = Bakary Sako&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1988|4|26|df=y}}
+| birth_place    = [[Ivry-sur-Seine]], France
+| height         = 1.83 m&lt;ref&gt;{{cite web |url=https://www.cpfc.co.uk/teams/first-team/midfielder/bakary-sako/ |title=Bakary Sako |publisher=Crystal Palace F.C. |accessdate=11 February 2018}}&lt;/ref&gt;
+| position       = [[Attacking midfielder]] / [[Winger (association football)|winger]]
+| currentclub    = [[Crystal Palace F.C.|Crystal Palace]]
+| clubnumber     = 26
+| youthyears1    = 1996–2000
+| youthclubs1    = Vitry CA
+| youthyears2    = 2000–2002
+| youthclubs2    = [[US Ivry]]
+| youthyears3    = 2002–2006
+| youthclubs3    = [[LB Châteauroux|Châteauroux]]
+| years1         = 2006–2009
+| clubs1         = [[LB Châteauroux|Châteauroux]]
+| years2         = 2009–2012
+| clubs2         = [[AS Saint-Étienne|Saint-Étienne]]
+| years3         = 2012–2015
+| clubs3         = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| years4         = 2015–2018
+| clubs4         = [[Crystal Palace F.C.|Crystal Palace]]
+| years5         = 2018–2019
+| clubs5         = [[West Bromwich Albion F.C.|West Bromwich Albion]]
+| years6         = 2019–
+| clubs6         = [[Crystal Palace F.C.|Crystal Palace]]
+| caps1          = 68
+| goals1         = 9
+| caps2          = 106
+| goals2         = 12
+| caps3          = 118
+| goals3         = 36
+| caps4          = 43
+| goals4         = 5
+| caps5          = 5
+| goals5         = 0
+| caps6          = 1
+| goals6         = 0
+| nationalyears1 = 2005 | nationalteam1 = [[Mali national under-17 football team|Mali U17]] | nationalcaps1 = 1 | nationalgoals1 = 0
+| nationalyears2 = 2009–2010 | nationalteam2  = [[France national under-21 football team|France U21]] | nationalcaps2  = 10 | nationalgoals2   = 2
+| nationalyears3 = 2014– | nationalteam3 = [[Mali national football team|Mali]] | nationalcaps3 = 21 | nationalgoals3 = 9
+| club-update    = 17:34, 2 February 2019 (UTC)
+| nationalteam-update = 19:47, 14 February 2017 (UTC)
+}}
+'''Bakary Sako''' (born 26 April 1988) is a professional [[association football|footballer]] who plays as an attacking [[midfielder]] for [[EFL Championship|Premier League club Crystal Palace]] and the [[Mali national football team|Mali national team]].
+
+==Club career==
+===Early years===
+Sako had been with [[LB Châteauroux|Châteauroux]] since 2001, joining the club as an academy player. He made his league debut on the final matchday of the [[2005-06 Ligue 2|2005–06 Ligue 2 season]] coming on as a half-time substitute in a 4–1 victory over [[SC Bastia|Bastia]].&lt;ref&gt;[http://www.lfp.fr/ligue2/feuilleMatch.asp?saison=2005/2006&amp;code_evt=D2&amp;code_jr_tr=J38&amp;num_ordre=1 Bastia v. Chateauroux Match Report]. Lfp.fr. Retrieved on 29 September 2012.&lt;/ref&gt; Following the season, he signed his first professional contract after agreeing to a three-year deal.&lt;ref&gt;[http://www.24sn.com/Embouteillage-en-equipe-nationale_a1368.html Embouteillage en équipe nationale]. 24sn.com. Retrieved on 29 September 2012.&lt;/ref&gt; He was promoted to the senior squad and assigned the number 26 shirt.
+
+During the next two seasons, Sako was limited to mostly substitute appearances. He did score his first league goal, during the [[2007–08 Ligue 2|2007–08 season]], in a 1–2 defeat against [[Stade Brest 29|Brest]].&lt;ref&gt;[http://www.lfp.fr/ligue2/feuilleMatch.asp?saison=2007/2008&amp;code_evt=D2&amp;code_jr_tr=J36&amp;num_ordre=5 Chateauroux v. Brest Match Report]. Lfp.fr. Retrieved on 29 September 2012.&lt;/ref&gt; During the [[2008–09 Ligue 2|2008–09 season]] Sako became an integral part of the team, helping the club narrowly avoid relegation on the final day.
+
+===Saint-Étienne===
+On 9 July 2009, Sako departed Châteauroux for [[Ligue 1]] club [[AS Saint-Étienne]], where he signed a four-year deal for an undisclosed fee.
+
+===Wolverhampton Wanderers===
+[[File:Bakary Sako.jpg|thumb|left|Sako playing for [[Wolverhampton Wanderers F.C.|Wolves]], 2014]]
+
+On 29 August 2012, Sako signed for [[EFL Championship|Championship]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a three-year contract for an undisclosed fee that was reported to be £2.2 million.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/19409743 |title=Wolves sign Bakary Sako from St Etienne on three-year deal |publisher=BBC Sport |date=29 August 2012 |accessdate=1 October 2014}}&lt;/ref&gt;&lt;ref name="pleads for move to Fulham"&gt;{{cite web |url=https://www.theguardian.com/football/2013/jun/29/wolverhampton-wanderers-bakary-sako-fulham |title=Wolverhampton Wanderers' Bakary Sako pleads for move to Fulham |publisher=The Observer |date=29 June 2013 |accessdate=1 October 2014}}&lt;/ref&gt; He scored on his Wolves debut in a [[EFL Cup|League Cup]] tie against [[Northampton Town F.C.|Northampton]] on 30 August 2012,&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/19352817|title=Northampton 1–3 Wolves|publisher=BBC Sport |date=30 August 2012}}&lt;/ref&gt; and again on his league debut in the following match, a 3–1 defeat at [[Cardiff City F.C.|Cardiff]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/19384124|title=Cardiff 3–1 Wolves|publisher=BBC Sport|date=2 September 2012}}&lt;/ref&gt;
+
+The winger adapted well to English football, scoring ten times in total and contributing eleven assists.&lt;ref&gt;{{cite web |url=http://espnfc.com/player/_/id/91494/bakary-sako?cc=5739#|title=Bakary Sako|publisher=ESPN}}&lt;/ref&gt; However, his season was halted early when he tore his hamstring in March 2013 in a match against [[Bristol City F.C.|Bristol City]],&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/21831205|title=Bakary Sako &amp; Dave Edwards: Wolves await injury diagnosis|publisher=BBC Sport|date=18 March 2013}}&lt;/ref&gt; which ruled him out for much of the season's final games, during which the team were relegated to League One.&lt;ref&gt;{{cite web |url=https://www.expressandstar.com/sport/wolverhampton-wanderers-fc/2013/03/25/wolves-trio-carl-ikeme-bakary-sako-and-dave-edwards-ruled-out-for-the-season/|title=Wolves trio Carl Ikeme, Bakary Sako and Dave Edwards ruled out for the season|publisher=Express &amp; Star|date=25 March 2013}}&lt;/ref&gt;
+
+Sako was the subject of transfer speculation during Summer 2013 with interest from [[Fulham F.C.|Fulham]] in June 2013 but the London club did not meet a reported £4 million asking price.&lt;ref name="pleads for move to Fulham"/&gt; Owing to his uncertain future, the player did not play in Wolves' final match of the transfer window as he "didn't feel he was in the right frame of mind".&lt;ref name="Forest bid"&gt;{{cite web|url=https://www.expressandstar.com/sport/wolverhampton-wanderers-fc/2013/09/01/wolves-turn-down-nottingham-forest-bakary-sako-bid/|title=Wolves turn down Nottingham Forest Bakary Sako bid|publisher=Express &amp; Star|date=1 September 2013}}&lt;/ref&gt; Several reported bids from [[Nottingham Forest F.C.|Nottingham Forest]] were rejected by the club.&lt;ref name="Forest bid"/&gt;&lt;ref&gt;{{cite web|url=http://www.shropshirestar.com/sport/wolverhampton-wanderers-fc/2013/09/03/wolves-reject-3-5m-bid-for-bakary-sako/?|title=Wolves reject £3.5m bid for Bakary Sako|publisher=Shropshire Star|date=3 September 2013}}&lt;/ref&gt; In October 2013, Forest again attempted to set up a deal but Wolves pulled out of negotiations citing that "the terms surrounding the offer were unrealistic".&lt;ref&gt;{{cite web|url=http://www.wolves.co.uk/news/article/club-statement-bakary-sako-041013-1094696.aspx|title=Club Statement: Bakary Sako|publisher=Wolverhampton Wanderers F.C|date=4 October 2013|access-date=4 October 2013|archive-url=https://web.archive.org/web/20131004111816/http://www.wolves.co.uk/news/article/club-statement-bakary-sako-041013-1094696.aspx#|archive-date=4 October 2013|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+
+Despite the initial speculation surrounding his future and the breakdown of his proposed move to Forest, Sako went on to have a productive season for Wolves, finishing as joint top-scorer alongside the departed [[Leigh Griffiths]] as Wolves won the [[EFL League One|League One]] title with a record points haul for the third tier. Sako was also named in the League One [[PFA Team of the Year]] for the 2013–14 season alongside four of his teammates.&lt;ref name=PFATOTY1314&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/27180793 |title=Luis Suarez: Liverpool striker wins PFA Player of the Year award |publisher=BBC Sport |date=28 April 2014 |accessdate=7 May 2018}}&lt;/ref&gt;
+
+Back at Championship level, Sako continued to score regularly for Wolves and was named in the Championship PFA Team of the Year for the 2014–15 season.&lt;ref name=PFATOTY1415&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/32473770 |title=PFA Championship Team of the Year: Deeney only Watford player |publisher=BBC Sport |date=26 April 2015 |accessdate=7 May 2018}}&lt;/ref&gt; He finished the season as the club's (joint) top goalscorer as the team missed out on the play-offs on goal difference. Out of contract with the club, he voiced his desire to play in the Premier League,&lt;ref&gt;{{cite web|url=http://www.wolves.co.uk/news/article/club-statement-bakary-sako-041013-1094696.aspx|title=Sako thanks for support|publisher=Wolverhampton Wanderers F.C|date=4 May 2015|access-date=4 October 2013|archive-url=https://web.archive.org/web/20131004111816/http://www.wolves.co.uk/news/article/club-statement-bakary-sako-041013-1094696.aspx#|archive-date=4 October 2013|dead-url=yes|df=dmy-all}}&lt;/ref&gt; while head coach Kenny Jackett stated that he expected Sako to depart.&lt;ref&gt;{{cite web|url=http://www.wolves.co.uk/news/article/gaffer-expects-sako-to-move-on-2436574.aspx|title=Gaffer expects Sako to move on|publisher=Wolverhampton Wanderers F.C|date=2 May 2015|access-date=31 July 2015|archive-url=https://web.archive.org/web/20160304062105/http://www.wolves.co.uk/news/article/gaffer-expects-sako-to-move-on-2436574.aspx#|archive-date=4 March 2016|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+
+===Crystal Palace===
+On 5 August 2015, Sako joined [[Premier League]] side [[Crystal Palace F.C.|Crystal Palace]] on a three-year contract following his release from Wolves.&lt;ref&gt;{{cite web|title=Sako Signs Eagles Deal|date=5 August 2015|website=cpfc.co.uk|url=https://www.cpfc.co.uk/news/2015/august/sako-signs-eagles-deal/|accessdate=5 August 2015}}&lt;/ref&gt; He scored his first goal for the club on his full debut against [[Aston Villa F.C.|Aston Villa]] on 22 August 2015.&lt;ref&gt;{{cite news|title=Crystal Palace 2–1 Aston Villa|url=https://www.bbc.co.uk/sport/0/football/33944695|accessdate=27 August 2015|publisher=BBC Sport|date=22 August 2015}}&lt;/ref&gt;
+Sako then scored again the following week away to Chelsea, in a 2–1 win, which was [[José Mourinho]]'s second ever loss at Stamford Bridge. Sako also assisted the second goal scored by [[Joel Ward (footballer)|Joel Ward]].&lt;ref&gt;{{cite news|last1=Ronay|first1=Barney|title=Chelsea humbled at home after Sako and Ward strike for Crystal Palace|url=https://www.theguardian.com/football/2015/aug/29/chelsea-crystal-palace-premier-league-match-report|accessdate=19 January 2018|work=The Guardian|date=29 August 2015}}&lt;/ref&gt;
+
+In the 2017–18 season, Sako's form started to pick up under the management of [[Roy Hodgson]] scoring his first goal of the season against Huddersfield in the [[EFL Cup]]. He later scored against [[Bristol City F.C.|Bristol City]] in the same competition. Sako was also back scoring in the league as well, netting against [[Watford F.C.|Watford]], [[Burnley F.C.|Burnley]] and [[Leicester City F.C.|Leicester]]. He also added a goal in the [[FA Cup]] in an away loss to [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].&lt;ref&gt;{{cite news|last1=McInnes|first1=Paul|title=Crystal Palace revival continues as Bakary Sako strikes against Burnley|url=https://www.theguardian.com/football/2018/jan/13/crystal-palace-burnley-premier-league-report|accessdate=19 January 2018|work=The Guardian|date=13 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Return of the Bak: How Bakary Sako Resurrected His Crystal Palace Career|url=https://www.si.com/soccer/2018/01/15/return-bak-how-bakary-sako-resurrected-his-crystal-palace-career|accessdate=19 January 2018|work=Sports Illustrated|date=15 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Lea|first1=Greg|title=How Bakary Sako Went From Bit-Part Player To Guaranteed Starter – And Top Scorer – At Crystal Palace|url=https://www.thesportsman.com/articles/how-bakary-sako-went-from-bit-part-player-to-guaranteed-starter-and-top-scorer-at-crystal-palace|accessdate=19 January 2018|work=The Sportsman|date=16 January 2018}}&lt;/ref&gt;
+
+===West Bromwich Albion===
+On 2 October 2018, [[West Bromwich Albion F.C.|West Bromwich Albion]] signed free agent Sako until the end of the season.&lt;ref&gt;{{cite web|title=Sako signs for the Baggies|date=2 October 2018|website=West brom official site|url=https://www.wba.co.uk/news/2018/october/sako-signs-for-the-baggies//|accessdate=2 October 2018}}&lt;/ref&gt;
+
+===Return to Crystal Palace===
+On 27 January 2019, Sako rejoined [[Crystal Palace F.C.|Crystal Palace]] on a short-term contract until the end of the 2018–19 season.&lt;ref&gt;{{cite web|url=https://www.cpfc.co.uk/news/2019/january/bakary-sako-returns-to-palace-on-short-term-deal/|title=Bakary Sako has rejoined Crystal Palace until the end of the season|website=cpfc.co.uk|date=27 January 2019|accessdate=27 January 2019}}&lt;/ref&gt;
+
+==International career==
+===Youth===
+Sako played for the [[Mali national under-17 football team|Malian U17 team]] in one friendly match in 2005, while the team was preparing for the [[2005 African Under-17 Championship]]. The following year, he returned to the [[France national youth football team|French team]] playing with the [[France national youth football team#France national under-18 squad|under-18 squad]]. He was a member of the French squad that participated in the [[2007 UEFA European Under-19 Football Championship|2007 European Under-19 Championship]] reaching the semi-finals before being eliminated by [[Spain national football team|Spain]]. He made his [[France national under-21 football team|French under-21]] debut on 11 February 2009 in a [[Exhibition match|friendly match]] against [[Tunisia national football team|Tunisia]]. He scored his first under-21 goal in the [[2009 Toulon Tournament]] against [[Qatar national football team|Qatar]].
+
+===Senior===
+[[File:20150331 Mali vs Ghana 063.jpg|thumb|Bakary Sako during [[Mali national football team|Mali]]-[[Ghana national football team|Ghana]] in March 2015.]]
+Sako was called up by the [[Mali national football team|Malian national team]] for the first time for a friendly against [[Senegal national football team|Senegal]] on 5 March 2014.&lt;ref&gt;{{cite news|title=Mali call-up for Wolves winger Bakary Sako|url=https://www.expressandstar.com/sport/wolverhampton-wanderers-fc/2014/02/28/mali-call-up-for-wolves-winger-bakary-sako/|publisher=Express and Star |date=28 February 2014}}&lt;/ref&gt; He scored his first international goal against [[Guinea national football team|Guinea]] in a friendly match played in [[Colombes]], France, on 25 May 2014.&lt;ref&gt;[http://www.national-football-teams.com/matches/report/10596/Mali_Guinea.html Mali vs. Guinea (1:2)]. National Football Teams (27 April 2015). Retrieved 12 May 2015.&lt;/ref&gt; His first goal in competitive internationals came when he scored the opener in a 2–0 win over [[Malawi national football team|Malawi]] in an [[2015 Africa Cup of Nations qualification#Group B|Africa Cup of Nations qualification]] match played in [[Bamako]] on 7 September 2014.&lt;ref&gt;{{cite news|title=Ten-man Mali hold on to defeat Malawi in Afcon qualifier |url=https://www.bbc.co.uk/sport/0/football/29103857 |publisher=BBC |date=7 September 2014}}&lt;/ref&gt;&lt;ref&gt;[http://www.national-football-teams.com/player/54821/Bakary_Sako.html Bakary Sako]. National Football Teams. Retrieved on 12 May 2015.&lt;/ref&gt;
+In December 2014 Sako was called up to the Mali squad for the finals of the [[2015 Africa Cup of Nations]] to be held in [[Equatorial Guinea]] in January 2015. This was to be his first taste of a senior international tournament.
+
+Sako started Mali's first two matches in group D of the [[2015 Africa Cup of Nations]] in [[Equatorial Guinea]]. These both finished in 1–1 draws, against [[Cameroon]] on 20 January and against [[Ivory Coast]] on 24 January. Sako scored a left-foot half-volley against Ivory Coast that the BBC hailed as the goal of the tournament at that point. Sako was unable to start the final and decisive group game against [[Guinea]] due to an illness though he did appear from the bench for the final 15 minutes of the game. This too ended in a 1–1 stalemate, meaning that five of the six games in group D finished 1–1 and this led to the drawing of lots between Mali and Guinea to decide who qualified for the quarter finals and who went home. It was Guinea who emerged from the hat, meaning the Eagles exited the tournament unbeaten.
+
+===International goals===
+:''Scores and results list Mali's goal tally first.''
+{{International goals header}}
+|-
+| 1. || 25 May 2014 || [[Stade Olympique Yves-du-Manoir]], [[Colombes]], [[France]] || {{fb|GUI}} || align=center | '''1'''–0 || align=center | 1–2 || [[Exhibition game|Friendly]] || [http://www.national-football-teams.com/matches/report/10596/Mali_Guinea.html]
+|-
+| 2. || 7 September 2014 || [[Stade du 26 Mars]], [[Bamako]], [[Mali]] || {{fb|MWI}} || align=center | '''1'''–0 || align=center | 2–0 || [[2015 Africa Cup of Nations qualification Group B|2015 Africa Cup of Nations qualification]] || [https://int.soccerway.com/matches/2014/09/07/africa/africa-cup-of-nations-qualification/mali/malawi/1870089/]
+|-
+| 3. || 15 October 2014 || Stade du 26 Mars, Bamako, Mali || {{fb|ETH}} || align=center | '''1'''–0 || align=center | 2–3 || 2015 Africa Cup of Nations qualification || [https://int.soccerway.com/matches/2014/10/15/africa/africa-cup-of-nations-qualification/mali/ethiopia/1870101/]
+|-
+| 4. || 24 January 2015 || [[Nuevo Estadio de Malabo]], [[Malabo]], [[Equatorial Guinea]] || {{fb|CIV}} || align=center | '''1'''–0 || align=center | 1–1 || [[2015 Africa Cup of Nations Group D|2015 Africa Cup of Nations]] || [https://int.soccerway.com/matches/2015/01/24/africa/africa-cup-of-nations/cote-divoire/mali/1972618/]
+|-
+| 5. || 25 March 2015 || [[Stade Pierre Brisson]], [[Beauvais]], France || {{fb|GAB}} || align=center | '''3'''–3 || align=center | 3–4 || Friendly || [http://www.national-football-teams.com/matches/report/12803/Gabon_Mali.html]
+|-
+| 6. || 31 March 2015 || [[Stade Sébastien Charléty]], [[Paris]], France || {{fb|GHA}} || align=center | '''1'''–1 || align=center | 1–1 || Friendly || [https://int.soccerway.com/matches/2015/03/31/world/friendlies/ghana/mali/2022102/]
+|-
+| 7. || rowspan="2" | 9 October 2015 || rowspan="2" | [[Stade de l'Aube]], [[Troyes]], France|| rowspan="2" | {{fb|BFA}} || align=center | '''1'''–0 || rowspan="2" style="text-align:center"| 4–1 || rowspan="2" | Friendly || rowspan=2 |  [http://www.national-football-teams.com/matches/report/14068/Burkina_Faso_Mali.html]
+|-
+| 8. || align=center | '''2'''–0
+|-
+| 9. || 17 November 2015 || Stade du 26 Mars, Bamako, Mali || {{fb|BOT}} || align=center | '''2'''–0 || align=center | 2–0 || [[2018 FIFA World Cup qualification – CAF Second Round|2018 FIFA World Cup qualification]] || [http://www.national-football-teams.com/matches/report/14236/Mali_Botswana.html]
+|}
+
+==Career statistics==
+{{updated|match played 2 February 2019}}&lt;ref&gt;{{cite web|title=B. SAKO|url=https://int.soccerway.com/players/bakary-sako/37600/|website=Soccerway|accessdate=7 September 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=B. SAKO|url=http://www.national-football-teams.com/player/54821/Bakary_Sako.html|website=National-Football-Teams|accessdate=7 September 2015}}&lt;/ref&gt;
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|Cup
+!colspan=2|League Cup
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=5|[[LB Châteauroux|Châteauroux]]
+|[[2005–06 Ligue 2|2005–06]]
+|[[Ligue 2]]
+|1||0||0||0||0||0||colspan=2|—||1||0
+|-
+|[[2006–07 Ligue 2|2006–07]]
+|Ligue 2
+|17||0||0||0||0||0||colspan=2|—||17||0
+|-
+|[[2007–08 Ligue 2|2007–08]]
+|Ligue 2
+|15||1||0||0||0||0||colspan=2|—||15||1
+|-
+|[[2008–09 Ligue 2|2008–09]]
+|Ligue 2
+|35||9||0||0||0||0||colspan=2|—||35||9
+|-
+!colspan=2|Total
+!68!!10!!0!!0!!0!!0!!colspan=2|—||68!!10
+|-
+|rowspan=5|[[AS Saint-Étienne|Saint-Étienne]]
+|[[2009–10 Ligue 1|2009–10]]
+|[[Ligue 1]]
+|30||1||2||1||1||0||colspan=2|—||33||2
+|-
+|[[2010–11 Ligue 1|2010–11]]
+|Ligue 1
+|38||7||1||0||3||0||colspan=2|—||42||7
+|-
+|[[2011–12 Ligue 1|2011–12]]
+|Ligue 1
+|36||4||1||0||2||1||colspan=2|—||39||5
+|-
+|[[2012–13 Ligue 1|2012–13]]
+|Ligue 1
+|2||0||0||0||0||0||colspan=2|—||2||0
+|-
+!colspan=2|Total
+!106!!12!!4!!0!!6!!1!!colspan=2|—||116!!13
+|-
+|rowspan=4|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[2012–13 Wolverhampton Wanderers F.C. season|2012–13]]
+|[[EFL Championship|Championship]]
+|37||9||1||0||1||1||colspan=2|—||39||10
+|-
+|[[2013–14 Wolverhampton Wanderers F.C. season|2013–14]]
+|[[EFL League One|League One]]
+|40||12||1||0||0||0||1||1||42||13
+|-
+|[[2014–15 Wolverhampton Wanderers F.C. season|2014–15]]
+|Championship
+|41||15||1||0||1||0||colspan=2|—||43||15
+|-
+!colspan=2|Total
+!118!!36!!3!!0!!2!!1!!1!!1!!124!!38
+|-
+|rowspan=4|[[Crystal Palace F.C.|Crystal Palace]]
+|[[2015–16 Crystal Palace F.C. season|2015–16]]
+|[[Premier League]]
+|20||2||3||0||0||0||colspan=2|—||23||2
+|-
+|[[2016–17 Crystal Palace F.C. season|2016–17]]
+|[[Premier League]]
+|7||0||0||0||1||0||colspan=2|—||8||0
+|-
+|[[2017–18 Crystal Palace F.C. season|2017–18]]
+|Premier League
+|16||3||1||1||2||2||colspan=2|—||19||6
+|-
+!colspan=2|Total
+!43!!5!!4!!1!!3!!2!!colspan=2|—||50!!8
+|-
+|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|[[2018-19 West Bromwich Albion F.C. season|2018–19]]
+|Championship
+|5||0||1||1||0||0||colspan=2|—||6||1
+|-
+|[[Crystal Palace F.C.|Crystal Palace]]
+|[[2018-19 Crystal Palace F.C. season|2018–19]]
+|Premier League
+|1||0||0||0||0||0||0||0||1||0
+|-
+!colspan=3|Career total
+!341!!63!!12!!3!!11!!3!!1!!1!!365!!70
+|}
+
+==Honours==
+'''Wolverhampton Wanderers''' 
+*[[EFL League One|Football League One]]: [[2013–14 Football League One|2013–14]]
+
+'''Crystal Palace'''
+*[[FA Cup]] runner-up: [[2016 FA Cup Final|2015–16]]&lt;ref&gt;{{cite web |title=Crystal Palace 1–2 Manchester United |url=https://www.bbc.co.uk/sport/football/36292265 |website=BBC Sport |accessdate=1 August 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#League One 5|2013–14 League One]],&lt;ref name=PFATOTY1314/&gt; [[PFA Team of the Year (2010s)#Championship 6|2014–15 Championship]]&lt;ref name=PFATOTY1415/&gt;
+*[[Football League Awards|Football League One Team of the Season]]: [[2013–14 Football League One|2013–14]]&lt;ref&gt;{{cite web |title=League 1 Team of the Season 2013/14 |url=https://www.efl.com/news/2014/may/sky-bet-league-1-team-of-the-season-201314/ |website=efl.com |publisher=English Football League |accessdate=1 August 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.wolves.co.uk/team/player-profile/index.aspx?playerid=366188&amp;tcmuri=342665 Official club profile]
+*{{Soccerbase}}
+*{{NFT player|id=54821}}
+*{{LFP|id=sako-bakary}}
+*[http://www.fff.fr/individus/selections/visu_fiche.php?in_no=1022170721&amp;id_cat=3 FFF] national team stats. {{fr icon}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 =
+{{2013–14 Football League One PFA Team of the Year}}
+{{2014–15 Football League Championship PFA Team of the Year}}
+{{Wolverhampton Wanderers F.C. Player of the Year}}
+}}
+{{Navboxes
+| title = Mali squads
+| bg    = #FCD116
+| fg    = #12A234
+| bordercolor = #E31B23
+| list1 =
+{{Mali squad 2015 Africa Cup of Nations}}
+{{Mali squad 2017 Africa Cup of Nations}}
+}}
+
+{{Crystal Palace F.C. squad}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sako, Bakary}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:People from Ivry-sur-Seine]]
+[[Category:French people of Malian descent]]
+[[Category:Association football midfielders]]
+[[Category:Malian footballers]]
+[[Category:Mali international footballers]]
+[[Category:France under-21 international footballers]]
+[[Category:France youth international footballers]]
+[[Category:LB Châteauroux players]]
+[[Category:AS Saint-Étienne players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Crystal Palace F.C. players]]
+[[Category:Ligue 1 players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:Expatriate footballers in England]]
+[[Category:2015 Africa Cup of Nations players]]
+[[Category:2017 Africa Cup of Nations players]]
+[[Category:Sportspeople from Val-de-Marne]]</text>
+      <sha1>35kzgsdy109kf1zf2dpzgp0eh3tydzf</sha1>
+    </revision>
+  </page>
+</mediawiki>

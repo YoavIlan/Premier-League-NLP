@@ -1,0 +1,284 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Terence Kongolo</title>
+    <ns>0</ns>
+    <id>36094293</id>
+    <revision>
+      <id>879246826</id>
+      <parentid>879241383</parentid>
+      <timestamp>2019-01-20T00:26:54Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/194.144.46.87|194.144.46.87]] ([[User talk:194.144.46.87|talk]]): Ambiguous. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43382">{{Infobox football biography
+| name                = Terence Kongolo
+| image               = Terence Kongolo 20140410.jpg
+| caption             = 
+| fullname            = Terence Kongolo&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1994|2|14|df=21}}&lt;ref&gt;{{cite web |title=2014 FIFA World Cup Brazil: List of Players: Netherlands |url=http://www.fifadata.com/document/fwc/2014/pdf/fwc_2014_squadlists.pdf |publisher=FIFA |format=PDF |page=25 |date=14 July 2014 |accessdate=11 February 2018}}&lt;/ref&gt;
+| birth_place         = [[Fribourg]], Switzerland
+| height              = 1.88 m&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/12359/Terence-Kongolo/overview |title=Terence Kongolo: Overview |publisher=Premier League |accessdate=11 February 2018}}&lt;/ref&gt;
+| position            = [[Defender (association football)#Centre-back|Centre back]] / [[Defender (association football)#Full-back|Left back]]
+| currentclub         = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| clubnumber          = 5
+| youthyears1         = 2002–2012
+| youthclubs1         = [[Feyenoord]]
+| years1              = 2012–2017
+| clubs1              = [[Feyenoord]]
+| caps1               = 106
+| goals1              = 1
+| years2              = 2017–2018
+| clubs2              = [[AS Monaco FC|Monaco]]
+| caps2               = 3
+| goals2              = 0
+| years3              = 2018
+| clubs3              = → [[Huddersfield Town A.F.C.|Huddersfield Town]] (loan)
+| caps3               = 13
+| goals3              = 0
+| years4              = 2018–
+| clubs4              = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| caps4               = 18
+| goals4              = 1
+| nationalyears1      = 2009
+| nationalteam1       = Netherlands U15
+| nationalcaps1       = 2
+| nationalgoals1      = 0
+| nationalyears2      = 2009–2010
+| nationalteam2       = Netherlands U16
+| nationalcaps2       = 4
+| nationalgoals2      = 1
+| nationalyears3      = 2010–2011
+| nationalteam3       = [[Netherlands national under-17 football team|Netherlands U17]]
+| nationalcaps3       = 16
+| nationalgoals3      = 2
+| nationalyears4      = 2011–2012
+| nationalteam4       = Netherlands U18
+| nationalcaps4       = 2
+| nationalgoals4      = 0
+| nationalyears5      = 2012–2013
+| nationalteam5       = [[Netherlands national under-19 football team|Netherlands U19]]
+| nationalcaps5       = 10
+| nationalgoals5      = 0
+| nationalyears6      = 2013
+| nationalteam6       = Netherlands U20
+| nationalcaps6       = 1
+| nationalgoals6      = 0
+| nationalyears7      = 2013–2015
+| nationalteam7       = [[Netherlands national under-21 football team|Netherlands U21]]
+| nationalcaps7       = 6
+| nationalgoals7      = 1
+| nationalyears8      = 2014–
+| nationalteam8       = [[Netherlands national football team|Netherlands]]
+| nationalcaps8       = 4
+| nationalgoals8      = 0
+| medaltemplates      = 
+| club-update         = 09:50, 3 January 2019 (UTC)
+| nationalteam-update = 21:20, 4 June 2018 (UTC)
+}}
+
+'''Terence Kongolo''' (born 14 February 1994) is a professional [[association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Premier League]] club [[Huddersfield Town A.F.C.|Huddersfield Town]]. Kongolo made his Eredivisie debut for Feyenoord during the [[2011–12 Eredivisie|2011–12 season]]. Born in Switzerland to Congolese parents, Kongolo was raised in the Netherlands and represents the [[Netherlands national football team]].
+
+==Club career==
+===Feyenoord===
+Kongolo joined [[Feyenoord]] as an 8-year old. After progressing through the ranks of under-16 and under-17 side,&lt;ref&gt;{{cite news|title=Talent Spotter: Terence Kongolo – the Dutch destroyer who could surpass De Vrij and Martins Indi|url=http://www.goal.com/en/news/166/europa-league/2014/11/27/6507451/talent-spotter-terence-kongolo-the-dutch-destroyer-who-could|publisher=Goal.com|date=27 November 2014|accessdate=30 March 2017}}&lt;/ref&gt; Kongolo then signed his first professional contract with the side in June 2010.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/55620|title=Terence Kongolo tekent eerste profcontract|publisher=Feyenoord|language=Dutch|date=15 June 2010|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327200741/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/55620|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; A year later, he was promoted to the first team ahead of the 2011–12 season&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/53619|title=Feyenoord zonder De Vrij tegen PSV|publisher=Feyenoord|language=Dutch|date=4 December 2011|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327213856/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/53619|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/53588|title=Koeman houdt in Utrecht vast aan vertrouwde elftal|publisher=Feyenoord|language=Dutch|date=11 December 2011|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327213502/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/53588|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; and appeared on the substitute bench, around the same time playing for the reserve side. It wasn't until on 14 April 2012 when he made his debut under manager [[Ronald Koeman]], where he came on as a substitute, in 3–0 win over [[S.B.V. Excelsior|Excelsior]].&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/53093|title=Feyenoord kruipt dichter naar top eredivisie|publisher=Feyenoord|language=Dutch|date=14 April 2012|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327212240/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/53093|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; This turned out to be his only appearance of the season and at the end of the 2011–12 season, he signed a contract extension, keeping him until June 2015.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/52775|title=Kongolo blij met nieuw contract bij Feyenoord|publisher=Feyenoord|language=Dutch|date=26 July 2012|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327212049/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/52775|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt;
+
+In the 2012–13 season, Kongolo then made his first league start on 24 August 2012 against [[Heracles Almelo]] following the injury of [[Stefan de Vrij]] and the suspension of both [[Joris Mathijsen]] and [[Bruno Martins Indi]], where he played the whole game, in a 2–1 win.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/52651|title=BASISDEBUUT KONGOLO TEGEN HERACLES ALMELO|publisher=Feyenoord|language=Dutch|date=26 August 2012|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327191310/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/52651|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; The following month, on 26 September 2012, he scored his first Feyenoord goal in the second round of the KNVB Cup, in a 3–2 win over [[N.E.C. (football club)|NEC]]&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/52536|title=FEYENOORD KRAAKT N.E.C. IN SLOTMINUUT VERLENGING|publisher=Feyenoord|language=Dutch|date=26 September 2012|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327192129/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/52536|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; and scored again in the third round of KNVB Cup, in a 4–0 win over [[XerxesDZB]] on 1 November 2012.&lt;ref&gt;{{cite news|title=Eigen doelpunt breekt ban voor Feyenoord op Kasteel|url=http://www.vi.nl/nieuws/eigen-doelpunt-breekt-ban-voor-feyenoord-op-kasteel.htm|publisher=Voetbal International|language=Dutch|date=1 November 2012|accessdate=27 March 2017}}&lt;/ref&gt; However, Kongolo received a red card after a second bookable, just 13 minutes after receiving a yellow card, in a 2–2 draw against [[FC Groningen|Groningen]] on 7 October 2012.&lt;ref&gt;{{cite news|title=Tien Feyenoorders in slotfase naast slordig Groningen|url=http://www.vi.nl/nieuws/tien-feyenoorders-in-slotfase-naast-slordig-groningen.htm|publisher=Voetbal International|language=Dutch|date=7 October 2012|accessdate=27 March 2017}}&lt;/ref&gt; As the 2012–13 season, Kongolo suffered a knee injury that kept him out for the most of the season&lt;ref&gt;{{cite news|title=Kongolo tot winterstop uitgeschakeld met kniekwetsuur|url=http://www.vi.nl/nieuws/kongolo-tot-winterstop-uitgeschakeld-met-kniekwetsuur.htm|publisher=Voetbal International|language=Dutch|date=20 November 2012|accessdate=27 March 2017}}&lt;/ref&gt; and upon returning from injury, he played in the reserve for the rest of the season, scoring once against [[PSV Eindhoven]] U21 on 2 April 2013.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/51837|title=Beloften in Eindhoven ruim langs Jong PSV|publisher=Feyenoord|language=Dutch|date=2 April 2013|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327213911/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/51837|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; At the end of the 2012–13 season, Kongolo went on to make five appearance for the first team side.
+
+At the start of the 2013–14 season, Kongolo didn't feature in the first team, as he spent the start of the season, on the reserve side. At the reserve side, he appeared nine times and captained the side on five occasions.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/51408|title=Tweede remise op rij voor beloften|publisher=Feyenoord|language=Dutch|date=18 September 2013|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330193032/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/51408|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/feyenoord-1/uitslagen/jong-sparta-jong-feyenoord-2013/verslag|title=BAKKAL MAAKT RENTREE BIJ ZEGEVIERENDE BELOFTEN|publisher=Feyenoord|language=Dutch|date=30 September 2013|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330193330/https://www.feyenoord.nl/feyenoord-1/uitslagen/jong-sparta-jong-feyenoord-2013/verslag|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt; It also saw Kongolo switch his shirt number from twenty-five to fifteen.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/51579|title=RUGNUMMERS SEIZOEN 2013–2014 BEKEND|publisher=Feyenoord|language=Dutch|date=26 June 2013|accessdate=30 March 2017}}{{dead link|date=April 2018|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt; His first appearance came on 29 September 2013 against [[ADO Den Haag]], coming on as a second half substitute, which saw them win 4–2.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/feyenoord-1/uitslagen/feyenoord-ado-den-haag-eredivisie-2013-2014/verslag|title=FEYENOORD VINDT AANSLUITING BIJ TOP EREDIVISIE|publisher=Feyenoord|language=Dutch|date=29 September 2013|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330195223/https://www.feyenoord.nl/feyenoord-1/uitslagen/feyenoord-ado-den-haag-eredivisie-2013-2014/verslag|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt; After continuously appearing in the reserve side and making two more league appearance by the end of the 2013, Kongolo was then given a handful of first team appearances as a centre-back for the rest of the season, dispatching from [[Joris Mathijsen]]. Despite suffering a minor hip injury against [[Go Ahead Eagles]] on 30 March 2014,&lt;ref&gt;{{cite news|title=Opluchting bij Feyenoord over blessure Kongolo|url=http://www.vi.nl/nieuws/opluchting-bij-feyenoord-over-blessure-kongolo.htm|publisher=Voetbal International|language=Dutch|date=30 March 2014|accessdate=30 March 2017}}&lt;/ref&gt; Kongolo finished the 2013–14 season, making eighteen appearances in all competitions.&lt;ref&gt;{{cite news|title=Koeman verkiest Kongolo boven Mathijsen|url=http://www.vi.nl/nieuws/koeman-verkiest-kongolo-boven-mathijsen.htm|publisher=Voetbal International|language=Dutch|date=16 February 2014|accessdate=30 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-tevreden-over-eigen-ontwikkeling|title=Kongolo tevreden over eigen ontwikkeling|publisher=Feyenoord|language=Dutch|date=6 March 2014|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330192523/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-tevreden-over-eigen-ontwikkeling|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt;
+
+Ahead of the 2014–15 season, Kongolo's performance in the World Cup, despite playing once, attracted interests from clubs around Europe, but the club management remained confident of keeping him.&lt;ref&gt;{{cite news|title='99 procent zeker dat Kongolo bij Feyenoord blijft'|url=http://www.vi.nl/nieuws/99-procent-zeker-dat-kongolo-bij-feyenoord-blijft.htm|publisher=Voetbal International|language=Dutch|date=8 July 2014|accessdate=27 March 2017}}&lt;/ref&gt; On 28 July 2014, it was announced that Kongolo signed a three-year contract with the club, keeping him until 2017 and ending his transfer speculation.&lt;ref&gt;{{cite web|url=https://www.feyenoord.com/news/news-overview/kongolo-pens-new-feyenoord-deal|title=KONGOLO PENS NEW FEYENOORD DEAL|publisher=Feyenoord|date=28 July 2014|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327190421/https://www.feyenoord.com/news/news-overview/kongolo-pens-new-feyenoord-deal|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; After appearing the first two league matches of the season, Kongolo was demoted to the substitute bench for two matches after losing his left-back position to  youngster [[Miquel Nelom]].&lt;ref&gt;{{cite news|title=Rutten grijpt in en verwijst Boëtius en Kongolo naar bank|url=http://www.vi.nl/nieuws/rutten-grijpt-in-en-verwijst-boetius-en-kongolo-naar-bank-.htm|publisher=Voetbal International|language=Dutch|date=24 August 2014|accessdate=30 March 2017}}&lt;/ref&gt; Kongolo returned to the first team soon after when he started against [[Willem II (football club)|Willem II]], which they lost 2–1.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/feyenoord-1/uitslagen/feyenoord-willem-ii-eredivisie-20142015/verslag|title=Feyenoord schrikt te laat wakker tegen Willem II|publisher=Feyenoord|language=Dutch|date=13 September 2014|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330202111/https://www.feyenoord.nl/feyenoord-1/uitslagen/feyenoord-willem-ii-eredivisie-20142015/verslag|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt; From that moment on, Kongolo regained his first team place, mostly playing in the centre-back position, partnering with [[Sven van Beek]], for the most of the season.&lt;ref&gt;{{cite news|title='Van Beek en Kongolo zijn cruciaal voor spel Feyenoord'|url=http://www.ad.nl/nederlands-voetbal/van-beek-en-kongolo-zijn-cruciaal-voor-spel-feyenoord~a921fea0/|publisher=Algemeen Dagblad|language=Dutch|date=17 October 2014|accessdate=30 March 2017}}&lt;/ref&gt; Kongolo then set up one of the two goals, in a 2–0 win over [[PEC Zwolle]] on 1 November 2014.&lt;ref&gt;{{cite news|title=Van Beek helpt Feyenoord over dode punt heen tegen PEC Zwolle|url=http://www.vi.nl/nieuws/van-beek-helpt-feyenoord-over-dode-punt-heen-tegen-pec.htm|publisher=Voetbal International|language=Dutch|date=1 November 2014|accessdate=30 March 2017}}&lt;/ref&gt; Despite suffering from a groin injury,&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/feyenoord-zonder-kongolo-tegen-fc-groningen|title=FEYENOORD ZONDER KONGOLO TEGEN FC GRONINGEN|publisher=Feyenoord|language=Dutch|date=25 April 2015|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330203701/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/feyenoord-zonder-kongolo-tegen-fc-groningen|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt; Kongolo finished the 2014–15 season, making forty-five appearances in all competitions.
+
+In the 2015–16 season, Kongolo switched number shirt again when he switched from number five to four this time following the retirement of [[Joris Mathijsen]] from club football.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/rugnummers-seizoen-2015-2016-bekend|title=Rugnummers seizoen 2015–2016 bekend|publisher=Feyenoord|language=Dutch|date=24 June 2015|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330203258/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/rugnummers-seizoen-2015-2016-bekend|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt; Kongolo established himself in the first team as the left-back position and started the season well when he set up one of the goals, in a 2–0 win over [[SBV Vitesse|Vitesse]] on 23 September 2015.&lt;ref&gt;{{cite news|title=Droomdebuut Kramer helpt Feyenoord aan zege|url=http://www.ad.nl/nederlands-voetbal/droomdebuut-kramer-helpt-feyenoord-aan-zege~a4f90167/|publisher=Algemeen Dagblad|language=Dutch|date=23 September 2015|accessdate=30 March 2017}}&lt;/ref&gt; Since the start of the season, Kongolo was ever-present in the first team until he was suspended for one game for picking his fourth booking this season.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-%E2%80%98we-moeten-willem-ii-niet-onderschatten%E2%80%99|title=Kongolo: ‘Willem II moeten we niet onderschatten'|publisher=Feyenoord|language=Dutch|date=17 December 2015|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330205405/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-%E2%80%98we-moeten-willem-ii-niet-onderschatten%E2%80%99|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt; After returning to the first team from suspension, Kongolo then signed a contract extension with the club, keeping him until 2018.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-verlengt-contract-bij-feyenoord-tot-2018|title=Kongolo verlengt contract bij Feyenoord tot 2018|publisher=Feyenoord|language=Dutch|date=26 January 2016|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327212009/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-verlengt-contract-bij-feyenoord-tot-2018|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; However, as the 2015–16 season progressed, Kongolo suffered a hamstring injury during the match against [[SBV Vitesse|Vitesse]] and was substituted as a result. After the match, it was announced that Kongolo would be out between four and six weeks.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-weken-aan-de-kant-met-hamstringblessure|title=Hamstringblessure houdt Kongolo weken aan de kant|publisher=Feyenoord|language=Dutch|date=14 March 2006|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327183523/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-weken-aan-de-kant-met-hamstringblessure|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; After returning to the first team, Kongolo started in [[2015–16 KNVB Cup#Final|the final of the KNVB Cup]] against [[FC Utrecht|Utrecht]] and although he was booked, leading to [[Ramon Leeuwin]] scoring an equaliser, Kongolo helped the side win the KNVB Cup with two goals to one.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/kameraadjes/nieuws-overzicht/nieuws/feyenoord-wint-knvb-beker-2016|title=FEYENOORD WINT KNVB BEKER 2016!|publisher=Feyenoord|language=Dutch|date=24 April 2016|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330182518/https://www.feyenoord.nl/kameraadjes/nieuws-overzicht/nieuws/feyenoord-wint-knvb-beker-2016|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt; At the end of the 2015–16 season, Kongolo went on to make thirty-five appearances in all competitions.
+
+Ahead of the 2016–17 season, Kongolo's performance began to attract interests from European clubs, such as, [[Sunderland A.F.C.|Sunderland]], [[Hamburger SV|Hamburg]] and [[Bayer 04 Leverkusen|Bayer Leverkusen]] but stayed at the club throughout the summer.&lt;ref&gt;{{cite news|title=Sunderland, HSV en Leverkusen volgen Kongolo|url=http://www.vi.nl/nieuws/sunderland-hsv-en-leverkusen-volgen-kongolo.htm|publisher=Voetbal International|language=Dutch|date=17 May 2016|accessdate=30 March 2017}}&lt;/ref&gt; Kongolo continued to be a first team regular since the start of the 2016–17 season and was involved in the squad that saw Feyenoord make an impressive start, with 12 wins in the row.&lt;ref&gt;{{cite news|title=Eredivisie round-up: Feyenoord maintain perfect record, Ajax win again|url=http://www.skysports.com/football/news/11095/10620641/eredivisie-round-up-feyenoord-maintain-perfect-record-ajax-win-again|publisher=Sky Sports|date=16 October 2016|accessdate=30 March 2017}}&lt;/ref&gt; During their winning streak, he scored his first professional for the side, in a 5–0 win over [[Roda JC Kerkrade|Roda]] on 25 September 2016.&lt;ref&gt;{{cite news|title=Perfect Feyenoord leidt Roda JC naar de slachtbank|url=http://www.vi.nl/nieuws/perfect-feyenoord-leidt-roda-jc-naar-de-slachtbank.htm|publisher=Voetbal International|language=Dutch|date=25 September 2016|accessdate=30 March 2017}}&lt;/ref&gt; Elsewhere in the UEFA Europa League, Kongolo helped Feyenoord keep two clean sheets against [[Manchester United F.C.|Manchester United]]&lt;ref&gt;{{cite news|title=Feyenoord 1–0 Manchester United: Jose Mourinho suffers second loss in five days|url=http://www.skysports.com/football/feyenoord-vs-man-utd/366948|publisher=Sky Sports|date=16 September 2016|accessdate=30 March 2017}}&lt;/ref&gt; and [[FC Zorya Luhansk|Zorya Luhansk]], which saw him named as UEFA Team of the Week on Matchday 1 and Matchday 3.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-in-uefa-%E2%80%98team-van-de-week%E2%80%99|title=Kongolo in UEFA ‘Team van de week’|publisher=Feyenoord|language=Dutch|date=16 September 2016|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330222914/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-in-uefa-%E2%80%98team-van-de-week%E2%80%99|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-opnieuw-in-uefa-%E2%80%98team-van-de-week%E2%80%99|title=Kongolo opnieuw in UEFA ‘Team van de week’|publisher=Feyenoord|language=Dutch|date=21 October 2016|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330212405/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-opnieuw-in-uefa-%E2%80%98team-van-de-week%E2%80%99|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt; However, Kongolo suffered a hamstring injury that kept him out throughout November.&lt;ref&gt;{{cite news|title=Feyenoord weken zonder Kongolo door hamstringblessure|url=http://www.vi.nl/nieuws/feyenoord-weken-zonder-kongolo-door-hamstringblessure.htm|publisher=Voetbal International|language=Dutch|date=7 November 2016|accessdate=30 March 2017}}&lt;/ref&gt; After returning to the first team,&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-fit-en-gefocust-voor-tweede-seizoenshelft|title=Kongolo fit en gefocust voor tweede seizoenshelft|publisher=Feyenoord|language=Dutch|date=13 January 2017|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330213646/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-fit-en-gefocust-voor-tweede-seizoenshelft|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt; Kongolo captained the club the first time in his professional career in the quarter-final of the KNVB Cup against Vitesse, which saw them lose 2–0.&lt;ref&gt;{{cite news|title=Vitesse zet slappe titelhouder voet dwars|url=http://www.goal.com/nl/match/vitesse-vs-feyenoord/2382544/report|publisher=Goal.com|language=Dutch|date=26 January 2017|accessdate=30 March 2017}}&lt;/ref&gt; On 26 February 2017, Kongolo set up one of the goals, in a 2–1 win over [[PSV Eindhoven]] to continue their winning form.&lt;ref&gt;{{cite news|title=Feyenoord knikkert PSV uit titelrace in zinderende topper|url=http://www.vi.nl/nieuws/feyenoord-knikkert-psv-uit-titelrace-in-zinderende-topper.htm|publisher=Voetbal International|language=Dutch|date=26 February 2017|accessdate=30 March 2017}}&lt;/ref&gt; However, in a 1–0 loss against [[Sparta Rotterdam]], on 5 March 2017, Kongolo suffered a thigh injury in the first half and was substituted as result.&lt;ref&gt;{{cite news|title=Stunt Sparta tegen dramatisch Feyenoord gooit titelstrijd open|url=http://www.vi.nl/nieuws/van-bronckhorst-niet-zeuren-over-doellijntechnologie.htm|publisher=Voetbal International|language=Dutch|date=5 March 2017|accessdate=30 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Feyenoord zonder Elia en Kongolo, Jørgensen wél inzetbaar|url=http://www.vi.nl/nieuws/feyenoord-zonder-elia-en-kongolo-jorgensen-wel-inzetbaar.htm|publisher=Voetbal International|language=Dutch|date=10 March 2017|accessdate=30 March 2017}}&lt;/ref&gt; After weeks on the sidelined, Kongolo managed to return to training, but continued to remain on the sidelined throughout March.&lt;ref&gt;{{cite news|title=Elia en Kongolo terug op trainingsveld Feyenoord|url=http://www.vi.nl/nieuws/elia-en-kongolo-terug-op-trainingsveld-feyenoord.htm|publisher=Voetbal International|language=Dutch|date=14 March 2017|accessdate=30 March 2017}}&lt;/ref&gt; It wasn't until on 16 April 2017 when he returned to the first team from injury against Utrecht and setting up a goal for [[Eljero Elia]], in a 2–0 win.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/feyenoord-1/uitslagen/feyenoord-fc-utrecht-netherlands-eredivisie-2016-2017/verslag|title=Feyenoord blijft koploper dankzij tiende thuiszege op rij|publisher=Feyenoord|language=Dutch|date=16 April 2017|accessdate=20 May 2017|archiveurl=https://web.archive.org/web/20170520124957/https://www.feyenoord.nl/feyenoord-1/uitslagen/feyenoord-fc-utrecht-netherlands-eredivisie-2016-2017/verslag|archivedate=20 May 2017|deadurl=no}}&lt;/ref&gt; Shortly after, he signed a contract extension with the club, keeping him until 2019.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-jaar-langer-bij-feyenoord|title=Kongolo jaar langer bij Feyenoord|publisher=Feyenoord|language=Dutch|date=26 April 2017|accessdate=20 May 2017|archiveurl=https://web.archive.org/web/20170520124352/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-jaar-langer-bij-feyenoord|archivedate=20 May 2017|deadurl=no}}&lt;/ref&gt; Kongolo played the remaining last four matches as a left-back later in the season and helped the club win the league for the first time since 1999.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/spelers-delen-kampioensvreugde-op-social-media|title=Spelers delen kampioensvreugde op social media|publisher=Feyenoord|language=Dutch|date=15 May 2017|accessdate=20 May 2017|archiveurl=https://web.archive.org/web/20170520125420/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/spelers-delen-kampioensvreugde-op-social-media|archivedate=20 May 2017|deadurl=no}}&lt;/ref&gt; At the end of the 2016–17 season, he went on to make thirty-two appearances and scoring once in all competitions.
+
+===AS Monaco===
+On 3 July 2017, Kongolo transferred to [[AS Monaco FC|AS Monaco]], signing a five-year contract.&lt;ref&gt;https://www.feyenoord.nl/nieuws/nieuwsoverzicht/terence-kongolo-naar-as-monaco&lt;/ref&gt;
+
+====Huddersfield Town (loan)====
+On 2 January 2018, [[Huddersfield Town A.F.C.|Huddersfield Town]] announced the signing of Kongolo on loan until the end of the 2017–18 season.&lt;ref&gt;{{cite web|title=LOAN: TERENCE KONGOLO JOINS FROM MONACO|url=https://www.htafc.com/news/2018/january/loan-terence-kongolo-joins-from-monaco/|website=htafc.com|publisher=Huddersfield Town A.F.C.|accessdate=2 January 2018|date=2 January 2018}}&lt;/ref&gt;
+
+===Huddersfield Town===
+On 8 June 2018, [[Huddersfield Town A.F.C.|Huddersfield Town]] completed the permanent signing of Kongolo for an undisclosed club record fee.&lt;ref&gt;{{cite web|title=Terence Kongolo: Huddersfield sign Dutch defender from Monaco for club-record fee|url=https://www.bbc.co.uk/sport/football/44421345|website=bbc.co.uk|publisher=BBC|accessdate=24 July 2018|date=8 June 2018}}&lt;/ref&gt;
+
+==International career==
+
+===Youth career===
+Kongolo was initially eligible to play for the [[Netherlands national football team|Netherlands]], [[Switzerland national football team|Switzerland]] or [[DR Congo national football team|DR Congo]]. After progressing at Netherlands U15 and Netherlands U16, Kongolo was called up by [[Netherlands national under-17 football team|Netherlands U17]] for the first time in September 2010&lt;ref&gt;{{cite web|url=http://www.onsoranje.nl/nieuws/jeugd-mannen-onder-17/12370/definitieve-selectie-onder-17|title=Definitieve selectie Onder 17|publisher=Orsoranje|language=Dutch|date=6 September 2010|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327202048/http://www.onsoranje.nl/nieuws/jeugd-mannen-onder-17/12370/definitieve-selectie-onder-17|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; and scored on his debut on 15 September 2010, in a 5–2 win over Germany U17.&lt;ref&gt;{{cite web|url=http://www.onsoranje.nl/nieuws/jeugd-mannen-onder-17/12970/nieuw-o-17-verliest-duitsland|title=Nieuw O-17 verliest in Duitsland|publisher=Onsoranje|language=Dutch|date=15 September 2010|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327202550/http://www.onsoranje.nl/nieuws/jeugd-mannen-onder-17/12970/nieuw-o-17-verliest-duitsland|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt;
+
+Kongolo was then a part of the Netherlands under-17 national team which won [[2011 UEFA European Under-17 Championship|European Championship]] in 2011.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/54346|title=Feyenoord hofleverancier voor EK-selectie Oranje onder 17|publisher=Feyenoord|language=Dutch|date=26 April 2011|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327202657/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/54346|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; During the final of the Under-17 Championship against [[Germany national youth football team|Germany U17]], he scored against them for the second time in his Netherlands U17 career, which saw Netherlands U17 win 5–2.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/54279|title=Oranje onder 17 Europees kampioen|publisher=Feyenoord|language=Dutch|date=15 May 2011|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327203541/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/54279|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; He was also named to the Team of the Tournament.&lt;ref&gt;{{cite web|title=Technical report – 2011 UEFA U17 European Championship|url=https://www.uefa.com/MultimediaFiles/Download/TechnicalReport/competitions/Under17/01/64/88/25/1648825_DOWNLOAD.pdf}}&lt;/ref&gt; The following month, Kongolo was called up again for the [[2011 FIFA U-17 World Cup]] in Mexico, but was unable to progress in the Group-Stage.&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/54223|title=Zes Feyenoorders in WK-selectie Oranje onder 17|publisher=Feyenoord|language=Dutch|date=2 June 2011|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327202915/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/54223|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt;
+
+After playing Netherlands U18 briefly around 2012, Kongolo was called up by [[Netherlands national under-19 football team|Netherlands U19]] in August 2012&lt;ref&gt;{{cite web|url=http://www.onsoranje.nl/nieuws/jeugd-mannen-onder-19/41450/34-man-voorselectie-onder-19|title=34 man in voorselectie Onder 19|publisher=Onsoranje|language=Dutch|date=22 August 2012|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327204746/http://www.onsoranje.nl/nieuws/jeugd-mannen-onder-19/41450/34-man-voorselectie-onder-19|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; and made his Netherlands U19 debut on 10 September 2012, in a 2–1 win over [[Scotland national under-19 football team|Scotland U19]].&lt;ref&gt;{{cite web|url=http://www.onsoranje.nl/nieuws/jeugd-mannen-onder-19/42274/winst-onder-19-schotland|title=Winst Onder 19 in Schotland|publisher=Onsoranje|language=Dutch|date=10 September 2012|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327205203/http://www.onsoranje.nl/nieuws/jeugd-mannen-onder-19/42274/winst-onder-19-schotland|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; Kongolo went on to make ten appearance for the Netherlands U19, including playing three times in the [[2013 UEFA European Under-19 Championship|UEFA European Under-19 Championship]].&lt;ref&gt;{{cite web|url=http://www.onsoranje.nl/nieuws/jeugd-mannen-onder-19/51626/voorlopige-selectie-onder-19|title=Voorlopige selectie Onder 19|publisher=Onsoranje|language=Dutch|date=28 June 2013|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327205924/http://www.onsoranje.nl/nieuws/jeugd-mannen-onder-19/51626/voorlopige-selectie-onder-19|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt;
+
+Months after playing the UEFA European Under-19 Championship, Kongolo was called up by [[Netherlands national under-21 football team|Netherlands U21]] for the first time in mid-August 2013.&lt;ref&gt;{{cite web|url=http://www.onsoranje.nl/nieuws/jong-oranje/52734/geen-rekik-en-bruns-bij-jo|title=Geen Rekik en Bruns bij JO|publisher=Onsoranje|language=Dutch|date=11 August 2013|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327210558/http://www.onsoranje.nl/nieuws/jong-oranje/52734/geen-rekik-en-bruns-bij-jo|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; Kongolo made his Netherlands U21 debut on 14 August 2013, in a 2–1 loss against [[Czech Republic national under-21 football team|Czech Republic U21]].&lt;ref&gt;{{cite web|url=http://www.onsoranje.nl/nieuws/jong-oranje/52830/jong-oranje-verliest-tsjechi%C3%AB|title=Jong Oranje verliest in Tsjechië|publisher=Onsoranje|language=Dutch|date=14 August 2013|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327210608/http://www.onsoranje.nl/nieuws/jong-oranje/52830/jong-oranje-verliest-tsjechi%C3%AB|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; Around the same time, Kongolo made his Netherlands U20 debut, in a 4–0 loss against Germany U20 on 12 October 2013.&lt;ref&gt;{{cite web|url=http://www.onsoranje.nl/nieuws/jeugd-mannen-beloftenelftal/54390/tweede-nederlaag-voor-beloften|title=Tweede nederlaag voor Beloften|publisher=Onsoranjde|language=Dutch|date=12 October 2013|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327211203/http://www.onsoranje.nl/nieuws/jeugd-mannen-beloftenelftal/54390/tweede-nederlaag-voor-beloften|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; The following year, on 14 October 2014, Kongolo scored his first Netherlands U21 in the qualification round of UEFA European Under-21 Championship, in a 5–4 loss against [[Portugal national under-21 football team|Portugal U21]].&lt;ref&gt;{{cite web|url=http://www.onsoranje.nl/nieuws/jong-oranje/60242/jong-oranje-uitgeschakeld-5-4|title=Jong Oranje uitgeschakeld: 5–4|publisher=Onsoranje|language=Dutch|date=14 October 2014|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327211704/http://www.onsoranje.nl/nieuws/jong-oranje/60242/jong-oranje-uitgeschakeld-5-4|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt;
+
+===Senior career===
+
+Kongolo's performances for Feyenoord saw him included [[Netherlands national football team|senior team]] manager [[Louis Van Gaal]]'s squad for the [[2014 FIFA World Cup]] in Brazil.&lt;ref&gt;{{cite news|title=Vijf mogelijke debutanten aanwezig tijdens WK-stage|url=http://www.vi.nl/nieuws/vijf-mogelijke-debutanten-aanwezig-tijdens-wkstage-.htm|publisher=Voetbal International|language=Dutch|date=5 May 2014|accessdate=27 March 2017}}&lt;/ref&gt; It wasn't until on 17 May 2014 when he made his senior national team debut, in a 1–1 draw against [[Ecuador national football team|Ecuador]].&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-debuteert-met-gelijkspel-in-oranje|title=Kongolo debuteert met gelijkspel in Oranje|publisher=Feyenoord|language=Dutch|date=17 May 2014|accessdate=27 March 2017|archiveurl=https://web.archive.org/web/20170327190531/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-debuteert-met-gelijkspel-in-oranje|archivedate=27 March 2017|deadurl=no}}&lt;/ref&gt; After the match, both van Gaal and Kongolo agreed that his performance was sloppy.&lt;ref&gt;{{cite news|title='Agressievere' Van Aanholt beter dan 'slordige' Kongolo|url=http://www.vi.nl/nieuws/agressievere-van-aanholt-beter-dan-slordige-kongolo.htm|publisher=Voetbal International|language=Dutch|date=17 May 2014|accessdate=27 March 2017}}&lt;/ref&gt;
+
+Nevertheless, Kongolo was included in the twenty-three man squad in the tournament, where he made one appearance in their final group game after entering as a substitute for [[Dirk Kuyt]] in the 89th minute against [[Chile national football team|Chile]]; the Dutch won 2–0.&lt;ref&gt;{{cite news|title=De cijfers van de 23 WK-gangers van Oranje op een rij|url=http://www.vi.nl/nieuws/de-cijfers-van-de-23-wkgangers-van-oranje-op-een-rij.htm|publisher=Voetbal International|language=Dutch|date=1 June 2014|accessdate=27 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Netherlands 2 – 0 Chile|url=https://www.bbc.co.uk/sport/football/25285270|publisher=BBC Sport|date=23 June 2014|accessdate=27 March 2017}}&lt;/ref&gt; Although making one appearance in the tournament, Netherlands finished third place in the World Cup and for that, he received a bronze medal.&lt;ref&gt;{{cite news|title=Oranje neemt afscheid van WK: 'Heerlijk einde!|url=http://www.vi.nl/nieuws/oranje-neemt-afscheid-van-wk-heerlijk-einde.htm|publisher=Voetbal International|language=Dutch|date=13 July 2014|accessdate=27 March 2017}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|3 January 2019}}&lt;ref&gt;{{cite web|title=T.Kongolo|url=https://uk.soccerway.com/players/terence-kongolo/161296/|website=soccerway.com|publisher=Soccerway|accessdate=9 May 2018}}&lt;/ref&gt;
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="7" valign="center"|[[Feyenoord]]
+|[[2011–12 Eredivisie|2011–12]]
+|rowspan="6" valign="center"|[[Eredivisie]]
+|1||0||0||0||colspan="2"|–||colspan="2"|–||colspan="2"|–||0||0
+|-
+|[[2012–13 Eredivisie|2012–13]]
+|5||0||2||2||colspan="2"|–||1||0||colspan="2"|–||8||2
+|-
+|[[2013–14 Eredivisie|2013–14]]
+|17||0||1||0||colspan="2"|–||0||0||colspan="2"|–||18||0
+|-
+|[[2014–15 Eredivisie|2014–15]]
+|31||0||1||0||colspan="2"|–||11||0||2||0||45||0
+|-
+|[[2015–16 Eredivisie|2015–16]]
+|29||0||6||0||colspan="2"|–||colspan="2"|–||colspan="2"|–||35||0
+|-
+|[[2016–17 Eredivisie|2016–17]]
+|23||1||3||0||colspan="2"|–||4||0||1||0||32||1
+|-
+!colspan="2"|Total
+!106!!1!!13!!2!!-!!-!!16!!0!!3!!0!!138!!3
+|-
+|valign="center"|[[AS Monaco FC|AS Monaco]]
+|[[2017–18 AS Monaco FC season|2017–18]]
+|[[Ligue 1]]
+|3||0||0||0||1||0||1||0||1||0||6||0
+|-
+|rowspan="3" valign="center"|[[Huddersfield Town A.F.C.|Huddersfield Town]] (loan)
+|[[2017–18 Huddersfield Town A.F.C. season|2017–18]]
+|rowspan="2" |[[Premier League]]
+|13||0||4||0||0||0||colspan="2"|–||colspan="2"|–||17||0
+|-
+|[[2018–19 Huddersfield Town A.F.C. season|2018–19]]
+|18||1||0||0||0||0||colspan="2"|–||colspan="2"|–||18||1
+|-
+!colspan="2"|Total
+!31!!1!!4!!0!!0!!0!!0!!0!!0!!0!!35!!4
+|-
+!colspan="3"|Career total
+!140!!2!!17!!2!!1!!0!!17!!0!!4!!0!!179!!4
+|}
+
+==Personal life==
+Born in [[Fribourg]], Switzerland, to Congolese parents, Kongolo moved to the Netherlands when he was four years old and despite being raised in the Netherlands, he holds Swiss citizenship.&lt;ref&gt;{{cite news|title=Kongolo had voor Zwitserland kunnen spelen: "Niet echt over nagedacht"|url=http://www.feyenoordprimeur.nl/nieuws/621663/kongolo-had-voor-zwitserse-elftal-kunnen-spelen-niet-echt-over-nagedacht-.html|publisher=Feyenoord Primeur|language=Dutch|date=1 December 2015|accessdate=30 March 2017}}&lt;/ref&gt;
+
+Kongolo has two younger brothers: [[Rodney Kongolo|Rodney]], born in 1998, and Fidel.&lt;ref&gt;{{cite web |url=http://footballwonderkids.net/the-next-koemans/ |title=Archived copy |accessdate=2013-03-26 |deadurl=yes |archiveurl=https://web.archive.org/web/20140221175340/http://footballwonderkids.net/the-next-koemans/ |archivedate=2014-02-21 |df= }} retrieved 26 March 2013.&lt;/ref&gt;
+
+Outside of football, Kongolo is an avid fan of basketball, especially the [[National Basketball Association|NBA]].&lt;ref&gt;{{cite web|url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-hard-werken-is-de-basis-van-succes|title=Kongolo: ‘Hard werken is de basis van succes’|publisher=Feyenoord|language=Dutch|date=23 February 2017|accessdate=30 March 2017|archiveurl=https://web.archive.org/web/20170330214533/https://www.feyenoord.nl/nieuws/nieuwsoverzicht/kongolo-hard-werken-is-de-basis-van-succes|archivedate=30 March 2017|deadurl=no}}&lt;/ref&gt;
+
+==Honours==
+===Club===
+'''Feyenoord'''
+* [[Eredivisie]]: [[2016–17 Eredivisie|2016–17]]
+* [[KNVB Cup]]: [[2015–16 KNVB Cup|2015–16]]
+
+===International===
+'''Netherlands'''
+* [[FIFA World Cup]] Third Place: [[2014 FIFA World Cup#Third place play-off|2014]]&lt;ref&gt;{{cite web|title=2014 FIFA World Cup Brazil: Brazil-Netherlands|url=https://www.fifa.com/worldcup/matches/round=255957/match=300186502/index.html|publisher=FIFA|date=12 July 2014|accessdate=21 August 2014}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.onsoranje.nl/team-statistieken/teams/speler/22/4f8c4268-1a29b426-792615 Netherlands U17 stats] at OnsOranje
+*[http://www.onsoranje.nl/team-statistieken/teams/speler/20/4f8c4268-1a29b426-792615 Netherlands U19 stats] at OnsOranje
+*[http://www.onsoranje.nl/team-statistieken/teams/speler/25/50a3c219-d2cfc308-156150 Netherlands U21 stats] at OnsOranje
+* [https://www.vi.nl/spelers/terence-kongolo/profiel Terence Kongolo] at ''[[Voetbal International]]'' {{nl icon}} – {{webarchive |url=https://web.archive.org/web/20160127033805/http://www.vi.nl/spelers/carriere/terence-kongolo.htm}}
+
+{{Netherlands squad 2014 FIFA World Cup}}
+{{Huddersfield Town A.F.C. squad}}
+
+
+{{DEFAULTSORT:Kongolo, Terence}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Footballers from Rotterdam]]
+[[Category:Dutch footballers]]
+[[Category:Netherlands youth international footballers]]
+[[Category:Netherlands under-21 international footballers]]
+[[Category:Netherlands international footballers]]
+[[Category:Swiss footballers]]
+[[Category:Dutch people of Democratic Republic of the Congo descent]]
+[[Category:Swiss people of Democratic Republic of the Congo descent]]
+[[Category:People from Fribourg]]
+[[Category:Eredivisie players]]
+[[Category:Ligue 1 players]]
+[[Category:Feyenoord players]]
+[[Category:AS Monaco FC players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:Association football fullbacks]]
+[[Category:Association football central defenders]]
+[[Category:Dutch expatriates in Monaco]]
+[[Category:Swiss expatriates in Monaco]]
+[[Category:Huddersfield Town A.F.C. players]]
+[[Category:Dutch expatriates in England]]</text>
+      <sha1>qv44tuynq85r6j020pg4f1q8cag3rs1</sha1>
+    </revision>
+  </page>
+</mediawiki>

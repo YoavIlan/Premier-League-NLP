@@ -1,0 +1,265 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sheyi Ojo</title>
+    <ns>0</ns>
+    <id>45331854</id>
+    <revision>
+      <id>885420308</id>
+      <parentid>885420215</parentid>
+      <timestamp>2019-02-27T22:45:34Z</timestamp>
+      <contributor>
+        <ip>109.150.190.233</ip>
+      </contributor>
+      <comment>/* Career statistics */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22301">{{Use British English|date=June 2013}}
+{{Use dmy dates|date=December 2018}}
+{{Infobox football biography
+| name = Sheyi Ojo
+| image = File:Sheyi Ojo 2015.jpg
+| caption = Ojo with [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in 2015
+| fullname = Oluwaseyi Babajide Ojo&lt;ref name="List of Players under Written Contract Registered Between 01/07/2014 and 31/07/2014"&gt;{{cite web |url=http://www.thefa.com/~/media/files/thefaportal/governance-docs/registrations/july-2014.ashx?la=en |title=List of Players under Written Contract Registered Between 01/07/2014 and 31/07/2014 |format=PDF |page=23 |accessdate=7 February 2015}}&lt;/ref&gt;
+| birth_date = {{Birth date and age|1997|6|19|df=y}}&lt;ref name="Premier League"&gt;{{cite web |url=https://www.premierleague.com/players/10543/Sheyi-Ojo/overview |title=Sheyi Ojo Profile |publisher=Premier League |accessdate=8 February 2016}}&lt;/ref&gt;
+| birth_place = [[Hemel Hempstead]], England
+| height = {{height|m=1.77}}&lt;ref name="Premier League"/&gt;
+| position = [[Midfielder#Winger|Winger]]
+| currentclub = [[Stade de Reims|Reims]] &lt;br/&gt; (on loan from [[Liverpool F.C.|Liverpool]])
+| clubnumber = 11
+| youthyears1 = 2007–2011
+| youthclubs1 = [[Milton Keynes Dons F.C.|Milton Keynes Dons]]
+| youthyears2 = 2011–2015
+| youthclubs2 = [[Liverpool F.C. Reserves and Academy|Liverpool]]
+| years1 = 2015–
+| clubs1 = [[Liverpool F.C.|Liverpool]]
+| caps1 = 8
+| goals1 = 0&lt;!--LEAGUE CAPS &amp; GOALS ONLY, DO NOT ADD FA/LEAGUE CUP CAPS &amp; GOALS HERE --&gt;
+| years2 = 2015
+| clubs2 = → [[Wigan Athletic F.C.|Wigan Athletic]] (loan)
+| caps2 = 11
+| goals2 = 0
+| years3 = 2015–2016
+| clubs3 = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
+| caps3 = 17
+| goals3 = 2
+| years4 = 2017–2018
+| clubs4 = → [[Fulham F.C.|Fulham]] (loan)
+| caps4 = 22
+| goals4 = 4
+| years5 = 2018–
+| clubs5 = → [[Stade de Reims|Reims]] (loan)
+| caps5 = 13
+| goals5 = 0
+| nationalyears1 = 2011
+| nationalteam1  = [[England national under-16 football team|England U16]]
+| nationalcaps1  = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2012–2014
+| nationalteam2  = [[England national under-17 football team|England U17]]
+| nationalcaps2  = 11
+| nationalgoals2 = 1
+| nationalyears3 = 2014–2015
+| nationalteam3  = [[England national under-18 football team|England U18]]
+| nationalcaps3  = 9
+| nationalgoals3 = 4
+| nationalyears4 = 2015–2016
+| nationalteam4  = [[England national under-19 football team|England U19]]
+| nationalcaps4  = 14
+| nationalgoals4 = 1
+| nationalyears5 = 2017
+| nationalteam5  = [[England national under-20 football team|England U20]]
+| nationalcaps5  = 5
+| nationalgoals5 = 0
+| nationalyears6 = 2017–
+| nationalteam6  = [[England national under-21 football team|England U21]]
+| nationalcaps6  = 1
+| nationalgoals6 = 0
+| club-update = 19 January 2019
+| nationalteam-update = 22:03, 28 May 2018 (UTC)
+|
+}}
+'''Oluwaseyi Babajide "Sheyi" Ojo''' (born 19 June 1997) is an English [[Association football|footballer]] who plays for [[Stade de Reims]]&lt;ref&gt;{{Cite news |url=https://www.liverpoolfc.com/news/first-team/314115-sheyi-ojo-new-contract-loan-liverpool |title=Sheyi Ojo signs new deal and makes loan move |work=Liverpool FC|access-date=30 August 2018}}&lt;/ref&gt;, on loan from [[Liverpool F.C.|Liverpool]], as a [[Midfielder#Winger|winger]].
+
+Ojo joined Liverpool as a 14-year-old and came through their [[Liverpool F.C. Reserves and Academy|academy]]. He spent time on loan with [[EFL Championship|Championship]] clubs [[Wigan Athletic F.C.|Wigan Athletic]] and [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] before making his competitive debut for Liverpool in January 2016.
+
+Ojo has represented England at [[England national under-16 football team|under-16]], [[England national under-17 football team|under-17]], [[England national under-18 football team|under-18]], [[England national under-19 football team|under-19]], [[England national under-20 football team|under-20]] and [[England national under-21 football team|under-21]] levels.
+
+==Club career==
+
+===Early career===
+Ojo joined [[Milton Keynes Dons F.C.|MK Dons]]' academy when he was 10 years old. By the age of 13, he had played for the Dons' U18 side and was training with the first team squad.&lt;ref name="bbc.co.uk"&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/15780917 |title=Liverpool sign up MK Dons schoolboy Seyi Ojo |publisher=BBC Sport |date=17 November 2011 |accessdate=7 February 2015}}&lt;/ref&gt; During his time at the club, Ojo became the first MK Dons trainee to receive an international cap at youth level.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2011/nov/17/liverpool-mk-dons-seyi-ojo |title=Liverpool sign MK Dons teenage midfielder Seyi Ojo |work=The Guardian |date=17 November 2011 |accessdate=7 February 2015}}&lt;/ref&gt;
+
+===Liverpool===
+On 11 November 2011, Liverpool beat off competition from a host of Europe's top clubs&lt;ref&gt;{{cite news |url=http://www.liverpoolecho.co.uk/news/showbiz-news/exclusive---meet-teenage-dream-8314038 |title=Exclusive – meet a teenage dream team: rising Liverpool FC star Sheyi Ojo and aspiring beauty queen and actress Amaani Noor |first=Paddy |last=Shennan |work=Liverpool Echo |date=18 December 2014 |accessdate=7 February 2015}}&lt;/ref&gt; including a multimillion-pound offer from [[Chelsea F.C.|Chelsea]]&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-2049367/Chelsea-pay-2m-14-year-old-Oluwaseyi-Ojo.html |title=Chelsea pay £2m for 14-year-old Oluwaseyi Ojo |work=Daily Mail |first=Sami |last=Mokbel |date=14 October 2011 |accessdate=7 February 2015}}&lt;/ref&gt; to sign Ojo, then 14, for an undisclosed fee believed to be in the region of £2 million.&lt;ref name="bbc.co.uk"/&gt; In April 2014, Ojo was joint top scorer alongside fellow Liverpool player [[Harry Wilson (footballer, born 1997)|Harry Wilson]] in the prestigious U17 [[Future Cup]].
+
+====Loan to Wigan====
+Having made a number of appearances on Liverpool's bench over the festive period, Ojo joined [[Wigan Athletic F.C.|Wigan Athletic]] on loan on 2 February 2015.&lt;ref&gt;{{cite web |url=http://www.skysports.com/football/news/11682/9696365/transfer-news-wigan-sign-liverpool-winger-sheyi-ojo-on-loan |title=Transfer news: Wigan sign Liverpool winger Sheyi Ojo on loan |publisher=Sky Sports |date=2 February 2015 |accessdate=30 January 2016}}&lt;/ref&gt; Five days later, he made his professional debut coming on as a 59th-minute substitute for Wigan in a Championship match against [[AFC Bournemouth]], with Wigan naming Ojo as their Man of the Match after he had a positive impact on the game.&lt;ref&gt;{{cite web |url=http://www.thisisanfield.com/2015/02/loan-watch-lfc-youngster-earns-man-match-professional-debut-despite-playing-30-minutes/ |title=Loan Watch: LFC youngster earns man of match on professional debut – despite only playing 30 minutes! |publisher=This Is Anfield |date=26 January 2016 |accessdate=30 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/31070531 |title=Wigan Athletic 1–3 Bournemouth |publisher=BBC Sport |date=7 February 2015 |accessdate=30 January 2016}}&lt;/ref&gt;
+
+==== Loan to Wolverhampton ====
+On 2 August 2015, Ojo scored the winning goal for Liverpool in a friendly against [[Swindon Town F.C.|Swindon Town]].&lt;ref&gt;{{cite news |url=http://www.dailymail.co.uk/sport/football/article-3183085/Swindon-1-2-Liverpool-Christian-Benteke-scores-stunning-volley-debut-Reds-complete-preparations-ahead-Stoke-test.html |title=Swindon 1–2 Liverpool: Christian Benteke scores stunning volley on debut as Reds complete preparations ahead of Stoke test |last=Crafton |first=Adam |date=2 August 2015 |work=Daily Mail |accessdate=30 January 2016}}&lt;/ref&gt; In 4 August 2015, Liverpool announced that Ojo had signed a new long-term contract with the club and confirmed that he would join [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a season-long loan.&lt;ref&gt;{{cite web |title=New Reds deal and loan switch for Ojo |url=http://www.liverpoolfc.com/news/latest-news/190040-new-reds-deal-and-loan-switch-for-ojo |publisher=Liverpool F.C. |date=3 August 2015 |accessdate=4 August 2015}}&lt;/ref&gt; He made his Wolves debut on the opening day of the 2015–16 Championship season as a substitute, coming on in the 84th minute and picking up a yellow card as his side went on to beat [[Blackburn Rovers F.C.|Blackburn Rovers]]. Three days later, he made his first start for Wolves in a 2–1 League Cup win over [[Newport County A.F.C.|Newport County]], assisting [[Nouha Dicko]] for Wolves' opening goal.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/33769181 |title=Wolverhampton Wanderers 2–1 Newport County |publisher=BBC Sport |date=11 August 2015 |accessdate=15 November 2016}}&lt;/ref&gt;
+
+====Return to Liverpool====
+He was recalled by Liverpool on 7 January 2016.&lt;ref&gt;{{cite web |url=http://www.skysports.com/football/news/11669/10121367/liverpool-recall-sheyi-ojo-from-wolves-loan-spell |title=Liverpool recall Sheyi Ojo from Wolves loan spell |publisher=Sky Sports |first=Mike |last=Patterson |date=7 January 2016 |accessdate=7 January 2016}}&lt;/ref&gt; The next day, Ojo made his competitive first-team debut for Liverpool, as a substitute in the [[FA Cup]] [[2015–16 FA Cup#Third Round Proper|Third Round]] tie against [[Exeter City F.C.|Exeter City]] that ended in a 2–2 draw.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/35155398 |title=Exeter City 2–2 Liverpool |publisher=BBC Sport |first=Gary |last=Rose |date=8 January 2016 |accessdate=8 January 2016}}&lt;/ref&gt; He scored his first competitive goal for Liverpool in the replay against Exeter on 20 January; his goal was the second in a 3–0 victory.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/35299326 |title=Liverpool 3–0 Exeter City |publisher=BBC Sport |first=Aimee |last=Lewis |date=20 January 2016 |accessdate=21 January 2016}}&lt;/ref&gt;
+
+Ojo made his [[Premier League]] debut on 20 March 2016, replacing [[Joe Allen (footballer, born 1990)|Joe Allen]] in the 87th minute in a 3–2 loss away to [[Southampton F.C.|Southampton]] at [[St Mary's Stadium]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/35796778 |title=Southampton 3–2 Liverpool |publisher=BBC Sport |first=Mike |last=Henson |date=20 March 2016 |accessdate=20 March 2016}}&lt;/ref&gt; Three weeks later, he made his first start for Liverpool in the Premier League against [[Stoke City F.C.|Stoke City]] at [[Anfield]], where he assisted [[Daniel Sturridge]] for Liverpool's second goal in a 4–1 win, before being replaced by [[Divock Origi]].&lt;ref&gt;{{cite news |url=http://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-boss-jurgen-klopp-kevin-11166081 |title=Liverpool boss Jurgen Klopp on Kevin Stewart and Sheyi Ojo |work=Liverpool Echo |first=Joe |last=Rimmer |date=10 April 2016 |accessdate=10 April 2016}}&lt;/ref&gt;
+
+Ahead of the 2016–17 season, Ojo sustained a fracture in his back and did not return to first team training until mid-November.&lt;ref&gt;{{cite news |url=http://www.liverpoolecho.co.uk/sport/football/football-news/sheyi-ojo-klopp-liverpool-injury-12172276 |title=Sheyi Ojo hands Liverpool boss Klopp another injury boost |work=Liverpool Echo |first=Kristian |last=Walsh |date=14 November 2016 |accessdate=14 November 2016}}&lt;/ref&gt;
+
+====Loan to Fulham====
+On 16 August 2017, Ojo joined [[Fulham F.C.|Fulham]] on season-long loan.&lt;ref&gt;{{cite news |title=Sheyi Ojo: Liverpool forward joins Fulham on loan for 2017–18 season |url=https://www.bbc.com/sport/football/40950777 |publisher=BBC Sport |date=16 August 2017}}&lt;/ref&gt; He scored a double in a 5–4 win over [[Sheffield United F.C.|Sheffield United]], on 21 November.&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/41978135 |title=Sheffield United 4–5 Fulham |date=21 November 2017 |publisher=BBC Sport|access-date=30 August 2018 }}&lt;/ref&gt; He scored the winning goal in a 1–0 win over [[Birmingham City F.C.|Birmingham City]], on 9 December.&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/42205336 |title=Fulham 1–0 Birmingham City |date=9 December 2017 |publisher=BBC Sport|access-date=30 August 2018 }}&lt;/ref&gt; On 23 December, Ojo received a yellow card and scored in a 2–1 win over [[Barnsley F.C.|Barnsley]].&lt;ref&gt;{{Cite news |url=https://www.bbc.com/sport/football/42375408 |title=Fulham 2–1 Barnsley |date=23 December 2017 |publisher=BBC Sport|access-date=30 August 2018 }}&lt;/ref&gt;
+
+==== Loan to Stade de Reims ====
+On 30 August 2018, Ojo signed a new contract with Liverpool and joined [[Stade de Reims]] on a season-long loan.&lt;ref&gt;{{Cite news |url=https://www.liverpoolfc.com/news/first-team/314115-sheyi-ojo-new-contract-loan-liverpool |title=Sheyi Ojo signs new deal and makes loan move |work=Liverpool FC|access-date=30 August 2018}}&lt;/ref&gt;
+
+==International career==
+As Ojo was born in England, he is eligible to represent [[England national football team|England]] and through his [[Nigerians|Nigerian]] heritage is also eligible to play for [[Nigeria national football team|Nigeria]] in international football. Ojo has represented England at [[England national under-16 football team|under-16]], [[England national under-17 football team|under-17]], [[England national under-18 football team|under-18]] and [[England national under-19 football team|under-19]] levels. In his early teens, Ojo often played at a higher age group at international level, representing England U17s at the St George's Park Tournament in 2012 aged 15.&lt;ref&gt;{{cite web |url=https://theyouthradar.com/2012/08/07/england-under-17s-squad-named-for-early-season-tournament/ |title=England Under 17s Squad Named For Early Season Tournament |publisher=The Youth Radar |first=Tom |last=Bennett |date=7 August 2012 |accessdate=15 November 2016}}&lt;/ref&gt; Ojo represented England U17s in the 2014 Algarve Tournament, with England coming second to Germany after a 1–0 loss in the final game.&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/england/development/2014/mar/england-u17s-v-germany-algarve-tournament-match-report-020314 |title=England Under-17 suffer late heartbreak in the Algarve |publisher=The Football Association |first=Gary |last=Stonehouse |date=2 March 2014 |accessdate=30 January 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20141013165511/http://www.thefa.com/news/england/development/2014/mar/england-u17s-v-germany-algarve-tournament-match-report-020314 |archivedate=13 October 2014}}&lt;/ref&gt;
+
+In September 2014, Ojo received his first [[England national under-18 football team|England U18]] call-up for a double header against the Netherlands. Ojo appeared in both games with England winning by an aggregate score of 7–2.&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/england/development/2014/aug/holland-bury-september-squad-neil-dewsnip-ledson-u17-euros-champions-woodman-kenny |title=Neil Dewsnip names U18 squad |publisher=The Football Association |date=26 August 2014 |accessdate=30 January 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20140829013216/http://www.thefa.com/news/england/development/2014/aug/holland-bury-september-squad-neil-dewsnip-ledson-u17-euros-champions-woodman-kenny |archivedate=29 August 2014}}&lt;/ref&gt; On 27 August 2015, Ojo received his first call-up to the [[England national under-19 football team|England U19 team]] and played 90 minutes in a 3–2 away win over [[Germany national under-19 football team|Germany]].&lt;ref&gt;{{cite web |url=http://www.liverpoolfc.com/news/first-team/192680-rossiter-and-ojo-in-england-u19-squad |title=Rossiter and Ojo in England U19 squad |publisher=Liverpool F.C. |first=David |last=Lynch |date=27 August 2015 |accessdate=30 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/england/development/2015/sep/match-report-germany-v-england-u19s-040915 |title=England U19s pick up thrilling victory in Germany |publisher=The Football Association |first=Gary |last=Stonehouse |date=4 September 2015 |accessdate=30 January 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160205000006/http://www.thefa.com/news/england/development/2015/sep/match-report-germany-v-england-u19s-040915 |archivedate=5 February 2016}}&lt;/ref&gt; Later in the same tournament, he started against France and helped ''The Young Lions'' secure a 2–1 win by providing 2 assists.&lt;ref&gt;{{cite web |url=http://www.thisisanfield.com/2016/07/sheyi-ojo-provides-two-assists-england-u19s-defeat-france/ |title=Sheyi Ojo provides two assists as England U19s defeat France |publisher=This Is Anfield |first=Emma |last=Sanders |date=12 July 2016 |accessdate=13 July 2016}}&lt;/ref&gt;
+
+Ojo was selected for the [[England national under-20 football team|England under-20 team]] in the [[2017 FIFA U-20 World Cup]]. Ojo made his start in tournament in the match against Guinea,&lt;ref&gt;{{cite web |url=http://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-pair-ovie-ejaria-sheyi-13097937 |title=Liverpool pair Ovie Ejaria and Sheyi Ojo help England continue their World Cup dream |first=Neil |last=Jones |date=26 May 2017 |work=Liverpool Echo}}&lt;/ref&gt; and was a substitute in a few other games, including the semifinal match against Italy in which he assisted in two of the goals.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2017/06/08/england-u20s-vs-italy-u20s-world-cup-semi-final-live-score-updates/ |title=England U20s 3 Italy U20s 1: Dominic Solanke fires Three Lions to first World Cup final since 1966 |authors=Chris Bascombe, Alistair Tweedale |date=8 June 2017 |work=The Daily Telegraph}}&lt;/ref&gt; In the final, Ojo came on as a substitute for [[Kieran Dowell]] in the 62nd minute. England beat Venezuela 1–0, which is England's first win in a global tournament since their [[1966 FIFA World Cup|World Cup]] victory of 1966.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/40237981 |title=Under-20 World Cup: England beat Venezuela in final |publisher=BBC Sport |date=11 June 2017}}&lt;/ref&gt;
+
+In September 2018 he stated he could represent Nigeria in future.&lt;ref&gt;{{Cite news |url=https://www.bbc.co.uk/sport/football/45619397 |title=Sheyi Ojo: England U20 World Cup winner open to representing Nigeria |publisher=BBC Sport |date=23 September 2018}}&lt;/ref&gt;
+
+==Personal life==
+Born in [[Hemel Hempstead]], England, his name "Babajide" is a variant form of the [[Yoruba language|Yoruba]] name: [[Babatunde]], meaning "Father has Returned" or "Father Comes Back to Life".&lt;ref&gt;{{cite web |url=http://www.behindthename.com/name/babatunde |title=Babatunde |publisher=Behind the Name |accessdate=15 November 2016}}&lt;/ref&gt; During his time with the Liverpool Football Academy, Ojo was a student at [[Rainhill High School|Rainhill Media Arts College]], in [[Rainhill]], England.&lt;ref&gt;{{cite web |title=LFC Academy Education Centre |url=http://www.rainhillhighschool.org.uk/LFC-Academy-Education-Centre |publisher=Rainhill High School Media Arts College |accessdate=28 August 2016}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 18 January 2019}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[EFL Cup|League Cup]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+| rowspan=4|[[Liverpool F.C.|Liverpool]]
+|[[2014–15 Liverpool F.C. season|2014–15]]&lt;ref name="Games played by Sheyi Ojo in 2014/2015"&gt;{{Soccerbase season|80195|2014|name=Sheyi Ojo|access-date=15 November 2016}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|[[2015–16 Liverpool F.C. season|2015–16]]&lt;ref name="Games played by Sheyi Ojo in 2015/2016"&gt;{{Soccerbase season|80195|2015|name=Sheyi Ojo|access-date=15 November 2016}}&lt;/ref&gt;
+|Premier League
+|8||0||3||1||colspan="2"|—||0||0||11||1
+|-
+|[[2016–17 Liverpool F.C. season|2016–17]]&lt;ref name="SO16"&gt;{{Soccerbase season|80195|2015|accessdate=5 October 2017}}&lt;/ref&gt;
+|Premier League
+|0||0||2||0||colspan="2"|—||0||0||2||0
+|-
+!colspan="2" | Total
+!8!!0!!5!!1!!0!!0!!0!!0!!13!!1
+|-
+|[[Wigan Athletic F.C.|Wigan Athletic]] (loan)
+|[[2014–15 Wigan Athletic F.C. season|2014–15]]&lt;ref name="Games played by Sheyi Ojo in 2014/2015" /&gt;
+|[[EFL Championship|Championship]]
+||11||0||0||0||0||0||colspan="2"|—||11||0
+|-
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
+|[[2015–16 Wolverhampton Wanderers F.C. season|2015–16]]&lt;ref name="Games played by Sheyi Ojo in 2015/2016" /&gt;
+|Championship
+|17||2||0||0||2||1||colspan="2"|—||19||3
+|-
+|[[Fulham F.C.|Fulham]] (loan)
+|[[2017–18 Fulham F.C. season|2017–18]]&lt;ref name="SO17"&gt;{{Soccerbase season|80195|2017|accessdate=5 October 2017}}&lt;/ref&gt;
+|Championship
+|22||4||1||0||1||0||colspan="2"|—||24||4
+|-
+|[[Stade de Reims|Reims]] (loan)
+|[[2018–19 Ligue 1|2018–19]]&lt;ref name="SO18"&gt;{{Soccerbase season|80195|2018|accessdate=5 October 2017}}&lt;/ref&gt;
+|[[Ligue 1]]
+|13||0||2||1||1||0||colspan="2"|—||16||1
+|-
+!colspan="3"|Career total
+!71!!6!!8!!2!!4!!1!!0!!0!!83!!9
+|}
+
+==Honours==
+'''England U20'''
+*[[FIFA U-20 World Cup]]: [[2017 FIFA U-20 World Cup|2017]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.liverpoolfc.com/team/first-team/player/sheyi-ojo Profile] at [[Liverpool F.C.|Liverpool]]
+*[http://www.thefa.com/england/all-teams/players/o/oluwaseyi-ojo England profile] at [[The Football Association]] website
+*{{Soccerbase}}
+
+&lt;!-- {{Liverpool F.C. squad}} --&gt;
+{{Stade de Reims squad}}
+
+{{DEFAULTSORT:Ojo, Sheyi}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:People from Hemel Hempstead]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:English expatriate footballers]]
+[[Category:Association football forwards]]
+[[Category:Liverpool F.C. players]]
+[[Category:Wigan Athletic F.C. players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Fulham F.C. players]]
+[[Category:Stade de Reims players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:Ligue 1 players]]
+[[Category:Black English sportspeople]]
+[[Category:English people of Nigerian descent]]
+[[Category:English people of Yoruba descent]]
+[[Category:Yoruba sportspeople]]
+[[Category:Expatriate footballers in France]]</text>
+      <sha1>6ofnvgwizfeab9fdznzmcj61i58cpae</sha1>
+    </revision>
+  </page>
+</mediawiki>

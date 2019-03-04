@@ -1,0 +1,374 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>César Azpilicueta</title>
+    <ns>0</ns>
+    <id>15931699</id>
+    <revision>
+      <id>885984726</id>
+      <parentid>885509354</parentid>
+      <timestamp>2019-03-03T16:20:31Z</timestamp>
+      <contributor>
+        <username>Stt13</username>
+        <id>9671189</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39872">{{Use dmy dates|date=November 2017}}
+{{Spanish name|Azpilicueta|Tanco}}
+{{Infobox football biography
+| name = César Azpilicueta
+| image = César Azpilicueta 2017.jpg
+| image_size = 200
+| caption = Azpilicueta playing for [[Chelsea F.C.|Chelsea]] in 2017
+| fullname = César Azpilicueta Tanco&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/612828|title=Updated squads for 2017/18 Premier League confirmed|publisher=Premier League|date=2 February 2018|accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1989|8|28|df=y}}&lt;ref&gt;{{Hugman|22145|Cesar Azpilicueta|accessdate=5 October 2018}}&lt;/ref&gt;
+| birth_place = [[Pamplona]], Spain
+| height = 1.78 m&lt;ref&gt;{{cite web|url=https://www.chelseafc.com/en/teams/first-team/cesar-azpilicueta?pageTab=biography|title=Cesar Azpilicueta|publisher=Chelsea F.C|accessdate=5 October 2018}}&lt;/ref&gt;
+| position = [[Defender (association football)|Defender]]
+| currentclub = [[Chelsea F.C.|Chelsea]]
+| clubnumber = 28
+| youthyears1 = 2001–2006 | youthclubs1 = [[CA Osasuna cantera|Osasuna]]
+| years1 = 2006–2007 | clubs1 = [[CA Osasuna B|Osasuna B]] | caps1 = 27 | goals1 = 1
+| years2 = 2007–2010 | clubs2 = [[CA Osasuna|Osasuna]] | caps2 = 99 | goals2 = 0
+| years3 = 2010–2012 | clubs3 = [[Olympique de Marseille|Marseille]] | caps3 = 47 | goals3 = 1
+| years4 = 2012– | clubs4 = [[Chelsea F.C.|Chelsea]] | caps4 = 225 | goals4 = 5
+| nationalyears1 = 2005 | nationalteam1 = [[Spain national under-16 football team|Spain U16]] | nationalcaps1 = 3 | nationalgoals1 = 0
+| nationalyears2 = 2006 | nationalteam2 = [[Spain national under-17 football team|Spain U17]] | nationalcaps2 = 14 | nationalgoals2 = 0
+| nationalyears3 = 2007–2008 | nationalteam3 = [[Spain national under-19 football team|Spain U19]] | nationalcaps3 = 18 | nationalgoals3 = 2
+| nationalyears4 = 2009 | nationalteam4 = [[Spain national under-20 football team|Spain U20]] | nationalcaps4 = 5 | nationalgoals4 = 0
+| nationalyears5 = 2008–2011 | nationalteam5 = [[Spain national under-21 football team|Spain U21]] | nationalcaps5 = 19 | nationalgoals5 = 1
+| nationalyears6 = 2012 | nationalteam6 = [[Spain national under-23 football team|Spain U23]] | nationalcaps6 = 5 | nationalgoals6 = 0
+| nationalyears7 = 2013– | nationalteam7 = [[Spain national football team|Spain]] | nationalcaps7 = 25 | nationalgoals7 = 0
+| club-update = 16:20, 3 March 2019 (UTC)
+| nationalteam-update = 18 November 2018
+}}
+'''César Azpilicueta Tanco''' ({{IPA-es|ˈθesaɾ aθpiliˈkweta ˈtaŋko}}; born 28 August 1989) is a Spanish professional [[Association football|footballer]] who plays for {{English football updater|Chelsea}} club [[Chelsea F.C.|Chelsea]] and the [[Spain national football team|Spain national team]] primarily as a [[Defender (association football)#Full-back|full back]] but also as a [[Defender (association football)#Centre-back|central defender]].
+
+A youth product of [[CA Osasuna|Osasuna]], he spent three seasons in [[La Liga]] before switching to [[Olympique de Marseille|Marseille]], winning four major honours with the French club. In the summer of 2012, he moved to [[Chelsea F.C.|Chelsea]], winning the [[2013 UEFA Europa League Final|Europa League]] in his first season and a domestic [[Double (association football)|double]] [[2014–15 Chelsea F.C. season|two years later]].
+
+Azpilicueta earned 55 [[Cap (sport)|caps]] for [[Spain national youth football team|Spain at youth level]] in all age groups, and represented the [[Spain national under-21 football team|under-21s]] in two [[UEFA European Under-21 Championship|European Championships]], [[2011 UEFA European Under-21 Championship|winning the 2011 edition]]. He made his first appearance with [[Spain national football team|the full side]] in 2013, and was selected for two [[FIFA World Cup|World Cups]] as well as [[UEFA Euro 2016|Euro 2016]].
+
+==Club career==
+===Osasuna===
+Azpilicueta was born in [[Pamplona]], [[Navarre]]. A [[CA Osasuna Juvenil|product]] of hometown club [[CA Osasuna]]'s youth system, he made his [[La Liga]] debut on 8 April 2007 in a 0–2 away loss against [[Real Madrid C.F.|Real Madrid]], while still registered with [[CA Osasuna B|the reserve team]];&lt;ref&gt;{{cite web|url=http://www.espnfc.com/report/_/id/204057?cc=5739|title=Real Madrid 2–0 Osasuna|publisher=[[ESPN FC|ESPN Soccernet]]|date=8 April 2007|accessdate=24 August 2012}}&lt;/ref&gt; he started his career as a [[Forward (association football)|forward]] then switched to [[midfielder]]&lt;ref&gt;{{cite web|url=http://trolacas.wordpress.com/2009/02/20/cesar-azpilicueta-intentad-atacar-por-la-otra-banda/|title=César Azpilicueta, intentad atacar por la otra banda|trans-title=César Azpilicueta, try the other wing|publisher=El Blog de los Trolacas|language=es|date=20 February 2009|accessdate=24 August 2012}}&lt;/ref&gt; and, throughout both his club and international career (senior and youth), appeared in several positions including [[Defender (association football)#Centre-back|central defender]] and [[Midfielder#Central midfielder|central midfielder]].&lt;ref&gt;{{cite news|url=http://www.ideal.es/granada/deportes/futbol/seleccion-espanola/201411/12/azpilicueta-nuevo-seguro-bosque-20141112195750-rc.html|title=Azpilicueta, el nuevo 'seguro' de Del Bosque|trans-title=Azpilicueta, Del Bosque's new 'insurance'|newspaper=[[Ideal (newspaper)|Ideal]]|language=es|date=12 November 2014|accessdate=20 October 2015}}&lt;/ref&gt;
+
+In [[2007–08 La Liga|2007–08]], due to injuries in the main squad, Azpilicueta established himself as a first-team regular at the age of just 18, albeit as a [[Defender (association football)#Full-back|right-back]]. He went on to retain this position for [[2008–09 La Liga|the following season]], appearing in all but two league games.
+
+===Marseille===
+[[File:César Azpilicueta 5401.jpg|thumb|left|Azpilicueta playing for Marseille in the [[2010–11 Olympique de Marseille season|2010–11 season]].]]
+On 21 June 2010, [[France|French]] club [[Olympique de Marseille]] confirmed an agreement had been reached with Osasuna for the transfer of Azpilicueta, in a four-year contract for [[Euro|€]]7&amp;nbsp;million.&lt;ref&gt;{{cite web|url=http://www.om.net/fr/Saison/101005/Actualites/47377/Accord_de_principe_pour_le_transfert_de_Cesar_Azpilicueta|title=Accord de principe pour le transfert de César Azpilicueta|trans-title=Deal arranged for transfer of Azpilicueta|publisher=Olympique Marseille|language=fr|date=21 June 2010|accessdate=23 June 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.les-transferts.com/ligue-1/lom-regle-le-probleme-a-droite.html|title=OM: Azpilicueta et Modesto arrivent!|trans-title=OM: Azpilicueta and Modesto arrive!|publisher=Les Transferts|language=fr|date=22 June 2010|accessdate=15 April 2014}}&lt;/ref&gt; A week later, the Navarrese confirmed the agreement, with the transfer fee possibly rising to as much as €9.5&amp;nbsp;million depending on appearances.&lt;ref&gt;{{cite web|url=http://www.mercato365.com/infos-clubs/marseille/article_429807_OM-Azpi-pour-95-millions-d-euros-.shtml|title=Azpi pour 9.5&amp;nbsp;million euros?|trans-title=Azpi for 9.5&amp;nbsp;million euros?|publisher=Mercato 365|language=fr|date=28 June 2010|accessdate=28 June 2010}}&lt;/ref&gt; In his [[UEFA Champions League]] debut he scored the match's only goal in a [[2010–11 UEFA Champions League|group stage home match]] against [[FC Spartak Moscow]], albeit in [[Own goal|his own net]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefachampionsleague/matches/season=2011/round=2000118/match=2002819/index.html|title=Spartak sucker punch downs Marseille|publisher=UEFA|date=15 September 2010|accessdate=19 September 2010}}&lt;/ref&gt;
+
+On 27 November 2010, in the early minutes of a 4–0 home win against [[Montpellier HSC]] – which meant Marseille [[2010–11 Ligue 1|climbed to the top of the league]] – Azpilicueta ruptured the [[anterior cruciate ligament]]s in his left knee.&lt;ref&gt;[https://int.soccerway.com/news/2010/November/28/marseille-go-top-but-pay-high-price/ Marseille go top but pay high price] {{webarchive|url=https://web.archive.org/web/20101129014337/http://www.soccerway.com/news/2010/November/28/marseille-go-top-but-pay-high-price/|date=29 November 2010}}; Soccerway, 27 November 2010&lt;/ref&gt; He was sidelined for six months.
+
+In August 2012, amid speculation of clubs showing interest in Azpilicueta, including [[Premier League]] club [[Chelsea F.C.|Chelsea]], Marseille confirmed that he could leave, saying, "If Chelsea makes a fair offer for Azpi [Azpilicueta], we will let him leave."&lt;ref&gt;[http://www1.skysports.com/football/news/11668/7988728/Marseille-confirm-need-to-sell Marseille confirm need to sell]; [[Sky Sports]], 14 August 2012&lt;/ref&gt; Despite his loyalty to Marseille, the player said he was willing to leave if his "departure can help Marseille's finances".&lt;ref&gt;[http://www1.skysports.com/football/news/12691/8007076/Azpilicueta-open-to-Blues-move Azpilicueta open to Blues move]; Sky Sports, 21 August 2012&lt;/ref&gt;
+
+===Chelsea===
+[[File:César Azpilicueta Chelsea vs AS-Roma 10AUG2013.jpg|thumb|upright|Azpilicueta in action against [[A.S. Roma|Roma]] in 2013]]
+On 24 August 2012, Chelsea completed the signing of Azpilicueta for an undisclosed fee, reported as [[Pound sterling|£]]7&amp;nbsp;million.&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news-article/article/2898781|title=Azpilicueta signs|publisher=Chelsea F.C|date=24 August 2012|accessdate=24 August 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120830171700/http://www.chelseafc.com/news-article/article/2898781|archivedate=30 August 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www1.skysports.com/football/news/11668/8014372/Azpilicueta-joins-Chelsea|title=Azpilicueta joins Chelsea|publisher=Sky Sports|date=24 August 2012|accessdate=24 August 2012}}&lt;/ref&gt; According to teammate and countryman [[Juan Mata]], "He is a strong running right-back who has pace as well, so I think he is already a complete player."&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news-article/article/2899038/title/di-matteo%3A-cesar-offers-options|title=Di Matteo: Cesar offers options|publisher=Chelsea F.C|date=24 August 2012|accessdate=24 August 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120830171757/http://www.chelseafc.com/news-article/article/2899038/title/di-matteo:-cesar-offers-options|archivedate=30 August 2012}}&lt;/ref&gt; Due to his surname being difficult for some speakers of English to pronounce, club fans gave him the [[Mononymous person|mononymous]] nickname "Dave".&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/sport/football/premier-league/cesar-dave-azpilicueta-shows-the-attitude-to-delight-chelsea-manager-jose-mourinho-9759011.html|title=Cesar 'Dave' Azpilicueta shows the attitude to delight Chelsea manager Jose Mourinho|newspaper=[[The Independent]]|first=Glenn|last=Moore|date=26 September 2014|accessdate=18 October 2014}}&lt;/ref&gt;
+
+Azpilicueta made his debut on 25 September 2012, starting in a 6–0 home win against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in a [[2012–13 Football League Cup|League Cup]] tie.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/19632463|title=Chelsea 6–0 Wolves|publisher=[[BBC Sport]]|date=25 September 2012|accessdate=26 September 2012}}&lt;/ref&gt; He played his first Premier League game the following week, coming on as a [[Substitute (association football)|substitute]] for [[Branislav Ivanović]] in a 4–1 success over [[Norwich City F.C|Norwich City]], also at [[Stamford Bridge (stadium)|Stamford Bridge]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/19776324|title=Chelsea put their off-field troubles aside as they emphatically beat struggling Norwich to continue to set the Premier League pace.|publisher=BBC Sport|first=Mandeep|last=Sanghera|date=6 October 2012|accessdate=26 July 2017}}&lt;/ref&gt;
+
+On 3 November 2012, Azpilicueta made his first league start, appearing against [[Swansea City A.F.C.|Swansea City]] in a 1–1 away draw.&lt;ref&gt;{{cite web|url=http://www.espnfc.com/report?gameId=345755|title=Swansea City 1–1 Chelsea|publisher=ESPN FC|date=3 November 2012|accessdate=3 November 2012}}&lt;/ref&gt; He played 48 official contests in [[2012–13 Premier League|his first year]] with the [[Rafael Benítez]]-led side, including eight in the Blues' [[2012–13 UEFA Europa League|victorious campaign]] in the [[UEFA Europa League]]. In [[2013 UEFA Europa League Final|the final]] against [[S.L. Benfica]] his 67th-minute handball led to [[Óscar Cardozo]] equalising through a [[Penalty kick (association football)|penalty kick]], in an eventual 2–1 win in [[Amsterdam]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2013/matches/round=2000361/match=2010095/postmatch/report/index.html#ivanovic+heads+chelsea+europa+league+glory|title=Ivanović heads Chelsea to Europa League glory|publisher=UEFA|date=15 May 2013|accessdate=16 May 2013}}&lt;/ref&gt;
+
+Azpilicueta scored his first competitive goal for Chelsea on 29 October 2013, netting the first in a 2–0 victory at [[Arsenal F.C.|Arsenal]] in the fourth round of the [[2013–14 Football League Cup|League Cup]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/24619361|title=Arsenal 0–2 Chelsea|publisher=BBC Sport|first=Alistair|last=Magowan|date=29 October 2013|accessdate=30 October 2013}}&lt;/ref&gt; Following the arrival of new manager [[José Mourinho]], he began appearing regularly as a left-back, taking the place of longtime incumbent [[Ashley Cole]].&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gb/match/122498/fc-schalke-04-vs-chelsea-fc/report|title=Schalke 0–3 Chelsea: Impressive Torres bags double|publisher=[[Goal (website)|Goal]]|first=Peter|last=Thompson|date=22 October 2013|accessdate=18 December 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.mirror.co.uk/sport/football/news/chelseas-cesar-azpilicueta-ready-keep-2785715|title=Chelsea's Cesar Azpilicueta ready to keep sub standard Ashley Cole on the bench|newspaper=[[Daily Mirror]]|first=Darren|last=Lewis|date=12 November 2013|accessdate=18 December 2013}}&lt;/ref&gt; Mourinho said of him: "Azpilicueta is the kind of player I like a lot. I think a team with 11 Azpilicuetas would probably win the competition (Champions League) because football is not just about pure talent".&lt;ref&gt;{{cite web|url=https://uk.eurosport.yahoo.com/news/premier-league-mourinho-team-azpilicuetas-win-champions-league-094720824--sow.html|title=Premier League – Mourinho: A team of Azpilicuetas would win the Champions League|publisher=[[Eurosport]]|date=26 February 2014|accessdate=13 May 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140515031426/https://uk.eurosport.yahoo.com/news/premier-league-mourinho-team-azpilicuetas-win-champions-league-094720824--sow.html|archivedate=15 May 2014}}&lt;/ref&gt; At the end of [[2013–14 Chelsea F.C. season|the season]], he was voted the club's Player's Player of the Year.&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-2626666/Eden-Hazard-wins-Chelsea-Player-Year-award-fine-season-Jose-Mourinhos-side.html|title=Eden Hazard wins Chelsea Player of the Year award after fine season for Jose Mourinho's side|newspaper=[[Daily Mail]]|first=Joe|last=Strange|date=12 May 2014|accessdate=24 August 2012}}&lt;/ref&gt;
+
+[[File:César Azpilicueta - Сесар Аспиликуэта (22362918831).jpg|thumb|left|Azpilicueta in 2015]]
+Before the start of the [[2014–15 Premier League|2014–15 season]], Cole was released and the club spent £15.8&amp;nbsp;million on [[Filipe Luís]], but Azpilicueta began the season as first-choice left-back.&lt;ref&gt;{{cite news|url=https://www.standard.co.uk/sport/football/jose-mourinho-has-taught-me-to-put-the-collective-first--chelseas-filipe-luis-happy-to-play-waiting-game-9755093.html|title=Jose Mourinho has taught me to put the collective first – Chelsea's Filipe Luis happy to play waiting game|newspaper=[[London Evening Standard]]|first=Simon|last=Johnson|date=25 September 2014|accessdate=19 October 2014}}&lt;/ref&gt; On 2 September 2014, he signed a new five-year contract with the club&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news/latest-news/2014/09/new-contract-for-azpilicueta.html |title=New contract for Azpilicueta|publisher=Chelsea F.C|date=2 September 2014|accessdate=2 September 2014}}&lt;/ref&gt; and, on 18 October, he was [[Ejection (sports)|sent off]] in the first half of a 2–1 win at [[Crystal Palace F.C.|Crystal Palace]] for a foul on [[Mile Jedinak]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2014/oct/18/crystal-palace-chelsea-premier-league-match-report|title=Chelsea stay top after Cesc Fàbregas nets winner at Crystal Palace|newspaper=[[The Guardian]]|first=Dominic|last=Fifield|date=18 October 2014|accessdate=18 October 2014}}&lt;/ref&gt;
+
+Azpilicueta started as Chelsea [[2015 Football League Cup Final|won the League Cup]] on 1 March 2015. In the second half, he was injured in a collision with [[Tottenham Hotspur F.C.|Tottenham Hotspur]]'s [[Eric Dier]], and had to leave the pitch for a bandage to be wrapped around his head.&lt;ref name=LC&gt;{{cite news|url=https://www.theguardian.com/football/live/2015/mar/01/chelsea-v-tottenham-hotspur-capital-one-cup-final-live|title=Chelsea v Tottenham Hotspur: Capital One Cup final – as it happened|newspaper=The Guardian|first=Jacob|last=Steinberg|date=1 March 2015|accessdate=2 March 2015}}&lt;/ref&gt; [[2014–15 Chelsea F.C. season|The campaign]] ended with the additional conquest of the domestic league title, after a five-year wait.
+
+On 2 August 2015, Azpilicueta featured for 69 minutes in the [[2015 FA Community Shield|1–0 loss]] to [[Arsenal F.C.|Arsenal]] in the [[FA Community Shield]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/33667216|title=Arsenal 1–0 Chelsea|publisher=BBC Sport|first=Andy|last=Cryer|date=2 August 2015|accessdate=2 August 2015}}&lt;/ref&gt; Nineteen days later, he scored the team's third goal in a 3–2 away win over [[West Bromwich Albion F.C.|West Bromwich Albion]], for what was his first Premier League goal,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/33950789|title=West Bromwich Albion 2–3 Chelsea|publisher=BBC Sport|last1=Magowan|first1=Alistair|date=23 August 2015|accessdate=23 August 2015}}&lt;/ref&gt; and he netted again in a 2–2 draw in the reverse fixture on 13 January 2016.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/35239779|title=Chelsea 2–2 West Bromwich Albion|publisher=BBC Sport|first=Mike|last=Henson|date=13 January 2016|accessdate=21 August 2016}}&lt;/ref&gt;
+
+Although Azpilicueta was initially used as a left-back under new coach [[Antonio Conte]], after two consecutive league defeats the latter converted into a back-three formation, with the former playing as a centre-back in the following match against [[Hull City A.F.C.|Hull City]] on 1 October 2016, which ended in a 2–0 away win.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/37459840|title=Hull City 0–2 Chelsea|publisher=BBC Sport|first=Mike|last=Henson|date=1 October 2016|accessdate=18 October 2016}}&lt;/ref&gt; On 13 December 2016 he signed a new three-and-a-half-year contract with Chelsea, running until 2020;&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2016/dec/13/cesar-azpilicueta-signs-new-three-and-a-half-year-contract-chelsea|title=César Azpilicueta extends Chelsea stay but Terry's situation stays on hold|newspaper=The Guardian|first=Dominic|last=Fifield|date=13 December 2016|accessdate=13 December 2016}}&lt;/ref&gt; in his first appearance following the agreement he made his 200th competitive appearance for the club, in a 1–0 away victory over [[Sunderland A.F.C.|Sunderland]].&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/matches/2016-17/12/sunderland-chelsea-pl.html|title=Sunderland 0–1 Chelsea|publisher=Chelsea F.C|date=14 December 2016|accessdate=17 December 2016}}&lt;/ref&gt;
+
+Azpilicueta played every minute of [[2016–17 Premier League|the season]] as his team won the domestic league, and scored in a 4–3 home win against [[Watford F.C|Watford]] after the title was already won.&lt;ref&gt;{{cite news|url=http://www.express.co.uk/sport/football/804975/Chelsea-Cesar-Azpilicueta-Watford-Premier-League-goal|title=Chelsea star reflects on 'special moment' after Watford win|newspaper=[[Daily Express]]|first=Charles|last=Perrin|date=16 May 2017|accessdate=25 May 2017}}&lt;/ref&gt; In late July 2017, after the departure of [[John Terry]], he was appointed [[Captain (association football)|vice-captain]].&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news/latest-news/2017/07/captain-cahill--delighted--proud-and-excited.html|title=Captain Cahill: Delighted, proud and excited|publisher=Chelsea F.C|date=26 July 2017|accessdate=26 July 2017}}&lt;/ref&gt;
+
+On 12 September 2017, Azpilicueta scored his first Champions League goal, in a [[2017–18 UEFA Champions League|6–0 group stage home win]] against [[Qarabağ FK]].&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/football/2017/09/12/chelsea-6-qarabag-0-davide-zappacosta-marks-full-debut-goal/|title=Chelsea 6 Qarabag 0: Davide Zappacosta marks full debut with goal as half-strength hosts run riot|newspaper=[[The Daily Telegraph]]|first=Matt|last=Law|date=12 September 2017|accessdate=12 September 2017}}&lt;/ref&gt;
+
+==International career==
+[[File:César Azpilicueta U21.jpg|thumb|right|Azpilicueta playing for the [[Spain national under-21 football team|Spain under-21s]]]]
+
+===Youth===
+In [[2007 UEFA European Under-19 Championship|2007]], Azpilicueta helped the [[Spain national under-19 football team|Spanish under-19 team]] win the [[UEFA European Under-19 Championship|UEFA European Championship]]. Shortly after he moved to [[Spain national under-21 football team|the under-21s]], being picked for the [[2009 UEFA European Under-21 Championship|2009 European Championships]] in [[Sweden]] where he started three matches in an eventual group stage exit.
+
+On 11 May 2010, 20-year-old Azpilicueta was named by [[Spain national football team|senior side]] manager [[Vicente del Bosque]] in a provisional list of 30 players, in view of [[2010 FIFA World Cup|the forthcoming edition]] of the [[FIFA World Cup]]. Eventually, he did not make the final cut.&lt;ref&gt;{{cite news|url=http://www.marca.com/2010/05/10/futbol/seleccion/1273509662.html|title=Valdés, De Gea, Azpilicueta, Javi Martínez y Pedro entran en la preselección de 30|trans-title=Valdés, De Gea, Azpilicueta, Javi Martínez and Pedro make shortlist of 30|newspaper=[[Marca (newspaper)|Marca]]|language=es|date=10 May 2010|accessdate=15 April 2014}}&lt;/ref&gt;
+
+Azpilicueta was picked for [[Spain national under-23 football team|Spain's squad]] for the [[2012 Summer Olympics]], after missing out on selection for the [[UEFA Euro 2012]] tournament.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/olympics/18693622|title=Euro 2012 trio Mata, Alba &amp; Martinez in Spain Olympic squad|publisher=BBC Sport|date=5 July 2012|accessdate=8 September 2017}}&lt;/ref&gt; Due to the presence of [[Álvaro Domínguez Soto|Álvaro Domínguez]], he only appeared in the last group match, a 0–0 draw with Morocco at [[Old Trafford]], as the national team [[Football at the 2012 Summer Olympics|exited in the group stage]].&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gb/match/spain-u23-vs-morocco-u23/1281843/report|title=Spain 0–0 Morocco: La Roja fail to fire again to finish bottom of Olympics Group D|publisher=[[Goal (website)|Goal]]|date=1 August 2012|accessdate=14 August 2018}}&lt;/ref&gt;
+
+===Senior===
+On 1 February 2013, Azpilicueta was named in the squad for the upcoming international [[Exhibition game|friendly]] against [[Uruguay national football team|Uruguay]]. The manager said of the selection: 'Azpilicueta is playing many games for Chelsea. He has a lot of energy, defends well and is always willing to attack. We have a lot of hope for him.&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news-article/article/3061623/title/azpilicueta-called-up-by-spain|title=Azpilicueta called up by Spain|publisher=Chelsea F.C|date=1 February 2013|accessdate=1 February 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130203184252/http://www.chelseafc.com/news-article/article/3061623/title/azpilicueta-called-up-by-spain|archivedate= 3 February 2013|df=}}&lt;/ref&gt; He made his debut five days later, playing the full 90 minutes in the 3–1 win in [[Doha]], [[Qatar]];&lt;ref&gt;{{cite web|url=http://www1.skysports.com/football/news/11668/8478541/Cesar-Azpilicueta-Isco-and-Mario-Suarez-all-impressed-Spain-boss-Vicente-del-Bosque-on-their-debuts|title=Azpilicueta impresses Spain boss Vicente del Bosque on debut|publisher=Sky Sports|date=7 February 2013|accessdate=7 February 2013}}&lt;/ref&gt; after the match, he said that it was his "dream to play for Spain" at the senior level.&lt;ref&gt;{{cite web|url=http://www1.skysports.com/football/news/11668/8492406/Cesar-Azpilicueta-happy-after-Spain-debut-and-Chelsea-win|title=Cesar Azpilicueta happy after Spain debut|publisher=Sky Sports|date=11 February 2013|accessdate=11 February 2013}}&lt;/ref&gt;
+
+Azpilicueta was selected to the [[2013 FIFA Confederations Cup]] tournament held in Brazil:&lt;ref&gt;{{cite news|url=http://www.marca.com/2013/06/05/futbol/copa_confederaciones/espana/1370452028.html|title=Azpilicueta: "España todavía tiene hambre"|trans-title=Azpilicueta: "Spain are still hungry"|newspaper=Marca|first=Miguel Ángel|last=Lara|language=es|date=5 June 2013|accessdate=14 November 2013}}&lt;/ref&gt; he started in the second group game against [[Tahiti national football team|Tahiti]] which Spain won 10–0 in a record for the largest margin of victory in the competition,&lt;ref&gt;{{cite web|url=https://www.fifa.com/confederationscup/matches/round=255199/match=300222467/summary.html|title=Spain hit ten in record-smashing win|publisher=FIFA|date=20 June 2013|accessdate=14 November 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131105172119/http://www.fifa.com/confederationscup/matches/round%3D255199/match%3D300222467/summary.html|archivedate=5 November 2013|df=}}&lt;/ref&gt; and replaced [[Álvaro Arbeloa]] at [[half-time]] in [[2013 FIFA Confederations Cup Final|the final]] against [[Brazil national football team|the hosts]], in an eventual 3–0 loss.&lt;ref&gt;{{cite web|url=https://www.fifa.com/confederationscup/matches/round=255211/match=300222461/summary.html|title=Fred and Neymar claim Confeds for Brazil|publisher=FIFA|date=30 June 2013|accessdate=14 November 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130702190636/http://www.fifa.com/confederationscup/matches/round%3D255211/match%3D300222461/summary.html|archivedate=2 July 2013}}&lt;/ref&gt;
+
+In June 2014, Azpilicueta was selected to represent Spain in the [[2014 FIFA World Cup]].&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/spain/10810213/Spain-World-Cup-2014-squad.html|title=Spain World Cup 2014 squad|newspaper=The Daily Telegraph|date=2 June 2014|accessdate=14 June 2014}}&lt;/ref&gt; He was the starting right-back during the first two fixtures, against the [[Netherlands national football team|Netherlands]]&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/25285043|title=Spain 1–5 Netherlands|publisher=BBC Sport|first=David|last=Ornstein|date=13 June 2014|accessdate=26 June 2014}}&lt;/ref&gt; and [[Chile national football team|Chile]], as the nation was eliminated at the group stage.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/25285155|title=Spain 0–2 Chile|publisher=BBC Sport|first=David|last=Ornstein|date=18 June 2014|accessdate=26 June 2014}}&lt;/ref&gt;
+
+Azpilicueta was also included in the 23-man squad for the [[2018 FIFA World Cup|2018 World Cup]] in Russia.&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/morata-misses-out-on-spain-world-cup-squad/1ub1qz7jod09i1lfvdcy84ea2l|title=Morata misses out on Spain's 23-man World Cup squad|publisher=[[Goal (website)|Goal]]|date=21 May 2018|accessdate=21 May 2018}}&lt;/ref&gt;
+
+==Personal life==
+Azpilicueta's older brother, Juan Pablo (born 1980), was also a footballer. A midfielder, he competed exclusively in lower league football.&lt;ref&gt;{{cite web|url=http://www.ivoox.com/entrevista-el-penalty-a-juan-pablo-azpilicueta-audios-mp3_rf_2597911_1.html|title=Entrevista en El Penalty a Juan Pablo Azpilicueta jugador del C.D. Tudelano|trans-title=El Penalty interview to Juan Pablo Azpilicueta C.D. Tudelano player|publisher=iVoox|language=es|date=28 November 2013|accessdate=20 October 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.diariodenavarra.es/noticias/deportes/futbol/2014/03/26/juan_pablo_azpilicueta_reaparecio_despues_dos_meses_baja_152926_1022.html|title=Juan Pablo Azpilicueta reapareció después de dos meses de baja|trans-title=Juan Pablo Azpilicueta reappeared after two months out|newspaper=Diario de Navarra|first=Fermín|last=Astráin|language=es|date=26 March 2014|accessdate=20 October 2015}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 3 March 2019}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[CA Osasuna B|Osasuna B]]
+|[[2006–07 Segunda División B|2006–07]]&lt;ref name="Azpilicueta: César Azpilicueta Tanco: 2006–07"&gt;{{cite web|url=http://www.bdfutbol.com/en/p/j405.html?temp=2006-07|title=Azpilicueta: César Azpilicueta Tanco: 2006–07|publisher=BDFutbol|accessdate=22 November 2014}}&lt;/ref&gt;
+|[[Segunda División B]]
+|24||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||24||1
+|-
+|[[2007–08 Segunda División B|2007–08]]&lt;ref name="Azpilicueta: César Azpilicueta Tanco: 2007–08"&gt;{{cite web|url=http://www.bdfutbol.com/en/p/j405.html?temp=2007-08|title=Azpilicueta: César Azpilicueta Tanco: 2007–08|publisher=BDFutbol|accessdate=22 November 2014}}&lt;/ref&gt;
+|Segunda División B
+|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!27!!1!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!27!!1
+|-
+|rowspan="5"|[[CA Osasuna|Osasuna]]
+|[[2006–07 La Liga|2006–07]]&lt;ref name="Azpilicueta: César Azpilicueta Tanco: 2006–07"/&gt;
+|[[La Liga]]
+|1||0||1||0||colspan="2"|—||1&lt;ref group=lower-alpha&gt;Appearance in [[UEFA Europa League|UEFA Cup]]&lt;/ref&gt;||0||colspan="2"|—||3||0
+|-
+|[[2007–08 La Liga|2007–08]]&lt;ref name="Azpilicueta: César Azpilicueta Tanco: 2007–08"/&gt;
+|La Liga
+|29||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||29||0
+|-
+|[[2008–09 La Liga|2008–09]]&lt;ref name="Azpilicueta: César Azpilicueta Tanco: 2008–09"&gt;{{cite web|url=http://www.bdfutbol.com/en/p/j405.html?temp=2008-09|title=Azpilicueta: César Azpilicueta Tanco: 2008–09|publisher=BDFutbol|accessdate=22 November 2014}}&lt;/ref&gt;
+|La Liga
+|36||0||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||38||0
+|-
+|[[2009–10 La Liga|2009–10]]&lt;ref name="Azpilicueta: César Azpilicueta Tanco: 2009–10"&gt;{{cite web|url=http://www.bdfutbol.com/en/p/j405.html?temp=2009-10|title=Azpilicueta: César Azpilicueta Tanco: 2009–10|publisher=BDFutbol|accessdate=22 November 2014}}&lt;/ref&gt;
+|La Liga
+|33||0||5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||38||0
+|-
+!colspan="2"|Total
+!99!!0!!8!!0!!colspan="2"|—!!1!!0!!colspan="2"|—!!108!!0
+|-
+|rowspan="4"|[[Olympique Marseille|Marseille]]
+|[[2010–11 Olympique de Marseille season|2010–11]]&lt;ref name=OMstats&gt;{{cite web|url=http://www.om.net/en/Equipes/201002/Effectif_pro/1761/AZPILICUETA|title=César Azpilicueta: Career and Awards|publisher=Olympique de Marseille|accessdate=26 August 2012}}&lt;/ref&gt;
+|[[Ligue 1]]
+|15||0||0||0||1||1||4&lt;ref group=lower-alpha name=UCL&gt;Appearances in [[UEFA Champions League]]&lt;/ref&gt;||0||1&lt;ref group=lower-alpha&gt;Appearance in [[Trophée des Champions]]&lt;/ref&gt;||0||21||1
+|-
+|[[2011–12 Olympique de Marseille season|2011–12]]&lt;ref name=OMstats/&gt;
+|Ligue 1
+|30||1||3||0||3||0||8&lt;ref group=lower-alpha name=UCL/&gt;||0||0||0||44||1
+|-
+|[[2012–13 Olympique de Marseille season|2012–13]]&lt;ref name=OMstats/&gt;
+|Ligue 1
+|2||0||colspan="2"|—||colspan="2"|—||1&lt;ref group=lower-alpha name=UEL&gt;Appearance in [[UEFA Europa League]]&lt;/ref&gt;||0||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!47!!1!!3!!0!!4!!1!!13!!0!!1!!0!!68!!2
+|-
+|rowspan=8|[[Chelsea F.C.|Chelsea]]
+|[[2012–13 Chelsea F.C. season|2012–13]]&lt;ref name="sb1213"&gt;{{Soccerbase season|46344|2012|name=Cesar Azpilicueta|access-date=22 November 2014}}&lt;/ref&gt;
+|[[Premier League]]
+|27||0||5||0||5||0||9&lt;ref group=lower-alpha&gt;One appearance in UEFA Champions League, eight in UEFA Europa League&lt;/ref&gt;||0||2&lt;ref group=lower-alpha&gt;Appearances in [[FIFA Club World Cup]]&lt;/ref&gt;||0||48||0
+|-
+|[[2013–14 Chelsea F.C. season|2013–14]]&lt;ref name="sb1314"&gt;{{Soccerbase season|46344|2013|name=Cesar Azpilicueta|access-date=22 November 2014}}&lt;/ref&gt;
+|Premier League
+|29||0||2||0||3||1||10&lt;ref group=lower-alpha name=UCL/&gt;||0||0&lt;ref group=lower-alpha&gt;Appearance in [[UEFA Super Cup]]&lt;/ref&gt;||0||44||1
+|-
+|[[2014–15 Chelsea F.C. season|2014–15]]&lt;ref name="sb1415"&gt;{{Soccerbase season|46344|2014|name=Cesar Azpilicueta|access-date=25 May 2015}}&lt;/ref&gt;
+|Premier League
+|29||0||2||0||5||0||4&lt;ref group=lower-alpha name=UCL/&gt;||0||colspan="2"|—||40||0
+|-
+|[[2015–16 Chelsea F.C. season|2015–16]]&lt;ref name="sb1516"&gt;{{Soccerbase season|46344|2015|name=Cesar Azpilicueta|access-date=27 August 2017}}&lt;/ref&gt;
+|Premier League
+|37||2||3||0||0||0||8&lt;ref group=lower-alpha name=UCL/&gt;||0||1&lt;ref group=lower-alpha name=FACS&gt;Appearance in [[FA Community Shield]]&lt;/ref&gt;||0||49||2
+|-
+|[[2016–17 Chelsea F.C. season|2016–17]]&lt;ref name="sb1617"&gt;{{Soccerbase season|46344|2016|name=Cesar Azpilicueta|access-date=27 August 2017}}&lt;/ref&gt;
+|Premier League
+|38||1||6||0||3||1||colspan=2|—||colspan=2|—||47||2
+|-
+|[[2017–18 Chelsea F.C. season|2017–18]]&lt;ref&gt;{{Soccerbase season|46344|2017|name=Cesar Azpilicueta|access-date=27 August 2017}}&lt;/ref&gt;
+|Premier League
+|37||2||4||0||2||0||8&lt;ref group=lower-alpha name=UCL&gt;Appearances in [[UEFA Champions League]]&lt;/ref&gt;||1||1&lt;ref group=lower-alpha name=FACS/&gt;||0||52||3
+|-
+|[[2018–19 Chelsea F.C. season|2018–19]]&lt;ref&gt;{{Soccerbase season|46344|2018|name=Cesar Azpilicueta|access-date=5 August 2018}}&lt;/ref&gt;
+|Premier League
+|28||0||3||0||6||0||3&lt;ref group=lower-alpha name=UEL/&gt;||0||1&lt;ref group=lower-alpha name=FACS/&gt;||0||41||0
+|-
+!colspan=2|Total
+!225!!5!!25!!0!!24!!2!!42!!1!!5!!0!!321!!8
+|-
+!colspan=3|Career total
+!398!!7!!36!!0!!28!!3!!56!!1!!6!!0!!524!!11
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 18 November 2018}}&lt;ref&gt;{{cite web|url=http://eu-football.info/_player.php?id=28134|title=César Azpilicueta|website=EU-football.info|accessdate=21 December 2015}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+! National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Spain national football team|Spain]]
+|2013||4||0
+|-
+|2014||6||0
+|-
+|2015||2||0
+|-
+|2016||6||0
+|-
+|2017||2||0
+|-
+|2018||5||0
+|-
+!colspan="2"|Total!!25!!0
+|}
+
+==Honours==
+[[File:Andre_Ayew,_Cesar_Azpilicueta_and_Edouard_Cisse_-_TdC_2011.jpg|thumb|Azpilicueta (standing right), [[André Ayew]] and [[Édouard Cissé]] celebrate winning the [[2011 Trophée des Champions]] with Marseille]]
+
+'''Marseille'''&lt;ref name=Soccerway&gt;{{Soccerway|cesar-azpilicueta-tanco/18099}}&lt;/ref&gt;
+*[[Coupe de la Ligue]]: [[2011–12 Coupe de la Ligue|2011–12]]
+*[[Trophée des Champions]]: [[2010 Trophée des Champions|2010]], [[2011 Trophée des Champions|2011]]
+
+'''Chelsea'''&lt;ref name=Soccerway /&gt;
+*[[Premier League]]: [[2014–15 Premier League|2014–15]], [[2016–17 Premier League|2016–17]]&lt;ref&gt;{{cite web|url=https://www.premierleague.com/players/4496/César-Azpilicueta/overview|title=César Azpilicueta: Overview|publisher=Premier League|accessdate=15 April 2018}}&lt;/ref&gt;
+*[[FA Cup]]: [[2017–18 FA Cup|2017–18]];&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44091559|title=Chelsea 1–0 Manchester United|publisher=BBC Sport|first=Phil|last=McNulty|date=19 May 2018|accessdate=19 May 2018}}&lt;/ref&gt; runner-up: [[2016–17 FA Cup|2016–17]]
+*[[EFL Cup|Football League Cup]]: [[2014–15 Football League Cup|2014–15]];&lt;ref name=LC/&gt; runner-up: [[2018–19 EFL Cup|2018–19]]&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/47268861|title=Chelsea 0–0 Manchester City|publisher=BBC Sport|first=Phil|last=McNulty|date=24 February 2019|accessdate=28 February 2019}}&lt;/ref&gt;
+*[[UEFA Europa League]]: [[2012–13 UEFA Europa League|2012–13]]
+*[[FA Community Shield]] runner-up: [[2015 FA Community Shield|2015]], [[2017 FA Community Shield|2017]], [[2018 FA Community Shield|2018]]&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44995783|title=Chelsea 0–2 Manchester City|publisher=BBC Sport|first=Chris|last=Bevan|date=5 August 2018|accessdate=6 August 2018}}&lt;/ref&gt;
+*[[UEFA Super Cup]] runner-up: [[2013 UEFA Super Cup|2013]]
+*[[FIFA Club World Cup]] runner-up: [[2012 FIFA Club World Cup|2012]]
+
+'''Spain U19'''
+*[[UEFA European Under-19 Championship]]: [[2007 UEFA European Under-19 Championship|2007]]
+
+'''Spain U21'''
+*[[UEFA European Under-21 Championship]]: [[2011 UEFA European Under-21 Championship|2011]]
+
+'''Spain'''
+*[[FIFA Confederations Cup]] runner-up: [[2013 FIFA Confederations Cup|2013]]
+
+'''Individual'''
+*[[List of Chelsea F.C. players#Players' Player of the Year|Chelsea Players' Player of the Year]]: [[2013–14 Chelsea F.C. season|2013–14]]&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/news-article/article/3827191/title/hazard-wins-player-of-the-year|title=Hazard wins Player of the Year|publisher=Chelsea F.C|date=13 May 2014|accessdate=22 August 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20140515010708/http://www.chelseafc.com/news-article/article/3827191/title/hazard-wins-player-of-the-year|archivedate=15 May 2014}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.chelseafc.com/en/teams/first-team/cesar-azpilicueta?pageTab=biography Chelsea official profile]
+*{{BDFutbol}}
+*{{LFP}}
+*{{Lequipe}}
+*{{Soccerbase}}
+*{{NFT player}}
+*{{FIFA player}}
+*{{SR/Olympics profile|az/cesar-azpilicueta-1}}
+*{{IOC profile|cesar-azpilicueta}}
+
+{{Chelsea F.C. squad}}
+{{Navboxes
+| title = Spain squads
+| bg = #DB000D
+| fg = #FBEA0E
+| bordercolor = #000030
+| list1 = 
+{{Spain squad 2012 Summer Olympics}}
+{{Spain squad 2013 FIFA Confederations Cup}}
+{{Spain squad 2014 FIFA World Cup}}
+{{Spain squad UEFA Euro 2016}}
+{{Spain squad 2018 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Azpilicueta, Cesar}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Footballers from Pamplona]]
+[[Category:Spanish footballers]]
+[[Category:Basque footballers]]
+[[Category:Navarrese footballers]]
+[[Category:Association football defenders]]
+[[Category:Association football midfielders]]
+[[Category:La Liga players]]
+[[Category:Segunda División B players]]
+[[Category:CA Osasuna B players]]
+[[Category:CA Osasuna players]]
+[[Category:Ligue 1 players]]
+[[Category:Olympique de Marseille players]]
+[[Category:Premier League players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Spain youth international footballers]]
+[[Category:Spain under-21 international footballers]]
+[[Category:Spain under-23 international footballers]]
+[[Category:Spain international footballers]]
+[[Category:2013 FIFA Confederations Cup players]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:Olympic footballers of Spain]]
+[[Category:Footballers at the 2012 Summer Olympics]]
+[[Category:Spanish expatriate footballers]]
+[[Category:Expatriate footballers in France]]
+[[Category:Expatriate footballers in England]]
+[[Category:Spanish expatriate sportspeople in France]]
+[[Category:Spanish expatriate sportspeople in England]]
+[[Category:UEFA Europa League winning players]]</text>
+      <sha1>8ehrjx1erqo9pnbt1smjscr6uot8ig7</sha1>
+    </revision>
+  </page>
+</mediawiki>

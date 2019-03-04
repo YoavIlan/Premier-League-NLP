@@ -1,0 +1,371 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Łukasz Fabiański</title>
+    <ns>0</ns>
+    <id>4603012</id>
+    <revision>
+      <id>884720373</id>
+      <parentid>884685390</parentid>
+      <timestamp>2019-02-23T15:36:48Z</timestamp>
+      <contributor>
+        <username>AmorPatiturMoras</username>
+        <id>22357250</id>
+      </contributor>
+      <comment>/* External links */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32135">{{Use dmy dates|date=December 2018}}
+{{Infobox football biography
+| name               = Łukasz Fabiański
+| image              = JAP-POL (9) (cropped).jpg
+| image_size         =
+| caption            = Fabiański playing for [[Poland national football team|Poland]] at the [[2018 FIFA World Cup]]
+| fullname           = Łukasz Fabiański&lt;ref name="Hugman2010-11"&gt;{{cite book | editor-first = Barry J. | editor-last = Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |location=Edinburgh |isbn=978-1-84596-601-0 |page=145}}&lt;/ref&gt;
+| birth_date         = {{birth date and age|1985|4|18|df=y}}&lt;ref name="Hugman2010-11"/&gt;
+| birth_place        = [[Kostrzyn nad Odrą]], Poland
+| height             = 1.90 m&lt;ref&gt;{{cite news |url=http://www.premierleague.com/en-gb/players/profile.overview.html/lukasz-fabianski |title=Player Profile: Łukasz Fabiański |publisher=Premier League |accessdate=31 January 2012}}&lt;/ref&gt;
+| position           = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub        = [[West Ham United F.C.|West Ham United]]
+| clubnumber         = 1
+| youthyears1        = 1999–2000 |youthclubs1   = [[Polonia Słubice]]
+| youthyears2        = 2000–2001 |youthclubs2   = MSP Szamotuły
+| youthyears3        = 2001–2002 |youthclubs3   = Lubuszanin Drezdenko
+| youthyears4        = 2002–2003 |youthclubs4   = [[Sparta Brodnica]]
+| youthyears5        = 2003–2004 |youthclubs5   = [[Mieszko Gniezno]]
+| youthyears6        = 2004–2005 |youthclubs6   = [[Lech Poznań]]
+| years1             = 2004–2005 |clubs1        = [[Lech Poznań]]                      |caps1 = 0   |goals1 = 0
+| years2             = 2005–2007 |clubs2        = [[Legia Warsaw]]                     |caps2 = 53  |goals2 = 0
+| years3             = 2007–2014 |clubs3        = [[Arsenal F.C.|Arsenal]]             |caps3 = 32  |goals3 = 0
+| years4             = 2014–2018 |clubs4        = [[Swansea City A.F.C.|Swansea City]] |caps4 = 149 |goals4 = 0
+| years5             = 2018–     |clubs5        = [[West Ham United F.C.|West Ham United]] |caps5 = 26 |goals5 = 0
+| nationalyears1     =           |nationalteam1 = Poland U15                                            |nationalcaps1 =    |nationalgoals1 = 
+| nationalyears2     =           |nationalteam2 = [[Poland national under-17 football team|Poland U17]] |nationalcaps2 =    |nationalgoals2 = 
+| nationalyears3     =           |nationalteam3 = [[Poland national under-21 football team|Poland U21]] |nationalcaps3 =    |nationalgoals3 = 
+| nationalyears4     = 2006–     |nationalteam4 = [[Poland national football team|Poland]]              |nationalcaps4 = 48 |nationalgoals4 = 0
+| club-update        = 17:08, 10 February 2019 (UTC)
+| nationalteam-update = 17:08, 10 February 2019 (UTC)
+}}
+'''Łukasz Fabiański''' ({{IPA-pol|ˈwukaʂ faˈbʲaɲskʲi|-|Pl-Łukasz Fabiański.ogg}}; born 18 April 1985) is a Polish professional [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for English {{English football updater|WestHamU}} club [[West Ham United F.C.|West Ham United]] and the [[Poland national football team|Poland national team]].
+
+Having begun his career at [[Legia Warsaw]], Fabiański joined [[Arsenal F.C.|Arsenal]] for £2.1&amp;nbsp;million in 2007, and was mainly used as back-up, but played as the club won the [[2014 FA Cup Final]]. On the expiration of his contract in 2014, he joined [[Swansea City A.F.C.|Swansea]].
+
+A full international for Poland since 2006, Fabiański has represented his country on over 40 occasions and was included in the squads for the [[2006 FIFA World Cup]] and [[UEFA Euro 2008]]. He played every match for Poland at [[UEFA Euro 2016|Euro 2016]] after the first group match with [[Northern Ireland national football team|Northern Ireland]] due to first-choice goalkeeper [[Wojciech Szczęsny]]'s injury.
+
+==Club career==
+===Early career===
+Fabiański was born in [[Kostrzyn nad Odrą]].&lt;ref name="Hugman2010-11"/&gt; After starting his career with [[Polonia Słubice]], Fabiański joined the noted independent football academy MSP Szamotuły at age 14, where he honed his footballing skills.&lt;ref name="times"&gt;{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/premier_league/arsenal/article1774760.ece |title=Poland's new goalkeeping union not keen to send in the clowns |newspaper=The Times |date=11 May 2007 |accessdate=13 May 2007 |location=London |first=Nick |last=Szczepanik}}&lt;/ref&gt; Fabiański then was signed in the 2004–05 season by [[Lech Poznań]].{{citation needed|date=December 2018}}
+
+===Legia Warsaw===
+In the winter of 2005, Fabiański was signed by [[Legia Warsaw]], where he competed with [[Artur Boruc]] for a place in the team. After Boruc was sold to [[Celtic F.C.|Celtic]], Fabiański took over as starting goalkeeper on 24 July 2005 in a match against [[Arka Gdynia]], which ended 0–0.{{citation needed|date=December 2018}} The following season, he helped Legia win the [[2005–06 Ekstraklasa]].&lt;ref&gt;{{cite web |title=Football: Player profiles of Arsenal's impressive Carling Cup youngsters |first=Harry |last=Leech |work=The Guardian |date=13 November 2008 |accessdate=15 December 2018 |url= https://www.theguardian.com/football/2008/nov/13/arsenal-player-profiles-football-carling-cup}}&lt;/ref&gt; He started all 30 matches of the campaign, in which he conceded 17 goals.&lt;ref name=whu8things&gt;{{cite web |title=Eight things you probably didn’t know about Lukasz Fabianski |publisher=West Ham United F.C. |date=20 June 2018 |accessdate=15 December 2018 |url= https://www.whufc.com/news/articles/2018/june/20-june/eight-things-you-probably-didnt-know-about-lukasz-fabianski}}&lt;/ref&gt;
+
+In the 2005–06 and 2006–07 seasons, his performances led to him being awarded the "Football Oscar" for the best goalkeeper in the [[Ekstraklasa]].&lt;ref name="times"/&gt;
+
+===Arsenal===
+On 8 May 2007, Fabiański underwent medical tests in London after [[Arsenal F.C.|Arsenal]] agreed a transfer fee with Legia Warsaw worth approximately £2.1&amp;nbsp;million.&lt;ref name="transfer"&gt;{{cite news |url=http://home.skysports.com/list.aspx?hlid=465703&amp;CPID=8&amp;clid=3&amp;lid=&amp;title=Gunners+to+pick+up+Pole |title=Gunners to pick up Pole |first=Peter |last=O'Rourke |publisher=Sky Sports |date=9 May 2007 |accessdate=10 May 2007}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; The move was confirmed on 11 May 2007 by Arsenal manager [[Arsène Wenger]].&lt;ref name="transfer2"&gt;{{cite web |url=https://www.arsenal.com/article.asp?thisNav=News&amp;article=466047&amp;lid=NewsHeadline&amp;Title=TV+Online+exclusive:+Wenger+-+Fabianski+is+set+to+sign |title=Wenger: Fabianski is set to sign |author=Richard Clarke |publisher=Arsenal F.C. |date=11 May 2007 |accessdate=11 May 2007 |archiveurl=https://web.archive.org/web/20070513023735/https://www.arsenal.com/article.asp?thisNav=News&amp;article=466047&amp;lid=NewsHeadline&amp;Title=TV+Online+exclusive:+Wenger+-+Fabianski+is+set+to+sign &lt;!-- Bot retrieved archive --&gt; |archivedate=13 May 2007}}&lt;/ref&gt; Fabiański formally signed for Arsenal on 26 May with a long-term contract.&lt;ref name="arsenaloffrelease"&gt;{{cite web |url=https://www.arsenal.com/article.asp?article=468626&amp;lid=NewsHeadline&amp;sub=Polish+goalkeeper+Lukasz+Fabianski+joins+Arsenal&amp;sublid=NewsHeadline&amp;Title=Polish+goalkeeper+Lukasz+Fabianski+joins+Arsenal&amp;f=rss |title=Polish goalkeeper Lukasz Fabianski joins Arsenal |publisher=Arsenal F.C. |date=26 May 2007 |accessdate=26 May 2007 |archiveurl=https://web.archive.org/web/20070930205406/https://www.arsenal.com/article.asp?article=468626&amp;lid=NewsHeadline&amp;sub=Polish+goalkeeper+Lukasz+Fabianski+joins+Arsenal&amp;sublid=NewsHeadline&amp;Title=Polish+goalkeeper+Lukasz+Fabianski+joins+Arsenal&amp;f=rss &lt;!-- Bot retrieved archive --&gt; |archivedate=30 September 2007}}&lt;/ref&gt; He made his debut for the club in a 2–0 [[Football League Cup|League Cup]] win over [[Newcastle United F.C.|Newcastle United]] on 25 September 2007.&lt;ref&gt;{{Cite web |title=Fabiański's fond farewell to Arsenal |first=Piotr |last=Kozmiński |publisher=UEFA |date=3 June 2014 |accessdate=15 December 2018 |url= https://www.uefa.com/memberassociations/association=eng/news/newsid=2113026.html}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Arsenal 2-0 Newcastle |first=Saj |last=Chowdhury |publisher=BBC Sport |date=25 September 2007 |accessdate=15 December 2018 |url= http://news.bbc.co.uk/sport1/hi/football/league_cup/7008002.stm}}&lt;/ref&gt;
+
+In Fabiański's early Arsenal career, two of his most notable appearances came in the 5–1 defeat to rivals [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in the [[2007–08 Football League Cup|2007–08 League Cup]] semi-final and the first leg of the [[2009–10 UEFA Champions League]] second round match with [[FC Porto|Porto]]. Fabiański received criticism for conceding soft goals in the Porto match as he scored an own goal and was blamed for the second goal after picking up a backpass from [[Sol Campbell]], with Porto scoring from the resulting free-kick.{{citation needed|date=June 2018}} In January 2010, Arsène Wenger stated that Łukasz Fabiański could become one of the best goalkeepers in the [[Premier League]].&lt;ref&gt;[http://www.tribalfootball.com/arsenal-boss-wenger-fabianski-can-be-among-best-594841 Arsenal boss Wenger: Fabianski can be among the best | Premiership News] {{webarchive|url=https://web.archive.org/web/20120406230204/http://www.tribalfootball.com/arsenal-boss-wenger-fabianski-can-be-among-best-594841 |date=6 April 2012 }}. tribalfootball.com (24 January 2010).&lt;/ref&gt;
+
+Fabiański played the last four matches for Arsenal in the [[2009–10 Arsenal F.C. season|2009–10 season]] after top-choice goalkeeper [[Manuel Almunia]] suffered a wrist injury. He was criticised for conceding soft goals in the defeats to [[Wigan Athletic F.C.|Wigan Athletic]] and [[Blackburn Rovers F.C.|Blackburn Rovers]], but kept clean sheets in the matches at home to [[Manchester City F.C.|Manchester City]] and [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite web |url=http://www.goal.com/en-gb/news/2914/champions-league/2010/02/17/1795174/porto-2-1-arsenal-lukasz-fabianski-errors-hand-portuguese |title=Porto 2–1 Arsenal: Lukasz Fabiański errors hand Portuguese side the edge |author=Niall McGlone |publisher=Goal.com |date=17 February 2010 |accessdate=5 March 2010}}&lt;/ref&gt;
+
+====2010–11 season====
+[[File:Lukasz Fabianski Arsenal vs Birmingham 2010-11.jpg|185px|right|thumb|Fabiański playing for [[Arsenal F.C.|Arsenal]] in 2010]]
+Fabiański started the [[2010–11 Arsenal F.C. season|2010–11 season]] as Arsenal's second-choice goalkeeper. On 21 September 2010, he made his first start of the season in a [[2010–11 Football League Cup|League Cup]] match against [[North London Derby|neighbours]] Tottenham Hotspur at [[White Hart Lane]], which Arsenal won 4–1 after extra time. Fabiański almost cost the match for Arsenal as he failed to stop [[Robbie Keane]]'s long-range effort, despite getting a hand to the shot. After the match, he revealed he was disappointed. He had a solid match in his second match of the season replacing the injured Manuel Almunia one week later in a [[2010–11 UEFA Champions League|UEFA Champions League]] 3–1 away win against [[FK Partizan|Partizan]]. He saved [[Cléo]]'s second penalty of the match in the second half to deny Partizan a lifeline. He later turned [[Ivica Iliev]]'s effort around the post from point-blank range just before the final whistle. Arsène Wenger later commented that Fabiański had a "faultless" match and they finally saw the player who they usually see in training. He kept his first clean sheet in a win over Manchester City, where he made many saves in a match that ended 3–0. He was later named man of the match on an Arsenal.com poll after a brilliant display to keep Arsenal in the match.&lt;ref&gt;[https://www.arsenal.com/news/news-archive/-we-saw-the-fabianski-we-see-in-training- 'We saw the Fabianski we see in training' | News] {{webarchive|url=https://web.archive.org/web/20101001095644/https://www.arsenal.com/news/news-archive/-we-saw-the-fabianski-we-see-in-training- |date=1 October 2010 }}. Arsenal F.C..com (28 September 2010).&lt;/ref&gt; After the City match, Wenger admitted he could well become the club's number one goalkeeper after impressive displays in the matches since the Partizan match.&lt;ref&gt;[http://www.goal.com/en-gb/news/2896/premier-league/2010/10/24/2181614/arsene-wenger-admits-lukasz-fabianski-could-displace-manuel Arsene Wenger admits Lukasz Fabianski could displace Manuel Almunia as Arsenal’s first-choice goalkeeper]. Goal.com.&lt;/ref&gt;
+
+On 7 November 2010, Fabiański was widely criticised for an error that lead to the only goal as Arsenal lost at home to Newcastle United.&lt;ref&gt;{{cite web |url=http://ministryofglove.wordpress.com/2010/11/08/lukasz-fabianski-mistake-v-newcastle/ |title=Fabianski Mistake Hands Newcastle Surprise Win |publisher=MinistryOf Glove.com |date=8 November 2010 |accessdate=9 November 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://uk.eurosport.yahoo.com/08112010/58/premier-league-toon-shock-arsenal.html |title=Toon Shock Arsenal |website=Eurosport |date=7 November 2010 |accessdate=23 October 2010 |deadurl=bot: unknown |archiveurl=https://web.archive.org/web/20110814172159/http://uk.eurosport.yahoo.com/08112010/58/premier-league-toon-shock-arsenal.html |archivedate=14 August 2011}}(archived)&lt;/ref&gt; However, he produced a strong display to keep a clean sheet in the next Premier League match, against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]], in which he managed to prevent a draw with a last-minute save, and then initiating a counter-attack with a long throw of the ball that led to another Arsenal goal.&lt;ref&gt;{{cite news |url=http://www.skysports.com/football/match_report/0,19764,11065_3293518,00.html |publisher=Sky Sports |title=Chamakh brace sinks Wolves |date=10 November 2010}}&lt;/ref&gt; After the Wolves match, Arsenal played [[Everton F.C.|Everton]], where Fabiański received the man of the match award from [[Sky Sports]].&lt;ref&gt;{{cite news |url=http://www1.skysports.com/football/live/match/221169/report |title=Everton v Arsenal match report |publisher=Sky Sports}}&lt;/ref&gt;
+
+Fabiański was injured for Arsenal's crucial match with [[Manchester United F.C.|Manchester United]] but returned for the equally important match with London rivals [[Chelsea F.C.|Chelsea]], making many crucial saves in helping Arsenal to win 3–1.&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/9309539.stm |title=Arsenal 3–1 Chelsea |publisher=BBC Sport |date=27 December 2010 |accessdate=27 December 2010 |first=Phil |last=McNulty}}&lt;/ref&gt; On 5 January 2011, he suffered a season-ending shoulder injury as he was warming up with the help of [[Wojciech Szczęsny]], which ruled him out for the remainder of the 2010–11 season.&lt;ref&gt;{{Cite news |url=http://soccernet.espn.go.com/news/story/_/id/874906/op-to-sideline-lukas-fabianski-for-season?cc=5901 |title=Op to sideline Fabianski for season |website=ESPN Soccernet |date=3 January 2011 |accessdate=4 January 2011}}&lt;/ref&gt; During this period, Szczęsny established himself as Arsenal's first choice goalkeeper ahead of his Polish compatriot.{{citation needed|date=December 2018}}
+
+====2011–12 season====
+[[File:Lukasz Fabianski 3.jpg|thumb|right|200px|Fabiański warming up before a match against [[Chelsea F.C|Chelsea]] on 21 April 2012]]
+
+Fabiański spent the [[2011–12 Arsenal F.C. season|2011–12 season]] as backup to Wojciech Szczęsny, making his first appearance against [[Shrewsbury Town F.C.|Shrewsbury Town]] in the [[2011–12 Football League Cup|League Cup]].{{citation needed|date=December 2018}}
+
+On 6 December 2011, Fabiański was selected to start in Arsenal's [[2011–12 UEFA Champions League|UEFA Champions League]] [[2011–12 UEFA Champions League group stage|group stage]] match against [[Olympiacos F.C.|Olympiacos]], but was substituted out after 25 minutes following a knee injury.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/15933230 |title=Olympiakos 3 – 1 Arsenal |date=6 December 2011 |accessdate=13 April 2014 |publisher=BBC Sport}}&lt;/ref&gt;
+
+====2012–13 season====
+Injuries limited Fabiański's appearances during the [[2012–13 Arsenal F.C. season|2012–13 season]], where he made only five [[2012–13 Premier League|Premier League]] appearances as back-up to Wojciech Szczęsny. In March 2013, after Szczęsny was dropped, Fabiański started in goal in the second-leg of Arsenal's [[2012–13 UEFA Champions League|UEFA Champions League]] tie against [[FC Bayern Munich|Bayern Munich]]. He kept a clean sheet as Arsenal won 2–0 and retained his place in the team to make his first Premier League start of the season away against [[Swansea City A.F.C.|Swansea City]] on 16 March 2013, again keeping a clean sheet in a 2–0 win. Fabiański started in Arsenal's next three league matches against [[Reading F.C.|Reading]], [[West Bromwich Albion F.C.|West Bromwich Albion]] and [[Norwich City F.C.|Norwich City]]. However, an injury sustained in the match against Norwich by Fabiański allowed Szczęsny to return to the starting line-up and reclaim his position as first-choice goalkeeper.{{citation needed|date=December 2018}}
+
+====2013–14 season====
+During the [[2013–14 Arsenal F.C. season|2013–14 season]], Fabiański was used as Arsenal's starting goalkeeper in [[2013–14 FA Cup|FA Cup]] and [[2013–14 Football League Cup|League Cup]] matches, with Szczęsny remaining first-choice in [[2013–14 Premier League|Premier League]] and [[2013–14 UEFA Champions League|UEFA Champions League]] matches.{{citation needed|date=December 2018}}
+
+On 19 February 2014, Fabiański came on as a substitute in the 37th minute of a 2–0 Champions League home defeat against Bayern Munich, after Szczęsny was [[Ejection (sports)|sent off]] for a foul on [[Arjen Robben]]. With Szczęsny suspended, Fabiański was in the starting line-up for the second leg and saved a late penalty from Bayern's [[Thomas Müller]].{{citation needed|date=December 2018}}
+
+On 12 April, Fabiański saved penalties from [[Gary Caldwell]] and [[Jack Collison]] in an [[2013–14 FA Cup|FA Cup]] semi-final [[Penalty shootout|shootout]] victory over Wigan Athletic.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/26897266 |title=Wigan 1–1 Arsenal |date=12 April 2014 |publisher=BBC Sport}}&lt;/ref&gt; He made his only Premier League appearance of the season in the last match on 11 May, keeping a clean sheet in a 2–0 away win that caused his opponents Norwich City to be relegated.&lt;ref&gt;{{cite news |last=Osborne |first=Chris |title=Norwich 0–2 Arsenal |url=https://www.bbc.co.uk/sport/0/football/27273461 |accessdate=29 May 2014 |publisher=BBC Sport |date=11 May 2014}}&lt;/ref&gt; Six days later, Fabiański started for Arsenal in the [[2014 FA Cup Final]] as they defeated [[Hull City A.F.C.|Hull City]] 3–2 after extra time at [[Wembley Stadium]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/27354148 |title=Aaron Ramsey's extra-time winner ensured Arsenal ended their nine-year wait for a trophy by coming from two goals behind to beat Hull City in a dramatic FA Cup final at Wembley |publisher=BBC Sport |accessdate=17 May 2014}}&lt;/ref&gt;
+
+===Swansea City===
+On 29 May 2014, it was announced that Fabiański would join fellow Premier League side Swansea City on a free transfer when his Arsenal contract expired on 1 July. He said of the transfer, "The main reason I came to Swansea was because I want to be the number one goalkeeper."&lt;ref name=Swansea&gt;{{cite news |title=Lukasz Fabianski leaves Arsenal to join Swansea City on free transfer |url=https://www.bbc.co.uk/sport/0/football/27616469 |accessdate=29 May 2014 |publisher=BBC Sport |date=29 May 2014}}&lt;/ref&gt; He made his competitive debut for the club on 16 August, a 2–1 win against Manchester United at [[Old Trafford]] in the first match of the [[2014–15 Premier League|Premier League season]].&lt;ref&gt;{{cite news |last1=Bevan |first1=Chris |title=Man Utd 1–2 Swansea |url=https://www.bbc.co.uk/sport/0/football/28718345 |accessdate=16 August 2014 |publisher=BBC Sport |date=16 August 2014}}&lt;/ref&gt; On 7 December 2014, Fabiański was sent off in Swansea's 1–3 loss at [[West Ham United F.C.|West Ham United]] for a foul on [[Diafra Sakho]].&lt;ref&gt;{{cite news |last1=Rose |first1=Gary |title=West Ham 3–1 Swansea |url=https://www.bbc.co.uk/sport/0/football/30266472 |accessdate=7 December 2014 |publisher=BBC Sport |date=7 December 2014}}&lt;/ref&gt;
+
+On 11 May 2015, Fabiański kept a clean sheet and was named [[man of the match]] in a 1–0 win against Arsenal on his return to the [[Emirates Stadium]].&lt;ref&gt;{{cite news |url=http://www1.skysports.com/football/news/11670/9847357/lukasz-fabianski-says-swanseas-win-over-arsenal-was-not-personal |title=Lukasz Fabianski says Swansea's win over Arsenal was not personal |date=11 May 2015 |publisher=Sky Sports}}&lt;/ref&gt; On 6 July, Fabiański signed a new four-year contract with Swansea, which would keep him at the club until June 2019.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/33807475 |title=Fabianski signs 4-year deal |publisher=BBC Sport |accessdate=6 July 2015}}&lt;/ref&gt;
+
+Fabiański played all 38 of Swansea's Premier League games of [[2017–18 Swansea City A.F.C. season|2017–18]] and was voted Player of the Season by the club's supporters. His performances did not prevent the club from ending the season 18th and they were relegated to the [[EFL Championship|Championship]].&lt;ref name=sb1718/&gt;&lt;ref&gt;{{Cite web |title=Swansea City's Player of the Season Awards 2018 |last=Gwilym |first=Andrew |website=WalesOnline |date=19 April 2018 |accessdate=20 June 2018 |url=https://www.walesonline.co.uk/sport/football/football-news/swansea-citys-player-season-awards-14607269}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44020155 |title=Swansea 1–2 Stoke |publisher=BBC Sport |first=Dafydd |last=Pritchard |date=14 May 2018 |accessdate=4 July 2018}}&lt;/ref&gt;
+
+===West Ham United===
+On 20 June 2018, Premier League club [[West Ham United F.C.|West Ham United]] announced the transfer of Fabiański for £7&amp;nbsp;million. He signed a three-year contract with the club.&lt;ref&gt;{{cite news |title=Lukasz Fabianski: West Ham sign Swansea City's Polish goalkeeper |publisher=BBC Sport |date=20 June 2018 |accessdate=20 June 2018 |url=https://www.bbc.co.uk/sport/football/44546138}}&lt;/ref&gt; Fabiański, the first Pole to play first-team football for West Ham, was installed as first-choice 'keeper at the start of the [[2018–19 West Ham United F.C. season|2018–19 season]].&lt;ref name=whu8things/&gt;&lt;ref&gt;{{cite web |title=Standout players of 2018/19: Lukasz Fabianski |first=Adrian |last=Clarke |publisher=Premier League |date=13 October 2018 |accessdate=15 December 2018 |url= https://www.premierleague.com/news/878144}}&lt;/ref&gt;
+
+==International career==
+[[File:1 lukasz fabianksi 2016.jpg|thumb|upright|Fabiański playing for Poland against Portugal at Euro 2016]]
+
+Having represented Poland regularly at [[Poland national under-21 football team|under-21]] level, Fabiański's performances for Legia Warsaw saw him soon making his debut for the [[Poland national football team|senior international team]] in a friendly against [[Saudi Arabia national football team|Saudi Arabia]] on 29 March 2006.&lt;ref name="arsenaloffrelease"/&gt;
+
+Fabiański was included in Poland's squad for the [[2006 FIFA World Cup]], serving as back-up to [[Artur Boruc]] and [[Tomasz Kuszczak]]. During the qualifying campaign for the [[UEFA Euro 2008]], he made one appearance, playing all 90 minutes in Poland's 2–2 away draw against [[Serbia national football team|Serbia]] on 21 November 2007.&lt;ref name="pzpn3777"&gt;{{cite web |url=http://www.fussballdaten.de/em/2008/qualifikation/gruppea/serbien-polen/ |title=Serbien gegen Polen 2:2 |publisher=Fussballdaten |accessdate=21 April 2010 |language=German}}&lt;/ref&gt; In September 2008, Fabiański replaced the suspended Boruc for the [[2010 FIFA World Cup qualification (UEFA)|2010 World Cup qualifiers]] against [[San Marino national football team|San Marino]] and [[Slovenia national football team|Slovenia]]. He also played in another qualifying match against San Marino in April 2009.
+
+Despite going into [[UEFA Euro 2016]] as an understudy to [[Wojciech Szczesny]], an injury in the first game of the tournament led to Fabiański becoming first choice for the rest of the tournament. He went on to keep clean sheets in both of the remaining group games against World champions [[Germany national football team|Germany]] and [[Ukraine national football team|Ukraine]]. He then kept his place as Poland defeated [[Switzerland national football team|Switzerland]] in the Round of 16 before losing to eventual winners [[Portugal national football team|Portugal]] on penalties.
+
+==Career statistics==
+===Club===
+&lt;!-- NOTE: when updating stats, update the infobox too! --&gt;
+{{updated|match played 9 February 2019}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Europe
+!colspan=2|Total
+|-
+!League
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|[[Lech Poznań]]
+|[[2004–05 Ekstraklasa|2004–05]]&lt;ref&gt;{{cite web |title=Łukasz Fabiański – Sezon 2004/05 |url=http://www.90minut.pl/wystepy.php?id=5820&amp;id_sezon=65 |publisher=90minut.pl |language=pl}}&lt;/ref&gt;
+|[[Ekstraklasa]]
+|0||0||1||0||colspan=2|—|||0||0||1||0
+|-
+|rowspan=3|[[Legia Warsaw]]
+|[[2005–06 Ekstraklasa|2005–06]]&lt;ref&gt;{{cite web |title=Łukasz Fabiański – Sezon 2005/06 |url=http://www.90minut.pl/wystepy.php?id=5820&amp;id_sezon=67 |publisher=90minut.pl |language=pl}}&lt;/ref&gt;
+|Ekstraklasa
+|30||0||0||0||colspan=2|—|||2{{efn|Appearances in [[UEFA Cup]]}}||0||32||0
+|-
+|[[2006–07 Ekstraklasa|2006–07]]&lt;ref&gt;{{cite web |title=Łukasz Fabiański – Sezon 2006/07 |url=http://www.90minut.pl/wystepy.php?id=5820&amp;id_sezon=69 |publisher=90minut.pl}}&lt;/ref&gt;
+|Ekstraklasa
+|23||0||1||0||colspan=2|—|||6{{efn|Four appearances in [[UEFA Champions League]], two in UEFA Cup}}||0||30||0
+|-
+! colspan=2 | Total
+!53||0||1||0||colspan=2|—|||8||0||62||0
+|-
+|rowspan=8|[[Arsenal F.C.|Arsenal]]
+|[[2007–08 Arsenal F.C. season|2007–08]]&lt;ref&gt;{{soccerbase season|43797|2007|name=Lukasz Fabianski|accessdate=12 February 2015}}&lt;/ref&gt;
+|[[Premier League]]
+|3||0||0||0||5||0||0||0|||8||0
+|-
+|[[2008–09 Arsenal F.C. season|2008–09]]&lt;ref&gt;{{soccerbase season|43797|2008|name=Lukasz Fabianski|accessdate=12 February 2015}}&lt;/ref&gt;
+|Premier League
+|6||0||6||0||3||0||3{{efn|name=UCL|Appearance(s) in UEFA Champions League}}||0||18||0
+|-
+|[[2009–10 Arsenal F.C. season|2009–10]]&lt;ref&gt;{{soccerbase season|43797|2009|name=Lukasz Fabianski|accessdate=12 February 2015}}&lt;/ref&gt;
+|Premier League
+|4||0||2||0||2||0||2{{efn|name=UCL}}||0||10||0
+|-
+|[[2010–11 Arsenal F.C. season|2010–11]]&lt;ref&gt;{{soccerbase season|43797|2010|name=Lukasz Fabianski|accessdate=12 February 2015}}&lt;/ref&gt;
+|Premier League
+|14||0||0||0||1||0||5{{efn|name=UCL}}||0|||20||0
+|-
+|[[2011–12 Arsenal F.C. season|2011–12]]&lt;ref&gt;{{soccerbase season|43797|2011|name=Lukasz Fabianski|accessdate=12 February 2015}}&lt;/ref&gt;
+|Premier League
+|0||0||2||0||3||0||1{{efn|name=UCL}}||0||6||0
+|-
+|[[2012–13 Arsenal F.C. season|2012–13]]&lt;ref&gt;{{soccerbase season|43797|2012|name=Lukasz Fabianski|accessdate=12 February 2015}}&lt;/ref&gt;
+|Premier League
+|4||0||0||0||0||0||1{{efn|name=UCL}}||0||5||0
+|-
+|[[2013–14 Arsenal F.C. season|2013–14]]&lt;ref&gt;{{soccerbase season|43797|2013|name=Lukasz Fabianski|accessdate=12 February 2015}}&lt;/ref&gt;
+|Premier League
+|1||0||6||0||2||0||2{{efn|name=UCL}}||0||11||0
+|-
+! colspan=2 | Total
+!32||0||16||0||16||0||14||0||78||0
+|-
+|rowspan=5|[[Swansea City A.F.C.|Swansea City]]
+|[[2014–15 Swansea City A.F.C. season|2014–15]]&lt;ref&gt;{{soccerbase season|43797|2014|name=Lukasz Fabianski|accessdate=2 November 2015}}&lt;/ref&gt;
+|Premier League
+|37||0||1||0||0||0||colspan=2|—|||38||0
+|-
+|[[2015–16 Swansea City A.F.C. season|2015–16]]&lt;ref&gt;{{soccerbase season|43797|2015|name=Lukasz Fabianski|accessdate=2 November 2015}}&lt;/ref&gt;
+|Premier League
+|37||0||0||0||0||0||colspan=2|—|||37||0
+|-
+|[[2016–17 Swansea City A.F.C. season|2016–17]]&lt;ref&gt;{{soccerbase season|43797|2016|name=Lukasz Fabianski|accessdate=2 November 2015}}&lt;/ref&gt;
+|Premier League
+|37||0||0||0||0||0||colspan=2|—|||37||0
+|-
+|[[2017–18 Swansea City A.F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|43797|2017|name=Lukasz Fabianski|accessdate=14 May 2018}}&lt;/ref&gt;
+|Premier League
+|38||0||0||0||0||0||colspan=2|—|||38||0
+|-
+! colspan=2 | Total
+!149||0||1||0||0||0||colspan=2|—||150||0
+|-
+|[[West Ham United F.C.|West Ham United]]
+|[[2018–19 West Ham United F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|43797|2018|name=Lukasz Fabianski|accessdate=10 February 2019}}&lt;/ref&gt;
+|Premier League
+|26||0||0||0||0||0||colspan=2|—|||26||0
+|-
+! colspan=3 | Career total
+!260||0||19||0||16||0||22||0||317||0
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 11 October 2018}}&lt;ref&gt;{{NFT player |id=14342 |name=Fabiański, Łukasz |accessdate=10 February 2019}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=12|[[Poland national football team|Poland]]
+|2006||3||0
+|-
+|2007||3||0
+|-
+|2008||6||0
+|-
+|2009||2||0
+|-
+|2010||3||0
+|-
+|2011||3||0
+|-
+|2012||1||0
+|-
+|2014||1||0
+|-
+|2015||6||0
+|-
+|2016||10||0
+|-
+|2017||4||0
+|-
+|2018||6||0
+|-
+!colspan=2|Total||48||0
+|}
+
+==Honours==
+'''Legia Warsaw'''
+*[[Ekstraklasa]]: [[2005–06 Ekstraklasa|2005–06]]&lt;ref name="Lukasz Fabiański"/&gt;
+
+'''Arsenal'''
+*[[FA Cup]]: [[2013–14 FA Cup|2013–14]]&lt;ref name="Lukasz Fabiański"&gt;{{Soccerway|lukasz-fabianski/725| accessdate = 10 August 2018}}&lt;/ref&gt;
+
+'''Individual'''
+*Best Goalkeeper of Polish Ekstraklasa: [[2005–06 Ekstraklasa|2005–06]], [[2006–07 Ekstraklasa|2006–07]]
+*[[Swansea City A.F.C.|Swansea City]] Player of the Season: 2017–18&lt;ref&gt;{{cite web |url=https://www.swanseacity.com/news/fabianski-named-player-year |title=Fabianski named player of the year – Swansea City FC |publisher=Swansea City A.F.C.}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*[https://www.whufc.com/teams/first-team/squad/lukasz-fabianski#Profile Profile] at whufc.com
+*{{Soccerbase}}
+*[https://www.premierleague.com/players/3309/Lukasz-Fabianski/overview Premier League profile]
+
+{{West Ham United F.C. squad}}
+{{Navboxes
+| title = Poland squads
+| bg = white
+| fg = #DE161C
+| bordercolor = #DE161C
+| list1 = 
+{{Poland squad 2006 FIFA World Cup}}
+{{Poland squad UEFA Euro 2008}}
+{{Poland squad UEFA Euro 2016}}
+{{Poland squad 2018 FIFA World Cup}}
+}}
+{{Navboxes colour
+|title=Awards
+|bg=gold
+|fg=navy
+|list1=
+{{Swansea City A.F.C. Player of the Year}}
+{{Polish Footballer of the Year}}
+}}
+{{DEFAULTSORT:Fabianski, Lukasz}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:People from Kostrzyn nad Odrą]]
+[[Category:Sportspeople from Lubusz Voivodeship]]
+[[Category:Polish footballers]]
+[[Category:Poland youth international footballers]]
+[[Category:Poland under-21 international footballers]]
+[[Category:Poland international footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Sparta Brodnica players]]
+[[Category:Lech Poznań players]]
+[[Category:Legia Warsaw players]]
+[[Category:Arsenal F.C. players]]
+[[Category:Swansea City A.F.C. players]]
+[[Category:West Ham United F.C. players]]
+[[Category:Ekstraklasa players]]
+[[Category:Premier League players]]
+[[Category:2006 FIFA World Cup players]]
+[[Category:UEFA Euro 2008 players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:Polish expatriate footballers]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Wales]]
+[[Category:Polish expatriate sportspeople in England]]
+[[Category:Polish expatriate sportspeople in Wales]]</text>
+      <sha1>11yak7xe92vzyx740j1lal04rz3npzk</sha1>
+    </revision>
+  </page>
+</mediawiki>

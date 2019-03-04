@@ -1,0 +1,245 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kasey Palmer</title>
+    <ns>0</ns>
+    <id>50238871</id>
+    <revision>
+      <id>880324420</id>
+      <parentid>880322259</parentid>
+      <timestamp>2019-01-26T20:18:53Z</timestamp>
+      <contributor>
+        <username>Mattythewhite</username>
+        <id>553121</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 3 edits by [[Special:Contributions/86.172.218.152|86.172.218.152]] ([[User talk:86.172.218.152|talk]]) to last revision by Mattythewhite ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15558">{{Use dmy dates|date=August 2018}}
+{{Infobox football biography
+| name = Kasey Palmer
+| image = 
+| image_size = 
+| caption = 
+| fullname = Kasey Remel Palmer&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1996|11|9|df=y}}
+| birth_place = [[London Borough of Lewisham|Lewisham]], England
+| height = 
+| position = [[Midfielder]]
+| currentclub = [[Bristol City F.C.|Bristol City]] &lt;br&gt; (on loan from [[Chelsea F.C.|Chelsea]])
+| clubnumber = 45
+| youthyears1 = 2005–2013
+| youthclubs1 = [[Charlton Athletic F.C.|Charlton Athletic]]
+| youthyears2 = 2013–2016
+| youthclubs2 = [[Chelsea F.C.|Chelsea]]
+| years1 = 2016–
+| clubs1 = [[Chelsea F.C.|Chelsea]]
+| caps1 = 0
+| goals1 = 0
+| years2 = 2016–2017
+| clubs2 = → [[Huddersfield Town A.F.C.|Huddersfield Town]] (loan)
+| caps2 = 24
+| goals2 = 4
+| years3 = 2017–2018
+| clubs3 = → [[Huddersfield Town A.F.C.|Huddersfield Town]] (loan)
+| caps3 = 4
+| goals3 = 0
+| years4 = 2018
+| clubs4 = → [[Derby County F.C.|Derby County]] (loan)
+| caps4 = 15
+| goals4 = 2
+| years5 = 2018–2019
+| clubs5 = → [[Blackburn Rovers F.C.|Blackburn Rovers]] (loan)
+| caps5 = 14
+| goals5 = 1
+| years6 = 2019–
+| clubs6 = → [[Bristol City F.C.|Bristol City]] (loan)
+| caps6 = 1
+| goals6 = 1
+| nationalteam1 = [[England national under-17 football team|England U17]]
+| nationalteam2 = [[England national under-18 football team|England U18]]
+| nationalyears1 = 2013
+| nationalyears2 = 2013
+| nationalcaps1 = 3
+| nationalcaps2 = 1
+| nationalgoals1 = 0
+| nationalgoals2 = 0
+| nationalyears3 = 2016
+| nationalteam3 = [[England national under-20 football team|England U20]]
+| nationalcaps3 = 2
+| nationalgoals3 = 2
+| nationalyears4 = 2016–
+| nationalteam4 = [[England national under-21 football team|England U21]]
+| nationalcaps4 = 6
+| nationalgoals4 = 1
+| club-update = 21:59, 12 January 2019 (UTC)
+| nationalteam-update = 19:41, 27 March 2018 (UTC)
+}}
+'''Kasey Remel Palmer''' (born 9 November 1996) is an English professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Bristol City F.C.|Bristol City]] on loan from [[Chelsea F.C.|Chelsea]]. He also plays for [[England national under-21 football team|England U21]]s.
+
+==Club career==
+===Chelsea===
+Palmer joined [[Charlton Athletic F.C.|Charlton Athletic]] at the age of nine, and featured for the club for the majority of his youth career.&lt;ref&gt;{{Cite web|url=http://www.dailymail.co.uk/sport/football/article-3524622/Kasey-Palmer-impressed-Chelsea-21s-nutmegged-Phil-Jones-youngster-looking-force-way-Guus-Hiddink-s-team-plans.html|title=Kasey Palmer impressed for Chelsea U 21s, but who is the youngster?|website=Mail Online|accessdate=19 April 2016}}&lt;/ref&gt; Having represented his nation at youth level, Palmer attracted interest from [[Chelsea F.C.|Chelsea]] and made the move in March 2013. Due to their academy status, the Blues were able to sign Palmer for only a small compensation fee.&lt;ref&gt;{{Cite web|url=http://www.dailymail.co.uk/sport/football/article-2306844/Kasey-Palmer-cost-Chelsea-800-000-Charlton-move.html|title=EXCLUSIVE: New-signing Palmer could cost Chelsea £800k after move from Charlton|website=Mail Online|accessdate=19 April 2016}}&lt;/ref&gt;
+
+Making a handful of appearances for the [[Chelsea F.C. Reserves and Academy|Under-18s]] during the remainder of his inaugural season, Palmer became an influential figure in [[Adrian Viveash]]'s side for the 2013–14 while making sporadic appears from the bench for the [[Chelsea F.C. Reserves and Academy|Under-19s]] and [[Chelsea F.C. Reserves and Academy|Under-21s]].&lt;ref name=":0"&gt;{{Cite web|url=http://www.chelseafc.com/teams/development-squad/under-21s/u21-player-profiles/kasey-palmer.html|title=Kasey Palmer|website=www.chelseafc.com|accessdate=19 April 2016}}&lt;/ref&gt;
+
+His first success came with the Under-21s, when he made appearances in the semi-final and final of the end-of-season playoffs before [[Dermot Drummy]]'s team were named league champions. He later featured as a substitute in every round of the club’s successful [[FA Youth Cup]] campaign while netting twice.&lt;ref name=":0" /&gt;
+
+He also played in all four [[UEFA Youth League]] knockout ties, while scoring against [[FC Zenit Saint Petersburg|Zenit St Petersburg]] in the second round before the Blues lifted the cup.&lt;ref name=":0" /&gt; The 2015–16 season also proved successful for Palmer, who scored three goals in five matches as they retained their crown.&lt;ref&gt;{{Cite web|url=http://www.skysports.com/football/news/11668/10248901/paris-saint-german-1-2-chelsea-blues-retain-uefa-youth-league-crown|title=Paris Saint-Germain 1–2 Chelsea: Blues retain UEFA Youth League crown|website=Sky Sports|accessdate=19 April 2016}}&lt;/ref&gt;
+
+Tipped as one of the academy's most promising talents, Palmer signed a new contract in February 2016, which committed his future to the club until the end of the 2018–19 season.&lt;ref&gt;{{Cite web|url=https://www.instagram.com/p/BBS4DysNLUr/|title=Instagram photo by Kasey Palmer • Feb 2, 2016 at 7:03pm UTC|website=Instagram|accessdate=19 April 2016}}&lt;/ref&gt; He was given his first taste of senior football under manager [[Guus Hiddink]], being named as an unused substitute against [[Swansea City A.F.C.|Swansea City]] in April 2016.&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/35949311|title=Swansea City 1–0 Chelsea|last=Stadium|first=Dafydd Pritchard BBC Wales Sport at the Liberty|website=BBC Sport|accessdate=19 April 2016}}&lt;/ref&gt;
+
+====Loan to Huddersfield Town====
+On 15 July 2016, Palmer joined [[Huddersfield Town A.F.C.|Huddersfield Town]] on a season-long [[Loan (sports)|loan]].&lt;ref&gt;{{Cite web|url=http://www.htafc.com/news/article/2016-17/huddersfield-town-kasey-palmer-chelsea-signing-transfer-loan-3187038.aspx|title=Chelsea’s Kasey Palmer joins Huddersfield Town on a season-loan Standard Loan|last=Threlfall-Sykes|first=David|accessdate=6 August 2016}}&lt;/ref&gt; He made his professional debut on 6 August, replacing [[Jack Payne (footballer, born 1994)|Jack Payne]] in the 78th minute of a 2–1 win over [[Brentford F.C.|Brentford]]. Palmer scored the winning goal after a minute on the pitch with just his second touch of the ball.&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/36929750|title=Huddersfield Town 2–1 Brentford|website=BBC Sport|accessdate=6 August 2016}}&lt;/ref&gt; In the following league game against [[Newcastle United F.C.|Newcastle United]], Palmer once again came off the bench in the second-half, where he went on to set up Payne to score the winner with a through-ball to earn their second straight win.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/36993966 |title=Jack Payne grabbed a late winner as Huddersfield maintained Newcastle's losing start to the new season |date=13 August 2016 |publisher=BBC Sport}}&lt;/ref&gt; After an extended period out through injury, Palmer returned to action in the Championship play off final as Huddersfield won promotion to the Premier League.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/live/2017/may/29/huddersfield-town-v-reading-championship-play-off-final-live|title=Huddersfield Town v Reading: Championship play-off final – as it happened|first=Barry|last=Glendenning|date=29 May 2017|publisher=|via=The Guardian}}&lt;/ref&gt;
+
+On 3 July 2017, Palmer signed a contract extension with [[Chelsea F.C.|Chelsea]] tying him to the club until 2021.&lt;ref&gt;{{Cite news |title=Kasey Palmer on Twitter |url=https://twitter.com/kaseypalmer45/status/881958927168090115 |publisher=Kasey Palmer (Twitter) |date=3 July 2017 |accessdate=3 July 2017}}&lt;/ref&gt; A day later, Palmer's loan spell at [[Huddersfield Town A.F.C.|Huddersfield Town]] was extended for a further season.&lt;ref&gt;{{Cite news |title=Loan return for Palmer |url=http://www.chelseafc.com/news/latest-news/2017/07/loan-return-for-palmer.html |publisher=Chelsea Official Site |date=4 July 2017 |accessdate=4 July 2017}}&lt;/ref&gt; On 2 January 2018, Palmer announced via [[Twitter]] that he would be leaving Huddersfield following the termination of his loan, after only featuring in five games all season.&lt;ref&gt;{{Cite news |title=Kasey Palmer on Twitter |url=https://twitter.com/kaseypalmer45/status/948294545560735745 |publisher=Kasey Palmer (Twitter) |date=2 January 2018 |accessdate=2 January 2018}}&lt;/ref&gt;
+
+====Loan to Derby County====
+On 31 January 2018, Palmer joined Championship side [[Derby County F.C.|Derby County]] on loan for the remainder of the campaign.&lt;ref&gt;{{Cite news |title=Palmer loaned to Derby |url=http://www.chelseafc.com/news/latest-news/2018/01/palmer-loaned-to-derby.html |publisher=Chelsea Official Site |date=31 January 2018 |accessdate=31 January 2018}}&lt;/ref&gt; He scored his first goal for Derby in a 2–2 draw against [[Leeds United]] on 21 February 2018.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/43053720 |title=Derby 2-2 Leeds |publisher=BBC Sport|date=21 February 2018|accessdate=21 February 2018}}&lt;/ref&gt;
+
+====Loan to Blackburn Rovers====
+On 30 July 2018, Palmer joined Championship side [[Blackburn Rovers F.C.|Blackburn Rovers]] on a season-long loan.&lt;ref&gt;{{cite web |title=Kasey Palmer: Blackburn Rovers sign Chelsea forward on loan |url=https://www.bbc.co.uk/sport/football/45011507 |work=BBC Sport |date=30 July 2018}}&lt;/ref&gt;
+
+====Loan to Bristol City====
+In January 2019 he moved on loan to [[Bristol City F.C.|Bristol City]].&lt;ref&gt;https://www.bbc.co.uk/sport/football/46811927&lt;/ref&gt; In his first game he came off of the bench to score on his debut in a 2-1 win against Bolton Wanderers.&lt;ref&gt;https://www.bcfc.co.uk/news/palmer-reflects-on-a-perfect-debut/&lt;/ref&gt;
+
+==International career==
+Palmer made his debut for [[England national under-17 football team|England Under-17s]] on 8 February 2013, playing for seven minutes in a 2–1 defeat to [[Germany national under-17 football team|Germany]]. His second appearance came just two days later, when England suffered another 2–1 defeat, this time to [[Portugal national under-17 football team|Portugal]]. His final appearance for the Under-17s came later that week, when he came off the bench in a 1–0 defeat to the [[Netherlands national under-17 football team|Netherlands]].&lt;ref&gt;{{Cite web|url=http://www.thefa.com/news/england/under-21/2016/jun/kasey-palmer-toulon-reflections-020616|title=England U21s' Kasey Palmer reflects on dream season with Toulon Tournament title - England {{!}} The FA|last=Association|first=The Football|website=www.thefa.com|accessdate=7 August 2016}}&lt;/ref&gt;
+
+He has also made a single appearance for [[England national under-18 football team|England Under-18s]] on 14 October 2013. Palmer played 73 minutes of a 4–0 win over [[Hungary national under-17 football team|Hungary]], which was his first international match played in his home country.&lt;ref&gt;{{Citation|last=England Football Official|title=England U18s vs Hungary 4-0 @ St. George's Park|date=14 October 2013|url=https://www.youtube.com/watch?v=14xKbeb1pxQ|accessdate=7 August 2016}}&lt;/ref&gt;
+
+After impressive displays for his club, Palmer received his first [[England national under-20 football team|Under-20]] call-up two and a half years after his previous international appearance. He played 45 minutes in a 2–1 defeat to [[Canada men's national under-20 soccer team|Canada]] on 27 March 2016, and marked his debut with his nation’s only goal of the game.&lt;ref&gt;{{Cite web|url=http://www.thefa.com/news/england/development/2016/mar/match-report-england-u20s-1-2-canada-u20s|title=England Under-20s beaten by Canada in Doncaster|website=www.thefa.com|accessdate=7 August 2016}}&lt;/ref&gt;
+
+In May 2016, Palmer was part of the [[England national under-21 football team|England Under-21]] squad crowned champions of the [[2016 Toulon Tournament]].&lt;ref name=Toulon&gt;{{cite web |first=Nicholas |last=Veevers |title=England under-21s lift Toulon title after win over France |url=http://www.thefa.com/news/2016/may/29/france-toulon-final-report-280516 |publisher=The Football Association |date=29 May 2016 |accessdate=17 December 2017}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 25 August 2018}}&lt;ref name="Soccerway"&gt;{{Soccerway|kasey-palmer/314424|accessdate=2 December 2017}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[EFL Cup]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=1|[[Chelsea F.C.|Chelsea]] 
+|[[2015–16 Chelsea F.C. season|2015–16]]&lt;ref&gt;{{Soccerbase season|90836|2015|accessdate=7 October 2017}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+|rowspan="3"|[[Huddersfield Town A.F.C.|Huddersfield Town]] (loan)
+|[[2016–17 Huddersfield Town A.F.C. season|2016–17]]&lt;ref&gt;{{Soccerbase season|90836|2016|accessdate=7 October 2017}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|24||4||1||1||1||0||1||0||27||5
+|-
+|[[2017–18 Huddersfield Town A.F.C. season|2017–18]]&lt;ref name="2017/18"&gt;{{Soccerbase season|90836|2017|accessdate=7 October 2017}}&lt;/ref&gt;
+|Premier League
+|4||0||0||0||1||0||colspan=2|—||5||0
+|-
+!colspan="2"|Total
+!28!!4!!1!!1!!2!!0!!1!!0!!32!!5
+|-
+|rowspan="1"|[[Derby County F.C.|Derby County]] (loan)
+|[[2017–18 Derby County F.C. season|2017–18]]&lt;ref name="2017/18"/&gt;
+|Championship
+|14||2||0||0||0||0||colspan=2|—||14||2
+|-
+|rowspan="1"|[[Blackburn Rovers F.C.|Blackburn Rovers]] (loan)
+|[[2018–19 Blackburn Rovers F.C. season|2018–19]]&lt;ref name="2018/19"&gt;{{Soccerbase season|90836|2018|accessdate=7 October 2017}}&lt;/ref&gt;
+|Championship
+|4||1||0||0||2||2||colspan=2|—||6||3
+|-
+!colspan="3"|Career total
+!46!!7!!1!!1!!4!!2!!1!!0!!52!!10
+|}
+
+==Honours==
+'''Chelsea'''&lt;ref&gt;{{cite web|url=http://www.chelseafc.com/teams/on-loan-players/kasey-palmer.html |title= Kasey Palmer Chelsea Profile |accessdate=13 August 2016}}&lt;/ref&gt;
+*[[Professional Development League|Under-21 Premier League]]: 2013–14
+*[[FA Youth Cup]]: [[2013–14 FA Youth Cup|2013–14]], [[2014–15 FA Youth Cup|2014–15]]
+*[[UEFA Youth League]]: [[2014–15 UEFA Youth League|2014–15]], [[2015–16 UEFA Youth League|2015–16]]
+
+'''Huddersfield Town'''
+*[[EFL Championship play-offs]]: [[2017 English Football League play-offs#Championship|2017]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39995791 |title=Huddersfield Town 0–0 Reading |first=Ian |last=Woodcock |publisher=BBC Sport |date=29 May 2017 |accessdate=26 May 2018}}&lt;/ref&gt;
+
+'''England U21'''
+*[[Toulon Tournament]]: [[2016 Toulon Tournament|2016]]&lt;ref name=Toulon/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.thefa.com/england/all-teams/players?p=354784 England profile] at The FA
+*{{Soccerbase}}
+
+{{Bristol City F.C. squad}}
+
+{{DEFAULTSORT:Palmer, Kasey}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:People from Lewisham]]
+[[Category:Footballers from the London Borough of Lewisham]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:Association football midfielders]]
+[[Category:Chelsea F.C. players]]
+[[Category:Huddersfield Town A.F.C. players]]
+[[Category:Derby County F.C. players]]
+[[Category:Blackburn Rovers F.C. players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:Black English sportspeople]]
+[[Category:Bristol City F.C. players]]</text>
+      <sha1>fbx80vbpxvyg4rppo0d76fe24v7o562</sha1>
+    </revision>
+  </page>
+</mediawiki>

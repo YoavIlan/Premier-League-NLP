@@ -1,0 +1,248 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Will Hughes</title>
+    <ns>0</ns>
+    <id>33689852</id>
+    <revision>
+      <id>885155720</id>
+      <parentid>885155694</parentid>
+      <timestamp>2019-02-26T08:48:11Z</timestamp>
+      <contributor>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
+      </contributor>
+      <comment>/* Small fix on stats bio */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28378">{{Use British English|date=June 2013}}
+{{Use dmy dates|date=June 2013}}
+{{Infobox football biography
+| name           = Will Hughes
+| image          = Will Hughes.jpg
+| image_size     = 200
+| caption        = Hughes in 2011
+| fullname       = William James Hughes&lt;ref&gt;{{cite web |url=http://www.football-league.co.uk/staticFiles/4e/bd/0,,10794~179534,00.pdf |title=Professional retain list &amp; free transfers 2012/13 |publisher=The Football League |format=PDF |date=18 May 2013 |page=14 |archiveurl=https://web.archive.org/web/20140802074454/http://www.football-league.co.uk/staticFiles/4e/bd/0,,10794~179534,00.pdf |archivedate=2 August 2014 |deadurl=yes}}&lt;/ref&gt;
+| birth_date     = {{birth date and age|1995|4|17|df=y}}&lt;ref&gt;{{cite web |url=https://www.11v11.com/players/will-hughes-238666/ |title=Will Hughes |website=11v11.com |publisher=AFS Enterprises |accessdate=19 November 2017}}&lt;/ref&gt;
+| birth_place    = [[Weybridge]], England
+| height         = {{convert|1.85|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.watfordfc.com/teams/first-team/will-hughes |title=Will Hughes |publisher=Watford F.C. |accessdate=3 September 2018}}&lt;/ref&gt;
+| position       = [[Midfielder]]
+| currentclub    = [[Watford F.C.|Watford]]
+| clubnumber     = 19
+| youthyears1    = 2007–2011
+| youthclubs1    = Mickleover Jubilee
+| youthyears2    = 2011
+| youthclubs2    = [[Derby County F.C.|Derby County]]
+| years1         = 2011–2017
+| clubs1         = [[Derby County F.C.|Derby County]]
+| caps1          = 165
+| goals1         = 9
+| years2         = 2017–
+| clubs2         = [[Watford F.C.|Watford]]
+| caps2          = 37
+| goals2         = 3
+| nationalyears1 = 2012
+| nationalteam1  = [[England national under-17 football team|England U17]]
+| nationalcaps1  = 6
+| nationalgoals1 = 1
+| nationalyears2 = 2012–2017
+| nationalteam2  = [[England national under-21 football team|England U21]]
+| nationalcaps2  = 22
+| nationalgoals2 = 2
+| club-update    = 08:48, 26 February 2019 (UTC)
+| nationalteam-update = 
+}}
+'''William James Hughes''' (born 17 April 1995) is an English professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Premier League]] club [[Watford F.C.|Watford]].
+
+==Early years==
+Born in [[Weybridge]], Surrey,&lt;ref&gt;{{cite book|editor1-first=Glenda|editor1-last=Rollin|editor2-first=Jack|editor2-last=Rollin|title=Sky Sports Football Yearbook 2012–2013|year=2012|publisher=Headline Publishing Group|location=London|isbn=978-0-7553-6356-8|page=464|edition=43rd}}&lt;/ref&gt; Hughes moved to [[Derby]] at the age of two.&lt;ref name="hughesinsquad"&gt;{{cite web| title =Hughes to step up from the Rams Academy| url =http://www.thisisderbyshire.co.uk/story-13763744-detail/story.html?| newspaper =Derby Telegraph| date =5 November 2011}}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref name="bbcdec12interview"/&gt; Hughes was first educated at St Peter's Junior school and then  [[Repton School]] for secondary school in Derbyshire&lt;ref name="bbcdec12interview"/&gt; and played for the school football team, scoring the first goal in a 3–1 defeat to Brentwood in the Rensburg Sheppards ISFA Final.&lt;ref name="hughesscores"&gt;{{cite web| title =Repton denied in decider| url =http://www.thisisderbyshire.co.uk/Repton-denied-decider/story-11648279-detail/story.html| archive-url =https://archive.is/20130505100514/http://www.thisisderbyshire.co.uk/Repton-denied-decider/story-11648279-detail/story.html| dead-url =yes| archive-date =5 May 2013| newspaper =Derby Telegraph| date =10 March 2010}}&lt;/ref&gt; He then went on to play for local side Mickleover Jubilee, before he later signed for [[Derby County F.C.|Derby County]] as a first-year scholar in the summer of 2011.&lt;ref name="hughesinsquad"/&gt;&lt;ref name="bbcdec12interview"/&gt;
+
+==Club career==
+===Derby County===
+====2011–12 season====
+Hughes made his debut for the club's reserve team as a 70th minute [[substitute (association football)|substitute]] in a 6–1 [[The Central League#Division One Central|Central League]] win over [[Walsall F.C.|Walsall]] on 22 September 2011&lt;ref name="walsallreserves"&gt;{{cite web| title =Derby County Res 6–1 Walsall Res| url =http://www.dcfc.co.uk/page/NewsDetail/0,,10270~2444297,00.html| publisher =Derby County F.C.| date =22 September 2011}}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; and made two additional appearances in the [[The Central League#Central League Cup|Central League Cup]]. It was his "outstanding"&lt;ref name="portvalereserves"&gt;{{cite web| title =Derby County Res 1–0 Port Vale Res| url =http://www.dcfc.co.uk/page/NewsDetail/0,,10270~2500904,00.html?| publisher =Derby County F.C.| date =1 November 2011}}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; performance in a 1–0 win over [[Port Vale F.C.|Port Vale]] reserves in the competition on 1 November which brought him to manager [[Nigel Clough]]'s attention for possible inclusion in the Derby first-team squad against [[Peterborough United F.C.|Peterborough United]] four days later.&lt;ref name="hughesinsquad"/&gt;
+
+Hughes made his full debut for Derby as a 90th-minute substitute for [[Jamie Ward]]. Despite entering the match late with the scores level, there was still time for Hughes' first-team debut to end in defeat as a 94th-minute goal saw Peterborough win 3–2.&lt;ref name="peterborodefeat"&gt;{{cite web| title =Peterborough United 3 – 2 Derby County| url =http://www.dcfc.co.uk/page/MatchReport/0,,10270~58235,00.html| archive-url =http://archive.wikiwix.com/cache/20110116024428/http://www.dcfc.co.uk/page/MatchReport/0%2C%2C10270%7E58235%2C00.html| dead-url =yes| archive-date =16 January 2011| publisher =Derby County F.C.| date =5 November 2011}}&lt;/ref&gt;
+
+After Derby midfielder [[Paul Green (footballer, born 1983)|Paul Green]], who was out-of-contract at the end of the season, rejected a contract offer, Clough dropped him and promoted Hughes to the first-team squad as his replacement for the penultimate match of the season at [[Portsmouth F.C.|Portsmouth]].&lt;ref name="pompey"&gt;{{cite news| url =http://www.thisisderbyshire.co.uk/Clough-cast-net-Green-turns-offer/story-15866524-detail/story.html| title =Clough to cast net after Green turns down offer| newspaper =Derby Telegraph| date =20 April 2012| deadurl =yes| archiveurl =https://web.archive.org/web/20120422082108/http://www.thisisderbyshire.co.uk/Clough-cast-net-Green-turns-offer/story-15866524-detail/story.html| archivedate =22 April 2012| df =dmy-all}}&lt;/ref&gt; Hughes started the match on the substitute's bench and came on in the 68th minute, replacing [[Theo Robinson]] in a 2–1 win.&lt;ref name="pompeygame"&gt;{{cite web| title =Portsmouth 1–2 Derby County| url =http://www.dcfc.co.uk/page/MatchReport/0,,10270~59014,00.html| publisher =Derby County F.C.| date =21 April 2012}}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; Hughes started his first match for the senior team in the final match of the season, a 1–1 draw against Peterborough United.&lt;ref name="firststart"&gt;{{cite web| title =Derby County 1–1 Peterborough United| url =http://www.dcfc.co.uk/page/MatchReport/0,,10270~59299,00.html| publisher =Derby County F.C.| date =28 April 2012}}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; Hughes' performance match earned praise from Derby manager Nigel Clough.&lt;ref name="cloughpraise"&gt;{{cite web| title =Clough Impressed By Hughes Display| url =http://www.dcfc.co.uk/page/NewsDetail/0,,10270~2754789,00.html| publisher =Derby County F.C.| date =30 April 2012| access-date =1 May 2012| archive-url =https://web.archive.org/web/20120502201320/http://www.dcfc.co.uk/page/NewsDetail/0,,10270~2754789,00.html#| archive-date =2 May 2012| dead-url =yes| df =dmy-all}}&lt;/ref&gt; At Derby's awards night, Hughes won the Scholar of the Year Award.&lt;ref name="2012awards"&gt;{{cite web| title =Bryson Named Club Player of the Year| url =http://www.dcfc.co.uk/page/NewsDetail/0,,10270~2754942,00.html| publisher =Derby County F.C.| date =2 May 2012}}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+====2012–13 season====
+After impressing in pre-season, Clough said that Hughes could be in line for a place in the starting line-up in the first match of [[2012–13 Derby County F.C. season|the season]] against [[Scunthorpe United F.C.|Scunthorpe United]] in the [[2012–13 Football League Cup|League Cup]].&lt;ref name="frame"&gt;{{cite web| title ='Will Hughes is in frame for Derby County starting line-up'| url =http://www.thisisderbyshire.co.uk/Hughes-frame-Derby-County-starting-line/story-16669813-detail/story.html| newspaper =Derby Telegraph| date =8 August 2012| deadurl =yes| archiveurl =https://web.archive.org/web/20120813102631/http://www.thisisderbyshire.co.uk/Hughes-frame-Derby-County-starting-line/story-16669813-detail/story.html| archivedate =13 August 2012| df =dmy-all}}&lt;/ref&gt; Clough was particularly impressed with his substitute appearance against [[Colchester United F.C.|Colchester United]] saying, "When he came off the bench at Colchester, he was very good indeed. I thought he was the star of the subs. He looked comfortable. I don't think he gave the ball away and he made our equaliser. We are very pleased with him."&lt;ref name="frame"/&gt;
+
+Hughes scored his first goal for the club in a 5–1 win against [[Watford F.C.|Watford]] on 1 September 2012.&lt;ref name="goal1"&gt;{{cite web| title =Derby 5–1 Watford| url=https://www.bbc.co.uk/sport/0/football/19378170| publisher = BBC Sport| date = 1 September 2012 }}&lt;/ref&gt; Hughes signed a new contract in October 2012, committing his future at the club until summer 2015.&lt;ref name="deal"&gt;{{cite web| title =Hughes Pens New Rams Deal| url =http://www.dcfc.co.uk/news/article/hughes-commits-to-the-rams-434969.aspx| publisher = Derby County F.C. | date = 20 October 2012 }}&lt;/ref&gt; Hughes scored his second goal for the club in a 2–1 defeat at [[Millwall F.C.|Millwall]] on 10 November, scoring an equalising goal from 20 yards.&lt;ref name="goal2"&gt;{{cite web| title =Millwall 1–2 Derby| url=https://www.bbc.co.uk/sport/0/football/20189961| publisher = BBC Sport| date = 10 November 2012 }}&lt;/ref&gt; In November 2012, Hughes was linked with moves to [[Arsenal F.C.|Arsenal]], [[Liverpool F.C.|Liverpool]] and Manchester City.&lt;ref name="nov12links"&gt;{{cite news | title =Derby County teenager Will Hughes attracts Premier League interest ahead of possible England debut| url=https://www.telegraph.co.uk/sport/football/teams/england/9673363/Derby-County-teenager-Will-Hughes-attracts-Premier-League-interest-ahead-of-possible-England-debut.html| newspaper=The Daily Telegraph |location=London | date = 12 November 2012 }}&lt;/ref&gt; Nigel Clough denied the rumours,&lt;ref name="nov12denial"&gt;{{cite web| title =No bids for promising Ram| url =http://uk.eurosport.yahoo.com/news/no-bids-promising-ram-185755004.html| publisher =Yahoo! Eurosport| date =14 November 2012| deadurl =yes| archiveurl =https://web.archive.org/web/20140106032138/http://uk.eurosport.yahoo.com/news/no-bids-promising-ram-185755004.html| archivedate =6 January 2014| df =dmy-all}}&lt;/ref&gt; however he said the interest in the player was inevitable and said many scouts had been at Derby matches to watch Hughes.&lt;ref name="inevitable"&gt;{{cite web| title =Will Hughes: Derby manager says interest inevitable| url=https://www.bbc.co.uk/sport/0/football/20330068| publisher = BBC Sport| date = 14 November 2012 }}&lt;/ref&gt; Spanish club [[FC Barcelona|Barcelona]] were also reported to have had an interest in Hughes, after scouts from the Catalan club "compiled a detailed dossier" on Hughes when he appeared for [[England national under-17 football team|England U17]] in the Algarve Tournament in February 2012.{{citation needed|date=August 2018}}
+
+Hughes was named the [[Football League Young Player of the Month]] for November 2012, after a series of impressive performances.&lt;ref name="FLYPotM"&gt;{{cite web | title = Hughes named Young Player of the Month | url = http://www.football-league.co.uk/championship/news/20121221/hughes-named-young-player-of-the-month_2293322_3015087 | publisher = The Football League | date = 21 December 2012 | deadurl = yes | archiveurl = https://web.archive.org/web/20130319215632/http://www.football-league.co.uk/championship/news/20121221/hughes-named-young-player-of-the-month_2293322_3015087 | archivedate = 19 March 2013 | df = dmy-all }}&lt;/ref&gt; On the eve of the 2013 January transfer window, it was reported in the ''[[Derby Telegraph]]'' that Hughes was being closely observed by 10 [[Premier League]] clubs with [[Fulham F.C.|Fulham]]'s manager [[Martin Jol]] saying of Hughes, "Believe me, there are probably 10 clubs in the Premier League having a look at him. He is one of these wonderful talents, so he is always on lists. If you have a good scouting system, he will always be on the list but we will see."&lt;ref name="martinjolcomments10"&gt;{{cite web| title =Fulham boss Martin Jol one of 10 with eyes on Will Hughes| url =http://www.thisisderbyshire.co.uk/Fulham-boss-Martin-Jol-10-eyes-Hughes/story-17691095-detail/story.html |newspaper=Derby Telegraph | date = 27 December 2012 }}&lt;/ref&gt;
+
+In February 2013, during a 0–0 draw against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]], Hughes picked up a groin injury and was replaced after 63 minutes. As a result of this injury, Hughes ended his ever-present run of Derby first-team appearances after 35 matches and ended a run of 37 consecutive appearances.&lt;ref name="march13inj"&gt;{{cite web| title =Midfielder Will Hughes ruled out of Derby County's tough double header| url =http://www.thisisderbyshire.co.uk/Midfielder-Hughes-ruled-Derby-County-s-tough/story-18265227-detail/story.html |newspaper=Derby Telegraph | date = 27 February 2013 }}&lt;/ref&gt; With twelve matches remaining in the season and with Derby unlikely to fight for a play-off place and with Hughes being ruled out for the first two matches in March;&lt;ref name="march13inj"/&gt; Clough said he considered resting Hughes for the rest of season to reduce stress on his body.{{citation needed|date=August 2018}}
+
+In April 2013, Hughes signed a one-year extension to his contract after his 18th birthday, extending his stay until June 2016.&lt;ref name="deal1year"&gt;{{cite web| title =Hughes Extends Derby Contract| url =http://www.dcfc.co.uk/news/article/hughes-extends-derby-contract-778500.aspx| publisher = Derby County F.C. | date = 18 April 2013 }}&lt;/ref&gt; Hughes returned to first-team action before schedule on 20 April as an 85th-minute substitute in Derby's 3–1 against Peterborough United.&lt;ref name="return"&gt;{{cite web| title =Derby 3–1 Peterborough| url=https://www.bbc.co.uk/sport/0/football/22133302| publisher = BBC Sport| date = 20 April 2013 }}&lt;/ref&gt; At the end of the season, Hughes won the [[Sammy Crooks]] Young Player of the Year award.&lt;ref name="ypoy13"&gt;{{cite web | title=Keogh Named Club Player of the Year| publisher=Derby County F.C. | url=http://www.dcfc.co.uk/news/article/keogh-named-club-player-of-the-year-803602.aspx| date = 2 May 2013 }}&lt;/ref&gt;
+
+====2013–14 season====
+Ahead of the [[2013–14 Derby County F.C. season|2013–14 season]], Hughes was expected to compete with [[Craig Bryson]], [[Paul Coutts]] and [[Jeff Hendrick]], with then-manager Nigel Clough stating that rotation could be utilised.&lt;ref name="1314plans"&gt;{{cite news| url =http://www.derbytelegraph.co.uk/Nigel-Clough-pondering-midfield-dilemma-Derby/story-19552961-detail/story.html| title =Nigel Clough still pondering midfield dilemma for Derby County| date =23 July 2013|newspaper=Derby Telegraph| deadurl =yes| archiveurl =https://web.archive.org/web/20130726153408/http://www.derbytelegraph.co.uk/Nigel-Clough-pondering-midfield-dilemma-Derby/story-19552961-detail/story.html| archivedate =26 July 2013| df =dmy-all}}&lt;/ref&gt; Hughes scored his first goal of the season on 27 August in a 5–0 win against League One side [[Brentford F.C.|Brentford]] in the League Cup.&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/23764109 "Derby 5–0 Brentford"]. BBC Sport. 27 August 2013. Retrieved 8 October 2013.&lt;/ref&gt; He scored his first league goal of the season in a 3–1 defeat at home to [[Reading F.C.|Reading]] on 21 September.&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/24089713 "Derby 1–3 Reading"]. BBC Sport. 21 September 2013. Retrieved 8 October 2013.&lt;/ref&gt; This was Hughes' last goal under Nigel Clough, who was sacked a week later following a 1–0 defeat at the hands of rivals [[Nottingham Forest F.C.|Nottingham Forest]] in the [[Derby County F.C.–Nottingham Forest F.C. rivalry|East Midlands derby]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/24320051 "Nigel Clough: Derby County sack manager after defeat at Forest"]. BBC Sport. 28 September 2013. Retrieved 8 October 2013.&lt;/ref&gt;&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/24185008 "Nott'm Forest 1–0 Derby"]. BBC Sport. 28 September 2013. Retrieved 8 October 2013.&lt;/ref&gt; Clough was replaced by former [[England national football team|England]] manager [[Steve McClaren]],&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/24331558"Steve McClaren named as Derby County head coach"Steve McClaren named as Derby County head coach"]. BBC Sport. 30 September 2013. Retrieved 8 October 2013.&lt;/ref&gt; and Hughes scored in his first match in charge of Derby; a 3–1 win against [[Leeds United F.C.|Leeds United]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/24349291 "Derby County 3–1 Leeds"]. BBC Sport. 5 October 2013. Retrieved 8 October 2013.&lt;/ref&gt;
+
+====2014–15 season====
+On 1 July 2014, Hughes agreed a new four-year contract at Derby County, which would see his contract at the club extended until the end of the [[2017–18 Derby County F.C. season|2017–18 season]].&lt;ref name="Will Hughes Signs A New Long-Term Contract At Derby County"&gt;{{cite web|title=Will Hughes Signs A New Long-Term Contract At Derby County|url=http://www.dcfc.co.uk/news/article/will-hughes-signs-a-new-long-term-contract-at-derby-county-1709157.aspx|publisher=Derby County F.C.|accessdate=1 July 2014}}&lt;/ref&gt;
+
+====2015–16 season====
+On 8 August 2015 in the season opener against [[Bolton Wanderers F.C.|Bolton]], Hughes damaged his anterior cruciate ligaments in his right knee and was ruled out for six months.&lt;ref&gt;{{cite news|title = Derby midfielder out for six months with knee injury|url = https://www.bbc.com/sport/0/football/33860485 |publisher=BBC Sport |date=8 August 2015 |accessdate=31 August 2015}}&lt;/ref&gt; In April 2016, he rejoined the first-team squad at Derby after returning to full fitness.&lt;ref&gt;[http://www.derbytelegraph.co.uk/Derby-County-Rams-ace-Hughes-contention-team/story-29069389-detail/story.html] {{dead link|date=April 2016}}&lt;/ref&gt;
+
+===Watford===
+On 24 June 2017, Hughes joined Premier League club Watford on a five-year contract for an undisclosed fee, reported to be around £8 million.&lt;ref&gt;{{cite web |title = Official: Hughes Is A Hornet |url = https://www.watfordfc.com/teams/first-team/official-hughes-hornet |publisher=Watford F.C. |date=24 June 2017 |accessdate=24 June 2017}}&lt;/ref&gt; Hughes became newly appointed manager [[Marco Silva]]'s first signing of the season.&lt;ref&gt;{{cite news|last1=Rouse|first1=Daniel|title=Marco Silva makes Will Hughes his 1st Watford buy for reported £8M|url=https://www.thescore.com/epl/news/1324042-marco-silva-makes-will-hughes-his-1st-watford-buy-for-reported-8m|accessdate=4 July 2017|publisher=The Score|date=24 June 2017}}&lt;/ref&gt;
+
+==International career==
+On 17 January 2012, Hughes was called up to the England U17 for the first time for the Algarve Tournament in February 2012, he was joined by his teammate [[Mason Bennett]].&lt;ref name="englandu17callup"&gt;{{cite web| title =Bennett &amp; Hughes Get England Call-Ups| url =http://www.dcfc.co.uk/page/NewsDetail/0,,10270~2579822,00.html| publisher =Derby County F.C.| date =17 January 2012| deadurl =yes| archiveurl =https://web.archive.org/web/20120125164720/http://www.dcfc.co.uk/page/NewsDetail/0,,10270~2579822,00.html| archivedate =25 January 2012| df =dmy-all}}&lt;/ref&gt; Hughes appeared in all three match, as England won the three-match tournament with seven points.&lt;ref name="algravetournamentwin"&gt;{{cite web| title =Bennett &amp; Hughes Start in England U17 Win| url =http://www.dcfc.co.uk/page/NewsDetail/0,,10270~2601735,00.html| publisher =Derby County F.C.| date =18 January 2012| deadurl =yes| archiveurl =https://web.archive.org/web/20120209023731/http://www.dcfc.co.uk/page/NewsDetail/0,,10270~2601735,00.html| archivedate =9 February 2012| df =dmy-all}}&lt;/ref&gt; Hughes scored a goal in the 2–2 draw against [[Netherlands national under-17 football team|Netherlands U17]] on 4 February 2012. Hughes was also called up the [[2012 UEFA European Under-17 Championship elite round]] in March 2012, however England failed to qualify for the [[2012 UEFA European Under-17 Championship|main tournament]], finishing third in their group on four points, with their exit confirmed in a 4–0 loss to [[Spain national under-17 football team|Spain U17]].&lt;ref name="4-0spainloss"&gt;{{cite web| title =Hughes &amp; Bennett Feature in England Defeat| url =http://www.dcfc.co.uk/page/NewsDetail/0,,10270~2601735,00.html| publisher =Derby County F.C.| date =13 April 2012| deadurl =yes| archiveurl =https://web.archive.org/web/20120209023731/http://www.dcfc.co.uk/page/NewsDetail/0,,10270~2601735,00.html| archivedate =9 February 2012| df =dmy-all}}&lt;/ref&gt; In August 2012, Hughes was named as standby for the [[England national under-19 football team|England U19]] squad for a friendly against [[Germany national youth football team|Germany U19]] in September.&lt;ref name="u19standby"&gt;{{cite web| title =Hughes on England Standby| url =http://www.dcfc.co.uk/news/article/hughes-on-england-standby-333641.aspx| publisher =Derby County F.C. | date = 25 August 2012 }}&lt;/ref&gt; On 19 November 2013, Hughes scored his first goal for England U21 against [[San Marino national under-21 football team|San Marino U21]].{{citation needed|date=November 2017}}
+
+In November 2012, Hughes made his first appearance for the [[England national under-21 football team|England U21]] squad in a friendly against [[Northern Ireland national under-21 football team|Northern Ireland U21]] on 13 November.&lt;ref name="u21sqaud"&gt;{{cite web| title =England U-21 ring changes for Northern Ireland friendly| url =https://www.bbc.co.uk/sport/0/football/20255047| publisher = BBC Sport| date = 8 November 2012 }}&lt;/ref&gt; Hughes came on as a 65th-minute substitute for [[Josh McEachran]], becoming the second youngest player to get capped for the U21s,&lt;ref name="u21debut"&gt;{{cite web| title =Hughes Gains England Under 21 Honours| url =http://www.dcfc.co.uk/news/article/hughes-gains-england-under-21-honours-485320.aspx| publisher =Derby County F.C. | date = 13 November 2012 }}&lt;/ref&gt; beaten only by [[Theo Walcott]].&lt;ref name="bbcdec12interview"/&gt; Derby youth academy director [[Darren Wassall]] praised Hughes after his call-up to the England U21 side, saying "It's a great achievement to get in at 17 and we are all delighted for him. To make that rise into the Under-21s so soon is fantastic for him and everyone at the club."&lt;ref name="praisewassall"&gt;{{cite web| title =Derby's Will Hughes can "come alive" for England Under-21s| url =https://www.bbc.co.uk/sport/0/football/20272033| publisher = BBC Sport| date = 13 November 2012 }}&lt;/ref&gt; Hughes called the experience "surreal".&lt;ref name="hughesu21surreal"&gt;{{cite web| title =Will Hughes: England call surreal says Derby teenager| url =https://www.bbc.co.uk/sport/0/football/20340777| publisher = BBC Sport| date = 15 November 2012 }}&lt;/ref&gt;
+
+==Style of play==
+Hughes has been described as a "flair player" who uses through balls and mazy runs to create space for teammates and beat opposition defences in attacking positions.&lt;ref name="bbcdec12interview"&gt;{{cite web| title =Derby's Will Hughes – the Championship's latest sensation| url=https://www.bbc.co.uk/sport/0/football/20769208| publisher = BBC Sport| date = 21 December 2012 }}&lt;/ref&gt;
+
+Hughes said in a December 2012 interview for the BBC, that he bases his play on Barcelona and [[Spain national football team|Spanish international]] central midfielders [[Xavi]] and [[Andrés Iniesta]].&lt;ref name="bbcdec12interview"/&gt; Hughes states his strengths are his passing and technical ability and targeted improvements in pace and physical strength.&lt;ref name="bbcdec12interview"/&gt;
+
+Hughes' former England U21 coach [[Stuart Pearce]] described Hughes as "technically a very sound player". "He rarely gave the ball away in training or in the game he played [against Northern Ireland], which is vitally important at international level. He's progressing really well."&lt;ref name="bbcdec12interview"/&gt;
+
+==Career statistics==
+{{updated|match played 22 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=7|[[Derby County F.C.|Derby County]]
+|[[2011–12 Derby County F.C. season|2011–12]]&lt;ref name=sb1112&gt;{{soccerbase season|62917|2011|accessdate=25 November 2017}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|3||0||0||0||0||0||colspan=2|—||3||0
+|-
+|[[2012–13 Derby County F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|62917|2012|accessdate=25 November 2017}}&lt;/ref&gt;
+|Championship
+|35||2||2||0||1||0||colspan=2|—||38||2
+|-
+|[[2013–14 Derby County F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|62917|2013|accessdate=25 November 2017}}&lt;/ref&gt;
+|Championship
+|41||3||1||0||3||1||3{{efn|name=CPO|Appearances in [[EFL Championship play-offs|Championship play-offs]]}}||1||48||5
+|-
+|[[2014–15 Derby County F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|62917|2014|accessdate=25 November 2017}}&lt;/ref&gt;
+|Championship
+|42||2||1||1||5||0||colspan=2|—||48||3
+|-
+|[[2015–16 Derby County F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|62917|2015|name=Will Hughes|accessdate=25 November 2017}}&lt;/ref&gt;
+|Championship
+|6||0||0||0||0||0||2{{efn|name=CPO}}||0||8||0
+|-
+|[[2016–17 Derby County F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|62917|2016|accessdate=25 November 2017}}&lt;/ref&gt;
+|Championship
+|38||2||1||0||3||0||colspan=2|—||42||2
+|-
+!colspan=2|Total
+!165||9||5||1||12||1||5||1||187||12
+|-
+|rowspan=3|[[Watford F.C.|Watford]]
+|[[2017–18 Watford F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|62917|2017|accessdate=14 May 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|15||2||0||0||1||0||colspan=2|—||16||2
+|-
+|[[2018–19 Watford F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|62917|2018|accessdate=3 September 2018}}&lt;/ref&gt;
+|Premier League
+|22||1||3||1||2||0||colspan=2|—||27||2
+|-
+!colspan=2|Total
+!37||3||3||1||3||0||colspan=2|—||43||4
+|-
+!colspan=3|Career total
+!202||12||8||2||15||1||5||1||230||16
+|}
+
+{{notelist}}
+
+==Honours==
+'''Individual'''
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Championship 5|2013–14 Championship]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/27180793 |title=Luis Suarez: Liverpool striker wins PFA Player of the Year award |publisher=BBC Sport |date=28 April 2014 |accessdate=23 May 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.watfordfc.com/teams/first-team/will-hughes Will Hughes profile] at the Watford F.C. website
+*{{Soccerbase}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2013–14 Football League Championship PFA Team of the Year}}
+{{The Football League Young Player of the Year}}
+{{Derby County F.C. Player of the Year}}
+}}
+{{Watford F.C. squad}}
+
+{{DEFAULTSORT:Hughes, Will}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:People from Weybridge]]
+[[Category:Sportspeople from Surrey]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:Association football midfielders]]
+[[Category:Derby County F.C. players]]
+[[Category:Watford F.C. players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:People educated at Repton School]]</text>
+      <sha1>9afpgz6akpfszzhftx3mkfg8ha329pv</sha1>
+    </revision>
+  </page>
+</mediawiki>

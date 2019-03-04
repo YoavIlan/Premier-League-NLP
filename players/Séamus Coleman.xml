@@ -1,0 +1,386 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Séamus Coleman</title>
+    <ns>0</ns>
+    <id>23469028</id>
+    <revision>
+      <id>885350731</id>
+      <parentid>885350701</parentid>
+      <timestamp>2019-02-27T13:55:16Z</timestamp>
+      <contributor>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
+      </contributor>
+      <comment>/* Small fix on stats bio */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="54466">{{Use Irish English|date=February 2017}}
+{{Use dmy dates|date=October 2012}}
+{{Infobox football biography
+|name           = Séamus Coleman
+|image          = FIFA WC-qualification 2014 - Austria vs Ireland 2013-09-10 - Seamus Coleman 02.jpg
+|image_size     = 200
+|caption        = Coleman lining up for the [[Republic of Ireland national football team|Republic of Ireland]] in 2013
+|fullname       = Séamus Coleman&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
+|birth_date     = {{birth date and age|1988|10|11|df=y}}&lt;ref name="Hugman2010-11 89"&gt;{{Cite book
+|editor-first   = Barry J.
+|editor-last    = Hugman
+|title          = The PFA Footballers' Who's Who 2010–11
+|year           = 2010
+|publisher      = Mainstream Publishing
+|location       = Edinburgh
+|isbn           = 978-1-84596-601-0
+|page           = 89 }}&lt;/ref&gt;
+|birth_place    = [[Killybegs]], Ireland
+|height         = 1.77 m&lt;ref&gt;{{cite web|url=http://www.uefa.com/teamsandplayers/players/player=1909700/profile/index.html|title=Seamus Coleman|accessdate=12 April 2011|publisher=UEFA}}&lt;/ref&gt;
+|position       = [[Defender (association football)#Full-back|Right-back]]
+|currentclub    = [[Everton F.C.|Everton]]
+|clubnumber     = 23
+|youthyears1    = 
+|youthclubs1    = St Catherine's
+|years1         = 2006–2009
+|clubs1         = [[Sligo Rovers F.C.|Sligo Rovers]]
+|caps1          = 55
+|goals1         = 1
+|years2         = 2009–
+|clubs2         = [[Everton F.C.|Everton]]
+|caps2          = 239 &lt;!-- LEAGUE APPEARANCES ONLY --&gt;&lt;!-- When updating both this and the goals parameter, please also update the club-update parameter with the correct timestamp and the career statistics table below --&gt;
+|goals2         = 19 &lt;!-- LEAGUE GOALS ONLY --&gt;
+|years3         = 2010
+|clubs3         = → [[Blackpool F.C.|Blackpool]] (loan)
+|caps3          = 9
+|goals3         = 1
+|nationalyears1 = 2007–2010 | nationalteam1  = [[Republic of Ireland national under-21 football team|Republic of Ireland U21]]
+|nationalcaps1  = 13        | nationalgoals1 = 1
+|nationalyears2 = 2011–     | nationalteam2  = [[Republic of Ireland national football team|Republic of Ireland]]
+|nationalcaps2  = 49        | nationalgoals2 = 1
+|club-update    = 13:55, 27 February 2019 (UTC)
+|nationalteam-update = 10:01, 30 January 2019 (UTC)
+}}
+'''Séamus Coleman''' {{IPAc-en|ˈ|ʃ|eɪ|m|ə|s|_|ˈ|k|oʊ|l|m|ən}} (born 11 October 1988) is an Irish professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|right-back]] for [[Premier League]] club [[Everton F.C.|Everton]] and is [[Captain (association football)|captain]] of the [[Republic of Ireland national football team|Republic of Ireland national team]].
+
+Originally a [[Gaelic football]]er, Coleman started his association football career with amateur club St Catherine's in Killybegs. He joined [[League of Ireland Premier Division|League of Ireland]] side [[Sligo Rovers F.C.|Sligo Rovers]] in 2006 after impressing in a [[Exhibition game|friendly]] against them. He then made the move to England to sign for Everton in January 2009 for a £60,000 fee. In 2010, he spent half a season on loan with [[Blackpool F.C.|Blackpool]], helping them win promotion via the [[2010 Football League Championship play-off Final|Championship play-offs]], before returning to Everton where he has made over 200 appearances, and has been regarded as one of the league's top full-backs.
+
+Coleman has been a senior international for the Republic of Ireland since 2011, acquiring over 40 caps. He won the [[2011 Nations Cup]] and was awarded the [[FAI International Football Awards#Under 21 International Player of the Year|FAI Under-21 International Player of the Year]] in both 2009 and 2010. He was selected for the Ireland squad at [[UEFA Euro 2016]], [[Captain (association football)|captaining]] Ireland against both [[Italy national football team|Italy]] and [[France national football team|France]]. He was named the new Ireland captain in September 2016 following [[Robbie Keane]]'s international retirement.
+
+==Club career==
+
+===Sligo Rovers===
+Coleman was born in the fishing port of [[Killybegs]],&lt;ref name="http://www.thescore.ie"&gt;{{cite web|url=http://www.the42.ie/seamus-coleman-gaa-968638-Jun2013/|title=If Seamus Coleman played GAA, he'd be a star with Donegal – McGuinness|website=The42|publisher=[[TheJournal.ie]]|first=Sean|last=Farrell|date=11 January 2013|accessdate=13 September 2016}}&lt;/ref&gt; in the Irish county of [[Donegal]].&lt;ref name="Hugman2010-11 89"/&gt; Originally a [[Gaelic football]]er who, aged 16, played as a back on his local [[Gaelic Athletic Association|GAA]] team [[C.L.G. Na gCealla Beaga|Na Cealla Beaga]],&lt;ref name=defy_logic_injury-hit_shock_title_success&gt;{{cite news|url=http://www.independent.ie/sport/gaelic-games/gaelic-football/boyle-looks-to-defy-logic-and-inspire-injuryhit-killybegs-to-shock-title-success-26686159.html|title=Boyle looks to defy logic and inspire injury-hit Killybegs to shock title success|work=[[Irish Independent]]|first=Donnchadh|last=Boyle|date=2 October 2010|accessdate=18 November 2012}}&lt;/ref&gt;&lt;ref name="Guardianprofile"&gt;{{cite news|url=https://www.theguardian.com/football/2011/oct/28/everton-seamus-coleman-gaelic-football|title=Everton's Seamus Coleman uses Gaelic roots to grow in English football|work=[[The Guardian]]|first=Andy|last=Hunter|date=28 October 2011|accessdate=28 October 2011|location=London}}&lt;/ref&gt; Coleman was spotted by [[Sligo Rovers F.C.|Sligo Rovers]] when he lined up against them in a friendly for his hometown club, St Catherine's.&lt;ref&gt;{{cite web|url=http://www.joe.ie/index.php/uncategorized/nivea-player-profile-seamus-coleman/344515|title=Nivea Player Profile: Seamus Coleman|publisher=JOE.ie|accessdate=19 September 2016}}&lt;/ref&gt; He made his [[League of Ireland]] debut against [[Derry City F.C|Derry City]] at the [[Brandywell Stadium|Brandywell]] in October 2006 as a substitute for [[Adam Hughes (footballer)|Adam Hughes]].&lt;ref&gt;{{cite news|url=http://www.independent.ie/sport/soccer/coleman-over-the-moon-as-toffees-extend-his-contract-28953174.html|title=Coleman 'over the moon' as Toffees extend his contract|work=Irish Independent|first=Daniel|last=McDonnell|date=1 January 2013|accessdate=6 June 2016}}&lt;/ref&gt;
+
+Sligo Rovers coach [[Rob McDonald]] did not rate Coleman very highly as a player, telling him that he should join [[League of Ireland First Division]] club [[Finn Harps F.C.|Finn Harps]].&lt;ref name="Hannigan"&gt;{{cite news|last=Hannigan|first=Mary|title=No drama and no sulking for Coleman – just dreams of Brazil|url=http://www.irishtimes.com/sport/soccer/international/no-drama-and-no-sulking-for-coleman-just-dreams-of-brazil-1.1517900|work=[[The Irish Times]]|accessdate=10 September 2013|date=6 September 2013}}&lt;/ref&gt; McDonald departed Sligo Rovers in March 2007,&lt;ref&gt;{{cite news|last=Finn|first=Stephen|title=McDonald departure leaves Sligo behind eight-ball|url=http://www.independent.ie/sport/mcdonald-departure-leaves-sligo-behind-eightball-26269136.html|work=Irish Independent|accessdate=10 September 2013|date=6 March 2007}}&lt;/ref&gt; and was replaced by [[Paul Cook (footballer)|Paul Cook]], of whom Coleman later said: "He made me feel like I was the best player in the League. It just makes such a difference when you have a manager who believes in you".&lt;ref name="Hannigan"/&gt;
+
+Coleman was [[Fouls and misconduct (association football)#Red card (dismissal)|sent off]] on 28 September 2007 in a 3–0 loss at [[Bohemian F.C.|Bohemians]], for a two-footed challenge on their substitute John-Paul Kelly.&lt;ref&gt;{{cite web|title=Red card swings game in Bohs favour|url=http://www.irishfootballonline.com/news/7363.html|accessdate=17 December 2015|publisher=Irish Football Online|date=29 September 2007|deadurl=yes|archiveurl=https://web.archive.org/web/20071009153516/http://www.irishfootballonline.com/news/7363.html|archivedate=9 October 2007}}&lt;/ref&gt; He scored his only goal for Rovers against [[Bray Wanderers F.C.|Bray Wanderers]] on 17 May 2008, concluding a 3–0 win.&lt;ref&gt;{{cite web|url=http://www.rte.ie/sport/soccer/irish/2008/0517/231981-sligo_bray1/|title=Sligo Rovers 3–0 Bray Wanderers|date=17 May 2008|publisher=[[RTÉ Sport]]|accessdate=5 January 2010}}&lt;/ref&gt;
+
+===Everton===
+Following a recommendation by [[Willie McStay (footballer, born 1961)|Willie McStay]] to former teammate and [[Everton F.C.|Everton]] manager [[David Moyes]], Coleman was signed by the [[Merseyside]] club for £60,000&lt;ref&gt;{{cite news|url=http://www.liverpoolecho.co.uk/sport/football/football-news/good-deal-everton-fcs-seamus-3385779|title=We got good deal for Everton FC's Seamus Coleman says Sligo Rovers boss Paul Cook|work=[[Liverpool Echo]]|date=21 January 2011|accessdate=26 March 2017}}&lt;/ref&gt; in January 2009, ahead of other interest from [[Ipswich Town F.C.|Ipswich Town]], [[Birmingham City F.C.|Birmingham City]] and [[Celtic F.C.|Celtic]].&lt;ref&gt;{{cite news|url=https://www.mirror.co.uk/sport/football/everton-to-sign-seamus-coleman-1661881|title=Everton to sign Seamus Coleman|work=Sunday People|date=18 January 2009|accessdate=6 December 2009}}&lt;/ref&gt; Before playing a game for Everton, Coleman had to undergo surgery on a career-threatening infected blister.&lt;ref&gt;{{cite web|url=http://www.espnfc.com/story/683662/new-blow-as-evertons-james-vaughan-undergoes-surgery|title=New blow as James Vaughan undergoes surgery|publisher=[[ESPN FC]]|date=7 October 2009|accessdate=6 December 2009}}&lt;/ref&gt; He made his debut on 22 October 2009 in the [[UEFA Europa League|Europa League]] group stage in a 5–0 loss to [[S.L. Benfica|Benfica]] at the [[Estádio da Luz]], being beaten to the ball by [[Javier Saviola]] for the first goal.&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/europe/8318447.stm|title=Benfica 5–0 Everton|publisher=[[BBC Sport]]|first=Oliver|last=Brett|date=22 October 2009|accessdate=6 December 2009}}&lt;/ref&gt; Three days later in his [[Goodison Park]] debut, a [[Premier League]] match against [[Tottenham Hotspur F.C.|Tottenham Hotspur]], Coleman was named [[Man of the Match]] after coming on as a first-half substitute for the injured [[Joseph Yobo]], and played an instrumental part for both of Everton's goals in a 2–2 draw.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2009/dec/06/premier-league-everton-tottenham-hotspur|title=Tim Howard's injury-time penalty save caps gallant Everton fightback|last=Hunter|first=Andy|date=6 December 2009|work=The Guardian|accessdate=6 December 2009|location=London}}&lt;/ref&gt; He made his [[FA Cup]] debut against [[Carlisle United F.C.|Carlisle United]] in the third round on 2 January 2010, replacing [[Tony Hibbert]] in the 80th minute and creating a goal for [[Tim Cahill]] two minutes later, in a 3–1 home win.&lt;ref&gt;{{cite web|url=http://www.evertonfc.com/match/report/0910/everton-v-carlisle.html|title=Everton v Carlisle: Match Report|publisher=Everton F.C.|date=2 January 2010|accessdate=7 January 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20100103104950/http://www.evertonfc.com/match/report/0910/everton-v-carlisle.html|archivedate=3 January 2010}}&lt;/ref&gt;
+
+[[File:Seamus Coleman 2010.JPG|thumb|left|250px|Coleman celebrating promotion with [[Blackpool F.C.|Blackpool]] in 2010]]
+
+====Loan to Blackpool====
+On 19 March 2010, Coleman joined [[EFL Championship|Championship]] club [[Blackpool F.C.|Blackpool]] on loan, initially for one month as a replacement for the injured [[Neal Eardley]].&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/teams/b/blackpool/8576974.stm|title=Blackpool sign Everton full-back Seamus Coleman on loan|publisher=BBC Sport|date=19 March 2010|accessdate=24 March 2010}}&lt;/ref&gt; He made his debut the next day, in a 2–2 draw at home to [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-1259428/Blackpool-2-Crystal-Palace-2-Eagles-denied-precious-victory-late-Burgess-strike.html|title=Blackpool 2 Crystal Palace 2: Eagles denied precious victory by late Burgess strike|work=[[Daily Mail]]|date=20 March 2010|accessdate=12 September 2016}}&lt;/ref&gt; He scored his first goal for the ''Tangerines'' in a 4–2 win away to [[Scunthorpe United F.C.|Scunthorpe United]] on 2 April.&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/football/article-1263130/Scunthorpe-2-Blackpool-4-DJ-Campbell-double-Ian-Holloways-troops.html|title=Scunthorpe 2 Blackpool 4: DJ Campbell at the double as Ian Holloway's troops march towards the play-offs|first=Alan|last=Biggs|work=Daily Mail|date=2 April 2010|accessdate=6 April 2010|location=London}}&lt;/ref&gt; Later that month, Coleman's loan was extended until the end of the season,&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/news/11728/6094501/coleman-sticks-with-blackpool|title=Coleman sticks with Blackpool|publisher=[[Sky Sports]]|date=15 April 2010|accessdate=15 April 2010}}&lt;/ref&gt; while on 19 May he agreed a new four-year contract with Everton.&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/teams/e/everton/8692668.stm|title=Defender Seamus Coleman signs new deal at Everton|date=19 May 2010|publisher=BBC Sport|accessdate=19 May 2010}}&lt;/ref&gt; He played in Blackpool's [[2010 Football League Championship play-off Final|play–off final]] at [[Wembley Stadium]], which they won 3–2 against [[Cardiff City F.C.|Cardiff City]].&lt;ref name="Blackpool 3-2 Cardiff City"&gt;{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/eng_div_1/8692465.stm|title=Blackpool 3–2 Cardiff City|publisher=BBC Sport|first=Paul|last=Fletcher|date=22 May 2010|accessdate=22 May 2010}}&lt;/ref&gt;
+
+====Return from loan====
+Coleman returned to Everton for the following season, breaking into the first team on the right of midfield. He scored his first goal for Everton against [[Brentford F.C.|Brentford]] in the [[EFL Cup|League Cup]] third round on 21 September 2010. He opened the scoring at [[Griffin Park]] in the sixth minute, but also gave away a [[Penalty kick (association football)|penalty]] with a foul on [[Myles Weston]], which [[Ján Mucha]] saved from [[Charlie MacDonald]], although Brentford eventually won in a [[Penalty shoot-out (association football)|penalty shoot-out]] after a 1–1 draw.&lt;ref&gt;{{cite web|title=Brentford 1–1 Everton|url=http://news.bbc.co.uk/sport2/hi/football/league_cup/9009797.stm|accessdate=17 December 2015|publisher=BBC Sport|date=21 September 2010}}&lt;/ref&gt; He scored his first Premier League goal against his former team Blackpool on 6 November to secure a 2–2 draw at [[Bloomfield Road]],&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/9149903.stm|title=Blackpool 2–2 Everton|publisher=BBC Sport|first=Mark|last=Ashenden|date=6 November 2010|accessdate=10 January 2011}}&lt;/ref&gt; signed a new four-and-a-half-year deal two months later,&lt;ref&gt;{{cite web|url=http://www.evertonfc.com/news/archive/2011/01/20/blues-secure-double-contract-boost|title=Duo sign new deals|publisher=Everton F.C.|first=Matthew|last=Gamble|date=20 January 2011|accessdate=20 January 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110121193630/http://www.evertonfc.com/news/archive/2011/01/20/blues-secure-double-contract-boost|archivedate=21 January 2011}}&lt;/ref&gt; and was nominated for the 2011 [[PFA Young Player of the Year]] Award.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2011/apr/08/pfa-player-year-award-gareth-bale|title=PFA Player of the Year award nominees include Tottenham's Gareth Bale|work=The Guardian|date=8 April 2011|accessdate=19 September 2016}}&lt;/ref&gt; He finished the season having scored four league goals, though was sent off in the final game of the season, a 1–0 win against [[Chelsea F.C.|Chelsea]].&lt;ref&gt;{{cite news|url=http://www.donegaldaily.com/2012/11/18/everton-back-coleman-after-star-gets-vile-twitter-abuse/|title=Everton back Coleman after star gets vile Twitter abuse|work=Donegal Daily|date=18 November 2012|accessdate=18 November 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gb/news/2896/premier-league/2011/05/23/2500154/evertons-phil-jagielka-backs-seamus-coleman-to-shine-next-season|title=Everton's Phil Jagielka backs Seamus Coleman to shine next season after red card against Chelsea|publisher=Goal.com|first=Mark|last=Fordham|date=23 May 2011|accessdate=5 June 2014}}&lt;/ref&gt;
+
+On 31 December 2012, Coleman signed a new five-and-a-half-year contract with Everton.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/20875146|title=Seamus Coleman signs new Everton deal|publisher=BBC Sport|date=31 December 2012|accessdate=31 December 2012}}&lt;/ref&gt;
+
+====2013–present====
+[[File:1 seamus coleman 2015.jpg|thumb|upright|Coleman in action for Everton in 2015]]
+
+The [[2013–14 Everton F.C. season|2013–14 season]] proved to be Coleman's best to date as he scored six league goals, more than his previous seasons at the club combined.&lt;ref&gt;{{cite web|url=http://bleacherreport.com/articles/1910773-everton-vs-queens-park-rangers-6-things-we-learned|title=6 Things We Learned From Everton VS Queens Park Rangers|publisher=Bleacher Report|first=Matt|last=Cheetham|date=4 January 2014|accessdate=6 January 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.goal.com/en-gb/match/126363/everton-vs-qpr/report?|title=Everton 4–0 QPR: Barkley, Jelavic &amp; Coleman fire Toffees through|publisher=Goal.com|first=Tom J.|last=Doyle|date=4 January 2014|accessdate=6 January 2014}}&lt;/ref&gt; In April, he was named in the [[PFA Team of the Year]].&lt;ref name=PFATOTY1314&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/27180793 |title=Luis Suarez: Liverpool striker wins PFA Player of the Year award |publisher=BBC Sport |date=28 April 2014 |accessdate=8 May 2018}}&lt;/ref&gt; He was also named Everton's Player of the Year and Players' Player of the Year.&lt;ref name=MartinezPraise&gt;{{cite web|url=http://www.evertonfc.com/history/coleman-is-player-of-the-season|title=Coleman Is Player of the Season|publisher=Everton F.C.|accessdate=5 June 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140508174802/http://www.evertonfc.com/history/coleman-is-player-of-the-season|archivedate=8 May 2014}}&lt;/ref&gt; Manager [[Roberto Martínez]] hailed Coleman as one of the best full-backs in world football as he was part of a defence which conceded just 39 goals to help Everton finish fifth with a club record of 72 Premier League points.&lt;ref name=MartinezPraise/&gt;&lt;ref&gt;{{cite web|url=http://www.skysports.com/premier-league-table/2013|title=Barclays Premier League 2013/14|publisher=Sky Sports|date=23 May 2014|accessdate=26 March 2017}}&lt;/ref&gt; He created 45 chances during the season, the third highest amongst Everton players and had the second highest pass completion at 88%.&lt;ref&gt;{{cite web|url=http://www.squawka.com/news/squawka-awards-a-statistical-review-of-evertons-season/111807|title=Squawka Awards: A statistical review of Everton’s Premier League season|publisher=Squawka|first=Omar|last=Hamouda|date=19 May 2014|accessdate=5 June 2014}}&lt;/ref&gt;
+
+On 26 June 2014, Coleman signed a new five-year contract with Everton.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2014/jun/26/seamus-coleman-everton-new-contract|title=Seamus Coleman signs new five-year contract with Everton|work=The Guardian|date=26 June 2014|accessdate=26 June 2014}}&lt;/ref&gt; He scored his first ever goal in [[UEFA competitions|European football]] for Everton on 18 September 2014, netting their second in a 4–1 win over [[VfL Wolfsburg|Wolfsburg]] in the first match of their [[2014–15 UEFA Europa League|Europa League]] campaign.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/29240782|title=Everton 4–1 VfL Wolfsburg|publisher=BBC Sport|first=Gary|last=Rose|date=18 September 2014|accessdate=21 September 2015}}&lt;/ref&gt; On 19 February 2015, he was again on target in Europe, in a 4–1 win over [[BSC Young Boys]] in the last 32.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/31523676|title=BSC Young Boys 1–4 Everton|first=Mike|last=Whalley|date=19 February 2015|accessdate=21 September 2015|publisher=BBC Sport}}&lt;/ref&gt; On 22 March, Coleman scored the first goal in an eventual 2–1 away success against [[Queens Park Rangers F.C.|Queens Park Rangers]] with ''Toffees'' boss Roberto Martínez praising the full-back for his performance, describing him as "magnificent in his defensive duties" and labelling his opener as "a striker's goal".&lt;ref name="Martinez hails Coleman"&gt;{{cite news|url=http://www.irishexaminer.com/sport/soccer/roberto-martinez-hails-seamus-coleman-as-everton-beat-qpr-319920.html|title=Roberto Martinez hails Seamus Coleman as Everton beat QPR|work=[[Irish Examiner]]|first=Declan|last=Taylor|date=23 March 2015|accessdate=26 March 2017}}&lt;/ref&gt;
+
+Coleman scored his only goal of the [[2015–16 Everton F.C. season|2015–16 season]] in a 3–0 away victory against [[Stoke City F.C.|Stoke City]] on 6 February 2016.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/35447704|title=Stoke City 0–3 Everton|publisher=BBC Sport|first=Mandeep|last=Sanghera|date=6 February 2016|accessdate=6 June 2016}}&lt;/ref&gt;
+
+On 17 September, he opened his [[2016–17 Everton F.C. season|2016–17]] goalscoring account in a 3–1 home win against [[Middlesbrough F.C.|Middlesbrough]] with a great solo run and finish on his weaker foot.&lt;ref&gt;{{cite news|url=http://www.independent.ie/sport/soccer/premier-league/seamus-colemans-scores-fantastic-solo-goal-as-everton-put-boro-to-the-sword-35057215.html|title=Seamus Coleman's scores fantastic solo goal as Everton put Boro to the sword|work=Irish Independent|first=Carl|last=Markham|date=17 September 2016|accessdate=19 September 2016}}&lt;/ref&gt; He scored his second goal of the season on 19 November with an 89th-minute header to equalise in a 1–1 home draw against [[Swansea City A.F.C.|Swansea City]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/37959842|title=Everton 1–1 Swansea City|publisher=BBC Sport|first=Matt|last=Davis|date=19 November 2016|accessdate=19 November 2016}}&lt;/ref&gt; His first goal of 2017 came on 21 January as he secured all three points with an 87th-minute winner in a 1–0 triumph over Crystal Palace at [[Selhurst Park]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/38620112|title=Crystal Palace 0–1 Everton|publisher=BBC Sport|first=Jamie|last=Strickland|date=21 January 2017|accessdate=21 January 2017}}&lt;/ref&gt;
+
+Coleman suffered a fractured tibia and fibula in his right leg following a dangerous challenge from [[Neil Taylor (footballer)|Neil Taylor]] whilst on international duty with Ireland in March 2017 and was unlikely to return to action until 2018.&lt;ref&gt;{{cite web|url=http://www.the42.ie/seamus-coleman-injury-update-2-3306449-Mar2017/|title=Seamus Coleman unlikely to return until 2018 after undergoing surgery|website=The42|publisher=TheJournal.ie|first=Ryan|last=Bailey|date=25 March 2017|accessdate=10 April 2017}}&lt;/ref&gt; It was announced a few days after his injury that [[FIFA]] would pay his basic salary for the duration of his rehabilitation.&lt;ref&gt;{{cite web|url=http://www.the42.ie/fifa-to-pay-seamus-colemans-salary-during-rehab-3309172-Mar2017/|title=Fifa to pay Seamus Coleman's salary during rehab|website=The42|publisher=TheJournal.ie|first=Paul|last=Fennessy|date=27 March 2017|accessdate=10 April 2017}}&lt;/ref&gt;
+
+Coleman made his Everton return on 31 January 2018, in a 2–1 win over [[Leicester City F.C.|Leicester City]].&lt;ref name = "Return"&gt;{{Cite news|title=Everton's Seamus Coleman to make Republic of Ireland return vs. Turkey|date=8 March 2018|accessdate=9 March 2018|agency=PA Sport (Press Association)|url=http://www.espn.co.uk/football/republic-of-ireland/story/3411520/everton-seamus-coleman-to-make-republic-of-ireland-return-vs-turkey}}&lt;/ref&gt;
+
+==International career==
+===Youth===
+Coleman has represented Ireland U18 schools, helping them retain the Centenary Shield in 2006. He is an [[Republic of Ireland national under-21 football team|Ireland under-21]] and under-23 international, having made his debut for the former against [[Sweden national under-21 football team|Sweden]] in 2007.&lt;ref&gt;{{cite web|url=http://www.soccerscene.ie/ss_gen/player.php?id=31&amp;level=ss21|title=Seamus Coleman|publisher=Soccer Scene|accessdate=19 September 2016}}&lt;/ref&gt; On 10 August 2010, Coleman scored his first international goal in a 5–0 win against [[Estonia national under-21 football team|Estonia]].&lt;ref&gt;{{cite web|url=http://www.fai.ie/index.php?option=com_content&amp;view=article&amp;id=101151&amp;catid=3&amp;Itemid=11|title=Ireland U21 put five past Estonia|publisher=[[Football Association of Ireland]]|date=10 August 2010|accessdate=19 January 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20101215203050/http://fai.ie/index.php?option=com_content&amp;view=article&amp;id=101151&amp;catid=3&amp;Itemid=11|archivedate=15 December 2010}}&lt;/ref&gt; In the same month he won the 2009 FAI Under 21 Player of the Year Award.&lt;ref name=FAI09&gt;{{cite web|url=http://www.fai.ie/index.php?option=com_content&amp;view=article&amp;id=101142:fai-international-football-award-winners-announced&amp;catid=1:senior-men&amp;Itemid=8 |title=FAI International Football Award winners announced |date=8 August 2010 |publisher=Football Association of Ireland |accessdate=5 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100823092537/http://www.fai.ie/index.php?option=com_content&amp;view=article&amp;id=101142%3Afai-international-football-award-winners-announced&amp;catid=1%3Asenior-men&amp;Itemid=8 |archivedate=23 August 2010 |df=dmy-all }}&lt;/ref&gt; He retained the award in 2010.&lt;ref name=FAI10&gt;{{cite web|url=http://www.fai.ie/index.php?option=com_content&amp;view=article&amp;id=101529:21st-3fai-international-football-award-winners-announced&amp;catid=1:senior-men&amp;Itemid=8 |title=21st 3/FAI International Football Award winners announced |publisher=Football Association of Ireland |accessdate=7 February 2011 |date=7 February 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20131106022019/http://www.fai.ie/index.php?option=com_content&amp;view=article&amp;id=101529%3A21st-3fai-international-football-award-winners-announced&amp;catid=1%3Asenior-men&amp;Itemid=8 |archivedate=6 November 2013 |df=dmy-all }}&lt;/ref&gt; He captained Ireland in a 1–0 defeat against [[Turkey national under-21 football team|Turkey]] in November 2010.&lt;ref&gt;{{cite web|url=http://www.fai.ie/index.php?option=com_content&amp;view=article&amp;id=101234&amp;catid=3&amp;Itemid=11|title=U21s fall to late winner in Turkey|publisher=Football Association of Ireland|date=7 September 2010|accessdate=19 January 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20100911213528/http://www.fai.ie/index.php?option=com_content&amp;view=article&amp;id=101234&amp;catid=3&amp;Itemid=11|archivedate=11 September 2010}}&lt;/ref&gt;
+
+===Senior===
+[[File:FIFA WC-qualification 2014 - Austria vs Ireland 2013-09-10 - Seamus Coleman 05.JPG|thumb|upright|250px|Coleman playing for the [[Republic of Ireland national football team|Republic of Ireland]] in 2013]]
+
+Coleman received his first call-up to the [[Republic of Ireland national football team|senior squad]] in October 2010,&lt;ref&gt;{{cite web|url=http://www.rte.ie/sport/soccer/2010/1001/ireland_colemans.html|title=Seamus Coleman named in Trap's squad|publisher=RTÉ Sport|date=1 October 2010|accessdate=13 October 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20101002121025/http://www.rte.ie/sport/soccer/2010/1001/ireland_colemans.html|archivedate=2 October 2010}}&lt;/ref&gt; and made his full international debut in the Republic of Ireland's inaugural [[2011 Nations Cup|Nations Cup]] match against [[Wales national football team|Wales]] on 8 February 2011, which Ireland won 3–0.&lt;ref&gt;{{cite web|url=http://www.rte.ie/sport/soccer/2011/0208/ireland_wales_carlingnationscup.html|title=Republic of Ireland 3–0 Wales|publisher=RTÉ Sport|date=8 February 2011|accessdate=8 February 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110211022530/http://www.rte.ie/sport/soccer/2011/0208/ireland_wales_carlingnationscup.html|archivedate=11 February 2011}}&lt;/ref&gt;
+
+On 29 May 2013, Coleman was named Man of the Match for his performance against [[England national football team|England]] at [[Wembley Stadium]]. He crossed the ball for [[Shane Long]]'s opening goal of the game, a header past [[Joe Hart]].&lt;ref&gt;{{cite news|url=http://www.donegalnow.com/sp/article_manager/detail/coleman_is_man_of_the_match|title=Coleman is man of the match|date=30 May 2013|work=Donegal Now|accessdate=30 May 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130905110248/http://donegalnow.com/sp/article_manager/detail/coleman_is_man_of_the_match|archivedate=5 September 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.highlandradio.com/2013/05/30/coleman-man-of-the-match-at-wembley/|title=Coleman Man of the Match at Wembley|date=30 May 2013|publisher=[[Highland Radio]]|accessdate=30 May 2013}}&lt;/ref&gt;
+Coleman captained Ireland for the first time in a [[2014 FIFA World Cup qualification – UEFA Group C|2014 World Cup qualifier]] against [[Germany national football team|Germany]] on 11 October 2013, his 25th birthday, which Ireland lost 3–0 in [[Cologne]].&lt;ref&gt;{{cite web|url=http://www.the42.ie/seamus-coleman-ireland-1126469-Oct2013/|title=Captaining Ireland was a special experience – Seamus Coleman|website=The42|publisher=TheJournal.ie|first=Murray|last=Kinsella|date=12 October 2013|accessdate=13 September 2016}}&lt;/ref&gt;
+
+On 31 May 2016, Coleman was selected in [[Martin O'Neill]]'s 23-man squad for [[UEFA Euro 2016|Euro 2016]].&lt;ref&gt;{{cite web|url=http://www.fai.ie/ireland/news/martin-oneill-names-euro-2016-squad|title=Martin O'Neill names EURO 2016 squad|publisher=Football Association of Ireland|date=1 June 2016|accessdate=16 November 2016}}&lt;/ref&gt; At the tournament, he captained Ireland in their final group game victory over Italy. The 1–0 win ensured that the team advanced past the group stages at a [[UEFA European Championship]] for the first time.&lt;ref&gt;{{cite news|url=http://www.irishtimes.com/sport/soccer/international/i-was-in-a-zone-and-now-captain-coleman-wants-a-repeat-upset-1.2696192|title='I was in a zone' – and now Captain Coleman wants a repeat upset|work=The Irish Times|first=Emmet|last=Malone|date=23 June 2016|accessdate=23 June 2016}}&lt;/ref&gt; He was also captain for Ireland's Round of 16 match against France in [[Lyon]] where the hosts prevailed 2–1 winners.&lt;ref&gt;{{cite web|url=http://www.rte.ie/sport/euro-2016/2016/0626/798306-coleman-it-was-one-that-got-away/|title=Seamus Coleman says it was one that got away|publisher=RTÉ Sport|date=26 June 2016|accessdate=30 July 2016}}&lt;/ref&gt;
+
+Coleman was named the permanent Ireland captain in September 2016 following the international retirement of Robbie Keane.&lt;ref name="new captain"&gt;{{cite news|url=http://www.irishexaminer.com/breakingnews/sport/seamus-coleman-named-the-new-ireland-captain-753137.html|title=Seamus Coleman named the new Ireland captain|work=Irish Examiner|first=Stephen|last=Barry|date=5 September 2016|accessdate=12 September 2016}}&lt;/ref&gt; The following month, he scored his first senior international goal for Ireland in a 1–0 win over [[Georgia national football team|Georgia]] at the [[Aviva Stadium]] in a [[2018 FIFA World Cup qualification – UEFA Group D|2018 World Cup qualifier]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/37424268|title=Republic of Ireland 1–0 Georgia|publisher=BBC Sport|first=Richard|last=Petrie|date=6 October 2016|accessdate=8 October 2016}}&lt;/ref&gt;
+
+On 24 March 2017, Coleman suffered a broken leg in the 69th minute of a goalless draw in a World Cup qualifier against Wales following a dangerous tackle by Neil Taylor for which the Welshman was given a straight red card.&lt;ref name="bbcsport24mar2017"&gt;{{cite web|url=https://www.bbc.com/sport/football/39388290|title=Seamus Coleman suffers broken leg in Republic of Ireland draw|publisher=BBC Sport|date=24 March 2017|accessdate=24 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.espnfc.com/republic-of-ireland/story/3088881/republic-of-irelands-seamus-coleman-suffers-serious-leg-injury-vs-wales|title=Republic of Ireland's Seamus Coleman suffers broken leg against Wales|publisher=ESPN FC|date=24 March 2017|accessdate=26 March 2017}}&lt;/ref&gt; Coleman received treatment on the pitch and was given oxygen as he was comforted by teammate Shane Long before being carried off on a stretcher.&lt;ref name="doublelegfracture"&gt;{{cite news|url=http://www.irishtimes.com/sport/soccer/international/ireland-s-s%C3%A9amus-coleman-undergoes-surgery-on-double-leg-fracture-1.3024950|title=Ireland's Séamus Coleman undergoes surgery on double leg fracture|work=The Irish Times|date=25 March 2017|accessdate=26 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.express.co.uk/sport/football/783765/Seamus-Coleman-Broken-Leg-Ireland-Wales-Shane-Long-Reaction|title=Shane Long: This is what Seamus Coleman was like on the field after horror leg break|work=[[Daily Express]]|first=James|last=Cambridge|date=25 March 2017|accessdate=26 March 2017}}&lt;/ref&gt; He was brought directly to [[Dublin]]'s [[St. Vincent's University Hospital|St. Vincent's Hospital]] where he underwent surgery on a fractured [[tibia]] and [[fibula]] of his right leg.&lt;ref name="doublelegfracture"/&gt; Ireland manager Martin O'Neill stated that Coleman's injury was a "huge blow" to both Ireland and Everton but backed the player to return to his "brilliant" best.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2017/mar/25/seamus-coleman-martin-oneill-republic-of-ireland-everton|title=Séamus Coleman leg break a huge blow to club and country, says Martin O'Neill|work=The Guardian|first=Stuart|last=James|date=25 March 2017|accessdate=26 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.independent.ie/sport/soccer/international-soccer/he-will-be-as-brilliant-as-he-was-before-martin-oneill-tips-seamus-coleman-to-get-back-to-his-best-after-hospital-visit-35565180.html|title='He will be as brilliant as he was before' – Martin O'Neill tips Seamus Coleman to get back to his best after hospital visit|work=Irish Independent|first=Damian|last=Spellman|date=25 March 2017|accessdate=26 March 2017}}&lt;/ref&gt; Taylor's challenge was widely condemned across the football world with the [[Aston Villa F.C.|Aston Villa]] defender himself said to be "devastated" about causing a serious injury.&lt;ref&gt;{{cite web|url=https://www.rte.ie/sport/soccer/2017/0324/862424-coleman-challenge/|title='Appalling and vicious' – RTÉ panel condemn Neil Taylor challenge|publisher=RTÉ Sport|date=25 March 2017|accessdate=26 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/sport/football/international/seamus-coleman-broken-leg-everton-wayne-rooney-criticises-neil-taylor-tackle-wales-republic-of-a7649426.html|title=Wayne Rooney criticises Neil Taylor's 'horrible tackle' that broke Everton's Seamus Coleman's leg|work=[[The Independent]]|first=Jack|last=de Menezes|date=25 March 2017|accessdate=26 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.liverpoolecho.co.uk/sport/football/football-news/seamus-coleman-leg-break-neil-12796948|title=Seamus Coleman leg break – Neil Taylor devastated after causing Everton man's injury, and tried to apologise afterwards|work=Liverpool Echo|first=Neil|last=Jones|date=25 March 2017|accessdate=26 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.irishtimes.com/sport/soccer/international/enda-kenny-takes-time-out-from-eu-summit-to-condemn-s%C3%A9amus-coleman-tackle-1.3024991|title=Enda Kenny takes time out from EU summit to condemn Séamus Coleman tackle|work=The Irish Times|first=Denis|last=Staunton|date=25 March 2017|accessdate=26 March 2017}}&lt;/ref&gt; Wales manager [[Chris Coleman (footballer)|Chris Coleman]] later revealed that Taylor went into the Ireland team's changing room to apologise for the incident.&lt;ref&gt;{{cite news|url=http://www.walesonline.co.uk/sport/football/football-news/how-devastated-neil-taylor-tried-12796891|title=How 'devastated' Neil Taylor tried to apologise to Seamus Coleman after the Ireland v Wales match|work=WalesOnline|first=Ian|last=Mitchelmore|date=25 March 2017|accessdate=26 March 2017}}&lt;/ref&gt; Many fellow footballers, sports personalities and celebrities took to [[Twitter]] to send messages of support to Coleman including [[Wayne Rooney]], [[Shay Given]], [[Héctor Bellerín]], [[Paul McGrath (footballer)|Paul McGrath]], [[Tony Bellew]] and [[Niall Horan]].&lt;ref name="bbcsport24mar2017"/&gt;&lt;ref&gt;{{cite news|url=http://www.independent.ie/sport/stars-rally-in-support-of-seamus-coleman-after-everton-man-suffers-broken-leg-35563876.html|title=Stars rally in support of Seamus Coleman after Everton man suffers broken leg|work=Irish Independent|date=24 March 2017|accessdate=26 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.irishexaminer.com/breakingnews/sport/tributes-pour-in-for-irelands-seamus-coleman-after-his-horrific-leg-break-against-wales-783084.html|title=Tributes pour in for Ireland's Seamus Coleman after his horrific leg break against Wales|work=Irish Examiner|date=25 March 2017|accessdate=26 March 2017}}&lt;/ref&gt; On 26 March, O'Neill confirmed the surgery on the right-back's fractured leg had been a success.&lt;ref&gt;{{cite news|url=http://www.independent.ie/sport/soccer/international-soccer/martin-oneill-seamus-colemans-surgery-was-a-success-35566006.html|title=Martin O'Neill: Seamus Coleman's surgery was a success|work=Irish Independent|date=26 March 2017|accessdate=9 April 2017}}&lt;/ref&gt;
+
+Coleman's first call-up since the injury came for the squad to face [[Turkey national football team|Turkey]] on 23 March 2018.&lt;ref name="Return" /&gt;
+
+==Style of play==
+[[File:FIFA WC-qualification 2014 - Austria vs Ireland 2013-09-10 - Seamus Coleman 12.JPG|thumb|upright|250px|Coleman running with the ball in a September 2013 [[2014 FIFA World Cup qualification – UEFA Group C|World Cup qualifier]] against [[Austria national football team|Austria]]. Ireland would eventually be defeated 1–0.]]
+
+Coleman is widely regarded as one of the Premier League's best full-backs.&lt;ref name="Coleman Analysis"&gt;{{cite web|url=http://www.the42.ie/analysis-seamus-coleman-everton-top-full-backs-1620592-Aug2014/|title=Analysis: Why Seamus Coleman is now regarded as one of Europe’s top full-backs|website=The42|publisher=TheJournal.ie|first=Paul|last=Fennessy|date=15 August 2014|accessdate=26 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://worldsoccertalk.com/2013/05/31/the-rise-of-evertons-right-back-seamus-coleman/|title=The Rise of Everton's Right Back Seamus Coleman|publisher=World Soccer Talk|first=Matt|last=Jones|date=31 May 2013|accessdate=26 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.thescore.com/news/1156710|title=Ranking the 10 best full-backs in the Premier League|publisher=[[theScore Inc.]]|date=18 November 2016|accessdate=26 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.the42.ie/seamus-coleman-ireland-2-3213599-Jan2017/|title=Coleman sees the League of Ireland as 'the better route' for young players|website=The42|publisher=TheJournal.ie|first=Ben|last=Blake|date=31 January 2017|accessdate=26 March 2017}}&lt;/ref&gt; A quick, skilful and hard-working player with immense stamina, he is renowned for his eagerness to get forward on attacking runs which has established his goalscoring prowess.&lt;ref name="Coleman Analysis"/&gt;&lt;ref&gt;{{cite web|url=http://www.punditarena.com/football/nmenezes/why-ireland-captain-seamus-coleman-doesnt-require-a-big-move/|title=Why Ireland Captain Seamus Coleman Doesn't Require A Big Move|publisher=Pundit Arena|first=Nick|last=Menezes|date=2 February 2017|accessdate=26 March 2017}}&lt;/ref&gt; Coleman has shown a proficiency for having great composure when in possession of the ball and his Everton teammate [[Ashley Williams (footballer)|Ashley Williams]] has hailed him as one of the best players he has ever played with.&lt;ref name="Coleman Analysis"/&gt;&lt;ref&gt;{{cite web|url=http://www.squawka.com/news/evertons-second-best-goalscorer-seamus-coleman-hailed-among-best-teammates-of-ashley-williams-career/923616|title=Everton's second-top scorer: Seamus Coleman hailed among best teammates of Ashley Williams’ career|publisher=Squawka|first=Raj|last=Mahil|date=24 March 2017|accessdate=26 March 2017}}&lt;/ref&gt; 
+
+Despite being very quiet by nature, Coleman has shown great leadership qualities which has propelled him to the role of captain of the Irish national team.&lt;ref name="inspirational"&gt;{{cite web|url=http://www.the42.ie/seamus-coleman-captain-ireland-italy-euro-2016-2842292-Jun2016/|title=Captain Coleman gave 'inspirational' speech to players before Ireland's win over Italy|website=The42|publisher=TheJournal.ie|first=Ben|last=Blake|date=23 June 2016|accessdate=26 March 2017}}&lt;/ref&gt; He led the Ireland team out for their final two matches at Euro 2016, earning much praise from teammates, fans and media alike.&lt;ref name="inspirational"/&gt;&lt;ref&gt;{{cite web|url=https://www.sportsjoe.ie/football/seamus-colemans-comments-after-france-shows-why-he-should-captain-ireland-for-the-next-six-years-84678|title=Seamus Coleman's comments after France show why he should captain Ireland for the next six years|publisher=SportsJOE.ie|first=Conan|last=Doherty|accessdate=26 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.irishtimes.com/sport/soccer/international/s%C3%A9amus-coleman-becomes-the-leader-of-the-ireland-pack-1.2698713|title=Séamus Coleman becomes the leader of the Ireland pack|work=The Irish Times|first=Keith|last=Duggan|date=25 June 2016|accessdate=26 March 2017}}&lt;/ref&gt; He has since taken on the role of Ireland captain on a permanent basis.&lt;ref name="new captain"/&gt; In 2018, it was suggested by ''[[ESPN FC]]'' journalist Luke O'Farrell that Coleman should also be the next club captain at Everton, highlighting that the full-back "leads by example and, more importantly, demands more from his teammates. Coleman has never been afraid to let another player know when something is not working or needs improvement. [...] Coleman sets the mark for the rest of the team to follow".&lt;ref&gt;{{cite news|title=Sam Allardyce must make Seamus Coleman captain to inspire supporters|first=Luke|last=O'Farrell|work=ESPN FC|date=9 March 2018|accessdate=9 March 2018|url=http://www.espn.co.uk/football/club/everton/368/blog/post/3412469/sam-allardyce-must-make-seamus-coleman-captain-to-inspire-supporters}}&lt;/ref&gt;
+
+==Personal life==
+Coleman has two brothers: Francis and Stephen (known as Stevie). His parents are Máire and Henry Coleman.&lt;ref&gt;{{cite news|url=http://www.independent.ie/regionals/wicklowpeople/news/everton-footballer-seamus-coleman-visits-tinahely-ns-27854919.html|title=Everton footballer Seamus Coleman visits Tinahely NS|work=Wicklow People|date=7 July 2010|accessdate=26 March 2017}}&lt;/ref&gt; Stevie has [[cerebral palsy]] and participated in the [[2003 Special Olympics World Summer Games]] football event where the Irish team won bronze medals.&lt;ref&gt;{{cite web|url=http://www.the42.ie/seamus-coleman-special-olympics-collection-1407146-Apr2014/|title=My brother Stevie got the skills, says Special Olympics ambassador Seamus Coleman|website=The42|publisher=TheJournal.ie|first=Niall|last=Kelly|date=11 April 2014|accessdate=26 March 2017}}&lt;/ref&gt; As a boy, Coleman attended St. Catherine's Vocational School.&lt;ref&gt;{{cite web|title=Killybegs drill Charlestown on the spot|url=http://www.fais.ie/news/459/killybegs-drill-charlestown-on-the-spot/|publisher=FAI Schools|date=11 February 2011|accessdate=14 January 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20131105041624/http://www.fais.ie/news/459/killybegs-drill-charlestown-on-the-spot/|archivedate=5 November 2013}}&lt;/ref&gt; He supports the [[Donegal GAA|Donegal senior football team]].&lt;ref&gt;{{cite news|url=http://www.donegaldaily.com/2012/08/27/picture-special-more-of-your-incredible-donegal-celebration-pix-from-around-the-globe/|title=Picture special: More of your incredible Donegal celebration pix from around the globe|work=Donegal Daily|date=27 August 2012|accessdate=27 August 2012|quote=Seamus Coleman very politely and willingly stops to make Sean Thomas McMonagle, Mecheala and Nicole Cronin's day!}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.donegaldaily.com/2012/08/27/ddtv-video-of-a-donegal-fans-day-at-croke-park/|title=DDTV: Video of a Donegal fan's day at Croke Park|work=Donegal Daily|date=27 August 2012|accessdate=27 August 2012|quote=The GAA slogan says that you can't beat being there. And you really can't...There's even a cameo role later on from Seamus Coleman!}}&lt;/ref&gt; He also still follows his local GAA team, [[C.L.G. Na gCealla Beaga|Na Cealla Beaga]],&lt;ref name=defy_logic_injury-hit_shock_title_success/&gt; and attended the final of the [[2013 Donegal Senior Football Championship]] when they lost to [[Glenswilly GAA|Gleann tSuilí]].&lt;ref&gt;{{cite web|first=Paul|last=Fennessy|url=http://www.the42.ie/seamus-coleman-pic-kilybegs-donegal-county-final-1139023-Oct2013/|title=Seamus Coleman was at the Glenswilly-Killybegs game today|website=The42|publisher=TheJournal.ie|date=20 October 2013|accessdate=13 September 2016}}&lt;/ref&gt;
+
+{{cquote|I'd be more nervous watching the [Gaelic football] lads than I would be watching my own games [...] When it's Killybegs playing, it means a bit more. It's something I was a big part of growing up, I played with all them lads.&lt;ref&gt;{{cite web|url=http://www.hoganstand.com/Donegal/ArticleForm.aspx?ID=202579|title=Killybegs win delights Coleman|publisher=[[Hogan Stand]]|date=10 October 2013|accessdate=10 October 2013}}&lt;/ref&gt;}}
+
+In June 2015, he married Rachel Cunningham in St. Mary of the Visitation Church in Killybegs,&lt;ref&gt;{{cite web|url=http://www.evoke.ie/showbiz/ireland-midfielder-seamus-coleman-marries-childhood-sweethear/|website=EVOKE.ie|title=Pitch perfect! Football star Séamus Coleman marries his childhood sweetheart|date=21 June 2015|accessdate=23 June 2015|archiveurl=https://web.archive.org/web/20160304123503/http://evoke.ie/showbiz/ireland-midfielder-seamus-coleman-marries-childhood-sweetheart |archivedate=4 March 2016}}&lt;/ref&gt; and their daughter, Lilly, was born in February the following year.&lt;ref&gt;{{cite news|url=http://www.liverpoolecho.co.uk/sport/football/football-news/bring-sleepless-nights-says-everton-10854005|title=Bring on sleepless nights says Everton goal hero Seamus Coleman|work=Liverpool Echo|first=David|last=Prentice|date=7 February 2016|accessdate=26 March 2017}}&lt;/ref&gt;
+
+==Career statistics==
+
+===Club===
+{{updated|match played 26 February 2019}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Sligo Rovers F.C.|Sligo Rovers]]
+|[[2006 League of Ireland|2006]]&lt;ref name="NFT"&gt;{{NFT player|id=41815|name=Coleman, Séamus|accessdate=21 September 2015}}&lt;/ref&gt;
+|[[League of Ireland Premier Division]]
+|3||0|| || || || ||colspan="2"|—||3||0
+|-
+|[[2007 League of Ireland|2007]]&lt;ref name="NFT"/&gt;
+|League of Ireland Premier Division
+|26||0|| || || || ||colspan="2"|—||26||0
+|-
+|[[2008 League of Ireland|2008]]&lt;ref name="NFT"/&gt;
+|League of Ireland Premier Division
+|26||1|| || || || ||colspan="2"|—||26||1
+|-
+!colspan="2"|Total
+!55!!1!! !! !! !! !!colspan="2"|—!!55!!1
+|-
+|rowspan="11"|[[Everton F.C.|Everton]]
+|[[2009–10 Everton F.C. season|2009–10]]&lt;ref name=sb0910&gt;{{soccerbase season|51872|2009|accessdate=21 September 2015}}&lt;/ref&gt;
+|[[Premier League]]
+|3||0||1||0||0||0||3{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||7||0
+|-
+|[[2010–11 Everton F.C. season|2010–11]]&lt;ref name=sb1011&gt;{{soccerbase season|51872|2010|accessdate=29 August 2015}}&lt;/ref&gt;
+|Premier League
+|34||4||4||1||2||1||colspan="2"|—||40||6
+|-
+|[[2011–12 Everton F.C. season|2011–12]]&lt;ref name=sb1112&gt;{{soccerbase season|51872|2011|accessdate=29 August 2015}}&lt;/ref&gt;
+|Premier League
+|18||0||4||0||2||0||colspan="2"|—||24||0
+|-
+|[[2012–13 Everton F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|51872|2012|accessdate=29 August 2015}}&lt;/ref&gt;
+|Premier League
+|26||0||3||1||2||0||colspan="2"|—||31||1
+|-
+|[[2013–14 Everton F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|51872|2013|accessdate=29 August 2015}}&lt;/ref&gt;
+|Premier League
+|36||6||3||1||2||0||colspan="2"|—||41||7
+|-
+|[[2014–15 Everton F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|51872|2014|accessdate=29 August 2015}}&lt;/ref&gt;
+|Premier League
+|35||3||2||0||0||0||5{{efn|name=UEL}}||2||42||5
+|-
+|[[2015–16 Everton F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|51872|2015|accessdate=29 August 2015}}&lt;/ref&gt;
+|Premier League
+|28||1||3||0||3||0||colspan="2"|—||34||1
+|-
+|[[2016–17 Everton F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|51872|2016|accessdate=12 September 2016}}&lt;/ref&gt;
+|Premier League
+|26||4||1||0||1||0||colspan="2"|—||28||4
+|-
+|[[2017–18 Everton F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|51872|2017|accessdate=14 May 2018}}&lt;/ref&gt;
+|Premier League
+|12||0||0||0||colspan="2"|—||0||0||12||0
+|-
+|[[2018–19 Everton F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|51872|2018|accessdate=30 January 2019}}&lt;/ref&gt;
+|Premier League
+|21||1||1||0||0||0||colspan="2"|—||22||1
+|-
+!colspan="2"|Total
+!239!!19!!22!!3!!12!!1!!8!!2!!281!!25
+|-
+|[[Blackpool F.C.|Blackpool]] (loan)
+|[[2009–10 Blackpool F.C. season|2009–10]]&lt;ref name=sb0910/&gt;
+|[[EFL Championship|Championship]]
+|9||1||colspan="2"|—||colspan="2"|—||3{{efn|Appearances in [[2010 Football League play-offs#Championship|Championship play-offs]]}}||0||12||1
+|-
+!colspan="3"|Career total
+!302!!21!!22!!3!!12!!1!!11!!2!!347!!27
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 19 November 2018}}&lt;ref name="NFT"/&gt;
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=8|[[Republic of Ireland national football team|Republic of Ireland]]
+|2011||4||0
+|-
+|2012||5||0
+|-
+|2013||11||0
+|-
+|2014||5||0
+|-
+|2015||7||0
+|-
+|2016||10||1
+|-
+|2017||1||0
+|-
+|2018||6||0
+|-
+!colspan=2|Total||49||1
+|}
+
+===International goals===
+:''As of match played 2 June 2018''. ''Ireland score listed first, score column indicates score after each Coleman goal.''
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+|-
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+!scope=col class=unsortable|{{abbr|Ref|Reference}}
+|-
+!scope=row|1
+|6 October 2016||[[Aviva Stadium]], [[Dublin]], Ireland||40||{{fb|GEO}}||'''1'''–0||1–0||[[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification]]||&lt;ref&gt;{{cite web|url=http://www.rte.ie/sport/soccer/2016/1006/822065-match-winner-coleman-admits-ireland-were-poor/|title=Match-winner Coleman admits Ireland were poor|publisher=RTÉ Sport|date=6 October 2016|accessdate=8 October 2016}}&lt;/ref&gt;
+|-
+|}
+
+==Honours==
+'''Blackpool'''
+*[[Football League Championship play-offs]]: [[2010 Football League play-offs#Championship|2009–10]]&lt;ref name=sb0910/&gt;
+
+'''Republic of Ireland'''
+*[[Nations Cup (football)|Nations Cup]]: [[2011 Nations Cup|2011]]&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/scotland/13590290|title=Republic of Ireland 1–0 Scotland|publisher=BBC Sport|first=Clive|last=Lindsay|date=29 May 2011|accessdate=22 January 2017}}&lt;/ref&gt;
+
+'''Individual'''
+*Donegal Sports Star Professional Sport Achievement Award: 2009&lt;ref&gt;{{cite news|url=http://www.donegaldemocrat.ie/sport/donegal-sports-star-awards-nominations-announced-1-1989648 |title=Donegal Sports Star Awards nominations announced |newspaper=[[Donegal Democrat]] |publisher=[[Johnston Press]] |date=8 January 2009 |accessdate=8 January 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20140517161123/http://www.donegaldemocrat.ie/sport/donegal-sports-star-awards-nominations-announced-1-1989648 |archivedate=17 May 2014 |df=dmy-all }}&lt;/ref&gt;
+*[[FAI International Football Awards#Under-21 International Player of the Year|FAI Under-21 International Player of the Year]]: 2009, 2010&lt;ref name=FAI10/&gt;
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Premier League 5|2013–14 Premier League]]&lt;ref name=PFATOTY1314/&gt;
+*[[Everton F.C.|Everton]] Player's Player of the Year: 2013–14&lt;ref name=MartinezPraise/&gt;
+*Everton Supporter's Player of the Year: 2013–14&lt;ref name=MartinezPraise/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Séamus Coleman}}
+* [http://www.evertonfc.com/players/s/sc/seamus-coleman Séamus Coleman profile] at the [[Everton F.C.]] website
+* [http://www.fai.ie/ireland/player/1909700 Séamus Coleman profile] at the [[Football Association of Ireland]]
+* {{Soccerbase}}
+
+{{s-start}}
+{{s-sports}}
+{{s-bef|before=[[Robbie Keane]]}}
+{{s-ttl|title=[[Republic of Ireland national football team|Republic of Ireland]] captain|years=2016–present}}
+{{s-inc}}
+{{s-end}}
+
+{{Navboxes colour
+|title=Awards
+|bg=gold
+|fg=navy
+|list1=
+{{Everton F.C. Player of the Year}}
+{{FAI Under 21 International Player of the Year}}
+{{2013–14 Premier League PFA Team of the Year}}
+}}
+{{Republic of Ireland squad UEFA Euro 2016}}
+{{Everton F.C. squad}}
+
+{{DEFAULTSORT:Coleman, Seamus}}
+[[Category:1988 births]]
+[[Category:Association football defenders]]
+[[Category:Association footballers from County Donegal]]
+[[Category:Blackpool F.C. players]]
+[[Category:English Football League players]]
+[[Category:Everton F.C. players]]
+[[Category:Expatriate footballers in England]]
+[[Category:Gaelic football backs]]
+[[Category:Gaelic footballers who switched code]]
+[[Category:Killybegs Gaelic footballers]]
+[[Category:League of Ireland players]]
+[[Category:Living people]]
+[[Category:Premier League players]]
+[[Category:Republic of Ireland association footballers]]
+[[Category:Republic of Ireland expatriate association footballers]]
+[[Category:Republic of Ireland futsal players]]
+[[Category:Republic of Ireland under-21 international footballers]]
+[[Category:Republic of Ireland under-23 international footballers]]
+[[Category:Republic of Ireland international footballers]]
+[[Category:Sligo Rovers F.C. players]]
+[[Category:St Catherine's F.C. players]]
+[[Category:UEFA Euro 2016 players]]</text>
+      <sha1>jznnfjtspnx1holh9oidfrq3a9psw0i</sha1>
+    </revision>
+  </page>
+</mediawiki>

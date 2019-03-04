@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Danny Ings</title>
+    <ns>0</ns>
+    <id>24715453</id>
+    <revision>
+      <id>885491214</id>
+      <parentid>885491144</parentid>
+      <timestamp>2019-02-28T10:27:53Z</timestamp>
+      <contributor>
+        <username>David Biddulph</username>
+        <id>399540</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/77.38.16.202|77.38.16.202]] ([[User talk:77.38.16.202|talk]]) to last revision by Kind Tennis Fan ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="44081">{{EngvarB|date=January 2019}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox football biography
+| name                = Danny Ings
+| image               = Danny Ings Liverpool.jpg
+| image_size          = 200
+| caption             = Ings lining up for [[Liverpool F.C.|Liverpool]] in 2015
+| fullname            = Daniel William John Ings&lt;ref&gt;{{Hugman|23516|accessdate=25 May 2015}}&lt;/ref&gt;
+| birth_date          = {{birth date and age|1992|7|23|df=y}}&lt;ref name="Burnley FC Player Profiles: Danny Ings"&gt;{{cite web |title=Burnley FC player profiles: Danny Ings |url=http://www.burnleyfootballclub.com/team/player-profile/danny-ings/10 |publisher=Burnley F.C. |accessdate=25 May 2015 |archiveurl=https://web.archive.org/web/20150525131020/http://www.burnleyfootballclub.com/team/player-profile/danny-ings/10 |archivedate=25 May 2015}}&lt;/ref&gt;
+| birth_place         = [[Winchester]], England
+| height              = {{convert|1.78|m|order=flip}}&lt;ref&gt;{{cite web |url=https://uk.soccerway.com/players/daniel-william-ings/139523/ |title=D. Ings: Summary |website=Soccerway |publisher=Perform Group |accessdate=8 January 2019}}&lt;/ref&gt;
+| position            = [[Forward (association football)|Forward]]
+| currentclub         = [[Southampton F.C.|Southampton]]&lt;br /&gt;(on loan from [[Liverpool F.C.|Liverpool]])
+| clubnumber          = 9
+| youthyears1         = {{0|0000}}–2009
+| youthclubs1         = [[AFC Bournemouth]]
+| years1              = 2009–2011
+| clubs1              = [[AFC Bournemouth]]
+| caps1               = 27
+| goals1              = 7
+| years2              = 2010
+| clubs2              = → [[Dorchester Town F.C.|Dorchester Town]] (loan)
+| caps2               = 9
+| goals2              = 4
+| years3              = 2011–2015
+| clubs3              = [[Burnley F.C.|Burnley]]
+| caps3               = 122
+| goals3              = 38
+| years4              = 2015–
+| clubs4              = [[Liverpool F.C.|Liverpool]]
+| caps4               = 14
+| goals4              = 3
+| years5              = 2018–
+| clubs5              = → [[Southampton F.C.|Southampton]] (loan)
+| caps5               = 18
+| goals5              = 7
+| nationalyears1      = 2013–2015
+| nationalteam1       = [[England national under-21 football team|England U21]]
+| nationalcaps1       = 13
+| nationalgoals1      = 4
+| nationalyears2      = 2015–
+| nationalteam2       = [[England national football team|England]]
+| nationalcaps2       = 1
+| nationalgoals2      = 0
+| club-update         = 09:07, 3 February 2019 (UTC)
+| nationalteam-update = 23:58, 8 January 2019 (UTC)
+}}
+'''Daniel William John Ings''' (born 23 July 1992) is an English professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Southampton F.C.|Southampton]], on [[Loan (sports)|loan]] from fellow {{English football updater|Liverpoo}} club [[Liverpool F.C.|Liverpool]], and the [[England national football team|England national team]].
+
+Ings started his career in the youth team of [[Southampton F.C.|Southampton]] but was released as a schoolboy. He subsequently joined [[AFC Bournemouth]], progressing through their youth system, while also spending time at [[Dorchester Town F.C.|Dorchester Town]] on loan. In 2011 Ings joined [[Burnley F.C.|Burnley]] with whom he won the [[2013–14 Football League Championship|2013–14 Championship]] Player of the Year, and helped them achieve promotion to the Premier League. Following Burnley's relegation, and the expiry of his contract with the club, Ings moved to Liverpool in the summer of 2015, but his first season at [[Anfield]] was ended after two months due to injury. His second season with Liverpool was also mired by injury, with Ings only making two League Cup appearances throughout the 2016–17 season. Ings joined Southampton on loan in August 2018, with an obligation to buy at the end of the season.
+
+Formerly an [[England national under-21 football team|under-21 international]], Ings made his senior debut for England in October 2015.
+
+==Club career==
+===AFC Bournemouth===
+Ings was born in [[Winchester]], Hampshire and grew up in [[Netley]], Hampshire.&lt;ref name="Burnley FC Player Profiles: Danny Ings" /&gt; As a child he attended Netley Abbey Primary School and [[Hamble School|Hamble Community Sports College]]. Ings dreamed of playing for local club Southampton, but was rejected for being too small.&lt;ref name=":0" /&gt; He signed for [[Southampton F.C.|Southampton]] from Netley Central Sports, before being released as a school boy.&lt;ref name="Cherries offers"&gt;{{cite news |url=http://www.bournemouthecho.co.uk/sport/9141445.Cherries__Boss_Lee_offers_Ings_brand_new_contract/ |newspaper=Southern Daily Echo |location=Southampton |first=Neil |last=Perrett |title=Cherries: Boss Lee offers Ings brand new contract |date=15 July 2011 |accessdate=14 September 2012}}&lt;/ref&gt; After his release, Ings played for [[Southampton|Itchen Tyro]]. He subsequently signed a two-year apprentice contract with [[AFC Bournemouth]] in May 2008, having progressed through the club's Centre of Excellence while he was still at secondary school at Hamble Community Sports College.&lt;ref name="New intake for coach Joe"&gt;{{cite news |url=http://www.bournemouthecho.co.uk/sport/2268488.new_intake_for_coach_joe/ |newspaper=Southern Daily Echo |location=Southampton |first=Ian |last=Wadley |title=New intake for coach Joe |date=14 May 2008 |accessdate=16 October 2009}}&lt;/ref&gt; He had also previously had experience playing for the reserve team.&lt;ref name="New intake for coach Joe"/&gt; He made his professional debut for Bournemouth on 6 October 2009, in a 2–1 away defeat to [[Northampton Town F.C.|Northampton Town]] in the [[EFL Trophy|Football League Trophy]], replacing [[Jason Tindall]] in the second half as a [[Substitute (association football)|substitute]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/8284875.stm |publisher=BBC Sport |title=Northampton 2–1 Bournemouth |date=6 October 2009 |accessdate=16 October 2009}}&lt;/ref&gt; His second season in the youth team was blighted by a long-term abdominal injury, which restricted his playing time.&lt;ref&gt;{{cite news |url=http://www.bournemouthecho.co.uk/sport/8828804.Cherries__Hot_shot_Ings_can_only_get_better/ |newspaper=Southern Daily Echo |location=Southampton |first=Ian |last=Wadley |title=Cherries: Hot-shot Ings can only get better |date=3 February 2011 |accessdate=14 September 2012}}&lt;/ref&gt; He remained with the youth team until the summer of 2010, when he signed a short-term three-month contract.&lt;ref&gt;{{cite news |url=http://www.bournemouthecho.co.uk/sport/8711429.Cherries__Howe_has_high_hopes_for_star_Ings/?action=complain&amp;cid=8964719 |newspaper=Southern Daily Echo |location=Southampton |first=Ian |last=Wadley |title=Cherries: Howe has high hopes for star Ings |date=1 December 2010 |accessdate=14 September 2012}}&lt;/ref&gt; He extended his contract in September 2010, until the end of the 2010–11 campaign.&lt;ref name="Cherries offers"/&gt;
+
+In September 2010, he was sent on an initial one-month [[Loan (sports)|loan]] to [[National League South|Conference South]] club [[Dorchester Town F.C.|Dorchester Town]].&lt;ref &gt;{{cite web |url=http://www.dorchestertownfc.co.uk/news/2010/september/11-1.shtml |publisher=Dorchester Town F.C. |first=Adan |last=Summers |title=Ings and out for Magpies |date=11 September 2010 |accessdate=14 September 2012 |archiveurl=https://archive.is/20130420101900/http://www.dorchestertownfc.co.uk/news/2010/september/11-1.shtml |archivedate=20 April 2013}}&lt;/ref&gt; His debut for the Magpies came on 11 September 2010, scoring the equaliser in a 2–1 home defeat to [[Ebbsfleet United F.C.|Ebbsfleet United]].&lt;ref 
+&gt;{{cite web |url=http://www.dorchestertownfc.co.uk/season/201011/reports/ebbsfleet-h-bsbs.shtml |publisher=Dorchester Town F.C. |first=Ky |last=Capel |title=Ebbing away |date=11 September 2010 |accessdate=14 September 2012 |archiveurl=https://archive.is/20130420043611/http://www.dorchestertownfc.co.uk/season/201011/reports/ebbsfleet-h-bsbs.shtml |archivedate=20 April 2013}}&lt;/ref&gt; His second goal for Dorchester came on 24 September, scoring a penalty in a 4–1 win over [[Mangotsfield United F.C.|Mangotsfield United]] in the [[FA Cup]].&lt;ref &gt;{{cite web |url=http://www.dorchestertownfc.co.uk/season/201011/reports/mangotsfield-a-fac.shtml |publisher=Dorchester Town F.C. |title=Mangoes crushed by Magpies |date=25 September 2010 |accessdate=14 September 2012 |archiveurl=https://archive.is/20130420094120/http://www.dorchestertownfc.co.uk/season/201011/reports/mangotsfield-a-fac.shtml |archivedate=20 April 2013}}&lt;/ref&gt; On 6 October, his loan was extended for a further month.&lt;ref&gt;{{cite web |url=http://www.dorchestertownfc.co.uk/news/2010/october/06-1.shtml |publisher=Dorchester Town F.C. |first=Ky |last=Capel |title=Loanee Danny extends Magpies stay |date=6 October 2010 |accessdate=14 September 2012 |archiveurl=https://archive.is/20130420024801/http://www.dorchestertownfc.co.uk/news/2010/october/06-1.shtml |archivedate=20 April 2013}}&lt;/ref&gt; His next goal came in a 4–1 defeat to [[Havant &amp; Waterlooville F.C.|Havant &amp; Waterlooville]] as the Magpies were knocked out of the FA Cup.&lt;ref &gt;{{cite web |url=http://www.dorchestertownfc.co.uk/season/201011/reports/havant-a-fac.shtml |publisher=Dorchester Town F.C. |first=Ky |last=Capel |title=Magpies' cup dream is over |date=9 October 2010 |accessdate=14 September 2012 |archiveurl=https://archive.is/20130420075356/http://www.dorchestertownfc.co.uk/season/201011/reports/havant-a-fac.shtml |archivedate=20 April 2013}}&lt;/ref&gt; On 16 October, he scored the second in a 2–0 league win over [[Lewes F.C.|Lewes]], after coming on as a late substitute for Giuseppe Sole.&lt;ref &gt;{{cite web |url=http://www.dorchestertownfc.co.uk/season/201011/reports/lewes-a-bsbs.shtml |publisher=Dorchester Town F.C. |first=Ky |last=Capel |title=Loan duo strike for Magpies |date=16 October 2010 |accessdate=14 September 2012 |archiveurl=https://archive.is/20130420032857/http://www.dorchestertownfc.co.uk/season/201011/reports/lewes-a-bsbs.shtml |archivedate=20 April 2013}}&lt;/ref&gt; He got his fifth goal in a 2–1 away win over [[Staines Town F.C.|Staines Town]], scoring the opener.&lt;ref &gt;{{cite web |url=http://www.dorchestertownfc.co.uk/season/201011/reports/staines-a-bsbs.shtml |publisher=Dorchester Town F.C. |first=Ky |last=Capel |title=Moss earns treble for Magpies |date=30 October 2010 |accessdate=14 September 2012 |archiveurl=https://archive.is/20130420005635/http://www.dorchestertownfc.co.uk/season/201011/reports/staines-a-bsbs.shtml |archivedate=20 April 2013}}&lt;/ref&gt; His first goal in November came in a 2–1 home defeat to [[Maidenhead United F.C.|Maidenhead United]], which ended an unbeaten run of six matches.&lt;ref &gt;{{cite web |url=http://www.dorchestertownfc.co.uk/season/201011/reports/maidenhead-h-bsbs.shtml |publisher=Dorchester Town F.C. |first=Ky |last=Capel |title=Magpies' run ended |date=9 November 2010 |accessdate=14 September 2012 |archiveurl=https://archive.is/20130420004016/http://www.dorchestertownfc.co.uk/season/201011/reports/maidenhead-h-bsbs.shtml |archivedate=20 April 2013}}&lt;/ref&gt; On 12 November 2010, his loan was extended for a third time for an additional month.&lt;ref&gt;{{cite web |url=http://www.dorchestertownfc.co.uk/news/2010/november/12-1.shtml |publisher=Dorchester Town F.C. |first=Ky |last=Capel |title=Danny boy delight for Magpies |date=12 November 2010 |accessdate=14 September 2012 |archiveurl=https://archive.is/20130420002514/http://www.dorchestertownfc.co.uk/news/2010/november/12-1.shtml |archivedate=20 April 2013}}&lt;/ref&gt; He scored the second in a 3–1 win over [[Weston-super-Mare A.F.C.|Weston-super-Mare]] in the [[FA Trophy]] to help them progress to the next round.&lt;ref &gt;{{cite web |url=http://www.dorchestertownfc.co.uk/season/201011/reports/weston-a-fat.shtml |publisher=Dorchester Town F.C. |first=Ky |last=Capel |title=Away-day joy earns £4,000 for Magpies |date=20 November 2010 |accessdate=14 September 2012 |archiveurl=https://archive.is/20130422042120/http://www.dorchestertownfc.co.uk/season/201011/reports/weston-a-fat.shtml |archivedate=22 April 2013}}&lt;/ref&gt; On 23 November, his spell at Dorchester was cut short as he was recalled from his loan by Bournemouth due to an injury crisis at the club.&lt;ref &gt;{{cite web |url=http://www.dorchestertownfc.co.uk/news/2010/november/23-1.shtml |publisher=Dorchester Town F.C. |first=Ky |last=Capel |title=Danny departs Magpies |date=23 November 2010 |accessdate=14 September 2012 |archiveurl=https://archive.is/20130420090601/http://www.dorchestertownfc.co.uk/news/2010/november/23-1.shtml |archivedate=20 April 2013}}&lt;/ref&gt;
+
+On 30 November, he signed a new contract extension which lasted until 2012.&lt;ref &gt;{{cite news |url=http://www.bournemouthecho.co.uk/sport/8711361.Cherries__Ings_signs_contract_extension/ |newspaper=Southern Daily Echo |location=Southampton |first=Neil |last=Perrett |title=Cherries: Ings signs contract extension |date=30 November 2010 |accessdate=14 September 2012}}&lt;/ref&gt; He made his league debut and first start for Bournemouth on 28 December 2010, in a 2–0 away defeat to [[Milton Keynes Dons F.C.|Milton Keynes Dons]] in [[EFL League One|League One]], where he was substituted off in the first half for [[Steve Fletcher]].&lt;ref &gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_2/9304980.stm |publisher=BBC Sport |title=MK Dons 2–0 Bournemouth |date=28 December 2010 |accessdate=14 September 2012}}&lt;/ref&gt; He started to become a first-team regular and scored his first professional goal against [[Swindon Town F.C.|Swindon Town]] on 1 February 2011, in a 3–2 win at [[Dean Court]].&lt;ref &gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_2/9377131.stm |publisher=BBC Sport |title=Bournemouth 3–2 Swindon |date=1 February 2011 |accessdate=14 September 2012}}&lt;/ref&gt; His form saw him rewarded with a new contract extension, lasting until 2013.&lt;ref name="Cherries offers"/&gt; On 26 February 2011, he scored a header to equalise in 2–1 win away at [[Dagenham &amp; Redbridge F.C.|Dagenham &amp; Redbridge]] in the league.&lt;ref &gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_2/9401900.stm |publisher=BBC Sport |title=Dag &amp; Red 1–2 Bournemouth |date=26 February 2011 |accessdate=14 September 2012}}&lt;/ref&gt; On 1 April he added to his tally with a goal against [[Peterborough United F.C.|Peterborough United]] in a 3–3 draw.&lt;ref &gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_2/9436462.stm |publisher=BBC Sport |title=Peterborough 3–3 Bournemouth |date=1 April 2011 |accessdate=14 September 2012}}&lt;/ref&gt; He went through a rich vein of goalscoring from in April, scoring four goals in three matches. He scored an overhead kick to equalise in the last minute against [[Tranmere Rovers F.C.|Tranmere Rovers]], however, the Cherries went on to lose the match 2–1.&lt;ref &gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/12945348 |publisher=BBC Sport |title=Bournemouth 1–2 Tranmere |date=9 April 2011 |accessdate=14 September 2012}}&lt;/ref&gt; He also scored in a 2–0 away victory over [[Notts County F.C.|Notts County]].&lt;ref &gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/13022988 |publisher=BBC Sport |title=Notts County 0–2 Bournemouth |date=16 April 2011 |accessdate=14 September 2012}}&lt;/ref&gt; He scored his first brace in a 2–2 draw with [[Yeovil Town F.C.|Yeovil Town]], including one penalty.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/13102925 |publisher=BBC Sport |title=Yeovil 2–2 Bournemouth |date=23 April 2011 |accessdate=14 September 2012}}&lt;/ref&gt; His final goal for Bournemouth came in the last match of the season, in the play-off semi-final defeat to [[Huddersfield Town A.F.C.|Huddersfield Town]], as Bournemouth were knocked out on penalties.&lt;ref &gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/13356811 |publisher=BBC Sport |title=Huddersfield 3–3 Bournemouth |date=18 May 2011 |accessdate=14 September 2012}}&lt;/ref&gt;
+
+In the summer of 2011, he was linked with reported moves away from Bournemouth with [[Celtic F.C.|Celtic]], [[Liverpool F.C.|Liverpool]] and [[Newcastle United F.C.|Newcastle United]].&lt;ref name="Cherries offers"/&gt; [[Premier League]] club [[Fulham F.C.|Fulham]] also had a £400,000 bid rejected by the club.&lt;ref name="Cherries offers"/&gt; In July 2011, he was rewarded with his fifth contract in twelve months, improving his deal to be one of the top earners at the club.&lt;ref name="Cherries offers"/&gt; He remained at the club through pre-season and started in the first match of the season in a 3–0 away defeat to [[Charlton Athletic F.C.|Charlton Athletic]]. It proved to be his final appearance for the club.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/14351895 |publisher=BBC Sport |title=Charlton 3–0 Bournemouth |date=6 August 2011 |accessdate=14 September 2012}}&lt;/ref&gt;
+
+===Burnley===
+[[File:Danny Ings.jpg|thumb|upright|Ings playing for [[Burnley F.C.|Burnley]] in 2012]]
+
+On 15 August 2011, Ings signed for [[EFL Championship|Championship]] club [[Burnley F.C.|Burnley]] for an undisclosed fee believed to be in the region of £1&amp;nbsp;million, on a four-year contract.&lt;ref &gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/b/burnley/9564859.stm |publisher=BBC Sport |title=Burnley sign Bournemouth striker Danny Ings |date=15 August 2011 |accessdate=14 September 2012}}&lt;/ref&gt; He rejoined former Bournemouth manager [[Eddie Howe]] who had made the same move eight months earlier.
+
+He made his debut on 14 February 2012, in a 2–0 win over [[Barnsley F.C.|Barnsley]] at [[Turf Moor]], where he came on as a late substitute for [[Charlie Austin]].&lt;ref &gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/b/burnley/9564859.stm |publisher=BBC Sport |title=Burnley 2–0 Barnsley |date=14 February 2012 |accessdate=14 September 2012}}&lt;/ref&gt; His first start came a month later on 10 March 2012, in a 1–1 home draw with [[Crystal Palace F.C.|Crystal Palace]] in the league.&lt;ref &gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/17243698 |publisher=BBC Sport |title=Burnley 1–1 Crystal Palace |date=10 March 2012 |accessdate=14 September 2012}}&lt;/ref&gt; His first goal for Burnley came on 31 March, in a 5–1 win against [[Portsmouth F.C.|Portsmouth]] at [[Fratton Park]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/17496929 |publisher=BBC Sport |title=Portsmouth 1–5 Burnley |date=31 March 2012 |accessdate=14 September 2012}}&lt;/ref&gt; His second goal came in the following match, where he scored the equaliser in a 3–1 defeat to [[Birmingham City F.C.|Birmingham City]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/17520522 |publisher=BBC Sport |title=Burnley 1–3 Birmingham |date=3 April 2012 |accessdate=14 September 2012}}&lt;/ref&gt; He scored his third goal of the season in the final match of the season, a 30-yard strike in a 1–1 home draw with [[Bristol City F.C.|Bristol City]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/17795497 |publisher=BBC Sport |title=Burnley 1–1 Bristol City |date=28 April 2012 |accessdate=14 September 2012}}&lt;/ref&gt;
+
+He started the [[2012–13 Burnley F.C. season|2012–13]] season as a first choice regular in pre-season following the sale of striker [[Jay Rodriguez]] to Southampton. He scored in friendly wins over [[Altrincham F.C.|Altrincham]] and [[Bury F.C.|Bury]].&lt;ref&gt;{{cite news |url=http://www.lancashiretelegraph.co.uk/sport/9208461.Howe_blow_as_Ings_needs_knee_surgery/ |newspaper=Lancashire Telegraph |location=Blackburn |first=Dan |last=Black |title=Photos: Altrincham 1, Burnley 4 |date=23 July 2012 |accessdate=14 September 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.burnleyfootballclub.com/page/LatestHeadlines/0,,10413~2859646,00.html |title=Bury 0 Burnley 1 |publisher=Burnley F.C. |date=14 August 2012 |accessdate=14 September 2012 |archiveurl=https://web.archive.org/web/20120827083518/http://www.burnleyfootballclub.com/page/LatestHeadlines/0%2C%2C10413~2859646%2C00.html |archivedate=27 August 2012}}&lt;/ref&gt; He suffered another serious knee injury in the final pre-season match, a 3–1 defeat to [[Rochdale A.F.C.|Rochdale]]. He tore the knee cartilage in the opposite knee to the previous season which resulted in surgery, keeping him out of action for up to six months.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/19242581 |publisher=BBC Sport |title=Burnley's Danny Ings faces up six months out with knee injury |date=13 August 2012 |accessdate=14 September 2012}}&lt;/ref&gt;
+
+Following the departure of top-scorer Charlie Austin to [[Queens Park Rangers F.C.|Queens Park Rangers]], Ings became the main striker ahead of the [[2013–14 Burnley F.C. season|2013–14 season]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/23533841 |title=Charlie Austin: QPR sign Burnley striker for undisclosed fee |publisher=BBC Sport |date=1 August 2013 |accessdate=1 August 2013}}&lt;/ref&gt; He put together a string of impressive performances in the Clarets' pre-season campaign and scored two goals in the opening three league matches as well as a goal in the [[EFL Cup|League Cup]] against [[York City F.C.|York City]].&lt;ref&gt;{{cite news |title=York 0–4 Burnley |url=https://www.bbc.com/sport/0/football/23499462 |publisher=BBC Sport |accessdate=8 July 2015 |date=6 August 2013}}&lt;/ref&gt; For his continued good start to the season Ings was named the [[EFL Championship Player of the Month|Championship Player of the Month]] for October.&lt;ref name=ChampionshipPOTM&gt;{{cite web |title=Ings named Player of the Month |url=http://www.football-league.co.uk/championship/news/20131108/ings-named-player-of-the-month_2293322_3528162 |publisher=The Football League |date=8 November 2013 |archiveurl=https://web.archive.org/web/20140818165322/http://www.football-league.co.uk/championship/news/20131108/ings-named-player-of-the-month_2293322_3528162 |archivedate=18 August 2014}}&lt;/ref&gt;
+
+In March 2014, Ings won [[Football League Awards#2014 Awards|Championship Player of the Year]] at the [[Football League Awards]], ahead of the two other nominees: Leeds United striker [[Ross McCormack]] and Leicester City midfielder [[Danny Drinkwater]].&lt;ref name=ChampionshipPOTY&gt;{{cite web |title=Danny Ings named Sky Bet Championship Player of the Year |url=http://www.football-league.co.uk/news/article/danny-ings-named-sky-bet-championship-player-of-the-year-1872482.aspx |publisher=The Football League |date=17 March 2014 |archiveurl=https://web.archive.org/web/20150212163636/http://www.football-league.co.uk/news/article/danny-ings-named-sky-bet-championship-player-of-the-year-1872482.aspx |archivedate=12 February 2015}}&lt;/ref&gt; He ended the [[2013–14 Football League Championship|2013–14 Championship]] season with 22 goals as Burnley finished second and gained promotion to the Premier League.&lt;ref&gt;{{Cite news |url=http://talksport.com/football/exclusive-ings-burnley-premier-league-and-his-england-hopes-140814107747 |title=Exclusive – Ings on Burnley in the Premier League and his England hopes |accessdate=1 June 2015 |work=TalkSport}}&lt;/ref&gt;
+
+On 19 August 2014, Ings made his Premier League debut in a 3–1 loss to [[Chelsea F.C.|Chelsea]] at Turf Moor.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/gallery/2014/aug/18/premier-league-burnley-chelsea-gallery-pictures |title=Premier League: Burnley v Chelsea – In pictures |date=19 August 2014 |newspaper=The Guardian |location=London}}&lt;/ref&gt; His first Premier League goal came in a 1–3 defeat to [[Everton F.C.|Everton]] on 26 October.&lt;ref&gt;{{cite news |url=http://www.thefa.com/news/england/under-21/2014/oct/danny-ings-nets-first-premier-league-goal-261014 |title=Danny Ings nets his first Premier League goal for Burnley |date=26 October 2014 |publisher=The Football Association}}&lt;/ref&gt;
+
+On 22 November 2014, Ings scored both of Burnley's goals in a 2–1 win at [[Stoke City F.C.|Stoke City]] for their first away win of the [[2014–15 Premier League|Premier League season]], his two goals coming in the space of two minutes.&lt;ref&gt;{{cite news |last1=Emons |first1=Michael |title=Stoke 1–2 Burnley |url=https://www.bbc.co.uk/sport/0/football/30065845 |accessdate=23 November 2014 |publisher=BBC Sport |date=22 November 2014}}&lt;/ref&gt; He made his 100th league appearance for Burnley in a 1–0 win against Southampton on 13 December.&lt;ref&gt;{{cite news |last1=Sanghera |first1=Mandeep |title=Burnley 1–0 Southampton |url=https://www.bbc.co.uk/sport/0/football/30357668 |accessdate=11 January 2015 |publisher=BBC Sport |date=13 December 2014}}&lt;/ref&gt;
+
+[[File:Danny Ings 2015.jpg|thumb|upright|Ings playing for Burnley in 2015]]
+
+During January and February 2015, Ings scored five goals in six Premier League matches, helping the team to achieve draws with Newcastle United and [[West Bromwich Albion F.C.|West Bromwich Albion]], and defeat Queens Park Rangers.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/0/football/31124671 |title=Man Utd 3–1 Burnley |date=11 February 2015 |publisher=BBC Sport}}&lt;/ref&gt; In May, he scored the winning goal in 1–0 victories over [[Hull City A.F.C.|Hull City]] and [[Aston Villa F.C.|Aston Villa]] respectively to end the season with 11 goals from 35 league appearances.&lt;ref&gt;{{cite web |url=http://www.burnleyfootballclub.com/team/player-profile/danny-ings/10 |title=10 Danny Ings |publisher=Burnley F.C. |archiveurl=https://web.archive.org/web/20150525131020/http://www.burnleyfootballclub.com/team/player-profile/danny-ings/10 |archivedate=25 May 2015}}&lt;/ref&gt;
+
+===Liverpool===
+On 8 June 2015, Liverpool announced that they had agreed on personal terms with Ings, subject to a medical,&lt;ref&gt;{{cite web |url=http://www.liverpoolfc.com/news/latest-news/186426-reds-agree-deal-to-sign-danny-ings |title=Reds agree deal to sign Danny Ings |publisher=Liverpool F.C. |date=8 June 2015 |accessdate=8 June 2015}}&lt;/ref&gt; as well as a developmental fee due to Burnley for players under 24, to be negotiated between two clubs or determined by a tribunal.&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/transfers/danny-ings-to-liverpool-reds-may-have-to-pay-record-8m-tribunal-fee-to-secure-free-agent-10284244.html |title=Danny Ings to Liverpool: Reds may have to pay record £8m tribunal fee to secure free agent |date=29 May 2015 |newspaper=The Independent |location=London |first=David |last=Hughes |accessdate=8 June 2015}}&lt;/ref&gt; Under tribunal the fee would be decided by the [[Professional Football Compensation Committee]].&lt;ref&gt;{{cite web |url=http://www.football-league.co.uk/regulations/20100801/appendix-5_2293633_2128224 |title=Archived copy |publisher=The Football League |accessdate=4 August 2015 |archiveurl=https://web.archive.org/web/20110512091251/http://www.football-league.co.uk/regulations/20100801/appendix-5_2293633_2128224 |archivedate=12 May 2011}}&lt;/ref&gt; On 28 April 2016, the saga was finally settled. Liverpool would pay Burnley a record fee for a tribunal hearing: £6.5 million up front, with an extra £1.5 million in player performance-related bonuses. Burnley will also receive 20% of any future fee should Liverpool sell the striker.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2016/apr/28/liverpool-burnley-danny-ings-tribunal-record |title=Liverpool must pay record £8m to Burnley for Danny Ings, tribunal rules |first=Andy |last=Hunter |date=28 April 2016 |newspaper=The Guardian |location=London}}&lt;/ref&gt;
+
+Ings made his competitive debut on 29 August 2015 in a 3–0 defeat against [[West Ham United F.C.|West Ham]] at Anfield.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/34025305 |title=Liverpool 0–3 West Ham |publisher=BBC Sport |date=29 August 2015 |accessdate=30 August 2015}}&lt;/ref&gt; He made his European debut for the club on 17 September in the [[UEFA Europa League]] group stage match against [[Girondins de Bordeaux|Bordeaux]], as a substitute for [[Divock Origi]] in a 1–1 draw.&lt;ref&gt;{{cite news |title=Liverpool manager Brendan Rodgers buoyed by young team |url=https://www.bbc.com/sport/0/football/34286275 |accessdate=18 September 2015 |publisher=BBC Sport}}&lt;/ref&gt; Three days later, he replaced [[Christian Benteke]] at half time and within three minutes scored his first Liverpool goal in a 1–1 draw against [[Norwich City F.C.|Norwich City]].&lt;ref&gt;{{cite web |last1=Jennings |first1=Patrick |title=Liverpool 1–1 Norwich City |url=https://www.bbc.com/sport/0/football/34236959 |publisher=BBC Sport |accessdate=21 September 2015 |date=20 September 2015}}&lt;/ref&gt; On 4 October 2015, he opened a draw of the same score against Everton in the [[Merseyside derby]].&lt;ref&gt;{{cite news |title=Everton 1–1 Liverpool |url=https://www.bbc.com/sport/0/football/34372497 |publisher=BBC Sport |accessdate=5 October 2015 |date=4 October 2015}}&lt;/ref&gt;
+
+On 15 October 2015, in his first training session under new manager [[Jürgen Klopp]], Ings suffered an [[anterior cruciate ligament injury]] in his left knee and was ruled out for the remainder of the season.&lt;ref&gt;{{cite news |title=Danny Ings: Liverpool striker out for season with knee injury |url=https://www.bbc.co.uk/sport/0/football/34542231 |accessdate=15 October 2015 |publisher=BBC Sport |date=15 October 2015}}&lt;/ref&gt; However, Ings returned sooner than anticipated, making a substitute appearance in the final match of the season, a 1–1 draw away to West Bromwich Albion.&lt;ref&gt;{{cite web |last1=Sport |first1=Mike Henson BBC |title=West Bromwich Albion 1–1 Liverpool |url=https://www.bbc.co.uk/sport/football/36240499 |publisher=BBC Sport |accessdate=15 May 2016}}&lt;/ref&gt; Ings began the 2016–17 season playing in the reserves to help regain fitness. On 25 October 2016, Ings sustained damage to his right knee in a League Cup match against Tottenham Hotspur that would require another spell on the sidelines of up to 9 months.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/37845825 |title=Danny Ings: Liverpool striker to miss rest of the season because of injury |date=2 November 2016 |publisher=BBC Sport}}&lt;/ref&gt; He successfully underwent surgery to repair the damage to his knee and began rehabilitation at [[Melwood]] on 9 November.&lt;ref&gt;{{cite web |url=http://www.liverpoolfc.com/news/first-team/242599-danny-ings-returns-to-melwood-to-begin-rehab |title=Danny Ings returns to Melwood to begin rehab |publisher=Liverpool F.C. |last=Shaw |first=Chris |date=9 November 2016 |accessdate=9 November 2016}}&lt;/ref&gt;
+
+On 19 September 2017, Ings made his first appearance in 11 months since the injury when he came on as a second-half substitute in the 2–0 defeat to [[Leicester City F.C.|Leicester City]] in the [[2017–18 EFL Cup|EFL Cup]].&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2017/sep/19/leicester-city-liverpool-carabao-cup-match-report |title=Islam Slimani strike seals Leicester win as Liverpool crash out of Carabao Cup |newspaper=The Guardian |location=London |date=20 September 2017 |accessdate=20 September 2017}}&lt;/ref&gt; On 21 April 2018, he scored his first goal after his return from injury in a 2–2 draw with West Brom. This was his first goal since 2015 and also his first goal under Jürgen Klopp.&lt;ref&gt;{{cite news |url=https://www.bbc.com/sport/football/43762952 |title=West Brom facing relegation despite fightback against Liverpool |publisher=BBC Sport |date=21 April 2018 |accessdate=21 April 2018}}&lt;/ref&gt;
+
+===Southampton===
+[[File:Danny Ings 2018.jpg|thumb|upright|Ings playing for [[Southampton F.C.|Southampton]] in 2018]]
+
+After struggling playing time in the 2017–18 season due to the form of attackers [[Roberto Firmino]], [[Mohamed Salah]], and [[Sadio Mané]], Ings requested a move away from Liverpool in the summer of 2018. Ings was a popular figure in the dressing room and Jurgen Klopp was reluctant to let him leave in spite of his limited appearances in the previous season.&lt;ref&gt;{{cite news |url=https://www.thetimes.co.uk/article/danny-ings-interview-at-liverpool-i-would-go-home-sit-with-my-dogs-and-feel-upset-i-moved-to-southampton-to-be-happy-tc2d89g8p |title=Danny Ings interview: At Liverpool I would go home, sit with my dogs and feel upset. I moved to Southampton to be happy |first=Paul |last=Joyce |newspaper=The Times |location=London |date=1 September 2018 |accessdate=16 December 2018}}&lt;/ref&gt; Ings joined Premier League club [[Southampton F.C.|Southampton]] on 9 August 2018 on an initial loan until the end of the season, which would become permanent on 1 July 2019,&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45137409 |title=Transfer news: Liverpool's Danny Ings joins Southampton on loan |publisher=BBC Sport |date=9 August 2018 |accessdate=9 August 2018}}&lt;/ref&gt; for a reported fee of £18&amp;nbsp;million, plus a possible further £2&amp;nbsp;million based on appearances.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2018/08/09/danny-ings-completes-20m-southampton-move/ |title=Danny Ings completes £20m Southampton move |first1=Chris |last1=Bascombe |first2=Jeremy |last2=Wilson |newspaper=The Daily Telegraph |date=9 August 2018 |accessdate=10 August 2018}}&lt;/ref&gt; On 12 August, he made his debut as a second-half substitute in a goalless draw with former club [[Burnley F.C.|Burnley]].&lt;ref&gt;{{cite news |url=https://www.eurosport.com/football/premier-league/2018-2019/danny-ings-makes-debut-as-saints-draw-at-home-to-burnley_sto6886016/story.shtml |title=Danny Ings makes debut as Saints draw at home to Burnley |publisher=EuroSport |date=12 August 2018 |accessdate=6 September 2018}}&lt;/ref&gt; He then scored on his first start five days later in a 2–1 defeat to [[Everton F.C.|Everton]] before netting the opening goal in Southampton's 2–0 win over [[Crystal Palace F.C.|Crystal Palace]] at the start of the following month, helping the club to their first win of the campaign.&lt;ref&gt;{{cite news |url=https://southamptonfc.com/news/2018-08-18/match-report-everton-vs-saints-premier-league-1819 |title=Saints beaten despite Ings's first goal |publisher=Southampton FC |date=18 August 2018 |accessdate=6 September 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2018/sep/01/crystal-palace-southampton-premier-league-match-report |title=Danny Ings stuns Crystal Palace as Southampton claim first league win |first=Paul |last=MacInnes |newspaper=The Guardian |location=London |date=1 September 2018 |accessdate=6 September 2018}}&lt;/ref&gt;
+
+==International career==
+On 3 October 2013, Ings received his first international call-up to the [[England national under-21 football team|England national under-21 team]] by manager [[Gareth Southgate]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/24386221 "Liverpool winger Raheem Sterling in England Under-21 squad"] BBC Sport. 3 October 2013. Retrieved 20 November 2013.&lt;/ref&gt; He made his debut a week later as a substitute in a 4–0 win away to [[San Marino national under-21 football team|San Marino]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/24484759 "San Marino U21s 0–4 England U21s: Harry Kane nets hat-trick"] BBC Sport. 10 October 2013. Retrieved 20 November 2013.&lt;/ref&gt; He won his second [[Cap (sport)|cap]] in the reverse fixture on 19 November, and scored twice as England won 9–0 against San Marino at the [[New Meadow]].&lt;ref&gt;[https://www.bbc.co.uk/sport/0/football/24961625 "England U21 9–0 San Marino"] BBC Sport. 19 November 2013. Retrieved 20 November 2013.&lt;/ref&gt; He earned 13 caps and scored four goals for the under-21s from 2013 to 2015.&lt;ref&gt;{{cite web |title=Danny Ings |url=http://www.thefa.com/england/all-teams/players/i/danny-ings |publisher=The Football Association |accessdate=25 June 2015}}&lt;/ref&gt;
+
+On 1 October 2015, Ings received his first international call-up to the full [[England national football team|England national team]] from manager [[Roy Hodgson]], for the final [[UEFA Euro 2016 qualifying]] matches against [[Estonia national football team|Estonia]] and [[Lithuania national football team|Lithuania]].&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2015/oct/01/england-dele-alli-danny-ings-euro-2016-qualifiers-estonia-lithuania |title=England call up Dele Alli and Danny Ings for final two Euro 2016 qualifiers |newspaper=The Guardian |location=London |accessdate=27 April 2016}}&lt;/ref&gt; He made his debut in the latter match on 12 October, replacing [[Harry Kane]] after 59 minutes of an eventual 3–0 win in [[Vilnius]].&lt;ref&gt;{{cite web |last1=McNulty |first1=Phil |title=Lithuania 0 England 3 |url=https://www.bbc.co.uk/sport/0/football/33544077 |publisher=BBC Sport |accessdate=13 October 2015 |date=12 October 2015}}&lt;/ref&gt;
+
+==Personal life==
+Off the field, Ings has gained a reputation for charitable acts.&lt;ref&gt;{{cite news |title=Burnley striker Danny shows his car-Ing side |url=http://www.lancashiretelegraph.co.uk/news/11252635.Burnley_striker_Danny_shows_his_car_Ing_side/ |accessdate=8 July 2015 |newspaper=Lancashire Telegraph |location=Blackburn |date=3 June 2014}}&lt;/ref&gt; In November 2014, he launched and funded the Danny Ings Disability Sport Project to provide football coaching to children with disabilities and learning difficulties after being inspired to do so by a young disabled Burnley fan.&lt;ref&gt;{{cite web |title=Ings shows charitable side launching disability project |url=http://www.thefa.com/news/england/under-21/2014/nov/danny-ings-disabled-sport-project-launch-251114 |publisher=The Football Association |accessdate=8 July 2015 |date=25 November 2014}}&lt;/ref&gt; His father Shayne Ings initially played as a [[Midfielder#Winger|winger]] and then as a [[Defender (association football)|full back]] for [[Hampshire]]-based Netley Central Sports. He still works as a self-employed [[bricklayer]] and the family still live in the same house in Netley.&lt;ref name=":0"&gt;{{Cite web |url=http://www.dailyecho.co.uk/sport/11664945.Burnley_striker_and_ex_Saint_Danny_Ings_takes_aim_at_hometown_club/?ref=mry |title=Burnley striker and ex-Saint Danny Ings takes aim at hometown club |newspaper=Southern Daily Echo |location=Southampton |accessdate=26 June 2016}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|match played 2 February 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[AFC Bournemouth]]
+|[[2009–10 A.F.C. Bournemouth season|2009–10]]&lt;ref &gt;{{soccerbase season|52481|2009|accessdate=8 January 2019}}&lt;/ref&gt;
+|[[EFL League Two|League Two]]
+|0||0||0||0||0||0||1{{efn|Appearance in [[Football League Trophy]]}}||0||1||0
+|-
+|[[2010–11 A.F.C. Bournemouth season|2010–11]]&lt;ref &gt;{{soccerbase season|52481|2010|accessdate=8 January 2019}}&lt;/ref&gt;
+|[[EFL League One|League One]]
+|26||7||colspan=2|—||0||0||2{{efn|Appearances in [[EFL League One play-offs|League One play-offs]]}}||1||28||8
+|-
+|[[2011–12 A.F.C. Bournemouth season|2011–12]]&lt;ref name=sb1112/&gt;
+|League One
+|1||0||colspan=2|—||0||0||colspan=2|—||1||0
+|-
+!colspan=2|Total
+!27||7||0||0||0||0||3||1||30||8
+|-
+|[[Dorchester Town F.C.|Dorchester Town]] (loan)
+|[[2010–11 Football Conference#Conference South|2010–11]]&lt;ref &gt;{{cite web |title=Danny Ings Player Profile |url=http://www.dorchestertownfc.co.uk/squad/201011/ings_danny.shtml |publisher=Dorchester Town F.C. |archiveurl=https://web.archive.org/web/20120326015008/http://www.dorchestertownfc.co.uk/squad/201011/ings_danny.shtml |archivedate=26 March 2012}}&lt;/ref&gt;
+|[[National League South|Conference South]]
+|9||4||2||2||colspan=2|—||2{{efn|One appearance and one goal in [[FA Trophy]], one appearance in [[Dorset Senior Cup]]}}||1||13||7
+|-
+|rowspan=5|[[Burnley F.C.|Burnley]]
+|[[2011–12 Burnley F.C. season|2011–12]]&lt;ref name=sb1112&gt;{{soccerbase season|52481|2011|accessdate=8 January 2019}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|15||3||0||0||0||0||colspan=2|—||15||3
+|-
+|[[2012–13 Burnley F.C. season|2012–13]]&lt;ref &gt;{{soccerbase season|52481|2012|accessdate=8 January 2019}}&lt;/ref&gt;
+|Championship
+|32||3||1||0||0||0||colspan=2|—||33||3
+|-
+|[[2013–14 Burnley F.C. season|2013–14]]&lt;ref &gt;{{soccerbase season|52481|2013|accessdate=8 January 2019}}&lt;/ref&gt;
+|Championship
+|40||21||1||1||4||4||colspan=2|—||45||26
+|-
+|[[2014–15 Burnley F.C. season|2014–15]]&lt;ref &gt;{{soccerbase season|52481|2014|accessdate=8 January 2019}}&lt;/ref&gt;
+|[[Premier League]]
+|35||11||1||0||1||0||colspan=2|—||37||11
+|-
+!colspan=2|Total
+!122||38||3||1||5||4||colspan=2|—||130||43
+|-
+|rowspan=4|[[Liverpool F.C.|Liverpool]]
+|[[2015–16 Liverpool F.C. season|2015–16]]&lt;ref &gt;{{soccerbase season|52481|2015|accessdate=8 January 2019}}&lt;/ref&gt;
+|Premier League
+|6||2||0||0||1||1||2{{efn|Appearances in [[UEFA Europa League]]}}||0||9||3
+|-
+|[[2016–17 Liverpool F.C. season|2016–17]]&lt;ref &gt;{{soccerbase season|52481|2016|accessdate=8 January 2019}}&lt;/ref&gt;
+|Premier League
+|0||0||0||0||2||0||colspan=2|—||2||0
+|-
+|[[2017–18 Liverpool F.C. season|2017–18]]&lt;ref&gt;{{soccerbase season|52481|2017|accessdate=8 January 2019}}&lt;/ref&gt;
+|Premier League
+|8||1||1||0||1||0||4{{efn|Appearances in [[UEFA Champions League]]}}||0||14||1
+|-
+!colspan=2|Total
+!14||3||1||0||4||1||6||0||25||4
+|-
+|[[Southampton F.C.|Southampton]] (loan)
+|[[2018–19 Southampton F.C. season|2018–19]]&lt;ref &gt;{{soccerbase season|52481|2018|accessdate=3 February 2019}}&lt;/ref&gt;
+|Premier League
+|18||7||0||0||1||1||colspan=2|—||19||8
+|-
+!colspan=3|Career total
+!190||59||6||3||10||6||11||2||217||70
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 12 October 2015}}&lt;ref&gt;{{NFT player |id=60893 |name=Ings, Danny |accessdate=8 January 2019}}&lt;/ref&gt;
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|[[England national football team|England]]
+|2015||1||0
+|-
+!colspan=2|Total||1||0
+|}
+
+==Honours==
+'''Burnley'''
+*[[Football League Championship]] runner-up: [[2013–14 Football League Championship|2013–14]]&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Sky Sports Football Yearbook 2014–2015 |year=2014 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-1251-1 |pages=90–91}}&lt;/ref&gt;
+
+'''Individual'''
+*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Championship 5|2013–14 Championship]]&lt;ref&gt;{{cite news |title=Luis Suarez: Liverpool striker wins PFA Player of the Year award |url=https://www.bbc.co.uk/sport/football/27180793 |publisher=BBC Sport |date=28 April 2014 |accessdate=10 December 2017}}&lt;/ref&gt;
+*[[Football League Championship Player of the Month]]: [[2013–14 Football League Championship#Monthly awards|October 2013]]&lt;ref name=ChampionshipPOTM/&gt;
+*Football League Championship Player of the Year: [[Football League Awards#2014 Awards|2013–14]]&lt;ref name=ChampionshipPOTY/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.liverpoolfc.com/team/first-team/player/danny-ings Profile] at the Liverpool F.C. website
+*[https://southamptonfc.com/first-team/danny-ings Profile] at the Southampton F.C. website
+*{{Soccerbase}}
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{Football League Championship Player of the Year}}
+{{2013–14 Football League Championship PFA Team of the Year}}
+}}
+&lt;!--{{Liverpool F.C. squad}}--&gt;
+{{Southampton F.C. squad}}
+
+{{DEFAULTSORT:Ings, Danny}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Winchester]]
+[[Category:English footballers]]
+[[Category:England under-21 international footballers]]
+[[Category:England international footballers]]
+[[Category:Association football forwards]]
+[[Category:Netley Central Sports F.C. players]]
+[[Category:A.F.C. Bournemouth players]]
+[[Category:Dorchester Town F.C. players]]
+[[Category:Burnley F.C. players]]
+[[Category:Liverpool F.C. players]]
+[[Category:Southampton F.C. players]]
+[[Category:National League (English football) players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]</text>
+      <sha1>nx6oi5ea7sgwdcj5gx5j1bujoz2zi3m</sha1>
+    </revision>
+  </page>
+</mediawiki>

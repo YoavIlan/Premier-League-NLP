@@ -1,0 +1,298 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rajiv van La Parra</title>
+    <ns>0</ns>
+    <id>18539029</id>
+    <revision>
+      <id>883777964</id>
+      <parentid>883002164</parentid>
+      <timestamp>2019-02-17T15:50:41Z</timestamp>
+      <contributor>
+        <ip>88.109.103.33</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14027">{{Use dmy dates|date=September 2017}}
+{{Infobox football biography
+| name = Rajiv van La Parra
+| image = Rajiv vlp.jpg
+| image_size = 200
+| caption = Van La Parra playing for [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in 2015
+| fullname = Rajiv Ramon van La Parra&lt;ref&gt;{{cite web |title=List of players under written contract registered between 01/06/2016 and 30/06/2016 |url=https://www.thefa.com/~/media/files/thefaportal/governance-docs/registrations/player-registration---june-2016.ashx |publisher=The Football Association |format=PDF |page=33 |accessdate=11 November 2016}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1991|6|4|df=y}}
+| birth_place = [[Rotterdam]], Netherlands
+| height = 1.81 m
+| position = [[Midfielder#Winger|Winger]]
+| currentclub = [[Middlesbrough F.C.|Middlesbrough]] (on loan from [[Huddersfield Town A.F.C.|Huddersfield Town]])
+| clubnumber = 29
+| youthyears1 = 1999–2008
+| youthclubs1 = [[Feyenoord]]
+| years1 = 2008–2011
+| clubs1 = [[Stade Malherbe Caen|Caen B]]
+| caps1 = 13
+| goals1 = 1
+| years2 = 2008–2011
+| clubs2 = [[Stade Malherbe Caen|Caen]]
+| caps2 = 16
+| goals2 = 1
+| years3 = 2011–2014
+| clubs3 = [[SC Heerenveen|Heerenveen]]
+| caps3 = 82
+| goals3 = 14
+| years4 = 2014–2016
+| clubs4 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| caps4 = 53
+| goals4 = 1
+| years5 = 2015
+| clubs5 = → [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] (loan)
+| caps5 = 6
+| goals5 = 2
+| years6 = 2016
+| clubs6 = → [[Huddersfield Town A.F.C.|Huddersfield Town]] (loan)
+| caps6 = 8
+| goals6 = 0
+| years7 = 2016–
+| clubs7 = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| caps7 = 78
+| goals7 = 5
+| years8 = 2019–
+| clubs8 = → [[Middlesbrough F.C|Middlesbrough]] (loan)
+| caps8 = 3
+| goals8 = 0
+| nationalyears1 = 2005–2008
+| nationalteam1 = [[Netherlands national under-17 football team|Netherlands U17]]
+| nationalcaps1 = 17
+| nationalgoals1 = 0
+| nationalyears2 = 2009–2010
+| nationalteam2 = [[Netherlands national under-19 football team|Netherlands U19]]
+| nationalcaps2 = 13
+| nationalgoals2 = 1
+| nationalyears3 = 2012–2013
+| nationalteam3 = [[Netherlands national under-21 football team|Netherlands U21]]
+| nationalcaps3 = 6
+| nationalgoals3 = 0
+| club-update = 22:00, 13 February 2019 (UTC)
+| nationalteam-update = 
+}}
+'''Rajiv Ramon van La Parra''' (born 4 June 1991) is a Dutch professional [[association football|footballer]] who plays for [[Football League Championship]] club [[Middlesbrough F.C|Middlesbrough]] on loan from [[Huddersfield Town A.F.C.|Huddersfield Town]], predominantly as a [[Midfielder#Winger|winger]] but also as a [[Forward (association football)|striker]]. He has also represented [[Netherlands national under-21 football team|Netherlands U21]].
+
+Van La Parra played his first senior games in France with [[Stade Malherbe Caen|Caen]] before returning to the Netherlands in 2011 for a three-season-long stay with [[SC Heerenveen|Heerenveen]]. In June 2014, he moved to England to join [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]], who loaned him to [[Brighton &amp; Hove Albion]] and [[Huddersfield Town]] before he joined the latter in 2016.
+
+==Club career==
+===Caen===
+[[File:Rajiv-van-la-para.jpg|thumb|right|Van La Parra training with [[SM Caen|Caen]] in 2010.]]
+Van La Parra is a product of the [[Feyenoord]] youth system, but made his senior debut instead for [[Ligue 1|French Ligue 1]] club [[Stade Malherbe Caen|Caen]] on 8 November 2008, having agreed a four-year contract in June 2008.&lt;ref name="Caen"&gt;{{cite web|url=http://www.caen.maville.com/actu/actudet_-Football-Van-La-Parra-atout-jeune-et-orange-a-Caen-_spo-650285_actu.Htm|title=Van La Parra atout jeune et orange a Caen|language=French|publisher=Caen.maville.com |date=20 June 2008}}&lt;/ref&gt; He cited the potential to reach the highest level while playing in France as the reason for his transfer.&lt;ref name="Caen"/&gt;
+
+The right winger made only two appearances for Caen's first team during his first season, and the club ended the campaign being relegated. Despite this relegation, Van La Parra would make only a further eight appearances as the team won promotion back to the top flight, but did register his first senior goal; against [[En Avant de Guingamp|Guingamp]] on 5 April 2009.&lt;ref name="Footnational"&gt;{{cite web|url=http://www.foot-national.com/36-3370-81-saison-football-Van-La-Parra-Rajiv.html |title=Van La Parra |language=French|publisher=foot-national.com}}&lt;/ref&gt; During these seasons, he instead gained playing time in Caen's second team that competed in the [[Championnat de France amateur]].&lt;ref name="Footnational"/&gt;
+
+===Heerenveen===
+In summer 2011, his contract was terminated and he returned to the Netherlands in search of a new club. After an unsuccessful trial at [[AZ Alkmaar]],&lt;ref&gt;{{cite web|url=http://www.fanvanaz.nl/archives/3825|title=Rajiv de la Parra week op proef bij AZ|language=Dutch|publisher=fanvanaz.nl|date=4 July 2011}}&lt;/ref&gt; he eventually signed a one-year contract with fellow Eredivisie side [[SC Heerenveen|Heerenveen]] on 30 August 2011.&lt;ref&gt;{{cite web|url=http://www.sc-heerenveen.nl/nieuws/sc-heerenveen-contracteert-van-la-parra/10|title=sc Heerenveen contracteert Van La Parra|language=Dutch|publisher=SC Heerenveen |date=30 August 2011}}&lt;/ref&gt; After scoring six times during 26 appearances in his debut season, Heerenveen elected to take up an option in his contract for two further seasons.&lt;ref&gt;{{cite web|url=http://www.sc-heerenveen.nl/nieuws/sc-heerenveen-legt-rajiv-van-la-parra-langer-vast/10|title=sc Heerenveen legt Rajiv van La Parra langer vast|language=Dutch|publisher=SC Heerenveen |date=27 March 2012}}&lt;/ref&gt; Over these three seasons, Van La Parra made 94 appearances (including playing in the [[UEFA Europa League|Europa League]]), scoring 16 times.&lt;ref&gt;{{cite web|url=http://www.vi.nl/spelers/carriere/rajiv-van-la-parra.htm|title=Rajiv van La Parra |language=Dutch|publisher=Voetbal International}}&lt;/ref&gt;
+
+===Wolverhampton Wanderers===
+His contract from Heerenveen expired in the summer of 2014, and after rejecting a new contract,&lt;ref&gt;{{cite web|url=http://www.vi.nl/nieuws/van-la-parra-kan-verlengen-kum-moet-vertrekken-.htm|title=Van La Parra kan verlengen, Kum moet vertrekken|language=Dutch |publisher=SC Heerenveen |date=23 April 2014}}&lt;/ref&gt; on 10 June it was announced that he would move to [[Football League Championship|English Championship]] side [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]], with whom he had signed a three-year contract.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/27782113|title=Wolves sign Heerenveen winger Rajiv van La Parra|publisher=BBC Sport |date=10 June 2014}}&lt;/ref&gt; He made his debut in the first match on 10 August 2014 against [[Norwich City F.C.|Norwich City]], and was named [[man of the match]]. He scored his first goal for Wolves against [[Fulham F.C.|Fulham]] in the [[FA Cup]] on 13 January 2015.&lt;ref&gt;{{cite news
+|url=https://www.bbc.co.uk/sport/football/30691987|title=Wolves 3–3 Fulham|publisher=[[BBC Sport]]|date=13 January 2015|accessdate=29 August 2016}}&lt;/ref&gt; His first league goal came against future club [[Brighton &amp; Hove Albion]] in a 1–1 draw on 14 March 2015.&lt;ref&gt;{{cite news
+|url=https://www.bbc.co.uk/sport/football/31776093|title=Brighton 1–1 Wolves|publisher=[[BBC Sport]]|date=14 March 2015|accessdate=29 August 2016}}&lt;/ref&gt;
+
+On 26 November 2015, Van La Parra signed a loan deal with Brighton, lasting until 2 January 2016.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/34938160|title=Man Utd's Wilson &amp; Wolves' Van La Parra join Brighton on loan|publisher=BBC Sport|accessdate=26 November 2015}}&lt;/ref&gt;
+
+===Huddersfield Town===
+On 11 March 2016, after some speculation, Van La Parra signed on loan for fellow Championship side [[Huddersfield Town A.F.C.|Huddersfield Town]] for the rest of the season, with the move becoming a permanent deal in the summer, on a three-year contract. He made his debut for the Terriers in the 4–1 [[West Yorkshire derby]] win against [[Leeds United F.C.|Leeds United]] at [[Elland Road]] on 19 March, and scored his first goal in their 1–0 win over his former club Wolves at the [[Kirklees Stadium]] on 27 August.&lt;ref&gt;{{cite news
+|url=https://www.bbc.co.uk/sport/football/37138712|title=Huddersfield 1–0 Wolves|publisher=[[BBC Sport]]|date=27 August 2016|accessdate=29 August 2016}}&lt;/ref&gt;
+
+==Personal life==
+His first name Rajiv is a tribute to former [[Prime Minister of India|Indian Prime Minister]] [[Rajiv Gandhi]], the son of former prime minister [[Indira Gandhi]], assassinated in May 1991.&lt;ref name="Caen"/&gt; One of his half-brothers, [[Georginio Wijnaldum]], currently plays for [[Liverpool F.C.|Liverpool]], while another, [[Giliano Wijnaldum]], plays for [[Sparta Rotterdam]]. His cousin, [[Giovanni Drenthe]], is also a professional footballer,&lt;ref&gt;{{cite web|url=http://www.football-oranje.com/spotlight-on-georginio-wijnaldum-newcastles-new-dutch-delight/|title=Spotlight on Georginio Wijnaldum: Newcastle's new Dutch delight – Football Oranje|date=12 July 2015}}&lt;/ref&gt; while another, [[Royston Drenthe]], came out of retirement and now plays for [[Sparta Rotterdam]].
+
+==Career statistics==
+{{updated|match played 6 October 2018}}&lt;ref&gt;{{cite web|title=R. VAN LA PARRA|url=https://int.soccerway.com/players/rajiv-van-la-parra/39283/|website=Soccerway|accessdate=4 February 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|Cup
+!colspan=2|League Cup
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+|rowspan=3|[[Stade Malherbe Caen|Caen B]]
+|[[2010–11 Championnat de France amateur|2010–11]]
+|[[Championnat de France amateur|CFA]]
+|12||1||colspan=2|—||colspan=2|—||colspan=2|—||12||1
+|-
+|[[2011–12 Championnat de France amateur|2011–12]]
+|CFA
+|1||0||colspan=2|—||colspan=2|—||colspan=2|—||1||0
+|-
+!colspan=2|Total
+!13||1||colspan=2|—||colspan=2|—||colspan=2|—||3||1
+|-
+|rowspan=4|[[Stade Malherbe Caen|Caen]]
+|[[2008–09 Ligue 1|2008–09]]
+|[[Ligue 1]]
+|2||0||0||0||0||0||colspan=2|—||2||0
+|-
+|[[2009–10 Ligue 2|2009–10]]
+|[[Ligue 2]]
+|8||1||0||0||0||0||colspan=2|—||8||1
+|-
+|[[2010–11 Ligue 1|2010–11]]
+|Ligue 1
+|6||0||0||0||1||0||colspan=2|—||7||0
+|-
+!colspan=2|Total
+!16||1||0||0||1||0||colspan=2|—||17||1
+|-
+|rowspan=4|[[SC Heerenveen|Heerenveen]]
+|[[2011–12 Eredivisie|2011–12]]
+|[[Eredivisie]]
+|23||4||3||2||colspan=2|—||0||0||26||6
+|-
+|[[2012–13 Eredivisie|2012–13]]
+|Eredivisie
+|29||5||1||0||colspan=2|—||6||0||36||5
+|-
+|[[2013–14 Eredivisie|2013–14]]
+|Eredivisie
+|30||5||3||0||colspan=2|—||2||0||35||5
+|-
+!colspan=2|Total
+!82||14||7||2||colspan=2|—||8||0||97||16
+|-
+|rowspan=3|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[2014–15 Wolverhampton Wanderers F.C. season|2014–15]]
+|[[EFL Championship|Championship]]
+|40||1||1||1||0||0||0||0||41||2
+|-
+|[[2015–16 Wolverhampton Wanderers F.C. season|2015–16]]
+|Championship
+|13||0||2||0||1||0||0||0||16||0
+|-
+!colspan=2|Total
+!53||1||3||1||1||0||0||0||57||2
+|-
+|rowspan=2|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] (loan)
+|[[2015–16 Brighton &amp; Hove Albion F.C. season|2015–16]]
+|Championship
+|6||2||0||0||colspan=2|—||0||0||6||2
+|-
+!colspan=2|Total
+!6||2||0||0||colspan=2|—||0||0||6||2
+|-
+||[[Huddersfield Town A.F.C.|Huddersfield Town]] (loan)
+|[[2015–16 Huddersfield Town A.F.C. season|2015–16]]
+|Championship
+|8||0||colspan=2|—||colspan=2|—||0||0||8||0
+|-
+|rowspan=4|[[Huddersfield Town A.F.C.|Huddersfield Town]]
+|[[2016–17 Huddersfield Town A.F.C. season|2016–17]]
+|Championship
+|40||2||2||0||1||0||0||0||43||2
+|-
+|[[2017–18 Huddersfield Town A.F.C. season|2017–18]]
+|[[Premier League]]
+|33||4||3||2||1||0||0||0||37||6
+|-
+|[[2018–19 Huddersfield Town A.F.C. season|2018–19]]
+|[[Premier League]]
+|5||0||0||0||0||0||0||0||5||0
+|-
+!colspan=2|Total
+!86||6||5||2||2||0||0||0||93||8
+|-
+!colspan=3|Career total
+!256||25||15||5||3||0||8||0||282||30
+|}
+
+==Honours==
+'''Huddersfield Town'''
+*[[EFL Championship play-offs]]: [[2017 English Football League play-offs#Championship|2017]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39995791 |title=Huddersfield Town 0–0 Reading |first=Ian |last=Woodcock |publisher=BBC Sport |date=29 May 2017 |accessdate=26 May 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons Category}}
+*[http://www.vi.nl/spelers/carriere/rajiv-van-la-parra.htm Voetbal International profile] {{nl icon}}
+*{{Lequipe|29364}}
+*[https://web.archive.org/web/20080921163342/http://www.francefootball.fr/FF/stats/fj/FicheJoueur29364.html francefootball.fr] {{fr icon}}
+*[https://web.archive.org/web/20120921201639/http://onsoranje.nl/team-statistieken/teams/speler/25/4f8c4268-2629d580-248900 Netherlands stats] at OnsOranje
+*{{Soccerbase}}
+
+{{Middlesbrough F.C. squad}}
+
+{{DEFAULTSORT:La Parra, Rajiv Van}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Footballers from Rotterdam]]
+[[Category:Dutch footballers]]
+[[Category:Netherlands youth international footballers]]
+[[Category:Netherlands under-21 international footballers]]
+[[Category:Association football wingers]]
+[[Category:Association football forwards]]
+[[Category:Feyenoord players]]
+[[Category:SC Heerenveen players]]
+[[Category:Stade Malherbe Caen players]]
+[[Category:Dutch expatriate footballers]]
+[[Category:Expatriate footballers in France]]
+[[Category:Expatriate footballers in England]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Brighton &amp; Hove Albion F.C. players]]
+[[Category:Huddersfield Town A.F.C. players]]
+[[Category:Eredivisie players]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:Dutch expatriate sportspeople in France]]
+[[Category:Dutch expatriate sportspeople in England]]
+[[Category:Dutch people of Surinamese descent]]</text>
+      <sha1>sjccjvqmpzp1m0matgqr8z8gerh328h</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,306 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sebastian Prödl</title>
+    <ns>0</ns>
+    <id>12253254</id>
+    <revision>
+      <id>885153056</id>
+      <parentid>885153031</parentid>
+      <timestamp>2019-02-26T08:20:19Z</timestamp>
+      <contributor>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
+      </contributor>
+      <comment>/* Small fix on stats bio */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="37576">{{Use dmy dates|date=September 2017}}
+{{Infobox football biography
+| name           = Sebastian Prödl
+| image          = AUT vs. LIE 2015-10-12 (135).jpg
+| caption        = Prödl with [[Austria national football team|Austria]] in 2015
+| fullname       = Sebastian Prödl&lt;ref&gt;{{cite web |title=Squads for 2016/17 Premier League confirmed |url=https://www.premierleague.com/news/84136 |publisher=Premier League |date=1 September 2016 |accessdate=11 September 2016}}&lt;/ref&gt;
+| birth_date     = {{Birth date and age|1987|6|21|df=y}}&lt;ref name="Premier League"&gt;{{cite web |url=http://www.premierleague.com/en-gb/players/profile.overview.html/sebastian-prodl |title=Premier League Player Profile Sebastian Prödl |author=&lt;!--Staff writer(s); no by-line.--&gt; |year=2016 |publisher=Barclays Premier League |access-date=7 February 2016}}&lt;/ref&gt;
+| birth_place    = [[Graz]], Austria
+| height         = 1.94m&lt;ref name="Premier League"/&gt;
+| position       = [[Defender (association football)|Defender]]
+| currentclub    = [[Watford F.C.|Watford]]
+| clubnumber     = 5
+| youthyears1    = 1993–1997
+| youthclubs1    = SV Kirchberg
+| youthyears2    = 1997–2002
+| youthclubs2    = SV Feldbach
+| youthyears3    = 2002–2006
+| youthclubs3    = [[SK Sturm Graz|Sturm Graz]]
+| years1         = 2006–2008
+| clubs1         = [[SK Sturm Graz|Sturm Graz]]
+| caps1          = 43
+| goals1         = 4
+| years2         = 2008–2015
+| clubs2         = [[SV Werder Bremen|Werder Bremen]]
+| caps2          = 149
+| goals2         = 10
+| years3         = 2010
+| clubs3         = [[SV Werder Bremen II|Werder Bremen II]]
+| caps3          = 1
+| goals3         = 0
+| years4         = 2015–
+| clubs4         = [[Watford F.C.|Watford]]
+| caps4          = 76
+| goals4         = 3
+| nationalyears1 =
+| nationalteam1  = [[Austria national under-19 football team|Austria U19]]
+| nationalcaps1  = 5
+| nationalgoals1 = 0
+| nationalyears2 =
+| nationalteam2  = [[Austria national under-20 football team|Austria U20]]
+| nationalcaps2  = 8
+| nationalgoals2 = 1
+| nationalyears3 = 2007–
+| nationalteam3  = [[Austria national football team|Austria]]
+| nationalcaps3  = 73
+| nationalgoals3 = 4
+| pcupdate       = 08:20, 26 February 2019 (UTC)
+| ntupdate       = 16 October 2018
+}}
+'''Sebastian Prödl''' (born 21 June 1987) is an Austrian professional [[association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Premier League]] club [[Watford F.C.|Watford]] and the [[Austria national football team|Austrian national team]]. A full international since 2007, he represented his nation at [[Euro 2008]].
+
+Having started his career at [[SK Sturm Graz|Sturm Graz]] in 2006 he moved to Germany two years later where he played for [[SV Werder Bremen|Werder Bremen]] until 2015.
+
+==Club career==
+
+===Sturm Graz===
+Aged 19, Prödl began his professional career playing for [[SK Sturm Graz|Sturm Graz]] in the [[Austrian Football Bundesliga|Austrian Bundesliga]] making his debut on 9 December 2006 in a 3–0 loss against [[SV Mattersburg]].&lt;ref&gt;{{cite news |title=Dank Schutti-Goldtor überwintert SVM auf Rang zwei |url=http://www.web.svm-fan.net/index.php?m=54&amp;id=405 |publisher=SV Mattersburg Official Website |language=German |date=12 December 2006 |accessdate=3 October 2016}}&lt;/ref&gt;&lt;ref name="Prodl2"/&gt; He scored his first Sturm Graz goal against [[SC Rheindorf Altach|Rheindorf Altach]] on 9 May 2007 in a 1–0 win.&lt;ref&gt;{{cite news |title=Seit zehn Spielen auswärts ohne Sieg |url=http://www.vol.at/seit-zehn-spielen-auswaerts-ohne-sieg/news-20070509-10170465 |publisher=Vorarlberg Online |language=German |date=9 May 2007 |accessdate=4 October 2016}}&lt;/ref&gt; Prödl went on to make sixteen appearances and scoring once in his first season.
+
+Prödl soon established himself in the first team at Sturm Graz and despite the international commitment&lt;ref name="Prodl2"&gt;{{cite news |title=Sturm-Spieler Sebastian Prödl übernimmt Verantwortung: Kapitän und Führungsspieler |url=http://www.news.at/a/sturm-spieler-sebastian-proedl-verantwortung-kapitaen-fuehrungsspieler-178242 |publisher=News.at |language=German |date=13 July 2007 |accessdate=4 October 2016}}&lt;/ref&gt; and injury,&lt;ref&gt;{{cite news |title=Der größte Talenteschuppen steht in Graz |url=http://diepresse.com/home/sport/mehrsport/345592/Der-grosste-Talenteschuppen-steht-in-Graz?from=suche.intern.portal |publisher=Die Presse |language=German |date=25 November 2007 |accessdate=4 October 2016}}&lt;/ref&gt; He went on to score three goals in 27 appearances against SV Mattersburg, [[FC Red Bull Salzburg|Red Bull Salzburg]]&lt;ref&gt;{{cite news |title=Fußball-Bundesliga: Sturm Graz ist Winterkönig |url=http://diepresse.com/home/sport/fussball/349369/FussballBundesliga_Sturm-Graz-ist-Winterkonig?from=suche.intern.portal |publisher=Die Presse |language=German |date=16 December 2007 |accessdate=4 October 2016}}&lt;/ref&gt; and [[SK Austria Kärnten|Austria Kärnten]].&lt;ref&gt;{{cite news |title=Fußball-Bundesliga: Die Zeit des Umbruchs |url=http://diepresse.com/home/sport/fussball/379956/FussballwbrBundesliga_Die-Zeit-des-Umbruchs?from=suche.intern.portal |publisher=Die Presse |language=German |date=27 April 2008 |accessdate=4 October 2016}}&lt;/ref&gt; His performances soon attracted attention from [[Serie A]] and [[Bundesliga]] clubs.&lt;ref&gt;{{cite news |title=Udinese-Milan-Fiorentina: sfuma Prödl |url=http://www.tuttomercatoweb.com/serie-a/udinese-milan-fiorentina-sfuma-prodl-89683 |publisher=Tutto Mercato Web |language=Italian |date=28 January 2008 |accessdate=24 June 2015}}&lt;/ref&gt; In response to the transfer speculation Sturm Graz placed a price tag of €5 million on him.&lt;ref&gt;{{cite news |title=Graz will fünf Millionen Euro |url=http://www.bild.de/sport/bundesliga/absage-2302572.bild.html |work=Bild |language=German |date=12 August 2007 |accessdate=24 June 2015}}&lt;/ref&gt;
+
+===Werder Bremen===
+[[File:Sebastian Prödl.jpg|thumb|left|175px|Prödl in training during his time at [[SV Werder Bremen|Werder Bremen]]]]
+
+On 15 July 2008, Prödl moved to Germany to play for [[SV Werder Bremen|Werder Bremen]] for a transfer fee of €2.5 million, signing a contract until 2012.&lt;ref&gt;{{cite news |title=Neuzugang Prödl gibt sich realistisch |url=http://www.kicker.de/news/fussball/bundesliga/startseite/210690/artikel_neuzugang-proedl-gibt-sich-realistisch.html |publisher=Kicker.de |language=German |date=30 June 2008 |accessdate=24 June 2015}}&lt;/ref&gt; Upon joining Werder Bremen, he said his aim at the club was to win trophies.&lt;ref&gt;{{cite news |title=Bremens Neuzugang Prödl will den Titel |url=http://www.n24.de/n24/Sport/Fussball/1-bundesliga/d/475782/bremens-neuzugang-proedl-will-den-titel.html |publisher=N24.de |language=German |date=8 July 2008 |accessdate=24 June 2015}}&lt;/ref&gt;
+
+Prödl made his Werder Bremen debut in the first round of the [[DFB-Pokal]] in a 9–3 win over [[Eintracht Nordhorn]] on 9 August 2008. A week later, he made his league debut for the club, in a 2–2 draw against [[Arminia Bielefeld]].&lt;ref&gt;{{cite news |title=Bielefeld trotzt Bremen Remis ab |url=http://www.n24.de/n24/Sport/Fussball/1-bundesliga/d/509438/bielefeld-trotzt-bremen-remis-ab.html |publisher=N24.de |language=German |date=16 August 2008 |accessdate=24 June 2015}}&lt;/ref&gt; He made his Champions League debut, playing as a right-back, in a 1–1 draw against [[Inter Milan]] on 1 October 2008.&lt;ref&gt;{{cite news |title=Pizarro staubt ab – Werder feiert Punkt |url=http://www.kicker.de/news/fussball/chleague/spielrunde/champions-league/2008-09/2/883254/spielanalyse_inter-mailand_werder-bremen-4.html |publisher=Kicker.de |language=German |date=1 October 2008 |accessdate=24 June 2015}}&lt;/ref&gt; By the first half of the season, he had appeared in 13 of 17 league matches, also playing in the unfamiliar right-back role in absence of [[Clemens Fritz]].&lt;ref&gt;{{cite news |title=Werder-Fans wechseln Prödl aus |url=http://www.bild.de/sport/fussball/bremen-fans-wechseln-verteidiger-aus-6495196.bild.html |work=Bild |language=German |date=17 November 2008 |accessdate=24 June 2015}}&lt;/ref&gt; In the last match of the first half of the season he injured his ankle which saw him out for two months.&lt;ref&gt;{{cite news |title=Prödl: Wellness statt Skifahren |url=http://www.kicker.de/news/fussball/bundesliga/startseite/501816/artikel_proedl_wellness-statt-skifahren.html |publisher=Kicker.de |language=German |date=15 August 2008 |accessdate=24 June 2015}}&lt;/ref&gt; On 7 March 2009, after making the bench in three matches, Prödl returned to the first team in a 0–0 draw against [[TSG 1899 Hoffenheim|Hoffenheim]].&lt;ref&gt;{{cite news |title=Ohne Frings, Özil und Fritz – Grünes Licht für Wiese |url=http://www.kicker.de/news/fussball/bundesliga/startseite/505472/artikel_ohne-frings-oezil-und-fritz---gruenes-licht-fuer-wiese.html |publisher=Kicker.de |language=German |date=7 March 2009 |accessdate=24 June 2015}}&lt;/ref&gt; He scored his first Werder Bremen goal in the second leg of the last 16 of the [[UEFA Europa League|UEFA Cup]] in a 2–2 draw against [[AS Saint-Étienne|Saint-Étienne]], from which the club progressed winning 3–2 on aggregate.&lt;ref&gt;{{cite news |title=Prödl und Pizarro mit Köpfchen |url=http://www.kicker.de/news/fussball/uefa/spielrunde/europa-league/2008-09/8/889322/spielanalyse_as-st-etienne_werder-bremen-4.html |publisher=Kicker.de |language=German |date=18 March 2009 |accessdate=24 June 2015}}&lt;/ref&gt; Upon his return he reverted to centre-back going on to make a total of 22 appearances in his first season. Prödl formed a partnership with [[Naldo (footballer, born 1982)|Naldo]] in central defence when they beat [[Bayer 04 Leverkusen|Bayer Leverkusen]] 1–0 in the [[2009 DFB-Pokal Final|DFB-Pokal Final]].&lt;ref&gt;{{cite news |title=Werders Triumph dank Özil |url=http://www.kicker.de/news/fussball/dfbpokal/spielrunde/dfb-pokal/2008-09/6/865823/spielanalyse_bayer-leverkusen-9_werder-bremen-4.html |publisher=Kicker.de |language=German |date=30 May 2009 |accessdate=24 June 2015}}&lt;/ref&gt; He also featured in the [[2009 UEFA Cup Final|UEFA Cup final]], playing the full 120 minutes in a 3–2 loss against [[FC Shakhtar Donetsk|Shakhtar Donetsk]].&lt;ref&gt;{{cite news |title=Jádson the difference as Shakhtar triumph |url=http://www.uefa.com/uefaeuropaleague/season=2009/matches/round=15290/match=302827/postmatch/report/index.html |publisher=UEFA Official Website |language=German |date=20 May 2009 |accessdate=24 June 2015}}&lt;/ref&gt;
+
+[[File:Sebastian Proedl 2014-10-24.jpg|thumb|right|190px|Prödl in his last season at [[SV Werder Bremen|Werder Bremen]]]]
+
+In the opening game of the 2009–10 season, Prödl played as a centre-back in a 3–2 loss against [[Eintracht Frankfurt]] and was sent-off in the last minutes after a second bookable offence.&lt;ref&gt;{{cite news |title=Amanatidis trifft und geht |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2009-10/1/938006/spielanalyse_werder-bremen-4_eintracht-frankfurt-32.html |publisher=Kicker.de |language=German |date=8 August 2009 |accessdate=24 June 2015}}&lt;/ref&gt; Soon after, he suffered a knee injury.&lt;ref&gt;{{cite news |title=Prödl operiert, Almeida in Gips |url=http://www.kicker.de/news/fussball/bundesliga/startseite/513594/artikel_proedl-operiert-almeida-in-gips.html |publisher=Kicker.de |language=German |date=24 August 2009 |accessdate=24 June 2015}}&lt;/ref&gt; After three months on the sidelines, he appeared on the substitution bench and made his return to the first team coming on for Naldo in the 76th minutes of a 6–0 win over [[SC Freiburg|Freiburg]] on 21 November 2009.&lt;ref&gt;{{cite news |title=Rosenberg macht das halbe Dutzend voll |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2009-10/13/938146/spielanalyse_sc-freiburg-7_werder-bremen-4.html |publisher=Kicker.de |language=German |date=21 November 2009 |accessdate=24 June 2015}}&lt;/ref&gt; He scored his first Werder Bremen league goal on 27 February 2010, in a 2–1 win over [[1. FSV Mainz 05|Mainz 05]].&lt;ref&gt;{{cite news |title=Prödl macht seinen Fehler wieder wett |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2009-10/24/938241/spielanalyse_1-fsv-mainz-05-30_werder-bremen-4.html |publisher=Kicker.de |language=German |date=27 February 2010 |accessdate=24 June 2015}}&lt;/ref&gt; Prödl spent most of the season on the substitution bench making nine appearances for the club.
+
+In the 2010–11 season, Prödl became a regular starter following Naldo's injury at the start of the season and formed a partnership in central defence with [[Per Mertesacker]].&lt;ref&gt;{{cite news |title=Naldo fehlt noch länger |url=http://www.kicker.de/news/fussball/dfbpokal/startseite/540957/artikel_naldo-fehlt-noch-laenger.html |publisher=Kicker.de |language=German |date=16 August 2010 |accessdate=24 June 2015}}&lt;/ref&gt; He scored his first European goal on matchday 6 of the [[UEFA Champions League|Champions League]] group stage in a 3–0 win over Inter Milan on 7 December 2010.&lt;ref&gt;{{cite news |title=Schaaf-Schützlinge bestrafen lustloses Inter |url=http://www.kicker.de/news/fussball/chleague/spielrunde/champions-league/2010-11/6/1120031/spielanalyse_werder-bremen-4_inter-mailand.html#omsearchresult |publisher=Kicker.de |language=German |date=7 December 2010 |accessdate=24 June 2015}}&lt;/ref&gt; He scored his first league goal of the season on 27 February 2011 in a 2–2 draw against Bayer Leverkusen.&lt;ref&gt;{{cite news |title=Adler: "Das kotzt mich an" |url=http://www.kicker.de/news/fussball/bundesliga/startseite/549195/artikel_adler_das-kotzt-mich-an.html |publisher=Kicker.de |language=German |date=27 February 2011 |accessdate=24 June 2015}}&lt;/ref&gt; Having suffered a knee injury and undergone surgery it was announced in March 2011 that Prödl would miss the remainder of the 2010–11 season. He ended season with 25 appearances.&lt;ref&gt;{{cite news |title=Prödl kehrt in dieser Saison nicht zurück |url=http://www.kicker.de/news/fussball/bundesliga/startseite/550344/artikel_proedl-kehrt-in-dieser-saison-nicht-zurueck.html |publisher=Kicker.de |language=German |date=26 March 2011 |accessdate=24 June 2015}}&lt;/ref&gt;
+
+[[File:Sebastian Prödl 8849.JPG|thumb|left|180px|Prödl on international duty]]
+
+At the start of the 2011–12 season, Prödl remained a regular starter. He scored his first goal of the season in a 3–1 win over Mainz on 29 October 2011.&lt;ref&gt;{{cite news |title=Pizarro macht's zum 150. Mal |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2011-12/11/1143380/spielanalyse_1-fsv-mainz-05-30_werder-bremen-4.html |publisher=Kicker.de |language=German |date=29 October 2011 |accessdate=24 June 2015}}&lt;/ref&gt; On 21 January 2012, during a match against [[1. FC Kaiserslautern|Kaiserslautern]], he was substituted off with an injury in the 29th minute.&lt;ref&gt;{{cite news |title=Pfosten und Latte retten Werder |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2011-12/18/1143445/spielanalyse_1-fc-kaiserslautern-37_werder-bremen-4.html |publisher=Kicker.de |language=German |date=21 January 2012 |accessdate=24 June 2015}}&lt;/ref&gt; After a successful surgery, it was announced that he would be out for six weeks.&lt;ref&gt;{{cite news |title=Prödl operiert – Allofs: Wir werden etwas machen |url=http://www.bild.de/regional/bremen/proedl-operiert--allofs-wir-werden-etwas-22257850.bild.html |work=Bild |language=German |date=24 January 2012 |accessdate=24 June 2015}}&lt;/ref&gt; Prödl made his return against [[Hannover 96]] on 11 March 2012 scoring in a 3–0 win.&lt;ref&gt;{{cite news |title=Pizarro serviert Hannover die Rechnung |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2011-12/25/1143506/spielanalyse_werder-bremen-4_hannover-96-58.html |publisher=Kicker.de |language=German |date=11 March 2012 |accessdate=24 June 2015}}&lt;/ref&gt; However, his return was short-lived as he suffered a hamstring injury which kept him out for two weeks.&lt;ref&gt;{{cite news |title=Mielitz darf träumen, Prödl muss pausieren |url=http://www.kicker.de/news/fussball/bundesliga/startseite/566320/artikel_mielitz-darf-traeumen-proedl-muss-pausieren.html |publisher=Kicker.de |language=German |date=20 March 2013 |accessdate=24 June 2015}}&lt;/ref&gt; He made his return to the first team on 28 April 2012, in a 3–1 loss against [[VfL Wolfsburg|Wolfsburg]].&lt;ref&gt;{{cite news |title=Dank Helmes – Wolfsburg träumt weiter von Europa |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2011-12/33/1143576/spielanalyse_vfl-wolfsburg-24_werder-bremen-4.html |publisher=Kicker.de |language=German |date=28 April 2012 |accessdate=24 June 2015}}&lt;/ref&gt; Having made 16 appearances in the 2011–12 season, it was announced that Prödl had signed a new three-year contract with the club, which would keep him at the club until summer 2015.&lt;ref&gt;{{cite news |title=Prödl verlängert beim SV Werder bis 2015 |url=http://www.werder.de/de/profis/news/39007.php |publisher=SV Werder Bremen |language=German |date=2 May 2012 |accessdate=24 June 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20160120220657/http://www.werder.de/de/profis/news/39007.php |archivedate=20 January 2016 |df=dmy-all}}&lt;/ref&gt;
+
+After playing two matches of the 2012–13 season, Prödl suffered injuries first to his thigh&lt;ref&gt;{{cite news |title=Werders Ekici fehlt wegen Grippe |url=http://www.bild.de/regional/bremen/werders-ekici-fehlt-wegen-grippe-26257456.bild.html |work=Bild |language=German |date=18 September 2012 |accessdate=24 June 2015}}&lt;/ref&gt; and then his head.&lt;ref&gt;{{cite news |title=Bremer Prödl erleidet Kopfverletzung |url=http://www.bild.de/regional/bremen/bremer-proedl-erleidet-kopfverletzung-26747166.bild.html |work=Bild |language=German |date=17 October 2012 |accessdate=24 June 2015}}&lt;/ref&gt; Upon his return, he scored his first goal of the season in a 4–1 win over Hoffenheim on 2 December 2012.&lt;ref&gt;{{cite web |url=http://espnfc.com/us/en/report/346277/report.html?soccernet=true&amp;cc=5901 |title=TSG Hoffenheim 1–4 Werder Bremen |publisher=[[ESPN FC]] |date=2 December 2012 |accessdate=24 June 2015}}&lt;/ref&gt; On 23 February 2013, he was sent-off in the 44th minute of a match against [[FC Bayern Munich|Bayern Munich]] for a foul on [[Mario Gómez]]; Werder Bremen went on to lose 6–1.&lt;ref&gt;{{cite news |title=Robben leitet den Kantersieg ein |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2012-13/23/1441841/spielanalyse_bayern-muenchen-14_werder-bremen-4.html |publisher=Kicker.de |language=German |date=23 February 2013 |accessdate=24 June 2015}}&lt;/ref&gt; He was given a two-match ban for the red card.&lt;ref&gt;{{cite news |title=Bremens Prödl für zwei Spiele gesperrt |url=http://www.bild.de/regional/bremen/bremens-proedl-fuer-zwei-spiele-gesperrt-29269182.bild.html |work=Bild |language=German |date=25 February 2013 |accessdate=24 June 2015}}&lt;/ref&gt; In a match against [[Fortuna Düsseldorf]] on 13 April 2013 he was appointed captain and played the full 90 minutes of a 2–2 draw.&lt;ref&gt;{{cite news |title=Reisinger ist der Blitzstarter, Latka der Pechvogel |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2012-13/29/1441903/spielanalyse_fortuna-duesseldorf-13_werder-bremen-4.html |publisher=Kicker.de |language=German |date=13 April 2013 |accessdate=24 June 2015}}&lt;/ref&gt; Prödl finished the 2012–13 season with 28 caps.
+
+In the 2013–14 season, Prödl scored in the club's first match without [[Thomas Schaaf]], which Werder Bremen lost 3–1 to [[1. FC Saarbrücken|Saarbrücken]] in the first round of DFB Pokal.&lt;ref&gt;{{cite news |title=Bremen, Braunschweig, GladbachBundesligisten stürzen im DFB-Pokal |url=http://www.n24.de/n24/Sport/Fussball/dfb-pokal/d/3292928/bundesligisten-stuerzen-im-dfb-pokal.html |publisher=N24.de |language=German |date=4 August 2013 |accessdate=24 June 2015}}&lt;/ref&gt; In the opening game of the season against [[Eintracht Braunschweig]], he provided the assist for compatriot [[Zlatko Junuzović]] to score the only goal in the game.&lt;ref&gt;{{cite news |title=Junuzovic jubelt: Löwen zahlen Lehrgeld |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2013-14/1/1894566/spielanalyse_eintracht-braunschweig-41_werder-bremen-4.html |publisher=Kicker.de |language=German |date=10 August 2013 |accessdate=24 June 2015}}&lt;/ref&gt; He then suffered a muscle injury which kept him out for two weeks.&lt;ref&gt;{{cite news |title=Werder-Profi Prödl fällt mit Muskelverletzung zwei Wochen aus |url=http://www.bild.de/regional/bremen/werderprofi-proedl-faellt-mit-muskelverletzung-33148726.bild.html |work=Bild |language=German |date=27 October 2013 |accessdate=24 June 2015}}&lt;/ref&gt; By 21 November 2013, his recovery was delayed by three weeks.&lt;ref&gt;{{cite news |title=Pause für Ösis immer länger |url=http://www.bild.de/sport/fussball/werder-bremen/pause-fuer-oesis-wird-immer-laenger-33496252.bild.html |work=Bild |language=German |date=21 November 2013 |accessdate=24 June 2015}}&lt;/ref&gt; After making his return, Prödl captained four matches between 1 February 2014 and 1 March 2014. He scored two goals in two matches against Wolfsburg&lt;ref&gt;{{cite news |title=1:3 gegen Wolfsburg: Werder zurück im Abstiegskampf |url=http://www.n24.de/n24/Sport/Fussball/1-bundesliga/d/4491364/1-3-gegen-wolfsburg--werder-zurueck-im-abstiegskampf.html |publisher=N24.de |language=German |date=25 March 2014 |accessdate=24 June 2015}}&lt;/ref&gt; and Hannover 96.&lt;ref&gt;{{cite news |title=Prödl sorgt für den Bremer Befreiungsschlag |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2013-14/28/1895122/spielanalyse_hannover-96-58_werder-bremen-4.html |work=Bild |language=German |date=30 March 2014 |accessdate=24 June 2015}}&lt;/ref&gt; In March 2014, he stated he would let his contract run out in 2015 if his contract would not be renewed in the summer.&lt;ref&gt;{{cite news |title=Prödl fordert Zeichen von Werder |url=http://www.zeit.de/news/2014-03/11/fussball-proedl-fordert-zeichen-von-werder-11163406 |accessdate=26 September 2016 |work=Die Zeit |date=11 March 2014}}&lt;/ref&gt; At the end of the season, Prödl had made 27 appearances helping the club avoid relegation and finish in 14th place.&lt;ref&gt;{{cite news |title=Prödl: "Das wird eine schwere Saison!" |url=http://www.bild.de/sport/fussball/sebastian-proedl/abstiegsangst-wird-eine-schwere-saison-31694288.bild.html |work=Bild |language=German |date=7 August 2013 |accessdate=24 June 2015}}&lt;/ref&gt;
+
+After missing two games at the start of the 2014–15 season due to a hamstring injury,&lt;ref&gt;{{cite news |title=Werder-Verteidiger Gebre Selassie kaputt |url=http://www.bild.de/sport/fussball/werder-bremen/gebre-selassie-kaputt-37204232.bild.html |work=Bild |language=German |date=12 August 2014 |accessdate=24 June 2015}}&lt;/ref&gt; Prödl scored his first goal of the season on 12 September 2014, in a 3–3 draw against Bayer Leverkusen.&lt;ref&gt;{{cite news |title=BundesligaBayers Spaß-Fußballer zahlen die Zeche – 'Werden nix ändern' |url=http://www.n24.de/n24/Sport/Fussball/1-bundesliga/d/5394244/bayers-spass-fussballer-zahlen-die-zeche----werden-nix-aendern-.html |publisher=N24.de |language=German |date=13 September 2014 |accessdate=24 June 2015}}&lt;/ref&gt; He then missed one match, due to injury, first suffering the flu,&lt;ref&gt;{{cite news |title=Wegen Darm-Virus – Werder ohne zwei Stars |url=http://www.bild.de/sport/fussball/werder-bremen/zwei-stars-fehlen-gegen-schalke-37785304.bild.html |work=Bild |language=German |date=23 September 2014 |accessdate=24 June 2015}}&lt;/ref&gt; then a hip problem.&lt;ref&gt;{{cite news |title=Wolf kann ran, Prödl vor Rückkehr |url=http://www.bild.de/sport/fussball/werder-bremen/gibt-entwarnung-38703290.bild.html |work=Bild |language=German |date=25 November 2014 |accessdate=24 June 2015}}&lt;/ref&gt; His hip injury came after scoring his second goal of the season, in a 2–0 win over [[VfB Stuttgart|Stuttgart]] on 8 November 2014.&lt;ref&gt;{{cite news |title=Zweimal Ecke, zweimal Tor: Werder feiert weiter |url=http://www.kicker.de/news/fussball/bundesliga/spieltag/1-bundesliga/2014-15/11/2407323/spielanalyse_werder-bremen-4_vfb-stuttgart-11.html#omsearchresult |publisher=Kicker.de |language=German |date=8 November 2014 |accessdate=24 June 2015}}&lt;/ref&gt; In a 5–2 defeat to Frankfurt, Prödl was substituted off in the first half and it was announced after the match that he would be out for six to eight weeks.&lt;ref&gt;{{cite news |title=Bremens Prödl fällt bis zu zwei Monate aus |url=http://www.n24.de/n24/Sport/Fussball/1-bundesliga/d/5831848/bremens-proedl-faellt-bis-zu-zwei-monate-aus.html |publisher=N24.de |language=German |date=8 December 2014 |accessdate=24 June 2015}}&lt;/ref&gt; He scored on his return on 21 February 2015, in a 1–1 draw against [[FC Schalke 04|Schalke 04]].&lt;ref&gt;{{cite news |title=Schalke beendet Werders Siegesserie |url=http://www.n24.de/n24/Sport/Fussball/1-bundesliga/d/6186050/schalke-beendet-werders-siegesserie-.html |publisher=N24.de |language=German |date=21 February 2015 |accessdate=24 June 2015}}&lt;/ref&gt; During the season, he captained his team on five different occasions and made 22 league appearances, scoring three goals.
+
+On 12 May 2015, it was announced that Prödl would leave Bremen at the end of the 2014–15 season, as his contract had come to an end.&lt;ref&gt;{{cite web |url=https://www.dfb.de/news/detail/proedl-verlaesst-werder-nach-sieben-jahren-122798/ |title=Prödl verlässt Werder nach sieben Jahren |date=12 May 2015 |work=dfb.de/}}&lt;/ref&gt; The club previously offered him a new contract at the start of the season.&lt;ref&gt;{{cite news |title=Neues Angebot für Prödl &amp; Junuzovic |url=http://www.bild.de/sport/fussball/werder-bremen/neues-angebot-fuer-proedl-und-junuzovic-37539016.bild.html |work=Bild |language=German |date=5 September 2014 |accessdate=24 June 2015}}&lt;/ref&gt; During his time at Bremen he scored 10 goals, playing predominately in the central defence role.
+
+===Watford===
+On 1 June 2015, Prödl signed for [[Watford F.C.|Watford]] on a five-year contract after his contract at Werder Bremen had ended.&lt;ref&gt;{{cite web |url=http://www.watfordfc.com/news/article/150601-watford-fc-sebastian-prodl-watford-fc-2477080.aspx |title=Sebastian Prodl Signs |date=1 June 2015 |archiveurl=https://web.archive.org/web/20150601200243/http://www.watfordfc.com/news/article/150601-watford-fc-sebastian-prodl-watford-fc-2477080.aspx |archivedate=1 June 2015 |deadurl=no}}&lt;/ref&gt; He became Watford's first signing on their return to the [[Premier League]]. Upon joining the club, he was given number five shirt ahead of a new season.&lt;ref&gt;{{cite news |title=Watford confirm squad numbers for Premier League |url=http://www.watfordobserver.co.uk/sport/13524340.Hornets_confirm_squad_numbers/ |work=Watford Observer |date=4 August 2015 |accessdate=4 October 2016}}&lt;/ref&gt;
+
+Prödl made his Watford debut in the opening game of the season, making his first start in a 2–2 draw against [[Everton F.C.|Everton]].&lt;ref&gt;{{cite news |title=Everton 2 – 2 Watford |url=https://www.bbc.co.uk/sport/0/football/33744642 |publisher=BBC Sport |date=8 August 2015 |accessdate=4 October 2016}}&lt;/ref&gt; He remained as a first team regular at the start of the season until he was dropped to the bench in late October ahead of a match against [[Stoke City F.C.|Stoke City]],&lt;ref&gt;{{cite news |title=Troy Deeney and Almen Abdi score as Watford deservedly beat Stoke City at Britannia Stadium |url=http://www.watfordobserver.co.uk/sport/13894206.Superb_Hornets_sink_Potters/ |work=Watford Observer |date=24 October 2015 |accessdate=4 October 2016}}&lt;/ref&gt; and soon suffered a calf injury during international duty with Austria.&lt;ref&gt;{{cite news |title=Sebastian Prodl is out for three weeks with a calf injury but Valon Behrami could be fit for Watford's trip to Aston Villa |url=http://www.watfordobserver.co.uk/sport/14105614.Prodl_out_for_three_weeks_but_Behrami_could_face_Villa/ |work=Watford Observer |date=24 November 2015 |accessdate=4 October 2016}}&lt;/ref&gt; As the 2015–16 season progressed towards the end, Prödl would be often be in and out of both in the starting eleven and substitute bench. He scored his first goal for Watford in a 3–1 defeat to [[West Ham United F.C.|West Ham United]] on 20 April 2016.&lt;ref&gt;{{cite news |title=West Ham United 3 – 1 Watford |url=https://www.bbc.co.uk/sport/football/35733431 |publisher=BBC Sport |date=20 April 2016 |accessdate=4 October 2016}}&lt;/ref&gt; On the last game of the season, he scored his second goal of the season, in a 2–2 draw against [[Sunderland A.F.C.|Sunderland]].&lt;ref&gt;{{cite news |title=Watford 2 – 2 Sunderland |url=https://www.bbc.com/sport/football/36240332 |publisher=BBC Sport |date=15 May 2016 |accessdate=4 October 2016}}&lt;/ref&gt;
+
+Despite being linked with a move to [[Serie A]] side [[Udinese Calcio|Udinese]],&lt;ref&gt;{{cite news |title=Udinese mit Interesse an Watfords Sebastain Prödl? |url=http://www.spox.com/de/sport/fussball/international/italien/1608/News/udinese-calcio-sebastian-proedl-fc-watford-interesse-verpflichtung.html |publisher=Spox.com |language=German |date=22 August 2016 |accessdate=4 October 2016}}&lt;/ref&gt; Prödl remained at the club and regained his first team place under the management of [[Walter Mazzarri]]. In a 3–1 win over [[Manchester United F.C.|Manchester United]] on 18 September 2016,&lt;ref&gt;{{cite news |title=Watford 3 – 1 Manchester United |url=https://www.bbc.co.uk/sport/football/37331599 |publisher=BBC Sport |date=18 September 2016 |accessdate=4 October 2016}}&lt;/ref&gt; he was praised for his performance and was named Man of the Match.&lt;ref&gt;{{cite news |title=Prodl: It was a massive performance |url=https://www.premierleague.com/news/105649 |publisher=Premier League Official Website |date=18 September 2016 |accessdate=4 October 2016}}&lt;/ref&gt; In May 2017, he was named Watford's player of the season.&lt;ref&gt;{{cite news |last1=Walker |first1=Ron |title=Sebastian Prodl wins Watford player of the season award at Wembley ceremony |url=http://www.watfordobserver.co.uk/sport/15303063.Prodl_named_Hornets__player_of_the_year/ |accessdate=24 May 2017 |work=Watford Observer |date=23 May 2017}}&lt;/ref&gt;
+
+==International career==
+In 2007, he was called to play for [[Austria national football team|Austria]]. He served as captain of Austria's U-20 national team at the [[2007 FIFA U-20 World Cup|2007 U-20 World Cup]]&lt;ref&gt;{{FIFA player|269792}}&lt;/ref&gt; in Canada where he helped his team to a fourth-place finish. After the tournament was over he was the only Austrian voted into the U-20 World Cup line-up by Italian magazine ''[[Gazzetta dello Sport]]''.&lt;ref&gt;{{cite news |title=U20-Teamkapitän Prödl unter besten WM-Spielern: Argentinier Aguero siegt leider! |url=http://www.news.at/a/u20-teamkapitaen-proedl-wm-spielern-argentinier-aguero-178957 |publisher=news.at |language=German |date=23 July 2007 |accessdate=4 October 2016}}&lt;/ref&gt;
+
+After being called up to the national team for the first team in May 2007,&lt;ref&gt;{{cite news |title=ÖFB-Teamkader mit Patocka, Sebastain Prödl und Erwin Hoffer |url=http://diepresse.com/home/sport/fussball/304476/OFBTeamkader-mit-Patocka-Prodl-und-Hoffer?from=suche.intern.portal |publisher=Die Presse |language=German |date=16 May 2007 |accessdate=4 October 2016}}&lt;/ref&gt; Prödl made his senior debut for [[Austria national football team|Austria]] on 30 May 2007 against [[Scotland national football team|Scotland]].&lt;ref&gt;{{cite news |title=Österreich geizte mit Leistung |url=http://www.vol.at/oesterreich-geizte-mit-leistung/news-20070530-10211552 |publisher=Vorarlberg Online |language=German |date=30 May 2007 |accessdate=4 October 2016}}&lt;/ref&gt; On 26 March 2008, Prödl scored two goals in an international friendly against the [[Netherlands national football team|Netherlands]]. On 12 June 2008 during the [[UEFA Euro 2008|Euro 2008]] [[UEFA Euro 2008 Group B#Austria vs Poland|Austria vs. Poland]] game he was fouled in the 92nd minute in the penalty area and the referee, [[Howard Webb]], awarded Austria a penalty kick, resulting in their only goal of the tournament.&lt;ref&gt;{{cite news |last=Aikman |first=Richard |title=Vastic rides to Austria's rescue against Poland |url=http://www.uefa.com/uefaeuro/news/newsid=706835.html |accessdate=31 March 2014 |publisher=[[UEFA]] |date=13 June 2008}}&lt;/ref&gt;
+
+==Personal life==
+Prödl's cousin [[Viktoria Schnaderbeck]] is also a footballer&lt;ref&gt;{{cite web |url=http://www.kleinezeitung.at/sport/fussball/2706548/bayern-legionaerin-schnaderbeck-erlitt-meniskusriss.story |title=Bayern-Legionärin Schnaderbeck erlitt Meniskusriss |language=German |publisher=kleinezeitung.at |date=24 March 2011 |accessdate=2 January 2013}}&lt;/ref&gt; who plays for [[Arsenal W.F.C.|Arsenal Women]] and the [[Austria women's national football team]].&lt;ref&gt;{{cite web |url=https://www.arsenal.com/news/viktoria-schnaderbeck-joins-club |title=Viktoria Schnaderbeck joins the club |publisher=Arsenal F.C. |accessdate=24 May 2018}}&lt;/ref&gt;&lt;ref&gt;[https://www.worldfootball.net/teams/oesterreich-frauen-team/10/ Austria [Women&lt;nowiki&gt;]&lt;/nowiki&gt; » Players and coaches from A-Z]. ''worldfootball.net''. Retrieved 26 August 2018.&lt;/ref&gt;&lt;ref&gt;[https://www.uefa.com/womensworldcup/season=2015/teams/team=500008/squad/index.html Austria – Women's]. ''UEFA.com''. Retrieved 26 August 2018.&lt;/ref&gt;
+
+==Career statistics==
+
+===Club===
+{{updated|20 October 2018}}&lt;ref&gt;{{cite web |title=S. PRÖDL |url=https://int.soccerway.com/players/sebastian-prodl/11105/ |website=Soccerway |accessdate=14 May 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|Cup
+!colspan=2|League Cup
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+|rowspan=3|[[SK Sturm Graz|Sturm Graz]]
+|[[2006–07 Austrian Football Bundesliga|2006–07]]
+|[[Austrian Football Bundesliga|Austrian Bundesliga]]
+|16||1||0||0||colspan=2|—||colspan=2|—||16||1
+|-
+|[[2007–08 Austrian Football Bundesliga|2007–08]]
+|Austrian Bundesliga
+|27||2||0||0||colspan=2|—||colspan=2|—||27||2
+|-
+!colspan=2|Total
+!43||3||0||0||0||0||0||0||43||3
+|-
+|rowspan=8|[[SV Werder Bremen|Werder Bremen]]
+|[[2008–09 Bundesliga|2008–09]]
+|[[Bundesliga]]
+|22||0||0||0||colspan=2|—||8||1||30||1
+|-
+|[[2009–10 Bundesliga|2009–10]]
+|Bundesliga
+|9||1||0||0||colspan=2|—||2||0||11||1
+|-
+|[[2010–11 Bundesliga|2010–11]]
+|Bundesliga
+|25||1||2||0||colspan=2|—||8||1||35||1
+|-
+|[[2011–12 Bundesliga|2011–12]]
+|Bundesliga
+|16||2||0||0||colspan=2|—||colspan=2|—||16||2
+|-
+|[[2012–13 Bundesliga|2012–13]]
+|Bundesliga
+|28||1||1||0||colspan=2|—||colspan=2|—||29||1
+|-
+|[[2013–14 Bundesliga|2013–14]]
+|Bundesliga
+|27||2||1||1||colspan=2|—||colspan=2|—||28||3
+|-
+|[[2014–15 Bundesliga|2014–15]]
+|Bundesliga
+|22||3||2||0||colspan=2|—||colspan=2|—||24||3
+|-
+!colspan=2|Total
+!149||10||6||1||0||0||18||2||173||13
+|-
+|rowspan=5|[[Watford F.C.|Watford]]
+|[[2015–16 Watford F.C. season|2015–16]]
+|rowspan=4|[[Premier League]]
+|21||2||3||0||colspan=2|—||colspan=2|—||24||2
+|-
+|[[2016–17 Watford F.C. season|2016–17]]
+|33||1||1||0||colspan=2|—||colspan=2|—||34||1
+|-
+|[[2017–18 Watford F.C. season|2017–18]]
+|21||0||0||0||0||0||0||0||21||0
+|-
+|[[2018–19 Watford F.C. season|2018–19]]
+|1||0||0||0||1||0||0||0||2||0
+|-
+!colspan=2|Total
+!76||3||5||0||1||0||0||0||80||3
+|-
+!colspan=3|Career total
+!268||16||10||1||1||0||18||2||297||19
+|}
+
+===International goals===
+{| class="wikitable"
+! # || Date || Venue || Opponent || Score || Result || Competition
+|-
+| 1.
+| rowspan= 2 | 26 March 2008 || rowspan= 2 | [[Ernst-Happel-Stadion]], Vienna, Austria || rowspan= 2 | {{fb|NED}} || '''2'''–0 || rowspan=2 | 3–4 || rowspan= 2 | [[Friendly match|Friendly]]
+|-
+| 2. || | '''3'''–0
+|-
+| 3. || 8 October 2010 || [[Ernst-Happel-Stadion]], Vienna, Austria || {{fb|AZE}} || '''1'''–0 || 3–0 || [[UEFA Euro 2012 qualifying]]
+|-
+| 4. || 15 October 2013 || [[Tórsvøllur]], [[Tórshavn]], [[Faroe Islands]] || {{fb|FRO}} || '''2'''–0 || 3–0 || [[2014 FIFA World Cup qualification (UEFA)|2014 FIFA World Cup qualification]]
+|-
+| colspan="12"|&lt;small&gt;''Correct as of 7 October 2015''&lt;ref&gt;{{cite web |url=http://eu-football.info/_player.php?id=17066 |title=Sebastian Prödl – national football team player |website=eu-football.info}}&lt;/ref&gt;&lt;/small&gt;	
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Sebastian Prödl}}
+*{{Soccerbase}}
+*{{NFT player|pid=22620}}
+*{{fussballdaten|id=proedlsebastian|name=Sebastian Prödl}}
+
+{{Watford F.C. Player of the Season}}
+{{Navboxes
+| title = Austria squads
+| fg = white
+| bg = red
+| bordercolor= black
+| list1 = 
+{{Austria squad UEFA Euro 2008}}
+{{Austria squad UEFA Euro 2016}}
+}}
+{{Watford F.C. squad}}
+
+{{DEFAULTSORT:Prodl, Sebastian}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Graz]]
+[[Category:Association football defenders]]
+[[Category:Austrian footballers]]
+[[Category:Austria youth international footballers]]
+[[Category:Austria international footballers]]
+[[Category:UEFA Euro 2008 players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:SK Sturm Graz players]]
+[[Category:SV Werder Bremen players]]
+[[Category:SV Werder Bremen II players]]
+[[Category:Watford F.C. players]]
+[[Category:Austrian Football Bundesliga players]]
+[[Category:Premier League players]]
+[[Category:Bundesliga players]]
+[[Category:3. Liga players]]
+[[Category:Expatriate footballers in Germany]]
+[[Category:Austrian expatriate footballers]]
+[[Category:Austrian expatriate sportspeople in Germany]]
+[[Category:Expatriate footballers in England]]
+[[Category:Austrian expatriate sportspeople in England]]</text>
+      <sha1>luumsvybeqm2czkn6ggnyu4zt45r3l7</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,282 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Alex Smithies</title>
+    <ns>0</ns>
+    <id>14576175</id>
+    <revision>
+      <id>880693068</id>
+      <parentid>880693000</parentid>
+      <timestamp>2019-01-28T21:51:01Z</timestamp>
+      <contributor>
+        <username>Et3an&amp;&amp;&amp;</username>
+        <id>35715292</id>
+      </contributor>
+      <comment>Changed back my mistake</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22269">{{Use dmy dates|date=February 2018}}
+{{Use British English|date=March 2012}}
+{{Infobox football biography
+| name = Alex Smithies
+| image = Smithies_QPR_Leeds.jpg
+| image_size = 200
+| caption = Smithies playing for [[Queens Park Rangers F.C.|Queens Park Rangers]] 2016
+| fullname = Alexander Smithies&lt;ref&gt;{{cite web |url=https://www.efl.com/siteassets/efl-documents/efl-professional-retain-list--free-transfers---2017-18.pdf |title=Club list of registered players: As at 19th May 2018 |publisher=English Football League |format=PDF |page=31 |accessdate=15 June 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1990|3|5|df=y}}&lt;ref&gt;{{cite web |url=http://www.espnfc.co.uk/player/96899/alex-smithies |title=Alex Smithies |website=ESPN FC |accessdate=28 June 2018}}&lt;/ref&gt;
+| birth_place = [[Huddersfield]], England
+| height = {{convert|1.85|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.11v11.com/players/alex-smithies-227492/ |title=Alex Smithies |website=11v11.com |publisher=AFS Enterprises |accessdate=28 December 2017}}&lt;/ref&gt;
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Cardiff City F.C.|Cardiff City]]
+| clubnumber = 12
+| youthyears1 = 1998–2007
+| youthclubs1 = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| years1 = 2007–2015
+| clubs1 = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+| caps1 = 247
+| goals1 = 0
+| years2 = 2015–2018
+| clubs2 = [[Queens Park Rangers F.C.|Queens Park Rangers]]
+| caps2 = 107
+| goals2 = 0
+| years3 = 2018–
+| clubs3 = [[Cardiff City F.C.|Cardiff City]]
+|caps3 = 0
+|goals3 = 0
+| nationalyears1 = 2005–2006
+| nationalteam1 = [[England national under-16 football team|England U16]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2005–2007
+| nationalteam2 = [[England national under-17 football team|England U17]]
+| nationalcaps2 = 9
+| nationalgoals2 = 0
+| nationalyears3 = 2007
+| nationalteam3 = [[England national under-18 football team|England U18]]
+| nationalcaps3 = 1
+| nationalgoals3 = 0
+| nationalyears4 = 2009
+| nationalteam4 = [[England national under-19 football team|England U19]]
+| nationalcaps4 = 1
+| nationalgoals4 = 0
+| club-update = 00:36, 31 August 2018 (UTC)
+| nationalteam-update = 
+}}
+'''Alexander Smithies''' (born 5 March 1990) is an English professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{English football updater|CardiffC}} club [[Cardiff City F.C.|Cardiff City]]. Smithies is a product of the [[Huddersfield Town A.F.C.|Huddersfield Town]] academy who first came into prominence during the [[2007–08 Huddersfield Town A.F.C. season|2007–08 season]]. He joined [[Queens Park Rangers F.C.|Queens Park Rangers]] in 2015 where he played for three years before joining Cardiff City.
+
+==Early life==
+Smithies was born in [[Huddersfield]], West Yorkshire.&lt;ref&gt;{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |location=Edinburgh |isbn=978-1-84596-601-0 |page=384}}&lt;/ref&gt; He grew up in [[Golcar]], in the Colne Valley area of Huddersfield. He attended Colne Valley High School, [[Linthwaite]]. He grew up supporting Huddersfield Town. Smithies previously played football for Westend Juniors in Huddersfield's local leagues, and he joined the Huddersfield Town academy at the age of 8.&lt;ref&gt;{{cite web |url=http://www.examiner.co.uk/news/local-west-yorkshire-news/2009/06/26/huddersfield-town-keeper-alex-smithies-invites-the-examiner-round-for-a-cuppa-86081-23984750/3/ |title=Huddersfield Town Keeper Alex Smithies Invites The Examiner Round for a Cuppa |publisher=Huddersfield Examiner |date=26 July 2009 |accessdate=16 July 2014}}&lt;/ref&gt;
+
+==Club career==
+===Huddersfield Town===
+====Early seasons 2007–2009====
+[[File:Alex Smithies.jpg|thumb|upright|Smithies with [[Huddersfield Town A.F.C.|Huddersfield Town]] after the [[2012 Football League One play-off Final|2012 League One play-off Final]]]]
+
+Having come through the Academy of the club he grew up supporting, Smithies made his first-team debut on 5 December 2007. He came on as a 76th-minute [[Substitute (association football)|substitute]] for the red-carded [[Matt Glennon]] during Huddersfield Town's 4–1 defeat by [[Southend United F.C.|Southend United]] at [[Roots Hall]]. His first full start came in the 4–0 defeat at [[Leeds United F.C.|Leeds United]] on 8 December, after Glennon lost an appeal against his dismissal and Town were refused permission to loan an emergency goalkeeper on the grounds that Smithies was registered as a professional.{{citation needed|date=February 2018}}
+
+Smithies' first appearance at the [[Galpharm Stadium]] for a first-team match was on 6 December 2008. In this match, caretaker manager [[Gerry Murphy (football manager)|Gerry Murphy]] dropped regular goalkeeper Matt Glennon in favour of the young custodian, who went on to help Huddersfield to a 2–1 victory over [[Walsall F.C.|Walsall]]. The first clean sheet he kept for the club came on 13 December 2008. In the 1–0 win over Southend United, Smithies saved a [[Penalty kick (association football)|penalty]] from [[James Walker (footballer, born 1987)|James Walker]], 10 minutes from time. Smithies became the first choice keeper for the remainder of the [[2008–09 Huddersfield Town A.F.C. season|2008–09 season]] and, after the arrival of manager [[Lee Clark (footballer)|Lee Clark]], made the number one jersey his own.{{citation needed|date=February 2018}}
+
+====2009–10 season and first team====
+Throughout the [[2009–10 Huddersfield Town A.F.C. season|2009–10 season]], Smithies was the only player to play in each and every league and cup match for Huddersfield. He made 48 starts, 17 of which resulted in a clean sheet for the Terriers. His contribution in helping Huddersfield to a final position inside the League One playoffs was reflected by him winning the club's Young Player of the Year Trophy.&lt;ref&gt;[http://www.htafc.com/page/NewsDetail/0,,10312~2052530,00.html]  {{webarchive|url=https://web.archive.org/web/20100516173032/http://www.htafc.com/page/NewsDetail/0%2C%2C10312~2052530%2C00.html|date=16 May 2010}}&lt;/ref&gt;
+
+In conceding just 56 goals in such a competitive campaign, he won both praise and admiration from many quarters; earning the Football League's 'Young Player of the Month' award in February 2010 along the way. On 17 November 2009 Smithies was linked with [[Stoke City F.C.|Stoke City]] after a scout from the club was the latest in a long string of [[Premier League]] interest to be seen at the Galpharm. This interest was played down by Lee Clark and [[Tony Coton]], and Smithies insisted he was happy to be at Huddersfield.&lt;ref&gt;{{cite news |url=http://www.skysports.com/story/0,19528,11740_5700303,00.html |publisher=Sky Sports |title=Smithies happy at Huddersfield}}&lt;/ref&gt; Smithies was named as the [[Football League Young Player of the Month]] for February 2010 after keeping three clean sheets in seven undefeated Huddersfield Town matches.&lt;ref name=Young&gt;{{cite web |url=http://www.football-league.co.uk/footballleaguenews/20100315/smithies-claims-young-player-prize_2293334_1995019 |title=Smithies claims Young Player prize |publisher=The Football League |date=15 March 2010 |archiveurl=https://web.archive.org/web/20140726094741/http://www.football-league.co.uk/footballleaguenews/20100315/smithies-claims-young-player-prize_2293334_1995019 |archivedate=26 July 2014 |deadurl=yes}}&lt;/ref&gt;
+
+====2010–11 season====
+Smithies' 2010–11 campaign was punctuated by injury, restricting him to just 27 appearances in all competitions throughout the season. His performances, on the occasions he did play, earned him a call up to the England under-21 squad, although he was unable to play – again due to injury.{{citation needed|date=February 2018}}
+
+In January 2011, he was linked with a £1.5m move to [[Aston Villa F.C.|Aston Villa]], after Villa manager [[Gérard Houllier]] was said to have been impressed with his performance against [[Sheffield Wednesday F.C.|Sheffield Wednesday]].&lt;ref&gt;{{cite news |url=http://www.mirrorfootball.co.uk/news/Transfer-news-Aston-Villa-are-lining-up-a-1-5million-bid-for-Huddersfields-England-Under-21-goalkeeper-Alex-Smithies-article664059.html |title=Aston Villa are lining up a 1.5&amp;nbsp;million bid for Huddersfield's England Under-21 goalkeeper Alex Smithies |newspaper=Daily Mirror |location=London |date=12 July 2014 |accessdate=16 July 2014}}&lt;/ref&gt;
+
+Further speculation relating to his future at the club followed Huddersfield's 3–0 defeat against [[Peterborough United F.C.|Peterborough United]] in the League One play-off final, and he was linked with a move to [[Leicester City F.C.|Leicester City]], along with teammate [[Lee Peltier]].&lt;ref&gt;{{cite web |last=Thomson |first=Doug |url=http://www.examiner.co.uk/huddersfield-town-fc/huddersfield-town-news/2011/06/03/alex-smithies-and-lee-peltier-could-be-set-to-leave-huddersfield-town-86081-28812280/ |title=Alex Smithies and Lee Peltier could be set to leave Huddersfield Town |publisher=Huddersfield Examiner |date=3 June 2011 |accessdate=16 July 2014}}&lt;/ref&gt; However, when Leicester had a bid for [[Kasper Schmeichel]] accepted by [[Leeds United F.C.|Leeds United]] in June, speculation that Smithies could be heading for Leeds was rejected by Huddersfield chief executive Nigel Clibbens.&lt;ref&gt;{{cite news |last=Hay |first=Phil |url=http://www.yorkshireeveningpost.co.uk/sport/leeds-united/latest-whites-news/leeds_united_smithies_is_a_big_asset_insist_huddersfield_town_1_3511796 |title=Leeds United: Smithies is a big asset insist Huddersfield Town |newspaper=Yorkshire Evening Post |location=Leeds |date=24 June 2011 |accessdate=16 July 2014}}&lt;/ref&gt;
+
+====2011–12 season and promotion====
+Smithies' absence from the squad during 2010–11 through injury allowed [[Ian Bennett (footballer)|Ian Bennett]] to become first choice goalkeeper, backed up by fellow veteran [[Nick Colgan]]. His injury meant he remained sidelined for the first half of the season, and had to wait until 14 February 2012 to make his first appearance in the [[2011–12 Football League One|2011–12]] campaign. This came in the 1–0 home defeat to [[Sheffield United F.C.|Sheffield United]], a result which would cost manager Lee Clark his job the following day.&lt;ref name=HuddersVBlades&gt;{{cite news |title=Huddersfield Town 0–1 Sheffield United |url=https://www.bbc.co.uk/sport/0/football/16921915 |accessdate=14 February 2012 |publisher=BBC Sport |date=14 February 2012}}&lt;/ref&gt; This was followed by his first clean sheet of the campaign in Huddersfield's 2–0 home win over [[Exeter City]] on 25 February 2012.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/17083206 |title=Huddersfield 2–0 Exeter |publisher=BBC Sport |date=25 February 2012 |accessdate=16 July 2014}}&lt;/ref&gt; During the second leg [[EFL League One|League One]] play-off match against [[Milton Keynes Dons F.C.|Milton Keynes Dons]] he came on as a substitute for Bennett, who had gone off with an injured hand. Town lost the match 2–1 but reached the final against Sheffield United 3–2 on aggregate.&lt;ref&gt;{{cite web |last=Woodcock |first=Ian |url=https://www.bbc.co.uk/sport/0/football/17989104 |title=Hudd'field 1–2 MK Dons (agg 3–2) |publisher=BBC Sport |date=15 May 2012 |accessdate=16 July 2014}}&lt;/ref&gt; Smithies started in the final, which finished 0–0 thanks to some excellent saves from the young custodian.  In the [[Penalty shoot-out (association football)|penalty shoot-out]] Smithies performed more heroics, saving three of the Sheffield penalties.  After 10 penalties each, the sides were still inseparable, and Smithies and opposite number [[Steve Simonsen]] stepped up to take the next penalties for their sides. Smithies scored in emphatic fashion, before Simonsen put his penalty over the bar to give promotion to the terriers.&lt;ref name=2012PO&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/18127853 |title=Huddersfield 0–0 Sheff Utd |first=Emlyn |last=Begley |publisher=BBC Sport |date=26 May 2012 |archiveurl=https://web.archive.org/web/20160122123429/https://www.bbc.co.uk/sport/0/football/18127853 |archivedate=22 January 2016}}&lt;/ref&gt;
+
+====2012–13 season====
+On 17 August 2012, Smithies began his debut season in the [[EFL Championship|Championship]] with Huddersfield in a 1–0 away defeat at eventual league winners [[Cardiff City F.C.|Cardiff City]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/19205087 |title=Cardiff 1–0 Huddersfield |publisher=BBC Sport |date=17 August 2012 |accessdate=16 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/22133470 |title=Burnley 1–1 Cardiff |publisher=BBC Sport |date=20 April 2013 |accessdate=16 July 2014}}&lt;/ref&gt; He went on to start all 46 of Huddersfield's Championship fixtures, as well as all but one of the clubs five cup matches during the season, conceding 79 goals in the process.{{citation needed|date=February 2018}}
+
+====2013–14 season====
+Smithies started his second season in the Championship how he started his first, by starting all Huddersfield's opening eleven fixtures in all competitions, conceding 10 goals during that time. On 25 September 2013, Smithies agreed a new one-year contract extension at the club, keeping him at the [[John Smith's Stadium]] at least until the summer of 2016, with the Club having the option for a further year to June 2017.&lt;ref&gt;{{cite web |first=Dan |last=Nelson |url=http://www.htafc.com/news/article/first-team-news-alex-new-deal-2016-1076811.aspx |title='Keeper signs one year contract extension |publisher=Huddersfield Town Football Club |date=25 September 2013 |accessdate=16 July 2014}}&lt;/ref&gt;
+
+====2014–15 season====
+Smithies started his third season in the Championship as first choice goalkeeper, ahead of [[Joe Murphy (footballer, born 1981)|Joe Murphy]]. He conceded four goals on the opening day in a 4–0 home defeat to [[A.F.C. Bournemouth|Bournemouth]], but did save a penalty. The match would prove to be manager [[Mark Robins]]' last for the club.{{citation needed|date=February 2018}}
+
+===Queens Park Rangers===
+On 20 August 2015, Smithies joined [[Queens Park Rangers F.C.|Queens Park Rangers]] for an undisclosed fee, signing a three-year deal.&lt;ref&gt;{{cite web |first=Dan |last=Nelson |url=http://www.qpr.co.uk/news/article/alex-smithies-joins-qpr-huddersfield-town-transfer-2634611.aspx |title=QPR SIGN KEEPER ALEX SMITHIES |date=20 August 2015 |accessdate=20 August 2015}}&lt;/ref&gt;
+
+====2015–16 season====
+Smithies was initially the backup goalkeeper to [[Robert Green|Rob Green]]. Due to a clause in his contract, Green did not play from 1 January 2016 to the end of the season.&lt;ref&gt;{{cite news |title=QPR not playing Rob Green because of contract clause |url=http://www.skysports.com/football/news/11711/10201779/qpr-not-playing-rob-green-because-of-contract-clause |accessdate=12 March 2016 |publisher=Sky Sports |date=12 March 2016}}&lt;/ref&gt; Smithies and [[Matt Ingram]] vied for the number 1 spot. He played 18 Championship matches that season.{{citation needed|date=February 2018}}
+
+====2016–17 season====
+Smithies QPR's first choice goalkeeper for the 2016–17 season.  He was in inspired form making 46 appearances and keeping 7 clean sheets. Smithies won the QPR player's player of the season, supporters' player of the season and the Junior Hoops players of the season.&lt;ref name=POTY&gt;{{cite web |first=Ian |last=Taylor |title=Keeper Smithies scoops awards treble |url=https://www.qpr.co.uk/news/club-news/keeper-smithies-scoops-awards-treble/ |publisher=Queens Park Rangers F.C. |date=28 April 2017 |accessdate=29 December 2017}}&lt;/ref&gt;
+
+===Cardiff City===
+Smithies signed for newly promoted [[Premier League]] club [[Cardiff City F.C.|Cardiff City]] on 28 June 2018 on a four-year contract for an undisclosed fee.&lt;ref&gt;{{cite web |url=https://www.cardiffcityfc.co.uk/news/2018/june/done-deal--alex-smithies-signs-for-the-bluebirds/ |title=Alex Smithies signs for the Bluebirds |publisher=Cardiff City F.C. |date=28 June 2018 |accessdate=28 June 2018}}&lt;/ref&gt;
+
+==International career==
+He has four caps for the [[England national under-16 football team|England U-16's]] and 10 caps for the [[England national under-17 football team|England U-17's]] including five during the [[2007 FIFA U-17 World Cup]] in South Korea. In this competition he helped England U-17's make it to the Quarter-finals, before they were eventually eliminated by Germany after a 4–1 defeat.{{citation needed|date=February 2018}}
+
+On 20 November 2007, Smithies made his debut for the [[England national under-18 football team|England U-18 team]], where he played 45 minutes in their 2–0 win against [[Ghana national football team|Ghana U-18's]] at [[Gillingham F.C.|Gillingham]]'s [[Priestfield Stadium]]. In November 2008, Smithies received his first [[England national under-19 football team|England U-19]] call up for a friendly against [[Germany national under-19 football team|Germany U-19]]. His first match for the U19's came against [[Spain national under-19 football team|Spain U-19]] at [[A.F.C. Bournemouth|Bournemouth]]'s [[Dean Court]] ground on 10 February 2009, in a 3–0 defeat.{{citation needed|date=February 2018}}
+
+On 24 August 2010, Smithies received his first call-up to the [[England national under-21 football team|England U-21's]] for their matches against [[Portugal national under-21 football team|Portugal U-21's]] and [[Lithuania national under-21 football team|Lithuania U-21's]].{{citation needed|date=February 2018}}
+
+==Career statistics==
+{{updated|match played 5 January 2019}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[FA Cup]]
+!colspan=2|[[EFL Cup|League Cup]]
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=10|[[Huddersfield Town A.F.C.|Huddersfield Town]]
+|[[2007–08 Huddersfield Town A.F.C. season|2007–08]]&lt;ref name=sb0708&gt;{{soccerbase season|47387|2007|accessdate=27 January 2017}}&lt;/ref&gt;
+|[[EFL League One|League One]]
+|2||0||0||0||0||0||0||0||2||0
+|-
+|[[2008–09 Huddersfield Town A.F.C. season|2008–09]]&lt;ref name=sb0809&gt;{{soccerbase season|47387|2008|accessdate=27 January 2017}}&lt;/ref&gt;
+|League One
+|27||0||0||0||0||0||1{{efn|name=FLT|Appearance in [[Football League Trophy]]}}||0||28||0
+|-
+|[[2009–10 Huddersfield Town A.F.C. season|2009–10]]&lt;ref name=sb0910&gt;{{soccerbase season|47387|2009|accessdate=27 January 2017}}&lt;/ref&gt;
+|League One
+|46||0||3||0||2||0||4{{efn|Two appearances in Football League Trophy, two in [[EFL League One play-offs|League One play-offs]]}}||0||55||0
+|-
+|[[2010–11 Huddersfield Town A.F.C. season|2010–11]]&lt;ref name=sb1011&gt;{{soccerbase season|47387|2010|accessdate=27 January 2017}}&lt;/ref&gt;
+|League One
+|22||0||2||0||2||0||1{{efn|name=FLT}}||0||27||0
+|-
+|[[2011–12 Huddersfield Town A.F.C. season|2011–12]]&lt;ref name=sb1112&gt;{{soccerbase season|47387|2011|accessdate=27 January 2017}}&lt;/ref&gt;
+|League One
+|13||0||0||0||0||0||2{{efn|Appearances in League One play-offs}}||0||15||0
+|-
+|[[2012–13 Huddersfield Town A.F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|47387|2012|accessdate=27 January 2017}}&lt;/ref&gt;
+|[[EFL Championship|Championship]]
+|46||0||3||0||1||0||colspan=2|—||50||0
+|-
+|[[2013–14 Huddersfield Town A.F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|47387|2013|accessdate=27 January 2017}}&lt;/ref&gt;
+|Championship
+|46||0||2||0||3||0||colspan=2|—||51||0
+|-
+|[[2014–15 Huddersfield Town A.F.C. season|2014–15]]&lt;ref name=sb1415&gt;{{soccerbase season|47387|2014|accessdate=27 January 2017}}&lt;/ref&gt;
+|Championship
+|44||0||1||0||0||0||colspan=2|—||45||0
+|-
+|[[2015–16 Huddersfield Town A.F.C. season|2015–16]]&lt;ref name=sb1516/&gt;
+|Championship
+|1||0||0||0||0||0||colspan=2|—||1||0
+|-
+!colspan=2|Total
+!247||0||11||0||8||0||8||0||274||0
+|-
+|rowspan=4|[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|[[2015–16 Queens Park Rangers F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|47387|2015|accessdate=27 January 2017}}&lt;/ref&gt;
+|Championship
+|18||0||0||0||1||0||colspan=2|—||19||0
+|-
+|[[2016–17 Queens Park Rangers F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|47387|2016|accessdate=28 December 2017}}&lt;/ref&gt;
+|Championship
+|46||0||0||0||0||0||colspan=2|—||46||0
+|-
+|[[2017–18 Queens Park Rangers F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|47387|2017|accessdate=13 May 2018}}&lt;/ref&gt;
+|Championship
+|43||0||1||0||0||0||colspan=2|—||44||0
+|-
+!colspan=2|Total
+!107||0||1||0||1||0||colspan=2|—||109||0
+|-
+|[[Cardiff City F.C.|Cardiff City]]
+|[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|47387|2018|accessdate=31 August 2018}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||1||0||1||0||colspan=2|—||2||0
+|-
+!colspan=3|Career total
+!354||0||13||0||10||0||8||0||385||0
+|}
+
+{{notelist}}
+
+==Honours==
+'''Huddersfield Town'''
+*[[Football League One play-offs]]: [[2012 Football League play-offs#League One|2012]]&lt;ref name=2012PO/&gt;
+
+'''Individual'''
+*[[Football League Young Player of the Month]]: February 2010&lt;ref name=Young/&gt;
+*[[Queens Park Rangers F.C.|Queens Park Rangers]] Supporters' Player of the Year: [[2016–17 Queens Park Rangers F.C. season|2016–17]]&lt;ref name=POTY/&gt;
+*Queens Park Rangers Players' Player of the Year: 2016–17&lt;ref name=POTY/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.cardiffcityfc.co.uk/teams/first-team/goalkeeper/alex-smithies2/ Alex Smithies profile] at the Cardiff City F.C. website
+*{{Soccerbase}}
+
+{{Queens Park Rangers F.C. Player of the Year}}
+{{Cardiff City F.C. squad}}
+
+{{DEFAULTSORT:Smithies, Alex}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Huddersfield]]
+[[Category:Footballers from West Yorkshire]]
+[[Category:English footballers]]
+[[Category:England youth international footballers]]
+[[Category:Association football goalkeepers]]
+[[Category:Huddersfield Town A.F.C. players]]
+[[Category:Queens Park Rangers F.C. players]]
+[[Category:Cardiff City F.C. players]]
+[[Category:English Football League players]]</text>
+      <sha1>mxtk6gceo2zy6vsusofj0l7p7gd88gt</sha1>
+    </revision>
+  </page>
+</mediawiki>

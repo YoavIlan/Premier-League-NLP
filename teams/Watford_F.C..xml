@@ -1,0 +1,554 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Watford F.C.</title>
+    <ns>0</ns>
+    <id>85099</id>
+    <revision>
+      <id>884266221</id>
+      <parentid>883407154</parentid>
+      <timestamp>2019-02-20T15:53:34Z</timestamp>
+      <contributor>
+        <username>Thibaut02</username>
+        <id>33373808</id>
+      </contributor>
+      <comment>/* Out on loan */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="78667">{{About|the football club|the women's football club|Watford L.F.C.}}
+{{good article}}
+{{Use British English|date=August 2011}}
+{{Use dmy dates|date=September 2017}}
+{{Infobox football club
+| clubname = Watford
+| current  = 2018–19 Watford F.C. season
+| image    = [[File:Watford.svg|185px|Watford badge]]
+| fullname = Watford Football Club
+| nickname = ''The Hornets'', ''The Golden Boys'', ''Yellow Army'', ''The 'Orns''
+| short name = WFC
+| founded  = {{Start date and age|df=yes|1898}}
+| ground   = [[{{#property:P115}}]]
+| capacity = 20,400&lt;ref&gt;{{cite web|url=https://www.premierleague.com/publications |title=Premier League Handbook 2018–19 |publisher=Premier League |date=30 July 2018 |accessdate=3 January 2019}}&lt;/ref&gt;
+| main sponsor = Burrda&lt;ref&gt;Smith, Frank (20 May 2010). [http://www.watfordobserver.co.uk/sport/8177270.Watford_announce_new_shirt_deal/ "Watford announce new shirt deal"]. ''Watford Observer.'' Retrieved 19 April 2012.&lt;/ref&gt;
+| owner = [[Gino Pozzo]]&lt;ref name=ownership/&gt;
+| chairman = Scott Duxbury&lt;ref&gt;[https://www.watfordfc.com/club/club-statement-0 "Club Statement"]. ''watfordfc.com''. Retrieved 11 December 2016.&lt;/ref&gt;
+| manager = [[Javi Gracia]]&lt;ref&gt;[https://www.watfordfc.com/club/official-gracia-named-hornets-head-coach "Official | Gracia Named Hornets' Head Coach"]. ''watfordfc.com''. Retrieved 29 August 2018.&lt;/ref&gt;
+| league   = {{English football updater|Watford}}
+| season   = {{English football updater|Watford2}}
+| position = {{English football updater|Watford3}}
+| kit_alt1 = 
+| pattern_la1 = 
+| pattern_b1  = _watford1819h
+| pattern_ra1 = 
+| pattern_sh1 = _adidasyellow
+| pattern_so1 = _color_3_stripes_yellow
+| leftarm1    = 000000
+| body1       = 
+| rightarm1   = 000000
+| shorts1     = 000000
+| socks1      = 000000
+| kit_alt2 = 
+| pattern_la2 = _cpv18a
+| pattern_b2  = _cpv18a
+| pattern_ra2 = _cpv18a
+| pattern_sh2 = _haladas1819h
+| pattern_so2 = _haladas1819h
+| leftarm2    = 0C7746
+| body2       = 0C7746
+| rightarm2   = 0C7746
+| shorts2     = 0C7746
+| socks2      = 0C7746
+| website  = http://www.watfordfc.com/
+|}}
+'''Watford Football Club''' is a professional [[association football|football]] club based in [[Watford]], [[Hertfordshire]], England, that plays in the [[Premier League]], the highest level in the English football league system.  Founded in 1898 by the amalgamation of West Herts and Watford St. Mary's. After finishing the [[1914–15 Watford F.C. season|1914–15 season]] as Southern League champions under the management of [[Harry Kent (footballer)|Harry Kent]], Watford joined [[the Football League]] in 1920. The club played at several grounds in its early history, before moving to a permanent location at [[Vicarage Road]] in 1922, where it remains.&lt;ref name="wfcgrounds"&gt;{{cite web|url=http://www.watfordfc.premiumtv.co.uk/page/History/0,,10400~65929,00.html |title=History of Watford FC – Grounds |publisher=Watford Football Club |accessdate=27 October 2009 |date=9 September 2009 |archiveurl=https://web.archive.org/web/20091005031853/http://www.watfordfc.com/page/History/0%2C%2C10400~65929%2C00.html |archivedate= 5 October 2009 |deadurl=yes |df= }}&lt;/ref&gt; Watford spent most of the following half century in the lower divisions of The Football League, changing colours and crest on multiple occasions.&lt;ref name=historicalkits/&gt;
+
+[[England national football team|England]] manager [[Graham Taylor]]'s tenure at the club saw Watford scale new heights. Between Taylor's appointment in 1977 and departure in 1987, Watford rose from the [[Football League Fourth Division|Fourth Division]] to the [[Football League First Division|First Division]]. The team finished second in the First Division in the [[1982–83 Watford F.C. season|1982–83]] season, competed in the [[UEFA Europa League|UEFA Cup]] in [[1983–84 in English football|1983–84]], and also reached the [[1984 FA Cup Final]].&lt;ref name="fa1984cupfinal"&gt;{{cite web|url=http://www.thefa.com/TheFACup/FACompetitions/TheFACup/History/HistoryOfTheFACup/1984EvertonWatford|title=Classic Cup Finals: 1984|publisher=[[The Football Association]]|accessdate=27 October 2009}}&lt;/ref&gt; Watford experienced a decade of decline between 1987 and 1997, before Taylor returned as full-time manager, leading the team to successive promotions from the renamed [[Football League Second Division|Second Division]]{{efn|The third division was renamed Division 2 upon the inception of the [[Premier League]] in 1992–93.&lt;ref name=arsenal/&gt;|name = d3|group = lower-alpha}} to the [[Premier League]] for one season in 1999–2000. The club experienced a further one season stint in the top division of English football during the [[2006–07 Watford F.C. season|2006–07]] season, under [[Aidy Boothroyd]]'s management;&lt;ref&gt;Whitbread, Joe (30 November 2011) [http://www.watfordobserver.co.uk/sport/9393500.Boothroyd_takes_over_at_Cobblers/ "Boothroyd takes over at Cobblers"]. ''Watford Observer''. Retrieved 21 April 2012.&lt;/ref&gt; eight years in the Championship followed. Watford secured promotion in [[2014–15 Watford F.C. season|2014–15]], and have competed in the Premier League since the [[2015–16 Watford F.C. season|2015–16]] season finishing 13th, 17th and 14th respectively.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/32362059|title=Watford promoted to Premier League|publisher=BBC Sport|date=25 April 2015|accessdate=26 April 2015}}&lt;/ref&gt;
+
+Watford is owned by the [[Giampaolo Pozzo|Pozzo family]], which also owns [[Udinese Calcio]] in Italy&lt;ref name=ownership&gt;{{cite news |url=https://www.bbc.co.uk/sport/0/football/18646398 |title=Udinese's Pozzo family complete Watford takeover |newspaper=BBC Sport. |date=29 June 2012 |access-date=14 July 2012}}&lt;/ref&gt; and previously [[Granada CF]] in Spain.&lt;ref&gt;{{cite news |url=http://www.watfordobserver.co.uk/SPORT/14515314.Hornets_owner_Gino_Pozzo_to_sell_Granada/ |title=Watford owner Gino Pozzo to sell Granada to Chinese firm Link International Sports |date=25 May 2016 |newspaper=Watford Observer}}&lt;/ref&gt; Sir [[Elton John]], who owned Watford during both of Graham Taylor's successful periods as manager, served alongside Taylor as the club's joint Honorary Life President until 2008,&lt;ref&gt;{{cite news |url=http://www.watfordobserver.co.uk/sport/3822042.Elton_John_quits_Watford_FC_role/ |title=Elton John quits Watford FC role |newspaper=Watford Observer |date=6 November 2008}}&lt;/ref&gt; only to later resume the role he shared alongside Graham Taylor until Taylor's death.
+
+==History==
+
+===Early years===
+Watford Football Club was formed on the 15th April 1898 by the amalgamation of two strong local clubs, West Herts and Watford St Mary's.&lt;ref&gt;{{cite web |url=http://thestrawplaiters.com/rivalry-the/ |title=The Rivalry |work=The Straw Plaiters |accessdate=22 November 2018 }}&lt;/ref&gt;  The Watford Observer of the 7th May 1898 reported -
+"When three-parts of the season was gone, there were whispers of the advantages of amalgamation of the two clubs. That the principle was right few disputed, and the question narrowed itself down to a few minor difficulties. It was ascertained that the executive on both sides regarded the suggestion favourably, and joint meetings of the officials were arranged. The proposals took a definite shape, and very soon amalgamation was a thing accomplished. It was decided, however, that each club should finish off its fixtures. Next season the Watford club will play on the Cassio-Road ground, and one of the chief ideas of the amalgamation is to have a second team of sufficient strength to be an attraction while the first string is engaged elsewhere. The details of the amalgamation scheme we have already given in these columns. 
+Generally speaking, then, the local football season which has just closed has been a most important one. It has witnessed two steps which have marked fresh epochs - the adoption of professionalism and the amalgamation of West Herts and Watford St. Mary's." 
+The amalgamation was approved by the full F.A. committee on the 27th May 1898 as reported by the Lichfield Mercury of the 28th May 1898 "permission was given to Watford St. Mary's and West Herts to take the name of Watford Football Club, the two clubs having amalgamated."
+
+West Herts were previously known as Watford Rovers who were formed in 1881 by Henry Grover, who went on to play for the club as a [[full-back (football)|full back]].&lt;ref name="wfcnotablepeople"&gt;{{cite web|url=http://www.watfordfc.premiumtv.co.uk/page/History/0,,10400~65917,00.html |title=They shaped the club |accessdate=27 October 2009 |publisher=Watford Football Club |date=29 May 2008 |archiveurl=https://web.archive.org/web/20081203170637/http://www.watfordfc.com/page/History/0%2C%2C10400~65917%2C00.html |archivedate= 3 December 2008 |deadurl=yes |df= }}&lt;/ref&gt;&lt;ref name=j15/&gt; Rovers, originally composed entirely of [[amateur football|amateur players]], held home games at several locations in the [[Watford|town of Watford]].&lt;ref name=j15&gt;Jones 1996, p. 15.&lt;/ref&gt;&lt;ref name=chronology/&gt; The team first competed in the [[FA Cup]] in the [[FA Cup 1886–87|1886–87 season]], and in 1889 Watford won the [[Herts Senior Cup|County Cup]] for the first time. The team became the football section of "West Hertfordshire Club and Ground" in 1891, and consequently moved to a ground on [[Cassio Road]]. As "West Herts" they joined the [[Southern Football League]] in 1896.  West Herts fortunes slumped at the start of the 1897/98 season and attendances were less than 200.  They took the bold step of turning professional and their fortunes revived. Watford St. Mary's were runners up in the Hertfordshire Senior Cup of 1894/95 and attracted crowds of 400 to 500 even when West Herts were at home. The two clubs talked of an amalgamation, which ultimately occurred on 15 April 1898. This was reported by the Watford Observer of the 7th May 1898.  It was agreed that the two clubs should complete their remaining fixtures for the season.  The new club was named Watford Football Club.&lt;ref name=chronology&gt;Jones 1996, pp. 8–9.&lt;/ref&gt;
+
+[[File:SkillyWilliams.jpg|thumb|200px|left|alt=The head and shoulders of a man, wearing a hat and coat.|Long-serving [[Skilly Williams]] was Watford's first choice goalkeeper between 1914 and 1926.]]Following relegation to the Southern League Second Division in 1903, Watford appointed its first manager – former England international and First Division top scorer [[John Goodall]]. He led Watford to promotion, and kept the team in the division until his departure in 1910.&lt;ref name=managers/&gt; Despite financial constraints, Watford won the Southern League title in the [[1914–15 Watford F.C. season|1914–15 season]] under his successor, [[Harry Kent (footballer)|Harry Kent]]. Watford held the title for five years following the suspension of the Southern League during the First World War – after finishing the [[1919–20 Watford F.C. season|1919–20 season]] runners-up on [[goal average]], the club resigned from the Southern League to join the new [[Football League Third Division]].&lt;ref&gt;Jones 1996, p. 267.&lt;/ref&gt;
+
+From [[1921–22 in English football|1921–22]], the third tier of [[The Football League]] consisted of two parallel sections of 22 clubs, fighting both for promotion to the [[Football League Second Division|Second Division]] and also battling to hold on to their league status.&lt;ref name=arsenal&gt;Hodgson, Guy (17 December 1999). [https://www.independent.co.uk/sport/football-how-consistency-and-caution-made-arsenal-englands-greatest-team-of-the-20th-century-1133020.html "How consistency and caution made Arsenal England's greatest team of the 20th century"]. ''The Independent.'' Retrieved 21 April 2012.&lt;/ref&gt; There was a re-election system in place which meant the bottom two teams in each of the two divisions had to apply for re-election to the league.&lt;ref&gt;Titford, Roger (July 2006). [http://www.wsc.co.uk/content/view/1287/29/ "Fifth amendment"] {{Webarchive|url=https://web.archive.org/web/20120519105333/http://www.wsc.co.uk/content/view/1287/29/ |date=19 May 2012 }}. ''[[When Saturday Comes]]''. Retrieved 19 April 2012.&lt;/ref&gt; Watford finished outside the top six league positions in every season between 1922 and 1934. Following Kent's departure in 1926, they finished 21st out of 22 clubs in [[1926–27 in English football|1926–27]], but were unanimously re-elected to the league after a ballot of clubs in the top two divisions of The Football League.&lt;ref&gt;{{cite book|title=League Football and the Men Who Made It|first=Simon|last=Inglis|publisher=Willow Books|year=1988|isbn=0-00-218242-4|page=132}}&lt;/ref&gt; By contrast, under [[Neil McBain]] and subsequently [[Bill Findlay (footballer)|Bill Findlay]], the team recorded five consecutive top six finishes between [[1934–35 in English football|1934–35]] and [[1938–39 in English football|1938–39]], and won the [[Football League Third Division South Cup]] in 1937.&lt;ref&gt;Brown, Tony. [http://www.statto.com/football/stats/england/division-three-south-cup/honours "English Division Three South Cup : Honours"] {{webarchive|url=https://web.archive.org/web/20081204094305/http://www.statto.com/football/stats/england/division-three-south-cup/honours |date=4 December 2008 }}. Statto.com. Retrieved 19 April 2012.&lt;/ref&gt; The Football League was suspended in 1939 due to the Second World War.
+
+===Post-war era===
+[[File:Watford FC League Performance.svg|thumb|250px|right|Chart of yearly table positions of Watford in the English football league.]]Football resumed in 1946, with Watford still in the Third Division South. A 23rd-placed finish in [[1950–51 in English football|1950–51]] meant that the club had to apply for re-election to the league once more, but again teams in the First and Second Divisions unanimously voted for Watford to stay in the league.&lt;ref&gt;{{cite book|title=Denied F.C.: The Football League Election Struggles|first=Dave|last=Twdell|publisher=Yore Publications|year=2001|isbn=978-1-874427-98-8|page=18}}&lt;/ref&gt; McBain returned in 1956,&lt;ref name=managers/&gt; and the team remained in the division until 1958; the league was restructured into four national divisions for the [[1958–59 in English football|1958–59]] season, and Watford were placed in the [[Football League Fourth Division|Fourth Division]]. [[Ron Burgess (footballer)|Ron Burgess]] replaced McBain during that season, and in the following campaign Burgess presided over Watford's first Football League promotion. This team included Fourth Division top scorer [[Cliff Holton]],&lt;ref&gt;Ross, James M. (15 July 2011) [http://www.rsssf.com/tablese/engtops.html "English league leading goalscorers"]. [[Rec.Sport.Soccer Statistics Foundation]]. Retrieved 19 April 2012.&lt;/ref&gt; who scored a club record 42 league goals in the season.&lt;ref name=wfcrecords/&gt; Holton was sold to Northampton the following year after another 34 goals, to the anger of supporters.&lt;ref&gt;Jones 1996, p. 123.&lt;/ref&gt; Burgess was succeeded by [[Bill McGarry (footballer)|Bill McGarry]], who bought new players such as [[Charlie Livesey]] and [[Ron Saunders]], and in his only season at the club led the club to what was at the time its highest ever league position: third in the Third Division.&lt;ref name=mcgarry&gt;Jones 1996, pp. 147, 151, 205, 272–273.&lt;/ref&gt; Eighteen-year-old Northern Irish goalkeeper [[Pat Jennings]] also featured under McGarry, and made his international debut despite being a Third Division player.&lt;ref&gt;{{cite web|url=http://www.irishfa.com/squad-profiles/297/legends-of-the-game/pat-jennings/|title=Pat Jennings|accessdate=27 October 2009|publisher=[[Irish Football Association]]}}&lt;/ref&gt;
+
+McGarry joined [[Ipswich Town F.C.|Ipswich]] in 1964, and was replaced by player-manager [[Ken Furphy]], from [[Workington A.F.C.|Workington]]&lt;ref name=mcgarry/&gt; Furphy rebuilt the team around players such as [[Keith Eddy]] and [[Dennis Bond (footballer)|Dennis Bond]], but after holding Liverpool to a draw in the FA Cup and narrowly failing to win promotion in [[1966–67 in English football|1966–67]], Bond was sold to [[Tottenham Hotspur F.C.|Tottenham Hotspur]] for [[Pound sterling|£]]30,000, Watford's record transfer receipt at the time.&lt;ref name="Jones 1996, p. 43"&gt;Jones 1996, p. 43.&lt;/ref&gt; Furphy's rebuilding came to fruition in 1969 with the signing of [[Barry Endean]], whose arrival marked the start of an unbeaten run after Christmas.&lt;ref&gt;Jones 1996, p. 80.&lt;/ref&gt; Watford secured the Third Division title in April, at home to [[Plymouth Argyle F.C.|Plymouth Argyle]]. A year later Watford reached the FA Cup semi-final for the first time, defeating [[Football League First Division|First Division]] teams [[Stoke City F.C.|Stoke City]] and [[Liverpool F.C.|Liverpool]] along the way.&lt;ref&gt;Brown, Tony. [http://www.statto.com/football/teams/watford/1969-1970/results "Watford 1969–1970: results"] {{webarchive|url=https://web.archive.org/web/20140727120045/http://www.statto.com/football/teams/watford/1969-1970/results |date=27 July 2014 }}. Statto.com. Retrieved 4 May 2012.&lt;/ref&gt; Hampered by a lack of funds, however, Furphy eventually joined [[Blackburn Rovers F.C.|Blackburn Rovers]], to be succeeded by [[George Kirby (footballer)|George Kirby]]. Forced to sell players to survive, Watford fell back into the Third Division in 1972. The team continued to struggle in the third tier, and despite a managerial change, Watford were relegated again in 1975.&lt;ref name=managers/&gt;&lt;ref&gt;Brown, Tony. [http://www.statto.com/football/teams/watford/history/post-ww2 "Watford history 1945 to 1975"] {{webarchive|url=https://web.archive.org/web/20091230135342/http://www.statto.com/football/teams/watford/history/post-ww2 |date=30 December 2009 }}. Statto.com. Retrieved 19 April 2012.&lt;/ref&gt;
+
+{| class="toccolours" style="width:180px; float: right;"
+|-
+|
+{{Image label begin|image=Soccer Field Transparant.svg|link=|width=175|caption=Watford's starting lineup for the 1984 FA Cup final.}}
+{{Image label small|x=0.20|y=0.05|scale=350|text=[[Steve Sherwood|Sherwood]]}}
+{{Image label small|x=0.05|y=0.20|scale=350|text=[[David Bardsley|Bardsley]]}}
+{{Image label small|x=0.14|y=0.15|scale=350|text=[[Lee Sinnott|Sinnott]]}}
+{{Image label small|x=0.28|y=0.15|scale=350|text=[[Steve Terry|Terry]]}}
+{{Image label small|x=0.39|y=0.20|scale=350|text=[[Neil Price (footballer)|Price]]}}
+{{Image label small|x=0.05|y=0.38|scale=350|text=[[Nigel Callaghan|Callaghan]]}}
+{{Image label small|x=0.15|y=0.32|scale=350|text=[[Les Taylor (footballer)|L Taylor]]}}
+{{Image label small|x=0.28|y=0.32|scale=350|text=[[Kenny Jackett|Jackett]]}}
+{{Image label small|x=0.15|y=0.52|scale=350|text=[[George Reilly|Reilly]]}}
+{{Image label small|x=0.28|y=0.52|scale=350|text=[[Mo Johnston|Johnston]]}}
+{{Image label small|x=0.38|y=0.38|scale=350|text=[[John Barnes (footballer)|Barnes]]}}
+{{image label end}}
+|-
+|Watford's starting line-up for the [[1984 FA Cup Final]]. [[Paul Atkinson (footballer, born 1961)|Paul Atkinson]] came on as a substitute; Graham Taylor managed the team.&lt;ref name="fa1984cupfinal"/&gt;
+|}
+
+===Elton John era===
+Lifelong Watford supporter [[Elton John]] became club chairman in 1976. The singer declared an ambition to take the team into the First Division, and sacked Kirby's successor [[Mike Keen]] in April 1977.&lt;ref&gt;Phillips, Oliver (21 January 2002). [http://www.darlingtonandstocktontimes.co.uk/news/35787.print/ "Bitter times give way at last"]. ''Watford Observer''. Retrieved 20 April 2012.&lt;/ref&gt; When [[Graham Taylor (footballer)|Graham Taylor]] was named as Keen's successor, the club was still in the Fourth Division.&lt;ref name="bbctaylor"&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/a/aston_villa/1801976.stm|title=Graham Taylor profile|publisher=BBC Sport  |accessdate=27 October 2009|date=5 February 2002}}&lt;/ref&gt; Taylor achieved promotion in his [[1977–78 Watford F.C. season|first season]]; Watford won the [[Football League Fourth Division|Fourth Division]] title, recording the most wins, fewest defeats, most goals scored and fewest goals conceded of any side in the division.&lt;ref&gt;Brown, Tony. [http://www.statto.com/football/stats/england/division-four-old/1977-1978/table "English Division Four (old) 1977–1978 : Table] {{webarchive|url=https://web.archive.org/web/20160728092419/http://www.statto.com/football/stats/england/division-four-old/1977-1978/table |date=28 July 2016 }}. Statto.com. Retrieved 19 April 2012.&lt;/ref&gt; Promotion to the [[Football League Second Division|Second Division]] followed in [[1978–79 in English football|1978–79]], and [[Ross Jenkins (footballer born 1951)|Ross Jenkins]] finished the season as the league's top scorer with 29 goals. Watford consolidated with 18th and 9th-placed finishes over the following two seasons, and secured promotion to the [[Football League First Division|First Division]] for the first time in [[1981–82 in English football|1981–82]], finishing second behind [[Luton Town F.C. and Watford F.C. rivalry|rivals]] [[Luton Town F.C.|Luton Town]].&lt;ref name="bbctaylor"/&gt;&lt;ref name=promotion1982&gt;Brown, Tony. [http://www.statto.com/football/stats/england/division-two-old/1981-1982/table "English Division Two (old) 1981–1982 : Table"] {{webarchive|url=https://web.archive.org/web/20170409202551/http://www.statto.com/football/stats/england/division-two-old/1981-1982/table |date=9 April 2017 }}. Statto.com. Retrieved 19 April 2012.&lt;/ref&gt;
+
+Watford started the [[1982–83 Watford F.C. season|1982–83]] season with four league wins from the opening five fixtures; in the space of seven years, the club had climbed from bottom place in the lowest division of The Football League to top position in the highest division.&lt;ref&gt;Brown, Tony. [http://www.statto.com/football/teams/watford/1975-1976/table/1975-08-23 "Watford 1975–1976 : English Division Four (old) Table"] {{webarchive|url=https://web.archive.org/web/20150924143235/http://www.statto.com/football/teams/watford/1975-1976/table/1975-08-23 |date=24 September 2015 }}. Statto.com. Retrieved 19 April 2012.&lt;/ref&gt;&lt;ref name=top&gt;Brown, Tony. [http://www.statto.com/football/teams/watford/1982-1983/table/1982-09-11 "Watford 1982–1983 English Division One (old): Table on 11.09.1982."] {{webarchive|url=https://web.archive.org/web/20150924143237/http://www.statto.com/football/teams/watford/1982-1983/table/1982-09-11 |date=24 September 2015 }}. Statto.com. Retrieved 2 May 2012.&lt;/ref&gt; Watford were unable to maintain a title challenge, but eventually finished the season second behind Liverpool, which ensured [[UEFA Europa League|UEFA Cup]] qualification for the following season. [[Luther Blissett]] finished the season as the [[List of English football champions|First Division top scorer]], before signing for Italian [[Serie A]] side [[A.C. Milan|Milan]] for £1&amp;nbsp;million at the end of the season.&lt;ref&gt;{{cite web|url=http://www.watfordobserver.co.uk/news/169701.star_striker_blissett_heads_for_new_life_at_italys_ac_milan/|title=Star striker Blissett heads for new life at Italy's AC Milan|work=Watford Observer|date=6 July 1983|accessdate=27 October 2009}}&lt;/ref&gt; An [[FA Cup Final]] appearance followed in [[1984 FA Cup Final|the 1984 fixture]], where they lost to [[Everton F.C.|Everton]].&lt;ref name="fa1984cupfinal"/&gt; After guiding Watford to a ninth-place finish in [[1986–87 in English football|1986–87]], Taylor left the club to manage [[Aston Villa F.C.|Aston Villa]].&lt;ref name="bbctaylor"/&gt;
+
+Following Taylor's departure, [[Wimbledon F.C.|Wimbledon]] manager [[Dave Bassett]] was appointed as his replacement, and England [[winger (football)|winger]] [[John Barnes (footballer)|John Barnes]] was sold to Liverpool. After 4&lt;!---consistent with 23, per MOS:NUM---&gt; wins from his opening 23 league fixtures, Bassett was sacked in January 1988. Watford were bottom of the First Division at the time of his departure, and [[Steve Harrison (footballer)|Steve Harrison]] could not prevent relegation at the end of the season. In [[1988–89 in English football|1988–89]], Harrison's Watford failed to return to the First Division, after defeat in the Second Division play-offs. The under-18 team won the [[FA Youth Cup]], beating [[Manchester City F.C.|Manchester City]] 2–1 after extra time,&lt;ref&gt;{{cite web|url=http://www.thefa.com/TheFACup/FACompetitions/TheFAYouthCup/History/FAYouthCupWinners.aspx|title=FA Youth Cup winners|publisher=The Football Association|accessdate=22 October 2009}}&lt;/ref&gt; with future [[England national football team|England international]] [[David James (footballer)|David James]] in goal for the Hornets. Harrison departed in 1990, and over the next few years, the closest Watford came to promotion was a seventh-placed finish in Division One{{refn|The second division was renamed Division 1 upon the inception of the Premier League in 1992–93,&lt;ref name=arsenal/&gt; and rebranded as the Football League Championship in 2004–05.&lt;ref name="Joy divisions"&gt;Titford, Roger (July 2009). [http://www.wsc.co.uk/content/view/5026/29/ "Joy divisions"] {{Webarchive|url=https://web.archive.org/web/20120520164017/http://www.wsc.co.uk/content/view/5026/29/ |date=20 May 2012 }}. ''When Saturday Comes''. Retrieved 2 May 2012.&lt;/ref&gt;|name = flc|group = lower-alpha}} in the [[1994–95 in English football|1994–95 season]].&lt;ref name=recentseasons/&gt; However, in the following season – [[Glenn Roeder]]'s third as manager – Watford struggled. Despite the return of Graham Taylor as caretaker manager in February 1996, the club was relegated to Division Two.&lt;ref name=managers/&gt;&lt;ref name="bbctaylor"/&gt;
+
+Following the relegation, Taylor became Director of Football, with former Watford midfielder [[Kenny Jackett]] as manager. After a mid-table finish in Division Two in [[1996–97 in English football|1996–97]], Jackett was demoted to the position of assistant manager. Taylor returned as manager, and won the Second Division title in [[1997–98 in English football|1997–98]] – Watford's second league title under his management. A second successive promotion followed in [[1998–99 Watford F.C. season|1998–99]], thanks to a 2–0 [[1999 Football League First Division play-off Final|play-off final]] victory over [[Bolton Wanderers F.C.|Bolton Wanderers]]. Watford's first [[1999–2000 Watford F.C. season|Premiership season]] started with an early victory over Liverpool, but Watford's form soon faded, and the club was relegated after finishing bottom. Graham Taylor retired at the end of the [[2000–01 Watford F.C. season|2000–01 season]],&lt;ref name="bbctaylor"/&gt; and was replaced by [[Gianluca Vialli]].&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/competitions/championship/3004527/Vialli-unveiled-as-new-Watford-manager.html|title=Vialli unveiled as new Watford manager|work=Daily Telegraph|accessdate=27 October 2009 | first=William | last=Johnson | date=1 May 2001}}&lt;/ref&gt; Wage bills at the club rose by £4&amp;nbsp;million during Vialli's tenure, and the club finished 14th in the division in 2001–02. Vialli was sacked at the end of the season, following a dispute with the club's board over the wage bill.&lt;ref&gt;Hughes, Matt (14 June 2002). [http://www.thisislondon.co.uk/sport/vialli-sacked-by-watford-6307763.html "Vialli sacked by Watford"]. ''[[Evening Standard]]''. Retrieved 2 May 2012.&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/2045074.stm|title=Vialli sacked|publisher=BBC Sport |accessdate=27 October 2009|date=14 June 2002}}&lt;/ref&gt; He was replaced by [[Ray Lewington]], who had joined the club the previous summer as Vialli's reserve team manager.&lt;ref&gt;[https://www.telegraph.co.uk/sport/3030941/Watford-appoint-Lewington.html "Watford appoint Lewington"]. ''[[The Daily Telegraph|The Telegraph]]''. 11 July 2002. Retrieved 2 May 2012.&lt;/ref&gt;
+
+===Administration===
+[[File:Nyron Nosworthy Watford.jpg|thumb|right|270px|alt=Two men wearing yellow shirts, red shorts and red socks, standing on a grass field. Both appear to be celebrating: one man has his arms aloft, the other is following him.|[[Nyron Nosworthy]] celebrates a goal against [[Cardiff City F.C.|Cardiff City]] in the 2011–12 season.]]Watford's weak financial position was exposed in [[2002–03 Watford F.C. season|2002–03]], following the collapse of [[ITV Digital]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/2278920.stm|title=Watford in financial peril|publisher=BBC Sport |accessdate=27 October 2009|date=24 September 2002}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/2737337.stm|title=Vialli sues Watford|publisher=BBC Sport |accessdate=7 February 2011|date=7 February 2003}}&lt;/ref&gt; The club was facing administration, but an agreement by players and staff to a 12% wage deferral helped the club's cash flow, and a run to the FA Cup semi-final generated vital revenue.&lt;ref name="bbc2003cuprun"&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/2847751.stm|title=Hornets eye stadium repurchase|publisher=BBC Sport |accessdate=27 October 2009|date=13 March 2003}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/2281913.stm|title=Watford players agree pay cut|accessdate=27 October 2009|publisher=BBC Sport |date=25 September 2002}}&lt;/ref&gt; Financial constraints saw a large number of players released that summer. After consolidating in [[2003–04 Watford F.C. season|2003–04]], [[2004–05 Watford F.C. season|the following season]] started well, with the club in the upper half of the Championship at the end of September. Poor form, however, saw the club drop towards the relegation zone. Despite reaching the semi-final of the [[Football League Cup|League Cup]], Watford's league form did not improve, and Lewington was sacked in March 2005.&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/4371469.stm "Watford dismiss manager Lewington"]. BBC Sport. 22 March 2005. Retrieved 24 April 2012.&lt;/ref&gt; His successor, [[Aidy Boothroyd]],&lt;ref name=boothroydsummary/&gt; led the club to Championship survival.&lt;ref name=recentseasons/&gt;
+
+===Return to the Premier League===
+Watford finished third in the league in Boothroyd's [[2005–06 Watford F.C. season|first full season]],&lt;ref name=recentseasons/&gt; and defeated [[Leeds United F.C.|Leeds United]] 3–0 in the [[2006 Football League Championship play-off Final|play-off final]] to gain promotion to the Premier League.&lt;ref name=Leedsplayoff/&gt; But the team did not record a Premier League win until November, and [[Ashley Young]] was sold to Aston Villa for a club record fee of £9.65&amp;nbsp;million in January 2007.&lt;ref name="wfcrecords"/&gt;&lt;ref name="bbcsellyoung"&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/a/aston_villa/6277389.stm|title=Young completes £9.65m Villa move|publisher=BBC Sport |accessdate=27 October 2009|date=23 January 2007}}&lt;/ref&gt; Watford finished bottom after only winning five league games,&lt;ref name=recentseasons/&gt; but did reach the semi-finals of the [[FA Cup]].&lt;ref&gt;McNulty, Phil (14 April 2007). [http://news.bbc.co.uk/sport1/hi/football/fa_cup/6534697.stm "Watford 1–4 Man Utd"]. BBC Sport. Retrieved 2 May 2012.&lt;/ref&gt; Boothroyd continued as manager, and spent heavily on players, including a then-club record £3.25&amp;nbsp;million for [[Nathan Ellington]].&lt;ref name="bbcbuyellington"&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/6969399.stm|title=Watford sign Ellington for £3.25m|publisher=BBC Sport |accessdate=27 October 2009 | date=29 August 2007}}&lt;/ref&gt; Watford led the Championship by several points early in [[2007–08 Watford F.C. season|2007–08]], but only finished sixth;&lt;ref name=recentseasons/&gt; Boothroyd's team were defeated 6–1 on aggregate by [[Hull City A.F.C.|Hull City]] in the play-off semi-finals.&lt;ref&gt;McNulty, Phil (14 May 2008). [http://news.bbc.co.uk/sport1/hi/football/eng_div_1/7393756.stm "Hull 4–1 Watford (agg 6–1)"]. BBC Sport. Retrieved 24 April 2012.&lt;/ref&gt; Boothroyd left the club by mutual consent three months into the [[2008–09 Watford F.C. season|2008–09 season]], with Watford 21st in the Championship table.&lt;ref name=boothroydsummary&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/7707054.stm|title=Boothroyd leaves Watford position|publisher=BBC Sport |accessdate=27 October 2009 | date=3 November 2008}}&lt;/ref&gt;
+
+Under Boothroyd's successor, [[Brendan Rodgers]], Watford finished 13th. Rodgers left to manage [[Reading F.C.|Reading]] at the end of the season;&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/teams/r/reading/8081467.stm "Rodgers confirmed as Reading boss"]. BBC Sport. 5 June 2009. Retrieved 24 April 2012.&lt;/ref&gt; [[Malky Mackay]], who had previously served as caretaker manager, was his replacement.&lt;ref name=MM&gt;[http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/8098749.stm "Mackay appointed Watford manager"]. BBC Sport. 15 June 2009. Retrieved 19 April 2012.&lt;/ref&gt; Amid the departures of several key players during Mackay's tenure, including [[Tommy Smith (footballer, born 1980)|Tommy Smith]] and [[Jay DeMerit]], and the club coming close to [[Administration (British football)|administration]],&lt;ref&gt;Parker, Ian (16 December 2009). [https://www.independent.co.uk/sport/football/football-league/watford-on-brink-of-administration-1842309.html "Watford on brink of administration"]. ''The Independent''. Retrieved 19 April 2012.&lt;/ref&gt; Watford finished 16th in [[2009–10 Watford F.C. season|2009–10]] and 14th the [[2010–11 Watford F.C. season|following season]].&lt;ref name=managers2&gt;{{Cite web|url=http://www.soccerbase.com/teams/team.sd?team_id=2741&amp;comp_id=2#teamTabs=managers|title=Watford manager history|publisher=Centurycomm|work=[[Soccerbase]]|accessdate=10 March 2011}}&lt;/ref&gt; Mackay left to manage [[Cardiff City F.C.|Cardiff City]] in June 2011 and was replaced by [[Sean Dyche]].&lt;ref name=MMCC&gt;{{Cite news|url=http://news.bbc.co.uk/sport1/hi/football/13680791.stm|title=Cardiff City appoint Watford's Malky Mackay as manager|work=BBC Sport  |accessdate=17 June 2011|date=17 June 2011}}&lt;/ref&gt; Despite presiding over Watford's highest league position in four years, Dyche was dismissed as Watford manager in July 2012.&lt;ref&gt;Matthews, Anthony (6 July 2012). [http://www.watfordobserver.co.uk/sport/9804084.Hornets_terminate_Dyche_s_contract/ "Hornets terminate Dyche's contract"]. ''Watford Observer'' Retrieved 14 July 2012.&lt;/ref&gt; He was replaced by former Italy international [[Gianfranco Zola]] following the Pozzo family's purchase of the club.&lt;ref name=zolajoins&gt;Short, Paul (8 July 2012). [https://www.independent.co.uk/sport/football/football-league/zola-confirmed-as-watford-manager-7922452.html "Zola confirmed as Watford manager"]. ''The Independent''. Retrieved 14 July 2012.&lt;/ref&gt; Dyche went on to achieve success with [[Burnley F.C.|Burnley]]&lt;ref&gt;"[http://www.espn.com/soccer/burnley/story/3312568/burnleys-achievements-under-sean-dyche-equal-to-pep-guardiolas-at-man-city-chris-hughton Burnley's achievements under Dyche equal to Pep's at Man City - Hughton]", ''[[ESPN|ESPN Sports]]'', 16 December 2017&lt;/ref&gt;&lt;ref&gt;"[http://www.lancashiretelegraph.co.uk/sport/16146289.__39_A_brilliant_manager__39____Pundits_praise_for_Sean_Dyche_and_Burnley/ 'A brilliant manager' - Pundits praise for Sean Dyche and Burnley]", ''[[Lancashire Telegraph]]'', 9 April 2018&lt;/ref&gt; and become one of their longest serving football managers.&lt;ref&gt;"[http://www.skysports.com/football/news/11708/11098322/sean-dyches-five-years-at-burnley Sean Dyche's five years at Burnley]", ''[[Sky Sports]]'', 30 October 2017&lt;/ref&gt;
+
+===Pozzo Family era===
+In the [[2012–13 Watford F.C. season|2012–13 season]] Watford finished third in the Championship, and reached the play-off final where they were defeated in the final by [[Crystal Palace F.C.|Crystal Palace]] 1–0 via an extra-time penalty by [[Kevin Phillips (footballer)|Kevin Phillips]]. The following season,  [[Giuseppe Sannino]] replaced Zola, as their new manager and the team finished the season in 13th place. Sannino resigned at the start of the 2014–15 season and was replaced by [[Óscar García Junyent|Óscar García]], who left shortly afterwards for "health reasons."
+
+[[Billy McKinlay]] replaced him and won his first game in charge, 2-1 against [[Brentford F.C.]], before a 1-1 draw with [[Brighton &amp; Hove Albion F.C.]]. Despite the team getting 4 points out of a possible 6 under his stewardship, the club decided to replace McKinlay, just eight days into his tenure, with [[Slaviša Jokanović]]. With Jokanović managing the team, Watford, on 25 April 2015, gained promotion to the [[Premier League]] after defeating Brighton 2–0 and other results going their way.&lt;ref&gt;{{cite news|url= https://www.theguardian.com/football/2015/apr/25/brighton-watford-championship-match-report|title= Watford seal Premier League return as Brighton are put to the sword|date=25 April 2015|work=The Guardian|location=London|accessdate=28 April 2015}}&lt;/ref&gt; However, they failed to win their final game of the season against [[Sheffield Wednesday F.C.|Sheffield Wednesday]], thus allowing [[A.F.C. Bournemouth|AFC Bournemouth]] to win the Championship title in the season's finale.&lt;ref&gt;{{cite news|url=http://www.espnfc.com/english-league-championship/story/2428642/championship-bournemouth-top-and-derby-denied|title= Bournemouth top and Derby denied|date=2 May 2015}}&lt;/ref&gt;
+
+Jokanović and Watford did not renew his one-year contract and the manager was replaced in June 2015 by the Spaniard [[Quique Sánchez Flores]].&lt;ref&gt;"[https://www.theguardian.com/football/2015/jun/05/watford-set-to-confirm-appointment-of-quique-flores-as-manager Watford appoint Quique Sánchez Flores as manager]", ''[[The Guardian]]'', 5 June 2015&lt;/ref&gt; Watford's first fixture in their return to the Premier League was a 2–2 away draw with Everton.&lt;ref&gt;{{cite web|url= http://www.watfordfc.com/news/article/150617-watford-fc-premier-league-fixture-release-2496240.aspx|title=Hornets Travel To Everton on Opening Day|date=17 June 2015|work=Watford FC |accessdate=18 June 2015}}&lt;/ref&gt; In the 2015–16 season, Watford reached the semi-finals of the [[2015–16 FA Cup|FA Cup]] with a goal by midfielder [[Adlène Guedioura]] against Arsenal at [[Emirates Stadium]], ending Arsenal's bid to win the competition for three successive times,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/35738604|title=Arsenal 1–2 Watford – BBC Sport|date=13 March 2016|work=BBC Sport|accessdate=18 March 2016}}&lt;/ref&gt; and finished 13th in the [[2015–16 Premier League#League table|Premier League]].&lt;ref&gt;"[https://www.mirror.co.uk/sport/football/news/watford-skipper-troy-deeney-slams-7979574 Watford skipper Troy Deeney slams 'crazy' decision to sack Quique Sanchez Flores]" by Mike Walters, ''[[The Daily Mirror]]'', 16 May 2016&lt;/ref&gt; Near the end of the season, in May 2016, Sánchez Flores was sacked, because, as he stated, he and the owners "[did] not have the same point of view about the season," and was replaced by Italian coach [[Walter Mazzarri]] who signed a three-year contract.&lt;ref&gt;"[http://www.dailymail.co.uk/sport/football/article-3602162/Watford-announce-Walter-Mazzari-new-manager-replace-Quique-Sanches-Flores-three-year-contract.html Watford announce Walter Mazzari as their new manager who replaces Quique Sanchez Flores after agreeing three-year contract]" by Phil Costa, ''[[Daily Mail]]'', 21 May 2016&lt;/ref&gt; At the end of the next season, in May 2017, Watford finished 17th and Mazzari resigned,&lt;ref&gt;"[https://www.mirror.co.uk/sport/football/news/watfords-ruthless-owners-sack-another-10443654nWatford's ruthless owners sack another manager in Walter Mazzarri — but will stick with their hire-and-fire approach]{{Dead link|date=December 2018 |bot=InternetArchiveBot |fix-attempted=yes }}" by John Cross, ''[[The Daily Mirror]]'', 17 May 2017&lt;/ref&gt; replaced by [[Marco Silva]].&lt;ref&gt;"[https://www.telegraph.co.uk/football/2017/05/27/watford-appoint-marco-silva-new-head-coach/ Watford appoint Marco Silva as new head coach]" by Sam Wallace, ''[[The Daily Telegraph]]'', 27 May 2017&lt;/ref&gt; The new coach was sacked after approximately six months, in January 2018, and the club hired [[Javi Gracia]].&lt;ref&gt;"[https://www.premierleague.com/news/601390 Watford name Gracia as new head coach]", Premier League website, 21 January 2018&lt;/ref&gt;
+
+==Club identity==
+{{Football kit box
+ | align       = left
+ | pattern_la = 
+ | pattern_b  = _vneckwhite
+ | pattern_ra = 
+ | pattern_sh = 
+ | pattern_so = 
+ | leftarm    = 2E2EFE
+ | body       = 2E2EFE
+ | rightarm   = 2E2EFE
+ | shorts     = FFFFFF
+ | socks      = 2E2EFE
+ | title      = Watford's colours were blue and white from 1927 until 1959.
+}}{{Football kit box
+ | align       = left
+ | pattern_la =
+ | pattern_b  = _vneckblack
+ | pattern_ra =
+ | pattern_sh = 
+ | pattern_so = _color 3 stripes black
+ | leftarm    = FACC2E
+ | body       = FACC2E
+ | rightarm   = FACC2E
+ | shorts     = 000000
+ | socks      = FACC2E
+ | title      = The club changed to a gold and black colour scheme in 1959–60.
+}}
+Watford's kit has changed considerably over the course of the club's history. The club's kit featured various combinations of red, green and yellow stripes, before a new colour scheme of black and white was adopted for the 1909–10 season. These colours were retained until the 1920s, when the club introduced an all-blue shirt. After a change of colours to gold shirts and black shorts for 1959–60, the team's nickname was changed to The Hornets, after a popular vote via the supporters club. These colours remained until 1976, when Watford's kits started featuring red, and the gold was changed to yellow. That colour scheme has continued into the 21st century.&lt;ref name=historicalkits&gt;{{cite web|url=http://www.historicalkits.co.uk/Watford/Watford.htm|accessdate=17 October 2009|title=Watford – Historical football kits}}&lt;/ref&gt;
+
+Watford's initial nickname was ''The Brewers'', in reference to the [[Benskins Brewery]], which owned the freehold of Vicarage Road.&lt;ref name=benskins&gt;{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/david-conn-new-owners-of-vicarage-road-revealed-as-watford-wither-643356.html|title=New owners of Vicarage Road revealed as Watford wither|work=The Independent|accessdate=20 October 2009|date=21 September 2002|author=Conn, David|archiveurl=https://archive.today/20130125050433/http://www.highbeam.com/doc/1P2-1712032.html|archivedate=25 January 2013}} ''Subscription required''.&lt;/ref&gt; This nickname did not prove particularly popular, and upon the adoption of a blue-and-white colour scheme in the 1920s, the club became predominantly known as ''The Blues''. When Watford changed kit colours in 1959, supporters chose ''The Hornets'' as the team's new nickname, and the club later introduced a crest depicting a hornet.&lt;ref name=historicalkits/&gt; In 1974 the design was changed to depict Harry the Hornet, the club's mascot.&lt;ref name=historicalkits/&gt;&lt;ref&gt;Moore, Glenn (19 April 2008). [https://www.independent.co.uk/sport/football/football-league/anyones-race-top-of-the-league-811847.html "Anyone's race: Top of the league"]. ''The Independent''. Retrieved 9 May 2012.&lt;/ref&gt; The club's nickname remains, but in 1978 the hornet crest was replaced by a depiction of a [[Hart (deer)|hart]] – a male red fallow deer– on a yellow and black background. A hart represents the town's location in the county of [[Hertfordshire]]. Until [[Barnet F.C.|Barnet]]{{refn|Although now located in Greater London, Barnet continue to participate in the [[Herts Senior Cup]], organised by the [[Hertfordshire Football Association]].&lt;ref&gt;[https://web.archive.org/web/20090416085158/http://www.barnetfc.com/page/History/0%2C%2C10431~1053449%2C00.html "The history of Barnet FC – 1939 to the 1950s"]. Barnet Football Club. 15 June 2007. Retrieved 2 May 2012. Archived from [http://www.barnetfc.com/page/History/0,,10431~1053449,00.html the original] {{Webarchive|url=https://web.archive.org/web/20120311013631/http://www.barnetfc.com/page/History/0,,10431~1053449,00.html |date=11 March 2012 }} on 16 April 2009.&lt;/ref&gt;&lt;ref&gt;Ronayne, James (13 April 2011). [http://www.thecomet.net/stevenage-fc/bees_sting_boro_in_senior_cup_final_1_863610 "Bees sting Boro in Senior Cup Final"]. ''The Comet''. Retrieved 12 August 2012.&lt;/ref&gt;|group=lower-alpha}} and, later, Stevenage joined the Football League, Watford were Hertfordshire's only league club.&lt;ref&gt;{{cite news| url=https://www.theguardian.com/football/2001/feb/21/theknowledge.sport | work=The Guardian | title=Whatever happened to Third Lanark? | first=Scott | last=Murray | date=21 February 2001 | accessdate=27 May 2010}}&lt;/ref&gt; Other nicknames have since been adopted, including ''The Golden Boys'',&lt;ref&gt;Barlow, Matt (13 February 2009). [http://www.dailymail.co.uk/sport/football/article-1145130/Golden-boys-set-bar-Watford-Blissett-Barnes-roll-town.html "Golden boys set bar for Watford as Blissett and Barnes roll back into town"]. ''Mail Online''. Retrieved 20 April 2012.&lt;/ref&gt; ''Yellow Army''&lt;ref&gt;Wilson, Paul (15 April 2007). [https://www.theguardian.com/football/2007/apr/15/watford "Feisty Watford a credit to 'best league in the world'"]. ''The Guardian''. Retrieved 20 April 2012.&lt;/ref&gt; and ''The 'Orns''.&lt;ref&gt;Bagchi, Rob (4 December 2010). [https://www.theguardian.com/football/2010/dec/04/premier-league-clockwatch-live "Premier League clockwatch"]. ''The Guardian''. Retrieved 21 April 2012.&lt;/ref&gt;
+
+When Watford play at [[Vicarage road]] their players traditionally enter the pitch at the start of the game to the ''[[Z-Cars]]'' [[Theme from Z-Cars|theme tune]].&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/7886856.stm "FA Cup fifth round as it happened"]. BBC Sport. Retrieved 12 August 2012.&lt;/ref&gt;
+
+===Kit manufacturers and shirt sponsors===
+{| class="wikitable sortable collapsible collapsed" style="text-align: center; font-size: 100%;"
+|-
+!Period
+!Kit manufacturer
+!Shirt sponsor
+|-
+|1974–1982
+|rowspan=5|[[Umbro]]
+| —
+|-
+|1982–1985
+|[[Iveco]]
+|-
+|1985–1988
+|Solvite
+|-
+|1988–1989
+|Eagle Express
+|-
+|1989–1991
+|[[Northumberland Herald and Post|Herald &amp; Post]]
+|-
+|1991–1993
+|[[Bukta]]
+|[[RCI (company)|RCI]]
+|-
+|1993–1995
+|[[Hummel International|Hummel]]
+|rowspan=2|[[Blaupunkt]]
+|-
+|1995–1996
+|rowspan=2|[[Mizuno Corporation|Mizuno]]
+|-
+|1996–1998
+|rowspan=2|CTX
+|-
+|1998–1999
+|rowspan=2|[[Le Coq Sportif]]
+|-
+|1999–2001
+|[[Phones 4u]]
+|-
+|2001–2003
+|rowspan=2|Kit@
+|[[Toshiba]]
+|-
+|2003–2005
+|[[Total S.A.|Total]]
+|-
+|2005–2007
+|rowspan=2|[[Diadora]]
+|[[Loans.co.uk]]
+|-
+|2007–2009
+|[[Beko]]
+|-
+|2009–2010
+|[[Joma]]
+|Evolution HDTV
+|-
+|2010–2012
+|[[BURRDA]]
+|[[BURRDA]]
+|-
+|2012–2013
+|rowspan=2|[[Puma AG|Puma]]
+|[[Football Manager]]
+|-
+|2013–2016
+|rowspan=2|138.com
+|-
+|2016–2017
+|[[Dryworld]]
+|-
+|2017–
+|[[Adidas]]
+|FxPro
+|}
+
+==Stadium==
+{{Main|Vicarage Road}}[[File:Watford v Coventry, Vicarage Road, 2000.jpg|thumb|230px|right|Watford fans at Vicarage Road, on the last day of the [[1999–2000 Watford F.C. season|1999–2000 season]]]]
+Watford Rovers played at several grounds in the late 19th century, including [[Cassiobury Park]], Vicarage Meadow and Market Street, [[Watford]]. In 1890, the team moved to a site on Cassio Road, and remained there for 32 years, before moving to Watford's current stadium at nearby [[Vicarage Road]].&lt;ref name=chronology/&gt; The new stadium was initially owned by [[Benskins Brewery]]; the club rented the ground until 2001, when it purchased the freehold outright. However, the club's financial situation worsened following the purchase, and in 2002 Watford sold the ground for £6&amp;nbsp;million in a deal which entitled Watford to buy the stadium back for £7&amp;nbsp;million in future. Watford took up this option in 2004 using a campaign backed and funded by the fans called "Lets buy back the Vic".&lt;ref&gt;{{cite web|url=http://mobile.watfordobserver.co.uk/search/516393.Watford_seal_Vicarage_Road_deal/|title=Watford seal Vicarage Road Deal|work=Watford Observer|author=Phillips, Oli|date=6 August 2004|accessdate=23 October 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20110822082325/http://mobile.watfordobserver.co.uk/search/516393.Watford_seal_Vicarage_Road_deal/|archivedate=22 August 2011|df=dmy-all}}&lt;/ref&gt;
+
+Vicarage Road is a four-sided ground with a capacity of 21,977.&lt;ref name="expansion 2"&gt;{{cite web|url=http://www.watfordfc.com/news/article/150608-vicarage-road-stadium-north-east-corner-2486084.aspx |title=Stadium Update: North-East Corner Transformation To Begin |publisher=Watford F.C. |date=9 June 2015 |accessdate=10 June 2015}}&lt;/ref&gt; The East Stand, part of which was constructed in 1922, was closed to the general public in 2008 for health and safety reasons, although it still hosted the dressing rooms and the matchday press area.&lt;ref&gt;Affleck, Kevin (31 July 2008). [https://www.webcitation.org/671QmJbPx?url=http://www.watfordobserver.co.uk/sport/localsport/3559565.Watford_forced_to_close_East_Stand/ "Watford forced to close East Stand"]. ''[[Watford Observer]]''. Retrieved 18 April 2012. Archived from [http://www.watfordobserver.co.uk/sport/localsport/3559565.Watford_forced_to_close_East_Stand/ the original] on 18 April 2012.&lt;/ref&gt; In November 2013, the East Stand was demolished and in its place a new steel-framed, 3,500-seater stand was constructed. The stand opened fully on Boxing Day 2014 and was named The Elton John Stand after the club's longstanding chairman.&lt;ref&gt;{{cite web|url=http://www.watfordobserver.co.uk/sport/11669436.VIDEO__Watch_the_construction_of_the_Sir_Elton_John_Stand/|title=VIDEO: Watch the construction of the Sir Elton John Stand|work=Watford Observer}}&lt;/ref&gt; The Graham Taylor Stand&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/0/football/30314903|title=BBC Sport – Ex-England boss Graham Taylor 'honoured' by Watford gesture|work=BBC Sport}}&lt;/ref&gt; (previously the Rous Stand), built in 1986, has two tiers and runs the length of the pitch, with the upper section containing the club's corporate hospitality. At either end of the pitch, The Vicarage Stand is split between the club's family section and away supporters, while the Rookery Stand is for home supporters only. Both stands were built in the 1990s, financed by proceeds from player sales.&lt;ref&gt;[http://www.wfc.net/stadium.htm "The stadium"]. ''wfc.net''. Retrieved 18 April 2012.&lt;/ref&gt;&lt;ref&gt;[https://www.webcitation.org/671S22VPQ?url=http://www.harrowtimes.co.uk/news/295444.the_details_are_petchey/ "The details are Petchey"]. ''Harrow Times''. 7 May 2003. Retrieved 18 April 2012. Archived from [http://www.harrowtimes.co.uk/news/295444.the_details_are_petchey/ the original] on 18 April 2012.&lt;/ref&gt; In the summer of 2015, The Elton John Stand was revamped in order to accommodate an extra 700 seats.&lt;ref&gt;{{cite web |url=http://www.watfordfc.com/news/article/stadium-2483443.aspx |title=Stadium Update: Extra Sir Elton John Stand Capacity |publisher=Watford F.C. |date=7 June 2015 |accessdate=8 June 2015}}&lt;/ref&gt; This number was revised a day later to around 1,000 extra seats following the announcement of an expansion in the north-east corner.&lt;ref name="expansion 2"/&gt;
+
+Between 1997 and early 2013, Watford shared Vicarage Road with [[rugby union]] side [[Saracens F.C.]]&lt;ref&gt;Smith, Frank (10 May 2011). [http://www.watfordobserver.co.uk/sport/9017371.Saracens_will_be_staying_at_Vicarage_Road/ "Saracens will be staying at Vicarage Road"]. ''Watford Observer''. Retrieved 18 April 2012.&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Last game at Vicarage Road sees Saracens through to Heineken Cup quarters|url=http://www.watfordobserver.co.uk/archive/2013/01/20/10173690.Last_game_at_Vicarage_Road_sees_Saracens_through_to_Heineken_Cup_quarters/?ref=arc|archive-url=https://archive.today/20141028185548/http://www.watfordobserver.co.uk/archive/2013/01/20/10173690.Last_game_at_Vicarage_Road_sees_Saracens_through_to_Heineken_Cup_quarters/?ref=arc|dead-url=yes|archive-date=28 October 2014|publisher=Watford Observer|date=20 January 2013}}&lt;/ref&gt; The stadium has hosted matches for the [[England national under-21 football team|England under-21s]],&lt;ref&gt;Hershman, Josh (1 September 2011). [http://www.uefa.com/under21/season=2013/matches/round=2000192/match=2006933/postmatch/report/index.html "England begin with six-goal victory"]. [[UEFA]]. Retrieved 18 April 2012.&lt;/ref&gt; and senior international football between overseas teams.&lt;ref&gt;Smith, Frank (13 October 2011). [http://www.watfordobserver.co.uk/sport/9305515.Ghana_friendly_was_a_success/ "Ghana friendly was a success"]. ''Watford Observer''. Retrieved 18 April 2012.&lt;/ref&gt; Elton John has also used Vicarage Road as a venue for concerts: He first played at the stadium in 1974 and returned in 2005 and 2010 to stage fundraising concerts for the club.&lt;ref&gt;Smith, Frank (4 June 2010). [http://www.watfordobserver.co.uk/sport/8200643.Elton_John_gig_to_raise_around___600_000_for_players/ "Elton John gig to raise around £600,000 for players"]. ''Watford Observer''. Retrieved 20 April 2012.&lt;/ref&gt; Former events include horse and carriage shows&lt;ref name=j15/&gt; and [[greyhound racing]].&lt;ref&gt;Mott, Sue (4 May 2001). [https://www.telegraph.co.uk/sport/football/competitions/championship/3004711/Taylor-made-for-management.html "Taylor made for management"]. ''The Telegraph''. Retrieved 21 April 2012.&lt;/ref&gt;
+
+The [[Watford Training Ground]] is located on the [[University College London Union]] (UCLU) Shenley Sports grounds in [[St Albans]], [[Hertfordshire]].
+
+==Luton rivalry==
+{{Main|Luton Town F.C. and Watford F.C. rivalry}}
+
+Watford fans maintain a rivalry with those of [[Luton Town F.C.|Luton Town]]. The two sides met regularly in the Southern League between 1900 and 1920,&lt;ref&gt;Jones 1998, pp. 27–63.&lt;/ref&gt; and continued to do so in The Football League until 1937,&lt;ref name=head2head/&gt; when Luton gained promotion from Division Three South. Luton remained in a higher division than Watford until 1963.&lt;ref name=hertsbeds&gt;Harrison, David (March 2002). [http://www.wsc.co.uk/content/view/2944/29/ "Herts rule Beds"] {{Webarchive|url=https://web.archive.org/web/20120523035053/http://www.wsc.co.uk/content/view/2944/29/ |date=23 May 2012 }}. ''[[When Saturday Comes]]''. Retrieved 19 April 2012.&lt;/ref&gt;
+
+Throughout the 1960s and 1970s, Watford and Luton met sporadically. Despite this, the rivalry grew in significance, particularly following an ill-tempered match between the sides in 1969, in which three players were sent off.&lt;ref name=hertsbeds/&gt; Both sides won promotion to the First Division in the 1981–82 season, with Luton taking the championship ahead of Watford.&lt;ref name=promotion1982/&gt; They were also relegated together from the new Division 1 in 1995–96, with Watford finishing 23rd ahead of bottom-placed Luton.&lt;ref&gt;Brown, Tony. [http://www.statto.com/football/stats/england/division-one/1995-1996 "English Division One 1995–1996: Table"] {{Webarchive|url=https://web.archive.org/web/20181014204308/http://www.statto.com/football/stats/england/division-one/1995-1996 |date=14 October 2018 }}. Statto.com. Retrieved 2 May 2012.&lt;/ref&gt;&lt;ref name=flc group=lower-alpha/&gt; Watford's promotion from Division 2 in 1997–98 meant that the two sides did not meet again until Luton won promotion to the Championship for the 2005–06 season.&lt;ref name=flc group=lower-alpha/&gt; The only meeting between those seasons – a League Cup tie in the 2002–03 season – was marred by violence inside Vicarage Road.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/2249877.stm|title=Joint probe launched into trouble|publisher=BBC Sport |accessdate=7 February 2011|date=11 September 2002}}&lt;/ref&gt; On 2 January 2006, Watford won 2–1 at Kenilworth Road in the Championship. A 1–1 draw in the most recent match between the sides, on 9 April 2006, secured Watford's place in the 2006 Championship play-offs, from which they eventually won promotion to the Premier League for the second time beating, Leeds United 3–0 at the [[Millennium Stadium]] in [[Cardiff]].&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/eng_div_1/4867690.stm "Watford 1–1 Luton"]. BBC Sport. 9 April 2006. Retrieved 19 April 2012.&lt;/ref&gt; Watford have played in a higher division than Luton in every season since 2006–07, a twelve-season span.&lt;ref name=recentseasons&gt;Brown, Tony. [http://www.statto.com/football/teams/watford/history/modern "Watford history 1975 to date"] {{webarchive|url=https://web.archive.org/web/20110416052604/http://www.statto.com/football/teams/watford/history/modern |date=16 April 2011 }}. Statto.com. Retrieved 19 April 2012.&lt;/ref&gt;&lt;ref&gt;Brown, Tony. [http://www.statto.com/football/teams/luton-town/history/modern "Luton Town history 1975 to date"] {{webarchive|url=https://web.archive.org/web/20120608001939/http://www.statto.com/football/teams/luton-town/history/modern |date=8 June 2012 }}. Statto.com. Retrieved 19 April 2012.&lt;/ref&gt;
+
+The head-to-head record between the clubs in competitions which currently exist stands at Luton 39 wins, Watford 27 wins, with 23 draws.{{efn|This refers to games played in [[The Football League]], [[FA Cup]] and [[Football League Cup]]. Soccerbase covers matches played in these competitions since Watford joined the Football League in 1920 – the record in these matches is Luton 35 wins, Watford 27 wins, 22 draws.&lt;ref name=head2head&gt;[http://www.soccerbase.com/teams/head_to_head.sd?team_id=2741&amp;team2_id=1628 "Head-to-head: Watford vs Luton"]. ''Soccerbase''. Centurycomm. Retrieved 23 April 2012.&lt;/ref&gt; The teams met five times in the FA Cup prior to the 1920–21 season: Luton won 4 games, and the other was drawn.&lt;ref&gt;[https://web.archive.org/web/20100211013940/http://www.watfordfc.com/page/History/0%2C%2C10400~1229279%2C00.html "Watford's FA Cup history"]. Watford Football Club. Retrieved 23 April 2012. Archived from [http://www.watfordfc.com/page/History/0,,10400~1229279,00.html the original] {{webarchive|url=https://web.archive.org/web/20100211013940/http://www.watfordfc.com/page/History/0%2C%2C10400~1229279%2C00.html |date=11 February 2010 }} on 11 February 2010.&lt;/ref&gt;}} Watford have remained the higher ranked team at the end of every season since 1997 (and for 28 of the last 29 seasons, with only 1996–97 seeing Luton finish higher in the league than Watford).
+
+==Players==
+===Current squad===
+{{updated|31 January 2019}}&lt;ref&gt;{{cite web |title=First-team squad |url=https://www.watfordfc.com/teams/first-team |publisher=Watford F.C. |accessdate=31 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=2017/18 squad numbers |url=https://www.watfordfc.com/teams/first-team/confirmed-201718-squad-numbers |publisher=Watford F.C. |date=3 August 2017 |accessdate=9 August 2017}}&lt;/ref&gt;
+&lt;!-- Please do not add players to this list based on transfer rumours. Only OFFICIALY CONFIRMED players can be listed here. --&gt;
+{{fs start}}
+{{fs player|no=1  |nat=BRA |pos=GK |name=[[Heurelho Gomes]]}}
+{{fs player|no=2  |nat=NED |pos=DF |name=[[Daryl Janmaat]]}}
+{{fs player|no=3  |nat=URU |pos=DF |name=[[Miguel Britos]]}}
+{{fs player|no=5  |nat=AUT |pos=DF |name=[[Sebastian Prödl]]}}
+{{fs player|no=6  |nat=JAM |pos=DF |name=[[Adrian Mariappa]]}}
+{{fs player|no=7  |nat=ESP |pos=FW |name=[[Gerard Deulofeu]]}}
+{{fs player|no=8  |nat=ENG |pos=MF |name=[[Tom Cleverley]]}}
+{{fs player|no=9  |nat=ENG |pos=FW |name=[[Troy Deeney]]|other=[[Captain (association football)|captain]]}}
+{{fs player|no=10 |nat=NGA |pos=FW |name=[[Isaac Success]]}}
+{{fs player|no=11 |nat=ITA |pos=DF |name=[[Adam Masina]]}}
+{{Fs player|no=12 |nat=SWE |pos=MF |name=[[Ken Sema]]}}
+{{fs player|no=14 |nat=ENG |pos=MF |name=[[Nathaniel Chalobah]]}}
+{{fs player|no=15 |nat=NIR |pos=DF |name=[[Craig Cathcart]]}}
+{{fs mid}}
+{{fs player|no=16 |nat=FRA |pos=MF |name=[[Abdoulaye Doucouré]]}}
+{{Fs player|no=17 |nat=VEN |pos=FW |name=[[Adalberto Peñaranda]]}}
+{{fs player|no=18 |nat=ENG |pos=FW |name=[[Andre Gray]]}}
+{{fs player|no=19 |nat=ENG |pos=MF |name=[[Will Hughes]]}}
+{{Fs player|no=20 |nat=POR |pos=MF |name=[[Domingos Quina]]}}
+{{fs player|no=21 |nat=ESP |pos=DF |name=[[Kiko Femenía]]}}
+{{fs player|no=23 |nat=ESP |pos=DF |name=[[Marc Navarro]]}}
+{{fs player|no=25 |nat=GRE |pos=DF |name=[[José Holebas]]}}
+{{fs player|no=26 |nat=ENG |pos=GK |name=[[Ben Foster (footballer)|Ben Foster]]}}
+{{fs player|no=27 |nat=BEL |pos=DF |name=[[Christian Kabasele]]}}
+{{fs player|no=29 |nat=FRA |pos=MF |name=[[Étienne Capoue]]}}
+{{Fs player|no=30 |nat=SWE |pos=GK |name=[[Pontus Dahlberg]]}}
+{{fs player|no=37 |nat=ARG |pos=MF |name=[[Roberto Pereyra]]}}
+{{fs end}}
+&lt;!-- Please do not add players to this list based on transfer rumours. Only OFFICIALY CONFIRMED players can be listed here. --&gt;
+
+===Out on loan===
+{{fs start}}
+{{fs player|no=— |nat=AUT |pos=GK |name=[[Daniel Bachmann]]| other=at [[Kilmarnock F.C.|Kilmarnock]] until 30 June 2019}}
+{{fs player|no=— |nat=IRE |pos=DF |name=[[Tommie Hoban]]| other=at [[Aberdeen F.C.|Aberdeen]] until 30 June 2019}}
+{{Fs player|no=—  |nat=GLP |pos=DF |name=[[Dimitri Foulquier]]| other=at [[Getafe CF|Getafe]] until 30 June 2019}}
+{{fs player|no=—  |nat=ENG |pos=DF |name=[[Ben Wilmot]]| other=at [[Udinese Calcio|Udinese]] until 30 June 2019}}
+{{fs player|no=— |nat=NED |pos=DF |name=[[Marvin Zeegelaar]]|other=at [[Udinese Calcio|Udinese]] until 30 June 2019}}
+{{Fs player|no=—  |nat=GAM|pos=MF|name=[[Sulayman Marreh]]|other=at [[K.A.S. Eupen|Eupen]] until 30 June 2019}}
+{{fs mid}}
+{{fs player|no=—  |nat=BEL |pos=MF |name=[[Dodi Lukebakio]]| other=at [[Fortuna Düsseldorf]] until 30 June 2019}}
+{{Fs player|no=—  |nat=BRA|pos=FW  |name=Matheus Aias|other=at [[CD Mirandés|Mirandés]] until 30 June 2019}}
+{{fs player|no=—  |nat=BEL |pos=FW |name=[[Obbi Oulare]]| other=at [[Standard Liege]] until 30 June 2019}}
+{{fs player|no=—  |nat=ENG |pos=FW |name=[[Jerome Sinclair]]| other=at [[Oxford United F.C.|Oxford United]] until 30 June 2019}}
+{{fs player|no=— |nat=ITA |pos=FW |name=[[Stefano Okaka]]| other=at [[Udinese Calcio|Udinese]] until 30 June 2019}}
+{{fs end}}
+
+===Under-23s and Academy===
+{{main|Watford F.C. Under-23s and Academy}}
+
+===Former players===
+{{main|List of Watford F.C. players}}
+
+==Management==
+
+===Managerial history===
+{{Main|List of Watford F.C. managers}}
+
+[[File:Graham Taylor.jpg|thumb|right|175px|[[Graham Taylor (footballer)|Graham Taylor]] took Watford from the Fourth Division to the First, between 1977 and 1982.]]Watford's team was selected by committee until 1903, when former [[England national football team|England]] international [[John Goodall]] was appointed [[player-manager]]. The impact was immediate, as Watford secured promotion to the Southern League First Division in 1903–04. Goodall retired as a player in 1907, and left the club in 1910. He was replaced by his former captain, [[Harry Kent (footballer)|Harry Kent]], who become known for his financial management of the club; under Kent, Watford frequently made a profit in the transfer market.&lt;ref&gt;Phillips 1991, pp. 38–41.&lt;/ref&gt; Kent led the club to the Southern League title in [[1914–15 Watford F.C. season|1914–15]], and missed out on a second title in [[1919–20 Watford F.C. season|1919–20]] on [[goal average]], before resigning in 1926. His three immediate successors – [[Fred Pagnam]], [[Neil McBain]] and [[Bill Findlay (footballer)|Bill Findlay]] – all played for Watford before and during the early part of their managerial tenures. None were able to lead the team to promotion from the [[Football League Third Division South|Third Division South]], although Findlay did lead Watford to a [[Football League Third Division South Cup|Third Division South Cup]] win in 1937.
+
+Up until Findlay's departure in 1947, Watford had been managed by five managers in 44 years, all of whom played for the team. By contrast, six men managed the club between 1947 and 1956, only two of whom were former Watford players.&lt;ref name="managers"&gt;Jones 1996, pp. 267–274.&lt;/ref&gt; After a further three years under McBain between 1956 and 1959, Watford's following three managers presided over improved teams. [[Ron Burgess (footballer)|Ron Burgess]] led Watford to promotion from the [[Football League Fourth Division|Fourth Division]] in 1959–60. [[Bill McGarry]] was only in charge for one full season (1963–64), but Watford recorded a finish of third in the [[Football League Third Division|Third Division]], the club's highest Football League finish until that point. His successor [[Ken Furphy]] matched that achievement in 1966–67, and led Watford to the Third Division title in 1969, before taking the club to its first [[FA Cup]] semi-final in 1970. Following Furphy's departure in 1971, Watford entered a period of decline, experiencing relegation under subsequent managers [[George Kirby (footballer)|George Kirby]] and [[Mike Keen]].&lt;ref name="managers" /&gt;
+
+Graham Taylor took charge of Watford in 1977. He led the club to promotion to the Third Division in 1978, the Second Division in 1979, and the [[Football League First Division|First Division]] for the first time in Watford's history in 1982. After a second-placed finish in the First Division in 1983, Watford competed in European competition for the first time in 1983–84, as well as reaching the [[1984 FA Cup final]]. Taylor left the club at the end of 1986–87. Under the six subsequent permanent managers ([[Dave Bassett]], [[Steve Harrison (footballer)|Steve Harrison]], [[Colin Lee]], [[Steve Perryman]], [[Glenn Roeder]] and [[Kenny Jackett]]), Watford slid from 9th in the top tier in 1987, to 13th in the third tier in 1997. Taylor returned as manager for the start of the 1997–98 season. He led the club to consecutive promotions, but could not prevent relegation from the [[Premier League]] in [[1999–2000 Watford F.C. season|1999–2000]]. Since Taylor's retirement in 2001, Watford have had twelve managers. Of these, [[Aidy Boothroyd]] took Watford back to the Premier League in 2006, but Watford were relegated in 2007, and Boothroyd departed in 2008.&lt;ref&gt;[http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/7707054.stm "Boothroyd &amp; Watford part company"]. BBC Sport. 3 November 2008. Retrieved 14 July 2012.&lt;/ref&gt;
+
+Following Watford's takeover by the Pozzo family, [[Gianfranco Zola]] was appointed head coach, replacing former centre back [[Sean Dyche]] in July 2012,.&lt;ref name="managers2" /&gt; Zola took Watford to third position in the Championship in 2012–13 but resigned on 16 December 2013. He was replaced by fellow Italian [[Giuseppe Sannino|Beppe Sannino]] in December 2013. Sannino guided the team to a final league position of 13th.
+
+Despite winning four of the first five league matches of the 2014/15 season, and with Watford sitting in 2nd place, Sannino's position had become the subject of much speculation following rumours of dressing-room unrest and some players taking a dislike to his style of management. Sannino resigned from his position as head coach on 31 August 2014 after just over eight months in charge. His final game in charge was a 4–2 win at home to [[Huddersfield Town F.C.|Huddersfield Town]] the day before.
+
+Sannino's departure initiated a bizarre sequence of events which led to Watford having three further head coaches in little more than a month. On 2 September, Watford confirmed the appointment of former [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] head coach [[Óscar García Junyent|Óscar García]] as the successor to Sannino, beating off competition from fellow [[Football League Championship|Championship]] side [[Leeds United F.C|Leeds United]] for his services. García, however, resigned from his position on 29 September 2014 for health reasons, having been admitted to hospital with chest pains a couple of weeks prior. [[Billy McKinlay]], who had only been appointed first team coach on 26 September 2014, was appointed as his immediate successor on the same day – his first position in management.&lt;ref&gt;{{cite news|url=http://www.skysports.com/football/news/11686/9549731/billy-mckinlay-is-still-bemused-after-a-short-spell-at-watford/|title=Bill McKinlay left bemused following his spell at Watford|work=Sky Sports|date=4 November 2014|accessdate=5 June 2018}}&lt;/ref&gt; A week later, McKinlay was released by mutual consent and former [[FK Partizan|Partizan]] coach [[Slaviša Jokanović]] appointed in his place, apparently because the club favoured a head coach with greater experience.&lt;ref&gt;[http://www.watfordobserver.co.uk/sport/11522881.COMMENT__Must_be_more_to_Watford_s_disgraceful_treatment_of_McKinlay/?ref=mrs]. Watford Observer, 8 October 2014. Retrieved 10 October 2014&lt;/ref&gt;
+
+On 4 June 2015, [[Quique Sánchez Flores]] was announced as the new head coach as the replacement to Jokanović,&lt;ref&gt;[http://www.watfordobserver.co.uk/sport/13315768.Flores_is_Hornets__new_boss/]. Watford Observer, 4 June 2015. Retrieved 4 June 2015&lt;/ref&gt; who had failed to agree contract terms. Despite going on to lead the newly promoted Watford to a comfortable mid-table position in the Premier League and the semi-final of the FA Cup, it was announced on 13 May 2016 that Sánchez Flores would be leaving the club at the end of the season.&lt;ref&gt;{{cite news|last1=Burnton|first1=Simon|title=Quique Sánchez Flores was no longer the answer to Watford's question|url=https://www.theguardian.com/football/blog/2016/may/14/quique-sanchez-flores-watford-departure-explained|accessdate=14 May 2016|work=The Guardian|date=14 May 2016}}&lt;/ref&gt;
+
+Following Sanchez Flores's departure, Walter Mazzarri was announced as Watford's head coach starting on 1 July 2016.&lt;ref&gt;[http://www.watfordfc.com/news/article/walter-mazzarri-watford-fc-head-coach-premier-league-3121237.aspx "OFFICIAL: Walter Mazzarri Appointed Head Coach At Watford"]. ''watfordfc.com''. Retrieved 21 May 2016.&lt;/ref&gt;
+Mazzari's tenure as manager was terminated at the end of the season.
+On 27 May 2017 Marco Silva was appointed Head Coach.&lt;ref&gt;[https://www.watfordfc.com/club/silva-named-hornets-head-coach]&lt;/ref&gt;
+On 21 January 2018, Javi Gracia was appointed as Head Coach following Silva's departure.&lt;ref&gt;[https://www.watfordfc.com/club/official-gracia-named-hornets-head-coach]&lt;/ref&gt;
+
+==Club officials==
+
+{| class="wikitable"
+|-
+! Position
+! Name
+|-
+| Head Coach
+| [[Javi Gracia]]
+|-
+| Assistant Coach
+| [[Zigor Aranalde]]
+|-
+| Assistant Coach
+| Juan Solla
+|-
+| Goalkeeping Coach
+| Iñigo Arteaga
+|-
+| Analyst
+| Isidre Ramón Madir
+|-
+| Technical Director
+| Filippo Giraldi
+|-
+| Sporting Director
+| [[Andy Scott (footballer, born 1972)|Andy Scott]]
+|-
+| Head of Injury Prevention &amp; Rehabilitation
+| Alberto Leon Herranz
+|-
+| Lead Under-23 Professional Development Coach
+| [[Hayden Mullins]]
+|-
+| Head of Academy Goalkeeping
+| [[Graham Stack (footballer)|Graham Stack]]
+|-
+| Head of Academy - Professional Development
+| [[Darren Sarll]]
+|-
+| Lead Under-18 Professional Development Coach
+| [[Carl Martin]]
+|-
+| Head of Academy - Coaching and Development
+| [[Barry Quin (football coach)|Barry Quin]]
+|-
+| Kit Manager
+| David Walter
+|-
+| Football Secretary
+| Gayle Vowels
+|-
+| Commercial Director
+| Spencer Field
+|-
+| Head of Sales
+| Paul O'Brien
+|-
+| Operations Director
+| Glyn Evans
+|-
+| Community Director
+| Rob Smith
+|-
+| Finance Director
+| Emiliano Russo
+|-
+| Head of Communications
+| Richard Walker
+|-
+|}
+
+{{clear}}
+
+==Honours==
+:''For a complete record of the club's achievements, see [[List of Watford F.C. seasons]].''
+
+[[File:Milleniumstadiumchampionshipplayofffinal06.jpg|thumb|right|250px|Victory in the [[2006 Football League Championship play-off Final]] against [[Leeds United F.C.|Leeds United]] gained Watford promotion to the Premier League.&lt;ref name="Leedsplayoff"&gt;[http://news.bbc.co.uk/sport1/hi/football/eng_div_1/4771857.stm "Leeds 0–3 Watford"]. BBC Sport. 21 May 2006. Retrieved 24 April 2012.&lt;/ref&gt;]]
+
+{| class="wikitable"
+!colspan=2| Honour
+! Season(s)
+|-
+| rowspan="2" | [[Football League First Division]] || Runners-up || [[1982–83 Watford F.C. season|1982–83]]
+|-
+| Play-off Winners || [[1998–99 Watford F.C. season|1998–99]]
+|-
+| rowspan="3" | [[Football League Championship]] || Runners-up || [[2014–15 Football League|2014–15]]
+|-
+|  Play-off Winners || [[2005–06 Watford F.C. season|2005–06]]
+|-
+|  Play-off Runners-up || [[2012–13 Watford F.C. season|2012–13]]
+|-
+| [[Football League Second Division]] || Champions ||[[1997-98 Football League Second Division|1997-98]]
+|-
+| rowspan="2" | [[Football League Third Division]] || Champions || [[1968–69 Football League|1968–69]], [[1997–98 Football League|1997–98]]
+|-
+| Runners-up || [[1978–79 Football League|1978–79]]
+|-
+| [[Football League Fourth Division]] || Champions || [[1977–78 Watford F.C. season|1977–78]]
+|-
+| rowspan="2" | [[Southern Football League]] || Champions || [[1914–15 Watford F.C. season|1914–15]]
+|-
+| Runners-up || [[1919–20 Watford F.C. season|1919–20]]
+|-
+|[[FA Cup]] || Runners-up || [[1983–84 FA Cup|1983–84]]
+|}
+
+==Records==
+{{Main|List of Watford F.C. records and statistics}}
+
+Striker [[Luther Blissett]] holds the record for Watford appearances, having played 503 matches in all competitions between 1976 and 1992, and his 415 appearances in [[The Football League]] during the same period is also a club record. Blissett holds the corresponding goalscoring records, with 186 career Watford goals, 148 of which were in the league. The records for the most league goals in a season is held by [[Cliff Holton]], having scored 42 goals in the 1959–60 season. The highest number of goals scored by a player in a single game at a professional level is the six registered by Harry Barton against [[Wycombe Wanderers F.C.|Wycombe Wanderers]] in September 1903.&lt;ref name="wfcrecords"&gt;[https://archive.today/20110718004727/http://www.watfordfc.com/page/History/0,,10400~65910,00.html "Watford FC club records"]. Watford Football Club. 15 December 2008. Retrieved 18 April 2012. Archived from [http://www.watfordfc.com/page/History/0,,10400~65910,00.html the original] {{webarchive|url=https://web.archive.org/web/20120722132803/http://www.watfordfc.com/page/History/0%2C%2C10400~65910%2C00.html |date=22 July 2012 }} on 18 July 2011.&lt;/ref&gt;
+
+Watford's biggest ever competitive win came in 1900, when the team defeated [[Maidenhead F.C.|Maidenhead]] 11–0 in the Southern League Second Division.&lt;ref name="wfcrecords" /&gt; The team's biggest Football League winning margin is 8–0; this first occurred in a Third Division South match against [[Newport County A.F.C.|Newport County]] in 1924, and was repeated in a First Division match against [[Sunderland A.F.C.|Sunderland]] in 1982. Both of these matches were at home – Watford have won an away league match by five goals on six occasions, most recently in the 6–1 win against Leeds United at [[Elland Road]] in 2012. The most goals scored in a Football League game involving Watford is 11, in Watford's 7–4 victories against [[Swindon Town F.C.|Swindon Town]], [[Torquay United F.C.|Torquay United]] and [[Burnley F.C.|Burnley]] in 1934, 1937 and 2003 respectively.&lt;ref name="stattorecords"&gt;Brown, Tony. [http://www.statto.com/football/teams/watford/records "Watford records"]. Statto.com. Retrieved 18 April 2012.&lt;/ref&gt;
+The club's highest home attendance is 34,099, for a fourth round FA Cup match against [[Manchester United F.C.|Manchester United]] on 3 February 1969. The record home league attendance is 27,968 against [[Queens Park Rangers F.C.|Queens Park Rangers]] in August of the same year.&lt;ref name="wfcrecords" /&gt; Watford's home capacity has since been reduced due to all-seater requirements; it currently stands at 21,577.&lt;ref name=capacity&gt;{{cite web|url=http://www.football-league.co.uk/clubs/20100801/watford_2293498_692872|title=Watford Football Club|publisher=[[The Football League]]|accessdate=18 April 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120421020630/http://www.football-league.co.uk/clubs/20100801/watford_2293498_692872|archivedate=21 April 2012|df=dmy-all}}&lt;/ref&gt;
+
+==Footnotes==
+{{notelist|}}
+
+==Further reading==
+{{refbegin}}
+*{{cite book|title=Tales from the Vicarage, volume one|last=Birnie|first=Lionel|publisher=Peloton Publishing|year=2012|isbn=978-0-9567814-2-0}}
+*{{cite book|title=The 100 Greatest Watford Wins|last=Birnie|first=Lionel|publisher=Peloton Publishing|year=2011|isbn=978-0-9567814-1-3}}
+*{{cite book|title=Enjoy the Game – Watford FC, The Story of the Eighties|last=Birnie|first=Lionel|publisher=Peloton Publishing|year=2010|isbn=978-0-9567814-0-6}}
+*{{cite book|title=Four Seasons – Watford FC 1997–2001|last=Birnie|first=Lionel &amp; Cozzi, Alan|publisher=lionelbirnie.com|year=2001|isbn=0-9541757-0-0}}
+*{{cite book|title=The Golden Boys: A Study of Watford's Cult Heroes|publisher=Alpine Press Ltd|year=2001|isbn=0-9528631-6-2|author=Phillips, Oliver}}
+*{{cite book|title=Watford Season by Season|last=Jones|first=Trefor|publisher=T.G. Jones|year=1998|isbn=0-9527458-1-X}}
+*{{cite book|title=Watford Football Club Illustrated Who's Who|last=Jones|first=Trefor|publisher=T.G. Jones|year=1996|isbn=0-9527458-0-1}}
+*{{cite book|title=The Official Centenary History of Watford FC 1881–1991|last=Phillips|first=Oliver|publisher=Watford Football Club|year=1991|isbn=0-9509601-6-0}}
+{{refend}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Portal|Association football|Hertfordshire}}
+{{Commons category}}
+*[http://www.watfordfc.com/ Watford FC official homepage]
+*{{BBC Football Info|watford|Watford}}
+*[https://web.archive.org/web/20061116210242/http://www.soccerbase.com/teams2.sd?teamid=2741 Watford statistics] at [[Soccerbase]]
+*[http://www.watfordlegends.com/ Watford Legends – Interviews with former Watford players]
+*[https://web.archive.org/web/20061205063733/http://www.hornethistory.com/ Hornet History – History of Watford Football Club from 1940s]
+*[http://www.forzawatford.com/ Forza Watford – Watford news and opinion]
+*[http://www.answers-to-questions.info/England-Football-Play-Offs.aspx?team=Watford Play-Off record for Watford]
+*[http://www.bbc.co.uk/blogs/legacy/paulfletcher/2010/12/watford_offer_a_glimpse_of_the.html Watford break the mould in youth development]
+
+{{Watford F.C.}}
+{{Watford F.C. seasons}}
+{{Premier League}}
+{{Football League Championship}}
+
+{{Authority control}}
+
+[[Category:Football clubs in England]]
+[[Category:Watford F.C.| ]]
+[[Category:Premier League clubs]]
+[[Category:English Football League clubs]]
+[[Category:Association football clubs established in 1881]]
+[[Category:Southern Football League clubs]]
+[[Category:1881 establishments in England]]
+[[Category:Football clubs in Hertfordshire]]
+[[Category:Watford]]
+[[Category:Former English Football League clubs]]</text>
+      <sha1>lnkegnxgnxfxtxu7wap23et3f4kb3u3</sha1>
+    </revision>
+  </page>
+</mediawiki>

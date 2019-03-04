@@ -1,0 +1,1229 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>West Ham United F.C.</title>
+    <ns>0</ns>
+    <id>46417</id>
+    <revision>
+      <id>885999049</id>
+      <parentid>885996806</parentid>
+      <timestamp>2019-03-03T18:12:37Z</timestamp>
+      <contributor>
+        <username>Billythecat</username>
+        <id>31731637</id>
+      </contributor>
+      <minor/>
+      <comment>Correct typo</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="170528">{{about|the men's team|the women's team|West Ham United F.C. Women}}
+{{pp|small=yes}}
+{{good article}}
+{{Use British English|date=August 2011}}
+{{Use dmy dates|date=September 2017}}
+{{Infobox football club
+| clubname = West Ham United
+| image = West Ham United FC logo.svg
+| image_size = 185px
+| fullname = West Ham United Football Club
+| nickname = The Irons&lt;br&gt;The Hammers&lt;br&gt;[[West Ham United F.C. Under-23s and Academy|The Academy of Football]]
+| short name = West Ham
+| founded = {{Start date and age|df=yes|1895|6|29}}, as [[Thames Ironworks F.C.|Thames Ironworks]]&lt;br&gt;{{Start date and age|1900|7|5|df=yes}}, as West Ham United
+| ground = [[London Stadium]]
+| capacity = 60,000&lt;ref&gt;{{cite web|url=https://www.premierleague.com/publications |title=Premier League Handbook 2018–19 |publisher=Premier League |date=30 July 2018 |accessdate=3 January 2019}}&lt;/ref&gt;
+| owntitle = Owner(s)
+| owner = [[David Sullivan (businessman)|David Sullivan]] (51.1%) &lt;br&gt;[[David Gold (businessman)|David Gold]] (35.1%)&lt;br&gt;Albert 'Tripp' Smith (10%)&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/news/11685/11060548/west-ham-stake-bought-by-american-billionaire-albert-tripp-smith|title=West Ham stake bought by American billionaire Albert 'Tripp' Smith|publisher=Sky Sports|accessdate=1 October 2017}}&lt;/ref&gt;&lt;br&gt;Other Investors (3.8%)&lt;ref&gt;{{cite web|title=ownership West Ham United|url=http://www.whufc.com/Club/Corporate-Information/Ownership|website=whufc corporate information|accessdate=28 June 2015}}&lt;/ref&gt;
+| manager = [[Manuel Pellegrini]]
+| league = {{English football updater|WestHamU}}
+| season = {{English football updater|WestHamU2}}
+| position = {{English football updater|WestHamU3}}
+| current = 2018–19 West Ham United F.C. season
+| website = http://www.whufc.com/
+| pattern_la1 = _westham1819h
+| pattern_b1  = _westham1819h
+| pattern_ra1 = _westham1819h
+| pattern_sh1 = _westham1819h
+| pattern_so1 = _westh1819h
+| leftarm1=7acbe5
+| body1=7f0000
+| rightarm1=7acbe5
+| shorts1=FFFFFF
+| socks1=FFFFFF
+| pattern_la2 = _westh1819a
+| pattern_b2  = _westh1819a
+| pattern_ra2 = _westh1819a
+| pattern_sh2 = _westh1819a
+| pattern_so2 = _westh1819a
+| leftarm2=000000
+| body2=000000
+| rightarm2=000000
+| shorts2=000000
+| socks2=000000
+| pattern_la3 = _westham1819t
+| pattern_b3 = _westham1819t
+| pattern_ra3 = _westham1819t
+| pattern_sh3 = _westham1819t
+| pattern_so3 = _whufc1819tLong
+| leftarm3 = FFFFFF
+| body3 = FFFFFF
+| rightarm3 = FFFFFF
+| shorts3 = FFFFFF
+| socks3 = 7BCCE6
+}}
+'''West Ham United Football Club''' is a professional [[Association football|football]] club based in [[Stratford, London|Stratford]], [[East London]], England. They compete in the [[Premier League]], the top tier of [[English football league system|English football]]. The club re-located to the [[London Stadium]] in 2016.
+
+The club was founded in 1895 as [[Thames Ironworks F.C.|Thames Ironworks]] and reformed in 1900 as West Ham United. They moved to the [[Boleyn Ground]] in 1904, which remained their home ground for more than a century. The team initially competed in the [[Southern Football League|Southern League]] and [[Western Football League|Western League]] before joining the [[The Football League|Football League]] in 1919. They were promoted to the top flight in 1923, when they were also losing finalists in the first [[1923 FA Cup Final|FA Cup Final]] held at [[Wembley Stadium (1923)|Wembley]]. In 1940, the club won the inaugural [[Football League War Cup]].
+
+West Ham have been winners of the [[FA Cup]] three times, in [[1964 FA Cup Final|1964]], [[1975 FA Cup Final|1975]], and [[1980 FA Cup Final|1980]], and have also been runners-up twice, in [[1923 FA Cup Final|1923]], and [[2006 FA Cup Final|2006]]. The club have reached two major European finals, winning the [[UEFA Cup Winners' Cup|European Cup Winners' Cup]] in [[1964–65 European Cup Winners' Cup|1965]] and finishing runners-up in the same competition in [[1975–76 European Cup Winners' Cup|1976]]. West Ham also won the [[Intertoto Cup]] in 1999. They are one of eight clubs never to have fallen below the second tier of English football, spending 60 of 92 league seasons in the top flight, up to and including the [[2017-18 Premier League|2017–18 season]]. The club's highest league position to date came in [[1985–86 Football League|1985–86]], when they achieved third place in the then [[Football League First Division|First Division]].
+
+Three West Ham players were members of the [[1966 FIFA World Cup|1966 World Cup]] final-winning [[England national football team|England]] team: captain [[Bobby Moore]] and goalscorers [[Sir Geoff Hurst|Geoff Hurst]] and [[Martin Peters]].
+
+==History==
+{{Main article|History of West Ham United F.C.}}
+
+===Origins===
+{{main article|Thames Ironworks F.C.}}
+[[File:ThamesIronworksFC.gif|thumb|right|200px|Earliest club shot, during its founding year as Thames Ironworks in 1895]]
+The earliest generally accepted incarnation of West Ham United was founded in 1895 as [[Thames Ironworks F.C.]], the [[works team]] of the largest and last surviving shipbuilder on the Thames, [[Thames Ironworks and Shipbuilding Company]], by foreman and local league referee [[Dave Taylor (Thames Ironworks F.C. founder)|Dave Taylor]] and owner [[Arnold Hills]]&lt;ref name=Spartacus1&gt;{{cite web|url=http://spartacus-educational.com/WHhistory1.htm|title=The History of West Ham United 1895–1896|publisher=Spartacus Educational|accessdate=15 August 2009}}&lt;/ref&gt; and was announced in the ''Thames Ironworks Gazette'' of June 1895. Thames Ironworks was based in [[Leamouth|Leamouth Wharf]] in [[Blackwall, London|Blackwall]] and [[Canning Town]] on both banks of the [[River Lea]], where the [[River Lea|Lea]] meets the [[River Thames|Thames]]. Thames Ironworks built many ships and other structures, the most famous being {{HMS|Warrior|1860|6}}. The last ship built there was the [[dreadnought]] {{HMS|Thunderer|1911|6}} in 1912 and the yard shut soon after.
+
+The repair yard of the [[Union-Castle Line|Castle Shipping Line]] was a very near neighbour and their work team, initially known as the [[Old Castle Swifts F.C.|Castle Swifts]], would informally merge with the Thames Ironworks own team.
+
+The team played on a strictly amateur basis for 1895 at least, with a team featuring a number of works employees. Thomas Freeman was a ships fireman and Walter Parks, a clerk. [[Johnny Stewart (footballer, born 1872)|Johnny Stewart]], [[Walter Tranter]] and [[Jamie Lindsay (footballer, born 1870)|James Lindsay]] were all boilermakers. Other employees included William Chapman, [[George Sage (footballer)|George Sage]] and Fred Chamberlain, as well as apprentice riveter [[Charlie Dove]], who was to have a great influence on the club's future at a later date.&lt;ref&gt;{{cite book| title=West Ham: A Nostalgic Look at a Century of the Club| publisher=Haynes Publishing| first=Iain| last=Dale| isbn=978-0-857330-45-1| page=10| date=2011-08-01}}&lt;/ref&gt;
+
+{| style="float:left;"
+|{{Football kit box
+| align      =
+| pattern_la =
+| pattern_b  =
+| pattern_ra =
+| leftarm    = 000066
+| body       = 000066
+| rightarm   = 000066
+| shorts     = 000066
+| socks      = 000066
+| title      = 1895–96: First kit&lt;ref&gt;{{cite web|url=http://www.historicalkits.co.uk/West_Ham_United/West_Ham_United.htm|title=West Ham United|accessdate=12 September 2014}}&lt;/ref&gt;
+}}
+|
+|}
+Thames Ironworks won the [[West Ham Charity Cup]], contested by clubs in the [[West Ham]] locality, in 1895, then won the [[London League (football)|London League]] in 1897. They turned professional in 1898 upon entering the [[Southern Football League|Southern League]] Second Division, and were promoted to the First Division at the first attempt.&lt;ref name="Stats1"&gt;'{{cite web | url=http://www.fchd.info/THAMEIRO.HTM | title= Source for Thames Ironworks statistics | publisher=Football Club History Database | author=Richard Rundle | accessdate=15 August 2009}}&lt;/ref&gt; The following year they came second from bottom, but had established themselves as a fully fledged competitive team. They comfortably fended off the challenge of local rivals [[Fulham F.C.|Fulham]] in a relegation play-off, 5–1 in late April 1900 and retained their First Division status.&lt;ref name="Stats1"/&gt;
+
+The team initially played in full dark blue kits, as inspired by Mr. Hills, who had been an Oxford University "[[University Sporting Blue|Blue]]," but changed the following season by adopting the sky blue shirts and white shorts combination worn through 1897 to 1899.
+
+Following growing disputes over the running and financing of the club, in June 1900 Thames Ironworks F.C. was disbanded, then almost immediately relaunched on 5 July 1900 as West Ham United F.C. with [[Syd King]] as their manager and future manager [[Charlie Paynter]] as his assistant. Because of the original "works team" roots and links (still represented upon the club badge), they are still known as "the Irons" or "the Hammers" amongst fans and the media.&lt;ref name="EastLon"&gt;{{cite web | url=http://www.eastlondonhistory.com/thames%20ironworks.htm | archive-url=https://web.archive.org/web/20060213220605/http://www.eastlondonhistory.com/thames%20ironworks.htm | dead-url=yes | archive-date=13 February 2006 | title=East London History regarding Thames Ironworks | publisher=EastLondonHistory.com | df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.lmu.ac.uk/ces/lss/lsa/All%20abstracts.pdf | archive-url=https://web.archive.org/web/20050117001255/http://www.lmu.ac.uk/ces/lss/lsa/All%20abstracts.pdf | dead-url=yes | archive-date=17 January 2005 | title=Pg24, citing study into West Hams community ties | publisher=Leeds Metropolitan University | format=PDF | df=dmy-all }}&lt;/ref&gt;
+
+===Birth of West Ham United (1901–1961)===
+West Ham Utd joined the Western League for the 1901 season&lt;ref name="Stats2"&gt;'{{cite web | url=http://www.fchd.info/W-HAMU.HTM | title=Source for West Ham statistics | publisher=Football Club History Database | author=Richard Rundle | accessdate=15 August 2009}}&lt;/ref&gt; while also continuing to play in the Southern Division 1. In 1907, West Ham were crowned the Western League Division 1B Champions, and then defeated 1A champions Fulham 1–0 to become the Western League Overall Champions.&lt;ref name="Stats2"/&gt; The reborn club continued to play their games at the [[Memorial Grounds]] in [[Plaistow, Newham|Plaistow]] (funded by Arnold Hills) but moved to a [[Association football pitch|pitch]] in the Upton Park area in the guise of the [[Boleyn Ground]] stadium in 1904. West Ham's first game in their new home was against fierce [[Millwall F.C.–West Ham United F.C. rivalry|rivals]] [[Millwall F.C.|Millwall]] (themselves an Ironworks team, albeit for a rival company) drawing a crowd of 10,000 and with West Ham running out 3–0 winners,&lt;ref&gt;{{Cite book|last = Northcutt| first =John |author2=Roy Shoesmith | title =West Ham United: A Complete Record | publisher=Breedon Books | year =1993 | location =Derby | page =198 | id = | isbn =978-1-873626-44-3 }}&lt;/ref&gt; and as the ''[[Daily Mirror]]'' wrote on 2 September 1904, "Favoured by the weather turning fine after heavy rains of the morning, West Ham United began their season most auspiciously yesterday evening; when they beat Millwall by 3 goals to 0 on their new enclosure at Upton Park."
+
+[[File:Whitehorsefinal.jpg|200px|thumb|right|''Billie'' the White Horse, saviour of the 1923 [[FA Cup]] Final]]
+In 1919, still under King's leadership, West Ham gained entrance to the [[Football League Second Division]], their first game being a 1–1 draw with [[Lincoln City F.C.|Lincoln City]], and were promoted to [[Division One]] in 1923, also making it to the first ever [[FA Cup Final]] to be held at the old [[Wembley Stadium (1923)|Wembley]] stadium. Their opponents were [[Bolton Wanderers F.C.|Bolton Wanderers]]. This was also known as the [[White Horse Final]], so named because an estimated 200,000 people came to see the match; spilling out on to the pitch, which had to be cleared prior to kick-off, by "Billie," a giant white horse (actually grey) being ridden by [[Constable|PC]] [[George Scorey]]. The Cup Final match itself ended 2–0 to Bolton. The team enjoyed mixed success in Division 1 but retained their status for ten years and reached the FA Cup semi-final in 1933.&lt;ref name="1933semi"&gt;{{cite web | url=http://www.westhamstats.info/westham.php?west=5&amp;ham=1282&amp;united=18_Mar_1933 | title=Game played on 18 March 1933 | publisher=westhamstats.info | accessdate=5 October 2013}}&lt;/ref&gt;
+
+In 1932, the club was relegated to Division Two&lt;ref&gt;{{cite web | url=http://www.westhamstats.info/westham.php?west=4&amp;ham=1932&amp;united=1st_Division_1931-32 | title=1st Division 1931–32 | publisher=westhamstats.info | accessdate=5 October 2013}}&lt;/ref&gt; and long term custodian [[Syd King]] was sacked after serving the club in the role of manager for 32 years, and as a player from 1899 to 1903. Following relegation, King had mental health problems. He appeared drunk at a board meeting and soon after committed suicide.&lt;ref&gt;{{cite book | url=https://books.google.com/?id=P38foEpwni4C&amp;pg=PT12&amp;lpg=PT12&amp;dq=syd+king+sacked+west+ham#v=onepage&amp;q=syd%20king%20sacked%20west%20ham&amp;f=false | title=The Manager: The absurd ascent of the most important man in football | publisher=Hachette Digital | accessdate=5 October 2013 | author=Ronay, Barney| isbn=9780748117703 | date=2010-08-05 }}&lt;/ref&gt; He was replaced with his assistant manager [[Charlie Paynter]], who himself had been with West Ham in a number of roles since 1897 and who went on to serve the team in this role until 1950 for a total of 480 games. The club spent most of the next 30 years in this division, first under Paynter and then later under the leadership of former player [[Ted Fenton]].
+
+Fenton succeeded in getting the club once again promoted to the top level of English football in 1958. With the considerable input of player [[Malcolm Allison]], Fenton helped develop both the initial batch of future West Ham stars and West Ham's approach to the game.&lt;ref&gt;{{cite web | url=http://www.whufc.com/articles/20101015/malcolm-allison-1927-2010_2236884_2185790 | archive-url=https://web.archive.org/web/20101025141806/http://www.whufc.com/articles/20101015/malcolm-allison-1927-2010_2236884_2185790 | dead-url=yes | archive-date=25 October 2010 | title=Malcolm Allison 1927–2010 | publisher=West Ham United F.C. | date=15 October 2010 | accessdate=5 October 2013 | author=Helliar, John | df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Ted Fenton biography|url=http://spartacus-educational.com/WHfentonT.htm|publisher=Spartacus Educational|accessdate=4 October 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=A brief history of West ham United|url=http://espnfc.com/feature/_/id/841093?cc=4716|publisher=ESPN|accessdate=4 October 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Tributes pour in for Bond|url=http://www.whufc.com/articles/20120926/tributes-pour-in-for-bond_2236884_2930511|archive-url=https://web.archive.org/web/20120928030453/http://www.whufc.com/articles/20120926/tributes-pour-in-for-bond_2236884_2930511|dead-url=yes|archive-date=28 September 2012|publisher=West Ham United|accessdate=4 October 2013|df=dmy-all}}&lt;/ref&gt;
+
+===Glory years (1961–1978)===
+[[Ron Greenwood]] was appointed as Fenton's successor in 1961 and soon led the club to two major trophies, winning the [[FA Cup]] in 1964. The team was led by the young [[Bobby Moore]].&lt;ref&gt;{{cite news|url=http://www.thesun.co.uk/sol/homepage/sport/football/2582091/1964-FA-Cup-final-colour-picture-special-West-Ham-3-Preston-2.html|title=1964 FA Cup final|work=The Sun|accessdate=4 October 2013|location=London|first=Jim|last=Munro}}&lt;/ref&gt; They also won the [[1965 UEFA Cup Winners' Cup Final|European Cup Winners' Cup]].&lt;ref&gt;{{cite news | url=https://www.independent.co.uk/sport/football/international/england-managers-how-roy-hodgsons-predecessors-fared-7703923.html?action=gallery&amp;ino=4 | title=England managers: How Roy Hodgson's predecessors fared | work=The Independent | accessdate=4 October 2013 | location=London | date=1 May 2012}}&lt;/ref&gt;&lt;ref name="rg"&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/front_page/1447218.stm | title=Obituary: Ron Greenwood | publisher=BBC Sport | accessdate=4 October 2013 | date=9 February 2006}}&lt;/ref&gt; During the [[1966 FIFA World Cup]], key members of the tournament winners [[England national football team|England]] were West Ham players, including the captain, [[Bobby Moore]]; [[Martin Peters]] (who scored in the final); and [[Geoff Hurst]], who scored the first, and only, [[hat-trick]] in a men's [[FIFA World Cup|World Cup]] final.&lt;ref name=rg/&gt;&lt;ref&gt;{{cite web | url=http://www.whufc.com/articles/20100531/world-cup-hammers_2236884_2059863 | archive-url=https://web.archive.org/web/20100603135903/http://www.whufc.com/articles/20100531/world-cup-hammers_2236884_2059863 | dead-url=yes | archive-date=3 June 2010 | title=World Cup Hammers | publisher=West Ham United F.C. | accessdate=4 October 2013 | df=dmy-all }}&lt;/ref&gt; All three players had come through the youth team at West Ham.&lt;ref&gt;{{cite web | url=http://www.whufc.com/articles/20130222/bonzo-pays-tribute-to-bobby_2236884_3084197 | archive-url=https://web.archive.org/web/20131004221506/http://www.whufc.com/articles/20130222/bonzo-pays-tribute-to-bobby_2236884_3084197 | dead-url=yes | archive-date=4 October 2013 | title=Bonzo plays tribute | publisher=West Ham United F.C. | accessdate=4 October 2013}}&lt;/ref&gt; [[File:champions statue.jpg|200px|thumb|right|Champions statue on Barking Road]]
+There is a "Champions" statue in [[Barking Road]], opposite The [[Boleyn Tavern]], commemorating West Ham's "three sons" who helped win the 1966 World Cup: Bobby Moore, Geoff Hurst and Martin Peters. Also included on the statue is [[Everton F.C.|Everton]]'s [[Ray Wilson (English footballer)|Ray Wilson]].&lt;ref&gt;{{cite web | url=http://www.newham.com/work/attractions/champions_sculpture/33,10,0,0.html | title=Champions Sculpture | publisher=London Borough of Newham  | date=14 January 2008| accessdate=4 October 2013 | deadurl=yes | archiveurl=https://web.archive.org/web/20131005040852/http://www.newham.com/work/attractions/champions_sculpture/33,10,0,0.html | archivedate=5 October 2013 | df=dmy-all }}&lt;/ref&gt;&lt;br&gt;
+They also won the [[FA Cup]] in 1975 by defeating [[Fulham F.C.|Fulham]] 2–0. The Fulham team had former England [[captain (association football)|captains]] [[Alan Mullery]] and West Ham legend [[Bobby Moore]].&lt;ref&gt;{{cite web|title=Hammers nail Fulham|url=http://www.thefa.com/Competitions/FACompetitions/TheFACup/History/historyofthefacup/1975westhamfulham|publisher=The FA|accessdate=4 October 2013}}&lt;/ref&gt;
+
+After a difficult start to the 1974–75 season, Greenwood moved himself "upstairs" to become general manager and, without informing the board, appointed his assistant [[John Lyall]] as team manager.&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/4922314.stm | title=Former West Ham boss Lyall dies | publisher=BBC Sport | accessdate=4 October 2013 | date=19 April 2006}}&lt;/ref&gt; The result was instant success – the team scored 20 goals in their first four games combined and won the FA Cup, becoming the last team to win the FA Cup with an all-English side when they beat Fulham 2–0 in the 1975 final.&lt;ref&gt;{{cite web | url=http://www.whufc.com/articles/20120517/hammerabilia-wembley-special_2236884_2774289 | archive-url=https://web.archive.org/web/20131004221516/http://www.whufc.com/articles/20120517/hammerabilia-wembley-special_2236884_2774289 | dead-url=yes | archive-date=4 October 2013 | title=Hammeralelia Wembley special | publisher=West Ham United F.C. | accessdate=4 October 2013}}&lt;/ref&gt; Lyall then guided West Ham to another [[1976 UEFA Cup Winners' Cup Final|European Cup Winners' Cup]] final in 1976, though the team lost the match 4–2 to Belgian side [[R.S.C. Anderlecht|Anderlecht]].&lt;ref&gt;{{cite web | url=http://www.whufc.com/articles/20071018/anderlecht-deny-european-repeat_2236895_1328709 | title=Anderlecht deny European repeat | publisher=West Ham United F.C. | accessdate=4 October 2013 | deadurl=yes | archiveurl=https://web.archive.org/web/20111207000829/http://www.whufc.com/articles/20071018/anderlecht-deny-european-repeat_2236895_1328709 | archivedate=7 December 2011 | df=dmy-all }}&lt;/ref&gt; Greenwood's tenure as general manager lasted less than three years, as he was appointed to manage England in the wake of [[Don Revie]]'s resignation in 1977.&lt;ref name="exitrevie"&gt;{{cite web | url=http://www.thefa.com/england/All-Teams/Staff/RonGreenwood | title=Ron Greenwood | publisher=The Football Association | accessdate=4 October 2013}}&lt;/ref&gt;
+
+===Ups and downs (1978–2005)===
+In 1978, West Ham were again relegated to Division Two, but Lyall was retained as manager and led the team to an [[FA Cup Final 1980|FA Cup Final]] win against [[Arsenal F.C.|Arsenal]] in 1980, their last major honour.  They reached the final by defeating Everton in the semi-final.&lt;ref&gt;{{cite web|title=West Ham 1 Everton 1|url=http://archive.timesonline.co.uk/tol/viewArticle.arc?toDate=1980-04-18&amp;fromDate=1980-04-17&amp;currentPageNumber=1&amp;resultsPerPage=10&amp;sortBy=default&amp;offset=0&amp;viewName=&amp;addFilters=&amp;removeFilters=&amp;addCat=&amp;queryKeywords=Everton&amp;sectionId=1040&amp;currPgSmartSet=1&amp;pageId=ARCHIVE-The_Times-1980-04-17-12&amp;articleId=ARCHIVE-The_Times-1980-04-17-12-001&amp;xmlpath=&amp;pubId=17&amp;totalResults=2&amp;addRefineFilters=&amp;removeRefineFilters=&amp;addRefineCat=&amp;next_Page=false&amp;prev_Page=false&amp;date_dd_From=17&amp;date_mm_From=04&amp;date_yyyy_From=1980&amp;date_dd_to_range=18&amp;date_mm_to_range=04&amp;date_yyyy_to_range=1980&amp;date_dd_from_precise=17&amp;date_mm_from_precise=04&amp;date_yyyy_from_precise=1980&amp;isDateSearch=false&amp;dateSearchType=range&amp;refineQuerykeywordText=|work=The Times|accessdate=4 October 2013}}&lt;/ref&gt; The Hammers won 1–0, with a goal scored from a header by [[Trevor Brooking]] in the 13th minute.&lt;ref&gt;{{cite news|title=When the Hammers shocked Arsenal|url=http://news.bbc.co.uk/sport2/hi/football/fa_cup/8435400.stm|publisher=BBC Sport|accessdate=4 October 2013|first=Chris|last=Bevan|date=1 January 2010}}&lt;/ref&gt; This is notable as no team outside the top division has won the trophy since. West Ham were promoted to Division One in 1981, and finished in the top ten of the first division for the next three seasons before achieving their highest-ever league finish of third in 1985–86; a group of players which came to be known as [[The Boys of 86]]. However, they suffered relegation again in 1989, which resulted in Lyall's sacking.&lt;ref&gt;{{cite news|author=Julie Welch |url=https://www.theguardian.com/news/2006/apr/20/guardianobituaries.mainsection1 |title=Obituary John Lyall |work=The Guardian |date= 20 April 2006|accessdate=29 April 2010 | location=London}}&lt;/ref&gt; He was awarded an ''ex gratia'' payment of £100,000 but left the club in what Lyall described as "upsetting" circumstances, meriting only 73 words in a terse acknowledgement of his service in the club programme. Lyall left West Ham after 34 years service.&lt;ref&gt;{{cite book | title=Nearly Reached the Sky | publisher=Football World | author=Blowers, Steve | year=2005 | page=18 | isbn=978-0-9548336-8-8}}&lt;/ref&gt;
+
+[[File:WestHamUtdFC League Performance.svg|thumb|left|Yearly performance of West Ham since joining the Football League]]
+
+After Lyall, [[Lou Macari]] briefly led the team, though he resigned after less than a single season in order to clear his name of allegations of illegal betting while manager of [[Swindon Town F.C.|Swindon Town]].&lt;ref&gt;{{cite web | url=http://www.swindon-town-fc.co.uk/Person.asp?PersonID=MACARILO | title=Lou Macari | publisher=swindon-town-fc.co.uk | accessdate=30 May 2013}}&lt;/ref&gt;
+He was replaced by former player [[Billy Bonds]].&lt;ref name=essential&gt;{{cite book | title=The Essential History of West Ham United | publisher=Headline Book publishing | author=Blows, Kirk | year=2000 | page=193 | isbn=978-0-7472-7036-2}}&lt;/ref&gt; In Bonds' first full season, [[1990–91 in English football|1990–91]], West Ham again secured promotion to Division One. Now back in the top flight, Bonds saw West Ham through one of their most controversial seasons. With the club planning to introduce a [[Debenture (sport)|bond scheme]], there was crowd unrest. West Ham finished last and were relegated back to Division Two after only one season.&lt;ref name=Protest1&gt;{{cite news|last=Pierson|first=Mark|title=Football: West Ham fear FA censure over pitch invasion|url=https://www.independent.co.uk/sport/football-west-ham-fear-fa-censure-over-pitch-invasion-1285373.html|work=The Independent|accessdate=30 May 2013|location=London|date=27 January 1997}}&lt;/ref&gt;&lt;ref name=BrownOut&gt;{{cite news|last=May|first=John|title=Who IS Terence Brown?|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/2539355.stm|publisher=BBC Sport|accessdate=30 May 2013|date=3 December 2002}}&lt;/ref&gt;&lt;ref name="TEHOWHU197"&gt;{{cite book| title= The Essential History of West Ham United | pages = 197, 198 }}&lt;/ref&gt;&lt;ref name=Storrie&gt;{{cite web|last=Kirkby|first=Darren|title=Peter Storrie|url=http://www.wsc.co.uk/content/view/6630/29/|work=When Saturday Comes|accessdate=30 May 2013|archive-url=https://web.archive.org/web/20120524031131/http://www.wsc.co.uk/content/view/6630/29/|archive-date=24 May 2012|dead-url=yes|df=dmy-all}}&lt;/ref&gt; However, they rebounded strongly in 1992–93. With [[Trevor Morley]] and [[Clive Allen]] scoring 40 goals, they guaranteed themselves second place on the last day of the season with a 2–0 home win against [[Cambridge United F.C.|Cambridge United]], and with it promotion to the [[1993–94 Premier League|Premier League]].&lt;ref&gt;{{cite web | url=http://www.westhamstats.info/westham.php?west=4&amp;ham=1993&amp;united=1st_Division_1992-93 | title=1st Division 1992–93 | publisher=westhamstats.info | accessdate=30 May 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.whufc.com/articles/20130502/on-this-day-2-may_2236884_3163866 | archive-url=https://web.archive.org/web/20131004224110/http://www.whufc.com/articles/20130502/on-this-day-2-may_2236884_3163866 | dead-url=yes | archive-date=4 October 2013 | title=On this day 2 May | publisher=West Ham United F.C. | accessdate=30 May 2013}}&lt;/ref&gt;
+[[File:WestHamUnitedBus2005.JPG|thumb|right|200px|West Ham players on open-top bus near [[Boleyn Ground|Upton Park]] celebrate winning the 2005 play-off final in Cardiff. From L-R [[Shaun Newton]] (crouching), Back row, [[Matthew Etherington]], [[James Walker (footballer born 1973)|Jimmy Walker]], [[Teddy Sheringham]], [[Marlon Harewood]], Front row [[Don Hutchison]], [[Carl Fletcher (Welsh footballer)|Carl Fletcher]], [[Elliott Ward]] and [[Mark Noble]] (with flag) ]]
+
+With the team in the Premier League, there was a need to rebuild the team. [[Oxford United F.C.|Oxford United]] player [[Joey Beauchamp]] was recruited for a fee of £1.2&amp;nbsp;million. Shortly after arriving at the club, however, he became unhappy, citing homesickness from his native Oxford as the reason. Bonds in particular found this attitude hard to understand compared to his own committed, never-say-die approach; providing for Bonds' further evidence of the decay in the modern game and modern player.&lt;ref&gt;{{cite web|url=http://www.heraldseries.co.uk/sport/oxfordunited/unitednews/8220434.I_was_sold_to_save_United_says_Beauchamp/ |title=I was sold to save United says Beauchamp |publisher=Heraldseries.co.uk |date=22 June 1994 |accessdate=16 June 2010}}&lt;/ref&gt; Fifty-eight days later, Beauchamp was signed by Swindon Town for a club-record combined fee of £800,000 which included defender [[Adrian Whitbread]] going in the opposite direction. Whitbread was valued at £750,000 in the deal.&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/sport/football-coventry-ask-babb-bidders-to-raise-offers-liverpool-made-to-wait-1377205.html|title=Coventry ask Babb bidders to raise offers Liverpool made to wait|work=The Independent|accessdate=12 September 2014}}&lt;/ref&gt;
+
+Assistant manager [[Harry Redknapp]] was also now taking a bigger role in the transfer of players, with the club's approval. With rumours of his old club [[A.F.C. Bournemouth|AFC Bournemouth]] being prepared to offer him a position,&lt;ref&gt;{{cite web | url=http://www.football-england.com/billy_bonds.html | title=Billy Bonds | publisher=football-england.com | accessdate=18 August 2013 | deadurl=yes | archiveurl=https://web.archive.org/web/20130703155116/http://www.football-england.com/billy_bonds.html | archivedate=3 July 2013 | df=dmy-all }}&lt;/ref&gt; the West Ham board and their managing director, [[Peter Storrie]], made a controversial move. The board were anxious not to lose Redknapp's services and offered Bonds a place away from the day-to-day affairs of the club—on the West Ham board. This would have allowed them to appoint Redknapp as manager. Bonds refused the post offered and walked away from the club.&lt;ref name="BMTHOTB146"&gt;{{cite book | title=Bring Me the Head of Trevor Brooking | publisher=Mainstream Publishing Company | author=Blow, Kirk | year=2010 | location=Edinburgh | page=136 | isbn=978-1-84596-661-4}}&lt;/ref&gt; His accusations of deceit and manipulation by the board and by Redknapp have continued to cause ill-feeling.&lt;ref name="BMTHOTB146"/&gt; Peter Storrie claimed they that they had handled the situation correctly, saying, "If Harry had gone to Bournemouth, there was a good chance Bill would have resigned anyway, so we were in a no-win situation. We're sad that Bill is going, and it's a big blow but it's time to move on and we have appointed a great manager."&lt;ref&gt;{{cite book | url=https://books.google.com/?id=jIZpr9jkPPoC&amp;pg=PT57&amp;lpg=PT57&amp;dq=redknapp+bonds+storrie#v=onepage&amp;q=redknapp%20bonds%20storrie&amp;f=false | title=Harry's Games The Biography of H | accessdate=19 August 2013 | author=Crace, John| isbn=9781780339122 | date=2013-04-18 }}&lt;/ref&gt;
+Redknapp became manager on 10 August 1994.&lt;ref name=14m&gt;{{cite web | url=http://www.soccerbase.com/teams/team.sd?team_id=2802&amp;teamTabs=managers | title=Soccerbase – West Ham managers | publisher=soccerbase.com | accessdate=18 August 2013}}&lt;/ref&gt;
+
+Redknapp's time at West Ham was notable for the turnover of players during his tenure and for the level of attractive football and success which had not been seen since the managership of John Lyall. Over 134 players passed through the club while he was manager, producing a net transfer fee deficit of £16&amp;nbsp;million, despite the £18&amp;nbsp;million sale of [[Rio Ferdinand]] to [[Leeds United F.C.|Leeds United]].&lt;ref name="fees"&gt;{{cite web | url=https://www.standard.co.uk/sport/redknapp-blamed-for-west-ham-loss-6353787.html | title=Redknapp blamed for West Ham loss | work=London Evening Standard | date=8 November 2001 | accessdate=14 August 2013 | author=Dyer, Ken}}&lt;/ref&gt; Some were notably successful, such as the signings of [[Stuart Pearce]],&lt;ref name=hr/&gt; [[Trevor Sinclair]],&lt;ref name=hr/&gt; [[Paolo Di Canio]],&lt;ref name=hr/&gt; [[John Hartson]],&lt;ref name=hr/&gt; [[Eyal Berkovic]]&lt;ref name=hr/&gt; and [[Ian Wright]].&lt;ref name="wrightwrightwright"&gt;{{cite news | url=http://news.bbc.co.uk/2/hi/sport/football/news/131949.stm | title=Sport: Football: News | publisher=BBC Sport | accessdate=18 August 2013 | date=13 July 1998}}&lt;/ref&gt; Meanwhile, some were expensive, international players who failed at West Ham, such as [[Florin Raducioiu]];&lt;ref name=hr/&gt; [[Davor Šuker]], who earned as much in wages as the revenue gained from one entire stand and yet made only eight appearances;&lt;ref name=fees/&gt; [[Christian Bassila]], who cost £720,000 and played only 86 minutes of football;&lt;ref name=fees/&gt; [[Titi Camara]]; [[Gary Charles]], whose wages amounted to £4.4&amp;nbsp;million but made only three starts for the club;&lt;ref name=fees/&gt; [[Rigobert Song]]; [[Paulo Futre]];&lt;ref name=hr/&gt; and [[Marco Boogers]],&lt;ref name=hr&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/1321837.stm | title=Harry Leaves his legacy | publisher=BBC Sport | date=9 May 2001 | accessdate=14 August 2013}}&lt;/ref&gt; a player often quoted as one of the biggest failures in the Premier League.&lt;ref name="Boogers"&gt;{{Cite newspaper | url=https://www.theguardian.com/football/2000/aug/06/newsstory.sport16 | title=The 10 worst foreign signings of all time | journal=The Guardian | date=6 August 2000 | accessdate=18 August 2013 | author=Hills, Dave}}&lt;/ref&gt; His first season in charge saw West Ham fighting the threat of relegation until the last few weeks,&lt;ref&gt;{{cite web | url=http://www.westhamstats.info/westham.php?west=4&amp;ham=1995&amp;united=Premier_League_1994-95 | title=Premier League 1994–95 | publisher=westhamstats.info | accessdate=19 August 2013}}&lt;/ref&gt; while his third season would also see another relegation battle. Always willing to enter the transfer market, Redknapp bought in the winter transfer window John Hartson and [[Paul Kitson]] who added the impetus needed at the season's end.&lt;ref&gt;{{cite web | url=http://www.westhamstats.info/westham.php?west=4&amp;ham=1997&amp;united=Premier_League_1996-97 | title=Premier League 1996–97 | publisher=westhamstats.info | accessdate=19 August 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news | url=http://www.dailymail.co.uk/sport/football/article-1348995/The-Friday-Five-Harry-Redknapps-best-bargains.html | title=The Friday Five: Harry's best bargains | work=Daily Mail | date=21 January 2011 | accessdate=15 August 2013 | location=London | first=Emma | last=Reynolds}}&lt;/ref&gt;
+
+In 1999, West Ham finished fifth, their highest position in the top flight since 1986.&lt;ref name=hr/&gt; They also won the [[Intertoto Cup]] beating French club [[FC Metz|Metz]] to qualify for the [[1999–2000 UEFA Cup]].&lt;ref name=hr/&gt;&lt;ref name="intertotocupwin"&gt;{{cite web | url=http://www.whufc.com/articles/20130824/on-this-day-24-august_2236884_3435367 | archive-url=https://web.archive.org/web/20130827112441/http://www.whufc.com/articles/20130824/on-this-day-24-august_2236884_3435367 | dead-url=yes | archive-date=27 August 2013 | title=On this day – 24 August | publisher=West Ham United F.C. | accessdate=5 October 2013 | df=dmy-all }}&lt;/ref&gt; Things began to falter for Redknapp with the sale for £18&amp;nbsp;million to Leeds of Rio Ferdinand in November 2000. Redknapp used the transfer money poorly with purchases such as [[Ragnvald Soma]], who cost £800,000 and played only seven league games, Camera and Song. Redknapp felt he needed more funds with which to deal in the transfer market.&lt;ref name="cash"&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/1321273.stm | title=Cash row key to Redknapp exit | publisher=BBC Sport | date=12 May 2001 | accessdate=15 August 2013}}&lt;/ref&gt; Chairman [[Terry Brown (football chairman)|Brown]] lost patience with Redknapp due to his demands for further transfer funds. In June 2001, called to a meeting with Brown expecting to discuss contracts, he was fired.&lt;ref name=cash/&gt; His assistant [[Frank Lampard, Sr.|Frank Lampard]] left too, making the sale of his son [[Frank Lampard|Frank Lampard, Jr.]], inevitable;&lt;ref name=cash/&gt; in the summer of 2001, he joined [[Chelsea F.C.|Chelsea]] for £11 million.&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/1388696.stm | title=Chelsea land Lampard | publisher=BBC Sport | date=14 June 2001 | accessdate=18 August 2013}}&lt;/ref&gt;
+
+With several names, such as former player [[Alan Curbishley]], now linked with the job, Chairman Brown recruited from within the club,&lt;ref name=cash/&gt; appointing reserve team coach [[Glenn Roeder]] as manager on 9 May 2001.&lt;ref name=14m/&gt; He had already failed in management with [[Gillingham F.C.|Gillingham]], where he lost 22 of the 35 games he managed, and [[Watford F.C.|Watford]].&lt;ref name=ncfc&gt;{{cite web | url=http://www.ex-canaries.co.uk/players/roeder.htm | title=Flown from the nest – Glenn Roeder | publisher=ex-canaries.co.uk | accessdate=15 August 2013}}&lt;/ref&gt; His first big signings were the return of [[Don Hutchison]] for £5&amp;nbsp;million&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/1514594.stm | title=Roeder signs Hutchison | publisher=BBC Sport | accessdate=19 August 2013 | date=30 August 2001}}&lt;/ref&gt; and Czech centre back [[Tomáš Řepka]].&lt;ref&gt;{{cite web | url=http://www.whufc.com/articles/20010914/repka-signed-and-sealed_2236884_1139595 | archive-url=https://web.archive.org/web/20131004221503/http://www.whufc.com/articles/20010914/repka-signed-and-sealed_2236884_1139595 | dead-url=yes | archive-date=4 October 2013 | title=Repka – Signed and sealed | publisher=West Ham United F.C. | accessdate=19 August 2013}}&lt;/ref&gt; Finishing seventh in his first season&lt;ref&gt;{{cite web | url=http://www.westhamstats.info/westham.php?west=4&amp;ham=2002&amp;united=Premier_League_2001-02 | title=Premier League 2001-2 | publisher=westhamstats.info | accessdate=13 August 2013}}&lt;/ref&gt; Roeder, in his office at [[Boleyn Ground|Upton Park]], suffered a blocked blood vessel in his brain.&lt;ref name=ncfc/&gt;&lt;ref name=sirtrev/&gt; As Roeder needed medical help and recuperation, former stalwart [[Trevor Brooking]] stood in as caretaker manager.&lt;ref name="sirtrev"&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/2969187.stm | title=Hammers appoint Brooking | publisher=BBC Sport | accessdate=17 August 2013 | date=24 April 2003}}&lt;/ref&gt; Despite not losing another game, the Hammers were relegated on the last day of the season at [[Birmingham City F.C.|Birmingham City]] with a record for a relegated club of 42 points. Ten seasons of top tier football were over.&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/2978071.stm | title=West Ham relegated | publisher=BBC Sport | accessdate=17 August 2013 | date=11 May 2003}}&lt;/ref&gt; Many top players including [[Joe Cole]], Di Canio and Kanoute all left the club.
+
+The next season, now in the second tier, Roeder resumed his stint as manager. Results were still poor, however, and after an away defeat to [[Rotherham United F.C.|Rotherham United]], he was sacked on 24 August 2003.&lt;ref name=ncfc/&gt; Brooking again took over as caretaker.&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/3178123.stm | title=West Ham sack Roeder | publisher=BBC Sport | date=24 August 2003 | accessdate=17 August 2013}}&lt;/ref&gt; He lost only one game, a 2–0 away defeat to [[Gillingham F.C.|Gillingham]]&lt;ref&gt;{{Cite newspaper | url=http://www.thesundaytimes.co.uk/sto/sport/football/article53341.ece | title=Gillingham 2 West Ham 0: Defoe goes as Gills win | journal=The Sunday Times | accessdate=17 August 2013| date=2003-09-21 | last1=Stadium | first1=Rob Maul at Priestfield }}&lt;/ref&gt; and is known as "the best manager West Ham never had."&lt;ref&gt;{{cite web | url=http://www.ftbpro.com/posts/aki.lunn/123823/ranking-west-ham-managers-of-the-last-decade | archive-url=https://web.archive.org/web/20131004215725/http://www.ftbpro.com/posts/aki.lunn/123823/ranking-west-ham-managers-of-the-last-decade | dead-url=yes | archive-date=4 October 2013 | title=Ranking West Ham Managers | publisher=ftbpro.com | accessdate=19 August 2013}}&lt;/ref&gt;
+Former Crystal Palace player and manager of [[Reading F.C.|Reading]] [[Alan Pardew]] was lined up to be the next bench boss. Reading and their chairman, [[John Madejski]], however, were reluctant to let him leave.&lt;ref&gt;{{cite news | url=https://www.telegraph.co.uk/sport/football/2421728/Madejski-fury-as-Pardew-is-released.html | title=Madejski fury as Pardew is released | work=The Daily Telegraph | date=19 September 2003 | accessdate=18 August 2013 | author=Davies, Christopher | location=London}}&lt;/ref&gt; After serving a period of notice and gardening leave, and with West Ham paying Reading £380,000 in compensation, he was appointed manager on 18 October 2003, their tenth manager.&lt;ref&gt;{{cite news | url=http://www.dailymail.co.uk/sport/football/article-421858/Alan-Pardew-factfile.html | title=Alan Pardew factfile | work=Daily Mail | date=11 December 2006 | accessdate=15 August 2013 | location=London}}&lt;/ref&gt; Pardew set out to rebuild the side bringing in [[Nigel Reo-Coker]],&lt;ref name=pards&gt;{{cite web | url=http://m.espn.go.com/soccer/story?storyId=375039&amp;src=desktop | title=Pardew out to build on impressive return | publisher=ESPN | date=16 August 2006 | accessdate=15 August 2013 | author=Johnson, Dale}}&lt;/ref&gt; [[Marlon Harewood]]&lt;ref&gt;{{cite web | url=https://www.standard.co.uk/sport/pardews-harewood-challenge-6974754.html | title=Pardew's Harewood challenge | work=London Evening Standard | date=1 December 2003 | accessdate=18 August 2013}}&lt;/ref&gt; and [[Brian Deane]].&lt;ref&gt;{{cite news | url=http://www.skysports.com/story/0,19528,11685_2283730,00.html | title=Pardew: Deane could be key | publisher=Sky Sports | accessdate=18 August 2013 | author=Goss, Patrick}}&lt;/ref&gt; In his first season in charge, they made the playoff final only to lose to Crystal Palace.&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/eng_div_1/3750773.stm | title=Crystal Palace 1–0 West Ham | publisher=BBC Sport | accessdate=18 August 2013 | date=29 May 2004}}&lt;/ref&gt; His signings of [[Bobby Zamora]], [[Matthew Etherington]] and veterans [[Chris Powell]] and [[Teddy Sheringham]] saw West Ham finishing sixth and subsequently beat [[Preston North End F.C.|Preston North End]] 1–0 thanks to a Zamora goal in the [[2005 Football League Championship play-off Final|2005 playoff final]], securing a return to the Premier League.&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/eng_div_1/4573799.stm | title=West Ham 1–0 Preston | publisher=BBC Sport | accessdate=17 August 2013 | date=30 May 2005}}&lt;/ref&gt; After ensuring promotion, Pardew said, "It's a team effort. We defended well and we're back where we belong."&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/4591261.stm | title=Pardew joy at Hammers promotion | publisher=BBC Sport | accessdate=17 August 2013 | date=30 May 2005}}&lt;/ref&gt;
+
+===Final years at the Boleyn (2005–2016)===
+On their return to the top division, West Ham finished in ninth place,&lt;ref name="Final 2005/2006 English Premier Table"&gt;{{cite web| title = Final 2005/2006 English Premier Table| url = http://www.soccerbase.com/league2.sd?competitionid=7&amp;seasonid=135&amp;teamid=2802| publisher = Soccerbase| accessdate = 12 August 2007| archive-url = https://web.archive.org/web/20071001145232/http://www.soccerbase.com/league2.sd?competitionid=7&amp;seasonid=135&amp;teamid=2802| archive-date = 1 October 2007| dead-url = yes| df = dmy-all}}&lt;/ref&gt; The highlight of the [[2005–06 West Ham United F.C. season|2005–06 season]], however, was reaching the [[2006 FA Cup final|FA Cup final]] and taking favourites [[Liverpool F.C.|Liverpool]] to a [[penalty shootout (association football)|penalty shootout]] after a 3–3 draw. West Ham lost the shootout, but nonetheless gained entry to the following season's [[2006–07 UEFA Cup|UEFA Cup]] as Liverpool had already qualified for the [[2006–07 UEFA Champions League|Champions League]]. In August 2006, West Ham completed a major coup on the last day of the transfer window after completing the signings of [[Carlos Tevez]] and [[Javier Mascherano]].&lt;ref name="West Ham sign Tevez &amp; Mascherano"&gt;{{Cite news| title = West Ham sign Tevez &amp; Mascherano
+| url = http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/5301068.stm|publisher=BBC Sport| date = 31 August 2006
+| accessdate =12 August 2007}}&lt;/ref&gt; The club was eventually bought by an [[Iceland]]ic consortium, led by [[Eggert Magnússon]], in November 2006.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/6165272.stm|title=West Ham accept £85m takeover bid|publisher=BBC Sport|date=21 November 2006|accessdate=12 September 2014}}&lt;/ref&gt; Manager Alan Pardew was sacked after poor form during the season&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/6169349.stm|title=Pardew sacked as West Ham manager|publisher=BBC Sport|date=11 December 2006|accessdate=12 September 2014}}&lt;/ref&gt; and was replaced by former [[Charlton Athletic F.C.|Charlton Athletic]] manager [[Alan Curbishley]].&lt;ref name="curb"&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/6171205.stm|title=Curbishley named West Ham manager|publisher=BBC Sport|date=13 December 2006|accessdate=12 September 2014}}&lt;/ref&gt;
+
+The signings of Mascherano and Tevez were investigated by the Premier League, who were concerned that details of the transfers had been omitted from official records. The club was found guilty and fined £5.5 million in April 2007.&lt;ref&gt;{{cite news|last1=Huggins|first1=Trevor|url=https://uk.reuters.com/article/uk-soccer-england-westham-fapl/west-ham-given-record-fine-over-transfers-idUKL2744414120070427|title=West Ham given record fine over transfers|publisher=Reuters|date=27 April 2007|accessdate=11 July 2018}}&lt;/ref&gt; However, West Ham avoided a points deduction which ultimately became critical in their avoidance of relegation at the end of the [[2006–07 Premier League|2006–07 season]]. Following on from this event, [[Wigan Athletic F.C.|Wigan Athletic]] chairman [[Dave Whelan]], supported by other sides facing possible relegation, including Fulham and [[Sheffield United F.C.|Sheffield United]], threatened legal action.&lt;ref&gt;{{Cite news|author=Paul Doyle |url=http://football.guardian.co.uk/News_Story/0,,2071808,00.html |title=Whelan on Warpath |newspaper=The Guardian |date= 3 May 2007|accessdate=29 April 2010 | location=London}}&lt;/ref&gt; West Ham escaped relegation by winning seven of their last nine games, including a 1–0 win over Arsenal, and on the last day of the season defeated newly crowned League Champions [[Manchester United F.C.|Manchester United]] 1–0 with a goal by Tevez to finish 15th.&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/6627803.stm | title=Manchester United 0–1 West Ham | publisher=BBC Sport | accessdate=5 October 2013 | first=Howard | last=Nurse | date=13 May 2007}}&lt;/ref&gt;
+
+In the [[2007–08 in English football|2007–08 season]], West Ham remained reasonably consistently in the top half of the league table, with [[Freddie Ljungberg]] in the team, despite a slew of injuries; new signing [[Craig Bellamy]] missed most of the campaign, while [[Kieron Dyer]] was out from August 2007.&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/7257001.stm | title=Injured Bellamy out for six weeks | publisher=BBC Sport | date=21 February 2008 | accessdate=5 October 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news | url=https://www.independent.co.uk/sport/football/news-and-comment/happy-returns-making-a-comeback-from-a-lengthy-layoff-2359159.html?action=gallery&amp;ino=2 | title=Happy returns? Making a comeback from a lengthy lay-off | work=The Independent | accessdate=5 October 2013 | location=London | first1=Rik | last1=Sharma | first2=Matt | last2=Bodimeade | date=22 September 2011}}&lt;/ref&gt; The last game of the season, at the [[Boleyn Ground]], saw West Ham draw 2–2 against [[Aston Villa F.C.|Aston Villa]], ensuring a tenth-place finish three points ahead of rivals [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. It was a five-place improvement on the previous season, and most importantly West Ham were never under any realistic threat of relegation.
+
+After a row with the board over the sale of defenders [[Anton Ferdinand]] and [[George McCartney]] to [[Sunderland A.F.C.|Sunderland]], manager Alan Curbishley resigned on 3 September 2008.&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/7596106.stm | title=Curbishley quits as West Ham boss | publisher=BBC Sport | accessdate=7 October 2013 | date=3 September 2008}}&lt;/ref&gt; His successor was former Chelsea striker [[Gianfranco Zola]], who took over on 11 September 2008 to become the club's first non-British manager.&lt;ref name="zola1"&gt;{{Cite news|url=https://www.theguardian.com/football/2008/sep/11/westham.zola|title=West Ham unveil Zola as new manager|date=11 September 2008|work=The Guardian |location=UK |accessdate=12 September 2008  | first=John | last=Ashdown}}&lt;/ref&gt; In the [[2008–09 in English football|2008–09 season]], West Ham finished ninth, a single place improvement.
+[[File:2012 Football League Championship play-off Final Nolan lifts the cup.jpg|thumb|right|350px|[[Kevin Nolan]] lifts the trophy after the [[2012 Football League Championship play-off Final]]]]
+
+In the [[2009–10 in English football|2009–10 season]], West Ham started strongly with a 2–0 win over newly promoted [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] with goals from [[Mark Noble]] and newly appointed captain [[Matthew Upson]].&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/8197834.stm | title=Wolves 0–2 West Ham | publisher=BBC Sport | accessdate=7 October 2013 | first=Julian | last=Shea | date=15 August 2009}}&lt;/ref&gt; A [[Football League Cup|League Cup]] [[2009 Upton Park riot|match]] against old rivals [[Millwall F.C.|Millwall]] brought about violent riots outside the ground as well as [[pitch invasion]]s and crowd trouble inside [[Boleyn Ground|Upton Park]].&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/1/hi/england/london/8221451.stm |title=Mass violence mars London derby |publisher=BBC News|date=25 August 2009 |accessdate=29 August 2009}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |url=http://www.dailymail.co.uk/news/article-1209028/Man-stabbed-West-Ham-Millwall-fans-brawl-outside-stadium.html|title='Bring your bats&amp;nbsp;... but don't bring your kids': Thugs planned West Ham v Millwall rampage on internet chatrooms
+|work=Daily Mail |location=UK |date=26 August 2009 |accessdate=29 August 2009 }}&lt;/ref&gt;
+In August 2009, the financial concerns of Icelandic owners parent companies left the current owners unable to provide any funds until a new owner was found. The club's shirt sponsor [[SBOBET]] provided the club with help to purchase a much needed striker, the Italian [[Alessandro Diamanti]].&lt;ref&gt;{{cite web|publisher=West Ham United FC|title=Diamanti signs|url=http://www.whufc.com/page/News/0,,12562~1780384,00.html|archive-url=https://web.archive.org/web/20090830023504/http://www.whufc.com/page/News/0%2C%2C12562~1780384%2C00.html|dead-url=yes|archive-date=30 August 2009|date=28 August 2009|accessdate=29 August 2009|df=dmy-all}}&lt;/ref&gt;
+
+West Ham had a poor season which involved a prolonged battle against relegation.&lt;ref name=zola2010&gt;{{cite web | url=http://www.westhamstats.info/westham.php?west=4&amp;ham=2010&amp;united=Premier_League_2009-10 | title=Premier League 2009–10 | publisher=westhamstats.info | accessdate=5 October 2013}}&lt;/ref&gt; They finally secured their survival with two games remaining by defeating Wigan 3–2.&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/8637973.stm | title=West Ham 3–2 Wigan | publisher=BBC Sport | accessdate=5 October 2013 | date=24 April 2010}}&lt;/ref&gt; The club managed to take 35 points from 38 games, seven fewer than the total they had when relegated seven years prior.&lt;ref name=zola2010/&gt;
+On 11 May 2010, two days after the end of the 2009–10 season, West Ham announced the termination of Zola's contract with immediate effect.&lt;ref&gt;{{Cite news|url=http://www.whufc.com/articles/20100511/west-ham-united-statement_2236884_2049185|archive-url=https://web.archive.org/web/20100513012232/http://www.whufc.com/articles/20100511/west-ham-united-statement_2236884_2049185|dead-url=yes|archive-date=13 May 2010|title=West Ham United statement|publisher=West Ham United F.C.|date=11 May 2010|accessdate=11 May 2010|df=dmy-all}}&lt;/ref&gt; On 3 June 2010, [[Avram Grant]] signed a four-year deal to become the next manager of West Ham subject to a [[Work permit (United Kingdom)|work permit]].&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/8717102.stm |title=Avram Grant confirmed as West Ham United manager |publisher=BBC Sport |date= 3 June 2010|accessdate=3 June 2010}}&lt;/ref&gt; West Ham's form continued to be poor with the team seldom outside the relegation zone,&lt;ref&gt;{{cite news|last=Chowdhury |first=Saj |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9331257.stm |title=Newcastle 5–0 West Ham |publisher=BBC Sport |date=5 January 2011 |accessdate=14 January 2011}}&lt;/ref&gt; placing Grant's future as manager under serious doubt.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9342661.stm |title=West Ham's Grant stays calm after 5–0 loss to Newcastle |publisher=BBC Sport |date=5 January 2011 |accessdate=14 January 2011}}&lt;/ref&gt; A 4–0 [[Football League Cup]] quarter-final win over Manchester United was an otherwise bright spot in a disappointing season.&lt;ref&gt;{{cite news|last=Whyatt |first=Chris |url=http://news.bbc.co.uk/sport1/hi/football/league_cup/9233755.stm |title=West Ham 4–0 Manchester United |publisher=BBC Sport |date=30 November 2010 |accessdate=14 January 2011}}&lt;/ref&gt; West Ham's form in the Premier League did not affect their form in the two domestic cups. The Hammers reached the semi-final of the League Cup before being eliminated by eventual winners [[Birmingham City F.C.|Birmingham City]] as well as the quarter final of the FA cup before a 2–1 defeat at [[Stoke City F.C.|Stoke City]].&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/league_cup/9362794.stm | title=Birmingham 3–1 West Ham | publisher=BBC Sport | accessdate=5 October 2013 | first=Phil | last=McNulty | date=26 January 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/fa_cup/9421244.stm | title=Stoke City 2–1 West Ham | publisher=BBC Sport | accessdate=5 October 2013 | date=13 March 2011}}&lt;/ref&gt;
+
+On 15 May 2011, West Ham's relegation to [[2011–12 Football League Championship|the Championship]] was confirmed after a comeback from Wigan at the [[DW Stadium]]. With West Ham leading 0–2 at half-time through two [[Demba Ba]] goals, Wigan battled back to win 3–2 thanks to an added-time strike from [[Charles N'Zogbia]]. Following the loss, West Ham announced the [[Dismissal (employment)|sacking]] of manager Avram Grant just one season into his tenure.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/13404955.stm |title=West Ham part company with Avram Grant |publisher=BBC Sport |date= 16 May 2011|accessdate=17 May 2011}}&lt;/ref&gt; On 1 June 2011, [[Sam Allardyce]] was appointed as manager as Grant's replacement.&lt;ref&gt;{{cite news| title = Sam's the man| publisher = West Ham United F.C.| date = 1 June 2011| url = http://www.whufc.com/articles/20110601/sams-the-man_2236884_2369787| archive-url = https://web.archive.org/web/20110604154848/http://www.whufc.com/articles/20110601/sams-the-man_2236884_2369787| dead-url = yes| archive-date = 4 June 2011| accessdate = 1 June 2011| df = dmy-all}}&lt;/ref&gt;
+
+The club finished third in the [[2011–12 Football League Championship]] with 86 points and took part in the play-offs. They beat [[Cardiff City F.C.|Cardiff City]] in the play-off semi-final 5–0 on aggregate to reach the final against [[Blackpool F.C|Blackpool]] at [[Wembley Stadium|Wembley]] on 19 May 2012. [[Carlton Cole]] opened the scoring, and although Blackpool equalised early in the second half, [[Ricardo Vaz Tê]] scored the winner for West Ham in the 87th minute.&lt;ref&gt;{{cite news| url=https://www.telegraph.co.uk/sport/football/competitions/championship/9272841/Blackpool-v-West-Ham-United-live.html | location=London | work=The Daily Telegraph | first=Thom | last=Gibbs | title=Blackpool v West Ham United: live | date=19 May 2012}}&lt;/ref&gt;
+
+West Ham, on their return to the Premier League, signed former players [[James Collins (footballer, born 1983)|James Colllins]] and [[George McCartney]] on permanent deals, as well as record signing [[Matt Jarvis]] and [[Andy Carroll]] on loan.&lt;ref&gt;{{cite web|title=Hammers return for 'Ginge'|url=http://www.whufc.com/articles/20120731/hammers-return-for-ginge_2236884_2865700|archive-url=https://web.archive.org/web/20120804020716/http://www.whufc.com/articles/20120731/hammers-return-for-ginge_2236884_2865700|dead-url=yes|archive-date=4 August 2012|publisher=West Ham United F.C.|accessdate=25 September 2012|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=McCartney completes Hammers switch|url=http://www.whufc.com/articles/20120701/mccartney-completes-hammers-switch_2236884_2825510|archive-url=https://web.archive.org/web/20120704091026/http://www.whufc.com/articles/20120701/mccartney-completes-hammers-switch_2236884_2825510|dead-url=yes|archive-date=4 July 2012|publisher=West Ham United F.C.|accessdate=25 September 2012|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Jarvis joins Hammers|url=http://www.whufc.com/articles/20120824/jarvis-joins-hammers_2236884_2897815|archive-url=https://web.archive.org/web/20120827023622/http://www.whufc.com/articles/20120824/jarvis-joins-hammers_2236884_2897815|dead-url=yes|archive-date=27 August 2012|publisher=West Ham United F.C.|accessdate=25 September 2012|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Hammers net Carroll|url=http://www.whufc.com/articles/20120830/hammers-net-carroll_2236884_2905248|archive-url=https://web.archive.org/web/20120831104129/http://www.whufc.com/articles/20120830/hammers-net-carroll_2236884_2905248|dead-url=yes|archive-date=31 August 2012|publisher=West Ham United F.C.|accessdate=25 September 2012}}&lt;/ref&gt; They won their first game of the season, on 18 August 2012, 1–0 against [[Aston Villa F.C.|Aston Villa]] thanks to a [[Kevin Nolan]] goal.&lt;ref&gt;{{cite web|title=West Ham United 1–0 Aston Villa FT|url=http://www.whufc.com/articles/20120818/west-ham-united-1-0-aston-villa-ft_2236884_2890226|archive-url=https://web.archive.org/web/20120821003624/http://www.whufc.com/articles/20120818/west-ham-united-1-0-aston-villa-ft_2236884_2890226|dead-url=yes|archive-date=21 August 2012|publisher=West Ham United F.C.|accessdate=25 September 2012|df=dmy-all}}&lt;/ref&gt; The highlight of the first half of the season was a 3–1 home win against reigning [[2012 UEFA Champions League Final|European champions]] [[Chelsea F.C.|Chelsea]] on 1 December 2012 which saw them in eighth position&lt;ref&gt;{{Cite newspaper|title=West Ham 3–1 Chelsea|journal=BBC Sport|url=https://www.bbc.co.uk/sport/0/football/20474474|accessdate=21 May 2013|date=December 2012}}&lt;/ref&gt; and 12th at the end of the year.&lt;ref&gt;{{Cite newspaper|title=Reading 1–0 West Ham|journal=BBC Sport|url=https://www.bbc.co.uk/sport/0/football/20823239|accessdate=21 May 2013|date=2012-12-29}}&lt;/ref&gt; On 22 March 2013, West Ham secured a 99-year lease deal on the [[Olympic Stadium (London)|Olympic Stadium]], with it planned to be used as their home ground from the 2016–17 season.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/0/football/21684372 |title=Olympic Stadium: Barry Hearn calls for judicial review |publisher=BBC Sport |date=6 March 2013 |accessdate=21 March 2013}}&lt;/ref&gt; Tenth place was secured at the end of the season with nine home wins and only three away from home. Only 11 away goals were scored, the lowest of the entire league.&lt;ref&gt;{{Cite newspaper|title=West Ham 4–2 Reading|journal=BBC Sport|url=https://www.bbc.co.uk/sport/0/football/22499173|accessdate=21 May 2013|date=2013-05-19}}&lt;/ref&gt;
+
+In [[2013–14 West Ham United F.C. season|2013–14]], West Ham finished 13th in the Premier League.&lt;ref&gt;{{cite web | url=http://www.statto.com/football/teams/west-ham-united/2013-2014 | title=West Ham United 2013–14 season | publisher=statto.com | accessdate=1 May 2015 | deadurl=yes | archiveurl=https://web.archive.org/web/20150420233418/http://www.statto.com/football/teams/west-ham-united/2013-2014 | archivedate=20 April 2015 | df=dmy-all }}&lt;/ref&gt; They also reached the semi-finals of the [[Football League Cup|League Cup]] before losing 9–0 on aggregate to eventual cup-winners [[Manchester City F.C.|Manchester City]].&lt;ref name="2014 league cup semi"&gt;{{Cite newspaper | url=https://www.bbc.co.uk/sport/0/football/25723655 | title=West Ham 0–3 Manchester City | journal=BBC Sport | accessdate=1 May 2015| date=2014-01-21 }}&lt;/ref&gt; A feature of the season were the criticisms of manager Sam Allardyce by supporters relating to his perceived negative playing tactics.&lt;ref name="samout1"&gt;{{cite news | url=https://www.theguardian.com/football/2014/jan/09/west-ham-fans-allardyce-manchester-city | title=West Ham's travelling fans call on Sam Allardyce to go after 6–0 thrashing | work=The Guardian | date=9 January 2014 | accessdate=1 May 2015 | author=Jackson, Jamie}}&lt;/ref&gt;&lt;ref name=samout2&gt;{{Cite newspaper | url=https://www.bbc.co.uk/sport/0/football/26761549 | title=Sam Allardyce: West Ham boss shocked by boos after Hull win | journal=BBC Sport | accessdate=1 May 2015| date=2014-03-26 }}&lt;/ref&gt;&lt;ref name="samout3"&gt;{{cite web | url=http://www.sportinglife.com/football/news/article/165/9291409/allardyce-criticism-nonsense | title=Allardyce: Criticism nonsense | work=Sporting Life|location=UK | accessdate=1 May 2015}}&lt;/ref&gt; West Ham finished 12th in the [[2014–15 Premier League]], one place higher than the previous season. Minutes after the last game of the season, on 24 May 2015, the club announced that Allardyce's contract would not be renewed and that they were seeking a new manager.&lt;ref name="BFSGone"&gt;{{cite news | url=https://www.bbc.co.uk/sport/0/football/32863888 | title=West Ham: Sam Allardyce says decision to leave 'was mutual' | publisher=BBC Sport | date=24 May 2015 | accessdate=26 May 2015 | author=McNulty, Phil}}&lt;/ref&gt; By winning the Premier League [[Fair Play league|Fair Play table]] for 2014–15, West Ham qualified for the [[2015–16 UEFA Europa League]], entering at the first qualifying round.&lt;ref&gt;{{Cite newspaper | url=https://www.bbc.co.uk/sport/0/football/32889068 | title=West Ham qualify for Europa League through Fair Play system | journal=BBC Sport | accessdate=26 May 2015| date=2015-05-26 }}&lt;/ref&gt; 
+
+On 9 June 2015, former West Ham player [[Slaven Bilić]] was appointed as manager on a three-year contract.&lt;ref name=Bilic&gt;{{cite web | url=http://www.whufc.com/News/Articles/2015/June/9-June/Hammers-appoint-Bilic | archive-url=https://web.archive.org/web/20150611185523/http://www.whufc.com/News/Articles/2015/June/9-June/Hammers-appoint-Bilic | dead-url=yes | archive-date=11 June 2015 | title=Hammers appoint Bilic | publisher=West Ham United F.C. | accessdate=9 June 2015 | df=dmy-all }}&lt;/ref&gt; In Bilić's fourth game in charge, the team won at [[Anfield]] for the first time in 52 years, beating Liverpool 0–3, with goals from [[Manuel Lanzini]], Mark Noble and [[Diafra Sakho]].&lt;ref&gt;{{Cite news|title = Liverpool 0–3 West Ham United|url = https://www.bbc.co.uk/sport/0/football/34025305|publisher = BBC Sport|access-date = 3 September 2015}}&lt;/ref&gt; At the end of the season, West Ham finished 7th in the Premier League. The team broke several records for the club in the Premier League era, including the highest number of points (62), the highest number of goals in a season (65), the least number of games lost in a season (8) and the lowest number of away defeats (5).&lt;ref&gt;{{cite web | url=http://www.whufc.com/News/Articles/2016/May/16-May/Stat%E2%80%99s-a-Fact-%E2%80%93-2015-16-Season | archive-url=https://web.archive.org/web/20160520233418/http://www.whufc.com/News/Articles/2016/May/16-May/Stat%E2%80%99s-a-Fact-%E2%80%93-2015-16-Season | dead-url=yes | archive-date=20 May 2016 | title=Stat's a Fact – 2015/16 Season | publisher=West Ham United F.C. | date=16 May 2016 | accessdate=22 May 2016 | df=dmy-all }}&lt;/ref&gt; The season also marked the last season where the team played at the Boleyn Ground, with them moving to the London Stadium from next season - ending their 112 year stay at the stadium.
+
+===Move to London Stadium and recent years (2016–)===
+Following Manchester United's win in the [[2016 FA Cup Final]], West Ham took their Europa League place and qualified for the third qualifying round of the [[2016–17 UEFA Europa League|2016–17 edition]].&lt;ref name="europe201617"&gt;{{cite web | url=http://www.whufc.com/News/Articles/2016/May/21-May/Hammers-qualify-for-UEFA-Europa-League | archive-url=https://web.archive.org/web/20160524190640/http://www.whufc.com/News/Articles/2016/May/21-May/Hammers-qualify-for-UEFA-Europa-League | dead-url=yes | archive-date=24 May 2016 | title=Hammers qualify for UEFA Europa League | publisher=West Ham United F.C. | date=21 May 2016 | accessdate=22 May 2016 | df=dmy-all }}&lt;/ref&gt; At the end of the tough [[2016–17 Premier League|first season at the London Stadium]], the team finished 11th, along with having to deal with the departure of star man [[Dimitri Payet]].&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/news/11685/10887457/west-ham-201617-premier-league-season-review|title=West Ham 2016/17 Premier League season review|publisher=|accessdate=6 November 2017}}&lt;/ref&gt; However, the team suffered a poor start to the following season, taking only two wins in their opening 11 games. Following a 4–1 defeat to Liverpool at home and with the team threatened by relegation, Bilić was sacked on 6 November 2017. He was replaced by former Sunderland boss [[David Moyes]] on a contract till the end of the season. The team battled inconsistent form for the rest of the season but managed to avoid relegation and finish 13th. Moyes was not offered a new contract and left the club on the expiration of it on 16 May 2018. &lt;ref&gt;{{cite web|url=http://bleacherreport.com/articles/2776278-david-moyes-departs-west-ham-after-expiration-of-his-contract|title=David Moyes Departs West Ham After Expiration of His Contract|work=Bleacher Report|accessdate=22 May 2018}}&lt;/ref&gt;
+
+On 22 May 2018, the club appointed former [[Manchester City]] boss [[Manuel Pellegrini]] as the new manager on a three-year deal contract.&lt;ref name=WestHamIn&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/44163423 |title=West Ham: Manuel Pellegrini named new manager at London Stadium |publisher=BBC Sport |date=22 May 2018 |accessdate=22 May 2018}}&lt;/ref&gt;
+
+==Crest==
+[[File:WestHamPreviousLogo.png|200px|thumb|right|Club crest (1987–1998)]]
+[[File:West Ham United FC.svg|Crest of West Ham United|200px|thumb|right|Club crest (1998–2016)]]
+===Thames Ironworks FC===
+The Thames Ironworks Team (1895–1900) used the [[Union Flag]] as its badge.
+
+===Rivet Hammers===
+The principal element of the badge is the crossed pair of rivet hammers, tools that were used in the shipbuilding industry. The [[Blackwall, London|Blackwall]] and [[Canning Town]] neighbourhoods surrounding the [[Thames Ironworks and Shipbuilding Company|Thames Ironworks]] echoed to the sound of hammers; [[steam hammer|steam hammers]], sledge hammers and rivet hammers.&lt;ref&gt;The shipbuilding description that follows comes from Brian Belton's book 'The Thames Ironworks' Chapter 5&lt;/ref&gt;
+ 
+Seven large mechanical steam hammers would punch small holes near the edges of the iron plates which would be joined to build the ships. The plates would be put in place and fixed together with rivets by teams of five, three inside the emerging vessel and two outside.
+ 
+Inside the ship one member of the team would heat the rivets till they were white hot and pass to a second person known as a 'catch-boy' or 'putter-in' who would place the rivet in the hole. The third person was known as the 'holder-on' and he would then smash the rivet home with a sixteen pound sledge hammer and then use his sledgehammer to hold the rivet in place while the men on the other side flattened the other end of the rivet.
+ 
+Outside the ship, exposed to the elements, two men with rivet hammers – one right-handed, one left-handed – would hammer the protruding and still glowing rivet flat, so securing one of the many points necessary to link each of the ship's large plates.
+
+The crossed hammers were also incorporated into the coat of arms of the [[County Borough of West Ham]] and those of its successor, the modern [[London Borough of Newham]].&lt;ref&gt;Archived material from LB of Newham website, description of each element of the coat of arms https://web.archive.org/web/20130602073325/http://apps.newham.gov.uk/democracy/civicamb/carms.htm&lt;/ref&gt;
+
+===Tower===
+A yellow or white tower was added, intermittently, from the 1950s onwards.&lt;ref&gt;website shows much of the evolution of the badge http://theyflysohigh.co.uk/club-crest/4548286338&lt;/ref&gt; The primary reason for this seems to be to represent ''Anne Boleyn’s Tower'', the most notable feature of [[Green Street House]], an originally Tudor group of buildings which stood next to the [[Boleyn Ground]] until demolished in 1955. [[Green Street House]] was also known as ''Boleyn Castle'' through an association with [[Anne Boleyn]]. The manor was reputedly one of the sites at which [[Henry VIII]] courted his second queen, though there is no documentary evidence to support the tradition.&lt;ref&gt;{{cite web | url=http://www.british-history.ac.uk/report.asp?compid=42741 | title=East Ham: Manors and estates | publisher=University of London &amp; History of Parliament Trust | author=Various | accessdate=15 August 2009}}&lt;/ref&gt;
+
+There are a number of other factors which may have influenced the inclusion of the stylised castle feature, for instance:
+* to reflect the contribution made to the club by players of [[Old Castle Swifts]] 
+* The imposing towers, rooves and doorway of the Engineering Department of the [[Thames Ironworks and Shipbuilding Company|Thames Ironworks]] bore a strong resemblance&lt;ref&gt;link to external image https://www.gracesguide.co.uk/images/0/02/Im1895EnV80-p567.jpg&lt;/ref&gt; to the castle feature in earlier iterations of the badge.
+* The first verse of the club's anthem [[I'm forever blowing bubbles]] begins "I'm dreaming dreams, I'm scheming schemes, I'm building castles high".
+* The [[White Tower (Tower of London)|White Tower]] of the [[Tower of London]] as emblematic of [[East London]]. For hundreds of years, up until 1900, inner [[East London]] had been known as the [[Tower division|Tower Division]],&lt;ref&gt;The London Encyclopaedia, 1983, by Weinreb and Hibbert. The Encyclopaedia describes how the creation of the Tower Division, aka Tower Hamlets, made East London a distinct military unit&lt;/ref&gt; an area which owed military service to the [[Tower of London]]. The (originally whitewashed) [[White Tower (Tower of London)|White Tower]] was used as insignia for the area, for instance on cap badges of local units of the army.
+* In recognition of the ‘West Ham Pals’, the 13th Battalion of the [[Essex Regiment]] which was raised in [[Stratford, London|Stratford]] in 1915 and saw extensive action and heavy losses on the [[Western Front (World War I)|Western Front]] in the [[World War I]]. The Battalion was formed from volunteers from [[West Ham]] and [[East London]] generally. Their [[battle cry|war cry]] was “Up the Hammers”. The cap badge of the [[Essex Regiment]] was the castle and key of Gibraltar, though the unit made an unsuccessful request to the [[War Office]] that crossed hammers could be used instead.&lt;ref&gt;"Up the Hammers" The West Ham Battalion in the Great War 1914–1918, by Elliot Taylor andBarney Alston.&lt;/ref&gt;
+* The adoption (in 1904) of Boleyn Castle FC&lt;ref&gt;{{cite book | url=http://www.eastlondonhistory.com/hilsdon.htm | archiveurl=https://web.archive.org/web/20071013213249/http://eastlondonhistory.com/hilsdon.htm | archivedate=13 October 2007 | title="Gatling Gun" George Hildson | publisher=Football Lives | author=Colm Kerrigan| isbn=978-0-9530718-0-7| year=1997 }}&lt;/ref&gt; as the club’s reserve side when they took over their grounds on the site.
+
+===Shield===
+A shield has been used in many iterations of the club badge, and the shape of the 2016 version matches the cross-section on the hull of [[HMS Warrior (1860)|HMS Warrior]],&lt;ref&gt;Newham Recorder article on the change of badge http://www.newhamrecorder.co.uk/news/heritage/how-a-new-west-ham-united-crest-is-keeping-strong-links-between-the-football-club-and-hms-warrior-1-4346169&lt;/ref&gt; the most famous ship built by the Thames Ironworks. However examining draughtsman's diagrams&lt;ref&gt;Draughtsman's diagram of the hull of the warrior https://d32ptomnhiuevv.cloudfront.net/en-gb/sites/default/files/product_jackets/Haynes-H6106-page-5_0.jpg {{Webarchive|url=https://web.archive.org/web/20180410072942/https://d32ptomnhiuevv.cloudfront.net/en-gb/sites/default/files/product_jackets/Haynes-H6106-page-5_0.jpg |date=10 April 2018 }}&lt;/ref&gt; of the ship casts doubt on the resemblance between the shield and the ship.
+
+===Iterations===
+The crest was redesigned and updated in the late 1990s, featuring a wider yellow castle with fewer cruciform "windows" along with the peaked roofs being removed; the tops of the towers had previously made the castle appear more akin to [[Disneyland Park (Anaheim)|Disneyland]]'s Sleeping Beauty's Castle than a functioning fortress. The designer also altered other details to give a more substantial feel to the iconography.&lt;ref&gt;{{cite web|title=West Ham|url=http://premierskills.britishcouncil.org/the-clubs/west-ham|archive-url=https://web.archive.org/web/20100405014018/http://premierskills.britishcouncil.org/the-clubs/west-ham|dead-url=yes|archive-date=5 April 2010|publisher=premierskills|accessdate=3 October 2013|df=dmy-all}}&lt;/ref&gt;
+
+When the club rebuilt the west stand of the [[Boleyn Ground]] (construction finished 2001–02) the "castle" from the redesigned badge was incorporated into the structure at the main entrance to the ground. A pair of towers were prominent features of the ground's appearance, both bearing large club badges.&lt;ref&gt;{{cite web|title=West Ham|url=http://www.footballbadgesguide.com/West%20Ham.html|publisher=Footballbadgesguide|accessdate=3 October 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131004212837/http://www.footballbadgesguide.com/West%20Ham.html|archivedate=4 October 2013|df=dmy-all}}&lt;/ref&gt;
+
+A new badge was introduced following the end of the [[2015–16 West Ham United F.C. season|2015–16 season]], when the club moved into the [[Olympic Stadium (London)|Olympic Stadium]].&lt;ref&gt;{{cite news|title=West Ham: Hammers fans vote in favour of new club crest|url=https://www.bbc.co.uk/sport/0/football/28261889|accessdate=17 July 2014|publisher=BBC Sport|date=17 July 2014}}&lt;/ref&gt; It removes the Boleyn Castle due to the club moving away, leaving just the crossed hammers, which the club says is inspired by the crest before and during the career of [[Bobby Moore]]. The word "London" was introduced below to "establish the club firmly on the international stage", and the more minimalist approach is to give a "strong statement that is instantly West Ham United". The shape of the crest is that of the [[Hull (watercraft)|hull]] of {{HMS|Warrior|1860|6}}, the first [[ironclad warship]] in the [[Royal Navy]], which was built by [[Thames Ironworks and Shipbuilding Company|Thames Ironworks]].&lt;ref&gt;{{cite web|title=We will always be West Ham United|url=http://www.whufc.com/staticFiles/c2/c2/0,,12562~180930,00.pdf|archive-url=https://web.archive.org/web/20140726193724/http://www.whufc.com/staticFiles/c2/c2/0%2C%2C12562~180930%2C00.pdf|dead-url=yes|archive-date=26 July 2014|publisher=West Ham United F.C.|accessdate=19 July 2014|df=dmy-all}}&lt;/ref&gt;
+
+==Colours==
+The original colours of the team were dark blue, due to [[Thames Ironworks and Shipbuilding Company|Thames Ironworks]] chairman [[Arnold Hills]] being a former student of Oxford University. However, the team used a variety of kits including the claret and sky blue house colours of Thames Ironworks, as well as sky blue or white kit.&lt;ref&gt;{{cite web |url=http://www.kitclassics.co.uk/kits/westham.gif | title=West Ham kits since inception I | publisher=Various sources, image of kits | author=kitclassics.co.uk | accessdate=15 August 2009| archiveurl = https://web.archive.org/web/20080625144306/http://www.kitclassics.co.uk/kits/westham.gif| archivedate = 25 June 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.historicalkits.co.uk/West_Ham_United/West_Ham_United.htm | title=West Ham kits since inception II| publisher=Various sources, images of kits | author=Dave Moor | accessdate=15 August 2009}}&lt;/ref&gt;
+
+The Irons permanently adopted claret and blue for home colours in 1903.&lt;ref&gt;{{cite web| url=http://theyflysohigh.co.uk/playing-kit-1900-1999/4547927422| title=Playing Kit: West Ham United 1900 to 1999| last=Marsh| first=Steve| website=theyflysohigh.co.uk| accessdate=22 January 2018}}&lt;/ref&gt;
+
+One story suggests that [[Thames Ironworks F.C.|Thames Ironworks]] right-half [[Charlie Dove]] received the [[Aston Villa F.C.|Aston Villa]] kit from William Belton, who was a professional sprinter of national repute, as well as being involved with the coaching at Thames Ironworks. Belton had been at a fair in [[Birmingham]], close to [[Villa Park]], the home ground of Aston Villa and was challenged to a race against four Villa players, who wagered money that one of them would win. Belton defeated them and, when they were unable to pay the bet, one of the Villa players who was responsible for washing the team's kit offered a complete team's "football kits" to Belton in payment. The Aston Villa player subsequently reported to his club that the kit was "missing."{{sfn|Belton|2006|pages=2–4}} This, however, is often disputed.&lt;ref&gt;{{Cite web |title=Myths and Legends |first=Steve |last=Marsh |work=theyflysohigh.co.uk |accessdate=16 December 2018 |url= http://theyflysohigh.co.uk/myths-and-legends/4593203735}}&lt;/ref&gt;
+
+Thames Ironworks, and later West Ham United, retained the claret yoke/blue sleeves design, but also continued to use their previously favoured colours for their away kits.
+
+===Shirt sponsors and kit suppliers===
+Since January 2015 West Ham's shirts have been sponsored by [[Betway]].&lt;ref name="betway"&gt;{{cite web | url=http://www.whufc.com/articles/20150206/hammers-announce-betway-sponsorship_2236884_4466376 | archive-url=https://web.archive.org/web/20150206155118/http://www.whufc.com/articles/20150206/hammers-announce-betway-sponsorship_2236884_4466376 | dead-url=yes | archive-date=6 February 2015 | title=Hammers announce Betway sponsorship | publisher=West Ham United F.C. | accessdate=6 February 2015}}&lt;/ref&gt; Previous sponsors have included AVCO Trust (1983–89), BAC Windows (1989–93), Dagenham Motors (1993–97), [[Dr. Martens]] (1998–2003), [[JobServe]] (2003–07), [[XL Leisure Group|XL.com]] (2007–08), [[SBOBET]] (2008–13), and [[Alpari (UK) Limited|Alpari FX]] (2013–15).&lt;ref name="Alpari"&gt;{{cite news|last=Sale|first=Charles|title=Hughes still chasing m QPR pay off after November sacking|url=http://www.dailymail.co.uk/sport/football/article-2273512/Mark-Hughes-chasing-4-5m-QPR-pay--Charles-Sale.html|accessdate=5 February 2013|newspaper=Daily Mail|date=5 February 2013|location=London}}&lt;/ref&gt; The deal with XL ended early due to the [[XL Leisure Group]] being placed in administration in September 2008.&lt;ref name="whuxl"&gt;{{cite web|url=http://www.whufc.com/page/News/0,,12562~1391114,00.html|archive-url=https://web.archive.org/web/20080913095207/http://www.whufc.com/page/News/0%2C%2C12562~1391114%2C00.html|dead-url=yes|archive-date=13 September 2008|title=Club ends relationship with XL|date=12 September 2008|publisher=West Ham United F.C.|accessdate=12 September 2008|df=dmy-all}}&lt;/ref&gt;&lt;ref name="guaxl"&gt;{{Cite news|url=https://www.theguardian.com/football/2008/sep/12/premierleague.westhamunited|title=Hammers hit by backer's collapse|date=12 September 2008|work=The Guardian |location=London |accessdate=12 September 2008  | first=Alan | last=Gardner}}&lt;/ref&gt; During this period, players had their squad numbers ironed over the existing sponsorship logo, before a deal with SBOBET was finalised.&lt;ref&gt;{{cite web |url=http://www.whufc.com/page/News/0,,12562~1475647,00.html |archive-url=https://web.archive.org/web/20081204050838/http://www.whufc.com/page/News/0%2C%2C12562~1475647%2C00.html |dead-url=yes |archive-date=4 December 2008 |title=West Ham United and SBOBET |publisher=West Ham United F.C. |accessdate=29 April 2010 |df=dmy-all }}&lt;/ref&gt; The deal with Alpari also ended early, because of the sponsor entering liquidation.&lt;ref&gt;{{cite web | url=http://citywire.co.uk/wealth-manager/news/west-ham-shirt-sponsor-alpari-in-liquidation-following-snb-shock/a793364?ref=wealth_manager_all_stories_list | title=West Ham shirt sponsor Alpari in liquidation following SNB shock | publisher=Citywire.co.uk | accessdate=16 January 2015}}&lt;/ref&gt;
+
+The current kit manufacturers, [[Umbro]], have made West Ham's kit from 2007 to 2010, and from 2015 to the present. Previous manufacturers have been [[Admiral Sportswear|Admiral]] (1976–80), [[Adidas]] (1980–87, 2013–15),&lt;ref&gt;{{cite web|url=http://www.alpari.co.uk/sponsorship/west-ham-united|archive-url=https://web.archive.org/web/20130311142744/http://www.alpari.co.uk/sponsorship/west-ham-united|dead-url=yes|archive-date=11 March 2013|title=West Ham United|publisher=Alpari|accessdate=12 September 2014|df=dmy-all}}&lt;/ref&gt; Scoreline (1987–89), [[Bukta]] (1989–93), [[Pony International|Pony]] (1993–99), [[Fila (company)|Fila]] (1999–2003), [[Reebok]] (2003–07) and [[Macron (sportswear)|macron]] (2010–13).
+
+==Supporters, hooliganism and rivalries==
+
+===Supporters===
+{{Main article|West Ham United F.C. supporters}}
+{{rquote|right|
+''I'm forever blowing bubbles, &lt;br/&gt;
+''Pretty bubbles in the air.''&lt;br /&gt;
+''They fly so high, nearly reach the sky,''&lt;br /&gt;
+''Then like my dreams they fade and die.''&lt;br /&gt;
+''Fortune's always hiding,''&lt;br /&gt;
+''I've looked everywhere&amp;nbsp;...''&lt;br /&gt;
+''I'm forever blowing bubbles,''&lt;br /&gt;
+''pretty bubbles in the air.''|original lyrics to "Bubbles"| from John Helliar&lt;ref name="Bubbles2"/&gt;}}
+The team's supporters are famous for their rendition of the chorus of their team's anthem, "[[I'm Forever Blowing Bubbles]]" introduced to the club by former manager Charlie Paynter in the late 1920s. A [[Pears soap]] commercial featuring the curly haired child in the [[John Everett Millais|Millais]]' "[[Bubbles (painting)|Bubbles]]" was well known at the time. The child resembled a player, Billy J. "Bubbles" Murray, from local schoolboy team, Park School, where the headmaster was Cornelius Beal. Beal was known locally for his music and rhyme and wrote special words to the tune of "I'm Forever Blowing Bubbles" whenever any player was having a good game.&lt;ref name="Bubbles1"&gt;{{cite web|url=http://www.whufc.com/articles/20071017/the-story-of-bubbles_2240257_1193983|archive-url=https://web.archive.org/web/20100528221016/http://www.whufc.com/articles/20071017/the-story-of-bubbles_2240257_1193983|dead-url=yes|archive-date=28 May 2010|title=The Story of Bubbles|publisher=West Ham United F.C.|author=John Helliar|df=dmy-all}}&lt;/ref&gt;
+
+Beal was a friend of Paynter, while Murray was a West Ham trialist and played football at schoolboy level with a number of West Ham players such as [[Jim Barrett, Sr.|Jim Barrett]]. Through this contrivance of association the club's fans took it upon themselves to begin singing the popular music hall tune before home games, sometimes reinforced by the presence of a house band requested to play the refrain by Charlie Paynter.&lt;ref name="Bubbles2"&gt;{{cite web |url=http://www.whufc.com/claret/?page_id=3595 |archive-url=https://web.archive.org/web/20060218021240/http://www.whufc.com/claret/?page_id=3595 |dead-url=yes |archive-date=18 February 2006 |title=The Story of Bubbles |publisher=West Ham United F.C. |author=John Helliar |df=dmy-all }}&lt;/ref&gt;
+
+{{rquote|right|
+''Bow Bells are ringing, for the Claret and Blue, &lt;br/&gt;
+''Bow Bells are ringing, for the Claret and Blue,&lt;br/&gt;
+''When the Hammers are scoring, and the South Bank are roaring,&lt;br/&gt;
+''And the money is pouring, for the Claret and Blue,&lt;br/&gt;
+''Claret and Blue,&lt;br/&gt;
+''No relegation for the Claret and Blue,&lt;br/&gt;
+''Just celebration for the Claret and Blue,&lt;br/&gt;
+''One day we'll win a cup or two, or three,&lt;br/&gt;
+''Or four or more, for West Ham and the Claret and Blue.
+|Supporters song to the tune of [[Bells Are Ringing (musical)|'The Bells are Ringing']]|circa 1960&lt;ref name="Cassell"&gt;{{Cite book | title=The Cassell Soccer Companion | pages=343–344| publisher=Cassell | author=David Pickering}}&lt;/ref&gt;}}
+The [[FA Cup Final 1975|1975 FA Cup]] version – which contains the original lyrics, and features vocals from the team's then-current players – is always played before home games, with the home crowd joining in and carrying the song on after the music stops at the verse line "Fortune's always hiding".&lt;ref name="ifbb"&gt;{{cite web | url=//www.youtube.com/watch?v=wdFnUy0k7Js | title=Blowing Bubbles@Upton park WHUFC-Chelski | via=YouTube | accessdate=8 October 2013}}&lt;/ref&gt; Bubbles was published as a waltz whereas during the game the crowd sing it in [[common time]].&lt;ref name=ifbb/&gt;&lt;ref&gt;{{cite news | url=https://www.nytimes.com/books/first/s/sudhalter-chords.html | title=Lost Chords | work=The New York Times | accessdate=8 October 2013 | author=Sudhalter, Richard M}}&lt;/ref&gt;
+
+Like other teams, the team also have a history of adopting or adapting popular songs of the day to fit particular events, themes, players or personas. These have included serious renditions of theatre and movie classics such as "[[Me And My Girl|The Bells are Ringing]]," along with more [[pun]]-laden or humorous efforts, such as chanting former player [[Paolo Di Canio]]'s name to the [[canzone]] "[[La donna è mobile]]" by [[Giuseppe Verdi]],&lt;ref&gt;{{cite book | url=https://books.google.com/books?id=46kADtKInKAC&amp;pg=PA109 | title=Football Delirium | publisher=Karnac Books | year=2007 | accessdate=8 October 2013 | author=Oakley, Chris| isbn=9781780494883 }}&lt;/ref&gt; or D.I. Canio to the tune of [[Ottawan]]'s "[[D.I.S.C.O.]]", or the chant of "Who Let The Potts Out?" to the tune of [[Baha Men]]'s "[[Who Let the Dogs Out?]]" when [[Steve Potts (footballer)|Steve Potts]] could be seen warming up to come on as substitute late on in his career, or "That's Zamora" to the tune of [[Dean Martin]]'s 1953 "[[That's Amore]]" in honour of former striker [[Bobby Zamora]]. Other former players to be serenaded include [[Christian Dailly]] with vastly-altered lyrics to [[Frankie Valli]]'s "[[Can't Take My Eyes Off You]]",&lt;ref&gt;{{cite web |url=http://fanchants.com/football-songs/west_ham-chants/christian-dailly/| title="Oh Christian Dailly" lyrics | publisher=fanchants.com}}&lt;/ref&gt; [[Joe Cole]] and [[Carlton Cole]] with [[Spandau Ballet]]'s "[[Gold (Spandau Ballet song)|Gold]]" song title sung as "Cole"&lt;ref&gt;{{cite news | url=https://www.theguardian.com/football/2005/nov/28/sport.arts | title=R Kelly sings the Blues | work=The Guardian | location=London |date=28 November 2005 | accessdate=8 October 2013 | author=de Lisle, Tim}}&lt;/ref&gt; and [[Luděk Mikloško]]. A song for West Ham favourite [[Bobby Moore]], "Viva Bobby Moore", is also sung based on [[The Business (band)|The Business]]'s "[[Oi!]]" rendition of the song, based on [[The Equals]]' 1969 release "Viva Bobby Joe".&lt;ref&gt;{{cite web | url=http://www.metrolyrics.com/bobby-moore-lyrics-the-business.html | title=Bobby Moore Lyrics | publisher=metrolyrics.com | accessdate=8 October 2013}}&lt;/ref&gt; In 2016, supporters adapted the lyrics of [[Billy Ray Cyrus]]' "[[Achy Breaky Heart]]" in honour of [[Dimitri Payet]].&lt;ref&gt;{{cite web|url=http://www.thenational.ae/sport/football/he-does-flicks-and-tricks-tackles-and-scores-west-hams-dimitri-payet-does-everything|title=He does flicks and tricks, tackles and scores: West Ham's Dimitri Payet 'does everything'|work=The National|date=14 March 2016|first=Andy| last=Mitten|accessdate=15 April 2016}}&lt;/ref&gt;
+
+When the players come onto the pitch, and at other times of celebration, as the song ''I'm forever blowing bubbles'' is being sung, around 60 bubble machines produce copious bubbles that rise high into the stadium.&lt;ref&gt;https://meninblazers.com/2017/09/22/bubbles/&lt;/ref&gt;.
+Fans gained national attention after giving a torrid time to [[David Beckham]] in his first away match of 1998–99 the season after the England midfielder was sent off for a petulant foul on [[Diego Simeone]].&lt;ref&gt;{{Cite news |url=http://news.bbc.co.uk/1/hi/sport/football/fa_carling_premiership/156542.stm |title=Beckham runs gauntlet at West Ham |publisher=BBC Sport  | date=29 August 1998 | accessdate=6 April 2010}}&lt;/ref&gt; Coinciding with the game, there were claims (and an image taken) that fans, organised by a hardcore, had hung an effigy of the player outside a local pub. Although it was later revealed that the pub was in [[South East (London sub region)|South-East London]], the heartland of West Ham's greatest rivals [[Millwall F.C.|Millwall]]. The West Ham fans did, however, boo Beckham's every touch of the ball during the game.&lt;ref&gt;{{Cite news |url=http://sportsillustrated.cnn.com/soccer/world/events/1998/worldcup/news/1998/07/14/beckham_safety/|title=Beckham still subject of fans' ire | publisher=CNN – Sports Illustrated | date=19 September 1998}}&lt;/ref&gt;
+
+They have also displayed a particular zeal when it comes to abusing former players particularly those who are perceived to have abandoned the club, or performed some disservice. Famously [[Paul Ince]],&lt;ref&gt;{{cite news | url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/7578470.stm | title=West Ham 4–1 Blackburn | publisher=BBC Sport | accessdate=5 October 2013 | date=30 August 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite news | url=https://www.theguardian.com/football/2008/aug/30/premierleague.westhamunited | title=Ince deflects the ire in old role as Upton Park pariah | work=The Guardian | date=30 August 2008 | accessdate=5 October 2013 | author=Ogden, Mark}}&lt;/ref&gt; [[Frank Lampard]],&lt;ref&gt;{{cite web|url=http://www.britishcouncil.org/japan-sport-footballculture-players-lampard.htm |title=Practice Makes Perfect |author=Ben Lupton |publisher=British Council |deadurl=yes |archiveurl=https://web.archive.org/web/20071224030423/http://www.britishcouncil.org/japan-sport-footballculture-players-lampard.htm |archivedate=24 December 2007 }}&lt;/ref&gt; [[Jermain Defoe]],&lt;ref&gt;{{Cite news |url=https://www.telegraph.co.uk/sport/main.jhtml?xml=/sport/2007/03/05/sfgwes05.xml|title=West Ham stunned by Stalteri strike|newspaper=The Daily Telegraph | location=London | first=Henry | last=Winter | date=5 March 2007 | accessdate=6 April 2010}}&lt;/ref&gt; and [[Nigel Reo-Coker]]&lt;ref&gt;{{Cite news|url=http://www.dailymail.co.uk/pages/live/articles/sport/football.html?in_article_id=565473&amp;in_page_id=1779 |title=Reo-Coker: West Ham fans didn't want me at the club |work=Daily Mail |location=London |date=10 May 2008 |accessdate=29 April 2010 }}&lt;/ref&gt; have borne the brunt of verbal assaults and a guaranteed hostile reception at Upton Park. However, players such as Joe Cole, [[Michael Carrick]], [[Rio Ferdinand]], Bobby Zamora and [[Carlos Tevez]] receive applause and even standing ovations in honour of their contributions during their time at the club. Joe Cole subsequently rejoined West Ham from Liverpool midway through the 2012–13 season.&lt;ref&gt;{{cite web | url=http://www.whufc.com/articles/20130104/cole-comes-home_2236884_3027456 | archive-url=https://web.archive.org/web/20130105191515/http://www.whufc.com/articles/20130104/cole-comes-home_2236884_3027456 | dead-url=yes | archive-date=5 January 2013 | title=Cole comes home | publisher=West Ham United F.C. | date=4 January 2013 | accessdate=5 October 2013 | df=dmy-all }}&lt;/ref&gt;
+
+[[File:WestHamFans.jpg|thumb|right|West Ham fans display their rosettes, scarves and novelty hammers at an [[FA Cup]] match in 1933]]
+
+===Hooliganism===
+The origins of West Ham's links with [[Football hooliganism|organised football-related violence]] starts in the 1960s with the establishment of The [[Mile End]] Mob (named after an area of the East End of London).&lt;ref&gt;{{cite web | url=http://www.casspennant.com/book-aggro.shtml | archive-url=https://web.archive.org/web/20100314024542/http://www.casspennant.com/book-aggro.shtml | dead-url=yes | archive-date=14 March 2010 | title=Want Some Aggro? | publisher=casspennant.com | accessdate=5 October 2013 | df=dmy-all }}&lt;/ref&gt; During the 1970s and 1980s (the main era for organised football-related violence), West Ham gained further notoriety for the levels of hooliganism in their fan base and antagonistic behaviour towards both their own and rival fans, and the police. During the 1970s in particular, rival groups of West Ham fans from neighbouring areas often did battle with each other at games, most often groups from the neighbouring districts of [[Barking, London|Barking]] and [[Dagenham]].&lt;ref name="CassPennant"&gt;{{cite web|title=CONFESSIONS OF A TERRACE LEGEND The fights, the politics, the rival firms: Cass Pennant, notorious founder member of West Ham's InterCity Firm, recalls hooliganism's heyday.|url=http://www.casspennant.com/news.php?8|archive-url=https://web.archive.org/web/20100314030123/http://www.casspennant.com/news.php?8|dead-url=yes|archive-date=14 March 2010|publisher=CassPennant|accessdate=7 October 2013|df=dmy-all}}&lt;/ref&gt;
+
+The [[Inter City Firm]] were one of the first "[[Casual (subculture)|casuals]]", so called because they avoided police supervision by not wearing football-related clothing and travelled to away matches on regular [[InterCity (British Rail)|InterCity]] trains, rather than on the cheap and more tightly policed "football special" charter trains. The group were an infamous West Ham-aligned gang. As the firm's moniker "inter city" suggests violent activities were not confined to local derbies – the hooligans were content to cause trouble at any game, though nearby teams often bore the brunt.&lt;ref name="CassPennant"/&gt;
+
+The 2005 independent film ''[[Green Street (film)|Green Street]]'' starring [[Elijah Wood]] and [[Charlie Hunnam]] focuses on a firm of West Ham hooligans.&lt;ref&gt;{{Cite web |title=My guilty pleasure: Green Street |last=Hann |first=Michael |work=The Guardian |date=24 March 2014 |accessdate=6 January 2019 |url= https://www.theguardian.com/film/filmblog/2014/mar/24/my-guilty-pleasure-green-street}}&lt;/ref&gt;
+
+===Rivalries===
+{{See also|Millwall F.C.–West Ham United F.C. rivalry|London derby|East London derby}}
+West Ham have strong rivalries with several other clubs. Most of these are with other London clubs, especially with [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in an East versus North London derby&lt;ref name=localrivals&gt;{{cite news|last=Hytner|first=David|title=Scott Parker completes m switch to Tottenham from West Ham|url=https://www.theguardian.com/football/2011/aug/31/tottenham-west-ham-scott-parker|accessdate=13 November 2011|newspaper=The Guardian|date=31 August 2011|location=London}}&lt;/ref&gt; and with [[Chelsea F.C.|Chelsea]] in an East versus West London rivalry. The rivalry between West Ham and Tottenham has been fuelled by players such as [[Michael Carrick]], [[Martin Peters]], [[Paul Allen (footballer)|Paul Allen]], [[Jermain Defoe]] and [[Scott Parker]] leaving the Hammers to join Tottenham.&lt;ref name=xfers&gt;{{cite news|last=Williamson|first=Laura|title=West Ham draw the line at losing another key player to Tottenham|url=http://www.dailymail.co.uk/sport/football/article-1122362/West-Ham-draw-line-losing-key-player-Tottenham.html|accessdate=13 November 2011|newspaper=Daily Mail|date=19 January 2009|location=London}}&lt;/ref&gt; The rivalry deepened with the appointment of former Hammers manager [[Harry Redknapp]] as Tottenham's manager.&lt;ref name=bung&gt;{{cite news|title=Give Harry Redknapp due respect, Frank Lampard Sr tells West Ham fans|url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/3660235/Give-Harry-Redknapp-due-respect-Frank-Lampard-Sr-tells-West-Ham-fans-Football.html|accessdate=13 November 2011|newspaper=The Daily Telegraph|date=7 December 2008|location=London|first=John|last=Ley}}&lt;/ref&gt; Since the [[2006–07 FA Premier League|2006–07 Premier League season]], West Ham have developed a strong rivalry with [[Yorkshire]] club [[Sheffield United F.C.|Sheffield United]] due to the dubious circumstances surrounding the transfer of [[Carlos Tevez]], who helped West Ham avoid relegation at Sheffield United's expense.&lt;ref&gt;{{cite news|author=Neil McLeman |url=https://www.mirror.co.uk/sport/football/news/west-ham-still-owe-sheffield-1269811 |title=West Ham still owe Sheffield United more than m over Carlos Tevez fiasco |work=Daily Mirror|date=19 August 2012 |accessdate=3 January 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Fox |first=Norman |url=https://www.independent.co.uk/sport/football/football-league/jagielka-intensifies-bitter-rivalry-to-raise-pressure-on-pardew-6153527.html |archive-url=https://web.archive.org/web/20140226174931/http://www.independent.co.uk/sport/football/football-league/jagielka-intensifies-bitter-rivalry-to-raise-pressure-on-pardew-6153527.html |dead-url=yes |archive-date=26 February 2014 |title=Jagielka intensifies bitter rivalry to raise pressure on Pardew |work=The Independent |date=31 January 2005 |accessdate=3 January 2013 |location=London}}&lt;/ref&gt;
+{{multiple image
+| footer = The "Champions" statue, of [[Bobby Moore|Moore]], with the [[FIFA World Cup|World Cup]], [[Geoff Hurst|Hurst]], [[Martin Peters|Peters]] and [[Ray Wilson (English footballer)|Ray Wilson]], boarded-up for protection before the visits of [[Millwall F.C.|Millwall]] on 25 August 2009 and [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in March 2016
+| image1 = WestHamChampionsStatueMillWall.JPG
+| width1 = {{#expr: (100 * 400 / 275) round 0}}
+| alt1   = Champions statue boarded up for Millwall visit
+| image2 = World Cup Sculpture boarded 2016.JPG
+| width2 = {{#expr: (100 * 960 / 379) round 0}}
+| alt2   = Champions statue boarded up for Tottenham visit
+}}
+
+The oldest and fiercest [[Millwall F.C.–West Ham United F.C. rivalry|rivalry]] is with [[Millwall F.C.|Millwall]]. The two sides are local rivals, having both formed originally around local companies, with players living in the same localities. The early history of both clubs are intertwined, with West Ham proving to be the more successful in a number of meetings between the two teams at the time, resulting in West Ham being promoted at the expense of Millwall. Millwall later declined to join the fledgling [[The Football League|Football League]] while West Ham went on to the top division and an FA Cup final. Later in the 1920s, the rivalry was intensified during strike action which [[Isle of Dogs]]-based companies (i.e., Millwall fans) refused to support, breeding ill will between the two camps, the bitterness of this betrayal enduring for years. In 1972, a Millwall supporter died at New Cross station after falling out of a train during a fight with West Ham fans.
+&lt;ref name=Rivalry1&gt;{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/a-rivalry-that-dates-back-to-the-heyday-of-british-shipbuilding-1777732.html |title=A rivalry that dates back to the heyday of British shipbuilding |work=The Independent |location=London |date=27 August 2009 |accessdate=26 June 2011  | first=Chris | last=Green}}&lt;/ref&gt;
+
+The rivalry between West Ham and Millwall has involved considerable violence and is one of the most notorious within the world of [[football hooliganism]]. The teams were drawn against each other in the second round of the [[2009–10 Football League Cup|2009–10 League Cup]] and met on 25 August 2009 at Upton Park. This was the first time in four years that the two clubs had played each other, and the first ever in the League Cup. [[2009 Upton Park riots|Clashes]] between fans occurred outside the ground, resulting in violence erupting up to half a mile away from the stadium, with serious injuries, including the stabbing of a Millwall supporter, damage to property and several arrests reported by police. There were also several pitch invasions by West Ham supporters which brought a temporary halt to the game.&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/1/hi/england/london/8221451.stm |title=Violence erupts at London derby |publisher=BBC News|accessdate=25 August 2009 | date=25 August 2009}}&lt;/ref&gt; In January 2010, West Ham were fined after being found guilty of violent, threatening, obscene and provocative behaviour and of failing to prevent their fans entering the field of play. Millwall were cleared of all charges.&lt;ref&gt;{{cite news| url=http://news.bbc.co.uk/sport1/hi/football/league_cup/8443013.stm| title=West Ham fined £115,000 over violence against Millwall| publisher=BBC Sport| date=15 January 2010| accessdate=2 February 2010}}&lt;/ref&gt;
+
+==Nicknames==
+The team and supporters are known as The Hammers, in part because of the club's origins as Thames Ironworks.&lt;ref name=Nick&gt;{{cite web|title=West Ham United|url=http://thebeautifulhistory.wordpress.com/clubs/west-ham-united/|publisher=The beautifulhistory.wordpress.com|accessdate=19 July 2011|date=2011-06-08}}&lt;/ref&gt; They are also known as The Irons&lt;ref name=Nick/&gt; and The Cockney Boys.&lt;ref&gt;{{cite web|title=West Ham United chants|url=http://www.footballchants.org/viewChants.php?divs=D0&amp;teams=24&amp;let=-1&amp;teamname=West%20Ham%20United|publisher=footballchants.org|accessdate=19 July 2011}}&lt;/ref&gt; Other nicknames are [[The Academy of Football]], or just The Academy.&lt;ref name=Mirroracademy&gt;{{cite news|title=The academy of football – The MirrorFootball best homegrown West Ham XI|url=http://www.mirrorfootball.co.uk/opinion/blogs/football-banter/Rio-Ferdinand-Frank-Lampard-s-Bobby-Moore-and-Trevor-Brooking-The-MirrorFootball-best-homegrown-West-Ham-XI-article409203.html|accessdate=19 July 2011|newspaper=Daily Mirror}}&lt;/ref&gt;
+
+==Stadium==
+{{See also|Memorial Grounds|Boleyn Ground|Olympic Stadium (London)|l3=London Stadium}}
+[[File:Olympic Stadium (London), 16 April 2012.jpg|right|thumb|200px|West Ham moved into the [[Olympic Stadium (London)|Olympic Stadium]] in 2016]]
+[[File:East stand London Stadium.jpg|right|thumb|200px|The East Stand at the London Stadium]]
+[[File:West Ham v NK Domzale London Stadium.jpg|right|thumb|200px|West Ham and [[NK Domžale|Domžale]] enter the pitch for first ever football game at [[Olympic Stadium (London)|London Stadium]]]]
+
+Until 2016, West Ham were based at the [[Boleyn Ground]], commonly known as Upton Park, in [[London Borough of Newham|Newham]], East London. The capacity of the Boleyn Ground was 35,016,&lt;ref name="autogenerated1"&gt;{{cite web |url=http://www.whufc.com/page/StadiumInformation/0,,12562,00.html |archive-url=https://web.archive.org/web/20071110235510/http://www.whufc.com/page/StadiumInformation/0%2C%2C12562%2C00.html |dead-url=yes |archive-date=10 November 2007 |title=Stadium Information |publisher=West Ham United F.C. |accessdate=29 April 2010 |df=dmy-all }}&lt;/ref&gt; and had been West Ham's ground since 1904. Prior to this, in their previous incarnation of [[Thames Ironworks F.C.|Thames Ironworks]], they played at [[Hermit Road]] in [[Canning Town]] and briefly at [[Browning Road]] in [[East Ham]], before moving to the [[Memorial Grounds]] in [[Plaistow, Newham|Plaistow]] in 1897. They retained the stadium during their transition to becoming West Ham United and were there for a further four seasons before moving to the Boleyn Ground in 1904.
+
+Former chairman [[Eggert Magnússon]] made clear his ambition for West Ham to move to the [[Olympic Stadium (London)|Olympic Stadium]] after the [[2012 Summer Olympics]], a desire reiterated by current chairmen Gold and Sullivan when they assumed control of the club stating that they felt it was a logical move for the Government as it was in the borough of Newham.
+
+In February 2010, however, the British Olympic Minister stated that West Ham would not get the stadium, and it would instead be used for track and field.&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/sport/football/teams/west-ham/7027066/David-Sullivan-admits-West-Ham-buy-out-makes-no-commercial-sense.html |title=David Sullivan admits West Ham buy-out 'makes no commercial sense' |newspaper=The Daily Telegraph |date=19 January 2010 | location=London | first1=Steve | last1=Wilson | accessdate=6 April 2010}}&lt;/ref&gt; On 17 May 2010, West Ham and [[Newham London Borough Council]] submitted a formal plan to the Olympic Park Legacy Company for the use of the Olympic Stadium following the [[2012 Summer Olympics]]. The proposal was for a stadium with a capacity of 60,000 which would retain a competition athletics track. The proposal was welcomed by the chairman of UK athletics, Ed Warner, who said, "I think it will feel great as a football stadium and I speak as a football fan as well the chairman of UK Athletics. I think you'd find West Ham would cover the track in the winter season so it wouldn't look like you had a track between you and the pitch."&lt;ref&gt;{{cite web |url=http://www.whufc.com/articles/20100517/olympic-stadium-proposal-submitted_2236884_2053629 |archive-url=https://web.archive.org/web/20100519131459/http://www.whufc.com/articles/20100517/olympic-stadium-proposal-submitted_2236884_2053629 |dead-url=yes |archive-date=19 May 2010 |title=Olympic Stadium proposal submitted |publisher=West Ham United F.C. |accessdate=18 May 2010 |df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/sport1/hi/olympic_games/8670638.stm |title=UK Athletics boss Ed Warner boosts West Ham's 2012 plan |publisher=BBC Sport  |date=9 May 2010 |accessdate=18 May 2010}}&lt;/ref&gt;
+
+On 30 September 2010, the club formally submitted its bid for the Olympic Stadium with a presentation at [[10 Downing Street]],&lt;ref&gt;{{cite web |url=http://www.whufc.com/articles/20100930/hammers-at-no10_2236884_2170275 |archive-url=https://web.archive.org/web/20101002041608/http://www.whufc.com/articles/20100930/hammers-at-no10_2236884_2170275 |dead-url=yes |archive-date=2 October 2010 |title=Official Olympic Stadium bid. |publisher=West Ham United F.C. |date=30 September 2010 |accessdate=2 October 2010 |df=dmy-all }}&lt;/ref&gt; and on 8 October 2010 the world's largest live entertainment company, [[Live Nation]], endorsed the club's Olympic Stadium plans.&lt;ref&gt;{{cite web |url=http://www.whufc.com/articles/20101008/live-nation-back-hammers-bid_2236884_2178677 |archive-url=https://web.archive.org/web/20101010034538/http://www.whufc.com/articles/20101008/live-nation-back-hammers-bid_2236884_2178677 |dead-url=yes |archive-date=10 October 2010 |title=Live Nation back hammers bid. |publisher=West Ham United F.C. |date=8 October 2010 |accessdate=9 October 2010 |df=dmy-all }}&lt;/ref&gt; Three days after Live Nation's endorsement, [[UK Athletics]] confirmed its formal support for West Ham United and Newham Council in their joint bid to take over the Olympic Stadium in legacy mode.&lt;ref&gt;{{cite web |url=http://www.whufc.com/articles/20101011/uk-athletics-back-the-hammers_2236884_2180792 |archive-url=https://web.archive.org/web/20101014152958/http://www.whufc.com/articles/20101011/uk-athletics-back-the-hammers_2236884_2180792 |dead-url=yes |archive-date=14 October 2010 |title=UK Athletics back the Hammers |publisher=West Ham United F.C. |date=11 October 2010 |accessdate=11 October 2010 |df=dmy-all }}&lt;/ref&gt; In November 2010, West Ham commenced a search for potential developers for "informal discussions" about what would happen to the ground if it were to win its bid to take over the Olympic Stadium after the 2012 Games. According to the club, the site could be vacated and open to redevelopment by the summer of 2014.&lt;ref name=Redevelop&gt;{{Cite news|url=http://www.propertyweek.com/west-ham-kicks-off-upton-park-developer-search/5009351.article|title=West Ham kicks off Upton Park developer search
+|publisher=propertyweek.com |date=19 November 2010 |accessdate=20 November 2010}}&lt;/ref&gt; On 11 February 2011, the Olympic Park Legacy Committee selected West Ham as the preferred club to move into the Olympic Stadium after the 2012 Games.&lt;ref&gt;{{cite web|title=West Ham working with Populous on designs for Olympic Stadium after London 2012|url=http://www.insidethegames.biz/summer-olympics/2012/11979-west-ham-working-with-populous-on-designs-for-olympic-stadium-after-london-2012|publisher=Inside the games|accessdate=4 October 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=West Ham must guarantee to keep running track warns Olympics Minister|url=http://www.insidethegames.biz/summer-olympics/2012/11939-west-ham-must-guarantee-to-keep-running-track-warns-olympics-minister|publisher=Inside the games|accessdate=4 October 2013}}&lt;/ref&gt;
+
+The decision in favour of West Ham's bid was unanimous,&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/uk-england-london-12424549 |title=West Ham chosen as preferred Olympic Stadium tenant |publisher=BBC News|date= 11 February 2011|accessdate=11 February 2011}}&lt;/ref&gt; although controversial as local rivals Tottenham Hotspur had also been bidding for the venue.&lt;ref&gt;{{cite web |url=http://www.thisislondon.co.uk/standard-olympics/article-23922167-spurs-ready-for-legal-battle-as-west-ham-win-olympic-stadium-bid.do |archive-url=https://web.archive.org/web/20110212153349/http://www.thisislondon.co.uk/standard-olympics/article-23922167-spurs-ready-for-legal-battle-as-west-ham-win-olympic-stadium-bid.do |dead-url=yes |archive-date=12 February 2011 |title=Spurs ready for legal battle as West Ham win Olympic stadium bid |work=London Evening Standard |accessdate=6 August 2011 |df=dmy-all }}&lt;/ref&gt; Hopes of moving to the stadium, however, were since placed under doubt following a legal challenge by Tottenham and [[Leyton Orient F.C.|Leyton Orient]], with Leyton Orient fearful that having West Ham playing less than a mile away from their [[Brisbane Road|Brisbane Road ground]] could steal support from the club and put them out of business.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/uk-england-london-13082972 |title=Leyton Orient in 2012 Olympic stadium High Court action |publisher=BBC News|date=14 April 2011 |accessdate=6 August 2011}}&lt;/ref&gt; Both clubs' appeal for a judicial review, however, were rejected on 23 June 2011.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/sport/2011/jun/23/tottenham-olympic-stadium-judicial-review |title=Tottenham fail with appeal over West Ham's use of the Olympic Stadium |work=The Guardian |date=23 June 2011}}&lt;/ref&gt; On 3 March 2011, West Ham's proposed move to the Olympic Stadium was formally approved by the British government and [[Mayor of London]] [[Boris Johnson]].
+
+On 8 June 2011, it was confirmed that the [[Westfield London Shopping Centre|Westfield Shopping Centre]] had been in detailed talks with West Ham for naming rights of the new Olympic stadium which could be called the Westfield Stadium.&lt;ref&gt;{{cite news|url=http://www.constructionenquirer.com/2011/06/06/westfield-to-sponsor-west-ham-olympic-stadium |title=Westfield to sponsor West Ham Olympic stadium |work=Construction Enquirer |date= 8 June 2011}}&lt;/ref&gt; West Ham announced plans to move from the Boleyn Ground from the 2014–15 season.&lt;ref name=Stratford&gt;{{cite news|title=West Ham to call 2012 stadium home after Games|url=http://www.thisislondon.co.uk/standard-olympics/article-23980097-west-ham-to-call-2012-stadium-home-after-games.do|accessdate=22 August 2011|newspaper=London Evening Standard|date=22 August 2011}}{{dead link|date=January 2017}}&lt;/ref&gt; In August 2011, an independent investigation initiated by the Olympic Park Legacy Company upheld the decision to award West Ham the Olympic Stadium after the 2012 Games.&lt;ref&gt;{{cite news|title=Independent inquiry into Olympic Stadium decision clears West Ham|url=https://www.theguardian.com/sport/2011/aug/23/inquiry-olympic-stadium-west-ham|newspaper=The Guardian|date=23 August 2011}}&lt;/ref&gt; On 29 June 2011, however, Tottenham announced that they were returning to the High Court again to fight the decision to award West Ham the stadium, in an oral hearing, to try and overturn the original high court appeal being rejected.&lt;ref&gt;{{cite news|title=Spurs return to High Court over Olympic Stadium verdict|url=https://www.bbc.co.uk/sport/olympics/13964363|publisher=BBC Sport|date=29 June 2011}}&lt;/ref&gt; On 25 August 2011, Tottenham and Leyton Orient were in fact granted a judicial review by the High Court into the Olympic Stadium bidding process.&lt;ref&gt;{{cite news|title=Spurs win Olympic review|url=http://www.skysports.com/football/news/11675/7122003/spurs-win-olympic-review|publisher=Sky Sports|date=25 August 2011}}&lt;/ref&gt; On 11 October 2011, the deal to award West Ham the Olympic Stadium collapsed over concerns of legal pressure, with the government deciding that the stadium will stay in public ownership.&lt;ref&gt;{{cite news|title=London 2012: West Ham Olympic Stadium deal collapses|url=https://www.bbc.co.uk/news/uk-15251893|publisher=BBC Sport|date=11 October 2011}}&lt;/ref&gt; Six days later, Tottenham and Leyton Orient announced they had ended their legal challenge after the deal collapsed.&lt;ref&gt;{{cite news|title=Tottenham Hotspur ends 2012 Olympic Stadium legal bid|url=https://www.bbc.co.uk/news/uk-england-london-15344523|publisher=BBC Sport|date=17 October 2011}}&lt;/ref&gt;
+
+Once the original deal collapsed, a new process to select a tenant was begun. West Ham immediately announced plans to become tenants of the stadium.&lt;ref name="Brady"&gt;{{cite web | url=http://www.whufc.com/articles/20111011/west-ham-newham-statement_2236884_2478075 | archive-url=https://web.archive.org/web/20111012233754/http://www.whufc.com/articles/20111011/west-ham-newham-statement_2236884_2478075 | dead-url=yes | archive-date=12 October 2011 | title=West Ham&amp;nbsp;– Newham Statement | publisher=West Ham United F.C. | date=11 October 2011 | accessdate=11 October 2011 | df=dmy-all }}&lt;/ref&gt; By March 2012, West Ham was one of the four bidders for the Stadium. With a decision due by the Olympic Park Legacy Company in May 2012, Mayor of London Boris Johnson delayed the final selection of future tenants until completion of the 2012 Summer Olympics, stating that it was "overwhelmingly likely" that the tenants would be West Ham.&lt;ref&gt;{{cite web|url=http://www.insidethegames.biz/olympics/summer-olympics/2012/16335-west-ham-among-four-formal-bidders-for-london-2012-olympic-stadium|title=West Ham among four formal bidders for London 2012 Olympic Stadium|first=David| last=Gold|work=insidethegames.biz|date=23 March 2012|accessdate=12 September 2014}}&lt;/ref&gt;&lt;ref name=Borisdecides&gt;{{cite news|last=Kelso|first=Paul|title=London 2012 Olympics: West Ham likely to get Olympic Stadium despite delays, says Boris Johnson|url=https://www.telegraph.co.uk/sport/olympics/9271826/London-2012-Olympics-West-Ham-likely-to-get-Olympic-Stadium-despite-delays-says-Boris-Johnson.html|accessdate=11 June 2012|newspaper=The Daily Telegraph|location=London|date=17 May 2012}}&lt;/ref&gt;
+
+It was announced on 22 March 2013 that West Ham had signed a 99-year lease for the Olympic Stadium after the government agreed to put in an extra £1 million towards the costs of converting the site. The club's plan was to move into the stadium prior to the start of the [[2016–17 in English football|2016–17 season]].&lt;ref&gt;{{Cite newspaper|title=West Ham get Olympic Stadium after government ups funding|journal=BBC Sport|url=https://www.bbc.co.uk/sport/0/football/21889864|first=David| last=Bond|date=22 March 2013|accessdate=22 March 2013}}&lt;/ref&gt; Supporters of rival clubs had pressed for an inquiry into the granting of West Ham's tenancy, arguing that West Ham were being given an unfair advantage by the arrangement. In September 2015, however, the government rejected holding such an inquiry.&lt;ref&gt;{{cite news|last1=Benge|first1=James|title=Arsenal, Chelsea and Tottenham fan coalition's call for public inquiry into West Ham Olympic stadium deal rejected by government|url=https://www.standard.co.uk/sport/football/government-rejects-arsenal-chelsea-and-tottenham-fan-coalitions-bid-for-public-inquiry-into-west-ham-a2926561.html|accessdate=4 September 2015|work=London Evening Standard|date=3 September 2015}}&lt;/ref&gt;
+
+==The Academy of Football==
+{{Main article|The Academy of Football}}
+[[File:Footballacademy.JPG|200px|right|thumb|"Academy of Football"]]
+The club promotes the popular idea of West Ham being "[[The Academy of Football]]", with the moniker adorning the ground's new stadium façade. The comment predominantly refers to the club's youth development system which was established by manager [[Ted Fenton]] during the 1950s, that has seen a number of international players emerge through the ranks.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/1192517.stm |title=Hammer house of legends |publisher=BBC Sport |date=27 February 2001 |accessdate=6 August 2011}}&lt;/ref&gt; Most notably, the club contributed three players to the [[1966 FIFA World Cup|World Cup-winning]] [[England national football team|England]] side of 1966, including club icon [[Bobby Moore]], as well as [[Martin Peters]] and [[Geoff Hurst]] who between them scored all of England's goals in the eventual 4–2 victory. Other academy players that have gone on to play for England have included [[Trevor Brooking]], [[Alvin Martin]], [[Tony Cottee]] and [[Paul Ince]].
+
+Since the late 1990s, [[Rio Ferdinand]], [[Frank Lampard]], [[Joe Cole]], [[Michael Carrick]] and [[Glen Johnson (English footballer)|Glen Johnson]] began their careers at West Ham and all went on to play for much bigger clubs. Most recently, the likes of first teamers [[Mark Noble]] and [[James Tomkins (footballer)|James Tomkins]], as well as Welsh international [[Jack Collison]], have emerged through the Academy. Frustratingly for fans and managers alike,&lt;ref&gt;{{cite web |url=http://www.squarefootball.net/article/article.asp?aid=1080 |archive-url=https://web.archive.org/web/20050418151747/http://www.squarefootball.net/article/article.asp?aid=1080 |dead-url=yes |archive-date=18 April 2005 |title=Internet Archive Wayback Machine |date=19 December 2007 |accessdate=6 August 2011 |df=dmy-all }}&lt;/ref&gt; the club has struggled to retain many of these players due to (predominantly) financial reasons.&lt;ref&gt;{{cite web|url=http://www.kumb.com/0506_story.php?id=10182 |archiveurl=https://web.archive.org/web/20060529201217/http://www.kumb.com/0506_story.php?id=10182 |archivedate=29 May 2006 |title=Internet Archive Wayback Machine |date=29 May 2006 |accessdate=6 August 2011}}&lt;/ref&gt; West Ham, during the 2007–08 season, had an average of 6.61 English players in the starting line up, higher than any other Premier League club,&lt;ref&gt;{{Cite news| url=http://news.bbc.co.uk/sport1/hi/football/7417746.stm |publisher=BBC Sport | title=England player numbers at new low | date=27 May 2008 | accessdate=6 April 2010}}&lt;/ref&gt; which cemented their status as one of the few Premier League clubs left that were recognised to be bringing through young English talent and were recognised as having "homegrown players." Between 2000 and 2011, the club produced eight England players, as many as Manchester United and one fewer than Arsenal.&lt;ref name=Number&gt;{{cite news|last=Rich|first=Tim|title=Fergie's four-letter outburst at the FA|url=https://www.independent.co.uk/sport/football/international/fergies-fourletter-outburst-at-the-fa-2344578.html|accessdate=30 August 2011|newspaper=The Independent|date=27 August 2011|location=London}}&lt;/ref&gt; Much of the success of The Academy has been attributed to [[Tony Carr]], who was West Ham youth coach between 1973 and 2014.&lt;ref&gt;{{cite news |url=http://www.thesun.co.uk/sol/homepage/sport/football/article2370161.ece |archive-url=https://web.archive.org/web/20090413103929/http://www.thesun.co.uk/sol/homepage/sport/football/article2370161.ece |dead-url=yes |archive-date=13 April 2009 |title=Super Carr drives the Hammers on |newspaper=The Sun |date=10 April 2009 |accessdate=6 August 2011 |location=London |first=Charlie |last=Wyett |df=dmy-all }}&lt;/ref&gt;
+
+==Players==
+===First-team squad===
+{{updated|2 January 2019}}&lt;ref&gt;{{cite web |url=https://www.whufc.com/teams/first-team/squad |title=First team: Squad |publisher=West Ham United F.C. |accessdate=11 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite magazine |magazine=West Ham United Official Programme |publisher=West Ham United F.C. |volume=2018–19 |issue=13 |title=West Ham United v Brighton &amp; Hove Albion |date=2 January 2018 |page=100}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Xande Silva: My Premier League debut was a dream come true |publisher=West Ham United F.C. |date=31 December 2018 |accessdate=8 January 2019 |url= https://www.whufc.com/news/articles/2018/december/31-december/xande-silva-my-premier-league-debut-was-dream-come-true}}&lt;/ref&gt;
+
+{{Fs start}}
+{{Fs player|no=1|nat=POL|pos=GK|name=[[Łukasz Fabiański]]}}
+{{Fs player|no=2|nat=NZL|pos=DF|name=[[Winston Reid]]}}
+{{Fs player|no=3|nat=ENG|pos=DF|name=[[Aaron Cresswell]]}}
+{{fs player|no=4|nat=PAR|pos=DF|name=[[Fabián Balbuena]]}}
+{{Fs player|no=5|nat=ARG|pos=DF|name=[[Pablo Zabaleta]]}}
+{{Fs player|no=7|nat=AUT|pos=FW|name=[[Marko Arnautović]]}}
+{{Fs player|no=8|nat=BRA|pos=MF|name=[[Felipe Anderson]]}}
+{{Fs player|no=9|nat=ENG|pos=FW|name=[[Andy Carroll]]}}
+{{Fs player|no=10|nat=ARG|pos=MF|name=[[Manuel Lanzini]]}}
+{{Fs player|no=11|nat=SCO|pos=MF|name=[[Robert Snodgrass]]}}
+{{Fs player|no=13|nat=ESP|pos=GK|name=[[Adrián (footballer)|Adrián]]}}
+{{Fs player|no=14|nat=EQG|pos=MF|name=[[Pedro Obiang]]}}
+{{Fs player|no=15|nat=COL|pos=MF|name=[[Carlos Sánchez Moreno|Carlos Sánchez]]}}
+{{Fs player|no=16|nat=ENG|pos=MF|name=[[Mark Noble]]|other=[[Captain (association football)|captain]]}}
+{{Fs player|no=17|nat=MEX|pos=FW|name=[[Javier Hernández]]}}
+{{Fs mid}}
+{{Fs player|no=18|nat=FRA|pos=MF|name=[[Samir Nasri]]}}
+{{Fs player|no=19|nat=ENG|pos=MF|name=[[Jack Wilshere]]}}
+{{Fs player|no=20|nat=UKR|pos=FW|name=[[Andriy Yarmolenko]]}}
+{{Fs player|no=21|nat=ITA|pos=DF|name=[[Angelo Ogbonna]]}}
+{{Fs player|no=23|nat=FRA|pos=DF|name=[[Issa Diop (footballer)|Issa Diop]]}}
+{{Fs player|no=24|nat=ENG|pos=DF|name=[[Ryan Fredericks]]}}
+{{Fs player|no=26|nat=COD|pos=DF|name=[[Arthur Masuaku]]}}
+{{Fs player|no=27|nat=ESP|pos=FW|name=[[Lucas Pérez]]}}
+{{Fs player|no=30|nat=ENG|pos=MF|name=[[Michail Antonio]]}}
+{{Fs player|no=32|nat=POR|pos=FW|name=[[Xande Silva]]}}
+{{Fs player|no=37|nat=ENG|pos=MF|name=[[Nathan Holland]]}}
+{{Fs player|no=41|nat=ENG|pos=MF|name=[[Declan Rice]]}}
+{{Fs player|no=45|nat=ENG|pos=FW|name=[[Grady Diangana]]}}
+{{fs player|no=53|nat=ENG|pos=DF|name=[[Ben Johnson (footballer, born 2000)|Ben Johnson]]}}
+{{Fs player|no=54|nat=IRE|pos=MF|name=[[Conor Coventry]]}}
+{{Fs end}}
+
+===Out on loan===
+{{fs start}}
+{{Fs player|no=12|nat=ENG|pos=FW|name=[[Jordan Hugill]]|other=at [[Middlesbrough F.C.|Middlesbrough]] until end of season}}&lt;ref&gt;{{Cite web | title = Jordan Hugill joins Middlesbrough on season-long loan | publisher = West Ham United F.C. | date = 8 August 2018 | accessdate = 16 August 2018 | url = https://www.whufc.com/news/articles/2018/august/08-august/jordan-hugill-joins-middlesbrough-season-long-loan}}&lt;/ref&gt;
+{{Fs player|no=22|nat=ENG|pos=DF|name=[[Sam Byram]]|other=at [[Nottingham Forest F.C.|Nottingham Forest]] until end of season}}&lt;ref&gt;{{Cite web | title = Byram joins on loan | publisher = Nottingham Forest F.C. | date = 10 August 2018  | accessdate = 16 August 2018 | url = https://www.nottinghamforest.co.uk/news/2018/august/sam-byram-joins-forest-on-loan/}}&lt;/ref&gt;
+{{Fs player|no=29|nat=SPA|pos=FW|name=[[Toni Martínez]]|other=at [[CD Lugo]] until end of season}}
+{{Fs player|no=31|nat=SUI|pos=MF|name=[[Edimilson Fernandes]]|other=at [[ACF Fiorentina|Fiorentina]] until end of season}}&lt;ref&gt;{{cite web | url = https://www.standard.co.uk/sport/football/west-ham-youngster-edimilson-fernandes-joins-fiorentina-on-loan-with-option-to-buy-a3910121.html | title = West Ham's Fernandes joins Fiorentina on loan with purchase option | first = James | last = Benge | work = London Evening Standard | date = 13 August 2018 | accessdate = 16 August 2018}}&lt;/ref&gt;
+{{Fs player|no=33|nat=IRL|pos=MF|name=[[Josh Cullen]]|other=at [[Charlton Athletic F.C.|Charlton Athletic]] until end of season}}&lt;ref&gt;{{cite news |title=Charlton sign Josh Cullen on loan from West Ham United |url=https://www.cafc.co.uk/news/view/5b87c0a61cfea/done-deal-charlton-sign-josh-cullen-on-loan-from-west-ham-united |accessdate=4 September 2018 |publisher=Charlton Athletic F.C. |date=30 August 2018}}&lt;/ref&gt;
+{{Fs player|no=35|nat=ENG|pos=DF|name=[[Reece Oxford]]|other=at [[FC Augsburg|Augsburg]] until end of season}}
+{{Fs player|no=40|nat=ENG|pos=FW|name=[[Oladapo Afolayan]]|other=at [[Oldham Athletic F.C.|Oldham Athletic]] until end of season}}
+{{fs mid}}
+{{Fs player|no=43|nat=ENG|pos=MF|name=[[Marcus Browne (footballer)|Marcus Browne]]|other=at [[Oxford United F.C.|Oxford United]] until end of season}}&lt;ref&gt;{{Cite newspaper |title=Oxford United: West Ham midfielder Marcus Browne joins on season-long loan |journal=BBC Sport |date=24 July 2018 |accessdate=4 September 2018 |url= https://www.bbc.co.uk/sport/football/44945283}}&lt;/ref&gt;
+{{Fs player|no=42|nat=NOR|pos=MF|name=[[Martin Samuelsen]]|other=at [[FK Haugesund|Haugesund]] until end of season}}
+{{Fs player|no=44|nat=ENG|pos=DF|name=[[Vashon Neufville]]|other=at [[Newport County A.F.C.|Newport County]] until 31 May 2019}}
+{{Fs player|no=46|nat=ENG|pos=MF|name=[[Moses Makasi]]|other=at [[Stevenage F.C.|Stevenage]] until 31 May 2019}}
+{{Fs player|no=50|nat=ENG|pos=MF|name=[[Joe Powell (footballer, born 1998)|Joe Powell]]|other=at [[Northampton Town F.C.|Northampton Town]] until 31 May 2019}}
+{{Fs player|no=|nat=MNE|pos=MF|name=[[Sead Hakšabanović]]|other=at [[IFK Norrköping]] until end of season}}&lt;ref&gt;{{Cite web | title = Sead Haksabanovic klar för IFK Norrköping | publisher = IFK Norrköping | date = 17 January 2019 | accessdate = 18 January 2019 | url = http://ifknorrkoping.se/nyheter/arkiv/sead-haksabanovic-klar-foer-ifk-norrkoeping}}&lt;/ref&gt;
+{{fs end}}
+
+===Under-23s===
+{{main article|West Ham United F.C. Under-23s and Academy}}
+
+==Former players==
+
+===Retired numbers===
+{{Main article|Retired numbers in association football}}
+* '''6'''  {{flagicon|ENG}} [[Bobby Moore]], [[Defender (association football)|Defender]] (1958–74)&amp;nbsp;– posthumous honour&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/sport/football/article-1041391/West-Ham-retire-Bobby-Moores-No-6-shirt-50-years-Hammers-debut.html|title="West Ham retire Bobby Moore's No.6 shirt 50 years after his Hammers debut", Daily Mail, 4 August 2008|work=Daily Mail|accessdate=12 September 2014}}&lt;/ref&gt;
+* '''38''' {{flagicon|AUS}} [[Dylan Tombides]], [[Striker (association football)|Striker]] (2010–14)&amp;nbsp;– posthumous honour&lt;ref&gt;{{cite web | url=http://www.whufc.com/articles/20140419/hammers-pay-tribute-to-dylan_2236884_3776170 | archive-url=https://web.archive.org/web/20141217030738/http://www.whufc.com/articles/20140419/hammers-pay-tribute-to-dylan_2236884_3776170 | dead-url=yes | archive-date=17 December 2014 | title=Hammers pay tribute to Dylan | publisher=West Ham United F.C. | date=19 April 2014 | accessdate=20 April 2014}}&lt;/ref&gt;
+
+===Club captains===
+{| class="wikitable"
+|-
+! Dates
+! Name
+! Notes
+|-
+| 1895–97
+| {{flagicon|SCO}} [[Robert Stevenson (footballer, born 1869)|Bob Stevenson]]
+| rowspan="2" |
+|-
+| 1897–99
+| {{flagicon|ENG}} [[Walter Tranter]]
+|-
+| 1899
+| {{flagicon|ENG}} [[Harry Bradshaw (footballer, born 1873)|Tom Bradshaw]]
+| Bradshaw died on Christmas Day 1899.
+|-
+| 1899–01
+| {{flagicon|ENG}} [[Charlie Dove]]
+| rowspan="7" |
+|-
+| 1901–03
+| Unknown
+|-
+| c.1903–04
+| {{flagicon|ENG}} [[Ernie Watts (footballer, born 1872)|Ernest Watts]]
+|-
+| 1904–07
+| {{flagicon|SCO}} [[Dave Gardner (footballer)|David Gardner]]
+|-
+| 1907–11
+| {{flagicon|ENG}} [[Frank Piercy]]
+|-
+| 1911–14
+| {{flagicon|ENG}} [[Tommy Randall]]
+|-
+| 1914–15
+| {{flagicon|ENG}} [[Dick Leafe]]
+|-
+| 1915–22
+| {{flagicon|ENG}} [[William Cope (footballer)|Billy Cope]]
+| Also captained fixtures during World War I.
+|-
+| 1922–25
+| {{flagicon|ENG}} [[George Kay]]
+| rowspan="5" |
+|-
+| 1925–26
+| {{flagicon|ENG}} [[Billy Moore (English footballer)|Billy Moore]]
+|-
+| 1926–28
+| {{flagicon|ENG}} [[Jack Hebden]]
+|-
+| 1928–32
+| {{flagicon|ENG}} [[Stan Earle|Stanley Earle]]
+|-
+| 1932–37
+| {{flagicon|ENG}} [[Jim Barrett, Sr.|Jim Barrett]]
+|-
+| 1937–46
+| {{flagicon|ENG}} [[Charlie Bicknell (footballer)|Charles Bicknell]]
+| Remained captain for fixtures during World War II.
+|-
+| 1946–51
+| {{flagicon|ENG}} [[Dick Walker (footballer, born 1913)|Dick Walker]]
+| Following his retirement, he helped to clean the boots of younger players
+|-
+| 1951–57
+| {{flagicon|ENG}} [[Malcolm Allison]]
+| Fell ill with tuberculosis after a game in 1957 and consequently had a lung removed
+|-
+| 1957–60
+| {{flagicon|IRE}} [[Noel Cantwell]]
+| First captain not from the United Kingdom
+|-
+| 1960–62
+| {{flagicon|WAL}} [[Phil Woosnam]]
+|rowspan="9"|
+|-
+| 1962–74
+| {{flagicon|ENG}} [[Bobby Moore]]
+|-
+| 1974–84
+| {{flagicon|ENG}} [[Billy Bonds]]
+|-
+| 1984–90
+| {{flagicon|ENG}} [[Alvin Martin]]
+|-
+| 1990–92
+| {{flagicon|ENG}} [[Ian Bishop (footballer)|Ian Bishop]]
+|-
+| 1992–93
+| {{flagicon|ENG}} [[Julian Dicks]]
+|-
+| 1993–96
+| {{flagicon|ENG}} [[Steve Potts (footballer)|Steve Potts]]
+|-
+| 1996–97
+| {{flagicon|ENG}} [[Julian Dicks]]
+|-
+| 1997–2001
+| {{flagicon|NIR}} [[Steve Lomas]]
+|-
+| 2001–03
+| {{flagicon|ITA}} [[Paolo Di Canio]]
+| First captain not from the British Isles
+|-
+| 2003
+| {{flagicon|ENG}} [[Joe Cole]]
+|rowspan="3"|
+|-
+| 2003–05
+| {{flagicon|SCO}} [[Christian Dailly]]
+|-
+| 2005–07
+| {{flagicon|ENG}} [[Nigel Reo-Coker]]
+|-
+| 2007–09
+| {{flagicon|AUS}} [[Lucas Neill]]
+| First captain from outside Europe
+|-
+| 2009–11
+| {{flagicon|ENG}} [[Matthew Upson]]
+|rowspan="3"|
+|-
+| 2011–15
+| {{flagicon|ENG}} [[Kevin Nolan]]
+|-
+|2015–
+| {{flagicon|ENG}} [[Mark Noble]]
+|}
+
+===West Ham dream team===
+{{See also|Category:West Ham United F.C. players}}
+In the 2003 book ''The Official West Ham United Dream Team'', 500 fans were quizzed for who would be in their all time Hammers Eleven. The voting was restricted to players from the modern era.
+
+{| style="width:180px; float:left;"
+|-
+|&lt;div style="position: relative"&gt;
+[[File:Soccer Field Transparant.svg|175px]]
+{{Image label|x=0.22|y=0.05|scale=350|text=[[Phil Parkes (footballer born 1950)|&lt;span style="font-size:0.8em; color:Purple;"&gt;Parkes&lt;/span&gt;]]}}
+{{Image label|x=0.04|y=0.22|scale=350|text=[[Ray Stewart (Scottish footballer)|&lt;span style="font-size:0.8em; color:Purple;"&gt;Stewart&lt;/span&gt;]]}}
+{{Image label|x=0.15|y=0.15|scale=350|text=[[Alvin Martin|&lt;span style="font-size:0.8em; color:Purple;"&gt;Martin&lt;/span&gt;]]}}
+{{Image label|x=0.30|y=0.15|scale=350|text=[[Bobby Moore|&lt;span style="font-size:0.8em; color:Purple;"&gt;Moore&lt;/span&gt;]]}}
+{{Image label|x=0.42|y=0.22|scale=350|text=[[Julian Dicks|&lt;span style="font-size:0.8em; color:Purple;"&gt;Dicks&lt;/span&gt;]]}}
+{{Image label|x=0.06|y=0.45|scale=350|text=[[Martin Peters|&lt;span style="font-size:0.8em; color:Purple;"&gt;Peters&lt;/span&gt;]]}}
+{{Image label|x=0.23|y=0.28|scale=350|text=[[Billy Bonds|&lt;span style="font-size:0.8em; color:Purple;"&gt;Bonds&lt;/span&gt;]]}}
+{{Image label|x=0.21|y=0.40|scale=350|text=[[Trevor Brooking|&lt;span style="font-size:0.8em; color:Purple;"&gt;Brooking&lt;/span&gt;]]}}
+{{Image label|x=0.16|y=0.54|scale=350|text=[[Geoff Hurst|&lt;span style="font-size:0.8em; color:Purple;"&gt;Hurst&lt;/span&gt;]]}}
+{{Image label|x=0.28|y=0.54|scale=350|text=[[Paolo Di Canio|&lt;span style="font-size:0.8em; color:Purple;"&gt;Di Canio&lt;/span&gt;]]}}
+{{Image label|x=0.35|y=0.45|scale=350|text=[[Alan Devonshire|&lt;span style="font-size:0.8em; color:Purple;"&gt;Devonshire&lt;/span&gt;]]}}
+&lt;/div&gt;
+|}
+
+{|
+{{Fs player|no=1|nat=England|name=[[Phil Parkes (footballer, born 1950)|Phil Parkes]]|pos=GK}}
+{{Fs player|no=2|nat=Scotland|name=[[Ray Stewart (Scottish footballer)|Ray Stewart]]|pos=DF}}
+{{Fs player|no=3|nat=England|name=[[Julian Dicks]]|pos=DF}}
+{{Fs player|no=4|nat=England|name=[[Billy Bonds]]|pos=MF}}
+{{Fs player|no=5|nat=England|name=[[Alvin Martin]]|pos=DF}}
+{{Fs player|no=6|nat=England|name=[[Bobby Moore]]|pos=DF}}(captain)
+{{Fs player|no=7|nat=England|name=[[Martin Peters]]|pos=MF}}
+{{Fs player|no=8|nat=England|name=[[Trevor Brooking]]|pos=MF}}
+{{Fs player|no=9|nat=England|name=[[Geoff Hurst]]|pos=FW}}
+{{Fs player|no=10|nat=Italy|name=[[Paolo Di Canio]]|pos=FW}}
+{{Fs player|no=11|nat=England|name=[[Alan Devonshire]]|pos=MF}}
+|}
+{{Clear}}
+
+===Hammer of the Year===
+{{refimprove section|date=May 2017}}
+The following is a list of recipients of the 'Hammer of the Year' award.&lt;ref&gt;{{cite web|url=https://www.whufc.com/club/history/records-and-honours/hammer-of-the-year|title=Awards |publisher=West Ham United F.C.|accessdate=1 October 2017}}&lt;/ref&gt; The first award, to Andy Malcolm in [[1957–58 West Ham United F.C. season|1957–58]], was nominated by a journalist at ''The Stratford Express''. Subsequent recipients would be awarded the title after a vote by supporters.&lt;ref&gt;{{Cite web | title = Andy Malcolm | first = Roger | last = Hillier | website = theyflysohigh.co.uk | accessdate = 21 May 2018 | url = http://theyflysohigh.co.uk/andy-malcolm/4575118372}}&lt;/ref&gt; Trevor Brooking was the first player for West Ham United to have been honoured with the title of Hammer of the Year three times in a row in 1976, 1977 and 1978. Scott Parker repeated this feat between 2009–2011.&lt;ref&gt;{{cite web |url=http://www.whufc.com/articles/20110516/scott-completes-hoty-hat-trick_2236884_2361310 |title=Scott completes HOTY hat-trick |publisher=West Ham United F.C. |archive-url=https://web.archive.org/web/20110521001558/http://www.whufc.com/articles/20110516/scott-completes-hoty-hat-trick_2236884_2361310 |archive-date=21 May 2011 |dead-url=yes|access-date=28 September 2016}}&lt;/ref&gt; Brooking has won the award the most times, on five occasions: 1972, 1976, 1977, 1978 and 1984. Bobby Moore, Billy Bonds and Julian Dicks have each won it four times.
+
+Bobby Moore has been runner-up four times, while Billy Bonds and Tony Cottee have both been runners-up three times.
+
+Billy Bonds and Trevor Brooking's wins are notable in the amount of time between first and last Hammer of the Year award. Bonds has 16 years separating his wins whilst Brooking has 12.
+
+{|
+|-
+| valign="top" |
+{| class="wikitable"
+|-
+! Year
+! Winner
+! Runner-up
+|-
+|1958||{{flagicon|England}} [[Andy Malcolm]]||–
+|-
+|1959||{{flagicon|England}} [[Ken Brown (footballer)|Ken Brown]]||–
+|-
+|1960||{{flagicon|England}} [[Malcolm Musgrove]]||–
+|-
+|1961||{{flagicon|England}} [[Bobby Moore]]||–
+|-
+|1962||{{flagicon|Scotland}} [[Lawrie Leslie]]||{{flagicon|Scotland}} [[John Dick (footballer born 1930)|John Dick]]
+|-
+|1963||{{flagicon|England}} [[Bobby Moore]]||{{flagicon|England}} [[Jim Standen]]
+|-
+|1964||{{flagicon|England}} [[Johnny Byrne (footballer)|Johnny Byrne]]||{{flagicon|England}} [[Bobby Moore]]
+|-
+|1965||{{flagicon|England}} [[Martin Peters]]||{{flagicon|England}} [[Bobby Moore]]
+|-
+|1966||{{flagicon|England}} [[Geoff Hurst]]||{{flagicon|England}} [[Martin Peters]]
+|-
+|1967||{{flagicon|England}} [[Geoff Hurst]]||{{flagicon|England}} [[Bobby Moore]]
+|-
+|1968||{{flagicon|England}} [[Bobby Moore]]||{{flagicon|England}} [[Trevor Brooking]]
+|-
+|1969||{{flagicon|England}} [[Geoff Hurst]]||{{flagicon|England}} [[Billy Bonds]]
+|-
+|1970||{{flagicon|England}} [[Bobby Moore]]||{{flagicon|England}} [[Billy Bonds]]
+|-
+|1971||{{flagicon|England}} [[Billy Bonds]]||{{flagicon|England}} [[Bobby Moore]]
+|-
+|1972||{{flagicon|England}} [[Trevor Brooking]]||{{flagicon|Scotland}} [[Bobby Ferguson (footballer born 1945)|Bobby Ferguson]]
+|-
+|1973||{{flagicon|England}} [[Pop Robson]]||{{flagicon|England}} [[Trevor Brooking]]
+|-
+|1974||{{flagicon|England}} [[Billy Bonds]]||{{flagicon|England}} [[Mervyn Day]]
+|-
+|1975||{{flagicon|England}} [[Billy Bonds]]||{{flagicon|England}} [[Mervyn Day]]
+|-
+|1976||{{flagicon|England}} [[Trevor Brooking]]||{{flagicon|England}} [[Graham Paddon]]
+|-
+|1977||{{flagicon|England}} [[Trevor Brooking]]||{{flagicon|England}} [[Alan Devonshire]]
+|-
+|1978||{{flagicon|England}} [[Trevor Brooking]]||–
+|-
+|1979||{{flagicon|England}} [[Alan Devonshire]]||{{flagicon|England}} [[Pop Robson]]
+|-
+|1980||{{flagicon|England}} [[Alvin Martin]]||{{flagicon|Scotland}} [[Ray Stewart (Scottish footballer)|Ray Stewart]]
+|-
+|1981||{{flagicon|England}} [[Phil Parkes (footballer born 1950)|Phil Parkes]]||{{flagicon|England}} [[Geoff Pike]]
+|-
+|1982||{{flagicon|England}} [[Alvin Martin]]||{{flagicon|England}} [[Trevor Brooking]]
+|-
+|1983||{{flagicon|England}} [[Alvin Martin]]||{{flagicon|England}} [[Phil Parkes (footballer born 1950)|Phil Parkes]]
+|-
+|1984||{{flagicon|England}} [[Trevor Brooking]]||{{flagicon|England}} [[Tony Cottee]]
+|-
+|1985||{{flagicon|England}} [[Paul Allen (footballer)|Paul Allen]]||{{flagicon|England}} [[Tony Cottee]]
+|-
+|1986||{{flagicon|England}} [[Tony Cottee]]||{{flagicon|Scotland}} [[Frank McAvennie]]
+|-
+|1987||{{flagicon|England}} [[Billy Bonds]]||{{flagicon|England}} [[Mark Ward (footballer born 1962)|Mark Ward]]
+|}
+| valign="top" |
+{| class="wikitable"
+|-
+! Year
+! Winner
+! Runner-up
+|-
+|1988||{{flagicon|England}} [[Stewart Robson]]||{{flagicon|England}} [[Billy Bonds]]
+|-
+|1989||{{flagicon|England}} [[Paul Ince]]||{{flagicon|England}} [[Julian Dicks]]
+|-
+|1990||{{flagicon|England}} [[Julian Dicks]]||{{flagicon|England}} [[Stuart Slater]]
+|-
+|1991||{{flagicon|Czechoslovakia}} [[Luděk Mikloško]]||{{flagicon|England}} [[George Parris]]
+|-
+|1992||{{flagicon|England}} [[Julian Dicks]]||{{flagicon|England}} [[Steve Potts (footballer)|Steve Potts]]
+|-
+|1993||{{flagicon|England}} [[Steve Potts (footballer)|Steve Potts]]||{{flagicon|England}} [[Kevin Keen]]
+|-
+|1994||{{flagicon|England}} [[Trevor Morley]]||{{flagicon|England}} [[Steve Potts (footballer)|Steve Potts]]
+|-
+|1995||{{flagicon|England}} [[Steve Potts (footballer)|Steve Potts]]||{{flagicon|England}} [[Tony Cottee]]
+|-
+|1996||{{flagicon|England}} [[Julian Dicks]]||{{flagicon|Northern Ireland}} [[Iain Dowie]]
+|-
+|1997||{{flagicon|England}} [[Julian Dicks]]||{{flagicon|Croatia}} [[Slaven Bilić]]
+|-
+|1998||{{flagicon|England}} [[Rio Ferdinand]]||{{flagicon|Northern Ireland}} [[Steve Lomas]]
+|-
+|1999||{{flagicon|Trinidad and Tobago}} [[Shaka Hislop]]||{{flagicon|England}} [[Ian Pearce]]
+|-
+|2000||{{flagicon|Italy}} [[Paolo Di Canio]]||{{flagicon|England}} [[Trevor Sinclair]]
+|-
+|2001||{{flagicon|England}} [[Stuart Pearce]]||{{flagicon|Italy}} [[Paolo Di Canio]]
+|-
+|2002||{{flagicon|France}} [[Sébastien Schemmel]]||{{flagicon|England}} [[Joe Cole]]
+|-
+|2003||{{flagicon|England}} [[Joe Cole]]||{{flagicon|England}} [[Jermain Defoe]]
+|-
+|2004||{{flagicon|England}} [[Matthew Etherington]]||{{flagicon|England}} [[Michael Carrick]]
+|-
+|2005||{{flagicon|England}} [[Teddy Sheringham]]||{{flagicon|England}} [[Mark Noble]]
+|-
+|2006||{{flagicon|Wales}} [[Danny Gabbidon]]||{{flagicon|England}} [[Marlon Harewood]]
+|-
+|2007||{{flagicon|Argentina}} [[Carlos Tevez]]||{{flagicon|England}} [[Bobby Zamora]]
+|-
+|2008||{{flagicon|England}} [[Robert Green]]||{{flagicon|Northern Ireland}} [[George McCartney]]
+|-
+|2009||{{flagicon|England}} [[Scott Parker (footballer)|Scott Parker]]||{{flagicon|England}} [[Robert Green]]
+|-
+|2010||{{flagicon|England}} [[Scott Parker (footballer)|Scott Parker]]||{{flagicon|Italy}} [[Alessandro Diamanti]]
+|-
+|2011||{{flagicon|England}} [[Scott Parker (footballer)|Scott Parker]]||{{flagicon|England}} [[Robert Green]]
+|-
+|2012||{{flagicon|England}} [[Mark Noble (footballer)|Mark Noble]]||{{flagicon|England}} [[James Tomkins (footballer)|James Tomkins]]
+|-
+|2013||{{flagicon|New Zealand}} [[Winston Reid]]||{{flagicon|Finland}} [[Jussi Jääskeläinen]]
+|-
+|2014||{{flagicon|England}} [[Mark Noble]]||{{flagicon|Spain}} [[Adrián (footballer)|Adrián]]
+|-
+|2015||{{flagicon|England}} [[Aaron Cresswell]]||{{flagicon|Spain}} [[Adrián (footballer)|Adrián]]
+|-
+|2016||{{flagicon|France}} [[Dimitri Payet]]||{{flagicon|England}} [[Michail Antonio]]
+|-
+|2017||{{flagicon|England}} [[Michail Antonio]]||{{flagicon|Argentina}} [[Manuel Lanzini]]
+|-
+|2018||{{flagicon|Austria}} [[Marko Arnautović]]||{{flagicon|Ireland}} [[Declan Rice]]
+|}
+|}
+
+===Lifetime Achievement Award===
+In 2013, West Ham United introduced a new annual award, the West Ham United Lifetime Achievement Award.
+
+The first award was presented to club-record appearance maker [[Billy Bonds]], who picked up the award on the pitch at Upton Park before kick-off against [[Cardiff City F.C.|Cardiff City]] on the opening day of the [[2013–14 West Ham United F.C. season|2013–14 season]].&lt;ref&gt;{{cite web | url=http://www.whufc.com/articles/20130818/bonds-honoured-at-the-boleyn_2236884_3365079 | archive-url=https://web.archive.org/web/20130819102820/http://www.whufc.com/articles/20130818/bonds-honoured-at-the-boleyn_2236884_3365079 | dead-url=yes | archive-date=19 August 2013 | title=Bonds Honoured at the Boleyn | publisher=West Ham United F.C. | accessdate=25 February 2015}}&lt;/ref&gt;
+
+The 2014 award was presented to Sir [[Trevor Brooking]], a record five-time winner of the Hammer of the Year award. Brooking received the award before the [[2014–15 West Ham United F.C. season|2014–15 season]] curtain-raiser against Tottenham Hotspur on 16 August 2014.&lt;ref&gt;{{cite web | url=http://www1.skysports.com/football/news/11685/9300736/west-ham-award-for-sir-trevor-brooking | title=West Ham award for Sir Trevor Brooking | publisher=Sky Sports | accessdate=25 February 2015}}&lt;/ref&gt; Brooking had already had the Centenary Stand at the Boleyn ground named after him in 2009.
+
+The 2015 award was awarded to [[Martin Peters]].&lt;ref&gt;{{cite web | url=http://www.whufc.com/articles/20150210/hammers-to-honour-peters_2236884_4476925 | archive-url=https://web.archive.org/web/20150216010414/http://www.whufc.com/articles/20150210/hammers-to-honour-peters_2236884_4476925 | dead-url=yes | archive-date=16 February 2015 | title=Hammers to honour Peters | publisher=West Ham United F.C. | accessdate=25 February 2015 | df=dmy-all }}&lt;/ref&gt;
+
+On 3 May 2016, it was announced via the club's official website that the fourth recipient of the award would be Sir [[Geoff Hurst]], the club's second all-time leading goalscorer, and scorer of a hat-trick in the 1966 [[1966 FIFA World Cup|World Cup]] Final. Hurst would be honoured at the club's 2015/16 Player Awards Ceremony.&lt;ref&gt;{{cite web | url=http://www.whufc.com/News/Articles/2016/May/3-May/Hurst-to-be-honoured-at-Player-Awards | archive-url=https://web.archive.org/web/20160604014603/http://www.whufc.com/News/Articles/2016/May/3-May/Hurst-to-be-honoured-at-Player-Awards | dead-url=yes | archive-date=4 June 2016 | title=Hurst to be honoured at Player Awards | publisher=West Ham United F.C. | accessdate=3 May 2016}}&lt;/ref&gt; [[Ken Brown (footballer)|Ken Brown]] became the sixth recipient of the award, in April 2018.&lt;ref&gt;{{cite web|url=https://www.whufc.com/news/articles/2018/april/25-april/wonderful-ken-brown-set-receive-lifetime-achievement-award|title='Wonderful' Ken Brown set to receive Lifetime Achievement Award |publisher=West Ham United F.C.|accessdate=20 June 2018}}&lt;/ref&gt; The 2019 honour was awarded to [[midfielder]] [[Ronnie Boyce]] who made his debut for West Ham in 1960.&lt;ref&gt;[https://www.whufc.com/news/articles/2018/october/22-october/ronnie-boyce-hammers-legend-who-debuted-58-years-ago-today]&lt;/ref&gt;
+
+{|
+|-
+| valign="top" |
+{| class="wikitable"
+|-
+! Year
+! Winner
+|-
+|2013||{{flagicon|England}} [[Billy Bonds]]
+|-
+|2014||{{flagicon|England}} [[Trevor Brooking]]
+|-
+|2015||{{flagicon|England}} [[Martin Peters]]
+|-
+|2016||{{flagicon|England}} [[Geoff Hurst]]
+|-
+|2017||{{flagicon|England}} [[Bobby Moore]]
+|-
+|2018||{{flagicon|England}} [[Ken Brown (footballer)|Ken Brown]]
+|-
+|2019||{{flagicon|England}} [[Ronnie Boyce]]
+|}
+|}
+
+==Current staff==
+{{updated|30 June 2018.}}
+
+'''Staff and directors'''&lt;ref&gt;{{cite web| url=https://www.whufc.com/club/corporate-information/who-s-who| title=Who's who| publisher=West Ham United F.C.| accessdate=13 June 2018}}&lt;/ref&gt;
+{| class="wikitable"
+|-
+! Position
+! Name
+|-
+|Co-chairman ||[[David Sullivan (businessman)|David Sullivan]]
+|-
+|Co-chairman ||[[David Gold (businessman)|David Gold]]
+|-
+|Vice-chairman ||[[Karren Brady]] CBE
+|-
+|Non-executive director||Daniel Harris
+|-
+|Non-executive director ||J Albert Smith
+|-
+|Honorary life president ||[[Terry Brown (football chairman)|Terry Brown]]
+|-
+|Club secretary ||Andrew Pincher
+|-
+|Chief finance officer ||Andy Mollett
+|-
+|Projects &amp; stadium operations director ||Philippa Cartwright
+|-
+|Executive director, marketing &amp; communications ||Tara Warren
+|-
+|Club ambassador || [[Tony Carr]] MBE
+|-
+|Director of football||[[Mario Husillos]] 
+|}
+
+'''Coaching staff'''&lt;ref&gt;{{Cite web | title = Football Personnel | publisher = West Ham United F.C. | accessdate = 30 June 2018 | url = https://www.whufc.com/teams/staff}}&lt;/ref&gt;&lt;ref&gt;{{Cite web | title = West Ham United manager Pellegrini confirms backroom staff | publisher = West Ham United F.C. | date = 30 June 2018 | accessdate = 30 June 2018 | url = https://www.whufc.com/news/articles/2018/june/30-june/west-ham-united-manager-pellegrini-confirms-backroom-staff}}&lt;/ref&gt;
+{| class="wikitable"
+|-
+! Position
+! Name
+|-
+|First team manager || {{flagicon|CHI}} [[Manuel Pellegrini]]
+|-
+|Assistant coach || {{flagicon|ARG}} [[Rubén Cousillas]] 
+|-
+|Second assistant coach || {{flagicon|ITA}} [[Enzo Maresca]]
+|-
+|First Team Goalkeeper Coach ||  {{flagicon|SPA}} [[Xavi Valero]]
+|-
+|Fitness coach || Jose Cabello
+|-
+|Assistant fitness coach || Felix Cao
+|-
+|Academy manager &amp; head of coaching and player development  || {{flagicon|ENG}} [[Terry Westley]]
+|-
+|Academy operations and player development manager || Ricky Martin&lt;ref&gt;{{Cite web |title=Academy appoint Martin as Operations and Player Development Manager |publisher=West Ham United F.C. |date=7 January 2019 |accessdate=28 January 2019 |url= https://www.whufc.com/news/articles/2019/january/07-january/academy-appoint-martin-operations-and-player-development}}&lt;/ref&gt;
+|-
+|Head of medical services||  {{flagicon|ENG}}  Richard Collinge&lt;ref&gt;{{cite web|url=https://www.whufc.com/news/articles/2018/june/10-june/west-ham-united-appoint-richard-collinge-head-medical|title=West Ham United appoint Richard Collinge as Head of Medical |publisher=West Ham United F.C.|accessdate=20 June 2018}}&lt;/ref&gt;
+|-
+|First team rehabilitation fitness coach || {{flagicon|ENG}} Eamon Swift
+|-	
+|First team physiotherapist|| {{flagicon|ENG}} Dominic Rogan
+|}
+
+==Managers==
+West Ham United have had 17 permanent managers in their history and an additional three caretaker managers. 
+
+[[Manuel Pellegrini]] was appointed as West Ham United's 17th permanent manager on 22 May 2018.
+{{Main article|West Ham United F.C. managers}}
+
+{| class="wikitable sortable" style="width:95%; text-align:center"
+|-
+! style="width: 15%;"|Manager
+! style="width: 15%;"|Caretaker Manager
+! style="width: 10%;"|Period
+! style="width: 5%;"|G
+! style="width: 5%;"|W
+! style="width: 5%;"|D
+! style="width: 5%;"|L
+! style="width: 5%;"|Win %
+! style="width: 30%;"|Honours/Notes (major honours shown in bold)
+|-
+| style="text-align:left;"| {{flagicon|England}} [[Syd King]] || style="text-align:center;" | ||1901–32||638||248||146||244||38.87|| &lt;small&gt; Club's longest serving manager (31 years). FA Cup runners-up 1923 &lt;/small&gt;
+|-
+| style="text-align:left;"| {{flagicon|England}} [[Charlie Paynter]] || style="text-align:center;" | ||1932–50||480||198||116||166||41.25|| 
+|-
+| style="text-align:left;"| {{flagicon|England}} [[Ted Fenton]] || style="text-align:center;" | ||1950–61||484||193||107||184||39.87|| &lt;small&gt; [[Football League Second Division|Division Two]] Champions 1957–58&lt;/small&gt;
+|-
+| style="text-align:left;"| {{flagicon|England}} [[Ron Greenwood]] || style="text-align:center;" | ||1961–74||613||215||165||233||35.07|| &lt;small&gt; '''[[FA Cup]] winners 1964''', '''[[UEFA Cup Winners Cup]] winners 1965.''' [[League Cup]] runners-up 1966. &lt;/small&gt;
+|-
+| style="text-align:left;"| {{flagicon|England}} [[John Lyall]] || style="text-align:center;" | ||1974–89|| '''708'''|| '''277'''|| 176||255|| 39.12 || &lt;small&gt; '''[[FA Cup]] winners 1975, 1980.''' Highest league finish in club's history (3rd in [[Football League First Division|Division One]] 1985–86). [[UEFA Cup Winners' Cup]] runners-up 1976; [[League Cup]] runners-up 1981. &lt;/small&gt;
+|-
+| style="text-align:left;"| {{flagicon|Scotland}} [[Lou Macari]] || style="text-align:center;" | ||1989–90||38||14||12|| 12|| 36.84||
+|-
+| || style="text-align:left;"| {{flagicon|England}} ''[[Ronnie Boyce]]'' || style="text-align:center;" | 1990 || 1 || 0 || 1 || 0 || 0.00 ||
+|-
+| style="text-align:left;"| {{flagicon|England}} [[Billy Bonds]] || style="text-align:center;" | ||1990–94||227 ||99||61|| 67|| 43.61|| &lt;small&gt;
+|-
+| style="text-align:left;"| {{flagicon|England}} [[Harry Redknapp]] || style="text-align:center;" | ||1994–01|| 327|| 121|| 85|| 121 || 37.00|| &lt;small&gt; [[UEFA Intertoto Cup]] joint winners 1999 (European qualification). Club's highest Premier League finish (5th, 1998–99) &lt;/small&gt;
+|-
+| style="text-align:left;"| {{flagicon|England}} [[Glenn Roeder]] || style="text-align:center;" | ||2001–03 || 86 || 27 || 23|| 36|| 31.40||
+|-
+| || style="text-align:left;"| {{flagicon|England}} ''[[Trevor Brooking]]'' || style="text-align:center;" | 2003 || 14 || 9 || 4|| 1|| '''64.29'''||
+|-
+| style="text-align:left;"| {{flagicon|England}} [[Alan Pardew]] || style="text-align:center;" | ||2003–06 || 163 ||67|| 38|| 58 || 41.10|| &lt;small&gt; [[Football League Championship|Championship]] Play-off Winners 2005, FA Cup runners-up 2006 (UEFA Cup qualification) &lt;/small&gt;
+|-
+| style="text-align:left;"| {{flagicon|England}} [[Alan Curbishley]] || style="text-align:center;" | ||2006–08 || 71 || 28 || 14 || 29 || 39.44 ||
+|-
+| || style="text-align:left;"| {{flagicon|England}} ''[[Kevin Keen]]'' || style="text-align:center;" | 2008 || 1 || 0 || 0 || 1 || 0.00 ||
+|-
+| style="text-align:left;"| {{flagicon|Italy}} [[Gianfranco Zola]] || style="text-align:center;" | ||2008–10 || 80 || 23 || 21 || 36 || 28.75 ||&lt;small&gt; Club's first non-British manager.&lt;/small&gt;
+|-
+| style="text-align:left;"| {{flagicon|Israel}} [[Avram Grant]]  || style="text-align:center;" | ||2010–11 || 47 || 15 || 12 || 20 || 31.91 ||&lt;small&gt; Club's first non EU manager.&lt;/small&gt;
+|-
+| || style="text-align:left;"| {{flagicon|England}} ''[[Kevin Keen]]'' || style="text-align:center;" | 2011 || 1 || 0 || 0 || 1 || 0.00 ||
+|-
+| style="text-align:left;"| {{flagicon|England}} [[Sam Allardyce]]  || style="text-align:center;" | ||2011–15 || 181 || 68 || 46 || 67 || 37.57 ||&lt;small&gt; [[Football League Championship|Championship]] Play-off Winners 2012.&lt;/small&gt;
+|-
+| style="text-align:left;"| {{flagicon|Croatia}} [[Slaven Bilić]]&lt;ref&gt;{{Cite news|title=Slaven Bilić's Managerial statistics |url=http://www.soccerbase.com/managers/manager.sd?manager_id=2039|publisher=Soccerbase|date=5 July 2015 |accessdate=5 July 2015}}&lt;/ref&gt; || style="text-align:center;" | || 2015–17 || 111 || 42 || 30 || 39 ||37.84||
+|-
+| style="text-align:left;"| {{flagicon|SCO}} [[David Moyes]] || style="text-align:center;" | || 2017–18 || 31 || 9 || 10 || 12 ||29.03||
+|-
+| style="text-align:left;"| {{flagicon|CHI}} [[Manuel Pellegrini]] || style="text-align:center;" | || 2018– || 33 || 13 || 6 || 14 ||39.39||
+|}
+
+==Ownership and chairmen==
+{{details|Ownership of West Ham United F.C.}}
+
+In January 2010, [[David Sullivan (businessman)|David Sullivan]] and [[David Gold (businessman)|David Gold]] acquired a 50% share in West Ham, given them overall operational and commercial control.&lt;ref name="whud&amp;d"&gt;{{cite web |url=http://www.whufc.com/articles/west-ham-united-statement-20100119_2236884_1936937 |archive-url=https://web.archive.org/web/20100121005012/http://www.whufc.com/articles/west-ham-united-statement-20100119_2236884_1936937 |dead-url=yes |archive-date=21 January 2010 |title=West Ham United statement |publisher=West Ham United F.C. |accessdate=31 January 2013 |df=dmy-all }}&lt;/ref&gt; At the end of May 2010, Gold and Sullivan purchased a further 10% stake in the club at a cost of million. Taking their controlling stake to 60%, they announced that they could open up shares for fans to purchase.&lt;ref&gt;{{cite web |url=http://www.whufc.com/articles/20100525/chairmen-increase-shareholding_2236884_2058860 |archive-url=https://web.archive.org/web/20100528004215/http://www.whufc.com/articles/20100525/chairmen-increase-shareholding_2236884_2058860 |dead-url=yes |archive-date=28 May 2010 |title=Chairmen increase shareholding |publisher=West Ham United F.C. |accessdate=31 January 2013 |df=dmy-all }}&lt;/ref&gt; On 9 August 2010, Gold and Sullivan increased their shares up to 30.6% each with "minority investors", (which included former owner Terry Brown, purchasing a further 3.8% of the club at a cost of around −4&amp;nbsp;million) leaving Icelandic [[Straumur Investment Bank]] owning 35% of the club.&lt;ref name="whufc.com"&gt;{{cite web |url=http://www.whufc.com/page/Ownership/0,,12562,00.html |archive-url=https://web.archive.org/web/20090906184447/http://www.whufc.com/page/Ownership/0%2C%2C12562%2C00.html |dead-url=yes |archive-date=6 September 2009 |title=Ownership &amp;#124; West Ham United |publisher=West Ham United F.C. |accessdate=14 January 2011 |df=dmy-all }}&lt;/ref&gt;
+
+On 2 July 2013, Sullivan acquired a further 25% of shares after restructuring the debt of the club, leaving Straumur Bank with just 10%.&lt;ref&gt;{{cite web|url=http://www.legalweek.com/legal-week/news/2278698/dla-piper-leads-as-sullivan-becomes-largest-single-west-ham-shareholder |title=Ownership &amp;#124; West Ham United |publisher=legalweek.com |accessdate=2 July 2013}}&lt;/ref&gt; In order to clear club debts before a move to the Olympic Stadium in 2016, in December 2014 Sullivan announced the availability for sale of 20% of the club.&lt;ref&gt;{{Cite newspaper | url=https://www.bbc.co.uk/sport/0/football/30615420 | title=West Ham: Co-owner David Sullivan says 20% stake for sale | journal=BBC Sport | date=28 December 2014 | accessdate=16 January 2015}}&lt;/ref&gt; The clearing of club debts, given in July 2013 as million, was given as a pre-condition to a move to the Olympic Stadium.&lt;ref&gt;{{cite news | url=https://www.theguardian.com/football/2013/jul/24/west-ham-debt-olympic-stadium | title=West Ham United must pay £70m bank debt before Olympic Stadium move | work=The Guardian | date=24 July 2013 | accessdate=16 January 2015}}&lt;/ref&gt;
+
+==European record==
+{{details|West Ham United F.C. in European football}}
+
+==Honours==
+&lt;ref name="FCHDStats"&gt;'{{cite web | url=http://www.fchd.info/W-HAMU.HTM | title=Source for West Ham statistics | publisher=Football Club History Database | author=Richard Rundle}}&lt;/ref&gt;
+{|
+|-
+| valign="top" |
+
+===Domestic competitions===
+* '''[[List of English football champions|Football League First Division/Premier League]]''' (first tier)&lt;ref name="divisions"&gt;Up until 1992, the top division of [[Football in England|English football]] was the [[Football League First Division]]; since then, it has been the [[Premier League]]. Similarly until 1992, the [[Football League Second Division|Second Division]] was the second tier of league football, when it became the First Division, and is now known as [[Football League Championship|The Championship]]. The third tier was the Third Division until 1992, and is now known as [[League One]].&lt;/ref&gt;
+*** Highest placing: 3rd [[The Football League 1985-86|1985–86]]
+* '''[[List of winners of English Football League Championship and predecessors|Football League Second Division/Football League Championship]]''' (second tier)&lt;ref name="divisions" /&gt;
+** '''Champions''' (2): [[The Football League 1957-58|1957–58]], [[The Football League 1980-81|1980–81]]
+*** Runners-up: [[The Football League 1922-23|1922–23]], [[The Football League 1990-91|1990–91]], [[The Football League 1992-93|1992–93]]
+*** Play-off Winners: [[Football League Championship Play-Offs#2005|2005]], [[Football League Championship Play-Offs#2012|2012]]
+* '''[[Southern Football League|Southern League First Division]]''':
+** Highest placing: 3rd [[1912–13 Southern Football League|1912–13]]
+* '''[[Western Football League]]''':
+** Champions: [[Western Football League|1906–07]]
+** Section A Champions: [[Western Football League|1906–07]]
+* '''[[FA Cup]]'''
+** '''Winners''' (3): [[1964 FA Cup Final|1964]], [[1975 FA Cup Final|1975]], [[1980 FA Cup Final|1980]]
+*** Runners-up: [[1923 FA Cup Final|1923]], [[2006 FA Cup Final|2006]]
+* '''[[Football League Cup|League Cup]]'''
+** Runners-up: [[1966 Football League Cup Final|1966]], [[1981 Football League Cup Final|1981]]
+* '''[[FA Community Shield|FA Charity Shield]]''':
+** Winners: [[1964 FA Charity Shield|1964]] (shared)
+** Runners-up: [[West Ham United F.C. 1975-1976|1975]], [[West Ham United F.C. 1980-1981|1980]]
+* '''[[Football League War Cup]]''':
+** Winners: [[Football League War Cup|1940]]
+* '''[[Southern Floodlit Cup]]''':
+** Winners: 1956
+** Runners-up: 1960
+* '''[[London Challenge Cup]]'''
+** Winners (9): 1924–25, 1925–26, 1929–30, 1946–47, 1948–49, 1952–53, 1956–57, 1967–68, 1968–69
+* '''Essex Professional Cup''':
+** Winners (3): 1951, 1955 (Trophy shared), 1959
+** Runners-up: 1952, 1958
+
+====Hammers in Wartime====
+
+* '''[[The Football Combination|London Combination]]''':
+** Champions: [[1916–17 in English football|1916–17]]
+** Runners-up: [[1915–16 in English football|1915–16]] (Supplementary Tournament), [[1917–18 in English football|1917–18]]
+* '''[[1939–40 in English football|League South A]]''':
+** Runners-up: [[1939–40 in English football|1939–40]]
+* '''[[1939–40 in English football|League South C]]''':
+** Runners-up: [[1939–40 in English football|1939–40]]
+* '''[[1940–41 in English football|Regional League South]]''':
+** Runners-up: [[1940–41 in English football|1940–41]]
+* '''[[Football League North and South|League South]]''':
+** Runners-up: [[1943–44 in English football|1943–44]], [[1944–45 in English football|1944–45]]
+
+====As Thames Ironworks F.C.====
+
+* '''[[Southern Football League|Southern League Division Two]] ''':
+** Champions: [[1898–99 Southern Football League|1898–99]]
+** London Champions: [[Southern Football League 1898-99#Division Two London|1898–99]]
+* '''[[London League (football)|London League]]''':
+** Champions: [[Thames Ironworks F.C. season 1897-98|1897–98]]
+** Runners-up: [[Thames Ironworks F.C. season 1896-97|1896–97]]
+* '''[[West Ham Charity Cup]]''':
+** Winners: [[Thames Ironworks F.C. season 1895-96|1896]]
+** Runners-up: [[Thames Ironworks F.C. season 1896-97|1897]]
+
+===European===
+* '''[[UEFA Cup Winners' Cup|European Cup Winners Cup]]'''
+** '''Winners: (1)''' [[1964–65 European Cup Winners' Cup|1965]]
+** Runners-up: [[1975–76 European Cup Winners' Cup|1976]]
+* '''[[UEFA Intertoto Cup]]''': '''1'''
+** Winners: [[1999 UEFA Intertoto Cup|1999]]
+* '''[[Anglo-Italian League Cup]]'''
+** Runners-up: 1975
+
+====International====
+* '''[[International Soccer League (1960-1965)|International Soccer League]]''': '''1'''
+** Champions: [[International Soccer League (1960-1965)#League champions|1963]]
+* '''[[International Soccer League (1960-1965)#American Challenge Cup 2|American Challenge Cup]]'''
+** Runners-up: [[1963 International Soccer League|1963]]
+
+====Other====
+* [[BBC Sports Personality of the Year Team Award]]: 1965&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/tv_and_radio/sports_personality_of_the_year/past_winners/3222732.stm |title=Past winners: 1963–1967 |date=27 November 2003|publisher=BBC Sport|accessdate=16 December 2018}}&lt;/ref&gt;
+* Honorary Degree (awarded to the club) in 2009 by the [[University of East London]]&lt;ref name="James Caan, Sir Gulam Noon MBE and West Ham United celebrate Business School graduates success"&gt;{{cite AV media|url=https://www.youtube.com/watch?v=ooVt6FiPJ2U|title=West Ham United Football Club given the award of Honorary Fellow by the University of East London|publisher=University of East London|date=16 November 2009|via=YouTube|accessdate=23 December 2017}}&lt;/ref&gt;
+
+|}
+
+==Statistics and records==
+
+===Attendance===
+* Record attendance: 59,950 vs [[Fulham F.C.|Fulham]], [[Premier League]], 22 February 2019&lt;ref&gt;{{Cite web|url=https://www.bbc.co.uk/sport/football/47248479|title=West Ham United 3–1 Fulham|website=BBC Sport|date=22 February 2019|access-date=2 March 2019}}&lt;/ref&gt;
+**At the [[Boleyn Ground]]: 42,322 v [[Tottenham Hotspur F.C.|Tottenham Hotspur]], [[Football League First Division|Division One]], 17 October 1970&lt;ref&gt;{{cite web |url=http://www.fsf.org.uk/ground-guide/clubs/west-ham/ |archive-url=https://web.archive.org/web/20090413013655/http://www.fsf.org.uk/ground-guide/clubs/west-ham/ |dead-url=yes |archive-date=13 April 2009 |title=Club Record Home Attendance |publisher=Fsf.org.uk |accessdate=29 April 2010 |df=dmy-all }}&lt;/ref&gt;
+*Lowest league attendance: 4,373 v [[Doncaster Rovers F.C.|Doncaster Rovers]], [[Football League Second Division|Division Two]], 24 February 1955
+
+===Transfers===
+* Biggest Transfer fee paid: £36 million to [[S.S. Lazio|Lazio]] for [[Felipe Anderson]], 15 July 2018&lt;ref&gt;{{Cite news |title=Felipe Anderson: West Ham sign Lazio midfielder for club record fee|url=https://www.bbc.co.uk/sport/football/44810938|publisher=BBC Sport|date=15 July 2018}}&lt;/ref&gt;
+* Biggest Transfer fee received: £25 million from [[Olympique de Marseille]] for [[Dimitri Payet]], 29 January 2017&lt;ref&gt;{{Cite news |title=Payet departs|url=http://www.whufc.com/news/articles/2017/january/29-january/payet-departs|publisher=West Ham United F.C.|date=29 January 2017}}&lt;/ref&gt;
+
+===Record results and performances===
+
+===Victories===
+* '''League:'''
+* '''Premier League''':
+** Home: 6–0 v [[Barnsley F.C.|Barnsley]] 10 January 1998
+** Away: 5–0 v [[Derby County F.C.|Derby County]] 10 November 2007
+* '''Division One''':
+** Home: 8–0 v [[Sunderland A.F.C.|Sunderland]] 19 October 1968
+** Away: 6–1 v [[Manchester City F.C.|Manchester City]] 8 September 1962
+* '''Division Two''':
+** Home: 8–0 v [[Rotherham United F.C.|Rotherham United]] 8 March 1958
+** Away: 6–0 v [[Leicester City F.C.|Leicester City]] 15 February 1923
+* '''FA Cup''':
+** Home: 8–1 v [[Chesterfield F.C.|Chesterfield]] (Rd 1) 10 January 1914
+** Away: 5–0 v [[Chatham Town F.C.|Chatham Town]] (5th qualifying rd) 28 November 1903
+* '''League Cup''':
+** Home: 10–0 v [[Bury F.C.|Bury]] (Rd 2 leg 2) (12–1 aggregate scoreline) 25 October 1983
+** Away: 5–1 v [[Cardiff City F.C.|Cardiff City]] (SF leg 2) (10–3 aggregate scoreline) 2 February 1966
+** Away: 5–1 v [[Walsall F.C.|Walsall]] (Rd 2) 13 September 1967
+* '''European Cup Winners Cup''':
+** Home: 5–1 v [[Real Madrid Castilla|Castilla CF]] (Rd 1 leg 2) (6–4 aggregate scoreline) 1 October 1980
+** Away: 2–1 v [[FC Lausanne-Sport|Lausanne]] (QF leg 2) (6–4 aggregate scoreline) 16 March 1965
+* '''UEFA Cup/Europa League''':
+** Home: 3–0 v [[NK Osijek|Osijek]] (Rd 1 leg 1) 16 September 1999
+** Home: 3–0 v [[FC Lusitanos|Lusitanos]] (Qual Rd 1 leg 1) 2 July 2015
+** Away: 3–1 v [[NK Osijek|Osijek]] (Rd 1 leg 2) 30 September 1999
+
+===Defeats===
+* '''League:'''
+* '''Premier League''':
+** Away: 0–6 v [[Everton F.C.|Everton]] 8 May 1999
+* '''Division One''':
+** Home: 2–8 v [[Blackburn Rovers F.C.|Blackburn Rovers]] 26 December 1963
+** Away: 0–7 v [[Sheffield Wednesday F.C.|Sheffield Wednesday]] 28 November 1959
+* '''Division Two''':
+** Away: 0–7 v [[Barnsley F.C.|Barnsley]] 1 September 1919
+* '''FA Cup''':
+** Away: 0–6 v [[Manchester United F.C.|Manchester United]] (Rd 4) 26 January 2003
+* '''League Cup''':
+** Away: 0–6 v [[Oldham Athletic A.F.C.|Oldham Athletic]] (SF leg 1) 14 February 1990
+** Away: 0–6 v [[Manchester City F.C.|Manchester City]] (SF leg 1) 8 January 2014
+* '''European Cup Winners Cup''':
+** Home: 1–4 v [[FC Dinamo Tbilisi|Dinamo Tbilisi]] (QF leg 1) (2–4 aggregate scoreline) 4 March 1981
+** Away: 2–4 v [[ADO Den Haag|FC Den Haag]] (QF leg 1) (5–5 aggregate scoreline, West Ham won on away rule) 3 March 1976
+** Neutral: 2–4 v [[R.S.C. Anderlecht|Anderlecht]] (Final) 5 May 1976
+* '''UEFA Cup''':
+** Home: 0–1 v [[U.S. Città di Palermo|Palermo]] (Rd 1 leg 1) 14 September 2006
+** Away: 0–3 v [[U.S. Città di Palermo|Palermo]] (Rd 1 leg 2) 28 September 2006
+
+===Club league highs and lows===
+{{see also|West Ham United F.C. by season}}
+{|
+|-
+| valign="top" |
+* '''Home''':
+** '''Most''':
+** Most Home Wins: 19 ''(1980–81)''
+** Most Home Draws: 10 ''(1981–82)''
+** Most Home Defeats: 10 ''(1988–89)''
+** Most Home Goals Scored: 59 ''(1958–59)''
+** Most Home Goals Conceded: 44 ''(1930–31)''
+** '''Fewest''':
+** Fewest Home Wins: 3 ''(1988–89)''
+** Fewest Home Draws: 1 ''(1934–35), (1980–81)''
+** Fewest Home Defeats: 1 ''(1957–58), (1980–81)''
+** Fewest Home Goals Scored: 19 ''(1988–89)''
+** Fewest Home Goals Conceded: 11 ''(1920–21), (1922–23)''
+| style="width:80px;"|&amp;nbsp;
+| valign="top" |
+* '''Away''':
+** '''Most''':
+** Most Away Wins: 13 ''(2011–12)''
+** Most Away Draws: 10 ''(1968–69)''
+** Most Away Defeats: 17 ''(1932–33)''
+** Most Away Goals Scored: 45 ''(1957–58)''
+** Most Away Goals Conceded: 70 ''(1931–32)''
+** '''Fewest''':
+** Fewest Away Wins: 1 ''(1925–26), (1932–33), (1937–38), (1960–61), (2009–10)''
+** Fewest Away Draws: 1 ''(1982–83)''
+** Fewest Away Defeats: 3 ''(1980–81)''
+** Fewest Away Goals Scored: 12 ''(1996–97)''
+** Fewest Away Goals Conceded: 16 ''(1990–91)''
+| style="width:80px;"|&amp;nbsp;
+| valign="top" |
+* '''Total''':
+** '''Most''':
+** Most Total Wins: 28 ''(1980–81)''
+** Most Total Draws: 18 ''(1968–69)''
+** Most Total Defeats: 23 ''(1931–32)''
+** Most Total Goals Scored: 101 ''(1957–58)''
+** Most Total Goals Conceded: 107 ''(1931–32)''
+** '''Fewest''':
+** Fewest Total Wins: 7 ''(2010–11)''
+** Fewest Total Draws: 4 ''(1934–35), (1964–65), (1982–83)''
+** Fewest Total Defeats: 4 ''(1980–81)''
+** Fewest Total Goals Scored: 37 ''(1988–89), (1991–92)''
+** Fewest Total Goals Conceded: 29 ''(1980–81)''
+|}
+
+{|
+|-
+| valign="top" |
+
+===Club goal records===
+* '''Most league goals in a season:'''
+** 101, Division Two (1957–58)
+* '''Top league scorer in a season:'''
+** [[Vic Watson]] (42) Div. One (1929–30)
+* '''Top scorer in a season:'''
+** [[Vic Watson]] (50) Div. One (1929–30)
+* '''Most goals in one match:'''
+** [[Vic Watson]] (6) v [[Leeds United F.C.|Leeds United]] (h) 9 February 1929
+** [[Geoff Hurst]] (6) v [[Sunderland A.F.C.|Sunderland]] (h) 19 October 1968
+''Follow link to Official West Ham United Records Page''&lt;ref&gt;''[https://web.archive.org/web/20060218021228/http://www.whufc.com/claret/?page_id=1286 WHUFC.com list of Club Titles, honours and records]''&lt;/ref&gt;
+| style="width:80px;"|&amp;nbsp;
+| valign="top" |
+
+===Player records===
+{|
+|-
+| valign="top" |
+'''Appearances'''
+# '''799''' [[Billy Bonds]] (1967–88)
+# '''670''' [[Frank Lampard, Sr.]] (1967–85)
+# '''644''' [[Bobby Moore]] (1958–74)
+# '''643''' [[Trevor Brooking]] (1967–84)
+# '''600''' [[Alvin Martin]] (1977–96)
+# '''548''' [[Jimmy Ruffell]] (1921–37)
+# '''505''' [[Steve Potts (footballer)|Steve Potts]] (1985–02)
+# '''505''' [[Vic Watson]] (1920–35)
+# '''502''' [[Geoff Hurst]] (1959–72)
+# '''467''' [[Jim Barrett, Sr.|Jim Barrett]] (1924–43)
+
+* [[West Ham United F.C. appearance records]]
+| style="width:100px;" |&amp;nbsp;
+| valign="top" |
+'''Goals'''
+# '''326''' [[Vic Watson]] (1920–35)
+# '''252''' [[Geoff Hurst]] (1959–72)
+# '''166''' [[John Dick (footballer b.1930)|John Dick]] (1953–63)
+# '''166''' [[Jimmy Ruffell]] (1921–37)
+# '''146''' [[Tony Cottee]] (1983–88), (1994–96)
+# '''107''' [[Johnny Byrne (footballer)|Johnny Byrne]] (1961–67)
+# '''104''' [[Pop Robson]] (1970–74), (1976–79)
+# '''102''' [[Trevor Brooking]] (1967–84)
+# '''100''' [[Malcolm Musgrove]] (1953–63)
+# '''100''' [[Martin Peters]] (1962–70)
+* [[West Ham United F.C. goal records]]
+|}
+|}
+
+==See also==
+{{Portal|Association football|English football|London}}
+* [[Forbes' list of the most valuable football clubs]]
+* [[West Ham United L.F.C.]], the affiliated women's team
+{{clear}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* {{Cite book | author=Belton, Brian| title="BROWN OUT": The Biography of West Ham Chairmen, Terence Brown | publisher=Pennant Publishing Ltd| year=2007| isbn=978-1-906015-11-4 }}
+* {{Cite book | last=Belton| first=Brian| title=West Ham United Miscellany| publisher=Pennant Books | year=2006| isbn=978-0-9550394-4-7| ref=harv}}
+* {{Cite book | author1=Blows, Kirk  |author2=Hogg, Tony |lastauthoramp=yes | title=The Essential History of West Ham United | publisher=Headline | year=2000| isbn=978-0-7472-7036-2}}
+* {{Cite book | author1=Hellier, John  |author2=Leatherdale, Clive  |lastauthoramp=yes | title=West Ham United: The Elite Era – A Complete Record | publisher=Desert Island| year=2000| isbn=978-1-874287-31-5}}
+* {{Cite book | last=Hogg |first=Tony |title=Who's Who of West Ham United |year=2005 |publisher=Profile Sports Media| isbn= 978-1-903135-50-1}}
+* {{Cite book | author=Kerrigan, Colm | title=Gatling Gun George Hilsdon |publisher=Football Lives |year=1997 | isbn=978-0-9530718-0-7}}
+* {{Cite book | author=Korr, Charles| title=West Ham United: the Making of a Football Club | publisher=University of Illinois Press| year=1986| isbn=978-0-252-01405-5 }}
+* {{Cite book | author1=Nawrat, Chris  |author2=Hutchings, Steve  |lastauthoramp=yes | title = The Sunday Times Illustrated History of Football | publisher=Hamlyn| year=1996 |isbn=978-1-85613-341-8}}
+* {{Cite book | author=Pickering, David | title = The Cassell Soccer Companion | publisher=Cassell | year=1994 |isbn=978-0-304-34231-0}}
+* {{Cite book | author=Redknapp, Harry With Derek McGovern| title=Harry Redknapp – My Autobiography | publisher=HarperCollins | year=1998| isbn=978-0-00-218872-2}}
+* {{Cite book | author1=Ward, Adam  |author2=Smith, Dave |lastauthoramp=yes | title=The Official West Ham United Dream Team | publisher=Hamlyn| year=2003| isbn=978-0-600-60835-6}}
+
+==External links==
+{{Commons category}}
+* {{official website|http://www.whufc.com/}}
+* {{BBC Football Info|BBClinkname=west-ham-united}}
+* [http://www.skysports.com/football/teams/westhamunited West Ham United News – Sky Sports]
+* [http://www.kumb.com/ Knees up Mother Brown (KUMB.com) – the supporters' website]
+
+{{West Ham United F.C.}}
+{{West Ham United F.C. seasons}}
+{{Premier League}}
+{{Football in London}}
+{{LB Newham}}
+{{UEFA Cup Winners' Cup winners}}
+{{UEFA Intertoto Cup winners}}
+
+[[Category:Association football clubs established in 1895]]
+[[Category:Football clubs in England]]
+[[Category:West Ham United F.C.| ]]
+[[Category:Premier League clubs]]
+[[Category:Former English Football League clubs]]
+[[Category:FA Cup winners]]
+[[Category:Football clubs in London]]
+[[Category:Southern Football League clubs]]
+[[Category:1895 establishments in England]]
+[[Category:FIFA (video game series) teams]]</text>
+      <sha1>jxo99twp5php5t3f26ohszjiz3dqj99</sha1>
+    </revision>
+  </page>
+</mediawiki>

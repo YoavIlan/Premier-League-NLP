@@ -1,0 +1,256 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Emerson Hyndman</title>
+    <ns>0</ns>
+    <id>43516018</id>
+    <revision>
+      <id>876360145</id>
+      <parentid>876303569</parentid>
+      <timestamp>2019-01-01T21:57:39Z</timestamp>
+      <contributor>
+        <username>Drake SC</username>
+        <id>32395547</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21145">{{Use mdy dates|date=July 2016}}
+{{Infobox football biography
+| name = Emerson Hyndman
+| image = 
+| image_size = 
+| caption = 
+| fullname = Emerson Schellas Hyndman&lt;ref name="FIFA U-20 World Cup New Zealand 2015 List of Players"&gt;{{Cite web |title=FIFA U-20 World Cup New Zealand 2015 List of Players |url=http://www.fifadata.com/document/FWYC/2015/pdf/FWYC_2015_SquadLists.pdf |format=PDF |page=23 |publisher=[[FIFA]] |date=May 30, 2015 |accessdate=June 1, 2015}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1996|4|9}} &lt;!--You don't need references for every one of these --&gt;
+| birth_place = [[Dallas]], [[Texas]], United States
+| height = {{height|m=1.75}}
+| position = [[Central midfielder]]
+| currentclub = [[A.F.C. Bournemouth]]
+| clubnumber = 22
+| youthyears1 = 
+| youthclubs1 = Dallas Texans
+| youthyears2 = 2010–2011
+| youthclubs2 = [[FC Dallas]]
+| youthyears3 = 2011–2014
+| youthclubs3 = [[Fulham F.C. Academy|Fulham]]
+| years1 = 2014–2016
+| clubs1 = [[Fulham F.C.|Fulham]]
+| caps1 = 25
+| goals1 = 1
+| years2 = 2016–
+| clubs2 = [[A.F.C. Bournemouth|Bournemouth]]
+| caps2 = 1
+| goals2 = 0
+| years3 = 2017
+| clubs3 = → [[Rangers F.C.|Rangers]] (loan)
+| caps3 = 13
+| goals3 = 4
+| years4 = 2018
+| clubs4 = → [[Hibernian F.C.|Hibernian]] (loan)
+| caps4 = 15
+| goals4 = 1
+| pcupdate = 14:48, 1 January 2019 (UTC)
+| nationalyears1 = 2012
+| nationalteam1 = [[United States men's national under-17 soccer team|United States U17]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2014–2015
+| nationalteam2 = [[United States men's national under-20 soccer team|United States U20]]
+| nationalcaps2 = 14
+| nationalgoals2 = 3
+| nationalyears3 = 2014–2016
+| nationalteam3 = [[United States men's national under-23 soccer team|United States U23]]
+| nationalcaps3 = 9
+| nationalgoals3 = 1
+| nationalyears4 = 2014–
+| nationalteam4 = [[United States men's national soccer team|United States]]
+| nationalcaps4 = 2
+| nationalgoals4 = 0
+| nationalteam-update = May 13, 2018
+}}
+'''Emerson Schellas Hyndman''' (born April 9, 1996) is an American [[association football|soccer]] player who plays for [[A.F.C. Bournemouth|AFC Bournemouth]], and the [[United States men's national soccer team|United States national team]]. Hyndman, who plays as a [[midfielder]], has also previously played for [[Fulham F.C.|Fulham]], [[Rangers F.C.|Rangers]] and [[Hibernian F.C.|Hibernian]].
+
+==Club career==
+
+Born in [[Dallas]], Hyndman started his career in the [[U.S. Soccer Development Academy]] with the Dallas Texans before moving on to joining [[FC Dallas]] in 2010.&lt;ref&gt;{{cite web|url=http://www.fcdallas.com/post/2011/02/18/fc-dallas-signs-goalkeeper-richard-sanchez|title=FC Dallas signs goalkeeper Richard Sanchez|publisher=FC Dallas Website|date=February 18, 2011|accessdate=June 21, 2016|archiveurl=https://web.archive.org/web/20160621194546/http://www.fcdallas.com/post/2011/02/18/fc-dallas-signs-goalkeeper-richard-sanchez|archivedate=June 21, 2016|deadurl=no}}&lt;/ref&gt; During his time at FC Dallas, Hyndman attracted interest from [[Newcastle United F.C.|Newcastle United]] after the club's director of football [[Dennis Wise]] saw him play, but ultimately Wise opted not to pursue him further.&lt;ref&gt;{{cite news|title=Five-a-side: What's hot around the league|url=http://www.mlssoccer.com/post/2010/01/23/five-side-whats-hot-around-league-11|publisher=Major League Soccer Website|date=January 23, 2010|accessdate=June 21, 2016}}&lt;/ref&gt;
+
+===Fulham===
+Hyndman joined the [[Fulham F.C. Academy|Fulham youth academy]] in 2011 aged 15.&lt;ref&gt;[http://www.yanks-abroad.com/content.php?mode=show&amp;id=10810 "HYNDMAN EMBRACES FULHAM LEGACY"], Yanks Abroad, August 20, 2013. Retrieved August 10, 2014.&lt;/ref&gt; Hyndman revealed that the then club's head of youth development, Huw Jennings, convinced him to join the club.&lt;ref&gt;{{cite news|title=The Throw-In: "Fulhamerica" is gone, but does it matter?|url=http://www.mlssoccer.com/post/2012/12/20/throw-fulhamerica-gone-does-it-matter|publisher=Major League Soccer Website|date=December 20, 2012|accessdate=June 21, 2016}}&lt;/ref&gt; Hyndman revealed that moving to England was tough initially, but that he soon settled in thanks to the club.&lt;ref&gt;{{cite web|url=http://www.fulhamfc.com/news/2013/march/22/hyndmans-homecoming|title=Hyndman's Homecoming|publisher=Fulham F.C.|date=March 22, 2013|accessdate=June 21, 2016|archiveurl=https://web.archive.org/web/20140420204010/http://www.fulhamfc.com/news/2013/march/22/hyndmans-homecoming|archivedate=April 20, 2014 |deadurl=no}}&lt;/ref&gt; In 2012, Hyndman signed his first professional contract with the club.&lt;ref&gt;{{cite web|url=http://www.fulhamfc.com/kids-zone/ffc-news/2013/november/05/through-the-ranks-rodak|title=Through The Ranks: Emerson Hyndman|publisher=Fulham F.C.|date=November 5, 2013|accessdate=June 21, 2016|archiveurl=https://web.archive.org/web/20150912102028/http://www.fulhamfc.com/kids-zone/ffc-news/2013/november/05/through-the-ranks-rodak|archivedate=September 12, 2015 |deadurl=no}}&lt;/ref&gt;
+
+On August 9, 2014, Hyndman made his professional debut for [[Fulham F.C.|Fulham]] in a [[Football League Championship|Championship]] fixture against [[Ipswich Town F.C.|Ipswich Town]], starting and playing 90 minutes in a 2–1 loss.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/28646535|title=Match Report|work=BBC.com|date=August 9, 2014}}&lt;/ref&gt; In his first season at Fulham, Hyndman made nine league appearances, due to playing in the reserves, being on the substitute bench and being sidelined with a broken collarbone.&lt;ref&gt;{{cite news|title=Sources: Emerson Hyndman sidelined with broken collarbone|url=http://www.goal.com/en-us/news/66/united-states/2015/01/29/8428482/sources-emerson-hyndman-sidelined-with-broken-collarbone|publisher=Goal.com|date=January 29, 2015|accessdate=June 21, 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.fulhamfc.com/news/2015/march/19/hyndman-cottage-return|title=Hyndman: Cottage Return|publisher=Fulham F.C.|date=March 19, 2015|accessdate=June 21, 2016|archiveurl=https://web.archive.org/web/20151028061833/http://www.fulhamfc.com/news/2015/march/19/hyndman-cottage-return|archivedate=October 28, 2015 |deadurl=no}}&lt;/ref&gt;
+
+In the 2015–16 season, it was reported by [[Goal.com]] that Hyndman turned down a contract extension twice with the club, leading to attracting interests.&lt;ref&gt;{{cite news|title=American Exports: U-20 standout Emerson Hyndman turns down extension offers with Fulham|url=http://www.mlssoccer.com/post/2015/08/05/american-exports-u-20-standout-emerson-hyndman-turns-down-extension-offers-fulham|publisher=MLSsoccer.com|date=August 5, 2015|accessdate=June 21, 2016}}&lt;/ref&gt; By September, Hyndman would stay at the club.&lt;ref&gt;{{cite news|title=Sources: Emerson Hyndman to stay at Fulham|url=http://www.goal.com/en-us/news/66/united-states/2015/08/31/14927412/sources-emerson-hyndman-to-stay-at-fulham|publisher=Goal.com|date=August 31, 2015|accessdate=June 21, 2016}}&lt;/ref&gt; Hyndman made his first appearance of 2015–16 season, playing 90 minutes, in a 1–0 loss against [[Stoke City F.C.|Stoke City]] in the third round of [[2015–16 Football League Cup|League Cup]].&lt;ref&gt;{{cite news|title=Fulham 0-1 Stoke City: Peter Crouch puts Potters through in Capital One Cup|url=http://www.skysports.com/football/fulham-vs-stoke/351310|publisher=Sky Sports|date=September 22, 2015|accessdate=June 21, 2016}}&lt;/ref&gt; After spending months in the reserves, Hyndman's first league appearance came on December 5, 2015, coming on as a substitute, in a 3–0 loss against [[Nottingham Forest F.C.|Nottingham Forest]].&lt;ref&gt;{{cite news|title=Nottingham Forest 3-0 Fulham|url=https://www.bbc.co.uk/sport/football/34951381|publisher=BBC Sport|date=December 5, 2015|accessdate=June 21, 2016}}&lt;/ref&gt; Following this, Hyndman was given a string of regular first team football, though he was left out of the starting eleven on more than one occasion when Fulham faced relegation.&lt;ref&gt;{{cite news|title=Fulham boss on Emerson Hyndman – and why USA international is being kept out of harm's way|url=http://www.getwestlondon.co.uk/sport/football/football-news/fulham-boss-emerson-hyndman-usa-11036567|publisher=Get West London|date=March 14, 2016|accessdate=June 21, 2016}}&lt;/ref&gt; Despite this, Hyndman scored his first professional goal against [[Cardiff City F.C.|Cardiff City]] on his 20th birthday.&lt;ref&gt;{{cite news|title=Fulham 2–1 Cardiff City|url=https://www.bbc.co.uk/sport/football/35948814|publisher=BBC Sport|date=April 9, 2016|accessdate=June 21, 2016}}&lt;/ref&gt; After the match, in which he scored the winning goal, Hyndman was named Man of the Match for his performance.&lt;ref&gt;{{cite web|url=http://www.fulhamfc.com/news/2016/april/11/man-of-the-match-result|title=Man Of The Match Result|publisher=Fulham F.C.|date=April 11, 2016|accessdate=June 21, 2016|archiveurl=https://web.archive.org/web/20160621211146/http://www.fulhamfc.com/news/2016/april/11/man-of-the-match-result|archivedate=June 21, 2016|deadurl=no}}&lt;/ref&gt;
+
+At the end of the season, manager [[Slaviša Jokanović]] stated Hyndman could leave the club with his blessing&lt;ref&gt;{{cite news|title=Fulham manager maintains neither Manchester United target Moussa Dembele nor Emerson Hyndman will leave with his blessing|url=http://www.getwestlondon.co.uk/sport/football/football-news/fulham-manager-maintains-neither-manchester-10744706|publisher=Get West London|date=January 17, 2016|accessdate=June 21, 2016}}&lt;/ref&gt; On May 15, 2016, [[ESPN]] reported that Hyndman would leave Fulham when his contract expires, although it revealed that Fulham would get compensation as a result for Hyndman's departure.&lt;ref&gt;{{cite news|title=Emerson Hyndman to leave Fulham in summer, according to source|url=http://www.espnfc.co.uk/fulham/story/2873709/emerson-hyndman-to-leave-fulham-in-summer-source|publisher=ESPN|date=June 15, 2016|accessdate=June 21, 2016}}&lt;/ref&gt;
+
+===AFC Bournemouth===
+====2016–17: loan to Rangers====
+On June 17, 2016, Hyndman signed a four-year deal with [[A.F.C. Bournemouth|AFC Bournemouth]] of the [[Premier League]]. He made his first appearance in a League Cup match against [[Morecambe F.C.|Morecambe]].&lt;ref&gt;{{cite news
+|url=https://www.bbc.co.uk/sport/football/37103116|title=Morecambe 1-2 Bournemouth |publisher=BBC Sport|date=24 August 2016|accessdate=4 November 2016}}&lt;/ref&gt;
+
+On January 9, 2017, Hyndman signed for [[Scottish Premiership]] club [[Rangers F.C.|Rangers]] until the end of the [[2016–17 Scottish Premiership|2016–17 season]].&lt;ref&gt;{{ cite news | url=https://rangers.co.uk/news/headlines/hyndman-joins-gers/ | title=Hyndman Joins The Gers | date=9 January 2017| work=Rangers.co.uk | publisher=Rangers Football Club }}&lt;/ref&gt;&lt;ref&gt;{{ cite news | url=https://www.bbc.co.uk/sport/football/38548416| title=Emerson Hyndman: Rangers complete loan deal for Bournemouth midfielder| publisher=BBC Sport | date=9 January 2017 | first=Richard | last=Wilson }}&lt;/ref&gt; Hyndman made his Rangers debut in a [[Scottish Cup]] win over [[Motherwell F.C.|Motherwell]] at [[Ibrox Stadium]] on 21 January 2017,&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/football/38620153 | title=Rangers 2-1 Motherwell| publisher=BBC Sport | date=21 January 2017 |first=Andy |last=Campbell| accessdate=21 January 2017}}&lt;/ref&gt; and scored his first goal for the club against the same opponents a week later.&lt;ref&gt;{{cite news|url=http://spfl.co.uk/premiership/fixture/3638014/|title=Motherwell 0-2 Rangers|publisher=SPFL|date=28 January 2017|accessdate=28 January 2017}}&lt;/ref&gt; He was selected as [[Rangers F.C.|Rangers]] Young Player of the Year for [[2016–17 Rangers F.C. season|2016–17]], despite only joining the club in January.&lt;ref&gt;{{cite web | url=https://www.thescottishsun.co.uk/sport/football/908342/wes-foderingham-clint-hill-kenny-miller-find-out-who-won-rangers-player-of-the-year/ | title=SIMPLY THE BEST Wes Foderingham, Clint Hill, Kenny Miller? Find out who won Rangers Player of the Year | work=[[The Scottish Sun]] | date=23 April 2017 | accessdate=22 April 2017}}&lt;/ref&gt;
+
+====2017–18====
+Hyndman returned to Bournemouth after his loan spell with Rangers, but made limited appearances during the 2017–18 season. He appeared in one [[EFL Cup]] tie and two [[FA Cup]] matches, then made his [[Premier League]] debut in May 2018.&lt;ref&gt;{{cite news |url=http://www.bournemouthecho.co.uk/sport/16225285.Premier_League_debut_will_do_Hyndman___39_the_world_of_good__39_/ |title=Premier League debut will do Hyndman 'the world of good' |work=Bournemouth Echo |publisher= |date=14 May 2018 |accessdate=8 August 2018}}&lt;/ref&gt;
+
+====2018–19: loan to Hibernian====
+Hyndman was loaned to Scottish Premiership club [[Hibernian F.C.|Hibernian]] in August 2018, on a deal due to run until January 2019.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/45121851 |title=Emerson Hyndman: Bournemouth midfielder joins Hibernian on loan |work= |publisher=BBC Sport |date=8 August 2018 |accessdate=8 August 2018}}&lt;/ref&gt; He scored his first goal for the club in a 6–0 win against [[Hamilton Academical]] on 6 October 2018.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45688828|title=Hibernian 6-0 Hamilton |publisher=BBC Sport |date=6 October 2018|accessdate=7 October 2018}}&lt;/ref&gt; Hyndman returned to Bournemouth at the end of his loan with Hibernian.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/46729230 |title=Emerson Hyndman: Bournemouth midfielder returns from Hibernian at end of loan spell |work= |publisher=BBC Sport |date=1 January 2019 |accessdate=1 January 2019}}&lt;/ref&gt;
+
+==International career==
+Hyndman represented the United States at [[United States men's under-17 national soccer team|under-17]] level in 2012.&lt;ref&gt;http://www.ussoccer.com/us-under17-mens-national-team/stats/2012-statistics&lt;/ref&gt; He received his first senior call up in August 2014 after making three first team appearances for Fulham.&lt;ref&gt;{{cite news|title=Seattle Sounders academy attacker Jordan Morris, World Cup vet Julian Green highlight USMNT roster vs. Czech Republic|url=http://www.mlssoccer.com/post/2014/08/28/seattle-sounders-academy-attacker-jordan-morris-world-cup-vet-julian-green-highlight|publisher=MLS Soccer Website|date=August 28, 2014}}&lt;/ref&gt; On August 28, 2014, he was selected to the [[United States men's national soccer team|senior national team]] for their game against the [[Czech Republic national football team|Czech Republic]] on September 3.&lt;ref&gt;{{cite news|title=Geoff Cameron ruled out of US national team for friendly in Czech Republic|url=http://www.mlssoccer.com/post/2014/08/31/geoff-cameron-ruled-out-us-national-team-friendly-czech-republic|publisher=MLS Website|date=August 31, 2014|accessdate=June 21, 2016}}&lt;/ref&gt;  He made his senior team debut during the match, being subbed on in the 67th minute.&lt;ref&gt;{{cite web|url=http://www.fulhamfc.com/news/2014/september/04/hyndmans-us-debut|title=Emerson Hyndman's US Debut|publisher=Fulham F.C.|date=September 4, 2014|accessdate=June 21, 2016|archiveurl=https://web.archive.org/web/20140909110819/http://www.fulhamfc.com/news/2014/september/04/hyndmans-us-debut|archivedate=September 9, 2014 |deadurl=no}}&lt;/ref&gt;
+
+In May 2015, Hyndman captained the [[United States men's national under-20 soccer team|United States]] side in the [[2015 FIFA U-20 World Cup]] in New Zealand. In his first match of the tournament, Hyndman scored the game winner to defeat [[Myanmar national under-20 football team|Myanmar]] 2–1.&lt;ref&gt;{{cite web|url=http://www.ussoccer.com/stories/2015/05/30/01/13/150530-u20mnt-v-mya-gamestory|title=U-20 MNT KICKS OFF 2015 U-20 WORLD CUP WITH 2-1 WIN OVER MYANMAR|work=USSoccer.com}}&lt;/ref&gt;
+
+==Personal life==
+Hyndman is the grandson of former [[FC Dallas]] manager [[Schellas Hyndman]].&lt;ref name="American Exports"&gt;{{cite web|title=American Exports: Emerson Hyndman stars in Fulham's win vs. Chelsea in FA Youth Cup final|url=http://www.mlssoccer.com/news/article/2014/04/28/american-exports-emerson-hyndman-stars-fulhams-1st-leg-win-fa-youth-cup-fina|website=MLS Soccer|publisher=MLS|accessdate=August 9, 2014|archiveurl=https://web.archive.org/web/20140429134901/http://www.mlssoccer.com/news/article/2014/04/28/american-exports-emerson-hyndman-stars-fulhams-1st-leg-win-fa-youth-cup-fina|archivedate=April 29, 2014 }}&lt;/ref&gt; He holds Portuguese citizenship through his family history.&lt;ref name=Homecoming&gt;{{cite web|title=Emerson Hyndman Has Homecoming at Dallas Cup|url=http://americansoccernow.com/articles/emerson-hyndman-has-homecoming-at-dallas-cup|publisher=American Soccer Now LLC|accessdate=August 9, 2014|archiveurl=https://web.archive.org/web/20140809172422/http://americansoccernow.com/articles/emerson-hyndman-has-homecoming-at-dallas-cup|archivedate=August 9, 2014}}&lt;/ref&gt;
+
+While growing up in United States, Hyndman excelled in baseball, basketball and soccer, but preferred soccer, as he stated he loved kicking a ball from a young age.&lt;ref&gt;{{cite news|title=Emerson Hyndman|url=http://www.fulhamfc.com/kids-zone/academy-access/emerson-hyndman|publisher=Fulham F.C.|date=April 3, 2013|accessdate=June 21, 2016|archiveurl=https://web.archive.org/web/20160621202324/http://www.fulhamfc.com/kids-zone/academy-access/emerson-hyndman|archivedate=June 21, 2016|deadurl=no}}&lt;/ref&gt;
+
+==Career statistics==
+===Club===
+{{updated|14:48, 1 January 2019 (UTC)}}&lt;ref&gt;{{Soccerbase|id=76795}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup
+!colspan=2|League Cup
+!colspan=2|Europe
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3 valign="center"|[[Fulham F.C.|Fulham]]
+|[[2014–15 Fulham F.C. season|2014–15]]&lt;ref name="14/15 appearances"&gt;{{Soccerbase season|76795|2014|name=Emerson Hyndman|access-date=January 28, 2017}}&lt;/ref&gt;
+|rowspan=2| [[EFL Championship|Championship]]
+|9||0||0||0||2||0||colspan=2|—||11||0
+|-
+|[[2015–16 Fulham F.C. season|2015–16]]&lt;ref name="15/16 appearances"&gt;{{Soccerbase season|76795|2015|name=Emerson Hyndman|access-date=January 28, 2017}}&lt;/ref&gt;
+|16||1||0||0||1||0||colspan=2|—||17||1
+|-
+!colspan=2|Total
+!25!!1!!0!!0!!3!!0!!colspan=2|—!!28!!1
+|-
+|rowspan=4 valign="center"|[[A.F.C. Bournemouth|Bournemouth]]
+|[[2016–17 A.F.C. Bournemouth season|2016–17]]&lt;ref name="16/17 appearances"&gt;{{Soccerbase season|76795|2016|name=Emerson Hyndman|access-date=January 28, 2017}}&lt;/ref&gt;
+|rowspan=3| [[Premier League]]
+|colspan="2"|—||1||0||2||0||colspan=2|—||3||0
+|-
+|[[2017–18 A.F.C. Bournemouth season|2017–18]]
+|1||0||2||0||1||0||colspan=2|—||4||0
+|-
+|[[2018–19 A.F.C. Bournemouth season|2018–19]]
+|colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—
+|-
+!colspan=2|Total
+!1!!0!!3!!0!!3!!0!!colspan=2|—!!7!!0
+|-
+|rowspan=1 valign="center"|[[Rangers F.C.|Rangers]] (loan)
+|[[2016–17 Rangers F.C. season|2016–17]]&lt;ref name="16/17 appearances"/&gt;
+|rowspan=2| [[Scottish Premiership]]
+|13||4||4||0||colspan=2|—||colspan=2|—||17||4
+|-
+|rowspan=1 valign="center"|[[Hibernian F.C.|Hibernian]] (loan)
+|[[2018–19 Hibernian F.C. season|2018–19]]&lt;ref group = "note"&gt;Soccerbase did not record appearances made by Hyndman against [[Molde FK|Molde]] on [https://www.bbc.co.uk/sport/football/45087958 9 August] or [https://www.bbc.co.uk/sport/football/45175150 16 August 2018].&lt;/ref&gt;
+|15||1||colspan="2"|—||2||0||2||0||19||1
+|-
+!colspan=3|Career total
+!54!!6!!7!!0!!8!!0!!2!!0!!71!!6
+|}
+
+===International appearances===
+{{updated|match played May 22, 2016}}&lt;ref name="international stats"&gt;{{cite web |title=Hyndman, Emerson |url=http://www.national-football-teams.com/player/56785/Emerson_Hyndman.html |publisher=National Football Teams |accessdate=January 28, 2017 }}&lt;/ref&gt;
+
+{|class="wikitable" style="text-align:center"
+!colspan=3|[[United States men's national soccer team|United States national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2014||1||0
+|-
+|2015||0||0
+|-
+|2016||1||0
+|-
+!Total||2||0
+|}
+
+==Notes==
+&lt;references group = "note"/&gt;
+
+==References==
+{{Reflist}}
+{{A.F.C. Bournemouth squad}}
+
+{{DEFAULTSORT:Hyndman, Emerson}}
+[[Category:Living people]]
+[[Category:1996 births]]
+[[Category:People from Dallas]]
+[[Category:American people of Macanese descent]]
+[[Category:American people of Portuguese descent]]
+[[Category:American soccer players]]
+[[Category:American expatriate soccer players]]
+[[Category:American expatriate sportspeople in the United Kingdom]]
+[[Category:Expatriate footballers in England]]
+[[Category:Expatriate footballers in Scotland]]
+[[Category:Soccer players from Texas]]
+[[Category:Association football midfielders]]
+[[Category:United States men's youth international soccer players]]
+[[Category:United States men's under-20 international soccer players]]
+[[Category:United States men's under-23 international soccer players]]
+[[Category:United States men's international soccer players]]
+[[Category:Fulham F.C. players]]
+[[Category:Rangers F.C. players]]
+[[Category:A.F.C. Bournemouth players]]
+[[Category:English Football League players]]
+[[Category:Scottish Professional Football League players]]
+[[Category:2015 CONCACAF U-20 Championship players]]
+[[Category:Hibernian F.C. players]]</text>
+      <sha1>6h04inofipdlq1vu5kq1d355vp6a77o</sha1>
+    </revision>
+  </page>
+</mediawiki>
