@@ -3,7 +3,7 @@
     <sitename>Wikipedia</sitename>
     <dbname>enwiki</dbname>
     <base>https://en.wikipedia.org/wiki/Main_Page</base>
-    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <generator>MediaWiki 1.33.0-wmf.22</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -323,9 +323,9 @@ Speroni is also on the board of reference for Christian Solidarity Worldwide (CS
     <ns>0</ns>
     <id>23918527</id>
     <revision>
-      <id>885843300</id>
-      <parentid>885734524</parentid>
-      <timestamp>2019-03-02T18:21:44Z</timestamp>
+      <id>886965741</id>
+      <parentid>886409364</parentid>
+      <timestamp>2019-03-09T18:45:12Z</timestamp>
       <contributor>
         <username>Eagleash</username>
         <id>17699731</id>
@@ -333,7 +333,7 @@ Speroni is also on the board of reference for Christian Solidarity Worldwide (CS
       <comment>updating</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="24761">{{EngvarB|date=April 2013}}
+      <text xml:space="preserve" bytes="24770">{{EngvarB|date=April 2013}}
 {{Use dmy dates|date=April 2013}}
 {{Infobox football biography
 | fullname = Patrick John Miguel van Aanholt&lt;ref&gt;{{cite web |title=Squads for 2016/17 Premier League confirmed |url=https://www.premierleague.com/news/84136 |publisher=Premier League |date=1 September 2016 |accessdate=15 September 2016}}&lt;/ref&gt;
@@ -390,7 +390,7 @@ Speroni is also on the board of reference for Christian Solidarity Worldwide (CS
 | goals7 = 7
 | years8 = 2017–
 | clubs8 = [[Crystal Palace F.C.|Crystal Palace]]
-| caps8 = 68
+| caps8 = 69
 | goals8 = 8
 | nationalyears3 = 2007–2008
 | nationalteam3 = Netherlands U18
@@ -412,7 +412,7 @@ Speroni is also on the board of reference for Christian Solidarity Worldwide (CS
 | nationalteam7 = [[Netherlands national football team|Netherlands]]
 | nationalcaps7 = 9
 | nationalgoals7 = 0
-| pcupdate = 18:21, 2 March 2019 (UTC)
+| pcupdate = 18:44, 9 March 2019 (UTC)
 | nationalteam-update = 16 October 2018
 }}
 
@@ -474,7 +474,7 @@ In September 2017, Van Aanholt was called up to the [[Curaçao national football
 He was included in [[Ronald Koeman]]’s first starting line up when [[Dutch national football team|Holland]] took on [[England national football team|England]] on March 23, 2018 in a friendly international.&lt;ref&gt;{{cite web|url=https://www.cpfc.co.uk/news/2018/march/van-aanholt-wins-seventh-dutch-cap/|title=Van Aanholt Wins Seventh Netherlands Cap|publisher=}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 2 March 2019.}}&lt;ref&gt;{{cite news|url=http://www.soccerbase.com/players/player.sd?player_id=51881|title=Games played by Patrick van Aanholt|date=16 November 2013|accessdate=16 November 2013}}&lt;br /&gt;&lt;br /&gt;*League Only as Soccerbase don't count Dutch Cup and Europa League matches for whatever reason*&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://espnfc.com/player/_/id/138746/patrick-van-aanholt?cc=5739|title=Patrick van Aanholt Appearances|date=16 November 2013|accessdate=16 November 2013}}&lt;br /&gt;&lt;br /&gt;*Listed ESPNFC ref as it shows he has indeed played in the Dutch Cup and Europa League*&lt;/ref&gt;
+{{updated|match played 9 March 2019.}}&lt;ref&gt;{{cite news|url=http://www.soccerbase.com/players/player.sd?player_id=51881|title=Games played by Patrick van Aanholt|date=16 November 2013|accessdate=16 November 2013}}&lt;br /&gt;&lt;br /&gt;*League Only as Soccerbase don't count Dutch Cup and Europa League matches for whatever reason*&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://espnfc.com/player/_/id/138746/patrick-van-aanholt?cc=5739|title=Patrick van Aanholt Appearances|date=16 November 2013|accessdate=16 November 2013}}&lt;br /&gt;&lt;br /&gt;*Listed ESPNFC ref as it shows he has indeed played in the Dutch Cup and Europa League*&lt;/ref&gt;
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -548,13 +548,13 @@ He was included in [[Ronald Koeman]]’s first starting line up when [[Dutch nat
 |28||5||1||0||3||0||colspan=2| — ||32||5
 |-
 |[[2018–19 Crystal Palace F.C. season|2018–19]]
-|29||1||2||0||1||1||colspan=2| — ||32||2
+|30||1||2||0||1||1||colspan=2| — ||33||2
 |-
 ! colspan=3 | Crystal Palace total
-!68||8||3||0||4||1||0||0||75||9
+!69||8||3||0||4||1||0||0||76||9
 |-
 ! colspan=3 | Career total
-!263||21||19||2||12||2||10||1||304||26
+!264||21||19||2||12||2||10||1||305||26
 |}
 
 ==References==
@@ -564,7 +564,7 @@ He was included in [[Ronald Koeman]]’s first starting line up when [[Dutch nat
 {{Commons category|Patrick van Aanholt}}
 * {{Soccerbase}}
 * [https://www.vi.nl/spelers/patrick-van-aanholt/profiel Patrick van Aanholt] at ''[[Voetbal International]]'' {{nl icon}}
-* {{ESPN FC|138746/patrick-van-aanholt}}
+* {{ESPN FC|138746&lt;!-- /patrick-van-aanholt --&gt;}}
 * {{Webarchive |url=https://web.archive.org/web/20141217100008/http://www.onsoranje.nl/team-statistieken/teams/speler/22/4f8c4268-2a74c715-018736 |title=Netherlands U17 profile at OnsOranje }}
 * {{Webarchive |url=https://web.archive.org/web/20141217100235/http://www.onsoranje.nl/team-statistieken/teams/speler/20/4f8c4268-2a74c715-018736 |title=Netherlands U19 profile at OnsOranje }}
 * {{Webarchive |url=https://web.archive.org/web/20120922000521/http://onsoranje.nl/team-statistieken/teams/speler/25/4f8c4268-2a74c715-018736 |title=Netherlands U21 profile at OnsOranje }}
@@ -595,7 +595,7 @@ He was included in [[Ronald Koeman]]’s first starting line up when [[Dutch nat
 [[Category:Expatriate footballers in England]]
 [[Category:Dutch expatriate sportspeople in England]]
 [[Category:Dutch people of Curaçao descent]]</text>
-      <sha1>i3e7u7vs5vyii9gm7rvyky2f0bhyrq0</sha1>
+      <sha1>91fwgbrdig9j8mwqwp3uv9jdarlz3e9</sha1>
     </revision>
   </page>
   <page>
@@ -603,18 +603,18 @@ He was included in [[Ronald Koeman]]’s first starting line up when [[Dutch nat
     <ns>0</ns>
     <id>32994566</id>
     <revision>
-      <id>885965437</id>
-      <parentid>885964594</parentid>
-      <timestamp>2019-03-03T13:36:13Z</timestamp>
+      <id>888359664</id>
+      <parentid>888354884</parentid>
+      <timestamp>2019-03-18T16:50:47Z</timestamp>
       <contributor>
-        <username>Arjayay</username>
-        <id>5718152</id>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
       <minor/>
-      <comment>Reverted edits by [[Special:Contribs/94.189.183.220|94.189.183.220]] ([[User talk:94.189.183.220|talk]]) to last version by Eagleash</comment>
+      <comment>Reverted 4 edits by [[Special:Contributions/95.168.124.157|95.168.124.157]] ([[User talk:95.168.124.157|talk]]) to last revision by Eagleash ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="15672">{{Use dmy dates|date=June 2018}}
+      <text xml:space="preserve" bytes="19334">{{Use dmy dates|date=June 2018}}
 {{Infobox football biography
 | name        = Luka Milivojević
 | image       = Milivojevic 2018.jpg
@@ -632,13 +632,15 @@ He was included in [[Ronald Koeman]]’s first starting line up when [[Dutch nat
 | years3      = 2012–2013 | clubs3 = [[Red Star Belgrade]]                          | caps3 = 36 | goals3 = 7
 | years4      = 2013–2014 | clubs4 = [[R.S.C. Anderlecht|Anderlecht]]               | caps4 = 19 | goals4 = 0
 | years5      = 2014–2017 | clubs5 = [[Olympiacos F.C.|Olympiacos]]                 | caps5 = 62 | goals5 = 11
-| years6      = 2017–     | clubs6 = [[Crystal Palace F.C.|Crystal Palace]]         | caps6 = 79 | goals6 = 20
+| years6      = 2017–     | clubs6 = [[Crystal Palace F.C.|Crystal Palace]]         | caps6 = 80 | goals6 = 21
 | nationalyears1 = 2011–2012 | nationalteam1 = [[Serbia national under-21 football team|Serbia U21]] | nationalcaps1 = 11 | nationalgoals1 = 1
 | nationalyears2 = 2012–     | nationalteam2 = [[Serbia national football team|Serbia]]              | nationalcaps2 = 30 | nationalgoals2 = 1
-| pcupdate = 18:43, 2 March 2019 (UTC)
+| pcupdate = 14:44, 9 March 2019 (UTC)
 | ntupdate = 22 June 2018
 }}
 '''Luka Milivojević''' ({{lang-sr-Cyrl|Лука Миливојевић}}, {{IPA-sh|lûːka miliʋǒːjeʋitɕ|pron}}; born 7 April 1991) is a Serbian professional [[Association football|footballer]] who plays as a [[midfielder]] and [[Captain (association football)|captains]] {{English football updater|CrystalP}} club [[Crystal Palace F.C.|Crystal Palace]] and the [[Serbia national football team|Serbian national team]].
+
+He began his career with [[FK Radnički Kragujevac|Radnički Kragujevac]] and then played for [[FK Rad|Rad]] before signing for [[Red Star Belgrade]] in January 2012. He later won the [[Belgian Pro League]] with [[R.S.C. Anderlecht|Anderlecht]] and [[Superleague Greece]] twice with [[Olympiacos F.C.|Olympiacos]] before a €16 million transfer to Crystal Palace in January 2017. Milivojević made his international debut for Serbia in 2012 and was part of their squad at the [[2018 FIFA World Cup]].
 
 ==Club career==
 ===Early years===
@@ -657,7 +659,11 @@ On 4 June 2015, Anderlecht confirmed that it had reached an agreement with Olymp
 
 ===Crystal Palace===
 [[File:Manchester United v Crystal Palace, 30 September 2017 (12).jpg|thumb|Milivojević in action against [[Manchester United F.C.|Manchester United]]]]
-On 31 January 2017, Milivojević signed for Crystal Palace on a three-and-a-half year contract for almost €16 million.&lt;ref&gt;{{cite news|title=Milivojevic Joins The Eagles|url=https://www.cpfc.co.uk/news/2017/january/milivojevic-joins-the-eagles/|publisher=Crystal Palace Official Site|accessdate=31 January 2017}}&lt;/ref&gt; On 10 April 2017, he scored his first goal for Palace with a penalty kick in his team's 3–0 home win over [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{Cite news|url=https://www.theguardian.com/football/live/2017/apr/10/crystal-palace-v-arsenal-premier-league-live|title=Crystal Palace v Arsenal: Premier League – live!|last=Butler|first=Michael|date=10 April 2017|work=The Guardian|access-date=10 April 2017|language=en-GB|issn=0261-3077}}&lt;/ref&gt;
+On 31 January 2017, Milivojević signed for Crystal Palace on a three-and-a-half year contract for almost €16 million.&lt;ref&gt;{{cite news|title=Milivojevic Joins The Eagles|url=https://www.cpfc.co.uk/news/2017/january/milivojevic-joins-the-eagles/|publisher=Crystal Palace Official Site|accessdate=31 January 2017}}&lt;/ref&gt; On 10 April 2017, he scored his first goal for Palace with a penalty kick in his team's 3–0 home win over [[Arsenal F.C.|Arsenal]],&lt;ref&gt;{{Cite news|url=https://www.theguardian.com/football/live/2017/apr/10/crystal-palace-v-arsenal-premier-league-live|title=Crystal Palace v Arsenal: Premier League – live!|last=Butler|first=Michael|date=10 April 2017|work=The Guardian|access-date=10 April 2017|language=en-GB|issn=0261-3077}}&lt;/ref&gt; and got his other goal of the season on 14 May in a 4–0 win at [[Selhurst Park]] against [[Hull City A.F.C.|Hull City]], which secured his team's place in the top flight for next season and relegated the opponents.&lt;ref&gt;{{cite news |last1=Johnston |first1=Neil |title=Crystal Palace 4–0 Hull City |url=https://www.bbc.co.uk/sport/football/39833968 |accessdate=11 March 2019 |publisher=BBC Sport |date=14 May 2017}}&lt;/ref&gt;
+
+In 2017–18, Milivojević was Palace's top scorer with 10 goals as the Eagles recovered from a poor start to the season to finish 11th under new manager [[Roy Hodgson]].&lt;ref&gt;{{cite news |title=Crystal Palace 2017/18 Premier League season review |url=https://www.skysports.com/football/news/11706/11371101/crystal-palace-201718-premier-league-season-review |accessdate=11 March 2019 |publisher=Sky Sports |date=13 May 2018}}&lt;/ref&gt; He developed a reputation for taking penalties, scoring nine of the ten he took in his first 1{{frac|1|2}} seasons with Palace; he had never taken a penalty in a professional match before.&lt;ref&gt;{{cite news |title=Milivojevic: Last 16 would be huge for Serbia |url=https://www.fifa.com/worldcup/news/milivojevic-last-16-would-be-huge-for-serbia |accessdate=11 March 2019 |publisher=FIFA |date=14 May 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Milivojevic leads the way with penalty prowess |url=https://www.premierleague.com/news/646864 |accessdate=11 March 2019 |publisher=Premier League |date=21 March 2018}}&lt;/ref&gt; The one he did miss was on 31 December 2017 in added time at the end of a goalless draw against [[Manchester City F.C.|Manchester City]], with [[Ederson Moraes|Ederson]] making a save for the team who had won their last 18 matches.&lt;ref&gt;{{cite news |last1=Delaney |first1=Miguel |title=Luka Milivojevic misses stoppage-time penalty as Crystal Palace end Manchester City's winning run |url=https://www.independent.co.uk/sport/football/premier-league/crystal-palace-manchester-city-luka-milivojevic-penalty-gabriel-jesus-injury-a8135726.html |accessdate=11 March 2019 |work=The Independent |date=31 December 2017}}&lt;/ref&gt;
+
+On 28 October 2018, Milivojević scored two penalties in a 2–2 home draw with Arsenal, ending the visitors' run of 12 consecutive victories.&lt;ref&gt;{{cite news |last1=Fifield |first1=Dominic |title=Crystal Palace’s Luka Milivojevic holds his nerve to end Arsenal’s winning run |url=https://www.theguardian.com/football/2018/oct/28/crystal-palace-arsenal-premier-league-match-report |accessdate=11 March 2019 |work=The Guardian |date=28 October 2018}}&lt;/ref&gt; Away to Manchester City on 22 December, he scored the winning goal from the penalty spot in a 3–2 victory over the title holders.&lt;ref&gt;{{cite news |last1=Khan |first1=Alam |title=Manchester City vs Crystal Palace: Stunning defeat hands Liverpool the edge in title race |url=https://www.independent.co.uk/sport/football/premier-league/manchester-city-vs-crystal-palace-report-result-goals-league-andros-townsend-volley-watch-video-a8696211.html |accessdate=11 March 2019 |work=The Independent |date=22 December 2017}}&lt;/ref&gt;
 
 ==International career==
 He was a member of the [[Serbia national under-21 football team]]. He had been called up for the [[Serbia national football team]] squad on 29 September 2011, to face [[Italy national football team|Italy]] and [[Slovenia national football team|Slovenia]] in the [[UEFA Euro 2012 qualifying|UEFA Euro 2012 qualifying phase]].&lt;ref&gt;[http://www.sportske.net/vest/domaci-fudbal/milivojevic-hvala-jankovicu-bicu-jos-bolji-52438.html Milivojević: "Hvala Jankoviću, biću još bolji''] at Sportske.net&lt;/ref&gt; He made his debut for Serbia on 14 November 2012 in a friendly match with [[Chile national football team|Chile]].&lt;ref&gt;[http://www.mondo.rs/s266888/Sport/Fudbal/Orlovi_opet_poleteli.html Mondo (Serbian): "Orlovi" opet poleteli...] 14 November 2012&lt;/ref&gt; On 6 October 2017 he scored his first goal for Serbia in a World Cup Qualifying match with [[Austria national football team|Austria]].&lt;ref&gt;[http://www.uefa.com/european-qualifiers/season=2018/matches/round=2000717/match=2017773/index.html] 6 October 2017&lt;/ref&gt;
@@ -666,7 +672,7 @@ In June 2018, he was included in the final 23-man squad for the [[2018 FIFA Worl
 
 ==Career statistics==
 ===Club===
-{{updated|{{date|2019-03-2}}}}&lt;ref&gt;{{cite web |url=https://int.soccerway.com/players/luka-milivojevic/90657 |title=Serbia - L.Milivojević - Profile with news, career statistics and history |website=Soccerway |accessdate=28 October 2017}}&lt;/ref&gt;
+{{updated|{{date|2019-03-16}}}}&lt;ref&gt;{{cite web |url=https://int.soccerway.com/players/luka-milivojevic/90657 |title=Serbia - L.Milivojević - Profile with news, career statistics and history |website=Soccerway |accessdate=28 October 2017}}&lt;/ref&gt;
 {| class="wikitable" style="text-align:center"
 |+ Club statistics
 |-
@@ -751,16 +757,17 @@ In June 2018, he was included in the final 23-man squad for the [[2018 FIFA Worl
 |36||10||0||0||1||0||0||0||0||0||37||10
 |-
 |[[2018–19 Crystal Palace F.C. season|2018–19]]
-|29||8||2||0||1||0||0||0||0||0||32||8
+|30||9||3||0||1||0||0||0||0||0||34||9
 |-
 !colspan="2"|Total
-!79!!20!!2!!0!!2!!0!!colspan="2"|—||0!!0!!83!!20
+!80!!21!!3!!0!!2!!0!!colspan="2"|—||0!!0!!85!!21
 |-
 !colspan="3"|Career total
-!250!!42!!20!!4!!2||0||35!!0!!1!!0!!307!!46
+!251!!43!!21!!4!!2||0||35!!0!!1!!0!!309!!47
 |}
 
 ===International===
+[[File:Ser-Swi_(19).jpg|thumb|Milivojević at the [[2018 FIFA World Cup]]]]
 {{updated|27 June 2018|&lt;ref name="NFT"/&gt;}}
 {| class="wikitable" style="text-align:center"
 !colspan=3|[[Serbia national football team|Serbia]]
@@ -808,6 +815,7 @@ In June 2018, he was included in the final 23-man squad for the [[2018 FIFA Worl
 {{Reflist}}
 
 ==External links==
+{{commonscat}}
 *[http://www.scoresway.com/?sport=soccer&amp;page=player&amp;id=90657 Scoresway.com Profile]
 *[http://www.utakmica.rs/fudbaler/194-milivojevic-luka Luka Milivojević] at Utakmica.rs
 *{{Reprezentacija|milivojevic-luka}}
@@ -849,7 +857,7 @@ In June 2018, he was included in the final 23-man squad for the [[2018 FIFA Worl
 [[Category:Serbian expatriate sportspeople in Greece]]
 [[Category:Serbian expatriate sportspeople in England]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>1atxvcowuqfpnpjltjuzyrbo7txsqkx</sha1>
+      <sha1>lnkksceh8iseh81tjpw0bkats15oixc</sha1>
     </revision>
   </page>
   <page>
@@ -885,9 +893,9 @@ In June 2018, he was included in the final 23-man squad for the [[2018 FIFA Worl
     <ns>0</ns>
     <id>14731417</id>
     <revision>
-      <id>885837593</id>
-      <parentid>884756355</parentid>
-      <timestamp>2019-03-02T17:42:39Z</timestamp>
+      <id>886958066</id>
+      <parentid>885837593</parentid>
+      <timestamp>2019-03-09T17:40:57Z</timestamp>
       <contributor>
         <username>Eagleash</username>
         <id>17699731</id>
@@ -895,9 +903,9 @@ In June 2018, he was included in the final 23-man squad for the [[2018 FIFA Worl
       <comment>updating</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="25709">{{for|the English boxer|Scott Dann (boxer)}}
-{{Use British English|date=January 2016}}
-{{Use dmy dates|date=January 2018}}
+      <text xml:space="preserve" bytes="25705">{{for|the English boxer|Scott Dann (boxer)}}
+{{Use British English|date=March 2019}}
+{{Use dmy dates|date=March 2019}}
 {{BLP sources|date=September 2010}}
 {{Infobox football biography
 | name                = Scott Dann
@@ -919,10 +927,10 @@ In June 2018, he was included in the final 23-man squad for the [[2018 FIFA Worl
 | years5  = 2008–2009 | clubs5  = [[Coventry City F.C.|Coventry City]]              | caps5  = 47 | goals5  = 3
 | years6  = 2009–2011 | clubs6  = [[Birmingham City F.C.|Birmingham City]]          | caps6  = 50 | goals6  = 2
 | years7  = 2011–2014 | clubs7  = [[Blackburn Rovers F.C.|Blackburn Rovers]]        | caps7  = 98 | goals7  = 5
-| years8  = 2014–     | clubs8  = [[Crystal Palace F.C.|Crystal Palace]]            | caps8  = 126| goals8  = 12
+| years8  = 2014–     | clubs8  = [[Crystal Palace F.C.|Crystal Palace]]            | caps8  = 127| goals8  = 12
 | nationalyears1      = 2008 | nationalteam1  = [[England national under-21 football team|England U21]]
 | nationalcaps1       = 2 | nationalgoals1  = 0
-| club-update         = 17:42, 2 March 2019 (UTC)
+| club-update         = 17:40, 9 March 2019 (UTC)
 }}
 '''Scott Dann''' (born 14 February 1987) is an English professional [[association football|footballer]] who plays as a [[Defender (association football)#Centre-back|centre-back]] for [[Premier League]] club [[Crystal Palace F.C.|Crystal Palace]]. He began his [[Football League]] career with [[Walsall F.C.|Walsall]], before moving on to [[Coventry City F.C.|Coventry City]] and then to [[Birmingham City F.C.|Birmingham City]] in 2009. After Birmingham's relegation from the Premier League, Dann joined Blackburn in August 2011 and was the club's captain.
 
@@ -970,7 +978,7 @@ Ahead of the 2016–17 season, Dann replaced [[Mile Jedinak]] as captain.&lt;ref
 ==Career statistics==
 [[File:Scott Dann.jpg|thumb|upright|Dann playing for Blackburn Rovers in 2012]]
 
-{{updated|match played 2 March 2019}}
+{{updated|match played 9 March 2019}}
 
 {| class=wikitable style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -1054,13 +1062,13 @@ Ahead of the 2016–17 season, Dann replaced [[Mile Jedinak]] as captain.&lt;ref
 |Premier League||17||1||0||0||1||0||colspan=2|—||18||1
 |-
 |[[2018–19 Crystal Palace F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|39258|2018|accessdate=5 January 2019}}&lt;/ref&gt;
-|Premier League||3||0||3||0||||0||colspan=2|—||6||0
+|Premier League||4||0||3||0||||0||colspan=2|—||7||0
 |-
 !colspan=3|Total
-!126||12||12||2||4||1||colspan=2|—||142||15
+!127||12||12||2||4||1||colspan=2|—||143||15
 |-
 !colspan=3|Career total
-!380||29||32||5||15||3||1||0||428||37
+!381||29||32||5||15||3||1||0||429||37
 |}
 
 {{notelist}}
@@ -1107,7 +1115,7 @@ Ahead of the 2016–17 season, Dann replaced [[Mile Jedinak]] as captain.&lt;ref
 [[Category:Premier League players]]
 [[Category:Expatriate footballers in Denmark]]
 [[Category:English expatriate sportspeople in Denmark]]</text>
-      <sha1>78jcweiy8zx5jr8a7s5qskj5tmmaeeo</sha1>
+      <sha1>8qqal6pau2cdpntnq5hc6xlux23sawh</sha1>
     </revision>
   </page>
   <page>
@@ -1144,17 +1152,16 @@ Ahead of the 2016–17 season, Dann replaced [[Mile Jedinak]] as captain.&lt;ref
     <ns>0</ns>
     <id>18823582</id>
     <revision>
-      <id>885872018</id>
-      <parentid>885416431</parentid>
-      <timestamp>2019-03-02T21:54:09Z</timestamp>
+      <id>888106603</id>
+      <parentid>888040811</parentid>
+      <timestamp>2019-03-16T23:19:45Z</timestamp>
       <contributor>
-        <username>Eagleash</username>
-        <id>17699731</id>
+        <ip>2A02:A03F:4E82:B700:A9C5:F1BC:3402:7F83</ip>
       </contributor>
-      <comment>updating</comment>
+      <comment>/* Anderlecht */Added content</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="22174">{{Use dmy dates|date=May 2018}}
+      <text xml:space="preserve" bytes="22231">{{Use dmy dates|date=May 2018}}
 {{Infobox football biography
 | name            = Cheikhou Kouyaté
 | image           = West Ham United Vs Manchester City (24642418901) (cropped).jpg
@@ -1218,7 +1225,7 @@ Kouyaté moved from Senegal to Belgium in 2006, having been offered a youth cont
 Kouyaté began his footballing career in 1996 in his hometown with ASC Yego Dakar and was scouted by [[RWDM Brussels FC|RWDM Brussels]] in September 2006. RWDM Brussels then signed the player in January the following year.&lt;ref&gt;[http://www.rwdm-fcbrussels.be/12-PLAYERS/fiche-fcbrussels-players.html FC BRUSSELS Players] {{Webarchive|url=https://web.archive.org/web/20090430152814/http://www.rwdm-fcbrussels.be/12-PLAYERS/fiche-fcbrussels-players.html |date=30 April 2009 }} on www.rwdm-brussels.be&lt;/ref&gt; He went on to play ten league appearances for the first team between 2007 and 2008.&lt;ref name="whufc1"&gt;{{cite web|url=http://www.whufc.com/articles/cheikhou-kouyate-west-ham_2228487_49276 |title=CHEIKHOU KOUYATE |publisher=West Ham United F.C. |accessdate=1 February 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150115021426/http://www.whufc.com/articles/cheikhou-kouyate-west-ham_2228487_49276 |archivedate=15 January 2015 |df= }}&lt;/ref&gt;
 
 ===Anderlecht===
-As Kouyaté turned 19, he left Brussels because his former employers did not pay him three months' worth of wages. He subsequently moved to Belgian rivals [[R.S.C. Anderlecht|Anderlecht]] on a four-year deal for a free transfer.&lt;ref&gt;[http://www.nieuwsblad.be/sportwereld/Article/Detail.aspx?ArticleID=T31U96TG Cheikhou Kouyaté moet van de rechter naar Anderlecht] on www.nieuwsblad.be&lt;/ref&gt; Kouyaté went on to make 153 league appearances for Anderlecht, scoring four goals in five seasons at the club. He won the [[2009–10 Belgian Pro League|2009–10]], [[2011-12 Belgian Pro League|2011–12]], [[2012-13 Belgian Pro League|2012–13]] and [[2013–14 Belgian Pro League|2013–14]] [[Belgian Pro League|league titles]] as well as the 2010–11, 2012–13 and 2013–14 [[Belgian Super Cup]]s.&lt;ref name=whufc1/&gt;&lt;ref name = Soccerway&gt;{{Soccerway|-cheikhou-kouyate/53112}}&lt;/ref&gt;
+As Kouyaté turned 19, he left Brussels because his former employers did not pay him three months' worth of wages. He subsequently moved to Belgian rivals [[R.S.C. Anderlecht|Anderlecht]] on a four-year deal for a free transfer.&lt;ref&gt;[http://www.nieuwsblad.be/sportwereld/Article/Detail.aspx?ArticleID=T31U96TG Cheikhou Kouyaté moet van de rechter naar Anderlecht] on www.nieuwsblad.be&lt;/ref&gt; After a loan to KV Kortrijk, he returned to Anderlecht. Kouyaté went on to make 153 league appearances for Anderlecht, scoring four goals in five seasons at the club. He won the [[2009–10 Belgian Pro League|2009–10]], [[2011-12 Belgian Pro League|2011–12]], [[2012-13 Belgian Pro League|2012–13]] and [[2013–14 Belgian Pro League|2013–14]] [[Belgian Pro League|league titles]] as well as the 2010–11, 2012–13 and 2013–14 [[Belgian Super Cup]]s.&lt;ref name=whufc1/&gt;&lt;ref name = Soccerway&gt;{{Soccerway|-cheikhou-kouyate/53112}}&lt;/ref&gt;
 
 ===West Ham United===
 ====2014–15 season====
@@ -1243,7 +1250,7 @@ In February 2012, Kouyaté was called up to the [[Senegal national football team
 
 ==Career statistics==
 ===Club===
-{{updated|2 March 2019}}&lt;ref name = Soccerway/&gt;&lt;ref&gt;{{cite web|title=Cheikhou Kouyaté|url=http://www.soccerbase.com/players/player.sd?player_id=57209|website=Soccerbase|accessdate=20 June 2015}}&lt;/ref&gt;
+{{updated|16 March 2019}}&lt;ref name = Soccerway/&gt;&lt;ref&gt;{{cite web|title=Cheikhou Kouyaté|url=http://www.soccerbase.com/players/player.sd?player_id=57209|website=Soccerbase|accessdate=20 June 2015}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -1307,10 +1314,10 @@ In February 2012, Kouyaté was called up to the [[Senegal national football team
 |[[Crystal Palace F.C.|Crystal Palace]]
 |[[2018–19 Crystal Palace F.C. season|2018–19]]
 |[[Premier League]]
-|24||0||3||0||2||0||colspan=2|—||29||0
+|24||0||4||0||2||0||colspan=2|—||30||0
 |-
 !colspan="3"|Career total
-!342!!19!!21!!1!!8!!1!!47!!2!!418!!23
+!342!!19!!22!!1!!8!!1!!47!!2!!419!!23
 |}
 {{notelist}}
 
@@ -1401,7 +1408,7 @@ In February 2012, Kouyaté was called up to the [[Senegal national football team
 [[Category:2015 Africa Cup of Nations players]]
 [[Category:2017 Africa Cup of Nations players]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>7skvjv9gpxbftr2yps0qfl2lcb1b27d</sha1>
+      <sha1>6tgy3lw8u2qq44b2zqzd7tk1nhy9v4m</sha1>
     </revision>
   </page>
   <page>
@@ -1409,17 +1416,17 @@ In February 2012, Kouyaté was called up to the [[Senegal national football team
     <ns>0</ns>
     <id>22077884</id>
     <revision>
-      <id>885875137</id>
-      <parentid>885660471</parentid>
-      <timestamp>2019-03-02T22:15:00Z</timestamp>
+      <id>888043698</id>
+      <parentid>886971830</parentid>
+      <timestamp>2019-03-16T15:13:10Z</timestamp>
       <contributor>
         <username>Eagleash</username>
         <id>17699731</id>
       </contributor>
-      <comment>updating</comment>
+      <comment>/* Club */ updating</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="45926">{{Use British English|date=February 2016}}
+      <text xml:space="preserve" bytes="45927">{{Use British English|date=February 2016}}
 {{Use dmy dates|date=September 2017}}
 {{Infobox football biography
 | name                = Andros Townsend
@@ -1445,13 +1452,13 @@ In February 2012, Kouyaté was called up to the [[Senegal national football team
 | years9  = 2012      | clubs9  = → [[Birmingham City F.C.|Birmingham City]] (loan)         | caps9  = 15 | goals9  = 0
 | years10 = 2013      | clubs10 = → [[Queens Park Rangers F.C.|Queens Park Rangers]] (loan) | caps10 = 12 | goals10 = 2
 | years11 = 2016      | clubs11 = [[Newcastle United F.C.|Newcastle United]]                | caps11 = 13 | goals11 = 4
-| years12 = 2016–     | clubs12 = [[Crystal Palace F.C.|Crystal Palace]]                    | caps12 = 101 | goals12 = 9
+| years12 = 2016–     | clubs12 = [[Crystal Palace F.C.|Crystal Palace]]                    | caps12 = 102 | goals12 = 9
 | nationalyears1 = 2006–2007 | nationalteam1 = [[England national under-16 football team|England U16]] | nationalcaps1 = 3  | nationalgoals1 = 0
 | nationalyears2 = 2007–2008 | nationalteam2 = [[England national under-17 football team|England U17]] | nationalcaps2 = 6  | nationalgoals2 = 2
 | nationalyears3 = 2009–2010 | nationalteam3 = [[England national under-19 football team|England U19]] | nationalcaps3 = 6  | nationalgoals3 = 0
 | nationalyears4 = 2012–2013 | nationalteam4 = [[England national under-21 football team|England U21]] | nationalcaps4 = 3  | nationalgoals4 = 0
 | nationalyears5 = 2013–     | nationalteam5 = [[England national football team|England]]              | nationalcaps5 = 13 | nationalgoals5 = 3
-| club-update         = 22:14, 2 March 2019 (UTC)
+| club-update         = 19:32, 9 March 2019 (UTC)
 | nationalteam-update = 21:00, 1 October 2018 (UTC)
 }}
 '''Andros Darryl Townsend''' (born 16 July 1991) is an English professional [[Association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for {{English football updater|CrystalP}} club [[Crystal Palace F.C.|Crystal Palace]] and the [[England national football team|English national team]].
@@ -1534,7 +1541,7 @@ Townsend was filmed singing the song ''[[Stand by Me (Ben E. King song)|Stand By
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -1646,13 +1653,13 @@ Townsend was filmed singing the song ''[[Stand by Me (Ben E. King song)|Stand By
 |-
 |[[2018–19 Crystal Palace F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|51189|2018|accessdate=1 October 2018}}&lt;/ref&gt;
 |Premier League
-|29||4||3||1||3||2||colspan=2|—||35||7
+|30||4||4||1||3||2||colspan=2|—||37||7
 |-
 !colspan=2|Total
-!101||9||7||1||6||2||colspan=2|—||114||12
+!102||9||8||1||6||2||colspan=2|—||116||12
 |-
 !colspan=3|Career total
-!265||27||13||3||21||4||31||4||330||38
+!266||27||14||3||21||4||31||4||332||38
 |}
 
 {{notelist}}
@@ -1747,7 +1754,7 @@ Townsend was filmed singing the song ''[[Stand by Me (Ben E. King song)|Stand By
 [[Category:Premier League players]]
 [[Category:English people of Greek Cypriot descent]]
 [[Category:English people of Jamaican descent]]</text>
-      <sha1>gxqhp90be6mna1kphigquv65oyi6r04</sha1>
+      <sha1>t2d4gwqehgx500bd6bxkesvrlyd6lri</sha1>
     </revision>
   </page>
   <page>
@@ -1755,18 +1762,17 @@ Townsend was filmed singing the song ''[[Stand by Me (Ben E. King song)|Stand By
     <ns>0</ns>
     <id>28871495</id>
     <revision>
-      <id>885965427</id>
-      <parentid>885965013</parentid>
-      <timestamp>2019-03-03T13:36:09Z</timestamp>
+      <id>889030020</id>
+      <parentid>889016310</parentid>
+      <timestamp>2019-03-22T23:22:09Z</timestamp>
       <contributor>
-        <username>Arjayay</username>
-        <id>5718152</id>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <minor/>
-      <comment>Reverted edits by [[Special:Contribs/94.189.183.220|94.189.183.220]] ([[User talk:94.189.183.220|talk]]) to last version by Iggy the Swan</comment>
+      <comment>Reverted 1 edit by [[Special:Contributions/31.50.172.79|31.50.172.79]] ([[User talk:31.50.172.79|talk]]): Fine as it was ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="45257">{{Use British English|date=April 2016}}
+      <text xml:space="preserve" bytes="45287">{{Use British English|date=April 2016}}
 {{Use dmy dates|date=September 2017}}
 {{Infobox football biography
 |           name = Wilfried Zaha
@@ -1786,19 +1792,19 @@ Townsend was filmed singing the song ''[[Stand by Me (Ben E. King song)|Stand By
 |         years3 = 2013      |clubs3 = → [[Crystal Palace F.C.|Crystal Palace]] (loan) |caps3 = 16  |goals3 = 1
 |         years4 = 2014      |clubs4 = → [[Cardiff City F.C.|Cardiff City]] (loan)     |caps4 = 12  |goals4 = 0
 |         years5 = 2014–2015 |clubs5 = → [[Crystal Palace F.C.|Crystal Palace]] (loan) |caps5 = 16  |goals5 = 1
-|         years6 = 2015–     |clubs6 = [[Crystal Palace F.C.|Crystal Palace]]          |caps6 = 138 |goals6 = 29
+|         years6 = 2015–     |clubs6 = [[Crystal Palace F.C.|Crystal Palace]]          |caps6 = 139 |goals6 = 29
 | nationalyears1 = 2011      |nationalteam1 = [[England national under-19 football team|England U19]] |nationalcaps1 = 2  |nationalgoals1 = 0
 | nationalyears2 = 2012–2013 |nationalteam2 = [[England national under-21 football team|England U21]] |nationalcaps2 = 13 |nationalgoals2 = 1
 | nationalyears3 = 2012–2013 |nationalteam3 = [[England national football team|England]]              |nationalcaps3 = 2  |nationalgoals3 = 0
-| nationalyears4 = 2017–     |nationalteam4 = [[Ivory Coast national football team|Ivory Coast]]      |nationalcaps4 = 8  |nationalgoals4 = 2
-| club-update         = 22:09, 2 March 2019 (UTC)
-| nationalteam-update = 20:31, 11 August 2018 (UTC)
+| nationalyears4 = 2017–     |nationalteam4 = [[Ivory Coast national football team|Ivory Coast]]      |nationalcaps4 = 9  |nationalgoals4 = 2
+| club-update         = 19:29, 9 March 2019 (UTC)
+| nationalteam-update = 12 October 2019
 }}
 '''Dazet Wilfried Armel Zaha''' (born 10 November 1992) is a professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Premier League]] club [[Crystal Palace F.C.|Crystal Palace]] and the [[Ivory Coast national football team|Ivorian national team]].
 
 Zaha advanced into the Crystal Palace first team from their academy, in 2010. In January 2013, he transferred to [[Manchester United F.C.|Manchester United]] for an initial fee of £10&amp;nbsp;million, [[Alex Ferguson]]'s last transfer before his retirement at the end of the season. Zaha remained on [[Loan (sports)|loan]] at Palace until the end of the season, helping them return to the Premier League. After an unsuccessful 2013–14 season with Manchester United (partly spent on loan at [[Cardiff City F.C.|Cardiff City]]), Zaha returned to Palace in August 2014 on a season-long loan, before rejoining the club on a permanent basis in February 2015.
 
-Born in the Ivory Coast, Zaha grew up in England from the age of four. He made his debut for the [[England national football team|England national team]] in 2012. He made two non-competitive appearances for England, the last of which came in 2013, before switching his allegiances to the Ivory Coast ahead of the [[2017 Africa Cup of Nations]].
+Born in the Ivory Coast, Zaha grew up in England from the age of four. He made his debut for the [[England national football team|England national team]] in 2012. He made two non-competitive appearances for England, the latter of which came in 2013, before switching his allegiances to the Ivory Coast ahead of the [[2017 Africa Cup of Nations]].
 
 ==Early life==
 Born in [[Abidjan]], Ivory Coast,&lt;ref&gt;{{Hugman|25842|accessdate=13 June 2018}}&lt;/ref&gt; Zaha moved with his family – including his eight siblings – to [[Thornton Heath]] in the [[London Borough of Croydon]], at the age of four.&lt;ref name=2012g&gt;{{cite news |last1=Fifield |first1=Dominic |title=Wilfried Zaha agrees to join England squad for Sweden friendly |url=https://www.theguardian.com/football/2012/nov/11/wilfried-zaha-england-sweden-friendly |accessdate=11 November 2012 |newspaper=The Guardian |date=11 November 2012 |last2=Taylor |first2=Daniel |location=London}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Fifield |first=Dominic |title=Wilfried Zaha – prince from the Palace now mixing with England royalty |url=https://www.theguardian.com/sport/2012/nov/12/wilfried-zaha-prince-palace-england |accessdate=12 November 2012 |newspaper=The Guardian |date=12 November 2012 |location=London}}&lt;/ref&gt;&lt;ref name="Wilfried Zaha: To Manchester United from Ivory Coast"&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/20295005 |title=Wilfried Zaha: To Manchester United from Ivory Coast |first1=Frank |last1=Keogh |first2=Gary |last2=Rose |publisher=BBC Sport |date=25 January 2013 |accessdate=8 February 2014}}&lt;/ref&gt; He was educated at [[List of schools in the London Borough of Croydon#Primary schools|Whitehorse Manor Junior School]], Thornton Heath and [[List of schools in the London Borough of Croydon#Secondary schools|Selsdon High School]], [[Selsdon]].&lt;ref&gt;{{cite news |last=Lidbetter |first=Ross |title=Wilfried Zaha was always destined to be star, say former teachers |url=http://www.thisiscroydontoday.co.uk/Wilfried-Zaha-best-ve-seen-PE-teacher/story-17337578-detail/story.html |archive-url=https://archive.is/20130505122907/http://www.thisiscroydontoday.co.uk/Wilfried-Zaha-best-ve-seen-PE-teacher/story-17337578-detail/story.html |dead-url=yes |archive-date=5 May 2013 |accessdate=17 November 2012 |newspaper=Croydon Advertiser |date=11 November 2012 }}&lt;/ref&gt;
@@ -1836,7 +1842,7 @@ On 11 August 2013, Zaha made his debut for Manchester United in the [[2013 FA Co
 
 On 31 January 2014, Zaha completed a loan move to Cardiff City for the remainder of the [[2013–14 Premier League|2013–14]] season after being left out of favour by manager [[David Moyes]].&lt;ref&gt;{{cite news |title=Transfer deadline day: Man Utd's Zaha joins Cardiff City on loan |url=https://www.bbc.co.uk/sport/0/football/25973209 |publisher=BBC Sport |date=31 January 2014 |accessdate=2 February 2014}}&lt;/ref&gt;
 
-At the end of the season, following Moyes' sacking, Zaha said that he was never given a chance by the Scot. He contrasted his experience with that of [[Raheem Sterling]], another young attacker who was given a chance by [[Liverpool F.C.|Liverpool]] after a difficult start. He also said that false and malicious online rumours about him had upset him.&lt;ref&gt;{{cite news |title=Zaha: Moyes never trusted me |url=http://en.espn.co.uk/football/sport/story/306745.html |accessdate=12 August 2018 |publisher=ESPN FC |date=11 May 2014}}&lt;/ref&gt;
+At the end of the season, following Moyes' sacking, Zaha said that he was never given a chance by the Scot. He contrasted his experience with that of [[Raheem Sterling]], another young attacker who was given a chance by [[Liverpool F.C.|Liverpool]] after a difficult start. He also said that he was upset by false and malicious online rumours about his personal life.&lt;ref&gt;{{cite news |title=Zaha: Moyes never trusted me |url=http://en.espn.co.uk/football/sport/story/306745.html |accessdate=12 August 2018 |publisher=ESPN FC |date=11 May 2014}}&lt;/ref&gt;
 
 ===Return to Crystal Palace===
 ====2014–15 season====
@@ -1861,7 +1867,7 @@ In Palace's first game of the new season on 11 August, Zaha scored the second go
 
 After scoring a winning goal against [[Huddersfield Town]] in September 2018, Zaha publicly complained about what he considered to be a lack of appropriate protection by referees against fouls, saying that he would need a broken leg before any action would be taken. Data proved that in the last five years, he was the second most fouled player in the league after [[Eden Hazard]].&lt;ref name=bysouth&gt;{{cite news |last1=Bysouth |first1=Alex |title=Wilfried Zaha: Is the Crystal Palace winger a target? Does he get enough protection? |url=https://www.bbc.co.uk/sport/football/45537498 |accessdate=19 September 2018 |publisher=BBC Sport |date=16 September 2018}}&lt;/ref&gt;
 
-Zaha received a [[Penalty card#Red card|red card]] for dissent in a [[Southampton F.C.|Southampton]] v Palace match on 30 January.&lt;ref&gt;{{cite web|url=https://www.telegraph.co.uk/football/2019/01/30/wilfried-zaha-scores-sees-red-southampton-crystal-palace-share/|title=Wilfried Zaha scores and sees red as Southampton and Crystal Palace share spoils in scrappy draw|first=Jim|last=White|date=30 January 2019|publisher=|via=www.telegraph.co.uk}}&lt;/ref&gt;
+Zaha received a [[Penalty card#Red card|red card]] for dissent against [[Southampton F.C.|Southampton]] on 30 January 2019.&lt;ref&gt;{{cite web|url=https://www.telegraph.co.uk/football/2019/01/30/wilfried-zaha-scores-sees-red-southampton-crystal-palace-share/|title=Wilfried Zaha scores and sees red as Southampton and Crystal Palace share spoils in scrappy draw|first=Jim|last=White|date=30 January 2019|publisher=|via=www.telegraph.co.uk}}&lt;/ref&gt;
 
 ==International career==
 Zaha was eligible to represent both the [[Ivory Coast national football team|Ivory Coast]] and [[England national football team|England]], the former because he has Ivorian parents and it was where he was born, and the latter because it is where he grew up.&lt;ref&gt;{{cite news |title=Exclusive: Stick with England, Pearce pleads with Palace wonderkid Zaha |url=http://www.dailymail.co.uk/sport/football/article-2109427/Stuart-Pearce-tells-Wilfried-Zaha-stick-England.html |location=London |newspaper=Daily Mail |first=Sami |last=Mokbel |date=2 March 2012}}{{Unreliable source?|date=April 2017}}&lt;/ref&gt;
@@ -1874,7 +1880,7 @@ When Zaha was in good form for Crystal Palace under Hodgson ahead of the [[2018 
 ===Ivory Coast (2016–present)===
 On 27 November 2016, the [[Ivorian Football Federation]] confirmed that Zaha had sent correspondence to [[FIFA]] to switch his international football allegiance from England to the [[Ivory Coast national football team|Ivory Coast]].&lt;ref&gt;[http://www.skysports.com/football/news/12016/10675387/wilfried-zaha-swaps-england-for-the-ivory-coast "Wilfried Zaha swaps England for the Ivory Coast"]. Sky Sports. 27 November 2016. Retrieved 28 November 2016.&lt;/ref&gt; In response to this development, England manager [[Gareth Southgate]] indicated he would try to dissuade Zaha from changing allegiance due to his consistent club form.&lt;ref&gt;{{cite news |url=http://www.skysports.com/football/news/12016/10682854/gareth-southgate-to-speak-to-wilfried-zaha-over-switch-to-ivory-coast|title=Gareth Southgate to speak to Wilfried Zaha over switch to Ivory Coast|publisher=Sky Sports|date=3 December 2016|accessdate=11 December 2016}}&lt;/ref&gt; 
 
-In January, Zaha was named in the Ivory Coast squad for the [[2017 Africa Cup of Nations]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/38451141|title=Afcon 2017: Wilfried Zaha in Ivory Coast's final squad|publisher=BBC Sport |date=4 January 2017|accessdate=4 January 2017}}&lt;/ref&gt; He made his debut against Sweden in a friendly in [[Abu Dhabi]] on 8 January, being subbed on at half time and assisting [[Giovanni Sio]]'s goal in a 2–1 win.&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/sweden-vs-ivory-coast/teams/368294|title=Internationals (Sky Sports)|publisher=Sky Sports}}&lt;/ref&gt; Three days later, against [[Uganda national football team|Uganda]] at the same venue, he made his first international start and scored his first goal in a 3–0 win.&lt;ref name=uganda/&gt; At the tournament in Gabon, the reigning champion Elephants were eliminated at the [[2017 Africa Cup of Nations Group B|group stage]], with Zaha starting each game.&lt;ref&gt;{{cite news |title=Ivory Coast 0–0 Togo |url=https://www.bbc.co.uk/sport/football/38605798 |accessdate=12 August 2018 |publisher=BBC Sport |date=16 January 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Ivory Coast 2–2 DR Congo |url=https://www.bbc.co.uk/sport/football/38605798 |accessdate=12 August 2018 |publisher=BBC Sport |date=20 January 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Morocco 1–0 Ivory Coast |url=https://www.bbc.co.uk/sport/football/38646336 |accessdate=12 August 2018 |publisher=BBC Sport |date=24 January 2017}}&lt;/ref&gt;
+In January, Zaha was named in the Ivory Coast squad for the [[2017 Africa Cup of Nations]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/38451141|title=Afcon 2017: Wilfried Zaha in Ivory Coast's final squad|publisher=BBC Sport |date=4 January 2017|accessdate=4 January 2017}}&lt;/ref&gt; He made his debut against Sweden in a friendly in [[Abu Dhabi]] on 8 January, coming on as a half-time substitute and assisting [[Giovanni Sio]]'s goal in a 2–1 win.&lt;ref&gt;{{cite web|url=http://www.skysports.com/football/sweden-vs-ivory-coast/teams/368294|title=Internationals (Sky Sports)|publisher=Sky Sports}}&lt;/ref&gt; Three days later, against [[Uganda national football team|Uganda]] at the same venue, he made his first international start and scored his first goal in a 3–0 win.&lt;ref name=uganda/&gt; At the tournament in Gabon, the reigning champion Elephants were eliminated at the [[2017 Africa Cup of Nations Group B|group stage]], with Zaha starting each game.&lt;ref&gt;{{cite news |title=Ivory Coast 0–0 Togo |url=https://www.bbc.co.uk/sport/football/38605798 |accessdate=12 August 2018 |publisher=BBC Sport |date=16 January 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Ivory Coast 2–2 DR Congo |url=https://www.bbc.co.uk/sport/football/38605798 |accessdate=12 August 2018 |publisher=BBC Sport |date=20 January 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Morocco 1–0 Ivory Coast |url=https://www.bbc.co.uk/sport/football/38646336 |accessdate=12 August 2018 |publisher=BBC Sport |date=24 January 2017}}&lt;/ref&gt;
 
 ==Style of play==
 Zaha can play as a [[forward (association football)|forward]] or as a [[Midfielder#Winger|winger]].&lt;ref name="move up front" /&gt; In 2018, Adrian Clarke of the Premier League's website opined that he "offers more threat" as a frontman, going on to add that "his ultra-mobile combination with [Andros] Townsend generates more goals and points", citing "the speed, athleticism and unpredictable movement of the Zaha-Townsend axis is more difficult for opponents to contain".&lt;ref name="move up front" /&gt;
@@ -1883,7 +1889,7 @@ Zaha has been accused of [[diving (association football)|diving]], however Roy H
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}
+{{updated|match played 9 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -1954,19 +1960,19 @@ Zaha has been accused of [[diving (association football)|diving]], however Roy H
 |-
 |[[2018–19 Crystal Palace F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|53562|2018|accessdate=1 December 2018}}&lt;/ref&gt;
 |Premier League
-|25||8||2||0||0||0||colspan=2|—||27||8
+|26||8||2||0||0||0||colspan=2|—||28||8
 |-
 !colspan=2|Total
-!154||30|||11||2||6||1||colspan=2|—||171||33
+!155||30|||11||2||6||1||colspan=2|—||172||33
 |-
 !colspan=3|Career total
-!294||43||15||2||18||4||4||2||331||51
+!295||43||15||2||18||4||4||2||332||51
 |}
 
 {{notelist}}
 
 ===International===
-{{updated|match played 11 November 2017}}&lt;ref name=NFT&gt;{{NFT player |id=49297 |name=Zaha, Wilfried |accessdate=11 August 2018}}&lt;/ref&gt;
+{{updated|match played 12 October 2018}}&lt;ref name=NFT&gt;{{NFT player |id=49297 |name=Zaha, Wilfried |accessdate=11 August 2018}}&lt;/ref&gt;
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by national team and year
@@ -1980,10 +1986,12 @@ Zaha has been accused of [[diving (association football)|diving]], however Roy H
 |-
 !colspan=2|Total||2||0
 |-
-|[[Ivory Coast national football team|Ivory Coast]]
+|rowspan=2|[[Ivory Coast national football team|Ivory Coast]]
 |2017||8||2
 |-
-!colspan=2|Total||8||2
+|2018||1||0
+|-
+!colspan=2|Total||9||2
 |}
 
 ===International goals===
@@ -2071,7 +2079,7 @@ Zaha has been accused of [[diving (association football)|diving]], however Roy H
 [[Category:Dual internationalists (football)]]
 [[Category:English people of Ivorian descent]]
 [[Category:Black English sportspeople]]</text>
-      <sha1>hj0g84mp8wh1xk1ujvq9rilprndqgjn</sha1>
+      <sha1>rw07luin2u6m7qd42kika24uqhmxvms</sha1>
     </revision>
   </page>
   <page>
@@ -2079,17 +2087,17 @@ Zaha has been accused of [[diving (association football)|diving]], however Roy H
     <ns>0</ns>
     <id>11874568</id>
     <revision>
-      <id>884750568</id>
-      <parentid>882516156</parentid>
-      <timestamp>2019-02-23T19:40:54Z</timestamp>
+      <id>886440239</id>
+      <parentid>884750568</parentid>
+      <timestamp>2019-03-06T08:22:51Z</timestamp>
       <contributor>
-        <username>Eagleash</username>
-        <id>17699731</id>
+        <username>Zyxw</username>
+        <id>473593</id>
       </contributor>
-      <comment>updating</comment>
+      <comment>update links, misc formatting</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="52289">{{Redirect|Sakho|the Rennes striker|Diafra Sakho|the Senegalese footballer|Lamine Sakho}}
+      <text xml:space="preserve" bytes="52319">{{Redirect|Sakho|the Rennes striker|Diafra Sakho|the Senegalese footballer|Lamine Sakho}}
 {{Use dmy dates|date=April 2016}}
 {{Infobox football biography
 | name = Mamadou Sakho
@@ -2150,6 +2158,7 @@ Zaha has been accused of [[diving (association football)|diving]], however Roy H
 | club-update         = 19:40, 23 February 2019 (UTC)
 | nationalteam-update = 20 November 2018
 }}
+
 '''Mamadou Sakho''' (born 13 February 1990) is a French professional [[Association football|footballer]] who plays as a [[centre back]] for [[Premier League]] club [[Crystal Palace F.C.|Crystal Palace]] and the [[France national football team|France national team]]. He is known for his tackling ability and his passing accuracy.
 
 Sakho began his career at [[Paris FC]] before moving to [[Paris Saint-Germain F.C.|Paris Saint-Germain]]'s youth system in 2002. In October 2007, on his league debut, he became the youngest player ever to captain a [[Ligue 1]] club. Sakho made over 200 appearances for the club, winning all four [[Football in France|domestic trophies]]. In 2013, he transferred to Liverpool for £18&amp;nbsp;million. He had a loan spell with [[Crystal Palace F.C.|Crystal Palace]] in 2017, and was subsequently bought by the team for £26&amp;nbsp;million on 1 September 2017.
@@ -2381,14 +2390,14 @@ Sakho is a [[Muslim]].&lt;ref&gt;{{Cite web|url=https://www.huffingtonpost.com/2
 
 ==External links==
 {{Commons category}}
-* [https://web.archive.org/web/20160708091416/http://www.liverpoolfc.com/team/first-team/player/mamadou-sakho Liverpool F.C. profile]
+* {{Webarchive |url=https://web.archive.org/web/20160708091416/http://www.liverpoolfc.com/team/first-team/player/mamadou-sakho |title=Liverpool F.C. profile }}
 * {{Soccerbase}}
 * {{LFP|id=sakho-mamadou}}
-* {{Lequipe|id=26642}}
-* {{NFT player|id=39478}}
+* {{Lequipe|26642}}
+* {{NFT player|39478}}
 * {{FIFA player|274135}}
 * {{UEFA player|1900769}}
-* {{ESPN FC|96162/mamadou-sakho}}
+* {{ESPN FC|96162&lt;!-- /mamadou-sakho --&gt;}}
 
 {{Navboxes
 | bg = gold
@@ -2419,7 +2428,7 @@ Sakho is a [[Muslim]].&lt;ref&gt;{{Cite web|url=https://www.huffingtonpost.com/2
 [[Category:Doping cases in association football]]
 [[Category:French sportspeople in doping cases]]
 [[Category:Black French sportspeople]]</text>
-      <sha1>5t7xlq971sruvpkm8eqepnvulkqxwm6</sha1>
+      <sha1>32daf07c79q8huo1ky9fuofpdskhad4</sha1>
     </revision>
   </page>
   <page>
@@ -2427,15 +2436,14 @@ Sakho is a [[Muslim]].&lt;ref&gt;{{Cite web|url=https://www.huffingtonpost.com/2
     <ns>0</ns>
     <id>6345605</id>
     <revision>
-      <id>885832666</id>
-      <parentid>885832429</parentid>
-      <timestamp>2019-03-02T17:03:36Z</timestamp>
+      <id>888881013</id>
+      <parentid>888840746</parentid>
+      <timestamp>2019-03-22T00:07:33Z</timestamp>
       <contributor>
         <username>Eagleash</username>
         <id>17699731</id>
       </contributor>
-      <minor/>
-      <comment>/* Early life and career */ contraction</comment>
+      <comment>Undid revision 888840746 by [[Special:Contributions/81.103.70.158|81.103.70.158]] ([[User talk:81.103.70.158|talk]]) [[Help:Reverting|Reverting]] [[Wikipedia:Vandalism|vandalism]] or test edit unsourced change to referenced material</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="33052">{{EngvarB|date=July 2013}}
@@ -3030,17 +3038,17 @@ Ayew is the son of Maha Ayew and [[Abedi Pele]]. His father, uncles [[Kwame Ayew
     <ns>0</ns>
     <id>31194612</id>
     <revision>
-      <id>885872431</id>
-      <parentid>885417795</parentid>
-      <timestamp>2019-03-02T21:57:28Z</timestamp>
+      <id>888039545</id>
+      <parentid>886966855</parentid>
+      <timestamp>2019-03-16T14:35:33Z</timestamp>
       <contributor>
         <username>Eagleash</username>
         <id>17699731</id>
       </contributor>
-      <comment>updating</comment>
+      <comment>/* Club */ updating</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="26305">{{EngvarB|date=July 2013}}
+      <text xml:space="preserve" bytes="26306">{{EngvarB|date=July 2013}}
 {{Use dmy dates|date=February 2018}}
 {{Infobox football biography
 | name        = Jeffrey Schlupp
@@ -3064,7 +3072,7 @@ Ayew is the son of Maha Ayew and [[Abedi Pele]]. His father, uncles [[Kwame Ayew
 | years3 = 2017–
 | caps1 = 122
 | caps2 =  9
-| caps3 =  64
+| caps3 =  65
 | goals1 = 10
 | goals2 = 6
 | goals3 = 4
@@ -3072,7 +3080,7 @@ Ayew is the son of Maha Ayew and [[Abedi Pele]]. His father, uncles [[Kwame Ayew
 | nationalyears1 = 2011–
 | nationalcaps1 = 15
 | nationalgoals1 = 1
-| club-update = 21:57, 2 March 2019 (UTC)
+| club-update = 18:52, 9 March 2019 (UTC)
 | nationalteam-update = 17:33, 3 April 2017 (UTC)
 }}
 '''Jeffrey Schlupp''' ({{IPA-de|ˈdʒɛ.fʀiː ˈʃlʊp}}; born 23 December 1992) is a professional [[Association football|footballer]] who plays for [[Premier League]] club [[Crystal Palace F.C.|Crystal Palace]] and the [[Ghana national football team|Ghana national team]] as a [[Full back (association football)|left back]] or winger. He started his career as a [[Forward (association football)|striker]].
@@ -3145,7 +3153,7 @@ Schlupp became a father in January 2014 to a son, Arlo.&lt;ref&gt;{{cite news|ti
 == Career statistics ==
 
 === Club ===
-{{updated|match played 2 March 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class="wikitable" style="text-align:center"
 |+ Club statistics
@@ -3205,13 +3213,13 @@ Schlupp became a father in January 2014 to a son, Arlo.&lt;ref&gt;{{cite news|ti
 |-
 |[[2018–19 Crystal Palace F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|55472|2018|accessdate=11 August 2018}}&lt;/ref&gt;
 |Premier League
-|25||4||3||1||3||0||colspan=2|—||colspan=2|—||31||5
+|26||4||4||1||3||0||colspan=2|—||colspan=2|—||33||5
 |-
 !colspan=2|Total
-!64||4||5||1||5||0||colspan=2|—||colspan=2|—||74||5
+!65||4||6||1||5||0||colspan=2|—||colspan=2|—||76||5
 |-
 !colspan=3|Career total
-!199!!20!!10!!2!!18!!4!!3!!0!!4!!0!!234!!26
+!200!!20!!11!!2!!18!!4!!3!!0!!4!!0!!236!!26
 |}
 
 {{Reflist|group=lower-alpha}}
@@ -3289,7 +3297,7 @@ Schlupp became a father in January 2014 to a son, Arlo.&lt;ref&gt;{{cite news|ti
 [[Category:Premier League players]]
 [[Category:English Football League players]]
 [[Category:Expatriate footballers in England]]</text>
-      <sha1>p3818vth345f7ow2yywsqbou9y1hsbb</sha1>
+      <sha1>60fknsod8a64my4ll2coj2wa6igdq1n</sha1>
     </revision>
   </page>
   <page>
@@ -3297,17 +3305,17 @@ Schlupp became a father in January 2014 to a son, Arlo.&lt;ref&gt;{{cite news|ti
     <ns>0</ns>
     <id>19562448</id>
     <revision>
-      <id>885876147</id>
-      <parentid>885419475</parentid>
-      <timestamp>2019-03-02T22:22:12Z</timestamp>
+      <id>888041369</id>
+      <parentid>886972605</parentid>
+      <timestamp>2019-03-16T14:52:16Z</timestamp>
       <contributor>
         <username>Eagleash</username>
         <id>17699731</id>
       </contributor>
-      <comment>updating</comment>
+      <comment>/* Club */ updating</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="47795">{{redirect|Benteke|his brother|Jonathan Benteke}}
+      <text xml:space="preserve" bytes="47797">{{redirect|Benteke|his brother|Jonathan Benteke}}
 {{Use dmy dates|date=April 2014}}
 {{Infobox football biography
 | name = Christian Benteke
@@ -3357,7 +3365,7 @@ Schlupp became a father in January 2014 to a son, Arlo.&lt;ref&gt;{{cite news|ti
 | goals7 = 9
 | years8 = 2016–
 | clubs8 = [[Crystal Palace F.C.|Crystal Palace]]
-| caps8 = 75
+| caps8 = 76
 | goals8 = 18
  &lt;!--League matches only. No live updates when a match is still ongoing.--&gt;| nationalyears1 = 2007
 | nationalteam1 = [[Belgium national under-17 football team|Belgium U17]]
@@ -3379,7 +3387,7 @@ Schlupp became a father in January 2014 to a son, Arlo.&lt;ref&gt;{{cite news|ti
 | nationalteam5 = [[Belgium national football team|Belgium]]
 | nationalcaps5 = 34
 | nationalgoals5 = 12
-| pcupdate = 22:21, 2 March 2019 (UTC)
+| pcupdate = 19:38, 9 March 2019 (UTC)
 | ntupdate = 3 June 2018
 }}
 
@@ -3522,7 +3530,7 @@ Benteke's [[goal celebration]] features him beating his chest. The celebration a
 ===Club===
 [[File:Christian Benteke, Aston Villa striker (10679803106).jpg|thumb|upright|Benteke playing for Aston Villa in 2013]]
 
-{{updated|match played 2 March 2019}}&lt;ref&gt;{{cite web|title=C. Benteke|url=https://int.soccerway.com/players/-christian-benteke/53423/|work=Soccerway|publisher=Global Sports Media|accessdate=8 January 2016}}&lt;/ref&gt;
+{{updated|match played 16 March 2019}}&lt;ref&gt;{{cite web|title=C. Benteke|url=https://int.soccerway.com/players/-christian-benteke/53423/|work=Soccerway|publisher=Global Sports Media|accessdate=8 January 2016}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -3617,13 +3625,13 @@ Benteke's [[goal celebration]] features him beating his chest. The celebration a
 |30||3||0||0||0||0||0||0||30||3
 |-
 |[[2018–19 Crystal Palace F.C. season|2018–19]]
-|9||0||2||0||0||0||0||0||11||0
+|10||0||3||0||0||0||0||0||13||0
 |-
 !colspan="2"|Total
-!75||18||4||2||2||0||0||0||81||20
+!76||18||5||2||2||0||0||0||83||20
 |-
 ! colspan="3" |Career total
-!310!!112!!21!!7!!10!!5!!17!!2!!358!!126
+!311!!112!!22!!7!!10!!5!!17!!2!!360!!126
 |}
 
 ===International===
@@ -3700,7 +3708,7 @@ Benteke's [[goal celebration]] features him beating his chest. The celebration a
 [[Category:Expatriate footballers in England]]
 [[Category:Belgian expatriate sportspeople in England]]
 [[Category:UEFA Euro 2016 players]]</text>
-      <sha1>8blgr7f26z1bvwzuzg6ethx63tz8gdd</sha1>
+      <sha1>hfabmzuq5i8av2mm6olkh9im4saa7dw</sha1>
     </revision>
   </page>
   <page>
@@ -3708,17 +3716,17 @@ Benteke's [[goal celebration]] features him beating his chest. The celebration a
     <ns>0</ns>
     <id>13438028</id>
     <revision>
-      <id>885871654</id>
-      <parentid>885417174</parentid>
-      <timestamp>2019-03-02T21:51:06Z</timestamp>
+      <id>888041114</id>
+      <parentid>886966406</parentid>
+      <timestamp>2019-03-16T14:49:54Z</timestamp>
       <contributor>
         <username>Eagleash</username>
         <id>17699731</id>
       </contributor>
-      <comment>updating</comment>
+      <comment>/* Club */ updating</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="23991">{{for|other people with a similar name|James MacArthur (disambiguation)}}
+      <text xml:space="preserve" bytes="23992">{{for|other people with a similar name|James MacArthur (disambiguation)}}
 {{EngvarB|date=April 2013}}
 {{Use dmy dates|date=April 2013}}
 {{Infobox football biography
@@ -3754,7 +3762,7 @@ Benteke's [[goal celebration]] features him beating his chest. The celebration a
 | goals2         = 11
 | clubs3         = [[Crystal Palace F.C.|Crystal Palace]]
 | years3         = 2014–
-| caps3          = 151
+| caps3          = 152
 | goals3         = 16
 | nationalyears1 = 2008
 | nationalteam1  = [[Scotland national under-21 football team|Scotland U21]]
@@ -3764,7 +3772,7 @@ Benteke's [[goal celebration]] features him beating his chest. The celebration a
 | nationalteam2  = [[Scotland national football team|Scotland]]
 | nationalcaps2  = 32
 | nationalgoals2 = 4
-| pcupdate       = 21:50, 2 March 2019 (UTC)
+| pcupdate       = 18:49, 9 March 2019 (UTC)
 | ntupdate       = 11:14, 29 October 2018 (UTC)
 }}
 
@@ -3803,7 +3811,7 @@ As of August 2018, McArthur had made 32 international appearances and scored fou
 ==Career statistics==
 
 ===Club===
-{{Updated|match played 2 March 2019}}
+{{Updated|match played 16 March 2019}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Club statistics
@@ -3890,13 +3898,13 @@ As of August 2018, McArthur had made 32 international appearances and scored fou
 |-
 |[[2018–19 Crystal Palace F.C. season|2018–19]]&lt;ref name="Games played by James McArthur in 2018/2019"&gt;{{Soccerbase season|40684|2018|name=James McArthur|access-date=11 August 2018}}&lt;/ref&gt;
 |Premier League
-||29||2||1||0||0||0||colspan="2"|—||colspan="2"|—||30||2
+||30||2||2||0||0||0||colspan="2"|—||colspan="2"|—||32||2
 |-
 !colspan=2|Total
-!151!!16!!6!!0!!3!!2!!colspan="2"|—||colspan="2"|—||160!!18
+!152!!16!!7!!0!!3!!2!!colspan="2"|—||colspan="2"|—||162!!18
 |-
 !colspan="3" | Career totals
-!446||37||32||2||19||3||5||0||4||0||505||42
+!447||37||33||2||19||3||5||0||4||0||507||42
 |}
 
 {{Reflist|group=lower-alpha}}
@@ -3992,7 +4000,7 @@ As of August 2018, McArthur had made 32 international appearances and scored fou
 [[Category:Scotland international footballers]]
 [[Category:People educated at Whitehill Secondary School]]
 [[Category:Crystal Palace F.C. players]]</text>
-      <sha1>g3i6ihycn67pca2h89yukm4ffw630ve</sha1>
+      <sha1>ev5zc87e9snqk8evmmmcktu41j69u7k</sha1>
     </revision>
   </page>
   <page>
@@ -4313,17 +4321,17 @@ In 2010, Wickham signed a sponsorship deal with British sportswear and equipment
     <ns>0</ns>
     <id>34577002</id>
     <revision>
-      <id>885875586</id>
-      <parentid>885857993</parentid>
-      <timestamp>2019-03-02T22:17:50Z</timestamp>
+      <id>888957393</id>
+      <parentid>888037910</parentid>
+      <timestamp>2019-03-22T14:07:58Z</timestamp>
       <contributor>
         <username>Eagleash</username>
         <id>17699731</id>
       </contributor>
-      <comment>/* Club */ updating</comment>
+      <comment>updating</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="40990">{{Use dmy dates|date=June 2018}}
+      <text xml:space="preserve" bytes="41342">{{Use dmy dates|date=June 2018}}
 {{Infobox football biography
 | name = Michy Batshuayi
 | image = ENG-BEL (26).jpg
@@ -4370,7 +4378,7 @@ In 2010, Wickham signed a sponsorship deal with British sportswear and equipment
 | goals5 = 1
 | years6 = 2019–
 | clubs6 = → [[Crystal Palace F.C.|Crystal Palace]] (loan)
-| caps6 = 5
+| caps6 = 6
 | goals6 = 2
 | nationalyears1 = 2012–2014
 | nationalteam1 = [[Belgium national under-21 football team|Belgium U21]]
@@ -4378,14 +4386,14 @@ In 2010, Wickham signed a sponsorship deal with British sportswear and equipment
 | nationalgoals1 = 7
 | nationalyears2 = 2015–
 | nationalteam2 = [[Belgium national football team|Belgium]]
-| nationalcaps2 = 22
+| nationalcaps2 = 23
 | nationalgoals2 = 12
 | medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|BEL}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
 {{Medal|3rd|[[2018 FIFA World Cup|2018 Russia]]|}}
-| club-update = 20:08, 2 March 2019 (UTC)
-| nationalteam-update = 15 November 2018 (UTC)
+| club-update = 19:36, 9 March 2019 (UTC)
+| nationalteam-update = 14:07, 22 March 2019 (UTC)
 }}
 '''Michy Batshuayi-Atunga''' ({{IPA-fr|mi(t)ʃi batʃu.a.(j)i}}; born 2 October 1993) is a Belgian professional [[Association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for [[Crystal Palace F.C.|Crystal Palace]], on loan from [[Chelsea F.C.|Chelsea]], and the [[Belgium national football team|Belgium national team]].
 
@@ -4430,7 +4438,7 @@ On 31 January 2018, Batshuayi joined German [[Bundesliga]] club [[Borussia Dortm
 On 10 August 2018, Batshuayi was loaned to Spanish [[La Liga]] club [[Valencia CF|Valencia]] for the [[2018–19 Valencia CF season|2018–19 season]].&lt;ref&gt;{{cite news |title=Michy Batshuayi: Chelsea striker joins Valencia on a season-long loan |url=https://www.bbc.co.uk/sport/football/45148680 |accessdate=10 August 2018 |publisher=BBC Sport |date=10 August 2018}}&lt;/ref&gt; Ten days later, he made his Liga debut as a 76th-minute substitute for [[Carlos Soler (footballer)|Carlos Soler]] in a 1–1 home draw with Atlético Madrid, then continued that role in subsequent matches in a side possessing [[Rodrigo (footballer, born 1991)|Rodrigo]], [[Santi Mina]] and [[Kevin Gameiro]] as striking options.&lt;ref&gt;{{cite news |last1=Harbord |first1=Oliver |title=Why Michy Batshuayi is struggling to shake off substitute tag after stuttering start in Spain |url=https://www.football.london/chelsea-fc/players/michy-batshuayi-latest-chelsea-news-15113891 |accessdate=7 September 2018 |publisher=Football London |date=5 September 2018}}&lt;/ref&gt; On 26 September, he scored his first goal in a 1–1 draw with [[RC Celta de Vigo|Celta de Vigo]], therefore becoming the first player to score in the top leagues of France, Germany, England and Spain in the 21st century.&lt;ref&gt;{{cite news |last1=Guest |first1=Rob |title=The incredible record Chelsea ace Michy Batshuayi has set after scoring his first Valencia goal |url=https://www.football.london/chelsea-fc/players/michy-batshuayi-chelsea-news-latest-15208990 |accessdate=28 September 2018 |publisher=Football London |date=28 September 2018}}&lt;/ref&gt;
 
 ====Loan to Crystal Palace====
-In January 2019, Batshuayi's loan to Valencia was cut short and he joined English Premier League club [[Crystal Palace F.C.|Crystal Palace]] on loan until the end of the 2018–19 season.&lt;ref&gt;{{cite web|url=https://www.cpfc.co.uk/news/2019/february/michy-batshuayi-joins-palace-on-loan/|title=Michy Batshuayi Joins Palace on Loan|website=cpfc.co.uk|date=1 February 2019|accessdate=1 February 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/47081617|title=Michy Batshuayi: Crystal Palace sign Chelsea striker on loan until end of season|work=BBC Sport|date=1 February 2019|accessdate=1 February 2019}}&lt;/ref&gt; He made his debut on 2 February in a home 2–0 win against [[Fulham F.C.|Fulham]], providing an assist for [[Jeffrey Schlupp]] to score the second goal.&lt;ref&gt;{{cite news|title=Benteke eager to become the new partner for 'Batman'|last=Collings|first=Simon|work=[[Evening Standard]]|location =London|date=4 February 2019|page=59}}&lt;/ref&gt;
+In January 2019, Batshuayi's loan to Valencia was cut short and he joined English Premier League club [[Crystal Palace F.C.|Crystal Palace]] on loan until the end of the 2018–19 season.&lt;ref&gt;{{cite web|url=https://www.cpfc.co.uk/news/2019/february/michy-batshuayi-joins-palace-on-loan/|title=Michy Batshuayi Joins Palace on Loan|website=cpfc.co.uk|date=1 February 2019|accessdate=1 February 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/47081617|title=Michy Batshuayi: Crystal Palace sign Chelsea striker on loan until end of season|work=BBC Sport|date=1 February 2019|accessdate=1 February 2019}}&lt;/ref&gt; He made his debut on 2 February in a home 2–0 win against [[Fulham F.C.|Fulham]], providing an assist for [[Jeffrey Schlupp]] to score the second goal.&lt;ref&gt;{{cite news|title=Benteke eager to become the new partner for 'Batman'|last=Collings|first=Simon|work=[[Evening Standard]]|location =London|date=4 February 2019|page=59}}&lt;/ref&gt; On 23 February, Batshuayi scored his first goal for Crystal Palace in 4–1 win against [[Leicester City F.C.|Leicester City]].&lt;ref&gt;{{cite web|url=http://www.espn.in/football/report?gameId=513571|website=espn.in|title=Crystal Palace rout Leicester to step up pressure on Puel|date=23 February 2019|accessdate=5 March 2019}}&lt;/ref&gt;
 
 ==International career==
 [[File:ENG-BEL (28).jpg|thumb|right|Batshuayi playing for [[Belgium national football team|Belgium]] at the [[2018 FIFA World Cup]]]]
@@ -4448,7 +4456,7 @@ Batshuayi is nicknamed "Batsman", a play on the name of the superhero [[Batman]]
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}&lt;ref name=Soccerway&gt;{{Soccerway|michy-batshuayi/177338}}&lt;/ref&gt;
+{{updated|match played 16 March 2019}}&lt;ref name=Soccerway&gt;{{Soccerway|michy-batshuayi/177338}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -4515,22 +4523,22 @@ Batshuayi is nicknamed "Batsman", a play on the name of the superhero [[Batman]]
 |[[Crystal Palace F.C.|Crystal Palace]] (loan)
 |[[2018–19 Crystal Palace F.C. season|2018–19]]
 |Premier League
-|5||2||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||6||2
+|6||2||2||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||8||3
 |-
 !colspan="3"|Career total
-!221!!82!!23!!10!!11!!6!!38!!12!!1!!0!!294!!110
+!222!!82!!24!!11!!11!!6!!38!!12!!1!!0!!296!!111
 |}
 [[File:2017 RUS v BEL exhibition - Michy Batshuayi.jpg|thumb|upright|Batshuayi in [[Sochi]] (2017)]]
 {{reflist|group=lower-alpha}}
 
 ===International===
-{{updated|match played 15 November 2018}}&lt;ref name="KBVB"&gt;[http://static.belgianfootball.be/project/publiek/jrinteren/speler_PH_6211.htm#itop Michy Batshuayi stats] at the [[Royal Belgian Football Association]].&lt;/ref&gt;
+{{updated|match played 21 March 2019}}&lt;ref name="KBVB"&gt;[http://static.belgianfootball.be/project/publiek/jrinteren/speler_PH_6211.htm#itop Michy Batshuayi stats] at the [[Royal Belgian Football Association]].&lt;/ref&gt;
 
 {| class="wikitable" style="text-align:center"
 |-
 !National team!!Year!!Apps!!Goals
 |-
-| rowspan="4"|[[Belgium national football team|Belgium]]
+| rowspan="5"|[[Belgium national football team|Belgium]]
 | 2015 || 2 || 2
 |-
 | 2016 || 7 || 1
@@ -4539,7 +4547,9 @@ Batshuayi is nicknamed "Batsman", a play on the name of the superhero [[Batman]]
 |-
 | 2018 || 9 || 7
 |-
-! ||Total !! 22 || 12
+| 2019 || 1 || 0
+|-
+! ||Total !! 23 || 12
 |}
 
 ===International goals===
@@ -4636,7 +4646,7 @@ Batshuayi is nicknamed "Batsman", a play on the name of the superhero [[Batman]]
 [[Category:Belgium international footballers]]
 [[Category:UEFA Euro 2016 players]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>jodu6etcf8hwmk0qeliij0vtp6prr2p</sha1>
+      <sha1>fw5fhn1f1whgmbegyn9niuv6qmzp3g5</sha1>
     </revision>
   </page>
   <page>
@@ -5177,17 +5187,17 @@ On 11 September 2016, Souaré was airlifted to hospital after being involved in 
     <ns>0</ns>
     <id>19677944</id>
     <revision>
-      <id>885414048</id>
-      <parentid>884749714</parentid>
-      <timestamp>2019-02-27T21:58:49Z</timestamp>
+      <id>888038117</id>
+      <parentid>886954528</parentid>
+      <timestamp>2019-03-16T14:22:23Z</timestamp>
       <contributor>
         <username>Eagleash</username>
         <id>17699731</id>
       </contributor>
-      <comment>updating</comment>
+      <comment>/* Career statistics */ updating</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="21475">{{spanish name|Guaita|Panadero}}
+      <text xml:space="preserve" bytes="21468">{{spanish name|Guaita|Panadero}}
 {{Use dmy dates|date=June 2018}}
 {{Infobox football biography
 | name = Vicente Guaita
@@ -5207,9 +5217,9 @@ On 11 September 2016, Souaré was airlifted to hospital after being involved in 
 | years2 = 2008–2014 | clubs2 = [[Valencia CF|Valencia]] | caps2 = 76 | goals2 = 0
 | years3 = 2009–2010 | clubs3 = → [[Recreativo de Huelva|Recreativo]] (loan) | caps3 = 30 | goals3 = 0
 | years4 = 2014–2018 | clubs4 = [[Getafe CF|Getafe]] | caps4 = 108 | goals4 = 0
-| years5 = 2018– | clubs5 = [[Crystal Palace F.C.|Crystal Palace]] | caps5 = 11 | goals5 = 0
+| years5 = 2018– | clubs5 = [[Crystal Palace F.C.|Crystal Palace]] | caps5 = 12 | goals5 = 0
 | totalcaps = | totalgoals = 
-| club-update = 21:58, 27 February 2019 (UTC)
+| club-update = 17:09, 9 March 2019 (UTC)
 }}
 '''Vicente Guaita Panadero''' ({{IPA-es|biˈθente ˈɣwaita panaˈðeɾo}};{{efn-lr|In isolation, ''Guaita'' is pronounced {{IPA-es|ˈɡwaita|}}.}} born 10 January 1987) is a Spanish professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{English football updater|CrystalP}} club [[Crystal Palace F.C.|Crystal Palace]].
 
@@ -5237,7 +5247,7 @@ In the [[2016–17 Segunda División|2016–17 campaign]], with the club again i
 On 2 February 2018, [[Crystal Palace F.C.|Crystal Palace]] manager [[Roy Hodgson]] confirmed Guaita had agreed to join from 1 July on a [[Free transfer (association football)|free transfer]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2018/feb/02/football-crystal-palace-getafe-vicente-guaita-goalkeeper|title=Crystal Palace to sign Getafe goalkeeper Vicente Guaita in July|first=Dominic|last=Fifield|newspaper=[[The Guardian]]|location=London|date=2 February 2018|accessdate=10 June 2018}}&lt;/ref&gt; The transfer was reconfirmed by the club on 8 June, with the player joining on a three-year contract.&lt;ref&gt;{{cite web|url=https://www.cpfc.co.uk/news/2018/june/vicente-guaita-to-join-palace-on-1st-july/|title=Vicente Guaita to join Palace on 1st July|publisher=Crystal Palace F.C.|date=8 June 2018|accessdate=10 June 2018}}&lt;/ref&gt; He made his [[Premier League]] debut on 15 December, keeping a [[Shutout#Association football|clean sheet]] in a 1–0 home win against [[Leicester City F.C.|Leicester City]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/46491854|title=Crystal Palace 1–0 Leicester City|publisher=[[BBC Sport]]|first=Jack|last=Skelton|date=15 December 2018|accessdate=22 December 2018}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 27 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -5320,10 +5330,10 @@ On 2 February 2018, [[Crystal Palace F.C.|Crystal Palace]] manager [[Roy Hodgson
 |[[Crystal Palace F.C.|Crystal Palace]]
 |[[2018–19 Crystal Palace F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|54436|2018|accessdate=28 August 2018}}&lt;/ref&gt;
 |[[Premier League]]
-|11||0||0||0||3||0||colspan=2|—||14||0
+|12||0||1||0||3||0||colspan=2|—||16||0
 |-
 !colspan=3|Career total
-!243||0||17||0||3||0||26||0||289||0
+!244||0||18||0||3||0||26||0||291||0
 |}
 
 {{notelist}}
@@ -5369,7 +5379,7 @@ On 2 February 2018, [[Crystal Palace F.C.|Crystal Palace]] manager [[Roy Hodgson
 [[Category:Spanish expatriate footballers]]
 [[Category:Expatriate footballers in England]]
 [[Category:Spanish expatriate sportspeople in England]]</text>
-      <sha1>ngm68dhi0yisu62c0scjutrl55or434</sha1>
+      <sha1>2huagmodg0bb3lk9lub29ujp0rxiu67</sha1>
     </revision>
   </page>
   <page>
@@ -5697,14 +5707,14 @@ An elderly persons home is named after him in [[Ashton in Makerfield]].
     <ns>0</ns>
     <id>41432986</id>
     <revision>
-      <id>884583258</id>
-      <parentid>884569437</parentid>
-      <timestamp>2019-02-22T16:10:55Z</timestamp>
+      <id>887932318</id>
+      <parentid>887923939</parentid>
+      <timestamp>2019-03-15T19:52:04Z</timestamp>
       <contributor>
         <username>Eagleash</username>
         <id>17699731</id>
       </contributor>
-      <comment>Undid revision 884569437 by [[Special:Contributions/94.69.230.38|94.69.230.38]] ([[User talk:94.69.230.38|talk]]) [[Help:Reverting|Reverting]] unexplained content removal</comment>
+      <comment>Undid revision 887923939 by [[Special:Contributions/2A02:587:481C:5400:D920:35AB:ACEC:7CE1|2A02:587:481C:5400:D920:35AB:ACEC:7CE1]] ([[User talk:2A02:587:481C:5400:D920:35AB:ACEC:7CE1|talk]]) [[Help:Reverting|Reverting]] unexplained content removal</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="11923">{{Infobox football biography
@@ -5922,15 +5932,17 @@ Born in Haarlem, Riedewald is of mixed [[Dutch people|Dutch]], [[Suriname]]se an
     <ns>0</ns>
     <id>43405230</id>
     <revision>
-      <id>885980192</id>
-      <parentid>885848359</parentid>
-      <timestamp>2019-03-03T15:40:56Z</timestamp>
+      <id>888646547</id>
+      <parentid>887451922</parentid>
+      <timestamp>2019-03-20T14:18:29Z</timestamp>
       <contributor>
-        <ip>178.248.103.252</ip>
+        <username>CHING WAI KONG</username>
+        <id>20202369</id>
       </contributor>
+      <minor/>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="10648">{{Infobox football biography
+      <text xml:space="preserve" bytes="10706">{{Infobox football biography
 | name = Alexander Sørloth
 | image = Alexander Sørloth.JPG
 | image_size = 
@@ -5940,7 +5952,7 @@ Born in Haarlem, Riedewald is of mixed [[Dutch people|Dutch]], [[Suriname]]se an
 | birth_place = [[Trondheim]], Norway
 | height = 1.94 m
 | position = [[Striker (association football)|Striker]]
-| currentclub = [[K.A.A. Gent|Gent]]
+| currentclub = [[K.A.A. Gent|Gent]]&lt;br&gt;(on loan from [[Crystal Palace F.C.|Crystal Palace]])
 | clubnumber  = 10
 | youthyears1 =
 | youthclubs1 = [[Strindheim]]
@@ -5972,7 +5984,7 @@ Born in Haarlem, Riedewald is of mixed [[Dutch people|Dutch]], [[Suriname]]se an
 | goals6 = 0
 | clubs7 = → [[K.A.A. Gent|Gent]] (loan)
 | years7 = 2019–
-| caps7  = 7
+| caps7  = 8
 | goals7 = 3
 | nationalyears1 = 2011
 | nationalteam1 = Norway U16
@@ -6030,7 +6042,7 @@ He is the son of former Rosenborg player and Norwegian international [[Gøran S�
 
 ==Career statistics==
 ===Club===
-{{updated|2 March 2019}}&lt;ref&gt;{{nifs|95429|accessdate=8 March 2014}}&lt;/ref&gt;&lt;ref name="sw"&gt;{{soccerway|alexander-sorloth/218038}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Alexander Sørloth » Club matches|url=http://www.worldfootball.net/player_summary/alexander-soerloth/2/|website=worldfootball.net|accessdate=2 October 2017}}&lt;/ref&gt;
+{{updated|12 March 2019}}&lt;ref&gt;{{nifs|95429|accessdate=8 March 2014}}&lt;/ref&gt;&lt;ref name="sw"&gt;{{soccerway|alexander-sorloth/218038}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Alexander Sørloth » Club matches|url=http://www.worldfootball.net/player_summary/alexander-soerloth/2/|website=worldfootball.net|accessdate=2 October 2017}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -6093,13 +6105,13 @@ He is the son of former Rosenborg player and Norwegian international [[Gøran S�
 |rowspan="2"|[[K.A.A. Gent|Gent]] (loan)
 |[[2018–19 Belgian First Division A|2018–19]]
 |rowspan="1"|[[Belgian First Division A]]
-|6||2||1||1||0||0||colspan="2"|—||7||3
+|8||3||1||1||0||0||colspan="2"|—||9||4
 |-
 !colspan=2|Total
-!6!!2!!0!!0!!0!!0||colspan="2"|—!!7!!3
+!8!!3!!1!!1!!0!!0||colspan="2"|—!!9!!4
 |-
 !colspan="3"|Career Total
-!111!!30!!5!!2!!3!!1!!10!!5!!129!!38
+!113!!31!!5!!2!!3!!1!!10!!5!!131!!39
 |}
 
 ===International===
@@ -6173,7 +6185,7 @@ He is the son of former Rosenborg player and Norwegian international [[Gøran S�
 [[Category:Norwegian expatriate sportspeople in the Netherlands]]
 [[Category:Association football forwards]]
 [[Category:Premier League players]]</text>
-      <sha1>jtf223nxlzkqb5uu2jglocj39afuyak</sha1>
+      <sha1>5g31kraymyldpjjv9an8fxr2u5kqbvv</sha1>
     </revision>
   </page>
   <page>
@@ -6514,17 +6526,18 @@ Following his departure from Rizespor, Jach joined Moldovan side [[FC Sheriff Ti
     <ns>0</ns>
     <id>59634783</id>
     <revision>
-      <id>885446085</id>
-      <parentid>883907693</parentid>
-      <timestamp>2019-02-28T02:11:23Z</timestamp>
+      <id>888070711</id>
+      <parentid>885446085</parentid>
+      <timestamp>2019-03-16T18:47:40Z</timestamp>
       <contributor>
-        <username>Wikimandia</username>
-        <id>2884580</id>
+        <username>GiantSnowman</username>
+        <id>1005449</id>
       </contributor>
-      <comment>removed [[Category:People from Islington]]; added [[Category:People from the London Borough of Islington]] using [[WP:HC|HotCat]]</comment>
+      <minor/>
+      <comment>update - match played 16 March 2019</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="3870">{{Infobox football biography
+      <text xml:space="preserve" bytes="3867">{{Infobox football biography
 |name           = Nya Kirby
 |image          = 
 |image_size     = 
@@ -6546,7 +6559,7 @@ Following his departure from Rizespor, Jach joined Moldovan side [[FC Sheriff Ti
 |goals1         = 0
 |years2         = 2019–
 |clubs2         = → [[Blackpool F.C.|Blackpool]] (loan)
-|caps2          = 3
+|caps2          = 4
 |goals2         = 0
 |nationalyears1 = 
 |nationalteam1  = [[England national under-17 football team|England U17]]
@@ -6556,7 +6569,7 @@ Following his departure from Rizespor, Jach joined Moldovan side [[FC Sheriff Ti
 |nationalteam2  = [[England national under-19 football team|England U19]]
 |nationalcaps2  = 
 |nationalgoals2 = 
-|club-update    = 10:36, 18 February 2019 (UTC)
+|club-update    = 18:47, 16 March 2019 (UTC)
 |ntupdate       = 14:46, 11 January 2019 (UTC)
 }}
 '''Nya Jerome Kirby''' (born 31 January 2000) is an English professional [[association football|footballer]] who plays for [[Blackpool F.C.|Blackpool]], on loan from [[Crystal Palace F.C.|Crystal Palace]], as a [[midfielder]].
@@ -6586,7 +6599,7 @@ He has represented England at under-17 and under-19 international youth levels.&
 [[Category:England youth international footballers]]
 
 {{England-footy-bio-stub}}</text>
-      <sha1>oph610nk17mc0q898madslkvbl2tszb</sha1>
+      <sha1>gcnl51u0e3ktf8ol56wodjm6kc9wc2i</sha1>
     </revision>
   </page>
   <page>

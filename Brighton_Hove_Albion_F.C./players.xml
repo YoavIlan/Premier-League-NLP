@@ -3,7 +3,7 @@
     <sitename>Wikipedia</sitename>
     <dbname>enwiki</dbname>
     <base>https://en.wikipedia.org/wiki/Main_Page</base>
-    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <generator>MediaWiki 1.33.0-wmf.22</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -47,18 +47,17 @@
     <ns>0</ns>
     <id>27751716</id>
     <revision>
-      <id>886154680</id>
-      <parentid>886153796</parentid>
-      <timestamp>2019-03-04T16:07:17Z</timestamp>
+      <id>888204565</id>
+      <parentid>886935152</parentid>
+      <timestamp>2019-03-17T16:37:57Z</timestamp>
       <contributor>
-        <username>Hippo43</username>
-        <id>638216</id>
+        <username>Beeney xx</username>
+        <id>35180261</id>
       </contributor>
-      <minor/>
-      <comment>cl</comment>
+      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="44232">{{For|people of a similar name|Matthew Ryan (disambiguation){{!}}Matthew Ryan}}
+      <text xml:space="preserve" bytes="44224">{{For|people of a similar name|Matthew Ryan (disambiguation){{!}}Matthew Ryan}}
 {{Use Australian English|date=June 2014}}
 {{Use dmy dates|date=December 2018}}
 {{Infobox football biography
@@ -101,7 +100,7 @@
 | goals5 = 0
 | years6 = 2017–
 | clubs6 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| caps6 = 62
+| caps6 = 63
 | goals6 = 0
 | nationalyears1 = 2011–2012
 | nationalteam1 = [[Australia national under-23 soccer team|Australia U23]]
@@ -111,7 +110,7 @@
 | nationalteam2 = [[Australia national soccer team|Australia]]
 | nationalcaps2 = 55
 | nationalgoals2 = 0
-| club-update = 16:56, 2 March 2019 (UTC)
+| club-update = 14:30, 9 March 2019 (UTC)
 | nationalteam-update = 22:48, 29 January 2019 (UTC)
 | medaltemplates = {{Medal|Team|{{fb|AUS}}}}
 {{Medal|1st|[[AFC Asian Cup]]|[[2015 AFC Asian Cup|2015]]}}
@@ -175,7 +174,7 @@ In May 2018 he was named in Australia's 23-man [[Australia national football tea
 [[File:Matthew Ryan.jpg|thumb|upright|Ryan playing for the [[Central Coast Mariners FC|Central Coast Mariners]] in 2010]]
 
 ===Club===
-{{updated|2 March 2019}}&lt;ref&gt;{{soccerway|matthew-ryan/131659|accessdate=14 May 2018}}&lt;/ref&gt;
+{{updated|17 March 2019}}&lt;ref&gt;{{soccerway|matthew-ryan/131659|accessdate=14 May 2018}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -249,12 +248,12 @@ In May 2018 he was named in Australia's 23-man [[Australia national football tea
 |38||0||0||0||0||0||colspan=2|—||38||0
 |-
 |[[2018–19 Premier League|2018–19]]
-|24||0||0||0||0||0||colspan=2|—||24||0
+|25||0||1||0||0||0||colspan=2|—||26||0
 |-
-!colspan=2|Total!!62!!0!!0!!0!!0!!0!!colspan=2|—!!62!!0
+!colspan=2|Total!!63!!0!!1!!0!!0!!0!!0!!0!!64!!0
 |-
 !colspan=3|Career total
-!257||0||19||0||0||0||44||0||320||0
+!258||0||20||0||0||0||44||0||322||0
 |}
 
 {{reflist|group=lower-alpha}}
@@ -380,7 +379,7 @@ In May 2018 he was named in Australia's 23-man [[Australia national football tea
 [[Category:Australian expatriate sportspeople in England]]
 [[Category:2018 FIFA World Cup players]]
 [[Category:2019 AFC Asian Cup players]]</text>
-      <sha1>8l6snvv50ulxbuogdl8g31ipqiklh9z</sha1>
+      <sha1>t8pnlbhd6q85ceyf4q4yc406yuittnl</sha1>
     </revision>
   </page>
   <page>
@@ -449,16 +448,17 @@ In May 2018 he was named in Australia's 23-man [[Australia national football tea
     <ns>0</ns>
     <id>15652814</id>
     <revision>
-      <id>885531136</id>
-      <parentid>882540332</parentid>
-      <timestamp>2019-02-28T16:42:42Z</timestamp>
+      <id>888618438</id>
+      <parentid>888563385</parentid>
+      <timestamp>2019-03-20T09:15:09Z</timestamp>
       <contributor>
-        <username>Beeney xx</username>
-        <id>35180261</id>
+        <username>Colonies Chris</username>
+        <id>577301</id>
       </contributor>
+      <comment>/* Career statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="15181">{{BLP sources|date=January 2018}}
+      <text xml:space="preserve" bytes="15139">{{BLP sources|date=January 2018}}
 {{Infobox football biography
 | name = Gaëtan Bong
 | image = Gaetan Bong 2018.jpg
@@ -468,7 +468,7 @@ In May 2018 he was named in Australia's 23-man [[Australia national football tea
 | birth_date = {{birth date and age|1988|4|25|df=y}}
 | birth_place = [[Sackbayeme]], Cameroon
 | height = 
-| position = [[Defender (association football)#Full back|Left back]]
+| position = [[Left back]]
 | currentclub = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
 | clubnumber = 3
 | youthyears1 = 2002–2006
@@ -508,7 +508,7 @@ In May 2018 he was named in Australia's 23-man [[Australia national football tea
 | club-update = 16:41, 28 February 2019 (UTC)
 | nationalteam-update = 16:38, 15 January 2019 (UTC)
 }}
-'''Thomas Gaëtan Bong''' (born 25 April 1988) is a Cameroonian professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for English club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and the [[Cameroon national football team|Cameroon national team]]. He previously played club football for [[FC Metz|Metz]], [[Tours FC|Tours]], [[Valenciennes FC|Valenciennes]], [[Olympiacos FC|Olympiacos]] and [[Wigan Athletic]] and represented [[France national under-21 football team|France at under-21 level]] before switching to his native Cameroon.
+'''Thomas Gaëtan Bong''' (born 25 April 1988) is a Cameroonian professional [[association football|footballer]] who plays as a [[defender (association football)|defender]] for English club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and the [[Cameroon national football team|Cameroon national team]]. He previously played club football for [[FC Metz|Metz]], [[Tours FC|Tours]], [[Valenciennes FC|Valenciennes]], [[Olympiacos FC|Olympiacos]] and [[Wigan Athletic]] and represented [[France national under-21 football team|France at under-21 level]] before switching to his native Cameroon.
 
 ==Personal life==
 
@@ -588,23 +588,23 @@ Bong played one match for Cameroon in the [[2010 FIFA World Cup]] in Cameroon's 
 |34||0||1||0||1||0||colspan=2|—||36||0
 |-
 |rowspan=6|[[Valenciennes FC|Valenciennes]]
-|[[2009–10 FC Valenciennes season|2009–10]]&lt;ref name=LEquipe/&gt;
+|[[2009–10 Valenciennes FC season|2009–10]]&lt;ref name=LEquipe/&gt;
 |Ligue 1
 |29||2||1||0||1||0||colspan=2|—||31||2
 |-
-|[[2010–11 FC Valenciennes season|2010–11]]&lt;ref name=LEquipe/&gt;
+|[[2010–11 Valenciennes FC season|2010–11]]&lt;ref name=LEquipe/&gt;
 |Ligue 1
 |22||1||1||0||1||1||colspan=2|—||24||2
 |-
-|[[2011–12 FC Valenciennes season|2011–12]]&lt;ref name=LEquipe/&gt;
+|[[2011–12 Valenciennes FC season|2011–12]]&lt;ref name=LEquipe/&gt;
 |Ligue 1
 |28||0||2||0||0||0||colspan=2|—||30||0
 |-
-|[[2012–13 FC Valenciennes season|2012–13]]&lt;ref name=LEquipe/&gt;
+|[[2012–13 Valenciennes FC season|2012–13]]&lt;ref name=LEquipe/&gt;
 |Ligue 1
 |29||0||1||0||1||0||colspan=2|—||31||0
 |-
-|[[2013–14 FC Valenciennes season|2013–14]]&lt;ref name=LEquipe/&gt;
+|[[2013–14 Valenciennes FC season|2013–14]]&lt;ref name=LEquipe/&gt;
 |Ligue 1
 |1||0||colspan=2|—||colspan=2|—||colspan=2|—||1||0
 |-
@@ -713,7 +713,7 @@ Bong played one match for Cameroon in the [[2010 FIFA World Cup]] in Cameroon's 
 [[Category:Expatriate footballers in Greece]]
 [[Category:Association football defenders]]
 [[Category:Superleague Greece players]]</text>
-      <sha1>gp0p7npdq407gqhn7pyvekdgnie4kzs</sha1>
+      <sha1>9yvq66z88mcvubz2ce2zpqb91abbdly</sha1>
     </revision>
   </page>
   <page>
@@ -721,16 +721,17 @@ Bong played one match for Cameroon in the [[2010 FIFA World Cup]] in Cameroon's 
     <ns>0</ns>
     <id>25281953</id>
     <revision>
-      <id>885832740</id>
-      <parentid>885530598</parentid>
-      <timestamp>2019-03-02T17:04:17Z</timestamp>
+      <id>888500815</id>
+      <parentid>888500715</parentid>
+      <timestamp>2019-03-19T15:51:58Z</timestamp>
       <contributor>
         <username>Beeney xx</username>
         <id>35180261</id>
       </contributor>
+      <comment>/* Individual */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="30396">{{For|the Gaelic footballer of the same name|Shane Duffy (Gaelic footballer)}}
+      <text xml:space="preserve" bytes="31020">{{For|the Gaelic footballer of the same name|Shane Duffy (Gaelic footballer)}}
 {{Use British English|date=September 2015}}
 {{Use dmy dates|date=September 2015}}
 {{Infobox football biography
@@ -771,7 +772,7 @@ Bong played one match for Cameroon in the [[2010 FIFA World Cup]] in Cameroon's 
 | goals5 = 5
 | years6 = 2016–
 | clubs6 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| caps6 = 93
+| caps6 = 94
 | goals6 = 7
 | nationalyears1 = 2008
 | nationalteam1 = [[Northern Ireland national under-16 football team|Northern Ireland U16]]
@@ -805,7 +806,7 @@ Bong played one match for Cameroon in the [[2010 FIFA World Cup]] in Cameroon's 
 | nationalteam8 = [[Republic of Ireland national football team|Republic of Ireland]]
 | nationalcaps8 = 25
 | nationalgoals8 = 2
-| club-update = 17:03, 2 March 2019 (UTC)
+| club-update = 14:30, 9 March 2019 (UTC)
 | nationalteam-update = 20:17, 1 December 2018 (UTC)
 }}
 '''Shane Patrick Michael Duffy''' (born 1 January 1992) is an Irish professional [[association football|footballer]] who plays as a [[defender (association football)|defender]] for [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and the [[Republic of Ireland national football team|Republic of Ireland national team]].
@@ -868,7 +869,7 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
 ==Career statistics==
 
 ===Club===
-{{updated|match played 2 March 2019}}
+{{updated|match played 17 March 2019}}
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -953,13 +954,13 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
 |-
 |[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|51537|2018|accessdate=19 August 2018}}&lt;/ref&gt;
 |Premier League
-|25||5||3||0||0||0||colspan=2|—||28||5
+|26||5||4||0||0||0||colspan=2|—||30||5
 |-
 !colspan=2|Total
-!93||7||4||0||0||0||colspan=2|—||97||7
+!94||7||5||0||0||0||colspan=2|—||99||7
 |-
 !colspan=3|Career total
-!217||14||12||0||3||2||3||0||235||16
+!218||14||13||0||3||2||3||0||237||16
 |}
 
 {{notelist}}
@@ -1006,19 +1007,24 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
 !scope=row|2
 |14 November 2017||[[Aviva Stadium]], [[Dublin]], Republic of Ireland||align=center|17||{{fb|Denmark}}||align=center|1–0||align=center|1–5||[[2018 FIFA World Cup qualification – UEFA Second Round|2018 FIFA World Cup qualification]]||&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/41884909 |title=Republic of Ireland 1–5 Denmark |last=Hafez |first=Shamoon |publisher=BBC Sport |date=14 November 2017 |accessdate=14 November 2017 }}&lt;/ref&gt;
 |}
+
 ==Honours==
 
-===Individual===
-*[[FAI International Football Awards#Senior International Player of the Year|FAI Senior International Player of the Year]]: 2017&lt;ref&gt;{{cite web |url=https://www.rte.ie/sport/soccer/2018/0319/948523-shane-duffy-named-fai-player-of-the-year/ |title=Shane Duffy named FAI Player of the Year |publisher=RTE Sport |date=19 March 2018 |accessdate=23 February 2019 }}&lt;/ref&gt;
+'''Brighton &amp; Hove Albion'''
+*[[EFL Championship]] runner-up: [[2016–17 EFL Championship|2016–17]]&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Sky Sports Football Yearbook 2017–2018 |year=2017 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-3397-4 |pages=82–83}}&lt;/ref&gt;
+
+====Individual====
+
+*[[FAI International Football Awards#Senior International Player of the Year|FAI Senior International Player of the Year]]: 2017,&lt;ref&gt;{{cite web |url=https://www.rte.ie/sport/soccer/2018/0319/948523-shane-duffy-named-fai-player-of-the-year/ |title=Shane Duffy named FAI Player of the Year |publisher=RTE Sport |date=19 March 2018 |accessdate=23 February 2019 }}&lt;/ref&gt; 2018&lt;ref&gt;{{cite web |url=https://www.irishtimes.com/sport/soccer/shane-duffy-named-republic-of-ireland-player-of-the-year-1.3829703/ |title=Shane Duffy named Republic of Ireland Player of the Year |publisher=Irish Times |date=17 March 2019 |accessdate=18 March 2019 }}&lt;/ref&gt;
 
 ==See also==
 * [[List of Republic of Ireland international footballers born outside the Republic of Ireland]]
 
 ==References==
-{{reflist}}
+{{Reflist}}
 
 ==External links==
-{{commons category}}
+{{Commons category}}
 *{{UEFA player|1909229}}
 *[http://www.evertonfc.com/player-profile/shane-duffy Shane Duffy profile] Everton FC
 *{{Soccerbase}}
@@ -1026,6 +1032,7 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
 {{FAI Senior International Player of the Year}}
 {{Republic of Ireland squad UEFA Euro 2016}}
 {{Brighton &amp; Hove Albion F.C. squad}}
+{{Authority control}}
 
 {{DEFAULTSORT:Duffy, Shane}}
 [[Category:1992 births]]
@@ -1050,7 +1057,7 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
 [[Category:Premier League players]]
 [[Category:UEFA Euro 2016 players]]
 [[Category:Doire Colmcille Gaelic footballers]]</text>
-      <sha1>cfbh5d39m1dgm3oglitt4uktmoe33zm</sha1>
+      <sha1>k2qtdlmhhe0g4zd9s65o5gp5v6deedr</sha1>
     </revision>
   </page>
   <page>
@@ -1058,26 +1065,27 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
     <ns>0</ns>
     <id>27907521</id>
     <revision>
-      <id>885832961</id>
-      <parentid>885530859</parentid>
-      <timestamp>2019-03-02T17:06:04Z</timestamp>
+      <id>888492772</id>
+      <parentid>888228064</parentid>
+      <timestamp>2019-03-19T14:46:58Z</timestamp>
       <contributor>
-        <username>Beeney xx</username>
-        <id>35180261</id>
+        <username>HarrisonS4433</username>
+        <id>22451392</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="14928">{{Use British English|date=February 2017}}
-{{Use dmy dates|date=October 2018}}
+      <text xml:space="preserve" bytes="15352">{{EngvarB|date=March 2019}}
+{{Use British English|date=February 2017}}
+{{Use dmy dates|date=March 2019}}
 {{Infobox football biography
 | name = Lewis Dunk
-| image = Lewis Dunk.jpg
-| image_size = 150
-| caption = Dunk playing for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] in 2011
+| image = BHA v FC Nantes pre season 03 08 2018-322 (42044181000) (cropped).jpg
+| image_size = 200
+| caption = Dunk playing for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] in 2018
 | fullname = Lewis Carl Dunk&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
-| birth_date = {{birth date and age|1991|11|21|df=y}}&lt;ref name=Hugman1011&gt;{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |location=Edinburgh |isbn=978-1-84596-601-0 |page=129}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1991|11|21|df=y}}&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/8163/Lewis-Dunk/overview |title=Lewis Dunk: Overview |publisher=Premier League |accessdate=17 March 2019}}&lt;/ref&gt;
 | birth_place = [[Brighton]], England
-| height = {{convert|1.92|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/8163/Lewis-Dunk/overview |title=Lewis Dunk: Overview |publisher=Premier League |accessdate=14 December 2017}}&lt;/ref&gt;
+| height = {{convert|1.92|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.brightonandhovealbion.com/teams/first-team/defender/lewis-dunk/ |title=Lewis Dunk |publisher=Brighton &amp; Hove Albion F.C. |accessdate=17 March 2019}}&lt;/ref&gt;
 | currentclub = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
 | clubnumber = 5
 | position = [[Centre back]]
@@ -1085,7 +1093,7 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
 | youthclubs1 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
 | years1 = 2010–
 | clubs1 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| caps1 = 234
+| caps1 = 235
 | goals1 = 13
 | years2 = 2013
 | clubs2 = → [[Bristol City F.C.|Bristol City]] (loan)
@@ -1095,18 +1103,20 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
 | nationalteam1 = [[England national football team|England]]
 | nationalcaps1 = 1
 | nationalgoals1 = 0
-| club-update = 17:05, 2 March 2019 (UTC)
+| club-update = 14:30, 9 March 2019 (UTC)
 | nationalteam-update = 17:20, 19 January 2019 (UTC)
 }}
 '''Lewis Carl Dunk''' (born 21 November 1991) is an English professional [[Association football|footballer]] who plays as a [[centre back]] for {{English football updater|Brigh&amp;HA}} club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and the [[England national football team|England national team]].
 
 ==Early life==
-Dunk was born in [[Brighton]], East Sussex.&lt;ref name=Hugman1011/&gt;
+Dunk was born in [[Brighton]], East Sussex.&lt;ref&gt;{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |location=Edinburgh |isbn=978-1-84596-601-0 |page=129}}&lt;/ref&gt; He is the son of former Sussex non-league player Mark Dunk.&lt;ref name="Dunk debut"&gt;{{cite news |url=http://www.theargus.co.uk/sport/8132511.Dunk_debut_for_Albion/ |title=Dunk debut for Albion |newspaper=The Argus |location=Brighton |date=1 May 2010 |accessdate=1 July 2010}}&lt;/ref&gt;
 
 ==Club career==
 ===Brighton &amp; Hove Albion===
 ====Early career====
-On 30 April 2010, Dunk signed a two-year professional contract with [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] following impressive performances captaining the club's youth team.&lt;ref&gt;{{cite news |url=http://www.theargus.co.uk/sport/8129342.Seagulls_award_pro_deals_to_hot_prospects/ |title=Seagulls award pro deals to hot prospects |newspaper=The Argus |location=Brighton |date=30 April 2010 |accessdate=1 July 2010}}&lt;/ref&gt; The following day, Dunk made his first professional appearance starting in the 0–0 draw at [[Milton Keynes Dons F.C.|Milton Keynes Dons]].&lt;ref&gt;{{cite news |url=http://www.theargus.co.uk/sport/8132511.Dunk_debut_for_Albion/ |title=Dunk debut for Albion |newspaper=The Argus |location=Brighton |date=1 May 2010 |accessdate=1 July 2010}}&lt;/ref&gt;
+[[File:Lewis Dunk.jpg|thumb|upright|Dunk playing for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] in 2011]]
+
+On 30 April 2010, Dunk signed a two-year professional contract with [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] following impressive performances captaining the club's youth team.&lt;ref&gt;{{cite news |url=http://www.theargus.co.uk/sport/8129342.Seagulls_award_pro_deals_to_hot_prospects/ |title=Seagulls award pro deals to hot prospects |newspaper=The Argus |location=Brighton |date=30 April 2010 |accessdate=1 July 2010}}&lt;/ref&gt; The following day, Dunk made his first professional appearance starting in the 0–0 draw at [[Milton Keynes Dons F.C.|Milton Keynes Dons]].&lt;ref name="Dunk debut"/&gt;
 
 On 31 January 2011, Dunk signed a one-year extension on his contract keeping him at the club until the summer of 2013.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/b/brighton/9382827.stm |title=Brighton defender signs new deal |publisher=BBC Sport |date=31 January 2011 |accessdate=31 January 2011}}&lt;/ref&gt; Dunk made eight appearances in the [[2010–11 Brighton &amp; Hove Albion F.C. season|2010–11 season]]&lt;ref name=sb1011/&gt; as Brighton gained promotion to the [[EFL Championship|Championship]] as [[EFL League One|League One]] champions.&lt;ref&gt;{{cite web |title=League One: 2010/11: Latest table |url=http://www.soccerbase.com/tournaments/tournament.sd?tourn_id=6 |website=Soccerbase |publisher=Centurycomm |accessdate=22 November 2017}}&lt;/ref&gt;
 
@@ -1116,11 +1126,11 @@ With fellow defenders [[Tommy Elphick]] and [[Adam El-Abd]] sidelined by injury,
 On 4 October 2013, Dunk joined League One club [[Bristol City F.C.|Bristol City]] on a one-month loan deal, to gain some first-team football.&lt;ref&gt;{{cite web |first=Adam |last=Baker |title=City deal in Dunk |url=http://www.bcfc.co.uk/news/article/20131004-lewisdunk-1094148.aspx |publisher=Bristol City F.C. |date=4 October 2013 |archiveurl=https://web.archive.org/web/20170301010419/http://www.bcfc.co.uk/news/article/20131004-lewisdunk-1094148.aspx |archivedate=1 March 2017 |deadurl=yes}}&lt;/ref&gt; He made his debut for the club in a 2–1 away defeat to [[Wycombe Wanderers F.C.|Wycombe Wanderers]] on 8 October 2013, in the [[EFL Trophy]].&lt;ref&gt;{{cite web |title=Wycombe Wanderers 2–1 Bristol City |url=https://www.skysports.com/football/wycombe-vs-bristol-c/report/303217 |publisher=Sky Sports |date=8 October 2013 |accessdate=30 December 2018}}&lt;/ref&gt;
 
 ====Return to Brighton &amp; Hove Albion====
-On 25 July 2014, Dunk signed a new four-year contract with [[Brighton &amp; Hove Albion|Brighton]], which kept him at the club until the end of the [[2017–18 Brighton &amp; Hove Albion F.C. season|2017–18]] season.&lt;ref&gt;{{cite web |first=Tim |last=Dudding |title=New deal for Dunk |url=https://www.brightonandhovealbion.com/news/2014/july/new-deal-for-dunk/ |publisher=Brighton &amp; Hove Albion F.C. |date=25 July 2014 |accessdate=22 November 2017}}&lt;/ref&gt; He scored his first goal for Brighton in the club's first game of the [[2014–15 Brighton &amp; Hove Albion F.C. season|2014–15]] season, a 2–0 win over [[Cheltenham Town F.C.|Cheltenham Town]] in the [[EFL Cup]], in a game that marked new boss [[Sami Hyypiä|Sami Hyypiä's]] first win at the club.&lt;ref&gt;{{cite web |title=Brighton &amp; Hove Albion 2–0 Cheltenham Town |url=https://www.bbc.co.uk/sport/football/28652372 |publisher=BBC Sport|date=13 August 2014 |accessdate=30 December 2018}}&lt;/ref&gt;
+On 25 July 2014, Dunk signed a new four-year contract with [[Brighton &amp; Hove Albion|Brighton]], which kept him at the club until the end of the [[2017–18 Brighton &amp; Hove Albion F.C. season|2017–18]] season.&lt;ref&gt;{{cite web |first=Tim |last=Dudding |title=New deal for Dunk |url=https://www.brightonandhovealbion.com/news/2014/july/new-deal-for-dunk/ |publisher=Brighton &amp; Hove Albion F.C. |date=25 July 2014 |accessdate=22 November 2017}}&lt;/ref&gt; He scored his first goal for Brighton in the club's first game of the [[2014–15 Brighton &amp; Hove Albion F.C. season|2014–15]] season, a 2–0 win over [[Cheltenham Town F.C.|Cheltenham Town]] in the [[EFL Cup]], in a game that marked new boss [[Sami Hyypiä]]'s first win at the club.&lt;ref&gt;{{cite web |title=Brighton &amp; Hove Albion 2–0 Cheltenham Town |url=https://www.bbc.co.uk/sport/football/28652372 |publisher=BBC Sport |date=13 August 2014 |accessdate=30 December 2018}}&lt;/ref&gt;
 
 Dunk formed a partnership at [[centre back]] with new Brighton signing [[Shane Duffy]] in the [[2016–17 Brighton &amp; Hove Albion F.C. season|2016–17]] season, with the club conceding a joint-league best of 40 goals for the season, in which Brighton were promoted to the [[Premier League]].&lt;ref&gt;{{cite web |title=Championship Table 2016/17 Season |url=https://www.skysports.com/championship-table/2016 |publisher=Sky Sports |date=30 May 2017 |accessdate=30 December 2018}}&lt;/ref&gt;
 
-Dunk played the full 90 minutes, and scored an own goal, in Brighton's first ever [[Premier League]] match, a 0–2 home defeat to [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{cite web |title=Brighton &amp; Hove Albion 0–2 Manchester City |url=https://www.bbc.co.uk/sport/football/40835422 |publisher=BBC Sport|date=12 August 2017 |accessdate=30 December 2018}}&lt;/ref&gt; On 24 February 2018, Dunk scored his fourth own goal of the season in a 4–1 home win over [[Swansea City A.F.C.|Swansea City]]&lt;ref&gt;{{cite web |title=Brighton &amp; Hove Albion 4–1 Swansea City |url=https://www.bbc.co.uk/sport/football/43094255 |publisher=BBC Sport |date=24 February 2018 |accessdate=30 December 2018}}&lt;/ref&gt;, which brought him level with [[Martin Škrtel]] at the top of the list of most own goals in a season in the [[Premier League]].&lt;ref&gt;{{cite web |title=Unlucky Dunk equals record for own goals |url=https://www.premierleague.com/news/628553 |publisher=Premier League |date=26 February 2018 |accessdate=30 December 2018}}&lt;/ref&gt; He scored his first [[Premier League]] goal in a 2–1 victory over [[Arsenal F.C.|Arsenal]] on 4 March 2018.&lt;ref&gt;{{cite web |title=Brighton &amp; Hove Albion 2–1 Arsenal |url=https://www.bbc.co.uk/sport/football/43186393/ |publisher=BBC Sport|date=4 March 2018 |accessdate=30 December 2018}}&lt;/ref&gt; Dunk played in every game in Brighton's debut season in the [[Premier League]], as the club finished in 15th place and amassed 40 points.&lt;ref name=sb1718&gt;{{soccerbase season|54394|2017|accessdate=8 June 2018}}&lt;/ref&gt;
+Dunk played the full 90 minutes, and scored an own goal, in Brighton's first ever [[Premier League]] match, a 0–2 home defeat to [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{cite web |title=Brighton &amp; Hove Albion 0–2 Manchester City |url=https://www.bbc.co.uk/sport/football/40835422 |publisher=BBC Sport |date=12 August 2017 |accessdate=30 December 2018}}&lt;/ref&gt; On 24 February 2018, Dunk scored his fourth own goal of the season in a 4–1 home win over [[Swansea City A.F.C.|Swansea City]],&lt;ref&gt;{{cite web |title=Brighton &amp; Hove Albion 4–1 Swansea City |url=https://www.bbc.co.uk/sport/football/43094255 |publisher=BBC Sport |date=24 February 2018 |accessdate=30 December 2018}}&lt;/ref&gt; which brought him level with [[Martin Škrtel]] at the top of the list of most own goals in a season in the [[Premier League]].&lt;ref&gt;{{cite web |title=Unlucky Dunk equals record for own goals |url=https://www.premierleague.com/news/628553 |publisher=Premier League |date=26 February 2018 |accessdate=30 December 2018}}&lt;/ref&gt; He scored his first [[Premier League]] goal in a 2–1 victory over [[Arsenal F.C.|Arsenal]] on 4 March 2018.&lt;ref&gt;{{cite web |title=Brighton &amp; Hove Albion 2–1 Arsenal |url=https://www.bbc.co.uk/sport/football/43186393/ |publisher=BBC Sport |date=4 March 2018 |accessdate=30 December 2018}}&lt;/ref&gt; Dunk played in every game in Brighton's debut season in the [[Premier League]], as the club finished in 15th place and amassed 40 points.&lt;ref name=sb1718/&gt;
 
 On 5 October 2018, Dunk, alongside [[centre back]] partner [[Shane Duffy]], signed a new contract with Brighton, with the pair signing five-year contracts that extended their stay at the club until June 2023.&lt;ref&gt;{{cite web |title=New deals for Dunk and Duffy |url=https://www.brightonandhovealbion.com/news/2018/october/new-deals-for-dunk-and-duffy/ |publisher=Brighton &amp; Hove Albion F.C. |date=5 October 2018 |accessdate=30 December 2018}}&lt;/ref&gt;
 
@@ -1129,7 +1139,7 @@ Dunk received a call-up to the [[England national under-21 football team|England
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}
+{{updated|match played 17 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -1145,7 +1155,7 @@ Dunk received a call-up to the [[England national under-21 football team|England
 !Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
 |-
 |rowspan=11|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-|2009–10&lt;ref name=sb0910&gt;{{soccerbase season|54394|2009|accessdate=19 August 2017}}&lt;/ref&gt;
+|[[2009–10 Brighton &amp; Hove Albion F.C. season|2009–10]]&lt;ref name=sb0910&gt;{{soccerbase season|54394|2009|accessdate=19 August 2017}}&lt;/ref&gt;
 |[[EFL League One|League One]]
 |1||0||0||0||0||0||0||0||1||0
 |-
@@ -1181,12 +1191,12 @@ Dunk received a call-up to the [[England national under-21 football team|England
 |[[Premier League]]
 |38||1||1||0||0||0||colspan=2|—||39||1
 |-
-|[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|54394|2018|accessdate=9 December 2018}}&lt;/ref&gt;
+|[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|54394|2018|accessdate=17 March 2019}}&lt;/ref&gt;
 |Premier League
-|26||2||0||0||0||0||colspan=2|—||26||2
+|27||2||1||0||0||0||colspan=2|—||28||2
 |-
 !colspan=2|Total
-!234||13||14||1||8||1||2||1||258||16
+!235||13||15||1||8||1||2||1||260||16
 |-
 |[[Bristol City F.C.|Bristol City]] (loan)
 |[[2013–14 Bristol City F.C. season|2013–14]]&lt;ref name=sb1314/&gt;
@@ -1194,13 +1204,13 @@ Dunk received a call-up to the [[England national under-21 football team|England
 |2||0||colspan=2|—||colspan=2|—||1{{efn|Appearance in [[Football League Trophy]]}}||0||3||0
 |-
 !colspan=3|Career total
-!236||13||14||1||8||1||3||1||261||16
+!237||13||15||1||8||1||3||1||263||16
 |}
 
 {{notelist}}
 
 ===International===
-{{updated|match played 15 November 2018}}&lt;ref&gt;{{NFT player |id=72548 |name=Dunk, Lewis |accessdate=1 December 2018}}&lt;/ref&gt;
+{{updated|match played 15 November 2018}}&lt;ref&gt;{{NFT player |id=72548 |name=Dunk, Lewis |accessdate=17 March 2019}}&lt;/ref&gt;
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by national team and year
@@ -1243,7 +1253,7 @@ Dunk received a call-up to the [[England national under-21 football team|England
 [[Category:Bristol City F.C. players]]
 [[Category:English Football League players]]
 [[Category:Premier League players]]</text>
-      <sha1>fpaod5n0ghmhm5ihqn5dd3gcp3c17un</sha1>
+      <sha1>7hvkalfnqh5dcrkwzn6zkhrs1b8iwtr</sha1>
     </revision>
   </page>
   <page>
@@ -1275,19 +1285,18 @@ Dunk received a call-up to the [[England national under-21 football team|England
     <ns>0</ns>
     <id>6180457</id>
     <revision>
-      <id>885835063</id>
-      <parentid>883621757</parentid>
-      <timestamp>2019-03-02T17:22:25Z</timestamp>
+      <id>888872585</id>
+      <parentid>888866835</parentid>
+      <timestamp>2019-03-21T23:07:06Z</timestamp>
       <contributor>
-        <username>Beeney xx</username>
-        <id>35180261</id>
+        <ip>79.176.0.126</ip>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="29681">{{Use dmy dates|date=January 2018}}
+      <text xml:space="preserve" bytes="29876">{{Use dmy dates|date=January 2018}}
 {{Infobox football biography
 | name = Beram Kayal
-| image = File:BHA v FC Nantes pre season 03 08 2018-18 (28915966987).jpg
+| image = BHA v FC Nantes pre season 03 08 2018-18 (28915966987).jpg
 | image_size = 285
 | caption = Kayal playing for [[Brighton &amp; Hove Albion]] in 2017
 | fullname = Beram Kayal&lt;ref&gt;{{cite web |url=http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf |title=EFL: Retained list: 2015/16 |publisher=English Football League |page=11 |format=PDF |accessdate=26 June 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20161202052144/http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf |archivedate=2 December 2016 |df=dmy-all }}&lt;/ref&gt;
@@ -1330,12 +1339,12 @@ Dunk received a call-up to the [[England national under-21 football team|England
 | nationalgoals4 = 1
 | nationalyears5 = 2008–
 | nationalteam5 = [[Israel national football team|Israel]]
-| nationalcaps5 = 38
+| nationalcaps5 = 39
 | nationalgoals5 = 2
-| nationalteam-update = 21 November 2018
+| nationalteam-update = 21 March 2019
 }}
 
-'''Beram Kayal''' (or '''Biram Keyal''',&lt;ref&gt;[https://www.theguardian.com/football/2010/jul/29/celtic-transfer-israeli-midfielder-biram-kayal Celtic complete signing of Israeli midfielder Biram Kayal] guardian.co.uk, 29 July 2010&lt;/ref&gt; {{lang-ar|بيرم كيال}}, {{lang-he-n|בירם כיאל}}; born 2 May 1988) is an [[Arab-Israeli]] professional [[association football|footballer]] who plays as a [[Midfielder#Central midfielder|central midfielder]] for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and the [[Israel national football team|Israel national team]]. He has been a full international since 2008, and has 38 senior [[cap (sports)|caps]].
+'''Beram Kayal''' (or Biram Keyal,&lt;ref&gt;[https://www.theguardian.com/football/2010/jul/29/celtic-transfer-israeli-midfielder-biram-kayal Celtic complete signing of Israeli midfielder Biram Kayal] guardian.co.uk, 29 July 2010&lt;/ref&gt; {{lang-ar|بيرم كيال}}, {{lang-he-n|בירם כיאל}}; born 2 May 1988) is an [[Arab-Israeli]] professional [[association football|footballer]] who plays as a [[Midfielder#Central midfielder|central midfielder]] for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and the [[Israel national football team|Israel national team]]. He has been a full international since 2008, and has 39 senior [[cap (sports)|caps]].
 
 Kayal joined [[Maccabi Haifa F.C.|Maccabi Haifa]] in 2002 and made his professional debut in 2006 at the age of 18. He made 125 appearances and scored eight goals before moving to Celtic in 2010. He has received plaudits from many Scottish football pundits and was named the [[Scottish Premier League monthly awards|SPL player of the month]] for January 2011.&lt;ref name=PoMJan11/&gt; In January 2015, he joined Brighton.
 
@@ -1366,9 +1375,9 @@ In the 2012 season, Kayal obtained European nationality and played an important 
 On 22 October 2013 he scored his first goal in the [[UEFA Champions League]] against [[AFC Ajax]] in a 2–1 win.&lt;ref&gt;{{cite web|url = http://www.dailymail.co.uk/sport/football/article-2472133/Celtic-2-Ajax-1-Neil-Lennons-10-men-seal-famous-victory.html|title= Lennon's 10 men seal victory after goals from Forrest and Kayal|date=22 October 2013|work=Daily Mail|accessdate=23 October 2013}}&lt;/ref&gt;
 
 ===Brighton &amp; Hove Albion===
-On 23 January 2015, Kayal signed for [[Brighton &amp; Hove Albion F.C|Brighton &amp; Hove Albion]] on a two-and-a-half-year deal, for an undisclosed fee.&lt;ref&gt;{{cite news | url=https://www.bbc.co.uk/sport/0/football/30961756 | work=BBC | title= Brighton sign Celtic midfielder Beram Kayal | date=23 January 2015}}&lt;/ref&gt; He made his debut on 7 February, scoring a consolation goal for Brighton in a 2–3 defeat at home against [[Nottingham Forest F.C.|Nottingham Forest]].&lt;ref&gt;{{cite web|last1=Shergold|first1=Adam|title=Brighton 2–3 Nottingham Forest: Danny Collins, Henri Lansbury and Ben Osborn net as Dougie Freedman earns first win as boss|url=http://www.dailymail.co.uk/sport/football/article-2943955/Brighton-2-3-Nottingham-Forest-Danny-Collins-Henri-Lansbury-Ben-Osborn-net-Dougie-Freedman-earns-win-boss.html|publisher=Mail Online|accessdate=7 February 2015|date=7 February 2015}}&lt;/ref&gt; On 18 August, he scored within 14 seconds away to [[Huddersfield Town F.C|Huddersfield Town]], albeit in a 1–1 draw.&lt;ref&gt;{{cite news|title=Huddersfield 1–1 Brighton|url=https://www.bbc.co.uk/sport/0/football/33857651|accessdate=19 August 2015|publisher=BBC Sport|date=18 August 2015}}&lt;/ref&gt; Brighton narrowly missed out on automatic promotion where Kayal played 43 games and scoring 2 goals in the league in the [[2015-16 Football League Championship|2015-16]] season.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36176217|title=Middlesbrough 1-1 Brighton &amp; Hove Albion - BBC Sport|publisher=BBC Sport|date= 7 May 2016|accessdate= 7 May 2016}}&lt;/ref&gt; Brighton were to face another season in the Championship after losing to [[Sheffield Wednesday F.C.|Sheffield Wednesday]] on aggregate in the play offs where Kayal played in both matches for the Albion.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36244725|title=Brighton &amp; Hove Albion 1-1 Sheffield Wednesday (1-3 agg) - BBC sport|publisher=BBC Sport|date= 16 May 2016|accessdate= 16 May 2016}}&lt;/ref&gt; 
+On 23 January 2015, Kayal signed for [[Brighton &amp; Hove Albion F.C|Brighton &amp; Hove Albion]] on a two-and-a-half-year deal, for an undisclosed fee.&lt;ref&gt;{{cite news | url=https://www.bbc.co.uk/sport/0/football/30961756 | work=BBC | title= Brighton sign Celtic midfielder Beram Kayal | date=23 January 2015}}&lt;/ref&gt; He made his debut on 7 February, scoring a consolation goal for Brighton in a 2–3 defeat at home against [[Nottingham Forest F.C.|Nottingham Forest]].&lt;ref&gt;{{cite web|last1=Shergold|first1=Adam|title=Brighton 2–3 Nottingham Forest: Danny Collins, Henri Lansbury and Ben Osborn net as Dougie Freedman earns first win as boss|url=http://www.dailymail.co.uk/sport/football/article-2943955/Brighton-2-3-Nottingham-Forest-Danny-Collins-Henri-Lansbury-Ben-Osborn-net-Dougie-Freedman-earns-win-boss.html|publisher=Mail Online|accessdate=7 February 2015|date=7 February 2015}}&lt;/ref&gt; On 18 August, he scored within 14 seconds away to [[Huddersfield Town F.C|Huddersfield Town]], albeit in a 1–1 draw.&lt;ref&gt;{{cite news|title=Huddersfield 1–1 Brighton|url=https://www.bbc.co.uk/sport/0/football/33857651|accessdate=19 August 2015|publisher=BBC Sport|date=18 August 2015}}&lt;/ref&gt; Brighton narrowly missed out on automatic promotion where Kayal played 43 games and scoring 2 goals in the league in the [[2015-16 Football League Championship|2015-16]] season.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36176217|title=Middlesbrough 1-1 Brighton &amp; Hove Albion - BBC Sport|publisher=BBC Sport|date= 7 May 2016|accessdate= 7 May 2016}}&lt;/ref&gt; Brighton were to face another season in the Championship after losing to [[Sheffield Wednesday F.C.|Sheffield Wednesday]] on aggregate in the play offs where Kayal played in both matches for the Albion.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/36244725|title=Brighton &amp; Hove Albion 1-1 Sheffield Wednesday (1-3 agg) - BBC sport|publisher=BBC Sport|date= 16 May 2016|accessdate= 16 May 2016}}&lt;/ref&gt;
 
-On 7 January 2017 Kayal played in his first ever [[FA Cup]] match where he scored in the 2-0 home win over [[Milton Keynes Dons F.C.|MK Dons]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/38474505|title=FA Cup: Brighton 2-0 Milton Keynes Dons - BBC Sport|publisher=BBC Sport|date= 7 January 2017|accessdate= 7 January 2017}}&lt;/ref&gt; On 17 April 2017 Kayal played in the 2-1 home win over [[Wigan Athletic F.C.|Wigan Athletic]] which secured automatic promotion to the [[Premier League]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39549523|title=Brighton &amp; Hove Albion 2-1 Wigan Athletic - BBC sport|publisher=BBC Sport|date= 17 April 2017|accessdate= 17 April 2017}}&lt;/ref&gt; 
+On 7 January 2017 Kayal played in his first ever [[FA Cup]] match where he scored in the 2-0 home win over [[Milton Keynes Dons F.C.|MK Dons]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/38474505|title=FA Cup: Brighton 2-0 Milton Keynes Dons - BBC Sport|publisher=BBC Sport|date= 7 January 2017|accessdate= 7 January 2017}}&lt;/ref&gt; On 17 April 2017 Kayal played in the 2-1 home win over [[Wigan Athletic F.C.|Wigan Athletic]] which secured automatic promotion to the [[Premier League]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39549523|title=Brighton &amp; Hove Albion 2-1 Wigan Athletic - BBC sport|publisher=BBC Sport|date= 17 April 2017|accessdate= 17 April 2017}}&lt;/ref&gt;
 
 Kayal broke his leg in pre season in a friendly match against [[Atlético Madrid]] where he was sidelined for 10 weeks.&lt;ref&gt;{{cite web|url=https://www.theargus.co.uk/sport/15463996.kayal-injury-could-force-albion-back-into-midfield-market/|title=Beram Kayal injury could force Albion back into midfield market|publisher=The Argus|date= 10 August 2017|accessdate= 10 August 2017}}&lt;/ref&gt; Kayal made his Premier League debut on 13 December 2017 in a 2-0 away defeat to [[Tottenham Hotspur F.C.|Spurs]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/42247117|title=Tottenham Hotspur 2-0 Brighton &amp; Hove Albion - BBC Sport|publisher=BBC Sport|date= 13 December 2017|accessdate= 13 December 2017}}&lt;/ref&gt; Kayal went on to make 18 more Premier League appearances and played in the 1-0 win over [[Manchester United F.C.|Manchester Utd]] which secured Albion's Premier League status.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/43916611|title=Brighton &amp; Hove Albion 1–0 Manchester United – BBC Sport|publisher=BBC Sport|date=4 May 2018}}&lt;/ref&gt;
 
@@ -1398,7 +1407,7 @@ Kayal is a tenacious, hard working midfielder, known for high stamina level, agg
 Kayal is [[Muslim]].&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/2015/nov/21/beram-kayal-tomer-hemed-israelis-brighton|title=Beram Kayal and Tomer Hemed: Israelis united in promoting Brighton’s cause|first=Jacob|last=Steinberg|date=21 November 2015|publisher=|via=www.theguardian.com}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|2 March 2019}}.&lt;ref&gt;{{cite news|title=Career History|url=http://www.seagulls.co.uk/team/player-profile/beram-kayal/7|accessdate=25 January 2016|publisher=Brighton &amp; Hove Albion F.C.|date=26 January 2016|archive-url=https://web.archive.org/web/20160219011756/http://www.seagulls.co.uk/team/player-profile/beram-kayal/7|archive-date=19 February 2016|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+{{updated|17 March 2019}}.&lt;ref&gt;{{cite news|title=Career History|url=http://www.seagulls.co.uk/team/player-profile/beram-kayal/7|accessdate=25 January 2016|publisher=Brighton &amp; Hove Albion F.C.|date=26 January 2016|archive-url=https://web.archive.org/web/20160219011756/http://www.seagulls.co.uk/team/player-profile/beram-kayal/7|archive-date=19 February 2016|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -1482,13 +1491,13 @@ Kayal is [[Muslim]].&lt;ref&gt;{{cite web|url=https://www.theguardian.com/footba
 |19||0||2||0||0||0||-||-||-||-||21||0
 |-
 |[[2018–19 Premier League|2018–19]]
-|13||1||4||0||1||0||-||-||-||-||18||1
+|13||1||5||0||1||0||-||-||-||-||19||1
 |-
 !!!Total
-!113!!4!!7!!1!!1!!0!!0!!0!!2!!0!!123!!5
+!113!!4!!8!!1!!1!!0!!0!!0!!2!!0!!124!!5
 |-
 !!!colspan="2"|Career Total
-!291!!12!!30!!2!!14!!1!!43!!1!!2!!0!!380!!16
+!291!!12!!31!!2!!14!!1!!43!!1!!2!!0!!381!!16
 |}
 
 *Note: [[Scottish Premier League]] &amp; [[Scottish Premiership]] = Same league (Change of name)
@@ -1522,13 +1531,13 @@ Kayal is [[Muslim]].&lt;ref&gt;{{cite web|url=https://www.theguardian.com/footba
 
 ==External links==
 {{Commons category|Beram Kayal}}
-* {{CelticFC.net|id=player.php?id=33|title=Beram Kayal}}
-* {{Soccerbase}}
-* [https://web.archive.org/web/20120518010314/http://eng.football.org.il/NationalTeam/Pages/NationalTeamPlayerDetails.aspx?PLAYER_ID=9586&amp;NATIONAL_TEAM_ID=3 Kayal Beram] Israel Football Association
-* {{NFT player|id=27420}}
-* [https://web.archive.org/web/20110721140203/http://www.mhaifa.co.il/TheClub/Player.asp?id=462 Beram Kayal profile] Maccabi Haifa {{he icon}}
-* {{ESPN FC|96812/baram-kayal}}
-* {{UEFA|97874}}
+* {{CelticFC.net|id=player.php?id=33|title=Beram Kayal}} ([https://web.archive.org/web/20130917051535/http://celticfc.net/player.php?id=33 archive])
+* {{Soccerbase|name=Baram Kayal}}
+* {{Webarchive |url=https://web.archive.org/web/20120518010314/http://eng.football.org.il/NationalTeam/Pages/NationalTeamPlayerDetails.aspx?PLAYER_ID=9586&amp;NATIONAL_TEAM_ID=3 |title=Beram Kayal at the Israel Football Association }}
+* {{NFT player|27420|Biram Kiyal}}
+* {{Webarchive |url=https://web.archive.org/web/20110721140203/http://www.mhaifa.co.il/TheClub/Player.asp?id=462 |title=Biram Kayal profile Maccabi Haifa {{he icon}} }}
+* {{ESPN FC|96812&lt;!-- /beram-kayal --&gt;|Beram Kayal}}
+* {{UEFA|97874|Beram Kayal}}
 
 {{Navboxes colour
 |bg=gold
@@ -1566,7 +1575,7 @@ Kayal is [[Muslim]].&lt;ref&gt;{{cite web|url=https://www.theguardian.com/footba
 [[Category:English Football League players]]
 [[Category:Israeli expatriate sportspeople in Scotland]]
 [[Category:Israeli expatriate sportspeople in the United Kingdom]]</text>
-      <sha1>2xxk6mup97nbha0dhg8wdhd9i0n22yn</sha1>
+      <sha1>3rzjgtdf7vnch185kx8c2e7xupsv5tv</sha1>
     </revision>
   </page>
   <page>
@@ -1574,9 +1583,9 @@ Kayal is [[Muslim]].&lt;ref&gt;{{cite web|url=https://www.theguardian.com/footba
     <ns>0</ns>
     <id>49395645</id>
     <revision>
-      <id>885833401</id>
-      <parentid>885533336</parentid>
-      <timestamp>2019-03-02T17:09:29Z</timestamp>
+      <id>886935267</id>
+      <parentid>885833401</parentid>
+      <timestamp>2019-03-09T14:25:24Z</timestamp>
       <contributor>
         <username>Beeney xx</username>
         <id>35180261</id>
@@ -1611,13 +1620,13 @@ Kayal is [[Muslim]].&lt;ref&gt;{{cite web|url=https://www.theguardian.com/footba
 | goals3 = 3
 | years4 = 2018–
 | clubs4 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| caps4 = 20
+| caps4 = 21
 | goals4 = 0
 | nationalyears1 = 2015–
 | nationalteam1 = [[Mali national football team|Mali]]
 | nationalcaps1 = 16
 | nationalgoals1 = 3
-| club-update = 17:08, 2 March 2019 (UTC)
+| club-update = 14:30. 9 March 2019 (UTC)
 | nationalteam-update = 23 March 2018
 }}
 '''Yves Bissouma''' (born 30 August 1996) is a Malian professional [[association football|footballer]] who plays for [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] as a [[midfielder]].
@@ -1638,7 +1647,7 @@ Born in the Ivory Coast and raised in Mali, Bissouma participated at the [[2016 
 ==Career statistics==
 
 ===Club===
-{{updated|match played 2 March 2019}}&lt;ref name="soccerway"&gt;{{cite web|url=https://int.soccerway.com/players/yves-bissouma/432255/|title=Y. Bissouma|publisher=Soccerway|accessdate=9 December 2016}}&lt;/ref&gt;
+{{updated|match played 9 March 2019}}&lt;ref name="soccerway"&gt;{{cite web|url=https://int.soccerway.com/players/yves-bissouma/432255/|title=Y. Bissouma|publisher=Soccerway|accessdate=9 December 2016}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center"
 |-
@@ -1672,10 +1681,10 @@ Born in the Ivory Coast and raised in Mali, Bissouma participated at the [[2016 
 |rowspan=1|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
 |[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]
 |rowspan=1|[[Premier League]]
-|20||0||4||1||1||0||colspan=4|—||25||1
+|21||0||4||1||1||0||colspan=4|—||26||1
 |-
 !colspan=3|Career total
-!81||6||9||1||3||0||1||0||0||0||94||7
+!82||6||9||1||3||0||1||0||0||0||95||7
 |}
 
 {{notelist}}
@@ -1747,7 +1756,7 @@ Born in the Ivory Coast and raised in Mali, Bissouma participated at the [[2016 
 [[Category:Expatriate footballers in England]]
 
 {{Mali-footy-bio-stub}}</text>
-      <sha1>ite7g1jtf7tqqjsl5g50b36qsjxitau</sha1>
+      <sha1>cm66qev77uggfsjnipsj7oqtjycj4ro</sha1>
     </revision>
   </page>
   <page>
@@ -1755,16 +1764,17 @@ Born in the Ivory Coast and raised in Mali, Bissouma participated at the [[2016 
     <ns>0</ns>
     <id>37178159</id>
     <revision>
-      <id>885532958</id>
-      <parentid>883914607</parentid>
-      <timestamp>2019-02-28T16:57:01Z</timestamp>
+      <id>888213247</id>
+      <parentid>888212139</parentid>
+      <timestamp>2019-03-17T17:47:05Z</timestamp>
       <contributor>
         <username>Beeney xx</username>
         <id>35180261</id>
       </contributor>
+      <comment>/* Brighton &amp; Hove Albion */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="17855">{{Use dmy dates|date=January 2013}}
+      <text xml:space="preserve" bytes="18947">{{Use dmy dates|date=January 2013}}
 {{Infobox football biography
 | name = Jürgen Locadia
 | image = PSV Eindhoven, Teamcamp Bad Erlach, July 2014 (082).jpg
@@ -1795,7 +1805,7 @@ Born in the Ivory Coast and raised in Mali, Bissouma participated at the [[2016 
 | goals1 = 45
 | years2 = 2018–
 | clubs2 = [[Brighton and Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| caps2 = 27
+| caps2 = 28
 | goals2 = 3
 | nationalyears1 = 2009–2011
 | nationalteam1 = [[Netherlands national under-17 football team|Netherlands U17]]
@@ -1817,7 +1827,7 @@ Born in the Ivory Coast and raised in Mali, Bissouma participated at the [[2016 
 | nationalteam5 = [[Netherlands national under-21 football team|Netherlands U21]]
 | nationalcaps5 = 7
 | nationalgoals5 = 1
-| club-update = 16:55, 28 February 2019 (UTC)
+| club-update = 14:30, 9 March 2019 (UTC)
 | nationalteam-update = 20:22, 4 September 2014 (UTC)
 }}
 '''Jürgen Leonardo Locadia''' (born 7 November 1993) is a Dutch professional [[Association football|footballer]] who plays as a [[Forward (association football)|striker]] or [[Forward (association football)|winger]] for [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].
@@ -1838,15 +1848,17 @@ Locadia began the [[2017–18 Eredivisie|2017–18]] season for PSV in good form
 &lt;ref&gt;{{Cite news|url=http://www.skysports.com/football/utrecht-vs-psv/372840|title=FC Utrecht 1–7 PSV Eindhoven|publisher=Sky Sports|date=18 January 2018}}&lt;/ref&gt;&lt;ref name=BHATransfer&gt;{{Cite news|url=http://www.skysports.com/football/news/11741/11212902/brighton-closing-on-jurgen-locadia-deal-from-psv-eindhoven|title=Brighton closing on Locadia deal|publisher=Sky Sports|date=18 January 2018}}&lt;/ref&gt;.
 
 ===Brighton &amp; Hove Albion=== 
-On 18 January 2018, [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] agreed a reported £15&amp;nbsp;million total fee with PSV for the transfer of Locadia, with £10&amp;nbsp;million being paid upfront along with £5&amp;nbsp;million in add-ons.&lt;ref name="BHATransfer"/&gt;&lt;ref&gt;{{Cite news|url=http://www.theargus.co.uk/sport/15865537.Albion_closing_in_on_prolific_PSV_striker_Jurgen_Locadia/|title=Brighton and Hove Albion close in on Jurgen Locadia from PSV Eindhoven|publisher=The Argus|author=Andy Naylor|date=18 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.dailymail.co.uk/sport/football/article-5286295/Brighton-close-14m-deal-PSVs-Jurgen-Locadia.html|title=PSV Eindhoven forward Jurgen Locadia set for Brighton medical ahead of proposed £14million switch|publisher=Daily Mail|author=Sami Mokbel|date=18 January 2018}}&lt;/ref&gt; He signed a four-and-a-half-year contract with ''the'' ''Seagulls'' the next day, and wears the number 25 shirt.&lt;ref&gt;{{Cite news|url=https://www.brightonandhovealbion.com/news/2018/january/albion-break-transfer-record-for-striker/|title=Albion break transfer record for striker|publisher=Brighton &amp; Hove Albion Football Club|date=19 January 2018}}&lt;/ref&gt; He reunites with former PSV teammate [[Davy Pröpper]], who joined Brighton in the 2017 summer transfer window.
+On 18 January 2018, [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] agreed a reported £15&amp;nbsp;million total fee with PSV for the transfer of Locadia, with £10&amp;nbsp;million being paid upfront along with £5&amp;nbsp;million in add-ons.&lt;ref name="BHATransfer"/&gt;&lt;ref&gt;{{Cite news|url=http://www.theargus.co.uk/sport/15865537.Albion_closing_in_on_prolific_PSV_striker_Jurgen_Locadia/|title=Brighton and Hove Albion close in on Jurgen Locadia from PSV Eindhoven|publisher=The Argus|author=Andy Naylor|date=18 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.dailymail.co.uk/sport/football/article-5286295/Brighton-close-14m-deal-PSVs-Jurgen-Locadia.html|title=PSV Eindhoven forward Jurgen Locadia set for Brighton medical ahead of proposed £14million switch|publisher=Daily Mail|author=Sami Mokbel|date=18 January 2018}}&lt;/ref&gt; He signed a four-and-a-half-year contract with ''the'' ''Seagulls'' the next day, and was giving the number 25 shirt. (He now wears the number 9 shirt).&lt;ref&gt;{{Cite news|url=https://www.brightonandhovealbion.com/news/2018/january/albion-break-transfer-record-for-striker/|title=Albion break transfer record for striker|publisher=Brighton &amp; Hove Albion Football Club|date=19 January 2018}}&lt;/ref&gt; He reunites with former PSV teammate [[Davy Pröpper]], who joined Brighton in the 2017 summer transfer window.
 
-On 17 February 2018, Locadia scored on his Brighton debut in a 3–1 FA Cup fifth round win against [[Coventry City F.C.|Coventry City]].&lt;ref&gt;{{cite web|title=Jürgen Locadia scores on debut in Brighton stroll against Coventry |url=https://www.theguardian.com/football/2018/feb/17/brighton-coventry-city-fa-cup-match-report|date=17 February 2018|accessdate=17 February 2017|publisher=[[The Guardian]]}}&lt;/ref&gt; He scored on his Premier League debut a week later on 24 February, netting from close range in the 90th minute of a 4–1 victory against [[Swansea City A.F.C.|Swansea City]], after coming on as a second-half substitute.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/43094255|title=Brighton &amp; Hove Albion 4–1 Swansea City|publisher=BBC Sport|date=24 February 2018}}&lt;/ref&gt;
+On 17 February 2018, Locadia scored on his Brighton debut in a 3–1 FA Cup fifth round win against [[Coventry City F.C.|Coventry City]].&lt;ref&gt;{{cite web|title=Jürgen Locadia scores on debut in Brighton stroll against Coventry |url=https://www.theguardian.com/football/2018/feb/17/brighton-coventry-city-fa-cup-match-report|date=17 February 2018|accessdate=17 February 2017|publisher=[[The Guardian]]}}&lt;/ref&gt; He scored on his Premier League debut a week later on 24 February, netting from close range in the 90th minute of a 4–1 victory against [[Swansea City A.F.C.|Swansea City]], after coming on as a second-half substitute.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/43094255|title=Brighton &amp; Hove Albion 4–1 Swansea City|publisher=BBC Sport|date=24 February 2018}}&lt;/ref&gt; 
+
+Locadia scored his first goal of the season in a 1–0 win over [[Everton F.C.|Everton]] in which he played the whole match.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/46656878 |title=Brighton &amp; Hove Albion 1-0 Everton: Locadia strike proves decisive for hosts - BBC Sport |publisher=BBC Sport |date=29 December 2018 |accessdate=29 December 2018}}&lt;/ref&gt; On 17 March 2019, Locadia scored in the [[2018-19 FA Cup|FA Cup]] quarter final away against [[Millwall F.C.|Millwall]]. His goal gave Brighton a lifeline putting them just a goal behind at [[The Den]]. A few minutes later [[Solly March]] scored a last gasp free kick making it 2–2 and to take it to extra time. The game stayed level throughout extra time and Brighton went to win on penalties 5–4 (in which Locadia and March both scored in) to take them to [[Wembley]].&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/47512116|title=Millwall 2–2 Brighton (pens 4-5): Brighton into FA Cup semi-finals on penalties - BBC Sport|publisher=BBC Sport|date=17 March 2019}}&lt;/ref&gt;
 
 ==International career==
 Locadia received his first call-up to the senior [[Netherlands national football team|Netherlands]] squad in November 2015.&lt;ref&gt;{{cite news|title=Locadia called into Netherlands squad for first time|url=http://www.football-oranje.com/locadia-called-into-netherlands-squad-for-first-time/|accessdate=22 March 2016|publisher=football-oranje.com|date=15 November 2015}}&lt;/ref&gt; He was called up again in March 2016 for friendlies against [[France national football team|France]] and [[England national football team|England]],&lt;ref&gt;{{cite news|title=Arjen Robben pulls out of Holland squad to face France and England with a thigh injury|url=http://www.dailymail.co.uk/sport/football/article-3497216/Arjen-Robben-pulls-Holland-squad-face-France-England-thigh-injury.html|accessdate=18 March 2016|publisher=dailymail.co.uk|date=17 March 2016}}&lt;/ref&gt; however he had to pull out with an injury.&lt;ref&gt;{{cite news|title=Karsdorp called up as four pull out of Netherlands squad|url=http://www.football-oranje.com/karsdorp-called-four-pull-netherlands-squad/|accessdate=22 March 2016|publisher=football-oranje.com|date=20 March 2016}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 26 February 2019|&lt;ref name="soccerway.com"&gt;{{cite web|url=https://int.soccerway.com/players/jurgen-locadia/158589/|title=Netherlands – J. Locadia – Profile with news, career statistics and history – Soccerway|website=int.soccerway.com}}&lt;/ref&gt;&lt;ref name=PSVprofile&gt;{{cite web|url=http://www.psv.nl/english-psv/team/player/jurgen-locadia.htm|title=Jürgen Locadia|website=www.psv.nl}}&lt;/ref&gt;}}
+{{updated|match played 17 March 2019|&lt;ref name="soccerway.com"&gt;{{cite web|url=https://int.soccerway.com/players/jurgen-locadia/158589/|title=Netherlands – J. Locadia – Profile with news, career statistics and history – Soccerway|website=int.soccerway.com}}&lt;/ref&gt;&lt;ref name=PSVprofile&gt;{{cite web|url=http://www.psv.nl/english-psv/team/player/jurgen-locadia.htm|title=Jürgen Locadia|website=www.psv.nl}}&lt;/ref&gt;}}
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -1901,13 +1913,13 @@ Locadia received his first call-up to the senior [[Netherlands national football
 |-
 |[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|62882|2018|accessdate=18 February 2019}}&lt;/ref&gt;
 |Premier League
-|21||2||4||1||1||0||colspan="2"|—||colspan="2"|—||26||3
+|22||2||5||2||1||0||colspan="2"|—||colspan="2"|—||28||4
 |-
 !colspan="2"|Total
-!27!!3!!6!!2!!1!!0!!0!!0!!0!!0!!34!!5
+!28!!3!!7!!3!!1!!0!!0!!0!!0!!0!!36!!6
 |-
 !colspan="3"|Career total
-!154!!48!!23!!16!!1!!0!!30!!3!!2!!0!!210!!67
+!155!!48!!24!!17!!1!!0!!30!!3!!2!!0!!212!!68
 |}
 
 {{reflist|group=lower-alpha}}
@@ -1980,7 +1992,7 @@ Locadia is also known as a singer and has cited [[Diplo]] and [[Major Lazer]] as
 [[Category:Netherlands under-21 international footballers]]
 [[Category:People from Emmen]]
 [[Category:Dutch people of Curaçao descent]]</text>
-      <sha1>lmzcellufo1e5typ90ermhj6x3xavzi</sha1>
+      <sha1>6tn1u9fuw2jst7o7ol6yxe9sw25ykwr</sha1>
     </revision>
   </page>
   <page>
@@ -2270,16 +2282,17 @@ Naturally right-footed, Andone plays as a [[Forward (association football)#Strik
     <ns>0</ns>
     <id>32722315</id>
     <revision>
-      <id>885834155</id>
-      <parentid>885641698</parentid>
-      <timestamp>2019-03-02T17:15:06Z</timestamp>
+      <id>888229730</id>
+      <parentid>888206178</parentid>
+      <timestamp>2019-03-17T19:53:04Z</timestamp>
       <contributor>
-        <username>Beeney xx</username>
-        <id>35180261</id>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
+      <comment>/* Honours */ ce, wl, refs</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="50983">{{EngvarB|date=July 2013}}
+      <text xml:space="preserve" bytes="51611">{{EngvarB|date=July 2013}}
 {{Use dmy dates|date=September 2018}}
 {{Infobox football biography
 | name = Anthony Knockaert
@@ -2317,8 +2330,8 @@ Naturally right-footed, Andone plays as a [[Forward (association football)#Strik
 | goals3 = 5
 | years4 = 2016–
 | clubs4 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| caps4 = 120
-| goals4 = 24
+| caps4 = 121
+| goals4 = 25
 &lt;!-- This is for LEAGUE GOALS ONLY. Do NOT include other goals. --&gt;| nationalyears1 = 2011–2012
 | nationalteam1 = [[France national under-20 football team|France U20]]
 | nationalcaps1 = 10
@@ -2327,7 +2340,7 @@ Naturally right-footed, Andone plays as a [[Forward (association football)#Strik
 | nationalteam2 = [[France national under-21 football team|France U21]]
 | nationalcaps2 = 3
 | nationalgoals2 = 1
-| club-update = 17:13, 2 March 2019 (UTC)
+| club-update = 14:30, 9 March 2019 (UTC)
 | nationalteam-update = 
 }}
 
@@ -2385,7 +2398,7 @@ Knockaert scored his first Premier League goal on 15 October 2017, in a 1–1 ho
 Knockaert played in the 1–0 home victory over [[Manchester United F.C.|Manchester Utd]] on 4 May 2018 which secured Albion's Premier League status. BBC Sport's Emlyn Begley described Knockaert and fellow winger [[José Heriberto Izquierdo Mena|Jose Izquierdo]] as "fantastic" in this game.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/43916611|title=Brighton &amp; Hove Albion 1–0 Manchester United – BBC Sport|publisher=BBC Sport|date=4 May 2018}}&lt;/ref&gt;
 
 ====2018–19 season====
-On 5 January 2019 Knockaert scored his first ever [[FA Cup]] goal in a 3–1 away win against south coast rivals Bournemouth in the third round.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/av/football/46730661|title=FA Cup: AFC Bournemouth 1–3 Brighton &amp; Hove Albion highlights – BBC Sport|publisher=BBC Sport|date= 5 January 2019|accessdate= 5 January 2019}}&lt;/ref&gt;
+On 5 January 2019 Knockaert scored his first ever [[FA Cup]] goal in a 3–1 away win against south coast rivals Bournemouth in the third round.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/av/football/46730661|title=FA Cup: AFC Bournemouth 1–3 Brighton &amp; Hove Albion highlights – BBC Sport|publisher=BBC Sport|date= 5 January 2019|accessdate= 5 January 2019}}&lt;/ref&gt; On 9 March 2019 Knockaert scored a screamer which turned out to be the winner against bitter rivals [[Crystal Palace F.C.|Crystal Palace]] where it finished 2–1 at [[Selhurst Park]]. This win meant Brighton won the double over Palace.&lt;ref&gt;{{citeweb|url=https://www.bbc.co.uk/sport/football/47424852|title=Crystal Palace V Brighton &amp; Hove Albion – BBC Sport|publisher=BBC Sport|date= 9 March 2019|accessdate= 9 March 2019}}&lt;/ref&gt;
 
 ==International career==
 After representing [[France national under-20 football team|France U20]], Knockaert was called up by [[France national under-21 football team|France U21]] for the first time&lt;ref&gt;{{cite web|url=http://www.lcfc.com/news/article/130812-france-call-up-for-knockaert-308780.aspx |title=France Call-Up For Knockaert |publisher=Leicester City F.C. |date=13 August 2012 |accessdate=6 December 2016 |archiveurl=https://web.archive.org/web/20121017131304/http://www.lcfc.com/news/article/130812-france-call-up-for-knockaert-308780.aspx |archivedate=17 October 2012 |deadurl=no }}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Espoirs : La liste pour la Slovaquie et le Chili|url=http://www.football365.fr/espoirs-la-liste-pour-la-slovaquie-et-le-chili-1888681.html|publisher=Football 365|language=French|date=29 August 2012|accessdate=6 December 2016}}&lt;/ref&gt; and made his France U21 debut, scoring in a 2–1 win over [[Chile national under-20 football team|Chile U20]] on 10 September 2012.&lt;ref&gt;{{cite news|title=AMICAL : FRANCE ESPOIRS-CHILI ESPOIRS (4–0)|url=http://www.football365.fr/amical-france-espoirs-chili-espoirs-4-0-1891633.html|publisher=Football 365|language=French|date=10 September 2012|accessdate=6 December 2016}}&lt;/ref&gt; He went on to make two more France U21 appearance against [[Norway national under-21 football team|Norway U21]] on 12 October 2012&lt;ref&gt;{{cite news|title=Euro 2013 (barrages aller) : France-Norvège (1–0)|url=http://www.football365.fr/euro-2013-barrages-aller-france-norvege-1-0-1897793.html|publisher=Football 365|language=French|date=12 October 2012|accessdate=6 December 2016}}&lt;/ref&gt; and 16 October 2012.&lt;ref&gt;{{cite web|url=http://www.lcfc.com/news/article/171012-internationals-king-and-knockaert-feature-429997.aspx |title=Internationals: King &amp; Knockaert Feature |publisher=Leicester City F.C. |date=17 October 2012 |accessdate=6 December 2016 |archiveurl=https://web.archive.org/web/20121019173456/http://www.lcfc.com/news/article/171012-internationals-king-and-knockaert-feature-429997.aspx |archivedate=19 October 2012 |deadurl=no }}&lt;/ref&gt;
@@ -2396,7 +2409,7 @@ In 2015, Knockaert was given a personal leave by the club after his father, Patr
 In September 2018 he revealed his struggles with mental health issues.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45591883|title=Anthony Knockaert: Brighton &amp; Hove Albion winger reveals mental health struggles|date=20 September 2018|accessdate=20 September 2018|publisher=BBC Sport}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 2 March 2019}}
+{{updated|match played 17 March 2019}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -2423,7 +2436,7 @@ In September 2018 he revealed his struggles with mental health issues.&lt;ref&gt
 |-
 |rowspan=4|[[Leicester City F.C.|Leicester City]]
 |[[2012–13 Leicester City F.C. season|2012–13]]&lt;ref name=sb1213&gt;{{soccerbase season|66497|2012|accessdate=7 June 2018}}&lt;/ref&gt;
-|[[EFL Championship|Championship]]||42||8||2||0||1||1||2{{efn|name=statsFLPO|Appearances in [[Football League play-offs]]}}||0||47||9
+|[[EFL Championship|Championship]]||42||8||2||0||1||1||2{{efn|[[EFL Championship play-offs|Championship play-offs]]}}||0||47||9
 |-
 |[[2013–14 Leicester City F.C. season|2013–14]]&lt;ref name=sb1314&gt;{{soccerbase season|66497|2013|accessdate=7 June 2018}}&lt;/ref&gt;
 |Championship||42||5||1||0||5||2||colspan=2|—||48||7
@@ -2440,7 +2453,7 @@ In September 2018 he revealed his struggles with mental health issues.&lt;ref&gt
 |-
 |rowspan=5|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
 |[[2015–16 Brighton &amp; Hove Albion F.C. season|2015–16]]&lt;ref name=sb1516&gt;{{soccerbase season|66497|2015|accessdate=7 June 2018}}&lt;/ref&gt;
-|Championship||19||5||0||0||0||0||2{{efn|name=statsFLPO}}||0||21||5
+|Championship||19||5||0||0||0||0||2{{efn|[[EFL Championship play-offs|Championship play-offs]]}}||0||21||5
 |-
 |[[2016–17 Brighton &amp; Hove Albion F.C. season|2016–17]]&lt;ref name=sb1617&gt;{{soccerbase season|66497|2016|accessdate=7 June 2018}}&lt;/ref&gt;
 |Championship||45||15||0||0||0||0||colspan=2|—||45||15
@@ -2449,33 +2462,31 @@ In September 2018 he revealed his struggles with mental health issues.&lt;ref&gt
 |Premier League||33||3||2||0||2||0||colspan=2|—||37||3
 |-
 |[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|66497|2018|accessdate=9 December 2018}}&lt;/ref&gt;
-|Premier League||23||1||4||2||0||0||colspan=2|—||27||3
+|Premier League||24||2||5||2||0||0||colspan=2|—||29||4
 |-
 !colspan=2|Total
-!120||24||6||2||2||0||2||0||130||26
+!121||25||7||2||2||0||2||0||132||27
 |-
 !colspan=3|Career total
-!292||55||15||2||15||8||8||2||330||67
+!293||56||16||2||15||8||8||2||332||68
 |}
 
 {{notelist}}
 
 ==Honours==
 '''Guingamp'''
-*[[2010-11 Championnat National]], Third Place (Automatic promotion to Ligue 2).
+*[[Championnat National]] promotion: [[2010–11 Championnat National|2010–11]]
 
 '''Leicester City'''
-*[[EFL Championship|Football League Championship]]: [[2013–14 Football League Championship|2013–14]] (Automatic promotion to the Premier League).
+*[[Football League Championship]]: [[2013–14 Football League Championship|2013–14]]&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Sky Sports Football Yearbook 2014–2015 |year=2014 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-1251-1 |pages=200–201}}&lt;/ref&gt;
 
 '''Brighton &amp; Hove Albion'''
-*[[EFL Championship]] runner-up: [[2016–17 EFL Championship|2016–17]]&lt;ref name=sb1617/&gt;&lt;ref&gt;{{cite web |title=Championship: 2016/17: Latest table |url=http://www.soccerbase.com/tournaments/tournament.sd?tourn_id=1502 |work=Soccerbase |publisher=Centurycomm |accessdate=22 November 2017}}&lt;/ref&gt; (Automatic promotion to the Premier League).
+*[[EFL Championship]] runner-up: [[2016–17 EFL Championship|2016–17]]&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Sky Sports Football Yearbook 2017–2018 |year=2017 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-3397-4 |pages=82–83}}&lt;/ref&gt;
 
 '''Individual'''
-
-'''Brighton &amp; Hove Albion'''
-*[[PFA Team of the Year]]: [[PFA Team of the Year (2010s)#Championship 8|2016–17 Championship]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39648483 |title=PFA teams of the year: Chelsea and Tottenham dominate Premier League XI |publisher=BBC Sport |date=20 April 2017 |accessdate=6 May 2018}}&lt;/ref&gt;
-*[[Football League Awards|Championship Player of the Year]]: 2016–17&lt;ref name="BBC Sport"/&gt;
-*[[EFL Championship Player of the Month|Championship Player of the Month]]: April 2016
+*[[PFA Team of the Year|PFA Championship Team of the Year]]: [[PFA Team of the Year (2010s)#Championship 8|2016–17]]&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39648483 |title=PFA teams of the year: Chelsea and Tottenham dominate Premier League XI |publisher=BBC Sport |date=20 April 2017 |accessdate=6 May 2018}}&lt;/ref&gt;
+*[[Football League Awards|Championship Player of the Year]]: [[EFL_Awards#2017_Awards|2016–17]]&lt;ref name="BBC Sport"/&gt;
+*[[Football League Championship Player of the Month]]: [[2015–16 Football League Championship#Monthly awards|April 2016]]
 
 ==References==
 {{reflist}}
@@ -2515,7 +2526,7 @@ In September 2018 he revealed his struggles with mental health issues.&lt;ref&gt
 [[Category:Belgian First Division A players]]
 [[Category:Expatriate footballers in Belgium]]
 [[Category:Expatriate footballers in England]]</text>
-      <sha1>9424xgy2kznrysik0yofy8x11jtaf6p</sha1>
+      <sha1>82184ual85460c06ibwv6s6ijbrqvux</sha1>
     </revision>
   </page>
   <page>
@@ -2755,17 +2766,18 @@ His father, [[Stephan Groß|Stephan]], was also a footballer who played for [[Ka
     <ns>0</ns>
     <id>22946302</id>
     <revision>
-      <id>882234525</id>
-      <parentid>877129773</parentid>
-      <timestamp>2019-02-07T18:14:59Z</timestamp>
+      <id>888992288</id>
+      <parentid>882234525</parentid>
+      <timestamp>2019-03-22T18:34:05Z</timestamp>
       <contributor>
-        <username>Beeney xx</username>
-        <id>35180261</id>
+        <username>Inter&amp;anthro</username>
+        <id>18180119</id>
       </contributor>
-      <comment>/* Club */</comment>
+      <minor/>
+      <comment>update</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="14404">{{Use dmy dates|date=June 2018}}
+      <text xml:space="preserve" bytes="14414">{{Use dmy dates|date=June 2018}}
 {{Infobox football biography
 | name           = Leon Balogun
 | image          = Leon Balogun-Nigeria.jpg
@@ -2828,10 +2840,10 @@ His father, [[Stephan Groß|Stephan]], was also a footballer who played for [[Ka
 | goals11        = 1
 | nationalyears1 = 2014–
 | nationalteam1  = [[Nigeria national football team|Nigeria]]
-| nationalcaps1  = 23
+| nationalcaps1  = 27
 | nationalgoals1 = 0
 | club-update    = 19:38, 6 January 2019
-| ntupdate       = 8 September 2018
+| ntupdate       = 22 March 2019
 }}
 '''Leon Aderemi Balogun''' (born 28 June 1988) is a German-Nigerian professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for {{English football updater|Brigh&amp;HA}} club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].
 
@@ -2983,7 +2995,7 @@ In June 2018, he was named in Nigeria’s final 23-man [[2018 FIFA World Cup squ
 {{notelist}}
 
 ===International===
-:''Statistics accurate as of match played 8 September 2018.''&lt;ref&gt;{{NFT player|54842|Leon Balogun|accessdate=23 June 2018}}&lt;/ref&gt;
+:''Statistics accurate as of match played 22 March 2019.''&lt;ref&gt;{{NFT player|54842|Leon Balogun|accessdate=23 June 2018}}&lt;/ref&gt;
 
 {|class="wikitable" style="text-align:center"
 !colspan=3|[[Nigeria national football team|Nigeria]]
@@ -2998,9 +3010,11 @@ In June 2018, he was named in Nigeria’s final 23-man [[2018 FIFA World Cup squ
 |-
 |2017||6||0
 |-
-|2018||8||0
+|2018||11||0
 |-
-!Total||23||0
+|2019||1||0
+|-
+!Total||27||0
 |}
 
 ==Personal life==
@@ -3040,7 +3054,7 @@ Balogun was born to a [[Nigeria]]n-[[Yoruba people|Yoruba]] father and a [[Germa
 [[Category:Footballers from Berlin]]
 [[Category:2018 FIFA World Cup players]]
 [[Category:Association football defenders]]</text>
-      <sha1>cje13kwyoqgotmytk4ft4438jroacvm</sha1>
+      <sha1>dkgvrn5fuirwas3gpq3puzxsi7l2824</sha1>
     </revision>
   </page>
   <page>
@@ -3048,16 +3062,15 @@ Balogun was born to a [[Nigeria]]n-[[Yoruba people|Yoruba]] father and a [[Germa
     <ns>0</ns>
     <id>33755726</id>
     <revision>
-      <id>885834661</id>
-      <parentid>885034496</parentid>
-      <timestamp>2019-03-02T17:19:09Z</timestamp>
+      <id>888694667</id>
+      <parentid>888206078</parentid>
+      <timestamp>2019-03-20T19:48:35Z</timestamp>
       <contributor>
-        <username>Beeney xx</username>
-        <id>35180261</id>
+        <ip>31.58.242.111</ip>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="38814">{{Use dmy dates|date=June 2018}}
+      <text xml:space="preserve" bytes="38806">{{Use dmy dates|date=June 2018}}
 {{Infobox football biography
 | name = Alireza Jahanbakhsh
 | image = Jahanbakhsh at Iran training 20190123.jpg
@@ -3078,23 +3091,23 @@ Balogun was born to a [[Nigeria]]n-[[Yoruba people|Yoruba]] father and a [[Germa
 | youthclubs3 = [[S.C. Damash Gilan|Damash Gilan]]&lt;ref name="navad"/&gt;
 | years1 = 2010–2011
 | clubs1 = [[Parseh Tehran F.C.|Damash Tehran]]
-| caps1 = 12
+| caps1  = 12
 | goals1 = 0
 | years2 = 2011–2013
 | clubs2 = [[S.C. Damash Gilan|Damash Gilan]]
-| caps2 = 44
+| caps2  = 44
 | goals2 = 10
 | years3 = 2013–2015
 | clubs3 = [[N.E.C. (football club)|NEC]]
-| caps3 = 55
+| caps3  = 55
 | goals3 = 17
 | years4 = 2015–2018
 | clubs4 = [[AZ Alkmaar|AZ]]
-| caps4 = 85
+| caps4  = 85
 | goals4 = 34
 | years5 = 2018–
 | clubs5 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| caps5 = 12
+| caps5  = 13
 | goals5 = 0
 | nationalyears1 = 2010–2013
 | nationalteam1 = [[Iran national under-20 football team|Iran U20]]
@@ -3108,7 +3121,7 @@ Balogun was born to a [[Nigeria]]n-[[Yoruba people|Yoruba]] father and a [[Germa
 | nationalteam3 = [[Iran national football team|Iran]]
 | nationalcaps3 = 47
 | nationalgoals3 = 6
-| club-update = 17:18, 2 March 2019 (UTC)
+| club-update = 14:30, 20 March 2019 (UTC)
 | nationalteam-update = 9:16, 28 January 2019 (UTC)
 }}
 
@@ -3117,11 +3130,11 @@ Balogun was born to a [[Nigeria]]n-[[Yoruba people|Yoruba]] father and a [[Germa
 In 2014 Jahanbakhsh was voted the second greatest young talent of the 2013–14 [[Eredivisie]] season.&lt;ref&gt;{{cite web|title=Grootste talent 2013-2014|url=https://www.voetbalhubb.nl/ranking/grootste-talent-eredivisie-2013-2014|website=www.voetbalhubb.nl|language=nl}}&lt;/ref&gt; In the [[2017–18 Eredivisie]] season, Jahanbakhsh scored 21 league goals and became the first Asian player to become top scorer in a major European league.&lt;ref&gt;{{cite web|url=http://ifpnews.com/exclusive/jahanbakhsh-becomes-first-asian-top-scorer-of-major-european-leagues/|title=Jahanbakhsh Becomes First Asian Top Scorer of Major European Leagues|date=6 May 2018}}&lt;/ref&gt;&lt;ref name="foxsportsasia.com"&gt;{{cite web|url=http://www.foxsportsasia.com/football/asian-football/878070/irans-alireza-jahanbakhsh-finishes-eredivisie-top-scorer/|title=Iran's Alireza Jahanbakhsh finishes as Eredivisie top scorer|date=6 May 2018|publisher=FOX Sports Asia}}&lt;/ref&gt;
 
 ==Early life==
-Alireza Jahanbakhsh was born on 11 August 1993 in [[Qazvin]].&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=FxL5tMyKen4 |title=Alireza Jahanbakhsh interview July 14, 2014 |via=YouTube |accessdate=12 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.varzesh3.com/news/1562096|title=از داماش تا برایتون با علیرضا جهانبخش|last=|first=|date=|website=www.varzesh3.com|access-date=2019-01-21}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.the-afc.com/img/image/upload/fwfvmb8vhawhxcm5zqtw.pdf|title=The AFC|last=|first=|date=|website=www.the-afc.com|language=en-GB|access-date=2019-01-21}}&lt;/ref&gt;
+Alireza Jahanbakhsh was born on 11 August 1993 in [[Rasht]].&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=FxL5tMyKen4 |title=Alireza Jahanbakhsh interview July 14, 2014 |via=YouTube |accessdate=12 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.varzesh3.com/news/1562096|title=از داماش تا برایتون با علیرضا جهانبخش|last=|first=|date=|website=www.varzesh3.com|access-date=2019-01-21}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.the-afc.com/img/image/upload/fwfvmb8vhawhxcm5zqtw.pdf|title=The AFC|last=|first=|date=|website=www.the-afc.com|language=en-GB|access-date=2019-01-21}}&lt;/ref&gt;
 
 ==Club career==
 ===Damash===
-Jahanbakhsh played most of his youth in Payam Alborz Qazvin and Persian Qazvin before joining the youth academy of [[Damash Gilan]] in 2008. Jahanbaksh started his career in 2010 with [[Parseh Tehran F.C.|Damash Tehran]], an affiliate of Damash Gilan in the [[Iran Football's 2nd Division|2nd Division]]. In 2011, Alireza returned to Gilan and at the age of 17. In 2011, Jahanbakhsh played his first game for [[Damash Gilan]] in the [[Persian Gulf Pro League|Iran Pro League]] against [[Sanat Mes Kerman F.C.|Mes]] as one of Damash's youngest ever players.&lt;ref&gt;{{cite web|url=http://www.iplstats.com/website11-12/Week06/DGL_MES_06.htm|title=Iranian Premier League Stats: 2011-2012 Season|accessdate=12 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |author=Saleh Doosti |url=http://www.anglechronicle.com/alireza-jahanbakhsh-thrilled-after-being-called-into-iran-squad/240 |title=Alireza Jahanbakhsh Thrilled After Being Called Into Iran Squad &amp;#124; Angle Chronicle - Part 240 |work=Angle Chronicle |date=25 February 2014 |accessdate=12 August 2014 |archive-url=https://archive.is/20140508004925/http://www.anglechronicle.com/alireza-jahanbakhsh-thrilled-after-being-called-into-iran-squad/240 |archive-date=8 May 2014 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; Alireza scored his first goal on 15 January 2012 in a 1–0 victory against [[Fajr Sepasi Shiraz F.C.|Fajr]]. In 42 league appearances with Damash, he scored 10 goals.
+Jahanbakhsh played most of his youth in Rasht and Persian Qazvin before joining the youth academy of [[Damash Gilan]] in 2008. Jahanbaksh started his career in 2010 with [[Parseh Tehran F.C.|Damash Tehran]], an affiliate of Damash Gilan in the [[Iran Football's 2nd Division|2nd Division]]. In 2011, Alireza returned to Gilan and at the age of 17. In 2011, Jahanbakhsh played his first game for [[Damash Gilan]] in the [[Persian Gulf Pro League|Iran Pro League]] against [[Sanat Mes Kerman F.C.|Mes]] as one of Damash's youngest ever players.&lt;ref&gt;{{cite web|url=http://www.iplstats.com/website11-12/Week06/DGL_MES_06.htm|title=Iranian Premier League Stats: 2011-2012 Season|accessdate=12 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |author=Saleh Doosti |url=http://www.anglechronicle.com/alireza-jahanbakhsh-thrilled-after-being-called-into-iran-squad/240 |title=Alireza Jahanbakhsh Thrilled After Being Called Into Iran Squad &amp;#124; Angle Chronicle - Part 240 |work=Angle Chronicle |date=25 February 2014 |accessdate=12 August 2014 |archive-url=https://archive.is/20140508004925/http://www.anglechronicle.com/alireza-jahanbakhsh-thrilled-after-being-called-into-iran-squad/240 |archive-date=8 May 2014 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; Alireza scored his first goal on 15 January 2012 in a 1–0 victory against [[Fajr Sepasi Shiraz F.C.|Fajr]]. In 42 league appearances with Damash, he scored 10 goals.
 
 ===NEC===
 ====2013–14 season====
@@ -3185,7 +3198,7 @@ Jahanbakhsh is outfitted by German sportswear manufacturer [[Adidas]].&lt;ref&gt
 
 ==Career statistics==
 ===Club===
-{{updated|2 March 2019}}&lt;ref&gt;{{cite web|title=Alireza Jahanbakhsh » Club matches|url=http://www.worldfootball.net/player_summary/alireza-jahanbakhsh/2/|website=worldfootball.net|accessdate=13 December 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/alireza-jahanbakhsh/207918/ |title=A. Jahanbakhsh |website=Soccerway |accessdate=15 April 2017}}&lt;/ref&gt;
+{{updated|17 March 2019}}&lt;ref&gt;{{cite web|title=Alireza Jahanbakhsh » Club matches|url=http://www.worldfootball.net/player_summary/alireza-jahanbakhsh/2/|website=worldfootball.net|accessdate=13 December 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/alireza-jahanbakhsh/207918/ |title=A. Jahanbakhsh |website=Soccerway |accessdate=15 April 2017}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -3225,10 +3238,10 @@ Jahanbakhsh is outfitted by German sportswear manufacturer [[Adidas]].&lt;ref&gt
 |-
 !colspan=2|Total!!85||34||13||1||colspan="2"|—||12||1||1||1||111||37
 |-
-|rowspan=1|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]||[[2018–19 Premier League|2018–19]]||rowspan=1|[[Premier League]]||12||0||2||0||1||0||colspan="2"|—||colspan="2"|—||15||0
+|rowspan=1|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]||[[2018–19 Premier League|2018–19]]||rowspan=1|[[Premier League]]||13||0||3||0||1||0||colspan="2"|—||colspan="2"|—||17||0
 |-
 !colspan=3|Career total
-!208||61||28||4||1||0||12||1||3||1||252||67
+!209||61||29||4||1||0||12||1||3||1||254||67
 |}
 
 {{notelist}}
@@ -3349,7 +3362,7 @@ Jahanbakhsh is outfitted by German sportswear manufacturer [[Adidas]].&lt;ref&gt
 [[Category:Association football wingers]]
 [[Category:2018 FIFA World Cup players]]
 [[Category:2019 AFC Asian Cup players]]</text>
-      <sha1>tt12ht99m3gvj1jcvqrfeot5fg7u4tu</sha1>
+      <sha1>tempkbhia6vk2pt9xtzfmdu8n20gtp9</sha1>
     </revision>
   </page>
   <page>
@@ -3357,16 +3370,17 @@ Jahanbakhsh is outfitted by German sportswear manufacturer [[Adidas]].&lt;ref&gt
     <ns>0</ns>
     <id>5610327</id>
     <revision>
-      <id>885834447</id>
-      <parentid>885532067</parentid>
-      <timestamp>2019-03-02T17:17:18Z</timestamp>
+      <id>888206232</id>
+      <parentid>887264465</parentid>
+      <timestamp>2019-03-17T16:49:53Z</timestamp>
       <contributor>
         <username>Beeney xx</username>
         <id>35180261</id>
       </contributor>
+      <comment>/* Career statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="38558">{{For|others called Glen or Glenn Murray|Glen Murray (disambiguation)}}
+      <text xml:space="preserve" bytes="38971">{{For|others called Glen or Glenn Murray|Glen Murray (disambiguation)}}
 {{pp-vandalism|expiry=19:59, 1 April 2019|small=yes}}
 {{Use British English|date=October 2015}}
 {{Use dmy dates|date=December 2018}}
@@ -3434,13 +3448,13 @@ Jahanbakhsh is outfitted by German sportswear manufacturer [[Adidas]].&lt;ref&gt
 | goals12 = 15
 | years13 = 2017–
 | clubs13 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| caps13 = 82
-| goals13 = 30
+| caps13 = 83
+| goals13 = 31
 | nationalyears1 = 
 | nationalteam1 = 
 | nationalcaps1 = 
 | nationalgoals1 = 
-| club-update = 17:16, 2 March 2019 (UTC)
+| club-update = 14:30, 9 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Glenn Murray''' (born 25 September 1983) is an English professional [[Association football|footballer]] who plays as a [[forward (association football)|striker]] for {{English football updater|Brigh&amp;HA}} club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].
@@ -3508,13 +3522,13 @@ On 31 January 2017, Murray re-signed permanently for Brighton &amp; Hove Albion 
 
 Newly promoted Brighton made a positive start to their inaugural Premier League season, sitting in 8th place after eleven games. An unbeaten run of four games from mid-October coincided with Murray hitting a good run of form, with the striker scoring four goals in the three games preceding the November international break. His scoring run began with two against West Ham United in a 3–0 away win, and he followed it up with goals against [[Southampton F.C.|Southampton]] at home and Swansea City away, earning Brighton four points.&lt;ref&gt;{{cite web |url=https://www.independent.co.uk/sport/football/premier-league/swansea-0-brighton-1-match-report-glenn-murray-goal-watch-replay-table-a8037831.html |title=Glenn Murray's goal-streak continues as Brighton battle past Swansea |first=Phil |last=Blanche |newspaper=The Independent |location=London |date=4 November 2017 |accessdate=30 October 2018}}&lt;/ref&gt; On 8 January 2018, Murray scored the winning goal in Brighton's 2–1 victory over arch rivals and former club Crystal Palace to eliminate them from the [[FA Cup]] at the third-round stage.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2018/jan/08/brighton-hove-albion-crystal-palace-fa-cup-third-round-match-report |title=Glenn Murray leaves it late as Brighton knock Crystal Palace out of FA Cup |first=David |last=Hytner |newspaper=The Guardian |location=London |date=8 January 2018 |accessdate=30 October 2018}}&lt;/ref&gt;
 
-On 1 September 2018 Murray scored twice to take Brighton from 2–0 down to draw 2–2 with Fulham.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45305232 |title=Brighton &amp; Hove Albion 2–2 Fulham |first=Steve |last=Sutcliffe |publisher=BBC Sport |date=1 September 2018 |accessdate=30 October 2018}}&lt;/ref&gt; His 100th goal for Albion, the only goal of the match at home to [[Wolverhampton Wanderers]] on 27 October, made him just the second man{{snd}}after [[Tommy Cook (sportsman)|Tommy Cook]] with 123{{snd}}to reach that milestone.&lt;ref&gt;{{cite web |url=https://www.brightonandhovealbion.com/matches/fixtures/first-team/2018192/october/brighton-and-hove-albion-vs-wolverhampton-wanderers-on-27-oct-18/ |title=Report: Albion 1 Wolves 0 |first=James |last=Hilsum |publisher=Brighton &amp; Hove Albion F.C. |date=27 October 2018 |accessdate=30 October 2018}}&lt;/ref&gt; After 9 games without scoring, on 29 January 2019 Murray scored another two goals against Fulham in a 4-2 away defeat. This time Fulham came back from 2 goals behind, and won.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/46955255 |title=Fulham V Brighton &amp; Hove Albion|publisher=BBC Sport |date=29 January 2019 |accessdate=29 January 2019}}&lt;/ref&gt; On 6 February 2019 Murray scored another two goals this time coming off the bench in a fourth round FA Cup replay against [[West Bromwich Albion F.C.|West Brom]] where his goals put Brighton 2-1 and 3-1 up in the 3-1 victory.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/av/football/47151469|title=FA Cup: West Bromwich Albion  1-3 Brighton &amp; Hove Albion highlights - BBC Sport|publisher=BBC Sport|date= 6 February 2019|accessdate= 6 February 2019}}&lt;/ref&gt;
+On 1 September 2018 Murray scored twice to take Brighton from 2–0 down to draw 2–2 with Fulham.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45305232 |title=Brighton &amp; Hove Albion 2–2 Fulham |first=Steve |last=Sutcliffe |publisher=BBC Sport |date=1 September 2018 |accessdate=30 October 2018}}&lt;/ref&gt; His 100th goal for Albion, the only goal of the match at home to [[Wolverhampton Wanderers]] on 27 October, made him just the second man{{snd}}after [[Tommy Cook (sportsman)|Tommy Cook]] with 123{{snd}}to reach that milestone.&lt;ref&gt;{{cite web |url=https://www.brightonandhovealbion.com/matches/fixtures/first-team/2018192/october/brighton-and-hove-albion-vs-wolverhampton-wanderers-on-27-oct-18/ |title=Report: Albion 1 Wolves 0 |first=James |last=Hilsum |publisher=Brighton &amp; Hove Albion F.C. |date=27 October 2018 |accessdate=30 October 2018}}&lt;/ref&gt; After 9 games without scoring, on 29 January 2019 Murray scored another two goals against Fulham in a 4-2 away defeat. This time Fulham came back from 2 goals behind, and won.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/46955255 |title=Fulham V Brighton &amp; Hove Albion|publisher=BBC Sport |date=29 January 2019 |accessdate=29 January 2019}}&lt;/ref&gt; On 6 February 2019 Murray scored another two goals this time coming off the bench in a fourth round FA Cup replay against [[West Bromwich Albion F.C.|West Brom]] where his goals put Brighton 2-1 and 3-1 up in the 3-1 victory.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/av/football/47151469|title=FA Cup: West Bromwich Albion  1-3 Brighton &amp; Hove Albion highlights - BBC Sport|publisher=BBC Sport|date= 6 February 2019|accessdate= 6 February 2019}}&lt;/ref&gt; On 9 March 2019 Murray scored his 100th league goal for The Seagulls at his former club and bitter rivals Crystal Palace in a 2-1 away victory. This win meant Brighton won the double over Palace.&lt;ref&gt;{{citeweb|url=https://www.bbc.co.uk/sport/football/47424852|title=Crystal Palace V Brighton &amp; Hove Albion - BBC Sport|publisher=BBC Sport|date= 9 March 2019|accessdate= 9 March 2019}}&lt;/ref&gt;
 
 ==Personal life==
 On 24 January 2018, Murray and his wife Stacey were arrested on suspicion of tax fraud totalling £1.1 million.&lt;ref&gt;{{Cite news |url=https://www.bbc.co.uk/sport/football/42809696 |title=Glenn Murray: Brighton striker arrested over £1.1m tax fraud |publisher=BBC Sport |date=24 January 2018 |accessdate=30 October 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/football/2018/01/24/glenn-murray-wife-arrested-connection-suspected-11m-tax-fraud/ |title=Glenn Murray and wife arrested in connection with suspected £1.1m tax fraud |newspaper=The Daily Telegraph |location=London |date=24 January 2018 |accessdate=25 January 2018}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 2 March 2019}}
+{{updated|match played 17 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -3522,8 +3536,8 @@ On 24 January 2018, Murray and his wife Stacey were arrested on suspicion of tax
 !rowspan=2|Club
 !rowspan=2|Season
 !colspan=3|League
-!colspan=2|National Cup
-!colspan=2|League Cup
+!colspan=2|National Cup{{efn|Includes [[FA Cup]]}}
+!colspan=2|League Cup{{efn|Includes [[EFL Cup|League/EFL Cup]]}}
 !colspan=2|Other
 !colspan=2|Total
 |-
@@ -3535,21 +3549,21 @@ On 24 January 2018, Murray and his wife Stacey were arrested on suspicion of tax
 |14||3||colspan=2|—||colspan=2|—||colspan=2|—||14||3
 |-
 |[[Barrow A.F.C.|Barrow]]
-|[[2004–05 Football Conference|2004–05]]&lt;ref name="2004-05"&gt;Appearances and goals for this season are taken from:&lt;br&gt;{{Cite web |url=http://www.soccerfactsuk.co.uk/s2004/player_details.php?playerid=4772 |title=Player Details: Season 2004–2005: Glenn Murray |website=SoccerFactsUK |accessdate=16 May 2013 |archiveurl=https://web.archive.org/web/20160304053918/http://www.soccerfactsuk.co.uk/s2004/player_details.php?playerid=4772 |archivedate=4 March 2016}}&lt;br&gt;{{cite book |editor1-first=Mike |editor1-last=Williams |editor2-first=Tony |editor2-last=Wright |title=Non League Club Directory 2006 |date=2005 |publisher=Tony Williams Publications |isbn=978-1-869833-54-1 |page=133}}&lt;/ref&gt;
+|[[2004–05 Football Conference#Conference North|2004–05]]&lt;ref name="2004-05"&gt;Appearances and goals for this season are taken from:&lt;br&gt;{{Cite web |url=http://www.soccerfactsuk.co.uk/s2004/player_details.php?playerid=4772 |title=Player Details: Season 2004–2005: Glenn Murray |website=SoccerFactsUK |accessdate=16 May 2013 |archiveurl=https://web.archive.org/web/20160304053918/http://www.soccerfactsuk.co.uk/s2004/player_details.php?playerid=4772 |archivedate=4 March 2016}}&lt;br&gt;{{cite book |editor1-first=Mike |editor1-last=Williams |editor2-first=Tony |editor2-last=Wright |title=Non League Club Directory 2006 |date=2005 |publisher=Tony Williams Publications |isbn=978-1-869833-54-1 |page=133}}&lt;/ref&gt;
 |[[Conference North]]
 |6||6||0||0||colspan=2|—||1{{efn|Appearance in [[FA Trophy]]}}||1||7||7
 |-
 |rowspan=4|[[Carlisle United F.C.|Carlisle United]]
 |[[2004–05 Carlisle United F.C. season|2004–05]]&lt;ref name=sb0405&gt;{{Soccerbase season|40545|2004|accessdate=9 June 2018}}&lt;/ref&gt;
-|[[Conference Premier|Conference National]]
-|19||2||0||0||colspan=2|—||3{{efn|Appearances in [[National League (division)#Play-off results|Conference National play-offs]]}}||0||22||2
+|[[Conference National]]
+|19||2||0||0||colspan=2|—||3{{efn|Appearances in [[Conference National play-offs]]}}||0||22||2
 |-
 |[[2005–06 Carlisle United F.C. season|2005–06]]&lt;ref name=sb0506&gt;{{Soccerbase season|40545|2005|accessdate=9 June 2018}}&lt;/ref&gt;
 |[[EFL League Two|League Two]]
 |26||3||1||0||1||0||6{{efn|name=FLT|Appearance(s) in [[Football League Trophy]]}}||1||34||4
 |-
 |[[2006–07 Carlisle United F.C. season|2006–07]]&lt;ref name=sb0607&gt;{{Soccerbase season|40545|2006|accessdate=9 June 2018}}&lt;/ref&gt;
-|[[Football League One|League One]]
+|[[EFL League One|League One]]
 |1||0||colspan=2|—||colspan=2|—||1{{efn|name=FLT}}||0||2||0
 |-
 !colspan=2|Total
@@ -3622,7 +3636,7 @@ On 24 January 2018, Murray and his wife Stacey were arrested on suspicion of tax
 |18||8||colspan=2|—||colspan=2|—||colspan=2|—||18||8
 |-
 |[[AFC Bournemouth]]
-|[[2015-16 A.F.C. Bournemouth season|2015–16]]&lt;ref name=sb1516&gt;{{Soccerbase season|40545|2015|access-date=9 June 2018}}&lt;/ref&gt;
+|[[2015–16 A.F.C. Bournemouth season|2015–16]]&lt;ref name=sb1516&gt;{{Soccerbase season|40545|2015|access-date=9 June 2018}}&lt;/ref&gt;
 |Premier League
 |19||3||3||1||0||0||colspan=2|—||22||4
 |-
@@ -3637,16 +3651,16 @@ On 24 January 2018, Murray and his wife Stacey were arrested on suspicion of tax
 |-
 |[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|40545|2018|accessdate=19 October 2018}}&lt;/ref&gt;
 |Premier League
-|28||10||2||2||0||0||colspan=2|—||30||12
+|29||11||3||2||0||0||colspan=2|—||32||13
 |-
 !colspan=2|Total
-!108||45||6||4||1||0||colspan=2|—||115||49
+!109||46||7||4||1||0||colspan=2|—||117||50
 |-
 !colspan=3|Brighton &amp; Hove Albion combined total
-!226||99||17||6||5||1||3||0||251||106
+!227||100||18||6||5||1||3||0||253||107
 |-
 !colspan=3|Career total
-!506||196||27||8||17||4||16||2||566||210
+!507||197||28||8||17||4||16||2||568||211
 |}
 
 {{notelist}}
@@ -3706,7 +3720,7 @@ On 24 January 2018, Murray and his wife Stacey were arrested on suspicion of tax
 [[Category:English expatriate footballers]]
 [[Category:Expatriate soccer players in the United States]]
 [[Category:English expatriate sportspeople in the United States]]</text>
-      <sha1>cqk663atabgf5hlu5zwlumykdbb8t1r</sha1>
+      <sha1>8bpjqt75ekgsv8nm3uqttj7kxocaabh</sha1>
     </revision>
   </page>
   <page>
@@ -3714,24 +3728,26 @@ On 24 January 2018, Murray and his wife Stacey were arrested on suspicion of tax
     <ns>0</ns>
     <id>43675101</id>
     <revision>
-      <id>872209504</id>
-      <parentid>833123961</parentid>
-      <timestamp>2018-12-05T21:46:00Z</timestamp>
+      <id>887244141</id>
+      <parentid>872209504</parentid>
+      <timestamp>2019-03-11T12:42:42Z</timestamp>
       <contributor>
-        <username>Eljohnson15</username>
-        <id>685592</id>
+        <username>LilHelpa</username>
+        <id>8024439</id>
       </contributor>
+      <minor/>
+      <comment>/* top */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: polititian → politician</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="381">'''José Izquierdo''' may refer to:
+      <text xml:space="preserve" bytes="382">'''José Izquierdo''' may refer to:
 
 *[[José Izquierdo (footballer, born 1980)]] (born 1980), Spanish retired footballer
 *[[José Heriberto Izquierdo Mena]] (born 1992), Colombian footballer
 *[[Jose Izquierdo Encarnacion]], former Secretary of State in Puerto Rico
-*[[José Guillermo Izquierdo Stella]], former Puertorican polititian
+*[[José Guillermo Izquierdo Stella]], former Puerto Rican politician
 
 {{human name disambiguation|Izquierdo, Jose}}</text>
-      <sha1>msokfdty9oy3zqeefy6pnuel32nkpdo</sha1>
+      <sha1>phs677ly480gp7zlqorios7g1y5q76q</sha1>
     </revision>
   </page>
   <page>
@@ -3739,15 +3755,16 @@ On 24 January 2018, Murray and his wife Stacey were arrested on suspicion of tax
     <ns>0</ns>
     <id>40462849</id>
     <revision>
-      <id>885796732</id>
-      <parentid>885532342</parentid>
-      <timestamp>2019-03-02T11:23:43Z</timestamp>
+      <id>888363684</id>
+      <parentid>888363494</parentid>
+      <timestamp>2019-03-18T17:21:27Z</timestamp>
       <contributor>
-        <ip>86.14.166.211</ip>
+        <username>Beeney xx</username>
+        <id>35180261</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="27827">{{Use British English|date=September 2015}}
+      <text xml:space="preserve" bytes="28952">{{Use British English|date=September 2015}}
 {{Use dmy dates|date=September 2018}}
 {{Infobox football biography
 | name = Solly March
@@ -3773,17 +3790,17 @@ On 24 January 2018, Murray and his wife Stacey were arrested on suspicion of tax
 | goals1 = 0
 | years2 = 2011–
 | clubs2 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| caps2 = 138
+| caps2 = 139
 | goals2 = 9
 | nationalyears1 = 2014
 | nationalteam1 = [[England national under-20 football team|England U20]]
 | nationalcaps1 = 4
 | nationalgoals1 = 0
-| nationalyears2 = 2015–2017
+| nationalyears2 = 2014–2017
 | nationalteam2 = [[England national under-21 football team|England U21]]
 | nationalcaps2 = 3
 | nationalgoals2 = 1
-| club-update = 16:51, 28 February 2019 (UTC)
+| club-update = 14:30, 9 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Solomon Benjamin March''' (born 20 July 1994) is an English professional [[Association football|footballer]] who plays as a [[midfielder]] for {{English football updater|Brigh&amp;HA}} club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].
@@ -3805,7 +3822,7 @@ While progressing through Brighton's youth squad, March quickly made an impact f
 He then performed well in pre-season friendlies with the first team prior to the start of the 2013–14 season; highlighted with a 'superb' goal against [[Norwich City F.C.|Norwich City]].&lt;ref&gt;{{cite web|last=Owen|first=Brian|url=http://www.theargus.co.uk/sport/10581198.March_strike_gives_Albion_a_draw/|title=March strike gives Albion a draw (From The Argus)|publisher=The Argus|date=30 July 2013|accessdate=8 September 2013}}&lt;/ref&gt; March was a named substitute in five of the first six games in the 2013–14 season and was substituted on in the 85th and 91st minutes against [[Derby County F.C.|Derby County]] and [[Burnley F.C.|Burnley]] respectively,&lt;ref&gt;{{cite news|title=Solly on the March for Albion|url=http://www.theargus.co.uk/sport/10785667.Solly_on_the_March_for_Albion/|publisher=The Argus|date=6 November 2013|accessdate=18 August 2017}}&lt;/ref&gt; thus creating his debut in Brighton's first team. Around November, March's first team opportunities became limited, leading to rumours that he's expected to be loaned out.&lt;ref&gt;{{cite news|title=Albion prospect could go out on loan|url=http://www.theargus.co.uk/sport/10833878.Albion_prospect_could_go_out_on_loan/|publisher=The Argus|date=26 November 2013|accessdate=18 August 2017}}&lt;/ref&gt; However, the move never happened and he stayed at the club.&lt;ref&gt;{{cite news|title=Brighton &amp; Hove Albion prospect stays|url=http://www.theargus.co.uk/sport/10842933.Albion_prospect_stays/|publisher=The Argus|date=28 November 2013|accessdate=18 August 2017}}&lt;/ref&gt; Despite this, March scored his first senior goal for the Albion in an FA Cup fourth round tie at [[Port Vale F.C.|Port Vale]] on 25 January 2014. The game also saw [[Rohan Ince]] and [[Jon Obika]] score their first goals for the club in a 3–1 win.&lt;ref&gt;{{cite news|title=Port Vale 1 – 3 Brighton &amp; Hove Albion|url=https://www.bbc.co.uk/sport/football/25789219|publisher=BBC Sport|date=25 January 2014|accessdate=18 August 2017}}&lt;/ref&gt; For the rest of the season, March was given a handful of first team opportunities, resulting him making 28 appearances in all competitions.&lt;ref&gt;{{cite news|title=Albion youngster surprised by rapid progress|url=http://www.theargus.co.uk/sport/11006326.Albion_youngster_surprised_by_rapid_progress/|publisher=The Argus|date=13 February 2014|accessdate=18 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Solly can march on for Seagulls|url=http://www.theargus.co.uk/sport/11019617.Solly_can_march_on_for_Seagulls/|publisher=The Argus|date=19 February 2014|accessdate=18 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=March starts, Mackail-Smith on bench|url=http://www.theargus.co.uk/sport/11129435.March_starts__Mackail_Smith_on_bench/|publisher=The Argus|date=5 April 2014|accessdate=18 August 2017}}&lt;/ref&gt; Because of this, March signed a new four-year deal with the ''Seagulls'' in April 2014.&lt;ref&gt;{{Cite web |title=March Buzzing Over Future|url=http://www.seagulls.co.uk/news/article/solly-march-buzzing-at-long-term-brighton-hove-albion-future-1486668.aspx|work=Brighton &amp; Hove Albion FC |date=14 April 2014|archiveurl=https://web.archive.org/web/20140415120436/http://www.seagulls.co.uk/news/article/solly-march-buzzing-at-long-term-brighton-hove-albion-future-1486668.aspx|archivedate=15 April 2014|deadurl=yes}}&lt;/ref&gt;
 
 ===2014–15===
-[[File:Solomon March bha-2014.jpg|thumb|upright|March playing for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] in 2014]]
+[[File:Solomon March bha-2014.jpg|thumb|upright|March playing for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] in 2014 against former club Lewes in a pre season friendly. ]]
 
 To begin the 2014–15 season, March worked on improving his match fitness.&lt;ref&gt;{{cite news|title=Fenelon starts as Albion hand out four debuts|url=http://www.theargus.co.uk/sport/11399624.Fenelon_starts_as_Albion_hand_out_four_debuts/|publisher=The Argus|date=9 August 2014|accessdate=18 August 2017}}&lt;/ref&gt; However, his progress stalled as he suffered a lower back problem that would rule him out for several months.&lt;ref&gt;{{cite news|title=Albion concern about March injury|url=http://www.theargus.co.uk/sport/11420365.Albion_concern_about_March_injury/|publisher=The Argus|date=20 August 2014|accessdate=18 August 2017}}&lt;/ref&gt; After returning to training from injury,&lt;ref&gt;{{cite news|title=Albion keeper allowed to stay put in Middle East as Stockdale returns|url=http://www.theargus.co.uk/sport/11618035.Albion_keeper_allowed_to_stay_put_in_Middle_East_as_Stockdale_returns/|publisher=The Argus|date=21 November 2014|accessdate=18 August 2017}}&lt;/ref&gt; March made his first appearance of the season, coming on as a second half substitute, in a 2–1 loss against [[Fulham F.C.|Fulham]] on 29 November 2014.&lt;ref&gt;{{cite news|title=Brighton &amp; Hove Albion 1 – 2 Fulham|url=https://www.bbc.co.uk/sport/football/30155731|publisher=BBC Sport|date=29 November 2014|accessdate=18 August 2017}}&lt;/ref&gt; In the club's second meeting against Fulham thirty days later, on 29 December 2014, he scored his first goal of the season, in a 2–0 win.&lt;ref&gt;{{cite news|title=Fulham 0 – 2 Brighton &amp; Hove Albion|url=https://www.bbc.co.uk/sport/football/30572357|publisher=BBC Sport|date=29 December 2014|accessdate=18 August 2017}}&lt;/ref&gt; This was followed up by setting up a goal for Rohan Ince, who scored the only goal of the game, in a win over [[Charlton Athletic F.C.|Charlton Athletic]].&lt;ref&gt;{{cite news|title=Charlton Athletic 0 – 1 Brighton &amp; Hove Albion|url=https://www.bbc.co.uk/sport/football/30663310|publisher=BBC Sport|date=10 January 2015|accessdate=18 August 2017}}&lt;/ref&gt; March went on to have a handful of first team appearances until February when he suffered a calf injury during a 3–2 loss against [[Nottingham Forest F.C.|Nottingham Forest]] on 7 February 2015, in what turns out to be his last appearance of the season.&lt;ref&gt;{{cite news|title=Hughton vows to look at loan market to end Albion's wing woes|url=http://www.theargus.co.uk/sport/11782044.Hughton_vows_to_look_at_loan_market_to_end_Albion_s_wing_woes/|publisher=The Argus|date=10 February 2015|accessdate=18 August 2017}}&lt;/ref&gt; Initially out for weeks, March was eventually for the rest of the season.&lt;ref&gt;{{cite news|title=March likely to miss rest of Albion's campaign|url=http://www.theargus.co.uk/sport/12866048.March_likely_to_miss_rest_of_Albion_s_campaign/|publisher=The Argus|date=2 April 2015|accessdate=18 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=March blow for Albion as they close in on Ledesma|url=http://www.theargus.co.uk/sport/11804251.March_blow_for_Albion_as_they_close_in_on_Ledesma/|publisher=The Argus|date=19 February 2015|accessdate=18 August 2017}}&lt;/ref&gt; Despite this, he went on to make 13 appearances and scoring once in all competitions.
 
@@ -3818,6 +3835,10 @@ At the beginning of the 2016–17 season, March remained sidelined out of the fi
 ===2017–18===
 In the 2017–18 season, March made his Premier League debut, where he started and played for 75 minutes before being substituted, in a 2–0 loss against [[Manchester City F.C.|Manchester City]].&lt;ref&gt;{{cite news|title=Brighton &amp; Hove Albion 0 – 2 Manchester City|url=https://www.bbc.co.uk/sport/football/40835422|publisher=BBC Sport|date=12 August 2017|accessdate=18 August 2017}}&lt;/ref&gt; March scored his first Premier League goal for Brighton on 15 September 2017, the opening goal in a 2–1 away defeat to [[AFC Bournemouth]].&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/41196761|title=AFC Bournemouth 2–1 Brighton &amp; Hove Albion|publisher=BBC Sport|date=15 September 2017}}&lt;/ref&gt;
 
+===2018–19===
+
+On 16 December 2018 March scored his 10th goal for the Albion in a 2−1 home defeat to [[Chelsea F.C.|Chelsea]] in which was his first Premier League goal at [[The Amex]].&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/46497570|title=Brighton 1-2 Chelsea: Eden Hazard stars as Blues hold on for win - BBC Sport|publisher=BBC Sport|date=16 December 2018}}&lt;/ref&gt; On 17 March 2019, [[Jurgen Locadia]] scored in the [[2018-19 FA Cup|FA Cup]] quarter final away against [[Millwall F.C.|Millwall]]. His goal gave Brighton a lifeline putting them just a goal behind at [[The Den]]. A few minutes later March scored a last gasp free kick making it 2–2 and to take it to extra time. The game stayed level throughout extra time and Brighton went to win on penalties 5–4 (in which Locadia and March both scored in) to take them to [[Wembley]].&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/47512116|title=Millwall 2–2 Brighton (pens 4-5): Brighton into FA Cup semi-finals on penalties - BBC Sport|publisher=BBC Sport|date=17 March 2019}}&lt;/ref&gt;
+
 ==International career==
 March was named by [[Gareth Southgate]] as a forward in the [[England national under-21 football team|England Under-21]] squad in May 2014. The squad will play a [[UEFA European Under-21 Championship|Euro U-21s]] qualification match against Wales and at least four games at the [[Toulon Tournament]]. March had not previously played for England at any level.&lt;ref&gt;{{cite web|url=http://www.thefa.com/news/england/under-21/2014/may/squad-named-for-wales-toulon-tournament-130514 |title=England U21 squad for Wales and Toulon named |publisher=The Football Association |date=13 May 2014 }}&lt;/ref&gt; After appearing as an unused substitute against [[Wales national under-21 football team|Wales U21]] on 19 May 2014,&lt;ref&gt;{{cite news|title=Albion midfielder makes England debut|url=http://www.theargus.co.uk/sport/11223261.Albion_midfielder_makes_England_debut/|publisher=The Argus|date=20 May 2014|accessdate=18 August 2017}}&lt;/ref&gt; Solly made his England under-21 debut against [[Qatar national under-20 football team|Qatar U20]] on 22 May 2014.&lt;ref&gt;{{cite news|title=Forster-Caskey on target as England start with a win|url=http://www.theargus.co.uk/sport/11231888.Forster_Caskey_on_target_as_England_start_with_a_win/|publisher=The Argus|date=22 May 2014|accessdate=18 August 2017}}&lt;/ref&gt; On 27 March 2017, March scored his first international goal in a U21 friendly against [[Denmark national under-21 football team|Denmark U21]] with a strike from outside the box.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/39302209 |title=Denmark U21 0–4 England U21 |publisher=BBC Sport |date=27 March 2017 |accessdate=29 March 2017}}&lt;/ref&gt;
 
@@ -3828,7 +3849,7 @@ March typically plays on the wing either in midfield or as part of a forward lin
 In May 2017, following Brighton &amp; Hove Albion's promotion to the Premier League, March became engaged to girlfriend Amelia Goldman after proposing to her in Dubai.&lt;ref&gt;{{cite news|title=Brighton and Hove Albion winger Solly March aiming to take Premier League by storm|url=http://www.theargus.co.uk/sport/15277978.Albion_winger_aiming_to_take_Premier_League_by_storm/|publisher=The Argus|date=11 May 2017|accessdate=18 August 2017}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 26 February 2019}}
+{{updated|match played 17 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -3875,17 +3896,17 @@ In May 2017, following Brighton &amp; Hove Albion's promotion to the Premier Lea
 |-
 |[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|68622|2018|accessdate=10 February 2019}}&lt;/ref&gt;
 |Premier League
-|27||1||1||0||0||0||colspan=2|—||28||1
+|28||1||2||1||0||0||colspan=2|—||30||2
 |-
 !colspan=2|Total
-!138||9||12||1||2||0||1||0||153||10
+!139||9||14||2||2||0||1||0||156||11
 |-
 |[[Brighton &amp; Hove Albion F.C. Reserves and Academy|Brighton &amp; Hove Albion U23]]
 |2016–17&lt;ref name=sb1617/&gt;
 |colspan=3|—||colspan=2|—||colspan=2|—||1{{efn|Appearance in [[EFL Trophy]]}}||0||1||0
 |-
 !colspan=3|Career total
-!139||9||11||1||2||0||2||0||155||10
+!140||9||14||2||2||0||2||0||158||11
 |}
 
 {{notelist}}
@@ -3918,7 +3939,7 @@ In May 2017, following Brighton &amp; Hove Albion's promotion to the Premier Lea
 [[Category:Isthmian League players]]
 [[Category:English Football League players]]
 [[Category:Premier League players]]</text>
-      <sha1>6mlof33aaqfzsrnb97rqkjd6r2zasv8</sha1>
+      <sha1>pmdqvr40l5vdswjzgcmm3ru44fcq4vk</sha1>
     </revision>
   </page>
   <page>
@@ -3926,16 +3947,17 @@ In May 2017, following Brighton &amp; Hove Albion's promotion to the Premier Lea
     <ns>0</ns>
     <id>28346701</id>
     <revision>
-      <id>885832271</id>
-      <parentid>885530302</parentid>
-      <timestamp>2019-03-02T16:59:59Z</timestamp>
+      <id>888205278</id>
+      <parentid>886935161</parentid>
+      <timestamp>2019-03-17T16:42:25Z</timestamp>
       <contributor>
         <username>Beeney xx</username>
         <id>35180261</id>
       </contributor>
+      <comment>/* Club statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="21104">{{Use dmy dates|date=July 2013}}
+      <text xml:space="preserve" bytes="21105">{{Use dmy dates|date=July 2013}}
 {{Spanish name|Montoya|Torralbo}}
 {{Infobox football biography
 | name = Martín Montoya
@@ -3975,7 +3997,7 @@ In May 2017, following Brighton &amp; Hove Albion's promotion to the Premier Lea
 | goals5 = 2
 | years6 = 2018–
 | clubs6 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| caps6 = 20
+| caps6 = 21
 | goals6 = 0
 | totalcaps = 
 | totalgoals = 
@@ -4003,7 +4025,7 @@ In May 2017, following Brighton &amp; Hove Albion's promotion to the Premier Lea
 | nationalteam7 = [[Catalonia national football team|Catalonia]]
 | nationalcaps7 = 5
 | nationalgoals7 = 0
-| club-update = 16:58, 2 March 2019 (UTC)
+| club-update = 14:30, 9 March 2019 (UTC)
 | nationalteam-update = 26 December 2015
 }}
 '''Martín Montoya Torralbo''' (born 14 April 1991) is a Spanish professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|right back]] for [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].
@@ -4040,7 +4062,7 @@ In 2011, Montoya earned his first [[Cap (sport)|cap]] with the [[Spain national 
 On 25 August 2011, Montoya was selected for the first time to [[Spain national football team|the full side]] by coach [[Vicente del Bosque]], for games against [[Chile national football team|Chile]] and [[Liechtenstein national football team|Liechtenstein]].&lt;ref&gt;{{cite news|url=http://www.marca.com/2011/08/25/futbol/seleccion/1314268980.html|title=Domínguez, Montoya y Botía, novedades de la lista de Del Bosque|trans-title=Domínguez, Montoya and Botía, news in Del Bosque's list|newspaper=Marca|last=Amaro|first=Javier|language=es|date=25 August 2011|accessdate=26 August 2011}}&lt;/ref&gt; However, he did not take the field on either match.&lt;ref&gt;{{cite news|url=https://www.sport.es/es/noticias/barca/martin-montoya-vuelve-con-la-sub21-1166149|title=Martín Montoya vuelve con la sub'21|trans-title=Martín Montoya returns to the under'21s|newspaper=Sport|language=es|date=30 September 2011|accessdate=3 September 2018}}&lt;/ref&gt;
 
 ==Club statistics==
-{{updated|2 March 2019}}&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/martin-montoya-torralbo/134444/|title=Martín Montoya|publisher=Soccerway|accessdate=10 February 2019}}&lt;/ref&gt;
+{{updated|17 March 2019}}&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/martin-montoya-torralbo/134444/|title=Martín Montoya|publisher=Soccerway|accessdate=10 February 2019}}&lt;/ref&gt;
 {| class="wikitable" style="text-align: center;"
 |-
 !rowspan=2|Club
@@ -4126,10 +4148,10 @@ On 25 August 2011, Montoya was selected for the first time to [[Spain national f
 |align=center valign=center|[[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
 |!colspan="2"|[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]
 |[[Premier League]]
-|20||0||2||0||0||0||colspan=4|—||22||0
+|21||0||3||0||0||0||colspan=4|—||24||0
 |-
 ! colspan="2" | Career totals
-!!!209!!3!!25!!0!!0!!0!!7!!1!!2!!0!!241!!4
+!!!210!!3!!26!!0!!0!!0!!7!!1!!2!!0!!243!!4
 |}
 {{reflist|group=lower-alpha}}
 
@@ -4191,7 +4213,7 @@ On 25 August 2011, Montoya was selected for the first time to [[Spain national f
 [[Category:Spanish expatriate sportspeople in Italy]]
 [[Category:Spanish expatriate sportspeople in England]]
 [[Category:UEFA Champions League winning players]]</text>
-      <sha1>l0zab3o224lxdn7z9fv806qne0kht58</sha1>
+      <sha1>rykrlqla476mcw6o7dirhk0p03e5yqa</sha1>
     </revision>
   </page>
   <page>
@@ -4226,17 +4248,17 @@ On 25 August 2011, Montoya was selected for the first time to [[Spain national f
     <ns>0</ns>
     <id>27485579</id>
     <revision>
-      <id>885842908</id>
-      <parentid>885833899</parentid>
-      <timestamp>2019-03-02T18:19:23Z</timestamp>
+      <id>888866247</id>
+      <parentid>888865984</parentid>
+      <timestamp>2019-03-21T22:18:06Z</timestamp>
       <contributor>
         <username>Beeney xx</username>
         <id>35180261</id>
       </contributor>
-      <comment>/* Brighton &amp; Hove Albion */</comment>
+      <comment>/* International */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="11887">{{Use dmy dates|date=January 2018}}
+      <text xml:space="preserve" bytes="11898">{{Use dmy dates|date=January 2018}}
 {{Infobox football biography
 | name = Davy Pröpper
 | image = BHA v FC Nantes pre season 03 08 2018-1020 (43135436864) (cropped).jpg
@@ -4263,7 +4285,7 @@ On 25 August 2011, Montoya was selected for the first time to [[Spain national f
 | goals2 = 16
 | years3 = 2017–
 | clubs3 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| caps3 = 59
+| caps3 = 60
 | goals3 = 1
 | nationalyears1 = 2009–2010
 | nationalteam1 = [[Netherlands national under-19 football team|Netherlands U19]]
@@ -4275,10 +4297,10 @@ On 25 August 2011, Montoya was selected for the first time to [[Spain national f
 | nationalgoals2 = 1
 | nationalyears3 = 2015–
 | nationalteam3 = [[Netherlands national football team|Netherlands]]
-| nationalcaps3 = 13
+| nationalcaps3 = 14
 | nationalgoals3 = 3
-| club-update = 17:12, 2 March 2019 (UTC)
-| nationalteam-update = 08:35, 9 December 2018 (UTC)
+| club-update = 14:30, 9 March 2019 (UTC)
+| nationalteam-update = 22:16, 21 March 2019 (UTC)
 }}
 '''David Petrus Wenceslaus Henri Pröpper''' (born 2 September 1991) is a Dutch professional [[Association football|footballer]] who plays as a [[midfielder]] for English {{English football updater|Brigh&amp;HA}} club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].
 
@@ -4300,7 +4322,7 @@ He made his [[Netherlands national football team|senior]] debut on 5 June 2015, 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}
+{{updated|match played 17 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -4367,26 +4389,26 @@ He made his [[Netherlands national football team|senior]] debut on 5 June 2015, 
 |-
 |[[2018–19 Brighton &amp; Hove Albion F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|55777|2018|name=Davy Propper|accessdate=10 February 2019}}&lt;/ref&gt;
 |Premier League
-|24||1||2||0||1||0||colspan=2|—||colspan=2|—||27||1
+|25||1||3||0||1||0||colspan=2|—||colspan=2|—||29||1
 |-
 !colspan=2|Total
-!59||1||6||0||2||0||colspan=2|—||colspan=2|—||67||1
+!60||1||7||0||2||0||colspan=2|—||colspan=2|—||69||1
 |-
 !colspan=3|Career total
-!268||35||25||6||2||0||21||2||2||1||318||44
+!269||35||26||6||2||0||21||2||2||1||320||44
 |}
 
 {{notelist}}
 
 ===International===
-{{updated|match played 9 September 2018}}&lt;ref name=NFT&gt;{{NFT player |id=59336 |name=Pröpper, Davy |accessdate=10 December 2018}}&lt;/ref&gt;
+{{updated|match played 21 March 2019}}&lt;ref name=NFT&gt;{{NFT player |id=59336 |name=Pröpper, Davy |accessdate=10 December 2018}}&lt;/ref&gt;
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by national team and year
 |-
 !National team!!Year!!Apps!!Goals
 |-
-|rowspan=4|[[Netherlands national football team|Netherlands]]
+|rowspan=5|[[Netherlands national football team|Netherlands]]
 |2015||1||0
 |-
 |2016||3||0
@@ -4395,7 +4417,9 @@ He made his [[Netherlands national football team|senior]] debut on 5 June 2015, 
 |-
 |2018||5||0
 |-
-!colspan=2|Total||13||3
+|2019||1||0
+|-
+!colspan=2|Total||14||3
 |}
 
 ===International goals===
@@ -4455,7 +4479,7 @@ He made his [[Netherlands national football team|senior]] debut on 5 June 2015, 
 [[Category:Dutch expatriate footballers]]
 [[Category:Expatriate footballers in England]]
 [[Category:Dutch expatriate sportspeople in England]]</text>
-      <sha1>sl5zuvdub6n8fa0n649s321cg14gmvl</sha1>
+      <sha1>egk9kq3x3ozgt4c7m8q4fjyajte17za</sha1>
     </revision>
   </page>
   <page>
@@ -5124,16 +5148,17 @@ Burn officially joined up with Brighton on 1 January 2019, after his loan spell 
     <ns>0</ns>
     <id>25020254</id>
     <revision>
-      <id>884769520</id>
-      <parentid>882229294</parentid>
-      <timestamp>2019-02-23T22:05:52Z</timestamp>
+      <id>888248811</id>
+      <parentid>888247959</parentid>
+      <timestamp>2019-03-17T22:33:15Z</timestamp>
       <contributor>
-        <username>Nehme1499</username>
-        <id>19273839</id>
+        <username>Beeney xx</username>
+        <id>35180261</id>
       </contributor>
+      <comment>/* Career statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="20925">{{Use dmy dates|date=April 2013}}
+      <text xml:space="preserve" bytes="20986">{{Use dmy dates|date=April 2013}}
 {{Infobox football biography
 | name                = Ezequiel Schelotto 
 | image               = Schelotto BHA Pre Season.jpg
@@ -5158,10 +5183,10 @@ Burn officially joined up with Brighton on 1 January 2019, after his loan spell 
 | years8              = 2014–2015 | caps8  = 29  | goals8  = 0 | clubs8  = → [[A.C. ChievoVerona|Chievo]] (loan) 
 | years9              = 2015–2017 | caps9  = 37  | goals9  = 0 | clubs9  = [[Sporting CP]]
 | years10             = 2017–     | caps10  = 20 | goals10 = 0 | clubs10 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]
-| years11              = 2019– | caps11  = 0  | goals11  = 0 | clubs11  = → [[A.C. ChievoVerona|Chievo]] (loan) 
+| years11              = 2019– | caps11  = 4  | goals11  = 0 | clubs11  = → [[A.C. ChievoVerona|Chievo]] (loan) 
 | nationalyears1      = 2009–2010 | nationalcaps1 = 7 | nationalgoals1 = 0 | nationalteam1 = [[Italy national under-21 football team|Italy U21]] 
 | nationalyears2      = 2012      | nationalcaps2 = 1 | nationalgoals2 = 0 | nationalteam2 = [[Italy national football team|Italy]]
-| club-update         = 16:09, 13 May 2018 (UTC)
+| club-update         = 22:22, 17 March 2019 (UTC)
 | nationalteam-update = 15 August 2012
 }}
 '''Ezequiel Matías Schelotto''' ({{IPA-it|skeˈlɔtto}}; born 23 May 1989) is an Argentine-Italian [[association football|footballer]] who plays as a [[Defender (association football)#Full-back|right back]] for Italian club [[A.C. ChievoVerona|Chievo Verona]], on loan from [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]. He is nicknamed ''El Galgo'' ("The Greyhound" in Spanish) because of his running skills or, less frequently, ''El Mosquetero'' ("The Musketeer").
@@ -5221,7 +5246,7 @@ On 10 August 2012, he was called up by [[Cesare Prandelli]] to the [[Italy natio
 Born in [[Buenos Aires]],&lt;ref name=BDFutbol/&gt; Schelotto also holds an Italian passport due to his Italian descent from [[Cogoleto]] ([[Province of Genoa|GE]]), in [[Liguria]], where his great-great-grandfather Giovanni Battista Francesco Schelotto emigrated from in the late 19th century. He is the fifth of seven children — including 5 males — two of whom are also footballers.&lt;ref&gt;{{cite web|url=http://www.ecodibergamo.it/stories/Sport/514179/|title=Schelotto, parla il "levriero": "Dopo il ko ci rialzeremo"|publisher=ecodibergamo.it|date=10 October 2011|accessdate=28 October 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.football-italia.net/node/11937|title= Schelotto wants Azzurri career |publisher=football-italia.net|date=10 October 2011|accessdate=8 January 2013}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|end of 2017–18 season}}&lt;ref&gt;{{cite web |url=https://int.soccerway.com/players/ezequiel-matias-schelotto/91348/ |title=E. Schelotto |website=Soccerway |publisher=Perform Group |accessdate=7 June 2018}}&lt;/ref&gt;
+{{updated|3 March 2019}}&lt;ref&gt;{{cite web |url=https://int.soccerway.com/players/ezequiel-matias-schelotto/91348/ |title=E. Schelotto |website=Soccerway |publisher=Perform Group |accessdate=7 June 2018}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -5316,10 +5341,13 @@ Born in [[Buenos Aires]],&lt;ref name=BDFutbol/&gt; Schelotto also holds an Ital
 |Chievo (loan)
 |[[2018–19 A.C. ChievoVerona season|2018–19]]
 |Serie A
-|0||0||0||0||colspan=2|—||colspan=2|—||0||0
+|4||0||0||0||colspan=2|—||colspan=2|—||4||0
+|-
+!colspan=3|Chievo overall
+!33||0||0||0||colspan=2|—||0||0||33||0
 |-
 !colspan=3|Career total
-!255||16||10||1||4||0||5||0||274||17
+!259||16||10||1||4||0||5||0||278||17
 |}
 
 {{notelist}}
@@ -5369,7 +5397,7 @@ Born in [[Buenos Aires]],&lt;ref name=BDFutbol/&gt; Schelotto also holds an Ital
 [[Category:Italian people of Argentine descent]]
 [[Category:Premier League players]]
 [[Category:Italian expatriate sportspeople in Portugal]]</text>
-      <sha1>qyywd6zhpngnrlqour8e7qc9able2ct</sha1>
+      <sha1>bcta56ru8lv6apd3xkq439ruwhs409r</sha1>
     </revision>
   </page>
   <page>
@@ -5377,9 +5405,9 @@ Born in [[Buenos Aires]],&lt;ref name=BDFutbol/&gt; Schelotto also holds an Ital
     <ns>0</ns>
     <id>6180602</id>
     <revision>
-      <id>885942028</id>
-      <parentid>885941913</parentid>
-      <timestamp>2019-03-03T09:18:22Z</timestamp>
+      <id>888056006</id>
+      <parentid>888055993</parentid>
+      <timestamp>2019-03-16T16:56:27Z</timestamp>
       <contributor>
         <username>Beeney xx</username>
         <id>35180261</id>
@@ -5387,7 +5415,7 @@ Born in [[Buenos Aires]],&lt;ref name=BDFutbol/&gt; Schelotto also holds an Ital
       <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="31075">{{BLP sources|date=September 2015}}
+      <text xml:space="preserve" bytes="31103">{{BLP sources|date=September 2015}}
 {{Use dmy dates|date=July 2013}}
 {{Infobox football biography
 | name = Tomer Hemed
@@ -5433,8 +5461,8 @@ Born in [[Buenos Aires]],&lt;ref name=BDFutbol/&gt; Schelotto also holds an Ital
 | goals7 = 32
 | years8 = 2018–
 | clubs8 = → [[Queens Park Rangers F.C.|Queens Park Rangers]] (loan)
-| caps8 = 13
-| goals8 = 4
+| caps8 = 16
+| goals8 = 5
 | nationalyears1 = 2003–2004
 | nationalteam1 = [[Israel national under-17 football team|Israel U17]]
 | nationalcaps1 = 12
@@ -5455,7 +5483,7 @@ Born in [[Buenos Aires]],&lt;ref name=BDFutbol/&gt; Schelotto also holds an Ital
 | nationalteam5 = [[Israel national football team|Israel]]
 | nationalcaps5 = 35
 | nationalgoals5 = 17
-| pcupdate = 3 March 2019
+| pcupdate = 16 March 2019
 | ntupdate = 14 October 2018
 }}
 
@@ -5463,7 +5491,7 @@ Born in [[Buenos Aires]],&lt;ref name=BDFutbol/&gt; Schelotto also holds an Ital
 
 ==Club career==
 ===Maccabi Haifa===
-Hemed was called up to [[Maccabi Haifa F.C.|Maccabi Haifa]]'s first-team in early 2006, after scoring regularly for the under-18 side. He appeared three times with the main squad, scoring once, before returning to the youth side. He made his debut in the campaign on 3 March 2007, coming on as a [[Substitute (association football)|substitute]] in a 1–2 home loss against [[Bnei Yehuda Tel Aviv F.C.|Bnei Yehuda Tel Aviv]].&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/LeagueGameDetails.aspx?GAME_ID=113612|title=Maccabi Haifa 1-2 Hakoach Maccabi Amidar Ramat Gan|publisher=[[Israel Football Association]]|date=3 March 2007|accessdate=30 June 2014}}&lt;/ref&gt; Hemed scored his first professional goals on 26 May, netting his side's both goals in a 2–0 win at [[Maccabi Herzliya F.C.|Maccabi Herzliya]].&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/LeagueGameDetails.aspx?GAME_ID=113671|title=Maccabi Herzliya 0-2 Maccabi Haifa|publisher=Israel Football Association|date=26 May 2007|accessdate=30 June 2014}}&lt;/ref&gt; In 2007, he travelled with the Under-21 side to [[2007 Torneo di Viareggio|that year]]'s [[Torneo di Viareggio]]; he scored once as Haifa was knocked-out in the group stage.
+Hemed was called up to [[Maccabi Haifa F.C.|Maccabi Haifa]]'s first-team in early 2006, after scoring regularly for the under-18 side. He appeared three times with the main squad, scoring once, before returning to the youth side. He made his debut in the campaign on 3 March 2007, coming on as a [[Substitute (association football)|substitute]] in a 1–2 home loss against [[Bnei Yehuda Tel Aviv F.C.|Bnei Yehuda Tel Aviv]].&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/LeagueGameDetails.aspx?GAME_ID=113612|title=Maccabi Haifa 1–2 Hakoach Maccabi Amidar Ramat Gan|publisher=[[Israel Football Association]]|date=3 March 2007|accessdate=30 June 2014}}&lt;/ref&gt; Hemed scored his first professional goals on 26 May, netting his side's both goals in a 2–0 win at [[Maccabi Herzliya F.C.|Maccabi Herzliya]].&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/LeagueGameDetails.aspx?GAME_ID=113671|title=Maccabi Herzliya 0–2 Maccabi Haifa|publisher=Israel Football Association|date=26 May 2007|accessdate=30 June 2014}}&lt;/ref&gt; In 2007, he travelled with the Under-21 side to [[2007 Torneo di Viareggio|that year]]'s [[Torneo di Viareggio]]; he scored once as Haifa was knocked-out in the group stage.
 
 Hemed was subsequently loaned to Maccabi Herzliya,&lt;ref&gt;{{cite web|url=http://www.one.co.il/Article/07-08/1,1,14,0/109497.html|script-title=he:תומר חמד יושאל למכבי הרצליה|trans-title=Tomer Hemed loaned to Maccabi Herzliya|language=Hebrew|publisher=One|date=30 January 2008|accessdate=30 June 2014}}&lt;/ref&gt; [[Bnei Yehuda Tel Aviv F.C.|Bnei Yehuda Tel Aviv]]&lt;ref&gt;{{cite web|url=http://www.one.co.il/Article/120140.html|script-title=he:תומר חמד הושאל ממכבי חיפה לבני יהודה|trans-title=Tomer Hemed of Maccabi Haifa loaned to Yehuda|language=Hebrew|publisher=One|date=20 July 2008|accessdate=30 June 2014}}&lt;/ref&gt; and [[Maccabi Ahi Nazareth F.C.|Maccabi Ahi Nazareth]]&lt;ref&gt;{{cite web|url=http://www.one.co.il/Article/08-09/3,14,56,0/139830.html|script-title=he:מכבי אחי נצרת הולכת על שוער נבחרת חוף השנהב|trans-title=Maccabi Ahi Nazareth goes after Ivory Coast goalkeeper|language=Hebrew|publisher=One|date=1 July 2009|accessdate=30 June 2014}}&lt;/ref&gt; (the latter being managed by [[John Gregory (footballer)|John Gregory]]).{{citation needed|date=September 2015}} Nazareth, however, finished last as Hemed scored nine goals.{{citation needed|date=September 2015}}
 
@@ -5482,21 +5510,21 @@ On 2 July 2014 Hemed returned to the Spanish top level, by agreeing to a two-yea
 In January 2015, Hemed scored two braces against [[Málaga CF]] (2–1 away win) and [[Valencia CF]] (2–3 away loss), taking his tally up to six. He finished [[2014–15 La Liga|the campaign]] with eight goals, being the club's top goalscorer, but suffered team relegation.
 
 ===Brighton &amp; Hove Albion===
-On 24 June 2015 Hemed signed a three-year deal with English [[Football League Championship|Championship]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] for an undisclosed fee. He scored his first goal for the Seagulls from the penalty spot in the last moments of an away game at Fulham, to seal a 2–1 victory.&lt;ref&gt;{{cite news|title=Fulham 1-2 Brighton: Late Hemed penalty seals points for Brighton|url=http://www.skysports.com/football/news/11688/9951468/fulham-brighton|accessdate=15 April 2016|work=Sky Sports|date=15 August 2015}}&lt;/ref&gt; Hemed scored just one goal between September 2015 and February 2016, which drew criticism from supporters, but rediscovered his early season form to finish as the club's top scorer with 17 goals.
+On 24 June 2015 Hemed signed a three-year deal with English [[Football League Championship|Championship]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] for an undisclosed fee. He scored his first goal for the Seagulls from the penalty spot in the last moments of an away game at Fulham, to seal a 2–1 victory.&lt;ref&gt;{{cite news|title=Fulham 1–2 Brighton: Late Hemed penalty seals points for Brighton|url=http://www.skysports.com/football/news/11688/9951468/fulham-brighton|accessdate=15 April 2016|work=Sky Sports|date=15 August 2015}}&lt;/ref&gt; Hemed scored just one goal between September 2015 and February 2016, which drew criticism from supporters, but rediscovered his early season form to finish as the club's top scorer with 17 goals.
 
 Hemed scored 13 goals in all competitions in Brighton's promotion-winning [[2016–17 EFL Championship|2016–17 season]], trading starting positions regularly with top-scorer [[Glenn Murray]] and [[Sam Baldock]] in a strike force that managed to score 44 league goals between them. Highlights from Hemed throughout the season included a last gasp equaliser in a 3–3 draw away to [[Brentford F.C.|Brentford]],&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/38786510|title=Brentford 3–3 Brighton &amp; Hove Albion|publisher=BBC Sport|date=5 February 2017}}&lt;/ref&gt; the only goal in a hard earned 1–0 win against [[Cardiff City F.C.|Cardiff City]],&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/38786510|title=Brighton &amp; Hove Albion 1–0 Cardiff City|publisher=BBC Sport|date=24 January 2017}}&lt;/ref&gt; and a late penalty in a narrow 1–0 away win against [[Burton Albion F.C.|Burton Albion]].&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/37324950|title=Burton Albion 0–1 Brighton &amp; Hove Albion|publisher=BBC Sport|date=17 September 2016}}&lt;/ref&gt;
 
-On 9 September 2017, Hemed scored his first [[Premier League]] goal for Brighton in a 3–1 victory over [[West Bromwich Albion F.C.|West Bromwich Albion]].&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/41133349|title=Brighton &amp; Hove Albion 3-1 West Bromwich Albion|publisher=[[BBC Sport]]|accessdate=10 September 2017|date=9 September 2017}}&lt;/ref&gt; Hemed scored again in Brighton's next home Premier League game, a 1–0 win against [[Newcastle United F.C.|Newcastle United]] on 24 September.&lt;ref&gt;{{Cite news|url=http://m.bbc.co.uk/sport/football/41297234|title=Brighton &amp; Hove Albion 1–0 Newcastle United|publisher=BBC Sport|date=24 September 2017}}&lt;/ref&gt; Three days later, the [[The Football Association|FA]] announced that Hemed had been given a three-match ban for a stamp on the calf of Newcastle defender [[DeAndre Yedlin]], an incident which went unnoticed by referee [[Andre Marriner]].&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/football/41419869 |title=Tomer Hemed: Brighton striker given three-match ban over DeAndre Yedlin incident |work=BBC Sport |date=27 September 2017}}&lt;/ref&gt;
+On 9 September 2017, Hemed scored his first [[Premier League]] goal for Brighton in a 3–1 victory over [[West Bromwich Albion F.C.|West Bromwich Albion]].&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/41133349|title=Brighton &amp; Hove Albion 3–1 West Bromwich Albion|publisher=[[BBC Sport]]|accessdate=10 September 2017|date=9 September 2017}}&lt;/ref&gt; Hemed scored again in Brighton's next home Premier League game, a 1–0 win against [[Newcastle United F.C.|Newcastle United]] on 24 September.&lt;ref&gt;{{Cite news|url=http://m.bbc.co.uk/sport/football/41297234|title=Brighton &amp; Hove Albion 1–0 Newcastle United|publisher=BBC Sport|date=24 September 2017}}&lt;/ref&gt; Three days later, the [[The Football Association|FA]] announced that Hemed had been given a three-match ban for a stamp on the calf of Newcastle defender [[DeAndre Yedlin]], an incident which went unnoticed by referee [[Andre Marriner]].&lt;ref&gt;{{cite web |url=https://www.bbc.com/sport/football/41419869 |title=Tomer Hemed: Brighton striker given three-match ban over DeAndre Yedlin incident |work=BBC Sport |date=27 September 2017}}&lt;/ref&gt;
 
 On 16 November 2017, Hemed signed a contract extension with Brighton, keeping him on the south coast until the summer of 2019.&lt;ref&gt;{{Cite news|url=https://www.brightonandhovealbion.com/news/2017/november/hemed-signs-new-deal/|title=Hemed Signs New Deal|publisher=Brighton &amp; Hove Albion Football Club|date=16 November 2017}}&lt;/ref&gt;
 
 ===Queens Park Rangers===
-On 23 August 2018, Hemed joined [[EFL Championship|Championship]] side [[Queens Park Rangers F.C.|Queens Park Rangers]] on a season-long loan.&lt;ref&gt;{{cite web|url=https://www.qpr.co.uk/news/club-news/qpr-complete-tomer-hemed-loan-signing/|title=QPR complete Tomer Hemed loan signing|website=English}}&lt;/ref&gt; Two days later he scored his first goal for the club on his debut against [[Wigan Athletic F.C.|Wigan Athletic]] in a 1-0 win at [[Loftus Road]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45229937|title=Queens Park Rangers 1-0 Wigan Athletic: Steve McClaren says R's 'will get better' after first win|date=25 August 2018|publisher=|via=www.bbc.co.uk}}&lt;/ref&gt;
+On 23 August 2018, Hemed joined [[EFL Championship|Championship]] side [[Queens Park Rangers F.C.|Queens Park Rangers]] on a season-long loan.&lt;ref&gt;{{cite web|url=https://www.qpr.co.uk/news/club-news/qpr-complete-tomer-hemed-loan-signing/|title=QPR complete Tomer Hemed loan signing|website=English}}&lt;/ref&gt; Two days later he scored his first goal for the club on his debut against [[Wigan Athletic F.C.|Wigan Athletic]] in a 1–0 win at [[Loftus Road]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45229937|title=Queens Park Rangers 1–0 Wigan Athletic: Steve McClaren says R's 'will get better' after first win|date=25 August 2018|publisher=|via=www.bbc.co.uk}}&lt;/ref&gt;
 
 ==International career==
 Hemed appeared with the [[Israel national under-17 football team|under-17]], [[Israel national under-18 football team|under-18]], [[Israel national under-19 football team|under-19]] and [[Israel national under-21 football team|under-21]]s, featuring regularly with the youth squads. In January 2011, he was called up to the [[Israel national football team|main squad]] for a behind closed doors friendly against [[FC Dynamo Kyiv]]. Hemed made his unofficial debut on the 26th, scoring in a 3–2 win.&lt;ref&gt;{{cite web |url=http://video.fcdynamo.kiev.ua/match/friend_games/dynamo_izrael_26012011 |title=Dynamo Kyiv 2–3 Israel |language=Ukrainian|publisher=Dynamo Kiev Official Website|date=26 January 2011|accessdate=14 February 2011}}&lt;/ref&gt;
 
-In May 2011, Hemed was called up to train with the national team for a friendly against [[Latvia national football team|Latvia]] in June.&lt;ref&gt;{{cite web |url=http://football.org.il/Archive/Articles/Pages/nationalteam_11may2011.aspx |title=National Team for June |publisher=The Israel Football Association |accessdate=11 May 2011}}&lt;/ref&gt; On 4 June, he made his international debut, starting and assisting [[Yossi Benayoun]] in a 2–1 victory.&lt;ref&gt;{{cite web|url=http://www.jpost.com/Sports/Israel-takes-care-of-business-beats-Latvia-2-1|title=Israel takes care of business, beats Latvia 2-1|publisher=The Jerusalem Post|date=5 June 2011|accessdate=1 July 2014}}&lt;/ref&gt;
+In May 2011, Hemed was called up to train with the national team for a friendly against [[Latvia national football team|Latvia]] in June.&lt;ref&gt;{{cite web |url=http://football.org.il/Archive/Articles/Pages/nationalteam_11may2011.aspx |title=National Team for June |publisher=The Israel Football Association |accessdate=11 May 2011}}&lt;/ref&gt; On 4 June, he made his international debut, starting and assisting [[Yossi Benayoun]] in a 2–1 victory.&lt;ref&gt;{{cite web|url=http://www.jpost.com/Sports/Israel-takes-care-of-business-beats-Latvia-2-1|title=Israel takes care of business, beats Latvia 2–1|publisher=The Jerusalem Post|date=5 June 2011|accessdate=1 July 2014}}&lt;/ref&gt;
 
 Hemed scored his first international goal on 6 September, but in a 1–3 loss against [[Croatia national football team|Croatia]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002248/postmatch/report/index.html|title=Eduardo double against Israel sends Croatia top|publisher=[[UEFA]].com|date=6 September 2011|accessdate=1 July 2014}}&lt;/ref&gt; He also scored a [[hat-trick]] in a 6–0 routing against [[Luxembourg national football team|Luxembourg]] on 12 October of the following year.&lt;ref&gt;{{cite web|url=http://www.uefa.com/worldcup/season=2014/matches/round=2000294/match=2008675/postmatch/report/index.html|title=Hemed hat-trick helps Israel overwhelm Luxembourg|publisher=UEFA.com|date=12 October 2012|accessdate=1 July 2014}}&lt;/ref&gt;
 
@@ -5517,13 +5545,13 @@ Hemed scored his first international goal on 6 September, but in a 1–3 loss ag
 !scope=col class=unsortable|Ref
 |-
 !scope=row|1
-|6 September 2011||[[Stadion Maksimir]], [[Zagreb]], Croatia||align=center|4||{{fb|Croatia}}||align=center|1–0||align=center|1–3||[[UEFA Euro 2012 qualifying Group F|UEFA Euro 2012 qualification]]||&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2011/09/06/europe/european-championships/croatia/israel/922667/|title=Croatia vs. Israel - 6 September 2011 - Soccerway|website=int.soccerway.com}}&lt;/ref&gt;
+|6 September 2011||[[Stadion Maksimir]], [[Zagreb]], Croatia||align=center|4||{{fb|Croatia}}||align=center|1–0||align=center|1–3||[[UEFA Euro 2012 qualifying Group F|UEFA Euro 2012 qualification]]||&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2011/09/06/europe/european-championships/croatia/israel/922667/|title=Croatia vs. Israel – 6 September 2011 – Soccerway|website=int.soccerway.com}}&lt;/ref&gt;
 |-
 !scope=row|2
-|29 February 2012||[[HaMoshava Stadium]], [[Petah Tikva]], Israel||align=center|6||{{fb|Ukraine}}||align=center|1–2||align=center|2–3||rowspan=2|[[Exhibition game#Association football|Friendly]]||&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2012/02/29/world/friendlies/israel/ukraine/1236167/|title=Israel vs. Ukraine - 29 February 2012 - Soccerway|website=int.soccerway.com}}&lt;/ref&gt;
+|29 February 2012||[[HaMoshava Stadium]], [[Petah Tikva]], Israel||align=center|6||{{fb|Ukraine}}||align=center|1–2||align=center|2–3||rowspan=2|[[Exhibition game#Association football|Friendly]]||&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2012/02/29/world/friendlies/israel/ukraine/1236167/|title=Israel vs. Ukraine – 29 February 2012 – Soccerway|website=int.soccerway.com}}&lt;/ref&gt;
 |-
 !scope=row|3
-|15 August 2012||[[Ferenc Puskás Stadium (1953)|Ferenc Puskás Stadium]], [[Budapest]], Hungary||align=center|8||{{fb|Hungary}}||align=center|1–1||align=center|1–1||&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2012/08/15/world/friendlies/hungary/israel/1313647/|title=Hungary vs. Israel - 15 August 2012 - Soccerway|website=int.soccerway.com}}&lt;/ref&gt;
+|15 August 2012||[[Ferenc Puskás Stadium (1953)|Ferenc Puskás Stadium]], [[Budapest]], Hungary||align=center|8||{{fb|Hungary}}||align=center|1–1||align=center|1–1||&lt;ref&gt;{{cite web|url=https://int.soccerway.com/matches/2012/08/15/world/friendlies/hungary/israel/1313647/|title=Hungary vs. Israel – 15 August 2012 – Soccerway|website=int.soccerway.com}}&lt;/ref&gt;
 |-
 !scope=row|4
 |rowspan=3|12 October 2012||rowspan=3|[[Stade Josy Barthel]], [[Luxembourg City]], Luxembourg||rowspan=3 align=center|10||rowspan=5|{{fb|Luxembourg}}||align=center|3–0||rowspan=3 align=center|6–0||rowspan=6|[[2014 FIFA World Cup qualification – UEFA Group F|2014 FIFA World Cup qualification]]||rowspan=3|&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/matches/round=258374/match=300182277/report.html|title=2014 FIFA World Cup Brazil™ - Matches - Luxembourg-Israel - FIFA.com|first=|last=FIFA.com|website=FIFA.com}}&lt;/ref&gt;
@@ -5577,7 +5605,7 @@ In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel c
 
 ===Club===
 
-{{updated|2 March 2019}}&lt;ref&gt;{{Soccerway|tomer-hemed/55980}}&lt;/ref&gt;
+{{updated|16 March 2019}}&lt;ref&gt;{{Soccerway|tomer-hemed/55980}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align:center;"
 |-
@@ -5661,10 +5689,10 @@ In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel c
 |[[Queens Park Rangers F.C.|Queens Park Rangers]] (loan)
 |[[2018–19 Queens Park Rangers F.C. season|2018–19]]
 |[[Football League Championship|Championship]]
-|13||4||2||0||0||0||colspan="2"|—||15||4
+|16||5||2||0||0||0||colspan="2"|—||18||5
 |-
 !colspan="3" valign="center"|'''Career Total'''
-!354!!93!!22!!6!!33!!9!!3!!0!!412!!108
+!357!!94!!22!!6!!33!!9!!3!!0!!415!!109
 |}
 
 {{Notelist}}
@@ -5749,7 +5777,7 @@ In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel c
 [[Category:Israel international footballers]]
 [[Category:Premier League players]]
 [[Category:English Football League players]]</text>
-      <sha1>sbq6vud734pr60ihi0tukhlrkby50u6</sha1>
+      <sha1>b5frioxsr5wd00uqw9uw14gqw91s6kn</sha1>
     </revision>
   </page>
   <page>
@@ -5757,15 +5785,15 @@ In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel c
     <ns>0</ns>
     <id>52691721</id>
     <revision>
-      <id>883935404</id>
-      <parentid>880938862</parentid>
-      <timestamp>2019-02-18T15:14:07Z</timestamp>
+      <id>888352432</id>
+      <parentid>883935404</parentid>
+      <timestamp>2019-03-18T16:02:58Z</timestamp>
       <contributor>
-        <ip>2A02:A03F:3F93:2400:CDA8:23CA:573:54D3</ip>
+        <ip>41.113.30.156</ip>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="14319">{{Infobox football biography
+      <text xml:space="preserve" bytes="14318">{{Infobox football biography
 | name = Percy Tau
 | image = 
 | image_size = 
@@ -5792,7 +5820,7 @@ In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel c
 | years4 = 2018–
 | clubs4 = → [[Royale Union Saint-Gilloise|Union SG]] (loan)
 | caps4 = 21
-| goals4 = 4
+| goals4 = 6
 | nationalyears1 = 2015–
 | nationalteam1 = [[South Africa national football team|South Africa]]
 | nationalcaps1 = 17
@@ -5803,7 +5831,7 @@ In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel c
 
 '''Percy Tau''' (born 13 May 1994) is a South African professional [[association football|footballer]] who plays for [[Royale Union Saint-Gilloise|Union SG]], on loan from [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]], and the [[South Africa national football team|South African national team]].
 
-Tau began his footballing career with [[Premier Soccer League]] side [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]] where he made 100 appearances either side of a loan to [[Witbank Spurs F.C.|Witbank Spurs]]. During his time with Sundowns, Tau won the league title twice and the [[CAF Champions League]] once and was named [[PSL Awards#Footballer of the Year|Footballer of the Year]] and joint-[[Lesley Manyathela Golden Boot|top-goalscorer]] in his final season with the 
+Tau began his footballing career with [[Premier Soccer League]] side [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]] where he made 100 appearances either side of a loan to [[Witbank Spurs F.C.|Witbank Spurs]]. During his time with Sundowns, Tau won the league title twice and the [[CAF Champions League]] once and was named [[PSL Awards#Footballer of the Year|Footballer of the Year]] and joint-[[Lesley Manyathela Golden Boot|top-goalscorer]] in his final season with the
 
 ==Education==
 Percy Tau has earned a [BCom] at University of South Africa
@@ -5924,7 +5952,7 @@ On Saturday, 25 March 2017, Tau scored his first international goal in the 69th 
 [[Category:Association football midfielders]]
 [[Category:South African Premier Division players]]
 [[Category:South Africa international soccer players]]</text>
-      <sha1>en6vlg7xiom9kp6fpyf5ziuowuffa5o</sha1>
+      <sha1>rdlpjnyfjekk9mo4t6n9gdbott10jil</sha1>
     </revision>
   </page>
   <page>
@@ -6095,17 +6123,17 @@ Suttner made seven appearances for [[Austria national football team|Austria's]] 
     <ns>0</ns>
     <id>44248056</id>
     <revision>
-      <id>883370352</id>
-      <parentid>883369676</parentid>
-      <timestamp>2019-02-15T00:40:25Z</timestamp>
+      <id>888062493</id>
+      <parentid>888056811</parentid>
+      <timestamp>2019-03-16T17:43:54Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>LTFC 95</username>
+        <id>24768641</id>
       </contributor>
-      <comment>Reverted 1 edit by [[Special:Contributions/86.184.247.50|86.184.247.50]] ([[User talk:86.184.247.50|talk]]): Unsourced ([[WP:TW|TW]])</comment>
+      <comment>restored infobox formatting removed by VisualEditor, ref</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="24139">{{Use British English|date=October 2014}}
+      <text xml:space="preserve" bytes="24136">{{Use British English|date=October 2014}}
 {{Use dmy dates|date=October 2014}}
 {{Infobox football biography
 | name                = Christian Walton
@@ -6127,7 +6155,7 @@ Suttner made seven appearances for [[Austria national football team|Austria's]] 
 | years4              = 2016–2017 | clubs4 = → [[Luton Town F.C.|Luton Town]] (loan)                | caps4 = 27 | goals4 = 0
 | years5              = 2017      | clubs5 = → [[Southend United F.C.|Southend United]] (loan)      | caps5 = 7  | goals5 = 0
 | years6              = 2017–2018 | clubs6 = → [[Wigan Athletic F.C.|Wigan Athletic]] (loan)        | caps6 = 31 | goals6 = 0
-| years7              = 2018–     | clubs7 = → [[Wigan Athletic F.C.|Wigan Athletic]] (loan)        | caps7 = 26 | goals7 = 0
+| years7              = 2018–     | clubs7 = → [[Wigan Athletic F.C.|Wigan Athletic]] (loan)        | caps7 = 27 | goals7 = 0
 | nationalyears1      = 2014
 | nationalteam1       = [[England national under-19 football team|England U19]]
 | nationalcaps1       = 4
@@ -6140,7 +6168,7 @@ Suttner made seven appearances for [[Austria national football team|Austria's]] 
 | nationalteam3       = [[England national under-21 football team|England U21]]
 | nationalcaps3       = 1
 | nationalgoals3      = 0
-| club-update         = 19:26, 1 January 2019 (UTC)
+| club-update         = 17:02, 16 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Christian Timothy Walton''' (born 9 November 1995) is an English professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{English football updater|WiganAth}} club [[Wigan Athletic F.C.|Wigan Athletic]], on [[Loan (sports)|loan]] from {{English football updater|Brigh&amp;HA}} club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]. He has represented England at [[England national under-19 football team|under-19]], [[England national under-20 football team|under-20]] and [[England national under-21 football team|under-21]] levels.
@@ -6166,7 +6194,7 @@ On 12 July 2017, Walton signed for League One club Wigan Athletic on a season-lo
 Walton was called up to the [[England national under-19 football team|England under-19 team]] for a [[Exhibition game#Association football|friendly]] against [[Turkey national under-19 football team|Turkey]] on 5 March 2014.&lt;ref&gt;{{cite web |first=Jamie |last=Reid |title=Noel Blake names England U19s squad for Turkey fixture |url=http://www.thefa.com/news/2014/feb/24/blake-names-u19s-squad-for-turkey |publisher=The Football Association |date=24 February 2014 |accessdate=6 August 2017}}&lt;/ref&gt; He entered the match as a 76th-minute substitute for [[Mitchell Beeney]], the match finishing a 3–0 win.&lt;ref&gt;{{cite web |first=Jamie |last=Reid |title=England U19s shine in Chester as Young Lions beat Turkey |url=http://www.thefa.com/news/2014/mar/05/england-v-turkey-match-report |publisher=The Football Association |date=5 March 2014 |accessdate=6 August 2017}}&lt;/ref&gt; Walton received his first call-up to the [[England national under-20 football team|England under-20 team]] for a friendly against [[Romania national under-19 football team|Romania]],&lt;ref&gt;{{cite web |first=Jamie |last=Reid |title=Aidy Boothroyd names U20 squad to face Romania |url=http://www.thefa.com/news/2014/aug/28/boothroyd-names-his-first-u20-squad |publisher=The Football Association |date=28 August 2014 |accessdate=6 August 2017}}&lt;/ref&gt; in which he won his first [[Cap (sport)|cap]].&lt;ref&gt;{{cite web |first=Jamie |last=Reid |title=Boothroyd's boys hit Romania for six in Telford |url=http://www.thefa.com/news/2014/sep/05/england-v-romania-u20-match-report-050914 |publisher=The Football Association |date=5 September 2014 |accessdate=6 August 2017}}&lt;/ref&gt; He was first called up to the [[England national under-21 football team|England under-21 team]] on 25 August 2015 for their matches against the [[United States men's national under-23 soccer team|United States under-23 team]] and [[Norway national under-21 football team|Norway under-21 team]].&lt;ref&gt;{{cite news |first=Ben |last=Collins |title=Duncan Watmore and Bury keeper Christian Walton named in England Under-21 squad |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/duncan-watmore-bury-keeper-christian-9925531 |newspaper=Manchester Evening News |date=25 August 2015 |accessdate=18 February 2018}}&lt;/ref&gt; However, he was forced to withdraw from the squad six days later after sustaining a groin injury playing for Bury in a 1–1 draw with Oldham Athletic.&lt;ref&gt;{{cite news |first=Craig |last=Nelson |title=Bury keeper Christian Walton is withdrawn from England U21 squad |url=http://www.burytimes.co.uk/sport/13636844.Bury_keeper_Christian_Walton_is_withdrawn_from_England_U21_squad/ |newspaper=Bury Times |date=31 August 2015 |accessdate=12 October 2016}}&lt;/ref&gt; Walton received his next under-21 call-up on 3 October 2016 for two [[2017 UEFA European Under-21 Championship qualification]] matches against [[Kazakhstan national under-21 football team|Kazakhstan]] and [[Bosnia and Herzegovina national under-21 football team|Bosnia and Herzegovina]].&lt;ref&gt;{{cite news |first=Mike |last=Simmonds |title=Luton keeper earns England U21 call-up |url=https://www.lutontoday.co.uk/sport/football/luton-town/luton-keeper-earns-england-u21-call-up-1-7609189 |newspaper=Luton Today |date=3 October 2016 |accessdate=18 February 2018}}&lt;/ref&gt; He won his first cap and kept a [[clean sheet]] in England's 5–0 win over Bosnia and Herzegovina on 11 October.&lt;ref&gt;{{cite news |first=Mike |last=Simmonds |title=Clean sheet for Luton keeper on England U21s debut |url=https://www.lutontoday.co.uk/sport/football/luton-town/clean-sheet-for-luton-keeper-on-england-u21s-debut-1-7624419 |newspaper=Luton Today |date=11 October 2016 |accessdate=18 February 2018}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 1 January 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -6234,15 +6262,15 @@ Walton was called up to the [[England national under-19 football team|England un
 |League One
 |31||0||4||0||0||0||0||0||35||0
 |-
-|[[2018–19 Wigan Athletic F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|63208|2018|accessdate=1 January 2019}}&lt;/ref&gt;
+|[[2018–19 Wigan Athletic F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|63208|2018|accessdate=16 March 2019}}&lt;/ref&gt;
 |Championship
-|26||0||0||0||0||0||colspan=2|—||26||0
+|27||0||0||0||0||0||colspan=2|—||27||0
 |-
 !colspan=2|Total
-!57!!0!!4!!0!!0!!0!!0!!0!!61!!0
+!58!!0!!4!!0!!0!!0!!0!!0!!62!!0
 |-
 !colspan=3|Career total
-!102!!0!!7!!0!!5!!0!!1!!0!!115!!0
+!103!!0!!7!!0!!5!!0!!1!!0!!116!!0
 |}
 
 {{notelist}}
@@ -6279,7 +6307,7 @@ Walton was called up to the [[England national under-19 football team|England un
 [[Category:Southend United F.C. players]]
 [[Category:Wigan Athletic F.C. players]]
 [[Category:English Football League players]]</text>
-      <sha1>qvhhijwhvjj70t4htr195bm3wo6mx30</sha1>
+      <sha1>28hbjqs4pg0zctt5u9ulbmgj1gi6bau</sha1>
     </revision>
   </page>
   <page>
@@ -6287,16 +6315,16 @@ Walton was called up to the [[England national under-19 football team|England un
     <ns>0</ns>
     <id>58308135</id>
     <revision>
-      <id>885940259</id>
-      <parentid>885931858</parentid>
-      <timestamp>2019-03-03T09:04:42Z</timestamp>
+      <id>886953673</id>
+      <parentid>885940259</parentid>
+      <timestamp>2019-03-09T17:02:33Z</timestamp>
       <contributor>
         <username>Beeney xx</username>
         <id>35180261</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="4750">{{Use dmy dates|date=August 2016}}
+      <text xml:space="preserve" bytes="4755">{{Use dmy dates|date=August 2016}}
 {{Use British English|date=August 2016}}
 {{Infobox football biography
 | name = Ben Barclay
@@ -6325,9 +6353,9 @@ Walton was called up to the [[England national under-19 football team|England un
 | goals1 = 0
 | years2 = 2019–
 | clubs2 = → [[Notts County F.C.|Notts County]] (loan)
-| caps2 = 9
+| caps2 = 10
 | goals2 = 0
-| club-update = 9:03, 3 March 2019 (UTC)
+| club-update = 17:02, 9 March 2019 (UTC)
 }}
 
 '''Benjamin Barclay''' (born 7 October 1996) is an English professional [[Association football|footballer]] who plays as a [[Defender (association football)#Centre-back|centre-back]] for [[EFL League Two|League Two]] club [[Notts County F.C.|Notts County]] on loan from [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]].
@@ -6343,7 +6371,7 @@ On 4 January 2019, Barclay joined [[Notts County F.C.|Notts County]] on loan unt
 
 ==Career statistics==
 
-{{Updated|match played 2 March 2019}}
+{{Updated|match played 9 March 2019}}
 
 {| class=wikitable style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -6369,10 +6397,10 @@ On 4 January 2019, Barclay joined [[Notts County F.C.|Notts County]] on loan unt
 |rowspan=1|[[Notts County F.C.|Notts County]] (loan)
 |[[2018–19 Notts County F.C. season|2018–19]]
 |[[League Two]]
-|9||0||colspan=2|—||colspan=2|—||colspan=2|—||9||0
+|10||0||colspan=2|—||colspan=2|—||colspan=2|—||10||0
 |-
 !colspan=3|Career Total
-!9!!0!!0!!0!!1!!0!!0!!0!!10!!0
+!10!!0!!0!!0!!1!!0!!0!!0!!11!!0
 |-
 |}
 
@@ -6387,7 +6415,7 @@ On 4 January 2019, Barclay joined [[Notts County F.C.|Notts County]] on loan unt
 [[Category:Living people]]
 [[Category:Brighton &amp; Hove Albion F.C. players]]
 [[Category:Association football defenders]]</text>
-      <sha1>rrw10a9eh4pe1rg5ev82ux3pm20bv03</sha1>
+      <sha1>aw0ibr0hpodleido6iyvbcwo8kywfxv</sha1>
     </revision>
   </page>
   <page>
@@ -6395,16 +6423,17 @@ On 4 January 2019, Barclay joined [[Notts County F.C.|Notts County]] on loan unt
     <ns>0</ns>
     <id>29886248</id>
     <revision>
-      <id>885941538</id>
-      <parentid>884772430</parentid>
-      <timestamp>2019-03-03T09:13:20Z</timestamp>
+      <id>888056293</id>
+      <parentid>888056224</parentid>
+      <timestamp>2019-03-16T16:58:56Z</timestamp>
       <contributor>
         <username>Beeney xx</username>
         <id>35180261</id>
       </contributor>
+      <comment>/* Career statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="19695">{{EngvarB|date=August 2013}}
+      <text xml:space="preserve" bytes="19698">{{EngvarB|date=August 2013}}
 {{Use dmy dates|date=August 2013}}
 {{Infobox football biography
 | name = Richie Towell
@@ -6444,7 +6473,7 @@ On 4 January 2019, Barclay joined [[Notts County F.C.|Notts County]] on loan unt
 | goals5 = 5
 | years6 = 2018–
 | clubs6 = → [[Rotherham United F.C.|Rotherham United]] (loan)
-| caps6 = 25
+| caps6 = 27
 | goals6 = 4
 | nationalyears1 = 2007–2008
 | nationalteam1 = [[Republic of Ireland national under-17 football team|Republic of Ireland U17]]
@@ -6458,7 +6487,7 @@ On 4 January 2019, Barclay joined [[Notts County F.C.|Notts County]] on loan unt
 | nationalteam3 = [[Republic of Ireland national under-21 football team|Republic of Ireland U21]]
 | nationalcaps3 = 9
 | nationalgoals3 = 0
-| club-update = 9:11, 3 March 2019 (UTC)
+| club-update = 16:58, 16 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Richard Patrick Towell''' (born 17 July 1991) is an Irish professional [[Association football|footballer]] who plays for [[Rotherham United F.C.|Rotherham United]] (on loan from [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]]).
@@ -6507,7 +6536,7 @@ Towell made two appearances for [[Republic of Ireland national under-21 football
 
 ==Career statistics==
 
-{{updated|match played 2 March 2019.}}
+{{updated|match played 16 March 2019.}}
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -6574,7 +6603,7 @@ Towell made two appearances for [[Republic of Ireland national under-21 football
 !1!!0!!3!!1!!1!!0!!0!!0!!1!!0!!6!!1
 |-
 |[[Brighton &amp; Hove Albion F.C. Reserves and Academy|Brighton &amp; Hove Albion U23]]
-|2016–17&lt;ref name=sb1617/&gt;
+|2016–17&lt;ref name="RT16"/&gt;
 |colspan=3|-||-||-||-||-||-||-||3{{efn|3 appearances, 1 goal in [[EFL Trophy]]}}||1||3||1
 |-
 |rowspan="3"|[[Rotherham United F.C.|Rotherham United]] (loan)
@@ -6584,13 +6613,13 @@ Towell made two appearances for [[Republic of Ireland national under-21 football
 |-
 |[[2018–19 Rotherham United F.C. season|2018–19]]&lt;ref name="RT18"&gt;{{soccerbase season|56187|2018|accessdate=12 February 2019}}&lt;/ref&gt;
 |Championship
-|25||4||0||0||-||-||-||-||0||0||25||4
+|27||4||0||0||-||-||-||-||0||0||27||4
 |-
 !colspan="2"|Rotherham United
-!64!!9!!1!!0!!0!!0!!0!!0!!5!!1!!70!!10
+!66!!9!!1!!0!!0!!0!!0!!0!!5!!1!!72!!10
 |-
 ! colspan="3" |Career total
-!192!!54!!12!!4!!6!!1!!6!!2!!14!!3!!230!!64
+!194!!54!!12!!4!!6!!1!!6!!2!!14!!3!!232!!64
 |}
 
 {{reflist|group=lower-alpha}}
@@ -6652,7 +6681,7 @@ Towell made two appearances for [[Republic of Ireland national under-21 football
 [[Category:Expatriate footballers in Scotland]]
 [[Category:Irish expatriate sportspeople in England]]
 [[Category:Irish expatriate sportspeople in Scotland]]</text>
-      <sha1>c0k2uk42d0i18y87q6h9hyfql8ew0fg</sha1>
+      <sha1>h3i5rjcm28pv5twbfobreo82k59lixz</sha1>
     </revision>
   </page>
   <page>
@@ -6660,17 +6689,17 @@ Towell made two appearances for [[Republic of Ireland national under-21 football
     <ns>0</ns>
     <id>55785510</id>
     <revision>
-      <id>880935295</id>
-      <parentid>880003765</parentid>
-      <timestamp>2019-01-30T12:02:11Z</timestamp>
+      <id>888249687</id>
+      <parentid>888189697</parentid>
+      <timestamp>2019-03-17T22:40:56Z</timestamp>
       <contributor>
-        <username>GiantSnowman</username>
-        <id>1005449</id>
+        <username>R96Skinner</username>
+        <id>20490616</id>
       </contributor>
-      <comment>added [[Category:Mac Allister family]] using [[WP:HC|HotCat]]</comment>
+      <comment>Restored. Argentinos Juniors 9/3 stats already exist, other column is for loan stats only.</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="9179">{{Use dmy dates|date=November 2017}}
+      <text xml:space="preserve" bytes="9176">{{Use dmy dates|date=November 2017}}
 
 {{Infobox football biography
 | name           = Alexis Mac Allister
@@ -6688,9 +6717,9 @@ Towell made two appearances for [[Republic of Ireland national under-21 football
 | youthyears2    = | youthclubs2 = [[Argentinos Juniors]]
 | years1         = 2016–2019 | clubs1 = [[Argentinos Juniors]] | caps1 = 56 | goals1 = 8
 | years2         = 2019–     | clubs2 = [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] | caps2 = 0 | goals2 = 0
-| years3         = 2019–     | clubs3 = → [[Argentinos Juniors]] (loan) | caps3 = 0 | goals3 = 0
+| years3         = 2019–     | clubs3 = → [[Argentinos Juniors]] (loan) | caps3 = 8 | goals3 = 1
 | nationalyears1 = | nationalteam1 = | nationalcaps1 = | nationalgoals1 = 
-| club-update    = 18:54, 24 January 2019 (UTC)
+| club-update    = 22:26, 16 March 2019 (UTC)
 | ntupdate       = 
 | medaltemplates =
 }}
@@ -6713,7 +6742,7 @@ Shortly after debuting for Argentinos, Mac Allister received a call-up from [[Cl
 Mac Allister's older brothers [[Francis Mac Allister|Francis]] and [[Kevin Mac Allister|Kevin]] are also professional footballers.&lt;ref name="Family"&gt;{{cite web|url=https://www.ole.com.ar/argentinos/triple-mac-allister-hermanos-argentinos_0_1874812593.html|title=Triple Mac|publisher=Olé|language=es|date=23 September 2017|accessdate=13 November 2017}}&lt;/ref&gt; They are the sons of [[Carlos Mac Allister]] and nephews of [[Patricio Mac Allister]], both retired footballers.&lt;ref name="Family"/&gt; Mac Allister is of [[Scottish people|Scottish]] and [[Irish people|Irish]] descent. Some ancestors hailed from [[Fife]].&lt;ref&gt;{{cite news|title=Argentine football returns to its Scottihs founder|url=http://www.scotsman.com/sport/argentine-football-returns-to-roots-of-its-scottish-founder-1-1146916|accessdate=24 January 2019|work=The Scotsman|date=19 March 2018}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|24 January 2019}}.&lt;ref name="SW"&gt;{{Soccerway|alexis-mac-allister/468060|accessdate=15 January 2019}}&lt;/ref&gt;
+{{updated|16 March 2019}}.&lt;ref name="SW"&gt;{{Soccerway|alexis-mac-allister/468060|accessdate=15 January 2019}}&lt;/ref&gt;
 {| class="wikitable" style="text-align:center"
 |+ Club statistics
 |-
@@ -6751,10 +6780,10 @@ Mac Allister's older brothers [[Francis Mac Allister|Francis]] and [[Kevin Mac A
 |rowspan="1"|[[Argentinos Juniors]] (loan)
 |[[2018–19 Argentine Primera División|2018–19]]
 |[[Argentine Primera División|Primera División]]
-|0||0||0||0||colspan="2"|—||0||0||colspan="2"|—||0||0
+|8||1||0||0||colspan="2"|—||0||0||colspan="2"|—||8||1
 |-
 !colspan="3"|Career total
-!56!!8!!4!!1!!0!!0!!0!!0!!colspan="2"|—!!60!!9
+!64!!9!!4!!1!!0!!0!!0!!0!!colspan="2"|—!!68!!10
 |}
 {{Reflist|group=lower-alpha}}
 
@@ -6786,7 +6815,7 @@ Mac Allister's older brothers [[Francis Mac Allister|Francis]] and [[Kevin Mac A
 [[Category:Argentinos Juniors footballers]]
 [[Category:Brighton &amp; Hove Albion F.C. players]]
 [[Category:Mac Allister family]]</text>
-      <sha1>2k72ece3gss3n8bajhiw1xmprsbn4kw</sha1>
+      <sha1>lezbntygkdj00vti2uurfx1mutmuhqq</sha1>
     </revision>
   </page>
 </mediawiki>

@@ -3,7 +3,7 @@
     <sitename>Wikipedia</sitename>
     <dbname>enwiki</dbname>
     <base>https://en.wikipedia.org/wiki/Main_Page</base>
-    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <generator>MediaWiki 1.33.0-wmf.22</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -539,17 +539,17 @@ Outside of football, Kongolo is an avid fan of basketball, especially the [[Nati
     <ns>0</ns>
     <id>25164839</id>
     <revision>
-      <id>882653180</id>
-      <parentid>882562910</parentid>
-      <timestamp>2019-02-10T15:07:02Z</timestamp>
+      <id>888192663</id>
+      <parentid>888132481</parentid>
+      <timestamp>2019-03-17T15:10:53Z</timestamp>
       <contributor>
         <username>Mattythewhite</username>
         <id>553121</id>
       </contributor>
-      <comment>Reverted 1 edit by [[Special:Contributions/Huddersfield2.0|Huddersfield2.0]] ([[User talk:Huddersfield2.0|talk]]): Not's not how you add an image ([[WP:TW|TW]])</comment>
+      <comment>Reverted 1 edit by [[Special:Contributions/109.151.123.191|109.151.123.191]] ([[User talk:109.151.123.191|talk]]): League only ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="14818">{{EngvarB|date=July 2013}}
+      <text xml:space="preserve" bytes="14827">{{EngvarB|date=July 2013}}
 {{Use dmy dates|date=July 2018}}
 {{Infobox football biography
 | name                = Jonathan Hogg 
@@ -623,7 +623,7 @@ On 9 August 2017, manager [[David Wagner (footballer)|David Wagner]] appointed [
 !Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
 |-
 |rowspan="2"|[[Aston Villa F.C.|Aston Villa]]
-|&lt;center&gt;[[2009–10 Aston Villa F.C. season|2009–10]]
+|&lt;center&gt;[[2009–10 Aston Villa F.C. season|2009–10]]&lt;/center&gt;
 |Premier League
 |0||0||0||0||0||0||0||0||0||0
 |-
@@ -716,7 +716,7 @@ On 9 August 2017, manager [[David Wagner (footballer)|David Wagner]] appointed [
 [[Category:Huddersfield Town A.F.C. players]]
 [[Category:Premier League players]]
 [[Category:English Football League players]]</text>
-      <sha1>jjtsxxxk01wjrxlx6ibwn84i0bql09r</sha1>
+      <sha1>km9awkkdqnyt47979wnv6444qsuilnt</sha1>
     </revision>
   </page>
   <page>
@@ -724,15 +724,12 @@ On 9 August 2017, manager [[David Wagner (footballer)|David Wagner]] appointed [
     <ns>0</ns>
     <id>45620758</id>
     <revision>
-      <id>885316726</id>
-      <parentid>885263404</parentid>
-      <timestamp>2019-02-27T07:59:10Z</timestamp>
+      <id>888044805</id>
+      <parentid>885316726</parentid>
+      <timestamp>2019-03-16T15:22:51Z</timestamp>
       <contributor>
-        <username>Orenburg1</username>
-        <id>10248457</id>
+        <ip>81.99.118.139</ip>
       </contributor>
-      <minor/>
-      <comment>sp</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="5917">{{Infobox football biography
@@ -757,8 +754,8 @@ On 9 August 2017, manager [[David Wagner (footballer)|David Wagner]] appointed [
 |clubs2         = [[Huddersfield Town A.F.C.|Huddersfield Town]]
 |caps1          = 82
 |goals1         = 2
-|caps2          = 11
-|goals2         = 0
+|caps2          = 12
+|goals2         = 1
 | nationalyears1      = 2015–2016
 | nationalteam1       = Netherlands U18
 | nationalcaps1       = 2
@@ -854,7 +851,7 @@ He is the younger brother of [[Leandro Bacuna]], also a footballer.&lt;ref&gt;{{
 
 
 {{Netherlands-footy-forward-stub}}</text>
-      <sha1>c73jmnv0ew5tdrcp2aa5l8lzb2snlso</sha1>
+      <sha1>8ywbnq4duiaq9nuk4c1jj3ef5pbxzn4</sha1>
     </revision>
   </page>
   <page>
@@ -862,18 +859,17 @@ He is the younger brother of [[Leandro Bacuna]], also a footballer.&lt;ref&gt;{{
     <ns>0</ns>
     <id>42593107</id>
     <revision>
-      <id>884466908</id>
-      <parentid>884434346</parentid>
-      <timestamp>2019-02-21T20:40:54Z</timestamp>
+      <id>888827925</id>
+      <parentid>888778866</parentid>
+      <timestamp>2019-03-21T17:49:29Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>S.A. Julio</username>
+        <id>26343411</id>
       </contributor>
-      <minor/>
-      <comment>Reverted 1 edit by [[Special:Contributions/199.72.91.234|199.72.91.234]] ([[User talk:199.72.91.234|talk]]) to last revision by Iggy the Swan ([[WP:TW|TW]])</comment>
+      <comment>/* External links */ UEFA player</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="8928">{{Infobox football biography
+      <text xml:space="preserve" bytes="9274">{{Infobox football biography
 | name                = Philip Billing
 | image               = 
 | caption             =
@@ -908,12 +904,13 @@ He is the younger brother of [[Leandro Bacuna]], also a footballer.&lt;ref&gt;{{
 '''Philip Anyanwu Billing''' (born 11 June 1996) is a Danish professional [[association football|footballer]] who plays for [[Huddersfield Town A.F.C.|Huddersfield Town]] and [[Denmark national under-21 football team|Denmark U21]]s as a [[midfielder]].
 
 ==Playing career==
-===Huddersfield Town===
 After signing for [[Esbjerg fB|Esbjerg]] in his native Denmark, Billing joined Huddersfield Town in 2013 on a youth contract. Billing signed a four-year professional contract in October 2013.&lt;ref&gt;{{cite web|url=http://www.bold.dk/fodbold/nyheder/Prof-kontrakt-til-dansk-Huddersfield-talent/|title=Prof-kontrakt til dansk Huddersfield-talent|first=|last=bold.dk|website=bold.dk}}&lt;/ref&gt; After performing well for both the under-18s and under-21s, he made his first team debut for the club as a substitute in their 2–0 loss against [[Leicester City F.C.|Leicester City]] at the [[John Smith's Stadium]] on 26 April 2014.&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/27084044|title=Huddersfield Town 0-2 Leicester City|date=2014-04-26|work=BBC Sport|access-date=2018-12-15|language=en-GB}}&lt;/ref&gt;
 
 His first start for the Terriers came 18 months later in their 2–2 draw against [[Reading F.C.|Reading]] at the [[Madejski Stadium]] on 3 November 2015. His first goal for the club came from a 30-yard strike against [[Nottingham Forest F.C.|Nottingham Forest]] at the [[City Ground]] in a 2–0 win for the Terriers on 13 February 2016.&lt;ref&gt;{{Cite news|url=https://www.bbc.com/sport/football/35509360|title=Nottingham Forest 0-2 Huddersfield Town|date=2016-02-13|work=BBC Sport|access-date=2018-12-15|language=en-GB}}&lt;/ref&gt; On 19 November 2016, he scored his second goal for the club with a volley from 32 yards out in a 3–2 loss against [[Cardiff City F.C.|Cardiff City]].&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/37958534|title=Cardiff City 3-2 Huddersfield Town|date=2016-11-19|work=BBC Sport|access-date=2018-12-15|language=en-GB}}&lt;/ref&gt;
 
 Billing got slowly more and more space in the squad. After 10 good matches in the 2015–16 season, Billing signed a contract extension in March 2016.&lt;ref&gt;[http://www.bold.dk/fodbold/nyheder/billing-forlaenger-med-huddersfield/ Billing forlænger med Huddersfield]‚ bold.dk, 31 March 2016&lt;/ref&gt; He got his breakthrough in the 2016–17 season. "In-form" Billing was linked with a transfer to [[Premier League]] club [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;[http://www.bold.dk/fodbold/nyheder/pl-interesse-for-formstaerk-billing/ PL-interesse for formstærk Billing]‚ bold.dk, 31 January 2017&lt;/ref&gt; He played 24 games and scored two goals in total in that season. After the season, Billing was named as the youth player of the season in Huddersfield and his goal against [[Cardiff City F.C.|Cardiff City]] in November 2016 was voted goal of the season.&lt;ref&gt;[http://www.tipsbladet.dk/nyhed/premier-league/flere-priser-til-philip-billing-ved-huddersfields-prisuddeling Flere priser til Philip Billing ved Huddersfields prisuddeling], tipsbladet.dk, 1 May 2017&lt;/ref&gt;
+
+In March 2019, Billing suffered [[Racism in association football|racial abuse]] on social media; the matter was reported to police.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/47552029|title=Philip Billing: Huddersfield contact police after midfielder racially abused on social media|date=13 March 2019|publisher=|via=www.bbc.co.uk}}&lt;/ref&gt;
 
 ==International career==
 Billing was born in Denmark and is of Nigerian descent.&lt;ref&gt;{{cite web|url=https://ekstrabladet.dk/sport/fodbold/udenlandsk_fodbold/engelsk_fodbold/PremierLeague/ikke-god-nok-til-u21-nu-kan-han-blive-sommerens-dyreste-dansker/6751552|title=Ikke god nok til U21 – nu kan han blive sommerens dyreste dansker|publisher=}}&lt;/ref&gt; Billing is Denmark youth international having represented the [[Denmark national under-19 football team|U19]] and [[Denmark national under-21 football team|U21]] teams.&lt;ref&gt;{{Cite web|url=https://www.dbu.dk/landshold/landsholdsdatabasen/LBasePlayerInfo.aspx?playerid=7495|title=DBU Profile|last=|first=|date=|website=www.dbu.dk|language=da|archive-url=|archive-date=|dead-url=|access-date=2018-12-15}}&lt;/ref&gt;
@@ -969,6 +966,7 @@ He made his single appearance for the U19s on 4 September 2014, as a substitute 
 
 ==External links==
 *{{Soccerbase}}
+*{{UEFA player}}
 
 {{Huddersfield Town A.F.C. squad}}
 
@@ -985,7 +983,7 @@ He made his single appearance for the U19s on 4 September 2014, as a substitute 
 [[Category:English Football League players]]
 [[Category:Expatriate footballers in England]]
 [[Category:Danish expatriate sportspeople in England]]</text>
-      <sha1>8too845yj6m92gofyrnz2umixnnue1g</sha1>
+      <sha1>qtz9go3kima7pvdcfox6qmqmd4hkccb</sha1>
     </revision>
   </page>
   <page>
@@ -993,21 +991,20 @@ He made his single appearance for the U19s on 4 September 2014, as a substitute 
     <ns>0</ns>
     <id>32445132</id>
     <revision>
-      <id>885939319</id>
-      <parentid>885320557</parentid>
-      <timestamp>2019-03-03T08:53:10Z</timestamp>
+      <id>887385375</id>
+      <parentid>887223451</parentid>
+      <timestamp>2019-03-12T09:48:12Z</timestamp>
       <contributor>
-        <username>GiantSnowman</username>
-        <id>1005449</id>
+        <username>Queeninbriefs</username>
+        <id>12479364</id>
       </contributor>
-      <minor/>
-      <comment>update - match played 2 March 2019</comment>
+      <comment>larger image</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="10632">{{Infobox football biography
+      <text xml:space="preserve" bytes="10633">{{Infobox football biography
 |name           = Elias Kachunga
 |image          = Kachunga.jpg
-|image_size     = 150
+|image_size     = 220
 |caption        = Kachunga with [[Borussia Mönchengladbach]]
 |fullname       = Elias Kachunga&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/465277 |title=Squads for 2017/18 Premier League confirmed |publisher=Premier League |date=1 September 2017 |accessdate=21 December 2017}}&lt;/ref&gt;
 |birth_date     = {{birth date and age|1992|4|22|df=y}}
@@ -1054,7 +1051,7 @@ He made his single appearance for the U19s on 4 September 2014, as a substitute 
 |goals9         = 12
 |years10        = 2017–
 |clubs10        = [[Huddersfield Town A.F.C.|Huddersfield Town]]
-|caps10         = 34 &lt;!--LEAGUE ONLY--&gt;
+|caps10         = 35 &lt;!--LEAGUE ONLY--&gt;
 |goals10        = 1
 |nationalyears1 = 2010
 |nationalteam1  = [[Germany national youth football team|Germany U19]]
@@ -1068,7 +1065,7 @@ He made his single appearance for the U19s on 4 September 2014, as a substitute 
 |nationalteam3  = [[DR Congo national football team|DR Congo]]
 |nationalcaps3  = 1
 |nationalgoals3 = 0
-|club-update    = 08:53, 3 March 2019 (UTC)
+|club-update    = 09:21, 11 March 2019 (UTC)
 |ntupdate       = 26 March 2017
 }}
 '''Elias Kachunga''' (born 22 April 1992) is a professional [[association football|footballer]] who plays as a [[Forward (association football)|striker]] for [[Premier League]] club [[Huddersfield Town A.F.C.|Huddersfield Town]] and the [[DR Congo national football team|DR Congo national team]]. He has also represented [[Germany national under-21 football team|Germany U21]]s.
@@ -1087,7 +1084,7 @@ He has represented Germany at [[Germany national youth football team|under-19]] 
 Kachunga debuted for the senior [[DR Congo national football team]] in a friendly 2–1 loss to [[Kenya national football team|Kenya]] on 26 March 2017.&lt;ref&gt;https://www.bbc.com/sport/football/39338662&lt;/ref&gt;&lt;ref&gt;http://www.leopardsfoot.com/leopards-la-rdc-chute-2-1-en-amical-face-au-kenya/&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 2 March 2019}}
+{{updated|match played 9 March 2019}}
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -1190,13 +1187,13 @@ Kachunga debuted for the senior [[DR Congo national football team]] in a friendl
 |-
 |[[2018–19 Huddersfield Town A.F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|57126|2018|accessdate=2 September 2018}}&lt;/ref&gt;
 |Premier League
-|15||0||1||0|||1||0||0||0||17||0
+|16||0||1||0|||1||0||0||0||18||0
 |-
 !colspan="2"|Total
-!34!!1!!1!!0!!3!!0!!0!!0!!38!!1
+!35!!1!!1!!0!!3!!0!!0!!0!!39!!1
 |-
 !colspan=3|Career total
-!236!!54!!6!!0!!4!!1!!3!!0!!248!!55
+!237!!54!!6!!0!!4!!1!!3!!0!!249!!55
 |}
 
 ==Honours==
@@ -1243,7 +1240,7 @@ Kachunga debuted for the senior [[DR Congo national football team]] in a friendl
 
 
 {{Germany-footy-forward-1990s-stub}}</text>
-      <sha1>aeieklgjnt8ja5hjxgz087ysrvs6akw</sha1>
+      <sha1>2h13sblcrwr78sea43l2tsut55mg70h</sha1>
     </revision>
   </page>
   <page>
@@ -1251,16 +1248,17 @@ Kachunga debuted for the senior [[DR Congo national football team]] in a friendl
     <ns>0</ns>
     <id>29343319</id>
     <revision>
-      <id>885931753</id>
-      <parentid>885931674</parentid>
-      <timestamp>2019-03-03T07:13:50Z</timestamp>
+      <id>888202044</id>
+      <parentid>888171021</parentid>
+      <timestamp>2019-03-17T16:21:34Z</timestamp>
       <contributor>
-        <ip>185.69.144.223</ip>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <comment>/* Club */</comment>
+      <comment>Reverted to revision 888110604 by [[Special:Contributions/185.69.144.15|185.69.144.15]] ([[User talk:185.69.144.15|talk]]): Rv ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="34755">{{Use Australian English|date=November 2011}}
+      <text xml:space="preserve" bytes="34795">{{Use Australian English|date=November 2011}}
 {{Use dmy dates|date=January 2018}}
 {{Infobox football biography
 | name        = Aaron Mooy
@@ -1283,7 +1281,7 @@ Kachunga debuted for the senior [[DR Congo national football team]] in a friendl
 | years4      = 2014–2016     | clubs4 = [[Melbourne City FC|Melbourne City]]                              | caps4         = 53 | goals4 = 18
 | years5      = 2016–2017     | clubs5 = [[Manchester City F.C.|Manchester City]]                          | caps5         = 0  | goals5 = 0
 | years6      = 2016–2017     | clubs6 = → [[Huddersfield Town A.F.C.|Huddersfield Town]] (loan)           | caps6         = 45 | goals6 = 4
-| years7      = 2017–         | clubs7 = [[Huddersfield Town A.F.C.|Huddersfield Town]]                    | caps7         = 57 | goals7 = 6
+| years7      = 2017–         | clubs7 = [[Huddersfield Town A.F.C.|Huddersfield Town]]                    | caps7         = 59 | goals7 = 6
 | nationalyears1 = 2009–2010  | nationalteam1 = [[Australia national under-20 soccer team|Australia U20]]  | nationalcaps1 = 10 | nationalgoals1 = 4
 | nationalyears2 = 2011–2012  | nationalteam2 = [[Australia national under-23 soccer team|Australia U23]]  | nationalcaps2 = 4  | nationalgoals2 = 2
 | nationalyears3 = 2012–      | nationalteam3 = [[Australia national soccer team|Australia]]               | nationalcaps3 = 39 | nationalgoals3 = 5
@@ -1409,13 +1407,13 @@ In May 2018 he was named in Australia’s 23-man [[Australia national football t
 |-
 |[[2018–19 Huddersfield Town A.F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|57478|2018|accessdate=9 December 2018}}&lt;/ref&gt;
 |Premier League
-|21||2||0||0||1||0||colspan=2|—||22||2
+|23||2||0||0||1||0||colspan=2|—||24||2
 |-
 !colspan=2|Total
-!102||10||3||0||3||0||3||0||111||10
+!104||10||3||0||3||0||3||0||113||10
 |-
 !colspan=3|Career total
-!225||33||17||7||3||0||8||1||253||41
+!227||33||17||7||3||0||8||1||255||41
 |}
 
 {{notelist}}
@@ -1551,8 +1549,9 @@ In May 2018 he was named in Australia’s 23-man [[Australia national football t
 [[Category:Australian expatriate sportspeople in Scotland]]
 [[Category:Australian people of Dutch descent]]
 [[Category:Australian people of German descent]]
-[[Category:New South Wales Institute of Sport alumni]]</text>
-      <sha1>tnwv4fba53ywx3eq7dksnsmm38dxe2d</sha1>
+[[Category:New South Wales Institute of Sport alumni]]
+[[Category:Marquee players (A-League)]]</text>
+      <sha1>6h6rns4jgc764ghncyt0awfefc4593q</sha1>
     </revision>
   </page>
   <page>
@@ -1560,17 +1559,17 @@ In May 2018 he was named in Australia’s 23-man [[Australia national football t
     <ns>0</ns>
     <id>51361880</id>
     <revision>
-      <id>884375870</id>
-      <parentid>884375805</parentid>
-      <timestamp>2019-02-21T06:35:08Z</timestamp>
+      <id>888914315</id>
+      <parentid>888914300</parentid>
+      <timestamp>2019-03-22T05:23:46Z</timestamp>
       <contributor>
-        <username>BrownHairedGirl</username>
-        <id>754619</id>
+        <username>Crowsus</username>
+        <id>29077096</id>
       </contributor>
-      <comment>+[[Category:French expatriate sportspeople in England]]; +[[Category:Expatriate footballers in England]] using [[WP:HC|HotCat]]</comment>
+      <comment>added [[Category:Footballers from Corsica]] using [[WP:HC|HotCat]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="5723">{{Infobox football biography
+      <text xml:space="preserve" bytes="5800">{{Infobox football biography
 | name = Adama Diakhaby
 | image = Stade rennais vs USM Alger, July 16th 2016 - Adama Diakhaby 1.jpg
 | caption = Diakhaby in 2016
@@ -1710,8 +1709,10 @@ Of Senegalese descent, Diakhaby is eligible to play for Senegal and France.&lt;r
 [[Category:Premier League players]]
 [[Category:People from Ajaccio]]
 [[Category:French expatriate sportspeople in England]]
-[[Category:Expatriate footballers in England]]</text>
-      <sha1>pntz24h7pbibyegwd7iekm2nzgotuma</sha1>
+[[Category:Expatriate footballers in England]]
+[[Category:Black French sportspeople]]
+[[Category:Footballers from Corsica]]</text>
+      <sha1>91fk25ipc8c8dwstly6a3uu3fqsfm90</sha1>
     </revision>
   </page>
   <page>
@@ -2347,16 +2348,18 @@ In 2016, Löwe signed a pre-contract agreement with [[Huddersfield Town A.F.C.|H
     <ns>0</ns>
     <id>43994553</id>
     <revision>
-      <id>885828324</id>
-      <parentid>885320823</parentid>
-      <timestamp>2019-03-02T16:28:16Z</timestamp>
+      <id>888364843</id>
+      <parentid>888309856</parentid>
+      <timestamp>2019-03-18T17:30:05Z</timestamp>
       <contributor>
-        <username>SKennedy157</username>
-        <id>30652067</id>
+        <username>Iggy the Swan</username>
+        <id>31885086</id>
       </contributor>
+      <minor/>
+      <comment>fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="11115">{{Use dmy dates|date=June 2016}}
+      <text xml:space="preserve" bytes="11163">{{Use dmy dates|date=June 2016}}
 {{Use British English|date=June 2016}}
 {{Infobox football biography
 | name                = Karlan Grant
@@ -2386,8 +2389,8 @@ In 2016, Löwe signed a pre-contract agreement with [[Huddersfield Town A.F.C.|H
 | goals3              = 9
 | years4              = 2019–
 | clubs4              = [[Huddersfield Town A.F.C.|Huddersfield Town]]
-| caps4               = 4
-| goals4              = 1
+| caps4               = 6
+| goals4              = 3
 | nationalyears1      = 2014
 | nationalteam1       = [[England national under-17 football team|England U17]]
 | nationalcaps1       = 3
@@ -2400,7 +2403,7 @@ In 2016, Löwe signed a pre-contract agreement with [[Huddersfield Town A.F.C.|H
 | nationalteam3       = [[England national under-19 football team|England U19]]
 | nationalcaps3       = 1
 | nationalgoals3      = 0
-| club-update         = 17:00, 2 March 2019 (UTC)
+| club-update         = 17:06, 16 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Karlan Laughton Ahearne-Grant''' (born 18 September 1997), known as '''Karlan Grant''', is an English [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Huddersfield Town F.C.|Huddersfield Town]].
@@ -2411,7 +2414,7 @@ Grant was top scorer for Charlton Athletic U18s during the 2012–13 and 2013–
 On 30 January 2018, Grant joined [[Crawley Town F.C.|Crawley Town]] on loan until the end of the 2017–18 season.&lt;ref&gt;{{cite news|title=Karlan Ahearne-Grant makes League Two loan switch|url=https://www.cafc.co.uk/news/view/5a7066e47a90a/karlan-ahearne-grant-makes-league-two-loan-switch|accessdate=30 January 2018|publisher=Charlton Athletic official website|date=30 January 2018}}&lt;/ref&gt;
 
 ===Huddersfield Town===
-On 30 January 2019, Grant joined [[Huddersfield Town A.F.C.|Huddersfield Town]] for an undisclosed fee, signing a contract until the summer of 2022 with the club.&lt;ref&gt;{{cite web|url=https://www.htafc.com/news/2019/january/transfer-karlan-grant-joins-huddersfield-town/|title=TRANSFER: KARLAN GRANT JOINS HUDDERSFIELD TOWN!|publisher=Huddersfield Town|accessdate=30 January 2019}}&lt;/ref&gt; He made his debut for the Yorkshire club three days later in a 5–0 away loss to [[Chelsea F.C.|Chelsea]] where he came on as a substitute.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/47011453|title=Chelsea 5–0 Huddersfield Town|publisher=BBC Sport|date=2 February 2019|accessdate=2 February 2019}}&lt;/ref&gt; On 9 February 2019 Grant scored his first Huddersfield goal on his second Town appearance in a 2-1 home loss against [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/47099273|title=FA Cup: Huddersfield Town 1-2 Arsenal|publisher=BBC Sport|date=9 February 2019|accessdate=9 February 2019}}&lt;/ref&gt;
+On 30 January 2019, Grant joined [[Huddersfield Town A.F.C.|Huddersfield Town]] for an undisclosed fee, signing a contract until the summer of 2022 with the club.&lt;ref&gt;{{cite web|url=https://www.htafc.com/news/2019/january/transfer-karlan-grant-joins-huddersfield-town/|title=TRANSFER: KARLAN GRANT JOINS HUDDERSFIELD TOWN!|publisher=Huddersfield Town|accessdate=30 January 2019}}&lt;/ref&gt; He made his debut for the Yorkshire club three days later in a 5–0 away loss to [[Chelsea F.C.|Chelsea]] where he came on as a substitute.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/47011453|title=Chelsea 5–0 Huddersfield Town|publisher=BBC Sport|date=2 February 2019|accessdate=2 February 2019}}&lt;/ref&gt; On 9 February 2019 Grant scored his first Huddersfield goal on his second Town appearance in a 2–1 home loss against [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/47099273|title=FA Cup: Huddersfield Town 1–2 Arsenal|publisher=BBC Sport|date=9 February 2019|accessdate=9 February 2019}}&lt;/ref&gt;
 
 ==International career==
 In February 2014, Grant represented [[England national under-17 football team|England U17]] in the Algarve tournament.&lt;ref name="Jimmy Stone"/&gt; On 6 November 2014, Grant was called up to the [[England national under-18 football team|England U18]] squad for a double header against Poland.&lt;ref&gt;{{cite web|url=http://www.cafc.co.uk/news/article/20141106-ahearne-grant-earns-england-u18-call-up-2067787.aspx|title=Charlton Athletic: Karlan Ahearne-Grant earns England U18 call-up|author=Iain Liddle|work=cafc.co.uk}}&lt;/ref&gt; He played for [[England national under-19 football team|England U19]] in September 2015, against Croatia.&lt;ref&gt;{{Cite web | title = Josh Onomah bags equaliser as England hold hosts Croatia | publisher = The FA | date = 7 September 2015 | accessdate = 14 June 2018 | url = http://www.thefa.com/news/2015/sep/07/match-report-croatia-v-england-u19s-070915}}&lt;/ref&gt;
@@ -2419,10 +2422,10 @@ In February 2014, Grant represented [[England national under-17 football team|En
 ==Personal life==
 In June 2018, whilst on holiday in [[Ibiza]], Grant and fellow teammate [[Reeco Hackett-Fairchild]] were arrested on suspicion of a [[sexual assault]] on a 19-year-old woman.&lt;ref&gt;{{cite news |last1=Muro |first1=Giuseppe |title=Charlton striker Reeco Hackett-Fairchild to miss training as probe into alleged sexual assault goes on |url=https://www.standard.co.uk/sport/football/charlton-striker-reeco-hackettfairchild-to-miss-training-as-probe-into-alleged-sexual-assault-goes-a3872571.html |accessdate=28 June 2018 |work=[[Evening Standard]] |date=26 June 2018}}&lt;/ref&gt;
 
-In the summer of 2018, he dropped the Ahearne part of his surname, to become known as Karlan Grant.&lt;ref&gt;{{Cite web |title=QPR 3-3 Charlton Athletic |first=Chris |last=Thompson |work=Kent Sports News |date=7 July 2018 |accessdate=12 September 2018 |url= http://www.kentsportsnews.com/qpr-3-3-charlton-athletic-07-07-2018/}}&lt;/ref&gt;
+In the summer of 2018, he dropped the Ahearne part of his surname, to become known as Karlan Grant.&lt;ref&gt;{{Cite web |title=QPR 3–3 Charlton Athletic |first=Chris |last=Thompson |work=Kent Sports News |date=7 July 2018 |accessdate=12 September 2018 |url= http://www.kentsportsnews.com/qpr-3-3-charlton-athletic-07-07-2018/}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 2 March 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -2471,13 +2474,13 @@ In the summer of 2018, he dropped the Ahearne part of his surname, to become kno
 |[[Huddersfield Town F.C.|Huddersfield Town]] 
 |[[2018–19 Huddersfield Town A.F.C. season|2018–19]]&lt;ref name="18/19 appearances"&gt;{{soccerbase season|78150|2018|accessdate=23 September 2017}}&lt;/ref&gt;
 |[[Premier League]]
-|4||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||1
+|6||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||6||3
 |-
 !colspan=3|Huddersfield Town total
-!4!!1!!0!!0!!0!!0!!0!!0!!4!!1
+!6!!3!!0!!0!!0!!0!!0!!0!!6!!3
 |-
 !colspan=3|Career totals
-!102!!26!!4!!1!!6!!2!!8!!2!!120!!31
+!104!!28!!4!!1!!6!!2!!8!!2!!122!!33
 |}
 
 {{reflist|group=lower-alpha}}
@@ -2504,9 +2507,10 @@ In the summer of 2018, he dropped the Ahearne part of his surname, to become kno
 [[Category:Crawley Town F.C. players]]
 [[Category:Huddersfield Town A.F.C. players]]
 [[Category:English Football League players]]
+[[Category:Black English sportspeople]]
 
 {{England-footy-forward-1990s-stub}}</text>
-      <sha1>eue1qkggo55vx6eun3jsgc0cx2pqp1d</sha1>
+      <sha1>q5cng5iixiny7wy0bx8f5az2qxbyz7t</sha1>
     </revision>
   </page>
   <page>
@@ -3333,12 +3337,15 @@ Mounié made his competitive debut on 12 August 2017, scoring twice in Huddersfi
     <ns>0</ns>
     <id>11961518</id>
     <revision>
-      <id>883000816</id>
-      <parentid>877382745</parentid>
-      <timestamp>2019-02-12T17:44:23Z</timestamp>
+      <id>888132943</id>
+      <parentid>888132700</parentid>
+      <timestamp>2019-03-17T03:46:08Z</timestamp>
       <contributor>
-        <ip>70.21.191.151</ip>
+        <username>Donner60</username>
+        <id>12744454</id>
       </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/109.151.123.191|109.151.123.191]] ([[User talk:109.151.123.191|talk]]) ([[WP:HG|HG]]) (3.4.6)</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="17215">{{about|the Danish defender|the Danish striker|Mathias Jørgensen (footballer, born 2000)}}
@@ -3759,17 +3766,17 @@ On 29 May 2017, Schindler scored the winning penalty in the [[2017 EFL Champions
     <ns>0</ns>
     <id>42665392</id>
     <revision>
-      <id>885334522</id>
-      <parentid>885262324</parentid>
-      <timestamp>2019-02-27T11:12:16Z</timestamp>
+      <id>888857047</id>
+      <parentid>888074441</parentid>
+      <timestamp>2019-03-21T21:08:58Z</timestamp>
       <contributor>
-        <username>Snowflake91</username>
-        <id>30085842</id>
+        <username>S.A. Julio</username>
+        <id>26343411</id>
       </contributor>
-      <comment>Undid revision 885262324 by [[Special:Contributions/81.110.244.72|81.110.244.72]] ([[User talk:81.110.244.72|talk]])</comment>
+      <comment>/* External links */ UEFA player</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="6795">{{Use dmy dates|date=May 2014}}
+      <text xml:space="preserve" bytes="6783">{{Use dmy dates|date=May 2014}}
 {{Infobox football biography
 | name           = Jon Gorenc Stanković
 | image          = Jon Gorenc Stanković.jpg
@@ -3785,17 +3792,17 @@ On 29 May 2017, Schindler scored the winning penalty in the [[2017 EFL Champions
 | youthyears1    = 2012–2014 | youthclubs1 = [[NK Domžale|Domžale]]
 | years1         = 2013–2016 | clubs1 = [[NK Domžale|Domžale]]                         | caps1 = 18 | goals1 = 0
 | years2         = 2014–2016 | clubs2 = → [[Borussia Dortmund II]] (loan)              | caps2 = 62 | goals2 = 1
-| years3         = 2016–     | clubs3 = [[Huddersfield Town A.F.C.|Huddersfield Town]] | caps3 = 8  | goals3 = 1
+| years3         = 2016–     | clubs3 = [[Huddersfield Town A.F.C.|Huddersfield Town]] | caps3 = 13 | goals3 = 1
 | nationalyears1 = 2011–2012 | nationalteam1  = Slovenia U16                                              | nationalcaps1 = 9  | nationalgoals1 = 2
 | nationalyears2 = 2012–2013 | nationalteam2  = [[Slovenia national under-17 football team|Slovenia U17]] | nationalcaps2 = 8  | nationalgoals2 = 0
 | nationalyears3 = 2013      | nationalteam3  = Slovenia U18                                              | nationalcaps3 = 1  | nationalgoals3 = 0
 | nationalyears4 = 2013–2014 | nationalteam4  = [[Slovenia national under-19 football team|Slovenia U19]] | nationalcaps4 = 10 | nationalgoals4 = 0
 | nationalyears5 = 2015–2018 | nationalteam5  = [[Slovenia national under-21 football team|Slovenia U21]] | nationalcaps5 = 17 | nationalgoals5 = 2
-| pcupdate       = 20 August 2018
+| pcupdate       = 16 March 2019
 | ntupdate       =
 }}
 
-'''Jon Gorenc Stanković''' (born 14 January 1996) is a Slovenian [[Association football|football]] [[Defender (association football)|defender]] who plays for [[Huddersfield Town A.F.C.|Huddersfield Town]]. He has also played for the [[Slovenia national under-21 football team|Slovenian under-21]] team.
+'''Jon Gorenc Stanković''' (born 14 January 1996) is a Slovenian [[Association football|football]] [[Defender (association football)|defender]] who plays for [[Huddersfield Town A.F.C.|Huddersfield Town]] and the [[Slovenia national football team|Slovenian national team]].
 
 ==Club career==
 
@@ -3806,7 +3813,7 @@ He made his debut for [[Huddersfield Town A.F.C.|Huddersfield Town]] in an [[EFL
 He was called up to the senior [[Slovenia national football team|Slovenia]] squad by [[Srečko Katanec]] for a friendly against [[Turkey national football team|Turkey]] in June 2016.&lt;ref&gt;{{cite news|title=V reprezentanci tudi Gorenc Stanković|url=http://ekipa24.si/clanek/nogomet/reprezentancni-nogomet/574464eea81ff/v-reprezentanci-tudi-gorenc-stankovic|accessdate=1 September 2016|publisher=ekipa24.si|date=24 May 2016}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 20 August 2018}}&lt;ref&gt;{{cite web|title=J. Stankovič|url=https://int.soccerway.com/players/jon-stankovi/268934/|website=Soccerway|accessdate=20 November 2017}}&lt;/ref&gt;
+{{updated|match played 16 March 2019}}&lt;ref&gt;{{cite web|title=J. Stankovič|url=https://int.soccerway.com/players/jon-stankovi/268934/|website=Soccerway|accessdate=20 November 2017}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -3853,15 +3860,15 @@ He was called up to the senior [[Slovenia national football team|Slovenia]] squa
 |[[Premier League]]
 |0||0||0||0||0||0||colspan="2"|—||0||0
 |-
-|[[2017–18 Huddersfield Town A.F.C. season|2018–19]]
+|[[2018–19 Huddersfield Town A.F.C. season|2018–19]]
 |Premier League
-|1||1||0||0||0||0||colspan="2"|—||1||1
+|6||1||0||0||0||0||colspan="2"|—||6||1
 |-
 !colspan=2|Total
-!8!!1!!4!!0!!1!!0!!colspan="2"|—||13!!1
+!13!!1!!4!!0!!1!!0!!colspan="2"|—||18!!1
 |-
 !colspan=3|Career total
-!88!!2!!5!!0!!1!!0!!2!!0!!96!!2
+!93!!2!!5!!0!!1!!0!!2!!0!!101!!2
 |}
 
 ==References==
@@ -3871,6 +3878,7 @@ He was called up to the senior [[Slovenia national football team|Slovenia]] squa
 *[http://www.nzs.si/reprezentanca/?id_igralca=61966&amp;id_menu=106 NZS profile] {{sl icon}}
 *{{Soccerbase}}
 *{{Soccerway|jon-stankovi/268934}}
+*{{UEFA player}}
 
 {{Huddersfield Town A.F.C. squad}}
 
@@ -3900,7 +3908,7 @@ He was called up to the senior [[Slovenia national football team|Slovenia]] squa
 
 
 {{Slovenia-footy-bio-stub}}</text>
-      <sha1>mbkbn9cjgl5p5i0iukntp2jsp5yf8mm</sha1>
+      <sha1>e0d4hlclnjd63rk417fbypg2vk4fmag</sha1>
     </revision>
   </page>
   <page>
@@ -4061,15 +4069,17 @@ Sabiri was called up to [[Germany national under-21 football team|Germany's unde
     <ns>0</ns>
     <id>43659046</id>
     <revision>
-      <id>885797039</id>
-      <parentid>885797031</parentid>
-      <timestamp>2019-03-02T11:26:53Z</timestamp>
+      <id>886931309</id>
+      <parentid>885797039</parentid>
+      <timestamp>2019-03-09T13:44:16Z</timestamp>
       <contributor>
-        <ip>80.80.162.46</ip>
+        <username>DoktorDashi</username>
+        <id>35552238</id>
       </contributor>
+      <comment>/* Career statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="7181">{{Infobox football biography
+      <text xml:space="preserve" bytes="7194">{{Infobox football biography
 | name           = Florent Hadergjonaj
 | image          = YB vs. FCL - Hadergjonaj 3.jpg
 | fullname       = Florent Hadergjonaj&lt;ref&gt;{{cite web |title=Squads for 2017/18 Premier League confirmed |url=https://www.premierleague.com/news/465277 |publisher=Premier League |date=1 September 2017 |accessdate=9 September 2017}}&lt;/ref&gt;
@@ -4153,7 +4163,7 @@ On 24 August 2017, Hadergjonaj was signed on a season long loan by [[Huddersfiel
 |[[2015–16 Swiss Super League|2015–16]]
 |32||0||2||0||colspan="2"|—||2&lt;ref group=lower-alpha&gt;One appearance in the [[UEFA Champions League|Champions League]] and one in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||0||36||0
 |-
-|[[2016–17 Swiss Super League|2016–17]]
+|[[2016–17 BSC Young Boys season|2016–17]]
 |2||0||0||0||colspan="2"|—||2&lt;ref group=lower-alpha name="UCL"&gt;Appearances in the [[UEFA Champions League|Champions League]]&lt;/ref&gt;||0||4||0
 |-
 !colspan="2"|Total
@@ -4164,7 +4174,7 @@ On 24 August 2017, Hadergjonaj was signed on a season long loan by [[Huddersfiel
 |[[Bundesliga]]
 |25||1||0||0||colspan="2"|—||colspan="2"|—||25||1
 |-
-|[[2017–18 2. Bundesliga|2017–18]]
+|[[2017–18 FC Ingolstadt 04 season|2017–18]]
 |[[2. Bundesliga]]
 |2||0||0||0||colspan="2"|—||colspan="2"|—||2||0
 |-
@@ -4216,7 +4226,7 @@ On 24 August 2017, Hadergjonaj was signed on a season long loan by [[Huddersfiel
 
 
 {{Switzerland-footy-bio-stub}}</text>
-      <sha1>9u831nybiz870x4cegbufoxqhthu08o</sha1>
+      <sha1>rjpplqkbuqpwmswalslo5oen8wfaz9v</sha1>
     </revision>
   </page>
   <page>
@@ -4440,23 +4450,24 @@ On 1 June 2014, Durm debuted for the [[Germany national football team|German sen
     <ns>0</ns>
     <id>59551965</id>
     <revision>
-      <id>885352233</id>
-      <parentid>885351239</parentid>
-      <timestamp>2019-02-27T14:08:14Z</timestamp>
+      <id>887893066</id>
+      <parentid>885352233</parentid>
+      <timestamp>2019-03-15T14:31:06Z</timestamp>
       <contributor>
-        <username>GiantSnowman</username>
-        <id>1005449</id>
+        <username>Jenbart43</username>
+        <id>22026584</id>
       </contributor>
-      <comment>add reference(s)</comment>
+      <minor/>
+      <comment>/* References */ corrected spelling #UKL2019</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="3515">{{Infobox football biography
+      <text xml:space="preserve" bytes="3516">{{Infobox football biography
 |name           = Demeaco Duhaney
 |image          = 
 |image_size     = 
 |caption        = 
 |fullname       = Demeaco Duhaney&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/844127|title=2018/19 Premier League squads confirmed|date=3 September 2018|accessdate=27 February 2019|publisher=Premier League}}&lt;/ref&gt;
-|birth_date     = {{birth date and age|1998|10|13|df=y}}&lt;ref name = "SW"&gt;{{soccerway|demeaco-duhaney/420442/|accessdate=4 Janary 2019}}&lt;/ref&gt;
+|birth_date     = {{birth date and age|1998|10|13|df=y}}&lt;ref name = "SW"&gt;{{soccerway|demeaco-duhaney/420442/|accessdate=4 January 2019}}&lt;/ref&gt;
 |birth_place    = 
 |height         = 1.80m&lt;ref name = "SW"/&gt;
 |position       = [[Defender (association football)|Right back]]
@@ -4503,7 +4514,7 @@ He has represented England at international youth levels, including [[England na
 [[Category:England youth international footballers]]
 
 {{England-footy-bio-stub}}</text>
-      <sha1>nbnlc7qukt769r4iswhlvwvorbky8rr</sha1>
+      <sha1>1ry3txm976nj1d468gt09f4tung282n</sha1>
     </revision>
   </page>
   <page>
@@ -4804,22 +4815,91 @@ In December 2017, Puncheon was arrested and charged with possession of an offens
     </revision>
   </page>
   <page>
+    <title>Aaron Rowe</title>
+    <ns>0</ns>
+    <id>51234728</id>
+    <revision>
+      <id>888626120</id>
+      <parentid>888625972</parentid>
+      <timestamp>2019-03-20T10:50:00Z</timestamp>
+      <contributor>
+        <username>Cazza3012</username>
+        <id>7072794</id>
+      </contributor>
+      <minor/>
+      <comment>/* Personal life */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2818">{{Infobox football biography
+|name           = Aaron Rowe
+|image          = 
+|image_size     = 
+|caption        = 
+|fullname       = Aaron Rowe
+|birth_date     = {{birth date and age|2000|9|7|df=y}}
+|birth_place    = [[London]]
+|height         = 
+|position       = [[Midfielder#Winger|Winger]]
+|currentclub    = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+|clubnumber     = 44
+|youthyears1    = ?–2018
+|youthclubs1    = [[Leyton Orient F.C.|Leyton Orient]]
+|youthyears2    = 2018–2019
+|youthclubs2    = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+|years1         = 2019–
+|clubs1         = [[Huddersfield Town A.F.C.|Huddersfield Town]]
+|caps1          = 2
+|goals1         = 0
+|club-update    = 17:08, 16th March 2019 (UTC)
+}}
+'''Aaron Rowe''' (born 7 September 2000) is an English professional [[association football|footballer]] who plays for [[Huddersfield Town A.F.C.|Huddersfield Town]], as a [[Midfielder#Winger|winger]].
+
+==Club career==
+Rowe joined [[Leyton Orient F.C.|Leyton Orient]] and made a number of appearances for their under 18 side during the 2016 to 2018 period.&lt;ref&gt;{{cite web|url=https://www.leytonorient.com/news/2016/october/u18-report-cambridge-united-0-2-leyton-orient/|title=U18 REPORT: Cambridge United 0-2 Leyton Orient|publisher=Leyton Orient F.C.}}&lt;/ref&gt;
+
+He signed for [[Huddersfield Town A.F.C.|Huddersfield Town]] in February 2018.&lt;ref&gt;{{cite web|url=https://www.htafc.com/teams/u19-team/midfielder/aaron-rowe/|title=Aaron Rowe |publisher=Huddersfield Town F.C.}}&lt;/ref&gt; Rowe made his senior debut on 9 March 2019, in a 2–0 home [[Premier League]] defeat against [[A.F.C. Bournemouth|AFC Bournemouth]].&lt;ref&gt;{{cite web|url=https://www.examinerlive.co.uk/sport/football/news/who-aaron-rowe-huddersfield-town-15948133|title=Who is Huddersfield Town Premier League call-up Aaron Rowe?|first=Mel|last=Booth|date=9 March 2019|work=Huddersfield Examiner}}&lt;/ref&gt;
+
+==Personal life==
+Rowe is the younger brother of former [[Southampton F.C.|Southampton]] man [[Omar Rowe]], who currently plays in Cyprus.&lt;ref&gt;{{cite web|url=https://englishplayersabroad.com/2018/08/07/omar-rowe-the-former-saints-winger-whos-worked-his-way-up-the-divisions-in-cyprus/|title=Omar Rowe: The former Saints winger who’s worked his way up the divisions in Cyprus|website=englishplayersabroad.com|date=7 August 2018|accessdate=20 March 2019}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{soccerway|aaron-rowe/535283}}
+
+{{Huddersfield Town A.F.C. squad}}
+
+{{DEFAULTSORT:Rowe, Aaron}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:People from London]]
+[[Category:English footballers]]
+[[Category:Association football wingers]]
+[[Category:Leyton Orient F.C. players]]
+[[Category:Huddersfield Town A.F.C. players]]
+[[Category:Premier League players]]
+
+{{England-footy-bio-stub}}</text>
+      <sha1>i5ml8w470s86dtiijbinadsoincgima</sha1>
+    </revision>
+  </page>
+  <page>
     <title>Ramadan Sobhi</title>
     <ns>0</ns>
     <id>43195566</id>
     <revision>
-      <id>886104075</id>
-      <parentid>884322403</parentid>
-      <timestamp>2019-03-04T08:47:09Z</timestamp>
+      <id>886590987</id>
+      <parentid>886104075</parentid>
+      <timestamp>2019-03-07T06:25:22Z</timestamp>
       <contributor>
-        <username>Cydebot</username>
-        <id>1215485</id>
+        <username>Ben5218</username>
+        <id>21890162</id>
       </contributor>
-      <minor/>
-      <comment>Robot - Speedily moving category Egyptian Premier League footballers to [[:Category:Egyptian Premier League players]] per [[WP:CFDS|CFDS]].</comment>
+      <comment>/* External links */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="23317">{{Use dmy dates|date=June 2018}}
+      <text xml:space="preserve" bytes="23303">{{Use dmy dates|date=June 2018}}
 {{Infobox football biography
 | name           = Ramadan Sobhi
 | fullname       = Ramadan Sobhi Ahmed&lt;ref name="FIFA squads"&gt;{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=2018 FIFA World Cup Russia – List of Players |website=FIFA.com |publisher=Fédération Internationale de Football Association |format=PDF |date=4 June 2018 |access-date=4 June 2018}}&lt;/ref&gt;
@@ -4988,7 +5068,7 @@ Egypt score listed first, score column indicates score after each Sobhi goal.''&
 *{{Soccerway|id=ramadan-sobhi/346587}}
 *{{NFT player|id=59626}}
 
-{{Huddersfield Town A.F.C. squad}}
+{{Al Ahly SC squad}}
 {{Navboxes colour
 |title= Egypt squads
 |bg=#DD0000
@@ -5018,7 +5098,7 @@ Egypt score listed first, score column indicates score after each Sobhi goal.''&
 [[Category:Association football midfielders]]
 [[Category:Association football wingers]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>5zdsui8pr22vuoalthuv6xvd3t84hwk</sha1>
+      <sha1>9m7eowayotnu1lhe9mbypyjjf4ro7cu</sha1>
     </revision>
   </page>
   <page>
@@ -5279,9 +5359,9 @@ His first name Rajiv is a tribute to former [[Prime Minister of India|Indian Pri
     <ns>0</ns>
     <id>31518691</id>
     <revision>
-      <id>882985119</id>
-      <parentid>882985012</parentid>
-      <timestamp>2019-02-12T15:50:50Z</timestamp>
+      <id>888942146</id>
+      <parentid>888064744</parentid>
+      <timestamp>2019-03-22T11:32:51Z</timestamp>
       <contributor>
         <username>Jamesbu</username>
         <id>33095085</id>
@@ -5289,7 +5369,7 @@ His first name Rajiv is a tribute to former [[Prime Minister of India|Indian Pri
       <comment>/* Career statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="9776">{{Use dmy dates|date=November 2015}}
+      <text xml:space="preserve" bytes="9936">{{Use dmy dates|date=November 2015}}
 {{Infobox football biography
 | name           = Collin Quaner
 | image          = 
@@ -5341,16 +5421,19 @@ His first name Rajiv is a tribute to former [[Prime Minister of India|Indian Pri
 | goals9 = 2
 | years10 = 2019–
 | clubs10 = → [[Ipswich Town F.C.|Ipswich Town]] (loan)
-| caps10 = 4
-| goals10 = 0
+| caps10 = 10
+| goals10 = 1
 | nationalyears1 = 2010
 | nationalteam1  = [[Germany national under-20 football team|Germany U20]]
 | nationalcaps1  = 1
 | nationalgoals1 = 1
-| club-update = 15:49, 12 February 2019 (UTC)
+| club-update = 18:00, 16 March 2019 (UTC)
 }}
 '''Collin Quaner''' (born 18 June 1991) is a German [[Association football|footballer]] who plays for [[EFL Championship|Championship]] club [[Ipswich Town F.C.|Ipswich Town]], on loan from [[Huddersfield Town A.F.C.|Huddersfield Town]].&lt;ref&gt;{{cite web | url = 
  http://www.kicker.de/news/fussball/3liga/vereine/3-liga/2011-12/vereinslos-0/64228/spieler_quaner-collin.html | title = Quaner, Collin | language = German | publisher = kicker.de | accessdate = 9 January 2012}}&lt;/ref&gt;
+
+== Background ==
+He grew up in [[Düsseldorf-Gerresheim]], where his parents still live.&lt;ref&gt;{{cite web|url=http://www.express.de/fortuna-duesseldorf/freitag-zu-gast-in-seiner-heimat-jubelt-collin-quaner-bald-wieder-fuer-fortuna-duesseldorf-,3292,30645682.html|archive-url=https://web.archive.org/web/20150509194244/http://www.express.de/fortuna-duesseldorf/freitag-zu-gast-in-seiner-heimat-jubelt-collin-quaner-bald-wieder-fuer-fortuna-duesseldorf-%2C3292%2C30645682.html/|archive-date=9 May 2015|title=Freitag zu Gast in seiner Heimat: Jubelt Collin Quaner bald wieder für Fortuna Düsseldorf?|trans-title=On Friday guest in his hometown: Celebrates Collin Quaner soon again for Fortuna Düsseldorf?|language=German|date=8 May 2015|publisher=express.de|deadurl=yes|df=dmy-all}}&lt;/ref&gt; He is of [[Ghanaian people|Ghanaian]] ancestry.&lt;ref&gt;{{cite web|url=http://www.wz-newsline.de/lokales/duesseldorf/sport/fortuna-duesseldorf/collin-quaner-will-sich-in-bielefeld-aufdraengen-1.169810|archive-url=https://web.archive.org/web/20150518203153/http://www.wz-newsline.de/lokales/duesseldorf/sport/fortuna-duesseldorf/collin-quaner-will-sich-in-bielefeld-aufdraengen-1.169810|archive-date=18 May 2015|title=Collin Quaner will sich in Bielefeld aufdrängen|trans-title=Collin Quaner wants to make an impression in Bielefeld|language=German|date=22 June 2010|publisher=wz-newsline.de}}&lt;/ref&gt; His father ist Ghanian, his mother is German.&lt;ref&gt;[https://www.goal.com/en-gh/news/german-born-quaner-excited-about-prospects-of-representing/15er3vgpjg93s12z8rcwsw4rdp]&lt;/ref&gt;
 
 ==Club career==
 === Union Berlin ===
@@ -5362,11 +5445,8 @@ On 20 January 2017 he completed a move to [[EFL Championship]] club [[Huddersfie
 ==== Ipswich Town (loan) ====
 On 8 January 2019, Quaner was loaned to [[Ipswich Town|Ipswich Town]].&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/amp/football/46804431|title=Collin Quaner: Huddersfield forward joins Ipswich Town on loan|date=2019-01-08|work=BBC Sport|access-date=2019-01-08|language=en-GB}}&lt;/ref&gt;
 
-==Personal life==
-He grew up in [[Düsseldorf-Gerresheim]], where his parents still live.&lt;ref&gt;{{cite web|url=http://www.express.de/fortuna-duesseldorf/freitag-zu-gast-in-seiner-heimat-jubelt-collin-quaner-bald-wieder-fuer-fortuna-duesseldorf-,3292,30645682.html|archive-url=https://web.archive.org/web/20150509194244/http://www.express.de/fortuna-duesseldorf/freitag-zu-gast-in-seiner-heimat-jubelt-collin-quaner-bald-wieder-fuer-fortuna-duesseldorf-%2C3292%2C30645682.html/|archive-date=9 May 2015|title=Freitag zu Gast in seiner Heimat: Jubelt Collin Quaner bald wieder für Fortuna Düsseldorf?|trans-title=On Friday guest in his hometown: Celebrates Collin Quaner soon again for Fortuna Düsseldorf?|language=German|date=8 May 2015|publisher=express.de|deadurl=yes|df=dmy-all}}&lt;/ref&gt; He is of [[Ghanaian people|Ghanaian]] ancestry.&lt;ref&gt;{{cite web|url=http://www.wz-newsline.de/lokales/duesseldorf/sport/fortuna-duesseldorf/collin-quaner-will-sich-in-bielefeld-aufdraengen-1.169810|archive-url=https://web.archive.org/web/20150518203153/http://www.wz-newsline.de/lokales/duesseldorf/sport/fortuna-duesseldorf/collin-quaner-will-sich-in-bielefeld-aufdraengen-1.169810|archive-date=18 May 2015|title=Collin Quaner will sich in Bielefeld aufdrängen|trans-title=Collin Quaner wants to make an impression in Bielefeld|language=German|date=22 June 2010|publisher=wz-newsline.de}}&lt;/ref&gt;
-
 ==Career statistics==
-{{updated| 12 February 2019}}&lt;ref&gt;{{cite web|title=C. QUANER|url=https://int.soccerway.com/players/collin-quaner/131801/|website=Soccerway|accessdate=24 February 2018}}&lt;/ref&gt;
+{{updated| 22 March 2019}}&lt;ref&gt;{{cite web|title=C. QUANER|url=https://int.soccerway.com/players/collin-quaner/131801/|website=Soccerway|accessdate=24 February 2018}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -5452,13 +5532,13 @@ He grew up in [[Düsseldorf-Gerresheim]], where his parents still live.&lt;ref&g
 
 |[[Ipswich Town F.C.|Ipswich Town]] (loan)
 |[[2018-19 Ipswich Town F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season |59293|2018|accessdate=7 December 2018}}&lt;/ref&gt;
-|[[EFL Championship|Championship]]
-|4||0||0||0||0||0||0||0||4||0
+|Championship
+|10||1||0||0||0||0||colspan=2|—||10||1
 |-
 
 
 !colspan=3|Career total
-!168!!23!!9!!3!!1!!0!!2!!0!!180!!26
+!174!!24!!9!!3!!1!!0!!2!!0!!186!!27
 |}
 
 ==Honours==
@@ -5500,7 +5580,7 @@ He grew up in [[Düsseldorf-Gerresheim]], where his parents still live.&lt;ref&g
 [[Category:Association football forwards]]
 [[Category:Footballers from North Rhine-Westphalia]]
 [[Category:FC Ingolstadt 04 II players]]</text>
-      <sha1>r35bxzb7lh4db3pszsa5x4y7j81rwo0</sha1>
+      <sha1>ptgbw05dqnybl245viv3rkbrylt1rno</sha1>
     </revision>
   </page>
   <page>
@@ -5508,17 +5588,16 @@ He grew up in [[Düsseldorf-Gerresheim]], where his parents still live.&lt;ref&g
     <ns>0</ns>
     <id>59643513</id>
     <revision>
-      <id>879618511</id>
-      <parentid>879618431</parentid>
-      <timestamp>2019-01-22T11:09:33Z</timestamp>
+      <id>888976794</id>
+      <parentid>888858987</parentid>
+      <timestamp>2019-03-22T16:36:19Z</timestamp>
       <contributor>
-        <username>Zanoni</username>
-        <id>426156</id>
+        <username>Andycwalker</username>
+        <id>35696410</id>
       </contributor>
-      <comment>/* Club */ Fixing style/layout errors</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="3665">{{short description|English association football player}}
+      <text xml:space="preserve" bytes="3753">{{short description|English association football player}}
 {{Infobox football biography
 |name                = Ryan Schofield
 |image               =
@@ -5537,12 +5616,12 @@ He grew up in [[Düsseldorf-Gerresheim]], where his parents still live.&lt;ref&g
 |years2              = 2017  |clubs2 = → [[F.C. United of Manchester|FC United of Manchester]] (loan) |caps2 = 5 |goals2 = 0
 |years3              = 2018  |clubs3 = → [[A.F.C. Telford United|Telford United]] (loan)           |caps3 = 3 |goals3 = 0
 |years4              = 2019– |clubs4 = → [[Notts County F.C.|Notts County]] (loan)                 |caps4 = 1 |goals4 = 0
-|nationalyears1      = 
-|nationalteam1       = 
-|nationalcaps1       = 
-|nationalgoals1      = 
+|nationalyears1      = 2019-
+|nationalteam1       = [[England national under-20 football team|England U20]]
+|nationalcaps1       = 1
+|nationalgoals1      = 0
 |club-update         = 16:41, 12 January 2019 (UTC)
-|nationalteam-update = 
+|nationalteam-update = 16.36, 22 March 2019 (UTC)
 }}
 
 '''Ryan Schofield''' (born 11 December 1999) is an [[English people|English]] [[Association football|footballer]] currently playing as a [[Goalkeeper (association football)|goalkeeper]] for [[Notts County F.C.|Notts County]], on loan from [[Huddersfield Town A.F.C.|Huddersfield Town]].&lt;ref&gt;{{cite web|url=https://www.htafc.com/matches/first-team/goalkeeper/ryan-schofield2/ |title=Ryan Schofield |accessdate=12 January 2019 |publisher=Huddersfield Town A.F.C.}}&lt;/ref&gt;
@@ -5623,7 +5702,7 @@ He grew up in [[Düsseldorf-Gerresheim]], where his parents still live.&lt;ref&g
 [[Category:F.C. United of Manchester players]]
 [[Category:A.F.C. Telford United players]]
 [[Category:Notts County F.C. players]]</text>
-      <sha1>6rs6jla4s44bfhy67jpzxvf6r188pil</sha1>
+      <sha1>on1auww1n904nig0nwhiv45dfw9z4pm</sha1>
     </revision>
   </page>
   <page>

@@ -3,7 +3,7 @@
     <sitename>Wikipedia</sitename>
     <dbname>enwiki</dbname>
     <base>https://en.wikipedia.org/wiki/Main_Page</base>
-    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <generator>MediaWiki 1.33.0-wmf.22</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>40391875</id>
     <revision>
-      <id>885983590</id>
-      <parentid>885944706</parentid>
-      <timestamp>2019-03-03T16:10:31Z</timestamp>
+      <id>888926956</id>
+      <parentid>888306587</parentid>
+      <timestamp>2019-03-22T08:14:33Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Reverted 1 edit by [[Special:Contributions/79.254.0.197|79.254.0.197]] ([[User talk:79.254.0.197|talk]]): No improvement ([[WP:TW|TW]])</comment>
+      <comment>/* Career statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="16102">{{EngvarB|date=August 2014}}
+      <text xml:space="preserve" bytes="17595">{{EngvarB|date=August 2014}}
 {{Use dmy dates|date=September 2018}}
 {{Infobox football biography
 | name                = Marcus Bettinelli
@@ -66,7 +66,7 @@
 | caption             = Bettinelli playing for [[Accrington Stanley F.C.|Accrington Stanley]] in 2014
 | fullname            = Marcus Bettinelli&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/844127 |title=2018/19 Premier League squads confirmed |publisher=Premier League |date=3 September 2018 |accessdate=7 September 2018}}&lt;/ref&gt;
 | birth_date          = {{birth date and age|1992|5|24|df=y}}&lt;ref&gt;{{cite web |url=http://www.espnfc.co.uk/player/177545/marcus-bettinelli |title=Marcus Bettinelli |website=ESPN FC |accessdate=7 September 2018}}&lt;/ref&gt;
-| birth_place         = [[Camberwell]], England
+| birth_place         = [[Camberwell]], London, England
 | height              = {{convert|1.94|m|order=flip}}&lt;ref&gt;{{cite web |url=http://www.fulhamfc.com/player-profiles/marcus-bettinelli |title=Marcus Bettinelli |publisher=Fulham F.C. |accessdate=7 September 2018}}&lt;/ref&gt;
 | position            = [[Goalkeeper (association football)|Goalkeeper]]
 | currentclub         = [[Fulham F.C.|Fulham]]
@@ -109,6 +109,8 @@ Bettinelli agreed a two-year extension to his Fulham contract on 10 January 2014
 
 Bettinelli signed another contract extension on 30 August 2017, keeping him at Fulham until June 2020 with an option in the club's favour to extend for a further year.&lt;ref&gt;{{cite web |url=http://www.fulhamfc.com/news/2017/august/30/marcus-bettinelli-new-deal |title=Bettinelli's new deal |publisher=Fulham F.C. |date=30 August 2017 |accessdate=7 September 2018}}&lt;/ref&gt; He was second-choice to [[David Button]] for all but the last six matches of the [[2016–17 EFL Championship]] season and thought that his Fulham career was over, but manager [[Slaviša Jokanović]] eventually made him the starting goalkeeper for the following season.&lt;ref&gt;{{cite news |url=https://www.getwestlondon.co.uk/sport/football/football-news/marcus-bettinelli-admits-thought-fulham-14488693 |title=Marcus Bettinelli admits he thought his Fulham career was over last season |first=Ryan |last=O'Donovan |website=Get West London |publisher=Reach |date=3 April 2018 |accessdate=13 September 2018}}&lt;/ref&gt; Fulham finished third and qualified for the [[2018 EFL play-offs|play-offs]], defeating [[Derby County F.C.|Derby County]] 2–1 on aggregate in the semi-final and [[Aston Villa F.C.|Aston Villa]] 1–0 in the [[2018 EFL Championship play-off Final|final]] at [[Wembley Stadium]].&lt;ref name=sb1718/&gt;&lt;ref name=playoffs/&gt;
 
+In October 2018, Bettinelli signed a new contract to last until 2021.&lt;ref&gt;{{cite news |title=Fulham goalkeeper Marcus Bettinelli extends contract until 2021 |url=https://www.bbc.co.uk/sport/football/45984452 |accessdate=8 March 2019 |publisher=BBC Sport |date=25 October 2018}}&lt;/ref&gt; For 2018–19, he lost his place to on-loan Spaniard [[Sergio Rico]] shortly before Jokanović's dismissal in November, and the situation remained the same under new manager [[Claudio Ranieri]].&lt;ref&gt;{{cite news |last1=Brand |first1=Gerard |title=Claudio Ranieri's tasks at Fulham: Key areas to correct |url=https://www.skysports.com/football/news/11681/11554043/claudio-ranieris-tasks-at-fulham-key-areas-to-correct |accessdate=8 March 2019 |publisher=Sky Sports |date=14 November 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Rico is Fulham’s number one – Ranieri |url=https://www.belfasttelegraph.co.uk/sport/football/rico-is-fulhams-number-one-ranieri-37682836.html |accessdate=8 March 2019 |work=Belfast Telegraph |date=5 January 2019}}&lt;/ref&gt; He ended his season in February 2019 when he was ruled out for six months following a knee operation.&lt;ref&gt;{{cite news |last1=Muro |first1=Giuseppe |title=Fulham goalkeeper Marcus Bettinelli ruled out for season after knee surgery |url=https://www.standard.co.uk/sport/football/fulham/fulham-goalkeeper-marcus-bettinelli-ruled-out-for-season-after-knee-surgery-a4068206.html |accessdate=8 March 2019 |work=London Evening Standard |date=15 February 2019}}&lt;/ref&gt;
+
 ==International career==
 In November 2014, Bettinelli was called up to the [[England national under-21 football team|England U21]] squad for the first time for matches against [[Portugal national under-21 football team|Portugal]] and [[France national under-21 football team|France]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2014/nov/06/squad-named-for-portugal-france-061114 |title=England under-21s squad named for double header |first=Nicholas |last=Veevers |publisher=The Football Association |date=6 November 2014 |accessdate=7 September 2018}}&lt;/ref&gt; He made his debut for the under-21 side in a friendly against the [[Czech Republic national under-21 football team|Czech Republic]] on 27 March 2015 in a 1–0 away win.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2015/mar/27/czech-republic-england-under-21s-friendly-match-report |title=Tom Carroll scores winner for England under-21s against Czech Republic |newspaper=The Guardian |location=London |agency=Press Association |date=27 March 2015 |accessdate=7 September 2018}}&lt;/ref&gt; This proved to be his only appearance for the under-21 team.&lt;ref&gt;{{cite web |url=http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg4.html |title=England's matches: The under 21's: 2010–20 |website=England Football Online |publisher=Chris Goodwin, Glen Isherwood &amp; Peter Young |date=7 September 2018 |accessdate=7 September 2018}}&lt;/ref&gt;
 
@@ -118,7 +120,7 @@ In September 2018, he was called up to the [[England national football team|Engl
 He is the son of [[Fulham F.C. Academy|Fulham Academy]] goalkeeping coach Vic Bettinelli.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/chelsea/11547224/Chelsea-want-Fulhams-England-U-21-keeper-Marcus-Bettinelli-to-replace-Petr-Cech.html |title=Chelsea want Fulham's England U-21 keeper Marcus Bettinelli to replace Petr Cech |newspaper=The Daily Telegraph |location=London |first=Jason |last=Burt |date=18 April 2015 |accessdate=7 September 2018}}&lt;/ref&gt; Bettinelli is of partial Italian descent on his father's side.&lt;ref&gt;{{cite web |url=https://www.thetimes.co.uk/article/fulham-goalkeeper-im-happier-earning-less-if-it-means-that-i-get-to-play-59j0rlvcw |title=Fulham goalkeeper: I'm happier earning less if it means that I get to play |first=Henry |last=Winter |newspaper=The Times |location=London |date=29 April 2017 |accessdate=7 September 2018}}{{subscription required|s}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 20 October 2018}}
+{{updated|match played 6 January 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -160,10 +162,10 @@ He is the son of [[Fulham F.C. Academy|Fulham Academy]] goalkeeping coach Vic Be
 |-
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|66524|2018|accessdate=15 November 2018}}&lt;/ref&gt;
 |Premier League
-|7||0||0||0||0||0||colspan=2|—||7||0
+|7||0||1||0||0||0||colspan=2|—||8||0
 |-
 !colspan=2|Total
-!89||0||7||0||4||0||5||0||105||0
+!89||0||8||0||4||0||5||0||106||0
 |-
 |[[Dartford F.C.|Dartford]] (loan)
 |[[2012–13 Football Conference#Conference Premier|2012–13]]&lt;ref name=Soccerway&gt;{{cite web |url=https://uk.soccerway.com/players/marcus-bettinelli/194646/ |title=M. Bettinelli: Summary |website=Soccerway |publisher=Perform Group |accessdate=30 September 2018}}&lt;/ref&gt;
@@ -176,7 +178,7 @@ He is the son of [[Fulham F.C. Academy|Fulham Academy]] goalkeeping coach Vic Be
 |39||0||1||0||1||0||0||0||41||0
 |-
 !colspan=3|Career total
-!163||0||8||0||5||0||12||0||188||0
+!163||0||9||0||5||0||12||0||189||0
 |}
 
 {{notelist}}
@@ -211,7 +213,7 @@ He is the son of [[Fulham F.C. Academy|Fulham Academy]] goalkeeping coach Vic Be
 [[Category:English Football League players]]
 [[Category:Premier League players]]
 [[Category:English people of Italian descent]]</text>
-      <sha1>br3wh5aqrmxuqu51assc9olxzs2870w</sha1>
+      <sha1>kgqrrt8marhopr68vfsxssje2o8cdws</sha1>
     </revision>
   </page>
   <page>
@@ -219,17 +221,17 @@ He is the son of [[Fulham F.C. Academy|Fulham Academy]] goalkeeping coach Vic Be
     <ns>0</ns>
     <id>51287745</id>
     <revision>
-      <id>882613333</id>
-      <parentid>880837177</parentid>
-      <timestamp>2019-02-10T08:41:44Z</timestamp>
+      <id>888927018</id>
+      <parentid>887306212</parentid>
+      <timestamp>2019-03-22T08:15:25Z</timestamp>
       <contributor>
-        <username>Mighty platypus</username>
-        <id>34602910</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Updated appearances</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="27704">{{EngvarB|date=January 2019}}
+      <text xml:space="preserve" bytes="31960">{{EngvarB|date=January 2019}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 | name = Ryan Sessegnon
@@ -247,7 +249,7 @@ He is the son of [[Fulham F.C. Academy|Fulham Academy]] goalkeeping coach Vic Be
 | youthclubs1 = [[Fulham F.C. Academy|Fulham]]
 | years1 = 2016–
 | clubs1 = [[Fulham F.C.|Fulham]]
-| caps1 = 94
+| caps1 = 99
 | goals1 = 22
 | nationalyears1 = 2015–2016
 | nationalteam1 = [[England national under-16 football team|England U16]]
@@ -265,24 +267,26 @@ He is the son of [[Fulham F.C. Academy|Fulham Academy]] goalkeeping coach Vic Be
 | nationalteam4 = [[England national under-21 football team|England U21]]&lt;ref&gt;{{cite web |url=http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg4.html |title=England's matches: The under 21's: 2010–20 |website=England Football Online |date=15 November 2018 |accessdate=10 December 2018}}&lt;br /&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45479514 |title=Latvia U21 1–2 England U21 |publisher=BBC Sport |date=11 September 2018 |accessdate=10 December 2018}}&lt;br /&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/46283328 |title=Denmark U21 1–5 England U21 |publisher=BBC Sport |date=20 November 2018 |accessdate=10 December 2018}}&lt;/ref&gt;
 | nationalcaps4 = 7
 | nationalgoals4 = 0
-| club-update = 08:41, 10 February 2019 (UTC)
+| club-update = 08:15, 22 March 2019 (UTC)
 | nationalteam-update = 21:33, 1 January 2019 (UTC)
 }}
 '''Kouassi Ryan Sessegnon''' (born 18 May 2000) is an English professional [[association football|footballer]] who plays as a [[left back]] or [[Midfielder#Winger|left winger]] for {{English football updater|Fulham}} club [[Fulham F.C.|Fulham]] and the [[England national under-21 football team|England under-21 national team]].
 
-After eight years in the club's youth teams, Sessegnon was promoted to the Fulham senior team in 2016, and made an instant impact on the team, and was considered a club superstar in his [[2016–17 EFL Championship|debut season]], which saw his team finish sixth in the [[EFL Championship|Championship]] and qualify for the [[2017 Football League play-offs|promotion play-offs]], where they were defeated in the semi-finals by [[Reading F.C.|Reading]]. In his second season, Sessegnon renewed his form, and helped Fulham achieve promotion to the Premier League via the play-offs.
+Sessegnon made his breakthrough in the Fulham senior side in 2016, aged 16. He made an instant impact, becoming the first footballer born in the 2000s to score a goal in a first-team game in the [[English football league system|professional English leagues]], and the youngest player to score in a [[EFL Championship|Championship]] match. In 2016–17, his second season, Sessegnon helped Fulham achieve promotion to the Premier League via the [[EFL Championship play-offs|play-offs]], scoring fifteen goals and winning numerous personal awards.
 
-Sessegnon has previously represented his country at [[England national under-16 football team|under-16]], [[England national under-17 football team|under-17]] and [[England national under-19 football team|under-19]] levels.
+==Early life and career==
+Sessegnon was born in [[Roehampton]], London, and has a twin brother, [[Steven Sessegnon|Steven]], who also plays for [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite news |last=Singer |first=Jonny |url=http://www.dailymail.co.uk/sport/football/article-3283256/Fulham-s-future-looking-bright-toppling-big-guns-win-Premier-League-s-U16-International-Cup-patience-key-success-says-academy-coach-Kevin-Betsy.html |title=Fulham's future looking bright after toppling big guns to win the Premier League's U16 International Cup... but patience is key to success, says academy coach Kevin Betsy |newspaper=Daily Mail |location=London |date=21 October 2015 |accessdate=14 September 2016}}{{Unreliable source?|date=May 2017}}&lt;/ref&gt; Their elder brother, Chris, is a semi-professional footballer.&lt;ref&gt;{{Cite news|url=https://www.theguardian.com/football/2017/oct/29/englands-under-17s-we-can-show-we-are-as-good-as-anyone|title=England's under-17s: 'They don’t walk around with 1966 noose around necks'|last=Fisher|first=Ben|date=2017-10-29|work=The Guardian|access-date=11 March 2019|language=en-GB|issn=0261-3077}}&lt;/ref&gt; Sessegnon is a distant cousin of the Beninese international footballer [[Stéphane Sessègnon]].&lt;ref&gt;{{cite news |last=Collomosse |first=Tom |url=https://www.standard.co.uk/sport/football/fulham-teen-ryan-sessegnon-can-rise-to-challenge-as-chelsea-tottenham-and-europe-look-on-a3451296.html |title=Fulham teen Ryan Sessegnon can rise to challenge as Chelsea, Tottenham and Europe look on |newspaper=London Evening Standard |date=27 January 2017 |accessdate=7 June 2017}}&lt;/ref&gt;
 
-==Early life==
-Sessegnon was born in [[Roehampton]], London,&lt;ref name=FulhamProfile/&gt; and has a twin brother, [[Steven Sessegnon|Steven]], who also plays for [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite news |last=Singer |first=Jonny |url=http://www.dailymail.co.uk/sport/football/article-3283256/Fulham-s-future-looking-bright-toppling-big-guns-win-Premier-League-s-U16-International-Cup-patience-key-success-says-academy-coach-Kevin-Betsy.html |title=Fulham's future looking bright after toppling big guns to win the Premier League's U16 International Cup... but patience is key to success, says academy coach Kevin Betsy |newspaper=Daily Mail |location=London |date=21 October 2015 |accessdate=14 September 2016}}{{Unreliable source?|date=May 2017}}&lt;/ref&gt; Sessegnon is a distant cousin of the Beninese international footballer [[Stéphane Sessègnon]].&lt;ref&gt;{{cite news |last=Collomosse |first=Tom |url=https://www.standard.co.uk/sport/football/fulham-teen-ryan-sessegnon-can-rise-to-challenge-as-chelsea-tottenham-and-europe-look-on-a3451296.html |title=Fulham teen Ryan Sessegnon can rise to challenge as Chelsea, Tottenham and Europe look on |newspaper=London Evening Standard |date=27 January 2017 |accessdate=7 June 2017}}&lt;/ref&gt;
+He joined Fulham in 2008, alongside brother Steven, joining their Under-9s team.&lt;ref&gt;{{Cite web|url=https://www.fulhamfc.com/player-profiles/ryan-sessegnon|title=Ryan Sessegnon {{!}} Fulham Football Club|last=|first=|date=|website=www.fulhamfc.com|language=en|archive-url=|archive-date=|dead-url=|access-date=8 March 2019}}&lt;/ref&gt; Originally a central striker at youth level, he was moved to left back as he progressed. He has cited fellow left-sided players [[Luke Shaw]] and [[Gareth Bale]] as players he looked up to when he was young, saying, 'when Shaw was at [[Southampton F.C.|Southampton]] he was a left-back and I loved watching him bomb up and down the wing, create goals, score goals, so I think I try to emulate that.'&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/football/2018/03/02/ryan-sessegnon-idolised-luke-shaw-gareth-bale-growing-loved/|title=Ryan Sessegnon exclusive interview: 'I idolised Luke Shaw growing up. I loved watching him bomb down the wing'|last=Bull|first=J. J.|date=2018-03-02|work=The Telegraph|access-date=8 March 2019|language=en-GB|issn=0307-1235}}&lt;/ref&gt;
+
+Sessegnon attended [[Coombe Boys' School]] in [[New Malden]], London, close to Fulham's Motspur Park training ground.&lt;ref&gt;{{Cite web|url=https://www.mirror.co.uk/sport/football/news/ryan-sessegnon-exclusive-fulham-wonderkid-13298905|title=Ryan Sessegnon exclusively opens up on his ambitions for the future|last=Polden|first=Jake|date=2018-09-25|website=mirror|archive-url=|archive-date=|dead-url=|access-date=8 March 2019}}&lt;/ref&gt; With both brothers in the team, Coombe Boys won youth competition the [[English Schools' Football Association|ESFA]] PlayStation Schools’ Cup in both 2014 and 2015,&lt;ref&gt;{{Cite web|url=https://playstationschoolscup.com/national-schools-football-week/|title=National Schools’ Football Week|last=|first=|date=2018-01-08|website=PlayStation Schools' Cup|language=en-US|archive-url=|archive-date=|dead-url=|access-date=11 March 2019}}&lt;/ref&gt; Ryan scoring twice in the 2015 final.&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/football/2018/05/25/ryan-sessegnon-quiet-pupil-english-footballs-teenage-marvel/|title=Ryan Sessegnon: From quiet pupil to English football's teenage marvel|last=Dean|first=Sam|date=2018-05-25|work=The Telegraph|access-date=11 March 2019|language=en-GB|issn=0307-1235}}&lt;/ref&gt; By the 2015–16 season, Sessegnon had become a regular for Fulham's Under-18 side, despite only being 15.&lt;ref&gt;{{Cite web|url=https://www.fulhamfc.com/player-profiles/ryan-sessegnon|title=Ryan Sessegnon {{!}} Fulham Football Club|last=|first=|date=|website=www.fulhamfc.com|language=en|archive-url=|archive-date=|dead-url=|access-date=9 March 2019}}&lt;/ref&gt;
 
 ==Club career==
 ===Fulham===
-Sessegnon joined Fulham in 2008 in their under-nine team.&lt;ref name=FulhamProfile/&gt;
-
 ====2016–17 season====
-On 9 August 2016, Sessegnon made his first-team debut in an [[EFL Cup]] match against [[Leyton Orient F.C.|Leyton Orient]] aged 16 years and 81 days.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/36949840 |title=Leyton Orient 2–3 Fulham |publisher=BBC Sport |date=9 August 2016 |accessdate=10 August 2016}}&lt;/ref&gt; On 16 August, he made his league debut in a [[EFL Championship|Championship]] match against [[Leeds United F.C.|Leeds United]] in a 1–1 draw.&lt;ref&gt;{{cite web |url=http://www.leedsunited.com/news/article/116sde3jdhs0b1u5ajmem29p05/title/wood-strikes-to-clinch-late-point |title=Wood strikes to clinch late point |publisher=Leeds United F.C. |date=16 August 2016 |accessdate=16 August 2016}}&lt;/ref&gt; On 20 August, he scored his first professional goal in a league match against [[Cardiff City F.C.|Cardiff City]], becoming the first professional footballer in the English leagues to have been born in the 2000s to score a goal in a first-team game and the youngest player ever to have scored in a Championship match.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/37067348 |title=Fulham 2–2 Cardiff |publisher=BBC Sport |date=20 August 2016 |accessdate=22 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Shode |first=Lekan |url=http://www.90min.com/posts/3666315-man-united-enter-transfer-race-with-liverpool-to-sign-fulham-starlet-ryan-sessegnon |title=Man United Enter Transfer Race With Liverpool to Sign Fulham Starlet Ryan Sessegnon |publisher=90min |date=24 August 2016 |accessdate=14 September 2016}}&lt;/ref&gt; He scored the winner on his [[FA Cup]] debut, also against Cardiff, on 8 January, becoming one of the youngest goalscorers in the history of the competition.&lt;ref&gt;{{Cite news |url=https://www.standard.co.uk/sport/football/fulhams-16yearold-ryan-sessegnon-marks-fa-cup-debut-with-goal-to-become-one-of-the-competitions-a3435396.html |title=Fulham's 16-year-old starlet Sessegnon marks FA Cup debut with a goal |date=8 January 2017 |newspaper=London Evening Standard |accessdate=1 July 2017}}&lt;/ref&gt; 
+Having started training with the first team, still aged 15, in March 2016,&lt;ref&gt;{{Cite web|url=http://www.dailymail.co.uk/sport/football/article-5612395/Ryan-Sessegnon-kid-rules-men-Tottenham-next.html|title=Ryan Sessegnon is the kid who rules over men... so is Tottenham next?|last=|first=|date=2018-04-17|website=Mail Online|archive-url=|archive-date=|dead-url=|access-date=8 March 2019}}&lt;/ref&gt; Sessegnon was promoted to the senior squad by manager [[Slaviša Jokanović|Slavisa Jokanovic]] for the 2016–17 pre-season.&lt;ref&gt;{{Cite web|url=https://www.fulhamfc.com/player-profiles/ryan-sessegnon|title=Ryan Sessegnon {{!}} Fulham Football Club|last=|first=|date=|website=www.fulhamfc.com|language=en|archive-url=|archive-date=|dead-url=|access-date=8 March 2019}}&lt;/ref&gt; He scored his first senior goal on 19 July in a 3-0 friendly win over [[Brighton &amp; Hove Albion F.C.|Brighton and Hove Albion]].&lt;ref&gt;{{Cite web|url=https://www.fulhamfc.com/first-team/2016_2017/friendly/brighton-and-hove-albion|title=Fulham 3-0 Brighton {{!}} Fulham Football Club|last=|first=|date=|website=www.fulhamfc.com|language=en|archive-url=|archive-date=|dead-url=|access-date=8 March 2019}}&lt;/ref&gt;
+
+On 9 August, Sessegnon made his first-team debut in an [[EFL Cup]] match against [[Leyton Orient F.C.|Leyton Orient]] aged 16 years and 81 days.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/36949840 |title=Leyton Orient 2–3 Fulham |publisher=BBC Sport |date=9 August 2016 |accessdate=10 August 2016}}&lt;/ref&gt; On 16 August, he made his league debut in a [[EFL Championship|Championship]] match against [[Leeds United F.C.|Leeds United]] in a 1–1 draw.&lt;ref&gt;{{cite web |url=http://www.leedsunited.com/news/article/116sde3jdhs0b1u5ajmem29p05/title/wood-strikes-to-clinch-late-point |title=Wood strikes to clinch late point |publisher=Leeds United F.C. |date=16 August 2016 |accessdate=16 August 2016}}&lt;/ref&gt; On 20 August, he scored his first professional goal in a league match against [[Cardiff City F.C.|Cardiff City]], becoming the first professional footballer in the English leagues to have been born in the 2000s to score a goal in a first-team game and the youngest player to score in a Championship match.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/37067348 |title=Fulham 2–2 Cardiff |publisher=BBC Sport |date=20 August 2016 |accessdate=22 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Shode |first=Lekan |url=http://www.90min.com/posts/3666315-man-united-enter-transfer-race-with-liverpool-to-sign-fulham-starlet-ryan-sessegnon |title=Man United Enter Transfer Race With Liverpool to Sign Fulham Starlet Ryan Sessegnon |publisher=90min |date=24 August 2016 |accessdate=14 September 2016}}&lt;/ref&gt; He scored the winner on his [[FA Cup]] debut, also against Cardiff, on 8 January, becoming one of the youngest goalscorers in the history of the competition.&lt;ref&gt;{{Cite news |url=https://www.standard.co.uk/sport/football/fulhams-16yearold-ryan-sessegnon-marks-fa-cup-debut-with-goal-to-become-one-of-the-competitions-a3435396.html |title=Fulham's 16-year-old starlet Sessegnon marks FA Cup debut with a goal |date=8 January 2017 |newspaper=London Evening Standard |accessdate=1 July 2017}}&lt;/ref&gt; 
 
 On 11 March, Sessegnon scored twice in an away match against eventual league champions [[Newcastle United F.C.|Newcastle United]],&lt;ref&gt;{{Cite web |url=https://www.fulhamfc.com/first-team/2016_2017/league/away/newcastle-united |title=Newcastle United 1–3 Fulham |publisher=Fulham F.C. |accessdate=1 July 2017}}&lt;/ref&gt; with former Newcastle player [[Alan Shearer]] praising his performance as "brilliant".&lt;ref&gt;{{Cite web |url=https://twitter.com/alanshearer/status/840613425080336384 |title=He was brilliant, as was his captain Tom Cairney |last=Shearer |first=Alan |date=11 March 2017 |website=@alanshearer|access-date=1 July 2017}}&lt;/ref&gt; In total, Sessegnon made 30 appearances in all competitions, including in the second leg of Fulham's play-off semi-final defeat against [[Reading F.C.|Reading]],&lt;ref&gt;{{Cite news |url=https://www.bbc.co.uk/sport/football/39853033 |title=Reading 1–0 Fulham (agg: 2–1) |date=16 May 2017 |publisher=BBC Sport |accessdate=1 July 2017}}&lt;/ref&gt; scoring seven goals, and was named in the [[PFA Team of the Year (2010s)#Championship 8|PFA Championship Team of the Year]],&lt;ref name=1617PFA&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39648483 |title=PFA teams of the year: Chelsea and Tottenham dominate Premier League XI |publisher=BBC Sport |date=20 April 2017 |accessdate=5 May 2018}}&lt;/ref&gt; the youngest player ever included.&lt;ref&gt;{{Cite news |url=http://www.squawka.com/news/confirmed-brighton-dominate-cship-toty-but-one-newcastle-inclusion-has-fans-talking/936519#M2G4Jg4prFy4oRl2.97 |title=Ryan Sessegnon becomes youngest ever player in PFA Championship Team of the Year |work=Squawka Football News |accessdate=1 July 2017}}&lt;/ref&gt;
 
@@ -291,20 +295,24 @@ Media interest in Sessegnon grew as his debut season progressed. In February 201
 As the summer transfer window approached, interest was reported from numerous [[Premier League]] clubs, including [[Everton F.C.|Everton]],&lt;ref&gt;{{Cite news |url=http://www.getwestlondon.co.uk/sport/football/transfer-news/everton-latest-club-linked-fulhams-12715620 |title=Everton the latest club to be linked with Ryan Sessegnon |last=O'Donovan |first=Ryan |date=9 March 2017 |work=getwestlondon |accessdate=1 July 2017}}&lt;/ref&gt; [[Liverpool F.C.|Liverpool]]&lt;ref&gt;{{Cite news |url=http://www.liverpoolecho.co.uk/sport/football/transfer-news/liverpool-plotting-summer-move-fulhams-12944494 |title=Liverpool plotting summer move for Fulham's Ryan Sessegnon |last=Pearce |first=James |date=26 April 2017 |newspaper=Liverpool Echo |accessdate=1 July 2017}}&lt;/ref&gt; and [[Manchester United F.C.|Manchester United]],&lt;ref&gt;{{Cite news |url=https://www.telegraph.co.uk/football/2017/06/01/manchester-united-keen-sign-fulham-wonderkid-ryan-sessegnon/ |title=Manchester United keen to sign Fulham wonderkid Ryan Sessegnon |newspaper=The Daily Telegraph |location=London |accessdate=1 July 2017}}&lt;/ref&gt; as well as [[Bundesliga]] sides [[FC Bayern Munich|Bayern Munich]] and [[RB Leipzig]],&lt;ref&gt;{{Cite news |url=https://www.dreamteamfc.com/c/archives/news-gossip/186636/fulham-newcastle-ryan-sessegnon/ |title=Who is the English 16-year-old who scored twice against Newcastle? |date=11 March 2017 |work=Dream Team FC |accessdate=1 July 2017}}&lt;/ref&gt; with Sessegnon potentially available for a compensation fee of £2&amp;nbsp;million&lt;ref&gt;{{Cite web |url=http://metro.co.uk/2017/06/01/jose-mourinho-personally-requests-manchester-united-sign-ryan-sessegnon-6678646/ |title=Jose Mourinho personally rates teenage star and requests Man Utd sign him |last=Metro.co.uk |first=Metro Sport Reporter for |date=1 June 2017 |website=Metro |accessdate=1 July 2017}}&lt;/ref&gt; as [[The Football Association|Football Association]] rules meant he could not sign professional terms until his 17th birthday on 18 May 2017.&lt;ref&gt;{{Cite web |url=http://www.thefa.com/~/media/Files/TheFAPortal/governance-docs/registrations/fa-rule-c---relating-to-players.ashx. |title=The website for the English football association, the Emirates FA Cup and the England football team |last=Association |first=The Football |publisher=The Football Association |accessdate=1 July 2017}}&lt;/ref&gt; However, on 28 June 2017, it was announced Sessegnon had signed his first professional contract with Fulham, committing him to the club until 2020.&lt;ref&gt;{{cite web |url=https://www.fulhamfc.com/news/2017/june/28/sess-turns-pro |title=Sess Turns Pro |publisher=Fulham F.C. |accessdate=1 July 2017}}&lt;/ref&gt; Sessegnon cited the likelihood of playing regularly in the first team as his reason, saying, "Last season I got a lot of opportunities so I want to continue that. When you are young you just want to play as many games as you can."&lt;ref&gt;{{Cite news |url=https://www.standard.co.uk/sport/football/tottenham-transfer-news-ryan-sessegnon-reveals-why-he-snubbed-premier-league-clubs-to-sign-new-a3575996.html |title=Ryan Sessegnon reveals why he snubbed Tottenham and Manchester United |date=29 June 2017 |newspaper=London Evening Standard |accessdate=1 July 2017}}&lt;/ref&gt;
 
 ====2017–18 season====
-On 28 July 2017, Fulham announced that Sessegnon would wear the number 3 shirt, moving from his previous number 30.&lt;ref&gt;{{Cite web |url=http://www.fulhamfc.com/news/2017/july/28/squad-numbers |title=Squad Numbers |publisher=Fulham F.C. |accessdate=31 July 2017}}&lt;/ref&gt; He scored his first goal of the season in a 1–1 draw with Cardiff on 9 September.&lt;ref&gt;{{Cite news |url=https://www.bbc.co.uk/sport/football/41132796 |title=Fulham 1–1 Cardiff City |date=9 September 2017 |publisher=BBC Sport |accessdate=14 September 2017}}&lt;/ref&gt; In November 2017, ''[[FourFourTwo]]'' included Sessegnon in their 100 Best Teenagers in the World list, comparing him with [[Ashley Cole]] and [[David Alaba]].&lt;ref&gt;{{Cite news |url=https://www.fourfourtwo.com/my/features/fourfourtwos-100-best-teenagers-world-2017-40-21 |title=FourFourTwo's 100 Best Teenagers in the World 2017: 40–21 |date=9 November 2017 |work=FourFourTwo |accessdate=23 November 2017}}&lt;/ref&gt; On 21 November 2017, Sessegnon marked his 50th appearance for Fulham by scoring his first professional hat-trick in a 5–4 away victory against [[Sheffield United F.C.|Sheffield United]]&lt;ref name=SHUFUL&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/41978135 |title=Sheffield United 4–5 Fulham |publisher=BBC Sport |date=21 November 2017}}&lt;/ref&gt; – becoming the first seventeen-year-old to score a hat-trick in the top four tiers of English league football since [[Dele Alli]] in 2014.&lt;ref&gt;{{Cite web |url=https://twitter.com/OptaJoe/status/933257770790404096 |title=17 – Ryan Sessegnon was the first 17-year-old to score a hat-trick within the top four tiers of English league football since Dele Alli in March 2014 (Notts County 1–3 MK Dons in League One). Exciting.pic.twitter.com/Yax86Qt6kL |last=OptaJoe |date=22 November 2017 |website=@OptaJoe |accessdate=23 November 2017}}&lt;/ref&gt; After netting six goals in January 2018, courtesy of braces against [[Ipswich Town F.C.|Ipswich Town]], [[Burton Albion F.C.|Burton Albion]] and [[Barnsley F.C.|Barnsley]], Sessegnon was named [[Professional Footballers' Association|PFA]]&lt;ref name="ThePFA.com"&gt;{{Cite web |url=https://www.thepfa.com/thepfa/pfa-fans-player-of-the-month/january-pfa-championship-fans-player-of-the-month-ryan-sessegnon |title=Ryan Sessegnon voted the PFA Bristol Street Motors Player of the Month |publisher=Professional Footballers' Association |accessdate=10 February 2018 |archiveurl=https://web.archive.org/web/20180211072324/https://www.thepfa.com/thepfa/pfa-fans-player-of-the-month/january-pfa-championship-fans-player-of-the-month-ryan-sessegnon |archivedate=11 February 2018 |deadurl=yes}}&lt;/ref&gt; and [[EFL Championship Player of the Month|Championship Player of the Month]].&lt;ref&gt;{{Cite web |url=https://www.efl.com/news/2018/february/player-of-the-month-ryan-sessegnon---fulham/ |title=EFL Official Website Player of the Month: Ryan Sessegnon – Fulham |accessdate=10 February 2018}}&lt;/ref&gt; On 19 February 2018, Sessegnon was named tenth in the most promising under 20 prospects in the whole of Europe.  Sessegnon featured in a prestigious list by CIES with the likes of [[A.C. Milan|Milan]] goalkeeper [[Gianluigi Donnarumma]] featuring in 1st place and [[Paris Saint-Germain F.C.|Paris Saint-Germain]] striker [[Kylian Mbappé]] in 3rd place.&lt;ref&gt;{{cite news |title=Gianluigi Donnarumma: AC Milan keeper named top under-20 European prospect |url=https://www.bbc.co.uk/sport/football/43115781 |publisher=BBC Sport |date=19 February 2018}}&lt;/ref&gt;
+On 28 July 2017, Fulham announced that Sessegnon would wear the number 3 shirt, moving from his previous number 30.&lt;ref&gt;{{Cite web |url=http://www.fulhamfc.com/news/2017/july/28/squad-numbers |title=Squad Numbers |publisher=Fulham F.C. |accessdate=31 July 2017}}&lt;/ref&gt; He scored his first goal of the season in a 1–1 draw with Cardiff on 9 September.&lt;ref&gt;{{Cite news |url=https://www.bbc.co.uk/sport/football/41132796 |title=Fulham 1–1 Cardiff City |date=9 September 2017 |publisher=BBC Sport |accessdate=14 September 2017}}&lt;/ref&gt; In November 2017, ''[[FourFourTwo]]'' included Sessegnon in their 100 Best Teenagers in the World list, comparing him with [[Ashley Cole]] and [[David Alaba]].&lt;ref&gt;{{Cite news |url=https://www.fourfourtwo.com/my/features/fourfourtwos-100-best-teenagers-world-2017-40-21 |title=FourFourTwo's 100 Best Teenagers in the World 2017: 40–21 |date=9 November 2017 |work=FourFourTwo |accessdate=23 November 2017}}&lt;/ref&gt; On 21 November 2017, Sessegnon marked his 50th appearance for Fulham by scoring his first professional hat-trick in a 5–4 away victory against [[Sheffield United F.C.|Sheffield United]]&lt;ref name=SHUFUL&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/41978135 |title=Sheffield United 4–5 Fulham |publisher=BBC Sport |date=21 November 2017}}&lt;/ref&gt; – becoming the first seventeen-year-old to score a hat-trick in the top four tiers of English league football since [[Dele Alli]] in 2014.&lt;ref&gt;{{Cite web |url=https://twitter.com/OptaJoe/status/933257770790404096 |title=17 – Ryan Sessegnon was the first 17-year-old to score a hat-trick within the top four tiers of English league football since Dele Alli in March 2014 (Notts County 1–3 MK Dons in League One). Exciting.pic.twitter.com/Yax86Qt6kL |last=OptaJoe |date=22 November 2017 |website=@OptaJoe |accessdate=23 November 2017}}&lt;/ref&gt; After netting six goals in January 2018, courtesy of braces against [[Ipswich Town F.C.|Ipswich Town]], [[Burton Albion F.C.|Burton Albion]] and [[Barnsley F.C.|Barnsley]], Sessegnon was named [[Professional Footballers' Association|PFA]]&lt;ref name="ThePFA.com"&gt;{{Cite web |url=https://www.thepfa.com/thepfa/pfa-fans-player-of-the-month/january-pfa-championship-fans-player-of-the-month-ryan-sessegnon |title=Ryan Sessegnon voted the PFA Bristol Street Motors Player of the Month |publisher=Professional Footballers' Association |accessdate=10 February 2018 |archiveurl=https://web.archive.org/web/20180211072324/https://www.thepfa.com/thepfa/pfa-fans-player-of-the-month/january-pfa-championship-fans-player-of-the-month-ryan-sessegnon |archivedate=11 February 2018 |deadurl=yes}}&lt;/ref&gt; and [[EFL Championship Player of the Month|Championship Player of the Month]].&lt;ref&gt;{{Cite web |url=https://www.efl.com/news/2018/february/player-of-the-month-ryan-sessegnon---fulham/ |title=EFL Official Website Player of the Month: Ryan Sessegnon – Fulham |accessdate=10 February 2018}}&lt;/ref&gt; On 19 February, Sessegnon was named tenth in the most promising under 20 prospects in the whole of Europe. Sessegnon featured in a prestigious list by CIES with the likes of [[A.C. Milan|Milan]] goalkeeper [[Gianluigi Donnarumma]] featuring in 1st place and [[Paris Saint-Germain F.C.|Paris Saint-Germain]] striker [[Kylian Mbappé]] in 3rd place.&lt;ref&gt;{{cite news |title=Gianluigi Donnarumma: AC Milan keeper named top under-20 European prospect |url=https://www.bbc.co.uk/sport/football/43115781 |publisher=BBC Sport |date=19 February 2018}}&lt;/ref&gt;
 
-In April 2018 he was nominated for the EFL Championship Player of the Season and Young Player of the Season awards.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/43641225 |title=EFL awards: Tom Cairney, Ruben Neves &amp; Ryan Sessgenon on Championship shortlist |date=4 April 2018 |accessdate=4 April 2018 |publisher=BBC Sport}}&lt;/ref&gt; He also became the first Championship player to be nominated for the [[PFA Young Player of the Year]] award. On 15 April, Sessegnon won an unprecedented five awards when he was named [[Football League Awards#2018 awards|Championship Player of the Season]], Young Player of the Season, [[Football League Apprentice of the Year|Apprentice of the Year]], and named in the Team of the Season and EFL Club Developed XI.&lt;ref&gt;{{cite news |url=https://www.mirror.co.uk/sport/football/news/fulham-wonderkid-ryan-sessegnon-wins-12371190 |title=Fulham wonderkid Ryan Sessegnon wins FIVE gongs at EFL awards including Championship Player of the Year |last=Whaling |first=James |work=Mirror |date=15 April 2018 |accessdate=16 April 2018}}&lt;/ref&gt; Fulham finished the league season in third place, allowing them to advance to the [[EFL Championship play-offs|play-offs]], where Sessegnon helped his side secure a place in the play-off final by scoring the opening goal and assisting the game-winning goal in the semi-final second leg against [[Derby County F.C.|Derby County]].&lt;ref name="14 May 2018"&gt;{{cite web |last1=Dean |first1=Sam |title=Ryan Sessegnon blows Derby County away to fire Fulham into play-off final |url=https://www.telegraph.co.uk/football/2018/05/14/ryan-sessegnon-fires-fulham-play-off-final-derby-county-blown/ |website=The Daily Telegraph |accessdate=14 May 2018}}&lt;/ref&gt; On 26 May 2018, Sessegnon assisted [[Tom Cairney]]'s 23rd minute goal in a 1–0 win against [[Aston Villa F.C.|Aston Villa]] in the [[2018 EFL Championship play-off Final|Championship play-off final]] at [[Wembley Stadium|Wembley]] to secure promotion to the [[Premier League]] for Fulham.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2018/may/26/aston-villa-fulham-championship-play-off-final-match-report |title=Fulham promoted to Premier League after play-off win over Aston Villa |work=The Guardian |accessdate=24 October 2018 |date=26 May 2018}}&lt;/ref&gt;
+In April 2018 he was nominated for the EFL Championship Player of the Season and Young Player of the Season awards.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/43641225 |title=EFL awards: Tom Cairney, Ruben Neves &amp; Ryan Sessgenon on Championship shortlist |date=4 April 2018 |accessdate=4 April 2018 |publisher=BBC Sport}}&lt;/ref&gt; He also became the first Championship player to be nominated for the [[PFA Young Player of the Year]] award. On 15 April, Sessegnon won an unprecedented five awards when he was named [[Football League Awards#2018 awards|Championship Player of the Season]], Young Player of the Season, [[Football League Apprentice of the Year|Apprentice of the Year]], and named in the Team of the Season and EFL Club Developed XI.&lt;ref&gt;{{cite news |url=https://www.mirror.co.uk/sport/football/news/fulham-wonderkid-ryan-sessegnon-wins-12371190 |title=Fulham wonderkid Ryan Sessegnon wins FIVE gongs at EFL awards including Championship Player of the Year |last=Whaling |first=James |work=Mirror |date=15 April 2018 |accessdate=16 April 2018}}&lt;/ref&gt;
+
+Fulham finished the league season in third place, allowing them to advance to the [[EFL Championship play-offs|play-offs]], where Sessegnon helped his side secure a place in the play-off final by scoring the opening goal and assisting the game-winning goal in the semi-final second leg against [[Derby County F.C.|Derby County]].&lt;ref name="14 May 2018"&gt;{{cite web |last1=Dean |first1=Sam |title=Ryan Sessegnon blows Derby County away to fire Fulham into play-off final |url=https://www.telegraph.co.uk/football/2018/05/14/ryan-sessegnon-fires-fulham-play-off-final-derby-county-blown/ |website=The Daily Telegraph |accessdate=14 May 2018}}&lt;/ref&gt; On 26 May, Sessegnon assisted [[Tom Cairney]]'s 23rd minute goal in a 1–0 win against [[Aston Villa F.C.|Aston Villa]] in the [[2018 EFL Championship play-off Final|Championship play-off final]] at [[Wembley Stadium|Wembley]] to secure Fulham's promotion to the [[Premier League]].&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/2018/may/26/aston-villa-fulham-championship-play-off-final-match-report |title=Fulham promoted to Premier League after play-off win over Aston Villa |work=The Guardian |accessdate=24 October 2018 |date=26 May 2018}}&lt;/ref&gt;
 
 ====2018–19 season====
-Sessegnon made his first ever [[Premier League]] appearance on 11 August 2018, the opening day of the new league campaign, which resulted in a 2–0 defeat to an established [[Crystal Palace F.C.|Crystal Palace]] at [[Craven Cottage]].&lt;ref&gt;{{cite web |url=https://www.premierleague.com/match/38310 |title=Fulham v Crystal Palace, 2018/19 |publisher=Premier League |date=11 August 2018 |accessdate=24 November 2018}}&lt;/ref&gt; On 20 October 2018, the English winger scored his first Premier League goal in a 4–2 away loss to [[Cardiff City F.C.|Cardiff City]], becoming the first player born in the 2000s to score in the competition.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45930086 |title=Premier League stats: Ryan Sessegnon and the millennium babies making an impact |publisher=BBC Sport |accessdate=24 October 2018 |date=21 October 2018}}&lt;/ref&gt; He made his 100th appearance for the club on 8 December, starting in a 4–1 league loss to [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite news |url=https://www.express.co.uk/sport/football/1055752/Man-Utd-Premier-League-TV-Stream-Fulham-Score-Goals-Jose-Mourinho-Paul-Pogba-Latest |title=Man Utd 4–1 Fulham AS IT HAPPENED: Romelu Lukaku scores first home goal since March |publisher=Express |last=Anderson |first=Jamie |date=8 December 2018 |accessdate=1 January 2019}}&lt;/ref&gt;
+Sessegnon made his first [[Premier League]] appearance on 11 August 2018, the opening day of the new league campaign, in a 2–0 home defeat to [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{cite web |url=https://www.premierleague.com/match/38310 |title=Fulham v Crystal Palace, 2018/19 |publisher=Premier League |date=11 August 2018 |accessdate=24 November 2018}}&lt;/ref&gt; On 20 October, he scored his first Premier League goal in a 4–2 away loss to [[Cardiff City F.C.|Cardiff City]], becoming the first player born in the 2000s to score in the competition.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45930086 |title=Premier League stats: Ryan Sessegnon and the millennium babies making an impact |publisher=BBC Sport |accessdate=24 October 2018 |date=21 October 2018}}&lt;/ref&gt; He made his 100th appearance for the club on 8 December, starting in a 4–1 league loss to [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite news |url=https://www.express.co.uk/sport/football/1055752/Man-Utd-Premier-League-TV-Stream-Fulham-Score-Goals-Jose-Mourinho-Paul-Pogba-Latest |title=Man Utd 4–1 Fulham AS IT HAPPENED: Romelu Lukaku scores first home goal since March |publisher=Express |last=Anderson |first=Jamie |date=8 December 2018 |accessdate=1 January 2019}}&lt;/ref&gt;
 
 ==International career==
 In 2016, Sessegnon played up an age group to represent England in the [[2016 UEFA European Under-17 Championship|U17 Euros]].&lt;ref&gt;{{cite web |url=http://www.fulhamfc.com/news/2016/may/04/duo-on-england-duty |title=Duo on England duty |publisher=Fulham F.C. |date=4 May 2016 |accessdate=10 August 2016}}&lt;/ref&gt; He scored his first goal for [[England national under-19 football team|England Under-19s]] against [[Luxembourg national under-19 football team|Luxembourg]] in a [[UEFA European Under-19 Championship|European Under-19 Championship]] qualifier on 10 November 2016, scoring the second goal in a 2–0 win.&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2016/nov/10/england-u19s-luxembourg-report-101116 |title=The website for the English football association, the Emirates FA Cup and the England football team |publisher=The Football Association |accessdate=1 July 2017}}&lt;/ref&gt;
 
 On 26 June 2017, Sessegnon was named in the final 18-man squad for the [[2017 UEFA European Under-19 Championship|Euro U19s finals]].&lt;ref&gt;{{Cite web |url=http://www.thefa.com/news/2017/jun/26/england-u19-squad-for-euros-260617 |title=Young Lions squad for U19 Euro |last=Association |first=The Football |publisher=The Football Association |accessdate=1 July 2017}}&lt;/ref&gt; He went on to score three goals, including two in a 4–1 win over [[Germany national youth football team|Germany]],&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2017/jul/10/ryan-sessegnon-post-germany-100717 |title=Young Lions ace Ryan Sessegnon says first-team action has helped him at Euros finals |publisher=The Football Association |date=10 July 2017 |accessdate=13 July 2017}}&lt;/ref&gt; finishing the tournament as joint-top scorer&lt;ref&gt;{{cite web |url=http://www.uefa.com/under19/season=2017/statistics/index.html |title=Under-19 – Statistics |publisher=UEFA |accessdate=15 July 2017}}&lt;/ref&gt; as England were crowned champions for the first time.&lt;ref&gt;{{Cite news |url=https://www.standard.co.uk/sport/football/england-win-euro-u19-championship-as-lukas-nmecha-winner-downs-portgual-in-final-a3588831.html |title=England win Euro Under-19 Championship with win over Portugal |newspaper=London Evening Standard |accessdate=15 July 2017}}&lt;/ref&gt; He was subsequently included in the [[2017 UEFA European Under-19 Championship#Team of the Tournament|team of the tournament]].&lt;ref name="2017 Technical Report"&gt;{{cite web |title=2017 UEFA U19 Technical Report |url=http://www.uefa.com/under19/season=2017/technical-report/uefa-technical-team/index.html |publisher=UEFA |accessdate=5 October 2017}}&lt;/ref&gt;
 
+Aged 17, Sessegnon made his debut for [[England national under-21 football team|England Under-21s]] on 27 March 2018, starting in a 2-1 [[UEFA European Under-21 Championship|European Under-21 Championship]] qualifier win over [[Ukraine national under-21 football team|Ukraine]].&lt;ref&gt;{{Cite news|url=https://www.bbc.co.uk/sport/football/43561101|title=England U21 2-1 Ukraine U21|last=|first=|date=2018-03-27|work=|access-date=8 March 2019|language=en-GB}}&lt;/ref&gt;
+
 ==Career statistics==
-{{updated|match played 12 January 2019}}
+{{updated|match played 17 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -330,10 +338,10 @@ On 26 June 2017, Sessegnon was named in the final 18-man squad for the [[2017 UE
 |-
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|94024|2018|accessdate=1 January 2019}}&lt;/ref&gt;
 |[[Premier League]]
-|20||2||1||0||2||0||colspan=2|—||23||2
+|28||2||1||0||2||0||colspan=2|—||31||2
 |-
 !colspan=3|Career total
-!91||22||5||2||5||0||4||1||105||25
+!99||22||5||2||5||0||4||1||114||25
 |}
 
 {{notelist}}
@@ -390,7 +398,7 @@ On 26 June 2017, Sessegnon was named in the final 18-man squad for the [[2017 UE
 [[Category:Twin sportspeople]]
 [[Category:Twin people from England]]
 [[Category:English people of Beninese descent]]</text>
-      <sha1>frjoehlnyop1h45xtw4bozm271so2nh</sha1>
+      <sha1>mv17odkt9ktv8i6xlsopqhwhkc4qfcq</sha1>
     </revision>
   </page>
   <page>
@@ -398,17 +406,17 @@ On 26 June 2017, Sessegnon was named in the final 18-man squad for the [[2017 UE
     <ns>0</ns>
     <id>24777091</id>
     <revision>
-      <id>882613434</id>
-      <parentid>879416505</parentid>
-      <timestamp>2019-02-10T08:43:11Z</timestamp>
+      <id>888927356</id>
+      <parentid>888927323</parentid>
+      <timestamp>2019-03-22T08:17:25Z</timestamp>
       <contributor>
-        <username>Mighty platypus</username>
-        <id>34602910</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Updated appearances</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="8924">{{Use dmy dates|date=May 2018}}
+      <text xml:space="preserve" bytes="8918">{{Use dmy dates|date=May 2018}}
 {{Infobox football biography
 | name = Denis Odoi
 | image = Metall-Lokeren (5).jpg
@@ -439,7 +447,7 @@ On 26 June 2017, Sessegnon was named in the final 18-man squad for the [[2017 UE
 | goals4 = 1
 | years5 = 2016–
 | clubs5 = [[Fulham F.C.|Fulham]]
-| caps5 = 104
+| caps5 = 96
 | goals5 = 3
 | nationalyears1 = 2008
 | nationalteam1 = [[Belgium national under-20 football team|Belgium U20]]
@@ -453,7 +461,7 @@ On 26 June 2017, Sessegnon was named in the final 18-man squad for the [[2017 UE
 | nationalteam3 = [[Belgium national football team|Belgium]]
 | nationalcaps3 = 1
 | nationalgoals3 = 0
-| club-update = 08:43, 10 February 2019 (UTC)
+| club-update = 08:17, 22 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Denis Frimpong Odoi''' (born 27 May 1988) is a Belgian [[association football|footballer]] who plays for [[Premier League]] club [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite news |url=http://www.sporza.be/permalink/1.1013325 |title=Anderlecht snatches Odoi away from Sint-Truiden |language=dutch |date=29 April 2011 |publisher=sporza.be}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.sporza.be/permalink/1.1046497 |title=Odoi: "Standard did not show any respect" |language=dutch |date=17 June 2011 |publisher=sporza.be}}&lt;/ref&gt; His father is from Ghana and his mother is from Belgium.
@@ -473,7 +481,7 @@ He made his senior Belgian debut in 2012.&lt;ref&gt;https://www.cottagersconfide
 
 ==Career statistics==
 ===Club===
-{{Updated|match played 12 January 2019}}
+{{Updated|match played 9 March 2019}}
 
 {|class="wikitable" style="text-align:center"
 |-
@@ -542,13 +550,13 @@ He made his senior Belgian debut in 2012.&lt;ref&gt;https://www.cottagersconfide
 |-
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name="DO18"&gt;{{soccerbase season|59440|2018|accessdate=13 January 2019}}&lt;/ref&gt;
 |rowspan="1"|[[Premier League]]
-|20||0||0||0||2||0||0||0||22||0
+|28||0||1||1||2||0||0||0||31||1
 |-
 !colspan="2"|Fulham total
-!88!!3!!4!!0!!3!!1!!2!!1!!97!!5
+!96!!3!!5!!1!!3!!1!!2!!1!!106!!6
 |-
 !colspan="3"|Career total
-!313!!10!!23!!0!!3!!1!!20!!1!!359!!12
+!321!!10!!24!!1!!3!!1!!20!!1!!368!!13
 |}
 
 {{reflist|group=lower-alpha}}
@@ -587,7 +595,7 @@ He made his senior Belgian debut in 2012.&lt;ref&gt;https://www.cottagersconfide
 [[Category:Premier League players]]
 
 {{belgium-footy-defender-stub}}</text>
-      <sha1>k3bl5c2435vyn2zyikqgg189k60s87c</sha1>
+      <sha1>tcx03c9y2sv28nrgtjdbi8kei2c85m7</sha1>
     </revision>
   </page>
   <page>
@@ -595,17 +603,16 @@ He made his senior Belgian debut in 2012.&lt;ref&gt;https://www.cottagersconfide
     <ns>0</ns>
     <id>36863053</id>
     <revision>
-      <id>882613496</id>
-      <parentid>882365891</parentid>
-      <timestamp>2019-02-10T08:44:07Z</timestamp>
+      <id>888625335</id>
+      <parentid>888625259</parentid>
+      <timestamp>2019-03-20T10:39:48Z</timestamp>
       <contributor>
-        <username>Mighty platypus</username>
-        <id>34602910</id>
+        <ip>77.108.140.14</ip>
       </contributor>
-      <comment>Updated appearances</comment>
+      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="23311">{{distinguish|text=the Australian rules footballer, [[Callum Chambers]]}}
+      <text xml:space="preserve" bytes="23306">{{distinguish|text=the Australian rules footballer, [[Callum Chambers]]}}
 {{EngvarB|date=December 2018}}
 {{Use dmy dates|date=December 2018}}
 {{Infobox football biography
@@ -636,8 +643,8 @@ He made his senior Belgian debut in 2012.&lt;ref&gt;https://www.cottagersconfide
 | goals3 = 1
 | years4 = 2018–
 | clubs4 = → [[Fulham F.C.|Fulham]] (loan)
-| caps4 = 19
-| goals4 = 1
+| caps4 = 24
+| goals4 = 2
 | nationalyears1 = 2012
 | nationalteam1 = [[England national under-17 football team|England U17]]
 | nationalcaps1 = 6
@@ -654,7 +661,7 @@ He made his senior Belgian debut in 2012.&lt;ref&gt;https://www.cottagersconfide
 | nationalteam4 = [[England national football team|England]]
 | nationalcaps4 = 3
 | nationalgoals4 = 0
-| club-update = 08:44, 10 February 2019 (UTC)
+| club-update = 10:39, 20 March 2019 (UTC)
 | nationalteam-update = 12:25, 30 January 2019 (UTC)
 }}
 '''Calum Chambers''' (born 20 January 1995) is an English professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Fulham F.C.|Fulham]], on [[Loan (sports)|loan]] from fellow {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]], and the [[England national football team|England national team]].
@@ -712,7 +719,7 @@ On 5 June 2017, Chambers was called up to England's squad for the [[2017 UEFA Eu
 
 ==Career statistics==
 ===Club===
-{{updated|match played 29 January 2019}}
+{{updated|match played 17 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -768,10 +775,10 @@ On 5 June 2017, Chambers was called up to England's squad for the [[2017 UEFA Eu
 |[[Fulham F.C.|Fulham]] (loan)
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|66152|2018|accessdate=30 January 2019}}&lt;/ref&gt;
 |Premier League
-|17||1||1||0||1||0||colspan=2|—||colspan=2|—||19||1
+|24||2||1||0||1||0||colspan=2|—||colspan=2|—||26||2
 |-
 !colspan=3|Career total
-!111||4||12||1||11||0||18||0||1||0||153||5
+!118||5||12||1||11||0||18||0||1||0||160||6
 |}
 
 {{notelist}}
@@ -826,7 +833,7 @@ On 5 June 2017, Chambers was called up to England's squad for the [[2017 UEFA Eu
 [[Category:Middlesbrough F.C. players]]
 [[Category:Fulham F.C. players]]
 [[Category:Premier League players]]</text>
-      <sha1>37jcbnfovu16p7f8eimm5a6ospyt0cv</sha1>
+      <sha1>80cawp4rs0kgb4bzsaez4223eueu3vz</sha1>
     </revision>
   </page>
   <page>
@@ -834,17 +841,16 @@ On 5 June 2017, Chambers was called up to England's squad for the [[2017 UEFA Eu
     <ns>0</ns>
     <id>717125</id>
     <revision>
-      <id>885557999</id>
-      <parentid>885109776</parentid>
-      <timestamp>2019-02-28T19:53:42Z</timestamp>
+      <id>886528195</id>
+      <parentid>885557999</parentid>
+      <timestamp>2019-03-06T21:11:22Z</timestamp>
       <contributor>
-        <username>Bearcat</username>
-        <id>24902</id>
+        <ip>71.91.233.22</ip>
       </contributor>
       <comment>/* Film and television */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="13931">{{Other people|Kevin McDonald}}
+      <text xml:space="preserve" bytes="13941">{{Other people|Kevin McDonald}}
 
 {{Infobox person
 | name = Kevin McDonald
@@ -894,7 +900,7 @@ Since 2000, McDonald and the other members of The Kids in the Hall have reunited
 |-
 | ''[[Friends]]'' || Guru Saj || Episode: The One with Ross's Thing 
 |-
-| ''[[Brain Candy|Kids in the Hall: Brain Candy]]'' || Dr. Chris Cooper, various characters ||
+| ''[[Brain Candy|Kids in the Hall: Brain Candy]]'' || Dr. Chris Cooper / Doreen / Chris' dad / Lacey ||
 |-
 | rowspan=7|1997 || ''[[Johnny Bravo]]'' || Young Clown (voice) ||
 |-
@@ -1045,7 +1051,7 @@ Since 2000, McDonald and the other members of The Kids in the Hall have reunited
 [[Category:Canadian male voice actors]]
 [[Category:The Kids in the Hall members]]
 [[Category:Canadian sketch comedians]]</text>
-      <sha1>gnbe6y9gecfn3kpv9q4ysoxeh74ifz8</sha1>
+      <sha1>dz2b4ydaiayjclm4xrbmzjyt0uouk2p</sha1>
     </revision>
   </page>
   <page>
@@ -1053,16 +1059,17 @@ Since 2000, McDonald and the other members of The Kids in the Hall have reunited
     <ns>0</ns>
     <id>30728927</id>
     <revision>
-      <id>883282486</id>
-      <parentid>882613743</parentid>
-      <timestamp>2019-02-14T12:51:19Z</timestamp>
+      <id>888927683</id>
+      <parentid>883282486</parentid>
+      <timestamp>2019-03-22T08:21:42Z</timestamp>
       <contributor>
-        <username>Victorsmesq</username>
-        <id>23126943</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="20758">{{EngvarB|date=January 2019}}
+      <text xml:space="preserve" bytes="20753">{{EngvarB|date=January 2019}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 | name = Neeskens Kebano
@@ -1084,9 +1091,9 @@ Since 2000, McDonald and the other members of The Kids in the Hall have reunited
 | years2 = 2012–2013 | clubs2 = → [[Stade Malherbe Caen|Caen]] (loan)            | caps2 = 12| goals2 = 1
 | years3 = 2013–2015 | clubs3 = [[R. Charleroi S.C.|Charleroi]]                  | caps3 = 64| goals3 = 18
 | years4 = 2015–2016 | clubs4 = [[K.R.C. Genk|Genk]]                             | caps4 = 37| goals4 = 6
-| years5 = 2016–     | clubs5 = [[Fulham F.C.|Fulham]]                           | caps5 = 58| goals5 = 9
+| years5 = 2016–     | clubs5 = [[Fulham F.C.|Fulham]]                           | caps5 = 57| goals5 = 9
 &lt;!-- This is for LEAGUE GOALS ONLY. Do NOT include other goals. --&gt;
-| club-update = 08:47, 10 February 2019 (UTC)
+| club-update = 08:21, 22 March 2019 (UTC)
 | nationalyears1 = 2008–2009
 | nationalteam1 = [[France national under-17 football team|France U17]]
 | nationalcaps1 = 5
@@ -1139,7 +1146,7 @@ With the under-18 team, Kebano made his debut on 27 October 2009 in a friendly m
 ==Career statistics==
 
 ===Club===
-{{updated|13 January 2019}}
+{{updated|17 March 2019}}
 
 {| class="wikitable" style="font-size:100%; text-align: center;"
 |-
@@ -1213,13 +1220,13 @@ With the under-18 team, Kebano made his debut on 27 October 2009 in a friendly m
 |-
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name="NK18"&gt;{{soccerbase season|58077|2018|accessdate=13 January 2019}}&lt;/ref&gt;
 |[[Premier League]]
-|3||0||1||0||1||0||~||~||0||0||5||0
+|5||0||1||0||1||0||~||~||0||0||7||0
 |-
 !colspan="2"|Fulham total
-!55!!9!!3!!0!!3!!0!!0!!0!!0!!0!!61!!9
+!57!!9!!3!!0!!3!!0!!0!!0!!0!!0!!63!!9
 |-
 !colspan="3"|Career total
-!171!!34!!16!!6!!7!!0!!12!!2!!0!!0!!197!!42
+!173!!34!!16!!6!!7!!0!!12!!2!!0!!0!!199!!42
 |}
 
 {{reflist|group=lower-alpha}}
@@ -1280,7 +1287,7 @@ With the under-18 team, Kebano made his debut on 27 October 2009 in a friendly m
 [[Category:2017 Africa Cup of Nations players]]
 [[Category:English Football League players]]
 [[Category:Sportspeople from Seine-et-Marne]]</text>
-      <sha1>p1kofx4uny36gclhlmdkapfklx4ls6r</sha1>
+      <sha1>r6yrak08hknoq2am9ueian4zgtoxsk0</sha1>
     </revision>
   </page>
   <page>
@@ -1314,15 +1321,17 @@ With the under-18 team, Kebano made his debut on 27 October 2009 in a friendly m
     <ns>0</ns>
     <id>24109813</id>
     <revision>
-      <id>884779840</id>
-      <parentid>883957529</parentid>
-      <timestamp>2019-02-23T23:22:43Z</timestamp>
+      <id>888927799</id>
+      <parentid>888927777</parentid>
+      <timestamp>2019-03-22T08:23:28Z</timestamp>
       <contributor>
-        <ip>86.178.209.19</ip>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="60072">{{distinguish|Tom Kearney (disambiguation){{!}}Tom Kearney}}
+      <text xml:space="preserve" bytes="60067">{{distinguish|Tom Kearney (disambiguation){{!}}Tom Kearney}}
 {{Use British English|date=October 2013}}
 {{Use dmy dates|date=January 2018}}
 {{Infobox football biography
@@ -1342,11 +1351,11 @@ With the under-18 team, Kebano made his debut on 27 October 2009 in a friendly m
 | years1      = 2009–2014 | clubs1 = [[Hull City A.F.C.|Hull City]]                      | caps1 = 70  | goals1 = 2
 | years2      = 2013–2014 | clubs2 = → [[Blackburn Rovers F.C.|Blackburn Rovers]] (loan) | caps2 = 23  | goals2 = 1
 | years3      = 2014–2015 | clubs3 = [[Blackburn Rovers F.C.|Blackburn Rovers]]          | caps3 = 53  | goals3 = 7
-| years4      = 2015–     | clubs4 = [[Fulham F.C.|Fulham]]                              | caps4 = 138 | goals4 = 25
+| years4      = 2015–     | clubs4 = [[Fulham F.C.|Fulham]]                              | caps4 = 143 | goals4 = 25
 | nationalyears1 = 2009      | nationalteam1 = [[Scotland national under-19 football team|Scotland U19]] | nationalcaps1 = 2 | nationalgoals1 = 0
 | nationalyears2 = 2010–2012 | nationalteam2 = [[Scotland national under-21 football team|Scotland U21]] | nationalcaps2 = 6 | nationalgoals2 = 1
 | nationalyears3 = 2017–     | nationalteam3 = [[Scotland national football team|Scotland]]              | nationalcaps3 = 2 | nationalgoals3 = 0
-| club-update = 08:49, 10 February 2019 (UTC)
+| club-update = 08:23, 22 March 2019 (UTC)
 | nationalteam-update = 01:24, 10 December 2018 (UTC)
 }}
 '''Thomas Cairney''' (born 20 January 1991) is a professional [[association football|footballer]] who plays as a [[midfielder]] for {{English football updater|Fulham}} club [[Fulham F.C.|Fulham]] and the [[Scotland national football team|Scotland national team]]. Cairney has previously played for [[Hull City A.F.C.|Hull City]] and [[Blackburn Rovers F.C.|Blackburn Rovers]]. Born in England, he made his full international debut for [[Scotland national football team|Scotland]] in March 2017. Cairney had previously represented Scotland at [[Scotland national under-19 football team|under-19]] and [[Scotland national under-21 football team|under-21]] levels.
@@ -1404,7 +1413,7 @@ Cairney earned his first call up from [[Scotland national football team|Scotland
 
 ==Career statistics==
 ===Club===
-{{updated|match played 12 January 2018}}
+{{updated|match played 17 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -1466,13 +1475,13 @@ Cairney earned his first call up from [[Scotland national football team|Scotland
 |-
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|52126|2018|accessdate=13 January 2019}}&lt;/ref&gt;
 |Premier League
-|17||0||1||0||1||0||colspan=2|—||19||0
+|25||0||1||0||1||0||colspan=2|—||27||0
 |-
 !colspan=2|Total
-!135||25||5||0||4||0||5||2||149||27
+!143||25||5||0||4||0||5||2||157||27
 |-
 !colspan=3|Career total
-!281||35||17||2||11||2||5||2||314||41
+!289||35||17||2||11||2||5||2||322||41
 |}
 
 {{notelist}}
@@ -1541,7 +1550,7 @@ Cairney earned his first call up from [[Scotland national football team|Scotland
 [[Category:Premier League players]]
 [[Category:English Football League players]]
 [[Category:English people of Scottish descent]]</text>
-      <sha1>bp5ikwfy9oqkfzgoaysuj5yraerh2hv</sha1>
+      <sha1>kc3dsjmyncufjk0numlag31si8rj87n</sha1>
     </revision>
   </page>
   <page>
@@ -1549,18 +1558,17 @@ Cairney earned his first call up from [[Scotland national football team|Scotland
     <ns>0</ns>
     <id>18159852</id>
     <revision>
-      <id>882613980</id>
-      <parentid>877626037</parentid>
-      <timestamp>2019-02-10T08:51:03Z</timestamp>
+      <id>888927900</id>
+      <parentid>888332300</parentid>
+      <timestamp>2019-03-22T08:25:03Z</timestamp>
       <contributor>
-        <username>Mighty platypus</username>
-        <id>34602910</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Updated appearances</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="10241">{{BLP sources|date=July 2016}}
-{{Infobox football biography
+      <text xml:space="preserve" bytes="10207">{{Infobox football biography
 | name= Floyd Ayité
 | image = Floyd Ayite, Fulham FC (42386499962) (cropped).jpg
 | image_size = 200
@@ -1579,12 +1587,12 @@ Cairney earned his first call up from [[Scotland national football team|Scotland
 | years3 = 2009–2010 | clubs3 = → [[AS Nancy|Nancy]] (loan) | caps3 = 6 | goals3 = 0
 | years4 = 2011–2014 | clubs4 = [[Stade de Reims|Reims]] | caps4 = 73 | goals4 = 10
 | years5 = 2014–2016 | clubs5 = [[SC Bastia|Bastia]] | caps5 = 53 | goals5 = 14
-| years6 = 2016–     | clubs6 = [[Fulham F.C.|Fulham]] |caps6 = 70 |goals6 = 13
+| years6 = 2016–     | clubs6 = [[Fulham F.C.|Fulham]] |caps6 = 73 |goals6 = 14
 | nationalyears1 = 2007–
 | nationalteam1  = [[Togo national football team|Togo]]
 | nationalcaps1  = 39
 | nationalgoals1 = 11
-| club-update = 08:51, 10 February 2019 (UTC)
+| club-update = 08:25, 22 March 2019 (UTC)
 | ntupdate = 16 October 2018
 }}
 '''Floyd Ama Nino Ayité''' (born 15 December 1988) is a professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Premier League]] club [[Fulham F.C.|Fulham]] and the [[Togo national football team|Togo national team]]. He mainly plays a [[Midfielder#Winger|winger]]. He is [[Jonathan Ayité]]'s younger brother.&lt;ref&gt;{{cite news|url=https://www.thesun.co.uk/sport/football/1681850/fulham-star-floyd-ayite-opens-up-on-togo-bus-attack-at-2010-african-nations-cup-which-tragically-left-four-dead/|title=Fulham star Floyd Ayite opens up on Togo bus attack at 2010 African Nations Cup which tragically left four dead|first=Sarah|last=Boyall|newspaper=[[The Sun (United Kingdom)|The Sun]]|date=27 August 2016}}&lt;/ref&gt;
@@ -1606,7 +1614,7 @@ Despite being born in France, Ayité decide to follow in the footsteps of his ol
 
 ==Career statistics==
 ===Club===
-{{updated|match played 6 January 2019}}
+{{updated|match played 17 March 2019}}
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -1672,13 +1680,13 @@ Despite being born in France, Ayité decide to follow in the footsteps of his ol
 |-
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name="FA18"&gt;{{soccerbase season|53131|2018|accessdate=9 January 2019}}&lt;/ref&gt;
 |[[Premier League]]
-|7||0||1||0||2||0||0||0||10||0
+|11||1||1||0||2||0||0||0||14||1
 |-
 !colspan="2"|Fulham total
-!69!!13!!3!!0!!2!!0!!0!!0!!74!!13
+!73!!14!!3!!0!!2!!0!!0!!0!!78!!14
 |-
 !colspan="3"|Career total
-!250!!40!!8!!2!!8!!2!!0!!0!!266!!44
+!254!!41!!8!!2!!8!!2!!0!!0!!270!!45
 |}
 {{reflist|group=lower-alpha}}
 
@@ -1760,7 +1768,7 @@ Despite being born in France, Ayité decide to follow in the footsteps of his ol
 
 
 {{Togo-footy-bio-stub}}</text>
-      <sha1>c92bjd0o1hrk6mfnm646ddothrwviqw</sha1>
+      <sha1>ez84pgn1f52t390i0xvizoe9ebxjsdw</sha1>
     </revision>
   </page>
   <page>
@@ -1768,17 +1776,17 @@ Despite being born in France, Ayité decide to follow in the footsteps of his ol
     <ns>0</ns>
     <id>3241238</id>
     <revision>
-      <id>884646781</id>
-      <parentid>884646169</parentid>
-      <timestamp>2019-02-23T00:43:33Z</timestamp>
+      <id>888994517</id>
+      <parentid>888867119</parentid>
+      <timestamp>2019-03-22T18:51:10Z</timestamp>
       <contributor>
         <username>Mattythewhite</username>
         <id>553121</id>
       </contributor>
-      <comment>infobox stats match played 22 February 2019</comment>
+      <comment>Reverted 1 edit by [[Special:Contributions/Mediocre Legacy|Mediocre Legacy]] ([[User talk:Mediocre Legacy|talk]]): No improvement ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="43191">{{EngvarB|date=January 2019}}
+      <text xml:space="preserve" bytes="43646">{{EngvarB|date=January 2019}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 | name                 = Ryan Babel
@@ -1832,8 +1840,8 @@ Despite being born in France, Ayité decide to follow in the footsteps of his ol
 |goals8                = 22
 |years9                = 2019–
 |clubs9                = [[Fulham F.C.|Fulham]]
-|caps9                 = 5
-|goals9                = 1
+|caps9                 = 9
+|goals9                = 2
 | nationalyears1       = 2002–2003
 | nationalteam1        = [[Netherlands national under-17 football team|Netherlands U17]]
 | nationalcaps1        = 6
@@ -1858,7 +1866,7 @@ Despite being born in France, Ayité decide to follow in the footsteps of his ol
 | nationalteam6        = [[Netherlands national football team|Netherlands]]
 | nationalcaps6        = 54&lt;ref&gt;{{cite web |url=http://voetbalstats.nl/spelernedxi.php?persid=1538 |title=Ryan Babel |accessdate=10 October 2017 |language=Dutch |publisher=voetbalstats.nl}}&lt;/ref&gt;
 | nationalgoals6       = 8
-| club-update          = 00:43, 23 February 2019 (UTC)
+| club-update          = 18:37, 17 March 2019 (UTC)
 | nationalteam-update  = 19 November 2018
 }}
 '''Ryan Guno Babel''' ({{IPA-nl|ˈrɑjɐn ˈbaːbəl}}; born 19 December 1986)&lt;ref name="LFC profile"&gt;{{cite web |url=http://www.liverpoolfc.tv/team/first-team/player/19-ryan-babel |title=Liverpool F.C. Official profile |publisher=Liverpool F.C. |accessdate=16 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100128060918/http://www.liverpoolfc.tv/team/first-team/player/19-ryan-babel |archivedate=28 January 2010}}&lt;/ref&gt; is a Dutch professional [[Association football|footballer]] who plays for [[Premier League]] club [[Fulham F.C.|Fulham]] and the [[Netherlands national football team|Netherlands national team]]. He can play as a [[Forward (association football)|striker]] or [[Winger (soccer)|left winger]].
@@ -1897,7 +1905,7 @@ Babel gained further notoriety amongst fans when, on [[Transfer window|transfer 
 
 One of the first Premier League players to use Twitter to communicate with fans, in January 2011, Babel posted a [[photoshop]]ped image on Twitter of referee [[Howard Webb]] in a [[Manchester United]] shirt following Liverpool's 1–0 defeat to United in the [[2010–11 FA Cup|FA Cup]]. He was subsequently charged by [[The Football Association|the F.A.]] with improper conduct and fined £10,000.&lt;ref&gt;{{cite web |url=http://soccernet.espn.go.com/news/story/_/id/863846/fa-charges-ryan-babel-for-webb-based-photo-joke?cc=5739 |title=FA charges Babel for Webb tweet |date=10 January 2011 |website=ESPN Soccernet |accessdate=10 January 2011}}&lt;/ref&gt;
 
-On 18 January, Liverpool agreed a fee believed to be in the region of £7&amp;nbsp;million for Babel from [[TSG 1899 Hoffenheim]].&lt;ref&gt;https://www.telegraph.co.uk/sport/football/teams/liverpool/8267227/Liverpool-accept-Hoffenheim-bid-for-unsettled-winger-Ryan-Babel.html&lt;/ref&gt; On 24 January, [[Kenny Dalglish]] said that Babel would be staying at Liverpool,&lt;ref&gt;{{cite web |url=http://www.goal.com/en-gb/news/2896/premier-league/2011/01/24/2320776/kenny-dalglish-confirms-ryan-babel-is-staying-at-liverpool |title=Kenny Dalglish confirm Ryan Babel is staying at Liverpool |date=24 January 2011 |website=Goal.com |accessdate=24 January 2011}}&lt;/ref&gt; but the next day Babel flew to Germany to finalise the deal to sign with Hoffenheim.&lt;ref&gt;http://en.espn.co.uk/football/sport/story/70077.html&lt;/ref&gt;
+On 18 January, Liverpool agreed a fee believed to be in the region of £7&amp;nbsp;million for Babel from [[TSG 1899 Hoffenheim]].&lt;ref&gt;{{cite web|url=https://www.telegraph.co.uk/sport/football/teams/liverpool/8267227/Liverpool-accept-Hoffenheim-bid-for-unsettled-winger-Ryan-Babel.html|title=Liverpool accept Hoffenheim bid for unsettled winger Ryan Babel|first=Telegraph|last=staff|date=18 January 2011|publisher=|via=www.telegraph.co.uk}}&lt;/ref&gt; On 24 January, [[Kenny Dalglish]] said that Babel would be staying at Liverpool,&lt;ref&gt;{{cite web |url=http://www.goal.com/en-gb/news/2896/premier-league/2011/01/24/2320776/kenny-dalglish-confirms-ryan-babel-is-staying-at-liverpool |title=Kenny Dalglish confirm Ryan Babel is staying at Liverpool |date=24 January 2011 |website=Goal.com |accessdate=24 January 2011}}&lt;/ref&gt; but the next day Babel flew to Germany to finalise the deal to sign with Hoffenheim.&lt;ref&gt;{{cite web|url=http://www.espn.co.uk/football/sport/story/70077.html|title=Hoffenheim complete Ryan Babel transfer|website=ESPN.co.uk}}&lt;/ref&gt;
 
 ===1899 Hoffenheim===
 On 25 January 2011, it was confirmed that Babel had left Liverpool to join German side TSG 1899 Hoffenheim for a reported fee of £8 million, signing a two-and-a-half-year deal.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/liverpool/8281942/Ryan-Babel-leaves-Liverpool-for-Hoffenheim-two-and-a-half-year-contract.html |title=Ryan Babel leaves Liverpool for Hoffenheim two-and-a-half-year contract |date=25 January 2011 |newspaper=The Daily Telegraph |accessdate=25 January 2011}}&lt;/ref&gt;
@@ -1948,7 +1956,7 @@ Babel returned in Oranje after an absence of almost a year on 11 November 2011 a
 
 ==Career statistics==
 ===Club===
-{{updated|30 December 2018}}&lt;ref name="sw"&gt;{{cite web |title=R. Babel |url=https://int.soccerway.com/players/ryan-babel/43/ |website=Soccerway |accessdate=4 October 2016}}&lt;/ref&gt;&lt;ref name=espn&gt;{{cite web |url=http://www.espnfc.com/player/41418/ryan-babel |title=Ryan Babel Player Profile |website=ESPN FC |date=7 May 2007 |accessdate=4 October 2016}}&lt;/ref&gt;
+{{updated|17 March 2019}}&lt;ref name="sw"&gt;{{cite web |title=R. Babel |url=https://int.soccerway.com/players/ryan-babel/43/ |website=Soccerway |accessdate=4 October 2016}}&lt;/ref&gt;&lt;ref name=espn&gt;{{cite web |url=http://www.espnfc.com/player/41418/ryan-babel |title=Ryan Babel Player Profile |website=ESPN FC |date=7 May 2007 |accessdate=4 October 2016}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -2064,8 +2072,16 @@ Babel returned in Oranje after an absence of almost a year on 11 November 2011 a
 !colspan="2"|Total
 !62!!22!!5!!0!!19!!7!!86!!29
 |-
+|rowspan="2"|[[Fulham F.C.|Fulham F.C.]]
+|[[2018–19 Premier League|2018–19]]
+|[[Premier League]]
+|9||2||0||0||0||0||9||2
+|-
+!colspan="2"|Total
+!9!!2!!0!!0!!0!!0!!9!!2
+|-
 !colspan="3"|Career totals
-!365!!75!!48!!9!!88!!23!!501!!107
+!374!!77!!48!!9!!88!!23!!510!!109
 |-
 |}
 
@@ -2073,7 +2089,7 @@ Babel returned in Oranje after an absence of almost a year on 11 November 2011 a
 
 === International goals ===
 : ''As of match played 9 September 2018. Netherlands score listed first, score column indicates score after each Babel goal.''&lt;ref name="NFT"&gt;{{NFT player|id=11198|accessdate=9 September 2018}}&lt;/ref&gt;
- 
+
 {| class="wikitable sortable plainrowheaders"
 |+ International goals by date, venue, opponent, score, result and competition
 |-
@@ -2133,9 +2149,9 @@ Babel returned in Oranje after an absence of almost a year on 11 November 2011 a
 * {{FIFA player|216733}}
 * {{Soccerbase}}
 * {{Wereld van Oranje|469}}
-* [https://web.archive.org/web/20100128060918/http://www.liverpoolfc.tv/team/first-team/player/19-ryan-babel Liverpoolfc.tv profile]
+* {{Webarchive |url=https://web.archive.org/web/20100128060918/http://www.liverpoolfc.tv/team/first-team/player/19-ryan-babel |title=Liverpoolfc.tv profile }}
 * [http://www.lfchistory.net/Players/Player/Profile/1190 LFCHistory.net profile]
-* {{ESPN FC|41418/ryan-babel}}
+* {{ESPN FC|41418&lt;!-- /ryan-babel --&gt;}}
 * [https://twitter.com/Ryanbabel/status/700234738653601792 Evidence Babel remains an Al Ain player contrary to previous edit]
 
 {{Navboxes
@@ -2193,7 +2209,7 @@ Babel returned in Oranje after an absence of almost a year on 11 November 2011 a
 [[Category:2010 FIFA World Cup players]]
 [[Category:Footballers at the 2008 Summer Olympics]]
 [[Category:Olympic footballers of the Netherlands]]</text>
-      <sha1>btjxjuyxzqlmhmt1no9ixw5egneu0xe</sha1>
+      <sha1>cmk70yvax5fzt1xqfe3fu407oeseqks</sha1>
     </revision>
   </page>
   <page>
@@ -2201,17 +2217,17 @@ Babel returned in Oranje after an absence of almost a year on 11 November 2011 a
     <ns>0</ns>
     <id>25828484</id>
     <revision>
-      <id>882758269</id>
-      <parentid>882614149</parentid>
-      <timestamp>2019-02-11T04:00:29Z</timestamp>
+      <id>888928032</id>
+      <parentid>888928007</parentid>
+      <timestamp>2019-03-22T08:27:03Z</timestamp>
       <contributor>
-        <username>SounderBruce</username>
-        <id>5811002</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>/* Personal life */  how is this remarkable?</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="31367">{{Use mdy dates|date=December 2018}}
+      <text xml:space="preserve" bytes="31391">{{Use mdy dates|date=December 2018}}
 {{Infobox football biography
 | name                 = Tim Ream
 | image                = TimReam (cropped).jpg
@@ -2240,18 +2256,18 @@ Babel returned in Oranje after an absence of almost a year on 11 November 2011 a
 | goals3               = 0
 | years4               = 2015–
 | clubs4               = [[Fulham F.C.|Fulham]]
-| caps4                = 123
+| caps4                = 128
 | goals4               = 2
 | nationalyears1       = 2010–
 | nationalteam1        = [[United States men's national soccer team|United States]]
-| nationalcaps1        = 26
+| nationalcaps1        = 27
 | nationalgoals1       = 1
 | medaltemplates =
 {{MedalCountry|{{USA}}}}
 {{Medal|RU|[[CONCACAF Gold Cup]]|[[2011 CONCACAF Gold Cup|2011]]}}
 {{MedalSport|Men's [[Association football|Soccer]]}}
-| club-update          = 08:53, 10 February 2019 (UTC)
-| nationalteam-update  = September 1, 2017
+| club-update          = 08:27, 22 March 2019 (UTC)
+| nationalteam-update  = March 21, 2019
 }}
 '''Timothy Michael Ream''' (born October 5, 1987) is an American [[association football|soccer]] player who plays for [[Premier League]] club [[Fulham F.C.|Fulham]] and the [[United States men's national soccer team|United States national team]]. A left-footed player traditionally used as a central defender, he also plays left back.
 
@@ -2311,7 +2327,7 @@ In January 2012, Ream married his childhood sweetheart Kristen Sapienza, who is 
 
 ==Career statistics==
 ===Club===
-{{updated|January 12, 2019}}
+{{updated|March 17, 2019}}
 
 Sources:
 *For English clubs:&lt;ref name=sw&gt;{{cite web |url=https://int.soccerway.com/players/tim-ream/124014/ |title=United States – T. Ream |work=Soccerway |publisher=Global Sports Media |accessdate=January 26, 2012}} Figures under Career: Domestic cups tab.&lt;/ref&gt;
@@ -2371,18 +2387,18 @@ Sources:
 |-
 |[[2018–19 Premier League|2018–19]]
 |[[Premier League]]
-|12||0||1||0||2||0||colspan=2|–||0||0||15||0
+|21||0||1||0||2||0||colspan=2|–||0||0||24||0
 |-
-!colspan=2|Total!!119!!2!!6!!0!!7!!0!!0!!0!!5!!0!!137!!2
+!colspan=2|Total!!128!!2!!6!!0!!7!!0!!0!!0!!5!!0!!146!!2
 |-
 !colspan=3|Career total
-!291!!3!!15!!0!!17!!0!!0!!0!!5!!0!!328!!3
+!300!!3!!15!!0!!17!!0!!0!!0!!5!!0!!337!!3
 |}
 
 &lt;references group="nb" /&gt;
 
 ===International===
-{{updated|June 3, 2017}}&lt;ref name=sw/&gt;
+{{updated|March 21, 2019}}&lt;ref name=sw/&gt;
 
 ====U.S. national team appearances====
 {| class="wikitable" style="text-align: center"
@@ -2405,7 +2421,11 @@ Sources:
 |-
 |2017||5||0
 |-
-!Total||26||1
+|2018||0||0
+|-
+|2019||1||0
+|-
+!Total||27||1
 |}
 
 ====International goals====
@@ -2485,7 +2505,7 @@ Sources:
 [[Category:New York Red Bulls draft picks]]
 [[Category:Sportspeople from St. Louis]]
 [[Category:Association football defenders]]</text>
-      <sha1>kn35rbasoc5q06lsxz7erximcmjdfz2</sha1>
+      <sha1>b11ylwz46a9bxy4yrwwb1oeehhfdbx2</sha1>
     </revision>
   </page>
   <page>
@@ -2851,16 +2871,17 @@ Schürrle was born in [[Ludwigshafen]], [[Rhineland-Palatinate]] to Luise&lt;ref
     <ns>0</ns>
     <id>11718710</id>
     <revision>
-      <id>884620403</id>
-      <parentid>881757958</parentid>
-      <timestamp>2019-02-22T20:51:22Z</timestamp>
+      <id>888928422</id>
+      <parentid>888928401</parentid>
+      <timestamp>2019-03-22T08:32:31Z</timestamp>
       <contributor>
-        <username>Anwegmann</username>
-        <id>1384218</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="23212">{{lead too short|date=May 2016}}
+      <text xml:space="preserve" bytes="23570">{{lead too short|date=May 2016}}
 {{Use dmy dates|date=October 2012}}
 {{Infobox football biography
 | name                = Håvard Nordtveit
@@ -2922,7 +2943,7 @@ Schürrle was born in [[Ludwigshafen]], [[Rhineland-Palatinate]] to Luise&lt;ref
 |goals8 = 0
 |years9 = 2019–
 |clubs9 = → [[Fulham F.C.|Fulham]] (loan)
-|caps9 = 1
+|caps9 = 4
 |goals9 = 0
 |nationalyears3 = 2007–2008 
 |nationalteam3 = Norway U18 
@@ -2940,7 +2961,7 @@ Schürrle was born in [[Ludwigshafen]], [[Rhineland-Palatinate]] to Luise&lt;ref
 |nationalteam6 = [[Norway national football team|Norway]] 
 |nationalcaps6 = 45
 |nationalgoals6 = 2
-| club-update = 20:51, 22 February 2019 (UTC)
+| club-update = 08:32, 22 March 2019 (UTC)
 | nationalteam-update = 19 November 2018
 }}
 
@@ -2983,6 +3004,10 @@ On 16 May 2016, it was announced that Nordtveit would be joining [[West Ham Unit
 ===Hoffenheim===
 On 20 June 2017, West Ham announced that Nordtveit had signed for German side [[TSG Hoffenheim|1899 Hoffenheim]], for an undisclosed fee.&lt;ref&gt;{{cite news|url=http://www.whufc.com/news/articles/2017/june/20-june/havard-nordtveit-signs-hoffenheim|title=Havard Nordtveit signs for Hoffenheim|date=20 June 2017|accessdate=20 June 2017|publisher=West Ham United}}&lt;/ref&gt;
 
+===Fulham===
+On 31 January 2019, Nordtveit join [[Fulham F.C.|Fulham]] on loan until 30 June 2019.
+&lt;ref&gt;http://www.fulhamfc.com/news/2019/january/31/havard-nordtveit-joins-fulham-on-loan&lt;/ref&gt;
+
 ==International career==
 Nordtveit was a regular for the Norway U-17 in qualifying and they barely missed out on a place at the [[2007 UEFA European Under-17 Football Championship|2007 European Championships]].  After that he was promoted to the U-19 squad and was ever-present during the [[2009 UEFA European Under-19 Football Championship qualification|2009 European Championship qualifying]], scoring twice, but once again Norway did not make it past the [[2009 UEFA European Under-19 Football Championship elite qualification|elite qualification stage]]. He has been a regular for the [[Norway national under-21 football team|U-21]] team in the [[2011 UEFA European Under-21 Football Championship qualification Group 7|2011 European Championship]] qualifying campaign.&lt;ref&gt;{{cite news|title=U21-TROPP TIL EM-KVALIK I SERBIA |publisher=[[Football Association of Norway|fotball.no]] |url=http://www.fotball.no/Landslag_og_toppfotball/Landslag/Aldersbestemt_gutter/U20/2009/U21-tropp-til-EM-kvalik-i-Serbia/ |date=2 November 2009 |language=Norwegian |deadurl=yes |archiveurl=https://archive.is/20120802114729/http://www.fotball.no/Landslag_og_toppfotball/Landslag/Aldersbestemt_gutter/U20/2009/U21-tropp-til-EM-kvalik-i-Serbia/ |archivedate=2 August 2012 |df=dmy-all }}&lt;/ref&gt; He made his first international appearance on 7 June 2011, in a friendly game against [[Lithuania national football team|Lithuania]]. Nordtveit scored his first goal for the national team when he scored Norway's first goal in the friendly match against [[Northern Ireland national football team|Northern Ireland]] on 29 February 2012, which Norway won 3–0.&lt;ref name="northern ireland"&gt;{{cite web |url=http://www.tv2.no/sport/fotball/landslag/sterk-sluttspurt-sikret-norgeseier-3721276.html |language=Norwegian |title=Sterk sluttspurt sikret Norge-seier |work=tv2.no |publisher=[[TV 2 (Norway)|TV 2]] |date=29 February 2012 |accessdate=29 February 2012}}&lt;/ref&gt; Nordtveit later became a regular in the senior squad, but in October 2012 he was suspended from playing the [[2014 FIFA World Cup qualification]] match against [[Cyprus national football team|Cyprus]] due to yellow cards.&lt;ref&gt;{{cite news |url=http://www.vg.no/sport/fotball/norsk/landslaget/artikkel.php?artid=10062288 |language=Norwegian |title=Nordtveit klar for U21-landskamp mot Frankrike |publisher=Verdens Gang |first=Øyvind |last=Askeland |first2=Sindre |last2=Øgar |date=15 October 2012 |accessdate=16 November 2012}}&lt;/ref&gt; Nordtveit was instead called up for the under-21 side where he played an important role in the 5–3 win against [[France national under-21 football team|France U21]] when Norway qualified for the [[2013 UEFA European Under-21 Football Championship]].&lt;ref&gt;{{cite news |url=http://www.vg.no/sport/fotball/norsk/landslaget/artikkel.php?artid=10062475 |language=Norwegian |title=Nordtveit trodde EM røk da Frankrike reduserte |publisher=Verdens Gang |first=Øyvind |last=Askeland |date=17 October 2012 |accessdate=16 November 2012}}&lt;/ref&gt;
 
@@ -2997,7 +3022,7 @@ Nordtveit was a regular for the Norway U-17 in qualifying and they barely missed
 |}
 
 ==Career statistics==
-{{updated|match played 1 December 2018}} &lt;ref&gt;{{soccerway|havard-nordtveit/16087|accessdate=16 October 2017}}&lt;/ref&gt;
+{{updated|match played 9 March 2019}} &lt;ref&gt;{{soccerway|havard-nordtveit/16087|accessdate=16 October 2017}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -3096,13 +3121,18 @@ Nordtveit was a regular for the Norway U-17 in qualifying and they barely missed
 |15||0||1||0||0||0||7&lt;ref group=lower-alpha&gt;Two appearances in the [[UEFA Champions League|Champions League]] and five in the [[UEFA Europa League|Europa League]]&lt;/ref&gt;||0||23||0
 |-
 |[[2018–19 TSG 1899 Hoffenheim season|2018–19]]
-|8||0||0||0||0||0||0||0||8||0
+|8||0||0||0||0||0||3&lt;ref group=lower-alpha name="UCL"/&gt;||1||11||1
 |-
 !colspan="2"|Hoffenheim total
-!23!!0!!1!!0!!0!!0!!7!!0!!31!!0
+!23!!0!!1!!0!!0!!0!!10!!1!!34!!1
+|-
+|[[Fulham F.C.|Fulham]] (loan)
+|[[2018-19 Fulham F.C. season|2018–19]]
+|Premier League
+|4||0||0||0||0||0||colspan="2"|–||4||0
 |-
 !colspan="3"|Career total
-!241!!10!!19!!2!!1!!0!!30!!1!!289!!13
+!245!!10!!19!!2!!1!!0!!33!!2!!296!!14
 |}
 
 {{reflist|group=lower-alpha}}
@@ -3141,7 +3171,7 @@ Nordtveit was a regular for the Norway U-17 in qualifying and they barely missed
 [[Category:Expatriate footballers in Germany]]
 [[Category:TSG 1899 Hoffenheim players]]
 [[Category:Fulham F.C. players]]</text>
-      <sha1>f70o3c8wp1eflh5ihmkuh57au4kuoux</sha1>
+      <sha1>6hjasbxns6gpbc0u3srh7plsuvprpc6</sha1>
     </revision>
   </page>
   <page>
@@ -3149,21 +3179,21 @@ Nordtveit was a regular for the Norway U-17 in qualifying and they barely missed
     <ns>0</ns>
     <id>33651108</id>
     <revision>
-      <id>885992612</id>
-      <parentid>885968297</parentid>
-      <timestamp>2019-03-03T17:23:53Z</timestamp>
+      <id>888928710</id>
+      <parentid>888928683</parentid>
+      <timestamp>2019-03-22T08:36:29Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Reverted 1 edit by [[Special:Contributions/2601:585:8000:3F36:8D0F:52F5:AD56:CEE4|2601:585:8000:3F36:8D0F:52F5:AD56:CEE4]] ([[User talk:2601:585:8000:3F36:8D0F:52F5:AD56:CEE4|talk]]): Unsourced ([[WP:TW|TW]])</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="16647">{{Infobox football biography
+      <text xml:space="preserve" bytes="16991">{{Infobox football biography
 | name = Luciano Vietto
-| image =
-| caption = 
-| fullname = Luciano Darío Vietto&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/844127 |title=2018/19 Premier League squads confirmed |publisher=Premier League |date=3 September 2018 |accessdate=4 September 2018}}&lt;/ref&gt;
+| image = Luciano Vietto cropped.JPG
+| caption = Vietto with [[Villarreal CF|Villarreal]] in 2015
+|fullname = Luciano Darío Vietto&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/844127 |title=2018/19 Premier League squads confirmed |publisher=Premier League |date=3 September 2018 |accessdate=4 September 2018}}&lt;/ref&gt;
 | birth_date = {{birth date and age|1993|12|5|df=y}}
 | birth_place = Balnearia, Argentina
 | height = 1.74 m
@@ -3198,15 +3228,16 @@ Nordtveit was a regular for the Norway U-17 in qualifying and they barely missed
 | goals5 = 2
 | years6 = 2018–
 | clubs6 = → [[Fulham F.C.|Fulham]] (loan)
-| caps6 = 17
+| caps6 = 20
 | goals6 = 1
 | nationalteam1 = [[Argentina national under-20 football team|Argentina U20]]
 | nationalyears1 = 2013
 | nationalcaps1 = 4
 | nationalgoals1 = 2
-| club-update = 08:57, 10 February 2019 (UTC)
+| club-update = 08:36, 22 March 2019 (UTC)
 | ntupdate = 19 February 2013
 }}
+
 '''Luciano Darío Vietto''' ({{IPA-es|luˈsjano ðaˈɾi.o ˈβjeto|am}};{{efn-ua|In isolation, ''Darío'' and ''Vietto'' are pronounced {{IPA-es|daˈɾi.o|}} and {{IPA-es|ˈbjeto|}} respectively.}} born 5 December 1993) is an [[Argentina|Argentine]] professional [[Association football|footballer]] who plays for [[Premier League]] side [[Fulham F.C.|Fulham]], on loan from [[Atletico Madrid]].
 
 ==Club career==
@@ -3249,7 +3280,7 @@ On 9 August 2018 he joined English Premier League club Fulham on a season long l
 On 9 January 2013, Vietto made his international debut for the [[Argentina national under-20 football team|Argentina national under-20 team]] against [[Chile national under-20 football team|Chile]] at [[2013 South American Youth Championship|the year]]'s [[South American Youth Championship]].&lt;ref&gt;{{cite web|url=http://www.espnfc.com/gamecast/358963/gamecast.html|title=Argentina U20 v Chile U20|publisher=ESPN FC|date=9 January 2013|accessdate=8 August 2014}}&lt;/ref&gt; He scored his first goal four days later, but in a 1–2 loss against [[Paraguay national under-20 football team|Paraguay]], and finished the tournament with two goals in four games.
 
 ==Career statistics==
-{{Updated|match played 29 January 2019|&lt;ref&gt;[http://www.espnfc.us/player/168277/luciano-vietto]&lt;/ref&gt;}}
+{{Updated|match played 9 March 2019|&lt;ref&gt;[http://www.espnfc.us/player/168277/luciano-vietto]&lt;/ref&gt;}}
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -3258,6 +3289,7 @@ On 9 January 2013, Vietto made his international debut for the [[Argentina natio
 !rowspan=2|Season
 !colspan=3|League
 !colspan=2|National Cup
+!colspan=2|League Cup
 !colspan=2|Continental
 !colspan=2|Total
 |-
@@ -3266,69 +3298,70 @@ On 9 January 2013, Vietto made his international debut for the [[Argentina natio
 !width=40|Apps!!width=40|Goals
 !width=40|Apps!!width=40|Goals
 !width=40|Apps!!width=40|Goals
+!width=40|Apps!!width=40|Goals
 |-
 |rowspan=4|[[Racing Club de Avellaneda|Racing Club]]
 |[[2011–12 Argentine Primera División season|2011–12]]
 |[[Argentine Primera División|Primera División]]
-|2||0||1||0||colspan=2|—||3||0
+|2||0||1||0||colspan=2|—||colspan=2|—||3||0
 |-
 |[[2012–13 Argentine Primera División season|2012–13]]
 |Primera División
-|32||13||1||0||1||0||34||13
+|32||13||1||0||colspan=2|—||1||0||34||13
 |-
 |[[2013–14 Argentine Primera División season|2013–14]]
 |Primera División
-|35||5||0||0||1||0||36||5
+|35||5||0||0||colspan=2|—||1||0||36||5
 |-
 !colspan=2|Total
-!69!!18!!2!!0!!2!!0!!73!!18
+!69!!18!!2!!0!!colspan=2|—!!2!!0!!73!!18
 |-
 |rowspan=2|[[Villarreal CF|Villarreal]]
 |[[2014–15 Villarreal CF season|2014–15]]
 |[[La Liga]]
-|32||12||4||0||12||8||48||20
+|32||12||4||0||colspan=2|—||12||8||48||20
 |-
 !colspan=2|Total
-!32!!12!!4!!0!!12!!8!!48!!20
+!32!!12!!4!!0!!colspan=2|—!!12!!8!!48!!20
 |-
 |rowspan=3|[[Atlético Madrid]]
 |[[2015–16 Atlético Madrid season|2015–16]]
 |La Liga
-|19||1||4||1||5||1||28||3
+|19||1||4||1||colspan=2|—||5||1||28||3
 |-
 |[[2017–18 Atlético Madrid season|2017–18]]
 |La Liga
-|6||0||2||1||2||0||10||1
+|6||0||2||1||colspan=2|—||2||0||10||1
 |-
 !colspan=2|Total
-!25!!1!!6!!2!!7!!1!!38!!4
+!25!!1!!6!!2!!colspan=2|—!!7!!1!!38!!4
 |-
 |rowspan=2|[[Sevilla FC|Sevilla]] (loan)
 |[[2016–17 Sevilla FC season|2016–17]]
 |La Liga
-|21||6||5||3||5||1||31||10
+|21||6||5||3||colspan=2|—||5||1||31||10
 |-
 !colspan=2|Total
-!21!!6!!5!!3!!5!!1!!31!!10
+!21!!6!!5!!3!!colspan=2|—!!5!!1!!31!!10
 |-
 |rowspan=2|[[Valencia CF|Valencia]] (loan)
 |[[2017–18 Valencia CF season|2017–18]]
 |La Liga
-|13||2||5||3||colspan=2|–||18||5
+|13||2||5||3||colspan=2|—||colspan=2|–||18||5
 |-
 !colspan=2|Total
-!13!!2!!5!!3!!colspan=2|–!!18!!5
+!13!!2!!5!!3!!colspan=2|—!!colspan=2|—!!18!!5
 |-
 |rowspan="2"|[[Fulham FC|Fulham]] (loan)
 |[[2018–19 Premier League|2018–19]]
 |rowspan="1"|[[Premier League]]
-|15||1||1||0||colspan=2|–|||16||1
+|20||1||1||0||1||0||colspan=2|–|||22||1
 |-
 !colspan="2"|Total
-!15!!1!!1!!0!!colspan=2|–!!16!!1
+!20!!1!!1!!0!!1!!0!!colspan=2|—!!22!!1
 |-
 !colspan="3"|Career total
-!175!!40!!23!!8!!26!!10!!224!!58
+!180!!40!!23!!8!!1!!0!!26!!10!!230!!58
 |}
 {{notelist}}
 
@@ -3349,7 +3382,7 @@ On 9 January 2013, Vietto made his international debut for the [[Argentina natio
 
 ==External links==
 * {{BDFutbol|18153}}
-* {{ESPN FC|168277/luciano-vietto}}
+* {{ESPN FC|168277&lt;!-- /luciano-vietto --&gt;}}
 * {{Soccerway|luciano-vietto/215145}}
 * [http://thetopforward.com/view?id=57 Luciano Vietto at Topforward]
 
@@ -3376,7 +3409,7 @@ On 9 January 2013, Vietto made his international debut for the [[Argentina natio
 [[Category:Expatriate footballers in Spain]]
 [[Category:Fulham F.C. players]]
 [[Category:Premier League players]]</text>
-      <sha1>rv5qy8k1s672jjt5rko9db5jo9nn3pc</sha1>
+      <sha1>bj9gqtev2ipan90ri23r945azkw6c3m</sha1>
     </revision>
   </page>
   <page>
@@ -3384,17 +3417,17 @@ On 9 January 2013, Vietto made his international debut for the [[Argentina natio
     <ns>0</ns>
     <id>24314931</id>
     <revision>
-      <id>882614579</id>
-      <parentid>881512005</parentid>
-      <timestamp>2019-02-10T08:59:08Z</timestamp>
+      <id>888928807</id>
+      <parentid>888662871</parentid>
+      <timestamp>2019-03-22T08:37:31Z</timestamp>
       <contributor>
-        <username>Mighty platypus</username>
-        <id>34602910</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Updated appearances</comment>
+      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="8676">{{Use dmy dates|date=December 2018}}
+      <text xml:space="preserve" bytes="8715">{{Use dmy dates|date=December 2018}}
 {{Infobox football biography
 | name = Maxime Le Marchand
 | image = Chelsea 2 Fulham 0 (Maxime Le Marchand).jpg
@@ -3461,7 +3494,7 @@ On 12 July 2018, Le Marchand signed for newly promoted [[Premier League]] side [
 
 ==Career statistics==
 ===Club===
-{{updated|12 January 2019}}&lt;ref&gt;{{Soccerway|yoan-cardinale/247908}}&lt;/ref&gt;
+{{updated|9 February 2019}}&lt;ref&gt;{{Soccerway|yoan-cardinale/247908}}&lt;/ref&gt;
 {| class="wikitable" style="text-align: center;"
 |-
 !rowspan="2"|Club
@@ -3515,13 +3548,13 @@ On 12 July 2018, Le Marchand signed for newly promoted [[Premier League]] side [
 |rowspan="2"|[[Fulham F.C.|Fulham]]
 |[[2018–19 Premier League|2018–19]]
 |rowspan="1"|[[Premier League]]
-|15||0||1||0||2||0||0||0||0||0|||18||0
+|19||0||1||0||2||0||0||0||0||0|||22||0
 |-
 !colspan="2"|Total
-!15!!0!!1!!0!!2!!0!!0!!0!!0!!0!!18!!0
+!19!!0!!1!!0!!2!!0!!0!!0!!0!!0!!22!!0
 |-
 !colspan="3"|Career total
-!241!!6!!9!!0!!11!!0!!9!!1!!0!!0!!270!!7
+!245!!6!!9!!0!!11!!0!!9!!1!!0!!0!!274!!7
 |}
 
 * 1.{{note|a}}Includes [[Coupe de France]].
@@ -3553,8 +3586,9 @@ On 12 July 2018, Le Marchand signed for newly promoted [[Premier League]] side [
 [[Category:Premier League players]]
 [[Category:French expatriate footballers]]
 [[Category:Expatriate footballers in England]]
-[[Category:French expatriate sportspeople in England]]</text>
-      <sha1>76s6vfmmzftucyvts79u8m98qnrhrao</sha1>
+[[Category:French expatriate sportspeople in England]]
+[[Category:Footballers from Brittany]]</text>
+      <sha1>6wgqhs7c0xf9tzgo0tjv40wedud7cbw</sha1>
     </revision>
   </page>
   <page>
@@ -3562,17 +3596,17 @@ On 12 July 2018, Le Marchand signed for newly promoted [[Premier League]] side [
     <ns>0</ns>
     <id>28324431</id>
     <revision>
-      <id>882614866</id>
-      <parentid>878150821</parentid>
-      <timestamp>2019-02-10T09:02:36Z</timestamp>
+      <id>888929050</id>
+      <parentid>888929028</parentid>
+      <timestamp>2019-03-22T08:40:23Z</timestamp>
       <contributor>
-        <username>Mighty platypus</username>
-        <id>34602910</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Updated appearances</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="20719">{{Use British English|date=November 2017}}
+      <text xml:space="preserve" bytes="20714">{{Use British English|date=November 2017}}
 {{Use dmy dates|date=November 2017}}
 {{Infobox football biography
 | name = Cyrus Christie 
@@ -3593,12 +3627,12 @@ On 12 July 2018, Le Marchand signed for newly promoted [[Premier League]] side [
 | years3 = 2011      | clubs3 = → [[Hinckley United F.C.|Hinckley United]] (loan) | caps3 = 8   | goals3 = 0
 | years4 = 2014–2017 | clubs4 = [[Derby County F.C.|Derby County]]                | caps4 = 107 | goals4 = 2
 | years5 = 2017–2018 | clubs5 = [[Middlesbrough F.C.|Middlesbrough]]              | caps5 = 25  | goals5 = 1
-| years6 = 2018–     | clubs6 = [[Fulham F.C.|Fulham]]                            | caps6 = 25  | goals6 = 0
+| years6 = 2018–     | clubs6 = [[Fulham F.C.|Fulham]]                            | caps6 = 26  | goals6 = 0
 | nationalyears1 = 2014–
 | nationalteam1  = [[Republic of Ireland national football team|Republic of Ireland]]
 | nationalcaps1  = 22
 | nationalgoals1 = 2
-| club-update         = 09:02, 10 February 2019 (UTC)
+| club-update         = 08:40, 22 March 2019 (UTC)
 | nationalteam-update = 03:22, 19 November 2018 (UTC)
 }}
 '''Cyrus Sylvester Frederick Christie''' (born 30 September 1992) is a professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Premier League]] club [[Fulham F.C.|Fulham]] and the [[Republic of Ireland national football team|Republic of Ireland national team]].
@@ -3646,7 +3680,7 @@ Christie scored an [[own goal]] on 14 November 2017 as the Irish lost 5–1 at h
 
 ==Career statistics==
 ===Club===
-{{updated|match played 12 January 2019}}
+{{updated|match played 17 March 2019}}
 
 {| class=wikitable style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -3719,13 +3753,13 @@ Christie scored an [[own goal]] on 14 November 2017 as the Irish lost 5–1 at h
 |-
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|55833|2018|accessdate=13 January 2019}}&lt;/ref&gt;
 |[[Premier League]]
-|16||0||0||0||3||0||0||0||19||0
+|21||0||0||0||3||1||0||0||24||1
 |-
 !colspan=2|Total
-!21||0||0||0||3||0||1||0||25||0
+!26||0||0||0||3||1||1||0||30||1
 |-
 !colspan=3|Career total
-!268!!6!!11!!1!!13!!0!!8!!0!!300!!7
+!273!!6!!11!!1!!13!!1!!8!!0!!305!!8
 |}
 
 {{notelist}}
@@ -3812,7 +3846,7 @@ Christie scored an [[own goal]] on 14 November 2017 as the Irish lost 5–1 at h
 [[Category:UEFA Euro 2016 players]]
 [[Category:Black English sportspeople]]
 [[Category:English people of Irish descent]]</text>
-      <sha1>fobp3s60h4c56gs7pfgb9dg226iwy92</sha1>
+      <sha1>n50h1yidh9iu40w04mjjer4yhtha4t1</sha1>
     </revision>
   </page>
   <page>
@@ -3820,17 +3854,17 @@ Christie scored an [[own goal]] on 14 November 2017 as the Irish lost 5–1 at h
     <ns>0</ns>
     <id>35016563</id>
     <revision>
-      <id>883902807</id>
-      <parentid>882615059</parentid>
-      <timestamp>2019-02-18T09:43:09Z</timestamp>
+      <id>888929437</id>
+      <parentid>883902807</parentid>
+      <timestamp>2019-03-22T08:44:56Z</timestamp>
       <contributor>
-        <username>InternetArchiveBot</username>
-        <id>27015025</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Rescuing 2 sources and tagging 0 as dead. #IABot (v2.0beta10ehf1) ([[User:Iggy the Swan|Iggy the Swan]])</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="13728">{{EngvarB|date=June 2013}}
+      <text xml:space="preserve" bytes="13831">{{EngvarB|date=June 2013}}
 {{Use dmy dates|date=June 2013}}
 {{Infobox football biography
 | name = Joe Bryan
@@ -3859,9 +3893,9 @@ Christie scored an [[own goal]] on 14 November 2017 as the Irish lost 5–1 at h
 | goals3 = 1
 |years4 = 2018–
 | clubs4 = [[Fulham F.C.|Fulham]] 
-| caps4 = 16
+| caps4 = 21
 | goals4 = 0
-| club-update = 09:04, 10 February 2019 (UTC)
+| club-update = 08:44, 22 March 2019 (UTC)
 }}
 '''Joseph Edward Bryan''' (born 17 September 1993) is an English professional [[Association football|footballer]] who plays as a [[left-back]] for [[Premier League]] side [[Fulham F.C.|Fulham]]. He is also capable as a left-sided [[midfielder]] and left-sided wing-back. He has also had loan spells with [[Bath City F.C.|Bath City]] and [[Plymouth Argyle F.C.|Plymouth Argyle]]. A product of Bristol City's youth academy, consistently excellent performances on the pitch have led to Bryan being hailed as one of the academy's best success stories.
 
@@ -3889,7 +3923,7 @@ Bryan was selected by the [[Scotland national under-21 football team]] in Octobe
 Bryan's father, Alan, is a cardiac surgeon, specializing in aortic surgery.&lt;ref&gt;{{cite news|last1=White|first1=Jim|authorlink1=Jim White (journalist)|title=Joe Bryan's dad saved my father’s life, reveals grateful Bristol City manager Lee Johnson after famous win against Manchester United|url=https://www.telegraph.co.uk/football/2017/12/21/joe-bryans-dad-saved-fathers-life-reveals-grateful-bristol-city/|accessdate=22 December 2017|work=The Telegraph|date=21 December 2017|location=London}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 12 January 2019}}&lt;ref&gt;{{soccerbase|63310|Joe Bryan}}&lt;/ref&gt;
+{{updated|match played 17 March 2019}}&lt;ref&gt;{{soccerbase|63310|Joe Bryan}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -3904,7 +3938,7 @@ Bryan's father, Alan, is a cardiac surgeon, specializing in aortic surgery.&lt;r
 |-
 !Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
 |-
-| rowspan="8" |[[Bristol City F.C.|Bristol City]]
+| rowspan="9" |[[Bristol City F.C.|Bristol City]]
 |[[2011–12 Bristol City F.C. season|2011–12]]&lt;ref name="11/12 appearances"&gt;{{Soccerbase season|63310|2011|name=Joe Bryan|access-date=6 January 2016}}&lt;/ref&gt;
 |[[Football League Championship|Championship]]
 |1||0||0||0||0||0||colspan="2"|—||1||0
@@ -3933,8 +3967,12 @@ Bryan's father, Alan, is a cardiac surgeon, specializing in aortic surgery.&lt;r
 |Championship
 |43||5||0||0||5||2||colspan="2"|—||48||7
 |-
+|[[2018–19 Bristol City F.C. season|2018–19]]
+|Championship
+|1||0||0||0||0||0||colspan="2"|—||1||0
+|-
 !colspan="2"|Total
-!202!!16!!11!!0!!10!!3!!6!!1!!229!!20
+!203!!16!!11!!0!!10!!3!!6!!1!!230!!20
 |-
 |[[Bath City F.C.|Bath City]] (loan)
 |[[2011–12 Football Conference|2011–12]]&lt;ref name="11/12 appearances"/&gt;
@@ -3949,10 +3987,10 @@ Bryan's father, Alan, is a cardiac surgeon, specializing in aortic surgery.&lt;r
 |[[Fulham F.C.|Fulham]]
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref&gt;{{Soccerbase season|63310|2018|name=Joe Bryan|access-date=13 January 2019}}&lt;/ref&gt;
 |[[Premier League]]
-|12||0||0||0||1||0||colspan="2"|—||14||0
+|21||0||0||0||1||1||colspan="2"|—||23||1
 |-
 !colspan="3"|Career total
-!228!!18!!11!!0!!11!!3!!7!!1!!258!!22
+!238!!18!!11!!0!!11!!4!!7!!1!!267!!22
 |}
 
 {{reflist|group=lower-alpha}}
@@ -3989,7 +4027,7 @@ Bryan's father, Alan, is a cardiac surgeon, specializing in aortic surgery.&lt;r
 [[Category:English people of Scottish descent]]
 [[Category:Fulham F.C. players]]
 [[Category:Premier League players]]</text>
-      <sha1>cfgrha56271s6ejjr73arjc2q7t4uxc</sha1>
+      <sha1>r30p0t4khc1gf8i7jygp9870mon8194</sha1>
     </revision>
   </page>
   <page>
@@ -3997,18 +4035,17 @@ Bryan's father, Alan, is a cardiac surgeon, specializing in aortic surgery.&lt;r
     <ns>0</ns>
     <id>25786113</id>
     <revision>
-      <id>885258542</id>
-      <parentid>885115798</parentid>
-      <timestamp>2019-02-26T23:17:56Z</timestamp>
+      <id>888929783</id>
+      <parentid>888929769</parentid>
+      <timestamp>2019-03-22T08:49:47Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <minor/>
-      <comment>Reverted 1 edit by [[Special:Contributions/2600:1017:B411:D472:1925:DD28:1DE2:BA6A|2600:1017:B411:D472:1925:DD28:1DE2:BA6A]] ([[User talk:2600:1017:B411:D472:1925:DD28:1DE2:BA6A|talk]]) to last revision by Cydebot ([[WP:TW|TW]])</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="17048">{{Infobox football biography
+      <text xml:space="preserve" bytes="17029">{{Infobox football biography
 | name = Jean Michaël Seri
 | image = Jean Seri.jpg
 | image_size = 200
@@ -4025,16 +4062,16 @@ Bryan's father, Alan, is a cardiac surgeon, specializing in aortic surgery.&lt;r
 | years2 = 2012–2013 | clubs2 = → [[F.C. Porto B|Porto B]] (loan) | caps2 = 19 | goals2 = 1
 | years3 = 2013–2015 | clubs3 = [[F.C. Paços de Ferreira|Paços de Ferreira]] | caps3 = 54 | goals3 = 2
 | years4 = 2015–2018 | clubs4 = [[OGC Nice|Nice]] | caps4 = 103 | goals4 = 12
-| years5 = 2018– | clubs5 = [[Fulham F.C.|Fulham]] | caps5 = 26 | goals5 = 1
+| years5 = 2018– | clubs5 = [[Fulham F.C.|Fulham]] | caps5 = 29 | goals5 = 1
 | nationalyears1 = 2011 
 | nationalteam1 = [[Ivory Coast national under-23 football team|Ivory Coast U-23]]
 | nationalcaps1 = 3
 | nationalgoals1 = 0
 | nationalyears2 = 2015– 
 | nationalteam2 = [[Ivory Coast national football team|Ivory Coast]]
-| nationalcaps2 = 23
+| nationalcaps2 = 22
 | nationalgoals2 = 2
-| club-update = 21:21, 9 February 2019 (UTC)
+| club-update = 08:47, 22 March 2019 (UTC)
 | nationalteam-update = 13:34, 18 November 2018 (UTC)
 }}
 '''Jean Michaël Seri''' (born 19 July 1991) is an Ivorian professional [[Association football|footballer]] who plays as a [[Midfielder#Central midfielder|central midfielder]] for [[Fulham F.C.|Fulham]] and the [[Ivory Coast national football team|Ivorian national team]].
@@ -4064,7 +4101,7 @@ On 27 February 2014, Seri received his first senior international call up for th
 
 ==Career statistics==
 ===Club===
-{{updated|9 February 2019}}&lt;ref name="JeanSeri at Soccerway" /&gt;
+{{updated|17 March 2019}}&lt;ref name="JeanSeri at Soccerway" /&gt;
 
 [[File:Loc-Nicca (14).jpg|thumb|upright|Seri playing for Nice against [[FC Lokomotiv Moscow]] in 2018]]
 {| class="wikitable" style="text-align: center;"
@@ -4108,13 +4145,13 @@ On 27 February 2014, Seri received his first senior international call up for th
 |rowspan="2"|[[Fulham FC|Fulham]]
 |[[2018–19 Premier League|2018–19]]
 |rowspan="1"|[[Premier League]]
-|22||1||1||0||1||0||0||0||0||0|||24||1
+|29||1||1||0||1||0||0||0||0||0|||31||1
 |-
 !colspan="2"|Total
-!26!!1!!1!!0!!1!!0!!0!!0!!0!!0!!28!!1
+!29!!1!!1!!0!!1!!0!!0!!0!!0!!0!!31!!1
 |-
 !colspan="3"|Career total
-!183!!15!!8!!0!!7!!0!!19!!0!!2!!1!!209!!16
+!186!!15!!8!!0!!7!!0!!19!!0!!2!!1!!216!!16
 |}
 * 1.{{note|a}}Includes [[Coupe de France]] and [[Taça de Portugal]]
 * 2.{{note|a}}Includes [[Coupe de la Ligue]] and [[Taça da Liga]]
@@ -4167,7 +4204,6 @@ Seri is a devout [[Christianity|Christian]].&lt;ref&gt;{{cite web|title=Jean Mic
 ==External links==
 * {{ForaDeJogo}}
 * {{Soccerway}}
-* {{Zerozero}}
 
 {{Fulham F.C. squad}}
 {{Navboxes
@@ -4201,7 +4237,7 @@ Seri is a devout [[Christianity|Christian]].&lt;ref&gt;{{cite web|title=Jean Mic
 [[Category:2017 Africa Cup of Nations players]]
 [[Category:Premier League players]]
 [[Category:Ivorian Christians]]</text>
-      <sha1>9o18becu55lpdxhjfrddrw870yjqlcz</sha1>
+      <sha1>pkey4q4ip3xa1uz6kgq32d44p77g9mf</sha1>
     </revision>
   </page>
   <page>
@@ -4209,9 +4245,9 @@ Seri is a devout [[Christianity|Christian]].&lt;ref&gt;{{cite web|title=Jean Mic
     <ns>0</ns>
     <id>43830652</id>
     <revision>
-      <id>884998454</id>
-      <parentid>884998435</parentid>
-      <timestamp>2019-02-25T09:04:32Z</timestamp>
+      <id>888929854</id>
+      <parentid>884998454</parentid>
+      <timestamp>2019-03-22T08:50:46Z</timestamp>
       <contributor>
         <username>Lubo-Iv-95</username>
         <id>35556849</id>
@@ -4219,7 +4255,7 @@ Seri is a devout [[Christianity|Christian]].&lt;ref&gt;{{cite web|title=Jean Mic
       <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="12524">{{Spanish name|Rico|González}}
+      <text xml:space="preserve" bytes="12518">{{Spanish name|Rico|González}}
 {{Infobox football biography
 | name = Sergio Rico
 | image = Sergio Rico.jpg
@@ -4235,9 +4271,9 @@ Seri is a devout [[Christianity|Christian]].&lt;ref&gt;{{cite web|title=Jean Mic
 | youthyears1 = 2006–2011 | youthclubs1 = [[Sevilla FC|Sevilla]]
 | years1 = 2011–2014 | clubs1 = [[Sevilla Atlético|Sevilla B]] | caps1 = 36 | goals1 = 0
 | years2 = 2014– | clubs2 = [[Sevilla FC|Sevilla]] | caps2 = 114 | goals2 = 0
-| years3 = 2018– | clubs3 = → [[Fulham F.C.|Fulham]] (loan) | caps3 = 18 | goals3 = 0
+| years3 = 2018– | clubs3 = → [[Fulham F.C.|Fulham]] (loan) | caps3 = 22 | goals3 = 0
 | nationalyears1 = 2016– | nationalteam1 = [[Spain national football team|Spain]] | nationalcaps1 = 1 | nationalgoals1 = 0
-| club-update = 09:04, 25 February 2019 (UTC)
+| club-update = 08:50, 22 March 2019 (UTC)
 | nationalteam-update = 1 June 2016
 }}
 '''Sergio Rico González''' ({{IPA-es|ˈseɾxjo ˈriko ɣonˈθaleθ}};{{efn-ua|In isolation, ''González'' is pronounced {{IPA-es|gonˈθaleθ|}}.}} born 1 September 1993) is a Spanish professional [[Association football|footballer]] who plays for English club [[Fulham F.C.|Fulham]] on loan from [[Sevilla FC]] as a [[Goalkeeper (association football)|goalkeeper]].
@@ -4265,7 +4301,7 @@ In December 2016, Rico was given the Sport award at the Young Andalusia Prizes, 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 22 February 2019}}&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/sergio-rico-gonzalez/165184/|title=Sergio Rico|publisher=Soccerway|accessdate=13 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{ESPNsoccernet|169293}}&lt;/ref&gt;
+{{updated|match played 17 March 2019}}&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/sergio-rico-gonzalez/165184/|title=Sergio Rico|publisher=Soccerway|accessdate=13 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{ESPNsoccernet|169293}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center"
 |-
@@ -4303,10 +4339,10 @@ In December 2016, Rico was given the Sport award at the Young Andalusia Prizes, 
 |[[Fulham F.C.|Fulham]] (loan)
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref&gt;{{Soccerbase season|2018|63429|accessdate=13 January 2019}}&lt;/ref&gt;
 |[[Premier League]]
-|18||0||0||0||0||0||3&lt;ref group="lower-alpha"&gt;Three appearance in [[EFL Cup|Carabao Cup]]&lt;/ref&gt;||0||21||0
+|22||0||0||0||0||0||3&lt;ref group="lower-alpha"&gt;Three appearance in [[EFL Cup|Carabao Cup]]&lt;/ref&gt;||0||25||0
 |-
 !colspan=3|Career total
-!132!!0!!17!!0!!36!!0!!6!!0!!191!!0
+!136!!0!!17!!0!!36!!0!!6!!0!!195!!0
 |}
 
 {{Reflist|group=lower-alpha}}
@@ -4349,7 +4385,7 @@ In December 2016, Rico was given the Sport award at the Young Andalusia Prizes, 
 [[Category:Spanish expatriate footballers]]
 [[Category:Expatriate footballers in England]]
 [[Category:UEFA Europa League winning players]]</text>
-      <sha1>g39kzxypfeu97nd6r8arod2wgdof0rz</sha1>
+      <sha1>s47t0kwtztliao3kgwgj4someqv0jkf</sha1>
     </revision>
   </page>
   <page>
@@ -4357,17 +4393,17 @@ In December 2016, Rico was given the Sport award at the Young Andalusia Prizes, 
     <ns>0</ns>
     <id>40380717</id>
     <revision>
-      <id>877296742</id>
-      <parentid>873013321</parentid>
-      <timestamp>2019-01-07T20:20:27Z</timestamp>
+      <id>888929908</id>
+      <parentid>877296742</parentid>
+      <timestamp>2019-03-22T08:51:39Z</timestamp>
       <contributor>
-        <username>Liverpool445</username>
-        <id>12320474</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <minor/>
+      <comment>/* Career statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="37123">{{Use British English|date=March 2018}}
+      <text xml:space="preserve" bytes="37125">{{Use British English|date=March 2018}}
 {{Use dmy dates|date=March 2018}}
 {{Infobox football biography
 | name                = Alfie Mawson
@@ -4483,7 +4519,7 @@ Mawson played six times and scored one goal for the [[England national under-21 
 On 15 March 2018, Mawson was named for the first time in the [[England national football team|England]] squad for pre-[[2018 FIFA World Cup]] friendlies against the [[Netherlands national football team|Netherlands]] and [[Italy national football team|Italy]] in March.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/43344416 |title=England call-ups for uncapped quartet as Jack Wilshere earns recall |publisher=BBC Sport |date=15 March 2018 |accessdate=15 March 2018}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 8 December 2018}}
+{{updated|match played 29 December 2018}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -4568,10 +4604,10 @@ On 15 March 2018, Mawson was named for the first time in the [[England national 
 |[[Fulham F.C.|Fulham]]
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|72075|2018|accessdate=10 December 2018}}&lt;/ref&gt;
 |Premier League
-|9||0||0||0||1||0||colspan=2|—||10||0
+|13||0||0||0||1||0||colspan=2|—||14||0
 |-
 !colspan=3|Career total
-!190||21||4||0||9||1||17||2||220||24
+!194||21||4||0||9||1||17||2||224||24
 |}
 
 {{notelist}}
@@ -4616,7 +4652,7 @@ On 15 March 2018, Mawson was named for the first time in the [[England national 
 [[Category:National League (English football) players]]
 [[Category:English Football League players]]
 [[Category:Premier League players]]</text>
-      <sha1>9mpvk7bbsfz8d2nfbzgspbyrc0dzye2</sha1>
+      <sha1>3xfen8gsadmaduutthiaxwvxd45br0l</sha1>
     </revision>
   </page>
   <page>
@@ -4624,16 +4660,17 @@ On 15 March 2018, Mawson was named for the first time in the [[England national 
     <ns>0</ns>
     <id>31987362</id>
     <revision>
-      <id>884620329</id>
-      <parentid>881753416</parentid>
-      <timestamp>2019-02-22T20:50:48Z</timestamp>
+      <id>888930233</id>
+      <parentid>887008120</parentid>
+      <timestamp>2019-03-22T08:56:13Z</timestamp>
       <contributor>
-        <username>Anwegmann</username>
-        <id>1384218</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
+      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="32079">{{Use dmy dates|date=April 2017}}
+      <text xml:space="preserve" bytes="32305">{{Use dmy dates|date=April 2017}}
 {{Infobox football biography
 | name           = Lazar Marković
 | image          = Lazar Markovic in Bangkok (19714140242).jpg
@@ -4756,7 +4793,7 @@ Marković's older brother, [[Filip Marković|Filip]], is also a footballer. An [
 ===Club===
 [[File:Lazar Marković 2017-02-11 1.jpg|thumb|upright|Marković playing for [[Hull City A.F.C.|Hull City]] in 2017]]
 
-{{updated|10 May 2018}}&lt;ref&gt;{{cite web |url=https://int.soccerway.com/players/lazar-markovic/189118/ |title=L. Marković |website=Soccerway |accessdate=21 December 2014}}&lt;/ref&gt;
+{{updated|9 March 2019}}&lt;ref&gt;{{cite web |url=https://int.soccerway.com/players/lazar-markovic/189118/ |title=L. Marković |website=Soccerway |accessdate=21 December 2014}}&lt;/ref&gt;
 
 {| class=wikitable style="text-align: center"
 |-
@@ -4796,9 +4833,15 @@ Marković's older brother, [[Filip Marković|Filip]], is also a footballer. An [
 |[[2013–14 Primeira Liga|2013–14]]
 |26||5||6||1||4||0||13||1||49||7
 |-
-|[[Liverpool F.C.|Liverpool]]
+|rowspan="3"|[[Liverpool F.C.|Liverpool]]
 |[[2014–15 Premier League|2014–15]]
 |19||2||6||0||5||1||4||0||34||3
+|-
+|[[2018–19 Premier League|2018–19]]
+|0||0||0||0||0||0||0||0||0||0
+|-
+!Total
+!19!!2!!6!!0!!2!!1!!4!!0!!34!!3
 |-
 |[[Fenerbahçe S.K. (football)|Fenerbahçe]] (loan)
 |[[2015–16 Süper Lig|2015–16]]
@@ -4833,8 +4876,13 @@ Marković's older brother, [[Filip Marković|Filip]], is also a footballer. An [
 |8
 |1
 |-
+|[[Fulham F.C.|Fulham]]
+|[[2018–19 Premier League|2018–19]]
+|1||0||0||0||0||0||0||0||1||0
+|-
 ! colspan="2" |Career total
-!131!!24!!22!!4!!11!!1!!40!!2!!204!!31
+!132!!24!!22!!4!!11!!1!!40!!2!!205!!31
+
 |}
 
 ===International===
@@ -4939,7 +4987,7 @@ Marković's older brother, [[Filip Marković|Filip]], is also a footballer. An [
 [[Category:Serbian expatriate sportspeople in Turkey]]
 [[Category:Expatriate footballers in Belgium]]
 [[Category:Fulham F.C. players]]</text>
-      <sha1>samcp3kkixc3eg5xc6tbbw1if1btzuy</sha1>
+      <sha1>1ij1pbzk2dg2nxzpcu1h0ezhq67o46t</sha1>
     </revision>
   </page>
   <page>
@@ -5151,17 +5199,17 @@ A former [[Spain national youth football team|youth international]] for [[Spain 
     <ns>0</ns>
     <id>36753705</id>
     <revision>
-      <id>882615759</id>
-      <parentid>878700326</parentid>
-      <timestamp>2019-02-10T09:12:08Z</timestamp>
+      <id>888930472</id>
+      <parentid>882615759</parentid>
+      <timestamp>2019-03-22T08:59:46Z</timestamp>
       <contributor>
-        <username>Mighty platypus</username>
-        <id>34602910</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Updated appearances</comment>
+      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="7881">{{Infobox football biography
+      <text xml:space="preserve" bytes="8053">{{Infobox football biography
 | name          = Ibrahima Cissé
 | image          = 
 | fullname = Ibrahima Cissé&lt;ref&gt;{{cite web |url=https://www.efl.com/siteassets/efl-documents/efl-professional-retain-list--free-transfers---2017-18.pdf |title=Club list of registered players: As at 19th May 2018: Fulham |publisher=English Football League |format=PDF |page=16 |accessdate=17 June 2018}}&lt;/ref&gt;
@@ -5212,7 +5260,7 @@ On 25 April 2018, Cissé accepted an invitation to represent the [[Guinea nation
 
 ==Career statistics==
 ===Club===
-{{Updated|match played 29 September 2017}}
+{{Updated|match played 20 January 2019}}
 
 {|class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -5263,13 +5311,20 @@ On 25 April 2018, Cissé accepted an invitation to represent the [[Guinea nation
 |[[Belgian First Division A]]
 |17||0||1||0||~||~||3&lt;ref group=lower-alpha name="UEL"/&gt;||1||6&lt;ref group=lower-alpha name="ELPO&amp;SC"&gt;Five appearances in the First Division A Europa League play-offs and one in the [[Belgian Super Cup]]&lt;/ref&gt;||0||27||1
 |-
-|[[Fulham F.C.|Fulham]]
+|rowspan="3"|[[Fulham F.C.|Fulham]]
 |[[2017–18 Fulham F.C. season|2017–18]]&lt;ref name="IC17"&gt;{{soccerbase season|63473|2017|accessdate=27 July 2017}}&lt;/ref&gt;
 |[[EFL Championship|Championship]]
-|5||0||0||0||2||0||~||~||0||0||7||0
+|6||0||0||0||2||0||~||~||0||0||8||0
+|-
+|[[2018–19 Fulham F.C. season|2018–19]]
+|[[Premier League]]
+|3||0||1||0||1||0||~||~||0||0||5||0
+|-
+!colspan="2"|Total
+!9!!0!!1!!0!!3!!0!!0!!0!!0!!0!!13!!0
 |-
 !colspan="3"|Career total
-!104!!2!!5!!0!!2!!0!!11!!1!!6!!0!!128!!3
+!108!!2!!6!!0!!3!!0!!11!!1!!6!!0!!134!!3
 |}
 
 {{reflist|group=lower-alpha}}
@@ -5318,7 +5373,7 @@ On 25 April 2018, Cissé accepted an invitation to represent the [[Guinea nation
 
 {{Belgium-footy-defender-stub}}
 {{Guinea-footy-bio-stub}}</text>
-      <sha1>ljivixp4t6ouz9v5ou54nr9fkhhk3no</sha1>
+      <sha1>dixqn288k0bkjlb4vtj7d39k1kqrodl</sha1>
     </revision>
   </page>
   <page>
@@ -5326,16 +5381,16 @@ On 25 April 2018, Cissé accepted an invitation to represent the [[Guinea nation
     <ns>0</ns>
     <id>37487863</id>
     <revision>
-      <id>885848868</id>
-      <parentid>885369840</parentid>
-      <timestamp>2019-03-02T19:02:37Z</timestamp>
+      <id>887625045</id>
+      <parentid>887624139</parentid>
+      <timestamp>2019-03-13T20:27:31Z</timestamp>
       <contributor>
-        <ip>178.164.96.242</ip>
+        <ip>2A02:C7D:2D45:B700:80B7:3EC6:95AB:D237</ip>
       </contributor>
-      <comment>/* Career statistics */</comment>
+      <comment>Update on apperances</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="21298">{{other uses|Stefan Johansson (disambiguation)}}
+      <text xml:space="preserve" bytes="21224">{{other uses|Stefan Johansson (disambiguation)}}
 {{Use dmy dates|date=August 2018}}
 {{Infobox football biography
 | name = Stefan Johansen
@@ -5343,63 +5398,63 @@ On 25 April 2018, Cissé accepted an invitation to represent the [[Guinea nation
 | image_size = 200
 | caption = Johansen playing for [[Fulham F.C.|Fulham]] in 2017
 | fullname = Stefan Marius Johansen&lt;ref&gt;{{cite web |url=https://www.efl.com/siteassets/efl-documents/efl-released-and-retained-list---2016-17.pdf |title=Club list of registered players: As at 20th May 2017 |publisher=English Football League |format=PDF |page=18 |accessdate=15 May 2018}}&lt;/ref&gt;
-| birth_date  = {{birth date and age|1991|1|8|df=y}}
+| birth_date = {{birth date and age|1991|1|8|df=y}}
 | birth_place = [[Vardø]], Norway
 | height = 1.82 m&lt;ref name="altomfotball"/&gt;
 | position = [[Midfielder#Central midfielder|Central midfielder]]
-| currentclub  = [[West Bromwich Albion F.C.|West Bromwich Albion]] (on loan from [[Fulham F.C.|Fulham]])
+| currentclub = [[West Bromwich Albion F.C.|West Bromwich Albion]] (on loan from [[Fulham F.C.|Fulham]])
 | clubnumber = 6
 | youthyears1 = {{0|0000}}–2004
 | youthclubs1 = Vardø
 | youthyears2 = 2005–2006
 | youthclubs2 = [[FK Bodø/Glimt|Bodø/Glimt]]
-| years1      = 2007–2010
-| clubs1      = [[FK Bodø/Glimt|Bodø/Glimt]]
-| caps1       = 29
-| goals1      = 0
-| years2      = 2011–2014
-| clubs2      = [[Strømsgodset Toppfotball|Strømsgodset]]
-| caps2       = 67
-| goals2      = 8
-| years3      = 2014–2016
-| clubs3      = [[Celtic F.C.|Celtic]]
-| caps3       = 73
-| goals3      = 12
-| years4      = 2016–
-| clubs4      = [[Fulham F.C.|Fulham]]
-| caps4       = 92
-| goals4      = 19
-| years5      = 2019–
-| clubs5      = → [[West Bromwich Albion F.C.|West Bromwich Albion]] (loan)
-| caps5       = 4
-| goals5      = 0
+| years1 = 2007–2010
+| clubs1 = [[FK Bodø/Glimt|Bodø/Glimt]]
+| caps1 = 29
+| goals1 = 0
+| years2 = 2011–2014
+| clubs2 = [[Strømsgodset Toppfotball|Strømsgodset]]
+| caps2 = 67
+| goals2 = 8
+| years3 = 2014–2016
+| clubs3 = [[Celtic F.C.|Celtic]]
+| caps3 = 73
+| goals3 = 12
+| years4 = 2016–
+| clubs4 = [[Fulham F.C.|Fulham]]
+| caps4 = 92
+| goals4 = 19
+| years5 = 2019–
+| clubs5 = → [[West Bromwich Albion F.C.|West Bromwich Albion]] (loan)
+| caps5 = 5
+| goals5 = 1
 | nationalyears1 = 2006–2007
-| nationalteam1  = Norway U16
-| nationalcaps1  = 8
+| nationalteam1 = Norway U16
+| nationalcaps1 = 8
 | nationalgoals1 = 3
 | nationalyears2 = 2007–2008
-| nationalteam2  = [[Norway national under-17 football team|Norway U17]]
-| nationalcaps2  = 10
+| nationalteam2 = [[Norway national under-17 football team|Norway U17]]
+| nationalcaps2 = 10
 | nationalgoals2 = 3
 | nationalyears3 = 2008–2009
-| nationalteam3  = Norway U18
-| nationalcaps3  = 5
+| nationalteam3 = Norway U18
+| nationalcaps3 = 5
 | nationalgoals3 = 1
 | nationalyears4 = 2009–2010
-| nationalteam4  = [[Norway national under-19 football team|Norway U19]]
-| nationalcaps4  = 8
+| nationalteam4 = [[Norway national under-19 football team|Norway U19]]
+| nationalcaps4 = 8
 | nationalgoals4 = 1
 | nationalyears5 = 2011–2013
-| nationalteam5  = [[Norway national under-21 football team|Norway U21]]
-| nationalcaps5  = 5
+| nationalteam5 = [[Norway national under-21 football team|Norway U21]]
+| nationalcaps5 = 5
 | nationalgoals5 = 0
 | nationalyears6 = 2012
-| nationalteam6  = Norway U23
-| nationalcaps6  = 1
+| nationalteam6 = Norway U23
+| nationalcaps6 = 1
 | nationalgoals6 = 0
 | nationalyears7 = 2013–
-| nationalteam7  = [[Norway national football team|Norway]]
-| nationalcaps7  = 46
+| nationalteam7 = [[Norway national football team|Norway]]
+| nationalcaps7 = 46
 | nationalgoals7 = 5
 | club-update = 12 February 2019
 | nationalteam-update = 16 November 2018
@@ -5583,8 +5638,9 @@ On 22 March 2017 Johansen was appointed as the new captain of [[Norway national 
 
 '''Individual'''
 *[[Kniksen Award]], Midfielder of the Year: 2013&lt;ref&gt;{{cite web |url=http://www.scotsman.com/sport/football/spfl/stefan-johansen-arctic-circle-to-champions-league-1-3270198 |title=Stefan Johansen: Arctic Circle to Champions League |publisher=}}&lt;/ref&gt;
-*Norwegian Player of the Year: 2014&lt;ref name=2014_tippeligaen_ypoty&gt;{{cite web |title=Stefan Johansen vant gullballen|trans-title=Stefan Johansen won the Golden Ball |url=http://www.toppfotball.no/news/article/ujunc3q4y7f1rcz07oyvksig/title/stefan-johansen-fikk-gullballen-2014/ |website=toppfotball.no |publisher=Norsk Toppfotball |accessdate=10 November 2014 |language=Norwegian |date=10 November 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20141111003406/http://www.toppfotball.no/news/article/ujunc3q4y7f1rcz07oyvksig/title/stefan-johansen-fikk-gullballen-2014/ |archivedate=11 November 2014}}&lt;/ref&gt;
-*[[PFA Scotland Players' Player of the Year]]
+*Gullballen: 2014&lt;ref name=2014_tippeligaen_ypoty&gt;{{cite web |title=Stefan Johansen vant gullballen|trans-title=Stefan Johansen won the Golden Ball |url=http://www.toppfotball.no/news/article/ujunc3q4y7f1rcz07oyvksig/title/stefan-johansen-fikk-gullballen-2014/ |website=toppfotball.no |publisher=Norsk Toppfotball |accessdate=10 November 2014 |language=Norwegian |date=10 November 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20141111003406/http://www.toppfotball.no/news/article/ujunc3q4y7f1rcz07oyvksig/title/stefan-johansen-fikk-gullballen-2014/ |archivedate=11 November 2014}}&lt;/ref&gt;
+*[[PFA Scotland Players' Player of the Year]]: 2015
+*[[Celtic F.C. Player of the Year|Celtic Player of the Year]]: 2015
 
 ==References==
 {{reflist}}
@@ -5596,7 +5652,7 @@ On 22 March 2017 Johansen was appointed as the new captain of [[Norway national 
 {{2014–15 PFA Scotland Scottish Premiership Team of the Year}}
 {{PFA Scotland Players' Player of the Year}}
 {{Celtic F.C. Player of the Year}}
-{{Kniksen of the Year}}
+{{Gullballen}}
 }}
 {{West Bromwich Albion F.C. squad}}
 
@@ -5624,7 +5680,7 @@ On 22 March 2017 Johansen was appointed as the new captain of [[Norway national 
 [[Category:Expatriate footballers in England]]
 [[Category:Norwegian expatriate sportspeople in Scotland]]
 [[Category:Norwegian expatriate sportspeople in England]]</text>
-      <sha1>b6kwjyf06h1af6qe4nyjfkx9mtwevxs</sha1>
+      <sha1>izessk0fv0w0cqqz8kucby8uu27xple</sha1>
     </revision>
   </page>
   <page>
@@ -5632,18 +5688,17 @@ On 22 March 2017 Johansen was appointed as the new captain of [[Norway national 
     <ns>0</ns>
     <id>20173329</id>
     <revision>
-      <id>883413730</id>
-      <parentid>877213491</parentid>
-      <timestamp>2019-02-15T07:35:10Z</timestamp>
+      <id>887094096</id>
+      <parentid>883413730</parentid>
+      <timestamp>2019-03-10T15:24:13Z</timestamp>
       <contributor>
-        <username>Cydebot</username>
-        <id>1215485</id>
+        <username>SLBedit</username>
+        <id>22307024</id>
       </contributor>
-      <minor/>
-      <comment>Robot - Speedily moving category Segunda Liga players to [[:Category:LigaPro players]] per [[WP:CFDS|CFDS]].</comment>
+      <comment>/* External links */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="26217">{{Use dmy dates|date=May 2018}}
+      <text xml:space="preserve" bytes="26069">{{Use dmy dates|date=May 2018}}
 {{Portuguese name|da Rocha|Fonte}}
 {{Infobox football biography
 |name = Rui Fonte
@@ -5847,13 +5902,11 @@ Their father, [[Artur Fonte|Artur]], played 12 seasons in the Portuguese top div
 {{reflist}}
 
 ==External links==
-* [http://www.slbenfica.pt/Jogador/tabid/1066/PID/2098/SeID/13/Rui%20Fonte.aspx Benfica official profile] {{pt icon}}
-* {{Zerozero}}
 * {{ForaDeJogo}}
 * {{Soccerbase}}
-* {{BDFutbol|8561}}
+* {{BDFutbol}}
 * [https://www.fpf.pt/pt/Jogadores/Pesquisar-Jogadores-Internacionais/Jogador/playerId/612646 National team data] {{pt icon}}
-* {{UEFA player|250005488}}
+* {{UEFA player}}
 
 {{Lille OSC squad}}
 
@@ -5890,7 +5943,7 @@ Their father, [[Artur Fonte|Artur]], played 12 seasons in the Portuguese top div
 [[Category:Expatriate footballers in France]]
 [[Category:Portuguese expatriate sportspeople in England]]
 [[Category:Portuguese expatriate sportspeople in Spain]]</text>
-      <sha1>3zbaxyedfptsoze71isnrhpocxkv3ok</sha1>
+      <sha1>ogn6ror0mykf5if8lxinv1gzgvg1y9z</sha1>
     </revision>
   </page>
   <page>
@@ -5898,13 +5951,14 @@ Their father, [[Artur Fonte|Artur]], played 12 seasons in the Portuguese top div
     <ns>0</ns>
     <id>44032207</id>
     <revision>
-      <id>882217844</id>
-      <parentid>881718025</parentid>
-      <timestamp>2019-02-07T16:12:55Z</timestamp>
+      <id>886590597</id>
+      <parentid>886552288</parentid>
+      <timestamp>2019-03-07T06:22:08Z</timestamp>
       <contributor>
-        <username>Thibaut02</username>
-        <id>33373808</id>
+        <username>Kosack</username>
+        <id>4446447</id>
       </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/177.42.228.91|177.42.228.91]] ([[User talk:177.42.228.91|talk]]): Rest of the article uses dmy. Change needs to be based on policy and wholesale ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="13137">{{Infobox football biography

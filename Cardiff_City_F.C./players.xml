@@ -3,7 +3,7 @@
     <sitename>Wikipedia</sitename>
     <dbname>enwiki</dbname>
     <base>https://en.wikipedia.org/wiki/Main_Page</base>
-    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <generator>MediaWiki 1.33.0-wmf.22</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -47,9 +47,9 @@
     <ns>0</ns>
     <id>22107811</id>
     <revision>
-      <id>885832442</id>
-      <parentid>885244309</parentid>
-      <timestamp>2019-03-02T17:01:29Z</timestamp>
+      <id>886953403</id>
+      <parentid>885832442</parentid>
+      <timestamp>2019-03-09T17:00:26Z</timestamp>
       <contributor>
         <username>Kosack</username>
         <id>4446447</id>
@@ -94,12 +94,12 @@
 | caps7          = 2  | goals7 = 0
 | caps8          = 2  | goals8 = 0
 | caps9          = 81 | goals9 = 0
-| caps10         = 74 | goals10 = 0
+| caps10         = 75 | goals10 = 0
 | nationalyears1 = 2005  | nationalteam1 = [[England national under-16 football team|England U16]]
 | nationalyears2 = 2008– | nationalteam2 = [[Philippines national football team|Philippines]]
 | nationalcaps1  = 1  | nationalgoals1 = 0
 | nationalcaps2  = 62 | nationalgoals2 = 0
-| club-update    = 17:01, 2 March 2019 (UTC)
+| club-update    = 17:00, 9 March 2019 (UTC)
 | nationalteam-update = 16:53, 8 December 2018 (UTC)
 }}
 '''Neil Leonard Dula Etheridge''' (born 7 February 1990) is a professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{English football updater|CardiffC}} club [[Cardiff City F.C.|Cardiff City]] and the [[Philippines national football team|Philippines national team]]. He joined the [[Fulham F.C. Academy|Fulham Academy]] after three years as a trainee at [[Chelsea F.C.|Chelsea]] and made his debut for Fulham in [[UEFA Europa League]] against Danish club [[Odense Boldklub]], though he never played in a league match with the club. While with Fulham from 2006 until 2014 he was loaned to various lower tier clubs; [[Leatherhead F.C.|Leatherhead]], [[Charlton Athletic F.C.|Charlton Athletic]], [[Bristol Rovers F.C.|Bristol Rovers]], and [[Crewe Alexandra F.C.|Crewe Alexandra]].
@@ -172,7 +172,7 @@ In the Philippines, Etheridge has worked as an underwear model.&lt;ref name="Man
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}
+{{updated|match played 9 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -259,13 +259,13 @@ In the Philippines, Etheridge has worked as an underwear model.&lt;ref name="Man
 |-
 |[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|56655|2018|accessdate=10 December 2018}}&lt;/ref&gt;
 |Premier League
-|29||0||0||0||0||0||colspan=2|—||29||0
+|30||0||0||0||0||0||colspan=2|—||30||0
 |-
 !colspan=2|Total
-!74||0||2||0||0||0||colspan=2|—||76||0
+!75||0||2||0||0||0||colspan=2|—||77||0
 |-
 !colspan=3|Career total
-!175||0||9||0||4||0||4||0||190||0
+!176||0||9||0||4||0||4||0||191||0
 |}
 
 {{notelist}}
@@ -343,7 +343,7 @@ In the Philippines, Etheridge has worked as an underwear model.&lt;ref name="Man
 [[Category:Premier League players]]
 [[Category:English people of Filipino descent]]
 [[Category:Filipino British sportspeople]]</text>
-      <sha1>822rc9as5ygvjpc12e3aipgptqky7gt</sha1>
+      <sha1>t0s22hh6zjpaqhm1mwl7out38o3ov7p</sha1>
     </revision>
   </page>
   <page>
@@ -351,9 +351,9 @@ In the Philippines, Etheridge has worked as an underwear model.&lt;ref name="Man
     <ns>0</ns>
     <id>4294949</id>
     <revision>
-      <id>885832536</id>
-      <parentid>883777733</parentid>
-      <timestamp>2019-03-02T17:02:23Z</timestamp>
+      <id>886953539</id>
+      <parentid>885832536</parentid>
+      <timestamp>2019-03-09T17:01:25Z</timestamp>
       <contributor>
         <username>Kosack</username>
         <id>4446447</id>
@@ -385,9 +385,9 @@ In the Philippines, Etheridge has worked as an underwear model.&lt;ref name="Man
 | years7              = 2012–2014 | clubs7 = [[Leeds United F.C.|Leeds United]]                    | caps7 = 66   | goals7 = 1
 | years8              = 2014      | clubs8 = → [[Nottingham Forest F.C.|Nottingham Forest]] (loan) | caps8 = 7    | goals8 = 0
 | years9              = 2014–2015 | clubs9 = [[Huddersfield Town A.F.C.|Huddersfield Town]]        | caps9 = 11   | goals9 = 0
-| years10             = 2015–     | clubs10 = [[Cardiff City F.C.|Cardiff City]]                   | caps10 = 125 | goals10 = 0
+| years10             = 2015–     | clubs10 = [[Cardiff City F.C.|Cardiff City]]                   | caps10 = 126 | goals10 = 0
 | nationalyears1      = 2004      | nationalteam1 = [[England national under-18 football team|England U18]] | nationalcaps1 = 3 | nationalgoals1 = 0
-| club-update         = 17:02, 2 March 2019 (UTC)
+| club-update         = 17:01, 9 March 2019 (UTC)
 }}
 '''Lee Anthony Peltier''' (born 11 December 1986) is an English professional [[Association football|footballer]] who plays for [[Premier League]] club [[Cardiff City F.C.|Cardiff City]] as a [[Defender (association football)|defender]]. While capable of playing anywhere across the defensive line and in midfield, he primarily features at [[Defender (association football)#Full-back|right-back]] or [[Defender (association football)#Centre-back|centre-back]]. He started his career with his hometown club [[Liverpool F.C.|Liverpool]], making his professional debut as a teenager in 2006. However, after loan spells with [[Hull City A.F.C.|Hull City]] and [[Yeovil Town F.C.|Yeovil Town]] he signed for the latter on a permanent basis in 2008.
 
@@ -484,7 +484,7 @@ Though mainly a [[Defender (association football)#Full-back|right-back]], Peltie
 In March 2009, Peltier was shopping with fellow footballer [[Victor Anichebe]] in [[Knutsford]] when the pair were stopped by police officers after being accused of theft. During the incident, Peltier was handcuffed by officers and Anichebe's crutch was confiscated. The pair were not arrested over the claim and Anichebe received a public apology from the assistant chief constable of the [[Cheshire Constabulary]] over the claims.&lt;ref&gt;{{cite news |url=https://www.liverpoolecho.co.uk/news/liverpool-news/cheshire-police-apologises-everton-fc-3457189 |title=Cheshire police apologises to Everton FC star Victor Anichebe over Knutsford incident |newspaper=Liverpool Echo |date=17 March 2009 |accessdate=11 January 2019}}&lt;/ref&gt; Peltier is close friends with fellow footballer [[James Vaughan (footballer, born 1988)|James Vaughan]].&lt;ref&gt;{{cite news |url=https://www.examinerlive.co.uk/sport/football/news/huddersfield-towns-lee-peltier-no-7342880 |title=Huddersfield Town's Lee Peltier has no worries about settling back in |publisher=Examiner Live |last=Thomson |first=Doug |date=30 June 2014 |accessdate=13 January 2019}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 2 March 2019}}
+{{updated|match played 9 March 2019}}
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -582,13 +582,13 @@ In March 2009, Peltier was shopping with fellow footballer [[Victor Anichebe]] i
 |-
 |[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|44323|2018|name=Lee Peltier|access-date=1 August 2018}}&lt;/ref&gt;
 |Premier League
-|11||0||1||0||1||0||colspan=2|—||colspan=2|—||13||0
+|12||0||1||0||1||0||colspan=2|—||colspan=2|—||14||0
 |-
 !colspan=2|Total
-!125!!0!!1!!0!!3!!0!!colspan=2|—!!colspan=2|—!!129!!0
+!126!!0!!1!!0!!3!!0!!colspan=2|—!!colspan=2|—!!130!!0
 |-
 !colspan=3|Career totals
-!405!!5!!21!!1!!21!!0!!1!!0!!13!!1!!461!!7
+!406!!5!!21!!1!!21!!0!!1!!0!!13!!1!!462!!7
 |}
 
 {{Reflist|group=lower-alpha}}
@@ -629,7 +629,7 @@ In March 2009, Peltier was shopping with fellow footballer [[Victor Anichebe]] i
 [[Category:English Football League players]]
 [[Category:English people of Antigua and Barbuda descent]]
 [[Category:Premier League players]]</text>
-      <sha1>8u0nv25sq8c5mmq4to8wymws0s1cr42</sha1>
+      <sha1>bizo7ziwa12o3gns5nui33veqr5cnxf</sha1>
     </revision>
   </page>
   <page>
@@ -698,14 +698,14 @@ In March 2009, Peltier was shopping with fellow footballer [[Victor Anichebe]] i
     <ns>0</ns>
     <id>18551618</id>
     <revision>
-      <id>886016354</id>
-      <parentid>886011997</parentid>
-      <timestamp>2019-03-03T20:03:22Z</timestamp>
+      <id>886953940</id>
+      <parentid>886016354</parentid>
+      <timestamp>2019-03-09T17:04:54Z</timestamp>
       <contributor>
         <username>Kosack</username>
         <id>4446447</id>
       </contributor>
-      <comment>Ce</comment>
+      <comment>Updated stats</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="32862">{{Use dmy dates|date=June 2011}}
@@ -743,7 +743,7 @@ In March 2009, Peltier was shopping with fellow footballer [[Victor Anichebe]] i
 | caps4 =  15
 | caps5 =  58
 | caps6 =  118
-| caps7=   140
+| caps7=   141
 | goals1 =
 | goals2 =  0
 | goals3 =  0
@@ -751,7 +751,7 @@ In March 2009, Peltier was shopping with fellow footballer [[Victor Anichebe]] i
 | goals5 =  5
 | goals6 =  4
 | goals7 =  5
-| pcupdate = 17:04, 2 March 2019 (UTC)
+| pcupdate = 17:04, 9 March 2019 (UTC)
 | nationalyears1 =   2006–
 | nationalteam1 =   [[Gabon national football team|Gabon]]
 | nationalcaps1 =    67
@@ -808,7 +808,7 @@ Manga scored Cardiff's first goal of 2018–19 season in a 3–1 loss to [[Norwi
 Born in [[Libreville]], [[Gabon]], Ecuele Manga was called up by [[Gabon national football team|Gabon]] in 2006. In July 2012, Ecuele Manga represented Gabon at the 2012 Olympic Games held in London. However, they were eliminated in the group stage.
 
 ==Career statistics==
-{{updated|match played 2 March 2019}}
+{{updated|match played 9 March 2019}}
 {| class="wikitable" style="text-align:center"
 |-
 !rowspan="2" | Club
@@ -877,13 +877,13 @@ Born in [[Libreville]], [[Gabon]], Ecuele Manga was called up by [[Gabon nationa
 |-
 |[[2018–19 Cardiff City F.C. season|2018–19]]
 |[[Premier League]]
-|29||0||1||0||1||1||0||0||31||1
+|30||0||1||0||1||1||0||0||32||1
 |-
 !colspan="2"| Cardiff City Total
-!140!!5!!5!!1!!5!!1!!0!!0!!150!!7
+!141!!5!!5!!1!!5!!1!!0!!0!!151!!7
 |-
 !colspan="3"| Career total
-!316!!14!!11!!1!!10!!2!!1!!0!!338!!17
+!317!!14!!11!!1!!10!!2!!1!!0!!339!!17
 |}
 
 ===International goals===
@@ -963,7 +963,7 @@ Born in [[Libreville]], [[Gabon]], Ecuele Manga was called up by [[Gabon nationa
 [[Category:2015 Africa Cup of Nations players]]
 [[Category:2017 Africa Cup of Nations players]]
 [[Category:Premier League players]]</text>
-      <sha1>a1q7o7wf21ohxt0rsoo96tzzi9m00zz</sha1>
+      <sha1>1eeq3x7g37xchcf6qx0o6qtnlncwnsc</sha1>
     </revision>
   </page>
   <page>
@@ -1224,16 +1224,18 @@ Richards' comes from a family with a sporting background as his cousins [[Eli Wa
     <ns>0</ns>
     <id>13436010</id>
     <revision>
-      <id>885543982</id>
-      <parentid>884626436</parentid>
-      <timestamp>2019-02-28T18:12:10Z</timestamp>
+      <id>889038463</id>
+      <parentid>889037779</parentid>
+      <timestamp>2019-03-23T00:44:45Z</timestamp>
       <contributor>
-        <ip>94.175.1.119</ip>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <comment>/* Personal life */</comment>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/213.233.132.131|213.233.132.131]] ([[User talk:213.233.132.131|talk]]) to last revision by Mattythewhite ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="57724">{{good article}}
+      <text xml:space="preserve" bytes="57716">{{good article}}
 {{EngvarB|date=October 2016}}
 {{Use dmy dates|date=October 2016}}
 {{Infobox football biography
@@ -1280,7 +1282,7 @@ Richards' comes from a family with a sporting background as his cousins [[Eli Wa
 | goals6 = 1
 | years7 = 2018–
 | clubs7 = → [[Cardiff City F.C.|Cardiff City]] (loan)
-| caps7 = 22
+| caps7 = 23
 | goals7 = 0
 | nationalyears1 = 2006
 | nationalteam1 = [[Republic of Ireland national under-17 football team|Republic of Ireland U17]]
@@ -1294,7 +1296,7 @@ Richards' comes from a family with a sporting background as his cousins [[Eli Wa
 | nationalteam3 = [[Republic of Ireland national football team|Republic of Ireland]]&lt;ref&gt;{{NFT player|id=59350|name=Harry Arter|accessdate=5 October 2016}}&lt;/ref&gt;
 | nationalcaps3 = 14
 | nationalgoals3 = 0
-| club-update = 21:41, 22 February 2019 (UTC)
+| club-update = 17:05, 9 March 2019 (UTC)
 | ntupdate = 07:51, 17 October 2018 (UTC)
 }}
 '''Harry Nicholas Arter''' (born 28 December 1989) is a professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Premier League]] club [[Cardiff City F.C.|Cardiff City]], on loan from [[A.F.C. Bournemouth|AFC Bournemouth]], and the [[Republic of Ireland national football team|Republic of Ireland national team]].
@@ -1382,7 +1384,7 @@ Arter is the brother-in-law of former England captain [[Scott Parker]], who is m
 In December 2015, Harry Arter and his partner, Rachel, suffered a family tragedy when their daughter died at birth. Bournemouth manager Eddie Howe paid tribute to Arter following a 2–1 win over Manchester United on 12 December. Howe dedicated the win to Arter and said it had been "a hugely emotional week for him."&lt;ref&gt;{{cite news |title=Bournemouth boss Eddie Howe pays tribute to Harry Arter after death of his child |url=http://www.belfasttelegraph.co.uk/sport/football/premier-league/bournemouth-boss-eddie-howe-pays-tribute-to-harry-arter-after-death-of-his-child-34282294.html |work=Belfast Telegraph |date=12 December 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Bournemouth boss Eddie Howe dedicates Manchester United win to Harry Arter |url=http://www.skysports.com/football/news/11743/10098535/bournemouth-boss-eddie-howe-dedicates-manchester-united-win-to-harry-arter |work=Sky Sports |date=12 December 2015}}&lt;/ref&gt; In October 2016, Arter shared the news of his partner being pregnant again.&lt;ref&gt;{{cite news |title=Good news for Arter after difficult 12 months |url=https://www.bbc.co.uk/sport/football/37811865.app |work=BBC Football |date=29 October 2016}}&lt;/ref&gt; On 17 February 2017, she gave birth to a baby girl, and called her Raine.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/news/uk-england-dorset-39014883|title=Bournemouth's Harry Arter thanks fans for baby congratulations|date=18 February 2017|publisher=BBC News}}&lt;/ref&gt;
 
 ==Career statistics==
-{{Updated|match played 22 February 2019}}&lt;ref&gt;{{Soccerway |id=45992 |accessdate=1 March 2018}}&lt;/ref&gt;
+{{Updated|match played 9 March 2019}}&lt;ref&gt;{{Soccerway |id=45992 |accessdate=1 March 2018}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |+ Club statistics
@@ -1455,10 +1457,10 @@ In December 2015, Harry Arter and his partner, Rachel, suffered a family tragedy
 |[[Cardiff City F.C.|Cardiff City]] (loan)
 |[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|47381|2018|accessdate=18 August 2018}}&lt;/ref&gt;
 |Premier League
-|22||0||0||0||0||0||colspan="2"|—||22||0
+|23||0||0||0||0||0||colspan="2"|—||23||0
 |-
 !colspan="3"|Career total
-!295!!33!!15!!4!!10!!0!!7!!1!!322!!38
+!296!!33!!15!!4!!10!!0!!7!!1!!323!!38
 |}
 
 {{reflist|group=lower-alpha}}
@@ -1505,7 +1507,7 @@ In December 2015, Harry Arter and his partner, Rachel, suffered a family tragedy
 [[Category:National League (English football) players]]
 [[Category:Premier League players]]
 [[Category:English people of Irish descent]]</text>
-      <sha1>6gxu1jsrekry53zc9dblzr4jey7huhr</sha1>
+      <sha1>fwri2tni8ga4g002474ckypdjb76qab</sha1>
     </revision>
   </page>
   <page>
@@ -1513,17 +1515,18 @@ In December 2015, Harry Arter and his partner, Rachel, suffered a family tragedy
     <ns>0</ns>
     <id>33264600</id>
     <revision>
-      <id>885832952</id>
-      <parentid>884626537</parentid>
-      <timestamp>2019-03-02T17:05:59Z</timestamp>
+      <id>886986133</id>
+      <parentid>886954210</parentid>
+      <timestamp>2019-03-09T21:20:39Z</timestamp>
       <contributor>
-        <username>Kosack</username>
-        <id>4446447</id>
+        <username>WOSlinker</username>
+        <id>3138265</id>
       </contributor>
-      <comment>Updated stats</comment>
+      <minor/>
+      <comment>fix center tags</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="20937">{{EngvarB|date=July 2013}}
+      <text xml:space="preserve" bytes="21000">{{EngvarB|date=July 2013}}
 {{Use dmy dates|date=July 2013}}
 {{Infobox football biography
 | name                = Joe Ralls
@@ -1552,10 +1555,10 @@ In December 2015, Harry Arter and his partner, Rachel, suffered a family tragedy
 | youthyears1 =           | youthclubs1 = [[Aldershot Town F.C.|Aldershot Town]]
 | youthyears2 = 2008–2010 | youthclubs2 = [[Farnborough F.C.|Farnborough]]
 | youthyears3 = 2010–2011 | youthclubs3 = [[Cardiff City F.C.|Cardiff City]]
-| years1 = 2011–     | clubs1 = [[Cardiff City F.C.|Cardiff City]]        | caps1 = 187 | goals1 = 17
+| years1 = 2011–     | clubs1 = [[Cardiff City F.C.|Cardiff City]]        | caps1 = 188 | goals1 = 17
 | years2 = 2013–2014 | clubs2 = → [[Yeovil Town F.C.|Yeovil Town]] (loan) | caps2 = 37 | goals2 = 3
 | nationalyears1 = 2012 | nationalteam1 = [[England national under-19 football team|England U19]] | nationalcaps1 = 1 | nationalgoals1 = 0
-| club-update         = 17:05, 2 March 2019 (UTC)
+| club-update         = 17:06, 9 March 2019 (UTC)
 | nationalteam-update = 22 August 2012
 }}
 '''Joseph William Ralls''' (born 13 October 1993) is an English professional [[Association football|footballer]] who plays for [[Premier League]] club [[Cardiff City F.C.|Cardiff City]] as a [[midfielder]]. After playing at youth level for local teams [[Aldershot Town F.C.|Aldershot Town]] and [[Farnborough F.C.|Farnborough]], Ralls joined the youth academy at Cardiff City after being spotted by scouts from the club. He made his professional debut for the ''Bluebirds'' in August 2011 before joining [[Yeovil Town F.C.|Yeovil Town]] on a season-long loan deal for the 2013–14 season to gain experience. On his return to Cardiff, Ralls established himself in the first-team and has made over 200 appearances for the club in all competitions.
@@ -1588,7 +1591,7 @@ Ralls received his first international call for the [[England national under-19 
 Primarily a central midfield player, Ralls featured frequently at left midfield and left back during the early stages of his career at Cardiff and Yeovil, commenting that, although not a natural in either position, he can "do a job there" but admitted that he does "naturally tend to drift inside" when playing out of position.&lt;ref name="Lookingback"/&gt; Ralls has described himself as a box-to-box midfielder that "likes to get forward as much as possible".&lt;ref name="yeovillife"&gt;{{cite web |url=http://www.somersetlive.co.uk/ralls-enjoying-moment-time-glovers/story-19712869-detail/story.html |title=Ralls is enjoying every moment of his time with the Glovers |publisher=Somerset Live |date=27 August 2013 |accessdate=1 November 2016}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|2 March 2019}}&lt;ref&gt;{{cite web
+{{updated|9 March 2019}}&lt;ref&gt;{{cite web
 | url = http://www.soccerbase.com/players/player.sd?player_id=61254
 | title = Joe Ralls
 | publisher = Soccerbase
@@ -1606,25 +1609,25 @@ Primarily a central midfield player, Ralls featured frequently at left midfield 
 !Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
 |-
 |rowspan="9" valign="center"|[[Cardiff City F.C.|Cardiff City]]
-|&lt;center&gt;[[2011–12 Cardiff City F.C. season|2011–12]]&lt;ref name="Games played by Joe Ralls in 2011/2012"/&gt;
+|&lt;center&gt;[[2011–12 Cardiff City F.C. season|2011–12]]&lt;ref name="Games played by Joe Ralls in 2011/2012"/&gt;&lt;/center&gt;
 |rowspan="2"|[[EFL Championship|Championship]]
 |10||1||0||0||4||0||14||1
 |-
-|&lt;center&gt;[[2012–13 Cardiff City F.C. season|2012–13]]&lt;ref name="12/13 appearances"&gt;{{Soccerbase season|61254|2012|name=Joe Ralls|access-date=22 August 2013}}&lt;/ref&gt;
+|&lt;center&gt;[[2012–13 Cardiff City F.C. season|2012–13]]&lt;ref name="12/13 appearances"&gt;{{Soccerbase season|61254|2012|name=Joe Ralls|access-date=22 August 2013}}&lt;/ref&gt;&lt;/center&gt;
 |4||0||1||0||1||0||6||0
 |-
-|&lt;center&gt;[[2013–14 Cardiff City F.C. season|2013–14]]&lt;ref name="13/14 appearances"&gt;{{Soccerbase season|61254|2013|name=Joe Ralls|access-date=22 November 2013}}&lt;/ref&gt;
+|&lt;center&gt;[[2013–14 Cardiff City F.C. season|2013–14]]&lt;ref name="13/14 appearances"&gt;{{Soccerbase season|61254|2013|name=Joe Ralls|access-date=22 November 2013}}&lt;/ref&gt;&lt;/center&gt;
 |[[Premier League]]
 |0||0||0||0||0||0||0||0
 |-
-|&lt;center&gt;[[2014–15 Cardiff City F.C. season|2014–15]]&lt;ref name="Games played by Joe Ralls in 2014/2015"&gt;{{Soccerbase season|61254|2014|name=Joe Ralls|access-date=13 August 2014}}&lt;/ref&gt;
+|&lt;center&gt;[[2014–15 Cardiff City F.C. season|2014–15]]&lt;ref name="Games played by Joe Ralls in 2014/2015"&gt;{{Soccerbase season|61254|2014|name=Joe Ralls|access-date=13 August 2014}}&lt;/ref&gt;&lt;/center&gt;
 |rowspan="4"|Championship
 |28||2||1||1||2||1||31||4
 |-
-|&lt;center&gt;[[2015–16 Cardiff City F.C. season|2015–16]]&lt;ref name="Games played by Joe Ralls in 2015/2016"&gt;{{Soccerbase season|61254|2015|name=Joe Ralls|access-date=10 July 2015}}&lt;/ref&gt;
+|&lt;center&gt;[[2015–16 Cardiff City F.C. season|2015–16]]&lt;ref name="Games played by Joe Ralls in 2015/2016"&gt;{{Soccerbase season|61254|2015|name=Joe Ralls|access-date=10 July 2015}}&lt;/ref&gt;&lt;/center&gt;
 |43||1||0||0||1||0||44||1
 |-
-|&lt;center&gt;[[2016–17 Cardiff City F.C. season|2016–17]]&lt;ref name="Games played by Joe Ralls in 2016/2017"&gt;{{Soccerbase season|61254|2016|name=Joe Ralls|access-date=7 August 2016}}&lt;/ref&gt;
+|&lt;center&gt;[[2016–17 Cardiff City F.C. season|2016–17]]&lt;ref name="Games played by Joe Ralls in 2016/2017"&gt;{{Soccerbase season|61254|2016|name=Joe Ralls|access-date=7 August 2016}}&lt;/ref&gt;&lt;/center&gt;
 |42||6||1||0||1||0||44||6
 |-
 |[[2017–18 Cardiff City F.C. season|2017–18]]&lt;ref name="17/18 appearances"&gt;{{Soccerbase season|61254|2017|name=Joe Ralls|access-date=29 July 2017}}&lt;/ref&gt;
@@ -1632,18 +1635,18 @@ Primarily a central midfield player, Ralls featured frequently at left midfield 
 |-
 |[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref name="18/19 appearances"&gt;{{Soccerbase season|61254|2018|name=Joe Ralls|access-date=1 August 2018}}&lt;/ref&gt;
 |Premier League
-|23||0||1||0||0||0||24||0
+|24||0||1||0||0||0||25||0
 |-
 !colspan="2"|Total
-!187!!17!!6!!1!!10!!1!!203!!19
+!188!!17!!6!!1!!10!!1!!204!!19
 |-
 |valign="center"|[[Yeovil Town F.C.|Yeovil Town]] (loan)
-|&lt;center&gt;[[2013–14 Yeovil Town F.C. season|2013–14]]&lt;ref name="13/14 appearances"/&gt;
+|&lt;center&gt;[[2013–14 Yeovil Town F.C. season|2013–14]]&lt;ref name="13/14 appearances"/&gt;&lt;/center&gt;
 |Championship
 |37||3||1||0||0||0||38||3
 |-
 !colspan=3|Career totals
-!224!!20!!7!!1!!10!!1!!241!!22
+!225!!20!!7!!1!!10!!1!!242!!22
 |}
 
 ==Honours==
@@ -1675,7 +1678,7 @@ Primarily a central midfield player, Ralls featured frequently at left midfield 
 [[Category:Yeovil Town F.C. players]]
 [[Category:English Football League players]]
 [[Category:Premier League players]]</text>
-      <sha1>734arrbz6vmvpvsxoo39ljl9er5xju8</sha1>
+      <sha1>mek4dl8jlqt0kuyyhzuqrgajmx7vzjo</sha1>
     </revision>
   </page>
   <page>
@@ -1683,9 +1686,9 @@ Primarily a central midfield player, Ralls featured frequently at left midfield 
     <ns>0</ns>
     <id>10846499</id>
     <revision>
-      <id>886011517</id>
-      <parentid>885996875</parentid>
-      <timestamp>2019-03-03T19:31:34Z</timestamp>
+      <id>888016026</id>
+      <parentid>887563206</parentid>
+      <timestamp>2019-03-16T10:20:35Z</timestamp>
       <contributor>
         <username>Fleets</username>
         <id>26552045</id>
@@ -1693,7 +1696,7 @@ Primarily a central midfield player, Ralls featured frequently at left midfield 
       <comment>stats update</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="9587">{{about||the English association footballer|Danny Ward (English footballer)|the Welsh association football goalkeeper|Danny Ward (Welsh footballer)}}
+      <text xml:space="preserve" bytes="9591">{{about||the English association footballer|Danny Ward (English footballer)|the Welsh association football goalkeeper|Danny Ward (Welsh footballer)}}
 {{EngvarB|date=October 2017}}
 {{Use dmy dates|date=October 2017}}
 {{Infobox rugby league biography
@@ -1750,16 +1753,16 @@ Primarily a central midfield player, Ralls featured frequently at left midfield 
 |coachteam1      = [[London Broncos]] 
 |coachyear1start = 2018
 |coachyear1end   = present
-|coachgames1     = 37
-|coachwins1      = 23
+|coachgames1     = 39
+|coachwins1      = 24
 |coachdraws1     = 1
-|coachlosses1    = 13
+|coachlosses1    = 14
 |retired         = 
 |source          = &lt;ref name="Profile at loverugbyleague.com"&gt;{{cite web|url=https://www.loverugbyleague.com/stats/players/Danny-Ward/ |title=Profile at loverugbyleague.com|publisher=loverugbyleague.com|date=31 December 2017|accessdate=1 January 2018}}&lt;/ref&gt;&lt;ref name="Statistics at rugbyleagueproject.org"&gt;{{cite web|url=http://www.rugbyleagueproject.org/players/Danny-Ward/summary.html|title=Statistics at rugbyleagueproject.org|publisher=rugbyleagueproject.org|date=31 December 2017|accessdate=1 January 2018}}&lt;/ref&gt;&lt;ref name="Great Britain Statistics at englandrl.co.uk"&gt;{{cite web|url=https://web.archive.org/web/19950000000000/http://www.englandrl.co.uk/player_records?search=Ward&amp;submit=Go&amp;c=GB|title=Great Britain Statistics at englandrl.co.uk|publisher=englandrl.co.uk|date=31 December 2017|accessdate=1 January 2018}}&lt;/ref&gt;
-|updated         = 4 March 2019
+|updated         = 16 March 2019
 }}
 
-'''Danny Ward''' (born {{birth date|df=yes|1980|6|15}}), also known by the [[nickname]] of '''"Wardy"''',&lt;ref name="Andrew Henderson explains why he left London and his successor, Danny Ward"&gt;{{cite web|url=http://www.totalrl.com/andrew-henderson-explains-left-london-successor-danny-ward|title=Andrew Henderson explains why he left London and his successor, Danny Ward|publisher=Total RL|date=8 November 2017|accessdate=8 November 2017}}&lt;/ref&gt; is the head coach of the [[London Broncos]] in the [[Super League]], and an English former professional [[rugby league]] footballer of the 1990s, 2000s and 2010s. At international level, he played for [[Great Britain national rugby league team|Great Britain]], and at club level for the [[Leeds Rhinos]], the [[Castleford Tigers]], the [[Hull Kingston Rovers]] and [[London Broncos#2006–2011: Harlequins Rugby League|Harlequins RL]] in the [[Super League]].
+'''Danny Ward''' (born {{birth date|df=yes|1980|6|15}}), also known by the [[nickname]] of '''"Wardy"''',&lt;ref name="Andrew Henderson explains why he left London and his successor, Danny Ward"&gt;{{cite web|url=http://www.totalrl.com/andrew-henderson-explains-left-london-successor-danny-ward|title=Andrew Henderson explains why he left London and his successor, Danny Ward|publisher=Total RL|date=8 November 2017|accessdate=8 November 2017}}&lt;/ref&gt; is the head coach of the [[London Broncos]] in the [[Super League]], and an English former professional [[rugby league]] footballer who played in the 1990s, 2000s and 2010s. At international level, he played for [[Great Britain national rugby league team|Great Britain]], and at club level for the [[Leeds Rhinos]], [[Castleford Tigers]], [[Hull Kingston Rovers]] and [[London Broncos#2006–2011: Harlequins Rugby League|Harlequins RL]] in the [[Super League]].
 
 Ward was previously [[Andrew Henderson (rugby league)|Andrew Henderson]]'s assistant coach at the [[London Broncos]], and had held this position since 2015. Prior to this, he was head coach of the Under-19s.
 
@@ -1823,7 +1826,7 @@ He was promoted to head coach from the beginning of the 2018 season. Ward took c
 [[Category:Living people]]
 [[Category:Sportspeople from Dewsbury]]
 [[Category:Rugby league props]]</text>
-      <sha1>fxl5hzyggwj7l48t98efwkkmhj4mos2</sha1>
+      <sha1>oag2y03vntykqq7c9684b293wto9ryj</sha1>
     </revision>
   </page>
   <page>
@@ -1831,14 +1834,15 @@ He was promoted to head coach from the beginning of the 2018 season. Ward took c
     <ns>0</ns>
     <id>26056248</id>
     <revision>
-      <id>885833052</id>
-      <parentid>885244919</parentid>
-      <timestamp>2019-03-02T17:06:49Z</timestamp>
+      <id>887567790</id>
+      <parentid>885833052</parentid>
+      <timestamp>2019-03-13T13:11:23Z</timestamp>
       <contributor>
-        <username>Kosack</username>
-        <id>4446447</id>
+        <username>Ira Leviton</username>
+        <id>25046916</id>
       </contributor>
-      <comment>Updated stats</comment>
+      <minor/>
+      <comment>Fixed a typo found with [[Wikipedia:Typo_Team/moss]].</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="27678">{{Infobox football biography
@@ -1905,7 +1909,7 @@ On the final day of the winter transfer window in January 2016, Zohore joined Ch
 Zohore went on to sign a three-year deal in the Welsh capital in June 2016 for an undisclosed fee.&lt;ref&gt;{{cite web|url=http://www.walesonline.co.uk/sport/football/football-news/cardiff-city-sign-danish-striker-11574955|title=Cardiff City sign Danish striker Kenneth Zohore while Idriss Saadi heads out on season-long loan deal|last=Woolford|first=Anthony|date=6 July 2016|website=|publisher=WalesOnline|archive-url=|archive-date=|dead-url=|accessdate=6 July 2016}}&lt;/ref&gt; However, new manager [[Paul Trollope]], who had replaced [[Russell Slade]] following the end of the previous season, favoured fellow new signings [[Frederic Gounongbe]] and [[Rickie Lambert]] following his appointment with Zohore making only one start in the opening four months of the season, during a 1–0 defeat to [[Bristol Rovers F.C.|Bristol Rovers]] in the first round of the [[EFL Cup|League Cup]] on 11 August 2016.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/36971967 |title=Bristol Rovers 1–0 Cardiff City (AET) |publisher=BBC Sport |date=11 August 2016 |accessdate=20 August 2017}}&lt;/ref&gt; With the club struggling, Trollope was replaced by [[Neil Warnock]] and, in December 2016, Zohore impressed as a  half time substitute during a 2–1 victory against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].&lt;ref name="surprise"&gt;{{cite web |url=http://www.walesonline.co.uk/sport/football/football-news/cardiff-city-manager-neil-warnock-12338343 |title=Cardiff City manager Neil Warnock could cancel January striker search if Kenneth Zohore continues surprise form |publisher=WalesOnline |author=Phil Smith |date=18 December 2016 |accessdate=20 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Cardiff City 2–1 Wolverhampton Wanderers |url=https://www.bbc.co.uk/sport/football/38217655 |publisher=BBC Sport |date=13 December 2016 |accessdate=13 December 2016}}&lt;/ref&gt; Following the match, Warnock praised Zohore's performances in his first two appearances under him, commenting that Zohore had been "a little lazy" during his time at Cardiff and that a transfer away from the club had been considered,&lt;ref name="form"&gt;{{cite web |url=http://www.walesonline.co.uk/sport/football/football-news/remarkable-stats-show-kenneth-zohore-12664557 |title=The remarkable stats that show Kenneth Zohore is in better form than Ronaldo, Higuain, Diego Costa and many more huge stars |publisher=WalesOnline |author=Dominic Booth |date=27 February 2017 |accessdate=20 August 2017}}&lt;/ref&gt; but that his improvement meant that he could not "buy anybody better than him at the minute".&lt;ref name="surprise"/&gt; He went onto score his first goal on Boxing Day during a 2–2 draw with [[Brentford F.C.|Brentford]].&lt;ref&gt;{{cite news |title=Brentford 2–2 Cardiff City |url=https://www.bbc.co.uk/sport/football/38360565 |publisher=BBC Sport |date=26 December 2016 |accessdate=26 December 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Neil Warnock: Kenneth Zohore will save Cardiff money in transfer market |url=https://www.bbc.co.uk/sport/football/38498047 |publisher=BBC Sport |date=3 January 2017 |accessdate=3 January 2017}}&lt;/ref&gt; Zohore was nominated for Championship Player of the Month in February, following a goal against [[Leeds United A.F.C.|Leeds United]] and braces against [[Rotherham United F.C.|Rotherham United]] and [[Fulham F.C.|Fulham]], but missed out to Leeds' [[Chris Wood (footballer, born 1991)|Chris Wood]].&lt;ref&gt;{{cite news |title=Zohore nominated for Player of the Month |url=http://www.cardiffcityfc.co.uk/news/article/2016-17/zohore-nominated-for-sky-bet-championship-potm-3615820.aspx |publisher=Cardiff City F.C. Official Site |date=9 March 2016 |accessdate=9 March 2016}}&lt;/ref&gt; His 12 goals for Cardiff saw him as the top goalscorer for the season, and he was awarded a contract keeping him at the club until 2020.&lt;ref&gt;{{cite news |title=Kenneth Zohore: Danish striker agrees new Cardiff City deal |url=https://www.bbc.co.uk/sport/football/39751940 |publisher=BBC Sport |date=28 April 2017 |accessdate=28 April 2017}}&lt;/ref&gt; At the end of the season, he was awarded the club's Young Player of the Year award.&lt;ref&gt;{{cite news|url=http://www.walesonline.co.uk/sport/football/football-news/aron-gunnarsson-big-winner-cardiff-12968468|title=Aron Gunnarsson is the big winner in Cardiff City's 2016/17 awards as Kenneth Zohore is also honoured|last=Booth|first=Dominic|date=30 April 2017|work=|accessdate=30 April 2017|publisher=Wales Online}}&lt;/ref&gt;
 
 ====2017–18====
-Zohore's form at the end of the previous season attracted interest from several clubs with [[Hull City A.F.C.|Hull City]], with an original bid of £6 million,&lt;ref name="Hullbid"&gt;{{cite web |url=http://www.hulldailymail.co.uk/sport/football/transfer-news/hull-city-see-10m-bid-335212 |title=Hull City see £10m bid for Kenneth Zohore rejected by Cardiff City |work=Hull Daily Mail |author=William Jackson |date=16 August 2017 |accessdate=20 August 2017}}&lt;/ref&gt; and [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] both having bids rejected by Cardiff.&lt;ref name="nodeal"&gt;{{cite web |url=http://www.walesonline.co.uk/sport/football/transfer-news/no-deal-place-cardiff-citys-13499799 |title=No deal in place for Cardiff City's Kenneth Zohore to join Brighton as striker prepares for Wolves clash |publisher=WalesOnline |author=Matthew Southcombe |date=19 August 2017 |accessdate=20 August 2017}}&lt;/ref&gt; Manager Neil Warnock later commented that Zohore was not for sale and would only leave the club if "I have a heart attack and another manager takes over."&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/40641182 |title=Kenneth Zohore: Cardiff striker not for sale says manager Neil Warnock |publisher=BBC Sport |date=18 July 2017 |accessdate=20 August 2017}}&lt;/ref&gt; Zohore scored his first goal of the season in the opening match, the only goal of the game in a 1–0 victory over [[Burton Albion F.C.|Burton Albion]] on 5 August 2017.&lt;ref name="nodeal"/&gt; Following a nine-game goal drought, Zohore scored a brace against [[Leeds United A.F.C.|Leeds United]] on 26 September, in a 3–1 win, before suffering an ankly injury which kept him out until the Christmas Period.&lt;ref&gt;{{cite news |title=Cardiff City 3–1 Leeds United |url=https://www.bbc.co.uk/sport/football/41315213 |publisher=BBC Sport |date=26 September 2017 |accessdate=26 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Kenneth Zohore: Cardiff striker on the mend but not ready to play |url=https://www.bbc.co.uk/sport/football/42263556 |publisher=BBC Sport |date=7 December 2017 |accessdate=20 December 2017}}&lt;/ref&gt; He returned to the side, replacing [[Omar Bogle]] in a 2–0 defeat at [[Bolton Wanderers F.C.|Bolton Wanderers]] on 23 December, before scoring his fourth of the season against [[Fulham F.C.|Fulham]] on [[Boxing Day]].&lt;ref&gt;{{cite news |title=Bolton Wanderers 2–0 Cardiff City |url=https://www.bbc.co.uk/sport/football/42375402 |publisher=BBC Sport |date=23 December 2017 |accessdate=23 December 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Cardiff City 2–4 Fulham |url=https://www.bbc.co.uk/sport/football/42406713 |publisher=BBC Sport |date=26 December 2017 |accessdate=26 December 2017}}&lt;/ref&gt; The new year saw Zohore score 5 goals, including winners against [[Bristol City F.C.|Bristol City]] and [[Ipswich Town F.C.|Ipswich Town]].&lt;ref&gt;{{cite news |title=Cardiff City 1–0 Bristol City |url=https://www.bbc.co.uk/sport/football/43101660 |publisher=BBC Sport |date=25 February 2018 |accessdate=15 June 2018}}&lt;/ref&gt; Cardiff finished in 2nd place, gaining promotion to the [[Premier League]].&lt;ref&gt;{{cite news |title=Cardiff City 0–0 Reading |url=https://www.bbc.co.uk/sport/football/43938851 |publisher=BBC Sport |date=6 May 2018 |accessdate=15 June 2018}}&lt;/ref&gt;
+Zohore's form at the end of the previous season attracted interest from several clubs with [[Hull City A.F.C.|Hull City]], with an original bid of £6 million,&lt;ref name="Hullbid"&gt;{{cite web |url=http://www.hulldailymail.co.uk/sport/football/transfer-news/hull-city-see-10m-bid-335212 |title=Hull City see £10m bid for Kenneth Zohore rejected by Cardiff City |work=Hull Daily Mail |author=William Jackson |date=16 August 2017 |accessdate=20 August 2017}}&lt;/ref&gt; and [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] both having bids rejected by Cardiff.&lt;ref name="nodeal"&gt;{{cite web |url=http://www.walesonline.co.uk/sport/football/transfer-news/no-deal-place-cardiff-citys-13499799 |title=No deal in place for Cardiff City's Kenneth Zohore to join Brighton as striker prepares for Wolves clash |publisher=WalesOnline |author=Matthew Southcombe |date=19 August 2017 |accessdate=20 August 2017}}&lt;/ref&gt; Manager Neil Warnock later commented that Zohore was not for sale and would only leave the club if "I have a heart attack and another manager takes over."&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/40641182 |title=Kenneth Zohore: Cardiff striker not for sale says manager Neil Warnock |publisher=BBC Sport |date=18 July 2017 |accessdate=20 August 2017}}&lt;/ref&gt; Zohore scored his first goal of the season in the opening match, the only goal of the game in a 1–0 victory over [[Burton Albion F.C.|Burton Albion]] on 5 August 2017.&lt;ref name="nodeal"/&gt; Following a nine-game goal drought, Zohore scored a brace against [[Leeds United A.F.C.|Leeds United]] on 26 September, in a 3–1 win, before suffering an ankle injury which kept him out until the Christmas Period.&lt;ref&gt;{{cite news |title=Cardiff City 3–1 Leeds United |url=https://www.bbc.co.uk/sport/football/41315213 |publisher=BBC Sport |date=26 September 2017 |accessdate=26 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Kenneth Zohore: Cardiff striker on the mend but not ready to play |url=https://www.bbc.co.uk/sport/football/42263556 |publisher=BBC Sport |date=7 December 2017 |accessdate=20 December 2017}}&lt;/ref&gt; He returned to the side, replacing [[Omar Bogle]] in a 2–0 defeat at [[Bolton Wanderers F.C.|Bolton Wanderers]] on 23 December, before scoring his fourth of the season against [[Fulham F.C.|Fulham]] on [[Boxing Day]].&lt;ref&gt;{{cite news |title=Bolton Wanderers 2–0 Cardiff City |url=https://www.bbc.co.uk/sport/football/42375402 |publisher=BBC Sport |date=23 December 2017 |accessdate=23 December 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Cardiff City 2–4 Fulham |url=https://www.bbc.co.uk/sport/football/42406713 |publisher=BBC Sport |date=26 December 2017 |accessdate=26 December 2017}}&lt;/ref&gt; The new year saw Zohore score 5 goals, including winners against [[Bristol City F.C.|Bristol City]] and [[Ipswich Town F.C.|Ipswich Town]].&lt;ref&gt;{{cite news |title=Cardiff City 1–0 Bristol City |url=https://www.bbc.co.uk/sport/football/43101660 |publisher=BBC Sport |date=25 February 2018 |accessdate=15 June 2018}}&lt;/ref&gt; Cardiff finished in 2nd place, gaining promotion to the [[Premier League]].&lt;ref&gt;{{cite news |title=Cardiff City 0–0 Reading |url=https://www.bbc.co.uk/sport/football/43938851 |publisher=BBC Sport |date=6 May 2018 |accessdate=15 June 2018}}&lt;/ref&gt;
 
 ====2018-19====
 Zohore started the [[2018–19 Cardiff City F.C. season|2018–19]] season as Cardiff's lead striker against [[A.F.C. Bournemouth|Bournemouth]], however, a string of injuries and bad form saw Zohore in and out of the squad. He scored his first [[Premier League]] goal, in a 2–1 win at [[Southampton F.C.|Southampton]] on 9 February.&lt;ref&gt;{{cite news |title=Southampton 1–2 Cardiff City |url=https://www.bbc.co.uk/sport/football/47099258 |publisher=BBC Sport |date=9 February 2019 |accessdate=9 February 2019}}&lt;/ref&gt;
@@ -2024,7 +2028,7 @@ In May 2018 he was named in Denmark’s preliminary 35-man [[Denmark national fo
 [[Category:K.V. Kortrijk players]]
 [[Category:Cardiff City F.C. players]]
 [[Category:Premier League players]]</text>
-      <sha1>3wazdg1zpmqwdy2imcib1gf6u9pjpxq</sha1>
+      <sha1>c3lnqcsbivncy6idi9ee1fjy3ehcxgc</sha1>
     </revision>
   </page>
   <page>
@@ -2032,9 +2036,9 @@ In May 2018 he was named in Denmark’s preliminary 35-man [[Denmark national fo
     <ns>0</ns>
     <id>40621885</id>
     <revision>
-      <id>885245032</id>
-      <parentid>884626716</parentid>
-      <timestamp>2019-02-26T21:43:55Z</timestamp>
+      <id>886954311</id>
+      <parentid>885245032</parentid>
+      <timestamp>2019-03-09T17:07:52Z</timestamp>
       <contributor>
         <username>Kosack</username>
         <id>4446447</id>
@@ -2042,7 +2046,7 @@ In May 2018 he was named in Denmark’s preliminary 35-man [[Denmark national fo
       <comment>Updated stats</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="23014">{{Use dmy dates|date=October 2017}}
+      <text xml:space="preserve" bytes="23006">{{Use dmy dates|date=October 2017}}
 {{Infobox football biography
 | name = Josh Murphy
 | image = Josh Murphy (cropped).jpg
@@ -2071,7 +2075,7 @@ In May 2018 he was named in Denmark’s preliminary 35-man [[Denmark national fo
 | goals3 = 5
 | years4 = 2018–
 | clubs4 = [[Cardiff City F.C.|Cardiff City]]
-| caps4 = 22
+| caps4 = 23
 | goals4 = 3
 | nationalyears1 = 2012
 | nationalteam1 = [[England national under-18 football team|England U18]]
@@ -2085,7 +2089,7 @@ In May 2018 he was named in Denmark’s preliminary 35-man [[Denmark national fo
 | nationalteam3 = [[England national under-20 football team|England U20]]
 | nationalcaps3 = 3
 | nationalgoals3 = 1
-| club-update = 21:43, 26 February 2019 (UTC)
+| club-update = 17:07, 9 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Joshua Murphy''' (born 24 February 1995) is an English professional [[Association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for [[Premier League]] club [[Cardiff City F.C.|Cardiff City]]. He scored on his professional debut in a [[EFL Cup|League Cup]] match against [[Watford F.C.|Watford]]. He is the twin brother of professional footballer [[Jacob Murphy]].
@@ -2135,7 +2139,7 @@ The twins spoke about their close bonds and being there for each other.&lt;ref n
 While on the pitch, former manager [[Chris Hughton]] instructed the twins to wear different coloured boots so that he could tell them apart.&lt;ref&gt;{{cite news|title=Norwich City's Murphy twins wear different boots to help boss|url=https://www.bbc.co.uk/sport/0/football/25685868|publisher=BBC Sport|date=29 December 2014|accessdate=29 December 2014}}&lt;/ref&gt; His uncle is former [[Ipswich Town]] footballer [[Tommy Parkin]].&lt;ref name=parkinsNephews&gt;{{cite news | last = Roger | first = James | title = Who is Jacob Murphy? Five things you need to know about Coventry City FC's new signing | newspaper = Coventry Telegraph | location = Coventry | language = English | date = 15 August 2015 | url = https://www.coventrytelegraph.net/sport/football/football-news/who-jacob-murphy-five-things-9862814 | access-date = 18 April 2018}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 26 February 2019}}
+{{updated|match played 9 March 2019}}
 {| class=wikitable style="text-align: center"
 |+ Appearances and goals by club, season and competition
 |-
@@ -2190,10 +2194,10 @@ While on the pitch, former manager [[Chris Hughton]] instructed the twins to wea
 |[[Cardiff City F.C.|Cardiff City]]
 |[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|67647|2018|accessdate=1 August 2018}}&lt;/ref&gt;
 |Premier League
-|22||3||1||0||0||0||colspan=2|—||23||3
+|23||3||1||0||0||0||colspan=2|—||24||3
 |-
 !colspan=3|Career Total
-!154!!19!!9!!1!!11!!8!!3!!5!!177!!33
+!155!!19!!9!!1!!11!!8!!3!!5!!178!!33
 |}
 
 {{Notelist}}
@@ -2229,7 +2233,7 @@ While on the pitch, former manager [[Chris Hughton]] instructed the twins to wea
 [[Category:Twin sportspeople]]
 [[Category:Twin people from England]]
 [[Category:Black British sportspeople]]</text>
-      <sha1>h92bxo4oku46irfvj15ocf2d859gihf</sha1>
+      <sha1>tqdygec6craa96j6gxuzoiqffkbsq61</sha1>
     </revision>
   </page>
   <page>
@@ -2237,14 +2241,14 @@ While on the pitch, former manager [[Chris Hughton]] instructed the twins to wea
     <ns>0</ns>
     <id>14576175</id>
     <revision>
-      <id>880693068</id>
-      <parentid>880693000</parentid>
-      <timestamp>2019-01-28T21:51:01Z</timestamp>
+      <id>886283657</id>
+      <parentid>886238723</parentid>
+      <timestamp>2019-03-05T08:50:24Z</timestamp>
       <contributor>
-        <username>Et3an&amp;&amp;&amp;</username>
-        <id>35715292</id>
+        <username>GiantSnowman</username>
+        <id>1005449</id>
       </contributor>
-      <comment>Changed back my mistake</comment>
+      <comment>rv date fmt change</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="22269">{{Use dmy dates|date=February 2018}}
@@ -2474,17 +2478,17 @@ On 24 August 2010, Smithies received his first call-up to the [[England national
     <ns>0</ns>
     <id>36633786</id>
     <revision>
-      <id>885833173</id>
-      <parentid>885245123</parentid>
-      <timestamp>2019-03-02T17:07:37Z</timestamp>
+      <id>887041879</id>
+      <parentid>887005975</parentid>
+      <timestamp>2019-03-10T06:19:12Z</timestamp>
       <contributor>
-        <username>Kosack</username>
-        <id>4446447</id>
+        <username>Kind Tennis Fan</username>
+        <id>19339494</id>
       </contributor>
-      <comment>Updated stats</comment>
+      <comment>ce.</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="23458">{{lead too short|date=June 2017}}
+      <text xml:space="preserve" bytes="23466">{{lead too short|date=June 2017}}
 {{EngvarB|date=April 2013}}
 {{Use dmy dates|date=April 2013}}
 {{Infobox football biography
@@ -2500,7 +2504,7 @@ On 24 August 2010, Smithies received his first call-up to the [[England national
 | youthyears1    = 2004–2010  | youthclubs1 = [[Tynecastle Boys Club]]
 | youthyears2    = 2010–2012  | youthclubs2 = [[Heart of Midlothian F.C. Under-20s and Academy|Heart of Midlothian]]
 | years1         = 2012–2017 | clubs1 = [[Heart of Midlothian F.C.|Heart of Midlothian]] | caps1 = 137 | goals1 = 33
-| years2         = 2017– | clubs2 = [[Cardiff City F.C.|Cardiff City]] | caps2 = 58 | goals2 = 14 &lt;!-- When updating please update club-update and stats table below not just Infobox.--&gt;
+| years2         = 2017– | clubs2 = [[Cardiff City F.C.|Cardiff City]] | caps2 = 59 | goals2 = 14 &lt;!-- When updating please update club-update and stats table below not just Infobox.--&gt;
 | nationalyears1 = 2012
 | nationalcaps1  = 1
 | nationalgoals1 = 0
@@ -2517,7 +2521,7 @@ On 24 August 2010, Smithies received his first call-up to the [[England national
 | nationalteam4  = [[Scotland national football team|Scotland]]
 | nationalcaps4  = 11
 | nationalgoals4 = 0
-| club-update       = 17:07, 2 March 2019 (UTC)
+| club-update       = 17:08, 9 March 2019 (UTC)
 | ntupdate       = 22 September 2018 (UTC)
 }}
 '''Callum Thomas Owen Paterson''' (born 13 October 1994)&lt;ref&gt;{{cite web | url=https://www.uefa.com/uefanationsleague/season=2019/teams/player=250053754/index.html | title=Callum Paterson | publisher=[[Uefa]] | work=uefa.com | accessdate=23 September 2012}}&lt;/ref&gt; is a professional [[association football|footballer]] who plays for [[Premier League]] club [[Cardiff City F.C.|Cardiff City]] and [[Scotland national football team|Scotland]]. Paterson started his career with [[Heart of Midlothian F.C.|Heart of Midlothian]], helping them win promotion to the [[Scottish Premiership]] in 2015. He moved to Cardiff City in 2017, and helped them win promotion to the Premier League in 2018.
@@ -2529,11 +2533,13 @@ Paterson's father is [[Scottish people|Scottish]] and his mother is from [[Zimba
 
 ==Club career==
 ===Heart of Midlothian===
-Paterson began his career as a youth player at [[Tynecastle F.C.|Tynecastle]]&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-news/hearts-starlet-callum-paterson-cant-1273229 | title=I can't believe I'm about to face Steven Gerrard, says Hearts starlet | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=22 August 2012 | accessdate=23 September 2012}}&lt;/ref&gt; before joining [[Heart of Midlothian F.C.|Heart of Midlothian]] in 2010.&lt;ref&gt;{{cite web | url=http://www.hydc.co.uk/callum_paterson.html | title=Callum Paterson | publisher=Heart of Midlothian Youth Development Committee | work=hydc.co.uk | accessdate=4 August 2012 | deadurl=yes | archiveurl=https://archive.is/20130527201218/http://www.hydc.co.uk/callum_paterson.html | archivedate=27 May 2013 | df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/21370530 | title=Foot injury ends Callum Paterson's season | publisher=[[BBC Sport]] | work=bbc.co.uk | date=7 February 2013 | accessdate=7 February 2013}}&lt;/ref&gt; A member of the club's Under-20 side&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/page/Squad/DevelopmentTeamDetail/0,,10289,00.html | title=U20 team | publisher=[[Heart of Midlothian F.C.]] | work=heartsfc.co.uk | accessdate=4 August 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20110901234010/http://www.heartsfc.co.uk/page/Squad/DevelopmentTeamDetail/0%2C%2C10289%2C00.html | archivedate=1 September 2011 | df=dmy-all }}&lt;/ref&gt; he was promoted to the first team during pre-season in the summer of 2012 and made his first team debut on 14 July, in a friendly against [[Raith Rovers F.C.|Raith Rovers]] where he scored the first goal of the game.&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/articles/20120714/match-report-raith-rovers-0-3-hearts_2241384_2847597 | title=Match Report: Raith Rovers 0–3 Hearts | publisher=[[Heart of Midlothian F.C.]] | accessdate=4 August 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20120927071330/http://www.heartsfc.co.uk/articles/20120714/match-report-raith-rovers-0-3-hearts_2241384_2847597 | archivedate=27 September 2012 | df=dmy-all }}&lt;/ref&gt; Having impressed during these pre-season fixtures,&lt;ref&gt;{{cite web | url=http://www.scotsman.com/sport/football/spl/hearts-boss-backs-young-talent-1-2448792 | title=Hearts boss backs young talent | publisher=[[Johnston Press]] | work=[[The Scotsman]] | date=3 August 2012 | accessdate=4 August 2012}}&lt;/ref&gt; on 4 August he made his [[Scottish Premier League]] (SPL) debut aged 17, in a 2–0 win over [[St Johnstone F.C.|St Johnstone]].&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/19025830 | title=Hearts 2&amp;nbsp;– 0 St Johnstone | publisher=[[BBC]] | work=BBC Sport | date=4 August 2012 | accessdate=4 August 2012}}&lt;/ref&gt; He made his European debut on 23 August, in a 1–0 defeat to [[Liverpool F.C.|Liverpool]] at [[Tynecastle Stadium|Tynecastle]].&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/19279553 | title=Hearts 0–1 Liverpool | publisher=[[BBC]] | work=BBC Sport | date=23 August 2012 | accessdate=23 August 2012}}&lt;/ref&gt; On 31 August, Paterson signed a new contract extending his stay with the club until 2015.&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/articles/20120831/contract-for-callum_2241384_2906740 | title=Contract for Callum | publisher=[[Heart of Midlothian F.C.]] | work=heartsfc.co.uk | date=31 August 2012 | accessdate=1 September 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20131203074744/http://www.heartsfc.co.uk/articles/20120831/contract-for-callum_2241384_2906740 | archivedate=3 December 2013 | df=dmy-all }}&lt;/ref&gt; On 22 September 2012, he scored his first two Career goals&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-match-reports/spl-dundee-united-0-hearts-1338414 | title=Hearts kid Callum Paterson gets first career goals as they demolish Dundee United | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=22 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt; in a 3–0 win over [[Dundee United F.C.|Dundee Utd]] in the [[Scottish Premier League|SPL]].&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/19615258 | title=Dundee Utd 0–3 Hearts | publisher=[[BBC]] | work=BBC Sport | date=22 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt; On 22 January 2013,&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/articles/20130124/injury-blow-for-callum_2241384_3051618 | title=Injury blow for Callum | publisher=[[Heart of Midlothian F.C.]] | work=heartsfc.co.uk | date=24 January 2013 | accessdate=26 January 2013 | deadurl=yes | archiveurl=https://web.archive.org/web/20131203063253/http://www.heartsfc.co.uk/articles/20130124/injury-blow-for-callum_2241384_3051618 | archivedate=3 December 2013 | df=dmy-all }}&lt;/ref&gt; Paterson suffered ligament damage to his foot&lt;ref&gt;{{cite web | url=http://www1.skysports.com/football/news/11781/8477655/ | title=Callum Paterson out until next season after surgery on injured foot | publisher=[[Sky Sports]] | work=skysports.com | date=7 February 2013 | accessdate=7 February 2013}}&lt;/ref&gt; in training that ruled him out of the [[Scottish League Cup]] Semi-final against [[Inverness Caledonian Thistle F.C.|Inverness]] that weekend.&lt;ref&gt;{{cite web | url=http://www1.skysports.com/football/news/11790/8430279/Hearts-teenager-Callum-Paterson-to-miss-semi-final-and-will-have-scan-on-his-ankle | title=Hearts teenager Callum Paterson to miss semi-final and will have scan on his ankle | publisher=[[Sky Sports]] | work=skysports.com | date=24 January 2013 | accessdate=26 January 2013}}&lt;/ref&gt; The injury required surgery and ultimately ruled him out for the remainder of the season.&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-news/blow-for-hearts-as-striker-callum-paterson-1591668 | title=Blow for Hearts as striker Callum Paterson is ruled out for the rest of the season | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=7 February 2013 | accessdate=7 February 2013}}&lt;/ref&gt; During his debut season Paterson made twenty seven appearances, scoring four times&lt;ref&gt;{{Soccerbase season|65785|2012|accessdate=1 July 2013}}&lt;/ref&gt; In doing so he played as a [[Defender (association football)#Full back|right-back]], [[midfielder]] and as a [[Striker (association football)|striker]],&lt;ref&gt;{{cite web | url=http://sport.stv.tv/football/clubs/hearts/191436-hearts-boss-says-callum-paterson-will-be-a-full-time-striker-after-double/ | title=Hearts boss says Callum Paterson will be a full-time striker after double | publisher=[[Scottish Television|STV]] | work=sport.stv.tv | date=22 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-match-reports/spl-dundee-united-0-hearts-1338938 | title=Hearts starlet Callum Paterson set for extended run up front | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=23 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt; with the latter being the position he played in before joining Hearts.&lt;ref&gt;{{cite web | url=http://www.scotsman.com/edinburgh-evening-news/football/hearts/hearts-youngster-callum-paterson-may-retain-striking-berth-against-dundee-united-1-2535109 | title=Hearts youngster Callum Paterson may retain striking berth against Dundee Unite | publisher=[[Edinburgh Evening News]] | work=scotsman.com | date=23 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt;
+Paterson began his career as a youth player at [[Tynecastle F.C.|Tynecastle]]&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-news/hearts-starlet-callum-paterson-cant-1273229 | title=I can't believe I'm about to face Steven Gerrard, says Hearts starlet | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=22 August 2012 | accessdate=23 September 2012}}&lt;/ref&gt; before joining [[Heart of Midlothian F.C.|Heart of Midlothian]] in 2010.&lt;ref&gt;{{cite web | url=http://www.hydc.co.uk/callum_paterson.html | title=Callum Paterson | publisher=Heart of Midlothian Youth Development Committee | work=hydc.co.uk | accessdate=4 August 2012 | deadurl=yes | archiveurl=https://archive.is/20130527201218/http://www.hydc.co.uk/callum_paterson.html | archivedate=27 May 2013 | df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/21370530 | title=Foot injury ends Callum Paterson's season | publisher=[[BBC Sport]] | work=bbc.co.uk | date=7 February 2013 | accessdate=7 February 2013}}&lt;/ref&gt; A member of the club's Under-20 side&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/page/Squad/DevelopmentTeamDetail/0,,10289,00.html | title=U20 team | publisher=[[Heart of Midlothian F.C.]] | work=heartsfc.co.uk | accessdate=4 August 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20110901234010/http://www.heartsfc.co.uk/page/Squad/DevelopmentTeamDetail/0%2C%2C10289%2C00.html | archivedate=1 September 2011 | df=dmy-all }}&lt;/ref&gt; he was promoted to the first team during pre-season in the summer of 2012 and made his first team debut on 14 July, in a friendly against [[Raith Rovers F.C.|Raith Rovers]] where he scored the first goal of the game.&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/articles/20120714/match-report-raith-rovers-0-3-hearts_2241384_2847597 | title=Match Report: Raith Rovers 0–3 Hearts | publisher=[[Heart of Midlothian F.C.]] | accessdate=4 August 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20120927071330/http://www.heartsfc.co.uk/articles/20120714/match-report-raith-rovers-0-3-hearts_2241384_2847597 | archivedate=27 September 2012 | df=dmy-all }}&lt;/ref&gt; Having impressed during these pre-season fixtures,&lt;ref&gt;{{cite web | url=http://www.scotsman.com/sport/football/spl/hearts-boss-backs-young-talent-1-2448792 | title=Hearts boss backs young talent | publisher=[[Johnston Press]] | work=[[The Scotsman]] | date=3 August 2012 | accessdate=4 August 2012}}&lt;/ref&gt; on 4 August he made his [[Scottish Premier League]] (SPL) debut aged 17, in a 2–0 win over [[St Johnstone F.C.|St Johnstone]].&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/19025830 | title=Hearts 2&amp;nbsp;– 0 St Johnstone | publisher=[[BBC]] | work=BBC Sport | date=4 August 2012 | accessdate=4 August 2012}}&lt;/ref&gt; He made his European debut on 23 August, in a 1–0 defeat to [[Liverpool F.C.|Liverpool]] at [[Tynecastle Stadium|Tynecastle]].&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/19279553 | title=Hearts 0–1 Liverpool | publisher=[[BBC]] | work=BBC Sport | date=23 August 2012 | accessdate=23 August 2012}}&lt;/ref&gt; 
+
+On 31 August 2012, Paterson signed a new contract extending his stay with the club until 2015.&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/articles/20120831/contract-for-callum_2241384_2906740 | title=Contract for Callum | publisher=[[Heart of Midlothian F.C.]] | work=heartsfc.co.uk | date=31 August 2012 | accessdate=1 September 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20131203074744/http://www.heartsfc.co.uk/articles/20120831/contract-for-callum_2241384_2906740 | archivedate=3 December 2013 | df=dmy-all }}&lt;/ref&gt; On 22 September 2012, he scored his first two Career goals&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-match-reports/spl-dundee-united-0-hearts-1338414 | title=Hearts kid Callum Paterson gets first career goals as they demolish Dundee United | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=22 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt; in a 3–0 win over [[Dundee United F.C.|Dundee Utd]] in the [[Scottish Premier League|SPL]].&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/19615258 | title=Dundee Utd 0–3 Hearts | publisher=[[BBC]] | work=BBC Sport | date=22 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt; On 22 January 2013,&lt;ref&gt;{{cite web | url=http://www.heartsfc.co.uk/articles/20130124/injury-blow-for-callum_2241384_3051618 | title=Injury blow for Callum | publisher=[[Heart of Midlothian F.C.]] | work=heartsfc.co.uk | date=24 January 2013 | accessdate=26 January 2013 | deadurl=yes | archiveurl=https://web.archive.org/web/20131203063253/http://www.heartsfc.co.uk/articles/20130124/injury-blow-for-callum_2241384_3051618 | archivedate=3 December 2013 | df=dmy-all }}&lt;/ref&gt; Paterson suffered ligament damage to his foot&lt;ref&gt;{{cite web | url=http://www1.skysports.com/football/news/11781/8477655/ | title=Callum Paterson out until next season after surgery on injured foot | publisher=[[Sky Sports]] | work=skysports.com | date=7 February 2013 | accessdate=7 February 2013}}&lt;/ref&gt; in training that ruled him out of the [[Scottish League Cup]] Semi-final against [[Inverness Caledonian Thistle F.C.|Inverness]] that weekend.&lt;ref&gt;{{cite web | url=http://www1.skysports.com/football/news/11790/8430279/Hearts-teenager-Callum-Paterson-to-miss-semi-final-and-will-have-scan-on-his-ankle | title=Hearts teenager Callum Paterson to miss semi-final and will have scan on his ankle | publisher=[[Sky Sports]] | work=skysports.com | date=24 January 2013 | accessdate=26 January 2013}}&lt;/ref&gt; The injury required surgery and ultimately ruled him out for the remainder of the season.&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-news/blow-for-hearts-as-striker-callum-paterson-1591668 | title=Blow for Hearts as striker Callum Paterson is ruled out for the rest of the season | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=7 February 2013 | accessdate=7 February 2013}}&lt;/ref&gt; During his debut season Paterson made twenty seven appearances, scoring four times&lt;ref&gt;{{Soccerbase season|65785|2012|accessdate=1 July 2013}}&lt;/ref&gt; In doing so he played as a [[Defender (association football)#Full back|right-back]], [[midfielder]] and as a [[Striker (association football)|striker]],&lt;ref&gt;{{cite web | url=http://sport.stv.tv/football/clubs/hearts/191436-hearts-boss-says-callum-paterson-will-be-a-full-time-striker-after-double/ | title=Hearts boss says Callum Paterson will be a full-time striker after double | publisher=[[Scottish Television|STV]] | work=sport.stv.tv | date=22 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.dailyrecord.co.uk/sport/football/football-match-reports/spl-dundee-united-0-hearts-1338938 | title=Hearts starlet Callum Paterson set for extended run up front | publisher=[[Daily Record (Scotland)|Daily Record]] | work=dailyrecord.co.uk | date=23 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt; with the latter being the position he played in before joining Hearts.&lt;ref&gt;{{cite web | url=http://www.scotsman.com/edinburgh-evening-news/football/hearts/hearts-youngster-callum-paterson-may-retain-striking-berth-against-dundee-united-1-2535109 | title=Hearts youngster Callum Paterson may retain striking berth against Dundee Unite | publisher=[[Edinburgh Evening News]] | work=scotsman.com | date=23 September 2012 | accessdate=23 September 2012}}&lt;/ref&gt;
 
 On 11 August 2013, Paterson scored his first goal of the 2013–14 campaign, when he headed home the only goal in the [[Edinburgh derby]] against [[Hibernian F.C.|Hibernian]] at Tynecastle.&lt;ref&gt;{{cite web | url=https://www.bbc.co.uk/sport/0/football/23565318 | title=A Callum Paterson header gave Hearts a vital victory and bragging rights in a frantic and edgy Edinburgh derby. | publisher=[[BBC Sport]] | work=bbc.co.uk/sport | date=11 August 2013 | accessdate=6 May 2014}}&lt;/ref&gt; On 27 April 2014, Paterson scored a brace against city rivals Hibernian in a 2–1 win. A week later he scored again in a 5–0 win over [[Kilmarnock F.C.|Kilmarnock]] and also scored three days later against [[Partick Thistle F.C.|Partick Thistle]]. Hearts were relegated at the end of the season, but immediately won promotion by winning the [[2014–15 Scottish Championship]]. In their first season back in the top flight, Hearts finished third in the [[2015–16 Scottish Premiership]] and qualified for European competition.
 
-During the summer of 2016, Patterson was subject to interest from several [[EFL Championship]] sides, with Hearts rejecting two bids from [[Wigan Athletic F.C.|Wigan Athletic]]&lt;ref&gt;{{cite news |title=Callum Paterson: Hearts reject new Wigan bid for full-back |url=https://www.bbc.co.uk/sport/football/37181276 |publisher=BBC Sport |date=24 August 2016 |accessdate=24 August 2016}}&lt;/ref&gt; Despite the interest, he stayed at the club, managing to score 9 goals in 20 appearances, before suffering a serious knee injury on 27 December, which ruled him out for six to nine months.&lt;ref&gt;{{cite news |title=Callum Paterson: Hearts right-back sidelined for six to nine months |url=https://www.bbc.co.uk/sport/football/38450959 |publisher=BBC Sport |date=28 December 2016 |accessdate=28 December 2016}}&lt;/ref&gt; Despite missing the last few months of the season, Paterson managed to pick up the club's Young Player of the Year Award.&lt;ref name=YPLOY/&gt;
+During the summer of 2016, Patterson was subject to interest from several [[EFL Championship]] sides, with Hearts rejecting two bids from [[Wigan Athletic F.C.|Wigan Athletic]].&lt;ref&gt;{{cite news |title=Callum Paterson: Hearts reject new Wigan bid for full-back |url=https://www.bbc.co.uk/sport/football/37181276 |publisher=BBC Sport |date=24 August 2016 |accessdate=24 August 2016}}&lt;/ref&gt; Despite the interest, he stayed at the club, managing to score 9 goals in 20 appearances, before suffering a serious knee injury on 27 December, which ruled him out for six to nine months.&lt;ref&gt;{{cite news |title=Callum Paterson: Hearts right-back sidelined for six to nine months |url=https://www.bbc.co.uk/sport/football/38450959 |publisher=BBC Sport |date=28 December 2016 |accessdate=28 December 2016}}&lt;/ref&gt; Despite missing the last few months of the season, Paterson managed to pick up the club's Young Player of the Year Award.&lt;ref name=YPLOY/&gt;
 
 ===Cardiff City===
 On 7 June 2017, Paterson agreed a three-year deal with [[EFL Championship]] club [[Cardiff City F.C.|Cardiff City]].&lt;ref&gt;{{cite news |title=Callum Paterson: Scotland defender joins Cardiff City on three-year deal |url=https://www.bbc.co.uk/sport/football/40189922 |publisher=BBC Sport |date=7 June 2016 |accessdate=7 June 2016}}&lt;/ref&gt; The knee injury suffered at Hearts kept him out of the first two months of the season, making his playing return for the [[Cardiff City F.C. Academy|Under-23 side]] in a 4–0 win over [[Burnley F.C.|Burnley]], on 18 September.&lt;ref&gt;{{cite news |title=U23 Match Report Burnley 0–4 Cardiff City |url=https://www.cardiffcityfc.co.uk/news/2017/september/match-report-for-burnley-u23-vs-cardiff-city-u23-on-18-sep-17/ |publisher=Cardiff City Football Club |date=18 September 2017 |accessdate=18 September 2017}}&lt;/ref&gt; On 21 October, Paterson returned to the first team, making his debut in a 1–0 win over [[Middlesbrough F.C.|Middlesbrough]], before scoring his first goal for the club, the winner at [[Barnsley F.C.|Barnsley]], a month later.&lt;ref&gt;{{cite news |title=Middlesbrough 0–1 Cardiff City |url=https://www.bbc.co.uk/sport/football/41618274 |publisher=BBC Sport |date=21 October 2017 |accessdate=22 October 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Barnsley 0–1 Cardiff City |url=https://www.bbc.co.uk/sport/football/41978131 |publisher=BBC Sport |date=21 November 2017 |accessdate=23 November 2017}}&lt;/ref&gt; Cardiff manager, [[Neil Warnock]] moved Paterson into a central midfield position in the new year, later stating the reasoning behind the move was because he couldn't defend.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/42682884 |title=Callum Paterson: Cardiff 'wobble' out of way, says Scotland international |date=15 January 2018 |accessdate=13 February 2018 |work=BBC Sport |publisher=BBC}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Neil Warnock reveals why he won't actually play 'defender' Callum Paterson in defence |url=https://www.walesonline.co.uk/sport/football/football-news/neil-warnock-reveals-wont-actually-14419127 |publisher=South Wales Echo |date=16 March 2018 |accessdate=17 March 2018}}&lt;/ref&gt; Following his move to the new position, Paterson scored a brace against [[Sunderland A.F.C.|Sunderland]] on 13 January and found the back of the net three times in March.&lt;ref&gt;{{cite news |title=Cardiff City 4–0 Sunderland |url=https://www.bbc.co.uk/sport/football/42587431 |publisher=BBC Sport |date=13 January 2018 |accessdate=17 March 2018}}&lt;/ref&gt; He continued his good form throughout the rest of the season, scoring 10 goals, ending as the club's top goal scorer in the league, as they were promoted to the [[Premier League]]. Paterson was also voted Young Player of the Season by the Cardiff fans.&lt;ref&gt;{{cite news |title=Awards 2018: The Winners |url=https://www.cardiffcityfc.co.uk/news/2018/may/awards-2018/ |publisher=Cardiff City F.C. |date=6 May 2018 |accessdate=6 May 2018}}&lt;/ref&gt;
@@ -2548,7 +2554,7 @@ On 10 November 2014, manager [[Gordon Strachan]] called Paterson into the [[Scot
 He made his senior debut for Scotland on 29 May 2016 in a 1–0 friendly defeat against [[Italy national football team|Italy]].
 
 ==Career statistics==
-{{updated|match played 2 March 2019}}&lt;ref&gt;{{cite web | url=https://int.soccerway.com/players/callum-paterson/256154/ | title=C Paterson | publisher=Soccerway | work=uk.soccerway.com | accessdate=4 August 2012}}&lt;/ref&gt;
+{{updated|match played 9 March 2019}}&lt;ref&gt;{{cite web | url=https://int.soccerway.com/players/callum-paterson/256154/ | title=C Paterson | publisher=Soccerway | work=uk.soccerway.com | accessdate=4 August 2012}}&lt;/ref&gt;
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
 |-
@@ -2602,13 +2608,13 @@ He made his senior debut for Scotland on 29 May 2016 in a 1–0 friendly defeat 
 |-
 |[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|65785|2018|accessdate=1 August 2018}}&lt;/ref&gt;
 |[[Premier League]]
-|26||4||1||0||1||0||0||0||28||4 &lt;!-- Update the totals below as well.--&gt;
+|27||4||1||0||1||0||0||0||29||4 &lt;!-- Update the totals below as well.--&gt;
 |-
 !colspan=2|Cardiff City total
-!58!!14!!4!!0!!1!!0!!0!!0!!63!!14
+!59!!14!!4!!0!!1!!0!!0!!0!!64!!14
 |-
 !colspan=3|Career total
-!195!!47!!10!!1!!13!!3!!3!!1!!221!!52
+!196!!47!!10!!1!!13!!3!!3!!1!!222!!52
 |}
 {{reflist|group=lower-alpha}}
 
@@ -2658,7 +2664,7 @@ He made his senior debut for Scotland on 29 May 2016 in a 1–0 friendly defeat 
 [[Category:Association football forwards]]
 [[Category:Premier League players]]
 [[Category:Anglo-Scots]]</text>
-      <sha1>hnkzqd7andeo8rdqzxibykgjrvymg4j</sha1>
+      <sha1>l75bmp0r1rgwvr2lti4oydutp66srvi</sha1>
     </revision>
   </page>
   <page>
@@ -2696,9 +2702,9 @@ He made his senior debut for Scotland on 29 May 2016 in a 1–0 friendly defeat 
     <ns>0</ns>
     <id>25081571</id>
     <revision>
-      <id>885245320</id>
-      <parentid>884626929</parentid>
-      <timestamp>2019-02-26T21:46:30Z</timestamp>
+      <id>886954516</id>
+      <parentid>885245320</parentid>
+      <timestamp>2019-03-09T17:09:35Z</timestamp>
       <contributor>
         <username>Kosack</username>
         <id>4446447</id>
@@ -2706,7 +2712,7 @@ He made his senior debut for Scotland on 29 May 2016 in a 1–0 friendly defeat 
       <comment>Updated stats</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="14952">{{Infobox football biography
+      <text xml:space="preserve" bytes="14944">{{Infobox football biography
 |           name = Leandro Bacuna
 |       fullname = Leandro Jones Johan Bacuna&lt;ref name="Barclays Premier League Squad Numbers 2013/14"&gt;{{Cite news
  |title=Barclays Premier League Squad Numbers 2013/14
@@ -2741,7 +2747,7 @@ He made his senior debut for Scotland on 29 May 2016 in a 1–0 friendly defeat 
 |          caps1 = 109
 |          caps2 = 116
 |          caps3 = 60
-|          caps4 = 4
+|          caps4 = 5
 |         goals1 = 14
 |         goals2 = 7&lt;!-- LEAGUE GAMES ONLY - When you update this parameter, please update the club-update parameter! --&gt;
 |         goals3 = 4&lt;!-- LEAGUE GAMES ONLY - When you update this parameter, please update the club-update parameter! --&gt;
@@ -2762,7 +2768,7 @@ He made his senior debut for Scotland on 29 May 2016 in a 1–0 friendly defeat 
 |nationalteam4 = [[Curaçao national football team|Curaçao]]
 |nationalcaps4 = 19
 |nationalgoals4 = 9
-|club-update = 21:46, 26 February 2019 (UTC)
+|club-update = 17:09, 9 March 2019 (UTC)
 |nationalteam-update = 13:41, 23 January 2019 (UTC)
 }}
 '''Leandro Jones Johan Bacuna''' (born 21 August 1991) is a professional [[association football|footballer]] who plays for Welsh club [[Cardiff City|Cardiff City ]] as a [[midfielder]] and [[Defender (association football)|right back]]. Bacuna was capped 20 times at youth levels for the Netherlands and also represented the [[Netherlands Antilles national football team|Netherlands Antilles]] at youth level.&lt;ref&gt;{{cite web|url=http://www.hitc.com/en-gb/2015/03/24/aston-villas-leandro-bacuna-hoping-for-international-future-with/|title=Aston Villa's Leandro Bacuna hoping for international future with the Netherlands}}&lt;/ref&gt; Bacuna represents the [[Curaçao national football team|Curaçao national team]], the successor side to the Netherlands Antilles, and won the [[2017 Caribbean Cup]] with the side in July 2017.
@@ -2798,7 +2804,7 @@ He is the older brother of professional footballer [[Juninho Bacuna]].&lt;ref&gt
 
 ==Career statistics==
 ===Club===
-{{updated|match played 26 February 2019}}&lt;ref&gt;{{soccerway|leandro-bacuna/88003|accessdate=17 February 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Leandro Bacuna|url=http://www.soccerbase.com/players/player.sd?player_id=55800|work=Soccerbase|accessdate=6 May 2018}}&lt;/ref&gt;
+{{updated|match played 9 March 2019}}&lt;ref&gt;{{soccerway|leandro-bacuna/88003|accessdate=17 February 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Leandro Bacuna|url=http://www.soccerbase.com/players/player.sd?player_id=55800|work=Soccerbase|accessdate=6 May 2018}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center"
 |+Appearances and goals by club, season and competition
@@ -2866,10 +2872,10 @@ He is the older brother of professional footballer [[Juninho Bacuna]].&lt;ref&gt
 |[[Cardiff City F.C.|Cardiff City]] 
 |[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref name="LB18"/&gt;
 |[[Premier League]]
-|4||0||0||0||0||0||0||0||4||0
+|5||0||0||0||0||0||0||0||5||0
 |-
 !colspan=3|Career Total
-!288!!25!!23!!6!!1!!1!!7!!2!!332!!31
+!289!!25!!23!!6!!1!!1!!7!!2!!333!!31
 |}
 
 {{reflist|group=lower-alpha}}
@@ -2959,7 +2965,7 @@ He is the older brother of professional footballer [[Juninho Bacuna]].&lt;ref&gt
 [[Category:Expatriate footballers in England]]
 [[Category:Dutch expatriate sportspeople in England]]
 [[Category:2017 CONCACAF Gold Cup players]]</text>
-      <sha1>f4l1w1jvoyfsxcx1gojn3iq233rrcym</sha1>
+      <sha1>du805y79hau1le282oe2vhbfy05rm05</sha1>
     </revision>
   </page>
   <page>
@@ -2967,17 +2973,17 @@ He is the older brother of professional footballer [[Juninho Bacuna]].&lt;ref&gt
     <ns>0</ns>
     <id>16135942</id>
     <revision>
-      <id>885833381</id>
-      <parentid>885245427</parentid>
-      <timestamp>2019-03-02T17:09:19Z</timestamp>
+      <id>888479056</id>
+      <parentid>888479026</parentid>
+      <timestamp>2019-03-19T13:00:23Z</timestamp>
       <contributor>
-        <username>Kosack</username>
-        <id>4446447</id>
+        <username>GiantSnowman</username>
+        <id>1005449</id>
       </contributor>
-      <comment>Updated stats</comment>
+      <comment>Filled in 3 bare reference(s) with [[:en:WP:REFILL|reFill]] ()</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="30104">{{Use dmy dates|date=September 2017}}
+      <text xml:space="preserve" bytes="30681">{{Use dmy dates|date=September 2017}}
 {{icelandic name|Aron|male}}
 {{Infobox football biography
 |name        = Aron Gunnarsson
@@ -3007,7 +3013,7 @@ He is the older brother of professional footballer [[Juninho Bacuna]].&lt;ref&gt
 |goals3      = 6
 |years4      = 2011–
 |clubs4      = [[Cardiff City F.C.|Cardiff City]]
-|caps4       = 262
+|caps4       = 263
 |goals4      = 25
 |nationalyears1 = 2005
 |nationalteam1  = [[Iceland national under-17 football team|Iceland U17]]
@@ -3025,7 +3031,7 @@ He is the older brother of professional footballer [[Juninho Bacuna]].&lt;ref&gt
 |nationalteam4  = [[Iceland national football team|Iceland]]
 |nationalcaps4  = 81
 |nationalgoals4 = 2
-|club-update    = 17:09, 2 March 2019 (UTC)
+|club-update    = 17:10, 9 March 2019 (UTC)
 |ntupdate       = 15 November 2018
 }}
 '''Aron Einar Malmquist Gunnarsson''' (born 22 April 1989) is an Icelandic professional [[Association football|footballer]] who plays for Welsh {{English football updater|CardiffC}} club [[Cardiff City F.C.|Cardiff City]] and [[Captain (association football)|captains]] the [[Iceland national football team|Icelandic national team]]. He can play either as a [[Midfielder#Defensive midfielder|defensive midfielder]] or a [[Midfielder#Central midfielder|central midfielder]].
@@ -3061,7 +3067,9 @@ Following his return from [[Euro 2016]], Aron was linked with a move away from t
 
 The following season, Aron failed to nail down a consistent place in the starting eleven, due to a number of injuries throughout the first half of the season.&lt;ref&gt;{{cite news |title=Aron Gunnarsson: Cardiff boss Neil Warnock hopeful of midfielder's fitness |url=https://www.bbc.co.uk/sport/football/41595104 |publisher=BBC Sport |date=12 October 2017 |accessdate=12 October 2017}}&lt;/ref&gt; Despite his injury problems, Cardiff offered him a new contract, which was later rejected by the player.&lt;ref&gt;{{cite news |title=Aron Gunnarsson: Iceland midfielder to leave Cardiff City after rejecting deal |url=https://www.bbc.co.uk/sport/football/42181533 |publisher=BBC Sport |date=30 November 2017 |accessdate=30 November 2017}}&lt;/ref&gt; Aron returned to the side for the final run-in, where he scored the winning goal against [[Nottingham Forest F.C.|Nottingham Forest]] and ultimately helped Cardiff gain promotion to the [[Premier League]].&lt;ref&gt;{{cite news |title=Cardiff City 2–1 |url=https://www.bbc.co.uk/sport/football/43762401 |publisher=BBC Sport |date=21 April 2018 |accessdate=15 June 2018}}&lt;/ref&gt;
 
-In July 2018, Aron signed a new one-year deal.&lt;ref&gt;{{cite news |title=Confirmed: Aron Gunnarsson signs new City deal |url=https://www.cardiffcityfc.co.uk/news/2018/july/aron-gunnarsson-signs-new-city-deal/ |publisher=Cardiff City Official Site |date=9 July 2018 |accessdate=9 July 2018}}&lt;/ref&gt;
+In July 2018, Aron signed a new one-year deal.&lt;ref&gt;{{cite news |title=Confirmed: Aron Gunnarsson signs new City deal |url=https://www.cardiffcityfc.co.uk/news/2018/july/aron-gunnarsson-signs-new-city-deal/ |publisher=Cardiff City Official Site |date=9 July 2018 |accessdate=9 July 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44769640|title=Aron Gunnarsson: Cardiff City midfielder signs new contract|date=9 July 2018|publisher=|via=www.bbc.co.uk}}&lt;/ref&gt;
+
+In March 2019 it was announced that Aron would leave the club at the end of the season.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/47622311|title=Aron Gunnarsson: Cardiff City midfielder set to leave at end of season|date=19 March 2019|publisher=|via=www.bbc.co.uk}}&lt;/ref&gt;
 
 ==International career==
 [[File:2014-05-30 Austria - Iceland football match, Aron Gunnarsson 0265-crop.jpg|thumb|Right|Aron playing for [[Iceland national football team|Iceland]] in 2012.]]
@@ -3073,14 +3081,14 @@ On 10 October 2014, Aron scored his first senior international goal in Iceland's
 
 Aron captained Iceland at their first major international tournament, [[UEFA Euro 2016]] in France. After their first match, a shock 1–1 draw with [[Portugal national football team|Portugal]] in [[Saint-Étienne]], opposing skipper [[Cristiano Ronaldo]] refused to trade shirts with him.&lt;ref&gt;{{cite news|last1=Wright|first1=Chris|title=Iceland's Aron Gunnarsson finally gets his hands on a Cristiano Ronaldo shirt|url=http://www.espnfc.co.uk/blog/the-toe-poke/65/post/2898652/aron-gunnarsson-finally-gets-his-hands-on-a-cristiano-ronaldo-shirt|accessdate=3 July 2016|publisher=BBC Sport|date=21 June 2016}}&lt;/ref&gt; Iceland finished second in their group, after beating [[Austria national football team|Austria]] and drawing against [[Hungary national football team|Hungary]], and then knocked out [[England national football team|England]] in the round of 16.&lt;ref&gt;{{cite news |title=England 1 Iceland 2: Fairytale continues as Hodgson's men crash out |url=http://www.fourfourtwo.com/news/england-1-iceland-2-fairytale-continues-hodgsons-men-crash-out |website=[[FourFourTwo]] |date=27 June 2016 |accessdate=28 June 2016}}&lt;/ref&gt; They were defeated by [[France national football team|France]], 5–2, in the quarter-final. Aron played in all five games.&lt;ref&gt;{{Cite web|url=http://www.uefa.com/uefaeuro/season=2016/teams/team=58/squad/index.html|title=UEFA EURO 2016 - History - Iceland – UEFA.com|last=uefa.com|website=UEFA.com|language=en|access-date=18 June 2018}}&lt;/ref&gt;
 
-In May 2018 he was named in Iceland’s [[Iceland national football team|23 man squad]] for the [[2018 World Cup]] in [[Russia]].&lt;ref&gt;https://www.goal.com/en/amp/news/world-cup-squad-injured-gylfi-sigurdsson/17guw991qjit61qqhhfn9lyhon&lt;/ref&gt;
+In May 2018 he was named in Iceland’s [[Iceland national football team|23 man squad]] for the [[2018 World Cup]] in [[Russia]].&lt;ref&gt;{{cite web|url=https://www.goal.com/en/news/world-cup-squad-injured-gylfi-sigurdsson/17guw991qjit61qqhhfn9lyhon|title=Injured Gylfi Sigurdsson in Iceland's World Cup squad - Goal.com|website=www.goal.com}}&lt;/ref&gt;
 
 ==Personal life==
 His older brother [[Arnór Þór Gunnarsson]] plays [[handball]] for the [[Iceland national handball team|Icelandic national team]].&lt;ref&gt;{{cite news|title=THE GUNNARSSON BROTHERS: A HANDBALL-FOOTBALL FAIRYTALE|url=http://www.eurohandball.com/article/026260/The+Gunnarsson+brothers%3A+A+handball-football+fairytale|accessdate=14 August 2016|publisher=European Handball Federation|date=3 July 2016}}&lt;/ref&gt;
 
 ==Career statistics==
 ===Club===
-{{updated|2 March 2019}}&lt;ref&gt;{{cite web|url=http://www.ksi.is/mot/motalisti/felagsmadur/?pLeikmadurNr=148732 |title=Aron Einar Gunnarsson |publisher=KSÍ |accessdate=3 August 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130312064228/http://www.ksi.is/mot/motalisti/felagsmadur/?pLeikmadurNr=148732 |archivedate=12 March 2013  }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ksi.is/mot/motalisti/lid-i-moti/?lid=603&amp;mot=8672 |title=Þór Akureyri League Cup Squad 2005 |publisher=KSÍ |accessdate=7 February 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131021135607/http://www.ksi.is/mot/motalisti/lid-i-moti/?lid=603&amp;mot=8672 |archivedate=21 October 2013  }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ksi.is/mot/motalisti/lid-i-moti/?lid=603&amp;mot=12044 |title=Þór Akureyri League Cup Squad 2006 |publisher=KSÍ |accessdate=7 February 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131021135442/http://www.ksi.is/mot/motalisti/lid-i-moti/?lid=603&amp;mot=12044 |archivedate=21 October 2013  }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.vi.nl/Spelers/Speler.htm?dbid=57443&amp;typeofpage=84137|title=Profile|language=Dutch|publisher=Voetbal International}}&lt;/ref&gt;&lt;ref&gt;{{soccerbase|48343}}&lt;/ref&gt;
+{{updated|9 March 2019}}&lt;ref&gt;{{cite web|url=http://www.ksi.is/mot/motalisti/felagsmadur/?pLeikmadurNr=148732 |title=Aron Einar Gunnarsson |publisher=KSÍ |accessdate=3 August 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130312064228/http://www.ksi.is/mot/motalisti/felagsmadur/?pLeikmadurNr=148732 |archivedate=12 March 2013  }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ksi.is/mot/motalisti/lid-i-moti/?lid=603&amp;mot=8672 |title=Þór Akureyri League Cup Squad 2005 |publisher=KSÍ |accessdate=7 February 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131021135607/http://www.ksi.is/mot/motalisti/lid-i-moti/?lid=603&amp;mot=8672 |archivedate=21 October 2013  }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ksi.is/mot/motalisti/lid-i-moti/?lid=603&amp;mot=12044 |title=Þór Akureyri League Cup Squad 2006 |publisher=KSÍ |accessdate=7 February 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131021135442/http://www.ksi.is/mot/motalisti/lid-i-moti/?lid=603&amp;mot=12044 |archivedate=21 October 2013  }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.vi.nl/Spelers/Speler.htm?dbid=57443&amp;typeofpage=84137|title=Profile|language=Dutch|publisher=Voetbal International}}&lt;/ref&gt;&lt;ref&gt;{{soccerbase|48343}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -3158,13 +3166,13 @@ His older brother [[Arnór Þór Gunnarsson]] plays [[handball]] for the [[Icela
 |-
 |Premier League
 |[[2018–19 Cardiff City F.C. season|2018–19]]
-|19||1||0||0||0||0||0||0||19||1
+|20||1||0||0||0||0||0||0||20||1
 |-
 !colspan=2|Total
-!262||25||3||0||10||0||2||0||277||25
+!263||25||3||0||10||0||2||0||278||25
 |-
 !colspan=3|Career total
-!396||31||16||1||20||0||2||0||434||32
+!397||31||16||1||20||0||2||0||435||32
 |}
 
 ===International===
@@ -3288,7 +3296,7 @@ His older brother [[Arnór Þór Gunnarsson]] plays [[handball]] for the [[Icela
 [[Category:Icelandic expatriate sportspeople in England|Aron Gunnarsson]]
 [[Category:UEFA Euro 2016 players]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>85lt41qc3kfzq302kq4tejqhiaegyhi</sha1>
+      <sha1>b8n8j96qkbqwq5712fbpynrxrozrgw9</sha1>
     </revision>
   </page>
   <page>
@@ -3537,14 +3545,14 @@ Cunningham had been capped by the Republic of Ireland at youth level before bein
     <ns>0</ns>
     <id>41376002</id>
     <revision>
-      <id>885833499</id>
-      <parentid>883218899</parentid>
-      <timestamp>2019-03-02T17:10:07Z</timestamp>
+      <id>887067686</id>
+      <parentid>887066074</parentid>
+      <timestamp>2019-03-10T11:05:50Z</timestamp>
       <contributor>
         <username>Kosack</username>
         <id>4446447</id>
       </contributor>
-      <comment>Updated stats</comment>
+      <comment>Reverted 1 edit by [[Special:Contributions/82.132.215.168|82.132.215.168]] ([[User talk:82.132.215.168|talk]]) to last revision by Kosack ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9328">{{Spanish name|Camarasa|Ferrando}}
@@ -3565,9 +3573,9 @@ Cunningham had been capped by the Republic of Ireland at youth level before bein
 | years2 = 2014–2017 | clubs2 = [[Levante UD|Levante]] | caps2 = 61 | goals2 = 4
 | years3 = 2016–2017 | clubs3 = → [[Deportivo Alavés|Alavés]] (loan) | caps3 = 31 | goals3 = 3
 | years4 = 2017– | clubs4 = [[Real Betis|Betis]] | caps4 = 24 | goals4 = 1
-| years5 = 2018– |clubs5 = → [[Cardiff City F.C.|Cardiff City]] (loan) |caps5 = 24 | goals5 = 3
+| years5 = 2018– |clubs5 = → [[Cardiff City F.C.|Cardiff City]] (loan) |caps5 = 25 | goals5 = 4
 | nationalyears1 = 2014–2017 | nationalteam1 = [[Spain national under-21 football team|Spain U21]] | nationalcaps1 = 4 | nationalgoals1 = 0
-| club-update = 17:10, 2 March 2019 (UTC)
+| club-update = 17:11, 9 March 2019 (UTC)
 | nationalteam-update =
 }}
 '''Víctor Camarasa Ferrando''' (born 28 May 1994) is a Spanish professional [[Association football|footballer]] who plays for Welsh club [[Cardiff City F.C.|Cardiff City]] on loan from [[Real Betis]] as a [[Midfielder#Central midfielder|central midfielder]].
@@ -3588,7 +3596,7 @@ On 29 June 2017, Camarasa signed a five-year contract with fellow league club [[
 On 9 August 2018, Camarasa joined [[Cardiff City F.C.|Cardiff City]] on loan for the [[2018–19 Premier League|2018–19 season]].&lt;ref&gt;{{cite web|url=https://www.cardiffcityfc.co.uk/news/2018/august/deadline-day--victor-camarasa-joins-on-loan/|title=Victor Camarasa signs on loan|publisher=Cardiff City F.C|date=9 August 2018|accessdate=9 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45126885|title=Victor Camarasa: Cardiff City confirm midfielder loan deal|publisher=[[BBC Sport]]|date=9 August 2018|accessdate=9 August 2018}}&lt;/ref&gt; He made his [[Premier League]] debut nine days later, playing 76 minutes in a 0–0 home draw against [[Newcastle United F.C.|Newcastle United]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45153217|title=Cardiff City 0–0 Newcastle United|publisher=BBC Sport|last=Pritchard|first=Dafydd|date=18 August 2018|accessdate=18 August 2018}}&lt;/ref&gt; His first goal came on 2 September, but in a 2–3 loss to [[Arsenal F.C.|Arsenal]] also at the [[Cardiff City Stadium]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45312124|title=Cardiff City 2–3 Arsenal|publisher=BBC Sport|last=Pearlman|first=Michael|date=2 September 2018|accessdate=22 December 2018}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|2 March 2019}}&lt;ref&gt;{{BDFutbol|301758}}&lt;/ref&gt;&lt;ref&gt;{{soccerway|victor-camarasa-ferrando/279608}}&lt;/ref&gt;
+{{updated|9 March 2019}}&lt;ref&gt;{{BDFutbol|301758}}&lt;/ref&gt;&lt;ref&gt;{{soccerway|victor-camarasa-ferrando/279608}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -3643,10 +3651,10 @@ On 9 August 2018, Camarasa joined [[Cardiff City F.C.|Cardiff City]] on loan for
 |[[Cardiff City F.C.|Cardiff City]] (loan)
 |[[2018–19 Cardiff City F.C. season|2018–19]]
 |[[Premier League]]
-|24||3||0||0||1||0||0||0||25||3
+|25||4||0||0||1||0||0||0||26||4
 |-
 !colspan="3"|Career total
-!167!!11!!18!!1!!1!!0!!0!!0!!186!!12
+!168!!12!!18!!1!!1!!0!!0!!0!!187!!13
 |}
 
 ==References==
@@ -3677,7 +3685,7 @@ On 9 August 2018, Camarasa joined [[Cardiff City F.C.|Cardiff City]] on loan for
 [[Category:Spain under-21 international footballers]]
 [[Category:Spanish expatriate footballers]]
 [[Category:Expatriate footballers in Wales]]</text>
-      <sha1>oo4xk197biswopsffq1xeto9q3nw641</sha1>
+      <sha1>hhsyn6xojfez0z0g91k0txw1zac8tpe</sha1>
     </revision>
   </page>
   <page>
@@ -3685,17 +3693,18 @@ On 9 August 2018, Camarasa joined [[Cardiff City F.C.|Cardiff City]] on loan for
     <ns>0</ns>
     <id>8179770</id>
     <revision>
-      <id>885833648</id>
-      <parentid>885418029</parentid>
-      <timestamp>2019-03-02T17:11:16Z</timestamp>
+      <id>887773278</id>
+      <parentid>887773159</parentid>
+      <timestamp>2019-03-14T19:06:54Z</timestamp>
       <contributor>
-        <username>Kosack</username>
-        <id>4446447</id>
+        <username>Mean as custard</username>
+        <id>10962546</id>
       </contributor>
-      <comment>Updated stats</comment>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/Djdnfbeidjdn|Djdnfbeidjdn]] ([[User talk:Djdnfbeidjdn|talk]]) to last version by ClueBot NG</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="62459">{{good article}}
+      <text xml:space="preserve" bytes="63123">{{good article}}
 {{Use dmy dates|date=December 2018}}
 {{Infobox football biography
 | name           = Sol Bamba
@@ -3799,7 +3808,7 @@ Following his release, Bamba trained with [[Derby County F.C.|Derby County]] who
 
 Bamba returned to the squad at the beginning of the 2017–18 season, helping Cardiff win their three opening games of the season, for the first time in their history.&lt;ref&gt;{{cite news |title=Cardiff City 2–0 Sheffield United |url=https://www.bbc.co.uk/sport/football/40858330 |publisher=BBC Sport |date=15 August 2017 |accessdate=15 August 2017}}&lt;/ref&gt; He signed a new three-year contract on 25 August 2017, following it up by heading in the winner against Queens Park Rangers the next day.&lt;ref&gt;{{cite news |title=Sol Bamba: Cardiff City defender signs new three-year deal |url=https://www.bbc.co.uk/sport/football/41047424 |publisher=BBC Sport |date=25 August 2017 |accessdate=25 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |title=Cardiff City 2–1 Queens Park Rangers |url=https://www.bbc.co.uk/sport/football/40983500 |publisher=BBC Sport |date=26 August 2017 |accessdate=26 August 2017}}&lt;/ref&gt; He went on to help the club win promotion to the [[Premier League]] after finishing the season in second place.&lt;ref name="promise"/&gt; He was ever present in the league, appearing in all 46 league matches, and was named in the PFA Championship Team of the Year.&lt;ref&gt;{{cite web |url=https://www.walesonline.co.uk/sport/football/cardiff-city-pfa-sol-bamba-14544868 |title=Just one Cardiff City star named in PFA Championship Team of the Year as three Fulham players included |last=Coleman |first=Tom |date=18 April 2018 |accessdate=13 August 2018}}&lt;/ref&gt;
 
-He made his debut in the Premier League in Cardiff's first match of the [[2018–19 Cardiff City F.C. season|2018–19 season]], a 2–0 defeat to [[A.F.C. Bournemouth]],&lt;ref name="Soccerway"/&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/45748147 |title=Sol Bamba ready to settle in 'perfect' Cardiff under 'father figure' Warnock |publisher=BBC Sport |date=4 October 2018 |accessdate=15 October 2018}}&lt;/ref&gt; before scoring his first goal in the top division in a 4–1 defeat to [[Chelsea F.C.|Chelsea]] in September 2018.&lt;ref name="Soccerway"/&gt;
+He made his debut in the Premier League in Cardiff's first match of the [[2018–19 Cardiff City F.C. season|2018–19 season]], a 2–0 defeat to [[A.F.C. Bournemouth]],&lt;ref name="Soccerway"/&gt;&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/45748147 |title=Sol Bamba ready to settle in 'perfect' Cardiff under 'father figure' Warnock |publisher=BBC Sport |date=4 October 2018 |accessdate=15 October 2018}}&lt;/ref&gt; before scoring his first goal in the top division in a 4–1 defeat to [[Chelsea F.C.|Chelsea]] in September 2018.&lt;ref name="Soccerway"/&gt; Bamba scored a further 3 goals during the season, including in wins against [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and [[Southampton F.C.|Southampton]].&lt;ref name="Soccerway"/&gt; Having missed only one match during the course of the season, he was ruled out for the remainder of the campaign after rupturing his cruciate knee ligaments in a defeat against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on 5 March 2019.&lt;ref&gt;{{cite news |title=Sol Bamba: Cardiff City defender out for rest of season with knee injury |url=https://www.bbc.co.uk/sport/football/47457494 |publisher=BBC Sport |date=5 March 2019 |accessdate=13 March 2019}}&lt;/ref&gt;
 
 ==International career==
 Although born in France, Bamba represents his parents' nation of [[Ivory Coast]]. He featured in the [[2003 FIFA World Youth Championship]],&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/28928381 |title=Souleymane Bamba completes transfer to Palermo |publisher=BBC Sport |last=Okeleji |first=Oluwashina |date=26 August 2014 |accessdate=27 August 2018}}&lt;/ref&gt; the 2005 [[African Youth Championship]] and the [[2008 Toulon Tournament]]. Bamba was part of the [[Football at the 2008 Summer Olympics – Men's team squads#.C2.A0C.C3.B4te d.27Ivoire|Ivory Coast]] squad that reached the [[Football at the 2008 Summer Olympics – Men's tournament#Quarter-finals|quarter-finals]] of the [[2008 Summer Olympics|2008 Olympic Games]].&lt;ref name = "international call up"&gt;{{cite news |url=http://www.dailyrecord.co.uk/football/spl/hibernian/2008/12/05/exclusive-ivory-coast-call-up-proves-i-was-right-to-make-hibs-switch-says-sol-bamba-86908-20947401/ |title=Exclusive: Ivory Coast call-up proves I was right to make Hibs switch, says Sol Bamba |work=[[Daily Record (Scotland)|Daily Record]] |date=5 December 2008 |accessdate=20 May 2010 |last=Ralston |first=Gary}}&lt;/ref&gt;
@@ -4002,7 +4011,7 @@ Bamba met his wife Chloe while playing for Leicester. They have three children t
 [[Category:Cardiff City F.C. players]]
 [[Category:Ivory Coast under-20 international footballers]]
 [[Category:Premier League players]]</text>
-      <sha1>3c9ifz1jnfsk93hejjvuaxtgislfija</sha1>
+      <sha1>9lj6p4z6cg7al31wr58ut8c035bs8ef</sha1>
     </revision>
   </page>
   <page>
@@ -4281,9 +4290,9 @@ Harris scored his first goal since returning from injury in the [[2018–19 Card
     <ns>0</ns>
     <id>34820739</id>
     <revision>
-      <id>885835816</id>
-      <parentid>885724073</parentid>
-      <timestamp>2019-03-02T17:28:12Z</timestamp>
+      <id>886954826</id>
+      <parentid>885835816</parentid>
+      <timestamp>2019-03-09T17:12:22Z</timestamp>
       <contributor>
         <username>Kosack</username>
         <id>4446447</id>
@@ -4331,7 +4340,7 @@ Harris scored his first goal since returning from injury in the [[2018–19 Card
 | goals6         = 4
 | years7         = 2019–
 | clubs7         = → [[Cardiff City F.C.|Cardiff City]] (loan)
-| caps7          = 6
+| caps7          = 7
 | goals7         = 0
 | nationalyears1 = 2011
 | nationalteam1  = [[Senegal national under-23 football team|Senegal U23]]
@@ -4341,7 +4350,7 @@ Harris scored his first goal since returning from injury in the [[2018–19 Card
 | nationalteam2  = [[Senegal national football team|Senegal]]
 | nationalcaps2  = 9
 | nationalgoals2 = 3
-| club-update    = 17:28, 2 March 2019 (UTC)
+| club-update    = 17:12, 9 March 2019 (UTC)
 | nationalteam-update  = 03:10, 6 October 2018 (UTC)
 }}
 
@@ -4402,7 +4411,7 @@ His brother [[Ibrahima Niasse]] is also a professional footballer.&lt;ref&gt;{{c
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}
+{{updated|match played 9 March 2019}}
 {| class=wikitable style="text-align: center;"
 |+ Appearances and goals by club, season and competition
 |-
@@ -4470,10 +4479,10 @@ His brother [[Ibrahima Niasse]] is also a professional footballer.&lt;ref&gt;{{c
 |[[Cardiff City F.C.|Cardiff City]] (loan)
 |[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref name="sway"/&gt;
 |Premier League
-|6||0||0||0||0||0||colspan="2"|—||6||0
+|7||0||0||0||0||0||colspan="2"|—||7||0
 |-
 !colspan=3|Career total
-!120!!36!!16!!5!!5!!2!!10!!5!!151!!48
+!121!!36!!16!!5!!5!!2!!10!!5!!152!!48
 |}
 
 {{notelist}}
@@ -4570,7 +4579,7 @@ His brother [[Ibrahima Niasse]] is also a professional footballer.&lt;ref&gt;{{c
 [[Category:Senegalese expatriate sportspeople in Russia]]
 [[Category:Senegalese expatriate sportspeople in England]]
 [[Category:2011 CAF U-23 Championship players]]</text>
-      <sha1>2lb42495lrawvhyggcb1xm98pu4ato2</sha1>
+      <sha1>j3wvanztg6ykbksyp4ozsclcewc9f8n</sha1>
     </revision>
   </page>
   <page>
@@ -4791,18 +4800,17 @@ On 24 August 2018, Healey joined [[EFL League Two|League Two]] club [[Milton Key
     <ns>0</ns>
     <id>16614958</id>
     <revision>
-      <id>884627547</id>
-      <parentid>884627370</parentid>
-      <timestamp>2019-02-22T21:52:21Z</timestamp>
+      <id>886954937</id>
+      <parentid>884627547</parentid>
+      <timestamp>2019-03-09T17:13:40Z</timestamp>
       <contributor>
         <username>Kosack</username>
         <id>4446447</id>
       </contributor>
-      <minor/>
-      <comment>/* Career statistics */ Fix typo</comment>
+      <comment>Updated stats</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="30615">{{Use dmy dates|date=November 2012}}
+      <text xml:space="preserve" bytes="30607">{{Use dmy dates|date=November 2012}}
 {{Infobox football biography
 | name                = Junior Hoilett
 | image               = Junior Hoilett 1.jpg
@@ -4846,13 +4854,13 @@ On 24 August 2018, Healey joined [[EFL League Two|League Two]] club [[Milton Key
 | goals4              = 12
 | years5              = 2016–
 | clubs5              = [[Cardiff City F.C.|Cardiff City]]
-| caps5               = 101
-| goals5              = 13
+| caps5               = 102
+| goals5              = 14
 | nationalyears1      = 2015–
 | nationalteam1       = [[Canada men's national soccer team|Canada]]
 | nationalcaps1       = 20
 | nationalgoals1      = 3
-| club-update         = 21:50, 22 February 2019 (UTC)
+| club-update         = 17:13, 9 March 2019 (UTC)
 | ntupdate            = 18 November 2018
 }}
 '''David Wayne "Junior" Hoilett''' (born 5 June 1990) is a Canadian professional [[association football]] player who plays as a [[Midfielder#Winger|winger]] for [[Premier League]] club [[Cardiff City F.C.|Cardiff City]] and the [[CMNT|Canadian national team]].
@@ -4955,7 +4963,7 @@ Hoilett officially declared for Canada in September 2015, prior to the [[2018 FI
 Hoilett's parents are of Jamaican descent;&lt;ref name=lancs/&gt; his father hails from [[Ocho Rios]] in Jamaica.&lt;ref name="gleaner-2012-2-6"/&gt; Hoilett's brother is Canada U-20 international Jaineil Hoilett.&lt;ref&gt;{{cite web | url  = http://www.canadasoccer.com/players/profile.asp?playerid=1677&amp;gender=male | title =Jaineil Hoilett Profile | publisher = Canadasoccer.com}}{{Dead link|date=July 2012}}&lt;/ref&gt; who represented Canada at the [[2009 CONCACAF U-17 Championship]] and Canada's U-20 team against the United States in December 2010.&lt;ref&gt;{{cite web|title=U.S. U-20 Men's National Team tops Canada 2–0 in friendly in Florida|url=http://www.nationalsoccerwire.com/news/458/12563|publisher=National Soccer Wire|accessdate=12 March 2012|date=18 December 2010}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 22 February 2019}} &lt;ref&gt;{{cite web|title=Junior Hoilett|url=http://www.soccerbase.com/players/player.sd?player_id=52010|work=Soccerbase|accessdate=14 December 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Junior Hoilett|url=https://int.soccerway.com/players/david-hoilett/33261/|work=Soccerway|accessdate=14 December 2015}}&lt;/ref&gt;
+{{updated|match played 9 March 2019}} &lt;ref&gt;{{cite web|title=Junior Hoilett|url=http://www.soccerbase.com/players/player.sd?player_id=52010|work=Soccerbase|accessdate=14 December 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Junior Hoilett|url=https://int.soccerway.com/players/david-hoilett/33261/|work=Soccerway|accessdate=14 December 2015}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -5023,13 +5031,13 @@ Hoilett's parents are of Jamaican descent;&lt;ref name=lancs/&gt; his father hai
 |-
 |[[2018–19 Cardiff City F.C. season|2018–19]]
 |Premier League
-|22||2||1||0||0||0||0||0||23||2
+|23||3||1||0||0||0||0||0||24||3
 |-
 !colspan=2|Total
-!101!!13!!4!!2!!1!!0!!0!!0!!106!!15
+!102!!14!!4!!2!!1!!0!!0!!0!!107!!16
 |-
 !colspan="3"|Career total
-!327!!44!!7!!3!!16!!2!!3!!0!!353!!50
+!328!!45!!7!!3!!16!!2!!3!!0!!354!!51
 |}
 
 ===International===
@@ -5109,7 +5117,7 @@ Hoilett's parents are of Jamaican descent;&lt;ref name=lancs/&gt; his father hai
 [[Category:2017 CONCACAF Gold Cup players]]
 [[Category:Canadian expatriate sportspeople in England]]
 [[Category:Canadian expatriate sportspeople in Wales]]</text>
-      <sha1>2pfmahewutocfohqyxl1pi7ji5uusle</sha1>
+      <sha1>qsgch010a0ovl50n0g0e6i9vy4y1x1q</sha1>
     </revision>
   </page>
   <page>
@@ -5980,18 +5988,16 @@ After originally beginning his career as a winger,&lt;ref name="Palacesigning"/&
     <ns>0</ns>
     <id>12071408</id>
     <revision>
-      <id>885965007</id>
-      <parentid>884749537</parentid>
-      <timestamp>2019-03-03T13:31:47Z</timestamp>
+      <id>887470854</id>
+      <parentid>886934433</parentid>
+      <timestamp>2019-03-12T21:47:28Z</timestamp>
       <contributor>
-        <username>GiantSnowman</username>
-        <id>1005449</id>
+        <username>MattTheBlade</username>
+        <id>35597526</id>
       </contributor>
-      <minor/>
-      <comment>/* Cardiff City */clean up</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="29784">{{Use British English|date=December 2011}}
+      <text xml:space="preserve" bytes="29782">{{Use British English|date=December 2011}}
 {{Use dmy dates|date=December 2018}}
 {{Infobox football biography
 | name = Gary Madine
@@ -6039,7 +6045,7 @@ After originally beginning his career as a winger,&lt;ref name="Palacesigning"/&
 | caps8 = 15
 | caps9 = 96
 | caps10 = 18
-| caps11 = 7
+| caps11 = 10
 | goals1 = 14
 | goals2 = 0
 | goals3 = 0
@@ -6051,7 +6057,7 @@ After originally beginning his career as a winger,&lt;ref name="Palacesigning"/&
 | goals9 = 24
 | goals10 = 0
 | goals11 = 2
-| club-update = 19:32, 23 February 2019 (UTC)
+| club-update = 21:47, 12 March 2019 (UTC)
 }}
 '''Gary Lee Madine''' (born 24 August 1990) is an English professional [[association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] on loan at [[EFL Championship|Championship]] club [[Sheffield United F.C.|Sheffield United]] from [[Premier League]] side [[Cardiff City F.C.|Cardiff City]].
 
@@ -6411,7 +6417,7 @@ Madine has been convicted of several assaults. In November 2010 he was found gui
 [[Category:English Football League players]]
 [[Category:English people convicted of assault]]
 [[Category:Premier League players]]</text>
-      <sha1>eob723jfrfwmv3d2ij96m5bxshhjj3n</sha1>
+      <sha1>q8ixbbt756qunk4ismpni8ouzg73bji</sha1>
     </revision>
   </page>
   <page>
@@ -6419,17 +6425,17 @@ Madine has been convicted of several assaults. In November 2010 he was found gui
     <ns>0</ns>
     <id>50549513</id>
     <revision>
-      <id>885869193</id>
-      <parentid>885331046</parentid>
-      <timestamp>2019-03-02T21:32:14Z</timestamp>
+      <id>888346560</id>
+      <parentid>888338035</parentid>
+      <timestamp>2019-03-18T15:20:13Z</timestamp>
       <contributor>
-        <username>Asmithffy</username>
-        <id>35993308</id>
+        <username>Kosack</username>
+        <id>4446447</id>
       </contributor>
-      <minor/>
+      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Thebuzzpomleyfan|Thebuzzpomleyfan]]: Length of period is irrelevant. Why is this penalty miss notable? Thousands of penalties are missed every season.  ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="47589">{{EngvarB|date=July 2015}}
+      <text xml:space="preserve" bytes="47601">{{EngvarB|date=July 2015}}
 {{Use dmy dates|date=July 2015}}
 {{Infobox football biography
 | name            = Omar Bogle
@@ -6456,17 +6462,17 @@ Madine has been convicted of several assaults. In November 2010 he was found gui
 | years5          = 2017–     | clubs5 = [[Cardiff City F.C.|Cardiff City]]       | caps5 = 10  | goals5 = 3
 | years6          = 2018      | clubs6 = → [[Peterborough United F.C.|Peterborough United]] (loan) | caps6 = 9 |goals6 = 1
 | years7          = 2018–2019 | clubs7 = → [[Birmingham City F.C.|Birmingham City]] (loan) |caps7 = 15 | goals7 = 1
-| years8          = 2019–     | clubs8 = → [[Portsmouth F.C.|Portsmouth]] (loan)  |caps8 = 6 | goals8 = 3
+| years8          = 2019–     | clubs8 = → [[Portsmouth F.C.|Portsmouth]] (loan)  |caps8 = 8 | goals8 = 4
 | nationalyears1  = 2014
 | nationalteam1   = [[England C national football team|England C]]
 | nationalcaps1   = 1
 | nationalgoals1  = 1
-| club-update     = 21:28, 23 February 2019 (UTC)
+| club-update     = 08:28, 17 March 2019 (UTC)
 | nationalteam-update =
 }}
 '''Omar Bogle''' (born 26 July 1993) is an English professional [[association football|footballer]] who plays as a [[Striker (association football)|striker]] for {{English football updater|Portsmou}} club [[Portsmouth F.C.|Portsmouth]], on loan from [[Cardiff City F.C.|Cardiff City]] of the {{English football updater|CardiffC}}.
 
-Bogle is a former [[England C national football team|England C]] international. He is known for his diversity in physical style of play, strength and holding the ball to bringing others into play. At the age of 14, Bogle started his career with [[West Bromwich Albion F.C.|West Bromwich Albion]]'s [[youth system]] before spending another two years at [[Birmingham City F.C.|Birmingham City]]'s academy, where he appeared for their [[Birmingham City F.C. Reserves and Academy|reserve team]]. He then spent one year at [[Celtic F.C.|Celtic]]'s academy.
+Bogle is a former [[England C national football team|England C]] international. He is known for his diversity in physical style of play, strength and holding the ball to bringing others into play. At the age of 14, Bogle started his career with [[West Bromwich Albion F.C.|West Bromwich Albion]]'s youth system before spending another two years at [[Birmingham City F.C.|Birmingham City]]'s academy, where he appeared for their [[Birmingham City F.C. Reserves and Academy|reserve team]]. He then spent one year at [[Celtic F.C.|Celtic]]'s academy.
 
 Bogle returned south of the border in 2011, where he had a trial with [[Luton Town F.C.|Luton Town]], before securing a one-year deal with [[Hinckley United F.C.|Hinckley United]]. During his time there, he caught the attention of [[Solihull Moors F.C.|Solihull Moors]] manager [[Marcus Bignot]], he went on to spend the next three years there winning the [[Conference North]] player of the year in 2014/2015, also the golden boot award after topping the division's goalscoring charts with 29 goals.
 
@@ -6530,13 +6536,13 @@ Bogle's loan at Birmingham was cancelled by mutual agreement on 28 January 2019,
 Bogle was selected and called up to the [[England national football C team|England C]] team in 2014, to play against [[Estonia national under-23 football team|Estonia U23]]'s.&lt;ref name="5 non-league strikers"/&gt;&lt;ref&gt;{{cite news |title=England C name squad for Estonia clash in Halifax |url=http://www.thefa.com/news/england/development/2014/nov/england-c-announce-squad-for-estonia-clash |publisher=The Football Association |date=10 November 2014 |accessdate=13 July 2015}}&lt;/ref&gt; On 18 November 2014, Bogle opened the scoring after just four minutes and nodded down for [[Harry Beautyman]] to notch number two. He was substituted midway through the second half but not before seeing another shot blocked off the line; he left the pitch to a loud applause from the crowd.&lt;ref&gt;{{cite news |title=England C overcome Estonia U23s at The Shay |url=http://www.thefa.com/news/england/development/2014/nov/england-c-edge-estonia-23s |publisher=The Football Association |date=19 November 2014 |accessdate=13 July 2015}}&lt;/ref&gt;
 
 ==Style of play==
-Bogle primarily plays as a [[Forward (association football)#Striker|central striker]], he can dribble, hold the ball up, scores headers. Two-footed, he has the ability to score with his right foot, as well as his left foot.&lt;ref&gt;{{cite news |first=Michael |last=Beardmore |title=Former Birmingham City striker is the 'best striker in non-league' says ex-Lambs coach Byfield |url=http://www.tamworthherald.co.uk/Tamworth-face-best-striker-non-league-says-coach/story-25763551-detail/story.html |newspaper=Tamworth Herald |date=25 December 2014 |accessdate=13 July 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150615225153/http://www.tamworthherald.co.uk/Tamworth-face-best-striker-non-league-says-coach/story-25763551-detail/story.html |archivedate=15 June 2015 |df=dmy-all}}&lt;/ref&gt;
+Bogle primarily plays as a [[Forward (association football)#Striker|central striker]], he can dribble, hold the ball up, scores headers. he also has the ability to play with both his left foot and his right, a great skill for footballers.&lt;ref&gt;{{cite news |first=Michael |last=Beardmore |title=Former Birmingham City striker is the 'best striker in non-league' says ex-Lambs coach Byfield |url=http://www.tamworthherald.co.uk/Tamworth-face-best-striker-non-league-says-coach/story-25763551-detail/story.html |newspaper=Tamworth Herald |date=25 December 2014 |accessdate=13 July 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150615225153/http://www.tamworthherald.co.uk/Tamworth-face-best-striker-non-league-says-coach/story-25763551-detail/story.html |archivedate=15 June 2015 |df=dmy-all}}&lt;/ref&gt;
 
 ==Trivia==
 Omar Bogle's chant by [[Grimsby Town F.C.|Grimsby Town]] fans is a version of the song [[Tender (song)|Tender]] by the band [[Blur (band)|Blur]].&lt;ref&gt;{{cite news |first=Matt |last=Dannatt |title=Omar Bogle's new Grimsby Town chant is brilliant |url=http://www.grimsbytelegraph.co.uk/listen-omar-bogle-serenaded-with-new-chant-at-notts-county/story-29683958-detail/story.html |newspaper=Grimsby Telegraph |date=5 September 2016 |accessdate=29 January 2017 |deadurl=yes |archiveurl=https://web.archive.org/web/20160905140606/http://www.grimsbytelegraph.co.uk/listen-omar-bogle-serenaded-with-new-chant-at-notts-county/story-29683958-detail/story.html |archivedate=5 September 2016 |df=dmy-all}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 23 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class="wikitable" style=text-align:center
 |-
@@ -6604,11 +6610,11 @@ Omar Bogle's chant by [[Grimsby Town F.C.|Grimsby Town]] fans is a version of th
 |Championship||15||1||0||0||1||0||colspan=2|—||16||1
 |-
 |[[Portsmouth F.C.|Portsmouth]] (loan)
-|[[2018–19 Portsmouth F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|79428|2018|accessdate=28 January 2019}}&lt;/ref&gt;
-|League One||6||2||0||0||colspan=2|—||0||0||6||2
+|[[2018–19 Portsmouth F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|79428|2018|accessdate=13 March 2019}}&lt;/ref&gt;
+|League One||8||4||colspan=2|—||colspan=2|—||0||0||8||4
 |-
 !colspan=3|Career total
-!241||107||7||2||3||0||13||8||263||117
+!243||109||7||2||3||0||13||8||265||119
 |}
 
 {{notelist}}
@@ -6660,7 +6666,7 @@ Omar Bogle's chant by [[Grimsby Town F.C.|Grimsby Town]] fans is a version of th
 [[Category:National League (English football) players]]
 [[Category:English Football League players]]
 [[Category:Black English sportspeople]]</text>
-      <sha1>ap2wcqbqsa2otl0nfmi0fbz40njbcd2</sha1>
+      <sha1>i542pv1fdajrzskv4w5gqr4mfkjjuuj</sha1>
     </revision>
   </page>
   <page>

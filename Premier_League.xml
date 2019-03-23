@@ -3,7 +3,7 @@
     <sitename>Wikipedia</sitename>
     <dbname>enwiki</dbname>
     <base>https://en.wikipedia.org/wiki/Main_Page</base>
-    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <generator>MediaWiki 1.33.0-wmf.22</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -47,22 +47,22 @@
     <ns>0</ns>
     <id>11250</id>
     <revision>
-      <id>886062357</id>
-      <parentid>885835368</parentid>
-      <timestamp>2019-03-04T01:30:34Z</timestamp>
+      <id>888412790</id>
+      <parentid>888402320</parentid>
+      <timestamp>2019-03-19T00:00:40Z</timestamp>
       <contributor>
-        <username>Tomsega</username>
-        <id>3242948</id>
+        <username>Nzd</username>
+        <id>516514</id>
       </contributor>
-      <minor/>
+      <comment>Reverted 2 edits by [[Special:Contributions/Jopal22|Jopal22]] ([[User talk:Jopal22|talk]]): That isn't a consensus, and there is certainly no consensus for the note - suggest you read [[WP:COMMENT]] ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="173403">{{pp-vandalism|small=yes}}
+      <text xml:space="preserve" bytes="172997">{{pp-vandalism|small=yes}}
 {{About|the English association football league}}
 {{Featured article}}
 {{Use dmy dates|date=September 2018}}
 {{use British English|date=October 2012}}
-{{Short description|Association football  league in England}}
+{{Short description|Association football league in England}}
 {{Infobox football league
 | name       = Premier League
 | image      = Premier League Logo.svg
@@ -103,7 +103,7 @@ Despite significant European success in the 1970s and early 1980s, the late 1980
 
 By the turn of the 1990s the downward trend was starting to reverse: at the [[1990 FIFA World Cup]], England reached the semi-finals; [[UEFA]], European football's governing body, lifted the five-year ban on English clubs playing in European competitions in 1990, resulting in Manchester United lifting the [[UEFA Cup Winners' Cup]] in 1991, and the [[Taylor Report]] on stadium safety standards, which proposed expensive upgrades to create all-seater stadiums in the aftermath of the [[Hillsborough disaster]], was published in January of that year.&lt;ref&gt;{{cite web |url=http://www.footballnetwork.org/dev/communityfootball/violence_taylor_report.asp |title=The Taylor Report |publisher=Football Network |accessdate=22 November 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20061016222436/http://www.footballnetwork.org/dev/communityfootball/violence_taylor_report.asp |archivedate=16 October 2006 |df=}}&lt;/ref&gt;
 
-In the 1980s, major English clubs had begun to transform into business ventures, applying commercial principles to club administration to maximise revenue. [[Martin Edwards]] of Manchester United, [[Irving Scholar]] of Tottenham Hotspur, and [[David Dein]] of Arsenal were among the leaders in this transformation. It gave the top clubs more power. By threatening to break away, clubs in Division One managed to increase their voting power. They took a 50% share of all television and sponsorship income in 1986.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=YZ6MAQAAQBAJ&amp;pg=PA342&amp;lpg=PA342#v=onepage&amp;q&amp;f=false |title=The Association Game: A History of British Football |first=Matthew |last=Taylor |page=342 |publisher=Routledge |date=18 October 2013 |isbn=9781317870081}}&lt;/ref&gt; Revenue from television also became more important: the Football League received £6.3&amp;nbsp;million for a two-year agreement in 1986, but by 1988, in a deal agreed with ITV, the price rose to £44&amp;nbsp;million over four years with the leading clubs taking 75% of the cash.&lt;ref name="taylor"&gt;{{cite book |url=https://books.google.com/books?id=YZ6MAQAAQBAJ&amp;pg=PA343&amp;lpg=PA343#v=onepage&amp;q&amp;f=false |title=The Association Game: A History of British Football |first=Matthew |last=Taylor |page=343 |publisher=Routledge |date=18 October 2013 |isbn=9781317870081}}&lt;/ref&gt;&lt;ref name="leicester_tv"&gt;{{cite web |url=http://www.le.ac.uk/sociology/css/resources/factsheets/fs8.html |archiveurl=https://web.archive.org/web/20110606080220/http://www.le.ac.uk/sociology/css/resources/factsheets/fs8.html |archivedate=6 June 2011 |title=Fact Sheet 8: British Football on Television |publisher=Centre for the Sociology of Sport, University of Leicester |last=Crawford |first=Gerry |accessdate=10 August 2006}}&lt;/ref&gt; According to Scholar who was involved in  the negotiations of television deals, each of the First Division clubs received only around £25,000 per year from television rights before 1986, this increased to around £50,000 in the 1986 negotiation, then to £600,000 in 1988.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=sO1zDQAAQBAJ |title=White Hart Lane: The Spurs Glory Years 1899–2017 |first=Martin |last=Lipton |chapter=Chapter 15: Mr Chairman |publisher=Weidenfeld &amp; Nicolson |date=5 October 2017 |isbn=9781409169284}}&lt;/ref&gt; The 1988 negotiations were conducted under the threat of ten clubs leaving to form a "super league", but they were eventually persuaded to stay with the top clubs taking the lion share of the deal.&lt;ref name="taylor"/&gt;&lt;ref&gt;{{cite news |title=Super Ten Losing Ground |url=https://news.google.com/newspapers?id=ZmFPAAAAIBAJ&amp;sjid=I5ADAAAAIBAJ&amp;pg=7001%2C3212387 |date=14 July 1988 |newspaper=New Straits Times |accessdate=9 September 2013}}&lt;/ref&gt;&lt;ref name="FLhistory"&gt;{{cite web |url=http://www.football-league.premiumtv.co.uk/page/History/0,,10794,00.html |title=The History of the Football League |publisher=Football League |accessdate=12 September 2010 |archivedate=11 April 2008 |archiveurl=https://web.archive.org/web/20080411034859/http://www.football-league.premiumtv.co.uk/page/History/0%2C%2C10794%2C00.html |deadurl=yes |df=}}&lt;/ref&gt; As stadiums improved and match attendance and revenues rose, the country's top teams again considered leaving the Football League in order to capitalise on the influx of money into the sport.&lt;ref name="FLhistory"/&gt;
+In the 1980s, major English clubs had begun to transform into business ventures, applying commercial principles to club administration to maximise revenue. [[Martin Edwards]] of Manchester United, [[Irving Scholar]] of Tottenham Hotspur, and [[David Dein]] of Arsenal were among the leaders in this transformation. It gave the top clubs more power. By threatening to break away, clubs in Division One managed to increase their voting power. They took a 50% share of all television and sponsorship income in 1986.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=YZ6MAQAAQBAJ&amp;pg=PA342&amp;lpg=PA342#v=onepage&amp;q&amp;f=false |title=The Association Game: A History of British Football |first=Matthew |last=Taylor |page=342 |publisher=Routledge |date=18 October 2013 |isbn=9781317870081}}&lt;/ref&gt; Revenue from television also became more important: the Football League received £6.3&amp;nbsp;million for a two-year agreement in 1986, but by 1988, in a deal agreed with ITV, the price rose to £44&amp;nbsp;million over four years with the leading clubs taking 75% of the cash.&lt;ref name="taylor"&gt;{{cite book |url=https://books.google.com/books?id=YZ6MAQAAQBAJ&amp;pg=PA343&amp;lpg=PA343#v=onepage&amp;q&amp;f=false |title=The Association Game: A History of British Football |first=Matthew |last=Taylor |page=343 |publisher=Routledge |date=18 October 2013 |isbn=9781317870081}}&lt;/ref&gt;&lt;ref name="leicester_tv"&gt;{{cite web |url=http://www.le.ac.uk/sociology/css/resources/factsheets/fs8.html |archiveurl=https://web.archive.org/web/20110606080220/http://www.le.ac.uk/sociology/css/resources/factsheets/fs8.html |archivedate=6 June 2011 |title=Fact Sheet 8: British Football on Television |publisher=Centre for the Sociology of Sport, University of Leicester |last=Crawford |first=Gerry |accessdate=10 August 2006}}&lt;/ref&gt; According to Scholar who was involved in the negotiations of television deals, each of the First Division clubs received only around £25,000 per year from television rights before 1986, this increased to around £50,000 in the 1986 negotiation, then to £600,000 in 1988.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=sO1zDQAAQBAJ |title=White Hart Lane: The Spurs Glory Years 1899–2017 |first=Martin |last=Lipton |chapter=Chapter 15: Mr Chairman |publisher=Weidenfeld &amp; Nicolson |date=5 October 2017 |isbn=9781409169284}}&lt;/ref&gt; The 1988 negotiations were conducted under the threat of ten clubs leaving to form a "super league", but they were eventually persuaded to stay with the top clubs taking the lion share of the deal.&lt;ref name="taylor"/&gt;&lt;ref&gt;{{cite news |title=Super Ten Losing Ground |url=https://news.google.com/newspapers?id=ZmFPAAAAIBAJ&amp;sjid=I5ADAAAAIBAJ&amp;pg=7001%2C3212387 |date=14 July 1988 |newspaper=New Straits Times |accessdate=9 September 2013}}&lt;/ref&gt;&lt;ref name="FLhistory"&gt;{{cite web |url=http://www.football-league.premiumtv.co.uk/page/History/0,,10794,00.html |title=The History of the Football League |publisher=Football League |accessdate=12 September 2010 |archivedate=11 April 2008 |archiveurl=https://web.archive.org/web/20080411034859/http://www.football-league.premiumtv.co.uk/page/History/0%2C%2C10794%2C00.html |deadurl=yes |df=}}&lt;/ref&gt; As stadiums improved and match attendance and revenues rose, the country's top teams again considered leaving the Football League in order to capitalise on the influx of money into the sport.&lt;ref name="FLhistory"/&gt;
 
 === Foundation ===
 {{See also|Foundation of the Premier League}}
@@ -422,7 +422,6 @@ The following 20 clubs are competing in the Premier League during the current [[
 {{location map~ |England |lat=53.463080 |long=-2.291328 |label= &lt;div style="font-size:80%; position:relative; top:12px;left:-8px;"&gt;[[Manchester United F.C.|{{nowrap|Manchester&amp;nbsp;United}}]]&lt;/div&gt;|position=right}}
 {{location map~ |England |lat=54.9756 |long=-1.6217 |label= &lt;div style="font-size:80%; position:relative; left:1px;"&gt;[[Newcastle United F.C.|{{nowrap|Newcastle&amp;nbsp;United}}]]&lt;/div&gt;|position=left}}
 {{location map~ |England |lat=50.905826 |long=-1.390975 |label=&lt;div style="font-size:80%;"&gt;[[Southampton F.C.|Southampton]]&lt;/div&gt;|position=left}}
-{{location map~ |England|lat=51.649906 |long=-0.401531 |label=&lt;div style="font-size:80%;"&gt;[[Watford F.C.|Watford]]&lt;/div&gt;|position=left}}
 {{location map~ |England |lat=52.5902 |long=-2.1304 |label= &lt;div style="font-size:80%;"&gt;[[Wolverhampton Wanderers F.C.|Wolverhampton&amp;nbsp;Wanderers]]&lt;/div&gt; |position=left}}
 &lt;!--DISPLAY OF LONDON TEAMS TOP RIGHT--&gt;
 {{Location map~ |England |mark=TransparentPlaceholder.png |marksize=1 |lat=55.7 |long=-0.2 |label=&lt;div style="font-size:80%;"&gt;'''[[Football in London|London]] &amp;nbsp;teams'''&lt;br&gt;
@@ -431,6 +430,7 @@ The following 20 clubs are competing in the Premier League during the current [[
 [[Crystal Palace F.C.|Crystal Palace]]&lt;br&gt;
 [[Fulham F.C.|Fulham]]&lt;br&gt;
 [[Tottenham Hotspur F.C.|Tottenham&amp;nbsp;Hotspur]]&lt;br&gt;
+[[Watford F.C.|Watford]]&lt;br&gt;
 [[West Ham United F.C.|West Ham United]]
 &lt;/div&gt;|position=right}}
 }}
@@ -446,6 +446,7 @@ The following 20 clubs are competing in the Premier League during the current [[
  {{Location map~ |Greater London |lat=51.398333 |long=-0.085556|mark=Blue 000080 pog.svg |label='''[[Crystal Palace F.C.|{{nowrap|Crystal Palace}}]]'''|label_size=75|marksize=|position=bottom}}
  {{Location map~ |Greater London |lat=51.475 |long=-0.221667|mark=Blue 000080 pog.svg |label='''[[Fulham F.C.|{{nowrap|Fulham}}]]'''|label_size=75|marksize=|position=left}}
  {{Location map~ |Greater London |lat=51.5974 |long=-0.0716 |mark=Blue 000080 pog.svg |label='''[[Tottenham Hotspur F.C.|Tottenham&amp;nbsp;Hotspur]]'''|label_size=75|marksize=|position=right}}
+ {{Location map~ |Greater London |lat=51.649906 |long=-0.401531 |mark=Blue 000080 pog.svg |label='''[[Watford F.C.|Watford]]'''|label_size=75|marksize=|position=right}}
  {{Location map~ |Greater London |lat=51.538611 |long=-0.016389|mark=Blue 000080 pog.svg |label='''[[West Ham United F.C.|{{nowrap|West Ham United}}]]'''|label_size=75|marksize=|position=right}}
 }}
 {{col-end}}
@@ -518,7 +519,7 @@ The following clubs are not competing in the Premier League during the [[2018–
 |-
 | style="text-align:left"|[[Swindon Town F.C.|Swindon Town]] || [[EFL League Two|League Two]] || {{ntsh|28}}9th || 1993–94 || 1993–94 || 1993–94 || 1 || 1 || 0 || n/a
 |-
-| style="text-align:left"|[[West Bromwich Albion|West Bromwich Albion]]&lt;sup&gt;b&lt;/sup&gt; || [[EFL Championship|Championship]] || {{ntsh|3}}20th in the Premier League || 1888–89 || 2002–03 || 2017–18 || 79 || 12 || 1 || 1919–20
+| style="text-align:left"|[[West Bromwich Albion]]&lt;sup&gt;b&lt;/sup&gt; || [[EFL Championship|Championship]] || {{ntsh|3}}20th in the Premier League || 1888–89 || 2002–03 || 2017–18 || 79 || 12 || 1 || 1919–20
 |-
 | style="text-align:left"|[[Wigan Athletic F.C.|Wigan Athletic]] || [[EFL Championship|Championship]] || {{ntsh|18}}1st in League One || 2005–06 || 2005–06 || 2012–13 || 8 || 8 || 0 || n/a
 |-
@@ -542,7 +543,7 @@ Because they are members of the [[Football Association of Wales]] (FAW), the que
 Participation in the Premier League by some Scottish or Irish clubs has sometimes been discussed, but without result.
 The idea came closest to reality in 1998, when [[Wimbledon F.C.|Wimbledon]] received Premier League approval to [[Relocation of Wimbledon F.C. to Milton Keynes|relocate to Dublin, Ireland]], but the move was blocked by the [[Football Association of Ireland]].&lt;ref name="thewimbledonwehave"&gt;{{Harvnb|Hammam|2000|p=3}}&lt;/ref&gt;&lt;ref name="mihirbose"&gt;{{cite news |first=Mihir |last=Bose |authorlink=Mihir Bose |title=Hammam cast in villain's role as Dons seek happy ending |url=https://www.telegraph.co.uk/sport/football/leagues/championship/3010879/Inside-Sport-Hammam-cast-in-villains-role-as-Dons-seek-happy-ending.html |work=[[The Daily Telegraph]] |publisher=Telegraph Media Group |location=London |date=16 August 2001 |accessdate=31 October 2009}}&lt;/ref&gt;&lt;ref name=DublinDonsIndo230198&gt;{{cite news |title=Hammam meets grass-roots on whistle-stop tour |url=http://www.independent.ie/sport/hammam-meets-grassroots-on-whistlestop-tour-26199426.html |newspaper=[[Irish Independent]] |accessdate=13 June 2013 |date=23 January 1998}}&lt;/ref&gt;&lt;ref name=DublinDonsIndo100698&gt;{{cite news |title=`Dublin Dons on way' Hammam |url=http://www.independent.ie/sport/dublin-dons-on-way-hammam-26183373.html |first=Philip |last=Quinn |newspaper=[[Irish Independent]] |accessdate=13 June 2013 |date=10 June 1998}}&lt;/ref&gt; Additionally, the media occasionally discusses the idea that Scotland's two biggest teams, [[Celtic F.C.|Celtic]] and [[Rangers F.C.|Rangers]], should or will take part in the Premier League, but nothing has come of these discussions.&lt;ref name="strachan"&gt;{{cite news |first1=Martyn |last1=Ziegler |first2=Ronnie |last2=Esplin |title=Celtic and Rangers will join European super league, says Scotland manager Gordon Strachan |url=https://www.telegraph.co.uk/sport/football/teams/celtic/9985432/Celtic-and-Rangers-will-join-European-super-league-says-Scotland-manager-Gordon-Strachan.html |work=[[The Daily Telegraph]] |publisher=Telegraph Media Group |location=London |date=10 April 2013 |accessdate=21 May 2013}}&lt;/ref&gt;
 
-== International competitions == 
+== International competitions ==
 
 === Qualification for European competitions ===
 {{See also|UEFA coefficient#Country coefficient|l1=UEFA country coefficients}}
@@ -554,7 +555,7 @@ The top four teams in the Premier League qualify for the subsequent season's [[U
 
 The fifth-placed team in the Premier League qualifies for the subsequent season's [[UEFA Europa League]] group stage. The winner of the [[FA Cup]] also qualifies for the subsequent season's [[UEFA Europa League]] group stage, but if the winner also finished in the top five places in the Premier League, then this place reverts to the team that finished sixth. The winner of the [[EFL Cup]] qualifies for the subsequent season's [[UEFA Europa League]] second qualifying round, but if the winner already qualified for a [[UEFA]] competition via the Premier League or FA Cup, then this place reverts to the team that finished sixth in the Premier League, or seventh if the [[FA Cup]] result already caused the sixth-placed team to qualify.&lt;ref&gt;{{cite news |title=Premier League clubs' UEFA qualification explained |url=https://www.premierleague.com/news/671047 |publisher=Premier League |date=4 May 2018 |accessdate=6 November 2018}}&lt;/ref&gt;
 
-The number of places allocated to English clubs in [[UEFA]] competitions is dependent upon the position a country holds in the [[UEFA coefficient#Country coefficient|UEFA country coefficients]], which are calculated based upon the performance of teams in [[UEFA]] competitions in the previous five years. Currently the ranking of England (and [[de facto]] the Premier League) is 2nd behind [[Spain]].   
+The number of places allocated to English clubs in [[UEFA]] competitions is dependent upon the position a country holds in the [[UEFA coefficient#Country coefficient|UEFA country coefficients]], which are calculated based upon the performance of teams in [[UEFA]] competitions in the previous five years. Currently the ranking of England (and [[de facto]] the Premier League) is 2nd behind [[Spain]].
 
 {| class="wikitable" style="text-align:center;font-size:12px;margin-top:8px;margin-bottom:4px"
 |+Extracted from the 2018 ranking of nations by their UEFA coefficient&lt;ref&gt;{{cite web |title=Country Coefficients 2017/18 |url=https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2018 |website=UEFA.com}}&lt;/ref&gt;
@@ -743,7 +744,7 @@ Stadium attendances are a significant source of regular income for Premier Leagu
 
 [[Arsène Wenger]] is the longest-serving manager, having been in charge of [[Arsenal F.C.|Arsenal]] in the Premier League from 1996 to his retirement at the conclusion of the 2017–18 season, and holds the record for most matches managed in the Premier League with 828, all with Arsenal. He broke the record set by [[Alex Ferguson]], who had managed 810 matches with Manchester United from the Premier League's inception to his retirement at the end of the 2012–13 season. Ferguson was in charge of Manchester United from November 1986 until his retirement at the end of the 2012–13 season, meaning he was manager for the last five years of the old Football League First Division and all of the first 21 seasons of the Premier League.&lt;ref&gt;{{cite web |url=http://www.leaguemanagers.com/managers/longest-current.html |title=Longest serving managers |publisher=League Managers Association |accessdate=14 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20150207195645/http://www.leaguemanagers.com/managers/longest-current.html |archivedate=7 February 2015 |df=}}&lt;/ref&gt; 
 
-In the 2017–18 and 2018-19 season, 12 managers were sacked, the most recent being [[José Mourinho]] of [[Manchester United|Manchester United]].
+In the 2017–18 and 2018-19 season, 12 managers were sacked, the most recent being [[José Mourinho]] of [[Manchester United]].
 
 There have been several studies into the reasoning behind, and effects of, managerial sackings. Most famously, Professor Sue Bridgewater of the [[University of Liverpool]] and Dr. Bas ter Weel of the [[University of Amsterdam]], performed two separate studies which helped to explain the statistics behind managerial sackings. Bridgewater's study found clubs generally sack their managers upon dropping below an average of one point per match.&lt;ref&gt;{{Cite news |url=https://www.fourfourtwo.com/us/features/soccernomics-does-sacking-manager-actually-make-difference |title=Soccernomics: Does sacking the manager actually make a difference? |date=13 March 2016 |work=FourFourTwo|access-date=14 December 2017 |language=en-US}}&lt;/ref&gt;
 
@@ -924,7 +925,6 @@ The total salary bill for the 20 Premier League clubs in the 2018–19 was £1.6
 
 Th ratio of the wages of the highest paid team to lowest paid in the Premier League is 6.82 to 1. This is much lower than in [[La Liga]] (19.1 to 1), [[Serie A]] (16 to 1), [[Bundesliga]] (20.5 to 1), and [[Ligue 1]] (26.6 to 1). Because of the lower differential between team wage bills in the Premier League, it is often regarded as being more competitive than other top European leagues.&lt;ref&gt;{{cite news |url=http://globalsportssalaries.com |title=Global Sports Salaries Survey 2018 |publisher=Sporting Intelligence |date=27 November 2018 |accessdate=27 November 2018}}&lt;/ref&gt;
 
-
 {|
 |+'''Average Salary By Club in the 2018–19 season'''
 |-
@@ -936,23 +936,23 @@ Th ratio of the wages of the highest paid team to lowest paid in the Premier Lea
 ! Av. Salary
 |-
 | 1
-| align=left |[[Manchester United]]                    
+| align=left |[[Manchester United]]
 |£6,534,654
 |-
 | 2
-| align=left |[[Manchester City]]                    
+| align=left |[[Manchester City]]
 |£5,993,000
 |-
 | 3
-| align=left |[[Chelsea F.C.|Chelsea]]                    
+| align=left |[[Chelsea F.C.|Chelsea]]
 |£5,020,004
 |-
 | 4
-| align=left |[[Liverpool F.C.|Liverpool]]                    
+| align=left |[[Liverpool F.C.|Liverpool]]
 |£4,862,963
 |-
 | 5
-| align=left |[[Arsenal F.C.|Arsenal]]                    
+| align=left |[[Arsenal F.C.|Arsenal]]
 |£4,853,130
 |}
 |valign="top" |
@@ -962,23 +962,23 @@ Th ratio of the wages of the highest paid team to lowest paid in the Premier Lea
 ! Av. Salary
 |-
 | 6
-| align=left |[[Tottenham Hotspur F.C.|Tottenham]]                    
+| align=left |[[Tottenham Hotspur F.C.|Tottenham]]
 |£3,515,778
 |-
 | 7
-| align=left |[[Everton F.C.|Everton]]                    
+| align=left |[[Everton F.C.|Everton]]
 |£3,252,690
 |-
 | 8
-| align=left |[[West Ham United F.C.|West Ham]]                    
+| align=left |[[West Ham United F.C.|West Ham]]
 |£3,189,333
 |-
 | 9
-| align=left |[[Crystal Palace F.C.|Crystal Palace]]                    
+| align=left |[[Crystal Palace F.C.|Crystal Palace]]
 |£2,757,000
 |-
 | 10
-| align=left |[[Leicester City F.C.|Leicester]]                    
+| align=left |[[Leicester City F.C.|Leicester]]
 |£2,710,710
 |}
 |valign="top" |
@@ -988,23 +988,23 @@ Th ratio of the wages of the highest paid team to lowest paid in the Premier Lea
 ! Av. Salary
 |-
 | 11
-| align=left |[[Southampton F.C.|Southampton]]                    
+| align=left |[[Southampton F.C.|Southampton]]
 |£2,669,333
 |-
 | 12
-| align=left |[[A.F.C. Bournemouth|Bournemouth]]                    
+| align=left |[[A.F.C. Bournemouth|Bournemouth]]
 |£1,989,520
 |-
 | 13
-| align=left |[[Watford F.C.|Watford]]                    
+| align=left |[[Watford F.C.|Watford]]
 |£1,775,172
 |-
 | 14
-| align=left |[[Wolverhampton Wanderers F.C.|Wolves]]                    
+| align=left |[[Wolverhampton Wanderers F.C.|Wolves]]
 |£1,757,600
 |-
 | 15
-| align=left |[[Fulham F.C|Fulham]]                    
+| align=left |[[Fulham F.C|Fulham]]
 |£1,727,440
 |}
 |valign="top" |
@@ -1014,23 +1014,23 @@ Th ratio of the wages of the highest paid team to lowest paid in the Premier Lea
 ! Av. Salary
 |-
 | 16
-| align=left |[[Brighton &amp; Hove Albion F.C.|Brighton]]                    
+| align=left |[[Brighton &amp; Hove Albion F.C.|Brighton]]
 |£1,695,040
 |-
 | 17
-| align=left |[[Newcastle United F.C|Newcastle]]                    
+| align=left |[[Newcastle United F.C|Newcastle]]
 |£1,650,133
 |-
 | 18
-| align=left |[[Burnley F.C|Burnley]]                    
+| align=left |[[Burnley F.C|Burnley]]
 |£1,603,197
 |-
 | 19
-| align=left |[[Huddersfield Town F.C.| Huddersfield]]                    
+| align=left | [[Huddersfield Town F.C.|Huddersfield]]
 |£1,238,000
 |-
 | 20
-| align=left |[[Cardiff City F.C.| Cardiff]]                    
+| align=left | [[Cardiff City F.C.|Cardiff]]
 |£957,471
 |}
 |}
@@ -1149,7 +1149,7 @@ The [[Progression of British football transfer fee record|record transfer fee]] 
 ! scope=col | Reference
 |-
 | 1
-| align=left | {{flagicon|BRA}} [[Philippe Coutinho]]                    
+| align=left | {{flagicon|BRA}} [[Philippe Coutinho]]
 |£106m{{efn|plus reported €40 million bonuses}}
 | 2018
 | align=left|{{flagicon|ENG}} [[Liverpool F.C.|Liverpool]]
@@ -1304,7 +1304,7 @@ In addition to the winner's trophy and the individual [[List of Premier League w
 
 A man of the match award is awarded to the player who has the greatest impact in an individual match.
 
-Monthly awards are also given for the [[Premier League Manager of the Month|Manager of the Month]], [[Premier League Player of the Month|Player of the Month]] and [[Premier League Goal of the Month|Goal of the Month]]&lt;ref&gt;{{cite news |title=Season review 2009/10 |url=http://www.premierleague.com/page/Headlines/0,,12306~2049997,00.html |publisher=Premier League |date=13 May 2010 |accessdate=15 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100516014728/http://www.premierleague.com/page/Headlines/0%2C%2C12306~2049997%2C00.html |archivedate=16 May 2010 |df=}}&lt;/ref&gt; . These are also issued annually for [[Premier League Manager of the Season|Manager of the Season]]&lt;ref&gt;{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/premier_league/tottenham/article7119984.ece |title=Tottenham Hotspur's Sir Harry Redknapp is Premier League manager of season |first=Richard |last=Neale |newspaper=The Times |date=7 May 2010 |accessdate=15 September 2010}}&lt;/ref&gt;, [[Premier League Player of the Season|Player of the Season]].&lt;ref name="poty2010"&gt;{{cite news |url=https://www.independent.co.uk/sport/football/news-and-comment/rooney-named-barclays-player-of-the-season-1970390.html |title=Rooney named Barclays Player of the Season |work=The Independent |date=10 May 2010 |accessdate=7 August 2011}}&lt;/ref&gt; and [[Premier League Goal of the Season|Goal of the Season]].
+Monthly awards are also given for the [[Premier League Manager of the Month|Manager of the Month]], [[Premier League Player of the Month|Player of the Month]] and [[Premier League Goal of the Month|Goal of the Month]]&lt;ref&gt;{{cite news |title=Season review 2009/10 |url=http://www.premierleague.com/page/Headlines/0,,12306~2049997,00.html |publisher=Premier League |date=13 May 2010 |accessdate=15 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100516014728/http://www.premierleague.com/page/Headlines/0%2C%2C12306~2049997%2C00.html |archivedate=16 May 2010 |df=}}&lt;/ref&gt;. These are also issued annually for [[Premier League Manager of the Season|Manager of the Season]]&lt;ref&gt;{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/premier_league/tottenham/article7119984.ece |title=Tottenham Hotspur's Sir Harry Redknapp is Premier League manager of season |first=Richard |last=Neale |newspaper=The Times |date=7 May 2010 |accessdate=15 September 2010}}&lt;/ref&gt;, [[Premier League Player of the Season|Player of the Season]].&lt;ref name="poty2010"&gt;{{cite news |url=https://www.independent.co.uk/sport/football/news-and-comment/rooney-named-barclays-player-of-the-season-1970390.html |title=Rooney named Barclays Player of the Season |work=The Independent |date=10 May 2010 |accessdate=7 August 2011}}&lt;/ref&gt; and [[Premier League Goal of the Season|Goal of the Season]].
 
 The [[Premier League Golden Boot|Golden Boot]] award is given to the top goalscorer of every season, The [[Premier League Playmaker of the Season|Playmaker of the Season]] award is given to the player who make the most assists of every season&lt;ref&gt;{{Cite web |url=https://www.premierleague.com/news/667152 |publisher=Premier League |date=18 April 2018 |accessdate=16 May 2018 |title=New Premier League player award announced}}&lt;/ref&gt; and the [[Premier League Golden Glove|Golden Glove]] award is given to the goalkeeper with the most clean sheets at the end of the season&lt;ref&gt;{{cite news |url=http://www.premierleague.com/page/Headlines/0,,12306~2051839,00.html |title=Chelsea scoop hat-trick of Barclays awards |publisher=Premier League |date=13 May 2010 |accessdate=15 September 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100516014748/http://www.premierleague.com/page/Headlines/0%2C%2C12306~2051839%2C00.html |archivedate=16 May 2010 |df=}}&lt;/ref&gt;.
 
@@ -1365,7 +1365,7 @@ In 2012, the Premier League celebrated its second decade by holding the 20 Seaso
 [[Category:Professional sports leagues in the United Kingdom]]
 [[Category:Sports leagues established in 1992]]
 [[Category:Top level football leagues in Europe|England]]</text>
-      <sha1>57f5mlw09mlls3exofh5y39l0w39upp</sha1>
+      <sha1>k5kcaivkvdaoubeusjkp0b2a56vdc8p</sha1>
     </revision>
   </page>
 </mediawiki>

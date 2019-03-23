@@ -3,7 +3,7 @@
     <sitename>Wikipedia</sitename>
     <dbname>enwiki</dbname>
     <base>https://en.wikipedia.org/wiki/Main_Page</base>
-    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <generator>MediaWiki 1.33.0-wmf.22</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>1919475</id>
     <revision>
-      <id>885850601</id>
-      <parentid>884243118</parentid>
-      <timestamp>2019-03-02T19:13:22Z</timestamp>
+      <id>888923705</id>
+      <parentid>887930247</parentid>
+      <timestamp>2019-03-22T07:34:30Z</timestamp>
       <contributor>
-        <username>Wolfgang</username>
-        <id>24907207</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <minor/>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="68972">{{Use dmy dates|date=May 2018}}
+      <text xml:space="preserve" bytes="69060">{{Use dmy dates|date=May 2018}}
 {{Infobox football biography
 | name = Artur Boruc
 | image = Artur Boruc 2014.jpg
@@ -104,14 +104,14 @@
 | caps8  = 37&lt;!--Only league games--&gt;
 | goals8 = 0
 | clubs9 = [[AFC Bournemouth]]
-| caps9 = 74&lt;!--Only league games--&gt;
+| caps9 = 76&lt;!--Only league games--&gt;
 | goals9 = 0
 | years9 = 2015–
 | nationalyears1 = 2004–2017
 | nationalteam1  = [[Poland national football team|Poland]]
 | nationalcaps1  = 65
 | nationalgoals1 = 0
-| club-update = 23:00, 2 March 2019 (UTC)
+| club-update = 07:34, 22 March 2019 (UTC)
 | nationalteam-update = 10 November 2017
 }}
 '''Artur Boruc''' ({{IPA-pol|ˈartur ˈbɔrut͡s}}; born 20 February 1980) is a Polish professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{English football updater|AFCBourn}} club [[AFC Bournemouth]].
@@ -223,7 +223,7 @@ Boruc courted further controversy in April 2008 when he displayed a T-shirt sayi
 
 ===Club===
 &lt;!-- NOTE: when updating stats, update the infobox too! --&gt;
-{{updated|2 March 2018}}
+{{updated|16 March 2018|&lt;ref name=Soccerway&gt;{{Soccerway|artur-boruc/724|accessdate=2 March 2018}}&lt;/ref&gt;}}
 {| class="wikitable" style="text-align: center;"
 |-
 !rowspan="2"|Club
@@ -234,6 +234,7 @@ Boruc courted further controversy in April 2008 when he displayed a T-shirt sayi
 !colspan="2"|League Cup
 !colspan="2"|[[UEFA]]
 !colspan="2"|Total
+!rowspan="2"|{{Abbr|Ref|Reference}}
 |-
 !Apps
 !Goals
@@ -249,89 +250,108 @@ Boruc courted further controversy in April 2008 when he displayed a T-shirt sayi
 |rowspan="6" valign="center"|[[Legia Warsaw]]
 |[[2000–01 Ekstraklasa|2000–01]]
 |style="text-align:center;" rowspan="5"|[[Ekstraklasa]]
-|0||0||0||0||0||0||colspan="2"|–||0||0
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|{{n/a}}
 |-
-|[[2001–02 Ekstraklasa|2001–02]]&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=59 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|[[2001–02 Ekstraklasa|2001–02]]
 |5||0||0||0||1||0||0||0||6||0
+|&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=59 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
 |-
-|[[2002–03 Ekstraklasa|2002–03]]&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=61 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
-|12||0||0||0||colspan="2"|–||0||0||12||0
+|[[2002–03 Ekstraklasa|2002–03]]
+|12||0||0||0||colspan="2"|—||0||0||12||0
+|&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=61 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
 |-
-|[[2003–04 Ekstraklasa|2003–04]]&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=63 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
-|26||1||4||0||colspan="2"|–||colspan="2"|–||30||1
+|[[2003–04 Ekstraklasa|2003–04]]
+|26||1||4||0||colspan="4"|—||30||1
+|&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=63 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
 |-
-|[[2004–05 Ekstraklasa|2004–05]]&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=65 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
-|26||0||10||0||colspan="2"|–||4||0||40||0
+|[[2004–05 Ekstraklasa|2004–05]]
+|26||0||10||0||colspan="2"|—||4||0||40||0
+|rowspan="2"|&lt;ref&gt;{{cite web|author=Maciej Kusina |url=http://www.90minut.pl/wystepy.php?id=2624&amp;id_sezon=65 |title=Artur Boruc |website=90minut.pl |date= |accessdate=19 August 2013}}&lt;/ref&gt;
 |-
 !colspan="2"|Total
-!colspan="1"|69 !! 1 !! 14 !! 0 !! 1 !! 0 !! 4 !! 0 !! 88 !! 1
+!colspan="1"|69!!1!!14!!0!!1!!0!!4!!0!!88!!1
 |-
-|rowspan="6" valign="center"|[[Celtic F.C.|Celtic]]&lt;ref name="fitbastats1"/&gt;
-|[[2005–06 Scottish Premier League|2005–06]]&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=5 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|rowspan="6" valign="center"|[[Celtic F.C.|Celtic]]
+|[[2005–06 Celtic F.C. season|2005–06]]
 |style="text-align:center;" rowspan="5"|[[Scottish Premier League]]
 |34||0||1||0||4||0||1||0||40||0
+|&lt;ref name="fitbastats1"/&gt;&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=5 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
 |-
-|[[2006–07 Scottish Premier League|2006–07]]&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=4 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|[[2006–07 Celtic F.C. season|2006–07]]
 |36||0||5||0||2||0||8||0||51||0
+|&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=4 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
 |-
-|[[2007–08 Scottish Premier League|2007–08]]&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=3 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|[[2007–08 Celtic F.C. season|2007–08]]
 |30||0|||4||0||2||0||9||0||45||0
+|&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=3 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
 |-
-|[[2008–09 Scottish Premier League|2008–09]]&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=2 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|[[2008–09 Celtic F.C. season|2008–09]]
 |34||0||3||0||4||0||6||0||47||0
+|&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=2 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
 |-
-|[[2009–10 Scottish Premier League|2009–10]]&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=1 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
+|[[2009–10 Celtic F.C. season|2009–10]]
 |28||0||2||0||0||0||8||0||38||0
+|rowspan="2"|&lt;ref&gt;{{cite web|url=http://www.fitbastats.com/celtic/player_games.php?playerid=2910&amp;page=1 |title=Celtic Player Artur Boruc, Games Played |publisher=Fitbastats.com |date= |accessdate=19 August 2013}}&lt;/ref&gt;
 |-
 !colspan="2"|Total
-!colspan="1"|162 !! 0 !! 15 !! 0 !! 12 !! 0 !! 32 !! 0 !! 221 !! 0
+!colspan="1"|162!!0!!15!!0!!12!!0!!32!!0!!221!!0
 |-
 |rowspan="3" valign="center"|[[ACF Fiorentina|Fiorentina]]
-|[[2010–11 Serie A|2010–11]]&lt;ref&gt;{{soccerbase season|28660|2010|accessdate=19 August 2013}}&lt;/ref&gt;
+|[[2010–11 ACF Fiorentina season|2010–11]]
 |style="text-align:center;" rowspan="2"|[[Serie A]]
-|26||0||1||0||colspan="2"|–||colspan="2"|–||27||0
+|26||0||1||0||colspan="4"|—||27||0
+|&lt;ref&gt;{{soccerbase season|28660|2010|accessdate=19 August 2013}}&lt;/ref&gt;
 |-
-|[[2011–12 Serie A|2011–12]]&lt;ref&gt;{{soccerbase season|28660|2011|accessdate=19 August 2013}}&lt;/ref&gt;
-|36||0||1||0||colspan="2"|–||colspan="2"|–||37||0
+|[[2011–12 ACF Fiorentina season|2011–12]]
+|36||0||1||0||colspan="4"|—||37||0
+|rowspan="2"|&lt;ref&gt;{{soccerbase season|28660|2011|accessdate=19 August 2013}}&lt;/ref&gt;
 |-
 !colspan="2"|Total
-!colspan="1"|62 !! 0 !! 2 !! 0 !! 0 !! 0 !! 0 !! 0 !! 64 !! 0
+!colspan="1"|62!!0!!2!!0!!0!!0!!0!!0!!64!!0
 |-
 |rowspan="3" valign="center"|[[Southampton F.C.|Southampton]]
-|[[2012–13 Premier League|2012–13]]&lt;ref&gt;{{soccerbase season|28660|2012|accessdate=18 September 2017}}&lt;/ref&gt;
+|[[2012–13 Southampton F.C. season|2012–13]]
 |style="text-align:center;" rowspan="2"|[[Premier League]]
-|20||0||1||0||0||0||colspan="2"|–||21||0
+|20||0||1||0||0||0||colspan="2"|—||21||0
+|&lt;ref&gt;{{soccerbase season|28660|2012|accessdate=18 September 2017}}&lt;/ref&gt;
 |-
-|[[2013–14 Premier League|2013–14]]&lt;ref&gt;{{soccerbase season|28660|2013|accessdate=18 September 2017}}&lt;/ref&gt;
-|29||0||0||0||0||0||colspan="2"|–||29||0
+|[[2013–14 Southampton F.C. season|2013–14]]
+|29||0||0||0||0||0||colspan="2"|—||29||0
+|rowspan="2"|&lt;ref&gt;{{soccerbase season|28660|2013|accessdate=18 September 2017}}&lt;/ref&gt;
 |-
 !colspan="2"|Total
-!colspan="1"|49 !! 0 !! 1 !! 0 !! 0 !! 0 !! 0 !! 0 !! 50 !! 0
+!colspan="1"|49!!0!!1!!0!!0!!0!!0!!0!!50!!0
 |-
-|valign="center"|[[AFC Bournemouth]] (loan)
-|[[2014–15 Football League Championship|2014–15]]&lt;ref&gt;{{soccerbase season|28660|2014|accessdate=18 September 2017}}&lt;/ref&gt;
+|rowspan="6" valign="center"|[[AFC Bournemouth]]
+|[[2014–15 A.F.C. Bournemouth season|2014–15]] (loan)
 |style="text-align:center;" rowspan="1"|[[EFL Championship|Championship]]
-|37||0||0||0||2||0||colspan="2"|–||39||0
+|37||0||0||0||2||0||colspan="2"|—||39||0
+|&lt;ref&gt;{{soccerbase season|28660|2014|accessdate=18 September 2017}}&lt;/ref&gt;
 |-
-|rowspan="5" valign="center"|AFC Bournemouth
-|[[2015–16 Premier League|2015–16]]&lt;ref&gt;{{soccerbase season|28660|2015|accessdate=18 September 2017}}&lt;/ref&gt;
-|style="text-align:center;" rowspan="4"|Premier League
-|32||0||0||0||0||0||colspan="2"|–||32||0
+|[[2015–16 A.F.C. Bournemouth season|2015–16]]
+|style="text-align:center;" rowspan="4"|[[Premier League]]
+|32||0||0||0||0||0||colspan="2"|—||32||0
+|&lt;ref&gt;{{soccerbase season|28660|2015|accessdate=18 September 2017}}&lt;/ref&gt;
 |-
-|[[2016–17 A.F.C. Bournemouth season|2016–17]]&lt;ref&gt;{{soccerbase season|28660|2016|accessdate=14 May 2017}}&lt;/ref&gt;
-|35||0||0||0||0||0||colspan="2"|–||35||0
+|[[2016–17 A.F.C. Bournemouth season|2016–17]]
+|35||0||0||0||0||0||colspan="2"|—||35||0
+|&lt;ref&gt;{{soccerbase season|28660|2016|accessdate=14 May 2017}}&lt;/ref&gt;
 |-
-|[[2017–18 A.F.C. Bournemouth season|2017–18]]&lt;ref&gt;{{soccerbase season|28660|2017|accessdate=9 November 2017}}&lt;/ref&gt;
-|0||0||2||0||4||0||colspan="2"|–||6||0
+|[[2017–18 A.F.C. Bournemouth season|2017–18]]
+|0||0||2||0||4||0||colspan="2"|—||6||0
+|&lt;ref&gt;{{soccerbase season|28660|2017|accessdate=9 November 2017}}&lt;/ref&gt;
 |-
-|[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref&gt;{{soccerbase season|28660|2018|accessdate=1 September 2018}}&lt;/ref&gt;
-|7||0||1||0||4||0||colspan="2"|–||12||0
+|[[2018–19 A.F.C. Bournemouth season|2018–19]]
+|9||0||1||0||4||0||colspan="2"|—||14||0
+|&lt;ref&gt;{{soccerbase season|28660|2018|accessdate=1 September 2018}}&lt;/ref&gt;
 |-
 !colspan="2"|Total
-!111 !! 0 !! 3 !! 0 !! 10 !! 0 !! 0 !! 0 !! 124 !! 0
+!113!!0!!3!!0!!10!!0!!0!!0!!126!!0
+|rowspan="2"|&lt;ref name="Soccerway"/&gt;
 |-
 !colspan="3"|Career total
-! 453 !! 1 !! 35 !! 0 !! 23 !! 0 !! 36 !! 0 !! 547 !! 1
+!455!!1!!35!!0!!23!!0!!36!!0!!549!!1
 |}
 
 ==Personal life==
@@ -498,7 +518,7 @@ In September 2009, ''[[The Sun (United Kingdom)|The Scottish Sun]]'' newspaper p
 [[Category:Polish expatriate sportspeople in England]]
 [[Category:UEFA Euro 2016 players]]
 [[Category:MKP Pogoń Siedlce players]]</text>
-      <sha1>sdy5e620nszaj7cjddcjvxbonjvu49v</sha1>
+      <sha1>o4ryg60v5anduz0c9af0bfcq7k4lmkk</sha1>
     </revision>
   </page>
   <page>
@@ -534,14 +554,14 @@ In September 2009, ''[[The Sun (United Kingdom)|The Scottish Sun]]'' newspaper p
     <ns>0</ns>
     <id>21754535</id>
     <revision>
-      <id>877103683</id>
-      <parentid>875901956</parentid>
-      <timestamp>2019-01-06T16:12:18Z</timestamp>
+      <id>888923909</id>
+      <parentid>888923883</parentid>
+      <timestamp>2019-03-22T07:38:13Z</timestamp>
       <contributor>
-        <username>Mighty platypus</username>
-        <id>34602910</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Updated appearances</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="14661">{{other people}}
@@ -587,9 +607,9 @@ In September 2009, ''[[The Sun (United Kingdom)|The Scottish Sun]]'' newspaper p
 | goals6 = 0
 | years7 = 2012–
 | clubs7 = [[AFC Bournemouth]]
-| caps7 = 264
+| caps7 = 269
 | goals7 = 18
-| club-update = 16:12, 6 January 2019 (UTC)
+| club-update = 07:38, 22 March 2019 (UTC)
 }}
 '''Steve Anthony Cook''' (born 19 April 1991) is an English professional [[association football|footballer]] who plays as a [[Defender (association football)|defender]] for {{English football updater|AFCBourn}} club [[AFC Bournemouth]].
 
@@ -617,7 +637,7 @@ On 3 January 2012, Cook re-joined Bournemouth permanently for £150,000 signing 
 On 4 December 2016, he scored to equalise and then created the winning goal as Bournemouth completed one of the comebacks of the season to beat Liverpool for the first time in their history 4–3 in a sensational Premier League game.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/38121184|title=Bournemouth 4–3 Liverpool|date=4 December 2016|publisher=BBC}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 22 September 2018}}
+{{updated|match played 9 February 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Club statistics
@@ -708,13 +728,13 @@ On 4 December 2016, he scored to equalise and then created the winning goal as B
 |-
 |[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref name="Games played by Steve Cook in 2018/2019"&gt;{{soccerbase season|49993|2018|accessdate=23 September 2018}}&lt;/ref&gt;
 |Premier League
-|6||1||0||0||1||0||colspan=2|—||7||1
+|26||1||1||0||3||1||colspan=2|—||30||2
 |-
 !colspan=2|Total
-!249||18||11||0||8||0||1||0||266||18
+!269||18||12||0||10||1||1||0||289||19
 |-
 !colspan=3|Career total
-!290||18||14||0||10||0||9||0||323||18
+!310||18||15||0||12||1||9||0||346||19
 |}
 
 {{Reflist|group=lower-alpha}}
@@ -747,7 +767,7 @@ On 4 December 2016, he scored to equalise and then created the winning goal as B
 [[Category:English Football League players]]
 [[Category:National League (English football) players]]
 [[Category:Premier League players]]</text>
-      <sha1>rgqrvh5pudilkhe7dsfaq83dhp7glug</sha1>
+      <sha1>drbtrfwwy6wdsnd1q8hpgbql7qwgtuw</sha1>
     </revision>
   </page>
   <page>
@@ -755,17 +775,17 @@ On 4 December 2016, he scored to equalise and then created the winning goal as B
     <ns>0</ns>
     <id>8372979</id>
     <revision>
-      <id>879899036</id>
-      <parentid>877104094</parentid>
-      <timestamp>2019-01-24T02:59:25Z</timestamp>
+      <id>888924051</id>
+      <parentid>888924038</parentid>
+      <timestamp>2019-03-22T07:41:24Z</timestamp>
       <contributor>
-        <username>GreenC bot</username>
-        <id>27823944</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Rescued 1 archive link; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="22798">{{EngvarB|date=June 2013}}
+      <text xml:space="preserve" bytes="22824">{{EngvarB|date=June 2013}}
 {{Use dmy dates|date=June 2013}}
 {{Infobox football biography
 | name           = Dan Gosling
@@ -785,7 +805,7 @@ On 4 December 2016, he scored to equalise and then created the winning goal as B
 | years2         = 2008–2010 | clubs2 = [[Everton F.C.|Everton]]                   | caps2 = 22  | goals2 = 4
 | years3         = 2010–2014 | clubs3 = [[Newcastle United F.C.|Newcastle United]] | caps3 = 24  | goals3 = 1
 | years4         = 2013–2014 | clubs4 = → [[Blackpool F.C.|Blackpool]] (loan)      | caps4 = 14  | goals4 = 2
-| years5         = 2014–     | clubs5 = [[AFC Bournemouth]]                        | caps5 = 120 | goals5 = 5
+| years5         = 2014–     | clubs5 = [[AFC Bournemouth]]                        | caps5 = 127 | goals5 = 5
 | nationalyears1 = 2007
 | nationalteam1  = [[England national under-17 football team|England U17]]
 | nationalcaps1  = 5
@@ -802,7 +822,7 @@ On 4 December 2016, he scored to equalise and then created the winning goal as B
 | nationalteam4  = [[England national under-21 football team|England U21]]
 | nationalcaps4  = 3
 | nationalgoals4 = 0
-| club-update = 16:15, 6 January 2019 (UTC)
+| club-update = 07:41, 22 March 2019 (UTC)
 | nationalteam-update =
 }}
 '''Daniel Gosling''' (born 1 February 1990) is an English professional [[Association football|footballer]] who plays for {{English football updater|AFCBourn}} club [[AFC Bournemouth]] as a [[midfielder|central midfielder]], [[midfielder|right midfielder]] or [[Fullback (association football)|right fullback]]. Gosling is a versatile player, having operated as a box-to-box midfielder on several occasions and occasionally deputised at right back to accommodate substitutions. His previous clubs are [[Newcastle United F.C.|Newcastle United]], [[Plymouth Argyle F.C.|Plymouth Argyle]] and [[Everton F.C.|Everton]].
@@ -847,7 +867,7 @@ Gosling was called up to the [[England national under-21 football team|England U
 Gosling was charged with misconduct under Rule E8(b) of the FA's regulations, which relates to players betting on football matches, and on 10 March 2014, Gosling admitted "multiple breaches", requesting a personal hearing to answer his case.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/26515814|title=Dan Gosling: Newcastle midfielder admits to FA betting charge|publisher=[[BBC Sport]]|date=10 March 2014|accessdate=10 March 2014}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|the end of the 2017–18 season}}&lt;ref&gt;{{cite web|title=D.Gosling|url=https://int.soccerway.com/players/dan-gosling/15647/|accessdate=1 July 2016}}&lt;/ref&gt;
+{{updated|27 February 2019}}&lt;ref&gt;{{cite web|title=D.Gosling|url=https://int.soccerway.com/players/dan-gosling/15647/|accessdate=1 July 2016}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -905,32 +925,32 @@ Gosling was charged with misconduct under Rule E8(b) of the FA's regulations, wh
 !24!!1!!2!!0!!5!!0!!5!!0!!36!!1
 |-
 |[[Blackpool F.C.|Blackpool]] (loan)
-|Championship
+|rowspan="2"|Championship
 |[[2013–14 Football League Championship|2013–14]]
 |14||2||0||0||0||0||-||-||14||2
 |-
-|rowspan="5"|[[AFC Bournemouth]]
-|Championship
+|rowspan="6"|[[AFC Bournemouth]]
 |[[2014–15 Football League Championship|2014–15]]
 |18||0||1||0||5||5||-||-||24||5
 |-
-||[[Premier League]]
+|rowspan="4"|[[Premier League]]
 |[[2015–16 Premier League|2015–16]]
 |34||3||1||0||3||1||-||-||38||4
 |-
-||[[Premier League]]
 |[[2016–17 Premier League|2016–17]]
 |27||2||1||0||3||1||-||-||31||3
 |-
-||[[Premier League]]
 |[[2017–18 Premier League|2017–18]]
 |28||0||0||0||3||0||-||-||31||0
 |-
+|[[2018–19 Premier League|2018–19]]
+|20||0||0||0||1||0||-||-||21||0
+|-
 !colspan="2"|Total
-!107!!5!!3!!0!!14!!7!!-!!-!!124!!12
+!127!!5!!3!!0!!15!!7!!-!!-!!145!!12
 |-
 !colspan="3"|Total
-!189!!14!!13!!1!!21!!8!!12!!0!!235!!23
+!209!!14!!13!!1!!22!!8!!12!!0!!256!!23
 |}
 
 ==Honours==
@@ -969,7 +989,7 @@ Gosling was charged with misconduct under Rule E8(b) of the FA's regulations, wh
 [[Category:A.F.C. Bournemouth players]]
 [[Category:English Football League players]]
 [[Category:Premier League players]]</text>
-      <sha1>onla6hs85ppyck2hlirh2fu7gl43fyg</sha1>
+      <sha1>gthsh7djn80lluthwloaiu5c1xn1mx6</sha1>
     </revision>
   </page>
   <page>
@@ -977,17 +997,18 @@ Gosling was charged with misconduct under Rule E8(b) of the FA's regulations, wh
     <ns>0</ns>
     <id>38030731</id>
     <revision>
-      <id>885566734</id>
-      <parentid>885482121</parentid>
-      <timestamp>2019-02-28T20:59:28Z</timestamp>
+      <id>888983110</id>
+      <parentid>888945552</parentid>
+      <timestamp>2019-03-22T17:23:32Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>Iggy the Swan</username>
+        <id>31885086</id>
       </contributor>
-      <comment>Reverted 4 edits by [[Special:Contributions/171.96.190.141|171.96.190.141]] ([[User talk:171.96.190.141|talk]]): Incomplete ([[WP:TW|TW]])</comment>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/Topnanan|Topnanan]] ([[User talk:Topnanan|talk]]): Google.com urls does not work in Wikipedia ([[WP:TW|2019 Swan]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="25371">{{EngvarB|date=December 2018}}
+      <text xml:space="preserve" bytes="25369">{{EngvarB|date=December 2018}}
 {{Use dmy dates|date=December 2018}}
 {{Infobox football biography
 | name = Nathan Aké
@@ -1027,7 +1048,7 @@ Gosling was charged with misconduct under Rule E8(b) of the FA's regulations, wh
 | goals4 = 3
 | years5 = 2017–
 | clubs5 = [[AFC Bournemouth]]
-| caps5 = 59
+| caps5 = 69
 | goals5 = 5
 | nationalyears1 = 2009–2010
 | nationalteam1 = Netherlands U15
@@ -1053,7 +1074,7 @@ Gosling was charged with misconduct under Rule E8(b) of the FA's regulations, wh
 | nationalteam6 = [[Netherlands national football team|Netherlands]]
 | nationalcaps6 = 10
 | nationalgoals6 = 1
-| club-update = 10:45, 3 January 2019 (UTC)
+| club-update = 07:45, 22 March 2019 (UTC)
 | nationalteam-update = 20:42, 16 November 2018 (UTC)
 }}
 '''Nathan Benjamin Aké''' (born 18 February 1995) is a Dutch professional [[Association football|footballer]] who plays for English {{English football updater|AFCBourn}} club [[AFC Bournemouth]] and the [[Netherlands national football team|Netherlands national team]]. Although he predominantly plays as a [[central defender]], he has also been deployed as a [[left back]].&lt;ref name="dailystar1"&gt;{{cite news |url=http://www.dailystar.co.uk/sport/football/526529/Chelsea-Transfer-News-Nathan-Ake-Eddie-Howe-Gossip |title=Premier League boss explains why he has signed this Chelsea defender |work=Daily Star |accessdate=14 July 2016}}&lt;/ref&gt;
@@ -1104,7 +1125,7 @@ Aké's father is from the Ivory Coast.&lt;ref&gt;{{cite news |url=https://www.th
 
 ==Career statistics==
 ===Club===
-{{updated|23 September 2018}}&lt;ref name="Soccerway"/&gt;
+{{updated|16 March 2019}}&lt;ref name="Soccerway"/&gt;
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -1162,13 +1183,13 @@ Aké's father is from the Ivory Coast.&lt;ref&gt;{{cite news |url=https://www.th
 |-
 |[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref&gt;{{soccerbase season|68645|2018|accessdate=23 September 2018}}&lt;/ref&gt;
 |Premier League
-|6||1||0||0||0||0||colspan=2|—||colspan=2|—||6||1
+|31||3||0||0||1||0||colspan=2|—||colspan=2|—||32||3
 |-
 !colspan=3|Total
-!54!!6!!1!!0!!4!!0!!colspan=2|—!!colspan=2|—!!59!!6
+!79!!8!!1!!0!!5!!0!!colspan=2|—!!colspan=2|—!!85!!8
 |-
 !colspan=3 |Career total
-!90!!7!!9!!0!!7!!0!!3!!0!!0!!0!!109!!7
+!115!!9!!9!!0!!8!!0!!3!!0!!0!!0!!135!!7
 |}
 {{notelist}}
 
@@ -1245,7 +1266,7 @@ Aké's father is from the Ivory Coast.&lt;ref&gt;{{cite news |url=https://www.th
 [[Category:Expatriate footballers in England]]
 [[Category:Dutch expatriate sportspeople in England]]
 [[Category:Dutch people of Ivorian descent]]</text>
-      <sha1>77sv6rvzpl6h7btkrzf2ymo7cayzr6b</sha1>
+      <sha1>jmq27fqtwrfgn0qg20fh4e7zs4pw958</sha1>
     </revision>
   </page>
   <page>
@@ -1253,17 +1274,17 @@ Aké's father is from the Ivory Coast.&lt;ref&gt;{{cite news |url=https://www.th
     <ns>0</ns>
     <id>4042170</id>
     <revision>
-      <id>882276863</id>
-      <parentid>877104632</parentid>
-      <timestamp>2019-02-07T23:47:24Z</timestamp>
+      <id>888924530</id>
+      <parentid>888924440</parentid>
+      <timestamp>2019-03-22T07:48:16Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>wl, rm non-notable honour</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="21103">{{distinguish|Andrew Surmani}}
+      <text xml:space="preserve" bytes="21101">{{distinguish|Andrew Surmani}}
 {{Use British English|date=July 2013}}
 {{Use dmy dates|date=July 2013}}
 {{Infobox football biography
@@ -1285,9 +1306,9 @@ Aké's father is from the Ivory Coast.&lt;ref&gt;{{cite news |url=https://www.th
 |years4 = 2009–2010 |clubs4 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] |caps4 = 7   |goals4 = 0
 |years5 = 2010–2014 |clubs5 = [[Norwich City F.C.|Norwich City]]                       |caps5 = 52  |goals5 = 7
 |years6 = 2013–2014 |clubs6 = → [[AFC Bournemouth]] (loan)                             |caps6 = 35  |goals6 = 0
-|years7 = 2014–     |clubs7 = [[AFC Bournemouth]]                                      |caps7 = 138 |goals7 = 5
+|years7 = 2014–     |clubs7 = [[AFC Bournemouth]]                                      |caps7 = 144 |goals7 = 5
 |nationalyears1 = 2007–2008 |nationalteam1 = [[England national under-21 football team|England U21]] |nationalcaps1 = 4 |nationalgoals1 = 1
-|club-update = 16:19, 6 January 2019 (UTC)
+|club-update = 07:48, 22 March 2019 (UTC)
 }}
 '''Andrew Ronald Edward Surman''' (born 20 August 1986) is a professional [[Association football|footballer]] who plays as a [[midfielder]] for {{English football updater|AFCBourn}} club [[AFC Bournemouth]]. He spent the first five years of his career with [[Southampton F.C.|Southampton]] where he made more than 100 appearances. He also played for [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] and had a spell on loan at [[Walsall F.C.|Walsall]].
 
@@ -1336,7 +1357,7 @@ In July 2017, he told the Daily Echo: "I have never ruled out playing for South 
 In April 2015, Surman's wife gave birth to the couple's third child.&lt;ref&gt;{{cite web|title=Andrew Surman: Bournemouth star 'proud' after whirlwind week|url=https://www.bbc.co.uk/sport/football/32285640|publisher=BBC Sport|accessdate=14 July 2017|date=13 April 2015}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|23September 2018}}
+{{updated|9 March 2019}}
 
 {| class=wikitable style=text-align:center
 |-
@@ -1418,7 +1439,7 @@ In April 2015, Surman's wife gave birth to the couple's third child.&lt;ref&gt;{
 |Championship
 |35||0||2||0||2||0||0||0||39||0
 |-
-|rowspan=5|AFC Bournemouth
+|rowspan=6|AFC Bournemouth
 |[[2014–15 A.F.C. Bournemouth season|2014–15]]&lt;ref name="2014/2015"/&gt;
 |Championship
 |41||3||0||0||0||0||0||0||41||3
@@ -1437,13 +1458,13 @@ In April 2015, Surman's wife gave birth to the couple's third child.&lt;ref&gt;{
 |-
 |[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref name="2018/2019"&gt;{{soccerbase season|40703|2018|accessdate=23 September 2018}}&lt;/ref&gt;
 |Premier League
-|4||0||0||0||0||0||0||0||4||0
+|18||0||1||0||1||0||0||0||20||0
 |-
 !colspan=2|Total
-!165!!5!!3!!0!!2!!0!!0!!0!!170!!5
+!179!!5!!4!!0!!3!!0!!0!!0!!190!!5
 |-
 !colspan=3|Career total
-!383!!29!!9!!2!!14!!0!!2!!1!!409!!32
+!397!!29!!10!!2!!15!!0!!2!!1!!429!!32
 |}
 
 ==Honours==
@@ -1481,7 +1502,7 @@ In April 2015, Surman's wife gave birth to the couple's third child.&lt;ref&gt;{
 [[Category:White South African people]]
 [[Category:South African people of British descent]]
 [[Category:People educated at St Mary's College, Southampton]]</text>
-      <sha1>qaa9fhb8tu2ikctgxhq6vi3sd0oxcxi</sha1>
+      <sha1>0cubs3hshn52ze52ov1h752artm3m8i</sha1>
     </revision>
   </page>
   <page>
@@ -1489,17 +1510,16 @@ In April 2015, Surman's wife gave birth to the couple's third child.&lt;ref&gt;{
     <ns>0</ns>
     <id>47516223</id>
     <revision>
-      <id>885835743</id>
-      <parentid>885588038</parentid>
-      <timestamp>2019-03-02T17:27:34Z</timestamp>
+      <id>889032408</id>
+      <parentid>888924601</parentid>
+      <timestamp>2019-03-22T23:45:15Z</timestamp>
       <contributor>
-        <username>ChrisTakey</username>
-        <id>26911760</id>
+        <username>Juanreal</username>
+        <id>19745118</id>
       </contributor>
-      <comment>/* AFC Bournemouth */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="9061">{{Spanish name|Lerma|Solís}}
+      <text xml:space="preserve" bytes="9059">{{Spanish name|Lerma|Solís}}
 {{Use dmy dates|date=August 2016}}
 {{Infobox football biography
 | name = Jefferson Lerma
@@ -1528,7 +1548,7 @@ In April 2015, Surman's wife gave birth to the couple's third child.&lt;ref&gt;{
 | caps3 = 56
 | goals3 = 1
 | clubs4 = [[A.F.C. Bournemouth|AFC Bournemouth]]
-| caps4 = 21
+| caps4 = 23
 | goals4 = 1
 | years4 = 2018–
 | nationalyears1 = 2016
@@ -1537,10 +1557,10 @@ In April 2015, Surman's wife gave birth to the couple's third child.&lt;ref&gt;{
 | nationalgoals1 = 0
 | nationalyears2 = 2017–
 | nationalteam2 = [[Colombia national football team|Colombia]]
-| nationalcaps2 = 9
+| nationalcaps2 = 10
 | nationalgoals2 = 0
-| club-update = 23 February 2019
-| nationalteam-update = 3 July 2018
+| club-update = 17 March 2019
+| nationalteam-update = 22 March 2019
 }}
 '''Jefferson Andrés Lerma Solís''' (born 25 October 1994) is a Colombian [[Association football|footballer]] who plays as a [[Midfielder|central midfielder]] for [[Premier League]] club [[A.F.C. Bournemouth|AFC Bournemouth]] and the [[Colombia national football team|Colombia national team]]. Lerma has also been used as a [[Midfielder#Defensive midfielder|defensive midfielder]] and as a [[Defender (association football)|right back]].
 
@@ -1561,7 +1581,7 @@ In June 2018, Lerma was named to [[Colombia national football team|Colombia]]'s 
 
 ==Career statistics==
 ===Club===
-{{updated|19 January 2019}}&lt;ref&gt;{{soccerway|jefferson-andres-lerma-solis/288830}}&lt;/ref&gt;
+{{updated|16 March 2019}}&lt;ref&gt;{{soccerway|jefferson-andres-lerma-solis/288830}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -1610,10 +1630,10 @@ In June 2018, Lerma was named to [[Colombia national football team|Colombia]]'s 
 |[[A.F.C. Bournemouth|AFC Bournemouth]]
 |[[2018–19 A.F.C. Bournemouth season|2018–19]]
 |[[Premier League]]
-|18||1||0||0||2||0||0||0||20||1
+|23||1||0||0||2||0||0||0||25||1
 |-
 !colspan="3"|Career total
-!191!!10!!13!!1!!2!!0!!0!!0!!206!!11
+!196!!10!!13!!1!!2!!0!!0!!0!!211!!11
 |}
 
 ===International===
@@ -1673,7 +1693,7 @@ In June 2018, Lerma was named to [[Colombia national football team|Colombia]]'s 
 
 
 {{Colombia-footy-bio-stub}}</text>
-      <sha1>4fajr9bqoveglayu8wwgv8sujo94k80</sha1>
+      <sha1>7h6qaz4xd0xk2r58ew0sk3wkjot4win</sha1>
     </revision>
   </page>
   <page>
@@ -1681,17 +1701,17 @@ In June 2018, Lerma was named to [[Colombia national football team|Colombia]]'s 
     <ns>0</ns>
     <id>47769706</id>
     <revision>
-      <id>885490769</id>
-      <parentid>882529362</parentid>
-      <timestamp>2019-02-28T10:22:19Z</timestamp>
+      <id>888924780</id>
+      <parentid>888924756</parentid>
+      <timestamp>2019-03-22T07:51:56Z</timestamp>
       <contributor>
-        <username>Jamieroot11</username>
-        <id>34512972</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Updating infobox</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="5488">{{Infobox football biography
+      <text xml:space="preserve" bytes="5572">{{Infobox football biography
 | name = Lys Mousset
 | image = 
 | fullname = Lys Émilien Mousset&lt;ref&gt;{{cite web |url=http://www.thefa.com/-/media/files/thefaportal/governance-docs/registrations/player-registration---july-2016.ashx |title=List of Players under Written Contract Registered Between 01/07/2016 and 31/07/2016 |publisher=The Football Association |format=PDF |page=23 |accessdate=2 February 2019}}&lt;/ref&gt;
@@ -1717,7 +1737,7 @@ In June 2018, Lerma was named to [[Colombia national football team|Colombia]]'s 
 | goals2 = 14
 | years3 = 2016–
 | clubs3 = [[A.F.C. Bournemouth|AFC Bournemouth]]
-| caps3 = 53
+| caps3 = 55
 | goals3 = 3
 | nationalyears1 = 2015–2016
 | nationalteam1 = [[France national under-20 football team|France U20]]
@@ -1727,7 +1747,7 @@ In June 2018, Lerma was named to [[Colombia national football team|Colombia]]'s 
 | nationalteam2 = [[France national under-21 football team|France U21]]
 | nationalcaps2 = 8
 | nationalgoals2 = 5
-| club-update = 10:22, 28 February 2019 (UTC)
+| club-update = 07:51, 22 March 2019 (UTC)
 | nationalteam-update = 13 November 2017
 }}
 '''Lys Émilien Mousset''' (born 8 February 1996) is a French footballer who currently plays for [[A.F.C. Bournemouth|AFC Bournemouth]] in the [[Premier League]]. He is a [[France national under-21 football team|France U21]] international.
@@ -1743,7 +1763,7 @@ On 30 June 2016, Mousset joined [[A.F.C. Bournemouth|AFC Bournemouth]] from [[Le
 Mousset was born in France to a Senegalese father and a French mother, and is eligible for both countries.&lt;ref&gt;{{cite web|url=http://seneprolongations.com/talent-cache-lys-mendy-le-meconnu-des-senegalais-de-premier-league-8989|title=Talent Caché : Lys Mendy, le méconnu des sénégalais de Premier League !|publisher=}}&lt;/ref&gt; He made his [[France national under-20 football team|France U20]] debut in 2015.
 
 ==Career statistics==
-{{updated|14 May 2018}}&lt;ref&gt;{{cite web|title=Lys Mousset Soccerway Profile|url=https://int.soccerway.com/players/lys-mousset/278717/|accessdate=30 June 2016}}&lt;/ref&gt;
+{{updated|9 March 2019}}&lt;ref&gt;{{cite web|title=Lys Mousset Soccerway Profile|url=https://int.soccerway.com/players/lys-mousset/278717/|accessdate=30 June 2016}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -1771,19 +1791,22 @@ Mousset was born in France to a Senegalese father and a French mother, and is el
 !colspan=2|Total
 !34!!14!!1!!0!!1!!0!!0!!0!!36!!14
 |-
-|rowspan="3"|[[AFC Bournemouth]]
+|rowspan="4"|[[AFC Bournemouth]]
 |[[2016–17 Premier League|2016–17]]
-|rowspan="2"|[[Premier League]]
+|rowspan="3"|[[Premier League]]
 |11||0||1||0||2||0||colspan=2|—||14||0
 |-
 |[[2017–18 Premier League|2017–18]]
 |23||2||2||1||4||0||colspan=2|—||29||3
 |-
+|[[2018–19 Premier League|2018–19]]
+|21||1||1||0||3||1||colspan=2|—||25||2
+|-
 !colspan=2|Total
-!34!!2!!3!!1!!6!!0!!0!!0!!43!!3
+!55!!3!!4!!1!!9!!1!!0!!0!!68!!5
 |-
 !colspan=3|Career total
-!67!!16!!4!!1!!7!!0!!0!!0!!79!!17
+!88!!17!!5!!1!!10!!1!!0!!0!!104!!19
 |}
 
 ==References==
@@ -1812,7 +1835,7 @@ Mousset was born in France to a Senegalese father and a French mother, and is el
 [[Category:Expatriate footballers in England]]
 [[Category:French expatriate sportspeople in England]]
 [[Category:French people of Senegalese descent]]</text>
-      <sha1>ev2t5ppvl1rczp3q2nk5ewrp26mic10</sha1>
+      <sha1>gsrdi7dpijas68xo966il6axkyurwmk</sha1>
     </revision>
   </page>
   <page>
@@ -1820,17 +1843,17 @@ Mousset was born in France to a Senegalese father and a French mother, and is el
     <ns>0</ns>
     <id>32700299</id>
     <revision>
-      <id>878955832</id>
-      <parentid>877105996</parentid>
-      <timestamp>2019-01-18T00:57:56Z</timestamp>
+      <id>888924948</id>
+      <parentid>888924923</parentid>
+      <timestamp>2019-03-22T07:53:50Z</timestamp>
       <contributor>
-        <username>Rupert1904</username>
-        <id>10431141</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Adding Honours section</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="29263">{{Use dmy dates|date=March 2013}}
+      <text xml:space="preserve" bytes="29261">{{Use dmy dates|date=March 2013}}
 {{Infobox football biography
 | name           = Jordon Ibe
 | image          = Liverpool FC warm-up before the game vs Roma 2014 (3, cropped).jpg
@@ -1849,7 +1872,7 @@ Mousset was born in France to a Senegalese father and a French mother, and is el
 | years2         = 2012–2016 | clubs2 = [[Liverpool F.C.|Liverpool]]                      | caps2 = 41 | goals2 = 1
 | years3         = 2014      | clubs3 = → [[Birmingham City F.C.|Birmingham City]] (loan) | caps3 = 11 | goals3 = 1
 | years4         = 2014–2015 | clubs4 = → [[Derby County F.C.|Derby County]] (loan)       | caps4 = 20 | goals4 = 5
-| years5         = 2016–     | clubs5 = [[A.F.C. Bournemouth|AFC Bournemouth]]            | caps5 = 66 | goals5 = 2
+| years5         = 2016–     | clubs5 = [[A.F.C. Bournemouth|AFC Bournemouth]]            | caps5 = 74 | goals5 = 2
 | nationalyears1 = 2012–2013
 | nationalteam1  = [[England national under-18 football team|England U18]]
 | nationalcaps1  = 2
@@ -1866,7 +1889,7 @@ Mousset was born in France to a Senegalese father and a French mother, and is el
 | nationalteam4  = [[England national under-21 football team|England U21]]
 | nationalcaps4  = 4
 | nationalgoals4 = 0
-| club-update    = 16:29, 6 January 2019 (UTC)
+| club-update    = 07:53, 22 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Jordon Ashley Femi Ibe''' ({{IPAc-en|'|aɪ|b}} {{respell|EYEB}}; born 8 December 1995) is an English professional [[Association football|footballer]] who plays as an [[Midfielder#Attacking midfielder|attacking midfielder]] or [[Midfielder#Winger|winger]] for {{English football updater|AFCBourn}} club [[AFC Bournemouth]].
@@ -1913,7 +1936,7 @@ Ibe is eligible for [[Nigeria national football team|Nigeria]] through his fathe
 Former Liverpool manager [[Brendan Rodgers]] has described Ibe as "a really talented player with a bright footballing brain" who has the versatility to play as a winger on either flank, as a playmaker or as a striker.&lt;ref&gt;{{cite news |url=http://www.liverpoolecho.co.uk/sport/football/football-news/emre-can-remain-defence-despite-8611674 |title=Emre Can will remain in defence despite Lucas being out for up to six weeks, says Rodgers |first=James |last=Pearce |newspaper=Liverpool Echo |date=9 February 2015 |accessdate=3 July 2016}}&lt;/ref&gt; [[Steve McClaren]], who managed Ibe during his loan at Derby County, saw Ibe as an exciting player "like the old jinky wingers we used to get in the game".&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/sport/football/news-and-comment/jordon-ibe-profile-why-electric-ibe-is-taking-to-the-liverpool-limelight-with-ease-10039692.html |title=Jordon Ibe profile: Why electric Ibe is taking to the Liverpool limelight with ease |first=Tim |last=Rich |newspaper=The Independent |date=11 February 2015 |accessdate=3 July 2016}}&lt;/ref&gt; Andy Hunter of ''[[The Guardian]]'' described Ibe as an "individual of impressive pace, power and control", who produces threatening performances and stands out because of his good temperament, intelligence, creativity and directness.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/football/blog/2015/feb/12/liverpool-jordon-ibe-succeed |title=Liverpool's Jordon Ibe has pace, power and 'football brain' to succeed |first=Andy |last=Hunter |newspaper=The Guardian |date=12 February 2016 |accessdate=3 July 2016}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 10 November 2018}}
+{{updated|match played 16 March 2019}}
 
 {| class="wikitable" style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -1964,13 +1987,13 @@ Former Liverpool manager [[Brendan Rodgers]] has described Ibe as "a really tale
 |Premier League||32||2||2||0||4||0||colspan=2|—||38||2
 |-
 |[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|61224|2018|accessdate=11 November 2018}}&lt;/ref&gt;
-|Premier League||5||0||0||0||3||2||colspan=2|—||8||2
+|Premier League||17||0||1||0||4||2||colspan=2|—||22||2
 |-
 !colspan=2|Total
-!62||2||3||0||7||2||colspan=2|—||72||4
+!74||2||4||0||8||2||colspan=2|—||86||4
 |-
 !colspan=3|Career total
-!141||10||8||0||18||4||9||1||176||15
+!153||10||9||0||19||4||9||1||190||15
 |}
 
 {{notelist}}
@@ -2009,7 +2032,7 @@ Former Liverpool manager [[Brendan Rodgers]] has described Ibe as "a really tale
 [[Category:Black English sportspeople]]
 [[Category:English people of Nigerian descent]]
 [[Category:People educated at Sacred Heart Catholic School, Camberwell]]</text>
-      <sha1>93rathumi5dll1jfee2jnwkk6hyesli</sha1>
+      <sha1>fg2h0wqvb56l2dj1nju1dh89ifpk0gd</sha1>
     </revision>
   </page>
   <page>
@@ -2017,16 +2040,17 @@ Former Liverpool manager [[Brendan Rodgers]] has described Ibe as "a really tale
     <ns>0</ns>
     <id>429531</id>
     <revision>
-      <id>885787696</id>
-      <parentid>885783711</parentid>
-      <timestamp>2019-03-02T09:27:18Z</timestamp>
+      <id>887364502</id>
+      <parentid>885787696</parentid>
+      <timestamp>2019-03-12T05:15:13Z</timestamp>
       <contributor>
-        <ip>166.181.244.208</ip>
+        <username>Binksternet</username>
+        <id>4967956</id>
       </contributor>
-      <comment>/* Music */Additional information</comment>
+      <comment>Reverted 2 edits by [[Special:Contributions/166.181.244.208|166.181.244.208]] ([[User talk:166.181.244.208|talk]]): Rv... misrepresenting the source ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="28141">{{Other people}}
+      <text xml:space="preserve" bytes="27959">{{Other people}}
 {{Use mdy dates|date=July 2011}}
 {{Infobox musical artist
 | name             = Charlie Daniels
@@ -2037,9 +2061,9 @@ Former Liverpool manager [[Brendan Rodgers]] has described Ibe as "a really tale
 | birth_date       = {{birth date and age |1936|10|28|mf=y}}
 | birth_place      = [[Wilmington, North Carolina]], U.S.
 | genre            = {{flatlist|
-*[[Rock music|Rock]]&lt;ref name="AllMusic" /&gt;
-*[[Country music|country]]&lt;ref name="AllMusic"/&gt;
+*[[Country music|Country]]&lt;ref name="AllMusic"/&gt;
 *[[Bluegrass music|bluegrass]]&lt;ref name=EvansPrice/&gt;
+*[[Rock music|rock]]&lt;ref name="AllMusic" /&gt;
 *[[blues]]&lt;ref name="Gibson" /&gt;
 *[[gospel music|gospel]]&lt;ref name="Gibson" /&gt;
 }}
@@ -2106,7 +2130,7 @@ On October 26, 2018, Daniels released a new side album project that was not solo
 On November 6, 2018, Daniels will release a new book of daily inspirational quotes and stories titled ''Let's All Make The Day Count: The Everyday Wisdom of Charlie Daniels'' through Harper Collins' [[Thomas Nelson (publisher)|Thomas Nelson]] imprint.&lt;ref&gt;{{Cite web|url=http://www.hallels.com/articles/20245/20181017/charlie-daniels-to-release-new-book-lets-all-make-the-day-count.htm|title=Charlie Daniels to Release New Book 'Let's All Make the Day Count'|last=Hallels|website=www.hallels.com|language=en|access-date=2018-11-02}}&lt;/ref&gt;
 
 ==Music==
-Daniels' music encompasses [[Bluegrass music|Bluegrass]],&lt;ref name=EvansPrice&gt;{{cite web |url=http://theboot.com/charlie-daniels-joy-to-the-world/ |title=Charlie Daniels Celebrates Christmas Bluegrass-Style |first=Deborah |last=Evans-Price |work=The Boot |date=2 December 2009}}&lt;/ref&gt; [[Country music|country]],&lt;ref name="AllMusic"&gt;{{cite web |url={{Allmusic|class=artist|id=charlie-daniels-mn0000806247 |tab=biography |pure_url=yes}} |title=Charlie Daniels Biography |first=Stephen Thomas |last=Erlewine |authorlink=Stephen Thomas Erlewine |publisher=[[All Media Network]] |work=[[AllMusic]] |accessdate=15 June 2016}}&lt;/ref&gt; [[Rock music|rock]],&lt;ref name="AllMusic" /&gt; [[Southern rock]],&lt;ref name="AllMusic" /&gt; [[outlaw country]],&lt;ref&gt;{{cite web |url=http://www.onecountry.com/10-best-outlaw-country-artists-of-all-time-1648179440.html |title=10 Best Outlaw Country Artists Of All-Time |first=Adam |last=Bailey |work=One Country |date=3 November 2015}}&lt;/ref&gt; [[country rock]],&lt;ref name="AllMusic" /&gt; [[blues rock]],&lt;ref name="Axs"&gt;{{cite web |url=http://m.axs.com/charlie-daniels-band-burns-at-hard-rock-rocksino-in-northfield-42716|title=Charlie Daniels Band burns at Hard Rock Rocksino in Northfield |first=Peter |last=Roche |work=[[AXS (ticket merchant)|AXS]] |date=2 March 2015}}&lt;/ref&gt; [[rock and roll]],&lt;ref name="Axs" /&gt;&lt;ref name="Gibson"&gt;{{cite web |url=http://www.gibson.com/News-Lifestyle/Features/en-us/Southern-Rock-Legend-Charlie-Daniels-On-His-Career.aspx|title=Southern Rock Legend Charlie Daniels on His Career |first=Ted |last=Drozdowski |work=[[Gibson Guitar Corporation]] |date=6 May 2014}}&lt;/ref&gt; [[blues]],&lt;ref name="Gibson" /&gt; [[jazz]]&lt;ref&gt;{{cite web |url={{Allmusic|class=album|id=r92139|pure_url=yes}} |title=allmusic ((( Saddle Tramp &gt; Overview ))) |publisher=allmusic.com |accessdate=2010-08-07 }}&lt;/ref&gt; and [[gospel music|gospel]].&lt;ref name="Gibson" /&gt;
+Daniels' music encompasses [[Bluegrass music|Bluegrass]],&lt;ref name=EvansPrice&gt;{{cite web |url=http://theboot.com/charlie-daniels-joy-to-the-world/ |title=Charlie Daniels Celebrates Christmas Bluegrass-Style |first=Deborah |last=Evans-Price |work=The Boot |date=2 December 2009}}&lt;/ref&gt; [[Country music|country]],&lt;ref name="AllMusic"&gt;{{cite web |url={{Allmusic|class=artist|id=charlie-daniels-mn0000806247 |tab=biography |pure_url=yes}} |title=Charlie Daniels Biography |first=Stephen Thomas |last=Erlewine |authorlink=Stephen Thomas Erlewine |publisher=[[All Media Network]] |work=[[AllMusic]] |accessdate=15 June 2016}}&lt;/ref&gt; [[Rock music|rock]],&lt;ref name="AllMusic" /&gt; [[Southern rock]],&lt;ref name="AllMusic" /&gt; [[outlaw country]],&lt;ref&gt;{{cite web |url=http://www.onecountry.com/10-best-outlaw-country-artists-of-all-time-1648179440.html |title=10 Best Outlaw Country Artists Of All-Time |first=Adam |last=Bailey |work=One Country |date=3 November 2015}}&lt;/ref&gt; [[country rock]],&lt;ref name="AllMusic" /&gt; [[blues rock]],&lt;ref name="Axs"&gt;{{cite web |url=http://m.axs.com/charlie-daniels-band-burns-at-hard-rock-rocksino-in-northfield-42716|title=Charlie Daniels Band burns at Hard Rock Rocksino in Northfield |first=Peter |last=Roche |work=[[AXS (ticket merchant)|AXS]] |date=2 March 2015}}&lt;/ref&gt; [[rock and roll]],&lt;ref name="Axs" /&gt;&lt;ref name="Gibson"&gt;{{cite web |url=http://www.gibson.com/News-Lifestyle/Features/en-us/Southern-Rock-Legend-Charlie-Daniels-On-His-Career.aspx|title=Southern Rock Legend Charlie Daniels on His Career |first=Ted |last=Drozdowski |work=[[Gibson Guitar Corporation]] |date=6 May 2014}}&lt;/ref&gt; [[blues]]&lt;ref name="Gibson" /&gt; and [[gospel music|gospel]].&lt;ref name="Gibson" /&gt;
 
 ==Politics==
 [[File:Charlie Daniels at NavSta Great Lakes.jpg|thumb|upright|Daniels performing at U.S. Naval Station Great Lakes, September 11, 2003]]
@@ -2230,7 +2254,7 @@ During a doctor visit on March 25, 2013, Daniels was diagnosed with a mild case 
 [[Category:21st-century violinists]]
 [[Category:20th-century male musicians]]
 [[Category:21st-century male musicians]]</text>
-      <sha1>emgo8tba62llkunnjqhn0acoc9h3hpm</sha1>
+      <sha1>oi2go44s5qi7802xpetm0dwgan4gz2u</sha1>
     </revision>
   </page>
   <page>
@@ -2265,15 +2289,18 @@ During a doctor visit on March 25, 2013, Daniels was diagnosed with a mild case 
     <ns>0</ns>
     <id>1814</id>
     <revision>
-      <id>885489939</id>
-      <parentid>885264188</parentid>
-      <timestamp>2019-02-28T10:10:46Z</timestamp>
+      <id>888338705</id>
+      <parentid>888338654</parentid>
+      <timestamp>2019-03-18T14:15:38Z</timestamp>
       <contributor>
-        <ip>185.16.141.5</ip>
+        <username>Ealdgyth</username>
+        <id>4497767</id>
       </contributor>
+      <comment>/* References */ per [[MOS:ACCESS]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="93006">{{other people}}
+      <text xml:space="preserve" bytes="93494">{{short description|18th-century Scottish moral philosopher and political economist}}
+{{other people}}
 {{pp-pc1}}
 {{use dmy dates|date=October 2017}}
 {{EngvarB|date=October 2017}}
@@ -2306,7 +2333,7 @@ During a doctor visit on March 25, 2013, Daniels was diagnosed with a mild case 
 {{Capitalism}}
 {{Liberalism sidebar}}
 {{Economics sidebar}}
-'''Adam Smith''' {{post-nominals|country=GBR|FRSA}} ({{OldStyleDateNY|16 June|5 June}} 1723&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/history/historic_figures/smith_adam.shtml|title=Adam Smith (1723-1790)|website=BBC|quote=Adam Smith's exact date of birth is unknown, but he was baptised on 5 June 1723.}}&lt;/ref&gt; – 17 July 1790) was a Scottish [[economist]], [[philosopher]] and [[author]] as well as a [[Ethics|moral philosopher]], a pioneer of [[political economy]] and a key figure during the [[Scottish Enlightenment]] &lt;ref&gt;{{cite web|title=Great Thinkers of the Scottish Enlightenment|url=http://www.bbc.co.uk/history/scottishhistory/enlightenment/features_enlightenment_enlightenment.shtml}}&lt;/ref&gt; , also known as &lt;nowiki&gt;''The Father of Economics''&lt;/nowiki&gt;&lt;ref&gt;{{Cite web|url=https://www.investopedia.com/updates/adam-smith-economics/|title=Adam Smith: The Father of Economics|last=Sharma|first=Rakesh|website=Investopedia|access-date=2019-02-20}}&lt;/ref&gt;. Smith wrote two classic works, ''[[The Theory of Moral Sentiments]]'' (1759) and ''[[The Wealth of Nations|An Inquiry into the Nature and Causes of the Wealth of Nations]]'' (1776). The latter, often abbreviated as ''The Wealth of Nations'', is considered his ''[[Masterpiece|magnum opus]]'' and the first modern work of economics. In his work, Adam Smith introduced his theory of [[absolute advantage]].&lt;ref&gt;{{Cite web|url=https://corporatefinanceinstitute.com/resources/knowledge/economics/what-is-absolute-advantage/|title=Absolute Advantage - Ability to Produce More than Anyone Else|website=Corporate Finance Institute|language=en-US|access-date=2019-02-20}}&lt;/ref&gt;
+'''Adam Smith''' {{post-nominals|country=GBR|FRSA}} ({{OldStyleDateNY|16 June|5 June}} 1723&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/history/historic_figures/smith_adam.shtml|title=Adam Smith (1723–1790)|website=BBC|quote=Adam Smith's exact date of birth is unknown, but he was baptised on 5 June 1723.}}&lt;/ref&gt; – 17 July 1790) was a Scottish [[economist]], [[philosopher]] and [[author]] as well as a [[Ethics|moral philosopher]], a pioneer of [[political economy]] and a key figure during the [[Scottish Enlightenment]],&lt;ref&gt;{{cite web|title=Great Thinkers of the Scottish Enlightenment|url=http://www.bbc.co.uk/history/scottishhistory/enlightenment/features_enlightenment_enlightenment.shtml}}&lt;/ref&gt; also known as &lt;nowiki&gt;''The Father of Economics''&lt;/nowiki&gt;.&lt;ref&gt;{{Cite web|url=https://www.investopedia.com/updates/adam-smith-economics/|title=Adam Smith: The Father of Economics|last=Sharma|first=Rakesh|website=Investopedia|access-date=2019-02-20}}&lt;/ref&gt; Smith wrote two classic works, ''[[The Theory of Moral Sentiments]]'' (1759) and ''[[The Wealth of Nations|An Inquiry into the Nature and Causes of the Wealth of Nations]]'' (1776). The latter, often abbreviated as ''The Wealth of Nations'', is considered his ''[[Masterpiece|magnum opus]]'' and the first modern work of economics. In his work, Adam Smith introduced his theory of [[absolute advantage]].&lt;ref&gt;{{Cite web|url=https://corporatefinanceinstitute.com/resources/knowledge/economics/what-is-absolute-advantage/|title=Absolute Advantage – Ability to Produce More than Anyone Else|website=Corporate Finance Institute|language=en-US|access-date=2019-02-20}}&lt;/ref&gt;
 
 Smith studied [[social philosophy]] at the [[University of Glasgow]] and at [[Balliol College, Oxford]], where he was one of the first students to benefit from scholarships set up by fellow Scot [[John Snell]]. After graduating, he delivered a successful series of public lectures at [[Edinburgh]], leading him to collaborate with [[David Hume]] during the Scottish Enlightenment. Smith obtained a professorship at Glasgow, teaching moral philosophy and during this time, wrote and published ''The Theory of Moral Sentiments''. In his later life, he took a tutoring position that allowed him to travel throughout Europe, where he met other intellectual leaders of his day.
 
@@ -2343,7 +2370,7 @@ Smith published ''[[The Theory of Moral Sentiments]]'' in 1759, embodying some o
 [[File:François Quesnay.jpg|thumb|upright|[[François Quesnay]], one of the leaders of the [[Physiocracy|physiocratic]] school of thought|alt=A drawing of a man sitting down]]
 Following the publication of ''The Theory of Moral Sentiments'', Smith became so popular that many wealthy students left their schools in other countries to enroll at Glasgow to learn under Smith.&lt;ref&gt;{{harvnb|Buchholz|1999|p=15}}&lt;/ref&gt; After the publication of ''The Theory of Moral Sentiments'', Smith began to give more attention to [[jurisprudence]] and economics in his lectures and less to his theories of morals.&lt;ref&gt;{{harvnb|Buchan|2006|p=67}}&lt;/ref&gt; For example, Smith lectured that the cause of increase in national wealth is labour, rather than the nation's quantity of gold or silver, which is the basis for [[mercantilism]], the [[economic theory]] that dominated Western European economic policies at the time.&lt;ref&gt;{{harvnb|Buchholz|1999|p=13}}&lt;/ref&gt;
 
-In 1762, the University of Glasgow conferred on Smith the title of [[Doctor of Law]]s (LL.D.).&lt;ref&gt;{{cite web|url=https://www.gla.ac.uk/myglasgow/archives/exhibitions/smith/photogallery/honorarydegree/|title=MyGlasgow - Archive Services - Exhibitions - Adam Smith in Glasgow - Photo Gallery - Honorary degree|website=University of Glasgow|accessdate=November 6, 2018}}&lt;/ref&gt; At the end of 1763, he obtained an offer from [[Charles Townshend]]—who had been introduced to Smith by David Hume—to tutor his stepson, [[Henry Scott, 3rd Duke of Buccleuch|Henry Scott]], the young Duke of Buccleuch. Smith resigned from his professorship in 1764 to take the tutoring position. He subsequently attempted to return the fees he had collected from his students because he had resigned partway through the term, but his students refused.&lt;ref name="Buchholz 1999 16"&gt;{{harvnb|Buchholz|1999|p=16}}&lt;/ref&gt;
+In 1762, the University of Glasgow conferred on Smith the title of [[Doctor of Law]]s (LL.D.).&lt;ref&gt;{{cite web|url=https://www.gla.ac.uk/myglasgow/archives/exhibitions/smith/photogallery/honorarydegree/|title=MyGlasgow – Archive Services – Exhibitions – Adam Smith in Glasgow – Photo Gallery – Honorary degree|website=University of Glasgow|accessdate=November 6, 2018}}&lt;/ref&gt; At the end of 1763, he obtained an offer from [[Charles Townshend]]—who had been introduced to Smith by David Hume—to tutor his stepson, [[Henry Scott, 3rd Duke of Buccleuch|Henry Scott]], the young Duke of Buccleuch. Smith resigned from his professorship in 1764 to take the tutoring position. He subsequently attempted to return the fees he had collected from his students because he had resigned partway through the term, but his students refused.&lt;ref name="Buchholz 1999 16"&gt;{{harvnb|Buchholz|1999|p=16}}&lt;/ref&gt;
 
 ===Tutoring and travels===
 Smith's tutoring job entailed touring Europe with Scott, during which time he educated Scott on a variety of subjects, such as etiquette and manners. He was paid [[Pound sterling|£]]300 per year (plus expenses) along with a £300 per year pension; roughly twice his former income as a teacher.&lt;ref name="Buchholz 1999 16" /&gt; Smith first travelled as a tutor to [[Toulouse]], France, where he stayed for a year and a half. According to his own account, he found Toulouse to be somewhat boring, having written to Hume that he "had begun to write a book to pass away the time".&lt;ref name="Buchholz 1999 16" /&gt; After touring the south of France, the group moved to [[Geneva]], where Smith met with the philosopher [[Voltaire]].&lt;ref&gt;{{harvnb|Buchholz|1999|pp=16–17}}&lt;/ref&gt;
@@ -2394,7 +2421,7 @@ Smith was also a close friend of David Hume, who was commonly characterised in h
 
 ===''The Theory of Moral Sentiments''===
 {{Main|The Theory of Moral Sentiments}}
-In 1759, Smith published his first work, ''The Theory of Moral Sentiments,'' sold by co-publishers [[Andrew Millar]] of London and Alexander Kincaid of Edinburgh.&lt;ref&gt;{{Cite web |url=http://www.millar-project.ed.ac.uk/|title=Andrew Millar Project, University of Edinburgh|website=millar-project.ed.ac.uk|accessdate=3 June 2016}}&lt;/ref&gt; Smith continued making extensive revisions to the book until his death.{{efn|The 6 editions of ''The Theory of Moral Sentiments'' were published in 1759, 1761, 1767, 1774, 1781, and 1790, respectively.&lt;ref&gt;{{cite book|title=Adam Smith, Glasgow Edition of the Works and Correspondence Vol. 1 The Theory of Moral Sentiments [1759]}}&lt;/ref&gt;}} Although ''The Wealth of Nations'' is widely regarded as Smith's most influential work, Smith himself  is believed to have considered ''The Theory of Moral Sentiments'' to be a superior work.&lt;ref&gt;{{harvnb|Rae|1895}}&lt;/ref&gt;
+In 1759, Smith published his first work, ''The Theory of Moral Sentiments,'' sold by co-publishers [[Andrew Millar]] of London and Alexander Kincaid of Edinburgh.&lt;ref&gt;{{Cite web |url=http://www.millar-project.ed.ac.uk/|title=Andrew Millar Project, University of Edinburgh|website=millar-project.ed.ac.uk|accessdate=3 June 2016}}&lt;/ref&gt; Smith continued making extensive revisions to the book until his death.{{efn|The 6 editions of ''The Theory of Moral Sentiments'' were published in 1759, 1761, 1767, 1774, 1781, and 1790, respectively.&lt;ref&gt;{{cite book|title=Adam Smith, Glasgow Edition of the Works and Correspondence Vol. 1 The Theory of Moral Sentiments [1759]}}&lt;/ref&gt;}} Although ''The Wealth of Nations'' is widely regarded as Smith's most influential work, Smith himself is believed to have considered ''The Theory of Moral Sentiments'' to be a superior work.&lt;ref&gt;{{harvnb|Rae|1895}}&lt;/ref&gt;
 
 In the work, Smith critically examines the moral thinking of his time, and suggests that conscience arises from dynamic and interactive social relationships through which people seek "mutual sympathy of sentiments."&lt;ref&gt;{{cite web |url=http://www.liberalhistory.org.uk/item_single.php?item_id=37&amp;item=biography |title=Biography of Smith |accessdate=14 May 2008 |publisher=[[Liberal Democrat History Group]] |year=1997 |author=Falkner, Robert |archiveurl=https://web.archive.org/web/20080611110312/http://www.liberalhistory.org.uk/item_single.php?item_id=37&amp;item=biography |archivedate=11 June 2008 |deadurl=yes |df=dmy-all }}&lt;/ref&gt; His goal in writing the work was to explain the source of mankind's ability to form moral judgement, given that people begin life with no moral sentiments at all. Smith proposes a theory of sympathy, in which the act of observing others and seeing the judgements they form of both others and oneself makes people aware of themselves and how others perceive their behaviour. The feedback we receive from perceiving (or imagining) others' judgements creates an incentive to achieve "mutual sympathy of sentiments" with them and leads people to develop habits, and then principles, of behaviour, which come to constitute one's conscience.&lt;ref&gt;{{harvnb|Smith|2002|p=xv}}&lt;/ref&gt;
 
@@ -2412,9 +2439,7 @@ Smith used the term "[[invisible hand|the invisible hand]]" in "History of Astro
 
 Those who regard that statement as Smith's central message also quote frequently Smith's dictum:&lt;ref&gt;Smith, A., 1976, ''The Glasgow edition'', vol. 2a, pp. 26–27.&lt;/ref&gt;
 
-&lt;blockquote&gt;It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest. We address ourselves, not to their humanity but to their self-love, and never talk to them of our own necessities but of their advantages.&lt;/blockquote&gt;
-
-[[File:Wealth of Nations.jpg|thumb|upright|The first page of ''The Wealth of Nations'', 1776 London edition|alt=The first page of a book]]
+&lt;blockquote&gt;It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest. We address ourselves, not to their humanity but to their self-love, and never talk to them of our own necessities but of their advantages.&lt;/blockquote&gt;However, in ''The Theory of Moral Sentiments'' he had a more sceptical approach to self-interest as driver of behaviour:&lt;blockquote&gt;How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it except the pleasure of seeing it.&lt;/blockquote&gt;[[File:Wealth of Nations.jpg|thumb|upright|The first page of ''The Wealth of Nations'', 1776 London edition|alt=The first page of a book]]
 Smith's statement about the benefits of "an invisible hand" may be meant to answer{{Citation needed|date=February 2013}} [[Bernard Mandeville|Mandeville's]] contention that "Private Vices ... may be turned into Public Benefits".&lt;ref&gt;Mandeville, B., 1724, ''The Fable of the Bees'', London: Tonson.&lt;/ref&gt; It shows Smith's belief that when an individual pursues his self-interest under conditions of justice, he unintentionally promotes the good of society. Self-interested competition in the free market, he argued, would tend to benefit society as a whole by keeping prices low, while still building in an incentive for a wide variety of goods and services. Nevertheless, he was wary of businessmen and warned of their "conspiracy against the public or in some other contrivance to raise prices".&lt;ref&gt;Smith, A., 1976, ''The Glasgow edition'', vol. 2a, pp. 145, 158.&lt;/ref&gt; Again and again, Smith warned of the collusive nature of business interests, which may form cabals or [[Monopoly|monopolies]], fixing the highest price "which can be squeezed out of the buyers".&lt;ref&gt;Smith, A., 1976, ''The Glasgow edition'', vol. 2a, p. 79.&lt;/ref&gt; Smith also warned that a business-dominated political system would allow a conspiracy of businesses and industry against consumers, with the former scheming to influence politics and legislation. Smith states that the interest of manufacturers and merchants "in any particular branch of trade or manufactures, is always in some respects different from, and even opposite to, that of the public ... The proposal of any new law or regulation of commerce which comes from this order, ought always to be listened to with great precaution, and ought never be adopted till after having been long and carefully examined, not only with the most scrupulous, but with the most suspicious attention."&lt;ref&gt;{{cite journal |last=Gopnik |first=Adam |title=Market Man |journal=[[The New Yorker]] |issue=18 October 2010 |page=82 |url=http://www.newyorker.com/arts/critics/books/2010/10/18/101018crbo_books_gopnik |accessdate=27 April 2011}}&lt;/ref&gt; Thus Smith's chief worry seems to be when business is given special protections or privileges from government; by contrast, in the absence of such special political favours, he believed that business activities were generally beneficial to the whole society:
 
 &lt;blockquote&gt;It is the great multiplication of the production of all the different arts, in consequence of the division of labour, which occasions, in a well-governed society, that universal opulence which extends itself to the lowest ranks of the people. Every workman has a great quantity of his own work to dispose of beyond what he himself has occasion for; and every other workman being exactly in the same situation, he is enabled to exchange a great quantity of his own goods for a great quantity, or, what comes to the same thing, for the price of a great quantity of theirs. He supplies them abundantly with what they have occasion for, and they accommodate him as amply with what he has occasion for, and a general plenty diffuses itself through all the different ranks of society. (''The Wealth of Nations,'' I.i.10)&lt;/blockquote&gt;
@@ -2522,14 +2547,14 @@ However, Smith also noted, to the contrary, the existence of an [[equality of ba
 * [[List of people on banknotes#Scotland|People on Scottish banknotes]]
 
 ==References==
-'''Informational notes'''
+===Informational notes===
 {{notelist}}
 
-'''Citations'''
+===Citations===
 {{Reflist|30em|refs=
 }}
 
-'''Bibliography'''
+===Bibliography===
 * Robert L. Helbroner. ''The Essential Adam Smith''. {{ISBN|0-393-95530-3}}
 * Benians, E.A. (1925). "[http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=7824760&amp;fileId=S1474691300001062 Adam Smith’s Project of an Empire]." ''Cambridge Historical Journal'' 1 (3): 249–83.
 * {{Cite book |title=A Catalogue of the Library of Adam Smith |editor=Bonar, James |editor-link= James Bonar (civil servant) |publisher=Macmillan |location=London |year=1894 |oclc=2320634 |url=https://archive.org/stream/catalogueoflibr00smit#page/n5/mode/2up |ref=harv |via=Internet Archive}}
@@ -2647,7 +2672,7 @@ However, Smith also noted, to the contrary, the existence of an [[equality of ba
 [[Category:Scottish logicians]]
 [[Category:Scottish philosophers]]
 [[Category:Scottish scholars and academics]]</text>
-      <sha1>bxrel8cfgesyi1cog4jtleon0ej05ia</sha1>
+      <sha1>9g30hoopfq6wd435tp8gv22pzwvcyrg</sha1>
     </revision>
   </page>
   <page>
@@ -2765,17 +2790,17 @@ He was elected a Fellow of the [[Queens' College, Cambridge|Queens’]] in 1820,
     <ns>0</ns>
     <id>20445241</id>
     <revision>
-      <id>877256334</id>
-      <parentid>876005355</parentid>
-      <timestamp>2019-01-07T15:08:02Z</timestamp>
+      <id>888925567</id>
+      <parentid>888925550</parentid>
+      <timestamp>2019-03-22T08:02:49Z</timestamp>
       <contributor>
-        <username>Mighty platypus</username>
-        <id>34602910</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Updated appearances</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="30110">{{EngvarB|date=April 2013}}
+      <text xml:space="preserve" bytes="30114">{{EngvarB|date=April 2013}}
 {{Use dmy dates|date=April 2013}}
 {{Infobox football biography
 | name = Junior Stanislas
@@ -2794,7 +2819,7 @@ He was elected a Fellow of the [[Queens' College, Cambridge|Queens’]] in 1820,
 | years1 = 2008–2011 | clubs1 = [[West Ham United F.C.|West Ham United]]          | caps1 = 42 | goals1 = 5
 | years2 = 2008–2009 | clubs2 = → [[Southend United F.C.|Southend United]] (loan) | caps2 = 6  | goals2 = 1
 | years3 = 2011–2014 | clubs3 = [[Burnley F.C.|Burnley]]                          | caps3 = 93 | goals3 = 7
-| years4 = 2014–     | clubs4 = [[A.F.C. Bournemouth|AFC Bournemouth]]            | caps4 = 89 | goals4 = 17
+| years4 = 2014–     | clubs4 = [[A.F.C. Bournemouth|AFC Bournemouth]]            | caps4 = 93 | goals4 = 17
 | nationalyears1 = 2009
 | nationalyears2 = 2009
 | nationalteam1 = [[England national under-20 football team|England U20]]
@@ -2803,7 +2828,7 @@ He was elected a Fellow of the [[Queens' College, Cambridge|Queens’]] in 1820,
 | nationalgoals1 = 0
 | nationalcaps2 = 2
 | nationalgoals2 = 0
-| club-update = 15:08, 7 January 2019 (UTC)
+| club-update = 08:02, 22 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Felix Junior Stanislas''' (born 26 November 1989), is an English professional [[Association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for [[A.F.C. Bournemouth|AFC Bournemouth]].
@@ -2850,7 +2875,7 @@ He is eligible to play for the [[Saint Lucia national football team|Saint Lucia 
 Stanislas went to Catholic school as a child and [[Stationers' Crown Woods Academy|Crown Woods School]] in Eltham in his teens.&lt;ref&gt;{{Cite web | title = Premier League Star, Junior Stanislas, Returns To SCWA | publisher = Stationers' Crown Woods Academy | date = 9 February 2018 | accessdate = 6 April 2018 | url = http://scwa.org.uk/2018/02/09/premier-league-star-junior-stanislas-returns-to-scwa/}}&lt;/ref&gt; He remains a devout [[Christianity|Christian]] today. His favourite stadium to play at is [[Old Trafford]].&lt;ref&gt;{{cite web|url=http://xtheline.co.uk/bournemouth-star-reveals-love-jesus/|work=Cross The Line|title=AFC Bournemouth star, Junior Stanislas: "My faith means a lot to me"|author=Ollie Baines|date=3 April 2016|accessdate=28 September 2016}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 1 October 2018}}
+{{updated|match played 2 February 2019}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -2925,13 +2950,13 @@ Stanislas went to Catholic school as a child and [[Stationers' Crown Woods Acade
 |-
 |[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref name="2018/2019 appearances"&gt;{{Soccerbase season|49981|2018|access-date=23 September 2018}}&lt;/ref&gt;
 |Premier League
-|2||1||0||0||1||1||colspan="2"|—||3||2
+|19||1||1||0||3||2||colspan="2"|—||23||3
 |-
 !colspan="3"|Total
-!76||17||3||1||10||3||colspan="2"|—||89||21
+!93||17||4||1||12||4||colspan="2"|—||109||22
 |-
 !colspan="3"|Career total
-!217||30||9||3||20||7||colspan="2"|—||246||40
+!234||30||10||3||22||8||colspan="2"|—||266||41
 |}
 
 ==Honours==
@@ -2966,7 +2991,7 @@ Stanislas went to Catholic school as a child and [[Stationers' Crown Woods Acade
 [[Category:Black English sportspeople]]
 [[Category:English people of Saint Lucian descent]]
 [[Category:English Christians]]</text>
-      <sha1>g8ue43y2ws9g6x00d3ijh7vywne3tat</sha1>
+      <sha1>nfd7roe97y40qhx1z75vmkm095v51x3</sha1>
     </revision>
   </page>
   <page>
@@ -2974,15 +2999,13 @@ Stanislas went to Catholic school as a child and [[Stationers' Crown Woods Acade
     <ns>0</ns>
     <id>232651</id>
     <revision>
-      <id>877303508</id>
-      <parentid>877303503</parentid>
-      <timestamp>2019-01-07T21:07:23Z</timestamp>
+      <id>886509542</id>
+      <parentid>877303508</parentid>
+      <timestamp>2019-03-06T18:57:23Z</timestamp>
       <contributor>
-        <username>ClueBot NG</username>
-        <id>13286072</id>
+        <ip>2600:6C5A:547F:FF00:7C65:C2AE:B70C:450B</ip>
       </contributor>
-      <minor/>
-      <comment>Reverting possible vandalism by [[Special:Contribs/2A00:23C4:B227:6A00:4C93:894B:88B6:680C|2A00:23C4:B227:6A00:4C93:894B:88B6:680C]] to version by SoWhy. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3572595) (Bot)</comment>
+      <comment>/* Arts */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="1777">'''David Brooks''' may refer to:
@@ -2999,7 +3022,7 @@ Editors: first list article with "David Brooks (&lt;occupation&gt;), alphabetica
 * [[Mavado (singer)]] (David Constantine Brooks, born 1981), Jamaican dancehall artist
 * David Brooks, director of the 2012 film ''[[ATM (2012 film)|ATM]]''
 * [[Bubba Brooks]] (David Kenneth Brooks, Jr., 1922–2002), American jazz musician
-* [[David Brooks (actor)]] (1917–1999), American actor and stage director and producer
+* [[David Brooks (actor)]] (1915–1999), American actor and stage director and producer
 
 ==Sports==
 * [[David Brooks (rugby league)]] (born 1962), Australian rugby league footballer
@@ -3020,7 +3043,7 @@ Editors: first list article with "David Brooks (&lt;occupation&gt;), alphabetica
 {{hndis|Brooks, David}}
 
 {{DEFAULTSORT:Brooks, David}}</text>
-      <sha1>bg7iu8axkmrekmbobfbsgw133b8fbyt</sha1>
+      <sha1>6ryt7i9wbibxzc9fkennjbf144cp9m4</sha1>
     </revision>
   </page>
   <page>
@@ -3028,17 +3051,17 @@ Editors: first list article with "David Brooks (&lt;occupation&gt;), alphabetica
     <ns>0</ns>
     <id>42995596</id>
     <revision>
-      <id>877256762</id>
-      <parentid>876316650</parentid>
-      <timestamp>2019-01-07T15:11:28Z</timestamp>
+      <id>888925732</id>
+      <parentid>877256762</parentid>
+      <timestamp>2019-03-22T08:05:30Z</timestamp>
       <contributor>
-        <username>Mighty platypus</username>
-        <id>34602910</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Updated appearances</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="10060">{{Spanish name|Rico|Salguero}}
+      <text xml:space="preserve" bytes="10057">{{Spanish name|Rico|Salguero}}
 {{Infobox football biography
 | name = Diego Rico
 | image = 
@@ -3054,8 +3077,8 @@ Editors: first list article with "David Brooks (&lt;occupation&gt;), alphabetica
 | years1 = 2012–2013 | clubs1 = [[Real Zaragoza B|Zaragoza B]] | caps1 = 17 | goals1 = 0
 | years2 = 2013–2016 | clubs2 = [[Real Zaragoza|Zaragoza]] | caps2 = 106 | goals2 = 5
 | years3 = 2016–2018 | clubs3 = [[CD Leganés|Leganés]] | caps3 = 51 | goals3 = 3
-| years4 = 2018– | clubs4 = [[AFC Bournemouth]] | caps4 = 7 | goals4 = 0
-| club-update = 15:11, 7 January 2019 (UTC)
+| years4 = 2018– | clubs4 = [[AFC Bournemouth]] | caps4 = 10 | goals4 = 0
+| club-update = 08:05, 22 March 2019 (UTC)
 }}
 '''Diego Rico Salguero''' (born 23 February 1993) is a Spanish professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|left back]] for English club [[AFC Bournemouth]].
 
@@ -3080,7 +3103,7 @@ Rico scored his first goal in the [[Spanish football league system|Spanish top f
 On 24 July 2018, Rico was transferred to [[AFC Bournemouth]] for an undisclosed fee, and signed a four-year contract.&lt;ref&gt;{{cite web|url=https://www.afcb.co.uk/news/first-team/cherries-complete-rico-swoop|title=Cherries complete Rico swoop|publisher=AFC Bournemouth|date=24 July 2018|accessdate=24 July 2018}}&lt;/ref&gt; He made his debut in the [[Premier League]] on 1 September, playing the entire 0–2 away defeat against [[Chelsea F.C.|Chelsea]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45305231|title=Chelsea 2–0 AFC Bournemouth|publisher=[[BBC Sport]]|first=Neil|last=Johnston|date=1 September 2018|accessdate=3 September 2018}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|23 September 2018}}&lt;ref&gt;{{soccerway|diego-rico-salguero/238788}}&lt;/ref&gt;
+{{updated|2 March 2019}}&lt;ref&gt;{{soccerway|diego-rico-salguero/238788}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -3137,10 +3160,10 @@ On 24 July 2018, Rico was transferred to [[AFC Bournemouth]] for an undisclosed 
 |[[AFC Bournemouth]]
 |[[2018–19 A.F.C. Bournemouth season|2018–19]]
 |[[Premier League]]
-|3||0||0||0||1||0||0||0||4||0
+|10||0||1||0||3||0||0||0||14||0
 |-
 !colspan="3"|Career total
-!177!!8!!10!!1!!1!!0!!0!!0!!188!!9
+!184!!8!!11!!1!!3!!0!!0!!0!!198!!9
 |}
 
 ==References==
@@ -3170,7 +3193,7 @@ On 24 July 2018, Rico was transferred to [[AFC Bournemouth]] for an undisclosed 
 [[Category:Expatriate footballers in England]]
 [[Category:Spanish expatriate footballers]]
 [[Category:Spanish expatriate sportspeople in England]]</text>
-      <sha1>jgao6g4s2sepmfiopwnom1i5j8o9txo</sha1>
+      <sha1>pnxu38ut1wsyr51vbo2q2oko74gn5n1</sha1>
     </revision>
   </page>
   <page>
@@ -3389,16 +3412,17 @@ While growing up in United States, Hyndman excelled in baseball, basketball and 
     <ns>0</ns>
     <id>19833739</id>
     <revision>
-      <id>881925200</id>
-      <parentid>881925149</parentid>
-      <timestamp>2019-02-05T18:11:02Z</timestamp>
+      <id>888925855</id>
+      <parentid>888925824</parentid>
+      <timestamp>2019-03-22T08:07:23Z</timestamp>
       <contributor>
-        <ip>109.146.233.91</ip>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>/* Career statistics */</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="24014">{{EngvarB|date=January 2019}}
+      <text xml:space="preserve" bytes="24011">{{EngvarB|date=January 2019}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 | name           = Nathaniel Clyne
@@ -3430,7 +3454,7 @@ While growing up in United States, Hyndman excelled in baseball, basketball and 
 | goals3         = 1
 | years4         = 2019–
 | clubs4         = → [[AFC Bournemouth]] (loan)
-| caps4          = 4
+| caps4          = 9
 | goals4         = 0
 | nationalyears1 = 2009–2010
 | nationalteam1  = [[England national under-19 football team|England U19]]
@@ -3444,7 +3468,7 @@ While growing up in United States, Hyndman excelled in baseball, basketball and 
 | nationalteam3  = [[England national football team|England]]
 | nationalcaps3  = 14
 | nationalgoals3 = 0
-| club-update         = 23:15, 2 February 2019 (UTC)
+| club-update         = 08:07, 22 March 2019 (UTC)
 | nationalteam-update = 23:15, 13 January 2019 (UTC)
 }}
 '''Nathaniel Edwin Clyne''' (born 5 April 1991) is an English professional [[Association football|footballer]] who plays as a [[right back]] for [[AFC Bournemouth]], on [[Loan (sports)|loan]] from fellow {{English football updater|Liverpoo}} club [[Liverpool F.C.|Liverpool]], and the [[England national football team|English national team]].
@@ -3484,7 +3508,7 @@ On 2 October 2014, Clyne was named in the [[England national football team|Engla
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -3558,10 +3582,10 @@ On 2 October 2014, Clyne was named in the [[England national football team|Engla
 |[[AFC Bournemouth]] (loan)
 |[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|50127|2018|accessdate=13 January 2019}}&lt;/ref&gt;
 |Premier League
-|4||0||1||0||colspan=2|—||colspan=2|—||5||0
+|9||0||1||0||colspan=2|—||colspan=2|—||10||0
 |-
 !colspan=3|Career total
-!296||5||16||1||20||2||16||0||348||8
+!301||5||16||1||20||2||16||0||353||8
 |}
 
 {{notelist}}
@@ -3638,7 +3662,7 @@ On 2 October 2014, Clyne was named in the [[England national football team|Engla
 [[Category:UEFA Euro 2016 players]]
 [[Category:Black English sportspeople]]
 [[Category:English people of Grenadian descent]]</text>
-      <sha1>d6yn0za821a820l14apvbs5w15gwtc8</sha1>
+      <sha1>lwc0zo1wog3w08vbf5gug91pkpstlcl</sha1>
     </revision>
   </page>
   <page>
@@ -3646,18 +3670,17 @@ On 2 October 2014, Clyne was named in the [[England national football team|Engla
     <ns>0</ns>
     <id>29720768</id>
     <revision>
-      <id>885954047</id>
-      <parentid>885954034</parentid>
-      <timestamp>2019-03-03T11:25:44Z</timestamp>
+      <id>888925948</id>
+      <parentid>886987453</parentid>
+      <timestamp>2019-03-22T08:08:31Z</timestamp>
       <contributor>
-        <username>ClueBot NG</username>
-        <id>13286072</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <minor/>
-      <comment>Reverting possible vandalism by [[Special:Contribs/2A00:23C6:AF0D:F900:9C38:C63F:A030:2D1A|2A00:23C6:AF0D:F900:9C38:C63F:A030:2D1A]] to version by Jamieroot11. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3606208) (Bot)</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="11490">{{Use dmy dates|date=October 2017}}
+      <text xml:space="preserve" bytes="11487">{{Use dmy dates|date=October 2017}}
 {{EngvarB|date=October 2017}}
 {{Infobox football biography
 | name = Ryan Fraser
@@ -3678,8 +3701,8 @@ On 2 October 2014, Clyne was named in the [[England national football team|Engla
 | goals1 = 0
 | years2 = 2013–
 | clubs2 = [[AFC Bournemouth]]
-| caps2 = 138
-| goals2 = 17
+| caps2 = 148
+| goals2 = 18
 | years3 = 2015–2016
 | clubs3 = → [[Ipswich Town F.C.|Ipswich Town]] (loan)
 | caps3 = 18
@@ -3696,7 +3719,7 @@ On 2 October 2014, Clyne was named in the [[England national football team|Engla
 | nationalteam3 = [[Scotland national football team|Scotland]]
 | nationalcaps3 = 6
 | nationalgoals3 = 1
-| pcupdate = 10:50, 3 January 2019 (UTC)
+| pcupdate = 08:08, 22 March 2019 (UTC)
 | ntupdate = 12:21, 5 December 2018 (UTC)
 }}
 '''Ryan Fraser''' (born 24 February 1994) is a Scottish professional [[Association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for [[AFC Bournemouth]] and the [[Scotland national football team|Scotland national team]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/33293441 |title=Bournemouth sign defender Tyrone Mings from Ipswich for £8m |publisher=BBC Sport |date=26 June 2015 |accessdate=26 June 2015}}&lt;/ref&gt; Fraser has previously played for [[Aberdeen F.C.|Aberdeen]], represented the [[Scotland national under-19 football team|Scotland under-19]] and [[Scotland national under-21 football team|under-21 team]] and made his full international debut in June 2017.
@@ -3724,7 +3747,7 @@ Primarily deployed as a [[Winger (association football)|winger]] on the left fla
 ==Career statistics==
 
 === Club ===
-{{updated|match played on 4 December 2018}}&lt;ref name="SW"&gt;{{cite web|title=Ryan Fraser|url=https://int.soccerway.com/players/ryan-fraser/159839/|publisher=Soccerway}}&lt;/ref&gt;
+{{updated|match played on 16 March 2019}}&lt;ref name="SW"&gt;{{cite web|title=Ryan Fraser|url=https://int.soccerway.com/players/ryan-fraser/159839/|publisher=Soccerway}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -3781,10 +3804,10 @@ Primarily deployed as a [[Winger (association football)|winger]] on the left fla
 |-
 |[[2018–19 A.F.C. Bournemouth season|2018–19]]
 |Premier League
-|15||4||0||0||2||1||0||0||17||5
+|31||6||1||0||3||1||0||0||35||7
 |-
 ! colspan="2" |Total
-!132!!16!!6!!2!!13!!2!!0!!0!!151!!20
+!148!!18!!7!!2!!14!!2!!0!!0!!169!!22
 |-
 |[[Ipswich Town F.C.|Ipswich Town]] (loan)
 |[[2015–16 Football League Championship|2015–16]]
@@ -3792,7 +3815,7 @@ Primarily deployed as a [[Winger (association football)|winger]] on the left fla
 |18||4||1||1||2||1||0||0||21||6
 |-
 ! colspan="3" |Career total
-!171!!20!!7!!3!!17!!3!!0!!0!!195!!26
+!187!!22!!8!!3!!18!!3!!0!!0!!213!!28
 |}
 
 === International appearances ===
@@ -3846,7 +3869,7 @@ Primarily deployed as a [[Winger (association football)|winger]] on the left fla
 [[Category:Scotland under-21 international footballers]]
 [[Category:Scotland international footballers]]
 [[Category:Premier League players]]</text>
-      <sha1>6noaotxawjjtowv73mb0kfdo5r1r1fl</sha1>
+      <sha1>m02slzm7m81szamj9ja2tr5zg93yh4t</sha1>
     </revision>
   </page>
   <page>
@@ -4338,17 +4361,17 @@ Begović's younger brother Denis plays for [[Bristol City F.C.|Bristol City's]] 
     <ns>0</ns>
     <id>44174775</id>
     <revision>
-      <id>884938392</id>
-      <parentid>884836912</parentid>
-      <timestamp>2019-02-24T23:50:01Z</timestamp>
+      <id>888926216</id>
+      <parentid>886925976</parentid>
+      <timestamp>2019-03-22T08:10:34Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>Reverted 2 edits by [[Special:Contributions/81.129.245.252|81.129.245.252]] ([[User talk:81.129.245.252|talk]]): Incomplete ([[WP:TW|TW]])</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="28128">{{EngvarB|date=January 2019}}
+      <text xml:space="preserve" bytes="28123">{{EngvarB|date=January 2019}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 | name = Dominic Solanke
@@ -4378,7 +4401,7 @@ Begović's younger brother Denis plays for [[Bristol City F.C.|Bristol City's]] 
 | goals3 = 1
 | years4 = 2019–
 | clubs4 = [[AFC Bournemouth]]
-| caps4 = 2
+| caps4 = 5
 | goals4 = 0
 | nationalyears1 = 2012–2013
 | nationalteam1 = [[England national under-16 football team|England U16]]
@@ -4408,7 +4431,7 @@ Begović's younger brother Denis plays for [[Bristol City F.C.|Bristol City's]] 
 | nationalteam7 = [[England national football team|England]]
 | nationalcaps7 = 1
 | nationalgoals7 = 0
-| club-update = 15:15, 19 February 2019 (UTC)
+| club-update = 08:10, 22 March 2019 (UTC)
 | nationalteam-update = 13:11, 5 February 2019 (UTC)
 }}
 '''Dominic Ayodele Solanke-Mitchell''' (born 14 September 1997), known as '''Dominic Solanke''', is an English professional [[Association football|footballer]] who plays as a [[Striker (association football)|striker]] for {{English football updater|AFCBourn}} club [[AFC Bournemouth]] and the [[England national football team|England national team]].
@@ -4456,7 +4479,7 @@ Solanke primarily plays as a [[Striker (association football)|striker]], althoug
 
 ==Career statistics==
 ===Club===
-{{updated|match played 9 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -4503,10 +4526,10 @@ Solanke primarily plays as a [[Striker (association football)|striker]], althoug
 |[[AFC Bournemouth]]
 |[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|78519|2018|accessdate=5 February 2019}}&lt;/ref&gt;
 |Premier League
-|2||0||0||0||colspan=2|—||colspan=2|—||2||0
+|5||0||0||0||colspan=2|—||colspan=2|—||5||0
 |-
 !colspan=3|Career total
-!48||8||2||0||1||0||5||0||56||8
+!51||8||2||0||1||0||5||0||59||8
 |}
 
 {{notelist}}
@@ -4584,7 +4607,7 @@ Solanke primarily plays as a [[Striker (association football)|striker]], althoug
 [[Category:English people of Nigerian descent]]
 [[Category:English people of Yoruba descent]]
 [[Category:Yoruba sportspeople]]</text>
-      <sha1>0nm50kj58a912hivkapnhqpqlfglklq</sha1>
+      <sha1>kbbmz1rig6lbivnqd0e5uymddahp4zn</sha1>
     </revision>
   </page>
   <page>
@@ -4592,16 +4615,17 @@ Solanke primarily plays as a [[Striker (association football)|striker]], althoug
     <ns>0</ns>
     <id>55287705</id>
     <revision>
-      <id>886069164</id>
-      <parentid>881179640</parentid>
-      <timestamp>2019-03-04T02:30:48Z</timestamp>
+      <id>888926661</id>
+      <parentid>887601191</parentid>
+      <timestamp>2019-03-22T08:12:59Z</timestamp>
       <contributor>
-        <ip>49.245.135.129</ip>
+        <username>Lubo-Iv-95</username>
+        <id>35556849</id>
       </contributor>
-      <comment>/* Career statistics */</comment>
+      <comment>/* Small fix on stats bio */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="15926">{{Use dmy dates|date=January 2019}}
+      <text xml:space="preserve" bytes="16049">{{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 | name = Chris Mepham
 | fullname = Christopher James Mepham&lt;ref&gt;{{cite web |url=https://www.efl.com/siteassets/efl-documents/efl-professional-retain-list--free-transfers---2017-18.pdf |title=Club list of registered players: As at 19th May 2018: Brentford |publisher=English Football League |format=PDF |page=8 |accessdate=16 June 2018}}&lt;/ref&gt;
@@ -4621,7 +4645,7 @@ Solanke primarily plays as a [[Striker (association football)|striker]], althoug
 | goals1 = 1
 | clubs2 = [[A.F.C. Bournemouth|Bournemouth]]
 | years2 = 2019–
-| caps2 = 1
+| caps2 = 7
 | goals2 = 0
 | nationalyears1 = 2017
 | nationalteam1 = [[Wales national under-20 football team|Wales U20]]
@@ -4635,7 +4659,7 @@ Solanke primarily plays as a [[Striker (association football)|striker]], althoug
 | nationalteam3 = [[Wales national football team|Wales]]
 | nationalcaps3 = 4
 | nationalgoals3 = 0
-| club-update = 22:57, 31 January 2019 (UTC)
+| club-update = 08:12, 22 March 2019 (UTC)
 | nationalteam-update = 21 October 2018 (UTC)
 }}
 '''Christopher James Mepham''' (born 5 November 1997) is a professional [[association football|football]] [[central defender]] who plays for [[A.F.C. Bournemouth|Bournemouth]]. He is a product of the [[Brentford F.C.|Brentford]] and [[Chelsea F.C.|Chelsea]] [[Football academy|academies]] and is a [[Wales national football team|Wales]] international.
@@ -4656,7 +4680,7 @@ After the departure of centre back Harlee Dean on 30 August 2017,&lt;ref&gt;{{Ci
 Mepham began the [[2018–19 Brentford F.C. season|2018–19]] season as the Bees' undisputed first choice centre back in league matches, but was [[Red card (association football)|sent off]] for the first time in his career for two [[Yellow card (association football)|bookable offences]] committed during a 1–0 defeat to [[Bristol City F.C.|Bristol City]] on 20 October 2018.&lt;ref name="Soccerbase1819" /&gt; He made 27 appearances before departing the club for a club-record transfer fee in January 2019.&lt;ref name="Soccerbase1819" /&gt;&lt;ref name="LeavesBrentford"&gt;{{Cite web |url=https://www.brentfordfc.com/news/2019/january/chris-mepham-departs-22.01.19/ |title=Chris Mepham leaves Brentford to join AFC Bournemouth |website=www.brentfordfc.com |language=en-gb |accessdate=31 January 2019}}&lt;/ref&gt;&lt;ref&gt;{{Cite AV media |url=https://www.youtube.com/watch?v=fmHPAO0lnKM |title=Phil Giles' January Round Up |date=31 January 2019 |publisher=brentfordfc.com |time=0:59 |accessdate=31 January 2019 |medium=Interview}}&lt;/ref&gt; During his two-and-a-half seasons as a professional at [[Griffin Park]], Mepham made 48 appearances and scored one goal.&lt;ref&gt;{{Soccerbase|id=100492}}&lt;/ref&gt;
 
 === Bournemouth ===
-On 22 January 2019, Mepham signed a "long-term" contract with [[Premier League]] club [[A.F.C. Bournemouth|Bournemouth]] for an undisclosed fee,&lt;ref name="LeavesBrentford" /&gt; reported to be £12 million.&lt;ref&gt;{{Cite web|url=https://www.skysports.com/football/news/11743/11614317/chris-mepham-joins-bournemouth-from-brentford-for-12m|title=Chris Mepham joins Bournemouth from Brentford for £12m|website=Sky Sports|language=en|access-date=31 January 2019}}&lt;/ref&gt; Eight days later, he made his debut for the club as a substitute for [[Junior Stanislas]] late in a 4–0 win over Chelsea.&lt;ref name="Soccerbase1819" /&gt;
+On 22 January 2019, Mepham signed a "long-term" contract with [[Premier League]] club [[A.F.C. Bournemouth|Bournemouth]] for an undisclosed fee,&lt;ref name="LeavesBrentford" /&gt; reported to be £12 million.&lt;ref&gt;{{Cite web|url=https://www.skysports.com/football/news/11743/11614317/chris-mepham-joins-bournemouth-from-brentford-for-12m|title=Chris Mepham joins Bournemouth from Brentford for £12m|website=Sky Sports|language=en|access-date=31 January 2019}}&lt;/ref&gt; Eight days later, he made his debut for the club as a substitute for [[Junior Stanislas]] late in a 4–0 win over Chelsea.&lt;ref name="Soccerbase1819" /&gt; He continued to be regularly selected within the back line at Bournemouth due to the absence of [[Steve Cook]] through injury.
 
 == International career ==
 He was called into the [[Wales national under-20 football team|Wales U20]] squad for the [[2017 Toulon Tournament]] and made one appearance,&lt;ref&gt;{{Cite news|url=https://www.brentfordfc.com/news/2017/may2/chris-mepham-wales/|title=Brentford FC Chris Mepham heading to Toulon Tournament|last=|first=|date=|work=|accessdate=27 May 2017|archive-url=|archivedate=|dead-url=|language=en}}&lt;/ref&gt; in a 2–2 group stage draw with [[Ivory Coast national under-20 football team|Ivory Coast]] on 5 June 2017.&lt;ref&gt;{{Soccerway|id=471436|accessdate=5 June 2017}}&lt;/ref&gt; He made his [[Wales national under-21 football team|U21]] debut with a start in a 3–0 [[2019 UEFA European Under-21 Championship qualification Group 8|2019 UEFA U21 Championship qualifying]] victory over [[Switzerland national under-21 football team|Switzerland]] on 2 September 2017.&lt;ref&gt;{{Cite news|url=https://www.brentfordfc.com/news/2017/september/international-round-up-b-team/|title=Brentford FC Mepham and Balcombe help home nations to wins|last=|first=|date=|work=|accessdate=3 September 2017|archive-url=|archivedate=|dead-url=|language=en-gb}}&lt;/ref&gt; Mepham [[Captain (association football)|captained]] the U21 team for the first time in a 0–0 qualifying draw with [[Romania national under-21 football team|Romania]] six weeks later.&lt;ref&gt;{{Cite news|url=https://www.brentfordfc.com/news/2017/november/youth-international-round-up-20171115/|title=Brentford FC Mepham and Mads captain nations in Euro Qualifiers|accessdate=15 November 2017|language=en-gb}}&lt;/ref&gt;
@@ -4667,7 +4691,7 @@ In March 2018, Mepham won his maiden call-up to the [[Wales national football te
 Mepham attended [[Queensmead School]] in [[South Ruislip]] and is a [[Queens Park Rangers F.C.|Queens Park Rangers]] supporter.&lt;ref&gt;{{Cite web|url=http://doczz.net/doc/4077071/newsletter---queensmead-school|title=newsletter – Queensmead School – football|last=|first=|date=|website=|archive-url=|archivedate=|dead-url=|accessdate=25 August 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.brentfordfc.com/news/2014/september/brentford-gave-everything-in-west-london-derby/|title=Brentford FC BRENTFORD 'GAVE EVERYTHING' IN WEST LONDON DERBY|last=|first=|date=|work=|accessdate=8 September 2017|archive-url=|archivedate=|dead-url=|language=en-gb}}&lt;/ref&gt; His uncle Roy was a member of the Brentford youth team in the 1960s.&lt;ref name="MND" /&gt;
 
 == Career statistics ==
-{{Updated|match played 30 January 2019}}
+{{Updated|match played 16 March 2019}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Club statistics
@@ -4719,15 +4743,15 @@ Mepham attended [[Queensmead School]] in [[South Ruislip]] and is a [[Queens Par
 |[[A.F.C. Bournemouth|Bournemouth]]
 |[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref name="Soccerbase1819" /&gt;
 |[[Premier League]]
-|4
+|7
 |0
 | colspan="2" |—
 | colspan="2" |—
-|4
+|7
 |0
 |-
 ! colspan="3" |Career total
-!47!!1!!2!!0!!3!!0!!52!!1
+!50!!1!!2!!0!!3!!0!!55!!1
 |}
 
 == Honours ==
@@ -4757,7 +4781,169 @@ Mepham attended [[Queensmead School]] in [[South Ruislip]] and is a [[Queens Par
 [[Category:Wales international footballers]]
 [[Category:English Football League players]]
 [[Category:Premier League players]]</text>
-      <sha1>9k22mnzghvgzirls876ohe342rn4kk4</sha1>
+      <sha1>cre73oicxmdzxw8um95cki4pk7fkohy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sam Surridge</title>
+    <ns>0</ns>
+    <id>54768931</id>
+    <revision>
+      <id>885574758</id>
+      <parentid>885411808</parentid>
+      <timestamp>2019-02-28T22:06:55Z</timestamp>
+      <contributor>
+        <username>Ytfc23</username>
+        <id>8218691</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8430">{{Infobox football biography
+|name        = Sam Surridge
+|image       = 
+|image_size  = 
+|caption     = 
+|fullname    = Samuel William Surridge&lt;ref name="PL"&gt;{{cite web
+| title = Premier League Clubs submit Squad Lists
+| url = https://www.premierleague.com/news/465277v
+| publisher = Premier League
+| accessdate =10 September 2017}}&lt;/ref&gt;
+|birth_date  = {{birth date and age|1998|7|28|df=y}}&lt;ref name="11v11"&gt;{{cite web
+| title = Sam Surridge
+| url = https://www.11v11.com/players/sam-surridge-250013/
+| website = 11v11.com |publisher = AFS Enterprises
+| accessdate =10 September 2017}}&lt;/ref&gt;
+|birth_place = [[Slough]], England
+|height      = {{height|m=1.91}}&lt;ref name="11v11"/&gt;
+|position    = [[Forward (association football)|Forward]]
+|currentclub = [[A.F.C. Bournemouth|AFC Bournemouth]]
+|clubnumber  = 44
+|youthyears1 = 20??–2012
+|youthclubs1 = Bournemouth Sports
+|youthyears2 = 2012–2015
+|youthclubs2 = [[A.F.C. Bournemouth|AFC Bournemouth]]
+|years1 = 2015–
+|clubs1 = [[A.F.C. Bournemouth|AFC Bournemouth]]
+|caps1 = 1
+|goals1 = 0
+|years2 = 2015–2016
+|clubs2 = → [[Weymouth F.C.|Weymouth]] (loan)
+|caps2 = 7
+|goals2 = 1
+|years3 = 2016
+|clubs3 = → [[Poole Town F.C.|Poole Town]] (loan)
+|caps3 = 12
+|goals3 = 7
+|years4 = 2017–2018
+|clubs4 = → [[Yeovil Town F.C.|Yeovil Town]] (loan)
+|caps4 = 41
+|goals4 = 8
+|years5 = 2018–2019
+|clubs5 = → [[Oldham Athletic A.F.C.|Oldham Athletic]] (loan)
+|caps5 = 15
+|goals5 = 8
+|club-update = 22:06, 28 February 2019 (UTC)
+}}
+
+'''Samuel William Surridge''' (born 28 July 1998) is an English professional [[association football|footballer]] who plays as a [[Forward (association football)|forward]] for {{English football updater|AFCBourn}} club [[A.F.C. Bournemouth|AFC Bournemouth]]. He has spent time [[loan (sports)|on loan]] at [[Weymouth F.C.|Weymouth]], [[Poole Town F.C.|Poole Town]], [[Yeovil Town F.C.|Yeovil Town]], with whom he made his [[English Football League|Football League]] debut, and [[Oldham Athletic A.F.C.|Oldham Athletic]].
+
+==Club career==
+Surridge was born in [[Slough]], [[Berkshire]], and moved to [[Ferndown]], [[Dorset]], at the age of seven.&lt;ref&gt;{{cite news |url=https://www.dorsetecho.co.uk/news/15898519.cherries-feature-sam-surridge-is-preparing-to-meet-manchester-united-in-the-fa-cup-and-then-grimsby-in-league-two/ |title=Cherries feature: Sam Surridge is preparing to meet Manchester United in the FA Cup and then Grimsby in League Two |first=Neil |last=Perrett |newspaper=Dorset Echo |date=25 January 2018 |accessdate=21 January 2019}}&lt;/ref&gt; He joined the [[A.F.C. Bournemouth|AFC Bournemouth]] academy at the age of 14 from local club Bournemouth Sports.&lt;ref&gt;{{cite web |url=http://www.bournemouthecho.co.uk/sport/15044732.AFC_Bournemouth__Surridge_rewarded_with_new_deal/ |title=AFC Bournemouth: Surridge rewarded with new deal |newspaper=Bournemouth Echo |date=24 January 2017 |accessdate=4 August 2017 }}&lt;/ref&gt;
+
+On 3 August 2017, Surridge joined [[EFL League Two|League Two]] club [[Yeovil Town F.C.|Yeovil Town]] on loan until the end of the season.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/40825923 |title=Sam Surridge: Yeovil Town sign Bournemouth forward on loan |publisher=BBC Sport |date=4 August 2017 |accessdate=4 August 2017 }}&lt;/ref&gt; Surridge made his [[English Football League|Football League]] debut as a second half substitute for Yeovil against [[Luton Town F.C.|Luton Town]], on 5 August 2017.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/40761069 |title=Luton Town 8–2 Yeovil Town |publisher=BBC Sport |date=5 August 2017 |accessdate=5 August 2017 }}&lt;/ref&gt; He scored his first goal for Yeovil in an [[EFL Trophy]] tie against [[Exeter City]] on 29 August 2017.&lt;ref&gt;{{cite web
+|url=http://www.somersetlive.co.uk/sport/football/match-reports/yeovil-town-beat-exeter-city-397670
+|title=Yeovil Town beat Exeter City 3–1 in Checkatrade Trophy but injury to Southampton youngster clouds win
+|publisher=somersetlive.co.uk
+|date=29 August 2017 |accessdate=30 August 2017}}&lt;/ref&gt;
+
+On 30 July 2018, Surridge joined [[EFL League Two|League Two]] club [[Oldham Athletic A.F.C.|Oldham Athletic]] on a season-long loan deal.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/45012959|title=Chris O'Grady and Sam Surridge: Oldham Athletic sign strikers|date=30 July 2018|accessdate=31 July 2018}}&lt;/ref&gt; Five goals from four matches in September earned him the League Two Player of the Month award,&lt;ref&gt;{{cite news |url=https://www.skysports.com/football/news/12040/11516453/leeds-pair-marcelo-bielsa-and-kemar-roofe-win-sky-bet-championship-august-awards |title=West Brom pair Darren Moore and Dwight Gayle win Sky Bet Championship September awards |publisher=Sky Sports |date=5 October 2018 |accessdate=21 January 2019}}&lt;/ref&gt; and by 6 January, he had twelve goals from twenty appearances in all competitions. He was then recalled by his parent club.&lt;ref&gt;{{cite news |url=https://www.bournemouthecho.co.uk/sport/17340514.sam-surridge-is-on-a-lot-of-peoples-lists-after-being-recalled-from-oldham-loan/ |title=Sam Surridge is 'on a lot of people's lists' after being recalled from Oldham loan |first=Jason |last=Lewis |newspaper=Bournemouth Echo |date=7 January 2019 |accessdate=21 January 2019}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 27 February 2019}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[EFL Cup|League Cup]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[A.F.C. Bournemouth|AFC Bournemouth]]
+|[[2015–16 A.F.C. Bournemouth season|2015–16]]&lt;ref&gt;{{soccerbase season|88131|2015|accessdate=28 February 2019}}&lt;/ref&gt;
+|[[Premier League]]
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|[[2016–17 A.F.C. Bournemouth season|2016–17]]&lt;ref&gt;{{soccerbase season|88131|2016|accessdate=28 February 2019}}&lt;/ref&gt;
+|Premier League
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|[[2017–18 A.F.C. Bournemouth season|2017–18]]&lt;ref name="17/18 appearances"&gt;{{soccerbase season|88131|2017|accessdate=28 February 2019}}&lt;/ref&gt;
+|Premier League
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|[[2018–19 A.F.C. Bournemouth season|2018–19]]&lt;ref name="18/19 appearances"&gt;{{soccerbase season|88131|2018|accessdate=28 February 2019}}&lt;/ref&gt;
+|Premier League
+|1||0||0||0||0||0||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!1!!0!!0!!0!!0!!0!!colspan="2"|—!!1!!0
+|-
+|[[Weymouth F.C.|Weymouth]] (loan)
+|[[2015–16 Southern Football League#Premier Division|2015–16]]&lt;ref&gt;{{cite web |url=http://www.aylesburyunitedfc.co.uk/players/sam-surridge#playingcareer |title=Sam Surridge Profile |publisher=Aylesbury United F.C. |accessdate=4 August 2017 }}&lt;/ref&gt;
+|[[Southern Football League|Southern Premier]]
+|7||1||0||0||colspan=2|—||0||0||7||1
+|-
+|[[Poole Town F.C.|Poole Town]] (loan)
+|[[2016–17 National League#National League South|2016–17]]&lt;ref name = "SW"&gt;{{Soccerway|sam-surridge/421951|accessdate=4 August 2017}}&lt;/ref&gt;
+|[[National League South]]
+|12||7||1||0||colspan=2|—||3{{efn|Two appearances in [[FA Trophy]], one appearance and one goal in [[Dorset Senior Cup]]}}||1||16||8
+|-
+|[[Yeovil Town F.C.|Yeovil Town]] (loan)
+|[[2017–18 Yeovil Town F.C. season|2017–18]]&lt;ref name="17/18 appearances"/&gt;
+|[[EFL League Two|League Two]]
+|41||8||4||0||1||0||7{{efn|name=EFLT|Appearance(s) in [[EFL Trophy]]}}||2||53||10
+|-
+|[[Oldham Athletic A.F.C.|Oldham Athletic]] (loan)
+|[[2018–19 Oldham Athletic A.F.C. season|2018–19]]&lt;ref name="18/19 appearances"/&gt;
+|League Two
+|15||8||2||1||0||0||3{{efn|name=EFLT}}||3||20||12
+|-
+!colspan=3|Career total
+!76!!24!!7!!1!!1!!0!!13!!6!!97!!31
+|}
+
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{soccerway|sam-surridge/421951}}
+
+{{A.F.C. Bournemouth squad}}
+
+{{DEFAULTSORT:Surridge, Sam}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:People from Ferndown]]
+[[Category:English footballers]]
+[[Category:Association football forwards]]
+[[Category:A.F.C. Bournemouth players]]
+[[Category:Weymouth F.C. players]]
+[[Category:Poole Town F.C. players]]
+[[Category:Yeovil Town F.C. players]]
+[[Category:Oldham Athletic A.F.C. players]]
+[[Category:National League (English football) players]]
+[[Category:English Football League players]]
+
+{{England-footy-forward-1990s-stub}}</text>
+      <sha1>qytpyyhqujaj0x1vgjx2lupr6eah2os</sha1>
     </revision>
   </page>
   <page>
@@ -4765,9 +4951,9 @@ Mepham attended [[Queensmead School]] in [[South Ruislip]] and is a [[Queens Par
     <ns>0</ns>
     <id>3936094</id>
     <revision>
-      <id>885852778</id>
-      <parentid>885259704</parentid>
-      <timestamp>2019-03-02T19:30:40Z</timestamp>
+      <id>888076040</id>
+      <parentid>887635399</parentid>
+      <timestamp>2019-03-16T19:32:38Z</timestamp>
       <contributor>
         <username>Keith D</username>
         <id>2278355</id>
@@ -4775,7 +4961,7 @@ Mepham attended [[Queensmead School]] in [[South Ruislip]] and is a [[Queens Par
       <comment>Update stats</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="49190">{{About|the footballer|the professional wrestler|Mark Briscoe}}
+      <text xml:space="preserve" bytes="49193">{{About|the footballer|the professional wrestler|Mark Briscoe}}
 {{Use British English|date=December 2018}}
 {{Use dmy dates|date=December 2018}}
 {{Good article}}
@@ -4831,13 +5017,13 @@ Mepham attended [[Queensmead School]] in [[South Ruislip]] and is a [[Queens Par
 | goals9              = 45
 | years10             = 2019–
 | clubs10             = → [[Hull City A.F.C.|Hull City]] (loan)
-| caps10              = 6
-| goals10             = 1
+| caps10              = 9
+| goals10             = 2
 | nationalyears1      = 
 | nationalteam1       = 
 | nationalcaps1       = 
 | nationalgoals1      = 
-| club-update         = 19:30, 2 March 2019 (UTC)
+| club-update         = 19:32, 16 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Marc Anthony Pugh''' (born 2 April 1987) is an English professional [[Association football|footballer]] who plays for [[Hull City A.F.C.|Hull City]] of the {{English football updater|HullCity}}, on [[Loan (sports)|loan]] from {{English football updater|AFCBourn}} club [[A.F.C. Bournemouth|Bournemouth]]. He plays mainly as a [[Midfielder#Winger|winger]] but can also play as a [[midfielder]].
@@ -4898,7 +5084,7 @@ Pugh joined Championship club [[Hull City A.F.C.|Hull City]] on 22 January 2019 
 Pugh primarily plays as a [[Midfielder#Winger|winger]]&lt;ref name="AFC Bournemouth boss Eddie Howe: Marc Pugh has added real intelligence"/&gt; but can also play as an [[attacking midfielder]].&lt;ref&gt;{{cite web |title=Player Details: Name: Marc Pugh |url=http://www.skysports.com/football/player/7764/marc-pugh |publisher=Sky Sports |accessdate=16 December 2015}}&lt;/ref&gt; He has been noted for his dribbling skills and his ability to get past opposition players, and in February 2015 was praised by manager Eddie Howe for adding "real intelligence with his movement".&lt;ref name="AFC Bournemouth boss Eddie Howe: Marc Pugh has added real intelligence"/&gt;
 
 ==Career statistics==
-{{updated|match played 2 March 2019}}
+{{updated|match played 16 March 2019.}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -5019,10 +5205,10 @@ Pugh primarily plays as a [[Midfielder#Winger|winger]]&lt;ref name="AFC Bournemo
 |[[Hull City A.F.C.|Hull City]] (loan)
 |[[2018–19 Hull City A.F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|38008|2018|accessdate=12 February 2019}}&lt;/ref&gt;
 |Championship
-|6||1||colspan=2|—||colspan=2|—||colspan=2|—||6||1
+|9||2||colspan=2|—||colspan=2|—||colspan=2|—||9||2
 |-
 !colspan=3|Career total
-!425||69||23||6||16||3||16||3||480||81
+!428||70||23||6||16||3||16||3||483||82
 |}
 
 {{notelist}}
@@ -5065,7 +5251,7 @@ Pugh primarily plays as a [[Midfielder#Winger|winger]]&lt;ref name="AFC Bournemo
 [[Category:National League (English football) players]]
 [[Category:Premier League players]]
 [[Category:English Christians]]</text>
-      <sha1>bprwvsw9ncof9cetofpo0rjcimcbfts</sha1>
+      <sha1>7eb4hm7qu4b84jqw7nrtt5exn6h6dge</sha1>
     </revision>
   </page>
   <page>
@@ -5073,25 +5259,23 @@ Pugh primarily plays as a [[Midfielder#Winger|winger]]&lt;ref name="AFC Bournemo
     <ns>0</ns>
     <id>52471236</id>
     <revision>
-      <id>885266324</id>
-      <parentid>885185774</parentid>
-      <timestamp>2019-02-27T00:13:40Z</timestamp>
+      <id>888661252</id>
+      <parentid>888164330</parentid>
+      <timestamp>2019-03-20T16:11:04Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>Samuel J Walker</username>
+        <id>19099414</id>
       </contributor>
-      <minor/>
-      <comment>Reverted 1 edit by [[Special:Contributions/81.155.18.44|81.155.18.44]] ([[User talk:81.155.18.44|talk]]) to last revision by Himark1863 ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="15621">{{Infobox football biography
+      <text xml:space="preserve" bytes="15973">{{Infobox football biography
 | name = Aaron Ramsdale
 | image = 
 | image_size = 
 | caption = 
 | fullname = Aaron Christopher Ramsdale&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/844127 |title=2018/19 Premier League squads confirmed |publisher=Premier League |date=3 September 2018 |accessdate=4 September 2018}}&lt;/ref&gt;
 | birth_date = {{birth date and age|1998|5|14|df=y}}
-| birth_place = [[Stoke on Trent]], [[England]]
+| birth_place = [[Chesterton, Staffordshire|Chesterton]], England
 | height = {{convert|1.88|m|ftin|order=flip}}
 | position = [[Goalkeeper (association football)|Goalkeeper]]
 | currentclub = [[AFC Wimbledon]] &lt;br&gt; (on loan from [[A.F.C. Bournemouth|Bournemouth]])
@@ -5114,7 +5298,7 @@ Pugh primarily plays as a [[Midfielder#Winger|winger]]&lt;ref name="AFC Bournemo
 | goals3 = 0
 | years4 = 2019–
 | clubs4 = → [[AFC Wimbledon]] (loan)
-| caps4 = 4
+| caps4 = 12
 | goals4 = 0
 | nationalyears1 = 2016
 | nationalteam1 = [[England national under-18 football team|England U18]]
@@ -5133,7 +5317,7 @@ Pugh primarily plays as a [[Midfielder#Winger|winger]]&lt;ref name="AFC Bournemo
 | nationalcaps4 = 1
 | nationalgoals4 = 0
 | medaltemplates = 
-| club-update = 15:13, 3 February 2019 (UTC)
+| club-update = 16:10, 20 March 2019 (UTC)
 | nationalteam-update = 12:32, 5 September 2018 (UTC)
 }}
 
@@ -5141,7 +5325,7 @@ Pugh primarily plays as a [[Midfielder#Winger|winger]]&lt;ref name="AFC Bournemo
 
 ==Club career==
 
-Born and raised in [[Chesterton, Staffordshire|Chesterton]], near [[Stoke-on-Trent|Stoke-on-Trent,]]&lt;ref name="Ramsdale1" /&gt; Ramsdale joined [[Bolton Wanderers F.C.|Bolton Wanderers]] but he was released at 15, due to being small at the time.&lt;ref&gt;{{cite news|title=AFC Bournemouth: Jussi Jaaskelainen inspired Aaron Ramsdale's rise to the top flight|url=http://www.bournemouthecho.co.uk/sport/15095962.AFC_Bournemouth__Jaaskelainen_inspired_Ramsdale__39_s_rise_to_the_top_flight/|publisher=Bournemouth Echo|date=16 February 2017|accessdate=1 February 2018}}&lt;/ref&gt; After being released by Bolton Wanderers, he joined [[Sheffield United F.C.|Sheffield United]] in 2013.&lt;ref name="Ramsdale1"&gt;{{cite web|url=https://www.sufc.co.uk/news/2014/august/development-squad/|title=Development Squad|publisher=Sheffield United F.C.|date=1 August 2014|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201200046/https://www.sufc.co.uk/news/2014/august/development-squad/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt; After graduating from [[Sheffield United F.C. Academy|Sheffield United's youth academy]],&lt;ref name="Ramsdale1"/&gt; Ramsdale signed a scholarship with the club in May 2014.&lt;ref&gt;{{cite web|url=https://www.sufc.co.uk/news/2014/may/welcome-to-the-new-scholars/|title=Welcome to the new scholars|publisher=Sheffield United F.C.|date=8 May 2014|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201200607/https://www.sufc.co.uk/news/2014/may/welcome-to-the-new-scholars/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt; Ramsdale appeared twice as an unused substitute during the 2015–16 season against [[Coventry City F.C.|Coventry City]] and [[Scunthorpe United F.C.|Scunthorpe United]].&lt;ref&gt;{{cite news|title=Coventry City 3 – 1 Sheffield United|url=https://www.bbc.co.uk/sport/football/36118188|publisher=BBC Sport|date=30 April 2016|accessdate=1 February 2018}}&lt;br&gt;{{cite news|title=Sheffield United 0 – 2 Scunthorpe United|url=https://www.bbc.co.uk/sport/football/36180664|publisher=BBC Sport|date=8 May 2016|accessdate=1 February 2018}}&lt;/ref&gt; In May 2016, he signed his first professional contract with the club.&lt;ref&gt;{{cite web|url=https://www.sufc.co.uk/news/2016/may/professional-deals-for-youngsters/|title=Professional deals for youngsters|publisher=Sheffield United F.C.|date=6 May 2016|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201202123/https://www.sufc.co.uk/news/2016/may/professional-deals-for-youngsters/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt;
+Born and raised in [[Chesterton, Staffordshire|Chesterton]], [[Staffordshire]]&lt;ref name="Ramsdale1" /&gt; Ramsdale joined [[Bolton Wanderers F.C.|Bolton Wanderers]] but he was released at 15, due to being small at the time.&lt;ref&gt;{{cite news|title=AFC Bournemouth: Jussi Jaaskelainen inspired Aaron Ramsdale's rise to the top flight|url=http://www.bournemouthecho.co.uk/sport/15095962.AFC_Bournemouth__Jaaskelainen_inspired_Ramsdale__39_s_rise_to_the_top_flight/|publisher=Bournemouth Echo|date=16 February 2017|accessdate=1 February 2018}}&lt;/ref&gt; After being released by Bolton Wanderers, he joined [[Sheffield United F.C.|Sheffield United]] in 2013.&lt;ref name="Ramsdale1"&gt;{{cite web|url=https://www.sufc.co.uk/news/2014/august/development-squad/|title=Development Squad|publisher=Sheffield United F.C.|date=1 August 2014|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201200046/https://www.sufc.co.uk/news/2014/august/development-squad/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt; After graduating from [[Sheffield United F.C. Academy|Sheffield United's youth academy]],&lt;ref name="Ramsdale1"/&gt; Ramsdale signed a scholarship with the club in May 2014.&lt;ref&gt;{{cite web|url=https://www.sufc.co.uk/news/2014/may/welcome-to-the-new-scholars/|title=Welcome to the new scholars|publisher=Sheffield United F.C.|date=8 May 2014|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201200607/https://www.sufc.co.uk/news/2014/may/welcome-to-the-new-scholars/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt; Ramsdale appeared twice as an unused substitute during the 2015–16 season against [[Coventry City F.C.|Coventry City]] and [[Scunthorpe United F.C.|Scunthorpe United]].&lt;ref&gt;{{cite news|title=Coventry City 3 – 1 Sheffield United|url=https://www.bbc.co.uk/sport/football/36118188|publisher=BBC Sport|date=30 April 2016|accessdate=1 February 2018}}&lt;br&gt;{{cite news|title=Sheffield United 0 – 2 Scunthorpe United|url=https://www.bbc.co.uk/sport/football/36180664|publisher=BBC Sport|date=8 May 2016|accessdate=1 February 2018}}&lt;/ref&gt; In May 2016, he signed his first professional contract with the club.&lt;ref&gt;{{cite web|url=https://www.sufc.co.uk/news/2016/may/professional-deals-for-youngsters/|title=Professional deals for youngsters|publisher=Sheffield United F.C.|date=6 May 2016|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201202123/https://www.sufc.co.uk/news/2016/may/professional-deals-for-youngsters/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt;
 
 Ramsdale made his professional début starting in a 6–0 home victory over [[Leyton Orient F.C.|Leyton Orient]] in the [[FA Cup]], keeping a clean-sheet in the process.&lt;ref&gt;{{cite news|title=Sheffield United: Selfless George Long catches Blades boss Chris Wilder's eye|url=http://www.thestar.co.uk/sport/football/sheffield-united/sheffield-united-selfless-george-long-catches-blades-boss-chris-wilder-s-eye-1-8222245|accessdate=4 December 2016|publisher=Sheffield Star|date=7 November 2016}}&lt;/ref&gt; He also made another appearance in the FA Cup against [[Bolton Wanderers F.C.|Bolton Wanderers]] but lost 3–2.&lt;ref&gt;{{cite news|title=Bolton Wanderers 3 – 2 Sheffield United|url=https://www.bbc.co.uk/sport/football/38120945|publisher=BBC Sport|date=4 December 2016|accessdate=1 February 2018}}&lt;/ref&gt;
 
@@ -5159,7 +5343,7 @@ Ramsdale made his Chesterfield debut against [[Accrington Stanley F.C.|Accringto
 On 4 January 2019, Ramsdale joined [[AFC Wimbledon]] on loan until the end of the 2018–19 season.&lt;ref&gt; {{cite web|url=https://www.afcwimbledon.co.uk/news/2019/january/dons-sign-goalkeeper-on-loan-from-bournemouth/|title=Dons sign goalkeeper on loan from Bournemouth|website=www.afcwimbledon.co.uk|date=4 January 2019}} &lt;/ref&gt; The next day, Ramsdale made his debut for the Dons in a 3–2 Third Round FA Cup victory over [[Fleetwood Town F.C.|Fleetwood Town]] at [[Highbury Stadium (Fleetwood)|Highbury Stadium]].&lt;ref&gt; {{cite web|url=https://www.afcwimbledon.co.uk/news/2019/january/dons-march-into-fourth-round-with-a-dramatic-winner/|title=Dons march into fourth round with a dramatic winner|website=www.afcwimbledon.co.uk|date=5 January 2019}} &lt;/ref&gt; His league debut came a week later in a 1–1 draw with [[Coventry City F.C.|Coventry City]] at the [[Ricoh Arena|Ricoh Arena]].&lt;ref&gt; {{citeweb|url=https://www.afcwimbledon.co.uk/fixtures/first-team/201819/january/coventry-city-vs-afc-wimbledon-on-12-jan-19/#|title=Dons earn a creditable draw at Coventry|website=www.afcwimbledon.co.uk|date=12 January 2019}} &lt;/ref&gt;
 
 ==International career==
-Ramsdale has represented England at [[England national under-18 football team|Under 18]], [[England national under-19 football team|Under 19]] and [[England national under-20 football team|Under 20]] level.&lt;ref&gt;{{cite web|url=http://www.thefa.com/england/all-teams/players?p=357107|title=Profile – Aaron Ramdale|work=The Football Association|accessdate=13 March 2017}}&lt;/ref&gt;
+Ramsdale has represented England at [[England national under-18 football team|Under 18]], [[England national under-19 football team|Under 19]], [[England national under-20 football team|Under 20]] and [[England national under-21 football team|Under 21]] level.&lt;ref&gt;{{cite web|url=http://www.thefa.com/england/all-teams/players?p=357107|title=Profile – Aaron Ramdale|work=The Football Association|accessdate=13 March 2017}}&lt;/ref&gt;
 
 He was first called up by England U18 in March 2016, where he made his debut on his debut for the side, in a 4–1 win over [[Republic of Ireland national football team|Republic of Ireland U18]] on 27 March 2016.&lt;ref&gt;{{cite web|url=https://www.sufc.co.uk/news/2016/march/call-up-for-young-keeper/|title=Call-up for young keeper|publisher=Sheffield United F.C.|date=16 March 2016|accessdate=1 February 2018|archiveurl=https://web.archive.org/web/20180201202427/https://www.sufc.co.uk/news/2016/march/call-up-for-young-keeper/|archivedate=1 February 2018|deadurl=no}}&lt;/ref&gt; He went on to make two appearances for the England U18 side.
 
@@ -5172,7 +5356,7 @@ On 18 May 2018, Ramsdale received a call up to [[England national under-21 footb
 Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing the full 90 minutes in a 4–0 win against Qatar.
 
 ==Career statistics==
-{{updated|match played 2 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -5205,10 +5389,10 @@ Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing 
 |[[AFC Wimbledon|AFC Wimbledon]]
 |[[2018-19 AFC Wimbledon season|2018–19]]&lt;ref&gt;{{soccerbase season|91150|2018|accessdate=6 January 2019}}&lt;/ref&gt;
 |[[EFL League One|League One]]
-|4||0||2||0||0||0||0||0||6||0
+|12||0||3||0||0||0||0||0||15||0
 |-
 !colspan="3"|Career total
-!23!!0!!4!!0!!0!!0!!0!!0!!27!!0
+!31!!0!!5!!0!!0!!0!!0!!0!!36!!0
 |}
 
 {{reflist|group=lower-alpha}}
@@ -5217,6 +5401,9 @@ Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing 
 ===International===
 ; England U19
 * [[UEFA European Under-19 Championship]]: [[2017 UEFA European Under-19 Championship|2017]]&lt;ref name="U19 Champion"/&gt;
+
+; England U21
+* [[Toulon Tournament]]: [[2018 Toulon Tournament|2018]]&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2018/jun/09/engvmextoulon090618 |title=FINAL FIGHTBACK TAKES ENGLAND U21S TO TOULON HAT-TRICK WITH WIN OVER MEXICO |publisher=The FA |date=9 June 2018 |accessdate=17 March 2019}}&lt;/ref&gt;
 
 ==References==
 {{reflist}}
@@ -5240,7 +5427,7 @@ Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing 
 [[Category:English Football League players]]
 [[Category:England youth international footballers]]
 [[Category:England under-21 international footballers]]</text>
-      <sha1>hkt7668u2277a9a9o2fidrvsjv398ye</sha1>
+      <sha1>39d1ycsbg279gth4jpbggfqrbz11zai</sha1>
     </revision>
   </page>
   <page>
@@ -5295,20 +5482,18 @@ Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing 
     <ns>0</ns>
     <id>1319785</id>
     <revision>
-      <id>885881201</id>
-      <parentid>885877193</parentid>
-      <timestamp>2019-03-02T23:11:25Z</timestamp>
+      <id>889027369</id>
+      <parentid>888096818</parentid>
+      <timestamp>2019-03-22T22:59:08Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <ip>2A00:23C4:F3B2:8800:A133:8C16:8929:AADD</ip>
       </contributor>
-      <comment>Reverted to revision 885830980 by [[Special:Contributions/132.162.75.88|132.162.75.88]] ([[User talk:132.162.75.88|talk]]): Rvv ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="103373">{{EngvarB|date=January 2019}}
+      <text xml:space="preserve" bytes="103015">{{EngvarB|date=January 2019}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
-| name = Jermain Defoe
+| name = Jermain Defoe &lt;br /&gt; &lt;small&gt;[[Order of the British Empire|OBE]]&lt;/small&gt;
 | image = Jermain-Defoe.jpg
 | image_size = 
 | caption = Defoe in 2009
@@ -5316,7 +5501,7 @@ Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing 
 | birth_date = {{birth date and age|1982|10|7|df=y}}&lt;ref name=Hugman1011&gt;{{cite book |editor-first=Barry J. |editor-last=Hugman |title=The PFA Footballers' Who's Who 2010–11 |year=2010 |publisher=Mainstream Publishing |location=Edinburgh |isbn=978-1-84596-601-0 |page=112}}&lt;/ref&gt;
 | birth_place = [[Beckton]], England
 | height = {{convert|1.71|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.afcb.co.uk/teams/first-team/jermain-defoe |title=Jermain Defoe |publisher=AFC Bournemouth |accessdate=28 September 2018}}&lt;/ref&gt;
-| position = [[Forward (association football)#Striker|Striker]]
+| position = [[Striker (association football)|Striker]]
 | currentclub = [[Rangers F.C.|Rangers]]&lt;br /&gt;(on loan from [[AFC Bournemouth]])
 | clubnumber = 9
 | youthyears1 = 
@@ -5367,7 +5552,7 @@ Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing 
 | goals10 = 4
 | years11 = 2019–
 | clubs11 = → [[Rangers F.C.|Rangers]] (loan)
-| caps11 = 7
+| caps11 = 9
 | goals11 = 5
 | nationalyears1 = 
 | nationalteam1 = [[England national under-16 football team|England U16]]
@@ -5385,14 +5570,14 @@ Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing 
 | nationalteam4 = [[England national football team|England]]
 | nationalcaps4 = 57
 | nationalgoals4 = 20
-| club-update = 13:12, 25 February 2019 (UTC)
-| nationalteam-update = 21:04, 2 February 2019 (UTC)
+| club-update = 17:51, 16 March 2019 (UTC)
+| nationalteam-update = 17:51, 15 March 2019 (UTC)
 }}
-'''Jermain Colin Defoe''' {{post-nominals|country=GBR|OBE}} (born 7 October 1982) is an English professional [[Association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for [[Rangers F.C.|Rangers]] of the [[Scottish Premiership]], on [[Loan (sports)|loan]] from {{English football updater|AFCBourn}} club [[AFC Bournemouth]], and the [[England national football team|English national team]].
+'''Jermain Colin Defoe''' {{post-nominals|country=GBR|OBE}} (born 7 October 1982) is an English professional [[Association football|footballer]] who plays as a [[Striker (association football)|striker]] for [[Rangers F.C.|Rangers]] of the [[Scottish Premiership]], on [[Loan (sports)|loan]] from {{English football updater|AFCBourn}} club [[AFC Bournemouth]], and the [[England national football team|English national team]].
 
 Defoe began his career with [[Charlton Athletic F.C.|Charlton Athletic]], joining their youth team aged 14, before moving to [[West Ham United F.C.|West Ham United]] aged 16 and rising through the ranks. He made his first-team debut for West Ham in 2000 and, after a season-long loan spell at Bournemouth during the [[2000–01 A.F.C. Bournemouth season|2000–01 season]], established himself in the West Ham line-up. After West Ham's relegation in 2003, a move to [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in January 2004 soon followed, where Defoe played for four years before being sold to [[Portsmouth F.C.|Portsmouth]] in January 2008. He spent one season at [[Fratton Park]] before returning to Tottenham in the January 2009 transfer window. He left for [[Toronto FC]] of [[Major League Soccer]] (MLS) in 2014, before returning to England in January 2015 to sign for Sunderland.
 
-In April 2011, Defoe became the 20th player to score a [[List of Premier League players with 100 or more goals|century of Premier League goals]], and is currently the seventh-highest goalscorer in Premier League history.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/tottenham-hotspur/8471966/Jermain-Defoe-scores-100th-Premier-League-goal-after-ditching-celebratory-T-shirt.html |title=Jermain Defoe scores 100th Premier League goal after ditching celebratory T-shirt |first=Sandy |last=McCaskill |newspaper=The Daily Telegraph |location=London |date=25 April 2011 |accessdate=3 May 2018}}&lt;/ref&gt; He is the [[List of Tottenham Hotspur F.C. records and statistics#Top 10 all-time scorers|sixth highest goalscorer]] in [[History of Tottenham Hotspur F.C.|Tottenham's history]]&lt;ref name="THFC number 5"&gt;{{cite news |url=http://espnfc.com/news/story/_/id/1563238/jermain-defoe-thrilled-tottenham-goals-record?cc=5901 |title=Jermain Defoe thrilled with goals record |publisher=ESPN |first=Kevin |last=Palmer |date=25 September 2013}}&lt;/ref&gt; and is the club's [[List of Tottenham Hotspur F.C. records and statistics#Top European competition scorers|joint highest goalscorer]] in [[Tottenham Hotspur F.C. in European football|European competitions]].&lt;ref name="European record"&gt;{{cite news |url=http://www.espn.co.uk/football/sport/story/255547.html |title=Defoe breaks all-time record as Spurs go through |publisher=ESPN |date=7 November 2013}}&lt;/ref&gt; Defoe also holds the Premier League record for the most goals scored as a substitute, with 22, as of 11 January 2014.&lt;ref&gt;{{cite web |url=https://twitter.com/OptaJoe/statuses/422047620912017408 |title=OptaJoe |via=Twitter |publisher=Opta Sports |date=11 January 2014 |quote=22&amp;nbsp;– Jermain Defoe has scored more goals as a Premier League substitute than any other player (22). Trademark. |accessdate=12 January 2014}}&lt;/ref&gt; On 19 November 2016, Defoe scored his 150th Premier League goal, becoming the joint tenth-highest goal scorer in Premier League history.&lt;ref name="premierleague.com"&gt;{{cite web |url=https://www.premierleague.com/matchweek/1280/blog |title=Premier League Live Scores, Stats &amp; Blog&amp;nbsp;– Matchweek 20&amp;nbsp;– 2016/17 |publisher=Premier League |accessdate=16 March 2017}}&lt;/ref&gt;
+In April 2011, Defoe became the 20th player to score a [[List of Premier League players with 100 or more goals|century of Premier League goals]], and is currently the seventh-highest goalscorer in Premier League history as well as the [[List of Tottenham Hotspur F.C. records and statistics#Top 10 all-time scorers|sixth highest goalscorer]] in [[History of Tottenham Hotspur F.C.|Tottenham's history]].&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/tottenham-hotspur/8471966/Jermain-Defoe-scores-100th-Premier-League-goal-after-ditching-celebratory-T-shirt.html |title=Jermain Defoe scores 100th Premier League goal after ditching celebratory T-shirt |first=Sandy |last=McCaskill |newspaper=The Daily Telegraph |location=London |date=25 April 2011 |accessdate=3 May 2018}}&lt;/ref&gt;&lt;ref name="THFC number 5"&gt;{{cite news |url=http://espnfc.com/news/story/_/id/1563238/jermain-defoe-thrilled-tottenham-goals-record?cc=5901 |title=Jermain Defoe thrilled with goals record |publisher=ESPN |first=Kevin |last=Palmer |date=25 September 2013}}&lt;/ref&gt;  Defoe also holds the Premier League record for the most goals scored as a substitute, with 22, as of 11 January 2014.&lt;ref&gt;{{cite web |url=https://twitter.com/OptaJoe/statuses/422047620912017408 |title=OptaJoe |via=Twitter |publisher=Opta Sports |date=11 January 2014 |quote=22&amp;nbsp;– Jermain Defoe has scored more goals as a Premier League substitute than any other player (22). Trademark. |accessdate=12 January 2014}}&lt;/ref&gt; On 19 November 2016, Defoe scored his 150th Premier League goal, becoming the joint tenth-highest goal scorer in Premier League history.&lt;ref name="premierleague.com"&gt;{{cite web |url=https://www.premierleague.com/matchweek/1280/blog |title=Premier League Live Scores, Stats &amp; Blog&amp;nbsp;– Matchweek 20&amp;nbsp;– 2016/17 |publisher=Premier League |accessdate=16 March 2017}}&lt;/ref&gt;
 
 Defoe made his England debut in 2004 and has made 57 appearances, scoring 20 goals, including three appearances and a goal at the [[2010 FIFA World Cup]].
 
@@ -5541,7 +5726,7 @@ Defoe was appointed an [[Officer of the Order of the British Empire]] (OBE) in t
 
 ==Career statistics==
 ===Club===
-{{updated|match played 27 February 2019}}
+{{updated|match played 12 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -5549,7 +5734,7 @@ Defoe was appointed an [[Officer of the Order of the British Empire]] (OBE) in t
 !rowspan=2|Club
 !rowspan=2|Season
 !colspan=3|League
-!colspan=2|National Cup{{efn|Includes [[FA Cup]] and [[Canadian Championship]]}}
+!colspan=2|National Cup{{efn|Includes [[FA Cup]], [[Canadian Championship]], [[Scottish Cup]]}}
 !colspan=2|League Cup{{efn|Includes [[EFL Cup|League Cup/EFL Cup]]}}
 !colspan=2|Europe
 !colspan=2|Other
@@ -5684,18 +5869,18 @@ Defoe was appointed an [[Officer of the Order of the British Empire]] (OBE) in t
 !28||4||0||0||6||0||colspan=2|—||colspan=2|—||34||4
 |-
 |[[Rangers F.C.|Rangers]] (loan)
-|[[2018–19 Rangers F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|17118|2018|accessdate=2 February 2019}}&lt;/ref&gt;
+|[[2018–19 Rangers F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|17118|2018|accessdate=15 March 2019}}&lt;/ref&gt;
 |[[Scottish Premiership]]
-|7||5||2||0||colspan=2|—||colspan=2|—||colspan=2|—||9||5
+|8||5||3||0||colspan=2|—||colspan=2|—||colspan=2|—||11||5
 |-
 !colspan=3|Career total
-!569||206||43||23||38||23||39||25||2||0||691||277
+!570||206||44||23||38||23||39||25||2||0||693||277
 |}
 
 {{notelist}}
 
 ===International===
-{{updated|match played 10 June 2017}}&lt;ref&gt;{{NFT player |id=2151 |name=Defoe, Jermain |accessdate=2 February 2019}}&lt;/ref&gt;
+{{updated|match played 10 June 2017}}&lt;ref&gt;{{NFT player |id=2151 |name=Defoe, Jermain |accessdate=15 March 2019}}&lt;/ref&gt;
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by national team and year
@@ -5729,7 +5914,7 @@ Defoe was appointed an [[Officer of the Order of the British Empire]] (OBE) in t
 |}
 
 ===International goals===
-:''As of match played 10 June 2017. England score listed first, score column indicates score after each Defoe goal.''&lt;ref name=englandstats&gt;{{cite web |url=http://englandstats.com/players.php?pid=1132 |title=Player info: Jermain Defoe |website=Englandstats.com |publisher=Davey Naylor |accessdate=6 January 2019}}&lt;/ref&gt;
+:''As of match played 10 June 2017. England score listed first, score column indicates score after each Defoe goal.''&lt;ref name=englandstats&gt;{{cite web |url=http://englandstats.com/players.php?pid=1132 |title=Player info: Jermain Defoe |website=Englandstats.com |publisher=Davey Naylor |accessdate=15 March 2019}}&lt;/ref&gt;
 
 {| class="wikitable plainrowheaders sortable"
 |+ International goals by date, venue, cap, opponent, score, result and competition
@@ -5885,7 +6070,7 @@ Defoe was appointed an [[Officer of the Order of the British Empire]] (OBE) in t
 [[Category:Officers of the Order of the British Empire]]
 [[Category:Charity fundraisers (people)]]
 [[Category:Scottish Professional Football League players]]</text>
-      <sha1>c9fwrft6i81ofos9yp2iq26h98l6td0</sha1>
+      <sha1>41y4nyojmfj6o8y887m3kw85emk04ho</sha1>
     </revision>
   </page>
   <page>
@@ -5893,16 +6078,16 @@ Defoe was appointed an [[Officer of the Order of the British Empire]] (OBE) in t
     <ns>0</ns>
     <id>39298148</id>
     <revision>
-      <id>885888297</id>
-      <parentid>885235916</parentid>
-      <timestamp>2019-03-03T00:15:31Z</timestamp>
+      <id>888086334</id>
+      <parentid>887804730</parentid>
+      <timestamp>2019-03-16T20:41:02Z</timestamp>
       <contributor>
         <username>Samuel J Walker</username>
         <id>19099414</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="16514">{{Use dmy dates|date=April 2016}}
+      <text xml:space="preserve" bytes="16546">{{Use dmy dates|date=April 2016}}
 {{Use British English|date=April 2016}}
 {{Infobox football biography
 | name                 = Tyrone Mings 
@@ -5938,9 +6123,9 @@ Defoe was appointed an [[Officer of the Order of the British Empire]] (OBE) in t
 | goals4               = 0
 | years5               = 2019–
 | clubs5               = → [[Aston Villa F.C.|Aston Villa]] (loan)
-| caps5                = 6
+| caps5                = 8
 | goals5               = 1
-| club-update          = 0:14, 3 March 2019 (UTC)
+| club-update          = 20:39, 16 March 2019 (UTC)
 | ntupdate             =
 }}
 '''Tyrone Deon Mings''' (born 13 March 1993) is an English professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|left-back]] or a [[Defender (association football)#centre-back|centre-back]] for [[Aston Villa F.C.|Aston Villa]], on loan from [[A.F.C. Bournemouth| Bournemouth]].
@@ -5948,7 +6133,7 @@ Defoe was appointed an [[Officer of the Order of the British Empire]] (OBE) in t
 ==Club career==
 
 ===Early career===
-Born in [[Bath, Somerset]], to former non-league striker Adie Mings, Mings joined [[Southampton F.C.|Southampton]] in 2001 as an eight-year-old, but was released in 2009 when the youth budget was axed.&lt;ref&gt;{{Cite web | url =http://www.thisiswiltshire.co.uk/sport/8299798.FOOTBALL__Youngster_Mings_aims_for_England/ | publisher =This Is Wiltshire | accessdate =5 May 2013 | date = 29 July 2010 | title = Football: Youngster Mings aims for England}}&lt;/ref&gt; After leaving Southampton, he attended [[Millfield]] school for two years on a football scholarship. After leaving school, Mings signed for non-league side [[Yate Town F.C.|Yate Town]]. In the summer of 2012, he considered quitting football before eventually signing for his home town team [[Chippenham Town F.C.|Chippenham Town]].&lt;ref name="stuartjames"&gt;{{cite web|url=https://www.theguardian.com/football/2014/dec/18/tyrone-mings-ipswich|title=Tyrone Mings makes his mark at Ipswich on and off the pitch|author=Stuart James|work=the Guardian}}&lt;/ref&gt;
+Born in [[Bath, Somerset|Bath]], [[Avon (county)|Avon]], to former non-league striker Adie Mings, Mings joined [[Southampton F.C.|Southampton]] in 2001 as an eight-year-old, but was released in 2009 when the youth budget was axed.&lt;ref&gt;{{Cite web | url =http://www.thisiswiltshire.co.uk/sport/8299798.FOOTBALL__Youngster_Mings_aims_for_England/ | publisher =This Is Wiltshire | accessdate =5 May 2013 | date = 29 July 2010 | title = Football: Youngster Mings aims for England}}&lt;/ref&gt; After leaving Southampton, he attended [[Millfield]] school for two years on a football scholarship. After leaving school, Mings signed for non-league side [[Yate Town F.C.|Yate Town]]. In the summer of 2012, he considered quitting football before eventually signing for his home town team [[Chippenham Town F.C.|Chippenham Town]].&lt;ref name="stuartjames"&gt;{{cite web|url=https://www.theguardian.com/football/2014/dec/18/tyrone-mings-ipswich|title=Tyrone Mings makes his mark at Ipswich on and off the pitch|author=Stuart James|work=the Guardian}}&lt;/ref&gt;
 
 ===Ipswich Town===
 Mings signed for [[Ipswich Town F.C.|Ipswich Town]] in 2013 after a short trial for a fee of [[Pound sterling|£]]10,000 and an agreement for Ipswich to play a pre-season game against Chippenham.&lt;ref name="stuartjames"/&gt; &lt;ref name="auto1"&gt;{{Cite web | url =https://www.bbc.co.uk/sport/0/football/22320506 | publisher = BBC Sport | accessdate =4 May 2013 | date = 4 May 2013 | title = Burnley 2–0 Ipswich}}&lt;/ref&gt; On 4 May 2013, Mings made his debut for Ipswich on the last day of the [[2012–13 Ipswich Town F.C. season|2012–13 season]] against [[Burnley F.C.|Burnley]].&lt;ref name="auto1"/&gt; He went on into the [[2013–14 Ipswich Town F.C. season|2013–14 season]] starting two more games due to the suspension of [[Aaron Cresswell]]. On 4 January 2014, Mings started an FA Cup tie against [[Preston North End F.C.|Preston North End]] at right back instead of his usual left back role.
@@ -5977,10 +6162,10 @@ Off the field, Mings has gained a reputation for charitable and generous acts.&l
 Outside of football, Mings has a business interest in an interior design company in Bournemouth.&lt;ref&gt;{{Cite web | url =http://www.dorsetecho.co.uk/news/15013542.The_designer_and_the_Cherries_star_bringing_luxury_to_Bournemouth___s_homes/ | publisher = dorsetecho.co.uk | accessdate =26 September 2017 | date = 15 January 2017 | title = KTM Design's Katie Thomas on the business she's set up with AFC Bournemouth player Tyrone Mings}}&lt;/ref&gt;
 
 ==International career==
-As well as being eligible for [[England national football team|England]], Mings is also eligible for [[Barbados national football team|Barbados]] through his paternal grandparents;&lt;ref&gt;{{cite web|url=https://www.twtd.co.uk/ipswich-town-news/23976/mings-could-be-towns-first-barbados-international/on-this-day|title=Mings Could Be Town's First Barbados International - Ipswich Town News|publisher=}}&lt;/ref&gt; His father Adie turned down a call-up from Barbados during his own playing career.&lt;ref&gt;https://www.bournemouthecho.co.uk/news/15675312.mings-would-potentially-consider-representing-barbados/&lt;/ref&gt;
+As well as being eligible for [[England national football team|England]], Mings is also eligible for [[Barbados national football team|Barbados]] through his paternal grandparents.&lt;ref&gt;{{cite web|url=https://www.twtd.co.uk/ipswich-town-news/23976/mings-could-be-towns-first-barbados-international/on-this-day|title=Mings Could Be Town's First Barbados International - Ipswich Town News|publisher=}}&lt;/ref&gt; His father Adie turned down a call-up from Barbados during his own playing career.&lt;ref&gt;https://www.bournemouthecho.co.uk/news/15675312.mings-would-potentially-consider-representing-barbados/&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|2 March 2019}}&lt;ref&gt;{{soccerbase|id=69420|name=Tyrone Mings|accessdate=6 May 2018}}&lt;/ref&gt;
+{{updated|16 March 2019}}&lt;ref&gt;{{soccerbase|id=69420|name=Tyrone Mings|accessdate=6 May 2018}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -6028,10 +6213,10 @@ As well as being eligible for [[England national football team|England]], Mings 
 |valign="center"|[[Aston Villa F.C.|Aston Villa]] (loan)
 |[[2018–19 Aston Villa F.C. season|2018–19]]
 |[[Championship]]
-|6||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||6||1
+|8||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||8||1
 |-
 !colspan="3"|Career total
-!80!!2!!5!!0!!4!!0!!2!!0!!91!!2
+!82!!2!!5!!0!!4!!0!!2!!0!!93!!2
 |}
 {{notelist}}
 
@@ -6058,7 +6243,7 @@ As well as being eligible for [[England national football team|England]], Mings 
 [[Category:Aston Villa F.C. players]]
 [[Category:Premier League players]]
 [[Category:English Football League players]]</text>
-      <sha1>5ht14ztd3qijfdc6pkvshehutz0gmp5</sha1>
+      <sha1>6qz61hyl02glrgsdwtk8pym71266btp</sha1>
     </revision>
   </page>
   <page>
@@ -6066,17 +6251,17 @@ As well as being eligible for [[England national football team|England]], Mings 
     <ns>0</ns>
     <id>40448368</id>
     <revision>
-      <id>885834115</id>
-      <parentid>885388928</parentid>
-      <timestamp>2019-03-02T17:14:48Z</timestamp>
+      <id>888058972</id>
+      <parentid>887713270</parentid>
+      <timestamp>2019-03-16T17:19:44Z</timestamp>
       <contributor>
         <username>Struway2</username>
         <id>4761363</id>
       </contributor>
-      <comment>infobox and career stats match played 2 March</comment>
+      <comment>infobox and career stats match played 16 March</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="21648">{{Use dmy dates|date=May 2016}}
+      <text xml:space="preserve" bytes="21651">{{Use dmy dates|date=May 2016}}
 {{Use British English|date=May 2016}}
 {{Infobox football biography
 | name        = Connor Mahoney
@@ -6112,7 +6297,7 @@ As well as being eligible for [[England national football team|England]], Mings 
 | goals4      = 0
 | years5      = 2018–
 | clubs5      = → [[Birmingham City F.C.|Birmingham City]] (loan)
-| caps5       = 23
+| caps5       = 26
 | goals5      = 2
 | nationalyears1 = 2014 
 | nationalteam1= [[England national under-17 football team|England U17]] 
@@ -6126,7 +6311,7 @@ As well as being eligible for [[England national football team|England]], Mings 
 | nationalteam3 = [[England national under-20 football team|England U20]] 
 | nationalcaps3 = 3
 | nationalgoals3 = 0
-| club-update = 17:14, 2 March 2019 (UTC)
+| club-update = 17:19, 16 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Connor Anthony Mahoney''' (born 12 February 1997) is an English professional [[Association football|footballer]] who plays as a winger for [[EFL Championship|Championship]] club [[Birmingham City F.C.|Birmingham City]], on [[loan (sports)|loan]] from [[A.F.C. Bournemouth|AFC Bournemouth]] of the [[Premier League]].
@@ -6157,7 +6342,7 @@ In January 2014, he was called up by [[England national under-17 football team|E
 Eight months later, in September 2014, Mahoney was called up by [[England national under-18 football team|England U18]].&lt;ref&gt;{{cite web|url=https://www.rovers.co.uk/news/2014/september/england-call-for-connor/|title=England call for Connor|publisher=Blackburn Rovers F.C.|date=20 September 2014|accessdate=31 August 2017|archiveurl=https://web.archive.org/web/20170831193534/https://www.rovers.co.uk/news/2014/september/england-call-for-connor/|archivedate=31 August 2017|deadurl=no}}&lt;/ref&gt; Four days later, he made his England U18 debut, in a 2–0 loss against [[Italy national under-18 football team|Italy U18]].&lt;ref&gt;{{cite web|url=https://www.rovers.co.uk/news/2014/september/mahoney-plays-for-england/|title=Mahoney plays for England|publisher=Blackburn Rovers F.C.|date=25 September 2014|accessdate=31 August 2017|archiveurl=https://web.archive.org/web/20170831193522/https://www.rovers.co.uk/news/2014/september/mahoney-plays-for-england/|archivedate=31 August 2017|deadurl=no}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 2 March 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class="wikitable" style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -6206,11 +6391,11 @@ Eight months later, in September 2014, Mahoney was called up by [[England nation
 |Championship||8||0||0||0||0||0||colspan=2|—||8||0
 |-
 |[[Birmingham City F.C.|Birmingham City]] (loan)
-|[[2018–19 Birmingham City F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|72094|2018|accessdate=2 March 2019}}&lt;/ref&gt;
-|Championship||23||2||1||0||1||0||colspan=2|—||25||2
+|[[2018–19 Birmingham City F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|72094|2018|accessdate=16 March 2019}}&lt;/ref&gt;
+|Championship||26||2||1||0||1||0||colspan=2|—||28||2
 |-
 !colspan=3|Career total
-!51||2||4||0||6||0||4||0||66||2
+!54||2||4||0||6||0||4||0||69||2
 |}
 
 {{notelist}}
@@ -6240,7 +6425,7 @@ Born in [[Blackburn]], England, Mahoney attended [[Witton Park High School]].&lt
 [[Category:A.F.C. Bournemouth players]]
 [[Category:Birmingham City F.C. players]]
 [[Category:English Football League players]]</text>
-      <sha1>4cpjirjozo6rtrql79hs0nmfgkoeke6</sha1>
+      <sha1>sz5tggupl6tyf16vm20hz20nrnvllfh</sha1>
     </revision>
   </page>
   <page>
@@ -6248,16 +6433,18 @@ Born in [[Blackburn]], England, Mahoney attended [[Witton Park High School]].&lt
     <ns>0</ns>
     <id>13436010</id>
     <revision>
-      <id>885543982</id>
-      <parentid>884626436</parentid>
-      <timestamp>2019-02-28T18:12:10Z</timestamp>
+      <id>889038463</id>
+      <parentid>889037779</parentid>
+      <timestamp>2019-03-23T00:44:45Z</timestamp>
       <contributor>
-        <ip>94.175.1.119</ip>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <comment>/* Personal life */</comment>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/213.233.132.131|213.233.132.131]] ([[User talk:213.233.132.131|talk]]) to last revision by Mattythewhite ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="57724">{{good article}}
+      <text xml:space="preserve" bytes="57716">{{good article}}
 {{EngvarB|date=October 2016}}
 {{Use dmy dates|date=October 2016}}
 {{Infobox football biography
@@ -6304,7 +6491,7 @@ Born in [[Blackburn]], England, Mahoney attended [[Witton Park High School]].&lt
 | goals6 = 1
 | years7 = 2018–
 | clubs7 = → [[Cardiff City F.C.|Cardiff City]] (loan)
-| caps7 = 22
+| caps7 = 23
 | goals7 = 0
 | nationalyears1 = 2006
 | nationalteam1 = [[Republic of Ireland national under-17 football team|Republic of Ireland U17]]
@@ -6318,7 +6505,7 @@ Born in [[Blackburn]], England, Mahoney attended [[Witton Park High School]].&lt
 | nationalteam3 = [[Republic of Ireland national football team|Republic of Ireland]]&lt;ref&gt;{{NFT player|id=59350|name=Harry Arter|accessdate=5 October 2016}}&lt;/ref&gt;
 | nationalcaps3 = 14
 | nationalgoals3 = 0
-| club-update = 21:41, 22 February 2019 (UTC)
+| club-update = 17:05, 9 March 2019 (UTC)
 | ntupdate = 07:51, 17 October 2018 (UTC)
 }}
 '''Harry Nicholas Arter''' (born 28 December 1989) is a professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Premier League]] club [[Cardiff City F.C.|Cardiff City]], on loan from [[A.F.C. Bournemouth|AFC Bournemouth]], and the [[Republic of Ireland national football team|Republic of Ireland national team]].
@@ -6406,7 +6593,7 @@ Arter is the brother-in-law of former England captain [[Scott Parker]], who is m
 In December 2015, Harry Arter and his partner, Rachel, suffered a family tragedy when their daughter died at birth. Bournemouth manager Eddie Howe paid tribute to Arter following a 2–1 win over Manchester United on 12 December. Howe dedicated the win to Arter and said it had been "a hugely emotional week for him."&lt;ref&gt;{{cite news |title=Bournemouth boss Eddie Howe pays tribute to Harry Arter after death of his child |url=http://www.belfasttelegraph.co.uk/sport/football/premier-league/bournemouth-boss-eddie-howe-pays-tribute-to-harry-arter-after-death-of-his-child-34282294.html |work=Belfast Telegraph |date=12 December 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Bournemouth boss Eddie Howe dedicates Manchester United win to Harry Arter |url=http://www.skysports.com/football/news/11743/10098535/bournemouth-boss-eddie-howe-dedicates-manchester-united-win-to-harry-arter |work=Sky Sports |date=12 December 2015}}&lt;/ref&gt; In October 2016, Arter shared the news of his partner being pregnant again.&lt;ref&gt;{{cite news |title=Good news for Arter after difficult 12 months |url=https://www.bbc.co.uk/sport/football/37811865.app |work=BBC Football |date=29 October 2016}}&lt;/ref&gt; On 17 February 2017, she gave birth to a baby girl, and called her Raine.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/news/uk-england-dorset-39014883|title=Bournemouth's Harry Arter thanks fans for baby congratulations|date=18 February 2017|publisher=BBC News}}&lt;/ref&gt;
 
 ==Career statistics==
-{{Updated|match played 22 February 2019}}&lt;ref&gt;{{Soccerway |id=45992 |accessdate=1 March 2018}}&lt;/ref&gt;
+{{Updated|match played 9 March 2019}}&lt;ref&gt;{{Soccerway |id=45992 |accessdate=1 March 2018}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |+ Club statistics
@@ -6479,10 +6666,10 @@ In December 2015, Harry Arter and his partner, Rachel, suffered a family tragedy
 |[[Cardiff City F.C.|Cardiff City]] (loan)
 |[[2018–19 Cardiff City F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|47381|2018|accessdate=18 August 2018}}&lt;/ref&gt;
 |Premier League
-|22||0||0||0||0||0||colspan="2"|—||22||0
+|23||0||0||0||0||0||colspan="2"|—||23||0
 |-
 !colspan="3"|Career total
-!295!!33!!15!!4!!10!!0!!7!!1!!322!!38
+!296!!33!!15!!4!!10!!0!!7!!1!!323!!38
 |}
 
 {{reflist|group=lower-alpha}}
@@ -6529,7 +6716,7 @@ In December 2015, Harry Arter and his partner, Rachel, suffered a family tragedy
 [[Category:National League (English football) players]]
 [[Category:Premier League players]]
 [[Category:English people of Irish descent]]</text>
-      <sha1>6gxu1jsrekry53zc9dblzr4jey7huhr</sha1>
+      <sha1>fwri2tni8ga4g002474ckypdjb76qab</sha1>
     </revision>
   </page>
 </mediawiki>

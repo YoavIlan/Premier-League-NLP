@@ -3,7 +3,7 @@
     <sitename>Wikipedia</sitename>
     <dbname>enwiki</dbname>
     <base>https://en.wikipedia.org/wiki/Main_Page</base>
-    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <generator>MediaWiki 1.33.0-wmf.22</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -47,17 +47,18 @@
     <ns>0</ns>
     <id>1031818</id>
     <revision>
-      <id>885777860</id>
-      <parentid>885773068</parentid>
-      <timestamp>2019-03-02T07:24:09Z</timestamp>
+      <id>888418907</id>
+      <parentid>888418849</parentid>
+      <timestamp>2019-03-19T00:54:21Z</timestamp>
       <contributor>
-        <username>Kosack</username>
-        <id>4446447</id>
+        <username>RegentsPark</username>
+        <id>4894531</id>
       </contributor>
-      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/41.113.109.166|41.113.109.166]] ([[User talk:41.113.109.166|talk]]): Unsourced opinion and doesn't belong there anyway  ([[WP:TW|TW]])</comment>
+      <minor/>
+      <comment>Protected "[[Petr Čech]]": Persistent [[WP:Vandalism|vandalism]] ([Edit=Require autoconfirmed or confirmed access] (expires 00:54, 19 April 2019 (UTC)) [Move=Require autoconfirmed or confirmed access] (expires 00:54, 19 April 2019 (UTC)))</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="89331">{{for|the Olympic hurdler|Petr Čech (hurdler)}}
+      <text xml:space="preserve" bytes="89234">{{for|the Olympic hurdler|Petr Čech (hurdler)}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 | name = Petr Čech
@@ -67,7 +68,7 @@
 | fullname = Petr Čech&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
 | birth_date = {{Birth date and age|1982|5|20|df=y}}&lt;ref&gt;{{Hugman|3284|Petr Cech|accessdate=10 February 2018}}&lt;/ref&gt;
 | birth_place = [[Plzeň]], Czechoslovakia
-| height = 1.96 m&lt;ref name=PremProfile&gt;{{cite web |url=https://www.premierleague.com/players/2651/Petr-Cech/overview |title=Petr Cech: Overview |publisher=Premier League |accessdate=28 September 2018}}&lt;/ref&gt;
+| height = 1.97 m&lt;ref name=PremProfile&gt;{{cite web |url=https://www.dfb.de/datencenter/personen/petr-cech/spieler  |title=Petr Cech: Overview |publisher=DFB SPIELER |accessdate=28 September 2018}}&lt;/ref&gt;
 | position = [[Goalkeeper (association football)|Goalkeeper]]
 | currentclub = [[Arsenal F.C.|Arsenal]]
 | clubnumber = 1
@@ -128,7 +129,7 @@
 
 Born in [[Plzeň]], Čech began his senior career at [[FK Chmel Blšany|Chmel Blšany]] in 1999, where he played sporadically for two seasons prior to relocating to domestic superpower [[AC Sparta Prague|Sparta Prague]] in 2001. At age 19, Čech became a first team regular, and his single campaign with the club was fruitful, as he registered a league record of not conceding a goal in 903 competitive minutes. This garnered him his first move abroad, when he relocated to France to join [[Ligue 1]] side [[Stade Rennais F.C.|Rennes]] for a fee of €5.5 million (£3.9 million) in 2002.
 
-In France, Čech starred in an under-performing team, and soon moved to Premier League side [[Chelsea F.C.|Chelsea]] for a fee of £7 million (€9.8 million) in 2004, which was then a club record transfer for a goalkeeper. During his eleven year stay at the club, Čech registered 486 senior appearances, making him the club's highest overseas appearance maker, and sixth [[List of Chelsea F.C. records and statistics#All-time appearances|all-time]].&lt;ref&gt;{{cite news|url=http://www1.skysports.com/football/live/match/300954/analysis|title=Mourinho's mistake|date=26 November 2013|accessdate=4 April 2014|work=BSkyB|deadurl=yes|archiveurl=https://web.archive.org/web/20140206152025/http://www1.skysports.com/football/live/match/300954/analysis|archivedate=6 February 2014}}&lt;/ref&gt; He also helped the club win four [[List of English football champions|Premier League titles]], four [[FA Cup]]s, three [[EFL Cup|League Cup]]s, one [[UEFA Europa League]] title, and one [[List of European Cup and UEFA Champions League finals|UEFA Champions League]] title. He also holds the club [[List of Chelsea F.C. records and statistics|all-time]] record for clean sheets, with 220. Čech departed Chelsea in 2015 to join city rivals [[Arsenal F.C.|Arsenal]] for a fee of £10 million, where he won another FA Cup and two [[FA Community Shield]]s.
+In France, Čech starred in an under-performing team, and soon moved to Premier League side [[Chelsea F.C.|Chelsea]] for a fee of £7 million (€9.8 million) in 2004, which was then a club record transfer for a goalkeeper. During his eleven year stay at the club, Čech registered 494 senior appearances, making him the club's highest overseas appearance maker, and sixth [[List of Chelsea F.C. records and statistics#All-time appearances|all-time]].&lt;ref&gt;{{cite web |title=Petr Cech – the statistical record {{!}} Official Site {{!}} Chelsea Football Club |url=https://www.chelseafc.com/en/news/2015/06/30/petr-cech-_-the-statistical-record |website=Chelsea F.C. |accessdate=11 March 2019 |date=30 June 2015}}&lt;/ref&gt; He also helped the club win four [[List of English football champions|Premier League titles]], four [[FA Cup]]s, three [[EFL Cup|League Cup]]s, one [[UEFA Europa League]] title, and one [[List of European Cup and UEFA Champions League finals|UEFA Champions League]] title. He also holds the club [[List of Chelsea F.C. records and statistics|all-time]] record for clean sheets, with 220. Čech departed Chelsea in 2015 to join city rivals Arsenal for a fee of £10 million, where he won another FA Cup.
 
 A Czech international, Čech made his debut with the [[Czech Republic national football team|Czech Republic]] in 2002, and is the [[Czech Republic national football team#Most capped Czech Republic players|most capped player]] in the history of the Czech national team, with [[List of footballers with 100 or more caps|124 caps]]. He also represented his country at the [[2006 FIFA World Cup|2006 World Cup]], as well as the [[UEFA Euro 2004|2004]], [[UEFA Euro 2008|2008]], [[UEFA Euro 2012|2012]], and [[UEFA Euro 2016|2016]] [[UEFA European Championship|European Championships]]. He was voted into the Euro 2004 All-Star team after helping the Czechs reach the semi-finals, and also served as the team's [[Captain (association football)|captain]], prior to retiring from international competition in 2016. Čech also holds the record for the most [[Czech Footballer of the Year]] and [[Golden Ball (Czech Republic)|Czech Golden Ball]] wins. 
  
@@ -245,7 +246,7 @@ He then held the armband to captain Arsenal in their 4–3 opening day home win 
 On 11 March 2018, Čech became the first [[Premier League]] goalkeeper to keep 200 league clean sheets, against [[Watford FC|Watford]] after saving a penalty from [[Troy Deeney]].&lt;ref&gt;{{Cite news|url=http://metro.co.uk/2018/03/11/petr-cech-claims-200th-premier-league-clean-sheet-arsenals-win-watford-7378652/|title=Petr Cech finally reaches Premier League milestone with clean sheet vs Watford|date=11 March 2018|work=Metro|access-date=11 March 2018|language=en-GB}}&lt;/ref&gt;
 
 ====2018–19 season and retirement====
-He started the season as the first choice in goal for new manager [[Unai Emery]], but later lost his place to new signing [[Bernd Leno]] after suffering a hamstring injury in a match against Watford. On 15 January 2019, Čech announced via open letter on Twitter that he would retire at the end of the season.&lt;ref&gt;{{cite web |title=Petr Cech on Twitter |url=https://twitter.com/PetrCech/status/1085130768844800002 |website=Twitter |accessdate=15 January 2019 |date=15 January 2019}}&lt;/ref&gt;
+He started the season as the first choice in goal for new manager [[Unai Emery]], but later lost his place to new signing [[Bernd Leno]] after suffering a hamstring injury during a match against Watford. On 15 January 2019, Čech announced via open letter on Twitter that he would retire at the end of the season.&lt;ref&gt;{{cite web |title=Petr Cech on Twitter |url=https://twitter.com/PetrCech/status/1085130768844800002 |website=Twitter |accessdate=15 January 2019 |date=15 January 2019}}&lt;/ref&gt;
 
 ==International career==
 [[File:Petr Cech National.JPG|thumb|Čech playing for the [[Czech national football team]] in 2010]]
@@ -266,11 +267,11 @@ On 26 March 2013, Čech made his [[List of footballers with 100 or more caps|100
 On 8 July 2016, Čech announced his retirement from international football. He is the most capped player in the history of the Czech team, with 124 caps.&lt;ref&gt;{{cite news|url=http://www.itv.com/news/update/2016-07-08/arsenal-goalkeeper-announces-international-retirement/|title=Arsenal goalkeeper announces international retirement|date=8 July 2016|accessdate=8 July 2016|publisher=ITV}}&lt;/ref&gt;
 
 ==Style of play==
-[[File:Arsenal 1 Chelsea 1 (4-1 on pens) (35586034434).jpg|thumb|Cech diving to save a penalty against [[Chelsea F.C.|Chelsea]] in [[FA Community Shield]]]]
+[[File:Arsenal 1 Chelsea 1 (4-1 on pens) (35586034434).jpg|thumb|Cech diving to save a penalty against [[Chelsea F.C.|Chelsea]] in [[2017 FA Community Shield]]]]
 ===Analysis===
 Since his emergence as a precocious talent in his youth, Čech has been considered to be one of the greatest, most consistent, and most respected goalkeepers both of his generation and of all time.&lt;ref name="ESPN Profile"&gt;{{cite web|url=http://espnfc.com/player/_/id/13069/petr-cech?cc=4716 |title=Petr Cech Bio, Stats, News – Football / Soccer |publisher=Espn Fc |date=20 May 1982 |accessdate=19 November 2013}}&lt;/ref&gt;&lt;ref name="goalkeeping greats"&gt;{{cite web|url=http://www.fourfourtwo.com/news/buffon-touts-brave-neuer-among-goalkeeping-greats#:F2JnYrHft0tEhA|title=Buffon touts 'brave' Neuer among goalkeeping greats|work=FourFourTwo|date=22 February 2016|accessdate=25 March 2016}}&lt;/ref&gt;&lt;ref name="Greatest goalkeepers"&gt;{{cite web|url=http://www.fourfourtwo.com/news/cech-one-greatest-goalkeepers-ever-says-wenger%3f_format=amp|title=Cech is one of the greatest goalkeepers ever, says Wenger|work=FourFourTwo|date=6 November 2015|accessdate=15 September 2018}}{{Dead link|date=February 2019 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.independent.co.uk/sport/football/premier-league/petr-cech-will-recover-to-have-a-fantastic-season-at-arsenal-says-gunners-legend-jens-lehmann-10453278.html |title=Petr Cech will recover to have a 'fantastic season' at Arsenal, says Gunners legend Jens Lehmann |publisher=The Independent |author1=Tom Sheen |date=13 August 2015 |accessdate=11 November 2018 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.espn.com/soccer/uefa-champions-league/story/2812976/gigi-buffon--manuel-neuer-not-yet-among-worlds-best-keepers |title=Gigi Buffon: Bayern's Manuel Neuer not yet among world's best keepers |publisher=ESPN FC |author1=Ben Gladwell |date=22 February 2016 |accessdate=11 November 2018 }}&lt;/ref&gt; A tall, athletic, agile, brave, physically strong, and well-rounded keeper, with a strong mentality, as well as good decision-making and leadership qualities, throughout his career he has stood out for his reflexes and shot-stopping abilities, as well as his positional sense, concentration, handling when coming off his line to claim crosses, and command of his area.&lt;ref&gt;{{cite web|url=https://www.standard.co.uk/sport/ludek-cech-nearly-signed-for-hammers-6987608.html|title=Ludek: Cech nearly signed for Hammers|publisher=The Evening Standard|author1=Ken Dyer|date=28 January 2004|accessdate=15 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.fifa.com/u20worldcup/news/y=2009/m=9/news=peter-seeking-inspiration-from-petr-1109483.html|title=Peter seeking inspiration from Petr|publisher=FIFA.com|date=29 September 2009|accessdate=15 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.marca.com/en/football/national-teams/2016/06/16/5762d315e5fdea273a8b4646.html|title=Cech shows off his brilliant reflexes|publisher=Marca|date=16 June 2016|accessdate=15 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/8414755.stm|title=Alan Hansen's tactical view|publisher=BBC Sport|author1=Alan Hansen|date=16 December 2009|accessdate=15 February 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://soccer.nbcsports.com/2015/08/05/petr-cechs-arsenal-arrival-the-final-piece-for-a-real-premier-league-title-challenge/|title=Petr Cech’s Arsenal arrival — the final piece for a real Premier League title challenge?|publisher=NBC Sports|author1=Andy Edwards|date=5 August 2015|accessdate=15 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/34047710|title=Petr Cech shows his class but Arsenal still need to strengthen|publisher=BBC Sport|author=Phil McNulty|date=25 August 2015|accessdate=22 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://uk.reuters.com/article/uk-soccer-england-arsenal/cech-arrival-adds-substance-to-arsenals-style-idUKKCN0Q62R620150801|title=Cech arrival adds substance to Arsenal's style|publisher=Reuters.com|author1=Tom Hayward|date=1 August 2015|accessdate=12 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.corrieredellosport.it/news/calcio/calcio-mercato/2015/06/03-1395179/calciomercato_16_portieri_in_cerca_di_una_casa/|title=Ecco i portieri che accendono il calciomercato|publisher=Il Corriere dello Sport|language=Italian|author1=Valerio Albensi|date=3 June 2015|accessdate=12 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.goal.com/it/news/1941/z/2012/11/20/3541290/la-sfida-nella-sfida-buffon-vs-cech-il-portierone-bianconero|title=La Sfida nella Sfida – Buffon vs Cech: il portierone bianconero ha qualcosa in più del collega 'Blue'...|publisher=Goal.com|language=Italian|author1=Renato Maisani|date=20 November 2012|accessdate=12 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.gazzetta.it/Calcio/Premier-League/20-07-2018/arsenal-cech-che-cambiamento-ora-montagna-muscoli-280762667668.shtml |title=Arsenal, Cech, che cambiamento. Ora è una montagna di muscoli |publisher=La Gazzetta dello Sport |language=Italian |author1=Simona Marchetti |date=20 July 2018 |accessdate=23 September 2018 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.fifa.com/live-scores/news/y=2007/m=11/news=who-the-world-best-keeper-630581.html |title=Who is the world's best keeper? |publisher=FIFA.com |date=6 November 2007 |accessdate=11 November 2018 }}&lt;/ref&gt; Although he is not as adept with the ball at his feet as the newer generation of goalkeepers that emerged in his later career,&lt;ref&gt;{{cite web |url=https://www.independent.co.uk/sport/football/premier-league/alisson-turn-petr-cech-error-liverpool-arsenal-goalkeeper-scout-transfer-a8522756.html |title=After Alisson and Petr Cech made errors with their feet, is it time goalkeeping coaching went back to basics? |publisher=The Independent |author1=Miguel Delaney |date=4 September 2018 |accessdate=11 November 2018 }}&lt;/ref&gt; he possesses a deep kick with either foot, despite being naturally left-footed.&lt;ref&gt;{{cite web|url=http://www.goal.com/it/news/2/serie-a/2015/11/19/17489272/juventus-buffon-analizza-i-colleghi-cech-il-migliore-come|title=Juventus, Buffon analizza i colleghi: "Cech il migliore, come tecnico stimo Luis Enrique"|publisher=Goal.com|language=Italian|author=Luca Barbon|date=19 November 2015|accessdate=4 November 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://bleacherreport.com/articles/1700510-picking-an-all-left-footed-chelsea-xi-under-jose-mourinho|title=Picking an All Left-Footed Chelsea XI Under Jose Mourinho|publisher=Bleacher Report|author1=Joe Krishnan|date=11 July 2013|accessdate=4 November 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.arsenal.com/news/features/20160912/petr-cech|title=Petr Cech|publisher=Arsenal.com|author1=Max Jones|date=16 September 2016|accessdate=4 November 2017}}&lt;/ref&gt;
 ===Reception===
-Fellow goalkeeper [[Gianluigi Buffon]] named Čech as the best goalkeeper of his era, saying: "The best goalkeeper with his feet? [[Pepe Reina]]. In the air I’d say Neuer. With his hands: Casillas. The best overall I’d say is Cech.".&lt;ref&gt;{{cite web|url=http://90min.com/posts/2732836-gianluigi-buffon-names-arsenal-s-petr-cech-as-the-best-goalkeeper-of-his-era|title=Gianluigi Buffon Names Arsenal's Petr Cech as the Best Goalkeeper of his Era|publisher=90min|author=Mahmoud Jaber|date=19 November 2015|accessdate=8 February 2019}}&lt;/ref&gt; Former [[Arsenal]] manager [[Arsene Wenger]] and goalkeeper [[Jens Lehmann]] have hailed him as ''one of the greatest of all time''.&lt;ref name=''Jens's statement''&gt;{{cite web|url=http://www.squawka.com/en/news/jens-lehmann-petr-cechs-presence-makes-him-one-of-the-best-goalkeepers-ever/960864#J3IEpyBgyjfdLdr1.97|title=Arsenal’s Petr Cech’s is one of the best goalkeepers ever – Jens Lehmann|publisher=Squawka|date=18 June 2017|accessdate=12 February 2019}}&lt;/ref&gt; Cech currently holds two [[Guinness World Records]] for the most clean sheets in [[English Premier League]] history and [[Golden Gloves]] with two different clubs in Premier League.&lt;ref name="Guineas"&gt;{{cite web|URL=https://www.squawka.com/en/news/arsenal-goalkeeper-petr-cech-enters-2017-guinness-book-of-world-records/796063%3famp-on|title=Arsenal goalkeeper Petr Cech enters 2017 Guinness Book of World Records|publisher=Squawka|
+Fellow goalkeeper [[Gianluigi Buffon]] named Čech as the best goalkeeper of his era, saying: "The best goalkeeper with his feet? [[Pepe Reina]]. In the air I’d say Neuer. With his hands: Casillas. The best overall I’d say is Cech.".&lt;ref&gt;{{cite web|url=http://90min.com/posts/2732836-gianluigi-buffon-names-arsenal-s-petr-cech-as-the-best-goalkeeper-of-his-era|title=Gianluigi Buffon Names Arsenal's Petr Cech as the Best Goalkeeper of his Era|publisher=90min|author=Mahmoud Jaber|date=19 November 2015|accessdate=8 February 2019}}&lt;/ref&gt; Former [[Arsenal]] manager [[Arsene Wenger]] and goalkeeper [[Jens Lehmann]] have hailed him as ''one of the greatest of all time''.&lt;ref name=''Jens's statement''&gt;{{cite web|url=http://www.squawka.com/en/news/jens-lehmann-petr-cechs-presence-makes-him-one-of-the-best-goalkeepers-ever/960864#J3IEpyBgyjfdLdr1.97|title=Arsenal’s Petr Cech’s is one of the best goalkeepers ever – Jens Lehmann|publisher=Squawka|date=18 June 2017|accessdate=12 February 2019}}&lt;/ref&gt; Cech currently holds two [[Guinness World Records]] for the most clean sheets in [[English Premier League]] history and [[Premier League Golden Glove]] with two different clubs in Premier League.&lt;ref name="Guineas"&gt;{{cite web|URL=https://www.squawka.com/en/news/arsenal-goalkeeper-petr-cech-enters-2017-guinness-book-of-world-records/796063%3famp-on|title=Arsenal goalkeeper Petr Cech enters 2017 Guinness Book of World Records|publisher=Squawka|
 author=Henry, Natasha|date=n.d.|accessdate=26 February 2019}}&lt;/ref&gt;
 
 ==Personal life==
@@ -284,7 +285,7 @@ Along with his native language Czech, Čech also speaks English, French, German 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 14 February 2019}}&lt;ref&gt;{{cite web | url = http://www.soccerbase.com/players_details.sd?playerid=26534 | title = Peter Cech Career Stats | work = Soccerbase | accessdate = 29 June 2015 }}&lt;/ref&gt;&lt;ref name=NFT&gt;{{NFT player |id=1844 |name=Čech, Petr |accessdate=13 June 2016}}&lt;/ref&gt;
+{{updated|match played 14 March 2019}}&lt;ref&gt;{{cite web | url = http://www.soccerbase.com/players_details.sd?playerid=26534 | title = Peter Cech Career Stats | work = Soccerbase | accessdate = 29 June 2015 }}&lt;/ref&gt;&lt;ref name=NFT&gt;{{NFT player |id=1844 |name=Čech, Petr |accessdate=13 June 2016}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -394,13 +395,13 @@ Along with his native language Czech, Čech also speaks English, French, German 
 |-
 |[[2018–19 Arsenal F.C. season|2018–19]]
 |Premier League
-||7||0||2||0||2||0||3||0||0||0||14||0
+||7||0||2||0||2||0||6||0||0||0||17||0
 |-
 !colspan="2"|Total
-!110!!0!!5!!0!!3!!0!!11!!0!!2!!0!!131!!0
+!110!!0!!5!!0!!3!!0!!14!!0!!2!!0!!134!!0
 |-
 ! colspan=3 | Career total
-!567||0||49||0||21||0||126||0||10||0||773||0
+!567||0||49||0||21||0||129||0||10||0||776||0
 |}
 
 {{notelist-lr}}
@@ -561,7 +562,7 @@ Along with his native language Czech, Čech also speaks English, French, German 
 [[Category:Triplets]]
 [[Category:UEFA Champions League winning players]]
 [[Category:UEFA Europa League winning players]]</text>
-      <sha1>9yp8r1yh09a37dpmapoun6fjuqoxfyj</sha1>
+      <sha1>lrnqn8k48u5fqtxmleoc1iryaefc0y8</sha1>
     </revision>
   </page>
   <page>
@@ -569,13 +570,15 @@ Along with his native language Czech, Čech also speaks English, French, German 
     <ns>0</ns>
     <id>40636256</id>
     <revision>
-      <id>885648682</id>
-      <parentid>885423568</parentid>
-      <timestamp>2019-03-01T11:18:14Z</timestamp>
+      <id>888797886</id>
+      <parentid>888797864</parentid>
+      <timestamp>2019-03-21T14:18:38Z</timestamp>
       <contributor>
-        <ip>183.221.104.90</ip>
+        <username>Zppix</username>
+        <id>22665218</id>
       </contributor>
-      <comment>/* Club career */</comment>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/96.92.41.166|96.92.41.166]] ([[User talk:96.92.41.166|talk]]) ([[WP:HG|HG]]) (3.4.6)</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="22769">{{Spanish name|Bellerín|Moruno}}
@@ -773,18 +776,17 @@ Bellerín became a [[vegan]] in 2017, which he credits for improving his health.
     <ns>0</ns>
     <id>36589771</id>
     <revision>
-      <id>886103247</id>
-      <parentid>885891264</parentid>
-      <timestamp>2019-03-04T08:40:47Z</timestamp>
+      <id>886376718</id>
+      <parentid>886103247</parentid>
+      <timestamp>2019-03-05T22:21:19Z</timestamp>
       <contributor>
-        <username>Cydebot</username>
-        <id>1215485</id>
+        <username>Ben5218</username>
+        <id>21890162</id>
       </contributor>
-      <minor/>
-      <comment>Robot - Speedily moving category Egyptian Premier League footballers to [[:Category:Egyptian Premier League players]] per [[WP:CFDS|CFDS]].</comment>
+      <comment>Updated links for Al Mokawloon Al Arab</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="26124">{{Use dmy dates|date=June 2018}}
+      <text xml:space="preserve" bytes="26233">{{Use dmy dates|date=June 2018}}
 {{Infobox football biography
 | name = Mohamed Elneny
 | image = Rus-Egy (4).jpg
@@ -800,9 +802,9 @@ Bellerín became a [[vegan]] in 2017, which he credits for improving his health.
 | youthyears1 = 1997–2008
 | youthclubs1 = [[Al Ahly SC|Al Ahly]]
 | youthyears2 = 2008–2010
-| youthclubs2 = [[El Mokawloon SC|El Mokawloon]]
+| youthclubs2 = [[Al Mokawloon Al Arab SC|Al Mokawloon Al Arab]]
 | years1 = 2010–2013
-| clubs1 = [[El Mokawloon SC|El Mokawloon]]
+| clubs1 = [[Al Mokawloon Al Arab SC|Al Mokawloon Al Arab]]
 | caps1 = 35
 | goals1 = 2
 | years2 = 2013
@@ -834,13 +836,13 @@ Bellerín became a [[vegan]] in 2017, which he credits for improving his health.
 }}
 '''Mohamed Naser Elsayed Elneny''' ({{Lang-arz|محمد ناصر السيد الننى}} {{transl|arz|ALA|maḥamad nāṣṣer e-sayyed}} {{transl|arz|el nenny}},&amp;nbsp;{{IPA-arz|mæˈħæm.mæd ˈnɑːseɾ esˈsæj.jed enˈnen.ni|pron}}; born 11 July 1992)&lt;ref&gt;{{Cite web |url=http://www.tahrirnews.com/posts/360941/%D9%82%D8%B5%D8%A9+%D8%B5%D8%B9%D9%88%D8%AF+%C2%AB%D8%A7%D9%84%D9%86%D9%86%D9%8A%C2%BB..+%D9%85%D9%86+%D8%B4%D9%88%D8%A7%D8%B1%D8%B9+%D8%A7%D9%84%D9%85%D8%AD%D9%84%D8%A9+%D8%A5%D9%84%D9%89+%D8%B9%D8%A7%D8%B5%D9%85%D8%A9+%D8%A7%D9%84%D8%B6%D8%A8%D8%A7%D8%A8 |title=قصة صعود "النني".. من شوارع المحلة إلى عاصمة الضباب  للمزيد |last=Hamdallah |first=Abu Bakr |date=30 December 2016 |website= |publisher=Tahrir News|access-date=}}&lt;/ref&gt; simply known as '''Mohamed Elneny''',&lt;ref&gt;{{cite web |url=https://www.facebook.com/ElNennyM |title=El-Neny's official facebook page}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.arsenal.com/first-team/players/mohamed-elneny |title=Mohamed Elneny |last= |first= |date= |website=Arsenal |publisher=|access-date=}}&lt;/ref&gt; is an Egyptian professional [[Association football|footballer]] who plays as a [[midfielder]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[Egypt national football team|Egypt national team]].
 
-He began his senior career at [[El Mokawloon SC|El Mokawloon]] and moved to [[FC Basel|Basel]] in January 2013. He won eight honours at Basel, including the [[Swiss Super League]] in each of his four seasons. In January 2016, he was transferred to Arsenal.
+He began his senior career at [[Al Mokawloon Al Arab SC|Al Mokawloon Al Arab]] and moved to [[FC Basel|Basel]] in January 2013. He won eight honours at Basel, including the [[Swiss Super League]] in each of his four seasons. In January 2016, he was transferred to Arsenal.
 
 Elneny competed at the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Summer Olympics]] for the [[Egypt national under-23 football team|Egyptian Under-23 team]].
 
 ==Club career==
-===El Mokawloon===
-Elneny played his youth football with [[Al Ahly SC|Al Ahly]]. In 2008, he transferred to [[El Mokawloon SC]] during the [[2007–08 Egyptian Premier League|2010–2011 season]]. Elneny advanced and became a regular in the starting team. Following the [[Port Said Stadium disaster]], early February 2012, the Egyptian Premier League was stopped and all subsequent matches of the [[2011–12 Egyptian Premier League]] were postponed. On 10 March 2012, the [[Egyptian Football Association]] announced their decision to cancel the remainder of the season.&lt;ref name=BBC&gt;{{cite news |title=Egypt's Premier League cancelled |work=BBC Sport |publisher=British Broadcasting Corporation |date=10 March 2012 |url=https://www.bbc.co.uk/sport/0/football/17324997 |accessdate=11 March 2012}}&lt;/ref&gt;
+===Al Mokawloon Al Arab===
+Elneny played his youth football with [[Al Ahly SC|Al Ahly]]. In 2008, he transferred to [[Al Mokawloon Al Arab SC|Al Mokawloon Al Arab]] during the [[2007–08 Egyptian Premier League|2010–2011 season]]. Elneny advanced and became a regular in the starting team. Following the [[Port Said Stadium disaster]], early February 2012, the Egyptian Premier League was stopped and all subsequent matches of the [[2011–12 Egyptian Premier League]] were postponed. On 10 March 2012, the [[Egyptian Football Association]] announced their decision to cancel the remainder of the season.&lt;ref name=BBC&gt;{{cite news |title=Egypt's Premier League cancelled |work=BBC Sport |publisher=British Broadcasting Corporation |date=10 March 2012 |url=https://www.bbc.co.uk/sport/0/football/17324997 |accessdate=11 March 2012}}&lt;/ref&gt;
 
 ===Basel===
 [[File:Mohamed Elneny.jpg|thumb|left|Elneny in 2013]]
@@ -885,7 +887,7 @@ He was in the Egypt National First Team squad in the Africa Cup of Nations 2017 
 |-
 !Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
 |-
-|rowspan=3|[[El Mokawloon SC|El Mokawloon]]
+|rowspan=3|[[Al Mokawloon Al Arab SC|Al Mokawloon Al Arab]]
 |[[2010–11 Egyptian Premier League|2010–11]]
 |[[Egyptian Premier League]]
 |21||2||0||0||colspan="2"|—||0||0||21||2
@@ -1034,7 +1036,7 @@ He was in the Egypt National First Team squad in the Africa Cup of Nations 2017 
 [[Category:Egyptian Premier League players]]
 [[Category:Swiss Super League players]]
 [[Category:Premier League players]]
-[[Category:El Mokawloon SC players]]
+[[Category:Al Mokawloon Al Arab SC players]]
 [[Category:FC Basel players]]
 [[Category:Arsenal F.C. players]]
 [[Category:Expatriate footballers in Switzerland]]
@@ -1045,7 +1047,7 @@ He was in the Egypt National First Team squad in the Africa Cup of Nations 2017 
 [[Category:Footballers at the 2012 Summer Olympics]]
 [[Category:2017 Africa Cup of Nations players]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>ng14ujxx0ifn9c0iavw7ooqg1jjyra6</sha1>
+      <sha1>7hdd25lmpxo0ysp6gpxqh5v1q3b18qx</sha1>
     </revision>
   </page>
   <page>
@@ -1053,18 +1055,17 @@ He was in the Egypt National First Team squad in the Africa Cup of Nations 2017 
     <ns>0</ns>
     <id>6389661</id>
     <revision>
-      <id>885921901</id>
-      <parentid>885921845</parentid>
-      <timestamp>2019-03-03T05:11:36Z</timestamp>
+      <id>888885797</id>
+      <parentid>888877981</parentid>
+      <timestamp>2019-03-22T00:43:01Z</timestamp>
       <contributor>
-        <username>RainFall</username>
-        <id>28673233</id>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <minor/>
-      <comment>Reverted edits by [[Special:Contributions/47.13.118.176|47.13.118.176]] ([[User talk:47.13.118.176|talk]]) ([[WP:HG|HG]]) (3.4.6)</comment>
+      <comment>Reverted 2 edits by [[Special:Contributions/81.110.17.50|81.110.17.50]] ([[User talk:81.110.17.50|talk]]): League only ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="41140">{{Use dmy dates|date=July 2018}}
+      <text xml:space="preserve" bytes="41183">{{Use dmy dates|date=July 2018}}
 {{Infobox football biography
 | name = Sokratis Papastathopoulos
 | image = 1 Sokratis Papastathopoulos.jpg
@@ -1113,7 +1114,7 @@ He was in the Egypt National First Team squad in the Africa Cup of Nations 2017 
 | goals7 = 7
 | years8 = 2018–
 | clubs8 = [[Arsenal F.C.|Arsenal]]
-| caps8 = 19
+| caps8 = 20
 | goals8 = 0
 | nationalyears1 = 2003–2005
 | nationalteam1 = [[Greece national under-17 football team|Greece U17]]
@@ -1134,9 +1135,10 @@ He was in the Egypt National First Team squad in the Africa Cup of Nations 2017 
 | medaltemplates = 
 {{Medal|Team|{{fb|Greece}}}}
 {{Medal|RU|[[UEFA European Under-19 Championship|European U19 Championship]]|[[2007 UEFA European Under-19 Football Championship|2007]]}}
-| club-update = 21:12, 2 March 2019 (UTC)
+| club-update = 21:12, 10 March 2019 (UTC)
 | nationalteam-update = 08:18, 23 December 2018 (UTC)
 }}
+
 '''Sokratis Papastathopoulos''' ({{lang-el|Σωκράτης Παπασταθόπουλος}}, {{IPA-el|soˈkratis papastaˈθopulos|pron}}; born 9 June 1988), commonly known by the singular name '''Sokratis''',&lt;ref&gt;{{cite news |title=Sokratis o Papastathopoulos? Questo è il dilemma |url=http://www.milannews.it/?action=read&amp;idnotizia=31205 |first=Francesco |last=Somma |website=milannews.it |date=3 August 2010 |accessdate=12 August 2010 |language=Italian}}&lt;/ref&gt; is a Greek professional [[Association football|footballer]] who plays as a [[centre back]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[Greece national football team|Greece national team]].
 
 ==Club career==
@@ -1205,7 +1207,7 @@ In June 2014, Papastathopoulos was named to Greece's squad for the [[2014 FIFA W
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}{{citation needed|date=December 2018}}
+{{updated|match played 10 March 2019}}{{citation needed|date=December 2018}}
 
 {| class=wikitable style=text-align:center
 |-
@@ -1224,7 +1226,7 @@ In June 2014, Papastathopoulos was named to Greece's squad for the [[2014 FIFA W
 |0||0||2||1||0||0||colspan="2"|–||2||1
 |-
 |[[Niki Volou FC|Niki Volou]] (loan)
-|[[2005–06 Beta Ethniki|2006]]
+|[[2005–06 Beta Ethniki|2005–06]]
 |11||0||0 &lt;!-- Niki Volou played only two cup games during the time Papastathopoulos was with them, coindidentally against AEK, but he was not fielded; see match reports at http://www.aek.com/history/showMatch.php?match_ID=301&amp;details_ID=290 and http://www.aek.com/history/showMatch.php?match_ID=315&amp;details_ID=304 --&gt;||0||colspan="2"|–||colspan="2"|–||11||0
 |-
 |rowspan="3"|[[AEK Athens F.C.|AEK Athens]]
@@ -1284,10 +1286,10 @@ In June 2014, Papastathopoulos was named to Greece's squad for the [[2014 FIFA W
 |-
 |[[Arsenal F.C.|Arsenal]]
 |[[2018–19 Premier League|2018–19]]
-|19||0||2||0||6||2||1||0||28||2
+|20||0||2||0||7||2||1||0||30||2
 |-
 !colspan=2|Career total
-!313||12||35||1||65||5||9||0||422||18
+!314||12||35||1||66||5||9||0||424||18
 |}
 &lt;sup&gt;1&lt;/sup&gt;&lt;small&gt;Continental competitions include the [[UEFA Champions League]] and the [[UEFA Europa League|UEFA Cup]].&lt;/small&gt;&lt;br /&gt;
 &lt;sup&gt;2&lt;/sup&gt;&lt;small&gt;Other tournaments include [[DFL-Supercup]], [[EFL Cup]]&lt;/small&gt;
@@ -1353,12 +1355,12 @@ In June 2014, Papastathopoulos was named to Greece's squad for the [[2014 FIFA W
 {{reflist}}
 
 ==External links==
-{{commons category}}
+{{Commons category}}
 *{{FIFA player|299090}}
 *{{UEFA player|73874}}
 *[https://www.premierleague.com/players/5093/Sokratis/overview  Overview] – [[Premier League]]
-*[https://web.archive.org/web/20180715011824/https://www.bundesliga.com/en/clubs/borussia-dortmund/kader/ Bundesliga profile]
-*{{ESPN FC|86377/sokratis-papastrathopoulos}}
+*{{Webarchive |url=https://web.archive.org/web/20180715011824/https://www.bundesliga.com/en/clubs/borussia-dortmund/kader/ |title=Bundesliga profile }}
+*{{ESPN FC|86377&lt;!-- /sokratis-papastrathopoulos --&gt;}}
 
 {{Arsenal F.C. squad}}
 {{Super League Greece young footballer of the year}}
@@ -1402,7 +1404,7 @@ In June 2014, Papastathopoulos was named to Greece's squad for the [[2014 FIFA W
 [[Category:Greek expatriate sportspeople in England]]
 [[Category:Greek expatriate sportspeople in Germany]]
 [[Category:Greek expatriate sportspeople in Italy]]</text>
-      <sha1>1liryy69tk7odk1l65zyhjpmx50ru02</sha1>
+      <sha1>74exi6koluncmjlugdgbjn352xq3qqj</sha1>
     </revision>
   </page>
   <page>
@@ -1410,15 +1412,16 @@ In June 2014, Papastathopoulos was named to Greece's squad for the [[2014 FIFA W
     <ns>0</ns>
     <id>12309698</id>
     <revision>
-      <id>886023291</id>
-      <parentid>885425602</parentid>
-      <timestamp>2019-03-03T20:48:08Z</timestamp>
+      <id>888492777</id>
+      <parentid>888492595</parentid>
+      <timestamp>2019-03-19T14:47:00Z</timestamp>
       <contributor>
-        <ip>82.11.161.249</ip>
+        <ip>77.108.140.14</ip>
       </contributor>
+      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="41804">{{Use dmy dates|date=October 2012}}
+      <text xml:space="preserve" bytes="41801">{{Use dmy dates|date=October 2012}}
 {{Infobox football biography
 | name = Laurent Koscielny
 | image = Koscielny France.jpg
@@ -1455,7 +1458,7 @@ In June 2014, Papastathopoulos was named to Greece's squad for the [[2014 FIFA W
 | goals3 = 3
 | years4 = 2010–
 | clubs4 = [[Arsenal F.C.|Arsenal]]
-| caps4 = 249
+| caps4 = 250
 | goals4 = 22
 | nationalyears1 = 2011–2018
 | nationalteam1 = [[France national football team|France]]
@@ -1465,7 +1468,7 @@ In June 2014, Papastathopoulos was named to Greece's squad for the [[2014 FIFA W
 {{MedalSport|Men's [[Association football|Football]]}}
 {{MedalCompetition|[[UEFA European Championship]]}}
 {{MedalSilver|[[UEFA Euro 2016|France 2016]]|[[France national football team|Team]]}}
-| club-update = 2 March 2019
+| club-update = 10 March 2019
 | nationalteam-update = 27 March 2018
 | youthyears6 = 2003–2004
 | youthclubs6 = [[En Avant Guingamp|Guingamp]]
@@ -1571,7 +1574,7 @@ His grandfather and his great-grandfather were Polish miners who worked in the N
 [[File:Laurent Koscielny v Sunderland - 22 Feb 2014 (cropped).jpg|thumb|right|Koscielny celebrating a goal against [[Sunderland A.F.C.|Sunderland]] in a Premier League match on 22 February 2014.]]
 
 ===Club===
-{{updated|match played 27 February  2019}}&lt;ref&gt;{{cite web |url=http://www.arsenal.com/first-team/players/laurent-koscielny |title=Laurent Koscielny &amp;#124; Players &amp;#124; First Team &amp;#124; Teams |website=Arsenal.com |date=2010-08-15 |accessdate=2016-09-24}}&lt;/ref&gt;
+{{updated|match played 14 March 2019}}&lt;ref&gt;{{cite web |url=http://www.arsenal.com/first-team/players/laurent-koscielny |title=Laurent Koscielny &amp;#124; Players &amp;#124; First Team &amp;#124; Teams |website=Arsenal.com |date=2010-08-15 |accessdate=2016-09-24}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -1646,13 +1649,13 @@ His grandfather and his great-grandfather were Polish miners who worked in the N
 |25||2||2||0||6||0||33||2
 |-
 |[[2018-19 Arsenal F.C. season|2018–19]]
-|10||3||2||0||3||0||15||3
+|12||3||2||0||5||0||19||3
 |-
 !colspan="2"|Total
-!248!!22!!37!!3!!54!!2!!339!!27
+!250!!22!!37!!3!!56!!2!!343!!27
 |-
 !colspan="3"|Career total
-!391!!31!!59!!6!!54!!2!!504!!39
+!393!!31!!59!!6!!56!!2!!508!!39
 |}
 
 {{reflist|group=lower-alpha}}
@@ -1759,7 +1762,7 @@ His grandfather and his great-grandfather were Polish miners who worked in the N
 [[Category:Expatriate footballers in England]]
 [[Category:French expatriate sportspeople in England]]
 [[Category:French-Polish footballers]]</text>
-      <sha1>jh8dpokzf70iml8c9hdrz62d9y4dtac</sha1>
+      <sha1>bi1q4y7eirn7zqm67aqdc6gyjsdpteq</sha1>
     </revision>
   </page>
   <page>
@@ -1767,15 +1770,17 @@ His grandfather and his great-grandfather were Polish miners who worked in the N
     <ns>0</ns>
     <id>11290337</id>
     <revision>
-      <id>886023576</id>
-      <parentid>885424858</parentid>
-      <timestamp>2019-03-03T20:50:00Z</timestamp>
+      <id>888859060</id>
+      <parentid>888857206</parentid>
+      <timestamp>2019-03-21T21:26:24Z</timestamp>
       <contributor>
-        <ip>82.11.161.249</ip>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/86.20.199.2|86.20.199.2]] ([[User talk:86.20.199.2|talk]]): Unsourced ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="84673">{{Infobox football biography
+      <text xml:space="preserve" bytes="84671">{{Infobox football biography
 | name = Henrikh Mkhitaryan
 | image = Henrikh Mkhitaryan 2017.jpg
 | image_size = 200
@@ -1943,7 +1948,7 @@ Mkhitaryan has visited [[Republic of Artsakh|Artsakh]] three times on charity vi
 ==Career statistics==
 
 ===Club===
-{{updated|match played 27 February 2019|&lt;ref&gt;{{cite news|url=https://int.soccerway.com/players/henrikh-mkhitaryan/39797/|title=Armenia – H. Mkhitaryan – Profile with news, career statistics and history|date=13 September 2015|accessdate=23 September 2015|work=Soccerway}}&lt;/ref&gt;}}
+{{updated|match played 14 March 2019|&lt;ref&gt;{{cite news|url=https://int.soccerway.com/players/henrikh-mkhitaryan/39797/|title=Armenia – H. Mkhitaryan – Profile with news, career statistics and history|date=13 September 2015|accessdate=23 September 2015|work=Soccerway}}&lt;/ref&gt;}}
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -2042,13 +2047,13 @@ Mkhitaryan has visited [[Republic of Artsakh|Artsakh]] three times on charity vi
 |-
 |[[2018–19 Arsenal F.C. season|2018–19]]
 |Premier League
-|17||6||0||0||3||0||3&lt;ref group=lower-alpha name="UEL"/&gt;||0||colspan="2"|—||23||6
+|18||6||0||0||3||0||7&lt;ref group=lower-alpha name="UEL"/&gt;||0||colspan="2"|—||28||6
 |-
 !colspan=2|Total
-!28!!8!!0!!0!!3!!0!!9!!1!!colspan="2"|—!!40!!9
+!29!!8!!0!!0!!3!!0!!13!!1!!colspan="2"|—!!44!!9
 |-
 !colspan="3"|Career total
-!333!!116!!45!!18!!6!!0!!89!!23!!5!!1!!478!!156
+!334!!116!!45!!18!!6!!0!!93!!23!!5!!1!!483!!156
 |}
 
 {{reflist|group=lower-alpha}}
@@ -2247,7 +2252,7 @@ Mkhitaryan has visited [[Republic of Artsakh|Artsakh]] three times on charity vi
 [[Category:Armenian expatriate sportspeople in the United Kingdom]]
 [[Category:Premier League players]]
 [[Category:UEFA Europa League winning players]]</text>
-      <sha1>bhv32tjng70m2glgweltnhoe116lhgr</sha1>
+      <sha1>alb1ys1ujv874og6hll87d33d1ox65a</sha1>
     </revision>
   </page>
   <page>
@@ -2723,15 +2728,17 @@ Ramsey married childhood sweetheart Colleen Rowlands at [[Caldicot Castle]] in [
     <ns>0</ns>
     <id>27243732</id>
     <revision>
-      <id>886024503</id>
-      <parentid>886023117</parentid>
-      <timestamp>2019-03-03T20:56:36Z</timestamp>
+      <id>888777389</id>
+      <parentid>888253898</parentid>
+      <timestamp>2019-03-21T10:46:04Z</timestamp>
       <contributor>
-        <ip>82.11.161.249</ip>
+        <username>Skyblueshaun</username>
+        <id>13169830</id>
       </contributor>
+      <comment>/* Career statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="49472">{{EngvarB|date=July 2013}}
+      <text xml:space="preserve" bytes="49645">{{EngvarB|date=July 2013}}
 {{Use dmy dates|date=November 2017}}
 {{Infobox football biography
 | name = Alexandre Lacazette
@@ -2759,7 +2766,7 @@ Ramsey married childhood sweetheart Colleen Rowlands at [[Caldicot Castle]] in [
 | goals2 = 100
 | years3 = 2017–
 | clubs3 = [[Arsenal F.C.|Arsenal]]
-| caps3 = 60
+| caps3 = 61
 | goals3 = 26
 | nationalyears1 = 2006–2007
 | nationalteam1 = [[France national under-16 football team|France U16]]
@@ -2789,7 +2796,7 @@ Ramsey married childhood sweetheart Colleen Rowlands at [[Caldicot Castle]] in [
 | nationalteam7 = [[France national football team|France]]
 | nationalcaps7 = 16
 | nationalgoals7 = 3
-| club-update = 22:05, 2 March 2019 (UTC)
+| club-update = 22:05, 10 March 2019 (UTC)
 | nationalteam-update = 18:35, 6 May 2018 (UTC)
 }}
 '''Alexandre Lacazette''' ({{IPA-fr|alɛksɑ̃dʁ lakazɛt}}; born 28 May 1991) is a French professional [[association football|footballer]] who plays as a [[Forward (association football)|forward]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[France national football team|France national team]].
@@ -2869,7 +2876,7 @@ Lacazette previously played as a [[Midfielder#Winger|winger]] for Lyon, before b
 
 ==Career statistics==
 ===Club===
-{{Updated|match played 27 February 2019}}&lt;ref&gt;{{soccerway|alexandre-lacazette/87653|accessdate=6 May 2018}}&lt;/ref&gt;
+{{Updated|match played 14 March 2019}}&lt;ref&gt;{{soccerway|alexandre-lacazette/87653|accessdate=6 May 2018}}&lt;/ref&gt;
 
 {| class=wikitable style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -2883,7 +2890,7 @@ Lacazette previously played as a [[Midfielder#Winger|winger]] for Lyon, before b
 !colspan=2|Other
 !colspan=2|Total
 |-
-!width=120|Division
+!width=205|Division
 !width=40|Apps!!width=40|Goals
 !width=45|Apps!!width=45|Goals
 !width=45|Apps!!width=45|Goals
@@ -2920,19 +2927,24 @@ Lacazette previously played as a [[Midfielder#Winger|winger]] for Lyon, before b
 !colspan=2|Total
 !203!!100!!11!!7!!11!!7!!47!!15!!3!!0!!275!!129
 |-
+|[[Olympique Lyonnais Reserves and Academy|Lyon II]]
+|[[2010–11 Championnat de France Amateur|2010–11]]
+|[[Championnat de France Amateur]]
+|12||6||colspan=8|—||12||6
+|-
 |rowspan=3|[[Arsenal F.C.|Arsenal]]
 |[[2017–18 Arsenal F.C. season|2017–18]]
 |rowspan=2|[[Premier League]]
 |32||14||0||0||2||0||4{{efn|Appearances in the [[UEFA Europa League]]|name=uel}}||3||1{{efn|Appearance in the [[FA Community Shield]]|name=facs}}||0||39||17
 |-
 |[[2018–19 Arsenal F.C. season|2018–19]]
-|27||12||2||0||2||1||4{{efn|Appearances in the [[UEFA Europa League]]|name=uel}}||1||colspan=2|—||35||14
+|29||12||2||0||2||1||5{{efn|Appearances in the [[UEFA Europa League]]|name=uel}}||1||colspan=2|—||38||14
 |-
 !colspan=2|Total
-!59!!26!!2!!0!!4!!1!!8!!4!!1!!0!!74!!31
+!61!!26!!2!!0!!4!!1!!9!!4!!1!!0!!77!!31
 |-
 !colspan=3|Career total
-!262!!126!!13!!7!!15!!8!!55!!19!!4!!0!!349!!160
+!276!!132!!13!!7!!15!!8!!56!!19!!4!!0!!364!!166
 |}
 
 {{notelist}}
@@ -3036,7 +3048,7 @@ Lacazette previously played as a [[Midfielder#Winger|winger]] for Lyon, before b
 [[Category:French expatriate sportspeople in England]]
 [[Category:French people of Guadeloupean descent]]
 [[Category:Black French sportspeople]]</text>
-      <sha1>76kj70b92ur1lbd88bhtzre0j03qesk</sha1>
+      <sha1>138sg2p538cujxwwd3mgvgh0c5t7bwo</sha1>
     </revision>
   </page>
   <page>
@@ -3044,17 +3056,17 @@ Lacazette previously played as a [[Midfielder#Winger|winger]] for Lyon, before b
     <ns>0</ns>
     <id>6323098</id>
     <revision>
-      <id>885602539</id>
-      <parentid>885490499</parentid>
-      <timestamp>2019-03-01T02:24:36Z</timestamp>
+      <id>887029256</id>
+      <parentid>886502637</parentid>
+      <timestamp>2019-03-10T03:54:30Z</timestamp>
       <contributor>
-        <username>Gaelan</username>
-        <id>25434004</id>
+        <username>CoolSkittle</username>
+        <id>31588585</id>
       </contributor>
-      <comment>/* Retirement controversy */ rm claim not in citation given</comment>
+      <comment>Link to section</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="137853">{{pp|small=yes}}
+      <text xml:space="preserve" bytes="137887">{{pp|small=yes}}
 {{EngvarB|date=January 2018}}
 {{Use dmy dates|date=October 2018}}
 {{Infobox football biography
@@ -3118,13 +3130,14 @@ Lacazette previously played as a [[Midfielder#Winger|winger]] for Lyon, before b
 {{MedalCompetition|[[UEFA European Under-21 Championship]]}}
 {{Medal|W|[[2009 UEFA European Under-21 Championship|2009]]|}}
 }}
+
 '''Mesut Özil''' ({{IPA-de|ˈmeːzut ˈøːzil}}, {{IPA-tr|meˈsut ˈœzil|lang}}; born 15 October 1988) is a German professional [[Association football|footballer]] who plays for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]]. He is considered to be one of the best players in the world.&lt;ref&gt;{{cite web | url=https://www.telegraph.co.uk/football/2016/11/02/ranking-the-20-best-players-in-the-premier-league-october-2016/mesut-ozil/ | title=Ranking the best players in the Premier League | work=The Daily Telegraph | date=2 November 2016 | accessdate=11 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=https://www.telegraph.co.uk/football/2017/10/13/mesut-ozil-still-one-best-players-world-says-arsene-wenger/ | title=Özil still 'one of the world's best' says Wenger | work=The Daily Telegraph | date=13 October 2017 | accessdate=11 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.goal.com/en-gb/news/ozil-is-one-of-the-best-players-in-the-world-under-fire/1l89o8e6gg6dn1bfaik226ji20 | title=Özil still 'one of the world's best' says Reus | publisher=Goal | date=25 June 2018 | accessdate=11 August 2018}}&lt;/ref&gt;
 
 Özil plays mostly as an attacking midfielder, but can also be deployed as a winger. He began his senior career as a member of his hometown club [[FC Schalke 04|Schalke 04]] in the [[Bundesliga]], departing two seasons later to join [[SV Werder Bremen|Werder Bremen]] for €5 million. He garnered break-out attention at the [[2010 FIFA World Cup]], where at age 22, Özil was instrumental in the side's campaign where they reached the semi-finals, losing to eventual champions [[Spain national football team|Spain]]. He was also nominated for the [[Golden Ball (FIFA)|Golden Ball Award]], as well as being ranked first in assists in major European and domestic competitions, with 25.&lt;ref&gt;{{cite web | url=http://www.imscouting.com/global-news-article/The-top-10-assists-leaders-in-Europe-for-201011/13447/ | title=The top 10 assists leaders in Europe for 2010⁄11 | publisher=imscouting.com | date=30 May 2011 | accessdate=13 May 2012}}&lt;/ref&gt; This garnered him a €15 million transfer to [[La Liga]] club [[Real Madrid]].
 
 At Madrid, Özil won the [[Copa del Rey]] in his first season, before registering a league high 17 assists as the Spanish side won the league title in the [[2011–12 La Liga|following season]].&lt;ref&gt;{{cite web | url=http://soccernet.espn.go.com/stats/assists/_/league/ESP.1/year/2010/spanish-primera-division?cc=5901 | title=Spanish La Liga | publisher=EXPN Soccernat | accessdate=13 May 2012}}&lt;/ref&gt; He also won the [[Supercopa de España]] in the same season, becoming renowned for his technical skills and creativity; due to his agility, finesse and versatility as an [[Midfielder#Attacking midfielder|attacking midfielder]], he has also been compared to [[Zinedine Zidane]] by former manager [[José Mourinho]].&lt;ref name=ESPN&gt;{{cite web|url=http://www.espnstar.com/football/primera-liga/news/detail/item807157/Mourinho:-Ozil-will-make-history-at-Real/|title=Mourinho: Ozil will make history at Real|publisher=ESPNSTAR.com|date=26 May 2012|accessdate=26 May 2012}}&lt;/ref&gt;
 
-Following a second-place La Liga finish to rivals [[FC Barcelona|Barcelona]] in the [[2012-13 La Liga|2012–13]] season, Özil relocated to England to join [[Premier League]] side [[Arsenal F.C.|Arsenal]] in a then club-record deal worth £42.5 million (€50 million),&lt;ref name="Arsenal-sign-1"&gt;{{cite news|url=http://www.arsenal.com/news/news-archive/german-international-ozil-joins-arsenal|title=German international Özil joins Arsenal|date=2 September 2013|accessdate=2 September 2013|publisher=Arsenal F.C.}}&lt;/ref&gt; making him the [[List of most expensive association football transfers|most expensive German player of all time]].&lt;ref name="Arsenal-sign-2"&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/23929339 |title=Mesut Özil: Arsenal sign Real Madrid midfielder for £42.4m |publisher=BBC |date=2 September 2013 | accessdate = 4 September 2013 | first = David | last = Ornstein}}&lt;/ref&gt;&lt;ref name="Arsenal-sign-3"&gt;{{cite news |url=http://www.espn.co.uk/football/sport/story/234697.html |title= Arsenal smash club record to sign Mesut Özil |date=2 September 2013 |work=The Guardian | accessdate = 4 September 2013}}&lt;/ref&gt; During his first season, Özil helped end the club's largely publicised [[History of Arsenal F.C. (1966–present)|nine-year trophy drought]], winning the [[2014 FA Cup Final|FA Cup]] in 2014. He later became victorious in two more FA Cup campaigns, while also winning the [[FA Community Shield]]. Özil would also record the second most assists (19) in a Premier League season in [[2014–15 Premier League|2014–15]], as well as being named in multiple teams of the season in England.
+Following a second-place La Liga finish to rivals [[FC Barcelona|Barcelona]] in the [[2012-13 La Liga|2012–13]] season, Özil relocated to England to join [[Premier League]] side [[Arsenal F.C.|Arsenal]] in a then club-record deal worth £42.5 million (€50 million),&lt;ref name="Arsenal-sign-1"&gt;{{cite news|url=http://www.arsenal.com/news/news-archive/german-international-ozil-joins-arsenal|title=German international Özil joins Arsenal|date=2 September 2013|accessdate=2 September 2013|publisher=Arsenal F.C.}}&lt;/ref&gt; making him the [[List of most expensive association football transfers|most expensive German player of all time]].&lt;ref name="Arsenal-sign-2"&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/23929339 |title=Mesut Özil: Arsenal sign Real Madrid midfielder for £42.4m |publisher=BBC |date=2 September 2013 | accessdate = 4 September 2013 | first = David | last = Ornstein}}&lt;/ref&gt;&lt;ref name="Arsenal-sign-3"&gt;{{cite news |url=http://www.espn.co.uk/football/sport/story/234697.html |title= Arsenal smash club record to sign Mesut Özil |date=2 September 2013 |work=The Guardian | accessdate = 4 September 2013}}&lt;/ref&gt; During his first season, Özil helped end the club's largely publicised [[History of Arsenal F.C. (1966–present)#Trophy drought (2006–13)|nine-year trophy drought]], winning the [[2014 FA Cup Final|FA Cup]] in 2014. He later became victorious in two more FA Cup campaigns, while also winning the [[FA Community Shield]]. Özil would also record the second most assists (19) in a Premier League season in [[2014–15 Premier League|2014–15]], as well as being named in multiple teams of the season in England.
 
 At international level, Özil played 92 matches for the Germany national team, scoring 23 goals, and registered 40 assists. He has also won a record five German Player of the Year awards. Özil represented his country in three [[FIFA World Cup]]s, as well as two [[UEFA European Championship]]s, and was an integral part in both the 2010 FIFA World Cup and [[UEFA Euro 2012]] team in South Africa and Ukraine, starring as the joint-highest assist provider in both competitions. Özil was also a key contributor as Germany won the [[2014 FIFA World Cup]] in Brazil, gaining several plaudits for his versatility and creativity. After the [[2018 FIFA World Cup]], Özil [[Mesut Özil#Retirement controversy|retired from international competition]], alleging discrimination and disrespect by the [[German Football Association]] (DFB) and the German media.
 
@@ -3311,54 +3324,54 @@ In 2013, Özil signed a sponsorship deal with German sportswear and equipment su
 |-
 !rowspan="2"|Club
 !rowspan="2"|Season
-!Colspan="3"|League
-!Colspan="2"|Cup&lt;ref group=lower-alpha&gt;Includes [[DFB-Pokal]], [[Copa del Rey]], and [[FA Cup]] matches.&lt;/ref&gt;
-!Colspan="2"|League Cup&lt;ref group=lower-alpha&gt;Includes [[DFB-Ligapokal]] and [[Football League Cup|League Cup]] matches.&lt;/ref&gt;
-!Colspan="2"|[[UEFA#Club|Europe]]
-!Colspan="2"|Other&lt;ref group=lower-alpha&gt;Includes [[Supercopa de España]] and [[FA Community Shield]] matches.&lt;/ref&gt;
-!Colspan="2"|Total
+!colspan="3"|League
+!colspan="2"|Cup&lt;ref group=lower-alpha&gt;Includes [[DFB-Pokal]], [[Copa del Rey]], and [[FA Cup]] matches.&lt;/ref&gt;
+!colspan="2"|League Cup&lt;ref group=lower-alpha&gt;Includes [[DFB-Ligapokal]] and [[Football League Cup|League Cup]] matches.&lt;/ref&gt;
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other&lt;ref group=lower-alpha&gt;Includes [[Supercopa de España]] and [[FA Community Shield]] matches.&lt;/ref&gt;
+!colspan="2"|Total
 !rowspan="2"|Ref
 |-
 !Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
 |-
-|rowspan="3"|[[FC Schalke 04|Schalke 04]]||[[2006–07 FC Schalke 04 season|2006–07]]||rowspan="2"|[[Bundesliga]]||19||0||1||0||2||0||1&lt;ref group=lower-alpha name=uefacup&gt;Appearances in [[UEFA Cup]]&lt;/ref&gt;||0||Colspan="2"|—||23||0
+|rowspan="3"|[[FC Schalke 04|Schalke 04]]||[[2006–07 FC Schalke 04 season|2006–07]]||rowspan="2"|[[Bundesliga]]||19||0||1||0||2||0||1&lt;ref group=lower-alpha name=uefacup&gt;Appearances in [[UEFA Cup]]&lt;/ref&gt;||0||colspan="2"|—||23||0
 |&lt;ref&gt;{{cite web |url = http://www.kicker.de/news/fussball/intligen/england/2006-07/40577/vereinsspieler_mesut-oezil.html |title = Mesut Özil |language = de |website = kicker.de |access-date = 23 September 2015}}&lt;/ref&gt;
 |-
-|[[2007–08 FC Schalke 04 season|2007–08]]||11||0||1||1||0||0||4&lt;ref group=lower-alpha name=ucl&gt;Appearances in [[UEFA Champions League]]&lt;/ref&gt;||0||Colspan="2"|—||16||1
+|[[2007–08 FC Schalke 04 season|2007–08]]||11||0||1||1||0||0||4&lt;ref group=lower-alpha name=ucl&gt;Appearances in [[UEFA Champions League]]&lt;/ref&gt;||0||colspan="2"|—||16||1
 |&lt;ref name="2007_08"&gt;{{cite web |url = http://www.kicker.de/news/fussball/intligen/england/2007-08/40577/vereinsspieler_mesut-oezil.html |title = Mesut Özil |language = de |website = kicker.de |access-date = 23 September 2015}}&lt;/ref&gt;
 |-
-!colspan="2"|Total!!30!!0!!2!!1!!2!!0!!5!!0!!Colspan="2"|—||39!!1!!—
+!colspan="2"|Total!!30!!0!!2!!1!!2!!0!!5!!0!!colspan="2"|—||39!!1!!—
 |-
-|rowspan="5"|[[SV Werder Bremen|Werder Bremen]]||[[2007–08 Bundesliga|2007–08]]||rowspan="4"|Bundesliga||12||1||0||0||0||0||2&lt;ref group=lower-alpha name=uefacup/&gt;||0||Colspan="2"|—||14||1
+|rowspan="5"|[[SV Werder Bremen|Werder Bremen]]||[[2007–08 Bundesliga|2007–08]]||rowspan="4"|Bundesliga||12||1||0||0||0||0||2&lt;ref group=lower-alpha name=uefacup/&gt;||0||colspan="2"|—||14||1
 |&lt;ref name="2007_08" /&gt;
 |-
-|[[2008–09 SV Werder Bremen season|2008–09]]||28||3||5||2||Colspan="2"|—||14&lt;ref group=lower-alpha name=ucl/&gt;&lt;ref group=lower-alpha name=uefacup/&gt;||0||Colspan="2"|—||47||5
+|[[2008–09 SV Werder Bremen season|2008–09]]||28||3||5||2||colspan="2"|—||14&lt;ref group=lower-alpha name=ucl/&gt;&lt;ref group=lower-alpha name=uefacup/&gt;||0||colspan="2"|—||47||5
 |&lt;ref&gt;{{cite web |url = http://www.kicker.de/news/fussball/intligen/england/2008-09/40577/vereinsspieler_mesut-oezil.html |title = Mesut Özil |language = de |website = kicker.de |access-date = 23 September 2015}}&lt;/ref&gt;
 |-
-|[[2009–10 SV Werder Bremen season|2009–10]]||31||9||5||0||Colspan="2"|—||10&lt;ref group=lower-alpha name=europa&gt;Appearances in [[UEFA Europa League]]&lt;/ref&gt;||2||Colspan="2"|—||46||11
+|[[2009–10 SV Werder Bremen season|2009–10]]||31||9||5||0||colspan="2"|—||10&lt;ref group=lower-alpha name=europa&gt;Appearances in [[UEFA Europa League]]&lt;/ref&gt;||2||colspan="2"|—||46||11
 |&lt;ref&gt;{{cite web |url = http://www.kicker.de/news/fussball/intligen/england/2009-10/40577/vereinsspieler_mesut-oezil.html |title = Mesut Özil |language = de |website = kicker.de |access-date = 23 September 2015}}&lt;/ref&gt;
 |-
 |[[2010–11 SV Werder Bremen season|2010–11]]
-|0||0||1||0||Colspan="2"|—||0||0||Colspan="2"|—||1||0
+|0||0||1||0||colspan="2"|—||0||0||colspan="2"|—||1||0
 |&lt;ref name="auto1"&gt;{{cite web |url = http://www.kicker.de/news/fussball/intligen/england/2010-11/40577/vereinsspieler_mesut-oezil.html |title = Mesut Özil |language = de |website = kicker.de |access-date = 23 September 2015}}&lt;/ref&gt;
 |-
-!colspan="2"|Total!!71!!13!!11!!2!!0!!0!!26!!2!!Colspan="2" |—!!108!!17!!—
+!colspan="2"|Total!!71!!13!!11!!2!!0!!0!!26!!2!!colspan="2" |—!!108!!17!!—
 |-
-|rowspan="5"|[[Real Madrid C.F.|Real Madrid]]||[[2010–11 Real Madrid C.F. season|2010–11]]||rowspan="4"|[[La Liga]]||36||6||6||3||Colspan="2"|—||11&lt;ref group=lower-alpha name=ucl/&gt;||1||Colspan="2"|—||53||10
+|rowspan="5"|[[Real Madrid C.F.|Real Madrid]]||[[2010–11 Real Madrid C.F. season|2010–11]]||rowspan="4"|[[La Liga]]||36||6||6||3||colspan="2"|—||11&lt;ref group=lower-alpha name=ucl/&gt;||1||colspan="2"|—||53||10
 |&lt;ref name="auto1"/&gt;
 |-
-|[[2011–12 Real Madrid C.F. season|2011–12]]||35||4||5||0||Colspan="2"|—||10&lt;ref group=lower-alpha name=ucl/&gt;||2||2||1||52||7
+|[[2011–12 Real Madrid C.F. season|2011–12]]||35||4||5||0||colspan="2"|—||10&lt;ref group=lower-alpha name=ucl/&gt;||2||2||1||52||7
 |&lt;ref name="Soccerway profile"&gt;{{cite web |title=M. Özil |url=https://int.soccerway.com/players/mesut-ozil/1986/ |website=Soccerway |publisher=Perform Group |accessdate=23 November 2018}}&lt;/ref&gt;
 |-
-|[[2012–13 Real Madrid C.F. season|2012–13]]||32||9||8||0||Colspan="2"|—||10&lt;ref group=lower-alpha name=ucl/&gt;||1||2||0||52||10
+|[[2012–13 Real Madrid C.F. season|2012–13]]||32||9||8||0||colspan="2"|—||10&lt;ref group=lower-alpha name=ucl/&gt;||1||2||0||52||10
 |&lt;ref name="Soccerway profile"/&gt;
 |-
-|[[2013–14 Real Madrid C.F. season|2013–14]]||2||0||0||0||Colspan="2"|—||0||0||Colspan="2"|—||2||0
+|[[2013–14 Real Madrid C.F. season|2013–14]]||2||0||0||0||colspan="2"|—||0||0||colspan="2"|—||2||0
 |&lt;ref name="Soccerway profile"/&gt;
 |-
-!colspan="2"|Total!!105!!19!!19!!3!!Colspan="2"|—!!31!!4!!4!!1!!159!!27!!—
+!colspan="2"|Total!!105!!19!!19!!3!!colspan="2"|—!!31!!4!!4!!1!!159!!27!!—
 |-
-|rowspan="7"|[[Arsenal F.C.|Arsenal]]||[[2013–14 Arsenal F.C. season|2013–14]]||rowspan="6"|[[Premier League]]||26||5||5||1||1||0||8&lt;ref group=lower-alpha name=ucl/&gt;||1||Colspan="2" |—||40||7
+|rowspan="7"|[[Arsenal F.C.|Arsenal]]||[[2013–14 Arsenal F.C. season|2013–14]]||rowspan="6"|[[Premier League]]||26||5||5||1||1||0||8&lt;ref group=lower-alpha name=ucl/&gt;||1||colspan="2" |—||40||7
 |&lt;ref name="Soccerway profile"/&gt;
 |-
 |[[2014–15 Arsenal F.C. season|2014–15]]||22||4||5||1||0||0||5&lt;ref group=lower-alpha name=ucl/&gt;||0||0||0||32||5
@@ -3367,12 +3380,12 @@ In 2013, Özil signed a sponsorship deal with German sportswear and equipment su
 |[[2015–16 Arsenal F.C. season|2015–16]]||35||6||1||0||0||0||8&lt;ref group=lower-alpha name=ucl/&gt;||2||1||0||45||8
 |&lt;ref name="Soccerway profile"/&gt;
 |-
-|[[2016–17 Arsenal F.C. season|2016–17]]||33||8||3||0||0||0||8&lt;ref group=lower-alpha name=ucl/&gt;||4||Colspan="2" |—||44||12
+|[[2016–17 Arsenal F.C. season|2016–17]]||33||8||3||0||0||0||8&lt;ref group=lower-alpha name=ucl/&gt;||4||colspan="2" |—||44||12
 |&lt;ref name="Soccerway profile"/&gt;
 |-
-|[[2017–18 Arsenal F.C. season|2017–18]]||26||4||0||0||2||0||7&lt;ref group=lower-alpha name=europa/&gt;||1||Colspan="2" |—||35||5||&lt;ref name="Soccerway profile"/&gt;
+|[[2017–18 Arsenal F.C. season|2017–18]]||26||4||0||0||2||0||7&lt;ref group=lower-alpha name=europa/&gt;||1||colspan="2" |—||35||5||&lt;ref name="Soccerway profile"/&gt;
 |-
-|[[2018–19 Arsenal F.C. season|2018–19]]||13||3||1||0||0||0||3&lt;ref group=lower-alpha name=europa/&gt;||1||Colspan="2" |—||17||4||&lt;ref name="Soccerway profile"/&gt;
+|[[2018–19 Arsenal F.C. season|2018–19]]||13||3||1||0||0||0||3&lt;ref group=lower-alpha name=europa/&gt;||1||colspan="2" |—||17||4||&lt;ref name="Soccerway profile"/&gt;
 |-
 !colspan="2"|Total!!155!!30!!15!!2!!3!!0!!39!!9!!1!!0!!213!!41!!—
 |-
@@ -3522,7 +3535,7 @@ Germany score listed first, score column indicates score after each Özil goal.
 {{reflist}}
 
 ==External links==
-{{commons category}}
+{{Commons category}}
 {{Wikiquote}}
 *{{Official website|1=http://www.mesutoezil.com}}
 *{{Soccerbase}}
@@ -3531,10 +3544,10 @@ Germany score listed first, score column indicates score after each Özil goal.
 *[http://www.premierleague.com/en-gb/players/profile.overview.html/mesut-ozil Profile at Premier League]
 *[http://www.kicker.de/news/fussball/intligen/spanien/liga-bbva/2011-12/real-madrid/40577/spieler_mesut-oezil.html Mesut Özil] at kicker.de {{de icon}}
 *{{Fussballdaten|ozilmesut}}
-*{{ESPN FC|84775/mesut-ozil}}
+*{{ESPN FC|84775&lt;!-- /mesut-ozil --&gt;}}
 *{{BDFutbol|8572}}
 *[https://www.fifa.com/worldcup/archive/southafrica2010/players/player=305036/index.html 2010 FIFA World Cup profile]
-*{{NFT player|id=29724}}
+*{{NFT player|29724}}
 *{{FIFA player|305036}}
 
 {{Arsenal F.C. squad}}
@@ -3595,7 +3608,7 @@ Germany score listed first, score column indicates score after each Özil goal.
 [[Category:German expatriate sportspeople in Spain]]
 [[Category:Footballers from North Rhine-Westphalia]]
 [[Category:People educated at the Gesamtschule Berger Feld]]</text>
-      <sha1>0h0zdkig6piccikofeuw55i8wltd4zt</sha1>
+      <sha1>3gmgoeiysmvbqy3yinemaq0llvmfoa1</sha1>
     </revision>
   </page>
   <page>
@@ -3603,17 +3616,18 @@ Germany score listed first, score column indicates score after each Özil goal.
     <ns>0</ns>
     <id>51216552</id>
     <revision>
-      <id>886135306</id>
-      <parentid>886135262</parentid>
-      <timestamp>2019-03-04T13:37:21Z</timestamp>
+      <id>888721266</id>
+      <parentid>888712782</parentid>
+      <timestamp>2019-03-20T23:33:19Z</timestamp>
       <contributor>
-        <username>TheHauntedToaster</username>
-        <id>31897766</id>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <comment>/* 2018–19 season */</comment>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/2A00:23C5:D182:7700:E180:4346:82CA:98D8|2A00:23C5:D182:7700:E180:4346:82CA:98D8]] ([[User talk:2A00:23C5:D182:7700:E180:4346:82CA:98D8|talk]]) to last revision by Nzd ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="13859">{{Redirect|Torreira|the handball player|Devora Torreira}}
+      <text xml:space="preserve" bytes="14311">{{Redirect|Torreira|the handball player|Devora Torreira}}
 {{Use dmy dates|date=June 2018}}
 {{Spanish name|Torreira|Di Pascua}}
 {{Infobox football biography
@@ -3683,7 +3697,7 @@ He became a regular for Sampdoria in the 2016–17 season, and continued showing
 On 10 July 2018, Torreira joined English club [[Arsenal F.C.|Arsenal]] for an undisclosed fee, believed to be around £26.4m.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/44764063|title=Arsenal: Lucas Torreira agrees deal &amp; Matteo Guendouzi set for medical|date=10 July 2018|publisher=BBC Sport}}&lt;/ref&gt; Torreira was given the number 11 shirt, previously worn by [[Mesut Özil]], who took the vacant number 10 following the departure of [[Jack Wilshere]].&lt;ref&gt;{{cite web|url=https://www.arsenal.com/news/lucas-torreira-join-arsenal|title=Lucas Torreira to join Arsenal|publisher=Arsenal F.C.}}&lt;/ref&gt;
 
 ====2018–19 season====
-Torreira made his Premier League debut on 12 August, coming on as a substitute on the 70th minute in a 2–0 defeat to Manchester City.&lt;ref&gt;{{Cite web | title = Arsenal 0–2 Manchester City: Raheem Sterling and Bernardo Silva give champions win | first = Emlyn | last = Begley | publisher = BBC Sport | date = 12 August 2018 | accessdate = 13 August 2018 | url = https://www.bbc.co.uk/sport/football/45073327}}&lt;/ref&gt; Torreira registered his first assist of the season, by setting up [[Alexandre Lacazette]]'s winning goal in a 3–2 win over [[Cardiff City]].&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/45312124|title=Cardiff City 2-3 Arsenal|last=Pearlman|first=Michael|date=2 September 2018|publisher=BBC Sport}}&lt;/ref&gt; Torreira made his full-debut and his [[UEFA Europa League|Europa League]] debut for Arsenal in the 4–2 win over [[FC Vorskla Poltava]] on 2 September, before being replaced in the 57th minute by [[Mattéo Guendouzi]].&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/45577861|title=Arsenal 4-2 Vorskla Poltava|last=Sutcliffe|first=Steve|date=20 September 2018|publisher=BBC Sport}}&lt;/ref&gt; Torreira's performance in Arsenal's 1–1 draw with [[Liverpool F.C.|Liverpool]] drew particularly high praise from fans and pundits alike, picking up the man-of-the-match award.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/blog/2018/nov/04/lucas-torreira-arsenal-new-grit-under-unai-emery-liverpool|title=Lucas Torreira, the Mighty Insect, embodies Arsenal’s new grit - Barney Ronay|first=Barney Ronay at the Emirates|last=Stadium|date=4 November 2018|work=The Guardian}}&lt;/ref&gt; On 2 December, Torreira scored his first Arsenal goal and picked up another man-of-the-match award against [[Tottenham Hotspur F.C.|Tottenham Hotspur]] when he latched on to a pass from [[Pierre-Emerick Aubameyang]] to slot the ball past [[Hugo Lloris]] to give Arsenal a fourth goal in a 4–2 [[North London derby]] victory. A week later, on 8 December, Torreira scored a late 83rd-minute winner against [[Huddersfield Town]] with a bicycle kick, giving him his second goal in as many games at the Emirates Stadium. In the match, Torreira was also awarded his fifth consecutive Arsenal Man of the Match performance.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/46409328|title=Arsenal 1-0 Huddersfield Town|last=Skelton|first=Jack|date=8 December 2018|publisher=BBC Sport}}&lt;/ref&gt; Torreira was dismissed in stoppage time, during the club's reverse fixture against Tottenham at [[Wembley Stadium|Wembley]], after a late challenge on Tottenham, defender [[Danny Rose]], the match ended 1-1 and was Torreira's first red card for Arsenal.&lt;ref&gt;https://www.bbc.co.uk/sport/football/47340485&lt;/ref&gt;
+Torreira made his Premier League debut on 12 August, coming on as a substitute on the 70th minute in a 2–0 defeat to Manchester City.&lt;ref&gt;{{Cite web | title = Arsenal 0–2 Manchester City: Raheem Sterling and Bernardo Silva give champions win | first = Emlyn | last = Begley | publisher = BBC Sport | date = 12 August 2018 | accessdate = 13 August 2018 | url = https://www.bbc.co.uk/sport/football/45073327}}&lt;/ref&gt; Torreira registered his first assist of the season, by setting up [[Alexandre Lacazette]]'s winning goal in a 3–2 win over [[Cardiff City]].&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/45312124|title=Cardiff City 2-3 Arsenal|last=Pearlman|first=Michael|date=2 September 2018|publisher=BBC Sport}}&lt;/ref&gt; Torreira made his full-debut and his [[UEFA Europa League|Europa League]] debut for Arsenal in the 4–2 win over [[FC Vorskla Poltava]] on 2 September, before being replaced in the 57th minute by [[Mattéo Guendouzi]].&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/45577861|title=Arsenal 4-2 Vorskla Poltava|last=Sutcliffe|first=Steve|date=20 September 2018|publisher=BBC Sport}}&lt;/ref&gt; Torreira's performance in Arsenal's 1–1 draw with [[Liverpool F.C.|Liverpool]] drew particularly high praise from fans and pundits alike, picking up the man-of-the-match award.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/football/blog/2018/nov/04/lucas-torreira-arsenal-new-grit-under-unai-emery-liverpool|title=Lucas Torreira, the Mighty Insect, embodies Arsenal’s new grit - Barney Ronay|first=Barney Ronay at the Emirates|last=Stadium|date=4 November 2018|work=The Guardian}}&lt;/ref&gt; On 2 December, Torreira scored his first Arsenal goal and picked up another man-of-the-match award against [[Tottenham Hotspur F.C.|Tottenham Hotspur]] when he latched on to a pass from [[Pierre-Emerick Aubameyang]] to slot the ball past [[Hugo Lloris]] to give Arsenal a fourth goal in a 4–2 [[North London derby]] victory. A week later, on 8 December, Torreira scored a late 83rd-minute winner against [[Huddersfield Town]] with a bicycle kick, giving him his second goal in as many games at the Emirates Stadium. In the match, Torreira was also awarded his fifth consecutive Arsenal Man of the Match performance.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/46409328|title=Arsenal 1-0 Huddersfield Town|last=Skelton|first=Jack|date=8 December 2018|publisher=BBC Sport}}&lt;/ref&gt; Torreira was dismissed in stoppage time, during the club's reverse fixture against Tottenham at [[Wembley Stadium|Wembley]], after a late challenge on Tottenham, defender [[Danny Rose]], the match ended 1-1 and was Torreira's first red card for Arsenal, although Arsenal attempted to appeal the ban, their appeal was rejected by the [[Football Association|FA]], this meant that Torreira's ban would still result in a three-match ban, meaning Torreira would miss Arsenal's games against [[Manchester United]], [[Newcastle United]] and [[Everton F.C.|Everton]].&lt;ref&gt;https://www.bbc.co.uk/sport/football/47340485&lt;/ref&gt;&lt;ref&gt;https://www.standard.co.uk/sport/football/arsenal/lucas-torreira-handed-threegame-ban-after-arsenal-appeal-rejected-by-fa-a4083981.html&lt;/ref&gt;
 
 ==International career==
 Torreira was born in Uruguay, and is of Spanish descent through his paternal grandfather from [[Galicia (Spain)|Galicia]].&lt;ref&gt;{{cite web |url= https://www.elobservador.com.uy/nota/la-increible-historia-de-esfuerzo-de-lucas-torreira-contada-por-su-padre-20187518490 |title=La increíble historia de esfuerzo de Lucas Torreira contada por su padre |trans-title= |work=El Observador |date=5 July 2018 |accessdate=4 February 2019 |language=es}}&lt;/ref&gt; He holds a Spanish passport, and was scouted by the senior [[Italy national football team]] before he was capped by Uruguay.&lt;ref&gt;{{cite web|url=http://dev.spherasports.net/lucas-torreira-cinco-mas-completo-calcio-153091/|title=Lucas Torreira, el cinco más completo del Calcio |work=Sphera Sports|date=29 September 2017}}&lt;/ref&gt;
@@ -3788,7 +3802,7 @@ WhoScored notes that he is a player that likes to shoot from distance and often 
 [[Category:Expatriate footballers in England]]
 [[Category:Uruguayan expatriate sportspeople in England]]
 [[Category:Uruguayan people of Spanish descent]]</text>
-      <sha1>3zsyqjw6y4v4hqgdvp90thewfs8k00o</sha1>
+      <sha1>0pg4slao8utctko95vdrgbqkmk2cxrh</sha1>
     </revision>
   </page>
   <page>
@@ -3796,15 +3810,16 @@ WhoScored notes that he is a player that likes to shoot from distance and often 
     <ns>0</ns>
     <id>3497944</id>
     <revision>
-      <id>884924160</id>
-      <parentid>881876886</parentid>
-      <timestamp>2019-02-24T21:58:13Z</timestamp>
+      <id>887349719</id>
+      <parentid>886544528</parentid>
+      <timestamp>2019-03-12T02:25:14Z</timestamp>
       <contributor>
-        <ip>82.11.161.249</ip>
+        <username>Messirulez</username>
+        <id>15276092</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="44065">{{Use dmy dates|date=June 2018}}
+      <text xml:space="preserve" bytes="44120">{{Use dmy dates|date=June 2018}}
 {{Infobox football biography
 | name           = Stephan Lichtsteiner
 | image          = Stephan Lichtsteiner 2018 (cropped).jpg
@@ -3836,6 +3851,7 @@ WhoScored notes that he is a player that likes to shoot from distance and often 
 | club-update = 22:22, 24 February 2019 (UTC)
 | nationalteam-update = 11 September 2018
 }}
+
 '''Stephan Lichtsteiner''' ({{IPA-de|lɪçtʃtaɪnər}}; born 16 January 1984) is a Swiss professional [[Association football|footballer]] who plays for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and [[Captain (association football)|captains]] the  [[Switzerland national football team|Switzerland national team]]. An attacking [[Defender (association football)#Full-back|right-back]] or [[Defender (association football)#Wing-back|wing-back]], he is known for his energetic runs down the [[Midfielder#Winger|right wing]], as well as his stamina and athleticism, which have earned him the nicknames "[[Forrest Gump]]" and "The Swiss [[Express train|Express]]".&lt;ref name="champ"/&gt;
 
 He began his professional career with [[Grasshopper Club Zürich|Grasshopper]], winning a league title in 2002–03, and moved to [[Lille OSC|Lille]] in 2005, helping the French club to Champions League qualification in his first season with the team. In 2008, he joined Italian club [[S.S. Lazio|Lazio]], and won both the [[Coppa Italia]] and [[Supercoppa Italiana]] the following year. In 2011, he signed for [[Juventus F.C.|Juventus]] for a fee of €10 million. He played 257 total games for the Turin side over seven years and won 14 trophies, including the [[Serie A]] title in each of his seasons with the team. In the summer of 2018, he was signed by Arsenal.
@@ -3885,7 +3901,7 @@ A dynamic, hard-working, consistent, and versatile defender, Lichtsteiner is cap
 ==Personal life==
 Lichtsteiner is married to Manuela Markworth, an economist and fitness instructor. They have a daughter&lt;ref&gt;{{cite news|title=Stephan Lichtsteiner ist Papa geworden|url=http://www.glanzundgloria.sf.tv/Nachrichten/Archiv/2011/02/06/Schweiz/Stephan-Lichtsteiner-ist-Papa-geworden|publisher=[[Schweizer Fernsehen]]|date=6 February 2011|language=German}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Er ist Vater geworden!|url=http://www.schweizer-illustrierte.ch/stars/schweiz/er-ist-vater-geworden-0|publisher=[[Schweizer Illustrierte]]|date=5 February 2011|language=German}}&lt;/ref&gt; and a son.&lt;ref&gt;{{cite news|title=Baby Nummer 2: Nati-Star Stephan Lichtsteiner im Papa-Glück |url=http://www.srf.ch/unterhaltung/people/schweiz/baby-nummer-2-nati-star-stephan-lichtsteiner-im-papa-glueck|publisher=[[Schweizer Radio und Fernsehen|srf.ch]]|date=29 October 2014|language=German}}&lt;/ref&gt;
 
-Lichtsteiner acquired the nickname "[[Forrest Gump]]" from Lazio-supporting Radio Sei commentator Guido de Angelis after making a run down his flank to score in the 4–2 derby victory over crosstown rivals [[A.S. Roma]].&lt;ref&gt;{{cite news|title="Forrest Gump" Lichtsteiner trifft – Kommentator dreht durch|url=http://www.blick.ch/sport/fussball/international/serie-a/lichtsteiner-trifft-im-roemer-derby-116668|publisher=[[Blick]]|date=12 April 2009|language=German}}&lt;/ref&gt; His runs and athleticism has also earned him the nickname "The Swiss Express" since moving to Juventus.
+Lichtsteiner acquired the nickname "[[Forrest Gump]]" from Lazio-supporting Radio Sei commentator Guido de Angelis after making a run down his flank to score in the 4–2 derby victory over crosstown rivals [[A.S. Roma]].&lt;ref&gt;{{cite news|title="Forrest Gump" Lichtsteiner trifft – Kommentator dreht durch|url=http://www.blick.ch/sport/fussball/international/serie-a/lichtsteiner-trifft-im-roemer-derby-116668|publisher=[[Blick]]|date=12 April 2009|language=German}}&lt;/ref&gt; His runs and athleticism has also earned him the nickname "The Swiss Express" since moving to Juventus.&lt;ref name="champ"/&gt;
 
 ==Career statistics==
 ===Club===
@@ -4084,10 +4100,10 @@ Lichtsteiner acquired the nickname "[[Forrest Gump]]" from Lazio-supporting Radi
 {{reflist}}
 
 ==External links==
-{{commons category}}
-*[https://web.archive.org/web/20121115142756/http://www.juventus.com/juve/en/campo/giocatori-e-staff/prima/giocatori/026lichtsteiner Profile] on Juventus website
+{{Commons category}}
+*{{Webarchive |url=https://web.archive.org/web/20121115142756/http://www.juventus.com/juve/en/campo/giocatori-e-staff/prima/giocatori/026lichtsteiner |title=Profile on Juventus website }}
 *[http://www.football.ch/nm/de/A_Team-portrait.aspx Profile] on [[Swiss Football Association|Swiss FA]] website {{de icon}}
-*{{ESPN FC|33644/stephan-lichtsteiner}}
+*{{ESPN FC|33644&lt;!-- /stephan-lichtsteiner --&gt;}}
 *{{FIFA player|196605}}
 
 {{Arsenal F.C. squad}}
@@ -4135,7 +4151,7 @@ Lichtsteiner acquired the nickname "[[Forrest Gump]]" from Lazio-supporting Radi
 [[Category:Association football fullbacks]]
 [[Category:2018 FIFA World Cup players]]
 [[Category:FIFA Century Club]]</text>
-      <sha1>f9ar78y1mkn6xlng3sxf6mix0l8o1ed</sha1>
+      <sha1>b9usk9f1p8rw8nls6eal0gddet6ul99</sha1>
     </revision>
   </page>
   <page>
@@ -4143,13 +4159,14 @@ Lichtsteiner acquired the nickname "[[Forrest Gump]]" from Lazio-supporting Radi
     <ns>0</ns>
     <id>47508681</id>
     <revision>
-      <id>873116411</id>
-      <parentid>872359884</parentid>
-      <timestamp>2018-12-11T06:08:33Z</timestamp>
+      <id>886550262</id>
+      <parentid>886500443</parentid>
+      <timestamp>2019-03-07T00:04:05Z</timestamp>
       <contributor>
-        <ip>218.255.90.2</ip>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <comment>/* Arsenal */</comment>
+      <comment>Reverted to revision 873116411 by [[Special:Contributions/218.255.90.2|218.255.90.2]] ([[User talk:218.255.90.2|talk]]): Rvv ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="15271">{{Use British English|date=April 2016}}
@@ -4308,18 +4325,18 @@ Holding was called up to the [[England national under-21 football team|England u
     <ns>0</ns>
     <id>48163241</id>
     <revision>
-      <id>885939250</id>
-      <parentid>885507639</parentid>
-      <timestamp>2019-03-03T08:52:10Z</timestamp>
+      <id>888992919</id>
+      <parentid>888475112</parentid>
+      <timestamp>2019-03-22T18:38:35Z</timestamp>
       <contributor>
-        <username>GiantSnowman</username>
-        <id>1005449</id>
+        <username>Inter&amp;anthro</username>
+        <id>18180119</id>
       </contributor>
       <minor/>
-      <comment>update - match played 2 March 2019</comment>
+      <comment>update</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="19152">{{EngvarB|date=January 2019}}
+      <text xml:space="preserve" bytes="19172">{{EngvarB|date=January 2019}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 |name           = Alex Iwobi
@@ -4337,7 +4354,7 @@ Holding was called up to the [[England national under-21 football team|England u
 |youthclubs1    = [[Arsenal F.C.|Arsenal]]
 |years1         = 2015–
 |clubs1         = [[Arsenal F.C.|Arsenal]]
-|caps1          = 91&lt;!--LEAGUE ONLY, NO LIVE UPDATES, DON'T FORGET TO UPDATE club-update PARAMETER--&gt;
+|caps1          = 92&lt;!--LEAGUE ONLY, NO LIVE UPDATES, DON'T FORGET TO UPDATE club-update PARAMETER--&gt;
 |goals1         = 11
 |nationalyears1 = 2011–2012
 |nationalteam1  = [[England national under-16 football team|England U16]]
@@ -4353,10 +4370,10 @@ Holding was called up to the [[England national under-21 football team|England u
 |nationalgoals3 = 0
 |nationalyears4 = 2015–
 |nationalteam4  = [[Nigeria national football team|Nigeria]]
-|nationalcaps4  = 21
+|nationalcaps4  = 27
 |nationalgoals4 = 5
-|club-update    = 08:52, 3 March 2019 (UTC)
-|ntupdate       = 26 June 2018
+|club-update    = 13:28, 15 March 2019 (UTC)
+|ntupdate       = 22 March 2019
 }}
 '''Alexander Chuka Iwobi''' ({{IPAc-en|ɪ|ˈ|w|oʊ|b|i}} {{respell|ih|WOH|bee}};&lt;ref&gt;{{Citation |last=Arsenal |title=Arsenal: Introducing Alex Iwobi |date=22 May 2014 |url=https://www.youtube.com/watch?v=G54QflUOpKo&amp;t=22s |accessdate=17 November 2017}}&lt;/ref&gt; born 3 May 1996) is a Nigerian professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[Nigeria national football team|Nigeria national team]].
 
@@ -4402,7 +4419,7 @@ In January 2019, Iwobi was the subject of alleged racism from Indian actress [[E
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}
+{{updated|match played 14 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -4433,32 +4450,34 @@ In January 2019, Iwobi was the subject of alleged racism from Indian actress [[E
 |-
 |[[2018–19 Arsenal F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|72651|2018|accessdate=23 December 2018}}&lt;/ref&gt;
 |Premier League
-|27||3||2||1||3||0||6{{efn|name=UEL}}||0||0||0||37||4
+|27||3||2||1||3||0||8{{efn|name=UEL}}||1||0||0||40||5
 |-
 !colspan=3|Career total
-!91!!11!!11!!1!!11!!0!!21!!1!!1!!0!!135!!13
+!92!!11!!11!!1!!11!!0!!23!!2!!1!!0!!138!!14
 |}
 
 {{notelist}}
 
 ===International===
-{{updated|26 June 2018}}&lt;ref name = "NFT"&gt;{{NFT player|pid=60750|accessdate=24 June 2017}}&lt;/ref&gt;
+{{updated|22 March 2019}}&lt;ref name = "NFT"&gt;{{NFT player|pid=60750|accessdate=24 June 2017}}&lt;/ref&gt;
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by national team and year
 |-
 !National team!!Year!!Apps!!Goals
 |-
-|rowspan=4|[[Nigeria national football team|Nigeria]]
+|rowspan=5|[[Nigeria national football team|Nigeria]]
 |2015||2||0
 |-
 |2016||6||1
 |-
 |2017||5||3
 |-
-|2018||7||1
+|2018||12||1
 |-
-!colspan=2|Total!!21!!5
+|2019||1||0
+|-
+!colspan=2|Total!!27!!5
 |}
 
 ===International goals===
@@ -4516,7 +4535,7 @@ In January 2019, Iwobi was the subject of alleged racism from Indian actress [[E
 [[Category:Nigerian expatriates in England]]
 [[Category:2018 FIFA World Cup players]]
 [[Category:English people of Nigerian descent]]</text>
-      <sha1>efsouc1ug72ahkjs7iro6a4u46ozgrg</sha1>
+      <sha1>ms0mow5rpa462r835j3rswl5xli01du</sha1>
     </revision>
   </page>
   <page>
@@ -4524,15 +4543,16 @@ In January 2019, Iwobi was the subject of alleged racism from Indian actress [[E
     <ns>0</ns>
     <id>15931498</id>
     <revision>
-      <id>886025882</id>
-      <parentid>885794718</parentid>
-      <timestamp>2019-03-03T21:06:14Z</timestamp>
+      <id>887810853</id>
+      <parentid>887648391</parentid>
+      <timestamp>2019-03-15T00:19:15Z</timestamp>
       <contributor>
-        <ip>82.11.161.249</ip>
+        <username>Gossamers</username>
+        <id>1574439</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="22777">{{Use British English|date=February 2013}}
+      <text xml:space="preserve" bytes="22743">{{Use British English|date=February 2013}}
 {{Spanish name|Monreal|Eraso}}
 {{Use dmy dates|date=February 2013}}
 {{Infobox football biography
@@ -4563,7 +4583,7 @@ In January 2019, Iwobi was the subject of alleged racism from Indian actress [[E
 | goals3 = 1
 | years4 = 2013–
 | clubs4 = [[Arsenal F.C.|Arsenal]]
-| caps4 = 177
+| caps4 = 178
 | goals4 = 7
 | nationalyears1 = 2004–2005
 | nationalteam1 = [[Spain national under-19 football team|Spain U19]]
@@ -4577,13 +4597,13 @@ In January 2019, Iwobi was the subject of alleged racism from Indian actress [[E
 | nationalteam3 = [[Spain national football team|Spain]]
 | nationalcaps3 = 22
 | nationalgoals3 = 1
-| club-update = 22:42, 2 March 2019 (UTC)
+| club-update = 22:42, 10 March 2019 (UTC)
 | nationalteam-update = 3 June 2018
 | medaltemplates = {{medalCountry|{{fb|ESP}}}}
 {{MedalCompetition|[[FIFA Confederations Cup]]}}
 {{medal|Runner-up|[[2013 FIFA Confederations Cup|2013 Brazil]]|}}
 }}
-'''Ignacio 'Nacho' Monreal Eraso''' ({{IPA-es|iɣˈnaθjo ˈnatʃo monreˈal eˈɾaso}}; born 26 February 1986) is a Spanish professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|left back]] or [[Defender (association football)#Centre-back|centre back]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[Spain national football team|Spain national team]].
+'''Ignacio "Nacho" Monreal Eraso''' ({{IPA-es|iɣˈnaθjo ˈnatʃo monreˈal eˈɾaso}}; born 26 February 1986) is a Spanish professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|left back]] or [[Defender (association football)#Centre-back|centre back]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[Spain national football team|Spain national team]].
 
 He started playing with [[CA Osasuna|Osasuna]] in 2005, going on to appear in 144 official games over the course of five [[La Liga]] seasons. In 2011 he signed with [[Málaga CF|Málaga]] and, two years later, joined [[Arsenal F.C.|Arsenal]], winning three [[FA Cup]] trophies with the latter club.
 
@@ -4804,7 +4824,6 @@ Monreal scored his first goal for Spain on 12 November 2016, contributing to a 4
 [[Category:Living people]]
 [[Category:Footballers from Pamplona]]
 [[Category:Spanish footballers]]
-[[Category:Navarrese footballers]]
 [[Category:Association football defenders]]
 [[Category:La Liga players]]
 [[Category:Segunda División B players]]
@@ -4821,7 +4840,7 @@ Monreal scored his first goal for Spain on 12 November 2016, contributing to a 4
 [[Category:Spanish expatriate footballers]]
 [[Category:Expatriate footballers in England]]
 [[Category:Spanish expatriate sportspeople in England]]</text>
-      <sha1>422gyy5eltewh3icdekat7pvgxc0d7m</sha1>
+      <sha1>j37apjia3bgv7r1duwvkx5o3gz6xs7f</sha1>
     </revision>
   </page>
   <page>
@@ -4829,12 +4848,15 @@ Monreal scored his first goal for Spain on 12 November 2016, contributing to a 4
     <ns>0</ns>
     <id>29739394</id>
     <revision>
-      <id>886026089</id>
-      <parentid>885578592</parentid>
-      <timestamp>2019-03-03T21:07:49Z</timestamp>
+      <id>887460136</id>
+      <parentid>887459528</parentid>
+      <timestamp>2019-03-12T20:24:32Z</timestamp>
       <contributor>
-        <ip>82.11.161.249</ip>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/86.12.12.212|86.12.12.212]] ([[User talk:86.12.12.212|talk]]) to last revision by Ethan713 ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="19001">{{Use dmy dates|date=July 2018}}
@@ -4864,7 +4886,7 @@ Monreal scored his first goal for Spain on 12 November 2016, contributing to a 4
 | goals2 = 0
 | years3 = 2018–
 | clubs3 = [[Arsenal F.C.|Arsenal]]
-| caps3 = 23
+| caps3 = 24
 | goals3 = 0
 | nationalyears1 = 2008–2009
 | nationalteam1 = [[Germany national youth football team|Germany U17]]
@@ -4886,7 +4908,7 @@ Monreal scored his first goal for Spain on 12 November 2016, contributing to a 4
 | nationalteam5 = [[Germany national football team|Germany]]
 | nationalcaps5 = 6
 | nationalgoals5 = 0
-| club-update = 22:25, 2 March 2019 (UTC)
+| club-update = 22:25, 10 March 2019 (UTC)
 | nationalteam-update = 20:06, 28 October 2018 (UTC)
 | medaltemplates = {{MedalCountry|{{GER}}}}
 {{MedalCompetition|[[UEFA European Under-17 Championship]]}}
@@ -4901,7 +4923,7 @@ Monreal scored his first goal for Spain on 12 November 2016, contributing to a 4
 In May 2011, Leno extended his contract with [[VfB Stuttgart]] until June 2014.&lt;ref&gt;{{cite web |url=http://www.vfb.de/en/aktuell/meldungen/news/2011/umstrukturierung-2011/page/700-0-3-1306506071.html |title=Changes afoot |publisher=VfB Stuttgart |accessdate=6 August 2011 |date=17 May 2011}}&lt;/ref&gt;
 
 ====Loan to Bayer Leverkusen====
-On 10 August 2011, he was loaned out to [[Bayer 04 Leverkusen]] until 31 December 2011.&lt;ref&gt;{{cite web |url=http://www.vfb.de/en/aktuell/meldungen/news/2011/ausleihe-bernd-leno-nach-leverkusen/page/937-0-1-1312981365.html |title=Leno on loan to Leverkusen |publisher=VfB Stuttgart |accessdate=10 August 2011 |date=10 August 2011|archive-url=https://web.archive.org/web/20120401230520/http://www.vfb.de/en/aktuell/meldungen/news/2011/ausleihe-bernd-leno-nach-leverkusen/page/937-0-1-1312981365.html|archive-date=1 April 2012|dead-url=yes}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.bayer04.de/B04-ENG/en/_md_aktuell-dt.aspx?aktuell=aktuell-3043 |title=Bayer 04 sign Stuttgart keeper Leno on loan |publisher=Bayer 04 Leverkusen |accessdate=11 August 2011 |date=10 August 2011}}&lt;/ref&gt; Four days after the five months loan deal was signed, Leno made his [[Bundesliga]] debut against [[SV Werder Bremen]]. He became after [[Dirk Krüssenberg]] and [[Heribert Macherey]] the third goalkeeper in Bundesliga history to keep a clean sheet in his first three Bundesliga games.&lt;ref&gt;{{cite web |url=http://www.bundesliga.de/de/liga/news/2010/index.php?f=0000191547.php |title=Leno unbezwingbar |publisher=Bundesliga |accessdate=10 September 2011 |date=27 August 2011 |language=German|trans-title=Leno invincible}}&lt;/ref&gt; When he played on 13 September 2011, at the age of 19 years and 193 days, against [[Chelsea F.C.|Chelsea]] in the [[2011–12 UEFA Champions League group stage]] he became the youngest German goalkeeper to ever to play in a [[UEFA Champions League|Champions League]] match.&lt;ref&gt;{{cite web |url=http://www.espn.in/football/blog/soccer-usa/3/post/3533877/bernd-leno-arsenals-new-goalkeeper-takes-inspiration-from-iker-casillas?src=com |title=Bernd Leno: Arsenal's new goalkeeper takes inspiration from Iker Casillas |publisher=ESPN |accessdate=20 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.sportskeeda.com/football/5-things-you-probably-didn-t-know-about-arsenal-s-new-signing-bernd-leno-ss |title=5 things you probably didn't know about Arsenal's new signing Bernd Leno |publisher=Sportskeeda |accessdate=20 June 2018}}&lt;/ref&gt;
+On 10 August 2011, he was loaned out to [[Bayer 04 Leverkusen]] until 31 December 2011.&lt;ref&gt;{{cite web |url=http://www.vfb.de/en/aktuell/meldungen/news/2011/ausleihe-bernd-leno-nach-leverkusen/page/937-0-1-1312981365.html |title=Leno on loan to Leverkusen |publisher=VfB Stuttgart |accessdate=10 August 2011 |date=10 August 2011|archive-url=https://web.archive.org/web/20120401230520/http://www.vfb.de/en/aktuell/meldungen/news/2011/ausleihe-bernd-leno-nach-leverkusen/page/937-0-1-1312981365.html|archive-date=1 April 2012|dead-url=yes}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.bayer04.de/B04-ENG/en/_md_aktuell-dt.aspx?aktuell=aktuell-3043 |title=Bayer 04 sign Stuttgart keeper Leno on loan |publisher=Bayer 04 Leverkusen |accessdate=11 August 2011 |date=10 August 2011}}&lt;/ref&gt; Four days after the five months loan deal was signed, Leno made his [[Bundesliga]] debut against [[SV Werder Bremen]]. He became, after [[Dirk Krüssenberg]] and [[Heribert Macherey]], the third goalkeeper in Bundesliga history to keep a clean sheet in his first three Bundesliga games.&lt;ref&gt;{{cite web |url=http://www.bundesliga.de/de/liga/news/2010/index.php?f=0000191547.php |title=Leno unbezwingbar |publisher=Bundesliga |accessdate=10 September 2011 |date=27 August 2011 |language=German|trans-title=Leno invincible}}&lt;/ref&gt; When he played on 13 September 2011, at the age of 19 years and 193 days, against [[Chelsea F.C.|Chelsea]] in the [[2011–12 UEFA Champions League group stage]] he became the youngest German goalkeeper to ever to play in a [[UEFA Champions League|Champions League]] match.&lt;ref&gt;{{cite web |url=http://www.espn.in/football/blog/soccer-usa/3/post/3533877/bernd-leno-arsenals-new-goalkeeper-takes-inspiration-from-iker-casillas?src=com |title=Bernd Leno: Arsenal's new goalkeeper takes inspiration from Iker Casillas |publisher=ESPN |accessdate=20 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.sportskeeda.com/football/5-things-you-probably-didn-t-know-about-arsenal-s-new-signing-bernd-leno-ss |title=5 things you probably didn't know about Arsenal's new signing Bernd Leno |publisher=Sportskeeda |accessdate=20 June 2018}}&lt;/ref&gt;
 
 ===Bayer Leverkusen===
 The transfer was made permanent on 30 November 2011, when Leno received a deal that keeps him with Bayer until 2017.&lt;ref&gt;{{cite web |url=http://www.vfb.de/en/aktuell/meldungen/news/2011/transfer-leno/page/1138-0-1-1322679653.html |title=Bernd Leno to sign for Bayer 04 |publisher=VfB Stuttgart |accessdate=30 November 2011 |date=30 November 2011|archive-url=https://web.archive.org/web/20140202125200/http://www.vfb.de/en/aktuell/meldungen/news/2011/transfer-leno/page/1138-0-1-1322679653.html|archive-date=2 February 2014|dead-url=yes}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.bayer04.de/B04-ENG/en/_md_aktuell-dt.aspx?aktuell=aktuell-3267 |title=Bayer 04 sign Bernd Leno |publisher=Bayer 04 Leverkusen |accessdate=30 November 2011 |date=30 November 2011}}&lt;/ref&gt; Leno became a regular in the first team and after a string of impressive performances, on 8 November 2013, he signed an improved contract to keep him at the club until 2018.&lt;ref&gt;{{Cite web |title=Leno signs new Leverkusen contract |url=https://sports.yahoo.com/news/leno-signs-leverkusen-contract-200700245--sow.html |website=Yahoo Sports|access-date = 22 February 2016}}&lt;/ref&gt; He made his 300th competitive appearance for Leverkusen on 14 April 2018 in a 4–1 league win over [[Eintracht Frankfurt]].&lt;ref&gt;{{cite news |url=https://www.bundesliga.com/en/news/Bundesliga/bayer-leverkusen-eintracht-frankfurt-line-ups-stats-leon-bailey-boateng-477995.jsp |title=Volland scores hat-trick as impressive Leverkusen overcome top-four rivals Frankfurt |publisher=Bundesliga |date=14 April 2018 |accessdate=15 April 2018}}&lt;/ref&gt;
@@ -4923,7 +4945,7 @@ Leno's father is of German-Russian descent.&lt;ref&gt;{{cite news |title=Geheimn
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 February 2019}}
+{{updated|match played 10 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -4989,10 +5011,10 @@ Leno's father is of German-Russian descent.&lt;ref&gt;{{cite news |title=Geheimn
 |[[Arsenal F.C.|Arsenal]]
 |[[2018–19 Arsenal F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|61390|2018|accessdate=23 December 2018}}&lt;/ref&gt;
 |[[Premier League]]
-|21||0||0||0||1||0||3{{efn|name=UEL}}||0||25||0
+|24||0||0||0||1||0||3{{efn|name=UEL}}||0||28||0
 |-
 !colspan=3|Career total
-!311||0||20||0||1||0||54||0||386||0
+!314||0||20||0||1||0||54||0||389||0
 |}
 
 {{notelist}}
@@ -5065,7 +5087,7 @@ Leno's father is of German-Russian descent.&lt;ref&gt;{{cite news |title=Geheimn
 [[Category:Expatriate footballers in England]]
 [[Category:German expatriate sportspeople in England]]
 [[Category:Russian-German people]]</text>
-      <sha1>bg08kicmeledmkrsfl5a9xikik0wau6</sha1>
+      <sha1>ac0m1az8v9ufptz5vpvab0cwh6lqh9d</sha1>
     </revision>
   </page>
   <page>
@@ -5073,12 +5095,14 @@ Leno's father is of German-Russian descent.&lt;ref&gt;{{cite news |title=Geheimn
     <ns>0</ns>
     <id>25471825</id>
     <revision>
-      <id>886026361</id>
-      <parentid>885982883</parentid>
-      <timestamp>2019-03-03T21:09:34Z</timestamp>
+      <id>888393711</id>
+      <parentid>888393472</parentid>
+      <timestamp>2019-03-18T21:04:11Z</timestamp>
       <contributor>
-        <ip>82.11.161.249</ip>
+        <username>Kosack</username>
+        <id>4446447</id>
       </contributor>
+      <comment>Reverted 1 edit by [[Special:Contributions/41.190.31.192|41.190.31.192]] ([[User talk:41.190.31.192|talk]]) to last revision by ClueBot NG ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="26293">{{Use dmy dates|date=January 2017}}
@@ -5406,15 +5430,15 @@ Mustafi is a practising [[Muslim]].&lt;ref&gt;{{cite news|last1=Davis|first1=Cal
     <ns>0</ns>
     <id>33546915</id>
     <revision>
-      <id>885578922</id>
-      <parentid>884878683</parentid>
-      <timestamp>2019-02-28T22:45:37Z</timestamp>
+      <id>887910048</id>
+      <parentid>887909884</parentid>
+      <timestamp>2019-03-15T16:51:53Z</timestamp>
       <contributor>
-        <ip>82.11.161.249</ip>
+        <ip>182.185.19.69</ip>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="14361">{{Spanish name|Suárez|Fernández}}
+      <text xml:space="preserve" bytes="14345">{{Spanish name|Suárez|Fernández}}
 {{Infobox football biography
 | name = Denis Suárez
 | image = Denis Suárez (3).jpg
@@ -5423,7 +5447,7 @@ Mustafi is a practising [[Muslim]].&lt;ref&gt;{{cite news|last1=Davis|first1=Cal
 | fullname = Denis Suárez Fernández
 | birth_date = {{birth date and age|1994|01|06|df=y}}
 | birth_place = [[Salceda de Caselas]], Spain
-| height = {{height|m=1.76}}{{Citation needed|date=January 2019|reason=Soccerbase and ESPN say 5 ft. 11 in.}}
+| height = {{height|m=1.81}}&lt;ref&gt;https://www.dfb.de/datencenter/personen/denis-suarez/spieler&lt;/ref&gt;
 | position = [[Midfielder]]
 | currentclub = [[Arsenal F.C.|Arsenal]] &lt;br&gt;(on loan from [[FC Barcelona|Barcelona]])
 | clubnumber = 22
@@ -5457,7 +5481,7 @@ Mustafi is a practising [[Muslim]].&lt;ref&gt;{{cite news|last1=Davis|first1=Cal
 | goals6 = 3
 | years7 = 2019–
 | clubs7 = → [[Arsenal F.C.|Arsenal]] (loan)
-| caps7 = 3
+| caps7 = 4
 | goals7 = 0
 | nationalyears1 = 2010–2011
 | nationalteam1 = [[Spain national under-17 football team|Spain U17]]
@@ -5487,7 +5511,7 @@ Mustafi is a practising [[Muslim]].&lt;ref&gt;{{cite news|last1=Davis|first1=Cal
 | nationalteam7 = [[Galicia national football team|Galicia]]
 | nationalcaps7 = 1
 | nationalgoals7 = 0
-| club-update = 22:38, 27 February 2019 (UTC)
+| club-update = 22:38, 10 March 2019 (UTC)
 | nationalteam-update = 20 June 2017
 }}
 '''Denis Suárez Fernández''' ({{IPA-es|ˈdenis ˈswaɾeθ feɾˈnandeθ}}; born 6 January 1994) is a Spanish professional [[Association football|footballer]] who plays as a [[Midfielder#Central midfielder|central midfielder]] for English club [[Arsenal F.C.|Arsenal]], on loan from Spanish club [[FC Barcelona|Barcelona]].
@@ -5523,7 +5547,7 @@ Suárez has been capped by [[Spain national under-17 football team|Spain U17]] a
 On 29 May 2016, he made his senior debut coming on as second-half substitute for [[David Silva]] in a friendly match against [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]].&lt;ref&gt;{{cite web|title=Euro 2016: Del Bosque hands debuts to eight players – MARCA English|url=http://www.marca.com/en/football/national-teams/2016/05/29/574b6497268e3e2b368b462d.html|publisher=Marca}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 14 February 2019}}.&lt;ref&gt;{{soccerbase|id=62475|name=Denis Suárez}}&lt;/ref&gt;&lt;ref&gt;{{Soccerway|denis-suarez-hernandez/149750}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.espnfc.com/player/163068/denis-suarez?season=2017|title=Denis Suárez in 2017/18|publisher=ESPN FC|accessdate=29 April 2018}}&lt;/ref&gt;
+{{updated|match played 10 March 2019}}.&lt;ref&gt;{{soccerbase|id=62475|name=Denis Suárez}}&lt;/ref&gt;&lt;ref&gt;{{Soccerway|denis-suarez-hernandez/149750}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.espnfc.com/player/163068/denis-suarez?season=2017|title=Denis Suárez in 2017/18|publisher=ESPN FC|accessdate=29 April 2018}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -5591,13 +5615,13 @@ On 29 May 2016, he made his senior debut coming on as second-half substitute for
 |rowspan="2"|[[Arsenal F.C.|Arsenal]] (loan)
 |[[2018–19 Arsenal F.C. season|2018–19]]
 |[[Premier League]]
-|2||0||0||0||0||0||1||0||0||0||3||0
+|4||0||0||0||0||0||2||0||0||0||6||0
 |-
 !colspan="2"|Total
-!2!!0!!0!!0!!0!!0!!1!!0!!0!!0!!3!!0
+!4!!0!!0!!0!!0!!0!!2!!0!!0!!0!!6!!0
 |-
 !colspan="3"|Career total
-!148!!16!!23!!4!!2!!0!!29!!4!!4!!0!!207!!26
+!150!!16!!23!!4!!2!!0!!30!!4!!4!!0!!210!!26
 |}
 ;Notes
 {{Reflist|group=lower-alpha}}
@@ -5651,7 +5675,7 @@ On 29 May 2016, he made his senior debut coming on as second-half substitute for
 [[Category:Expatriate footballers in England]]
 [[Category:Spanish expatriate sportspeople in England]]
 [[Category:UEFA Europa League winning players]]</text>
-      <sha1>0tojf3o0hegw72jfyn7j6100cn94d85</sha1>
+      <sha1>0gfacln5bbeexj850xci7xatfamyvy7</sha1>
     </revision>
   </page>
   <page>
@@ -5659,15 +5683,15 @@ On 29 May 2016, he made his senior debut coming on as second-half substitute for
     <ns>0</ns>
     <id>19444571</id>
     <revision>
-      <id>885965407</id>
-      <parentid>885965333</parentid>
-      <timestamp>2019-03-03T13:35:58Z</timestamp>
+      <id>888039224</id>
+      <parentid>888039189</parentid>
+      <timestamp>2019-03-16T14:32:28Z</timestamp>
       <contributor>
-        <username>Arjayay</username>
-        <id>5718152</id>
+        <username>Shellwood</username>
+        <id>2366721</id>
       </contributor>
       <minor/>
-      <comment>Reverted edits by [[Special:Contribs/94.189.183.220|94.189.183.220]] ([[User talk:94.189.183.220|talk]]) to last version by Zsj199969</comment>
+      <comment>Reverted edits by [[Special:Contributions/86.185.133.64|86.185.133.64]] ([[User talk:86.185.133.64|talk]]) ([[WP:HG|HG]]) (3.4.6)</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="67514">{{Use British English|date=April 2016}}
@@ -6040,15 +6064,16 @@ Under former [[England national football team|England]] manager Roy Hodgson, who
     <ns>0</ns>
     <id>29393141</id>
     <revision>
-      <id>885579141</id>
-      <parentid>885572486</parentid>
-      <timestamp>2019-02-28T22:47:33Z</timestamp>
+      <id>887306463</id>
+      <parentid>886550847</parentid>
+      <timestamp>2019-03-11T20:43:46Z</timestamp>
       <contributor>
-        <ip>82.11.161.249</ip>
+        <ip>85.194.243.137</ip>
       </contributor>
+      <comment>/* External links */ cats per article</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="38251">{{EngvarB|date=January 2019}}
+      <text xml:space="preserve" bytes="38353">{{EngvarB|date=January 2019}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 | name           = Carl Jenkinson
@@ -6265,8 +6290,10 @@ Jenkinson was born in [[Harlow]], Essex, to an English father, Steve, and a Finl
 [[Category:National League (English football) players]]
 [[Category:English Football League players]]
 [[Category:Premier League players]]
-[[Category:English people of Finnish descent]]</text>
-      <sha1>sw0lduhrcvg2wjfn61dgsyvbcfhl7wh</sha1>
+[[Category:English people of Finnish descent]]
+[[Category:British people of Finland Swedish descent]]
+[[Category:Finnish people of English descent]]</text>
+      <sha1>6154v8s9ld2rz07cccm4qav350ccfgv</sha1>
     </revision>
   </page>
   <page>
@@ -6274,20 +6301,21 @@ Jenkinson was born in [[Harlow]], Essex, to an English father, Steve, and a Finl
     <ns>0</ns>
     <id>56203234</id>
     <revision>
-      <id>884560828</id>
-      <parentid>883254995</parentid>
-      <timestamp>2019-02-22T13:02:02Z</timestamp>
+      <id>886513478</id>
+      <parentid>884560828</parentid>
+      <timestamp>2019-03-06T19:25:08Z</timestamp>
       <contributor>
-        <ip>46.198.181.172</ip>
+        <username>Zyxw</username>
+        <id>473593</id>
       </contributor>
-      <comment>/* External links */</comment>
+      <comment>update links, misc formatting</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="10357">{{Use dmy dates|date=January 2018}}
+      <text xml:space="preserve" bytes="10367">{{Use dmy dates|date=January 2018}}
 {{Infobox football biography
 | name = Konstantinos Mavropanos
-| image = 17 Merci Arsène - Celebrating Kolasinac's goal (27086257377) (cropped).jpg 
-| image_size =
+| image = 17 Merci Arsène - Celebrating Kolasinac's goal (27086257377) (cropped).jpg
+| image_size = 
 | caption = 
 | fullname = Konstantinos Mavropanos&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/844127 |title=2018/19 Premier League squads confirmed |publisher=Premier League |date=3 September 2018 |accessdate=4 September 2018}}&lt;/ref&gt;
 | birth_date = {{birth date and age|1997|12|11|df=y}}
@@ -6313,6 +6341,7 @@ Jenkinson was born in [[Harlow]], Essex, to an English father, Steve, and a Finl
 | club-update = 20:00, 3 February 2019 (UTC)
 | ntupdate = 21:39, 22 March 2018 (UTC)
 }}
+
 '''Konstantinos "Dinos" Mavropanos''' ({{lang-gr|Κωνσταντίνος "Ντίνος" Μαυροπάνος}}; born 11 December 1997) is a Greek professional [[Association football|footballer]] who plays as a [[Centre back (association football)|centre back]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and for the [[Greece national under-21 football team]].&lt;ref name=AFC&gt;{{cite web|url=https://www.arsenal.com/arsenal/players/konstantinos-mavropanos|title=Konstantinos Mavropanos|website=Arsenal.com}}&lt;/ref&gt;
 
 ==Club career==
@@ -6380,7 +6409,7 @@ On the beginning of October 2018, Mavropanos faced a groin injury, and was out u
 {{Commons category}}
 *{{Soccerway}}
 *{{UEFA player}}
-*{{ESPN FC|242705/konstantinos-mavropanos}}
+*{{ESPN FC|242705&lt;!-- /konstantinos-mavropanos --&gt;}}
 
 {{Arsenal F.C. squad}}
 
@@ -6398,7 +6427,7 @@ On the beginning of October 2018, Mavropanos faced a groin injury, and was out u
 [[Category:Greek expatriate footballers]]
 [[Category:Expatriate footballers in England]]
 [[Category:Greek expatriate sportspeople in England]]</text>
-      <sha1>eh34zlq0w5k4sv3fmftg3etq09cy3mr</sha1>
+      <sha1>kncuqwshmxm2m1vb6ayhjr2nxivre2q</sha1>
     </revision>
   </page>
   <page>
@@ -6406,16 +6435,16 @@ On the beginning of October 2018, Mavropanos faced a groin injury, and was out u
     <ns>0</ns>
     <id>52097861</id>
     <revision>
-      <id>886147544</id>
-      <parentid>886026929</parentid>
-      <timestamp>2019-03-04T15:27:04Z</timestamp>
+      <id>888940697</id>
+      <parentid>888940261</parentid>
+      <timestamp>2019-03-22T11:12:35Z</timestamp>
       <contributor>
-        <username>TheHauntedToaster</username>
-        <id>31897766</id>
+        <username>FrenchFootball</username>
+        <id>26895236</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="10250">{{Use dmy dates|date=December 2018}}
+      <text xml:space="preserve" bytes="10244">{{Use dmy dates|date=December 2018}}
 {{Infobox football biography
 | name = Mattéo Guendouzi
 | image = 1 Mattéo Guendouzi 2018 (cropped).jpg
@@ -6448,7 +6477,7 @@ On the beginning of October 2018, Mavropanos faced a groin injury, and was out u
 | nationalteam1 = [[France national under-18 football team|France U18]]
 | nationalcaps1 = 7
 | nationalgoals1 = 0
-| nationalyears2 = 2017–
+| nationalyears2 = 2017
 | nationalteam2 = [[France national under-19 football team|France U19]]
 | nationalcaps2 = 2
 | nationalgoals2 = 1
@@ -6458,10 +6487,10 @@ On the beginning of October 2018, Mavropanos faced a groin injury, and was out u
 | nationalgoals3 = 1
 | nationalyears4 = 2018–
 | nationalteam4 = [[France national under-21 football team|France U21]]
-| nationalcaps4 = 2
+| nationalcaps4 = 3
 | nationalgoals4 = 0
 | club-update = 22:08, 2 March 2019 (UTC)
-| nationalteam-update = 19 November 2018
+| nationalteam-update = 21 March 2019
 }}
 '''Mattéo Guendouzi Olié''' ({{IPA-fr|mateo ɡɛnduzi}}; born 14 April 1999) is a French professional [[Association football|footballer]] who plays as a [[midfielder]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[France national under-21 football team|French under-21 team]].
 
@@ -6565,7 +6594,7 @@ Guendouzi was born in a suburb of [[Paris]], France. He has represented France a
 [[Category:Expatriate footballers in England]]
 [[Category:French expatriate sportspeople in England]]
 [[Category:French people of Moroccan descent]]</text>
-      <sha1>0xe58dslz8z9565gtc1attbvsjf3brs</sha1>
+      <sha1>k7afzqe4n7ekszqktoeerx9coyfc5zs</sha1>
     </revision>
   </page>
   <page>
@@ -6573,17 +6602,17 @@ Guendouzi was born in a suburb of [[Paris]], France. He has represented France a
     <ns>0</ns>
     <id>37586696</id>
     <revision>
-      <id>885729686</id>
-      <parentid>885579499</parentid>
-      <timestamp>2019-03-01T23:04:31Z</timestamp>
+      <id>887868591</id>
+      <parentid>887866954</parentid>
+      <timestamp>2019-03-15T10:37:03Z</timestamp>
       <contributor>
-        <username>Bakir123</username>
-        <id>34996428</id>
+        <username>Kosack</username>
+        <id>4446447</id>
       </contributor>
-      <comment>/* Career statistics */</comment>
+      <comment>Reverted 1 edit by [[Special:Contributions/85.30.139.152|85.30.139.152]] ([[User talk:85.30.139.152|talk]]) to last revision by 82.11.161.249 ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="18910">{{Use dmy dates|date=September 2017}}
+      <text xml:space="preserve" bytes="18907">{{Use dmy dates|date=September 2017}}
 {{Infobox football biography
 | name = Sead Kolašinac
 | image = 1 Sead Kolašinac 2018.jpg
@@ -6614,7 +6643,7 @@ Guendouzi was born in a suburb of [[Paris]], France. He has represented France a
 | goals2 = 4
 | years3 = 2017–
 | clubs3 = [[Arsenal F.C.|Arsenal]]
-| caps3 = 44
+| caps3 = 45
 | goals3 = 2
 | nationalyears1 = 2011
 | nationalteam1 = [[Germany national youth football team|Germany U18]]
@@ -6632,7 +6661,7 @@ Guendouzi was born in a suburb of [[Paris]], France. He has represented France a
 | nationalteam4 = [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]]
 | nationalcaps4 = 24
 | nationalgoals4 = 0
-| club-update = 22:27, 27 February 2019 (UTC)
+| club-update = 22:27, 10 March 2019 (UTC)
 | nationalteam-update = 19:49, 4 October 2018 (UTC)
 }}
 '''Sead Kolašinac''' ({{IPA-sh|koˈlaʃiˌnats|bs}}; born 20 June 1993) is a Bosnian professional [[Association football|footballer]] who plays as a [[left back]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina national team]].
@@ -6821,7 +6850,7 @@ Kolašinac is often referred to by fans as the "The Destroyer", "The Tank", or "
 [[Category:German expatriate sportspeople in England]]
 [[Category:People educated at the Gesamtschule Berger Feld]]
 [[Category:Footballers from Baden-Württemberg]]</text>
-      <sha1>9fseiid7j1fkqkpx9hnc8crzs3wi6ou</sha1>
+      <sha1>o8ww9kpg98bo2jvbajouarntql6crf9</sha1>
     </revision>
   </page>
   <page>
@@ -6829,15 +6858,18 @@ Kolašinac is often referred to by fans as the "The Destroyer", "The Tank", or "
     <ns>0</ns>
     <id>28626100</id>
     <revision>
-      <id>886027188</id>
-      <parentid>884925488</parentid>
-      <timestamp>2019-03-03T21:14:43Z</timestamp>
+      <id>888922707</id>
+      <parentid>888912830</parentid>
+      <timestamp>2019-03-22T07:17:57Z</timestamp>
       <contributor>
-        <ip>82.11.161.249</ip>
+        <username>Iggy the Swan</username>
+        <id>31885086</id>
       </contributor>
+      <minor/>
+      <comment>Reverted 2 edits by [[Special:Contributions/14.1.225.2|14.1.225.2]] ([[User talk:14.1.225.2|talk]]): Introducing link to a disambiguation page ([[WP:TW|2019 Swan]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="40978">{{Use dmy dates|date=October 2018}}
+      <text xml:space="preserve" bytes="40977">{{Use dmy dates|date=October 2018}}
 {{Infobox football biography
 | name = Granit Xhaka
 | image = SWE-SWI (18) (cropped).jpg
@@ -6864,8 +6896,8 @@ Kolašinac is often referred to by fans as the "The Destroyer", "The Tank", or "
 | goals2 = 6
 | years3 = 2016–
 | clubs3 = [[Arsenal F.C.|Arsenal]]
-| caps3 = 94
-| goals3 = 6
+| caps3 = 95
+| goals3 = 7
 | nationalyears1 = 2008–2009
 | nationalteam1 = [[Switzerland national under-17 football team|Switzerland U17]]
 | nationalcaps1 = 14
@@ -6886,7 +6918,7 @@ Kolašinac is often referred to by fans as the "The Destroyer", "The Tank", or "
 | nationalteam5 = [[Switzerland national football team|Switzerland]]
 | nationalcaps5 = 70
 | nationalgoals5 = 10
-| club-update = 20:28, 2 March 2019 (UTC)
+| club-update = 20:28, 10 March 2019 (UTC)
 | nationalteam-update = 18:48, 22 October 2018 (UTC)
 }}
 '''Granit Xhaka''' ({{IPA-sq|ɡɾaˈnit ˈdʒaka}}; born 27 September 1992) is a Swiss professional [[Association football|footballer]] who plays as a [[midfielder]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[Switzerland national football team|Switzerland national team]].
@@ -6959,7 +6991,7 @@ In July 2017, Xhaka married his long-term partner, Leonita Lekaj.&lt;ref&gt;{{ci
 
 ==Career statistics==
 ===Club===
-{{updated|match played 25 January 2019}}&lt;ref&gt;{{cite web |url=https://uk.soccerway.com/players/granit-xhaka/102647/ |title=G. Xhaka: Summary |website=Soccerway |publisher=Perform Group |accessdate=9 December 2016}}&lt;/ref&gt;
+{{updated|match played 10 March 2019}}&lt;ref&gt;{{cite web |url=https://uk.soccerway.com/players/granit-xhaka/102647/ |title=G. Xhaka: Summary |website=Soccerway |publisher=Perform Group |accessdate=9 December 2016}}&lt;/ref&gt;
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -7018,13 +7050,13 @@ In July 2017, Xhaka married his long-term partner, Leonita Lekaj.&lt;ref&gt;{{ci
 |-
 |[[2018–19 Arsenal F.C. season|2018–19]]
 |Premier League
-|22||3||1||0||1||0||1||0||0||0||25||3
+|25||4||1||0||1||0||4||0||0||0||31||4
 |-
 !colspan=2|Total
-!92||6||6||0||6||2||14||2||1||0||119||10
+!95||7||6||0||6||2||17||2||1||0||125||11
 |-
 !colspan=3|Career total
-!242||13||21||0||6||2||50||6||1||0||320||21
+!245||14||21||0||6||2||53||6||1||0||326||22
 |}
 
 ===International===
@@ -7147,7 +7179,7 @@ In July 2017, Xhaka married his long-term partner, Leonita Lekaj.&lt;ref&gt;{{ci
 [[Category:2014 FIFA World Cup players]]
 [[Category:UEFA Euro 2016 players]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>90m0r97wxo7i6yi87xuta2yj8r9avfp</sha1>
+      <sha1>slcwm33hvpcfu08l45uqvtf9k3fzm86</sha1>
     </revision>
   </page>
   <page>
@@ -7155,17 +7187,19 @@ In July 2017, Xhaka married his long-term partner, Leonita Lekaj.&lt;ref&gt;{{ci
     <ns>0</ns>
     <id>54988912</id>
     <revision>
-      <id>885391145</id>
-      <parentid>885358715</parentid>
-      <timestamp>2019-02-27T19:18:21Z</timestamp>
+      <id>886293205</id>
+      <parentid>886264924</parentid>
+      <timestamp>2019-03-05T10:44:53Z</timestamp>
       <contributor>
         <username>Struway2</username>
         <id>4761363</id>
       </contributor>
-      <comment>undo, per sources cited, which are consistent with birth records; the date at https://www.arsenal.com/academy/players/cohen-bramall would appear to be a typo</comment>
+      <comment>standard format for stats table, inline sourcing, remove non-RS transfermarkt</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="12326">{{Infobox football biography
+      <text xml:space="preserve" bytes="12779">{{use British English|date=March 2019}}
+{{use dmy dates|date=March 2019}}
+{{Infobox football biography
 | name        = Cohen Bramall
 | image       = 
 | image_size  =
@@ -7191,7 +7225,7 @@ In July 2017, Xhaka married his long-term partner, Leonita Lekaj.&lt;ref&gt;{{ci
 | nationalteam1 = 
 | nationalcaps1 =  
 | nationalgoals1 = 
-| club-update = 10:01, 7 May 2018 (UTC)
+| club-update = 04:18, 5 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Cohen Bramall''' (born 2 April 1996) is an English professional [[association football|footballer]] who plays as a [[left back]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]]. He spent the 2017–18 season on loan to [[Birmingham City F.C.|Birmingham City]] of the [[EFL Championship|Championship]].
@@ -7211,7 +7245,7 @@ On 21 August 2017, Bramall and Arsenal teammate [[Carl Jenkinson]] were [[loan (
 Despite speculation that the loan might be cut short in the January transfer window,&lt;ref&gt;{{cite news |url=https://www.birminghammail.co.uk/sport/football/transfer-news/cohen-bramall-carl-jenkinson-birmingham-14113518 |title=Cohen Bramall and Carl Jenkinson: Birmingham City boss Steve Cotterill on the Arsenal duo's futures |first=Brian |last=Dick |newspaper=Birmingham Mail |date=5 February 2018 |accessdate=7 May 2018}}&lt;/ref&gt; he remained at the club, and returned to the league team on 3 February, as a substitute for the injured [[Jonathan Grounds]] in a 3–1 win away to [[Sheffield Wednesday]]. He was involved in an incident for which Wednesday's [[Marco Matias (footballer)|Marco Matias]] was sent off for violent conduct. Former referee [[Mark Halsey]] said afterwards that if there had been a dismissable offence, it was committed by Bramall,&lt;ref&gt;{{cite news |url=https://www.birminghammail.co.uk/sport/football/football-news/referee-got-wrong-man-birmingham-14250737 |title=Referee 'got the wrong man' in Birmingham City's win at Sheffield Wednesday – ex Premier League official |first=Shane |last=Ireland |newspaper=Birmingham Mail |date=5 February 2018 |accessdate=7 May 2018}}&lt;/ref&gt; and Matias' red card was rescinded on appeal.&lt;ref&gt;{{cite news |url=https://www.thestar.co.uk/sport/football/sheffield-wednesday/sheffield-wednesday-win-appeal-over-marco-matias-red-card-against-birmingham-city-1-9005473 |title=Sheffield Wednesday win appeal over Marco Matias' red card against Birmingham City |first=Chris |last=Holt |newspaper=The Star |location=Sheffield |date=6 February 2018 |accessdate=7 May 2018}}&lt;/ref&gt; Bramall played in two more Championship matches in February, but those were his last.&lt;ref name=sb1718/&gt;
 
 ==Career statistics==
-{{updated|end of 2017–18 season}}
+{{updated|5 March 2019}}
 
 {| class=wikitable style=text-align:center
 |-
@@ -7229,22 +7263,31 @@ Despite speculation that the loan might be cut short in the January transfer win
 |[[2016–17 Northern Premier League#Premier Division|2016–17]]&lt;ref name=HTFCstats&gt;{{cite web |url=http://hednesfordtown.com/statistics/player.php?sort=apps&amp;id=452 |title=Cohen Bramall profile |website=hednesfordtown.com |publisher=Steve Walker |accessdate=2 September 2017 |archiveurl=http://web.archive.org/web/20170902142221/http://hednesfordtown.com/statistics/player.php?sort=apps&amp;id=452 |archivedate=2 September 2017}}&lt;/ref&gt;
 |[[Northern Premier League]] Premier Division||21||0||1||1||colspan=2|—||4{{efn|Three appearances in [[FA Trophy]], one in [[Birmingham Senior Cup]]}}||0||26||1
 |-
-|rowspan=1|[[Arsenal F.C.|Arsenal]]
+|rowspan=3|[[Arsenal F.C.|Arsenal]]
 |[[2017–18 Arsenal F.C. season|2017–18]]&lt;ref name=sb1718/&gt;
 |[[Premier League]]||0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2018–19 Arsenal F.C. season|2018–19]]&lt;ref name=sb1819/&gt;
+|Premier League||0||0||0||0||0||0||0||0||0||0
+|-
+!colspan=2|Total
+!0||0||0||0||0||0||0||0||0||0
+|-
+|[[Arsenal F.C. Reserves|Arsenal U21]]
+|2018–19&lt;ref name=sb1819&gt;{{soccerbase season|104461|2018|accessdate=5 March 2019}}&lt;/ref&gt;
+|colspan=3|—||colspan=2|—||colspan=2|—||3{{efn|Appearances in [[EFL Trophy]]}}||0||3||0
 |-
 |[[Birmingham City F.C.|Birmingham City]] (loan)
 |[[2017–18 Birmingham City F.C. season|2017–18]]&lt;ref name=sb1718&gt;{{soccerbase season|104461|2017|accessdate=7 May 2018}}&lt;/ref&gt;
 |[[EFL Championship|Championship]]||5||0||2||0||1||0||colspan=2|—||8||0
 |-
 !colspan=3|Career total
-!26||0||3||1||1||0||4||0||34||1
+!26||0||3||1||1||0||7||0||37||1
 |}
-
 {{notelist}}
 
 ==Honours==
-'''Market Drayton Town'''
+===Market Drayton Town===
 *Shropshire Premier Cup: 2015–16&lt;ref name=1516ShropPrem/&gt;
 
 ==References==
@@ -7270,7 +7313,7 @@ Despite speculation that the loan might be cut short in the January transfer win
 [[Category:Birmingham City F.C. players]]
 [[Category:Northern Premier League players]]
 [[Category:English Football League players]]</text>
-      <sha1>ifsygkdhl51svih0ax523hdj4xhf2i4</sha1>
+      <sha1>6428fy5xaov2p5scv7e9oei7x2e7yoj</sha1>
     </revision>
   </page>
   <page>
@@ -7385,17 +7428,16 @@ In 2003 Dom underwent a storyline where he fell for his best friends sister, 15-
     <ns>0</ns>
     <id>12517804</id>
     <revision>
-      <id>880915191</id>
-      <parentid>880915147</parentid>
-      <timestamp>2019-01-30T08:03:12Z</timestamp>
+      <id>888469096</id>
+      <parentid>888469067</parentid>
+      <timestamp>2019-03-19T11:11:28Z</timestamp>
       <contributor>
-        <username>Lubo-Iv-95</username>
-        <id>35556849</id>
+        <username>ReaperSox</username>
+        <id>30842826</id>
       </contributor>
-      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="24546">{{Use dmy dates|date=June 2018}}
+      <text xml:space="preserve" bytes="24816">{{Use dmy dates|date=June 2018}}
 {{spanish name|Ospina|Ramírez}}
 {{Infobox football biography
 | name = David Ospina
@@ -7425,7 +7467,7 @@ In 2003 Dom underwent a storyline where he fell for his best friends sister, 15-
 | goals3 = 0
 | years4 = 2018–
 | clubs4 = → [[S.S.C. Napoli|Napoli]] (loan)
-| caps4 = 10
+| caps4 = 14
 | goals4 = 0
 | nationalyears1 = 2005–2007
 | nationalteam1 = [[Colombia national under-20 football team|Colombia U20]]
@@ -7435,7 +7477,7 @@ In 2003 Dom underwent a storyline where he fell for his best friends sister, 15-
 | nationalteam2 = [[Colombia national football team|Colombia]]
 | nationalcaps2 = 94
 | nationalgoals2 = 0
-| pcupdate = 08:02, 30 January 2019 (UTC)
+| pcupdate = 19 March 2019 (UTC)
 | ntupdate = 16 October 2018
 | medaltemplates = {{Medal|Team|{{fb|COL}}}}
 {{Medal|B|[[Copa América Centenario]]|[[Copa América Centenario|2016]]}}
@@ -7491,11 +7533,11 @@ At the [[2014 World Cup]], Ospina appeared in all of Colombia's matches and conc
 In May 2018 he was named in Colombia’s preliminary 35 man [[Colombia national football team|squad]] for the [[2018 World Cup]] in [[Russia]].&lt;ref&gt;http://www.goal.com/en-gb/amp/news/revealed-every-world-cup-2018-squad-23-man-preliminary-lists/oa0atsduflsv1nsf6oqk576rb&lt;/ref&gt; Despite saving a penalty against [[Jordan Henderson]] in the Round of 16 penalty shoot-out against [[England national football team|England]], Colombia were eliminated 3–4 on penalties.
 
 ==Personal life==
-Ospina was brother-in-law to fellow Colombian international footballer [[James Rodríguez]], who married David's sister Daniela in 2011.&lt;ref&gt;{{cite web|url=http://fabwags.com/?p=26880 |title=James Rodriguez The Soccer Star is also a Family Man |date=20 June 2014 |accessdate=15 June 2014}}&lt;/ref&gt; However, they announced their separation in July 2017.&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/james-rod/1mugl77wy9d541exdz6rcd0eqt|title=James Rodriguez and wife Daniela Ospina announce separation |website=Goal.com|accessdate=9 June 2018}}&lt;/ref&gt; Ospina is married to Colombian model Jesica Sterling, whom he married in 2012, and has one daughter named Dulce María            &lt;ref&gt;{{cite news |url=http://fabwags.com/jesica-sterling-colombian-soccer-player-david-ospinas-wife/|work= Fabwags|date=9 September 2014 |title=Jesica Sterling – Colombian Soccer player David Ospina's Wife|accessdate=30 March 2015}}&lt;/ref&gt; and a son named Maximiliano.&lt;ref&gt;{{cite news |url=http://www.goal.com/es-co/news/4604/colombianos-en-inglaterra/2015/01/26/8340492/david-ospina-es-padre-por-segunda-vez |title=David Ospina es padre por segunda vez |language=Spanish |date=26 January 2015 |website=Goal.com}}&lt;/ref&gt;
+Ospina was brother-in-law to fellow Colombian international footballer [[James Rodríguez]], who married David's sister Daniela in 2011.&lt;ref&gt;{{cite web|url=http://fabwags.com/?p=26880 |title=James Rodriguez The Soccer Star is also a Family Man |date=20 June 2014 |accessdate=15 June 2014}}&lt;/ref&gt; However, they announced their separation in July 2017.&lt;ref&gt;{{cite web|url=http://www.goal.com/en/news/james-rod/1mugl77wy9d541exdz6rcd0eqt|title=James Rodriguez and wife Daniela Ospina announce separation |website=Goal.com|accessdate=9 June 2018}}&lt;/ref&gt; Ospina is married to Colombian model Jesica Sterling, whom he married in 2012, and has one daughter named Dulce María            &lt;ref&gt;{{cite news |url=http://fabwags.com/jesica-sterling-colombian-soccer-player-david-ospinas-wife/|work= Fabwags|date=9 September 2014 |title=Jesica Sterling – Colombian Soccer player David Ospina's Wife|accessdate=30 March 2015}}&lt;/ref&gt; and a son named Maximiliano.&lt;ref&gt;{{cite news |url=http://www.goal.com/es-co/news/4604/colombianos-en-inglaterra/2015/01/26/8340492/david-ospina-es-padre-por-segunda-vez |title=David Ospina es padre por segunda vez |language=Spanish |date=26 January 2015 |website=Goal.com}}&lt;/ref&gt; On the 17th March 2019, David Ospina suffered a serious head injury and later collapsed mid-game playing for Napoli (on loan from Arsenal) against Udinese.&lt;ref&gt;|title=David Ospina head collapses during game |language=English |date=17 March 2019 |https://www.bbc.co.uk/sport/football/47605955&lt;/ref&gt;
 
 ==Career statistics==
 ===Club===
-{{updated|match played 26 January 2019}}&lt;ref name="soccerway"&gt;{{Soccerway|david-ospina/22426|David Ospina}}&lt;/ref&gt;
+{{updated|match played 17 March 2019}}&lt;ref name="soccerway"&gt;{{Soccerway|david-ospina/22426|David Ospina}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -7571,13 +7613,13 @@ Ospina was brother-in-law to fellow Colombian international footballer [[James R
 ! colspan=2 | [[UEFA|Europe]]
 ! colspan=2 | Total
 |-
-|[[2018–19 Serie A|2018–19]]||[[S.S.C. Napoli|Napoli]]||[[Serie A]]||10||0||1||0||6{{efn|6 appearances in [[UEFA Champions League]]}}||0||17||0
+|[[2018–19 Serie A|2018–19]]||[[S.S.C. Napoli|Napoli]]||[[Serie A]]||14||0||1||0||6{{efn|6 appearances in [[UEFA Champions League]]}}||0||21||0
 |-
 !colspan=2|Total
-!!!10!!0!!1!!0!!6!!0!!17!!0
+!!!14!!0!!1!!0!!6!!0!!21!!0
 |-
 ! colspan=3 | Career total
-!325||0||23||0||32||0||380||0
+!329||0||23||0||32||0||384||0
 |}
 
 ;Notes
@@ -7643,7 +7685,7 @@ Ospina was brother-in-law to fellow Colombian international footballer [[James R
 ==External links==
 {{commons category}}
 *{{NFT player|id=20700}}
-*{{TheFinalBall}}
+
 
 {{S.S.C. Napoli squad}}
 {{Navboxes
@@ -7685,7 +7727,7 @@ Ospina was brother-in-law to fellow Colombian international footballer [[James R
 [[Category:Colombian expatriate sportspeople in Italy]]
 [[Category:Expatriate footballers in Italy]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>30rqka0s2mqxib4hviw97d6k65aq2oe</sha1>
+      <sha1>l2u1x57jl0y2n2nh6fgc94rjvxmhnke</sha1>
     </revision>
   </page>
   <page>
@@ -7693,17 +7735,16 @@ Ospina was brother-in-law to fellow Colombian international footballer [[James R
     <ns>0</ns>
     <id>36863053</id>
     <revision>
-      <id>882613496</id>
-      <parentid>882365891</parentid>
-      <timestamp>2019-02-10T08:44:07Z</timestamp>
+      <id>888625335</id>
+      <parentid>888625259</parentid>
+      <timestamp>2019-03-20T10:39:48Z</timestamp>
       <contributor>
-        <username>Mighty platypus</username>
-        <id>34602910</id>
+        <ip>77.108.140.14</ip>
       </contributor>
-      <comment>Updated appearances</comment>
+      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="23311">{{distinguish|text=the Australian rules footballer, [[Callum Chambers]]}}
+      <text xml:space="preserve" bytes="23306">{{distinguish|text=the Australian rules footballer, [[Callum Chambers]]}}
 {{EngvarB|date=December 2018}}
 {{Use dmy dates|date=December 2018}}
 {{Infobox football biography
@@ -7734,8 +7775,8 @@ Ospina was brother-in-law to fellow Colombian international footballer [[James R
 | goals3 = 1
 | years4 = 2018–
 | clubs4 = → [[Fulham F.C.|Fulham]] (loan)
-| caps4 = 19
-| goals4 = 1
+| caps4 = 24
+| goals4 = 2
 | nationalyears1 = 2012
 | nationalteam1 = [[England national under-17 football team|England U17]]
 | nationalcaps1 = 6
@@ -7752,7 +7793,7 @@ Ospina was brother-in-law to fellow Colombian international footballer [[James R
 | nationalteam4 = [[England national football team|England]]
 | nationalcaps4 = 3
 | nationalgoals4 = 0
-| club-update = 08:44, 10 February 2019 (UTC)
+| club-update = 10:39, 20 March 2019 (UTC)
 | nationalteam-update = 12:25, 30 January 2019 (UTC)
 }}
 '''Calum Chambers''' (born 20 January 1995) is an English professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Fulham F.C.|Fulham]], on [[Loan (sports)|loan]] from fellow {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]], and the [[England national football team|England national team]].
@@ -7810,7 +7851,7 @@ On 5 June 2017, Chambers was called up to England's squad for the [[2017 UEFA Eu
 
 ==Career statistics==
 ===Club===
-{{updated|match played 29 January 2019}}
+{{updated|match played 17 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -7866,10 +7907,10 @@ On 5 June 2017, Chambers was called up to England's squad for the [[2017 UEFA Eu
 |[[Fulham F.C.|Fulham]] (loan)
 |[[2018–19 Fulham F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|66152|2018|accessdate=30 January 2019}}&lt;/ref&gt;
 |Premier League
-|17||1||1||0||1||0||colspan=2|—||colspan=2|—||19||1
+|24||2||1||0||1||0||colspan=2|—||colspan=2|—||26||2
 |-
 !colspan=3|Career total
-!111||4||12||1||11||0||18||0||1||0||153||5
+!118||5||12||1||11||0||18||0||1||0||160||6
 |}
 
 {{notelist}}
@@ -7924,7 +7965,7 @@ On 5 June 2017, Chambers was called up to England's squad for the [[2017 UEFA Eu
 [[Category:Middlesbrough F.C. players]]
 [[Category:Fulham F.C. players]]
 [[Category:Premier League players]]</text>
-      <sha1>37jcbnfovu16p7f8eimm5a6ospyt0cv</sha1>
+      <sha1>80cawp4rs0kgb4bzsaez4223eueu3vz</sha1>
     </revision>
   </page>
   <page>
@@ -7932,65 +7973,68 @@ On 5 June 2017, Chambers was called up to England's squad for the [[2017 UEFA Eu
     <ns>0</ns>
     <id>35727432</id>
     <revision>
-      <id>886109712</id>
-      <parentid>885000537</parentid>
-      <timestamp>2019-03-04T09:46:50Z</timestamp>
+      <id>888168269</id>
+      <parentid>887547624</parentid>
+      <timestamp>2019-03-17T11:11:14Z</timestamp>
       <contributor>
-        <ip>193.129.127.20</ip>
+        <username>Beeney xx</username>
+        <id>35180261</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="16805">{{Use dmy dates|date=January 2013}}
+      <text xml:space="preserve" bytes="16489">{{Use dmy dates|date=January 2013}}
 {{Infobox football biography
-|          name  = Emiliano Martínez
-|          image = Damian Martinez.jpg
-|        caption = Martínez with Arsenal in 2015
-|       fullname = Damián Emiliano Martínez&lt;ref name="Soccerway"&gt;{{cite web |title=E. Martínez |url=https://int.soccerway.com/players/damian-martinez/102587/ |website=Soccerway |accessdate=14 February 2019}}&lt;/ref&gt;
-|    birth_date = {{birth date and age|df=yes|1992|9|2|}}&lt;ref&gt;{{cite web |title=Emiliano Martínez |url=https://www.premierleague.com/players/4245/Emiliano-Mart%C3%ADnez/overview |publisher=Premier League |accessdate=14 February 2019}}&lt;/ref&gt;
+| name = Emiliano Martínez
+| image = Damian Martinez.jpg
+| caption = Martínez with Arsenal in 2015
+| fullname = Damián Emiliano Martínez&lt;ref name="Soccerway"&gt;{{cite web |title=E. Martínez |url=https://int.soccerway.com/players/damian-martinez/102587/ |website=Soccerway |accessdate=14 February 2019}}&lt;/ref&gt;
+| birth_date = {{birth date and age|df=yes|1992|9|2|}}&lt;ref&gt;{{cite web |title=Emiliano Martínez |url=https://www.premierleague.com/players/4245/Emiliano-Mart%C3%ADnez/overview |publisher=Premier League |accessdate=14 February 2019}}&lt;/ref&gt;
 | birth_place = [[Mar Del Plata]], Argentina
-|         height = 1.95 m&lt;ref name="Soccerway"/&gt;
-|       position = [[Goalkeeper (association football)|Goalkeeper]]
-|    currentclub = [[Reading F.C.|Reading]]&lt;br&gt;(on loan from [[Arsenal F.C.|Arsenal]])
-|     clubnumber = 26
-|    youthyears1 = 2008–2010
-|    youthclubs1 = [[Club Atlético Independiente|Independiente]]
-|    youthyears2 = 2010–2012
-|    youthclubs2 = [[Arsenal F.C. Academy|Arsenal]]
-|         years1 = 2012–
-|         clubs1 = [[Arsenal F.C.|Arsenal]]
-|          caps1 = 6
-|         goals1 = 0
-|         years2 = 2012
-|         clubs2 = → [[Oxford United F.C.|Oxford United]] (loan)
-|          caps2 = 1
-|         goals2 = 0
-|         years3 = 2013–2014
-|         clubs3 = → [[Sheffield Wednesday F.C.|Sheffield Wednesday]] (loan)
-|          caps3 = 11
-|         goals3 = 0
-|         years4 = 2015
-|         clubs4 = → [[Rotherham United F.C.|Rotherham United]] (loan)
-|          caps4 = 8
-|         goals4 = 0
-|         years5 = 2015–2016
-|         clubs5 = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
-|          caps5 = 13
-|         goals5 = 0
-|         years6 = 2017–2018
-|         clubs6 = → [[Getafe CF|Getafe]] (loan)
-|          caps6 = 3
-|         goals6 = 0
-|         years7 = 2019
-|         clubs7 = → [[Reading F.C.|Reading]] (loan)
-|          caps7 = 7
-|         goals7 = 0
-|    nationalyears1 = 2009
-|    nationalteam1  = [[Argentina national under-17 football team|Argentina U17]]
-|    nationalcaps1  = 2 |nationalgoals1 = 0
-|    nationalyears2 = 2009–2011
-|    nationalteam2  = [[Argentina national under-20 football team|Argentina U20]]
-|    nationalcaps2  = 5 |nationalgoals2 = 0
-| club-update         = 00:23, 3 March 2019 (UTC)
+| height = 1.95 m&lt;ref name="Soccerway"/&gt;
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Reading F.C.|Reading]]&lt;br&gt;(on loan from [[Arsenal F.C.|Arsenal]])
+| clubnumber = 26
+| youthyears1 = 2008–2010
+| youthclubs1 = [[Club Atlético Independiente|Independiente]]
+| youthyears2 = 2010–2012
+| youthclubs2 = [[Arsenal F.C. Academy|Arsenal]]
+| years1 = 2012–
+| clubs1 = [[Arsenal F.C.|Arsenal]]
+| caps1 = 6
+| goals1 = 0
+| years2 = 2012
+| clubs2 = → [[Oxford United F.C.|Oxford United]] (loan)
+| caps2 = 1
+| goals2 = 0
+| years3 = 2013–2014
+| clubs3 = → [[Sheffield Wednesday F.C.|Sheffield Wednesday]] (loan)
+| caps3 = 11
+| goals3 = 0
+| years4 = 2015
+| clubs4 = → [[Rotherham United F.C.|Rotherham United]] (loan)
+| caps4 = 8
+| goals4 = 0
+| years5 = 2015–2016
+| clubs5 = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
+| caps5 = 13
+| goals5 = 0
+| years6 = 2017–2018
+| clubs6 = → [[Getafe CF|Getafe]] (loan)
+| caps6 = 3
+| goals6 = 0
+| years7 = 2019
+| clubs7 = → [[Reading F.C.|Reading]] (loan)
+| caps7 = 10
+| goals7 = 0
+| nationalyears1 = 2009
+| nationalteam1 = [[Argentina national under-17 football team|Argentina U17]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2009–2011
+| nationalteam2 = [[Argentina national under-20 football team|Argentina U20]]
+| nationalcaps2 = 5
+| nationalgoals2 = 0
+| club-update = 11:10, 17 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Damián Emiliano Martínez''' ({{IPA-es|daˈmjan emiˈljano ˈemi maɾˈtines|am}}, born 2 September 1992 in [[Mar Del Plata]]) is an Argentine professional [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for English club [[Reading F.C.|Reading]], [[loan (sports)|on loan]] from [[Arsenal F.C.|Arsenal]].
@@ -8024,7 +8068,7 @@ He was called up to the [[Argentina national football team|Argentina]] senior sq
 Martinez is currently sponsored by [[Puma (brand)|Puma]].&lt;ref&gt;{{cite web |url=https://mobile.twitter.com/emimartinezz1/status/983719992616210432 |title=Delighted to have signed a new contract with @pumafootball |website=Twitter.com}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 3 March 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -8099,10 +8143,10 @@ Martinez is currently sponsored by [[Puma (brand)|Puma]].&lt;ref&gt;{{cite web |
 |[[Reading F.C.|Reading]] (loan)
 |[[2018–19 Reading F.C. season|2018–19]]
 |[[Football League Championship|Championship]]
-|7||0||0||0||0||0||colspan="2"|—||7||0
+|10&lt;br /&gt;||0||0||0||0||0||colspan="2"|—||10||0
 |-
 !colspan="3"|Career total
-!49!!0!!6!!0!!7!!0!!3!!0!!65!!0
+!52!!0!!6!!0!!7!!0!!3!!0!!68!!0
 |}
 
 {{reflist|group=lower-alpha}}
@@ -8140,7 +8184,7 @@ Martinez is currently sponsored by [[Puma (brand)|Puma]].&lt;ref&gt;{{cite web |
 [[Category:Expatriate footballers in England]]
 [[Category:Expatriate footballers in Spain]]
 [[Category:La Liga players]]</text>
-      <sha1>annz1tf04likn88yilcfagxx143ou0c</sha1>
+      <sha1>ri00pjmc78hn5rb0vzjt8bknu4brf9o</sha1>
     </revision>
   </page>
   <page>
@@ -8148,16 +8192,17 @@ Martinez is currently sponsored by [[Puma (brand)|Puma]].&lt;ref&gt;{{cite web |
     <ns>0</ns>
     <id>46636113</id>
     <revision>
-      <id>880868707</id>
-      <parentid>880868637</parentid>
-      <timestamp>2019-01-29T23:53:30Z</timestamp>
+      <id>888766665</id>
+      <parentid>888356709</parentid>
+      <timestamp>2019-03-21T08:21:42Z</timestamp>
       <contributor>
-        <username>Victorsmesq</username>
-        <id>23126943</id>
+        <username>Gonta-Kun</username>
+        <id>14895224</id>
       </contributor>
+      <minor/>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="12435">{{Use dmy dates|date=January 2019}}
+      <text xml:space="preserve" bytes="12412">{{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 | name           = Takuma Asano &lt;br&gt; 浅野 拓磨
 | fullname       = Takuma Asano
@@ -8178,15 +8223,15 @@ Martinez is currently sponsored by [[Puma (brand)|Puma]].&lt;ref&gt;{{cite web |
 |years5 = 2017      |clubs5 = → [[VfB Stuttgart II]] (loan) |caps5 = 2 |goals5 = 1
 |years6 = 2018–     |clubs6 = → [[Hannover 96]] (loan) |caps6 = 6 |goals6 = 0
 | nationalteam1  = [[Japan national under-23 football team|Japan U23]]
-| nationalyears1 = 2015–
+| nationalyears1 = 2015–2016
 | nationalcaps1  = 18
 | nationalgoals1 = 6
 | nationalteam2  = [[Japan national football team|Japan]]
 | nationalyears2 = 2015–
-| nationalcaps2  = 17
+| nationalcaps2  = 18
 | nationalgoals2 = 3
 | club-update    = 19:43, 9 December 2018 (UTC)
-| ntupdate       = 14 November 2017
+| ntupdate       = 11 September 2018
 }}
 '''Takuma Asano''' ({{lang-ja|浅野 拓磨}} ''Asano Takuma''; born 10 November 1994) is a Japanese professional [[Association football|footballer]] who plays for [[Hannover 96]] of the [[Bundesliga]], on loan from {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]], and for the [[Japan national football team|Japan national team]].
 
@@ -8214,7 +8259,8 @@ On 7 May 2015, [[Japan national football team|Japan]]'s coach [[Vahid Halilhodž
 
 On 15 March 2018, [[Vahid Halilhodzic]] surprisingly left out Asano and [[Yosuke Ideguchi]] for the [[Japan national football team|Japan]] squad for friendly matches with [[Mali national football team|Mali]] and [[Ukraine national football team|Ukraine]] in preparation for the [[2018 FIFA World Cup]], with Halilhodzic describing Asano &amp; Ideguchi's lack of regular game time, he proclaimed ''It makes me sad that Asano and Ideguchi are not playing, They were the heroes of our qualifying game against [[Australia national football team|Australia]]. They haven’t been chosen this time, and if things continue the way they are, there is a chance that they won’t be chosen for the World Cup.”''&lt;ref&gt;{{cite news |title=Halilhodzic reveals roster for upcoming friendlies|url=https://www.japantimes.co.jp/sports/2018/03/15/soccer/halilhodzic-reveals-roster-upcoming-friendlies/#.WqqLBOjFLIU |newspaper=Japan TImes|date=15 March 2018|accessdate=15 March 2018}}&lt;/ref&gt; In May 2018 he was named in Japan’s preliminary [[Japan national football team|squad]] for the [[2018 World Cup]] in [[Russia]].&lt;ref&gt;{{cite web|title= World Cup 2018: All the confirmed squads for this summer's finals in Russia|url= https://www.bbc.co.uk/sport/football/440833652018}}&lt;/ref&gt; However, he did not make the final 23.&lt;ref&gt;https://www.goal.com/en/amp/news/kento-misao-yosuke-ideguchi-takuma-asano-cut-japan-world-cup/1vx0o2pxmil9h1s2hb9k4emkec&lt;/ref&gt;
 
-==Club statistics==
+==Career statistics==
+===Club===
 {{updated|match played 16 December 2017}} &lt;ref&gt;{{soccerway|takuma-asano/286104|accessdate=9 October 2017}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align:center"
@@ -8264,8 +8310,8 @@ On 15 March 2018, [[Vahid Halilhodzic]] surprisingly left out Asano and [[Yosuke
 !101||18||14||4||7||4||10||3||6||3||138||32
 |}
 
-==National team statistics==
-&lt;ref name="JNFTD"&gt;[ Japan National Football Team Database]{{ja}}&lt;/ref&gt;
+===International===
+{{Updated|11 September 2018}}&lt;ref name="NFT"&gt;{{NFT player|accessdate=18 March 2019}}&lt;/ref&gt;
 {| class="wikitable" style="text-align:center"
 ! colspan=3 | [[Japan national football team|Japan national team]]
 |-
@@ -8277,10 +8323,12 @@ On 15 March 2018, [[Vahid Halilhodzic]] surprisingly left out Asano and [[Yosuke
 |-
 |[[2017 Japan national football team|2017]]||7||1
 |-
-!Total||17||3
+|[[2018 Japan national football team|2018]]||1||0
+|-
+!Total||18||3
 |}
 
-===National team goals===
+===National goals===
 :''As of match played 31 August 2017. Japan score listed first, score column indicates score after each Asano goal.''&lt;ref name=SW&gt;{{Soccerway|takuma-asano/286104}}&lt;/ref&gt;
 
 {| class="wikitable sortable plainrowheaders"
@@ -8322,19 +8370,12 @@ On 15 March 2018, [[Vahid Halilhodzic]] surprisingly left out Asano and [[Yosuke
 {{reflist}}
 
 ==External links==
-*{{FIFA player|391705}}
-* {{NFT}}
-* {{J.League player|11346}}
+*{{FIFA player}}
+*{{J.League player}}
 
 {{Hannover 96 squad}}
 {{J.League Rookie of the Year}}
-{{Navboxes colour
-|title= Japan squads
-|bg= #0202FF
-|fg= #FFFFFF
-|list1=
 {{Japan men's football squad 2016 Summer Olympics}}
-}}
 
 {{DEFAULTSORT:Asano, Takuma}}
 [[Category:1994 births]]
@@ -8357,7 +8398,7 @@ On 15 March 2018, [[Vahid Halilhodzic]] surprisingly left out Asano and [[Yosuke
 [[Category:Expatriate footballers in Germany]]
 [[Category:Association football forwards]]
 [[Category:Bundesliga players]]</text>
-      <sha1>7ykvbx5k3x7vwd8dxfckvrbl1m9h57n</sha1>
+      <sha1>bn2wus6o52wjsy1p5qahnhczceq57uz</sha1>
     </revision>
   </page>
 </mediawiki>

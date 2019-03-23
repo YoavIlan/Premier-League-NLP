@@ -3,7 +3,7 @@
     <sitename>Wikipedia</sitename>
     <dbname>enwiki</dbname>
     <base>https://en.wikipedia.org/wiki/Main_Page</base>
-    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <generator>MediaWiki 1.33.0-wmf.22</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>1529937</id>
     <revision>
-      <id>885408549</id>
-      <parentid>885333747</parentid>
-      <timestamp>2019-02-27T21:19:32Z</timestamp>
+      <id>888536121</id>
+      <parentid>887322098</parentid>
+      <timestamp>2019-03-19T19:47:25Z</timestamp>
       <contributor>
         <username>Nfc123</username>
         <id>1265316</id>
       </contributor>
-      <comment>app 26 feb</comment>
+      <comment>app 16 mar</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="37852">{{other people|Thomas Heaton}}
+      <text xml:space="preserve" bytes="37847">{{other people|Thomas Heaton}}
 {{Use British English|date=January 2013}}
 {{Use dmy dates|date=June 2018}}
 {{Infobox football biography
@@ -83,14 +83,14 @@
 | years7         = 2010      |clubs7  = → [[Wycombe Wanderers F.C.|Wycombe Wanderers]] (loan)     |caps7  = 16  |goals7  = 0
 | years8         = 2010–2012 |clubs8  = [[Cardiff City F.C.|Cardiff City]]                        |caps8  = 29  |goals8  = 0
 | years9         = 2012–2013 |clubs9  = [[Bristol City F.C.|Bristol City]]                        |caps9  = 43  |goals9  = 0
-| years10        = 2013–     |clubs10 = [[Burnley F.C.|Burnley]]                                  |caps10 = 178 |goals10 = 0
+| years10        = 2013–     |clubs10 = [[Burnley F.C.|Burnley]]                                  |caps10 = 181 |goals10 = 0
 | nationalyears1 = 2001      |nationalteam1 = [[England national under-16 football team|England U16]] |nationalcaps1 = 4 |nationalgoals1 = 0
 | nationalyears2 = 2002–2003 |nationalteam2 = [[England national under-17 football team|England U17]] |nationalcaps2 = 9 |nationalgoals2 = 0
 | nationalyears3 = 2004      |nationalteam3 = [[England national under-18 football team|England U18]] |nationalcaps3 = 2 |nationalgoals3 = 0
 | nationalyears4 = 2004      |nationalteam4 = [[England national under-19 football team|England U19]] |nationalcaps4 = 1 |nationalgoals4 = 0
 | nationalyears5 = 2008–2009 |nationalteam5 = [[England national under-21 football team|England U21]] |nationalcaps5 = 3 |nationalgoals5 = 0
 | nationalyears6 = 2016–     |nationalteam6 = [[England national football team|England]]              |nationalcaps6 = 3 |nationalgoals6 = 0
-| club-update    = 21:19, 27 February 2019 (UTC)
+| club-update    = 19:47, 19 March 2019 (UTC)
 | nationalteam-update = 21:20, 13 June 2017 (UTC)
 }}
 
@@ -158,7 +158,7 @@ On 16 May 2018, he was one of 5 players named on standby for the 23-man [[Englan
 
 ==Career statistics==
 ===Club===
-{{updated|match played 26 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -268,13 +268,13 @@ On 16 May 2018, he was one of 5 players named on standby for the 23-man [[Englan
 |-
 |[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|41869|2018|name=Tom Heaton|accessdate=12 August 2018}}&lt;/ref&gt;
 |Premier League
-|9||0||0||0||1||0||2{{efn|Appearances in [[UEFA Europa League]]}}||0||12||0
+|12||0||0||0||1||0||2{{efn|Appearances in [[UEFA Europa League]]}}||0||15||0
 |-
 !colspan=2|Total
-!178||0||6||0||4||0||2||0||190||0
+!181||0||6||0||4||0||2||0||193||0
 |-
 !colspan=3|Career total
-!313||0||12||0||18||0||4||0||347||0
+!316||0||12||0||18||0||4||0||350||0
 |}
 
 {{notelist}}
@@ -352,7 +352,7 @@ On 16 May 2018, he was one of 5 players named on standby for the 23-man [[Englan
 [[Category:UEFA Euro 2016 players]]
 [[Category:Expatriate footballers in Belgium]]
 [[Category:English expatriate sportspeople in Belgium]]</text>
-      <sha1>i5um519plzs6535ctjtsbhcchk1ga6q</sha1>
+      <sha1>7etv923309jwtx0x0zr189mpap0swtz</sha1>
     </revision>
   </page>
   <page>
@@ -566,17 +566,17 @@ On 22 June 2015, [[Burnley F.C.|Burnley]] secured the signing of Lowton on a thr
     <ns>0</ns>
     <id>7759007</id>
     <revision>
-      <id>885409514</id>
-      <parentid>885076383</parentid>
-      <timestamp>2019-02-27T21:25:24Z</timestamp>
+      <id>888536711</id>
+      <parentid>887324541</parentid>
+      <timestamp>2019-03-19T19:50:52Z</timestamp>
       <contributor>
         <username>Nfc123</username>
         <id>1265316</id>
       </contributor>
-      <comment>app 26 feb</comment>
+      <comment>app 16 mar</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="30461">{{Use British English|date=November 2017}}
+      <text xml:space="preserve" bytes="30455">{{Use British English|date=November 2017}}
 {{Use dmy dates|date=January 2018}}
 {{Infobox football biography
 | name                = Jack Cork
@@ -602,7 +602,7 @@ On 22 June 2015, [[Burnley F.C.|Burnley]] secured the signing of Lowton on a thr
 | years9 = 2010–2011 | clubs9 = → [[Burnley F.C.|Burnley]] (loan)                     | caps9 = 40 | goals9 = 3
 | years10= 2011–2015 | clubs10 =  [[Southampton F.C.|Southampton]]                    | caps10= 114| goals10= 2
 | years11= 2015–2017 | clubs11 =  [[Swansea City A.F.C.|Swansea City]]                | caps11= 80 | goals11= 2
-| years12= 2017–     | clubs12 =  [[Burnley F.C.|Burnley]]                            | caps12= 65 | goals12= 3
+| years12= 2017–     | clubs12 =  [[Burnley F.C.|Burnley]]                            | caps12= 68 | goals12= 3
 | nationalyears1 = 2005      | nationalteam1 = [[England national under-16 football team|England U16]] | nationalcaps1 = 3  | nationalgoals1 = 0
 | nationalyears2 = 2005–2006 | nationalteam2 = [[England national under-17 football team|England U17]] | nationalcaps2 = 7  | nationalgoals2 = 0
 | nationalyears3 = 2006      | nationalteam3 = [[England national under-18 football team|England U18]] | nationalcaps3 = 1  | nationalgoals3 = 0
@@ -611,7 +611,7 @@ On 22 June 2015, [[Burnley F.C.|Burnley]] secured the signing of Lowton on a thr
 | nationalyears6 = 2008–2011 | nationalteam6 = [[England national under-21 football team|England U21]] | nationalcaps6 = 13 | nationalgoals6 = 0
 | nationalyears7 = 2012      | nationalteam7 = [[Great Britain Olympic football team|Great Britain]]   | nationalcaps7 = 4  | nationalgoals7 = 0
 | nationalyears8 = 2017–     | nationalteam8 = [[England national football team|England]]              | nationalcaps8 = 1  | nationalgoals8 = 0
-| club-update         = 21:25, 27 February 2019 (UTC)
+| club-update         = 19:50, 19 March 2019 (UTC)
 | nationalteam-update = 00:23, 10 December 2018 (UTC)
 }}
 '''Jack Frank Porteous Cork''' (born 25 June 1989) is an English professional [[Association football|footballer]] who plays as a [[midfielder]] for {{English football updater|Burnley}} club [[Burnley F.C.|Burnley]] and the [[England national football team|English national team]]. He played for the [[Great Britain Olympic football team|Great Britain Olympic team]] at the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Summer Olympics]].
@@ -664,7 +664,7 @@ On 2 July 2012, Cork was named in [[Stuart Pearce]]'s 18-man [[Great Britain Oly
 
 ==Career statistics==
 ===Club===
-{{updated|match played 26 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -787,13 +787,13 @@ On 2 July 2012, Cork was named in [[Stuart Pearce]]'s 18-man [[Great Britain Oly
 |-
 |[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|45288|2018|accessdate=10 December 2018}}&lt;/ref&gt;
 |Premier League
-|27||1||2||0||0||0||6{{efn|Appearances in [[UEFA Europa League]]}}||2||35||3
+|30||1||2||0||0||0||6{{efn|Appearances in [[UEFA Europa League]]}}||2||38||3
 |-
 !colspan=2|Total
-!65||3||3||0||2||1||6||2||76||6
+!68||3||3||0||2||1||6||2||79||6
 |-
 !colspan=3|Career total
-!414||13||18||1||16||2||7||2||455||18
+!417||13||18||1||16||2||7||2||458||18
 |}
 
 {{notelist}}
@@ -854,7 +854,7 @@ On 2 July 2012, Cork was named in [[Stuart Pearce]]'s 18-man [[Great Britain Oly
 [[Category:Premier League players]]
 [[Category:Olympic footballers of Great Britain]]
 [[Category:Footballers at the 2012 Summer Olympics]]</text>
-      <sha1>kv085cthxzuvj21ie7y66v47m3b9ncr</sha1>
+      <sha1>0mq5oz6vgr6bb8l6s2gwxv3xtfg9vwf</sha1>
     </revision>
   </page>
   <page>
@@ -862,17 +862,17 @@ On 2 July 2012, Cork was named in [[Stuart Pearce]]'s 18-man [[Great Britain Oly
     <ns>0</ns>
     <id>30579555</id>
     <revision>
-      <id>885408894</id>
-      <parentid>885076204</parentid>
-      <timestamp>2019-02-27T21:21:50Z</timestamp>
+      <id>888992080</id>
+      <parentid>888986435</parentid>
+      <timestamp>2019-03-22T18:32:38Z</timestamp>
       <contributor>
-        <username>Nfc123</username>
-        <id>1265316</id>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <comment>app 26 feb</comment>
+      <comment>Reverted 1 edit by [[Special:Contributions/82.38.18.58|82.38.18.58]] ([[User talk:82.38.18.58|talk]]): Played for their first team ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="34552">{{EngvarB|date=July 2013}}
+      <text xml:space="preserve" bytes="34546">{{EngvarB|date=July 2013}}
 {{Use dmy dates|date=September 2018}}
 {{Infobox football biography
 |           name = James Tarkowski
@@ -902,13 +902,13 @@ On 2 July 2012, Cork was named in [[Stuart Pearce]]'s 18-man [[Great Britain Oly
 |         goals3 = 4
 |         years4 = 2016–
 |         clubs4 = [[Burnley F.C.|Burnley]]
-|          caps4 = 79
+|          caps4 = 82
 |         goals4 = 3
 | nationalyears1      = 2018–
 | nationalteam1       = [[England national football team|England]]
 | nationalcaps1       = 2
 | nationalgoals1      = 0
-| club-update         = 21:21, 27 February 2019 (UTC)
+| club-update         = 19:49, 19 March 2019 (UTC)
 | nationalteam-update = 10:56, 9 December 2018 (UTC)
 }}
 '''James Alan Tarkowski''' (born 19 November 1992) is an English professional [[association football|footballer]] who plays as a [[centre back]] for {{English football updater|Burnley}} club [[Burnley F.C.|Burnley]] and the [[England national football team|English national team]].
@@ -968,7 +968,7 @@ On 16 May 2018, he was one of 5 players named on standby for [[Gareth Southgate]
 
 ==Career statistics==
 ===Club===
-{{Updated|match played 26 February 2019}}
+{{Updated|match played 16 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -1034,13 +1034,13 @@ On 16 May 2018, he was one of 5 players named on standby for [[Gareth Southgate]
 |-
 |[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|58187|2018|accessdate=10 December 2018}}&lt;/ref&gt;
 |Premier League
-|25||3||2||0||0||0||5{{efn|Appearances in [[UEFA Europa League]]}}||0||32||3
+|28||3||2||0||0||0||5{{efn|Appearances in [[UEFA Europa League]]}}||0||35||3
 |-
 !colspan=2|Total
-!79||3||6||0||3||0||5||0||93||3
+!82||3||6||0||3||0||5||0||96||3
 |-
 !colspan=3|Career total
-!221||12||15||0||6||0||14||1||256||13
+!224||12||15||0||6||0||14||1||259||13
 |}
 
 {{notelist}}
@@ -1092,7 +1092,7 @@ On 16 May 2018, he was one of 5 players named on standby for [[Gareth Southgate]
 [[Category:English Football League players]]
 [[Category:Premier League players]]
 [[Category:English people of Polish descent]]</text>
-      <sha1>levp9uf5vor4zxql5zmnrzcq7uq3u9e</sha1>
+      <sha1>bvsulk40xlqbbfk0tzk0a50mqin3ts7</sha1>
     </revision>
   </page>
   <page>
@@ -1100,24 +1100,24 @@ On 16 May 2018, he was one of 5 players named on standby for [[Gareth Southgate]
     <ns>0</ns>
     <id>29717443</id>
     <revision>
-      <id>885408721</id>
-      <parentid>885076024</parentid>
-      <timestamp>2019-02-27T21:20:52Z</timestamp>
+      <id>888536374</id>
+      <parentid>888233372</parentid>
+      <timestamp>2019-03-19T19:49:05Z</timestamp>
       <contributor>
         <username>Nfc123</username>
         <id>1265316</id>
       </contributor>
-      <comment>app 26 feb</comment>
+      <comment>app 16 mar</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="24742">{{For|the owner of [[Dartmoor Zoological Park]]|Benjamin Mee (disambiguation){{!}}Benjamin Mee}}
-{{Use dmy dates|date=October 2013}}
+      <text xml:space="preserve" bytes="24899">{{For|the owner of [[Dartmoor Zoological Park]]|Benjamin Mee (disambiguation){{!}}Benjamin Mee}}
 {{Use British English|date=September 2010}}
+{{Use dmy dates|date=October 2013}}
 {{Infobox football biography
 | name = Ben Mee
-| image = Ben Mee 2015.jpg
+| image =Ben Mee (24440984920) (cropped).jpg
 | image_size = 200
-| caption = Mee playing for [[Burnley F.C.|Burnley]] in 2015
+| caption = Mee playing for [[Burnley F.C.|Burnley]] in 2016
 | fullname = Benjamin Thomas Mee&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
 | birth_date  = {{birth date and age|1989|9|21|df=y}}&lt;ref name="Sky Sports Football Yearbook 2012–2013"&gt;{{cite book|editor1-first=Glenda|editor1-last=Rollin|editor2-first=Jack|editor2-last=Rollin |title=Sky Sports Football Yearbook 2012–2013 |year=2012 |publisher=Headline Publishing Group |location=London |isbn=978-0-7553-6356-8 |page=444 |edition=43rd}}&lt;/ref&gt;
 | birth_place = [[Sale, Greater Manchester|Sale]], England
@@ -1130,7 +1130,7 @@ On 16 May 2018, he was one of 5 players named on standby for [[Gareth Southgate]
 | years1 = 2008–2012 | clubs1 = [[Manchester City F.C.|Manchester City]]        | caps1 = 0   | goals1 = 0
 | years2 = 2011      | clubs2 = → [[Leicester City F.C.|Leicester City]] (loan) | caps2 = 15  | goals2 = 0
 | years3 = 2011–2012 | clubs3 = → [[Burnley F.C.|Burnley]] (loan)               | caps3 = 19  | goals3 = 0
-| years4 = 2012–     | clubs4 = [[Burnley F.C.|Burnley]]                        | caps4 = 239 | goals4 = 6
+| years4 = 2012–     | clubs4 = [[Burnley F.C.|Burnley]]                        | caps4 = 242 | goals4 = 6
 | nationalyears1 = 2007–2008
 | nationalteam1 = [[England national under-19 football team|England U19]]
 | nationalcaps1 = 3
@@ -1143,7 +1143,7 @@ On 16 May 2018, he was one of 5 players named on standby for [[Gareth Southgate]
 | nationalteam3 = [[England national under-21 football team|England U21]]
 | nationalcaps3 = 2
 | nationalgoals3 = 0
-| club-update         = 21:20, 27 February 2019 (UTC)
+| club-update         = 19:49, 19 March 2019 (UTC)
 | nationalteam-update = 
 }}
 '''Benjamin Thomas Mee''' (born 21 September 1989) is an English professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Premier League]] club [[Burnley F.C.|Burnley]].
@@ -1164,7 +1164,8 @@ On [[New Years Day]] 2011, Mee joined former Manchester City manager [[Sven-Gör
 After the end of 2010–11 season, Mee returned to Manchester City after 6 months at Leicester City.&lt;ref&gt;{{cite news |title=eicester City's season finishing far too early for Ben Mee |url=http://leicestercityfootballclub.com/2011/05/06/leicester-citys-season-finishing-far-too-early-for-ben-mee/ |publisher=Leicester City Football Club.com |date=6 May 2011 |accessdate=10 April 2012}}&lt;/ref&gt; Following the sacking of Sven Göran Eriksson, Mee commented that he was sad to hear of the news.&lt;ref&gt;{{cite news |title=Ben Mee sad to see Sven-Goran Eriksson go |url=http://www.thisisleicestershire.co.uk/Ben-Mee-sad-Sven-Goran-Eriksson/story-13722180-detail/story.html|archive-url=https://archive.is/20120912011250/http://www.thisisleicestershire.co.uk/Ben-Mee-sad-Sven-Goran-Eriksson/story-13722180-detail/story.html|dead-url=yes|archive-date=12 September 2012 |work=Leicester Mercury |date=1 November 2011 |accessdate=10 April 2012}}&lt;/ref&gt;
 
 ===Burnley===
-[[File:Arsenal Vs Burnley (24440984920).jpg|thumb|right|Mee playing against Arsenal]]
+[[File:Ben Mee 2015.jpg|thumb|upright|Mee playing for [[Burnley F.C.|Burnley]] in 2015]]
+
 On 14 July 2011 it was confirmed that Mee had joined [[Burnley F.C.|Burnley]] on a season long loan.&lt;ref name="Mee loan"&gt;{{Cite web |url=http://www.clarets-mad.co.uk/news/tmnw/burnley_get_mee_685858/index.shtml |title=Burnley get Mee |work=clarets-mad.co.uk |publisher=Supporters of Burnley Football Club |date=14 July 2011 |accessdate=14 July 2011}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=http://www.burnleyfootballclub.com/page/LatestHeadlines/0,,10413~2392671,00.html |title=City Starlet Mee is First Summer Signing |work=burnleyfootballclub.com |publisher=Burnley Football Club |date=3 August 2011 |accessdate=29 October 2011 |archiveurl=https://web.archive.org/web/20110717022039/http://www.burnleyfootballclub.com/page/LatestHeadlines/0%2C%2C10413~2392671%2C00.html |archivedate=17 July 2011 |deadurl=yes |df=dmy-all}}&lt;/ref&gt; Following his move to Burnley on loan, Mee hints that his good performance at Burnley could earn him a chance back at parent club Manchester City next year.&lt;ref&gt;{{cite news |title=Mee keen to impress |url=http://www1.skysports.com/football/news/11095/7219908/ |publisher=Sky Sports |date=3 October 2011 |accessdate=10 April 2012}}&lt;/ref&gt;
 
 On 19 July 2011, Mee made his debut for Burnley in a pre-season friendly match against before coming off for [[David Edgar (soccer)|David Edgar]] on the 67th minute in a 2–0 loss against League Two side [[Bristol Rovers F.C.|Bristol Rovers]].&lt;ref&gt;{{cite news |title=Bristol Rovers 2 Burnley 0 |url=http://www.burnleyfootballclub.com/page/LatestHeadlines/0,,10413~2396860,00.html |publisher=Burnley F.C. |date=29 July 2011 |accessdate=10 April 2012 |archiveurl=https://web.archive.org/web/20110723010846/http://www.burnleyfootballclub.com/page/LatestHeadlines/0%2C%2C10413~2396860%2C00.html |archivedate=23 July 2011 |deadurl=yes |df=dmy-all}}&lt;/ref&gt; On 6 August 2011, Mee made his league debut for Burnley in a 2–2 draw against [[Watford F.C.|Watford]] and played 90 minutes until the end of the match.&lt;ref&gt;{{cite news |title=Burnley 2 – 2 Watford |url=http://www.burnleyfootballclub.com/page/MatchReport/0,,10413~58431,00.html |publisher=Burnley F.C. |date=6 August 2011 |accessdate=10 April 2012 |archiveurl=https://web.archive.org/web/20120930012346/http://www.burnleyfootballclub.com/page/MatchReport/0%2C%2C10413~58431%2C00.html |archivedate=30 September 2012 |deadurl=yes |df=dmy-all}}&lt;/ref&gt; On 29 November 2011, Mee got his first clean sheet for Burnley without letting an opponent score, capping a perfect birthday for Burnley manager [[Eddie Howe]] in a 4–0 win over [[Ipswich Town F.C.|Ipswich Town]].&lt;ref&gt;{{cite news |title=Burnley 4 – 0 Ipswich Town |url=http://www.burnleyfootballclub.com/page/MatchReport/0,,10413~58516,00.html |publisher=Burnley Football Club.com |date=29 November 2011 |accessdate=10 April 2012 |archiveurl=https://web.archive.org/web/20120310132510/http://www.burnleyfootballclub.com/page/MatchReport/0%2C%2C10413~58516%2C00.html |archivedate=10 March 2012 |deadurl=yes |df=dmy-all}}&lt;/ref&gt;
@@ -1181,7 +1182,7 @@ In the [[2014–15 Burnley F.C. season|2014–15 season]], Mee started his seaso
 At international level, Mee has represented England at [[England national under-21 football team|under-21]] level, making his debut as a substitute in a friendly against [[Germany national under-21 football team|Germany]].&lt;ref&gt;{{Cite web |url=http://www.thefa.com/England/mens-under-21s/News/match-centre/2010/GermanyvEngland/EnglandMatchReport?p=mr&amp;mid=115512 |title=Germany v England |date=16 November 2010 |accessdate=23 November 2010 |publisher=the FA}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 26 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -1197,15 +1198,15 @@ At international level, Mee has represented England at [[England national under-
 !Division||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
 |-
 |rowspan=4|[[Manchester City F.C.|Manchester City]]
-|&lt;center&gt;[[2008–09 Manchester City F.C. season|2008–09]]&lt;ref name="Man City 2008/2009 player appearances"&gt;{{Soccerbase season|55369|2008|accessdate=11 February 2018}}&lt;/ref&gt;
+|&lt;center&gt;[[2008–09 Manchester City F.C. season|2008–09]]&lt;ref name="Man City 2008/2009 player appearances"&gt;{{Soccerbase season|55369|2008|accessdate=11 February 2018}}&lt;/ref&gt;&lt;/center&gt;
 |[[Premier League]]
 |0||0||0||0||0||0||0||0||0||0
 |-
-|&lt;center&gt;[[2009–10 Manchester City F.C. season|2009–10]]&lt;ref name="Man City 2009/2010 player appearances"&gt;{{Soccerbase season|55369|2009|accessdate=11 February 2018}}&lt;/ref&gt;
+|&lt;center&gt;[[2009–10 Manchester City F.C. season|2009–10]]&lt;ref name="Man City 2009/2010 player appearances"&gt;{{Soccerbase season|55369|2009|accessdate=11 February 2018}}&lt;/ref&gt;&lt;/center&gt;
 |Premier League
 |0||0||0||0||0||0||colspan=2|—||0||0
 |-
-|&lt;center&gt;[[2010–11 Manchester City F.C. season|2010–11]]&lt;ref name="Man City and Leicester 2010/2011 player appearances"&gt;{{Soccerbase season|55369|2010|accessdate=21 July 2018}}&lt;/ref&gt;
+|&lt;center&gt;[[2010–11 Manchester City F.C. season|2010–11]]&lt;ref name="Man City and Leicester 2010/2011 player appearances"&gt;{{Soccerbase season|55369|2010|accessdate=21 July 2018}}&lt;/ref&gt;&lt;/center&gt;
 |Premier League
 |0||0||colspan=2|—||1||0||0||0||1||0
 |-
@@ -1213,7 +1214,7 @@ At international level, Mee has represented England at [[England national under-
 !0||0||0||0||1||0||0||0||1||0
 |-
 |[[Leicester City F.C.|Leicester City]] (loan)
-|&lt;center&gt;[[2010–11 Leicester City F.C. season|2010–11]]&lt;ref name="Man City and Leicester 2010/2011 player appearances"/&gt;
+|&lt;center&gt;[[2010–11 Leicester City F.C. season|2010–11]]&lt;ref name="Man City and Leicester 2010/2011 player appearances"/&gt;&lt;/center&gt;
 |[[EFL Championship|Championship]]
 |15||0||0||0||colspan=2|—||colspan=2|—||15||0
 |-
@@ -1248,20 +1249,20 @@ At international level, Mee has represented England at [[England national under-
 |-
 |[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name="Burnley 2018/2019 player appearances"&gt;{{Soccerbase season|55369|2018|accessdate=30 July 2018}}&lt;/ref&gt;
 |Premier League
-|28||0||0||0||1||0||4&lt;ref group=lower-alpha name=UEL&gt;Appearances in [[UEFA Europa League]]&lt;/ref&gt;||0||33||0
+|31||0||0||0||1||0||4&lt;ref group=lower-alpha name=UEL&gt;Appearances in [[UEFA Europa League]]&lt;/ref&gt;||0||36||0
 |-
 !colspan=2|Total
-!258||6||7||0||10||0||4||0||279||6
+!261||6||7||0||10||0||4||0||282||6
 |-
 !colspan=3|Career totals
-!273||6||7||0||11||0||4||0||295||6
+!276||6||7||0||11||0||4||0||298||6
 |}
 
 {{Reflist|group=lower-alpha}}
 
 ==Honours==
 '''Burnley'''
-*[[Football League Championship]]: [[2015–16 Football League Championship|2015–16]];&lt;ref&gt;{{cite web |url=https://int.soccerway.com/players/ben-mee/97357/ |title=England – B. Mee – Profile with news, career statistics and history |publisher=Soccerway}}&lt;/ref&gt; runner-up: [[2013–14 Football League Championship|2013–14]]&lt;ref name="B. Mee"&gt;{{cite web |title=B. Mee |url=https://int.soccerway.com/players/ben-mee/97357/ |publisher=Soccerway |accessdate=26 April 2015}}&lt;/ref&gt;
+*[[Football League Championship]]: [[2015–16 Football League Championship|2015–16]];&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Sky Sports Football Yearbook 2016–2017 |year=2016 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-3395-0 |pages=94–95}}&lt;/ref&gt; runner-up: [[2013–14 Football League Championship|2013–14]]&lt;ref&gt;{{cite book |editor-first=John |editor-last=Anderson |title=Sky Sports Football Yearbook 2014–2015 |year=2014 |publisher=Headline Publishing Group |location=London |isbn=978-1-4722-1251-1 |pages=90–91}}&lt;/ref&gt;
 
 ==References==
 {{reflist}}
@@ -1288,7 +1289,7 @@ At international level, Mee has represented England at [[England national under-
 [[Category:Burnley F.C. players]]
 [[Category:English Football League players]]
 [[Category:Premier League players]]</text>
-      <sha1>b2g8h54i1ixrr44i8efoaz420fecvhh</sha1>
+      <sha1>tp7kor00wxxsufp45qnvzwtrsg2bdt1</sha1>
     </revision>
   </page>
   <page>
@@ -1296,17 +1297,17 @@ At international level, Mee has represented England at [[England national under-
     <ns>0</ns>
     <id>17530360</id>
     <revision>
-      <id>885409612</id>
-      <parentid>885077518</parentid>
-      <timestamp>2019-02-27T21:26:17Z</timestamp>
+      <id>888536848</id>
+      <parentid>887325182</parentid>
+      <timestamp>2019-03-19T19:51:42Z</timestamp>
       <contributor>
         <username>Nfc123</username>
         <id>1265316</id>
       </contributor>
-      <comment>app 26 feb</comment>
+      <comment>app 16 mar</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="39494">{{about||the former Icelandic international footballer|Jóhann Birnir Guðmundsson}}
+      <text xml:space="preserve" bytes="39488">{{about||the former Icelandic international footballer|Jóhann Birnir Guðmundsson}}
 {{icelandic name|Jóhann|male}}
 {{Use dmy dates|date=June 2018}}
 {{Infobox football biography
@@ -1327,11 +1328,11 @@ At international level, Mee has represented England at [[England national under-
 | years1        = 2008–2009 | clubs1  = [[Breiðablik UBK|Breiðablik]]                 | caps1  = 22  | goals1  = 6
 | years2        = 2009–2014 | clubs2  = [[AZ Alkmaar|AZ]]                             | caps2  = 119 | goals2  = 9
 | years3        = 2014–2016 | clubs3  = [[Charlton Athletic F.C.|Charlton Athletic]]  | caps3  = 81  | goals3  = 16
-| years4        = 2016–     | clubs4  = [[Burnley F.C.|Burnley]]                      | caps4  = 76  | goals4  = 5
+| years4        = 2016–     | clubs4  = [[Burnley F.C.|Burnley]]                      | caps4  = 79  | goals4  = 6
 | nationalyears1  = 2008      | nationalteam1  = [[Iceland national under-19 football team|Iceland U19]]  | nationalcaps1  = 2   | nationalgoals1  = 1
 | nationalyears2  = 2008–2011 | nationalteam2  = [[Iceland national under-21 football team|Iceland U21]]  | nationalcaps2  = 14  | nationalgoals2  = 6
 | nationalyears3  = 2008–     | nationalteam3  = [[Iceland national football team|Iceland]]               | nationalcaps3  = 71  | nationalgoals3  = 7
-| club-update     = 21:26, 27 February 2019 (UTC)
+| club-update     = 19:51, 19 March 2019 (UTC)
 | nationalteam-update = 22:50, 15 October 2018 (UTC)
 }}
 
@@ -1387,7 +1388,7 @@ In May 2018, he was named in Iceland's 23-man squad for the [[2018 FIFA World Cu
 
 ==Career statistics==
 ===Club===
-{{Updated|match played 26 February 2019}}
+{{Updated|match played 16 March 2019}}
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -1450,13 +1451,13 @@ In May 2018, he was named in Iceland's 23-man squad for the [[2018 FIFA World Cu
 |-
 |[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name="J. Gudmundsson"/&gt;
 |Premier League
-|21||2||1||0||1||0||5&lt;ref group=lower-alpha name=UEL/&gt;||0||28||2
+|24||3||1||0||1||0||5&lt;ref group=lower-alpha name=UEL/&gt;||0||31||3
 |-
 !colspan=2|Total
-!76||5||5||0||4||0||5||0||90||5
+!79||6||5||0||4||0||5||0||93||6
 |-
 !colspan=3|Career total
-!298||36||25||11||8||0||42||9||373||56
+!301||37||25||11||8||0||42||9||376||57
 |}
 
 {{reflist|group=lower-alpha}}
@@ -1576,7 +1577,7 @@ In May 2018, he was named in Iceland's 23-man squad for the [[2018 FIFA World Cu
 [[Category:UEFA Euro 2016 players]]
 [[Category:2018 FIFA World Cup players]]
 [[Category:Association football wingers]]</text>
-      <sha1>lp7q0txo4khowgtutyeqz4sz4j8wn9q</sha1>
+      <sha1>ttn9z8w7nfp7gmy8tvzcy5oiqtwhr87</sha1>
     </revision>
   </page>
   <page>
@@ -1584,17 +1585,17 @@ In May 2018, he was named in Iceland's 23-man squad for the [[2018 FIFA World Cu
     <ns>0</ns>
     <id>19553457</id>
     <revision>
-      <id>885841449</id>
-      <parentid>885841330</parentid>
-      <timestamp>2019-03-02T18:09:22Z</timestamp>
+      <id>888537086</id>
+      <parentid>887878739</parentid>
+      <timestamp>2019-03-19T19:53:26Z</timestamp>
       <contributor>
-        <username>Beeney xx</username>
-        <id>35180261</id>
+        <username>Nfc123</username>
+        <id>1265316</id>
       </contributor>
-      <comment>/* Career statistics */</comment>
+      <comment>app 16 mar</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="26245">{{Use British English|date=February 2017}}
+      <text xml:space="preserve" bytes="26247">{{Use British English|date=February 2017}}
 {{Use dmy dates|date=March 2018}}
 {{Infobox football biography
 | name = Ashley Barnes
@@ -1644,13 +1645,13 @@ In May 2018, he was named in Iceland's 23-man squad for the [[2018 FIFA World Cu
 | goals8 = 42
 | years9 = 2014–
 | clubs9 = [[Burnley F.C.|Burnley]]
-| caps9 = 156
+| caps9 = 158
 | goals9 = 32
 | nationalyears1 = 2008
 | nationalteam1 = Austria U20
 | nationalcaps1 = 1
 | nationalgoals1 = 0
-| club-update = 18:08, 2 March 2019 (UTC)
+| club-update = 19:53, 19 March 2019 (UTC)
 }}
 '''Ashley Luke Barnes''' (born 30 October 1989) is a professional [[Association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for [[Premier League]] club [[Burnley F.C.|Burnley]].
 
@@ -1696,7 +1697,7 @@ Barnes said in April 2015 that he had had no further contact with the [[Austrian
 Barnes is from [[Dunkerton, Somerset]], near Bath.&lt;ref&gt;{{cite web |url=http://www.westerndailypress.co.uk/Delighted-Barnes-sets-sights-flight-Brighton/story-12305135-detail/story.html |title=Delighted Barnes sets sights on top flight with Brighton |date=21 April 2011 |publisher=Western Daily Press |deadurl=yes |archiveurl=https://web.archive.org/web/20140503203332/http://www.westerndailypress.co.uk/Delighted-Barnes-sets-sights-flight-Brighton/story-12305135-detail/story.html |archivedate=3 May 2014 |df=dmy-all}}&lt;/ref&gt; He attended [[Writhlington School]], near Bath.&lt;ref&gt;{{cite web |url=https://www.writhlington.org.uk/sixth-form/alumni/ |title=Alumni – Writhlington School |website=www.writhlington.org.uk}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 2 March 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -1795,13 +1796,13 @@ Barnes is from [[Dunkerton, Somerset]], near Bath.&lt;ref&gt;{{cite web |url=htt
 |-
 |[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|46576|2018|accessdate=3 August 2018}}&lt;/ref&gt;
 |Premier League
-|28||9||0||0||1||0||5{{efn|Appearances in [[2018–19 UEFA Europa League|UEFA Europa League]]}}||1||34||10
+|30||9||0||0||1||0||5{{efn|Appearances in [[2018–19 UEFA Europa League|UEFA Europa League]]}}||1||36||10
 |-
 !colspan=2|Total
-!156||32||5||1||4||0||5||1||170||34
+!158||32||5||1||4||0||5||1||172||34
 |-
 !colspan=3|Career total
-!349||86||21||5||11||3||12||1||393||95
+!351||86||21||5||11||3||12||1||395||95
 |}
 
 {{notelist}}
@@ -1843,7 +1844,7 @@ Barnes is from [[Dunkerton, Somerset]], near Bath.&lt;ref&gt;{{cite web |url=htt
 [[Category:National League (English football) players]]
 [[Category:Premier League players]]
 [[Category:English people of Austrian descent]]</text>
-      <sha1>n50rewlm2cnzji5hv9vt2u03zbjs2ld</sha1>
+      <sha1>qd50nghmkgr6uar0igwp4jnji6cyg7m</sha1>
     </revision>
   </page>
   <page>
@@ -1894,17 +1895,17 @@ Barnes is from [[Dunkerton, Somerset]], near Bath.&lt;ref&gt;{{cite web |url=htt
     <ns>0</ns>
     <id>32650899</id>
     <revision>
-      <id>885411172</id>
-      <parentid>885077386</parentid>
-      <timestamp>2019-02-27T21:37:47Z</timestamp>
+      <id>888537680</id>
+      <parentid>886210640</parentid>
+      <timestamp>2019-03-19T19:57:19Z</timestamp>
       <contributor>
         <username>Nfc123</username>
         <id>1265316</id>
       </contributor>
-      <comment>app 26 feb</comment>
+      <comment>app 16 mar</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="36143">{{Use Irish English|date=February 2017}}
+      <text xml:space="preserve" bytes="36137">{{Use Irish English|date=February 2017}}
 {{Use dmy dates|date=September 2018}}
 {{Infobox football biography
 | name           = Robbie Brady
@@ -1925,14 +1926,14 @@ Barnes is from [[Dunkerton, Somerset]], near Bath.&lt;ref&gt;{{cite web |url=htt
 | years3         = 2012–2013 |clubs3 = → [[Hull City A.F.C.|Hull City]] (loan)      |caps3 = 12 |goals3 = 1
 | years4         = 2013–2015 |clubs4 = [[Hull City A.F.C.|Hull City]]               |caps4 = 63 |goals4 = 6
 | years5         = 2015–2017 |clubs5 = [[Norwich City F.C.|Norwich City]]           |caps5 = 59 |goals5 = 7
-| years6         = 2017–     |clubs6 = [[Burnley F.C.|Burnley]]                     |caps6 = 41 |goals6 = 2
+| years6         = 2017–     |clubs6 = [[Burnley F.C.|Burnley]]                     |caps6 = 43 |goals6 = 2
 | nationalyears1 = 2006–2007 |nationalteam1 = Republic of Ireland U15 |nationalcaps1 = 5 |nationalgoals1 = 1
 | nationalyears2 = 2007–2008 |nationalteam2 = Republic of Ireland U16 |nationalcaps2 = 5 |nationalgoals2 = 0
 | nationalyears3 = 2008      |nationalteam3 = [[Republic of Ireland national under-17 football team|Republic of Ireland U17]] |nationalcaps3 = 8  |nationalgoals3 = 1
 | nationalyears4 = 2009–2011 |nationalteam4 = [[Republic of Ireland national under-19 football team|Republic of Ireland U19]] |nationalcaps4 = 13 |nationalgoals4 = 2
 | nationalyears5 = 2010–2012 |nationalteam5 = [[Republic of Ireland national under-21 football team|Republic of Ireland U21]] |nationalcaps5 = 11 |nationalgoals5 = 7
 | nationalyears6 = 2012–     |nationalteam6 = [[Republic of Ireland national football team|Republic of Ireland]]              |nationalcaps6 = 41 |nationalgoals6 = 7
-| club-update         = 21:37, 27 February 2019 (UTC)
+| club-update         = 19:57, 19 March 2019 (UTC)
 | nationalteam-update = 21:59, 19 November 2018 (UTC)
 }}
 '''Robert Brady''' (born 14 January 1992) is an Irish professional [[Association football|footballer]] who plays as a [[Midfielder#Winger|winger]] and a [[Defender (association football)#Full-back|left-back]] for [[Premier League]] club [[Burnley F.C.|Burnley]] and the [[Republic of Ireland national football team|Republic of Ireland national team]].
@@ -1988,7 +1989,7 @@ Brady is in a relationship with choreographer Kerrie Harris, who runs a dance sc
 
 ==Career statistics==
 ===Club===
-{{updated|match played 26 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -2062,13 +2063,13 @@ Brady is in a relationship with choreographer Kerrie Harris, who runs a dance sc
 |-
 |[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name="18/19"&gt;{{Soccerbase season|57514|2018|accessdate=11 August 2018}}&lt;/ref&gt;
 |Premier League
-|12||0||1||0||0||0||0||0||13||0
+|14||0||1||0||0||0||0||0||15||0
 |-
 !colspan=2|Total
-!41||2||1||0||2||2||0||0||44||4
+!43||2||1||0||2||2||0||0||46||4
 |-
 !colspan=3|Career total
-!214||19||7||0||7||4!!3!!2!!231!!25
+!216||19||7||0||7||4!!3!!2!!233!!25
 |}
 
 {{notelist}}
@@ -2182,7 +2183,7 @@ Brady is in a relationship with choreographer Kerrie Harris, who runs a dance sc
 [[Category:Expatriate footballers in England]]
 [[Category:Irish expatriate sportspeople in the United Kingdom]]
 [[Category:UEFA Euro 2016 players]]</text>
-      <sha1>1g5a87i1qfb13qjdmc5s1k07rakuxfp</sha1>
+      <sha1>jwvw8qrdm567v881r386l48p0cg2hgn</sha1>
     </revision>
   </page>
   <page>
@@ -2190,17 +2191,17 @@ Brady is in a relationship with choreographer Kerrie Harris, who runs a dance sc
     <ns>0</ns>
     <id>31578806</id>
     <revision>
-      <id>885409721</id>
-      <parentid>884952388</parentid>
-      <timestamp>2019-02-27T21:27:13Z</timestamp>
+      <id>888992291</id>
+      <parentid>888987764</parentid>
+      <timestamp>2019-03-22T18:34:04Z</timestamp>
       <contributor>
-        <username>Nfc123</username>
-        <id>1265316</id>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <comment>app 26 feb</comment>
+      <comment>Reverted 1 edit by [[Special:Contributions/79.97.60.235|79.97.60.235]] ([[User talk:79.97.60.235|talk]]): Unsourced ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="48227">{{EngvarB|date=June 2013}}
+      <text xml:space="preserve" bytes="48219">{{EngvarB|date=June 2013}}
 {{Use dmy dates|date=June 2013}}
 {{Infobox football biography
 | name           = Jeff Hendrick
@@ -2224,7 +2225,7 @@ Brady is in a relationship with choreographer Kerrie Harris, who runs a dance sc
 | clubs2         = [[Burnley F.C.|Burnley]]
 | caps1          = 196
 | goals1         = 22
-| caps2          = 89
+| caps2          = 90
 | goals2         = 6
 | nationalyears1 = 2006–2007 | nationalteam1  = Republic of Ireland U15
 | nationalcaps1  = 4         | nationalgoals1 = 0
@@ -2240,7 +2241,7 @@ Brady is in a relationship with choreographer Kerrie Harris, who runs a dance sc
 | nationalcaps6  = 7         | nationalgoals6 = 0
 | nationalyears7 = 2013–     | nationalteam7  = [[Republic of Ireland national football team|Republic of Ireland]]
 | nationalcaps7  = 45        | nationalgoals7 = 1
-| club-update    = 21:27, 27 February 2019 (UTC)
+| club-update    = 21:09, 4 March 2019 (UTC)
 | nationalteam-update = 22:14, 19 November 2018 (UTC)
 }}
 '''Jeffrey Patrick Hendrick''' (born 31 January 1992) is an Irish professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Premier League]] club [[Burnley F.C.|Burnley]] and the [[Republic of Ireland national football team|Republic of Ireland national team]].
@@ -2316,7 +2317,7 @@ Hendrick is known for being very hard-working, tactically aware and for his abil
 [[File:Jeff Hendrick (crop).png|thumb|upright|Hendrick ''(wearing No.13)'' after the match against [[Manchester United F.C.|Manchester United]] in October 2016]]
 
 ===Club===
-{{updated|match played 26 February 2019}}
+{{updated|match played 2 March 2019}}
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -2374,13 +2375,13 @@ Hendrick is known for being very hard-working, tactically aware and for his abil
 |-
 |[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{Soccerbase season|54428|2018|name=Jeff Hendrick|accessdate=28 July 2018}}&lt;/ref&gt;
 |Premier League
-|23||2||2||0||1||0||6{{efn|Appearances in [[UEFA Europa League]]}}||0||32||2
+|24||2||2||0||1||0||6{{efn|Appearances in [[UEFA Europa League]]}}||0||33||2
 |-
 !colspan=2|Total
-!89||6||6||0||2||0||6||0||103||6
+!90||6||6||0||2||0||6||0||104||6
 |-
 !colspan=3|Career total
-!285||28||13||1||9||2||10||1||317||32
+!286||28||13||1||9||2||10||1||318||32
 |}
 
 {{notelist}}
@@ -2467,7 +2468,7 @@ Hendrick is known for being very hard-working, tactically aware and for his abil
 [[Category:UEFA Euro 2016 players]]
 [[Category:Irish expatriates in England]]
 [[Category:Expatriate footballers in England]]</text>
-      <sha1>2fjyx6hw4jll9gbn4q1f1ia0fnn3779</sha1>
+      <sha1>2jl7x68zhcfflunm0hn3en3s49682i2</sha1>
     </revision>
   </page>
   <page>
@@ -2712,18 +2713,17 @@ Gibson plays at [[centre back]] or [[left back]].&lt;ref name="Ben Gibson Middle
     <ns>0</ns>
     <id>1001231</id>
     <revision>
-      <id>885643757</id>
-      <parentid>885643602</parentid>
-      <timestamp>2019-03-01T10:11:56Z</timestamp>
+      <id>888959801</id>
+      <parentid>888937634</parentid>
+      <timestamp>2019-03-22T14:27:21Z</timestamp>
       <contributor>
-        <username>Materialscientist</username>
-        <id>7852030</id>
+        <username>Daemonickangaroo2018</username>
+        <id>34033838</id>
       </contributor>
-      <minor/>
-      <comment>Reverted 1 edit by [[Special:Contributions/92.27.245.168|92.27.245.168]] identified as test/vandalism using [[WP:STiki|STiki]]</comment>
+      <comment>Undid revision 888937634 by [[Special:Contributions/82.71.190.89|82.71.190.89]] ([[User talk:82.71.190.89|talk]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="93628">{{Use British English|date=January 2013}}
+      <text xml:space="preserve" bytes="93620">{{Use British English|date=January 2013}}
 {{Use dmy dates|date=September 2017}}
 {{Infobox football biography
 | name           = Peter Crouch
@@ -2752,8 +2752,8 @@ Gibson plays at [[centre back]] or [[left back]].&lt;ref name="Ben Gibson Middle
 | years10        = 2008–2009 | clubs10 = [[Portsmouth F.C.|Portsmouth]]                   | caps10 = 38  | goals10 = 11
 | years11        = 2009–2011 | clubs11 = [[Tottenham Hotspur F.C.|Tottenham Hotspur]]     | caps11 = 73  | goals11 = 12
 | years12        = 2011–2019 | clubs12 = [[Stoke City F.C.|Stoke City]]                   | caps12 = 225 | goals12 = 46
-| years13        = 2019–     | clubs13 = [[Burnley F.C.|Burnley]]                         | caps13 = 2  | goals13 = 0
-| club-update    = 17:47, 2 February 2019 (UTC)
+| years13        = 2019–     | clubs13 = [[Burnley F.C.|Burnley]]                         | caps13 = 5   | goals13 = 0
+| club-update    = 19:56, 19 March 2019 (UTC)
 | nationalyears1 = 2002–2003 | nationalteam1 = [[England national under-21 football team|England U21]] | nationalcaps1 = 6  | nationalgoals1 = 1
 | nationalyears2 = 2006      | nationalteam2 = [[England national football B team|England B]]          | nationalcaps2 = 1  | nationalgoals2 = 0
 | nationalyears3 = 2005–2010 | nationalteam3 = [[England national football team|England]]              | nationalcaps3 = 42 | nationalgoals3 = 22
@@ -2887,7 +2887,7 @@ In August 2012, Crouch was found guilty of [[Speed limit|speeding]] in November 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 26 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -3032,12 +3032,12 @@ In August 2012, Crouch was found guilty of [[Speed limit|speeding]] in November 
 |colspan=1|—||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||1{{efn|Appearance in [[EFL Trophy]]}}||0||1||0
 |-
 |[[Burnley F.C.|Burnley]]
-|[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|21235|2018|accessdate=31 January 2019}}&lt;/ref&gt;
+|[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|21235|2018|accessdate=10 March 2019}}&lt;/ref&gt;
 |Premier League
-|2||0||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||2||0
+|5||0||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||5||0
 |-
 !colspan=3|Career total
-!595||145||45||18||33||15||53||24||5||3||731||205
+!598||145||45||18||33||15||53||24||5||3||734||205
 |}
 
 {{notelist}}
@@ -3045,7 +3045,7 @@ In August 2012, Crouch was found guilty of [[Speed limit|speeding]] in November 
 ===International===
 [[File:Peter Crouch Russia vs England 17 october 2007 training one day prior to a match.jpg|thumb|upright|Crouch training with [[England national football team|England]] in 2007]]
 
-{{updated|match played 17 November 2010}}&lt;ref name=NFT&gt;{{NFT player |id=11615 |name=Crouch, Peter |accessdate=31 January 2019}}&lt;/ref&gt;
+{{updated|match played 17 November 2010}}&lt;ref name=NFT&gt;{{NFT player |id=11615 |name=Crouch, Peter |accessdate=10 March 2019}}&lt;/ref&gt;
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by national team and year
@@ -3228,7 +3228,7 @@ In August 2012, Crouch was found guilty of [[Speed limit|speeding]] in November 
 [[Category:Expatriate footballers in Sweden]]
 [[Category:English expatriate sportspeople in Sweden]]
 [[Category:People educated at Drayton Manor High School]]</text>
-      <sha1>4v5bftodajbuidnpmjddietjyhr31wi</sha1>
+      <sha1>q8mlq4urgapy5dcdm5pjrqxbikrvnut</sha1>
     </revision>
   </page>
   <page>
@@ -3236,17 +3236,17 @@ In August 2012, Crouch was found guilty of [[Speed limit|speeding]] in November 
     <ns>0</ns>
     <id>8453232</id>
     <revision>
-      <id>880437717</id>
-      <parentid>877122654</parentid>
-      <timestamp>2019-01-27T12:19:56Z</timestamp>
+      <id>886829842</id>
+      <parentid>880437717</parentid>
+      <timestamp>2019-03-08T20:24:25Z</timestamp>
       <contributor>
-        <username>Nfc123</username>
-        <id>1265316</id>
+        <username>Iggy the Swan</username>
+        <id>31885086</id>
       </contributor>
-      <comment>app 26 jan</comment>
+      <comment>/* External links */ rm template which will be deleted per [[Wikipedia:Templates_for_discussion/Log/2019_February_13#Template:TheFinalBall|consensus]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="23515">{{Use dmy dates|date=February 2018}}
+      <text xml:space="preserve" bytes="23500">{{Use dmy dates|date=February 2018}}
 {{Infobox football biography
 |name = Steven Defour
 |image = Dinamo-Anderleht (4).jpg
@@ -3499,7 +3499,6 @@ On 25 May 2018, 30-year-old Defour announced his retirement from international f
 
 ==External links==
 {{commons category}}
-* {{Zerozero}}
 * {{ForaDeJogo}}
 * {{Soccerbase}}
 * [http://static.belgianfootball.be/project/publiek/jrinteren/speler_PH_5167.htm National team data]
@@ -3533,7 +3532,7 @@ On 25 May 2018, 30-year-old Defour announced his retirement from international f
 [[Category:Expatriate footballers in England]]
 [[Category:Belgian expatriate sportspeople in Portugal]]
 [[Category:Belgian expatriate sportspeople in England]]</text>
-      <sha1>hck6nzulqtv14egfvtqno6hgmxvifz0</sha1>
+      <sha1>d6b1pubfc6h1zk3qil4bqlo7sjrsfei</sha1>
     </revision>
   </page>
   <page>
@@ -3563,465 +3562,19 @@ On 25 May 2018, 30-year-old Defour announced his retirement from international f
     </revision>
   </page>
   <page>
-    <title>Jonathan Walters</title>
-    <ns>0</ns>
-    <id>6551358</id>
-    <revision>
-      <id>885177816</id>
-      <parentid>885177420</parentid>
-      <timestamp>2019-02-26T13:03:42Z</timestamp>
-      <contributor>
-        <username>Kosack</username>
-        <id>4446447</id>
-      </contributor>
-      <comment>Reverted 1 edit by [[Special:Contributions/161.112.232.102|161.112.232.102]] ([[User talk:161.112.232.102|talk]]) to last revision by MillsyOnWiki ([[WP:TW|TW]])</comment>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="63031">{{Use British English|date=June 2017}}
-{{Use dmy dates|date=October 2012}}
-{{Infobox football biography
-| name           = Jonathan Walters
-| image          = FIFA WC-qualification 2014 - Austria vs Ireland 2013-09-10 - Jon Walters 02.jpg
-| image_size     = 200
-| caption        = Walters playing for the [[Republic of Ireland national football team|Republic of Ireland]] in 2013
-| fullname       = Jonathan Ronald Walters&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=10 February 2018}}&lt;/ref&gt;
-| birth_date     = {{birth date and age|1983|9|20|df=y}}&lt;ref&gt;{{cite web |title=Jonathan Walters |url=https://www.11v11.com/players/jon-walters-19613/ |website=11v11.com |publisher=AFS Enterprises |accessdate=10 February 2018}}&lt;/ref&gt;
-| birth_place    = [[Moreton, Merseyside|Moreton]], England
-| height         = {{convert|1.83|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/2047/Jonathan-Walters/overview |title=Jonathan Walters: Overview |publisher=Premier League |accessdate=10 February 2018}}&lt;/ref&gt;
-| position       = [[Forward (association football)|Striker]]
-| currentclub    =[[Burnley F.C.|Burnley]]
-| clubnumber     = 19
-| youthyears1    =           | youthclubs1 = Shaftesbury
-| youthyears2    = 1998–2000 | youthclubs2 = [[Blackburn Rovers F.C.|Blackburn Rovers]]
-| years1         = 2000–2001 |clubs1  = [[Blackburn Rovers F.C.|Blackburn Rovers]]            |caps1  = 0   |goals1  = 0
-| years2         = 2001–2004 |clubs2  = [[Bolton Wanderers F.C.|Bolton Wanderers]]            |caps2  = 4   |goals2  = 0
-| years3         = 2003      |clubs3  = → [[Hull City A.F.C.|Hull City]] (loan)               |caps3  = 11  |goals3  = 5
-| years4         = 2003      |clubs4  = → [[Crewe Alexandra F.C.|Crewe Alexandra]] (loan)     |caps4  = 0   |goals4  = 0
-| years5         = 2003–2004 |clubs5  = → [[Barnsley F.C.|Barnsley]] (loan)                   |caps5  = 8   |goals5  = 0
-| years6         = 2004–2005 |clubs6  = [[Hull City A.F.C.|Hull City]]                        |caps6  = 37  |goals6  = 2
-| years7         = 2005      |clubs7  = → [[Scunthorpe United F.C.|Scunthorpe United]] (loan) |caps7  = 3   |goals7  = 0
-| years8         = 2005–2006 |clubs8  = [[Wrexham A.F.C.|Wrexham]]                            |caps8  = 38  |goals8  = 5
-| years9         = 2006–2007 |clubs9  = [[Chester City F.C.|Chester City]]                    |caps9  = 26  |goals9  = 9
-| years10        = 2007–2010 |clubs10 = [[Ipswich Town F.C.|Ipswich Town]]                    |caps10 = 136 |goals10 = 30
-| years11        = 2010–2017 |clubs11 = [[Stoke City F.C.|Stoke City]]                        |caps11 = 226 |goals11 = 43
-| years12        = 2017–     |clubs12 = [[Burnley F.C.|Burnley]]                              |caps12 = 3   |goals12 = 0
-| years13        = 2018      |clubs13 = → [[Ipswich Town F.C.|Ipswich Town]] (loan)           |caps13 = 3   |goals13 = 0
-| pcupdate       = 07:04, 16 September 2018 (UTC)
-| nationalyears1 = 2003      | nationalteam1 = [[Republic of Ireland under-21 national football team|Republic of Ireland U21]] | nationalcaps1 = 1  | nationalgoals1 = 2
-| nationalyears2 = 2007      | nationalteam2 = [[Republic of Ireland B national football team|Republic of Ireland B]]          | nationalcaps2 = 1  | nationalgoals2 = 0
-| nationalyears3 = 2010–     | nationalteam3 = [[Republic of Ireland national football team|Republic of Ireland]]              | nationalcaps3 = 54 | nationalgoals3 = 14
-| ntupdate       = 17:47, 24 September 2018 (UTC)
-}}
-'''Jonathan Ronald Walters''' (born 20 September 1983) is a professional [[Association football|footballer]] who plays as a [[Forward (association football)|striker]] for [[Premier League]] club [[Burnley F.C.|Burnley]], and the [[Republic of Ireland national football team|Republic of Ireland national team]].
-
-Walters started his career at [[Blackburn Rovers F.C.|Blackburn Rovers]] but failed to break into the first team and joined [[Bolton Wanderers F.C.|Bolton Wanderers]]. Again he failed to establish himself and went out on loan to [[Hull City A.F.C.|Hull City]], [[Crewe Alexandra F.C.|Crewe Alexandra]] and [[Barnsley F.C.|Barnsley]] before joining Hull permanently. He then went on to play for [[Wrexham A.F.C.|Wrexham]] and [[Chester City F.C.|Chester City]] before finally finding regular football at [[EFL Championship|Championship]] side [[Ipswich Town F.C.|Ipswich Town]]. Walters spent three years at [[Portman Road]] before joining [[Stoke City F.C.|Stoke City]] for £2.75 million in August 2010. He helped Stoke reach the [[2011 FA Cup Final]] after scoring twice in the semi-final against Bolton Wanderers as Stoke won 5–0. Walters played 54 matches during the [[2011–12 Stoke City F.C. season|2011–12]] season and then played in [[UEFA Euro 2012]] with the Republic of Ireland. Walters remained a regular at Stoke under [[Tony Pulis]] and [[Mark Hughes]], scoring 62 goals in 271 appearances before joining Burnley in July 2017.
-
-Walters scored five times for the Republic of Ireland in 2015 during their successful [[UEFA Euro 2016 qualifying]] campaign, and was acknowledged with that year's FAI Senior International Player of the Year award.&lt;ref&gt;{{cite web|url= http://www.independent.ie/sport/soccer/international-soccer/we-were-written-off-in-the-qualifiers-and-im-sure-it-will-be-the-same-at-the-euros-jon-walters-scoops-international-player-of-the-year-award-34557004.html|title='We were written off in the qualifiers and I’m sure it will be the same at the Euros' – Jon Walters scoops international Player of the Year award|date=20 March 2016|work=Irish Independent|accessdate=12 June 2016}}&lt;/ref&gt;
-
-== Club career ==
-=== Blackburn Rovers ===
-Walters was born in [[Moreton, Merseyside|Moreton]], Merseyside&lt;ref&gt;{{Hugman|20442|accessdate=10 February 2018}}&lt;/ref&gt; and started his career at [[Blackburn Rovers F.C.|Blackburn Rovers]] having been spotted by playing for Shaftesbury under 16s in the Eastham &amp; District Junior League by Rovers' scout for Wirral and Wales, Mike O'Brien who moved quickly to sign him.
-
-{{Quote|"He was at Shaftesbury under-16s when I first decided he had something. I had been watching him for the previous two years but his physique wasn't what it should be. But once he got to 16 you could see him developing. He was always quick. He played against [[Tranmere Rovers F.C.|Tranmere Rovers]] and scored three for Merseyside Schools, so I made the decision to bring him in and he scored two against [[Manchester United F.C.|Manchester United]] on the Saturday and we signed him on the Monday. If a player is a bit special you need to make a quick decision. And it paid off because the gaffer ([[Graeme Souness]]) thinks a lot of him. But I'll never predict what he can do or if he is close to making the first team. All I will say is the lad is scoring goals for the reserves and if he continues to do that he's got a chance."|Blackburn Rovers scout Mike O'Brien on why he signed 16-year-old Jonathan Walters.&lt;ref&gt;{{cite web|title=Wirral's footballing Rovers; Exclusive report: Youngsters from Peninsula snapped up by Blackburn's youth Academy to train as stars of future.|url=http://www.thefreelibrary.com/Wirral's+footballing+Rovers%3b+Exclusive+report%3a+Youngsters+from...-a080334344|work=Liverpool Daily Post|accessdate=6 January 2013}}&lt;/ref&gt;}}
-
-He played for Blackburn's youth and reserve teams where he scored prolifically, helping the club reach the [[FA Youth Cup]] final in 2001, losing 6–3 on aggregate to [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite web|title=Seconds for young Guns; Blackburn 3 Arsenal 1 (Agg: 3–6).|url=http://www.thefreelibrary.com/FOOTBALL%3a+Seconds+for+young+Guns%3b+Blackburn+3+Arsenal+1+(Agg%3a+3-6).-a074910692|work=The Mirror|accessdate=6 January 2013}}&lt;/ref&gt; However his promising career with Rovers was ended due to a 'serious breach of club discipline' which was described as 'totally out of character' and saw him suspended by the club.&lt;ref&gt;{{cite web|title=Blackburn suspend Irish star in new club scandal|url=http://www.thefreelibrary.com/Football%3a+Blackburn+suspend+Irish+star+in+new+club+scandal.-a084286468|work=The People|accessdate=6 January 2013}}&lt;/ref&gt;
-
-=== Bolton Wanderers ===
-He then joined [[Bolton Wanderers F.C.|Bolton Wanderers]] for a fee of £50,000 following interest from numerous clubs. He played in four Premier League games for Bolton making his professional debut as an 85th-minute substitute in a 2–1 defeat to [[Charlton Athletic F.C.|Charlton Athletic]], before signing for [[Hull City A.F.C.|Hull City]] on loan in 2003.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/2858585.stm|title=Hull keep Walters|accessdate=18 August 2010 |publisher=BBC Sport | date=21 March 2003}}&lt;/ref&gt; On his debut for Hull Walters scored twice in a 5–1 win over [[Carlisle United F.C.|Carlisle United]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/2789929.stm|title=Carlisle 1–5 Hull |accessdate=31 October 2010 |publisher=BBC Sport |date=1 March 2003}}&lt;/ref&gt; Following his loan spell at Hull, Walters returned to Bolton, where he again went out on loan, this time to [[Crewe Alexandra F.C.|Crewe Alexandra]]&lt;ref&gt;{{cite web|url=http://origin-www.crewealex.net/page/NewsDetail/0,,10414~409455,00.html |title=Walters keen to show what he can do |accessdate=18 August 2010 |publisher=crewealex.net }}{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; however he failed to make an appearance for Crewe due to a tooth infection. In the [[2003–04 Barnsley F.C. season|2003–04 season]] he joined [[Barnsley F.C.|Barnsley]] on loan and played eight league games for the "Tykes".&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/3264815.stm|title=Walters joins Tykes |publisher=BBC Sport |date=6 April 2011}}&lt;/ref&gt;
-
-=== Hull City ===
-Walters signed for [[Hull City A.F.C.|Hull City]] for a second time in 2004, this time on a permanent transfer.&lt;ref&gt;{{cite web|url=http://www.hullcityafc.net/page/NewsDetail/0,,10338~350371,00.html |title=Walters Included As Tigers Seek Victory |accessdate=18 August 2010 |publisher=hullcityafc.net |deadurl=yes |archiveurl=https://web.archive.org/web/20120329135210/http://www.hullcityafc.net/page/NewsDetail/0%2C%2C10338~350371%2C00.html |archivedate=29 March 2012 |df= }}&lt;/ref&gt; In February 2005, he joined [[Scunthorpe United F.C.|Scunthorpe United]] on a one-month loan deal and made three appearances for the "Iron".&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/4224123.stm|title=Scunthorpe snap up Angus on loan|accessdate=31 October 2010 |publisher=BBC Sport|date=31 January 2005}}&lt;/ref&gt;
-
-=== Wrexham ===
-After scoring only three goals for Hull in two seasons, Walters was sold to [[EFL League Two|League Two]] side [[Wrexham A.F.C.|Wrexham]].&lt;ref&gt;{{cite web |url=http://www.bbc.co.uk/humber/content/articles/2005/07/01/010705_hullcity_feature.shtml|title=Tigers sell striker|accessdate=18 August 2010 |publisher=BBC Sport}}&lt;/ref&gt; Upon signing for the cash-strapped club, Walters believed that he made the right choice moving closer to his Merseyside home.&lt;ref&gt;{{cite web|title=Walters upbeat on Wrexham future|url=http://news.bbc.co.uk/sport1/hi/football/4644673.stm|work=BBC Sport|accessdate=6 January 2013}}&lt;/ref&gt; He played in 41 matches for the "Dragons" in the [[2005–06 Wrexham F.C. season|2005–06]] season, scoring against [[Cheltenham Town F.C.|Cheltenham Town]], [[Stockport County F.C.|Stockport County]], [[Torquay United F.C.|Torquay United]] (twice) and [[Mansfield Town F.C.|Mansfield Town]].&lt;ref&gt;{{cite web|title=Wrexham 2–0 Cheltenham|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/4211094.stm|work=BBC Sport|accessdate=6 January 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Wrexham 4–2 Torquay|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/4322342.stm|work=BBC Sport|accessdate=6 January 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Wrexham 4–1 Mansfield|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/4494624.stm|work=BBC Sport|accessdate=6 January 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Wrexham 3–0 Stockport|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/4277930.stm|work=BBC Sport|accessdate=6 January 2013}}&lt;/ref&gt;
-
-=== Chester City ===
-He spent the 2005–06 season at Wrexham before he joined their [[Cross-border derby|rivals]] [[Chester City F.C.|Chester City]] in 2006.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/5105268.stm|title=Walters completes Chester switch|accessdate=18 August 2010 |publisher=BBC Sport | date=23 June 2006}}&lt;/ref&gt; Walters thrived under the management of [[Mark Wright (footballer, born 1963)|Mark Wright]] and scored ten goals in 33 matches.&lt;ref name="2006/07" /&gt; He impressed in an FA Cup tie against [[Ipswich Town F.C.|Ipswich Town]], prompting Ipswich manager [[Jim Magilton]] to make a £100,000 bid for Walters, which was accepted.&lt;ref&gt;{{cite web|title=Jonathan Walters: How Chester FC helped turn the striker into a Premier League star and Irish national hero|url=http://www.chesterchronicle.co.uk/sport/football/football-news/jonathan-walters-how-chester-fc-10456391?|website=The Chester Cronicle|accessdate=17 November 2015}}&lt;/ref&gt;
-
-=== Ipswich Town ===
-[[File:Jonathan Walters.png|thumb|right|Walters playing for Ipswich Town in 2007]]
-Walters agreed terms with Ipswich on a deal worth £100,000 plus add-ons in mid-January 2007, having impressed in [[FA Cup]] ties between the clubs earlier in the month.&lt;ref&gt;{{cite web|title=New boy Jon looking up |publisher=Ipswich Town Football Club |date=26 January 2007 |url=http://www.itfc.co.uk/page/NewsDetail/0,,10272~971363,00.html |accessdate=14 February 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120328113055/http://www.itfc.co.uk/page/NewsDetail/0%2C%2C10272~971363%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt; He made his debut for Ipswich on 30 January 2007 in a 0–0 draw at [[Stoke City F.C.|Stoke City]].&lt;ref&gt;{{cite web|url=http://www.itfc.co.uk/page/MatchReport/0,,10272~34280,00.html |title=Stoke City vs Ipswich Town |accessdate=4 June 2011 |publisher=itfc.com |deadurl=yes |archiveurl=https://web.archive.org/web/20120328112733/http://www.itfc.co.uk/page/MatchReport/0%2C%2C10272~34280%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt; Walters scored his first goal for Ipswich in their 2–1 victory over [[Queens Park Rangers F.C.|Queens Park Rangers]] at [[Portman Road]] on 3 March 2007.&lt;ref&gt;{{cite web|title=Ipswich Town 2–1 QPR |publisher=Ipswich Town Football Club |date=3 March 2007 |url=http://www.itfc.premiumtv.co.uk/page/MatchReport/0,,10272~33815,00.html |accessdate=14 February 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080516192312/http://www.itfc.premiumtv.co.uk/page/MatchReport/0%2C%2C10272~33815%2C00.html |archivedate=16 May 2008 |df= }}&lt;/ref&gt; Walters ended the [[2006–07 Ipswich Town F.C. season|2006–07 season]] with goals against [[Barnsley F.C.|Barnsley]] and a brace on the final day of the season against Cardiff City.&lt;ref&gt;{{cite web|title=Ipswich 5–1 Barnsley|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/6513491.stm|work=BBC Sport|accessdate=24 June 2013|date=7 April 2007}}&lt;/ref&gt;
-
-He scored his first ever senior hat-trick in the 6–0 win over [[Bristol City F.C.|Bristol City]] in November 2007 at Portman Road,&lt;ref&gt;{{cite web|title=Jon celebrates in style |publisher=Ipswich Town Football Club |date=10 November 2007 |url=http://www.itfc.co.uk/page/NewsDetail/0,,10272~1165040,00.html |accessdate=14 February 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120328113125/http://www.itfc.co.uk/page/NewsDetail/0%2C%2C10272~1165040%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Town 6–0 Bristol City |publisher=Ipswich Town Football Club |date=10 November 2007 |url=http://www.itfc.co.uk/page/NewsDetail/0,,10272~1164866,00.html |accessdate=14 February 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120328113159/http://www.itfc.co.uk/page/NewsDetail/0%2C%2C10272~1164866%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt; in the same week he received a call-up to the [[Republic of Ireland B national football team|Republic of Ireland B]] squad.&lt;ref name="Jon gets B call"&gt;{{cite web |url=http://origin-www.itfc.premiumtv.co.uk/page/NewsDetail/0,,10272~1163323,00.html|title=Jon gets B call  |accessdate=31 October 2010 |publisher=ipswichtownfc.com}}&lt;/ref&gt; On 12 January 2008, he extended his contract with Ipswich until 2011.&lt;ref&gt;{{cite web|title=Jon signs new deal |publisher=Ipswich Town Football Club |date=12 January 2008 |url=http://www.itfc.co.uk/page/NewsDetail/0,,10272~1213443,00.html |accessdate=14 February 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120328113244/http://www.itfc.co.uk/page/NewsDetail/0%2C%2C10272~1213443%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt; He had surgery on a niggling knee problem on 19 March 2008 and returned to action against [[Norwich City F.C.|Norwich City]] on 13 April in half the expected time. Walters played 41 times for Ipswich scoring 13 goals in [[2007–08 Ipswich Town F.C. season|2007–08]] as the Tractor Boys missed out on a play-off place by just one point.&lt;ref&gt;{{cite web|title=Ipswich 1–0 Hull|url=http://news.bbc.co.uk/sport1/hi/football/eng_div_1/7368621.stm|work=BBC Sport|accessdate=24 June 2013|date=4 May 2008}}&lt;/ref&gt; His performances during the season earned him the [[Ipswich Town F.C. Player of the Year|Player of the Year]] and Players' Player of the Year awards.&lt;ref&gt;{{cite web|title=Jon Honoured |publisher=Ipswich Town Football Club |date=23 April 2008 |url=http://www.itfc.co.uk/page/NewsDetail/0,,10272~1296233,00.html |accessdate=23 April 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120328113258/http://www.itfc.co.uk/page/NewsDetail/0%2C%2C10272~1296233%2C00.html |archivedate=28 March 2012 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Double joy for Ipswich's Walters|url=http://news.bbc.co.uk/sport1/hi/football/7362403.stm|work=BBC Sport|accessdate=24 June 2013|date=23 April 2008}}&lt;/ref&gt;
-
-The [[2008–09 Ipswich Town F.C. season|2008–09 season]] saw Walters again play 41 matches, scoring seven goals as Ipswich failed to build on last season and finished in 9th position.
-
-The [[2009–10 Ipswich Town F.C. season|2009–10]] season under the management of [[Roy Keane]] saw Ipswich struggle to score goals with Walters top-scoring with only eight and Ipswich finished the season in a poor 15th position.&lt;ref&gt;{{cite web|title=Roy Keane eyes new Ipswich frontman|url=http://news.bbc.co.uk/sport1/hi/football/8688124.stm|work=BBC Sport|accessdate=24 June 2013|date=17 May 2010}}&lt;/ref&gt; In August 2010, Walters expressed to Roy Keane his desire to leave [[Portman Road]] after Stoke City made an offer for him.&lt;ref&gt;{{cite web|title=Ipswich Town yet to accept Jon Walters bid|url=http://news.bbc.co.uk/sport1/hi/football/8909508.stm|work=BBC Sport|accessdate=24 June 2013|date=12 August 2010}}&lt;/ref&gt;
-
-=== Stoke City ===
-On 18 August 2010, Walters joined [[Premier League]] side [[Stoke City F.C.|Stoke City]] for an initial £2.75 million fee on a four-year contract.&lt;ref&gt;{{cite web|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2126776,00.html |title=City Complete Swoop For Walters |accessdate=18 August 2010 |publisher=Stoke City F.C |deadurl=yes |archiveurl=https://web.archive.org/web/20100819224036/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2126776%2C00.html |archivedate=19 August 2010 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Stoke sign striker Jon Walters from Ipswich for £2.75m|url=http://news.bbc.co.uk/sport1/hi/football/8925794.stm|work=BBC Sport|accessdate=4 June 2013|date=18 August 2010}}&lt;/ref&gt; He made his Stoke debut on 21 August 2010 against [[Tottenham Hotspur F.C.|Tottenham Hotspur]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/8928595.stm|title=Stoke 1–2 Tottenham|accessdate=21 August 2010 |publisher=BBC Sport | date=21 August 2010}}&lt;/ref&gt; He scored his first goal on 24 August 2010 in a 2–1 [[Football League Cup]] win over [[Shrewsbury Town F.C.|Shrewsbury Town]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/league_cup/8936716.stm|title=Stoke 2–1 Shrewsbury |publisher=BBC Sport |date=24 August 2010}}&lt;/ref&gt; He scored his first league goal for Stoke on 2 October 2010 in a 1–0 win over [[Blackburn Rovers F.C.|Blackburn Rovers]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9044216.stm|title=Stoke 1–0 Blackburn |publisher=BBC Sport |date=4 October 2010}}&lt;/ref&gt; After the match, Walters earned praise from his former manager [[Sam Allardyce]],&lt;ref&gt;{{cite news|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2172816,00.html |title=Allardyce Praise For Walters |publisher=Stoke City F.C |date=4 October 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101006022923/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2172816%2C00.html |archivedate= 6 October 2010 |df= }}&lt;/ref&gt; and City manager [[Tony Pulis]].&lt;ref&gt;{{cite news|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2173471,00.html |title=Walters An Inspiration To Others |publisher=Stoke City F.C |date=4 October 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101005050634/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2173471%2C00.html |archivedate= 5 October 2010 |df= }}&lt;/ref&gt; In November, Walters scored twice for Stoke in a 3–0 win over [[West Bromwich Albion F.C.|West Bromwich Albion]], the first goal coming from the penalty spot and the other via a rebound from [[Scott Carson]].&lt;ref&gt;{{cite news|url=http://www.stokecityfc.com/page/MatchReport/0,,10310~51845,00.html |title=Two-Goal Walters Seals City Triumph |publisher=Stoke City F.C |date=21 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110122105034/http://www.stokecityfc.com/page/MatchReport/0%2C%2C10310~51845%2C00.html |archivedate=22 January 2011 |df= }}&lt;/ref&gt;
-
-In January 2011, Walters scored twice for City in a 2–0 [[FA Cup]] third round replay win at [[Cardiff City F.C.|Cardiff City]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/9363849.stm|title=Cardiff 0–2 Stoke |publisher=BBC Sport |date=19 January 2011}}&lt;/ref&gt; It took him until the end of March 2011 to find the back of the net in the Premier League again, scoring in a 4–0 win over [[Newcastle United F.C.|Newcastle United]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9426553.stm|title=Stoke 4–0 Newcastle|publisher=BBC Sport |date=4 April 2011}}&lt;/ref&gt; He scored in the next match against [[Chelsea F.C.|Chelsea]] and was named as [[Man of the Match]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/eng_prem/9439822.stm|title=Stoke 1–1 Chelsea|publisher=BBC Sport |date=4 April 2011}}&lt;/ref&gt; Following the match, Tony Pulis spoke of his delight at Walters' improved performances. "Jon's come from the Championship and sometimes it takes time to have the confidence and the belief to make the step up. He had an up-and-down start but he's been fantastic for us. He's certainly my type of player, he gives everything, he never stops and whatever you've paid him, you know he's earned it."&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/9445107.stm|title=Stoke City striker Jon Walters gets plaudits from Pulis|publisher=BBC Sport |date=4 April 2011}}&lt;/ref&gt;
-
-Walters scored twice in Stoke's 5–0 rout over former club [[Bolton Wanderers F.C.|Bolton Wanderers]] in the [[FA Cup semi-final]] at [[Wembley Stadium|Wembley]] to help Stoke into their first [[FA Cup Final]].&lt;ref&gt;{{cite web|url=http://www.stokecityfc.com/page/MatchReport/0,,10310~55033,00.html |title=Rampant City Make History |accessdate=18 April 2011 |publisher=Stoke City F.C |deadurl=yes |archiveurl=https://web.archive.org/web/20110421073119/http://www.stokecityfc.com/page/MatchReport/0%2C%2C10310~55033%2C00.html |archivedate=21 April 2011 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/fa_cup/9457501.stm|title=Bolton 0–5 Stoke|accessdate=18 April 2011|publisher=BBC Sport|date=17 April 2011}}&lt;/ref&gt; Walters described it as the pinnacle of his career.&lt;ref&gt;{{cite web|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2340913,00.html |title='The Pinnacle Of My Career' – Walters |accessdate=18 April 2011 |publisher=Stoke City F.C |deadurl=yes |archiveurl=https://web.archive.org/web/20110419190631/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2340913%2C00.html |archivedate=19 April 2011 |df= }}&lt;/ref&gt; Walters ended the [[2010–11 Stoke City F.C. season|2010–11 season]] as joint top goalscorer with [[Kenwyne Jones]], both having scored 12 goals.&lt;ref&gt;{{cite web|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2367930,00.html |title=Kenwyne's Aim |accessdate=6 June 2011 |publisher=Stoke City F.C |deadurl=yes |archiveurl=https://web.archive.org/web/20110601211957/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2367930%2C00.html |archivedate= 1 June 2011 |df= }}&lt;/ref&gt; His first goal against Bolton in the semi-final won Goal of the Season.&lt;ref&gt;{{cite web|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2365597,00.html |title=Huth And Walters Scoop Top Awards |accessdate=6 June 2011 |publisher=Stoke City F.C |deadurl=yes |archiveurl=https://web.archive.org/web/20110526235433/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2365597%2C00.html |archivedate=26 May 2011 |df= }}&lt;/ref&gt; He played in the [[2011 FA Cup Final]] against [[Manchester City F.C.|Manchester City]] as Stoke lost 1–0.&lt;ref&gt;{{cite web|title=Man City 1–0 Stoke|url=https://www.bbc.co.uk/sport/0/football/13346941|work=BBC Sport|accessdate=5 June 2013}}&lt;/ref&gt;
-
-Walters played in his first European match on 28 July against [[HNK Hajduk Split|Hajduk Split]] where he scored the only goal in a 1–0 Stoke win.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/europe/14321291.stm|title=Stoke 1–0 Hajduk Split|accessdate=29 July 2011|publisher=BBC Sport|date=28 July 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.skysports.com/football/match_report/0,19764,11065_3427718,00.html? |title=Stoke 1–0 Hajduk |accessdate=29 July 2011 |publisher=skysports |deadurl=yes |archiveurl=https://web.archive.org/web/20121023173050/http://www.skysports.com/football/match_report/0%2C19764%2C11065_3427718%2C00.html |archivedate=23 October 2012 |df= }}&lt;/ref&gt; He signed a 12-month contract extension in August 2011.&lt;ref&gt;{{cite web|title=Walters agrees extended stay|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Walters-agrees-extended-stay/story-13165195-detail/story.html#axzz2V5taEzKG|work=The Sentinel|accessdate=4 June 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20110914001753/http://www.thisisstaffordshire.co.uk/Stoke-City-Walters-agrees-extended-stay/story-13165195-detail/story.html#axzz2V5taEzKG|archivedate=14 September 2011|df=dmy-all}}&lt;/ref&gt; Walters went on to play in 31 matches during the first half of the [[2011–12 Stoke City F.C. season|2011–12 season]] scoring seven goals.&lt;ref&gt;{{cite web|title=I'm up for FA Cup trip, vows marathon man Walters|url=http://www.thisisstaffordshire.co.uk/story-14323823-detail/story.html?|work=The Sentinel|accessdate=4 January 2012}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Stoke striker Jonathan Walters: I don't need a break|url=http://news.bbc.co.uk/sport1/hi/football/16410386.stm|work=BBC Sport|accessdate=4 January 2012}}&lt;/ref&gt; In March 2012, Walters won the Sir Stanley Matthews Potteries Footballers of the Year award for 2012.&lt;ref&gt;{{cite web|title=Walters and Loft pick up prestigious Sir Stan Matthews award|url=http://www.thisisstaffordshire.co.uk/story-15516985-detail/story.html?|work=The Sentinel|accessdate=14 March 2012}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; Speaking after picking up the award, Walters revealed that he would like to remain at Stoke for the rest of his career.&lt;ref&gt;{{cite web|title=Top Potter Walters wants to stay a Stokie|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Potter-Walters-wants-stay-Stokie/story-15516920-detail/story.html|work=The Sentinel|accessdate=14 March 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120316221243/http://www.thisisstaffordshire.co.uk/Stoke-City-Potter-Walters-wants-stay-Stokie/story-15516920-detail/story.html|archivedate=16 March 2012|df=dmy-all}}&lt;/ref&gt; By 21 April 2012, Walters had played in 50 matches during the [[2011–12 Stoke City F.C. season|2011–12 campaign]] and scored nine goals of which five were penalties. This led to Walters being criticised by some Stoke supporters but he was backed by his manager.&lt;ref&gt;{{cite web|title=Pulis sticks with hard-working Walters|url=http://www.thisisstaffordshire.co.uk/story-15890985-detail/story.html?|work=The Sentinel|accessdate=23 April 2012}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; On his 100th appearance for Stoke, Walters scored twice against his old club Bolton Wanderers in a 2–2 draw, a result which relegated the "Trotters".&lt;ref&gt;{{cite web|title=Stoke 2–2 Bolton|url=https://www.bbc.co.uk/sport/0/football/17973085|work=BBC Sport|accessdate=13 May 2012}}&lt;/ref&gt;
-[[File:Nacho Monreal &amp; Jonathan Walters (8438734033).jpg|thumb|left|250px|Walters (right) playing for Stoke City in 2013]]
-
-Walters continued to be a virtual ever-present in the [[2012–13 Stoke City F.C. season|2012–13]] season as he went on to make a club-record 61 consecutive Premier League starts by 3 November 2012.&lt;ref&gt;{{cite web|title=Tony Pulis threatens axe ahead of QPR clash|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Tony-Pulis-threatens-axe-ahead-QPR/story-17246209-detail/story.html|work=The Sentinel|accessdate=1 December 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20121213150729/http://www.thisisstaffordshire.co.uk/Stoke-City-Tony-Pulis-threatens-axe-ahead-QPR/story-17246209-detail/story.html|archivedate=13 December 2012|df=dmy-all}}&lt;/ref&gt; He scored a well-worked set-piece in a 1–1 draw against [[West Ham United F.C.|West Ham United]] which earned praise from pundit [[Gary Neville]].&lt;ref&gt;{{cite web|title=Gary Neville was spot on, Jon Walters scored a good goal, says Tony Pulis|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Gary-Neville-spot-Jon-Walters-scored/story-17412272-detail/story.html|work=The Sentinel|accessdate=1 December 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20130116152609/http://www.thisisstaffordshire.co.uk/Stoke-City-Gary-Neville-spot-Jon-Walters-scored/story-17412272-detail/story.html|archivedate=16 January 2013|df=dmy-all}}&lt;/ref&gt; He scored twice against [[Liverpool F.C.|Liverpool]] on Boxing Day 2012 in a 3–1 victory.&lt;ref&gt;{{cite web|title=Stoke 3–1 Liverpool|url=https://www.bbc.co.uk/sport/0/football/20778968|work=BBC Sport|accessdate=26 December 2012}}&lt;/ref&gt;
-
-On 12 January 2013, whilst playing against [[Chelsea F.C.|Chelsea]], Walters scored two own goals becoming only the fourth player to do so in the Premier League, he also missed a penalty in the match as Stoke lost 4–0.&lt;ref&gt;{{cite web|title=Stoke 0–4 Chelsea|url=https://www.bbc.co.uk/sport/0/football/20919045|work=BBC Sport|accessdate=12 January 2013}}&lt;/ref&gt; He made amends three days later, scoring twice in an FA Cup third round replay victory over [[Crystal Palace F.C.|Crystal Palace]].&lt;ref&gt;{{cite web|title=Stoke 4–1 Crystal Palace|url=https://www.bbc.co.uk/sport/0/football/20942588|work=BBC Sport|accessdate=16 January 2013}}&lt;/ref&gt; Walters played in every match in the 2012–13 season and was the club's top-scorer with 11 goals. The final game of the season against Southampton was his 89th consecutive league start.&lt;ref&gt;{{cite web|title=Jon Walters aiming to sign off for season with 10 goals|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Jon-Walters-aiming-sign-season-10/story-19013745-detail/story.html#axzz2TooHwWzk|work=The Sentinel|accessdate=20 May 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130608115657/http://www.thisisstaffordshire.co.uk/Stoke-City-Jon-Walters-aiming-sign-season-10/story-19013745-detail/story.html#axzz2TooHwWzk|archivedate=8 June 2013|df=dmy-all}}&lt;/ref&gt;
-
-Walters made a bad start to the [[2013–14 Stoke City F.C. season|2013–14]] season against [[Liverpool F.C.|Liverpool]]. After being awarded a last-minute penalty, he saw his shot easily saved by [[Simon Mignolet]] and Stoke went on to lose the match 1–0.&lt;ref&gt;{{cite web|title=Geoff Cameron pays tribute to Walters after Anfield penalty miss|url=http://www.thisisstaffordshire.co.uk/story-19677036-detail/story.html?#axzz2cOe7XenU|work=The Sentinel|accessdate=19 August 2013}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; However, despite this Walters insisted that he would not shy away from taking penalties.&lt;ref&gt;{{cite web|title=Jon Walters ready to take Stoke City's next penalty|url=http://www.thisisstaffordshire.co.uk/Jon-Walters-ready-Stoke-City-s-penalty/story-19685947-detail/story.html#axzz2cOe7XenU|work=The Sentinel|accessdate=22 August 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130824061600/http://www.thisisstaffordshire.co.uk/Jon-Walters-ready-Stoke-City-s-penalty/story-19685947-detail/story.html#axzz2cOe7XenU|archivedate=24 August 2013|df=dmy-all}}&lt;/ref&gt; On 10 November 2013, Walters featured in his 100th consecutive Premier League match and marked the occasion by scoring in a 3–3 draw with [[Swansea City A.F.C.|Swansea City]].&lt;ref&gt;{{cite web|title=Swansea 3–3 Stoke|url=https://www.bbc.co.uk/sport/0/football/24792968|work=BBC Sport|accessdate=10 November 2013}}&lt;/ref&gt; His run of 102 consecutive league starts ended on 4 December 2013 against Cardiff City after picking up an injury.&lt;ref&gt;{{cite web|title=Stoke City v Cardiff City: Walters out, Arnautovic in|url=http://www.stokesentinel.co.uk/Stoke-City-v-Cardiff-City-Walters-Arnautovic/story-20259081-detail/story.html|work=Stoke Sentinel|accessdate=5 December 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131206090715/http://www.stokesentinel.co.uk/Stoke-City-v-Cardiff-City-Walters-Arnautovic/story-20259081-detail/story.html|archivedate=6 December 2013|df=dmy-all}}&lt;/ref&gt; Walters scored a penalty against [[Arsenal F.C.|Arsenal]] in a 1–0 win on 1 March 2014.&lt;ref&gt;{{cite web|title=Stoke 1–0 Arsenal|url=https://www.bbc.co.uk/sport/0/football/26301137|work=BBC Sport|accessdate=1 March 2014}}&lt;/ref&gt; He also scored from the spot in the next match against [[Norwich City F.C.|Norwich City]] but was later sent off for the first time in his career for a high challenge on [[Alexander Tettey]].&lt;ref&gt;{{cite web|title=Norwich 1–1 Stoke|url=https://www.bbc.co.uk/sport/0/football/26396250|work=BBC Sport|accessdate=8 March 2014}}&lt;/ref&gt; Walters ended the 2013–14 season with five goals in 36 matches as the Potters finished in 9th position.&lt;ref name="2013/14" /&gt;
-
-Walters opened his account for the [[2014–15 Stoke City F.C. season|2014–15 season]] with a brace against [[Portsmouth F.C.|Portsmouth]] in the [[EFL Cup|League Cup]].&lt;ref&gt;{{cite web|title=Stoke 3–0 Portsmouth|url=https://www.bbc.co.uk/sport/0/football/28862713|website=BBC Sport|accessdate=17 November 2014}}&lt;/ref&gt; He also scored winning goals against Swansea City, [[Tottenham Hotspur F.C.|Tottenham Hotspur]] and [[Arsenal F.C.|Arsenal]].&lt;ref&gt;{{cite web|title=Stoke 2–1 Swansea|url=https://www.bbc.co.uk/sport/0/football/29586592|website=BBC Sport|accessdate=17 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Tottenham 1–2 Stoke|url=https://www.bbc.co.uk/sport/0/football/29868773|website=BBC Sport|accessdate=17 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Stoke 3–2 Arsenal|url=https://www.bbc.co.uk/sport/0/football/30257121|website=Stoke Sentinel|accessdate=11 December 2014}}&lt;/ref&gt; On 31 January 2015, Walters became the first Stoke player to score a [[List of Premier League hat-tricks|Premier League hat-trick]] in a 3–1 victory over [[Queens Park Rangers F.C.|Queens Park Rangers]].&lt;ref&gt;{{cite web|title=Stoke 3–1 QPR|url=https://www.bbc.co.uk/sport/0/football/30963548|website=BBC Sport|accessdate=31 January 2015}}&lt;/ref&gt; Walters scored his 50th Stoke goal on 24 May 2015 in a 6–1 victory against Liverpool.&lt;ref&gt;{{cite web|title=Stoke 6–1 Liverpool|url=https://www.bbc.co.uk/sport/0/football/32770765|website=BBC Sport|accessdate=27 May 2015}}&lt;/ref&gt; In total, he scored 11 goals in 36 appearances in 2014–15 as Stoke finished in ninth position for a second consecutive season.&lt;ref name="2014/15" /&gt;
-
-With Walters entering into the final year of his contract, Stoke rejected a bid from [[Norwich City F.C.|Norwich City]] at the start of the [[2015–16 Stoke City F.C. season|2015–16]] season.&lt;ref&gt;{{cite web|title=Jon Walters: Stoke City reject Norwich City's £1.5m bid|url=https://www.bbc.co.uk/sport/0/football/34015361|website=BBC Sport|accessdate=29 August 2015}}&lt;/ref&gt; Walters vented his frustration with contract talks claiming the club were undervaluing him.&lt;ref&gt;{{cite web|title=Jon Walters: Stoke striker does not feel 'valued' by contract offer|url=https://www.bbc.co.uk/sport/0/football/34073598|website=BBC Sport|accessdate=29 August 2015}}&lt;/ref&gt; This led to him handing in a transfer request but despite this he failed to secure a move away from the club.&lt;ref&gt;{{cite web|title=Why fans will surely forgive Jon Walters for that transfer request|url=http://www.stokesentinel.co.uk/Stoke-City-fans-surely-forgive-Jon-Walters/story-27716915-detail/story.html|website=Stoke Sentinel|accessdate=1 September 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150904205631/http://www.stokesentinel.co.uk/Stoke-City-fans-surely-forgive-Jon-Walters/story-27716915-detail/story.html|archivedate=4 September 2015|df=dmy-all}}&lt;/ref&gt; Walters then scored in back-to-back matches against Leicester City and Bournemouth.&lt;ref&gt;{{cite web|title=Stoke 2–2 Leicester|url=https://www.bbc.co.uk/sport/0/football/34191895|website=BBC Sport|accessdate=1 October 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Stoke 2–1 Bournemouth|url=https://www.bbc.co.uk/sport/0/football/34299638|website=BBC Sport|accessdate=1 October 2015}}&lt;/ref&gt; Chief executive Tony Scholes stated that he hoped the club could reach a 'compromise' with Walters over his contract.&lt;ref&gt;{{cite web|title=Jon Walters: Stoke chief executive Tony Scholes keen to compromise|url=https://www.bbc.co.uk/sport/0/football/34392088|website=BBC Sport|accessdate=1 October 2015}}&lt;/ref&gt; His contract dispute was resolved and he signed a new two-and-a-half-year deal with Stoke on 7 November 2015.&lt;ref&gt;{{cite web|title=Jon Walters: Stoke City forward signs new contract|url=https://www.bbc.co.uk/sport/0/football/34756677|website=BBC Sport|accessdate=7 November 2015}}&lt;/ref&gt; Walters played 33 times in 2015–16, scoring eight goals as the Potters again finished in ninth position.&lt;ref name="2015/16" /&gt;
-
-Walters played 24 times in [[2016–17 Stoke City F.C. season|2016–17]], scoring four goals as Stoke finished in 13th.&lt;ref name="2016/17" /&gt;&lt;ref&gt;{{cite web|title=Stoke 2016/17 Premier League season review|url=http://www.skysports.com/football/news/11701/10887143/stoke-201617-premier-league-season-review|website=Sky Sports|accessdate=22 May 2017}}&lt;/ref&gt;
-
-=== Burnley ===
-On 7 July 2017, Walters joined fellow Premier League side [[Burnley F.C.|Burnley]] on a two-year contract for a fee of £3 million.&lt;ref&gt;{{cite web|title=Walters Waltzes Into Turf Moor|url=https://www.burnleyfootballclub.com/news/2017/july/walters-joins-the-clarets/|publisher=Burnley F.C.|date=7 July 2017|accessdate=7 July 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=City forward joins Burnley in a £3M deal...|url=http://www.stokecityfc.com/news/walters-bids-farewell|publisher=Stoke City F.C.|first=Mark|last=Mothershaw|date=7 July 2017|accessdate=7 July 2017}}&lt;/ref&gt; He was restricted to just five appearances in the [[2017–18 Burnley F.C. season|2017–18 season]] as he struggled with a recurring knee injury and on his return to action wasn't able to force his way into [[Sean Dyche]]'s plans.&lt;ref&gt;{{cite news|url=https://www.irishmirror.ie/sport/soccer/soccer-news/jon-walters-expecting-leave-burnley-12592235|title=Jon Walters expecting to leave Burnley this summer|newspaper=Irish Mirror|publisher=Trinity Mirror|first=Paul|last=O'Hehir|date=24 May 2018|accessdate=6 June 2018}}&lt;/ref&gt;
-==== Loan return to Ipswich Town ====
-Walters re-joined Ipswich Town, on loan, on 30 August 2018.&lt;ref&gt;{{Cite web | url = http://www.eadt.co.uk/sport/jon-walters-back-at-ipswich-town-1-5674733 | work = [[East Anglian Daily Times]] | title = Jon Walters is back at Ipswich Town – striker joins on loan from Burnley ahead of East Anglian derby | first = Stuart | last = Watson|date = 31 August 2018 | accessdate = 31 August 2018}}&lt;/ref&gt; However, after making only three appearances for the club, Walters was ruled out for six months due to an Achilles injury on 26 September, making him unavailable for the rest of his loan spell at the club.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45658889|title=Jon Walters: Ipswich Town's on-loan Burnley striker out for six months|date=26 September 2018|publisher=BBC News|accessdate=21 October 2018}}&lt;/ref&gt;
-
-== International career ==
-[[File:FIFA WC-qualification 2014 - Austria vs Ireland 2013-09-10 - Jon Walters 01.jpg|thumbnail|Walters in action for the Republic of Ireland, September 2013.]]
-Walters qualifies to play for the [[Republic of Ireland national football team]] through his Irish mother. He made his international debut for [[Republic of Ireland national under-21 football team|Republic of Ireland U-21]] against [[Switzerland national under-21 football team|Switzerland U-21]] in October 2003, scoring twice in a 2–0 win.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/internationals/republic_of_ireland/3180626.stm|title=Irish U21s stun Swiss
-|publisher=BBC Sport |date=10 October 2003}}&lt;/ref&gt; He also played for the [[Republic of Ireland B national football team|Republic of Ireland B team]] against [[Scotland B national football team|Scotland B team]] in 2007.&lt;ref name="Jon gets B call" /&gt; In 2010, Ireland manager [[Giovanni Trapattoni]] stated that he could give Walters a call up to the national side in the future.&lt;ref&gt;{{cite news |url=http://www.skysports.com/story/0,19528,11095_6436761,00.html|title=Walters set for Irish chance|publisher=Skysports |date=31 October 2010}}&lt;/ref&gt; He was called up in November 2010 for the friendly match against [[Norway national football team|Norway]]&lt;ref&gt;{{cite news|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2209603,00.html |title=Walters Receives Ireland Call-Up |publisher=stokecityfc.com |date=5 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101110023327/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2209603%2C00.html |archivedate=10 November 2010 |df= }}&lt;/ref&gt; and was brought on as a half-time substitute in that game to make his senior international début.&lt;ref&gt;{{cite news|url=http://www.stokecityfc.com/page/NewsDetail/0,,10310~2223952,00.html |title=Mixed Emotions For Walters |publisher=stokecityfc.com |date=18 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101121025739/http://www.stokecityfc.com/page/NewsDetail/0%2C%2C10310~2223952%2C00.html |archivedate=21 November 2010 |df= }}&lt;/ref&gt; Walters was given the nod ahead of [[Simon Cox (footballer born 1987)|Simon Cox]] in the crucial [[UEFA Euro 2012 qualifying play-offs|Play-off]] game against [[Estonia national football team|Estonia]] and Walters repaid by scoring his first international goal in the 4–0 victory over [[Estonia national football team|Estonia]] in [[Tallinn]] in the first leg of the [[UEFA Euro 2012 qualifying play-offs]].&lt;ref&gt;{{cite news|url=http://www.rte.ie/sport/soccer/2011/1111/estonia_ireland_report.html |last=Houston |first=Rory |title=Estonia 0–4 Republic of Ireland |date=11 November 2011 |publisher=RTÉ Sport |deadurl=yes |archiveurl=https://web.archive.org/web/20111113005410/http://www.rte.ie/sport/soccer/2011/1111/estonia_ireland_report.html |archivedate=13 November 2011 |df= }}&lt;/ref&gt; On 26 March 2013, Walters scored two goals against [[Austria national football team|Austria]] before a late strike from [[David Alaba]] give the Austrians a 2–2 draw.
-
-Walters scored twice in a [[UEFA Euro 2016]] play-off against [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] on 16 November 2015 to earn Ireland a 2–0 victory and qualification to [[UEFA Euro 2016]].&lt;ref&gt;{{cite web|title=Jon Walters underlines Martin O’Neill’s Republic of Ireland philosophy|url=https://www.theguardian.com/football/blog/2015/nov/16/jon-walters-martin-o-neill-republic-of-ireland-bosnia-herzegovina-euro-2016-play-off|website=The Guardian|accessdate=16 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Martin O'Neill hopes Republic of Ireland can repeat glory days|url=https://www.bbc.co.uk/sport/0/football/34836710|website=BBC Sport|accessdate=16 November 2015}}&lt;/ref&gt;
-
-== Personal life ==
-Walters was brought up in [[Moreton, Merseyside]] and the house in which he lived was opposite a number of community football pitches.&lt;ref&gt;Stoke City official matchday magazine 13 September 2010&lt;/ref&gt; He grew up supporting [[Everton F.C.|Everton]].&lt;ref&gt;{{cite news |url=http://www.chesterchronicle.co.uk/chester-sport/liverpool-fc-news/2011/09/12/everton-fc-supporting-jon-walters-delighted-to-score-winner-for-stoke-city-against-liverpool-fc-59067-29404180/?|title=Everton FC-supporting Jon Walters delighted to score winner for Stoke City against Liverpool FC|publisher=Chester Chronicle |date=12 September 2011}}&lt;/ref&gt; He is married and has two daughters and a son.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/9437870.stm|title=Five Republic players released for Uruguay friendly|publisher=BBC Sport |date=27 March 2011}}&lt;/ref&gt; One of his daughters, Scarlett was born with [[gastroschisis]].&lt;ref&gt;{{cite news |url=http://www.uefa.com/uefaeuro/news/newsid=1818073.html|title=Walters counts his blessings with Ireland|publisher=UEFA |date=14 June 2012}}&lt;/ref&gt; His mother died when he was young and was brought up by his father James, along with his brothers Aidan and James and his sister Samantha.&lt;ref&gt;{{cite web|title=Old loyalties put on hold as Walters goes gunning for club he supported as a boy|url=http://www.thisisstaffordshire.co.uk/Stoke-City-Old-loyalties-hold-Walters-goes/story-14030030-detail/story.html|work=The Sentinel|accessdate=3 December 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20130116152634/http://www.thisisstaffordshire.co.uk/Stoke-City-Old-loyalties-hold-Walters-goes/story-14030030-detail/story.html|archivedate=16 January 2013|df=dmy-all}}&lt;/ref&gt;
-
-== Career statistics ==
-
-=== Club ===
-{{updated|match played 22 September 2018}}&lt;ref name="JW"&gt;{{cite web|title=Jonathan Walters|url=http://www.soccerbase.com/players/player.sd?player_id=32939|work=Soccerbase|accessdate=1 July 2013}}&lt;/ref&gt;
-
-{| class="wikitable" style="text-align: center;"
-|+ Appearances and goals by club, season and competition
-|-
-!rowspan=2|Club
-!rowspan=2|Season
-!colspan=3|League
-!colspan=2|[[FA Cup]]
-!colspan=2|[[EFL Cup|League Cup]]
-!colspan=2|Other
-!colspan=2|Total
-|-
-!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
-|-
-|[[Blackburn Rovers F.C.|Blackburn Rovers]]
-|[[2000–01 Blackburn Rovers F.C. season|2000–01]]&lt;ref name="JW" /&gt;
-|[[Football League First Division|First Division]]
-|0||0||0||0||0||0||colspan="2"|—||0||0
-|-
-|rowspan="4"|[[Bolton Wanderers F.C.|Bolton Wanderers]]
-|[[2001–02 Bolton Wanderers F.C. season|2001–02]]&lt;ref name="JW" /&gt;
-|[[Premier League]]
-|0||0||0||0||0||0||colspan="2"|—||0||0
-|-
-|[[2002–03 Bolton Wanderers F.C. season|2002–03]]&lt;ref name="2002/03"&gt;{{Soccerbase season|id=32939|season=2002|accessdate=19 April 2017}}&lt;/ref&gt;
-|Premier League
-|4||0||1||0||1||0||colspan="2"|—||6||0
-|-
-|[[2003–04 Bolton Wanderers F.C. season|2003–04]]&lt;ref name="2003/04" /&gt;
-|Premier League
-|0||0||colspan="2"|—||0||0||colspan="2"|—||6||0
-|-
-!colspan="2"|Total
-!4!!0!!1!!0!!1!!0!!colspan="2"|—||6!!0
-|-
-|[[Hull City A.F.C.|Hull City]] (loan)
-|[[2002–03 Hull City A.F.C. season|2002–03]]&lt;ref name="2002/03" /&gt;
-|[[Football League Third Division|Third Division]]
-|11||5||colspan="2"|—||colspan="2"|—||colspan="2"|—||11||5
-|-
-|[[Crewe Alexandra F.C.|Crewe Alexandra]] (loan)
-|[[2002–03 Crewe Alexandra F.C. season|2002–03]]&lt;ref name="2002/03" /&gt;
-|[[Football League Second Division|Second Division]]
-|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
-|-
-|[[Barnsley F.C.|Barnsley]] (loan)
-|[[2003–04 Barnsley F.C. season|2003–04]]&lt;ref name="2003/04"&gt;{{Soccerbase season|id=32939|season=2003|accessdate=19 April 2017}}&lt;/ref&gt;
-|Second Division
-|8||0||3||0||colspan="2"|—||1{{efn|name=FLT|Appearances in [[Football League Trophy]]}}||0||12||0
-|-
-|rowspan="3"|[[Hull City A.F.C.|Hull City]]
-|[[2003–04 Hull City A.F.C. season|2003–04]]&lt;ref name="2003/04" /&gt;
-|Third Division
-|16||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||16||1
-|-
-|[[2004–05 Hull City A.F.C. season|2004–05]]&lt;ref name="2004/05"&gt;{{Soccerbase season|id=32939|season=2004|accessdate=19 April 2017}}&lt;/ref&gt;
-|[[Football League One|League One]]
-|21||1||2||1||1||0||1{{efn|name=FLT}}||0||25||2
-|-
-!colspan="2"|Total
-!37!!2!!2!!1!!1!!0!!1!!0!!41!!3
-|-
-|[[Scunthorpe United F.C.|Scunthorpe United]] (loan)
-|[[2004–05 Scunthorpe United F.C. season|2004–05]]&lt;ref name ="2004/05" /&gt;
-|[[Football League Two|League Two]]
-|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
-|-
-|[[Wrexham A.F.C.|Wrexham]]
-|[[2005–06 Wrexham F.C. season|2005–06]]&lt;ref name="2005/06"&gt;{{Soccerbase season|id=32939|season=2005|accessdate=19 April 2017}}&lt;/ref&gt;
-|League Two
-|38||5||1||0||1||0||1{{efn|name=FLT}}||0||41||5
-|-
-|[[Chester City F.C.|Chester City]]
-|[[2006–07 Chester City F.C. season|2006–07]]&lt;ref name="2006/07"&gt;{{Soccerbase season|id=32939|season=2006|accessdate=19 April 2017}}&lt;/ref&gt;
-|League Two
-|26||9||5||1||1||0||1{{efn|name=FLT}}||0||33||10
-|-
-|rowspan="6"|[[Ipswich Town F.C.|Ipswich Town]]
-|[[2006–07 Ipswich Town F.C. season|2006–07]]&lt;ref name="2006/07" /&gt;
-|[[Football League Championship|Championship]]
-|16||4||0||0||0||0||colspan="2"|—||16||4
-|-
-|[[2007–08 Ipswich Town F.C. season|2007–08]]&lt;ref name="2007/08"&gt;{{Soccerbase season|id=32939|season=2007|accessdate=19 April 2017}}&lt;/ref&gt;
-|Championship
-|40||13||0||0||1||0||colspan="2"|—||41||13
-|-
-|[[2008–09 Football League|2008–09]]&lt;ref name="2008/09"&gt;{{Soccerbase season|id=32939|season=2008|accessdate=19 April 2017}}&lt;/ref&gt;
-|Championship
-|36||5||2||1||3||1||colspan="2"|—||41||7
-|-
-|[[2009–10 Ipswich Town F.C. season|2009–10]]&lt;ref name="2009/10"&gt;{{Soccerbase season|id=32939|season=2009|accessdate=19 April 2017}}&lt;/ref&gt;
-|Championship
-|43||8||2||0||2||0||colspan="2"|—||47||8
-|-
-|[[2010–11 Ipswich Town F.C. season|2010–11]]&lt;ref name="2010/11"&gt;{{Soccerbase season|id=32939|season=2010|accessdate=19 April 2017}}&lt;/ref&gt;
-|Championship
-|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
-|-
-!colspan="2"|Total
-!136!!30!!4!!1!!6!!1!!colspan="2"|—||146!!32
-|-
-|rowspan="8"|[[Stoke City F.C.|Stoke City]]
-|[[2010–11 Stoke City F.C. season|2010–11]]&lt;ref name="2010/11" /&gt;
-|Premier League
-|36||6||7||5||3||1||colspan="2"|—||46||12
-|-
-|[[2011–12 Stoke City F.C. season|2011–12]]&lt;ref name="2011/12"&gt;{{Soccerbase season|id=32939|season=2011|accessdate=19 April 2017}}&lt;/ref&gt;
-|Premier League
-|38||7||4||2||2||0||10{{efn|Appearances in [[UEFA Europa League]]|name=UEL}}||2||54||11
-|-
-|[[2012–13 Stoke City F.C. season|2012–13]]&lt;ref name="2012/13"&gt;{{Soccerbase season|id=32939|season=2012|accessdate=19 April 2017}}&lt;/ref&gt;
-|Premier League
-|38||8||3||2||1||1||colspan="2"|—||42||11
-|-
-|[[2013–14 Stoke City F.C. season|2013–14]]&lt;ref name="2013/14"&gt;{{Soccerbase season|id=32939|season=2013|accessdate=19 April 2017}}&lt;/ref&gt;
-|Premier League
-|32||5||2||0||2||0||colspan="2"|—||36||5
-|-
-|[[2014–15 Stoke City F.C. season|2014–15]]&lt;ref name="2014/15"&gt;{{Soccerbase season|id=32939|season=2014|accessdate=19 April 2017}}&lt;/ref&gt;
-|Premier League
-|32||8||2||1||2||2||colspan="2"|—||36||11
-|-
-|[[2015–16 Stoke City F.C. season|2015–16]]&lt;ref name="2015/16"&gt;{{Soccerbase season|id=32939|season=2015|accessdate=19 April 2017}}&lt;/ref&gt;
-|Premier League
-|27||5||1||1||5||2||colspan="2"|—||33||8
-|-
-|[[2016–17 Stoke City F.C. season|2016–17]]&lt;ref name="2016/17"&gt;{{Soccerbase season|id=32939|season=2016|accessdate=19 April 2017}}&lt;/ref&gt;
-|Premier League
-|23||4||0||0||1||0||colspan="2"|—||24||4
-|-
-!colspan="2"|Total
-!226!!43!!19!!11!!16!!6!!10!!2!!271!!62
-|-
-|rowspan="3"|[[Burnley F.C.|Burnley]]
-|[[2017–18 Burnley F.C. season|2017–18]]&lt;ref name="2017/18"&gt;{{Soccerbase season|id=32939|season=2017|accessdate=9 August 2017}}&lt;/ref&gt;
-|Premier League
-|3||0||1||0||1||0||colspan="2"|—||5||0
-|-
-|[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name="2018/19"&gt;{{Soccerbase season|id=32939|season=2018|accessdate=12 August 2018}}&lt;/ref&gt;
-|Premier League
-|0||0||0||0||0||0||1{{efn|name=UEL}}||0||1||0
-|-
-!colspan="2"|Total
-!3!!0!!1!!0!!1!!0!!1!!0!!6!!0
-|-
-|Ipswich Town (loan)
-|[[2018–19 Ipswich Town F.C. season|2018–19]]&lt;ref name="2018/19"/&gt;
-|Championship
-|3||0||0||0||colspan="2"|—||colspan="2"|—||3||0
-|-
-!colspan="3"|Career total
-!495!!94!!36!!14!!27!!7!!15!!2!!573!!117
-|}
-{{notelist}}
-
-=== International ===
-{{updated|match played 6 September 2018}}&lt;ref&gt;{{NFT player|pid=40668|accessdate=6 June 2011 }}&lt;/ref&gt;&lt;ref name="EUFI"&gt;{{cite web|title=Jon Walters|url=http://eu-football.info/_player.php?id=26210|website=EU-Football|accessdate=9 September 2015}}&lt;/ref&gt;
-
-{| class="wikitable" style="text-align: center;"
-|+ Appearances and goals by national team and year
-|-
-!National team!!Year!!Apps!!Goals
-|-
-|rowspan=10|[[Republic of Ireland national football team|Republic of Ireland]]
-|-
-|2010||1||0
-|-
-|2011||3||1
-|-
-|2012||10||1
-|-
-|2013||10||2
-|-
-|2014||6||1
-|-
-|2015||8||5
-|-
-|2016||8||2
-|-
-|2017||5||2
-|-
-|2018||3||0
-|-
-!colspan=2|Total!!54!!14
-|}
-
-=== International goals ===
-:''As of match played 6 September 2018. Ireland score listed first, score column indicates score after each Walters goal.''&lt;ref name="EUFI" /&gt;
-
-{| class="wikitable sortable plainrowheaders"
-|+ International goals by date, venue, cap, opponent, score, result and competition
-|-
-!scope=col|No.
-!scope=col data-sort-type=date|Date
-!scope=col|Venue
-!scope=col|Cap
-!scope=col|Opponent
-!scope=col|Score
-!scope=col|Result
-!scope=col|Competition
-!scope=col class=unsortable|{{abbr|Ref.|Reference}}
-|-
-!scope=row style="text-align: center"|1
-|11 November 2011||[[A. Le Coq Arena]], [[Tallinn]], Estonia||align=center|4||{{fb|Estonia}}||align=center|2–0||align=center|4–0||[[UEFA Euro 2012 qualifying play-offs|UEFA Euro 2012 qualifying]]||align=center|&lt;ref&gt;{{cite web|title=Euro 2012 play-off: Estonia 0–4 Republic of Ireland|url=https://www.bbc.co.uk/sport/football/15572442|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
-|-
-!scope=row style="text-align: center"|2
-|16 October 2012||[[Tórsvøllur]], [[Tórshavn]], Faroe Islands||align=center|14||{{fb|Faroe Islands}}||align=center|2–0||align=center|4–1||[[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification]]||align=center|&lt;ref&gt;{{cite web|title=Faroe Islands 1–4 Republic of Ireland|url=https://www.bbc.co.uk/sport/football/19954418|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
-|-
-!scope=row style="text-align: center"|3
-|rowspan=2|26 March 2013||rowspan=2|[[Aviva Stadium]], [[Dublin]], Ireland||rowspan=2 align=center|17||rowspan=2|{{fb|Austria}}||align=center|1–1||rowspan=2 align=center|2–2||rowspan=2|[[2014 FIFA World Cup qualification – UEFA Group C|2014 FIFA World Cup qualification]]||rowspan=2 align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 2–2 Austria|url=https://www.bbc.co.uk/sport/football/21881461|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
-|-
-!scope=row style="text-align: center"|4
-|align=center|2–1
-|-
-!scope=row style="text-align: center"|5
-|25 May 2014||[[Aviva Stadium]], [[Dublin]], Ireland||align=center|26||{{fb|Turkey}}||align=center|1–2||align=center|1–2||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 1–2 Turkey|url=https://www.bbc.co.uk/sport/football/27565946|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
-|-
-!scope=row style="text-align: center"|6
-|13 June 2015||[[Aviva Stadium]], [[Dublin]], Ireland||align=center|33||{{fb|Scotland}}||align=center|1–0||align=center|1–1||[[UEFA Euro 2016 qualifying Group D|UEFA Euro 2016 qualifying]]||align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 1–1 Scotland|url=https://www.bbc.co.uk/sport/football/33033758|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
-|-
-!scope=row style="text-align: center"|7
-|7 September 2015||[[Aviva Stadium]], [[Dublin]], Ireland||align=center|35||{{fb|Georgia}}||align=center|1–0||align=center|1–0||[[UEFA Euro 2016 qualifying Group D|UEFA Euro 2016 qualifying]]||align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 1–0 Georgia|url=https://www.bbc.co.uk/sport/football/34063056|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
-|-
-!scope=row style="text-align: center"|8
-|11 October 2015||[[National Stadium, Warsaw|National Stadium]], [[Warsaw]], Poland||align=center|37||{{fb|Poland}}||align=center|1–1||align=center|1–2||[[UEFA Euro 2016 qualifying Group D|UEFA Euro 2016 qualifying]]||align=center|&lt;ref&gt;{{cite web|title=Poland 2–1 Republic of Ireland|url=https://www.bbc.co.uk/sport/football/33544046|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
-|-
-!scope=row style="text-align: center"|9
-|rowspan=2|16 November 2015||rowspan=2|[[Aviva Stadium]], [[Dublin]], Ireland||rowspan=2 align=center|38||rowspan=2|{{fb|Bosnia}}||align=center|1–0||rowspan=2 align=center|2–0||rowspan=2|[[UEFA Euro 2016 qualifying play-offs|UEFA Euro 2016 qualifying]]||rowspan=2 align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 2–0 Bosnia|url=https://www.bbc.co.uk/sport/football/34827028|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
-|-
-!scope=row style="text-align: center"|10
-|align=center|2–0
-|-
-!scope=row style="text-align: center"|11
-|rowspan=2|31 August 2016||rowspan=2|[[Aviva Stadium]], [[Dublin]], Ireland||rowspan=2 align=center|42||rowspan=2|{{fb|Oman}}||align=center|3–0||rowspan=2 align=center|4–0||rowspan=2|[[Exhibition game#Association football|Friendly]]||rowspan=2 align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 4–0 Oman|url=https://www.bbc.co.uk/sport/football/37220510|website=BBC Sport|accessdate=7 September 2016}}&lt;/ref&gt;
-|-
-!scope=row style="text-align: center"|12
-|align=center|4–0
-|-
-!scope=row style="text-align: center"|13
-|4 June 2017||[[Aviva Stadium]], [[Dublin]], Ireland||align=center|48||{{fb|URU}}||align=center|1–0||align=center|3–1||[[Exhibition game#Association football|Friendly]]||align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 4–0 Oman|url=https://www.bbc.com/sport/football/40153591|website=BBC Sport|accessdate=4 June 2016}}&lt;/ref&gt;
-|-
-!scope=row style="text-align: center"|14
-|rowspan=2|11 June 2017||rowspan=2|[[Aviva Stadium]], [[Dublin]], Ireland||rowspan=2 align=center|49||rowspan=2|{{fb|Austria}}||align=center|1–1||rowspan=2 align=center|1–1||rowspan=2|[[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification]]||align=center|&lt;ref&gt;{{cite web|title=Republic of Ireland 1–1 Austria|url=https://www.bbc.com/sport/football/40223682|website=BBC Sport|accessdate=12 June 2017}}&lt;/ref&gt;
-|}
-
-== Honours ==
-'''Blackburn Rovers'''
-*[[FA Youth Cup]] runner-up: 2000–01&lt;ref name="Soccerway"&gt;{{cite web |url=https://int.soccerway.com/players/jonathan-walters/15748/ |title=J.WALTERS |website=Soccerway |publisher=Perform Group |accessdate=21 November 2015}}&lt;/ref&gt;
-
-'''Hull City''' 
-*[[Football League One]] runner-up: [[2004–05 Football League|2004–05]]&lt;ref name="Soccerway" /&gt;
-*[[Football League Third Division]] runner-up: [[2003–04 Football League|2003–04]]&lt;ref name="Soccerway" /&gt;
-
-'''Stoke City'''
-*[[FA Cup]] runner-up: [[2011 FA Cup Final|2010–11]]&lt;ref name="Soccerway" /&gt;
-
-'''Individual'''
-*[[Ipswich Town F.C. Player of the Year]]: [[2007–08 Ipswich Town F.C. season|2007]]
-*[[FAI International Football Awards]] – Senior International Player of the Year: 2015&lt;ref&gt;{{cite web|url= http://www.independent.ie/sport/soccer/international-soccer/we-were-written-off-in-the-qualifiers-and-im-sure-it-will-be-the-same-at-the-euros-jon-walters-scoops-international-player-of-the-year-award-34557004.html|title='We were written off in the qualifiers and I’m sure it will be the same at the Euros' – Jon Walters scoops international Player of the Year award|date=20 March 2016|work=Irish Independent|accessdate=24 March 2016}}&lt;/ref&gt;
-
-==See also==
-* [[List of Republic of Ireland international footballers born outside the Republic of Ireland]]
-
-== References ==
-{{reflist}}
-
-== External links ==
-{{Commons category|Jonathan Walters}}
-*[https://www.burnleyfootballclub.com/teams/first-team/forward/jonathan-walters/ Profile] at the Burnley F.C. website
-*[http://www.fai.ie/ireland/player/74101 Profile] at the Football Association of Ireland website
-*{{Soccerbase}}
-
-{{Navboxes
-| title = Awards
-| bg = gold
-| fg = navy
-| list1 = 
-{{FAI Senior International Player of the Year}}
-{{Ipswich Town F.C. Player of the Year}}
-}}
-{{Navboxes
-| title = Republic of Ireland squads
-| bg = green
-| fg = white
-| bordercolor = silver
-| list1 = 
-{{Republic of Ireland squad UEFA Euro 2012}}
-{{Republic of Ireland squad UEFA Euro 2016}}
-}}
-{{Burnley F.C. squad}}
-
-{{DEFAULTSORT:Walters, Jonathan}}
-[[Category:1983 births]]
-[[Category:Living people]]
-[[Category:Sportspeople from Merseyside]]
-[[Category:English footballers]]
-[[Category:Republic of Ireland association footballers]]
-[[Category:Republic of Ireland under-21 international footballers]]
-[[Category:Republic of Ireland B international footballers]]
-[[Category:Republic of Ireland international footballers]]
-[[Category:Association football forwards]]
-[[Category:Blackburn Rovers F.C. players]]
-[[Category:Bolton Wanderers F.C. players]]
-[[Category:Hull City A.F.C. players]]
-[[Category:Crewe Alexandra F.C. players]]
-[[Category:Barnsley F.C. players]]
-[[Category:Scunthorpe United F.C. players]]
-[[Category:Wrexham A.F.C. players]]
-[[Category:Chester City F.C. players]]
-[[Category:Ipswich Town F.C. players]]
-[[Category:Stoke City F.C. players]]
-[[Category:Burnley F.C. players]]
-[[Category:Premier League players]]
-[[Category:English Football League players]]
-[[Category:UEFA Euro 2012 players]]
-[[Category:UEFA Euro 2016 players]]</text>
-      <sha1>codyywf5a5tzjsifrw5nwy4jmbwtv26</sha1>
-    </revision>
-  </page>
-  <page>
     <title>Joe Hart</title>
     <ns>0</ns>
     <id>2521661</id>
     <revision>
-      <id>884945164</id>
-      <parentid>884885427</parentid>
-      <timestamp>2019-02-25T00:36:21Z</timestamp>
+      <id>888268982</id>
+      <parentid>888268917</parentid>
+      <timestamp>2019-03-18T01:23:25Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>KH-1</username>
+        <id>21857263</id>
       </contributor>
       <minor/>
-      <comment>Reverted 1 edit by [[Special:Contributions/Erkatta11|Erkatta11]] ([[User talk:Erkatta11|talk]]) to last revision by UnitedStatesian ([[WP:TW|TW]])</comment>
+      <comment>Reverted edits by [[Special:Contribs/82.24.216.2|82.24.216.2]] ([[User talk:82.24.216.2|talk]]) to last version by S0091</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="81638">{{short description|English association football player}}
@@ -4436,17 +3989,15 @@ In October 2017, Hart was targeted in his car by thieves in [[Romford]], who sto
     <ns>0</ns>
     <id>11591233</id>
     <revision>
-      <id>885003488</id>
-      <parentid>884954070</parentid>
-      <timestamp>2019-02-25T10:00:02Z</timestamp>
+      <id>887645420</id>
+      <parentid>885003488</parentid>
+      <timestamp>2019-03-13T23:08:32Z</timestamp>
       <contributor>
-        <username>PeeJay2K3</username>
-        <id>492929</id>
+        <ip>109.154.33.20</ip>
       </contributor>
-      <comment>you might think it's "safe to say" that, but unless he's actually retired from international football, we don't tend to close that span</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="31303">{{Use dmy dates|date=November 2012}}
+      <text xml:space="preserve" bytes="31368">{{Use dmy dates|date=November 2012}}
 {{Infobox football biography
 | name           = Anders Lindegaard
 | image          = Anders Lindegaard 2016.jpg
@@ -4474,7 +4025,7 @@ In October 2017, Hart was targeted in his car by thieves in [[Romford]], who sto
 | nationalyears3 = 2010–     |nationalteam3 = [[Denmark national football team|Denmark]]              |nationalcaps3 = 5 |nationalgoals3 = 0
 | club-update    = 15:54, 27 December 2016 (UTC)
 }}
-'''Anders Rozenkrantz Lindegaard''' ({{IPA-da|ɑnɐs ˈlenəɡɒːˀ|lang}}; born 13 April 1984) is a Danish [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for English club [[Burnley F.C.|Burnley]]. He began his career with his hometown club, [[Odense Boldklub]], but a lack of first-team opportunities led to a move to Norwegian club [[Aalesunds FK|Aalesund]] in 2009, with whom he won the [[Norwegian Football Cup]]. After winning the Goalkeeper of the Year award in both Denmark and Norway in 2010, Lindegaard was signed by [[Manchester United F.C.|Manchester United]], where he played for five years as a back-up to [[Edwin van der Sar]] and [[David de Gea]]. He moved to [[West Bromwich Albion F.C.|West Bromwich Albion]] in 2015, but was unable to break into the team and joined [[Preston North End F.C.|Preston North End]] in January 2016, initially on loan. He joined Burnley in September 2017.
+'''Anders Rozenkrantz Lindegaard''' ({{IPA-da|ɑnɐs ˈlenəɡɒːˀ|lang}}; born 13 April 1984) is a Danish [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for English club [[Burnley F.C.|Burnley]] and the [[Denmark national football team|Denmark national team]]. He began his career with his hometown club, [[Odense Boldklub]], but a lack of first-team opportunities led to a move to Norwegian club [[Aalesunds FK|Aalesund]] in 2009, with whom he won the [[Norwegian Football Cup]]. After winning the Goalkeeper of the Year award in both Denmark and Norway in 2010, Lindegaard was signed by [[Manchester United F.C.|Manchester United]], where he played for five years as a back-up to [[Edwin van der Sar]] and [[David de Gea]]. He moved to [[West Bromwich Albion F.C.|West Bromwich Albion]] in 2015, but was unable to break into the team and joined [[Preston North End F.C.|Preston North End]] in January 2016, initially on loan. He joined Burnley in September 2017.
 
 Lindegaard represented Denmark at [[Denmark national under-19 football team|under-19]] and [[Denmark national under-20 football team|under-20]] level before making his [[Denmark national football team|senior]] debut on 7 September 2010 against [[Iceland national football team|Iceland]]. He went on to win 5 [[Cap (sport)|caps]] for his country.
 
@@ -4720,7 +4271,7 @@ Lindegaard is one of the few footballers to have spoken out against the intolera
 [[Category:LGBT rights activists from Denmark]]
 [[Category:Burnley F.C. players]]
 [[Category:Sportspeople from Odense]]</text>
-      <sha1>qb80o65mve5uln5vk9cddj2bmnn0v51</sha1>
+      <sha1>202u7djpc6d3ilz1ker0pfpc20zbbq8</sha1>
     </revision>
   </page>
   <page>
@@ -4886,17 +4437,17 @@ In the 1989 film version of the Profumo affair, ''[[Scandal (1989 film)|Scandal]
     <ns>0</ns>
     <id>2420223</id>
     <revision>
-      <id>874224973</id>
-      <parentid>872911001</parentid>
-      <timestamp>2018-12-17T22:24:21Z</timestamp>
+      <id>887567123</id>
+      <parentid>874224973</parentid>
+      <timestamp>2019-03-13T13:05:08Z</timestamp>
       <contributor>
-        <username>Nfc123</username>
-        <id>1265316</id>
+        <username>GiantSnowman</username>
+        <id>1005449</id>
       </contributor>
-      <comment>app 15 dec</comment>
+      <comment>/* Personal life */ +ref</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="38633">{{Use British English|date=February 2013}}
+      <text xml:space="preserve" bytes="38951">{{Use British English|date=February 2013}}
 {{Use dmy dates|date=February 2018}}
 {{Infobox football biography
 | name                = Aaron Lennon
@@ -5020,6 +4571,8 @@ Lennon was named in manager [[Fabio Capello]]'s 23-man squad for the [[2010 FIFA
 
 ==Personal life==
 On 30 April 2017, Lennon was detained under the [[Mental Health Act 2007]]. He was taken to hospital "for assessment" after police were called to reports of danger to a man's life in [[City of Salford|Salford]]. Lennon was said to be "receiving care and treatment for a stress-related illness", Everton reported.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/39788226 |title=Aaron Lennon: Everton winger detained under Mental Health Act |date=3 May 2017 |publisher=BBC Sport |accessdate=3 May 2017}}&lt;/ref&gt;
+
+In March 2019 he spoke about the incident, and said that other players had asked him for advice.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/47546064|title=Aaron Lennon: Burnley winger says other players approached him about mental health struggles|date=12 March 2019|publisher=|via=www.bbc.co.uk}}&lt;/ref&gt;
 
 ==Career statistics==
 ===Club===
@@ -5202,7 +4755,7 @@ On 30 April 2017, Lennon was detained under the [[Mental Health Act 2007]]. He w
 [[Category:Black English sportspeople]]
 [[Category:English people of Irish descent]]
 [[Category:English people of Jamaican descent]]</text>
-      <sha1>ripvc043yhw83d0tuskeamw63wt2aqd</sha1>
+      <sha1>h9sv796l8l17xu8480v386laidnna00</sha1>
     </revision>
   </page>
   <page>
@@ -5210,18 +4763,17 @@ On 30 April 2017, Lennon was detained under the [[Mental Health Act 2007]]. He w
     <ns>0</ns>
     <id>1111715</id>
     <revision>
-      <id>885825020</id>
-      <parentid>885824938</parentid>
-      <timestamp>2019-03-02T16:05:20Z</timestamp>
+      <id>888536281</id>
+      <parentid>887865412</parentid>
+      <timestamp>2019-03-19T19:48:18Z</timestamp>
       <contributor>
-        <username>CLCStudent</username>
-        <id>26398660</id>
+        <username>Nfc123</username>
+        <id>1265316</id>
       </contributor>
-      <minor/>
-      <comment>Reverted edits by [[Special:Contribs/2A02:8084:A1:B600:1D01:212F:C52B:29FF|2A02:8084:A1:B600:1D01:212F:C52B:29FF]] ([[User talk:2A02:8084:A1:B600:1D01:212F:C52B:29FF|talk]]) to last version by Nfc123</comment>
+      <comment>app 16 mar</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="41815">{{EngvarB|date=April 2013}}
+      <text xml:space="preserve" bytes="41809">{{EngvarB|date=April 2013}}
 {{Use dmy dates|date=September 2017}}
 {{Infobox football biography
 | name           = Phil Bardsley
@@ -5245,9 +4797,9 @@ On 30 April 2017, Lennon was detained under the [[Mental Health Act 2007]]. He w
 | years6         = 2007–2008 |clubs6 = → [[Sheffield United F.C.|Sheffield United]] (loan) |caps6 = 16  |goals6 = 0
 | years7         = 2008–2014 |clubs7 = [[Sunderland A.F.C.|Sunderland]]                    |caps7 = 174 |goals7 = 7
 | years8         = 2014–2017 |clubs8 = [[Stoke City F.C.|Stoke City]]                      |caps8 = 51  |goals8 = 0
-| years9         = 2017–     |clubs9 = [[Burnley F.C.|Burnley]]                            |caps9 = 28  |goals9 = 0
+| years9         = 2017–     |clubs9 = [[Burnley F.C.|Burnley]]                            |caps9 = 31  |goals9 = 0
 | nationalyears1 = 2010– |nationalteam1 = [[Scotland national football team|Scotland]] |nationalcaps1 = 13 |nationalgoals1 = 0
-| club-update         = 21:20, 27 February 2019 (UTC)
+| club-update         = 19:48, 19 March 2019 (UTC)
 | nationalteam-update = 15 March 2014
 }}
 '''Phillip Anthony Bardsley''' (born 28 June 1985) is a professional [[Association football|footballer]] who plays for [[Premier League]] club [[Burnley F.C.|Burnley]] and the [[Scotland national football team|Scotland national team]]. Although born in England, Bardsley qualifies for Scotland through his [[Glasgow]]-born father.&lt;ref&gt;[http://sport.stv.tv/football/scottish-premier/rangers/201311-phil-bardsley-called-into-scotland-squad-for-euro-2012-games/ Phil Bardsley called into Scotland squad for Euro 2012 games]&lt;/ref&gt;
@@ -5313,7 +4865,7 @@ Bardsley married glamour model [[Tanya Robinson]] in 2014, with whom he has thre
 ==Career statistics==
 
 ===Club===
-{{updated|match played 26 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -5436,13 +4988,13 @@ Bardsley married glamour model [[Tanya Robinson]] in 2014, with whom he has thre
 |-
 |[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name="2018/19"&gt;{{Soccerbase season|id=37216|season=2018|accessdate=12 August 2018}}&lt;/ref&gt;
 |Premier League
-|15||0||0||0||0||0||4&lt;ref group=lower-alpha&gt;Appearances in [[Europa League]]&lt;/ref&gt;||0||19||0
+|18||0||0||0||0||0||4&lt;ref group=lower-alpha&gt;Appearances in [[Europa League]]&lt;/ref&gt;||0||22||0
 |-
 !colspan=2|Total
-!28!!0!!0!!0!!2!!0!!4!!0||34!!0
+!31!!0!!0!!0!!2!!0!!4!!0||37!!0
 |-
 !colspan=3|Career total
-!307!!8!!23!!1!!24!!5!!10!!0!!364!!14
+!310!!8!!23!!1!!24!!5!!10!!0!!367!!14
 |}
 {{reflist|group=lower-alpha}}
 
@@ -5508,7 +5060,7 @@ Bardsley married glamour model [[Tanya Robinson]] in 2014, with whom he has thre
 [[Category:English Football League players]]
 [[Category:Scottish Premier League players]]
 [[Category:Expatriate footballers in Belgium]]</text>
-      <sha1>fq481ms7xcwf2txinbc2ire6gb3rj5m</sha1>
+      <sha1>59sct08q3zxnqcdh6wcj5xhvdtxoll5</sha1>
     </revision>
   </page>
   <page>
@@ -5516,17 +5068,17 @@ Bardsley married glamour model [[Tanya Robinson]] in 2014, with whom he has thre
     <ns>0</ns>
     <id>27292252</id>
     <revision>
-      <id>885411423</id>
-      <parentid>880438049</parentid>
-      <timestamp>2019-02-27T21:39:34Z</timestamp>
+      <id>888537769</id>
+      <parentid>887325571</parentid>
+      <timestamp>2019-03-19T19:57:56Z</timestamp>
       <contributor>
         <username>Nfc123</username>
         <id>1265316</id>
       </contributor>
-      <comment>app 26 feb</comment>
+      <comment>app 16 mar</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="32252">{{pp-vandalism|expiry=12:46, 1 August 2019|small=yes}}
+      <text xml:space="preserve" bytes="32247">{{pp-vandalism|expiry=12:46, 1 August 2019|small=yes}}
 {{Use dmy dates|date=March 2013}}
 {{Infobox football biography
 | name        = Matěj Vydra
@@ -5561,7 +5113,7 @@ Bardsley married glamour model [[Tanya Robinson]] in 2014, with whom he has thre
 | years8 = 2015–2016 | clubs8 = [[Watford F.C.|Watford]]                  | caps8 = 1 | goals8 = 0
 | years9 = 2015–2016 | clubs9 = → [[Reading F.C.|Reading]] (loan)         | caps9 = 31 | goals9= 3
 | years10 = 2016–2018| clubs10 = [[Derby County F.C.|Derby County]]       | caps10 = 73| goals10= 26
-| years11 = 2018–    | clubs11 = [[Burnley F.C.|Burnley]]                 | caps11 =  9| goals11=  1&lt;!--League stats only--&gt;
+| years11 = 2018–    | clubs11 = [[Burnley F.C.|Burnley]]                 | caps11 = 11| goals11=  1&lt;!--League stats only--&gt;
 | nationalyears1 = 2007–2008 | nationalteam1 = Czech Republic U16
 | nationalcaps1  = 8 | nationalgoals1 = 2
 | nationalyears2 = 2008–2009 | nationalteam2 = [[Czech Republic national under-17 football team|Czech Republic U17]]
@@ -5574,7 +5126,7 @@ Bardsley married glamour model [[Tanya Robinson]] in 2014, with whom he has thre
 | nationalcaps5  = 4 | nationalgoals5 = 0
 | nationalyears6 = 2012–  | nationalteam6 = [[Czech Republic national football team|Czech Republic]]
 | nationalcaps6  = 24 | nationalgoals6 = 5
-| club-update = 21:39, 27 February 2019 (UTC)
+| club-update = 19:57, 19 March 2019 (UTC)
 | nationalteam-update = 22:22, 19 November 2018 (UTC)
 }}
 
@@ -5656,7 +5208,7 @@ Vydra played for five [[Czech Republic|Czech]] youth national teams between unde
 
 ==Career statistics==
 ===Club===
-{{updated|match played 26 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -5773,10 +5325,10 @@ Vydra played for five [[Czech Republic|Czech]] youth national teams between unde
 |[[Burnley F.C.|Burnley]]
 |[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name="Soccerway"/&gt;
 |Premier League
-|9||1||2||0||1||0||1&lt;ref group="lower-alpha" name=UEL/&gt;||1||13||2
+|11||1||2||0||1||0||1&lt;ref group="lower-alpha" name=UEL/&gt;||1||15||2
 |-
 !colspan="3"|Career total
-! 264 !! 78 !! 18 !! 7 !! 9 !! 1 !! 7 !! 4 !! 298!! 90
+! 266 !! 78 !! 18 !! 7 !! 9 !! 1 !! 7 !! 4 !! 300!! 90
 |}
 {{notelist}}
 
@@ -5900,7 +5452,7 @@ Vydra played for five [[Czech Republic|Czech]] youth national teams between unde
 [[Category:Expatriate footballers in Belgium]]
 [[Category:Expatriate footballers in England]]
 [[Category:Premier League players]]</text>
-      <sha1>85c5uh1ea4a8jbmg2h6v1jscqxurzvn</sha1>
+      <sha1>gzmv82knavgs096h0bot7qzk9vl9jpi</sha1>
     </revision>
   </page>
   <page>
@@ -6202,17 +5754,18 @@ The arrival of [[David Stockdale]] left Legzdins third in Birmingham's pecking o
     <ns>0</ns>
     <id>57435123</id>
     <revision>
-      <id>885411088</id>
-      <parentid>885076771</parentid>
-      <timestamp>2019-02-27T21:37:02Z</timestamp>
+      <id>888985343</id>
+      <parentid>888978212</parentid>
+      <timestamp>2019-03-22T17:40:50Z</timestamp>
       <contributor>
-        <username>Nfc123</username>
-        <id>1265316</id>
+        <username>Iggy the Swan</username>
+        <id>31885086</id>
       </contributor>
-      <comment>app 26 feb</comment>
+      <minor/>
+      <comment>fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]], rm All Caps</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="5784">{{Infobox football biography
+      <text xml:space="preserve" bytes="6990">{{Infobox football biography
 | name                = Dwight McNeil
 | image               = Dwight McNeil controls the ball.jpg
 | caption             = McNeil playing for Burnley
@@ -6230,10 +5783,14 @@ The arrival of [[David Stockdale]] left Legzdins third in Birmingham's pecking o
 | youthclubs2         = [[Burnley F.C.|Burnley]]
 | years1              = 2018–
 | clubs1              = [[Burnley F.C.|Burnley]]
-| caps1               = 12
-| goals1              = 1
-| club-update         = 21:37, 27 February 2019 (UTC)
-| nationalteam-update = 
+| caps1               = 15
+| goals1              = 2
+| nationalyears1      = 2019–
+| nationalteam1       = [[England national under-20 football team|England U20]]
+| nationalcaps1       = 1 
+| nationalgoals1      = 0 
+| club-update         = 22:40, 16 March 2019 (UTC)
+| nationalteam-update = 21:47, 21 March 2019 (UTC)
 }}
 '''Dwight James Matthew McNeil'''  (born 22 November 1999) is an English professional [[Association football|footballer]] who plays as a [[midfielder]] / [[Forward (association football)#Striker|striker]] for [[Premier League]] club [[Burnley F.C.|Burnley]].
 
@@ -6241,11 +5798,14 @@ The arrival of [[David Stockdale]] left Legzdins third in Birmingham's pecking o
 [[File:Dwight McNeil looks to take a Montpellier player on.jpg|alt=Dwight McNeil looks to take a Montpellier player on in pre-season for Burnley|thumb|Dwight McNeil looks to take a Montpellier player on in pre-season for Burnley]]
 Born in [[Rochdale]], [[Greater Manchester]], McNeil started his career in the youth system at [[Manchester United F.C.|Manchester United]] before he signed for the [[Burnley F.C.|Burnley]] Academy in 2014.&lt;ref name="BFC"&gt;{{cite web |url=https://www.burnleyfootballclub.com/teams/u18-team/2nd-year-scholar/dwight-mcneill/ |title=Burnley profile |website=Burnley F.C. |accessdate=16 May 2018 |archive-url=https://web.archive.org/web/20180517152707/https://www.burnleyfootballclub.com/teams/u18-team/2nd-year-scholar/dwight-mcneill/ |archive-date=2018-05-17 |dead-url=yes |df= }}&lt;/ref&gt; In July 2016 he was rewarded with a two-year scholarship and was a regular member of the under-18 squad and occasionally played for the Development Squad.&lt;ref name="BFC"/&gt; In February 2018, he travelled with the first team squad for the [[Premier League]] game against [[Swansea City A.F.C.|Swansea City]] but failed to make the match-day squad.&lt;ref&gt;{{cite web |url=http://www.lancashiretelegraph.co.uk/sport/16037402.Clarets_youngster_McNeil_wants_more_after_first_team_taster/|title=Clarets youngster McNeil wants more after first team taster|website=Lancashire Telegraph|date=21 February 2018 |accessdate=16 May 2018|first=Tyrone|last=Marshall}}&lt;/ref&gt; On 10 April 2018, following the end of his scholarship, he signed a professional two-year contract with the option of a third year in the clubs favour.&lt;ref&gt;{{cite web |url=http://www.lancashiretelegraph.co.uk/sport/football/burnley_fc/news/16149695.Burnley_prospects_sign_professional_deals/|title=Burnley prospects sign professional deals|website=Lancashire Telegraph|date=10 April 2018 |accessdate=16 May 2018|first=Tyrone|last=Marshall}}&lt;/ref&gt; On 13 May 2018 he made his first team debut in the final match of the [[2017–18 Burnley F.C. season|2017–18]] season when he replaced [[Aaron Lennon]] as a late substitute in the 2–1 home defeat to [[A.F.C. Bournemouth|AFC Bournemouth]].&lt;ref name=sb1718/&gt; McNeil scored his first goal for the club in a 2–0 home win against [[West Ham United F.C.|West Ham United]] on 30 December 2018.&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/46663364|title=Burnley manager Sean Dyche says a couple of "big decisions" in his team selection contributed to a vital win over West Ham at Turf Moor.}}&lt;/ref&gt;
 
+==International career==
+In March 2019, McNeil received his first call-up for the [[England under-20 football team|England U20s]] ahead of [[2018-19 Under 20 Elite League|U20 Euro Elite League]] fixtures against Poland and Portugal.&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2019/mar/14/england-u20s-squad-named-for-poland-and-portugal-140319|title=Paul Simpson Has Picked His England U20s Squad For Games With Poland and Portugal|publisher=The Football Association|date=14 March 2019|access-date=14 March 2019}}&lt;/ref&gt;. McNeil made his debut as a starter in a 3–1 defeat to [[Poland national under-20 football team|Poland]]  at [[St George's Park National Football Centre|St. George's Park]]. &lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2019/mar/21/england-u20s-poland-report-210319 |title=Paul Simpson's Young Lions Suffer Defeat Against Poland at St. George's Park |publisher=The Football Association |date=21 March 2019 |accessdate=22 March 2019}}&lt;/ref&gt;
+
 ==Personal life==
 McNeil's father, [[Matty McNeil|Matty]], played in the [[English Football League|Football League]] for [[Macclesfield Town F.C.|Macclesfield Town]] and [[Stockport County F.C.|Stockport County]].&lt;ref&gt;{{cite web |url=https://www.burnleyfootballclub.com/news/2018/december/dream-day-for-goalscorer-mcneil/|title=Dream Day For Goalscorer McNeil|website=Burnley F.C.|date=31 December 2018 |accessdate=7 January 2019}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 26 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -6267,10 +5827,10 @@ McNeil's father, [[Matty McNeil|Matty]], played in the [[English Football League
 |-
 |[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|60565|2018|accessdate=30 December 2018}}&lt;/ref&gt;
 |Premier League
-|11||1||2||0||1||0||2{{efn|Appearance in [[UEFA Europa League]]}}||0||16||1
+|14||2||2||0||1||0||2{{efn|Appearance in [[UEFA Europa League]]}}||0||19||2
 |-
 !colspan=3|Career total
-!12!!1!!2!!0!!1!!0!!2!!0!!17!!1
+!15!!2!!2!!0!!1!!0!!2!!0!!20!!2
 |}
 
 {{notelist}}
@@ -6288,10 +5848,11 @@ McNeil's father, [[Matty McNeil|Matty]], played in the [[English Football League
 [[Category:Living people]]
 [[Category:People from Rochdale]]
 [[Category:English footballers]]
+[[Category:England youth international footballers]]
 [[Category:Association football forwards]]
 [[Category:Burnley F.C. players]]
 [[Category:Premier League players]]</text>
-      <sha1>oaok9pi8vhhsbrb13cn6k1psp261tz1</sha1>
+      <sha1>48pvyv4b96k7h6j3b7u5pete8kfxroj</sha1>
     </revision>
   </page>
   <page>
@@ -6449,18 +6010,18 @@ On 18 January 2018, Agyei joined [[EFL League One|League One]] club [[Blackpool 
     <ns>0</ns>
     <id>30148815</id>
     <revision>
-      <id>885940106</id>
-      <parentid>885320748</parentid>
-      <timestamp>2019-03-03T09:02:41Z</timestamp>
+      <id>888069315</id>
+      <parentid>887704037</parentid>
+      <timestamp>2019-03-16T18:34:53Z</timestamp>
       <contributor>
         <username>GiantSnowman</username>
         <id>1005449</id>
       </contributor>
       <minor/>
-      <comment>update - match played 2 March 2019</comment>
+      <comment>update - match played 16 March 2019</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="50055">{{Use British English|date=June 2013}}
+      <text xml:space="preserve" bytes="50057">{{Use British English|date=June 2013}}
 {{Use dmy dates|date=June 2013}}
 {{Infobox football biography
 |name                = Nahki Wells
@@ -6510,13 +6071,13 @@ On 18 January 2018, Agyei joined [[EFL League One|League One]] club [[Blackpool 
 |goals8              = 0
 |years9              = 2018–
 |clubs9              = → [[Queens Park Rangers F.C.|Queens Park Rangers]] (loan)
-|caps9               = 31
+|caps9               = 34
 |goals9              = 6
 |nationalyears1      = 2007–
 |nationalteam1       = [[Bermuda national football team|Bermuda]]
 |nationalcaps1       = 10
 |nationalgoals1      = 6
-|club-update         = 09:02, 3 March 2019 (UTC)
+|club-update         = 18:34, 16 March 2019 (UTC)
 |nationalteam-update = 00:36, 29 November 2018 (UTC)
 }}
 '''Nahki Michael Wells''' (born 1 June 1990) is a Bermudian professional [[association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Queens Park Rangers F.C.|Queens Park Rangers]], on loan from [[Burnley F.C.|Burnley]], and the [[Bermuda national football team|Bermuda national team]].
@@ -6570,7 +6131,7 @@ Wells was described as "one of Bermuda's most promising players, with an excepti
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style="text-align: center;"
 |+ Appearances and goals by club, season and competition
@@ -6646,10 +6207,10 @@ Wells was described as "one of Bermuda's most promising players, with an excepti
 |[[Queens Park Rangers F.C.|Queens Park Rangers]] (loan)
 |[[2018–19 Queens Park Rangers F.C. season|2018–19]]&lt;ref name = "2018-19"/&gt;
 |Championship
-|31||6||3||2||0||0||colspan=2|—||34||8
+|34||6||3||2||0||0||colspan=2|—||37||8
 |-
 !colspan=3|Career total
-!287||95||15||6||10||7||9||4||321||112
+!290||95||15||6||10||7||9||4||324||112
 |}
 
 {{notelist}}
@@ -6751,176 +6312,7 @@ Wells was described as "one of Bermuda's most promising players, with an excepti
 [[Category:Bermudian expatriate footballers]]
 [[Category:Expatriate footballers in England]]
 [[Category:Bermudian expatriates in the United Kingdom]]</text>
-      <sha1>mli2v08ew96l7qplw0k05mcsctm9u5x</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Aiden O'Neill</title>
-    <ns>0</ns>
-    <id>51375199</id>
-    <revision>
-      <id>885492070</id>
-      <parentid>885456923</parentid>
-      <timestamp>2019-02-28T10:38:15Z</timestamp>
-      <contributor>
-        <username>DannyS712</username>
-        <id>34581532</id>
-      </contributor>
-      <minor/>
-      <comment>Reverted edits by [[Special:Contribs/DannyS712|DannyS712]] ([[User talk:DannyS712|talk]]) to last version by Nfc123</comment>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="10883">{{Use dmy dates|date=August 2016}}
-{{Use Australian English|date=August 2016}}
-{{Infobox football biography
-| name = Aiden O'Neill
-| image               = 
-| image_size          =
-| caption             = 
-| fullname = Aiden Connor O'Neill&lt;ref&gt;{{cite news|url=http://www.efl.com/news/article/2016/efl-club-retained-and-released-lists-published-3151313.aspx|publisher=[[English Football League]]|accessdate=22 August 2016|date=23 June 2016|title=EFL: Club retained and released lists published}}&lt;/ref&gt;
-| birth_date = {{Birth date and age|1998|7|4|df=y}}&lt;ref&gt;{{cite web|url=http://www.burnleyfootballclub.com/team/player-profile/aiden-o-neill/41|title=Burnley Football Club – First Team|website=www.burnleyfootballclub.com}}&lt;/ref&gt;
-| birth_place = [[Brisbane]], Australia
-| height = {{height|m=1.78}}&lt;ref name="11v11"&gt;{{cite web |title=Aiden O'Neill |url=http://www.11v11.com/players/aiden-oneill-253607/ |work=11v11.com |publisher=AFS Enterprises |accessdate=26 April 2017}}&lt;/ref&gt;
-| currentclub = [[Central Coast Mariners FC|Central Coast Mariners]]&lt;br&gt;(on loan from [[Burnley F.C.|Burnley]])
-| clubnumber = 13
-| position = [[Midfielder|Central midfielder]]
-| youthyears1 = 2004–2006
-| youthclubs1 = [[University of Queensland FC|Kenmore]]
-| youthyears2 = 2007–2011
-| youthclubs2 = Brisbane Athletic
-| youthyears3 = 2014–2016
-| youthclubs3 = [[Burnley F.C.|Burnley]]
-| years1 = 2016–
-| clubs1 = [[Burnley F.C.|Burnley]]
-| caps1 = 3
-| goals1 = 0
-| years2 = 2017
-| clubs2 = → [[Oldham Athletic A.F.C.|Oldham Athletic]] (loan)
-| caps2 = 15
-| goals2 = 0
-| years3 = 2017–2018
-| clubs3 = → [[Fleetwood Town F.C.|Fleetwood Town]] (loan)
-| caps3 = 21
-| goals3 = 1
-| years4 = 2018–
-| clubs4 = → [[Central Coast Mariners FC|Central Coast Mariners]] (loan)
-| caps4 = 19
-| goals4 = 4
-| nationalyears1 = 2017–
-| nationalteam1 = [[Australia national under-23 soccer team|Australia U23]]
-| nationalcaps1 =  2
-| nationalgoals1 = 0
-| club-update = 18:41, 17 February 2019 (UTC)
-| ntupdate = 20:24, 15 January 2018 (UTC)
-}}
-
-'''Aiden Connor O'Neill''' (born 4 July 1998) is an Australian professional [[association football|football]] player who plays as a [[midfielder]] for [[Central Coast Mariners FC|Central Coast Mariners]] in the [[A-League]], on loan from [[Burnley F.C.|Burnley]].
-
-Born in Brisbane, O'Neill played youth football for Brisbane Athletic and [[Burnley F.C.|Burnley]] before making his professional debut for the latter in 2016. He spent some time on loan to [[Oldham Athletic A.F.C.|Oldham Athletic]] and [[Fleetwood Town F.C.|Fleetwood Town]], scoring his first ever professional goal for the latter club. He returned to Australia, on loan, to play for [[Central Coast Mariners FC|Central Coast Mariners]] in 2018.
-
-He has represented the [[Australia national under-23 soccer team|Australian under-23 national team]].
-
-==Early life==
-O'Neill is of Irish ancestry. He was born and raised in Brisbane, attending Nudgee Junior College before moving to [[Brisbane Boys' College]] before moving to England aged fourteen when his parents moved there for work.&lt;ref name=Australian&gt;{{cite news|url=http://www.theaustralian.com.au/sport/football/aiden-oneill-credits-a-dog-with-honing-his-attacking-skills/news-story/7df66fa3408e206bccb6358ce9d63467?login=1|title=Aiden O'Neill credits a dog with honing his attacking skills|publisher=''[[The Australian]]''|date=17 June 2017|accessdate=18 June 2017|author=Gatt, Ray}}&lt;/ref&gt;
-
-==Career==
-O'Neill played youth football for Brisbane Athletic between 2008 and 2012.&lt;ref&gt;{{cite web|url=https://www.facebook.com/brisbaneathleticfc/photos/a.223634841178333.1073741835.191833267691824/499477400260741/?type=3&amp;theater|title=Brisbane Athletic Football Club|publisher=[[Facebook]]|date=23 August 2016|accessdate=23 August 2016}}&lt;/ref&gt; He moved to England as a teenager, where he sought to pursue a career in football.&lt;ref&gt;{{cite news|url=http://www.footballaustralia.com.au/article/the-story-behind-burnleys-epl-debutant-from-australia/103t1yfkxmvkf1na0dy53az6qg|title=The story behind Burnley's EPL debutant from Australia|publisher=[[Football Federation Australia]]|date=25 August 2016|accessdate=28 August 2016}}&lt;/ref&gt;
-
-On 12 January 2016, O'Neill signed his first professional contract with then-[[Football League Championship|Championship]] side [[Burnley F.C.|Burnley]].&lt;ref&gt;{{cite news|title=O'Neill Signs Professional Deal|url=http://www.burnleyfootballclub.com/news/article/oneill-signs-professional-deal-2897325.aspx|accessdate=20 August 2016|work=Burnley Football Club|date=12 January 2016}}&lt;/ref&gt; He made his professional debut for the club on 20 August 2016, coming on as a late substitute against [[Liverpool F.C.|Liverpool]] in the [[Premier League]] as Burnley won 2–0.&lt;ref&gt;{{cite web|title=Burnley 2–0 Liverpool|url=https://int.soccerway.com/matches/2016/08/20/england/premier-league/burnley-fc/liverpool-fc/2242031/|website=Soccerway}}&lt;/ref&gt; He made his full debut days later, starting in an [[Overtime (sports)|extra time]] loss to [[Accrington Stanley F.C.|Accrington Stanley]] in the [[EFL Cup]].&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/37103144|publisher=[[BBC Sports]]|date=24 August 2016|accessdate=25 August 2016|title=Accrington Stanley 1–0 Burnley (AET)}}&lt;/ref&gt;
-
-In January 2017, he joined [[EFL League One]] strugglers [[Oldham Athletic A.F.C.|Oldham Athletic]] on loan until the end of the season.&lt;ref&gt;{{Cite news |title=O'Neill Makes Loan Move To Oldham |url=http://www.burnleyfootballclub.com/news/article/2016-17/oneill-makes-loan-move-to-oldham-3548336.aspx |publisher=Burnley Official Site |date=31 January 2017 |accessdate=31 January 2017}}&lt;/ref&gt; He made a total of fifteen appearances for the Latics.&lt;ref name="Soccerway"/&gt;
-
-In August 2017, he joined League One side [[Fleetwood Town F.C.|Fleetwood Town]] on a season-long loan deal.&lt;ref&gt;{{Cite news |title=Aiden O'Neill: Fleetwood Town sign Burnley midfielder on season-long loan|url=https://www.bbc.co.uk/sport/football/40789649 |publisher=BBC Sport |date=1 August 2017 |accessdate=14 August 2017}}&lt;/ref&gt; In January 2018, he returned to Burnley early having made twenty-seven appearances and scoring once against [[Blackburn Rovers F.C.|Blackburn Rovers]].&lt;ref&gt;{{Cite news |title=Aiden O'Neill returns to Burnley|url=https://www.fleetwoodtownfc.com/news/2018/january/aiden-oneill-returns-to-burnley/ |publisher=Fleetwood Town F.C. |date=2 January 2018 |accessdate=9 January 2018}}&lt;/ref&gt;
-
-In August 2018, O'Neill returned to Australia to play for [[Central Coast Mariners FC|Central Coast Mariners]] in the [[A-League]] on a season-long loan.&lt;ref&gt;{{cite news|date=15 August 2018|accessdate=15 August 2018|title=Burnley midfielder O'Neill returns home to Central Coast Mariners|url=https://www.burnleyexpress.net/sport/football/clarets/burnley-midfielder-o-neill-returns-home-to-central-coast-mariners-1-9301886|publisher=''[[Burnley Express]]''|author=Boden, Chris}}&lt;/ref&gt;
-
-==International career==
-O'Neill has stated that his preference is to play for Australia, but had not been in any contact with [[Football Federation Australia]] when he made his Premier League debut in August 2016.&lt;ref&gt;{{cite news|url=http://theworldgame.sbs.com.au/article/2016/09/02/premier-league-whizkid-oneill-dreaming-socceroos-call|title=Premier League whizkid O'Neill dreaming of Socceroos call|publisher=''[[The World Game]]''|date=2 September 2016|accessdate=3 September 2016|author=Lewis, Dave}}&lt;/ref&gt; He was later called up for an [[Australia national under-23 soccer team|Australia under-23]] camp in March 2017.&lt;ref&gt;{{cite news|url=http://www.heraldsun.com.au/sport/football/deni-juric-the-younger-brother-of-socceroos-striker-tomi-selected-for-olyroos-camp-in-spain/news-story/c3fb827ec291f3913266a609b3f872ec|title=Deni Juric, the younger brother of Socceroos striker Tomi, selected for Olyroos camp in Spain|author=Davutovic, David|publisher=''[[Herald Sun]]''|date=15 March 2017|accessdate=13 June 2017}}&lt;/ref&gt; He had previously been contacted by the [[Football Association of Ireland]] and the [[Irish Football Association]] but reiterated that his preference was to play for Australia.&lt;ref name=Australian/&gt;
-
-==Career statistics==
-{{updated|match played 22 February 2019}}
-
-{| class="wikitable" style="text-align: center;"
-|+ Appearances and goals by club, season and competition
-|-
-!rowspan="2"|Club
-!rowspan="2"|Season
-!colspan="3"|League
-!colspan="2"|National Cup
-!colspan="2"|[[EFL Cup|League Cup]]
-!colspan="2"|Other
-!colspan="2"|Total
-|-
-!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
-|-
-|rowspan="4"|[[Burnley F.C.|Burnley]]
-|[[2016–17 Burnley F.C. season|2016–17]]&lt;ref name="Soccerway"&gt;{{soccerway|aiden-oneill/452934}}&lt;/ref&gt;
-|[[Premier League]]
-|3||0||1||0||1||0||colspan="2"|—||5||0
-|-
-|[[2017–18 Burnley F.C. season|2017–18]]&lt;ref name="Soccerway"/&gt;
-|Premier League
-|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
-|-
-|[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name="Soccerway"/&gt;
-|Premier League
-|0||0||colspan="2"|—||colspan="2"|—||0||0||0||0
-|-
-!colspan=2|Total
-!3!!0!!1!!0!!1!!0!!0!!0!!5!!0
-|-
-|[[Oldham Athletic A.F.C.|Oldham Athletic]] (loan)
-|[[2016–17 Oldham Athletic A.F.C. season|2016–17]]&lt;ref name="Soccerway"/&gt;
-|[[EFL League One|League One]]
-|15||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||15||0
-|-
-|[[Fleetwood Town F.C.|Fleetwood Town]] (loan)
-|[[2017–18 Fleetwood Town F.C. season|2017–18]]&lt;ref name="Soccerway"/&gt;
-|League One
-|21||1||3||0||1||0||2&lt;ref group=lower-alpha name=EFL&gt;Appearances in [[EFL Trophy]]&lt;/ref&gt;||0||27||1
-|-
-|[[Central Coast Mariners FC|Central Coast Mariners]] (loan)
-|[[2018–19 Central Coast Mariners FC season|2018–19]]&lt;ref name="Soccerway"/&gt;
-|[[A-League]]
-|19||4||0||0||colspan="2"|—||colspan="2"|—||19||4
-|-
-!colspan="3"|Career total
-!58!!5!!4!!0!!2!!0!!2!!0!!66!!5
-|}
-
-{{notelist}}
-
-==See also==
-* [[List of foreign Premier League players]]
-
-==References==
-{{reflist}}
-
-==External links==
-*[http://www.burnleyfootballclub.com/team/player-profile/aiden-o-neill/41 Aiden O'Neill profile] BurnleyFootballClub.com
-*{{Soccerbase}}
-*{{soccerway|aiden-oneill/452934}}
-
-{{Central Coast Mariners FC squad}}
-
-{{DEFAULTSORT:ONeill, Aiden}}
-[[Category:1998 births]]
-[[Category:Living people]]
-[[Category:Australian soccer players]]
-[[Category:Burnley F.C. players]]
-[[Category:Oldham Athletic A.F.C. players]]
-[[Category:Fleetwood Town F.C. players]]
-[[Category:Central Coast Mariners FC players]]
-[[Category:Association football midfielders]]
-[[Category:Premier League players]]
-[[Category:English Football League players]]
-[[Category:A-League players]]
-[[Category:Expatriate footballers in England]]
-[[Category:Australian expatriate sportspeople in England]]
-[[Category:Australian expatriate soccer players]]
-[[Category:Soccer players from Brisbane]]
-[[Category:Australian people of Irish descent]]</text>
-      <sha1>b0y4q38l6eylkaxf84o9gg7zjqmt7x5</sha1>
+      <sha1>qc3nfhmma08zbncqr8cqcgiuvkethlv</sha1>
     </revision>
   </page>
   <page>
@@ -7115,6 +6507,174 @@ Between 1930 and 1939 Dunne also made 15 appearances and scored 13 goals for the
 [[Category:League of Ireland XI players]]
 [[Category:Association football forwards]]</text>
       <sha1>ttj8vwg04ohbdduuxqvz1dzz3i6byoi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aiden O'Neill</title>
+    <ns>0</ns>
+    <id>51375199</id>
+    <revision>
+      <id>888969844</id>
+      <parentid>885492070</parentid>
+      <timestamp>2019-03-22T15:48:25Z</timestamp>
+      <contributor>
+        <username>SuperJew</username>
+        <id>9582401</id>
+      </contributor>
+      <comment>update nat stats</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10855">{{Use dmy dates|date=August 2016}}
+{{Use Australian English|date=August 2016}}
+{{Infobox football biography
+| name = Aiden O'Neill
+| image               = 
+| image_size          =
+| caption             = 
+| fullname = Aiden Connor O'Neill&lt;ref&gt;{{cite news|url=http://www.efl.com/news/article/2016/efl-club-retained-and-released-lists-published-3151313.aspx|publisher=[[English Football League]]|accessdate=22 August 2016|date=23 June 2016|title=EFL: Club retained and released lists published}}&lt;/ref&gt;
+| birth_date = {{Birth date and age|1998|7|4|df=y}}&lt;ref&gt;{{cite web|url=http://www.burnleyfootballclub.com/team/player-profile/aiden-o-neill/41|title=Burnley Football Club – First Team|website=www.burnleyfootballclub.com}}&lt;/ref&gt;
+| birth_place = [[Brisbane]], Australia
+| height = {{height|m=1.78}}&lt;ref name="11v11"&gt;{{cite web |title=Aiden O'Neill |url=http://www.11v11.com/players/aiden-oneill-253607/ |work=11v11.com |publisher=AFS Enterprises |accessdate=26 April 2017}}&lt;/ref&gt;
+| currentclub = [[Central Coast Mariners FC|Central Coast Mariners]]&lt;br&gt;(on loan from [[Burnley F.C.|Burnley]])
+| clubnumber = 13
+| position = [[Midfielder|Central midfielder]]
+| youthyears1 = 2004–2006
+| youthclubs1 = [[University of Queensland FC|Kenmore]]
+| youthyears2 = 2007–2011
+| youthclubs2 = Brisbane Athletic
+| youthyears3 = 2014–2016
+| youthclubs3 = [[Burnley F.C.|Burnley]]
+| years1 = 2016–
+| clubs1 = [[Burnley F.C.|Burnley]]
+| caps1 = 3
+| goals1 = 0
+| years2 = 2017
+| clubs2 = → [[Oldham Athletic A.F.C.|Oldham Athletic]] (loan)
+| caps2 = 15
+| goals2 = 0
+| years3 = 2017–2018
+| clubs3 = → [[Fleetwood Town F.C.|Fleetwood Town]] (loan)
+| caps3 = 21
+| goals3 = 1
+| years4 = 2018–
+| clubs4 = → [[Central Coast Mariners FC|Central Coast Mariners]] (loan)
+| caps4 = 19
+| goals4 = 4
+| nationalyears1 = 2017–
+| nationalteam1 = [[Australia national under-23 soccer team|Australia U23]]
+| nationalcaps1 =  3
+| nationalgoals1 = 1
+| club-update = 17 February 2019
+| ntupdate = 22 March 2019
+}}
+
+'''Aiden Connor O'Neill''' (born 4 July 1998) is an Australian professional [[association football|football]] player who plays as a [[midfielder]] for [[Central Coast Mariners FC|Central Coast Mariners]] in the [[A-League]], on loan from [[Burnley F.C.|Burnley]].
+
+Born in Brisbane, O'Neill played youth football for Brisbane Athletic and [[Burnley F.C.|Burnley]] before making his professional debut for the latter in 2016. He spent some time on loan to [[Oldham Athletic A.F.C.|Oldham Athletic]] and [[Fleetwood Town F.C.|Fleetwood Town]], scoring his first ever professional goal for the latter club. He returned to Australia, on loan, to play for [[Central Coast Mariners FC|Central Coast Mariners]] in 2018.
+
+He has represented the [[Australia national under-23 soccer team|Australian under-23 national team]].
+
+==Early life==
+O'Neill is of Irish ancestry. He was born and raised in Brisbane, attending Nudgee Junior College before moving to [[Brisbane Boys' College]] before moving to England aged fourteen when his parents moved there for work.&lt;ref name=Australian&gt;{{cite news|url=http://www.theaustralian.com.au/sport/football/aiden-oneill-credits-a-dog-with-honing-his-attacking-skills/news-story/7df66fa3408e206bccb6358ce9d63467?login=1|title=Aiden O'Neill credits a dog with honing his attacking skills|publisher=''[[The Australian]]''|date=17 June 2017|accessdate=18 June 2017|author=Gatt, Ray}}&lt;/ref&gt;
+
+==Career==
+O'Neill played youth football for Brisbane Athletic between 2008 and 2012.&lt;ref&gt;{{cite web|url=https://www.facebook.com/brisbaneathleticfc/photos/a.223634841178333.1073741835.191833267691824/499477400260741/?type=3&amp;theater|title=Brisbane Athletic Football Club|publisher=[[Facebook]]|date=23 August 2016|accessdate=23 August 2016}}&lt;/ref&gt; He moved to England as a teenager, where he sought to pursue a career in football.&lt;ref&gt;{{cite news|url=http://www.footballaustralia.com.au/article/the-story-behind-burnleys-epl-debutant-from-australia/103t1yfkxmvkf1na0dy53az6qg|title=The story behind Burnley's EPL debutant from Australia|publisher=[[Football Federation Australia]]|date=25 August 2016|accessdate=28 August 2016}}&lt;/ref&gt;
+
+On 12 January 2016, O'Neill signed his first professional contract with then-[[Football League Championship|Championship]] side [[Burnley F.C.|Burnley]].&lt;ref&gt;{{cite news|title=O'Neill Signs Professional Deal|url=http://www.burnleyfootballclub.com/news/article/oneill-signs-professional-deal-2897325.aspx|accessdate=20 August 2016|work=Burnley Football Club|date=12 January 2016}}&lt;/ref&gt; He made his professional debut for the club on 20 August 2016, coming on as a late substitute against [[Liverpool F.C.|Liverpool]] in the [[Premier League]] as Burnley won 2–0.&lt;ref&gt;{{cite web|title=Burnley 2–0 Liverpool|url=https://int.soccerway.com/matches/2016/08/20/england/premier-league/burnley-fc/liverpool-fc/2242031/|website=Soccerway}}&lt;/ref&gt; He made his full debut days later, starting in an [[Overtime (sports)|extra time]] loss to [[Accrington Stanley F.C.|Accrington Stanley]] in the [[EFL Cup]].&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/37103144|publisher=[[BBC Sports]]|date=24 August 2016|accessdate=25 August 2016|title=Accrington Stanley 1–0 Burnley (AET)}}&lt;/ref&gt;
+
+In January 2017, he joined [[EFL League One]] strugglers [[Oldham Athletic A.F.C.|Oldham Athletic]] on loan until the end of the season.&lt;ref&gt;{{Cite news |title=O'Neill Makes Loan Move To Oldham |url=http://www.burnleyfootballclub.com/news/article/2016-17/oneill-makes-loan-move-to-oldham-3548336.aspx |publisher=Burnley Official Site |date=31 January 2017 |accessdate=31 January 2017}}&lt;/ref&gt; He made a total of fifteen appearances for the Latics.&lt;ref name="Soccerway"/&gt;
+
+In August 2017, he joined League One side [[Fleetwood Town F.C.|Fleetwood Town]] on a season-long loan deal.&lt;ref&gt;{{Cite news |title=Aiden O'Neill: Fleetwood Town sign Burnley midfielder on season-long loan|url=https://www.bbc.co.uk/sport/football/40789649 |publisher=BBC Sport |date=1 August 2017 |accessdate=14 August 2017}}&lt;/ref&gt; In January 2018, he returned to Burnley early having made twenty-seven appearances and scoring once against [[Blackburn Rovers F.C.|Blackburn Rovers]].&lt;ref&gt;{{Cite news |title=Aiden O'Neill returns to Burnley|url=https://www.fleetwoodtownfc.com/news/2018/january/aiden-oneill-returns-to-burnley/ |publisher=Fleetwood Town F.C. |date=2 January 2018 |accessdate=9 January 2018}}&lt;/ref&gt;
+
+In August 2018, O'Neill returned to Australia to play for [[Central Coast Mariners FC|Central Coast Mariners]] in the [[A-League]] on a season-long loan.&lt;ref&gt;{{cite news|date=15 August 2018|accessdate=15 August 2018|title=Burnley midfielder O'Neill returns home to Central Coast Mariners|url=https://www.burnleyexpress.net/sport/football/clarets/burnley-midfielder-o-neill-returns-home-to-central-coast-mariners-1-9301886|publisher=''[[Burnley Express]]''|author=Boden, Chris}}&lt;/ref&gt;
+
+==International career==
+O'Neill has stated that his preference is to play for Australia, but had not been in any contact with [[Football Federation Australia]] when he made his Premier League debut in August 2016.&lt;ref&gt;{{cite news|url=http://theworldgame.sbs.com.au/article/2016/09/02/premier-league-whizkid-oneill-dreaming-socceroos-call|title=Premier League whizkid O'Neill dreaming of Socceroos call|publisher=''[[The World Game]]''|date=2 September 2016|accessdate=3 September 2016|author=Lewis, Dave}}&lt;/ref&gt; He was later called up for an [[Australia national under-23 soccer team|Australia under-23]] camp in March 2017.&lt;ref&gt;{{cite news|url=http://www.heraldsun.com.au/sport/football/deni-juric-the-younger-brother-of-socceroos-striker-tomi-selected-for-olyroos-camp-in-spain/news-story/c3fb827ec291f3913266a609b3f872ec|title=Deni Juric, the younger brother of Socceroos striker Tomi, selected for Olyroos camp in Spain|author=Davutovic, David|publisher=''[[Herald Sun]]''|date=15 March 2017|accessdate=13 June 2017}}&lt;/ref&gt; He had previously been contacted by the [[Football Association of Ireland]] and the [[Irish Football Association]] but reiterated that his preference was to play for Australia.&lt;ref name=Australian/&gt;
+
+==Career statistics==
+{{updated|match played 22 February 2019}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|[[EFL Cup|League Cup]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Burnley F.C.|Burnley]]
+|[[2016–17 Burnley F.C. season|2016–17]]&lt;ref name="Soccerway"&gt;{{soccerway|aiden-oneill/452934}}&lt;/ref&gt;
+|[[Premier League]]
+|3||0||1||0||1||0||colspan="2"|—||5||0
+|-
+|[[2017–18 Burnley F.C. season|2017–18]]&lt;ref name="Soccerway"/&gt;
+|Premier League
+|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2018–19 Burnley F.C. season|2018–19]]&lt;ref name="Soccerway"/&gt;
+|Premier League
+|0||0||colspan="2"|—||colspan="2"|—||0||0||0||0
+|-
+!colspan=2|Total
+!3!!0!!1!!0!!1!!0!!0!!0!!5!!0
+|-
+|[[Oldham Athletic A.F.C.|Oldham Athletic]] (loan)
+|[[2016–17 Oldham Athletic A.F.C. season|2016–17]]&lt;ref name="Soccerway"/&gt;
+|[[EFL League One|League One]]
+|15||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||15||0
+|-
+|[[Fleetwood Town F.C.|Fleetwood Town]] (loan)
+|[[2017–18 Fleetwood Town F.C. season|2017–18]]&lt;ref name="Soccerway"/&gt;
+|League One
+|21||1||3||0||1||0||2&lt;ref group=lower-alpha name=EFL&gt;Appearances in [[EFL Trophy]]&lt;/ref&gt;||0||27||1
+|-
+|[[Central Coast Mariners FC|Central Coast Mariners]] (loan)
+|[[2018–19 Central Coast Mariners FC season|2018–19]]&lt;ref name="Soccerway"/&gt;
+|[[A-League]]
+|19||4||0||0||colspan="2"|—||colspan="2"|—||19||4
+|-
+!colspan="3"|Career total
+!58!!5!!4!!0!!2!!0!!2!!0!!66!!5
+|}
+
+{{notelist}}
+
+==See also==
+* [[List of foreign Premier League players]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.burnleyfootballclub.com/team/player-profile/aiden-o-neill/41 Aiden O'Neill profile] BurnleyFootballClub.com
+*{{Soccerbase}}
+*{{soccerway|aiden-oneill/452934}}
+
+{{Central Coast Mariners FC squad}}
+
+{{DEFAULTSORT:ONeill, Aiden}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Australian soccer players]]
+[[Category:Burnley F.C. players]]
+[[Category:Oldham Athletic A.F.C. players]]
+[[Category:Fleetwood Town F.C. players]]
+[[Category:Central Coast Mariners FC players]]
+[[Category:Association football midfielders]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:A-League players]]
+[[Category:Expatriate footballers in England]]
+[[Category:Australian expatriate sportspeople in England]]
+[[Category:Australian expatriate soccer players]]
+[[Category:Soccer players from Brisbane]]
+[[Category:Australian people of Irish descent]]</text>
+      <sha1>e46eratohw13ee7ao52vkqubnvlw277</sha1>
     </revision>
   </page>
 </mediawiki>

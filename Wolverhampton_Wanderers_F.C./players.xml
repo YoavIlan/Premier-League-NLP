@@ -3,7 +3,7 @@
     <sitename>Wikipedia</sitename>
     <dbname>enwiki</dbname>
     <base>https://en.wikipedia.org/wiki/Main_Page</base>
-    <generator>MediaWiki 1.33.0-wmf.19</generator>
+    <generator>MediaWiki 1.33.0-wmf.22</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -106,16 +106,17 @@
     <ns>0</ns>
     <id>36702500</id>
     <revision>
-      <id>886060577</id>
-      <parentid>885264088</parentid>
-      <timestamp>2019-03-04T01:18:39Z</timestamp>
+      <id>888109059</id>
+      <parentid>886873501</parentid>
+      <timestamp>2019-03-16T23:44:04Z</timestamp>
       <contributor>
-        <ip>82.23.42.196</ip>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <comment>/* Club statistics */</comment>
+      <comment>ce</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="23730">{{Use dmy dates|date=January 2015}}
+      <text xml:space="preserve" bytes="23645">{{Use dmy dates|date=January 2015}}
 {{Portuguese name|Neves Abreu|Cavaleiro}}
 {{Infobox football biography
 |name = Ivan Cavaleiro
@@ -172,7 +173,7 @@ On 31 August 2016, Cavaleiro moved to English [[Football League Championship|Cha
 
 Cavaleiro was voted the [[Professional Footballers' Association]] Fans' Championship Player of the Month for November 2017, after netting four times in as many games.&lt;ref name=POTM&gt;{{cite web|url=https://www.wolves.co.uk/news/first-team/20171206-cavaleiro-the-pfa-player-of-the-month/|title=Cavaleiro the PFA Player Of The Month|publisher=Wolverhampton Wanderers F.C|date=6 December 2017|accessdate=18 December 2017}}&lt;/ref&gt; The previous month, he had provided five assists to keep his team clear at the top of [[2017–18 EFL Championship|the table]];&lt;ref&gt;{{cite news|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2017/10/19/the-stats-behind-wolves-flying-start-to-the-season/|title=The stats behind Wolves' flying start to the season|newspaper=[[Express &amp; Star]]|date=19 October 2017|accessdate=18 December 2017}}&lt;/ref&gt; he finished the season with nine goals from 42 appearances (adding 12 decisive passes), and achieved promotion to the [[Premier League]] as champion.&lt;ref&gt;{{cite news|url=https://www.birminghammail.co.uk/sport/football/transfer-news/how-much-wolves-star-ivan-14799537|title=How much Wolves star Ivan Cavaleiro is worth as Huddersfield Town fee speculation swirls|newspaper=[[Birmingham Mail]]|last=Kendrick|first=Mat|date=18 June 2018|accessdate=29 September 2018}}&lt;/ref&gt;
 
-Cavaleiro's first match in the [[English football league system|English top division]] occurred on 29 September 2018, and he scored once in the 2–0 home victory over [[Southampton F.C.|Southampton]] with his very first touch of the ball after coming on as a [[Substitute (association football)|substitute]] in place of compatriot [[Jota (footballer, born 1996)|Jota]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45610318|title=Wolverhampton Wanderers 2–0 Southampton|publisher=BBC Sport|last=Poole|first=Harry|date=29 September 2018|accessdate=29 September 2018}}&lt;/ref&gt;
+Cavaleiro's first match in the [[English football league system|English top division]] occurred on 29 September 2018, and he scored once in the 2–0 home victory over [[Southampton F.C.|Southampton]] with his very first touch of the ball after coming on as a [[Substitute (association football)|substitute]] in place of compatriot [[Diogo Jota]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45610318|title=Wolverhampton Wanderers 2–0 Southampton|publisher=BBC Sport|last=Poole|first=Harry|date=29 September 2018|accessdate=29 September 2018}}&lt;/ref&gt;
 
 ==International career==
 [[File:Ivan Cavaleiro (7).jpg|200px|thumbnail|right|Cavaleiro playing for [[Portugal national under-19 football team|Portugal U19]]]]
@@ -285,17 +286,16 @@ Cavaleiro's father, Lindo, was crowned Angolan youth champion for [[Atlético Pe
 *[[Professional Footballers' Association]] Fans' Championship Player of the Month: November 2017&lt;ref name=POTM/&gt;
 
 ==References==
-{{Reflist|30em}}
+{{Reflist}}
 
 ==External links==
-{{Commons category|Ivan Cavaleiro}}
-* {{TheFinalBall}}
+{{Commons category}}
 * {{ForaDeJogo}}
 * {{Soccerbase}}
 * [https://www.fpf.pt/pt/Jogadores/Pesquisar-Jogadores-Internacionais/Jogador/playerId/668970 National team data] {{pt icon}}
-* {{NFT player|54799}}
-* {{FIFA player|368694}}
-* {{UEFA player|250016651}}
+* {{NFT player}}
+* {{FIFA player}}
+* {{UEFA player}}
 
 {{Wolverhampton Wanderers F.C. squad}}
 
@@ -328,7 +328,7 @@ Cavaleiro's father, Lindo, was crowned Angolan youth champion for [[Atlético Pe
 [[Category:Portuguese expatriate sportspeople in Spain]]
 [[Category:Portuguese expatriate sportspeople in Monaco]]
 [[Category:Portuguese expatriate sportspeople in England]]</text>
-      <sha1>qzezgwqnwug37d2166drxb9lr00euzs</sha1>
+      <sha1>gt5y4v56gbln5czezufow8i5vzuiogx</sha1>
     </revision>
   </page>
   <page>
@@ -336,16 +336,15 @@ Cavaleiro's father, Lindo, was crowned Angolan youth champion for [[Atlético Pe
     <ns>0</ns>
     <id>43465987</id>
     <revision>
-      <id>885263879</id>
-      <parentid>884787518</parentid>
-      <timestamp>2019-02-26T23:53:09Z</timestamp>
+      <id>889033911</id>
+      <parentid>888898700</parentid>
+      <timestamp>2019-03-23T00:00:05Z</timestamp>
       <contributor>
-        <ip>82.23.42.196</ip>
+        <ip>2601:18F:602:3A0:3D39:D957:8407:E0A5</ip>
       </contributor>
-      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="26308">{{Distinguish|Rúben das Neves}}
+      <text xml:space="preserve" bytes="26318">{{Distinguish|Rúben das Neves}}
 {{Portuguese name|da Silva|Neves}}
 {{Infobox football biography
 | name = Rúben Neves
@@ -356,27 +355,52 @@ Cavaleiro's father, Lindo, was crowned Angolan youth champion for [[Atlético Pe
 | fullname = Rúben Diogo da Silva Neves&lt;ref name=SW/&gt;
 | birth_date = {{birth date and age|1997|3|13|df=y}}&lt;ref name=SW/&gt;
 | birth_place = [[Mozelos (Santa Maria da Feira)|Mozelos]], Portugal
-| height = 1.80 m&lt;ref name=SW/&gt;
+| height = {{height|m=1.83}}&lt;ref&gt;https://www.fpf.pt/Jogadores/Jogador/playerId/811036&lt;/ref&gt;
 | position = [[Midfielder]]
 | currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
 | clubnumber = 8
-| youthyears1 = 2005–2014 | youthclubs1 = [[FC Porto|Porto]]
-| youthyears2 = 2012–2013 | youthclubs2 = → [[Padroense F.C.|Padroense]] (loan)
-| years1 = 2014–2017 | clubs1 = [[FC Porto|Porto]] | caps1 = 59 | goals1 = 3
-| years2 = 2017– | clubs2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] | caps2 = 66 | goals2 = 9
-| nationalyears1 = 2012–2013 | nationalteam1 = [[Portugal national under-16 football team|Portugal U16]] | nationalcaps1 = 10 | nationalgoals1 = 1
-| nationalyears2 = 2012–2014 | nationalteam2 = [[Portugal national under-17 football team|Portugal U17]] | nationalcaps2 = 31 | nationalgoals2 = 2
-| nationalyears3 = 2013 | nationalteam3 = [[Portugal national under-18 football team|Portugal U18]] | nationalcaps3 = 2 | nationalgoals3 = 0
-| nationalyears4 = 2014– | nationalteam4 = [[Portugal national under-21 football team|Portugal U21]] | nationalcaps4 = 23 | nationalgoals4 = 4
-| nationalyears5 = 2016 | nationalteam5 = [[Portugal Olympic football team|Portugal U23]] | nationalcaps5 = 1 | nationalgoals5 = 1
-| nationalyears6 = 2015– | nationalteam6 = [[Portugal national football team|Portugal]] | nationalcaps6 = 9 | nationalgoals6 = 0
+| youthyears1 = 2005–2014
+| youthclubs1 = [[FC Porto|Porto]]
+| youthyears2 = 2012–2013
+| youthclubs2 = → [[Padroense F.C.|Padroense]] (loan)
+| years1 = 2014–2017
+| clubs1 = [[FC Porto|Porto]]
+| caps1 = 59
+| goals1 = 3
+| years2 = 2017–
+| clubs2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| caps2 = 72
+| goals2 = 10
+| nationalyears1 = 2012–2013
+| nationalteam1 = [[Portugal national under-16 football team|Portugal U16]]
+| nationalcaps1 = 10
+| nationalgoals1 = 1
+| nationalyears2 = 2012–2014
+| nationalteam2 = [[Portugal national under-17 football team|Portugal U17]]
+| nationalcaps2 = 31
+| nationalgoals2 = 2
+| nationalyears3 = 2013
+| nationalteam3 = [[Portugal national under-18 football team|Portugal U18]]
+| nationalcaps3 = 2
+| nationalgoals3 = 0
+| nationalyears4 = 2014–
+| nationalteam4 = [[Portugal national under-21 football team|Portugal U21]]
+| nationalcaps4 = 23
+| nationalgoals4 = 4
+| nationalyears5 = 2016
+| nationalteam5 = [[Portugal Olympic football team|Portugal U23]]
+| nationalcaps5 = 1
+| nationalgoals5 = 1
+| nationalyears6 = 2015–
+| nationalteam6 = [[Portugal national football team|Portugal]]
+| nationalcaps6 = 10
+| nationalgoals6 = 0
 | club-update = 00:21, 12 February 2019 (UTC)
-| nationalteam-update = 10:20, 15 January 2019 (UTC)
-| medaltemplates =
-{{Medal|Team|{{fb|Portugal}}}}
+| nationalteam-update = 23:00, 22 March 2019 (UTC)
+| medaltemplates = {{Medal|Team|{{fb|Portugal}}}}
 {{Medal|RU|[[UEFA European Under-21 Championship|UEFA U-21 Championship]]|[[2015 UEFA European Under-21 Championship|2015]]}}
 }}
-'''Rúben Diogo da Silva Neves''' {{IPA-pt|nɛvʃ}} (born 13 March 1997) is a Portuguese professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Premier League]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] and the [[Portugal national football team|Portugal national team]].
+'''Rúben Diogo da Silva Neves''' ({{IPA-pt|ˈnɛvɨʃ|lang}}; born 13 March 1997) is a Portuguese professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Premier League]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] and the [[Portugal national football team|Portugal national team]].
 
 ==Club career==
 ===Porto===
@@ -395,7 +419,7 @@ On 8 July 2017, [[EFL Championship]] side [[Wolverhampton Wanderers F.C.|Wolverh
 
 In April 2018, Neves was nominated for the EFL Championship Player of the Season and Young Player of the Season awards, and was also included in the Team of the Season along with teammates [[Conor Coady]] and [[John Ruddy]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/43641225|title=EFL awards: Tom Cairney, Ruben Neves &amp; Ryan Sessgenon on Championship shortlist|publisher=BBC Sport|date=4 April 2018|accessdate=4 April 2018}}&lt;/ref&gt; His team was ultimately [[2017–18 EFL Championship|promoted as champions]] with the player scoring six goals in 42 appearances, all of which were scored from outside of the box;&lt;ref name=PR&gt;{{cite news|url=https://www.independent.co.uk/sport/football/premier-league/everton-wolves-richarlison-ruben-neves-goals-report-a8488566.html|title=Richarlison and Ruben Neves ready to lead by example for Everton and Wolves|newspaper=[[The Independent]]|last=Nash|first=Tim|date=13 August 2018|accessdate=15 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/693584|title=FPL promotion prospects: The Wolves worth hunting|publisher=[[Premier League]]|date=27 May 2018|accessdate=14 August 2018}}&lt;/ref&gt; at the conclusion of the campaign, he claimed a hat-trick of club awards as he walked away with the Player of the Season, Player's Player of the Season and Goal of the Season accolades.&lt;ref name=Fifty/&gt;
 
-Wolves announced that Neves had signed a new contract in July 2018, extending until 2023.&lt;ref&gt;{{Cite web|url=https://www.bbc.com/sport/football/44689010|title=Ruben Neves: Wolves midfielder signs new five-year deal|publisher=BBC Sport|date=2 July 2018|accessdate=25 July 2018}}&lt;/ref&gt; In the first match of [[2018–19 Premier League|the new season]], he scored his first [[Premier League]] goal and assisted [[Raúl Jiménez]] in the latter's competitive debut, as his team twice came from behind to draw 2–2 against [[Everton F.C.|Everton]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2018/aug/11/wolves-everton-premier-league-match-report|title=Wolves’ Raúl Jiménez pegs back 10-man Everton after Richarlison's double|newspaper=The Guardian|last=Aarons|first=Ed|date=11 August 2018|accessdate=13 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.fourfourtwo.com/sg/news/wolves-2-everton-2-jimenez-header-ensures-richarlisons-brace-vain|title=Wolves 2 Everton 2: Jimenez header ensures Richarlison's brace in vain|publisher=[[FourFourTwo]]|date=11 August 2018|accessdate=11 August 2018}}&lt;/ref&gt; His appearance in the match, alongside compatriots [[Rui Patrício]], [[João Moutinho]], [[Jota (footballer, born 1996)|Jota]] and [[Hélder Costa (footballer)|Hélder Costa]] also saw the club break the league record for the most Portuguese players named in a starting line-up.&lt;ref name=PR/&gt;
+Wolves announced that Neves had signed a new contract in July 2018, extending until 2023.&lt;ref&gt;{{Cite web|url=https://www.bbc.com/sport/football/44689010|title=Ruben Neves: Wolves midfielder signs new five-year deal|publisher=BBC Sport|date=2 July 2018|accessdate=25 July 2018}}&lt;/ref&gt; In the first match of [[2018–19 Premier League|the new season]], he scored his first [[Premier League]] goal and assisted [[Raúl Jiménez]] in the latter's competitive debut, as his team twice came from behind to draw 2–2 against [[Everton F.C.|Everton]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2018/aug/11/wolves-everton-premier-league-match-report|title=Wolves’ Raúl Jiménez pegs back 10-man Everton after Richarlison's double|newspaper=The Guardian|last=Aarons|first=Ed|date=11 August 2018|accessdate=13 August 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.fourfourtwo.com/sg/news/wolves-2-everton-2-jimenez-header-ensures-richarlisons-brace-vain|title=Wolves 2 Everton 2: Jimenez header ensures Richarlison's brace in vain|publisher=[[FourFourTwo]]|date=11 August 2018|accessdate=11 August 2018}}&lt;/ref&gt; His appearance in the match, alongside compatriots [[Rui Patrício]], [[João Moutinho]], [[Diogo Jota]] and [[Hélder Costa (footballer)|Hélder Costa]] also saw the club break the league record for the most Portuguese players named in a starting line-up.&lt;ref name=PR/&gt;
 
 On 6 October 2018, Neves made his 50th appearance for Wolverhampton and marked the occasion by contributing in the build-up for [[Matt Doherty (footballer, born 1992)|Matt Doherty]]'s winning goal in a 1–0 victory over [[Crystal Palace F.C.|Crystal Palace]].&lt;ref name=Fifty/&gt; The following January, his 55th-minute winning goal against [[Liverpool F.C.|Liverpool]] at [[Molineux Stadium|Molineux]] in the [[FA Cup]], "a venomous dipping shot from {{convert|31|yards|m|abbr=out}} that beat [[Simon Mignolet]] at his near post",&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/46718633|title=Wolverhampton Wanderers 2–1 Liverpool|publisher=BBC Sport|last=Chowdhury|first=Saj|date=7 January 2019|accessdate=7 January 2019}}&lt;/ref&gt; was voted the best of [[2018–19 FA Cup#Third Round Proper|the third round]] by visitors to [[BBC Sport]]'s website.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/46788650|title=FA Cup: Wolves midfielder Ruben Neves wins goal of the FA Cup third round|publisher=BBC Sport|date=8 January 2019|accessdate=9 January 2019}}&lt;/ref&gt;
 
@@ -417,7 +441,7 @@ Neves also drew praise in the media for his technical, tactical and mental quali
 
 ==Career statistics==
 ===Club===
-{{updated|match played 26 February 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -455,13 +479,13 @@ Neves also drew praise in the media for his technical, tactical and mental quali
 |-
 |[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]&lt;ref&gt;{{soccerbase season|77210|2018|accessdate=15 January 2019}}&lt;/ref&gt;
 |[[Premier League]]
-|26||3||3||1||0||0||colspan=2|—||29||4
+|28||3||4||1||0||0||colspan=2|—||32||4
 |-
 !colspan=2|Total
-!68||9||3||1||0||0||colspan=2|—||71||10
+!70||9||4||1||0||0||colspan=2|—||74||10
 |-
 !colspan=3|Career total
-!127||12||10||2||7||0||20||0||164||14
+!129||12||11||2||7||0||20||0||165||14
 |}
 {{notelist}}
 
@@ -505,11 +529,10 @@ Neves also drew praise in the media for his technical, tactical and mental quali
 
 ==External links==
 {{Commons category}}
-*{{TheFinalBall}}
 *{{ForaDeJogo}}
 *[https://www.fpf.pt/pt/Jogadores/Pesquisar-Jogadores-Internacionais/Jogador/playerId/811036/contextId/176 National team data] {{pt icon}}
-*{{NFT player|61346}}
-*{{UEFA player|250055271}}
+*{{NFT player}}
+*{{UEFA player}}
 
 {{Wolverhampton Wanderers F.C. squad}}
 {{Navboxes
@@ -540,7 +563,7 @@ Neves also drew praise in the media for his technical, tactical and mental quali
 [[Category:Portuguese expatriate footballers]]
 [[Category:Expatriate footballers in England]]
 [[Category:Portuguese expatriate sportspeople in England]]</text>
-      <sha1>6x3tgvnngasw7t2pvzjdqn7fifu15lx</sha1>
+      <sha1>pytis6crgevbp91rdnoi9zqe0f8vif2</sha1>
     </revision>
   </page>
   <page>
@@ -548,59 +571,42 @@ Neves also drew praise in the media for his technical, tactical and mental quali
     <ns>0</ns>
     <id>33596980</id>
     <revision>
-      <id>885866781</id>
-      <parentid>885866044</parentid>
-      <timestamp>2019-03-02T21:13:49Z</timestamp>
+      <id>888734742</id>
+      <parentid>888734706</parentid>
+      <timestamp>2019-03-21T01:39:04Z</timestamp>
       <contributor>
-        <ip>98.116.162.72</ip>
+        <username>SLBedit</username>
+        <id>22307024</id>
       </contributor>
-      <comment>/* Club */</comment>
+      <minor/>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="56490">{{About|the Mexican footballer|the Argentine singer|Raúl Giménez}}
+      <text xml:space="preserve" bytes="57155">{{About|the Mexican footballer|the Argentine singer|Raúl Giménez}}
 {{Use dmy dates|date=June 2018}}
 {{Spanish name|Jiménez|Rodríguez}}
 {{Infobox football biography
-| name            = Raúl Jiménez
-| image           = Raul Jiménez.png
-| image_size      = 175
-| caption         = Jiménez in 2017
-| fullname        = Raúl Alonso Jiménez Rodríguez&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/844127|title=2018/19 Premier League squads confirmed|publisher=Premier League|date=3 September 2018|access-date=4 September 2018}}&lt;/ref&gt;
-| birth_date      = {{birth date and age|df=y|1991|5|5}}
-| birth_place     = [[Tepeji]], [[Hidalgo (state)|Hidalgo]], Mexico
-| height          = 1.90 m&lt;ref&gt;{{cite web|title=Raúl Jiménez|url=https://www.wolves.co.uk/team/first-team/raúl-jiménez/|website=Wolverhampton Wanderers F.C.|access-date=28 August 2018}}&lt;/ref&gt;
-| position        = [[Forward (association football)#Forward|Forward]]
-| currentclub     = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]&lt;br&gt;(on loan from [[S.L. Benfica|Benfica]])
-| clubnumber      = 9
-| youthyears1     = 2008–2011
-| youthclubs1     = [[Club América|América]]
-| years1          = 2011–2014
-| clubs1          = [[Club América|América]]
-| caps1           = 96
-| goals1          = 36
-| years2          = 2014–2015
-| clubs2          = [[Atlético Madrid]]
-| caps2           = 21
-| goals2          = 1
-| years3          = 2015–
-| clubs3          = [[S.L. Benfica|Benfica]]
-| caps3           = 80
-| goals3          = 18
-| years4          = 2018–
-| clubs4          = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
-| caps4           = 29
-| goals4          = 11
-| nationalyears1  = 2012
-| nationalteam1   = [[Mexico national under-23 football team|Mexico U23]]
-| nationalcaps1   = 13
-| nationalgoals1  = 1
-| nationalyears2  = 2013–
-| nationalteam2   = [[Mexico national football team|Mexico]]
-| nationalcaps2   = 70
-| nationalgoals2  = 15
-| club-update     = 14:07, 2 March 2019 (UTC)
+| name = Raúl Jiménez
+| image = Raul Jiménez.png
+| image_size = 175
+| caption = Jiménez in 2017
+| fullname = Raúl Alonso Jiménez Rodríguez&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/844127|title=2018/19 Premier League squads confirmed|publisher=Premier League|date=3 September 2018|access-date=4 September 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|df=y|1991|5|5}}
+| birth_place = [[Tepeji]], [[Hidalgo (state)|Hidalgo]], Mexico
+| height = 1.90 m&lt;ref&gt;{{cite web|title=Raúl Jiménez|url=https://www.wolves.co.uk/team/first-team/raúl-jiménez/|website=Wolverhampton Wanderers F.C.|access-date=28 August 2018}}&lt;/ref&gt;
+| position = [[Forward (association football)#Forward|Forward]]
+| currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]&lt;br&gt;(on loan from [[S.L. Benfica|Benfica]])
+| clubnumber = 9
+| youthyears1 = 2008–2011
+| youthclubs1 = [[Club América|América]]
+| years1 = 2011–2014 | clubs1 = [[Club América|América]] | caps1 = 96 | goals1 = 36
+| years2 = 2014–2015 | clubs2 = [[Atlético Madrid]] | caps2 = 21 | goals2 = 1
+| years3 = 2015– | clubs3 = [[S.L. Benfica|Benfica]] | caps3 = 80| goals3 = 18
+| years4 = 2018– | clubs4 = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan) | caps4 = 30 | goals4 = 12
+| nationalyears1 = 2012 | nationalteam1 = [[Mexico national under-23 football team|Mexico U23]] | nationalcaps1 = 13 | nationalgoals1 = 1
+| nationalyears2 = 2013– | nationalteam2 = [[Mexico national football team|Mexico]] | nationalcaps2 = 70 | nationalgoals2 = 15
+| club-update = 10 March 2019
 | nationalteam-update = 25 November 2018
-| medaltemplates  = 
+| medaltemplates =
 {{MedalSport|Men's [[Association football|football]]}}
 {{MedalCountry|{{fb|MEX}}}}
 {{MedalOlympic}}
@@ -643,7 +649,7 @@ Jiménez made his competitive debut in the first leg of the [[2014 Supercopa de 
 Jiménez made his [[2014–15 La Liga|La Liga]] debut on 25 August 2014, in a goalless draw against [[Rayo Vallecano]]. He scored his first league goal for Atlético on 27 September, in a 4–0 win against [[Sevilla FC|Sevilla]], coming off the bench. It was his only goal for Atlético that season.&lt;ref name="soccerway"&gt;{{Soccerway|access-date=7 August 2015}}&lt;/ref&gt;
 
 ===Benfica===
-On 9 August 2015 Jiménez, who was expected to complete a loan deal to [[Premier League]] side [[West Ham United F.C.|West Ham]], failed to show up to his medical after reports claimed he had missed his flight to [[London]] after he had overslept.&lt;ref name=westham&gt;{{cite web|title=Raúl Jiménez overslept and missed West Ham medical|url=http://as.com/diarioas/2015/08/09/english/1439150331_086804.html|publisher=[[Diario AS]]|access-date=14 August 2015|date=9 August 2015}}&lt;/ref&gt; However, multiple sources had reported his agent [[Jorge Mendes]] had suggested he spurn the move, in favour of a move to [[Primeira Liga]] side [[S.L. Benfica|Benfica]].&lt;ref name=westham /&gt;
+On 9 August 2015 Jiménez, who was expected to complete a loan deal to [[Premier League]] side [[West Ham United F.C.|West Ham]], failed to show up to his medical after reports claimed he had missed his flight to [[London]] after he had overslept.&lt;ref name="westham"&gt;{{cite web|title=Raúl Jiménez overslept and missed West Ham medical|url=http://as.com/diarioas/2015/08/09/english/1439150331_086804.html|publisher=[[Diario AS]]|access-date=14 August 2015|date=9 August 2015}}&lt;/ref&gt; However, multiple sources had reported his agent [[Jorge Mendes]] had suggested he spurn the move, in favour of a move to [[Primeira Liga]] side [[S.L. Benfica|Benfica]].&lt;ref name=westham /&gt;
 
 On 13 August 2015, Jiménez joined Portuguese champions Benfica, signing a five-year deal.&lt;ref&gt;{{cite web |url=http://www.slbenfica.pt/noticias/detalhedenoticia/tabid/2788/ArticleId/42641/language/pt-PT/.aspx |title=Mostrar que posso ajudar a equipa |language=Portuguese |trans-title=Show that I can help the team |date=13 August 2015 |publisher=[[S.L. Benfica]] |access-date=13 August 2015}}&lt;/ref&gt; Benfica spent €9.836 million to bring Jiménez to the club, although this included unspecified amounts on agent's fees and signing-on fees in addition to the transfer fee itself.&lt;ref name="Prospeto de oferta pública..."&gt;{{cite web|url=http://web3.cmvm.pt/sdi/emitentes/docs/fsd150611.pdf#66|date=14 April 2016|title=Prospeto de oferta pública(...)|website=CMVM|language=Portuguese|format=PDF|page=66|access-date=21 July 2016}}&lt;/ref&gt; The €9.836 million may have included a €1 million transfer fee, and €3 million to acquire 50% of the player's economic rights.&lt;ref&gt;{{cite web|title=Mexico striker Raul Jimenez reaches deal to join Benfica|url=http://www.espnfc.com/story/2561904/mexicos-raul-jimenez-reaches-deal-to-join-benfica|publisher=[[ESPN FC]]|access-date=14 August 2015|date=13 August 2015}}&lt;/ref&gt;
 
@@ -665,6 +671,8 @@ Jiménez came off the bench to score Benfica's third goal in their 3–1 Superta
 On 12 June 2018, Benfica loaned out Jiménez to newly-promoted [[Premier League]] side [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a season-long loan for a fee of €3&amp;nbsp;million with a buyout clause of €38&amp;nbsp;million.&lt;ref&gt;{{cite web|title=Jimenez completes Molineux move|url=https://www.wolves.co.uk/news/first-team/20180612-jimenez-completes-molineux-move/|date=12 June 2018|website=Wolverhampton Wanderers}}&lt;/ref&gt;&lt;ref&gt;{{cite news|date=12 June 2018 |title=Raúl Jiménez loaned out to Wolverhampton|url=https://www.slbenfica.pt/en-us/agora/noticias/2017_2018/06/12/futebol-benfica-raul-jimenez-emprestado-ao-wolverhampton|language=Portuguese|website=S.L. Benfica|access-date=13 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://web3.cmvm.pt/sdi/emitentes/docs/FR68989.pdf|title=Comunicado|date=12 June 2018|website=CMVM|publisher=S.L. Benfica|language=Portuguese|trans-title=Announcement|format=PDF|access-date=13 June 2018}}&lt;/ref&gt; On 29 June, it was reported that he had extended his contract with Benfica until June 2021 before being loaned out.&lt;ref&gt;{{cite news|date=29 June 2018|title=Raúl Jiménez renovou até 2021 antes de ser emprestado ao Wolverhampton|trans-title=Raúl Jiménez renewed until 2021 before being loaned out to Wolverhampton|url=https://desporto.sapo.pt/futebol/primeira-liga/artigos/raul-jimenez-renovou-ate-2021-antes-de-ser-emprestado-ao-wolverhampton|language=pt|work=SAPO Desporto|access-date=30 June 2018}}&lt;/ref&gt;
 
 Jiménez made his unofficial debut with the team on 22 July in a semifinal match against [[VfL Bochum]] in the H-Hotels Cup, where he failed to convert a penalty, the first following his perfect conversion rate.&lt;ref&gt;{{cite web|title=Raúl Jiménez missed a penalty in his debut with Wolverhampton, short streak! |url=https://www.archysport.com/raul-jimenez-missed-a-penalty-in-his-debut-with-wolverhampton-short-streak-the-monclova-press/|website=Archysport.com|date=23 July 2018|accessdate=15 October 2018}}&lt;/ref&gt; On 11 August, Jiménez marked his competitive debut for Wolves by scoring the equalizing goal that earned the home team a 2–2 draw with visiting [[Everton F.C.|Everton]] on the opening weekend of the Premier League [[2018–19 Premier League|season]].&lt;ref&gt;{{cite web|title=Wolves 2-2 Everton |url= https://www.bbc.com/sport/football/45067374 |publisher=BBC Sport |access-date=11 August 2018}}&lt;/ref&gt; On 16 September, Jiménez scored the only goal in the victory over [[Burnley F.C.|Burnley]].&lt;ref&gt;{{cite web|title=Wolves 1-0 Burnley |url= https://www.bbc.co.uk/sport/football/45462680 |publisher=BBC Sport |access-date=16 September 2018}}&lt;/ref&gt; On 22 September, he provided an assist to [[João Moutinho]] to tie the match 1–1 against [[Manchester United F.C.|Manchester United]] in the league.&lt;ref&gt;{{cite web|title=Wolves hold struggling Man U to 1-1 in EPL|url=https://apnews.com/956a5d1db20446f8960dc35b54a25394|work=AP News|date=22 September 2018|access-date=1 October 2018}}&lt;/ref&gt; On 29 September, he provided an assist to [[Ivan Cavaleiro]] to score the first goal in a 2–0 victory over [[Southampton F.C.|Southampton]].&lt;ref&gt;{{cite web|title=Wolves leave it late to beat Southampton and continue hot start|url=https://www.independent.co.uk/sport/football/premier-league/wolves-vs-southampton-final-score-match-report-premier-league-epl-goals-video-a8560981.html|work=The Independent|date=29 September 2018|accessdate=8 October 2018}}&lt;/ref&gt; On 6 October, Jiménez provided the assist for [[Matt Doherty (footballer born 1992)|Matt Doherty]]'s goal in his team's 1–0 away victory over [[Crystal Palace F.C.|Crystal Palace]]; it was his third assist of the season, meaning Jiménez was involved in a goal in each of the previous four league games for Wolves, assisting in the past three after scoring in the game prior to that.&lt;ref&gt;{{cite web|title=Crystal Palace 0-1 Wolves |url= https://www.bbc.com/sport/football/45689299 |publisher=BBC Sport |accessdate=6 October 2018}}&lt;/ref&gt; On 11 November, he provided the assist to Ivan Cavaleiro in the 1–1 draw against [[Arsenal F.C.|Arsenal]], taking his season assist tally to four.&lt;ref&gt;{{cite web|title=Nuno proud of Wolves display at Arsenal|url=https://www.goal.com/en/news/nuno-espirito-santo-proud-wolves-arsenal-premier-league/ku75mdst8s5f1eco6f2o4o1r0|work=Goal.com|first=Ryan|last=Benson|date=11 November 2018|accessdate=13 November 2018}}&lt;/ref&gt; Jiménez scored Wolves' first goal in a 2–1 win against [[Chelsea F.C.|Chelsea]] at [[Molineux Stadium|Molineux]] on 5 December.&lt;ref&gt;{{cite news|title=Wolves 2–1 Chelsea:Raùl Jiménez &amp; Diogo Jota inspire hosts to victory|publisher=[[BBC Sport]]| url=https://www.bbc.co.uk/sport/football/46367295|first=Michael |last=Emons |date=5 December 2018}}&lt;/ref&gt; Jiménez scored the first goal in Wolves's 2–0 win over [[A.F.C. Bournemouth|Bournemouth]] on 15 December. This was the first time Wolves had won three consecutive Premier League games and the first time Wolves had won three in a row in the top flight of English football since 1980.&lt;ref&gt;{{cite news|title=Wolves 2–0 Bournemouth|publisher=[[BBC Sport]]| url=https://www.bbc.co.uk/sport/football/46491856|first=Rory |last=McAtamney |date=21 December 2018}}&lt;/ref&gt;
+
+On 10 March 2019, Jiménez, with his goal for Wolves in their 1–1 draw against Chelsea, tied [[Steven Fletcher (footballer)|Steven Fletcher]] as the Wolves player with the most Premier League goals scored in a single season with twelve.&lt;ref&gt;{{cite web|title=Chelsea 1-1 Wolves |url=https://www.bbc.com/sport/football/47431205 |publisher=BBC Sport |accessdate=10 March 2019}}&lt;/ref&gt; Six days later, Jiménez scored the first goal for Wolverhampton in a 2–1 home victory over Manchester United to advance to the semi-final of the [[2018–19 FA Cup|FA Cup]]; it was his third goal in the cup, and fifteen of the season in all competitions.&lt;ref&gt;{{cite web|title=Wolves 2-1 Manchester United: Raul Jimenez and Diogo Jota propel Wanderers to Wembley FA Cup semi-final |url=https://talksport.com/football/fa-cup/512653/wolves-2-1-manchester-united-raul-jimenez-diogo-jota/ |website=talkSPORT |accessdate=16 March 2019}}&lt;/ref&gt;
 
 ==International career==
 ===Mexico U23===
@@ -701,7 +709,7 @@ A forward, Jiménez is known for his physical presence in the penalty area, as w
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}&lt;ref&gt;{{cite web|title=Raúl Jiménez stats|url=http://espnfc.com/player/_/id/167060/raúl-jiménez?cc=5901|publisher=[[ESPN FC]]}}&lt;/ref&gt;&lt;ref&gt;{{ForaDeJogo|access-date=17 January 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Raúl Jiménez|url=https://int.soccerway.com/players/raul-alonso-jimenez-rodriguez/209521/|work=Soccerway|accessdate=25 October 2018}}&lt;/ref&gt;
+{{updated|match played 16 March 2019}}&lt;ref&gt;{{cite web|title=Raúl Jiménez stats|url=http://espnfc.com/player/_/id/167060/raúl-jiménez?cc=5901|publisher=[[ESPN FC]]}}&lt;/ref&gt;&lt;ref&gt;{{ForaDeJogo|access-date=17 January 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Raúl Jiménez|url=https://int.soccerway.com/players/raul-alonso-jimenez-rodriguez/209521/|work=Soccerway|accessdate=25 October 2018}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -754,10 +762,10 @@ A forward, Jiménez is known for his physical presence in the penalty area, as w
 | valign="center" |[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
 |[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]
 |[[Premier League]]
-|29||11||4||2||colspan=2|—||33||13
+|30||12||5||3||colspan=2|—||35||15
 |-
 ! colspan="3" |Career total
-!226!!66!!32!!12!!24!!6!!282!!84
+!227!!67!!33!!13!!24!!6!!284!!86
 |}
 &lt;sup&gt;1&lt;/sup&gt;Includes the [[Copa MX]], [[Copa del Rey]], [[Supercopa de España]], [[Taça de Portugal]], [[Taça da Liga]], [[Supertaça Cândido de Oliveira]] and [[FA Cup]].&lt;br&gt;&lt;sup&gt;2&lt;/sup&gt;Includes the [[CONCACAF Champions League]] and [[UEFA Champions League]].
 
@@ -915,7 +923,7 @@ A forward, Jiménez is known for his physical presence in the penalty area, as w
 [[Category:Mexico youth international footballers]]
 [[Category:Medalists at the 2012 Summer Olympics]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>8vb4wreingrcfb4unrxs3hvjrq0gckg</sha1>
+      <sha1>t57dy87eodbc2lu0d3x2v3c2r08h0tg</sha1>
     </revision>
   </page>
   <page>
@@ -953,44 +961,71 @@ A forward, Jiménez is known for his physical presence in the penalty area, as w
     <ns>0</ns>
     <id>6545572</id>
     <revision>
-      <id>885261231</id>
-      <parentid>884789576</parentid>
-      <timestamp>2019-02-26T23:36:14Z</timestamp>
+      <id>889033617</id>
+      <parentid>887167545</parentid>
+      <timestamp>2019-03-22T23:56:46Z</timestamp>
       <contributor>
-        <ip>82.23.42.196</ip>
+        <ip>2601:18F:602:3A0:3D39:D957:8407:E0A5</ip>
       </contributor>
-      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="29408">{{Use dmy dates|date=February 2013}}
+      <text xml:space="preserve" bytes="29341">{{Use dmy dates|date=February 2013}}
 {{Portuguese name|Santos|Patrício}}
 {{Infobox football biography
 | name = Rui Patrício
 | image = Rui Patrício 2018.jpg
 | image_size = 200
-| caption = Patrício with [[Portugal national football team|Portugal]] at the [[2018 FIFA World Cup|2018 World Cup]]
+| caption = Patrício with [[Portugal national football team|Portugal]] at the [[2018 FIFA World Cup]]
 | fullname = Rui Pedro dos Santos Patrício&lt;ref&gt;{{cite web|url=http://tournament.fifadata.com/documents/FCC/2017/PDF/FCC_2017_SQUADLISTS.PDF|title=FIFA Confederations Cup Russia 2017: List of players: Portugal|publisher=FIFA|page=7|format=PDF|date=20 March 2018|accessdate=4 November 2018}}&lt;/ref&gt;
 | birth_date = {{birth date and age|1988|2|15|df=y}}&lt;ref&gt;{{cite web|url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF|title=FIFA World Cup Russia 2018: List of players: Portugal|publisher=FIFA|page=23|format=PDF|date=15 July 2018|accessdate=4 November 2018}}&lt;/ref&gt;
 | birth_place = Marrazes, Portugal
-| height= 1.90 m&lt;ref&gt;{{cite web|url=https://www.premierleague.com/players/11341/Rui-Patrício/overview|title=Rui Patrício: Overview|publisher=Premier League|accessdate=4 November 2018}}&lt;/ref&gt;
+| height = 1.90 m&lt;ref&gt;{{cite web|url=https://www.premierleague.com/players/11341/Rui-Patrício/overview|title=Rui Patrício: Overview|publisher=Premier League|accessdate=4 November 2018}}&lt;/ref&gt;
 | position = [[Goalkeeper (association football)|Goalkeeper]]
 | currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
 | clubnumber = 11
-| youthyears1 = 1997–2000 | youthclubs1 = Leiria e Marrazes
-| youthyears2 = 2000–2006 | youthclubs2 = [[Sporting CP]]
-| years1 = 2006–2018 | clubs1 = [[Sporting CP]] | caps1 = 327 | goals1 = 0
-| years2 = 2018– | clubs2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] | caps2 = 26 | goals2 = 0
-| nationalyears1 = 2003–2004 | nationalteam1 = [[Portugal national under-16 football team|Portugal U16]] | nationalcaps1 = 5  | nationalgoals1 = 0
-| nationalyears2 = 2004–2005 | nationalteam2 = [[Portugal national under-17 football team|Portugal U17]] | nationalcaps2 = 11 | nationalgoals2 = 0
-| nationalyears3 = 2005–2006 | nationalteam3 = [[Portugal national under-18 football team|Portugal U18]] | nationalcaps3 = 4  | nationalgoals3 = 0
-| nationalyears4 = 2006–2007 | nationalteam4 = [[Portugal national under-19 football team|Portugal U19]] | nationalcaps4 = 10 | nationalgoals4 = 0
-| nationalyears5 = 2007–2008 | nationalteam5 = [[Portugal national under-20 football team|Portugal U20]] | nationalcaps5 = 8  | nationalgoals5 = 0
-| nationalyears6 = 2007–2010 | nationalteam6 = [[Portugal national under-21 football team|Portugal U21]] | nationalcaps6 = 14 | nationalgoals6 = 0
-| nationalyears7 = 2010– | nationalteam7 = [[Portugal national football team|Portugal]] | nationalcaps7 = 77 | nationalgoals7 = 0
+| youthyears1 = 1997–2000
+| youthclubs1 = Leiria e Marrazes
+| youthyears2 = 2000–2006
+| youthclubs2 = [[Sporting CP]]
+| years1 = 2006–2018
+| clubs1 = [[Sporting CP]]
+| caps1 = 327
+| goals1 = 0
+| years2 = 2018–
+| clubs2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| caps2 = 26
+| goals2 = 0
+| nationalyears1 = 2003–2004
+| nationalteam1 = [[Portugal national under-16 football team|Portugal U16]]
+| nationalcaps1 = 5
+| nationalgoals1 = 0
+| nationalyears2 = 2004–2005
+| nationalteam2 = [[Portugal national under-17 football team|Portugal U17]]
+| nationalcaps2 = 11
+| nationalgoals2 = 0
+| nationalyears3 = 2005–2006
+| nationalteam3 = [[Portugal national under-18 football team|Portugal U18]]
+| nationalcaps3 = 4
+| nationalgoals3 = 0
+| nationalyears4 = 2006–2007
+| nationalteam4 = [[Portugal national under-19 football team|Portugal U19]]
+| nationalcaps4 = 10
+| nationalgoals4 = 0
+| nationalyears5 = 2007–2008
+| nationalteam5 = [[Portugal national under-20 football team|Portugal U20]]
+| nationalcaps5 = 8
+| nationalgoals5 = 0
+| nationalyears6 = 2007–2010
+| nationalteam6 = [[Portugal national under-21 football team|Portugal U21]]
+| nationalcaps6 = 14
+| nationalgoals6 = 0
+| nationalyears7 = 2010–
+| nationalteam7 = [[Portugal national football team|Portugal]]
+| nationalcaps7 = 78
+| nationalgoals7 = 0
 | club-update = 23:57, 11 February 2019 (UTC)
-| nationalteam-update = 17 November 2018
-| medaltemplates =
-{{medalCountry|[[Portugal national football team|Portugal]]}}
+| nationalteam-update = 22 March 2019
+| medaltemplates = {{medalCountry|[[Portugal national football team|Portugal]]}}
 {{medal|W|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2016|2016]]}}
 {{medalBronze|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2012|2012]]}}&lt;!--Though there was no third place playoff, UEFA decided in the 2012 edition to award the semi-final losers (Germany and Portugal) bronze medals.--&gt;
 {{medal|3rd|[[FIFA Confederations Cup|Confederations Cup]]|[[2017 FIFA Confederations Cup|2017]]}}
@@ -1030,13 +1065,13 @@ Although not part of the provisional 24-player list for the [[2010 FIFA World Cu
 
 After [[Eduardo Carvalho|Eduardo]] was relegated to the bench at his new club, [[S.L. Benfica]], Patrício became the starter under national team boss [[Paulo Bento]], and both players finished the [[UEFA Euro 2012 qualifying|Euro 2012 qualifying campaign]] with five games (450 minutes) as Portugal qualified for the final stages. He was the starter in the finals in [[Poland]] and [[Ukraine]], conceding four goals in five matches in an eventual semi-final exit.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2012/matches/round=15174/match=2003378/postmatch/report/index.html#spain+survive+test+nerve+reach+final|title=Spain survive test of nerve to reach final|publisher=UEFA|date=27 June 2012|accessdate=26 June 2014}}&lt;/ref&gt;
 
-Patrício was included in Bento's 23-man squad for the [[2014 FIFA World Cup|2014 World Cup]] as first-choice,&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/portugal/10810443/Portugal-World-Cup-2014-squad.html|title=Portugal World Cup 2014 squad|newspaper=[[The Daily Telegraph]]|date=2 June 2014|accessdate=26 June 2014}}&lt;/ref&gt; and made his debut in [[FIFA World Cup|the competition]] in the first encounter against [[Germany national football team|Germany]], which ended with a 0–4 loss.&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=german-lessons-for-cr7-s-portugal-2373410.html|title=Muller-inspired Germany thrash ten-man Portugal|publisher=FIFA|date=16 June 2014|accessdate=26 June 2014}}&lt;/ref&gt; He missed the second game against the [[United States men's national soccer team|United States]], due to injury.&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/worldcup2014/article-2660580/Portugal-defender-Fabio-Coentrao-ruled-rest-World-Cup-thigh-injury.html|title=Portugal defender Fabio Coentrao ruled out for rest of the World Cup with thigh injury|newspaper=[[Daily Mail]]|date=17 June 2014|accessdate=26 June 2014}}&lt;/ref&gt;
+Patrício was included in Bento's 23-man squad for the [[2014 FIFA World Cup]] as first-choice,&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/portugal/10810443/Portugal-World-Cup-2014-squad.html|title=Portugal World Cup 2014 squad|newspaper=[[The Daily Telegraph]]|date=2 June 2014|accessdate=26 June 2014}}&lt;/ref&gt; and made his debut in [[FIFA World Cup|the competition]] in the first encounter against [[Germany national football team|Germany]], which ended with a 0–4 loss.&lt;ref&gt;{{cite web|url=https://www.fifa.com/worldcup/news/y=2014/m=6/news=german-lessons-for-cr7-s-portugal-2373410.html|title=Muller-inspired Germany thrash ten-man Portugal|publisher=FIFA|date=16 June 2014|accessdate=26 June 2014}}&lt;/ref&gt; He missed the second game against the [[United States men's national soccer team|United States]], due to injury.&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/sport/worldcup2014/article-2660580/Portugal-defender-Fabio-Coentrao-ruled-rest-World-Cup-thigh-injury.html|title=Portugal defender Fabio Coentrao ruled out for rest of the World Cup with thigh injury|newspaper=[[Daily Mail]]|date=17 June 2014|accessdate=26 June 2014}}&lt;/ref&gt;
 
-Patrício appeared in his 50th international on 30 June 2016, during [[UEFA Euro 2016|Euro 2016]]: after the 1–1 draw to [[Poland national football team|Poland]] at the ''[[Stade Vélodrome]]'' during the first 120 minutes, he saved [[Jakub Błaszczykowski]]'s attempt in a 5–3 [[Penalty shoot-out (association football)|penalty shootout]] win that qualified to the semi-finals.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017901/postmatch/report/index.html|title=Draw specialists Portugal beat Poland on penalties|publisher=UEFA|date=30 June 2016|accessdate=30 June 2016}}&lt;/ref&gt; Having won the tournament with a solid display in [[UEFA Euro 2016 Final|the final]],&lt;ref name=BBC&gt;{{cite web|url=https://www.bbc.com/sport/football/36696772|title=Portugal 1–0 France|publisher=BBC Sport|last=McNulty|first=Phil|date=10 July 2016|accessdate=18 May 2018}}&lt;/ref&gt; he also made the squad for the [[2018 FIFA World Cup|2018 World Cup]] in [[Russia]].&lt;ref&gt;{{cite web|url=https://www.sbs.com.au/news/portugal-world-cup-squad|title=Nearly half Portugal's Euro squad to miss World Cup|publisher=[[Special Broadcasting Service]]|date=17 May 2018|accessdate=17 May 2018}}&lt;/ref&gt;
+Patrício appeared in his 50th international on 30 June 2016, during [[UEFA Euro 2016|Euro 2016]]: after the 1–1 draw to [[Poland national football team|Poland]] at the ''[[Stade Vélodrome]]'' during the first 120 minutes, he saved [[Jakub Błaszczykowski]]'s attempt in a 5–3 [[Penalty shoot-out (association football)|penalty shootout]] win that qualified to the semi-finals.&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017901/postmatch/report/index.html|title=Draw specialists Portugal beat Poland on penalties|publisher=UEFA|date=30 June 2016|accessdate=30 June 2016}}&lt;/ref&gt; Having won the tournament with a solid display in [[UEFA Euro 2016 Final|the final]],&lt;ref name=BBC&gt;{{cite web|url=https://www.bbc.com/sport/football/36696772|title=Portugal 1–0 France|publisher=BBC Sport|last=McNulty|first=Phil|date=10 July 2016|accessdate=18 May 2018}}&lt;/ref&gt; he also made the squad for the [[2018 FIFA World Cup]] in [[Russia]].&lt;ref&gt;{{cite web|url=https://www.sbs.com.au/news/portugal-world-cup-squad|title=Nearly half Portugal's Euro squad to miss World Cup|publisher=[[Special Broadcasting Service]]|date=17 May 2018|accessdate=17 May 2018}}&lt;/ref&gt;
 
 ==Career statistics==
 ===Club===
-{{updated|26 February 2019}}&lt;ref&gt;{{cite web|url=https://www.foradejogo.net/player.php?player=198802150001&amp;language=2|title=Rui Patrício|publisher=ForaDeJogo|accessdate=31 August 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/rui-pedro-dos-santos-patricio/16583/|title=Rui Patrício|publisher=Soccerway|accessdate=19 March 2014}}&lt;/ref&gt;
+{{updated|10 March 2019}}&lt;ref&gt;{{cite web|url=https://www.foradejogo.net/player.php?player=198802150001&amp;language=2|title=Rui Patrício|publisher=ForaDeJogo|accessdate=31 August 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://int.soccerway.com/players/rui-pedro-dos-santos-patricio/16583/|title=Rui Patrício|publisher=Soccerway|accessdate=19 March 2014}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -1108,10 +1143,10 @@ Patrício appeared in his 50th international on 30 June 2016, during [[UEFA Euro
 |[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
 |[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]
 |[[Premier League]]
-|28||0||0||0||0||0||colspan="2"|—||colspan="2"|—||28||0
+|29||0||0||0||0||0||colspan="2"|—||colspan="2"|—||29||0
 |-
 !colspan="3"|Career total
-!355!!0!!31!!0!!14!!0!!93!!0!!2!!0!!495!!0
+!356!!0!!31!!0!!14!!0!!93!!0!!2!!0!!496!!0
 |}
 {{reflist|group=lower-alpha}}
 
@@ -1174,7 +1209,6 @@ Patrício appeared in his 50th international on 30 June 2016, during [[UEFA Euro
 
 ==External links==
 {{commons category}}
-*{{Zerozero}}
 *{{ForaDeJogo}}
 *{{Soccerbase|45653}}
 *{{NFT player}}
@@ -1227,7 +1261,7 @@ Patrício appeared in his 50th international on 30 June 2016, during [[UEFA Euro
 [[Category:Expatriate footballers in England]]
 [[Category:Portuguese expatriate sportspeople in England]]
 [[Category:Commanders of the Order of Merit (Portugal)]]</text>
-      <sha1>9860q0x7xhc8nol13pqpumd0knsaio0</sha1>
+      <sha1>jcwv2v1c66luvlxoeergek31iy3qo1r</sha1>
     </revision>
   </page>
   <page>
@@ -1235,16 +1269,18 @@ Patrício appeared in his 50th international on 30 June 2016, during [[UEFA Euro
     <ns>0</ns>
     <id>31587341</id>
     <revision>
-      <id>886057028</id>
-      <parentid>885708078</parentid>
-      <timestamp>2019-03-04T00:57:25Z</timestamp>
+      <id>888567768</id>
+      <parentid>888565963</parentid>
+      <timestamp>2019-03-20T00:02:53Z</timestamp>
       <contributor>
-        <ip>82.23.42.196</ip>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <comment>/* Career statistics */</comment>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/2A02:C7F:A234:8000:BC95:153D:7ABF:D50E|2A02:C7F:A234:8000:BC95:153D:7ABF:D50E]] ([[User talk:2A02:C7F:A234:8000:BC95:153D:7ABF:D50E|talk]]) to last revision by Mattythewhite ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="15451">{{Infobox football biography
+      <text xml:space="preserve" bytes="15431">{{Infobox football biography
 | name = Willy Boly
 | image = Shahter-Braga (7).jpg
 | image_size = 200
@@ -1266,11 +1302,11 @@ Patrício appeared in his 50th international on 30 June 2016, during [[UEFA Euro
 | years4 = 2015–2016 | clubs4 = [[S.C. Braga B|Braga]] | caps4 = 25 | goals4 = 2
 | years5 = 2016–2018 | clubs5 = [[FC Porto|Porto]] | caps5 = 4 | goals5 = 0
 | years6 = 2017–2018 | clubs6 = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan) | caps6 = 36 | goals6 = 3
-| years7 = 2018– | clubs7 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] | caps7 = 24 | goals7 = 3
+| years7 = 2018– | clubs7 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] | caps7 = 28 | goals7 = 3
 | nationalyears1 = 2006 | nationalteam1 = [[France national under-16 football team|France U16]] | nationalcaps1 = 1 | nationalgoals1 = 0
 | nationalyears2 = 2007–2008 | nationalteam2  = [[France national under-17 football team|France U17]] | nationalcaps2 = 4 | nationalgoals2 = 0
 | nationalyears4 = 2010 | nationalteam4 = [[France national under-19 football team|France U19]] | nationalcaps4 = 1 | nationalgoals4 = 0
-| club-update = 00:03, 12 February 2019 (UTC)
+| club-update = 17:17, 17 March 2019 (UTC)
 | nationalteam-update =
 }}
 '''Willy-Arnaud Zobo Boly''' (born 3 February 1991) is a French professional [[Association football|footballer]] who plays as a [[Defender (association football)#Centre-back|centre back]] for [[Premier League]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].
@@ -1298,7 +1334,7 @@ After helping achieve promotion while making 37 official appearances, Boly signe
 Born to [[Demographics of Ivory Coast|Ivorian parents]], Boly represented [[France national football team|France]] at [[France national under-16 football team|under-16]], [[France national under-17 football team|under-17]] and [[France national under-19 football team|under-19 levels]].&lt;ref&gt;{{cite web|url=http://news.abidjan.net/h/461420.html|title=Football / Willy Boly (International Franco-ivoirien de l’AJ Auxerre en France) Tout sur ce défenseur central qui peut aider les Eléphants!|trans-title=Football / Willy Boly (French-Ivorian international of France's AJ Auxerre) Everything about this central defender who might help the Elephants!|publisher=News Abidjan|language=fr|date=6 June 2013|accessdate=23 May 2018}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 2 March 2019}}&lt;ref&gt;{{Soccerway|willy-boly/158635|accessdate=5 July 2017}}&lt;/ref&gt;
+{{updated|match played 16 March 2019}}&lt;ref&gt;{{Soccerway|willy-boly/158635|accessdate=5 July 2017}}&lt;/ref&gt;
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
 |-
@@ -1366,13 +1402,13 @@ Born to [[Demographics of Ivory Coast|Ivorian parents]], Boly represented [[Fran
 |rowspan="2"|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
 |[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]
 |[[Premier League]]
-|27||3||3||0||0||0||colspan="2"|—||colspan=2|—||30||3
+|28||3||4||0||0||0||colspan="2"|—||colspan=2|—||32||3
 |-
 !colspan="2"|Wolves total
-!63!!6!!3!!0!!1!!0!!colspan=2|—!!colspan=2|—!!67!!6
+!64!!6!!4!!0!!1!!0!!colspan=2|—!!colspan=2|—!!69!!6
 |-
 !colspan="3"|Career total
-!189!!11!!13!!1!!15!!0!!13!!0!!1!!0!!231!!12
+!190!!11!!14!!1!!15!!0!!13!!0!!1!!0!!233!!12
 |}
 
 {{reflist|group=lower-alpha}}
@@ -1393,7 +1429,6 @@ Born to [[Demographics of Ivory Coast|Ivorian parents]], Boly represented [[Fran
 ==External links==
 *{{LFP|id=boly-willy}}
 *{{Lequipe|36151}}
-*{{TheFinalBall}}
 *{{ForaDeJogo}}
 *{{Soccerbase|58372}}
 
@@ -1423,7 +1458,7 @@ Born to [[Demographics of Ivory Coast|Ivorian parents]], Boly represented [[Fran
 [[Category:Expatriate footballers in Portugal]]
 [[Category:Expatriate footballers in England]]
 [[Category:French expatriate sportspeople in Portugal]]</text>
-      <sha1>s3obexitlg4aimnpoh781fd2iam7rab</sha1>
+      <sha1>fuhph8dydkutdclygy9juc1t6814alh</sha1>
     </revision>
   </page>
   <page>
@@ -1431,26 +1466,28 @@ Born to [[Demographics of Ivory Coast|Ivorian parents]], Boly represented [[Fran
     <ns>0</ns>
     <id>37579767</id>
     <revision>
-      <id>886057248</id>
-      <parentid>885262265</parentid>
-      <timestamp>2019-03-04T00:59:05Z</timestamp>
+      <id>889025680</id>
+      <parentid>889025576</parentid>
+      <timestamp>2019-03-22T22:43:50Z</timestamp>
       <contributor>
-        <ip>82.23.42.196</ip>
+        <username>CLCStudent</username>
+        <id>26398660</id>
       </contributor>
-      <comment>/* Club */</comment>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/2A00:23C5:1F9B:2D00:119D:B821:4310:F273|2A00:23C5:1F9B:2D00:119D:B821:4310:F273]] ([[User talk:2A00:23C5:1F9B:2D00:119D:B821:4310:F273|talk]]) to last version by 82.23.42.196</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="19477">{{EngvarB|date=July 2013}}
-{{Use dmy dates|date=July 2013}}
+      <text xml:space="preserve" bytes="19919">{{EngvarB|date=March 2019}}
+{{Use dmy dates|date=March 2019}}
 {{Infobox football biography
 |        name = Conor Coady
 |       image = Conor Coady.jpg
 |  image_size = 200
 |     caption = Coady training for [[England national under-19 football team|England U19s]] during the [[2012 UEFA European Under-19 Championship]]
-|    fullname = Conor David Coady&lt;ref&gt;{{Cite news|title=Premier League Clubs submit Squad Lists |url=http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/Premier-League-Squad-Lists-January-2014.pdf |publisher=Premier League |format=PDF |page=19 |date=4 February 2014 |accessdate=11 February 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140316063138/http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/Premier-League-Squad-Lists-January-2014.pdf |archivedate=16 March 2014 |df=dmy }}&lt;/ref&gt;
-|  birth_date = {{birth date and age|1993|2|25|df=y}}
-| birth_place = [[Haydock]], England
-|      height = {{height|ft=6|in=1}}
+|    fullname = Conor David Coady&lt;ref&gt;{{cite web |url=http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/Premier-League-Squad-Lists-January-2014.pdf |title=Premier League Clubs submit Squad Lists |publisher=Premier League |format=PDF |page=19 |date=4 February 2014 |accessdate=11 February 2014 |archiveurl=https://web.archive.org/web/20140316063138/http://www.premierleague.com/content/dam/premierleague/site-content/News/publications/squad-lists/Premier-League-Squad-Lists-January-2014.pdf |archivedate=16 March 2014}}&lt;/ref&gt;
+|  birth_date = {{birth date and age|1993|2|25|df=y}}&lt;ref&gt;{{cite web |url=https://www.premierleague.com/players/4136/Conor-Coady/overview |title=Conor Coady: Overview |publisher=Premier League |accessdate=15 March 2019}}&lt;/ref&gt;
+| birth_place = [[Liverpool]], England
+|      height = {{convert|1.86|m|order=flip}}&lt;ref&gt;{{cite web |url=https://www.wolves.co.uk/team/first-team/conor-coady/ |title=Conor Coady |publisher=Wolverhampton Wanderers F.C. |accessdate=15 March 2019}}&lt;/ref&gt;
 |    position = [[Defender (association football)|Defender]]
 | currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
 |  clubnumber = 16
@@ -1469,45 +1506,46 @@ Born to [[Demographics of Ivory Coast|Ivorian parents]], Boly represented [[Fran
 }}
 '''Conor David Coady''' (born 25 February 1993) is an English professional [[association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Premier League]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].
 
-Coady came through the academy system at his local side [[Liverpool F.C.|Liverpool]] and made two appearances for the senior side before spending a season on loan at [[Sheffield United F.C.|Sheffield United]] and then moving to [[Huddersfield Town A.F.C.|Huddersfield Town]] on a permanent transfer in 2014. He has also represented England at youth level, being named in the team of the tournament as England won the [[2010 UEFA European Under-17 Championship]] and captaining the [[England national under-20 football team|England under-20]] team at the [[2013 FIFA U-20 World Cup|2013 under-20 World Cup]].
+Coady came through the academy system at his local club [[Liverpool F.C.|Liverpool]] and made two appearances for the first team before spending a season on loan at [[Sheffield United F.C.|Sheffield United]] and then moving to [[Huddersfield Town A.F.C.|Huddersfield Town]] on a permanent transfer in 2014. He has also represented England at youth level, being named in the team of the tournament as England won the [[2010 UEFA European Under-17 Championship]] and captaining the [[England national under-20 football team|England under-20]] team at the [[2013 FIFA U-20 World Cup|2013 under-20 World Cup]].
 
 ==Club career==
 ===Liverpool===
-Born in [[Liverpool]], Coady grew up supporting [[Liverpool F.C.|Liverpool]].&lt;ref name="liverpool supporter"&gt;{{cite web|url=http://www.thestar.co.uk/sport/sheff-utd/sheffield-united-conor-would-be-keen-on-lane-option-1-6591466|title=Conor would be keen on Lane option|publisher=The Sheffield Star|date=2 May 2014|accessdate=2 May 2014}}&lt;/ref&gt; He is a product of the [[Liverpool F.C. Reserves and Academy|Liverpool Youth Academy]] after joining the club in 2005. During the [[2010–11 Liverpool F.C. season|2010–11 season]], Coady was on the fringes of the first team, making the subs bench twice but failed to make a first team appearance.&lt;ref&gt;{{cite web|last=Whyatt|first=Chris|title=Sparta Prague 0&amp;nbsp;– 0 Liverpool|url=http://news.bbc.co.uk/sport2/hi/football/europe/9399199.stm|publisher=BBC Sport|accessdate=22 March 2013|date=17 February 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Dawkes|first=Phil|title=Liverpool 9&amp;nbsp;– 1 Birmingham|url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/9463392.stm|publisher=BBC Sport|accessdate=22 March 2013|date=23 April 2011}}&lt;/ref&gt; Coady played every [[Barclays Premier Reserve League|Reserve League]] and [[NextGen Series]] match during the [[2011–12 Liverpool F.C. season|2011–12 season]], scoring five goals.  Despite being named in the senior squad list and being called up to the senior squad occasionally from 2009, he did not make his senior début until 8 November 2012 in a [[UEFA Europa League]] group stage match against [[Anzhi Makhachkala]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/20164149|title=Anzhi Makhachkala 1–0 Liverpool|date=8 November 2012|work=BBC Sport|accessdate=19 March 2013}}&lt;/ref&gt;  After [[Andre Wisdom]]'s promotion as a full-time senior squad member, Conor Coady was installed as full-time captain of the Under-21 squad and on 12 May 2013 he made his Premier League début in a 3–1 win at [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite web|title=Seven starlets who stepped up in 2012–13|url=http://www.liverpoolfc.com/news/latest-news/seven-starlets-who-stepped-up-in-2012-13|publisher=Liverpool FC|accessdate=23 March 2015|archive-url=https://web.archive.org/web/20150402152829/http://www.liverpoolfc.com/news/latest-news/seven-starlets-who-stepped-up-in-2012-13|archive-date=2 April 2015|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+Born in [[Liverpool]],&lt;ref&gt;{{Hugman|22610|accessdate=15 March 2019}}&lt;/ref&gt; Coady grew up supporting [[Liverpool F.C.|Liverpool]].&lt;ref name="liverpool supporter"&gt;{{cite web |url=http://www.thestar.co.uk/sport/sheff-utd/sheffield-united-conor-would-be-keen-on-lane-option-1-6591466 |title=Conor would be keen on Lane option |publisher=The Sheffield Star |date=2 May 2014 |accessdate=2 May 2014}}&lt;/ref&gt; He is a product of the [[Liverpool F.C. Reserves and Academy|Liverpool Youth Academy]] after joining the club in 2005. During the [[2010–11 Liverpool F.C. season|2010–11 season]], Coady was on the fringes of the first team, making the subs bench twice but failed to make a first-team appearance.&lt;ref&gt;{{cite web |last=Whyatt |first=Chris |title=Sparta Prague 0&amp;nbsp;– 0 Liverpool |url=http://news.bbc.co.uk/sport2/hi/football/europe/9399199.stm |publisher=BBC Sport |accessdate=22 March 2013 |date=17 February 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last=Dawkes |first=Phil |title=Liverpool 9&amp;nbsp;– 1 Birmingham |url=http://news.bbc.co.uk/sport2/hi/football/eng_prem/9463392.stm |publisher=BBC Sport |accessdate=22 March 2013 |date=23 April 2011}}&lt;/ref&gt; Coady played every [[Barclays Premier Reserve League|Reserve League]] and [[NextGen Series]] match during the [[2011–12 Liverpool F.C. season|2011–12 season]], scoring five goals.  Despite being named in the senior squad list and being called up to the senior squad occasionally from 2009, he did not make his senior début until 8 November 2012 in a [[UEFA Europa League]] group stage match against [[Anzhi Makhachkala]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/20164149 |title=Anzhi Makhachkala 1–0 Liverpool |date=8 November 2012 |publisher=BBC Sport |accessdate=19 March 2013}}&lt;/ref&gt; After [[Andre Wisdom]]'s promotion as a full-time senior squad member, Conor Coady was installed as full-time captain of the Under-21 squad and on 12 May 2013 he made his Premier League début in a 3–1 win at [[Fulham F.C.|Fulham]].&lt;ref&gt;{{cite web |title=Seven starlets who stepped up in 2012–13 |url=http://www.liverpoolfc.com/news/latest-news/seven-starlets-who-stepped-up-in-2012-13 |publisher=Liverpool FC |accessdate=23 March 2015 |archiveurl=https://web.archive.org/web/20150402152829/http://www.liverpoolfc.com/news/latest-news/seven-starlets-who-stepped-up-in-2012-13 |archivedate=2 April 2015 |deadurl=yes}}&lt;/ref&gt;
 
-Coady agreed a six-month loan deal with [[EFL League One|League One]] club [[Sheffield United F.C.|Sheffield United]] on 22 July 2013,&lt;ref name="blades loan"&gt;{{cite web|url=http://www.sufc.co.uk/news/article/20130722-coady-in-on-loan-936404.aspx|title=Coady in on loan|publisher=Sheffield United F.C.|date=22 July 2013|accessdate=22 July 2013}}&lt;/ref&gt; later stating that he had turned down the chance to go on Liverpool's pre-season tour of Australia and the Far East in order to join up with his new club.&lt;ref name="Rodgers influence"&gt;{{cite news|title=Coady reveals Rodgers influence|url=http://www1.skysports.com/football/news/11683/8836859/coady-reveals-rodgers-infleunce|accessdate=23 July 2013|publisher=Sky Sports News|date=23 July 2013}}&lt;/ref&gt; Coady made his debut for the Blades in the opening fixture of the following season, coming on as a second-half substitute in a 2–1 home victory over [[Notts County F.C.|Notts County]],&lt;ref name="blades debut"&gt;{{cite news|url=https://www.theguardian.com/football/2013/aug/02/sheffield-united-notts-county-report|title=Sheffield United's David Weir off to winning start against Notts County|work=The Guardian|date=2 August 2013|accessdate=3 August 2013}}&lt;/ref&gt; and made his first start for the club in the following game, a [[EFL Cup|League Cup]] first round defeat to [[EFL League Two|League Two]] club [[Burton Albion F.C.|Burton Albion]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/0/football/23499353|title=Sheffield United 1–2 Burton|publisher=BBC Sport|date=6 August 2013|accessdate=17 October 2013}}&lt;/ref&gt; 
+Coady agreed a six-month loan deal with [[EFL League One|League One]] club [[Sheffield United F.C.|Sheffield United]] on 22 July 2013,&lt;ref name="blades loan"&gt;{{cite web |url=http://www.sufc.co.uk/news/article/20130722-coady-in-on-loan-936404.aspx |title=Coady in on loan |publisher=Sheffield United F.C. |date=22 July 2013 |accessdate=22 July 2013}}&lt;/ref&gt; later stating that he had turned down the chance to go on Liverpool's pre-season tour of Australia and the Far East in order to join up with his new club.&lt;ref name="Rodgers influence"&gt;{{cite news |title=Coady reveals Rodgers influence |url=http://www1.skysports.com/football/news/11683/8836859/coady-reveals-rodgers-infleunce |accessdate=23 July 2013 |publisher=Sky Sports News |date=23 July 2013}}&lt;/ref&gt; Coady made his debut for the Blades in the opening fixture of the following season, coming on as a second-half substitute in a 2–1 home victory over [[Notts County F.C.|Notts County]],&lt;ref name="blades debut"&gt;{{cite news |url=https://www.theguardian.com/football/2013/aug/02/sheffield-united-notts-county-report |title=Sheffield United's David Weir off to winning start against Notts County |work=The Guardian |date=2 August 2013 |accessdate=3 August 2013}}&lt;/ref&gt; and made his first start for the club in the following game, a [[EFL Cup|League Cup]] first round defeat to [[EFL League Two|League Two]] club [[Burton Albion F.C.|Burton Albion]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/0/football/23499353 |title=Sheffield United 1–2 Burton |publisher=BBC Sport |date=6 August 2013 |accessdate=17 October 2013}}&lt;/ref&gt; 
 
-Coady scored his first senior goal in a 1–1 draw at [[Leyton Orient F.C.|Leyton Orient]] on 30 November 2013.&lt;ref name="blades goal"&gt;{{cite web|url=http://www1.skysports.com/football/live/match/288435/report|title=Cox snatches point for Orient|publisher=Sky Sports|date=30 November 2013|accessdate=2 December 2013}}&lt;/ref&gt; Having been in and out of the side during the first half of the season, Coady began to cement a regular first-team place over the Christmas period, prompting United to extend his loan spell during the January transfer window,&lt;ref name="blades loan extension"&gt;{{cite news|title=Liverpool youngster Conor Coady extends loan spell with Sheffield United|url=https://www.mirror.co.uk/sport/football/transfer-news/liverpool-youngster-conor-coady-extends-3001910|accessdate=10 January 2014|work=Daily Mirror|date=8 January 2014}}&lt;/ref&gt; and once more in February to extend his stay until the end of the season.&lt;ref name="coady end season"&gt;{{cite news|title=Liverpool midfielder extends Sheffield United loan deal|url=https://www.bbc.co.uk/sport/0/football/26338499|accessdate=25 February 2014|publisher=BBC Sport|date=25 February 2014}}&lt;/ref&gt; Coady played regularly for the Blades for the remainder of the season and returned to [[Anfield]] having played 50 games and scored six goals.&lt;ref name="1314apps"&gt;{{Soccerbase season|58424|2013|name=Conor Coady|accessdate=11 May 2014}}&lt;/ref&gt;
+Coady scored his first senior goal in a 1–1 draw at [[Leyton Orient F.C.|Leyton Orient]] on 30 November 2013.&lt;ref name="blades goal"&gt;{{cite web |url=http://www1.skysports.com/football/live/match/288435/report |title=Cox snatches point for Orient |publisher=Sky Sports |date=30 November 2013 |accessdate=2 December 2013}}&lt;/ref&gt; Having been in and out of the team during the first half of the season, Coady began to cement a regular first-team place over the Christmas period, prompting United to extend his loan spell during the January transfer window,&lt;ref name="blades loan extension"&gt;{{cite news |title=Liverpool youngster Conor Coady extends loan spell with Sheffield United |url=https://www.mirror.co.uk/sport/football/transfer-news/liverpool-youngster-conor-coady-extends-3001910 |accessdate=10 January 2014 |work=Daily Mirror |date=8 January 2014}}&lt;/ref&gt; and once more in February to extend his stay until the end of the season.&lt;ref name="coady end season"&gt;{{cite news |title=Liverpool midfielder extends Sheffield United loan deal |url=https://www.bbc.co.uk/sport/0/football/26338499 |accessdate=25 February 2014 |publisher=BBC Sport |date=25 February 2014}}&lt;/ref&gt; Coady played regularly for the Blades for the remainder of the season and returned to [[Anfield]] having played 50 games and scored six goals.&lt;ref name="1314apps"&gt;{{Soccerbase season|58424|2013|name=Conor Coady|accessdate=11 May 2014}}&lt;/ref&gt;
 
 ===Huddersfield Town===
-On 6 August 2014, Coady signed for [[EFL Championship|Championship]] club [[Huddersfield Town A.F.C.|Huddersfield Town]] on a three-year deal for a fee, believed to be around £500,000.&lt;ref&gt;{{Cite news |title=Conor Coady Joins Huddersfield Town |url=http://www.htafc.com/news/article/first-team-news-conor-coady-1809298.aspx |publisher=Huddersfield Town F.C |date=6 August 2014 |accessdate=6 August 2014}}&lt;/ref&gt; He made his début as a substitute in the 4–0 defeat by [[A.F.C. Bournemouth|Bournemouth]] on 9 August.&lt;ref name="stats"/&gt; On 1 October, he scored his first goal for the club against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] where Town won 3–1 at [[Molineux Stadium]].&lt;ref&gt;{{cite web|title=Huddersfield Town earned a surprise win away at Wolves to stop the hosts going top of the Championship.|url=https://www.bbc.com/sport/0/football/29338891|publisher=BBC|accessdate=23 March 2015}}&lt;/ref&gt; He again found the net, this time in a 2–2 draw against [[Rotherham United F.C.|Rotherham United]].&lt;ref&gt;{{cite web|title=Rotherham United 2 Huddersfield Town 2|url=https://www.bbc.com/sport/0/football/30543342|publisher=BBC Sport|accessdate=23 March 2015}}&lt;/ref&gt;
+On 6 August 2014, Coady signed for [[EFL Championship|Championship]] club [[Huddersfield Town A.F.C.|Huddersfield Town]] on a three-year deal for a fee, believed to be around £500,000.&lt;ref&gt;{{Cite news |title=Conor Coady Joins Huddersfield Town |url=http://www.htafc.com/news/article/first-team-news-conor-coady-1809298.aspx |publisher=Huddersfield Town F.C |date=6 August 2014 |accessdate=6 August 2014}}&lt;/ref&gt; He made his début as a substitute in the 4–0 defeat by [[A.F.C. Bournemouth|Bournemouth]] on 9 August.&lt;ref name="stats"/&gt; On 1 October, he scored his first goal for the club against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] where Town won 3–1 at [[Molineux Stadium]].&lt;ref&gt;{{cite web |title=Huddersfield Town earned a surprise win away at Wolves to stop the hosts going top of the Championship. |url=https://www.bbc.com/sport/0/football/29338891 |publisher=BBC |accessdate=23 March 2015}}&lt;/ref&gt; He again found the net, this time in a 2–2 draw against [[Rotherham United F.C.|Rotherham United]].&lt;ref&gt;{{cite web |title=Rotherham United 2 Huddersfield Town 2 |url=https://www.bbc.com/sport/0/football/30543342 |publisher=BBC Sport |accessdate=23 March 2015}}&lt;/ref&gt;
 
 ===Wolverhampton Wanderers===
 [[File:Coady Ralls.jpg|thumbnail|Coady (left) defending against [[Joe Ralls]].]]
 
-On 3 July 2015, Coady signed for Championship club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a three-year deal for an undisclosed fee, believed to be around £2 million.&lt;ref&gt;{{Cite news |title=Conor Coady: Wolves sign Huddersfield Town midfielder|url=https://www.bbc.com/sport/0/football/33380799|publisher=BBC Sport |date=3 July 2015}}&lt;/ref&gt; He scored his first goal for Wolves in a 2–1 [[EFL Cup]] win against [[Crawley Town]] on 9 August 2016.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/36949401|title=Wolves 2–1 Crawley|publisher=BBC Sport|date=9 August 2016|accessdate=9 August 2016}}&lt;/ref&gt; 
+On 3 July 2015, Coady signed for Championship club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a three-year deal for an undisclosed fee, believed to be around £2&amp;nbsp;million.&lt;ref&gt;{{Cite news |title=Conor Coady: Wolves sign Huddersfield Town midfielder |url=https://www.bbc.com/sport/0/football/33380799 |publisher=BBC Sport |date=3 July 2015}}&lt;/ref&gt; He scored his first goal for Wolves in a 2–1 [[EFL Cup]] win against [[Crawley Town]] on 9 August 2016.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/36949401 |title=Wolves 2–1 Crawley |publisher=BBC Sport |date=9 August 2016 |accessdate=9 August 2016}}&lt;/ref&gt; 
 
-As of the start of the 2017–18 season, Coady has, at the behest of Wolves' manager [[Nuno Espírito Santo]], played at centre-half in a three-man defence for Wolves.&lt;ref&gt;{{cite news|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2017/09/22/delighted-conor-coady-signs-four-year-wolves-contract/|title=Delighted Conor Coady signs four-year Wolves contract|work=[[Express &amp; Star]]|date=22 September 2017|accessdate=28 August 2018}}&lt;/ref&gt;
+As of the start of the 2017–18 season, Coady has, at the behest of Wolves' manager [[Nuno Espírito Santo]], played at centre-half in a three-man defence for Wolves.&lt;ref&gt;{{cite news |url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2017/09/22/delighted-conor-coady-signs-four-year-wolves-contract/ |title=Delighted Conor Coady signs four-year Wolves contract |work=[[Express &amp; Star]] |date=22 September 2017 |accessdate=28 August 2018}}&lt;/ref&gt;
 
-It was announced in September 2017 that Coady had signed a new four-year contract with Wolves, running until summer 2021.&lt;ref&gt;{{cite news|title=Four more years!|url=https://www.wolves.co.uk/news/first-team/20170922-four-more-years/|publisher=Wolverhampton Wanderers F.C|date=22 September 2017}}&lt;/ref&gt;
+It was announced in September 2017 that Coady had signed a new four-year contract with Wolves, running until summer 2021.&lt;ref&gt;{{cite news |title=Four more years! |url=https://www.wolves.co.uk/news/first-team/20170922-four-more-years/ |publisher=Wolverhampton Wanderers F.C |date=22 September 2017}}&lt;/ref&gt;
 
-On 21 April 2018, during his 120th league appearance for Wolves, Coady scored a 66th minute penalty in a 4–0 win against [[Bolton Wanderers F.C.|Bolton Wanderers]] to get his first league goal for the club, as Wolves sealed the [[EFL Championship]] title.&lt;ref&gt;{{cite web|title=Bolton Wanderers 0-4 Wolves|url=https://www.bbc.co.uk/sport/football/43762334|publisher=[[BBC Sport]]|date=21 April 2018}}&lt;/ref&gt;
+On 21 April 2018, during his 120th league appearance for Wolves, Coady scored a 66th minute penalty in a 4–0 win against [[Bolton Wanderers F.C.|Bolton Wanderers]] to get his first league goal for the club, as Wolves sealed the [[EFL Championship]] title.&lt;ref&gt;{{cite web |title=Bolton Wanderers 0–4 Wolves |url=https://www.bbc.co.uk/sport/football/43762334 |publisher=[[BBC Sport]] |date=21 April 2018}}&lt;/ref&gt;
 
-It was announced on 15 February 2019 that Coady had put pen to paper on a new contract that would keep him at Wolverhampton Wanderers until the summer of 2023.&lt;ref&gt;{{cite web|title=Wolves: Conor Coady and Matt Doherty sign new deals until 2023|url=https://www.bbc.co.uk/sport/football/47260570|publisher=[[BBC Sport]]|date=15 February 2019|accessdate=16 February 2019}}&lt;/ref&gt;
+It was announced on 15 February 2019 that Coady had put pen to paper on a new contract that would keep him at Wolverhampton Wanderers until the summer of 2023.&lt;ref&gt;{{cite web |title=Wolves: Conor Coady and Matt Doherty sign new deals until 2023 |url=https://www.bbc.co.uk/sport/football/47260570 |publisher=[[BBC Sport]] |date=15 February 2019 |accessdate=16 February 2019}}&lt;/ref&gt;
 
 ==International career==
-Coady has represented England at Under-16 right through to Under-20 level.&lt;ref name="FA"&gt;{{cite web|title=The FA profile|url=http://www.thefa.com/England/All-Teams/Players/C/Conor-Coady|publisher=The FA|accessdate=23 March 2015}}&lt;/ref&gt; He has been capped 17 times for the [[England national under-17 football team]].&lt;ref name="FA"/&gt; He played and captained&lt;ref&gt;{{cite web|title=England U-17s beat Spain to win European Championship|url=http://news.bbc.co.uk/sport2/hi/football/8713980.stm|publisher=BBC|accessdate=23 March 2015}}&lt;/ref&gt; the England team at the [[2010 UEFA European Under-17 Championship]] in Liechtenstein where he and his England colleagues won the tournament, and became the first England team to win an international tournament in 17 years.&lt;ref name="win"&gt;{{cite web|last=Rice|first=Jimmy|title=Wisdom scores in historic triumph|url=http://www.liverpoolfc.com/news/latest-news/wisdom-scores-in-historic-triumph|publisher=Liverpool F.C.|accessdate=9 November 2012|archive-url=https://web.archive.org/web/20150402152924/http://www.liverpoolfc.com/news/latest-news/wisdom-scores-in-historic-triumph|archive-date=2 April 2015|dead-url=yes|df=dmy-all}}&lt;/ref&gt; He was then part of the [[2012 UEFA European Under-19 Championship]] in Estonia&lt;ref&gt;{{cite web|last=Rice|first=Jimmy|title=LFC duo named in U19s Euro squad|url=http://www.liverpoolfc.com/news/latest-news/lfc-duo-named-in-u19s-euro-squad|publisher=Liverpool F.C.|accessdate=9 November 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120904141407/http://www.liverpoolfc.com/news/latest-news/lfc-duo-named-in-u19s-euro-squad|archivedate=4 September 2012|df=dmy-all}}&lt;/ref&gt; in which England got as far as the semi-finals where they were knocked out by [[Greece national under-19 football team|Greece]].&lt;ref&gt;{{cite web|last=Hunter|first=Steve|title=Final joy for Suso as England lose|url=http://www.liverpoolfc.com/news/latest-news/final-joy-for-suso-as-england-lose|publisher=Liverpool F.C.|accessdate=9 November 2012|archive-url=https://web.archive.org/web/20121026185722/http://www.liverpoolfc.com/news/latest-news/final-joy-for-suso-as-england-lose|archive-date=26 October 2012|dead-url=yes|df=dmy-all}}&lt;/ref&gt; He was named captain of the [[England national under-20 football team|England under-20 team]] by manager [[Peter Taylor (footballer born 1953)|Peter Taylor]] for the [[2013 FIFA U-20 World Cup]].&lt;ref&gt;{{cite web|url=http://www.thefa.com/england/mens-u20s/News/2013/conor-coady-to-captain-young-lions-fifa-world-cup|title=Captain Coady|publisher=The Football Association|date=11 June 2013|accessdate=17 June 2013}}&lt;/ref&gt; He made his debut for the side on 16 June, in a 3–0 win in a warm-up game against [[Uruguay national under-20 football team|Uruguay]].&lt;ref&gt;{{cite web|url=http://www.thefa.com/england/mens-u20s/News/2013/uruguay-report-160613 |archive-url=https://archive.is/20130624222816/http://www.thefa.com/england/mens-u20s/News/2013/uruguay-report-160613 |dead-url=yes |archivedate=24 June 2013 |title=England U20s continue World Cup preparations with a 3–0 win over Uruguay |publisher=The Football Association |date=16 June 2013 |accessdate=17 June 2013 }}&lt;/ref&gt; On 23 June, he scored in the opening group-stage game against [[Iraq national under-20 football team|Iraq]].&lt;ref&gt;{{cite web|url=http://www.thefa.com/england/mens-u20s/News/2013/iraq-updates-230613|title=England v Iraq|publisher=The Football Association|date=23 June 2013|accessdate=24 June 2013}}&lt;/ref&gt;
+Coady has represented England at Under-16 right through to Under-20 level.&lt;ref name="FA"&gt;{{cite web |title=The FA profile |url=http://www.thefa.com/England/All-Teams/Players/C/Conor-Coady |publisher=The FA |accessdate=23 March 2015}}&lt;/ref&gt; He has been capped 17 times for the [[England national under-17 football team]].&lt;ref name="FA"/&gt; He played and captained&lt;ref&gt;{{cite web |title=England U-17s beat Spain to win European Championship |url=http://news.bbc.co.uk/sport2/hi/football/8713980.stm |publisher=BBC |accessdate=23 March 2015}}&lt;/ref&gt; the England team at the [[2010 UEFA European Under-17 Championship]] in Liechtenstein where he and his England colleagues won the tournament, and became the first England team to win an international tournament in 17 years.&lt;ref name="win"&gt;{{cite web |last=Rice |first=Jimmy |title=Wisdom scores in historic triumph |url=http://www.liverpoolfc.com/news/latest-news/wisdom-scores-in-historic-triumph |publisher=Liverpool F.C. |accessdate=9 November 2012 |archiveurl=https://web.archive.org/web/20150402152924/http://www.liverpoolfc.com/news/latest-news/wisdom-scores-in-historic-triumph |archivedate=2 April 2015 |deadurl=yes}}&lt;/ref&gt; He was then part of the [[2012 UEFA European Under-19 Championship]] in Estonia&lt;ref&gt;{{cite web |last=Rice |first=Jimmy |title=LFC duo named in U19s Euro squad |url=http://www.liverpoolfc.com/news/latest-news/lfc-duo-named-in-u19s-euro-squad |publisher=Liverpool F.C. |accessdate=9 November 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120904141407/http://www.liverpoolfc.com/news/latest-news/lfc-duo-named-in-u19s-euro-squad |archivedate=4 September 2012}}&lt;/ref&gt; in which England got as far as the semi-finals where they were knocked out by [[Greece national under-19 football team|Greece]].&lt;ref&gt;{{cite web |last=Hunter |first=Steve |title=Final joy for Suso as England lose |url=http://www.liverpoolfc.com/news/latest-news/final-joy-for-suso-as-england-lose |publisher=Liverpool F.C. |accessdate=9 November 2012 |archiveurl=https://web.archive.org/web/20121026185722/http://www.liverpoolfc.com/news/latest-news/final-joy-for-suso-as-england-lose |archivedate=26 October 2012 |deadurl=yes}}&lt;/ref&gt; He was named captain of the [[England national under-20 football team|England under-20 team]] by manager [[Peter Taylor (footballer born 1953)|Peter Taylor]] for the [[2013 FIFA U-20 World Cup]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/england/mens-u20s/News/2013/conor-coady-to-captain-young-lions-fifa-world-cup |title=Captain Coady |publisher=The Football Association |date=11 June 2013 |accessdate=17 June 2013}}&lt;/ref&gt; He made his debut for the team on 16 June, in a 3–0 win in a warm-up game against [[Uruguay national under-20 football team|Uruguay]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/england/mens-u20s/News/2013/uruguay-report-160613 |archiveurl=https://archive.is/20130624222816/http://www.thefa.com/england/mens-u20s/News/2013/uruguay-report-160613 |deadurl=yes |archivedate=24 June 2013 |title=England U20s continue World Cup preparations with a 3–0 win over Uruguay |publisher=The Football Association |date=16 June 2013 |accessdate=17 June 2013}}&lt;/ref&gt; On 23 June, he scored in the opening group-stage game against [[Iraq national under-20 football team|Iraq]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/england/mens-u20s/News/2013/iraq-updates-230613 |title=England v Iraq |publisher=The Football Association |date=23 June 2013 |accessdate=24 June 2013}}&lt;/ref&gt;
 
 ==Career statistics==
 ===Club===
-{{updated|2 March 2019}}&lt;ref name="stats"&gt;{{cite web|url=http://www.soccerbase.com/players/player.sd?player_id=58424|title=Conor Coady|publisher=Soccerbase|accessdate=6 January 2018}}&lt;/ref&gt;
+{{updated|16 March 2019}}&lt;ref name="stats"&gt;{{cite web |url=http://www.soccerbase.com/players/player.sd?player_id=58424 |title=Conor Coady |publisher=Soccerbase |accessdate=6 January 2018}}&lt;/ref&gt;
+
 {| class="wikitable" style="text-align:center"
 |-
 !rowspan="2" |Club
 !rowspan="2" |Season
 !colspan="3" |League
-!colspan="2" |FA Cup
-!colspan="2" |League Cup
+!colspan="2" |[[FA Cup]]
+!colspan="2" |[[EFL Cup|League Cup]]
 !colspan="2" |Other
 !colspan="2" |Total
 |-
@@ -1528,9 +1566,6 @@ Coady has represented England at Under-16 right through to Under-20 level.&lt;re
 |[[EFL Championship|Championship]]
 |45||3||1||0||2||0||0||0||48||3
 |-
-!colspan="3"|Total
-!85!!8!!9!!1!!3!!0!!3!!0!!100!!9
-|-
 |rowspan="5"|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
 |[[2015–16 Wolverhampton Wanderers F.C. season|2015–16]]
 |Championship
@@ -1546,13 +1581,13 @@ Coady has represented England at Under-16 right through to Under-20 level.&lt;re
 |-
 |[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]
 |Premier League
-|29||0||4||0||2||0||0||0||35||0
+|30||0||5||0||2||0||0||0||37||0
 |-
-!colspan="2"|Wolves total
-!151!!1!!8!!0!!8!!1!!0!!0!!167!!2
+!colspan="2"|Total
+!152!!1!!9!!0!!8!!1!!0!!0!!169!!2
 |-
 ! colspan="3" |Career total
-!236!!9!!17!!1!!11!!1!!3!!0!!267!!11
+!237!!9!!18!!1!!11!!1!!3!!0!!269!!11
 |}
 
 ==Honours==
@@ -1591,230 +1626,199 @@ Coady has represented England at Under-16 right through to Under-20 level.&lt;re
 [[Category:Wolverhampton Wanderers F.C. players]]
 [[Category:Premier League players]]
 [[Category:English Football League players]]</text>
-      <sha1>krco53ukcw40m7fsf9y9vyr0hbpf18r</sha1>
+      <sha1>qbkkbbjs76sukjeadog7ryerbtj6ls1</sha1>
     </revision>
   </page>
   <page>
-    <title>Jota</title>
+    <title>Diogo Jota</title>
     <ns>0</ns>
-    <id>2348868</id>
+    <id>45553677</id>
     <revision>
-      <id>885099881</id>
-      <parentid>875511921</parentid>
-      <timestamp>2019-02-25T23:34:02Z</timestamp>
+      <id>888601925</id>
+      <parentid>888507451</parentid>
+      <timestamp>2019-03-20T05:32:13Z</timestamp>
       <contributor>
-        <username>SLBedit</username>
-        <id>22307024</id>
+        <ip>89.180.58.157</ip>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="787">{{wiktionary|Jota|jota}}
-'''Jota''' may refer to:
+      <text xml:space="preserve" bytes="19096">{{About||the Spanish footballer|Jota (footballer)|the other Portuguese footballer also known as Jota|João Filipe (Portuguese footballer)}}
+{{Portuguese name|Teixeira|Silva}}
+{{Infobox football biography
+|name = Diogo Jota
+|image = 
+|image_size = 
+|caption = 
+|fullname = Diogo José Teixeira da Silva&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/844127|title=2018/19 Premier League squads confirmed|publisher=Premier League|date=3 September 2018|accessdate=4 September 2018}}&lt;/ref&gt;
+|birth_date = {{birth date and age|1996|12|4|df=y}}
+|birth_place = [[Porto]], Portugal
+|height = 1.78 m
+|position = [[Forward (association football)|Forward]]
+|currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|clubnumber = 18
+|youthyears1 = 2005–2013 | youthclubs1 = [[Gondomar S.C.|Gondomar]]
+|youthyears2 = 2013–2015 | youthclubs2 = [[F.C. Paços de Ferreira|Paços Ferreira]]
+|years1 = 2014–2016 | clubs1 = [[F.C. Paços de Ferreira|Paços Ferreira]] | caps1 = 41 | goals1 = 14
+|years2 = 2016–2018 | clubs2 = [[Atlético Madrid]] | caps2 = 0 | goals2 = 0
+|years3 = 2016–2017 | clubs3 = → [[FC Porto|Porto]] (loan) | caps3 = 27 | goals3 = 8
+|years4 = 2017–2018 | clubs4 = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan) | caps4 = 44 | goals4 = 17
+|years5 = 2018– | clubs5 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] | caps5 = 25 | goals5 = 6
+|nationalyears1 = 2014–2015 | nationalteam1 = [[Portugal national under-19 football team|Portugal U19]] | nationalcaps1 = 9 | nationalgoals1 = 5
+|nationalyears2 = 2015–2018 | nationalteam2 = [[Portugal national under-21 football team|Portugal U21]] | nationalcaps2 = 20 | nationalgoals2 = 8
+|nationalyears3 = 2016 | nationalteam3 = [[Portugal Olympic football team|Portugal U23]] | nationalcaps3 = 1 | nationalgoals3 = 1
+|club-update = 16:41, 19 March 2019 (UTC)
+|nationalteam-update = 20 November 2018
+}}
+'''Diogo José Teixeira da Silva''' (born 4 December 1996), known as '''Diogo Jota''', is a Portuguese professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Premier League]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].
 
-* ''Jota'', the name of the letter j in the [[Spanish alphabet]]
-* ''Jota'', the name of the letter j in the [[Portuguese alphabet]]
-* [[Jota (music)]], a type of Spanish music and dance
-* [[Jota (footballer)]], born 1991, Spanish footballer
-* [[Jota (singer)]], born Lee Jonghwa, member of K-pop band MADTOWN
-* [[Jota (food)]], an Istrian bean-sauerkraut stew
-* [[Laverda Jota]], an Italian motorcycle
-* [[Jamboree on the Air]] (JOTA), an international amateur radio event in the Boy Scouts
-* [[Lamborghini Diablo SE30 Jota]], a circuit racing version of the Lamborghini Diablo 30th anniversary edition
-* [[Lamborghini Miura P400 Jota]], a model of the Lamborghini Miura
-* [[Mazda Jota MX-5 GT]], a model of the Mazda MX-5
-{{disambig}}</text>
-      <sha1>p8ul993kkg7thldtq1hbcxqo3cnkqi2</sha1>
+He started playing with [[F.C. Paços de Ferreira|Paços de Ferreira]], signing with [[Atlético Madrid]] after two seasons in the [[Primeira Liga]] and being consecutively loaned to [[FC Porto|Porto]] and Wolverhampton Wanderers. In 2018, he moved to the latter club on a permanent deal.
+
+Jota played for [[Portugal national football team|Portugal]] at [[Portugal national under-19 football team|under-19]], [[Portugal national under-21 football team|under-21]] and [[Portugal Olympic football team|under-23 levels]].&lt;ref&gt;{{cite web|url=http://www.maisfutebol.iol.pt/liga/fc-porto/portugal-sub-20-andre-horta-e-diogo-jota-convocados-para-estagio|title=Portugal (sub-20): André Horta e Diogo Jota convocados para estágio|trans-title=Portugal (under-20): André Horta and Diogo Jota called for training camp|publisher=Mais Futebol|language=pt|date=22 January 2016|accessdate=7 June 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.record.pt/futebol/selecoes/selecao-olimpica/detalhe/portugal-mexico-em-direto.html|title=Portugal-México, 4–0|trans-title=Portugal-Mexico, 4–0|newspaper=[[Record (newspaper)|Record]]|language=pt|date=28 March 2016|accessdate=7 June 2018|dead-url=yes|archive-url=https://web.archive.org/web/20180612142517/http://www.record.pt/futebol/selecoes/selecao-olimpica/detalhe/portugal-mexico-em-direto.html|archive-date=12 June 2018|df=}}&lt;/ref&gt;
+
+==Club career==
+===Paços Ferreira===
+Born in [[Massarelos]], [[Porto]], Jota joined [[F.C. Paços de Ferreira]]'s youth setup in 2013, from [[Gondomar S.C.|Gondomar SC]]. He was promoted to the main squad at the start of the [[2014–15 Primeira Liga|2014–15 season]], and made his senior debut on 19 October 2014 by starting in a [[2014–15 Taça de Portugal|4–0 home win]] against [[Atlético S.C.]] for the [[Taça de Portugal]].&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/futebol/nacional/1a-liga/pacos-ferreira/detalhe/jota-tera-mais-oportunidades-924946.html|title=Jota terá mais oportunidades|trans-title=Jota will have more opportunities|newspaper=Record|language=pt|date=13 January 2015|accessdate=31 October 2015|dead-url=yes|archive-url=https://archive.today/20160316090427/http://www.record.xl.pt/futebol/nacional/1a-liga/pacos-ferreira/detalhe/jota-tera-mais-oportunidades-924946.html|archive-date=16 March 2016}}&lt;/ref&gt;
+
+Jota first appeared in the [[Primeira Liga]] on 20 February 2015, coming on as a late [[Substitute (association football)|substitute]] for [[Diogo Rosado]] in a 2–2 home draw against [[Vitória S.C.|Vitória de Guimarães]].&lt;ref&gt;{{cite web|url=http://www.fcpf.pt/PagFutebol-noticias-pacos-e-vitoria-empatam-2-2-em-relvado-encharcado|title=Paços e Vitória empatam (2–2) em relvado encharcado|trans-title=Paços and Vitória draw (2–2) in waterlogged pitch|publisher=F.C. Paços Ferreira|language=pt|date=20 February 2015|accessdate=31 October 2015}}&lt;/ref&gt; He scored his first goals in the competition on 17 May, netting a brace in a 3–2 home success over [[Associação Académica de Coimbra – O.A.F.|Académica de Coimbra]]&lt;ref&gt;{{cite web|url=http://www.fcpf.pt/noticias-pacos-vence-academica-e-deixa-sonho-a-um-ponto|title=Paços vence Académica e deixa sonho a um ponto|trans-title=Paços defeat Académica and keep dream a point away|publisher=F.C. Paços Ferreira|language=pt|date=17 May 2015|accessdate=31 October 2015}}&lt;/ref&gt; and becoming the youngest player to score for the club in the top tier in the process.&lt;ref&gt;{{cite web|url=http://www.fcpf.pt/noticias-diogo-jota-e-o-mais-jovem-a-marcar-pelo-pacos-na-i-liga|title=Diogo Jota é o mais jovem a marcar pelo Paços na I Liga|trans-title=Diogo Jota is the youngest to score for Paços in I League|publisher=F.C. Paços Ferreira|language=pt|date=19 May 2015|accessdate=31 October 2015}}&lt;/ref&gt;
+
+On 30 May 2015, Jota signed a new five-year deal with Paços, keeping him tied up until 2020.&lt;ref&gt;{{cite news|url=http://www.record.xl.pt/futebol/nacional/1a-liga/pacos-ferreira/detalhe/jota-seguro-ate-2020-951755.html|title=Jota seguro até 2020|trans-title=Jota secured until 2020|newspaper=Record|language=pt|date=30 May 2015|accessdate=31 October 2015|dead-url=yes|archive-url=https://archive.today/20160316090357/http://www.record.xl.pt/futebol/nacional/1a-liga/pacos-ferreira/detalhe/jota-seguro-ate-2020-951755.html|archive-date=16 March 2016}}&lt;/ref&gt; In the first game of [[2015–16 Primeira Liga|the campaign]], a 1–0 win over Académica at the ''[[Estádio da Mata Real]]'' on 17 August, he was [[Ejection (sports)|sent off]] at the end for pushing [[Hugo Seco]]; [[Ricardo Nascimento (Brazilian footballer)|Ricardo Nascimento]] was also sent off for retaliating on his teammate's behalf.&lt;ref&gt;{{cite web|url=https://desporto.sapo.pt/futebol/primeira_liga/epoca-1516/jogos/191532?id=hFwzCYiuwL9cc5gzPmOo|title=P. Ferreira 1–0 Académica|publisher=[[SAPO (company)|SAPO]]|language=pt|date=17 August 2015|accessdate=12 April 2016}}&lt;/ref&gt;
+
+===Atlético Madrid===
+On 14 March 2016, Jota agreed a five-year contract with [[Atlético Madrid]] effective as of 1 July.&lt;ref&gt;{{cite news|url=http://www.marca.com/futbol/atletico/2016/03/14/56e70d3546163fd3718b45c3.html|title=El Atlético ficha a Diogo Jota|trans-title=Atlético sign Diogo Jota|newspaper=[[Marca (newspaper)|Marca]]|language=es|date=14 March 2016|accessdate=15 March 2016}}&lt;/ref&gt; On 26 August, however, he returned to his country and joined [[FC Porto]] on a one-year loan.&lt;ref&gt;{{cite web|url=http://www.fcporto.pt/pt/noticias/Pages/diogo-jota-no-dragao-para-reforcar-ataque.aspx|title=Diogo Jota no Dragão para reforçar o ataque|trans-title=Diogo Jota to the Dragão to bolster the attack|publisher=FC Porto|language=pt|date=26 August 2016|access-date=26 August 2016}}&lt;/ref&gt; On 1 October he scored a first-half [[hat-trick (association football)|hat-trick]] in a 4–0 away victory against [[C.D. Nacional]].&lt;ref&gt;{{cite web|url=http://www.sabado.pt/desporto/futebol/detalhe/fc_porto_goleia_nacional_com_hat_trick_de_diogo_jota.html|title=FC Porto goleia Nacional com 'hat-trick' de Diogo Jota|trans-title=FC Porto rout Nacional with Diogo Jota 'hat-trick'|magazine=[[Sábado (magazine)|Sábado]]|language=pt|date=1 October 2016|accessdate=2 October 2016}}&lt;/ref&gt;
+
+===Wolverhampton Wanderers===
+On 25 July 2017, Jota moved to [[EFL Championship|English Championship]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a [[2017–18 EFL Championship|season]]-long loan.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/40715875|title=Diogo Jota: Atletico Madrid midfielder joins Wolves on season-long loan|publisher=[[BBC Sport]]|date=25 July 2017|accessdate=25 July 2017}}&lt;/ref&gt; He scored his first goal on 15 August, in a 3–2 away win over [[Hull City A.F.C.|Hull City]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/40858331|title=Hull City 2–3 Wolverhampton Wanderers|publisher=BBC Sport|date=15 August 2017|accessdate=16 August 2017}}&lt;/ref&gt;
+
+On 30 January 2018, it was announced that a permanent deal with Jota had been agreed, being made effective on 1 July.&lt;ref name=ToWolves&gt;{{cite web|url=https://www.wolves.co.uk/news/first-team/20180130-permanent-deal-for-jota-agreed/|title=Permanent deal for Jota agreed|publisher=Wolverhampton Wanderers F.C|date=30 January 2018|accessdate=7 June 2018}}&lt;/ref&gt; He scored a career-best 17 goals in his first year, ranking fifth in the individual charts in a [[Premier League]] promotion as champions;&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/693584|title=FPL promotion prospects: The Wolves worth hunting|publisher=[[Premier League]]|date=27 May 2018|accessdate=7 June 2018}}&lt;/ref&gt; due to [[English Football League]] regulations, he wore his legal surname on his [[Kit (association football)|jersey]] in the Championship but was able to change it to "Diogo J" after the feat.&lt;ref&gt;{{cite news|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2018/08/10/rui-patricio-honours-carl-ikeme-as-wolves-reveal-new-kit-numbers/|title=Rui Patricio honours Carl Ikeme as Wolves reveal new kit numbers|newspaper=[[Express &amp; Star]]|last=Hatfield|first=Luke|date=10 August 2018|accessdate=29 August 2018}}&lt;/ref&gt;
+
+Jota made his debut in the [[English football league system|English top division]] on 11 August 2018, playing the full 90 minutes in a 2–2 home draw against [[Everton F.C.|Everton]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45067374|title=Wolverhampton Wanderers 2–2 Everton|publisher=BBC Sport|last=Hafez|first=Shamoon|date=11 August 2018|accessdate=14 August 2018}}&lt;/ref&gt; He scored his first goal in the competition on 5 December, helping the hosts come from behind to beat [[Chelsea F.C.|Chelsea]] 2–1.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/46367295|title=Wolverhampton Wanderers 2–1 Chelsea|publisher=BBC Sport|last=Emons|first=Michael|date=5 December 2018|accessdate=5 December 2018}}&lt;/ref&gt; His second came four days later, in a win at [[Newcastle United F.C.|Newcastle United]] by the same scoreline.&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/46416287|title=Newcastle 1–2 Wolves: Visitors score 95th-minute winner against 10 men|publisher=BBC Sport|last=Sanders|first=Emma|date=9 December 2018|accessdate=10 December 2018}}&lt;/ref&gt;
+
+On 19 January 2019, Jota netted three times in the 4–3 home defeat of [[Leicester City F.C.|Leicester City]] – his second career hat-trick.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/46847686|title=Wolverhampton Wanderers 4–3 Leicester City|publisher=BBC Sport|last=Reddy|first=Luke|date=19 January 2019|accessdate=19 January 2019}}&lt;/ref&gt; In the process, he became only the second Portuguese player to achieve the feat in the Premier League after [[Cristiano Ronaldo]] 11 years earlier.&lt;ref&gt;{{cite web|url=https://maisfutebol.iol.pt/made-in/internacional/diogo-jota-e-o-2-portugues-a-fazer-um-hat-trick-na-premier-league|title=Diogo Jota é o 2.º português a fazer um hat-trick na Premier League|trans-title=Diogo Jota is the 2nd Portuguese to score hat-trick in the Premier League|publisher=Mais Futebol|language=pt|date=19 January 2019|accessdate=19 January 2019}}&lt;/ref&gt; This was a first-ever for the club in the competition and a first for the club in the [[English football league system|top flight of English football]] since [[John Richards (footballer)|John Richards]], against the same opposition, in the [[Football League First Division]] in [[1977–78 in English football|October 1977]].&lt;ref&gt;{{cite web|url=http://sport.bt.com/news/jota-basks-in-the-joy-of-wolves-first-top-flight-treble-for-42-years-S11364328553266|title=Jota basks in the joy of Wolves’ first top-flight treble for 42 years|publisher=[[BT Sport]]|date=20 January 2019|accessdate=20 January 2019}}&lt;/ref&gt;
+
+==International career==
+Jota started playing for [[Portugal national football team|Portugal]] at [[Portugal national under-19 football team|under-19 level]],&lt;ref&gt;{{cite news|url=https://www.ojogo.pt/internacional/selecao/noticias/interior/sub-19-yuri-ribeiro-rui-silva-e-jota-chamados-4139049.html|title=Sub-19: Yuri Ribeiro, Rui Silva e Jota chamados|trans-title=Under-19: Yuri Ribeiro, Rui Silva and Jota called|newspaper=[[O Jogo]]|language=pt|date=22 September 2014|accessdate=7 June 2018}}&lt;/ref&gt; scoring his first goal on 29 May 2015 in a 6–1 home routing of [[Turkey national under-19 football team|Turkey]] for the [[2015 UEFA European Under-19 Championship|UEFA European Championship]] [[2015 UEFA European Under-19 Championship qualification|qualifying phase]].&lt;ref&gt;{{cite web|url=http://www.maisfutebol.iol.pt/selecao/turquia/sub-19-portugal-comeca-qualificacao-com-goleada|title=Sub-19: Portugal começa qualificação com goleada|trans-title=Under-19: Portugal start qualification with routing|publisher=Mais Futebol|language=pt|date=29 May 2015|accessdate=7 June 2018}}&lt;/ref&gt; He won his first [[Cap (sport)|cap]] for [[Portugal national under-21 football team|the under-21 team]] on 17 November of the same year at not yet 19, playing 15 minutes in the 3–0 away defeat of [[Portugal national under-21 football team|Israel]] in [[2017 UEFA European Under-21 Championship qualification|another qualifier]].&lt;ref&gt;{{cite web|url=http://www.maisfutebol.iol.pt/selecao/rui-jorge/sub-21-israel-portugal-0-3-cronica|title=Sub-21: Israel-Portugal, 0–3 (crónica)|trans-title=Under-21: Israel-Portugal, 0–3 (match report)|publisher=Mais Futebol|language=pt|date=17 November 2015|accessdate=7 June 2018}}&lt;/ref&gt;
+
+On 25 May 2018, Jota netted a brace for the under-21s in their 3–2 [[Exhibition game|friendly]] win over [[Italy national under-21 football team|Italy]] held in [[Estoril]].&lt;ref&gt;{{cite news|url=https://www.dn.pt/lusa/interior/selecao-portuguesa-de-sub-21-vence-italia-por-3-2-em-jogo-de-preparacao-9379316.html|title=Seleção portuguesa de sub-21 vence Itália por 3–2 em jogo de preparação|trans-title=Under-21 Portuguese national team beat Italy 3–2 in friendly match|newspaper=[[Diário de Notícias]]|language=pt|date=25 May 2018|accessdate=7 June 2018}}&lt;/ref&gt;
+
+In March 2019, Jota was called up to the senior side for the first time, ahead of the opening [[UEFA Euro 2020 qualifying]] matches.&lt;ref&gt;{{cite web|title=Jota earns senior Portugal call-up|url=https://www.wolves.co.uk/news/club/20190318-jota-earns-senior-portugal-call-up/|date=19 March 2019|publisher=Wolverhampton Wanderers F.C.}}&lt;/ref&gt;
+
+==Career statistics==
+{{updated|match played 16 March 2019}}&lt;ref&gt;{{cite web|url=https://uk.soccerway.com/players/diogo-jose-teixeira-da-silva/374031/|title=Diogo Jota|website=Soccerway|publisher=Perform Group|accessdate=11 June 2018}}&lt;/ref&gt;
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National Cup{{efn|Includes [[Taça de Portugal]], [[FA Cup]]}}
+!colspan=2|League Cup{{efn|Includes [[Taça da Liga]], [[EFL Cup]]}}
+!colspan=2|Europe
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[F.C. Paços de Ferreira|Paços Ferreira]]
+|[[2014–15 F.C. Paços de Ferreira season|2014–15]]
+|[[Primeira Liga]]
+|10||2||1||1||0||0||colspan=2|—||11||3
+|-
+|[[2015–16 F.C. Paços de Ferreira season|2015–16]]
+|Primeira Liga
+|31||12||1|||0||2||0||colspan=2|—||34||12
+|-
+!colspan=2|Total
+!41||14||2||1||2||0||0||0||45||15
+|-
+|[[Atlético Madrid]]
+|[[2016–17 Atlético Madrid season|2016–17]]
+|[[La Liga]]
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[FC Porto|Porto]] (loan)
+|[[2016–17 FC Porto season|2016–17]]
+|Primeira Liga
+|27||8||1||0||1||0||8{{efn|Appearances in [[UEFA Champions League]]}}||1||37||9
+|-
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
+|[[2017–18 Wolverhampton Wanderers F.C. season|2017–18]]
+|[[EFL Championship|Championship]]
+|44||17||1||1||1||0||colspan=2|—||46||18
+|-
+|rowspan="2"|Wolverhampton Wanderers
+|[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]
+|[[Premier League]]
+|25||6||2||1||1||0||colspan=2|—||28||7
+|-
+!colspan="2"|Total
+!69!!23!!3!!2!!2!!0!!colspan=2|—!!74!!25
+|-
+!colspan=3|Career total
+!137||45||6||3||5||0||8||1||156||49
+|}
+
+{{notelist}}
+
+==Honours==
+'''Wolverhampton Wanderers'''
+*[[EFL Championship]]: [[2017–18 EFL Championship|2017–18]]&lt;ref&gt;{{cite book|editor-first=John|editor-last=Anderson|title=Football Yearbook 2018–2019|year=2018|publisher=Headline Publishing Group|location=London|isbn=978-1-4722-6106-9|pages=386–387}}&lt;/ref&gt;
+
+==References==
+'''International appearances'''
+* {{cite web|url=https://www.fpf.pt/pt/Jogadores/Jogador/playerId/794648|title=Jogador: Diogo Jota|trans-title=Player: Diogo Jota|publisher=[[Portuguese Football Federation]]|language=pt|accessdate=11 June 2018}}
+
+'''General'''
+{{reflist}}
+
+==External links==
+*{{ForaDeJogo}}
+*[http://www.ligaportugal.pt/oou/clube/20142015/primeiraliga/153/jogador/70131 Portuguese League profile] {{pt icon}}
+*{{Soccerbase}}
+
+{{Wolverhampton Wanderers F.C. squad}}
+
+{{DEFAULTSORT:Jota, Diogo}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Porto]]
+[[Category:Portuguese footballers]]
+[[Category:Association football midfielders]]
+[[Category:Primeira Liga players]]
+[[Category:F.C. Paços de Ferreira players]]
+[[Category:FC Porto players]]
+[[Category:Atlético Madrid footballers]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Portugal youth international footballers]]
+[[Category:Portugal under-21 international footballers]]
+[[Category:Portuguese expatriate footballers]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Expatriate footballers in England]]
+[[Category:Portuguese expatriate sportspeople in Spain]]
+[[Category:Portuguese expatriate sportspeople in England]]</text>
+      <sha1>hmu4cjn5xv2rc6knkffb92qofvt1uf3</sha1>
     </revision>
   </page>
   <page>
     <title>Jonathan Castro Otto</title>
     <ns>0</ns>
-    <id>37389463</id>
+    <id>60284605</id>
+    <redirect title="Jonny (footballer)" />
     <revision>
-      <id>885263062</id>
-      <parentid>884788296</parentid>
-      <timestamp>2019-02-26T23:46:09Z</timestamp>
+      <id>888685543</id>
+      <timestamp>2019-03-20T18:44:25Z</timestamp>
       <contributor>
-        <ip>82.23.42.196</ip>
+        <username>Ken Gallager</username>
+        <id>1175300</id>
       </contributor>
-      <comment>/* Club */</comment>
+      <comment>Ken Gallager moved page [[Jonathan Castro Otto]] to [[Jonny (footballer)]]: player name</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="13677">{{Spanish name|Castro|Otto}}
-{{Infobox football biography
-| name = Jonny
-| image = Jonathan Castro Otto WMES 01 (cropped).jpg
-| caption = Jonny playing for [[RC Celta de Vigo|Celta]] in 2017
-| fullname = Jonathan Castro Otto&lt;ref&gt;{{cite web|url=https://www.premierleague.com/news/844127|title=2018/19 Premier League squads confirmed|publisher=Premier League|date=3 September 2018|accessdate=4 September 2018}}&lt;/ref&gt;
-| birth_date = {{birth date and age|1994|3|3|df=y}}
-| birth_place = [[Vigo]], Spain
-| height = 1.75 m
-| position = [[Defender (association football)#Full-back|Full back]]
-| currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
-| clubnumber = 19
-| youthyears1 = | youthclubs1 = [[RC Celta de Vigo|Celta]]
-| years1 = 2011–2012 | clubs1 = [[Celta de Vigo B|Celta B]] | caps1 = 23 | goals1 = 0
-| years2 = 2012–2018 | clubs2 = [[RC Celta de Vigo|Celta]] | caps2 = 183 | goals2 = 3
-| years3 = 2018–2019 | clubs3 = [[Atlético Madrid]] | caps3 = 0 | goals3 = 0
-| years4 = 2018–2019 | clubs4 = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan) | caps4 = 20 | goals4 = 1
-| years5 = 2019– | clubs5 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] | caps5 = 2 | goals5 = 0
-| nationalyears1 = 2012 | nationalteam1 = [[Spain national under-18 football team|Spain U18]] | nationalcaps1 = 2 | nationalgoals1 = 0
-| nationalyears2 = 2012 | nationalteam2 = [[Spain national under-19 football team|Spain U19]] | nationalcaps2 = 10 | nationalgoals2 = 0
-| nationalyears3 = 2013 | nationalteam3 = [[Spain national under-20 football team|Spain U20]] | nationalcaps3 = 4 | nationalgoals3 = 0
-| nationalyears4 = 2014–2017 | nationalteam4 = [[Spain national under-21 football team|Spain U21]] | nationalcaps4 = 18 | nationalgoals4 = 0
-| nationalyears5 = 2018– | nationalteam5 = [[Spain national football team|Spain]] | nationalcaps5 = 3 | nationalgoals5 = 0
-| club-update = 12 February 2019
-| nationalteam-update = 18 November 2018
-}}
-'''Jonathan Castro Otto''' (born 3 March 1994), commonly known as '''Jonny''', is a Spanish professional [[Association football|footballer]] who plays for [[Premier League]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] as a [[Defender (association football)#Full-back|right or left back]].
+      <text xml:space="preserve" bytes="49">#REDIRECT [[Jonny (footballer)]]
 
-He began his career with [[RC Celta de Vigo|Celta]], making his debut with the first team at the age of 18 and going on to appear in 221 matches across all competitions. In 2018 he signed with [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]], initially on loan.
-
-Jonny made his senior debut for [[Spain national football team|Spain]] in 2018.
-
-==Club career==
-===Celta===
-Born in [[Vigo]], [[Galicia, Spain|Galicia]], Jonny played youth football with his hometown club [[RC Celta de Vigo]]. He spent [[2011–12 Segunda División B|his first season]] as a senior with [[Celta de Vigo B|the reserves]] in [[Segunda División B]], appearing regularly but suffering team relegation.
-
-Jonny made his [[La Liga]] debut for the main squad on 1 September 2012, starting in a 2–0 home win against [[CA Osasuna]].&lt;ref&gt;{{cite web|url=http://espnfc.com/uk/en/report/348483/report.html?soccernet=true&amp;cc=5739|title=First win for Celta|publisher=[[ESPN FC]]|date=1 September 2012|accessdate=9 November 2012}}&lt;/ref&gt; On 5 November, he renewed his contract with the club until 2017.&lt;ref&gt;{{cite news|url=http://futbol.as.com/futbol/2012/11/05/primera/1352146633_909388.html|title=Borja Oubiña renueva y Túñez y Jonny amplían su contrato|trans-title=Borja Oubiña renews and Túñez and Jonny extend their contracts|newspaper=[[Diario AS]]|language=Spanish|date=5 November 2012|accessdate=24 March 2015}}&lt;/ref&gt;
-
-Jonny was definitely promoted to the first team at the start of [[2013–14 La Liga|2013–14]] after the arrival of [[Luis Enrique (footballer)|Luis Enrique]] as coach, and appeared in 26 matches during that campaign. On 19 January 2015, he further extended his link until 2019.&lt;ref&gt;{{cite web|url=http://www.celtavigo.net/es/primer-equipo/noticias/8701-el-canterano-jonny-castro-celeste-hasta-2019|title=El canterano Jonny Castro, celeste hasta 2019|trans-title=Youth player Jonny Castro, sky blue until 2019|publisher=Celta Vigo|language=Spanish|date=19 January 2015|accessdate=24 March 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150403010244/http://www.celtavigo.net/es/primer-equipo/noticias/8701-el-canterano-jonny-castro-celeste-hasta-2019|archivedate=3 April 2015|df=}}&lt;/ref&gt;
-
-Jonny scored his first professional goal on 20 February 2016, netting the second in a 3–2 home success over [[SD Eibar]].&lt;ref&gt;{{cite web|url=http://www.eitb.eus/es/deportes/futbol/eibar/detalle/3853454/liga-bbva--celtaeibar-32-derrota-armera-balaidos/|title=El Eibar pierde el duelo por Europa ante el Celta|trans-title=Eibar lose duel for Europe against Celta|publisher=[[EITB]]|language=Spanish|date=20 February 2016|accessdate=31 May 2016}}&lt;/ref&gt; He finished [[2015–16 La Liga|the season]] with 36 league appearances, helping the side finish sixth and [[2016–17 UEFA Europa League|qualify]] to the [[UEFA Europa League]].&lt;ref&gt;{{cite web|url=https://eldesmarque.com/vigo/celta/noticias/4351-jonny-llega-a-los-150-partidos-oficiales|title=Jonny llega a los 150 partidos oficiales|trans-title=Jonny reaches 150 official matches|publisher=El Desmarque|last=Bravo|first=Alberto|language=Spanish|date=12 December 2016|accessdate=31 January 2019}}&lt;/ref&gt;
-
-On 18 January 2017, Jonny scored the 2–1 winner away against [[Real Madrid C.F.|Real Madrid]] in [[2016–17 Copa del Rey|the quarter-finals]] of the [[Copa del Rey]] (eventual 4–3 aggregate triumph).&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/38640258|title=Real Madrid 1–2 Celta Vigo|publisher=[[BBC Sport]]|date=18 January 2017|accessdate=19 January 2017}}&lt;/ref&gt;
-
-===Wolverhampton Wanderers===
-On 25 July 2018, Jonny joined [[Atlético Madrid]] for an undisclosed fee, signing a six-year contract. He then immediately joined English club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a [[2018–19 Premier League|season]]-long loan.&lt;ref&gt;{{cite web|url=http://en.atleticodemadrid.com/noticias/agreement-with-celta-de-vigo-over-the-transfer-of-jonny|title=Agreement with Celta de Vigo over the transfer of Jonny|publisher=Atlético Madrid|date=25 July 2018|accessdate=25 July 2018}}&lt;/ref&gt; His maiden appearance in the [[Premier League]] took place on 11 August, when he played the entire 2–2 home draw against [[Everton F.C.|Everton]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45067374|title=Wolverhampton Wanderers 2–2 Everton|publisher=BBC Sport|last=Hafez|first=Shamoon|date=11 August 2018|accessdate=14 August 2018}}&lt;/ref&gt;
-
-Jonny scored his first league goal on 29 September 2018, in a 2–0 home victory over [[Southampton F.C.|Southampton]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/sport/football/45610318|title=Wolverhampton Wanderers 2–0 Southampton|publisher=BBC Sport|last=Poole|first=Harry|date=29 September 2018|accessdate=30 September 2018}}&lt;/ref&gt; On 18 November, he suffered a knee [[ligament]] injury while playing for [[Spain national football team|Spain]], being initially sidelined until the end of the year&lt;ref&gt;{{cite news|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2018/11/19/wolves-jonny-castro-otto-sidelined-for-up-to-six-weeks/|title=Wolves' Jonny Castro Otto sidelined for up to six weeks|newspaper=[[Express &amp; Star]]|last=Spiers|first=Tim|date=19 November 2018|accessdate=25 November 2018}}&lt;/ref&gt; but recovering a few weeks later.&lt;ref&gt;{{cite news|url=https://www.shropshirestar.com/sport/football/wolverhampton-wanderers-fc/2018/12/17/nuno-delighted-with-jonny-castro-ottos-swift-wolves-recovery/|title=Nuno delighted with Jonny Castro Otto's swift Wolves recovery|newspaper=[[Shropshire Star]]|last=Edwards|first=Joe|date=17 December 2018|accessdate=30 January 2019}}&lt;/ref&gt;
-
-Having been a regular first-team player during the first half of the campaign, Jonny agreed to a permanent four-and-a-half-year deal at [[Molineux Stadium|Molineux]] on 31 January 2019 for an undisclosed fee, reported to be £15 million.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/47069484|title=Jonny Castro Otto: Wolves complete £15m deal with Atletico Madrid|publisher=BBC Sport|last=Stone|first=Simon|date=31 January 2019|accessdate=31 January 2019}}&lt;/ref&gt;
-
-==International career==
-After playing for [[Spain national football team|Spain]] at [[Spain national under-18 football team|under-18]], [[Spain national under-19 football team|under-19]], [[Spain national under-20 football team|under-20]] and [[Spain national under-21 football team|under-21 levels]], Jonny was called up to the full side on 26 May 2015, for a [[Exhibition game|friendly]] with [[Costa Rica national football team|Costa Rica]] and a [[UEFA Euro 2016]] [[UEFA Euro 2016 qualifying|qualifier]] against [[Belarus national football team|Belarus]].&lt;ref&gt;{{cite web|url=http://www.celtavigo.net/es/club/noticias/9230-jonny-y-nolito-representan-al-celta-en-la-seleccion-espanola|title=Jonny y Nolito representan al Celta en la Selección Española|trans-title=Jonny and Nolito represent Celta at the Spanish national team|publisher=Celta Vigo|language=Spanish|date=26 May 2015|accessdate=7 September 2015|archive-url=https://web.archive.org/web/20150923060433/http://www.celtavigo.net/es/club/noticias/9230-jonny-y-nolito-representan-al-celta-en-la-seleccion-espanola|archive-date=23 September 2015|dead-url=yes|df=}}&lt;/ref&gt; He did not take part in any of those matches, however.
-
-Jonny won his first [[Cap (sport)|cap]] for his country on 11 October 2018, contributing to a 4–1 friendly defeat of [[Wales national football team|Wales]] at the [[Millennium Stadium]] after coming on as a 63rd-minute [[Substitute (association football)|substitute]] for [[César Azpilicueta]].&lt;ref&gt;{{cite web|url=http://www.espn.co.uk/football/report?gameId=510031|title=Paco Alcacer scores twice as dominant Spain demolish Wales in Cardiff|publisher=[[ESPN]]|date=11 October 2018|accessdate=12 October 2018}}&lt;/ref&gt;
-
-==Career statistics==
-===Club===
-{{updated|match played 26 February 2019}}&lt;ref&gt;{{soccerway|jonatan-castro-otto/218283|Jonny}}&lt;/ref&gt;
-
-{| class="wikitable" style="text-align: center;"
-|-
-!rowspan="2"|Club
-!rowspan="2"|Season
-!colspan="3"|League
-!colspan="2"|Cup
-!colspan="2"|League Cup
-!colspan="2"|Other
-!colspan="2"|Total
-|-
-!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
-|-
-|[[Celta de Vigo B|Celta B]]
-|[[2011–12 Segunda División B|2011–12]]
-|[[Segunda División B]]
-|23||0||colspan=2|—||colspan=2|—||colspan=2|—||23||0
-|-
-|rowspan=7|[[RC Celta de Vigo|Celta]]
-|[[2012–13 Celta de Vigo season|2012–13]]
-|[[La Liga]]
-|19||0||1||0||colspan=2|—||0||0||20||0
-|-
-|[[2013–14 Celta de Vigo season|2013–14]]
-|La Liga
-|26||0||2||0||colspan=2|—||0||0||28||0
-|-
-|[[2014–15 Celta de Vigo season|2014–15]]
-|La Liga
-|36||0||3||0||colspan=2|—||0||0||39||0
-|-
-|[[2015–16 Celta de Vigo season|2015–16]]
-|La Liga
-|36||1||8||1||colspan=2|—||0||0||44||2
-|-
-|[[2016–17 Celta de Vigo season|2016–17]]
-|La Liga
-|30||0||8||1||colspan=2|—||12||0||50||1
-|-
-|[[2017–18 Celta de Vigo season|2017–18]]
-|La Liga
-|36||2||4||0||colspan=2|—||0||0||40||2
-|-
-!colspan=2|Total
-!183!!3!!26!!2!!colspan=2|—||12!!0!!221!!5
-|-
-|[[Atlético Madrid]]
-|[[2018–19 Atlético Madrid season|2018–19]]
-|La Liga
-|0||0||0||0||colspan=2|—||0||0||0||0
-|-
-|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
-|[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]
-|[[Premier League]]
-|20||1||1||0||1||0||colspan=2|—||22||1
-|-
-|rowspan="2"|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] 
-|2018–19
-|Premier League
-|4||0||2||0||0||0||colspan=2|—||6||0
-|-
-!colspan="2"|Wolves total
-!24!!1!!3!!0!!1!!0!!colspan=2|—!!28!!1
-|-
-!colspan="3"|Career total
-!230!!4!!29!!2!!1!!0!!12!!0!!272!!6
-|}
-
-===International===
-{{updated|match played 18 November 2018}}&lt;ref&gt;{{cite web|url=https://eu-football.info/_player.php?id=30446|title=Jonny Castro|publisher=European Football|accessdate=31 January 2019}}&lt;/ref&gt;
-{| class="wikitable" style="text-align:center"
-! colspan=3 | [[Spain national football team|Spain]]
-|-
-!Year!!Apps!!Goals
-|-
-|2018||3||0
-|-
-!Total||3||0
-|}
-
-==Honours==
-'''Spain U19'''
-*[[UEFA European Under-19 Championship]]: [[2012 UEFA European Under-19 Championship|2012]]&lt;ref&gt;{{cite web|url=http://www.uefa.com/under19/history/season=2012/index.html|title=Spain make it six of the best in Estonia|publisher=UEFA|date=16 July 2012|accessdate=24 March 2015}}&lt;/ref&gt;
-
-==References==
-{{Reflist}}
-
-==External links==
-*{{BDFutbol|101378|Jonny}}
-*{{Futbolme profile|9542|Jonny}}
-*{{Soccerbase|67089|Jonny}}
-*{{NFT player|id=72127|name=Jonny}}
-
-{{Wolverhampton Wanderers F.C. squad}}
-
-{{DEFAULTSORT:Jonathan Castro Otto}}
-[[Category:1994 births]]
-[[Category:Living people]]
-[[Category:Sportspeople from Vigo]]
-[[Category:Spanish footballers]]
-[[Category:Galician footballers]]
-[[Category:Association football defenders]]
-[[Category:La Liga players]]
-[[Category:Segunda División B players]]
-[[Category:Celta de Vigo B players]]
-[[Category:Celta de Vigo players]]
-[[Category:Atlético Madrid footballers]]
-[[Category:Premier League players]]
-[[Category:Wolverhampton Wanderers F.C. players]]
-[[Category:Spain youth international footballers]]
-[[Category:Spain under-21 international footballers]]
-[[Category:Spain international footballers]]
-[[Category:Spanish expatriate footballers]]
-[[Category:Expatriate footballers in England]]
-[[Category:Spanish expatriate sportspeople in England]]</text>
-      <sha1>5n5u2xrgv1r96ovvos6ljd4rkbslxdd</sha1>
+{{R from move}}</text>
+      <sha1>klu63p1qcljmx6m0sihrm87vagg5qwj</sha1>
     </revision>
   </page>
   <page>
@@ -1822,17 +1826,17 @@ Jonny won his first [[Cap (sport)|cap]] for his country on 11 October 2018, cont
     <ns>0</ns>
     <id>2180865</id>
     <revision>
-      <id>885881874</id>
-      <parentid>885851898</parentid>
-      <timestamp>2019-03-02T23:17:35Z</timestamp>
+      <id>888093824</id>
+      <parentid>885881874</parentid>
+      <timestamp>2019-03-16T21:29:12Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>Samuel J Walker</username>
+        <id>19099414</id>
       </contributor>
-      <comment>completed stats update, ce, rm unsourced</comment>
+      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="35789">{{For|the Scottish goalkeeper|Jack Ruddy}}
+      <text xml:space="preserve" bytes="35790">{{For|the Scottish goalkeeper|Jack Ruddy}}
 {{Use British English|date=April 2016}}
 {{Use dmy dates|date=February 2018}}
 {{Infobox football biography
@@ -1920,7 +1924,7 @@ Ruddy married his wife Laura on 2 June 2012. Prior to the Euro 2012 tournament, 
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -2051,13 +2055,13 @@ Ruddy married his wife Laura on 2 June 2012. Prior to the Euro 2012 tournament, 
 |-
 |[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|38215|2018|accessdate=2 March 2019}}&lt;/ref&gt;
 |Premier League
-|1||0||4||0||2||0||colspan=2|—||7||0
+|1||0||5||0||2||0||colspan=2|—||8||0
 |-
 !colspan=2|Total
-!46||0||4||0||2||0||colspan=2|—||52||0
+!46||0||5||0||2||0||colspan=2|—||53||0
 |-
 !colspan=3|Career total
-!415||0||8||0||8||0||9||0||440||0
+!415||0||9||0||8||0||9||0||441||0
 |}
 
 {{notelist}}
@@ -2123,7 +2127,7 @@ Ruddy married his wife Laura on 2 June 2012. Prior to the Euro 2012 tournament, 
 [[Category:English Football League players]]
 [[Category:Premier League players]]
 [[Category:Scottish Premier League players]]</text>
-      <sha1>jngs6wnvtc1vzfqkkmljpph1arus1ol</sha1>
+      <sha1>1p0e9yp96nbxqoumugqmtmvzrafs3vt</sha1>
     </revision>
   </page>
   <page>
@@ -2226,17 +2230,16 @@ He made his Wolves debut on his 19th birthday in an FA Cup fourth round tie at [
     <ns>0</ns>
     <id>58308351</id>
     <revision>
-      <id>885580340</id>
-      <parentid>880672593</parentid>
-      <timestamp>2019-02-28T22:59:36Z</timestamp>
+      <id>888697831</id>
+      <parentid>885580340</parentid>
+      <timestamp>2019-03-20T20:11:41Z</timestamp>
       <contributor>
-        <username>Dudek1337</username>
-        <id>10954699</id>
+        <username>PM758</username>
+        <id>33910039</id>
       </contributor>
-      <comment>image</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="4828">{{Use dmy dates|date=August 2018}}
+      <text xml:space="preserve" bytes="4826">{{Use dmy dates|date=August 2018}}
 {{Infobox football biography
 | name = Elliot Watt
 | image = Elliot Watt 2019.jpg
@@ -2262,13 +2265,13 @@ He made his Wolves debut on his 19th birthday in an FA Cup fourth round tie at [
 | nationalgoals1 = 0
 | nationalyears2 = 2018–
 | nationalteam2 = [[Scotland national under-19 football team|Scotland U19]]
-| nationalcaps2 = 9
+| nationalcaps2 = 11
 | nationalgoals2 = 2
 | nationalyears3 = 2018–
 | nationalteam3 = [[Scotland national under-21 football team|Scotland U21]]
 | nationalcaps3 = 3
 | nationalgoals3 = 0
-| ntupdate = 22 November 2018 (UTC)
+| ntupdate = 20 March 2019 (UTC)
 }}
 '''Elliot William Watt''' (born 11 March 2000) is a Scottish professional footballer who plays for [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] as a midfielder.&lt;ref name="Soccerway profile"&gt;{{soccerway|elliot-ward/453878}}&lt;/ref&gt;
 
@@ -2318,7 +2321,7 @@ While aged 18, Watt was selected by head coach [[Scot Gemmill]] to the [[Scotlan
 [[Category:Sportspeople from Preston, Lancashire]]
 
 {{Scotland-footy-midfielder-stub}}</text>
-      <sha1>4hmw23egm1p4i13hy2kjjftf2vhhg38</sha1>
+      <sha1>kgak8zqomz37bvv3hxakygon5ck8gy2</sha1>
     </revision>
   </page>
   <page>
@@ -2391,16 +2394,16 @@ The midfielder made his professional club debut on 28 August 2018 in a 2–0 Lea
     <ns>0</ns>
     <id>36925953</id>
     <revision>
-      <id>886060063</id>
-      <parentid>884787188</parentid>
-      <timestamp>2019-03-04T01:15:56Z</timestamp>
+      <id>888106829</id>
+      <parentid>887171825</parentid>
+      <timestamp>2019-03-16T23:21:48Z</timestamp>
       <contributor>
         <ip>82.23.42.196</ip>
       </contributor>
       <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="12444">{{Use dmy dates|date=June 2018}}
+      <text xml:space="preserve" bytes="12445">{{Use dmy dates|date=June 2018}}
 {{Infobox football biography
 | name = Romain Saïss
 | image = Romain Saïss (cropped).jpg
@@ -2463,7 +2466,7 @@ In June 2018 he was named in Morocco's 23-man [[Morocco national football team|s
 
 ==Career statistics==
 ===Club===
-{{Updated|match played 2 March 2019}}&lt;ref&gt;{{cite web|title=R. Saïss|url=https://int.soccerway.com/players/romain-saiss/212879/|website=Soccerway|accessdate=23 August 2016}}&lt;/ref&gt;
+{{Updated|match played 16 March 2019}}&lt;ref&gt;{{cite web|title=R. Saïss|url=https://int.soccerway.com/players/romain-saiss/212879/|website=Soccerway|accessdate=23 August 2016}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -2528,13 +2531,13 @@ In June 2018 he was named in Morocco's 23-man [[Morocco national football team|s
 |-
 |[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]
 |[[Premier League]]
-|15||2||3||0||2||0||colspan="2"|—||20||2
+|16||2||4||0||2||0||colspan="2"|—||22||2
 |-
 !colspan="2"|Total
-!81!!6!!5!!0!!3!!0!!0!!0!!89!!6
+!82!!6!!6!!0!!3!!0!!0!!0!!91!!6
 |-
 !colspan=3|Career total
-!238!!16!!8!!0!!8!!0!!0!!0!!254!!16
+!239!!16!!9!!0!!8!!0!!0!!0!!256!!16
 |}
 
 ===International===
@@ -2619,7 +2622,7 @@ In June 2018 he was named in Morocco's 23-man [[Morocco national football team|s
 [[Category:Expatriate footballers in England]]
 [[Category:2017 Africa Cup of Nations players]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>1que966lyii5ly48sz2nakr9apqzc21</sha1>
+      <sha1>nfmcds05qzniefwygha0ip1oyuoqf2z</sha1>
     </revision>
   </page>
   <page>
@@ -2627,16 +2630,15 @@ In June 2018 he was named in Morocco's 23-man [[Morocco national football team|s
     <ns>0</ns>
     <id>3483095</id>
     <revision>
-      <id>886059755</id>
-      <parentid>885263626</parentid>
-      <timestamp>2019-03-04T01:14:19Z</timestamp>
+      <id>889033394</id>
+      <parentid>888130976</parentid>
+      <timestamp>2019-03-22T23:54:35Z</timestamp>
       <contributor>
-        <ip>82.23.42.196</ip>
+        <ip>2601:18F:602:3A0:3D39:D957:8407:E0A5</ip>
       </contributor>
-      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="44698">{{for|the Portuguese footballer of the same name|João Moutinho (footballer, born 1998)}}
+      <text xml:space="preserve" bytes="44666">{{for|the Portuguese footballer of the same name|João Moutinho (footballer, born 1998)}}
 {{Use dmy dates|date=October 2010}}
 {{Portuguese name|Iria Santos|Moutinho}}
 {{Infobox football biography
@@ -2664,9 +2666,9 @@ In June 2018 he was named in Morocco's 23-man [[Morocco national football team|s
 | nationalyears3 = 2004 | nationalteam3 = [[Portugal national under-19 football team|Portugal U19]] | nationalcaps3 = 4 | nationalgoals3 = 1
 | nationalyears4 = 2005–2007 | nationalteam4 = [[Portugal national under-21 football team|Portugal U21]] | nationalcaps4 = 17 | nationalgoals4 = 2
 | nationalyears5 = 2006 | nationalteam5 = [[Portugal national football B team|Portugal B]] | nationalcaps5 = 1 | nationalgoals5 = 0
-| nationalyears6 = 2005– | nationalteam6 = [[Portugal national football team|Portugal]] | nationalcaps6 = 113 | nationalgoals6 = 7
+| nationalyears6 = 2005– | nationalteam6 = [[Portugal national football team|Portugal]] | nationalcaps6 = 114 | nationalgoals6 = 7
 | club-update = 00:18, 12 February 2019 (UTC)
-| nationalteam-update = 20:35, 25 June 2018 (UTC)
+| nationalteam-update = 23:00, 22 March 2019 (UTC)
 | medaltemplates = {{medalCountry|[[Portugal national football team|Portugal]]}}
 {{medal|W|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2016|2016]]}}
 {{medalBronze|[[UEFA European Championship|European Championship]]|[[UEFA Euro 2012|2012]]}}&lt;!--Though there was no third place playoff, UEFA decided in the 2012 edition to award the semi-final losers (Germany and Portugal) bronze medals.--&gt;
@@ -2720,7 +2722,7 @@ Moutinho contributed with two goals from 31 matches during [[2016–17 Ligue 1|2
 On 24 July 2018, Moutinho joined newly-promoted English club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a two-year-deal for an undisclosed fee, reported to be around £5 million.&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/44922630|title=Joao Moutinho: Wolves sign Portugal midfielder from Monaco|publisher=BBC Sport|date=24 July 2018|accessdate=24 July 2018}}&lt;/ref&gt; He made his [[Premier League]] debut on 11 August, featuring 85 minutes in a 2–2 home draw against [[Everton F.C.|Everton]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45067374|title=Wolverhampton Wanderers 2–2 Everton|publisher=BBC Sport|author=Shamoon Hafez|date=11 August 2018|accessdate=14 August 2018}}&lt;/ref&gt; His first goal in the competition arrived on 22 September, when he scored from just outside the box with his weaker left foot in a 1–1 away draw to [[Manchester United F.C.|Manchester United]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/45530717|title=Manchester United 1–1 Wolverhampton Wanderers|publisher=BBC Sport|author=Alex Bysouth|date=22 September 2018|accessdate=22 September 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.record.pt/multimedia/videos/detalhe/joao-moutinho-silencia-old-trafford-com-um-tremendo-remate|title=João Moutinho silencia Old Trafford com tremendo remate... de pé esquerdo|trans-title=João Moutinho silences Old Trafford with tremendous shot... with left foot|newspaper=Record|language=pt|date=22 September 2018|accessdate=22 September 2018}}&lt;/ref&gt;
 
 ==International career==
-[[File:Luka Modric (L), João Moutinho (R) - Croatia vs. Portugal, 10th June 2013.jpg|thumb|right|Croatia's [[Luka Modrić]] (front) battles Moutinho for the ball in a friendly match in June 2013]]
+[[File:Luka Modric (L), João Moutinho (R) - Croatia vs. Portugal, 10th June 2013.jpg|thumb|right|Croatia's [[Luka Modrić]] and Moutinho in an international friendly in June 2013]]
 A [[Portugal national football team|full Portugal international]] at the age of 18, Moutinho made his debut on 17 August 2005 in a 2–0 home [[Exhibition game|friendly]] win against [[Egypt national football team|Egypt]] in [[Ponta Delgada]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/worldcup/news/newsid=326978.html|title=Postiga on target for Portugal|publisher=UEFA|date=18 August 2005|accessdate=8 September 2014}}&lt;/ref&gt; Ever since the [[2006 FIFA World Cup]], he became a regular call-up.
 
 On 31 May 2008, Moutinho registered his first goal for the national team in a 2–0 friendly victory over [[Georgia national football team|Georgia]] at ''Estádio do Fontelo'' in [[Viseu]].&lt;ref&gt;[http://soccernet.espn.go.com/report?id=238266&amp;cc=3436 Portugal 2–0 Georgia: Ronaldo below par]; [[ESPN FC|ESPN Soccernet]], 31 May 2008&lt;/ref&gt; He was picked for the squad-of-23 for [[UEFA Euro 2008]] and, in the opening game, assisted on a goal by [[Raul Meireles]] in a 2–0 victory against [[Turkey national football team|Turkey]].&lt;ref&gt;[http://news.bbc.co.uk/sport2/hi/football/euro_2008/7362969.stm Portugal 2–0 Turkey]; BBC Sport, 7 June 2008&lt;/ref&gt;
@@ -2740,7 +2742,7 @@ Moutinho's father, [[Nélson Moutinho|Nélson]], was also a footballer. A [[Forw
 
 ==Career statistics==
 ===Club===
-{{updated|2 March 2019}}
+{{updated|16 March 2019}}
 
 {| class="wikitable" style="text-align: center;"
 |-
@@ -2835,10 +2837,10 @@ Moutinho's father, [[Nélson Moutinho|Nélson]], was also a footballer. A [[Forw
 | rowspan="1" valign="center" |[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
 |[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]&lt;ref name="SW"/&gt;
 |rowspan="1"|[[Premier League]]
-|29||1||4||0||0||0||colspan="2"|—||colspan="2"|—||33||1
+|30||1||5||0||0||0||colspan="2"|—||colspan="2"|—||35||1
 |-
 ! colspan="3" |Career total
-!430!!35!!50!!9!!38!!3!!119!!8!!6!!0!!643!!55
+!431!!35!!51!!9!!38!!3!!119!!8!!6!!0!!645!!55
 |}
 {{Reflist|group=lower-alpha}}
 
@@ -2945,7 +2947,6 @@ Moutinho's father, [[Nélson Moutinho|Nélson]], was also a footballer. A [[Forw
 
 ==External links==
 {{commons category}}
-*{{TheFinalBall}}
 *{{ForaDeJogo}}
 *{{Lequipe}}
 *{{Soccerbase|40870}}
@@ -3002,7 +3003,7 @@ Moutinho's father, [[Nélson Moutinho|Nélson]], was also a footballer. A [[Forw
 [[Category:UEFA Europa League winning players]]
 [[Category:FIFA Century Club]]
 [[Category:Commanders of the Order of Merit (Portugal)]]</text>
-      <sha1>456bzjtee0uo9hcn4hnc7oow689mbo1</sha1>
+      <sha1>61w5vmrfwyezusgj462yvnyu3l38tk2</sha1>
     </revision>
   </page>
   <page>
@@ -3010,16 +3011,15 @@ Moutinho's father, [[Nélson Moutinho|Nélson]], was also a footballer. A [[Forw
     <ns>0</ns>
     <id>54814519</id>
     <revision>
-      <id>886058278</id>
-      <parentid>885877631</parentid>
-      <timestamp>2019-03-04T01:05:55Z</timestamp>
+      <id>886973430</id>
+      <parentid>886058278</parentid>
+      <timestamp>2019-03-09T19:45:22Z</timestamp>
       <contributor>
-        <ip>82.23.42.196</ip>
+        <ip>74.132.148.53</ip>
       </contributor>
-      <comment>/* Career statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="8397">{{Portuguese name|da Silva|Nascimento Vinagre}}
+      <text xml:space="preserve" bytes="8599">{{Portuguese name|da Silva|Nascimento Vinagre}}
 {{Infobox football biography
 | name= Rúben Vinagre
 | fullname= Rúben Gonçalo da Silva Nascimento Vinagre
@@ -3035,10 +3035,18 @@ Moutinho's father, [[Nélson Moutinho|Nélson]], was also a footballer. A [[Forw
 | youthclubs2= [[Sporting CP]]
 | youthyears3= 2015–2016
 | youthclubs3= [[AS Monaco FC|Monaco]]
-| years1= 2017–
-| clubs1= [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
-| caps1= 22
-| goals1= 1
+| years1= 2016–2018
+| clubs1= [[AS Monaco FC|Monaco]]
+| caps1= 0
+| goals1= 0
+| years2= 2017–2018
+| clubs2= → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
+| caps2= 9
+| goals2= 1
+| years3= 2018–
+| clubs3= [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| caps3= 11
+| goals3= 0
 | nationalyears1= 2015
 | nationalteam1= [[Portugal national under-16 football team|Portugal U16]]
 | nationalcaps1= 7
@@ -3143,7 +3151,7 @@ On 30 June 2018, Vinagre joined Wolves on a permanent basis, signing a five-year
 [[Category:Expatriate footballers in England]]
 [[Category:Portuguese expatriate sportspeople in England]]
 [[Category:Association football wing halves]]</text>
-      <sha1>dt6tcy38wj7qar1vkeco8a9ec5hj0p3</sha1>
+      <sha1>5cs46xw7z5ujrt6t60oi8czs2t37sm4</sha1>
     </revision>
   </page>
   <page>
@@ -3432,16 +3440,16 @@ On 11 July 2017, Norris signed a three-year deal for [[Wolverhampton Wanderers F
     <ns>0</ns>
     <id>40106053</id>
     <revision>
-      <id>886059093</id>
-      <parentid>885263257</parentid>
-      <timestamp>2019-03-04T01:10:25Z</timestamp>
+      <id>888106171</id>
+      <parentid>888083096</parentid>
+      <timestamp>2019-03-16T23:15:59Z</timestamp>
       <contributor>
         <ip>82.23.42.196</ip>
       </contributor>
       <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="17784">{{Use dmy dates|date=June 2018}}
+      <text xml:space="preserve" bytes="17852">{{Use dmy dates|date=June 2018}}
 {{Infobox football biography
 | name           = Leander Dendoncker
 | image          = ENG-BEL (24) (cropped).jpg
@@ -3465,7 +3473,7 @@ On 11 July 2017, Norris signed a three-year deal for [[Wolverhampton Wanderers F
 | goals1         = 9
 | years2         = 2018–
 | clubs2         = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
-| caps2          = 9
+| caps2          = 11
 | goals2         = 1
 | nationalyears1 = 2010–2011
 | nationalteam1  = [[Belgium national youth football team|Belgium U16]]
@@ -3492,7 +3500,7 @@ On 11 July 2017, Norris signed a three-year deal for [[Wolverhampton Wanderers F
 {{Medal|Country|{{fb|BEL}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
 {{Medal|3rd|[[2018 FIFA World Cup|2018 Russia]]|}}
-| club-update    = 12 February 2019
+| club-update    = 16 March 2019
 | nationalteam-update = 28 June 2018
 }}
 '''Leander Dendoncker''' (born 15 April 1995) is a [[Belgium national football team|Belgian international]] [[Association football|footballer]] who plays as either a [[Defender (association football)|defender]] or [[Midfielder#Defensive midfielder|defensive midfielder]], for [[Premier League]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on loan from [[R.S.C. Anderlecht|Anderlecht]].
@@ -3524,7 +3532,7 @@ Dendoncker moved to Brussels to play for Anderlecht while in their under-15 team
 
 ==Career statistics==
 ===Club===
-{{updated|match played 2 March 2019}}
+{{updated|match played 16 March 2019}}
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -3565,10 +3573,10 @@ Dendoncker moved to Brussels to play for Anderlecht while in their under-15 team
 | rowspan="1" |[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers (loan)]]
 |[[2018–19 Wolverhampton Wanderers F.C. season|2018–19]]
 |[[Premier League]]
-|10||1||3||0|| colspan="2" |—||2||0||15||1
+|11||1||4||0|| colspan="2" |—||2&lt;ref group="lower-alpha" name="EFLC"&gt;Appearances in [[EFL Cup]]&lt;/ref&gt;||0||17||1
 |-
 !colspan="3"|Career totals
-!135!!10!!14!!1!!34!!1!!3!!0!!186!!12
+!136!!10!!15!!1!!34!!1!!3!!0!!188!!12
 |}
 
 {{reflist|group=lower-alpha}}
@@ -3631,7 +3639,7 @@ Dendoncker moved to Brussels to play for Anderlecht while in their under-15 team
 [[Category:Belgian expatriate footballers]]
 [[Category:Expatriate footballers in England]]
 [[Category:Belgian expatriate sportspeople in England]]</text>
-      <sha1>gf3d60ivp4pvffhb8qqp7q845fs0q36</sha1>
+      <sha1>3uv4pmdj8twwjrgqsa9um9ebhkyo0pt</sha1>
     </revision>
   </page>
   <page>
@@ -3799,16 +3807,17 @@ Ennis was born in England and is of Jamaican descent.&lt;ref&gt;{{cite web|url=h
     <ns>0</ns>
     <id>47624421</id>
     <revision>
-      <id>885963513</id>
-      <parentid>885963494</parentid>
-      <timestamp>2019-03-03T13:15:48Z</timestamp>
+      <id>888175628</id>
+      <parentid>888059804</parentid>
+      <timestamp>2019-03-17T12:32:24Z</timestamp>
       <contributor>
         <username>Skyblueshaun</username>
         <id>13169830</id>
       </contributor>
+      <comment>/* Career statistics */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="8678">{{EngvarB|date=December 2016}}
+      <text xml:space="preserve" bytes="8682">{{EngvarB|date=December 2016}}
 {{Use dmy dates|date=December 2016}}
 {{Infobox football biography
 | name = Bright Enobakhare
@@ -3830,9 +3839,9 @@ Ennis was born in England and is of Jamaican descent.&lt;ref&gt;{{cite web|url=h
 | goals2      = 0
 | years3      = 2019–
 | clubs3      = → [[Coventry City F.C.|Coventry City]] (loan)
-| caps3       = 8
-| goals3      = 3
-| club-update = 13:15, 3 March 2019 (UTC)
+| caps3       = 10
+| goals3      = 4
+| club-update = 17:25 16 March 2019 (UTC)
 }}
 '''Bright Enobakhare''' (born 18 May 1998) is a Nigerian [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Coventry City]], on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].
 
@@ -3846,7 +3855,7 @@ On 11 August 2015, Enobakhare was first included in Wolves' matchday squad, rema
 In January 2019, Bright joined [[EFL League One|League One]] side [[Coventry City F.C.|Coventry City]] on loan for the remainder of the [[2018–19 EFL League One|season]].&lt;ref&gt;{{cite web |title=Bright Enobakhare Joins Sky Blues on Loan |url=https://www.ccfc.co.uk/news/2019/january/transfer-bright-enobakhare-joins-sky-blues-on-loan/ |publisher=[[Coventry City F.C.]] |accessdate=8 January 2019}}&lt;/ref&gt;
 
 ==Career statistics==
-{{Updated|match played 2 March 2019}}
+{{Updated|match played 16 March 2019}}
 
 {| class="wikitable" style=text-align:center
 |+ Appearances and goals by club, season and competition
@@ -3889,10 +3898,10 @@ In January 2019, Bright joined [[EFL League One|League One]] side [[Coventry Cit
 |[[Coventry City F.C.|Coventry City]] (loan)
 |[[2018–19 Coventry City F.C. season|2018–19]]&lt;ref name=sb1819&gt;{{soccerbase season|87050|2018|accessdate=8 January 2019}}&lt;/ref&gt;
 |[[EFL League One|League One]]
-|8||3||colspan=2|—||colspan=2|—||colspan=2|—||8||3
+|10||4||colspan=2|—||colspan=2|—||colspan=2|—||10||4
 |-
 !colspan=3|Career totals
-!55!!4!!3!!0!!5!!2!!colspan=2|—!!63!!6
+!57!!5!!3!!0!!5!!2!!colspan=2|—!!65!!7
 |}
 {{notelist}}
 
@@ -3923,7 +3932,7 @@ In January 2019, Bright joined [[EFL League One|League One]] side [[Coventry Cit
 [[Category:Nigerian expatriate sportspeople in England]]
 [[Category:Expatriate footballers in England]]
 [[Category:Expatriate footballers in Scotland]]</text>
-      <sha1>d8qdmrmkqxbafeijrzrus2a31cmxr3p</sha1>
+      <sha1>n4wphcqz5csnykdci7295um434eh601</sha1>
     </revision>
   </page>
   <page>
@@ -3931,16 +3940,17 @@ In January 2019, Bright joined [[EFL League One|League One]] side [[Coventry Cit
     <ns>0</ns>
     <id>37839182</id>
     <revision>
-      <id>884774900</id>
-      <parentid>879697538</parentid>
-      <timestamp>2019-02-23T22:48:40Z</timestamp>
+      <id>887763263</id>
+      <parentid>887653662</parentid>
+      <timestamp>2019-03-14T17:51:29Z</timestamp>
       <contributor>
-        <ip>2A02:C7F:CC0C:8700:2521:4593:F4C2:49AE</ip>
+        <username>Mattythewhite</username>
+        <id>553121</id>
       </contributor>
-      <comment>Updated caps for the mighty villa</comment>
+      <comment>completed stats update</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="14323">{{Use dmy dates|date=September 2014}}
+      <text xml:space="preserve" bytes="14295">{{Use dmy dates|date=September 2014}}
 {{Use British English|date=September 2014}}
 {{Infobox football biography
 | name=Kortney Hause
@@ -3964,11 +3974,11 @@ In January 2019, Bright joined [[EFL League One|League One]] side [[Coventry Cit
 | years1 = 2012–2014 | clubs1 = [[Wycombe Wanderers F.C.|Wycombe Wanderers]] | caps1 = 23 | goals1 = 2
 | years2 = 2014–     | clubs2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] | caps2 = 67 | goals2 = 2
 | years3 = 2014      | clubs3 = → [[Gillingham F.C.|Gillingham]] (loan) | caps3 = 14 | goals3 = 1
-| years4 = 2019–     | clubs4 = → [[Aston Villa F.C.|Aston Villa]] (loan) | caps4 = 4 | goals4 = 0
+| years4 = 2019–     | clubs4 = → [[Aston Villa F.C.|Aston Villa]] (loan) | caps4 = 7| goals4 = 1
 | nationalyears1 = 2014–2015 | nationalteam1 = [[England national under-20 football team|England U20]] | nationalcaps1 = 9 | nationalgoals1 = 2
 | nationalyears2 = 2015–2017 | nationalteam2 = [[England national under-21 football team|England U21]] | nationalcaps2 = 10 | nationalgoals2 = 0
-| club-update = 16:37, 22 January 2019 (UTC)
-| nationalteam-update = 22:40, 30 June 2017 (UTC)
+| club-update = 17:51, 14 March 2019 (UTC)
+| nationalteam-update = 
 }}
 '''Kortney Paul Duncan Hause''' (born 16 July 1995) is an English professional [[Association football|footballer]] who plays as a [[Defender (association football)|centre back]] for [[Aston Villa F.C.|Aston Villa]], on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]. He was a regular for both [[England national under-20 football team|England U20]] and [[England national under-21 football team|England U21]] sides and played in [[Gareth Southgate]]'s victorious [[2016 Toulon Tournament]] side.
 
@@ -4106,7 +4116,7 @@ Hause is a [[grime (music)|grime]] [[Rapping|rapper]] in his time away from foot
 [[Category:Gillingham F.C. players]]
 [[Category:Aston Villa F.C. players]]
 [[Category:English Football League players]]</text>
-      <sha1>4o5g7iierhqmvk8gpe5cksbgzg87c43</sha1>
+      <sha1>bf426ofskf7etn7a1vfknkqdri8gzae</sha1>
     </revision>
   </page>
   <page>
@@ -4114,16 +4124,17 @@ Hause is a [[grime (music)|grime]] [[Rapping|rapper]] in his time away from foot
     <ns>0</ns>
     <id>46503303</id>
     <revision>
-      <id>882508277</id>
-      <parentid>882050118</parentid>
-      <timestamp>2019-02-09T16:27:17Z</timestamp>
+      <id>887283509</id>
+      <parentid>886332664</parentid>
+      <timestamp>2019-03-11T17:56:00Z</timestamp>
       <contributor>
-        <username>UncleTupelo1</username>
-        <id>14265315</id>
+        <username>Zackmann08</username>
+        <id>15881234</id>
       </contributor>
+      <comment>removing template per [[Wikipedia:Templates_for_discussion/Log/2019_February_13#Template:TheFinalBall]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="15336">{{Portuguese name|Bonatini|Lohner Maia}}
+      <text xml:space="preserve" bytes="15319">{{Portuguese name|Bonatini|Lohner Maia}}
 {{Infobox football biography
 | name = Léo Bonatini
 | image = 
@@ -4168,13 +4179,13 @@ Hause is a [[grime (music)|grime]] [[Rapping|rapper]] in his time away from foot
 | goals7 = 0
 | years8 = 2019–
 | clubs8 = → [[Nottingham Forest F.C.|Nottingham Forest]] (loan)
-| caps8 = 2
+| caps8 = 4
 | goals8 = 0
 | nationalyears1 = 2011
 | nationalteam1 = [[Brazil national under-17 football team|Brazil U17]]
 | nationalcaps1 = 12
 | nationalgoals1 = 5
-| club-update = 16:27, 9 February 2019 (UTC)
+| club-update = 17:09, 5 March 2019 (UTC)
 | nationalteam-update = 08:26, 27 November 2017 (UTC)
 }}
 
@@ -4300,7 +4311,6 @@ On 31 January 2019, Bonatini joined Championship side [[Nottingham Forest F.C.|N
 *{{Soccerbase|80727}}
 *{{ForaDeJogo}}
 *{{Soccerway|leo-leo/180819}}
-*{{Zerozero}}
 
 {{Nottingham Forest F.C. squad}}
 
@@ -4327,7 +4337,7 @@ On 31 January 2019, Bonatini joined Championship side [[Nottingham Forest F.C.|N
 [[Category:Brazilian expatriate sportspeople in England]]
 [[Category:Expatriate footballers in Saudi Arabia]]
 [[Category:Expatriate footballers in Portugal]]</text>
-      <sha1>phrp75xm6ayqxi3e6vnc3hijeebpshc</sha1>
+      <sha1>q2ep43fexuxvz6ka1r0410iv9io8tlm</sha1>
     </revision>
   </page>
   <page>
@@ -4532,16 +4542,17 @@ He then moved on loan to [[Scottish Championship]] club [[Falkirk F.C.|Falkirk]]
     <ns>0</ns>
     <id>48630006</id>
     <revision>
-      <id>882240316</id>
-      <parentid>882240027</parentid>
-      <timestamp>2019-02-07T18:57:11Z</timestamp>
+      <id>886198118</id>
+      <parentid>882240316</parentid>
+      <timestamp>2019-03-04T20:02:26Z</timestamp>
       <contributor>
-        <ip>79.74.186.26</ip>
+        <username>Jmorrison230582</username>
+        <id>1894081</id>
       </contributor>
-      <comment>/* Wolverhampton Wanderers */</comment>
+      <comment>international stats</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="10551">{{For|the English goalkeeper|John Ruddy}}
+      <text xml:space="preserve" bytes="10600">{{For|the English goalkeeper|John Ruddy}}
 {{Use dmy dates|date=October 2017}}
 {{Use British English|date=October 2017}}
 {{Infobox football biography
@@ -4585,11 +4596,12 @@ He then moved on loan to [[Scottish Championship]] club [[Falkirk F.C.|Falkirk]]
 |clubs7      = → [[UD San Sebastián de los Reyes|S.S. Reyes]] (loan)
 |caps7       = 0
 |goals7      = 0
-| nationalyears1 = 2017–
+| nationalyears1 = 2017
 | nationalteam1 = [[Scotland national under-21 football team|Scotland U21]]
 | nationalcaps1 = 1
 | nationalgoals1 = 0
 |club-update = 1 February 2018
+|ntupdate = 4 March 2019
 }}
 
 '''John Robert Ruddy''' (born 27 December 1997) is a Scottish [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Segunda División B]] club [[UD San Sebastián de los Reyes|S.S. Reyes]] on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].
@@ -4672,6 +4684,7 @@ Ruddy has represented Scotland at the [[Scotland national under-17 football team
 
 ==External links==
 *{{Soccerbase|78917}}
+*{{SFA Profile|id=141929}}
 *{{Soccerway|john-ruddy/389303}}
 
 {{DEFAULTSORT:Ruddy, Jack}}
@@ -4695,7 +4708,7 @@ Ruddy has represented Scotland at the [[Scotland national under-17 football team
 [[Category:UD San Sebastián de los Reyes players]]
 [[Category:Scottish Professional Football League players]]
 [[Category:Segunda División B players]]</text>
-      <sha1>61w9ni5es00yfddp3zitz6sam789pj6</sha1>
+      <sha1>tew0dpek7nf4vqev6bp6z5y91u00mmb</sha1>
     </revision>
   </page>
   <page>
@@ -4703,74 +4716,77 @@ Ruddy has represented Scotland at the [[Scotland national under-17 football team
     <ns>0</ns>
     <id>47624649</id>
     <revision>
-      <id>883219219</id>
-      <parentid>883195065</parentid>
-      <timestamp>2019-02-14T01:02:27Z</timestamp>
+      <id>886753428</id>
+      <parentid>886753294</parentid>
+      <timestamp>2019-03-08T08:56:06Z</timestamp>
       <contributor>
-        <username>Mattythewhite</username>
-        <id>553121</id>
+        <username>Robby.is.on</username>
+        <id>5230605</id>
       </contributor>
-      <comment>Reverted 1 edit by [[Special:Contributions/82.8.85.194|82.8.85.194]] ([[User talk:82.8.85.194|talk]]): No t/s ([[WP:TW|TW]])</comment>
+      <minor/>
+      <comment>/* Career */ Fix a few links.</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="8026">{{Use dmy dates|date=November 2017}}
+      <text xml:space="preserve" bytes="8221">{{Use dmy dates|date=March 2019}}
 {{Infobox football biography
-| name=Sylvain Deslandes
-| fullname=Sylvain Boris Nabil Deslandes&lt;ref name="Retained List 2015-16"&gt;{{cite web|title=Retained List 2015-16|url=http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf|publisher=English Football League|format=PDF|accessdate=26 June 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20161202052144/http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf|archivedate=2 December 2016|df=dmy-all}}&lt;/ref&gt;
-| birth_date={{birth date and age|1997|4|25|df=y}}
-| birth_place=[[Kouoptamo]], Cameroon
-| height= 1.86m
-| position=[[Defender (association football)|Center back]]
-| currentclub=[[FC Jumilla]]&lt;br&gt;(on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]])
-| clubnumber=
-| youthclubs1=AM. S. Soliers
-| youthclubs2=[[USON Mondeville]]
-| youthyears1=2007–2008
-| youthyears2=2008–2010
-| clubs1=[[Stade Malherbe Caen|Caen II]]
-| clubs2=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
-| clubs3=→ [[Bury F.C.|Bury]] (loan)
-| clubs4=→ [[Portsmouth F.C.|Portsmouth]] (loan)
-| clubs5=→ [[FC Jumilla]] (Loan)
-| years1=2013–2015
-| years2=2015–
-| years3=2017
-| years4=2018
-| years5=2018–
-| caps1=8
-| caps2=4
-| caps3=0
-| caps4=2
-| caps5=4
-| goals1=1
-| goals2=0
-| goals3=0
-| goals4=0
-| goals5=0
-| nationalteam1 = [[France national under-16 football team|France U16]]
-| nationalteam2 = [[France national under-17 football team|France U17]]
+| name = Sylvain Deslandes
+| fullname = Sylvain Boris Nabil Deslandes&lt;ref name="Retained List 2015-16"&gt;{{cite web|title=Retained List 2015-16|url=http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf|publisher=English Football League|format=PDF|accessdate=26 June 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20161202052144/http://www.efl.com/documents/professional-retained-report-2015-16549-3151378.pdf|archivedate=2 December 2016}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1997|4|25|df=y}}
+| birth_place = [[Kouoptamo]], Cameroon
+| height = 1.86m
+| position = [[Defender (association football)|Defender]]
+| currentclub = [[FC Jumilla]]&lt;br&gt;(on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]])
+| clubnumber = 
+| youthyears1 = 2007–2008
+| youthclubs1 = AM. S. Soliers
+| youthyears2 = 2008–2010
+| youthclubs2 = [[USON Mondeville]]
+| youthyears3 = 2010–2015
+| youthclubs3 = [[Stade Malherbe Caen|Caen]]
+| years1 = 2013–2015
+| clubs1 = [[Stade Malherbe Caen|Caen II]]
+| caps1 = 8
+| goals1 = 1
+| years2 = 2015–
+| clubs2 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| caps2 = 4
+| goals2 = 0
+| years3 = 2017
+| clubs3 = → [[Bury F.C.|Bury]] (loan)
+| caps3 = 0
+| goals3 = 0
+| years4 = 2018
+| clubs4 = → [[Portsmouth F.C.|Portsmouth]] (loan)
+| caps4 = 2
+| goals4 = 0
+| years5 = 2018–
+| clubs5 = → [[FC Jumilla]] (Loan)
+| caps5 = 4
+| goals5 = 0
 | nationalyears1 = 2013
-| nationalyears2 = 2013–2014
+| nationalteam1 = [[France national under-16 football team|France U16]]
 | nationalcaps1 = 1
-| nationalcaps2 = 7
 | nationalgoals1 = 0
+| nationalyears2 = 2013–2014
+| nationalteam2 = [[France national under-17 football team|France U17]]
+| nationalcaps2 = 7
 | nationalgoals2 = 0
-| club-update=24 September 2018
-| youthyears3=2010–2015
-| youthclubs3=[[Stade Malherbe Caen|Caen]]
 | nationalyears3 = 2014
 | nationalteam3 = [[France national under-18 football team|France U18]]
 | nationalcaps3 = 3
 | nationalgoals3 = 0
-| nationalteam4 = [[France national under-19 football team|France U19]]
 | nationalyears4 = 2016
+| nationalteam4 = [[France national under-19 football team|France U19]]
 | nationalcaps4 = 3
 | nationalgoals4 = 0
-| nationalteam5 = [[France national under-20 football team|France U20]]
 | nationalyears5 = 2016–
+| nationalteam5 = [[France national under-20 football team|France U20]]
 | nationalcaps5 = 1
 | nationalgoals5 = 0
+| club-update = 24 September 2018
+| nationalteam-update = 08:50, 8 March 2019 (UTC)
 }}
+
 '''Sylvain Boris Nabil Deslandes''' (born 25 April 1997) is a professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Segunda División B]] club [[FC Jumilla]] on loan from English club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]. He has represented France at under-16 through under-20 level.
 
 ==Career==
@@ -4779,13 +4795,12 @@ Deslandes moved upon the expiry of his contract with French club [[Stade Malherb
 He made his club debut on 25 August 2015 in a League Cup win over [[Barnet F.C.|Barnet]].&lt;ref&gt;{{cite news| title=Wolves 2–1 Barnet|publisher=BBC Sport| url=https://www.bbc.com/sport/0/football/33969991| date=25 August 2015}}&lt;/ref&gt;
 
 On 31 January 2017, he joined [[Bury F.C.|Bury]] on loan until the end of the season.&lt;ref&gt;{{cite web|url=http://www.buryfc.co.uk/news/article/2016-17/confirmed-left-back-deslandes-arrives-from-wolves-3548768.aspx|title=Confirmed: Left Back Deslandes arrives from Wolves|publisher=Bury F.C.|date=31 January 2017}}&lt;/ref&gt;
-He returned to Wolves at the end of the 2016/17 season having made no appearances for Bury.
+He returned to Wolves at the end of the 2016–17 season having made no appearances for Bury.
 
-He appeared regularly under [[Nuno Espirito Santo]] in 2017-2018 pre-season and played 90 minutes in the 2-0 [[Carabao Cup]] win against [[Premier League]] side [[Southampton FC]]. &lt;ref&gt;{{cite web|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2017/09/19/wolves-defender-deslandes-loving-being-in-land-of-sylvain/}}&lt;/ref&gt;
-He also came on during Wolves 2-1 [[Championship]] victory against [[Nottingham Forest]] on September 2017.&lt;ref&gt;{{cite web|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2017/09/19/wolves-defender-deslandes-loving-being-in-land-of-sylvain/}}&lt;/ref&gt;
+He appeared regularly under [[Nuno Espírito Santo]] in 2017–18 pre-season and played 90 minutes in the 2–0 [[EFL Cup|Carabao Cup]] win against [[Premier League]] side [[Southampton F.C.|Southampton]].&lt;ref&gt;{{cite web|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2017/09/19/wolves-defender-deslandes-loving-being-in-land-of-sylvain/}}&lt;/ref&gt; He also came on during Wolves' 2–1 [[EFL Championship|Championship]] victory against [[Nottingham Forest F.C.|Nottingham Forest]] on September 2017.&lt;ref&gt;{{cite web|url=https://www.expressandstar.com/sport/football/wolverhampton-wanderers-fc/2017/09/19/wolves-defender-deslandes-loving-being-in-land-of-sylvain/}}&lt;/ref&gt;
 
-On 3 January 2018, he agreed to join [[Portsmouth F.C|Portsmouth]] as a [[left-back]] on loan until the end of the season.&lt;ref&gt;{{cite web|url=https://www.wolves.co.uk/news/first-team/20180102-ronan-and-deslandes-leave-on-loan/|title=Ronan And Deslandes Leave On Loan|publisher=Wolverhampton Wanderers F.C.|date=3 January 2018}}&lt;/ref&gt;
-He returned to Wolves at the end of the season having made only two appearances for [[Portsmouth FC]], after manager [[Kenny Jackett]] says his future was not at [[left-back]] but [[centre-back]] as Sylvain is a player with "power" and "athleticism".&lt;ref&gt;{{cite web|url=https://www.portsmouth.co.uk/sport/football/pompey/pompey-boss-deslandes-future-not-at-left-back-1-8491835}}&lt;/ref&gt;
+On 3 January 2018, he agreed to join [[Portsmouth F.C.]] as a [[left-back]] on loan until the end of the season.&lt;ref&gt;{{cite web|url=https://www.wolves.co.uk/news/first-team/20180102-ronan-and-deslandes-leave-on-loan/|title=Ronan And Deslandes Leave On Loan|publisher=Wolverhampton Wanderers F.C.|date=3 January 2018}}&lt;/ref&gt;
+He returned to Wolves at the end of the season having made only two appearances for Portsmouth, after manager [[Kenny Jackett]] had said his future was not at [[left-back]] but [[centre-back]] as Deslandes was a player with "power" and "athleticism".&lt;ref&gt;{{cite web|url=https://www.portsmouth.co.uk/sport/football/pompey/pompey-boss-deslandes-future-not-at-left-back-1-8491835}}&lt;/ref&gt;
 
 ==Career statistics==
 ===Club===
@@ -4804,7 +4819,7 @@ He returned to Wolves at the end of the season having made only two appearances 
 |-
 !Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
 |-
-|rowspan="3"|[[Stade Malherbe Caen|SM Caen II]]
+|rowspan="3"|[[Stade Malherbe Caen|Caen II]]
 |[[2013–14 in French football|2013–14]]
 |[[Championnat National 3]]
 |4||0||0||0||0||0||0||0||4||0
@@ -4813,7 +4828,7 @@ He returned to Wolves at the end of the season having made only two appearances 
 |Championnat National 3
 |4||1||0||0||0||0||0||0||4||1
 |-
-!colspan="2" | Total
+!colspan="2"|Total
 !8!!1!!0!!0!!0!!0!!0!!0!!8!!1
 |-
 |rowspan="4"|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
@@ -4829,7 +4844,7 @@ He returned to Wolves at the end of the season having made only two appearances 
 |Championship
 |1||0||0||0||2||0||0||0||3||0
 |-
-!colspan="2" | Total
+!colspan="2"|Total
 !4!!0!!0!!0!!4!!0!!0!!0!!8!!0
 |-
 |[[Bury F.C.|Bury]] (loan)
@@ -4847,7 +4862,7 @@ He returned to Wolves at the end of the season having made only two appearances 
 |[[Segunda División B|Segunda División B – Group 4]]
 |3||0||0||0||0||0||0||0||3||0
 |-
-!colspan="3" | Career totals
+!colspan="3"|Career totals
 !17!!1!!0!!0!!4!!0!!0!!0!!21!!1
 |} 
 {{reflist|group=lower-alpha}}
@@ -4864,7 +4879,6 @@ He returned to Wolves at the end of the season having made only two appearances 
 *[https://www.fff.fr/equipes-de-france/tous-les-joueurs/fiche-joueur/2544275473-sylvain-deslandes France profile] at FFF
 
 &lt;!--{{Wolverhampton Wanderers F.C. squad}}--&gt;
-{{Portsmouth F.C. squad}}
 
 {{DEFAULTSORT:Deslandes, Sylvain}}
 [[Category:1997 births]]
@@ -4877,10 +4891,12 @@ He returned to Wolves at the end of the season having made only two appearances 
 [[Category:Association football defenders]]
 [[Category:Stade Malherbe Caen players]]
 [[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Bury F.C. players]]
+[[Category:Portsmouth F.C. players]]
+[[Category:FC Jumilla players]]
 [[Category:English Football League players]]
-[[Category:Expatriate footballers in England]]
-[[Category:FC Jumilla players]]</text>
-      <sha1>l9z8dg3iselip7swxk5apz7ow9k8gyn</sha1>
+[[Category:Expatriate footballers in England]]</text>
+      <sha1>44gptxd0i4bkey2j46qir8r6togis5r</sha1>
     </revision>
   </page>
   <page>
@@ -5079,15 +5095,15 @@ Johnson plays as a [[Defender (association football)#Centre-back|central defende
     <ns>0</ns>
     <id>25876589</id>
     <revision>
-      <id>885061160</id>
-      <parentid>883415120</parentid>
-      <timestamp>2019-02-25T18:45:34Z</timestamp>
+      <id>887170769</id>
+      <parentid>887094585</parentid>
+      <timestamp>2019-03-11T01:17:18Z</timestamp>
       <contributor>
-        <ip>46.103.107.218</ip>
+        <ip>78.87.149.231</ip>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="15491">{{Use dmy dates|date=January 2015}}
+      <text xml:space="preserve" bytes="15412">{{Use dmy dates|date=January 2015}}
 {{Portuguese name|Gonçalves|Miranda}}
 {{Infobox football biography
 |name = Roderick
@@ -5107,12 +5123,12 @@ Johnson plays as a [[Defender (association football)#Centre-back|central defende
 |years4 = 2012–2013 | clubs4 = [[S.L. Benfica B|Benfica B]] | caps4 = 5 | goals4 = 0
 |years5 = 2013–2017 | clubs5 = [[Rio Ave F.C.|Rio Ave]] | caps5 = 72 | goals5 = 4
 |years6 = 2017– | clubs6 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] | caps6 = 17 | goals6 = 0
-|years7 = 2018– | clubs7 = → [[Olympiacos F.C.|Olympiacos]] (loan) | caps7 = 6 | goals7 = 0
+|years7 = 2018– | clubs7 = → [[Olympiacos F.C.|Olympiacos]] (loan) | caps7 = 8 | goals7 = 0
 |nationalyears1 = 2007 | nationalteam1 = [[Portugal national under-17 football team|Portugal U17]] | nationalcaps1 = 6 | nationalgoals1 = 0
 |nationalyears2 = 2008 | nationalteam2 = [[Portugal national under-18 football team|Portugal U18]] | nationalcaps2 = 3 | nationalgoals2 = 0
 |nationalyears3 = 2008–2010 | nationalteam3 = [[Portugal national under-19 football team|Portugal U19]] | nationalcaps3 = 22 | nationalgoals3 = 0
 |nationalyears4 = 2010–2011 | nationalteam4 = [[Portugal national under-20 football team|Portugal U20]] | nationalcaps4 = 14 | nationalgoals4 = 0
-|club-update = 21:26, 25 February 2019 (UTC)
+|club-update = 21:55, 10 March 2019 (UTC)
 |nationalteam-update = 
 }}
 '''Roderick Jefferson Gonçalves Miranda''' (born 30 March 1991), known simply as '''Roderick''', is a Portuguese professional [[Association football|footballer]] who plays as a [[Defender (association football)#Centre-back|central defender]] for Greek club [[Olympiacos F.C.|Olympiacos]] on [[Loan (sports)|loan]] from English club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].
@@ -5240,14 +5256,12 @@ Of [[Brazilians|Brazilian descent]],&lt;ref&gt;{{cite news|url=http://www.record
 {{Reflist}}
 
 ==External links==
-* {{Zerozero}}
 * {{ForaDeJogo}}
-* {{Soccerbase|58459}}
+* {{Soccerbase}}
 * [https://www.fpf.pt/pt/Jogadores/Pesquisar-Jogadores-Internacionais/Jogador/playerId/563680 National team data] {{pt icon}}
-* {{FIFA player|336503}}
+* {{FIFA player}}
 
 {{Olympiacos F.C. squad}}
-&lt;!-- {{Wolverhampton Wanderers F.C. squad}} --&gt;
 
 {{DEFAULTSORT:Miranda, Roderick}}
 [[Category:1991 births]]
@@ -5278,7 +5292,7 @@ Of [[Brazilians|Brazilian descent]],&lt;ref&gt;{{cite news|url=http://www.record
 [[Category:Portuguese expatriate sportspeople in Switzerland]]
 [[Category:Portuguese expatriate sportspeople in Spain]]
 [[Category:Portuguese expatriate sportspeople in England]]</text>
-      <sha1>4cyrviraawozonnt0hgkc06hjox256y</sha1>
+      <sha1>5giuifeyr4auugce426ii4rdjf5cch1</sha1>
     </revision>
   </page>
   <page>
@@ -5533,17 +5547,17 @@ Herc made his professional [[Slovak First Football League|Fortuna Liga]] debut f
     <ns>0</ns>
     <id>52619444</id>
     <revision>
-      <id>886018005</id>
-      <parentid>883597778</parentid>
-      <timestamp>2019-03-03T20:15:02Z</timestamp>
+      <id>887556407</id>
+      <parentid>886018005</parentid>
+      <timestamp>2019-03-13T11:21:17Z</timestamp>
       <contributor>
-        <username>Crotty2001</username>
-        <id>31316383</id>
+        <username>Cazza3012</username>
+        <id>7072794</id>
       </contributor>
-      <comment>/* Career */Fixed typo</comment>
+      <comment>Updated via Soccerway</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="9104">{{Infobox football biography
+      <text xml:space="preserve" bytes="9108">{{Infobox football biography
 |name           = Connor Ronan
 |image          = 
 |image_size     = 
@@ -5554,7 +5568,7 @@ Herc made his professional [[Slovak First Football League|Fortuna Liga]] debut f
 |height         = 1.78 m&lt;ref&gt;{{cite web |title=Connor Ronan |publisher=Walsall F.C. |accessdate=7 December 2018 |url= https://www.saddlers.co.uk/teams/first-team/midfielder/connor-ronan/}}&lt;/ref&gt;
 |position       = [[Midfielder]]
 |currentclub    = [[FC DAC 1904 Dunajská Streda|Dunajská Streda]]&lt;br&gt;
- &lt;small&gt;(on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]])&lt;/small&gt;
+(on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]])
 |clubnumber     = 27
 |youthyears1    = {{0|0000}}–2009
 |youthclubs1    = Copperpot J.F.C.
@@ -5576,7 +5590,7 @@ Herc made his professional [[Slovak First Football League|Fortuna Liga]] debut f
 |goals3         = 0
 |years4         = 2019
 |clubs4         = → [[FC DAC 1904 Dunajská Streda|Dunajská Streda]] (loan)
-|caps4          = 0
+|caps4          = 4
 |goals4         = 0
 |nationalyears1 = 2015
 |nationalteam1  = [[England national under-17 football team|England U17]]
@@ -5594,10 +5608,10 @@ Herc made his professional [[Slovak First Football League|Fortuna Liga]] debut f
 |nationalteam4  = [[Republic of Ireland national under-21 football team|Republic of Ireland U21]]
 |nationalcaps4  = 2
 |nationalgoals4 = 0
-|club-update = 15 February 2019 (UTC)
+|club-update =11:21, 13 March 2019 (UTC)
 }}
 
-'''Connor Patrick Ronan''' (born 6 March 1998) is a professional [[Association football|footballer]] who plays as a [[midfielder]] for [[FC DAC 1904 Dunajská Streda]], on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]. He was born in England, but represents Republic of Ireland at international youth level.
+'''Connor Patrick Ronan''' (born 6 March 1998) is a professional [[Association football|footballer]] who plays as a [[midfielder]] for [[FC DAC 1904 Dunajská Streda|Dunajská Streda]], on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]. He was born in England, but represents Republic of Ireland at international youth level.
 
 ==Career==
 Ronan started his career by Copperpot J.F.C.&lt;ref&gt;[https://www.rochdaleonline.co.uk/sites/copperpot-jfc/under-11s-win-bowlee-tournament The semi was a more open game and Copperpot stormed to a 2 goal lead through Connor Ronan and Sam Astin to progress.]&lt;/ref&gt; and attended [[St Cuthbert's RC High School]] in [[Rochdale]] with whom he reached the final of the English National Schools Cup as a year 7 in 2009 with a team that also included [[Axel Tuanzebe]], Kisimba Kisimba and [[Johny Diba]], who all went on to become pros.&lt;ref&gt;http://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-youngster-axel-tuanzebe-10396435&lt;/ref&gt; He then joined [[Rochdale A.F.C.|Rochdale]], his boyhood club in which he stayed there until he joined [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] at the age of 16.&lt;ref&gt;{{cite news|title=Five Things We Have Learned About Connor Ronan|url=http://www.wolves.co.uk/news/article/five-things-we-have-learned-about-connor-ronan-2279740.aspx|work=[[Wolverhampton Wanderers F.C.]]|publisher=EFL Digital Limited|date=2 February 2015|accessdate=17 December 2016}}&lt;/ref&gt; Ronan made three appearances for the team's [[Wolverhampton Wanderers F.C. Development Squad and Academy|development squad]] in the [[2016–17 EFL Trophy]], scoring a goal in their 4–0 win over [[EFL League Two]] team [[Accrington Stanley F.C.|Accrington Stanley]].&lt;ref&gt;{{cite news|title=Youngsters Make Progress In Cup|url=http://www.wolves.co.uk/news/article/2016-17/report-youngsters-make-progress-in-cup-3406677.aspx|work=[[Wolverhampton Wanderers F.C.]]|publisher=EFL Digital Limited|date=8 November 2016|accessdate=17 December 2016}}&lt;/ref&gt; With [[Paul Lambert]] as manager, Ronan was part of the first-team squad for the first time on 26 November 2016,&lt;ref&gt;{{cite news|url=https://www.expressandstar.com/sport/wolverhampton-wanderers-fc/2016/11/26/wolves-vs-sheffield-wednesday-live/|title=Wolves 0 Sheffield Wednesday 2 - As it happened|date=26 November 2016|accessdate=17 December 2016|work=[[Express &amp; Star]]|publisher=[[MNA Media]]}}&lt;/ref&gt; as an unused substitute in the 2–0 defeat to [[Sheffield Wednesday F.C.|Sheffield Wednesday]]. Ronan made his debut on 17 December 2016, replacing [[Hélder Costa (footballer)|Hélder Costa]] for the final nine minutes of the team's 2–0 win over [[Nottingham Forest F.C.|Nottingham Forest]].&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/sport/football/38271717|title=Nottingham Forest 0-2 Wolverhampton Wanderers|date=17 December 2016|accessdate=17 December 2016|work=[[BBC Sport]]|publisher=[[BBC]]}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.expressandstar.com/sport/wolverhampton-wanderers-fc/2016/12/17/nottingham-forest-0-wolves-2-report/soccer-sky-bet-championship-nottingham-forest-v-wolverhampton-wanderers-41/|title=Nottingham Forest 0 Wolves 2 - Report and pictures|date=17 December 2016|accessdate=17 December 2016|work=[[Express &amp; Star]]|publisher=[[MNA Media]]|quote=Lambert did too. He sent on youngster Connor Ronan for his professional debut in place of Costa.}}&lt;/ref&gt;
@@ -5679,7 +5693,7 @@ Ronan returned to Wolves at the conclusion of his loan spell, making 15 appearan
 [[Category:FC DAC 1904 Dunajská Streda players]]
 [[Category:English Football League players]]
 [[Category:Expatriate footballers in Slovakia]]</text>
-      <sha1>bciuon2ks3hk7ajdwwaee5m8y6wn1fd</sha1>
+      <sha1>njkg0vm5gc2dgvoipy3aakgt1iqn9fl</sha1>
     </revision>
   </page>
   <page>
@@ -5807,12 +5821,13 @@ After beginning his career with [[S.B.V. Excelsior|Excelsior]] and [[NAC Breda]]
     <ns>0</ns>
     <id>48641672</id>
     <revision>
-      <id>881178139</id>
-      <parentid>876317425</parentid>
-      <timestamp>2019-01-31T22:46:03Z</timestamp>
+      <id>887773552</id>
+      <parentid>881178139</parentid>
+      <timestamp>2019-03-14T19:09:17Z</timestamp>
       <contributor>
-        <ip>86.155.176.167</ip>
+        <ip>93.70.174.232</ip>
       </contributor>
+      <comment>https://www.transfermarkt.com/rafa-mir/profil/spieler/361254</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="10518">{{Spanish name|Mir|Vicente}}
@@ -5824,7 +5839,7 @@ After beginning his career with [[S.B.V. Excelsior|Excelsior]] and [[NAC Breda]]
 | fullname = Rafael Mir Vicente
 | birth_date = {{Birth date and age|1997|6|18|df=yes}}
 | birth_place = [[Murcia]], Spain
-| height = 1.89 m
+| height = 1.91 m
 | position = [[Forward (association football)|Forward]]
 | currentclub = [[UD Las Palmas|Las Palmas]]&lt;br/&gt;(on loan from [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]])
 | clubnumber = 9
@@ -5960,7 +5975,7 @@ Mir, who idolised German forward [[Mario Gómez]], is the son of former defender
 [[Category:Spanish expatriate footballers]]
 [[Category:Spanish expatriate sportspeople in England]]
 [[Category:Expatriate footballers in England]]</text>
-      <sha1>r4x13evjbi2sf8qrbsvgmx06irs5ir3</sha1>
+      <sha1>m8al2l2turcfj9116j0jf69cyprmr56</sha1>
     </revision>
   </page>
   <page>
@@ -5968,28 +5983,29 @@ Mir, who idolised German forward [[Mario Gómez]], is the son of former defender
     <ns>0</ns>
     <id>15814811</id>
     <revision>
-      <id>835992366</id>
-      <parentid>798796303</parentid>
-      <timestamp>2018-04-12T01:06:08Z</timestamp>
+      <id>887578197</id>
+      <parentid>835992366</parentid>
+      <timestamp>2019-03-13T14:43:36Z</timestamp>
       <contributor>
-        <username>Tassedethe</username>
-        <id>7098284</id>
+        <username>GiantSnowman</username>
+        <id>1005449</id>
       </contributor>
-      <comment>Adding [[David N.K. Wang]] using [[tools:~dispenser/cgi-bin/dabfix.py|Dabfix]]</comment>
+      <comment>+1</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="412">'''David Wang''' may refer to:
+      <text xml:space="preserve" bytes="446">'''David Wang''' may refer to:
 
 *[[David Wang (Australia)]] (1920&amp;ndash;1978), first Chinese Australian elected to the Melbourne City Council
 *[[David Der-wei Wang]] (born 1954), scholar of Chinese literature
 *[[David Wang (hacker)]], jail break developer and mobile phone hacker
 *[[David N.K. Wang]], CEO of Semiconductor Manufacturing Int'l
+*[[Dave Wang]], singer-songwriter
 
 ==See also==
 *[[David Wong (disambiguation)]]
 
 {{hndis|Wang, David}}</text>
-      <sha1>gvxi933ukoe1a6da7zqz4iopy53h99p</sha1>
+      <sha1>qq1ymnucd4ozumtsxue6vyie6v3xfj0</sha1>
     </revision>
   </page>
   <page>
