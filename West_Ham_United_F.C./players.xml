@@ -1515,17 +1515,16 @@ In June 2018, he worked as a pundit for the BBC's [[Match of the Day]] [[2018 FI
     <ns>0</ns>
     <id>11395170</id>
     <revision>
-      <id>888895819</id>
-      <parentid>888063795</parentid>
-      <timestamp>2019-03-22T02:06:45Z</timestamp>
+      <id>889406742</id>
+      <parentid>889406725</parentid>
+      <timestamp>2019-03-25T14:16:20Z</timestamp>
       <contributor>
-        <username>Egghead06</username>
-        <id>3004667</id>
+        <ip>194.80.219.41</ip>
       </contributor>
-      <comment>v POL</comment>
+      <comment>Correct as of match played 24/3/19</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="51281">{{Use dmy dates|date=September 2018}}
+      <text xml:space="preserve" bytes="51615">{{Use dmy dates|date=September 2018}}
 {{Infobox football biography
 | name           = Marko Arnautović
 | image          = 20180610 FIFA Friendly Match Austria vs. Brazil Marko Arnautović 850 1633.jpg
@@ -1554,8 +1553,8 @@ In June 2018, he worked as a pundit for the BBC's [[Match of the Day]] [[2018 FI
 | nationalyears1 = 2006     |nationalteam1 = Austria U18                                             |nationalcaps1 = 1          |nationalgoals1 = 0
 | nationalyears2 = 2007     |nationalteam2 = [[Austria national under-19 football team|Austria U19]] |nationalcaps2 = 4    |nationalgoals2 = 0
 | nationalyears3 = 2007–2010|nationalteam3 = [[Austria national under-21 football team|Austria U21]] |nationalcaps3 = 5    |nationalgoals3 = 3
-| nationalyears4 = 2008–    |nationalteam4 = [[Austria national football team|Austria]]              |nationalcaps4 = 78     |nationalgoals4 = 20
-| ntupdate       = 02:06, 22 March 2019 (UTC)
+| nationalyears4 = 2008–    |nationalteam4 = [[Austria national football team|Austria]]              |nationalcaps4 = 79     |nationalgoals4 = 22
+| ntupdate       = 22:06, 24 March 2019 (UTC)
 }}
 
 '''Marko Arnautović''' ({{IPA-de|ˈmaʁkoː aʁˈnaʊtovɪtʃ}}; {{lang-sr-cyr|Марко Арнаутовић}}, {{IPA-sh|mâːrko arnǎutoʋitɕ|pron}}; born 19 April 1989) is an Austrian professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Premier League]] club [[West Ham United F.C.|West Ham United]] and the [[Austria national football team|Austrian national team]].
@@ -1722,14 +1721,14 @@ Arnautović is an [[Serbian Orthodox Church|Orthodox Christian]].&lt;ref&gt;{{ci
 ===International===
 [[File:AUT vs. MDA 2015-09-05 (060).jpg|thumb|right|Arnautović playing for [[Austria national football team|Austria]] in September 2015]]
 
-{{updated|match played 12 October 2018}}&lt;ref name=NFT&gt;{{NFT player|id=27848|name=Arnautović, Marko|accessdate=4 July 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Marko Arnautovic|url=http://eu-football.info/_player.php?id=26825|website=eu-football-info|accessdate=9 September 2015}}&lt;/ref&gt;
+{{updated|match played 24 March 2019}}&lt;ref name=NFT&gt;{{NFT player|id=27848|name=Arnautović, Marko|accessdate=4 July 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Marko Arnautovic|url=http://eu-football.info/_player.php?id=26825|website=eu-football-info|accessdate=9 September 2015}}&lt;/ref&gt;
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by national team and year
 |-
 !National team!!Year!!Apps!!Goals
 |-
-|rowspan=12|[[Austria national football team|Austria]]
+|rowspan=13|[[Austria national football team|Austria]]
 |-
 |2008||3||0
 |-
@@ -1751,13 +1750,15 @@ Arnautović is an [[Serbian Orthodox Church|Orthodox Christian]].&lt;ref&gt;{{ci
 |-
 |2017||7||3
 |-
-|2018||8||4
+|2018||10||4
 |-
-!colspan=2|Total!!75!!20
+|2019||2||2
+|-
+!colspan=2|Total!!79!!22
 |}
 
 ===International goals===
-:''As of match played 12 October 2018. Austria score listed first, score column indicates score after each Arnautović goal.''&lt;ref name="Soccerway"/&gt;
+:''As of match played 24 March 2019. Austria score listed first, score column indicates score after each Arnautović goal.''&lt;ref name="Soccerway"/&gt;
 
 {| class="wikitable sortable plainrowheaders"
 |+ International goals by date, venue, cap, opponent, score, result and competition
@@ -1830,6 +1831,13 @@ Arnautović is an [[Serbian Orthodox Church|Orthodox Christian]].&lt;ref&gt;{{ci
 |-
 !scope=row style=text-align:center|20
 |12 October 2018||[[Ernst-Happel-Stadion]], Vienna, Austria||align=center|75||{{fb|NIR}}||align=center|1–0||align=center|1–0||[[2018–19 UEFA Nations League B]]
+|-
+!scope=row style=text-align:center|21
+|rowspan=2|24 March 2019||rowspan=2|[[Sammy Ofer Stadium]], Haifa, Israel||rowspan=2 align=center|79||rowspan=2|{{fb|ISR}}||align=center|1–0||rowspan=2 align=center|2–4||rowspan=2|[[UEFA Euro 2020 qualification]]
+|-
+!scope=row style=text-align:center|22
+|align=center|2–4
+|-
 |}
 
 ==Honours==
@@ -1889,7 +1897,7 @@ Arnautović is an [[Serbian Orthodox Church|Orthodox Christian]].&lt;ref&gt;{{ci
 [[Category:UEFA Euro 2016 players]]
 [[Category:Serb diaspora sportspeople]]
 [[Category:UEFA Champions League winning players]]</text>
-      <sha1>dknfcyyvlmhheb0xtcufs8x0nxipz1r</sha1>
+      <sha1>qt8vn1l2r31puu6yv3xc94wv1me8iu1</sha1>
     </revision>
   </page>
   <page>
@@ -1897,15 +1905,18 @@ Arnautović is an [[Serbian Orthodox Church|Orthodox Christian]].&lt;ref&gt;{{ci
     <ns>0</ns>
     <id>29151731</id>
     <revision>
-      <id>888182471</id>
-      <parentid>888060259</parentid>
-      <timestamp>2019-03-17T13:42:51Z</timestamp>
+      <id>889144526</id>
+      <parentid>888182471</parentid>
+      <timestamp>2019-03-23T19:50:38Z</timestamp>
       <contributor>
-        <ip>2A01:4C8:100F:F9:1:2:282A:FCE</ip>
+        <username>Inter&amp;anthro</username>
+        <id>18180119</id>
       </contributor>
+      <minor/>
+      <comment>update</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="33207">{{Portuguese name|Pereira|Gomes}}
+      <text xml:space="preserve" bytes="33237">{{Portuguese name|Pereira|Gomes}}
 {{Infobox football biography
 | name = Felipe Anderson
 | image = FC Salzburg gegen S.S. Lazio Rom Euroleague-Viertelfinale (12. April 2018) 15.jpg
@@ -1956,10 +1967,10 @@ Arnautović is an [[Serbian Orthodox Church|Orthodox Christian]].&lt;ref&gt;{{ci
 | nationalgoals3 = 1
 | nationalyears4 = 2015–
 | nationalteam4 = [[Brazil national football team|Brazil]]
-| nationalcaps4 = 1
+| nationalcaps4 = 2
 | nationalgoals4 = 0
 | club-update = 17:28, 16 March 2019 (UTC)
-| nationalteam-update = 15 June 2015
+| nationalteam-update = 23 March 2019
 | medaltemplates = {{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
 {{MedalGold|[[2016 Summer Olympics|2016 Rio de Janeiro]]|[[Football at the 2016 Summer Olympics – Men's tournament|Team]]}}
 }}
@@ -2084,17 +2095,19 @@ A quick, well-rounded, and technically gifted [[midfielder]], with a slender and
 {{notelist}}
 
 ===International===
-{{updated|match played 7 June 2015}}&lt;ref&gt;{{NFT player |id=59370 |name=Felipe Anderson |accessdate=11 February 2019}}&lt;/ref&gt;
+{{updated|match played 23 March 2019}}&lt;ref&gt;{{NFT player |id=59370 |name=Felipe Anderson |accessdate=11 February 2019}}&lt;/ref&gt;
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by national team and year
 |-
 !National team!!Year!!Apps!!Goals
 |-
-|[[Brazil national football team|Brazil]]
+|rowspan="2"|[[Brazil national football team|Brazil]]
 |2015||1||0
 |-
-!colspan=2|Total||1||0
+|2019||1||0
+|-
+!colspan=2|Total||2||0
 |}
 
 ==Honours==
@@ -2147,7 +2160,7 @@ A quick, well-rounded, and technically gifted [[midfielder]], with a slender and
 [[Category:Olympic medalists in football]]
 [[Category:Medalists at the 2016 Summer Olympics]]
 [[Category:Premier League players]]</text>
-      <sha1>6ds4iar0yaxa5vkl9ed6nnj163muimr</sha1>
+      <sha1>df0v0z92alhiupetquds8jz7hmm4w96</sha1>
     </revision>
   </page>
   <page>
@@ -3245,16 +3258,18 @@ On 3 March 2017, another arrest warrant was issued for him after he failed to at
     <ns>0</ns>
     <id>28848837</id>
     <revision>
-      <id>888977862</id>
-      <parentid>888977808</parentid>
-      <timestamp>2019-03-22T16:44:13Z</timestamp>
+      <id>889387452</id>
+      <parentid>889207677</parentid>
+      <timestamp>2019-03-25T11:05:45Z</timestamp>
       <contributor>
-        <username>Mediocre Legacy</username>
-        <id>26557663</id>
+        <username>DandyShells17</username>
+        <id>36177992</id>
       </contributor>
+      <minor/>
+      <comment>added a quote to what he has said before</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="16485">{{spanish name 2|Obiang|Avomo}}
+      <text xml:space="preserve" bytes="17002">{{spanish name 2|Obiang|Avomo}}
 {{Use dmy dates|date=January 2018}}
 {{Infobox football biography
 | name                = Pedro Obiang
@@ -3320,7 +3335,7 @@ Obiang has been capped for Spain at youth levels. Obiang received a call up for 
 
 Due to his [[Beti-Pahuin peoples#Fang|Fang]] background, the [[Gabonese Football Federation]] tried unsuccessfully to persuade Obiang to play for [[Gabon national football team|Gabon]], although both his parents and his grandparents are from [[Equatorial Guinea]]. In November 2011, they included him in a squad list for a match between [[Gabon national under-20 football team|the country's under-20]] and [[China PR national under-20 football team|China]], however he ignored the call.&lt;ref&gt;{{cite web|url=http://www.les-pantheres.com/site/index.php?option%3Dcom_content%26view%3Darticle%26id%3D1463%3Aliste-des-preselectionnes-u20-gabon-vs-chine-du-27-novembre-2011-a-libreville%26catid%3D48%3Afootball%26Itemid%3D78 |title=Liste des présélectionnés U20 (Gabon vs Chine) du 27 novembre 2011 à Libreville| accessdate=20 November 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20120419065232/http://www.les-pantheres.com/site/index.php?option=com_content&amp;view=article&amp;id=1463:liste-des-preselectionnes-u20-gabon-vs-chine-du-27-novembre-2011-a-libreville&amp;catid=48:football&amp;Itemid=78 |archivedate=19 April 2012 }}&lt;/ref&gt;
 
-Being eligible to represent [[Equatorial Guinea national football team|Equatorial Guinea]], in 2011, [[Equatoguinean Football Federation|the country's federation]] approached Obiang to enquire if he would be willing to represent the country at the [[2012 Africa Cup of Nations]], however Obiang declined.&lt;ref&gt;{{Cite web |url=http://www.libertaddigital.com/deportes/futbol/2013-11-15/perico-obiang-el-sobrino-del-dictador-que-rechaza-jugar-con-guinea-ecuatorial-1276504256/|title=Perico Obiang, el sobrino del dictador que juega en la Sampdoria|publisher=Libertad Digital|date=15 November 2013|accessdate=6 September 2016|language=Spanish}}&lt;/ref&gt; In April 2015, after a meeting with the Equatoguinean Football Federation people, Obiang's stance on representing Equatorial Guinea appeared to have changed after showing a desire to play for the country.&lt;ref&gt;{{Cite web |url=http://www.guineaecuatorialpress.com/noticia.php?id=6430|title=Reunión de la Feguifut con Perico Mba Obiang|publisher=guineaecuatorialpress.com|date=13 April 2015|accessdate=6 September 2016|language=Spanish}}&lt;/ref&gt; On 5 October 2016, Obiang reunited in London with Equatoguinean Football Federation president Andrés Mbomio, and Equatoguinean national team head coach and coordinator [[Esteban Becker]] and [[Juvenal Edjogo-Owono]] respectively to reach an agreement.&lt;ref&gt;{{Cite web |url=http://www.feguifut.org/noticia/reunion-cumbre-del-presidente-de-la-feguifut-y-pedro-obiang|title=Reunión cumbre del Presidente de la FEGUIFUT y Pedro Obiang|publisher=[[Equatoguinean Football Federation]]|date=6 October 2016|accessdate=7 October 2016|language=Spanish}}&lt;/ref&gt;
+Being eligible to represent [[Equatorial Guinea national football team|Equatorial Guinea]], in 2011, [[Equatoguinean Football Federation|the country's federation]] approached Obiang to enquire if he would be willing to represent the country at the [[2012 Africa Cup of Nations]], however Obiang declined, which he later claimed was a mistake.&lt;ref&gt;{{Cite web |url=http://www.libertaddigital.com/deportes/futbol/2013-11-15/perico-obiang-el-sobrino-del-dictador-que-rechaza-jugar-con-guinea-ecuatorial-1276504256/|title=Perico Obiang, el sobrino del dictador que juega en la Sampdoria|publisher=Libertad Digital|date=15 November 2013|accessdate=6 September 2016|language=Spanish}}&lt;/ref&gt; In April 2015, after a meeting with the Equatoguinean Football Federation people, Obiang's stance on representing Equatorial Guinea appeared to have changed after showing a desire to play for the country.&lt;ref&gt;{{Cite web |url=http://www.guineaecuatorialpress.com/noticia.php?id=6430|title=Reunión de la Feguifut con Perico Mba Obiang|publisher=guineaecuatorialpress.com|date=13 April 2015|accessdate=6 September 2016|language=Spanish}}&lt;/ref&gt; On 5 October 2016, Obiang reunited in London with Equatoguinean Football Federation president Andrés Mbomio, and Equatoguinean national team head coach and coordinator [[Esteban Becker]] and [[Juvenal Edjogo-Owono]] respectively to reach an agreement.&lt;ref&gt;{{Cite web |url=http://www.feguifut.org/noticia/reunion-cumbre-del-presidente-de-la-feguifut-y-pedro-obiang|title=Reunión cumbre del Presidente de la FEGUIFUT y Pedro Obiang|publisher=[[Equatoguinean Football Federation]]|date=6 October 2016|accessdate=7 October 2016|language=Spanish}}&lt;/ref&gt;
 
 On 7 November 2018, Obiang was officially called up for the Equatorial Guinea national team.&lt;ref&gt;{{cite web|url=http://www.feguifut.org/noticia/convocatoria-nzalang-nacional|title=Convocatoria Nzalang Nacional|language=es|date=7 November 2018|accessdate=8 November 2018|publisher=FEGUIFUT}}&lt;/ref&gt; Obiang made his debut for Equatorial Guinea in a 1–0 loss to [[Senegal national football team|Senegal]] on 18 November 2018.&lt;ref&gt;{{cite web|url=https://www.whufc.com/news/articles/2018/november/19-november/obiang-makes-equatorial-guinea-debut|title=Obiang makes Equatorial Guinea debut - West Ham United|website=www.whufc.com}}&lt;/ref&gt; In December 2018 he said he was "proud" to play for the nation.&lt;ref&gt;https://www.bbc.co.uk/sport/football/46632747&lt;/ref&gt;
 
@@ -3392,7 +3407,7 @@ On 7 November 2018, Obiang was officially called up for the Equatorial Guinea na
 {{notelist}}
 
 ===International===
-{{updated|match played 22 March 2019}}&lt;ref&gt;{{NFT player |id=72604 |name=Obiang, Pedro |accessdate=10 February 2019}}&lt;/ref&gt;
+{{updated|match played 22 March 2019}}&lt;ref name="NFT"&gt;{{NFT player |id=72604 |name=Obiang, Pedro |accessdate=10 February 2019}}&lt;/ref&gt;
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by national team and year
@@ -3405,6 +3420,15 @@ On 7 November 2018, Obiang was officially called up for the Equatorial Guinea na
 |2019||1||1
 |-
 !colspan=2|Total||2||1
+|}
+
+===International goals===
+:''Scores and results list Equatorial Guinea's goal tally first.''&lt;ref name="NFT"/&gt;
+
+{| class="wikitable" style="font-size:100%;"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 22 March 2019 || [[Al-Hilal Stadium]], [[Omdurman]], [[Sudan]] || {{fb|SUD}} || align=center | '''4'''–1 || align=center | 4–1 || [[2019 Africa Cup of Nations qualification Group A|2019 Africa Cup of Nations qualification]]
 |}
 
 ==References==
@@ -3442,7 +3466,7 @@ On 7 November 2018, Obiang was officially called up for the Equatorial Guinea na
 [[Category:Spanish expatriate sportspeople in England]]
 [[Category:Equatoguinean expatriate sportspeople in Italy]]
 [[Category:Spanish expatriate sportspeople in Italy]]</text>
-      <sha1>qtkjt4dxpgkyljzj3rzzzd086v6tj45</sha1>
+      <sha1>jghj3f6cdv5yes7ai1prc185giywxqa</sha1>
     </revision>
   </page>
   <page>
@@ -4004,17 +4028,17 @@ Noble has been married to childhood sweetheart Carly since 2012.&lt;ref&gt;{{cit
     <ns>0</ns>
     <id>13383154</id>
     <revision>
-      <id>888124791</id>
-      <parentid>888124692</parentid>
-      <timestamp>2019-03-17T02:14:02Z</timestamp>
+      <id>889260019</id>
+      <parentid>889255918</parentid>
+      <timestamp>2019-03-24T15:22:14Z</timestamp>
       <contributor>
-        <username>Rapid Editor</username>
-        <id>23110481</id>
+        <username>Mediocre Legacy</username>
+        <id>26557663</id>
       </contributor>
-      <comment>/* 2018–19 season */</comment>
+      <comment>/* International */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="97974">{{other uses}}
+      <text xml:space="preserve" bytes="97993">{{other uses}}
 {{Use dmy dates|date=December 2018}}
 {{Use British English|date=June 2011}}
 {{pp-semi-blp|small=yes}}
@@ -4059,10 +4083,10 @@ Noble has been married to childhood sweetheart Carly since 2012.&lt;ref&gt;{{cit
 | nationalgoals1 = 1
 | nationalyears2 = 2009–
 | nationalteam2 = [[Mexico national football team|Mexico]]
-| nationalcaps2 = 105
+| nationalcaps2 = 107
 | nationalgoals2 = 50
 | club-update = 17:16, 16 March 2019 (UTC)
-| ntupdate = 16:01, 2 July 2018 (UTC)
+| ntupdate = 08:50, 24 March 2019 (UTC)
 | medaltemplates = {{MedalCountry|{{fb|MEX}}}}
 {{MedalCompetition|[[CONCACAF Gold Cup]]}}
 {{medalW|[[2011 CONCACAF Gold Cup|2011 United States]]|}}
@@ -4330,17 +4354,17 @@ Hernández is commonly known as ''Chicharito'', meaning ''little [[pea]]'' in Sp
 ===International===
 {{details|List of international goals scored by Javier Hernández}}
 
-{{updated|match played 2 July 2018}}&lt;ref name=RSSSF&gt;[http://www.rsssf.com/miscellaneous/jhernandez-intlg.html Javier "Chicharito" Hernández – Goals in International Matches]. Rec.Sport.Soccer Statistics Foundation&lt;/ref&gt;&lt;ref name="NFT"&gt;{{NFT player|id=33654|name=Javier Hernández|accessdate=2 September 2011}}&lt;/ref&gt;
+{{updated|match played 22 March 2019}}&lt;ref name=RSSSF&gt;[http://www.rsssf.com/miscellaneous/jhernandez-intlg.html Javier "Chicharito" Hernández – Goals in International Matches]. Rec.Sport.Soccer Statistics Foundation&lt;/ref&gt;&lt;ref name="NFT"&gt;{{NFT player|id=33654|name=Javier Hernández|accessdate=2 September 2011}}&lt;/ref&gt;
 
 {| class=wikitable style=text-align:center
 |+ Appearances and goals by national team and year
 |-
 !National team!!Year!!Apps!!Goals
 |-
-|rowspan=10|[[Mexico national football team|Mexico]]
+|rowspan=11|[[Mexico national football team|Mexico]]
 |2009||1||0
 |-
-|2010||18||11
+|2010||19||11
 |-
 |2011||13||12
 |-
@@ -4358,7 +4382,9 @@ Hernández is commonly known as ''Chicharito'', meaning ''little [[pea]]'' in Sp
 |-
 |2018||7||1
 |-
-!colspan=2|Total||105||50
+|2019||1||0
+|-
+!colspan=2|Total||107||50
 |}
 
 ==Honours==
@@ -4469,7 +4495,7 @@ Hernández is commonly known as ''Chicharito'', meaning ''little [[pea]]'' in Sp
 [[Category:West Ham United F.C. players]]
 [[Category:2018 FIFA World Cup players]]
 [[Category:FIFA Century Club]]</text>
-      <sha1>5y0z0h4q1ug95vbkw96ugr96wcw1q3i</sha1>
+      <sha1>7ei97w9bh8kdctwqo6wbd4mvi1hxir1</sha1>
     </revision>
   </page>
   <page>
@@ -7449,17 +7475,16 @@ On 13 February 2019, Rice pledged his future to England.&lt;ref&gt; {{cite web |
     <ns>0</ns>
     <id>58585784</id>
     <revision>
-      <id>887951059</id>
-      <parentid>887929360</parentid>
-      <timestamp>2019-03-15T22:27:13Z</timestamp>
+      <id>889047066</id>
+      <parentid>887951059</parentid>
+      <timestamp>2019-03-23T02:12:39Z</timestamp>
       <contributor>
-        <username>Egghead06</username>
-        <id>3004667</id>
+        <username>Andycwalker</username>
+        <id>35696410</id>
       </contributor>
-      <comment>Reverted 1 edit by [[Special:Contributions/146.198.179.42|146.198.179.42]] ([[User talk:146.198.179.42|talk]]): Guess work  ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="8600">{{Infobox football biography
+      <text xml:space="preserve" bytes="8597">{{Infobox football biography
 | name        = Grady Diangana
 | fullname    = Grady Diangana&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/844127|title=2018/19 Premier League squads confirmed|publisher=Premier League |date=3 September 2018 |accessdate=28 December 2018}}&lt;/ref&gt;
 | image = Grady Diangana - December 2018.jpg
@@ -7477,9 +7502,9 @@ On 13 February 2019, Rice pledged his future to England.&lt;ref&gt; {{cite web |
 | club-update    = 27 February 2019 (UTC)
 | nationalyears1 = 2018–
 | nationalteam1 = [[England national under-20 football team|England U20]]
-| nationalcaps1 = 1
+| nationalcaps1 = 2
 | nationalgoals1 = 0
-| nationalteam-update = 21:39, 27 December 2018 (UTC)
+| nationalteam-update = 02:12, 23 March 2019 (UTC)
 }}
 
 '''Grady Diangana''' (born 19 April 1998) is a Congolese-born English professional [[Association football|footballer]] who plays for [[West Ham United]] as an [[attacking midfielder]]. He wears '''Diang ''' as his shirt name.
@@ -7557,7 +7582,7 @@ Diangana generally plays as a right-sided attacking midfielder but can play acro
 [[Category:English people of Democratic Republic of the Congo descent]]
 [[Category:Premier League players]]
 [[Category:England youth international footballers]]</text>
-      <sha1>jgne2li7pmkc8n0ipoi3411tbrcr16q</sha1>
+      <sha1>dji2e6ysrn6r8lmweatnyghjgprqv70</sha1>
     </revision>
   </page>
   <page>
@@ -8558,17 +8583,17 @@ Fernandes was born in [[Sion, Switzerland]], of Portuguese and Cape Verdean desc
     <ns>0</ns>
     <id>47448888</id>
     <revision>
-      <id>888588394</id>
-      <parentid>888588391</parentid>
-      <timestamp>2019-03-20T03:06:07Z</timestamp>
+      <id>889132833</id>
+      <parentid>888588394</parentid>
+      <timestamp>2019-03-23T18:11:17Z</timestamp>
       <contributor>
-        <username>Oshwah</username>
-        <id>3174456</id>
+        <username>S.A. Julio</username>
+        <id>26343411</id>
       </contributor>
-      <comment>Adding {{pp-blp}} ([[WP:TW|TW]])</comment>
+      <comment>/* References */ UEFA player</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="15289">{{pp-blp|small=yes}}
+      <text xml:space="preserve" bytes="15328">{{pp-blp|small=yes}}
 {{Use dmy dates|date=April 2016}}
 {{Use British English|date=April 2016}}
 {{Infobox football biography
@@ -8692,8 +8717,12 @@ Having already played for [[England national under-16 football team|England U16]
 ==References==
 {{reflist}}
 
+==External links==
+* {{UEFA player}}
+
 {{FAI Under 21 International Player of the Year}}
 {{Charlton Athletic F.C. squad}}
+
 {{DEFAULTSORT:Cullen, Josh}}
 [[Category:1996 births]]
 [[Category:Living people]]
@@ -8711,7 +8740,7 @@ Having already played for [[England national under-16 football team|England U16]
 [[Category:Bolton Wanderers F.C. players]]
 [[Category:English Football League players]]
 [[Category:Charlton Athletic F.C. players]]</text>
-      <sha1>c9wo2gu9vgbgphcydwt8ms0pu02dvyu</sha1>
+      <sha1>rslfgh43vuezum1o6qnpdt467r52aqm</sha1>
     </revision>
   </page>
   <page>
@@ -9700,15 +9729,15 @@ He has represented England at under-16 and under-17 youth international levels.&
     <ns>0</ns>
     <id>56461161</id>
     <revision>
-      <id>888072597</id>
-      <parentid>887958758</parentid>
-      <timestamp>2019-03-16T19:03:50Z</timestamp>
+      <id>889397811</id>
+      <parentid>889199557</parentid>
+      <timestamp>2019-03-25T12:59:57Z</timestamp>
       <contributor>
         <username>GiantSnowman</username>
         <id>1005449</id>
       </contributor>
       <minor/>
-      <comment>update - match played 16 March 2019</comment>
+      <comment>update - match played 23 March 2019</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="7788">{{Infobox football biography
@@ -9739,9 +9768,9 @@ He has represented England at under-16 and under-17 youth international levels.&
 |goals3      = 1
 |years4      = 2019–
 |clubs4      = → [[Stevenage F.C.|Stevenage]] (loan)
-|caps4       = 11
+|caps4       = 12
 |goals4      = 0
-|club-update = 19:03, 16 March 2019 (UTC)
+|club-update = 12:59, 25 March 2019 (UTC)
 }}
 '''Kusu Moses Makasi''' (born 22 September 1995) is an English professional [[association football|footballer]] who plays for [[EFL League Two|League Two]] club [[Stevenage F.C.|Stevenage]], on loan from [[West Ham United F.C.|West Ham United]], as a [[midfielder]].
 
@@ -9765,7 +9794,7 @@ Makasi joined League Two club [[Stevenage F.C.|Stevenage]] on loan on 11 January
 Makasi was born in England and is of Nigerian descent.&lt;ref&gt;{{cite web|url=https://guardian.ng/sport/does-the-english-premiership-hold-the-key-to-nigerias-revival/|title=Does the English Premiership hold the key to Nigeria's revival?|date=18 April 2016|accessdate=21 April 2018|author=Christian Okpara|publisher=Nigerian Guardian}}&lt;/ref&gt;
 
 ==Career statistics==
-{{updated|match played 16 March 2019}}
+{{updated|match played 23 March 2019}}
 
 {| class="wikitable" style="text-align:center"
 |+ Appearances and goals by club, season and competition
@@ -9813,10 +9842,10 @@ Makasi was born in England and is of Nigerian descent.&lt;ref&gt;{{cite web|url=
 |[[Stevenage F.C.|Stevenage]] (loan)
 |[[2018–19 Stevenage F.C. season|2018–19]]&lt;ref name ="2018-19"/&gt;
 |[[EFL League Two|League Two]]
-|11||0||0||0||0||0||0||0||11||0
+|12||0||0||0||0||0||0||0||12||0
 |-
 !colspan="3"|Career total
-!24!!1!!0!!0!!0!!0!!0!!0!!24!!1
+!25!!1!!0!!0!!0!!0!!0!!0!!25!!1
 |}
 
 ==References==
@@ -9839,7 +9868,7 @@ Makasi was born in England and is of Nigerian descent.&lt;ref&gt;{{cite web|url=
 [[Category:National League (English football) players]]
 
 {{England-footy-bio-stub}}</text>
-      <sha1>smf0lz8kzfhhmgak04460vyb8npe3ty</sha1>
+      <sha1>opzoqei02hzsthtjpdstu0n8tgfrwh1</sha1>
     </revision>
   </page>
   <page>

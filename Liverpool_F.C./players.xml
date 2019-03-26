@@ -81,18 +81,18 @@
     <ns>0</ns>
     <id>35611957</id>
     <revision>
-      <id>888987534</id>
-      <parentid>888987242</parentid>
-      <timestamp>2019-03-22T17:58:15Z</timestamp>
+      <id>889314200</id>
+      <parentid>889313669</parentid>
+      <timestamp>2019-03-24T22:23:18Z</timestamp>
       <contributor>
-        <username>SeoR</username>
-        <id>4371738</id>
+        <username>CAPTAIN RAJU</username>
+        <id>25523690</id>
       </contributor>
-      <comment>Reverted 2 pending edits by [[Special:Contributions/95.189.154.16|95.189.154.16]] to revision 888967843 by DasGermanMoses: Removal of valid content, addition of questionable material.</comment>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/B3n lw1s|B3n lw1s]] identified as test/vandalism using [[WP:STiki|STiki]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="42664">{{pp-pc|small=yes}}
-{{EngvarB|date=January 2019}}
+      <text xml:space="preserve" bytes="42643">{{EngvarB|date=January 2019}}
 {{Use dmy dates|date=January 2019}}
 {{Dutch name|Van Dijk|Dijk}}
 {{Infobox football biography
@@ -142,7 +142,7 @@
 | club-update    = 16:29, 17 March 2019 (UTC)
 | nationalteam-update = 22:35, 21 March 2019 (UTC)
 }}
-'''Virgil van Dijk''' ({{IPA-nl|vɑn ˈdɛik}}; born 8 July 1991) is a Dutch professional [[Association football|footballer]] who plays as a [[centre back]] for English {{English football updater|Liverpool}} club [[Liverpool F.C.|Liverpool]] and [[captain (association football)|captains]] the [[Netherlands national football team|Netherlands national team]].
+'''Virgil van Dijk''' ({{IPA-nl|vɑn ˈdɛik}}; born 8 July 1991) is a Dutch professional [[Association football|footballer]] who plays as a [[centre back]] for English {{English football updater|Liverpoo}} club [[Liverpool F.C.|Liverpool]] and [[captain (association football)|captains]] the [[Netherlands national football team|Netherlands national team]].
 
 After beginning his career with [[FC Groningen|Groningen]], he moved to [[Celtic F.C.|Celtic]] in 2013, where he won the [[Scottish Premiership]] and was named in the [[PFA Scotland Team of the Year]] in both of his seasons, also winning the [[Scottish League Cup]] in the latter. In September 2015, he joined [[Southampton F.C.|Southampton]]. He joined Liverpool in January 2018 for £75&amp;nbsp;million, a [[List of most expensive association football transfers|world record transfer fee]] for a defender.&lt;ref name=BBCLiverpool/&gt; Van Dijk was involved in reaching the [[2018 UEFA Champions League Final]] during his first spring at Liverpool.
 
@@ -406,7 +406,7 @@ Van Dijk commonly uses only his first name on the kit. According to his uncle St
 [[Category:Dutch expatriate sportspeople in England]]
 [[Category:Dutch expatriate sportspeople in Scotland]]
 [[Category:Dutch people of Surinamese descent]]</text>
-      <sha1>4lelt3w7zta1q8iw0x7up2oyi956s6y</sha1>
+      <sha1>gmsb7ww77a59urc5aneb1m5lgbcy29t</sha1>
     </revision>
   </page>
   <page>
@@ -414,16 +414,18 @@ Van Dijk commonly uses only his first name on the kit. According to his uncle St
     <ns>0</ns>
     <id>10678321</id>
     <revision>
-      <id>888967718</id>
-      <parentid>888867986</parentid>
-      <timestamp>2019-03-22T15:33:13Z</timestamp>
+      <id>889047131</id>
+      <parentid>889047057</parentid>
+      <timestamp>2019-03-23T02:13:16Z</timestamp>
       <contributor>
-        <username>DasGermanMoses</username>
-        <id>19432642</id>
+        <username>Onel5969</username>
+        <id>10951369</id>
       </contributor>
+      <comment>Importing Wikidata [[Wikipedia:Short description|short description]]: "Dutch association football player" ([[User:Galobtter/Shortdesc helper|Shortdesc helper]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="38651">{{Use dmy dates|date=September 2018}}
+      <text xml:space="preserve" bytes="38743">{{short description|Dutch association football player}}
+{{Use dmy dates|date=September 2018}}
 {{Infobox football biography
 | name = Georginio Wijnaldum
 | image = 20160604 AUT NED 8839.jpg
@@ -502,7 +504,7 @@ Wijnaldum has two younger brothers, one of whom, [[Giliano Wijnaldum]], currentl
 ===Early career===
 At age six, Wijnaldum developed himself rapidly at Sparta Rotterdam, winning two championship titles in his first two seasons. Soon [[AFC Ajax|Ajax]], [[PSV Eindhoven|PSV]] and [[Feyenoord]] showed interest in the youngster, but Wijnaldum declined all offers: "I didn't watch football on TV and I didn't know any of the first team players of Sparta or any of the top clubs. I only knew the real famous players of ''Oranje'', so the offers didn't impress me much. I had a good time at Sparta, I wanted to stay." After playing for Sparta Rotterdam for seven seasons and representing the Netherlands at various youth levels, Wijnaldum decided to accept a new Feyenoord offer. He was convinced playing for Feyenoord was better for his development as a football player and believed in Feyenoord's vision.&lt;ref name="kameraadjes"/&gt;
 
-At Feyenoord, Wijnaldum joined a successful generation with the likes of [[Leroy Fer]] and [[Luís Pedro]]. Wijnaldum stood out as an exceptional talent. In January 2007, a few weeks after turning 16, Wijnaldum was invited to the first team's training camp in [[Belek]], Turkey, by Feyenoord manager [[Erwin Koeman]].&lt;ref&gt;{{cite news |title=Talent in Turkije (4): Georginio Wijnaldum |url=http://www.feyenoord.nl/pages/newsdetail/S2/20070112Wijnaldum.aspx |newspaper=Feyenoord.nl |language=Dutch |trans-title=Talent in Turkey (4): Georginio Wijnaldum |date=12 January 2007 |accessdate=6 October 2009 |archive-url=https://web.archive.org/web/20081002142801/http://www.feyenoord.nl/pages/newsdetail/S2/20070112Wijnaldum.aspx |archive-date=2 October 2008 |dead-url=yes |df=dmy-all }}&lt;/ref&gt;
+At Feyenoord, Wijnaldum joined a successful generation with the likes of [[Leroy Fer]] and [[Luís Pedro (footballer, born 1990)|Luís Pedro]]. Wijnaldum stood out as an exceptional talent. In January 2007, a few weeks after turning 16, Wijnaldum was invited to the first team's training camp in [[Belek]], Turkey, by Feyenoord manager [[Erwin Koeman]].&lt;ref&gt;{{cite news |title=Talent in Turkije (4): Georginio Wijnaldum |url=http://www.feyenoord.nl/pages/newsdetail/S2/20070112Wijnaldum.aspx |newspaper=Feyenoord.nl |language=Dutch |trans-title=Talent in Turkey (4): Georginio Wijnaldum |date=12 January 2007 |accessdate=6 October 2009 |archive-url=https://web.archive.org/web/20081002142801/http://www.feyenoord.nl/pages/newsdetail/S2/20070112Wijnaldum.aspx |archive-date=2 October 2008 |dead-url=yes |df=dmy-all }}&lt;/ref&gt;
 
 ===Feyenoord===
 [[File:Georginio Wijnaldum 001.jpg|left|thumb|300x300px|Wijnaldum with [[Feyenoord]] in 2007.]]
@@ -772,7 +774,7 @@ On 9 September 2018, he made his 50th appearance for the Netherlands in a 2–1 
 [[Category:Expatriate footballers in England]]
 [[Category:Dutch expatriate sportspeople in England]]
 [[Category:Liverpool F.C. players]]</text>
-      <sha1>53xe9bgkhx6w5gozlr601lnho16ow2c</sha1>
+      <sha1>civdvz73q5ecedjk52iz9idu50mff6w</sha1>
     </revision>
   </page>
   <page>
@@ -780,18 +782,15 @@ On 9 September 2018, he made his 50th appearance for the Netherlands in a 2–1 
     <ns>0</ns>
     <id>14704742</id>
     <revision>
-      <id>888950928</id>
-      <parentid>888950869</parentid>
-      <timestamp>2019-03-22T13:07:00Z</timestamp>
+      <id>889297100</id>
+      <parentid>888950928</parentid>
+      <timestamp>2019-03-24T20:10:58Z</timestamp>
       <contributor>
-        <username>S.A. Julio</username>
-        <id>26343411</id>
+        <ip>185.215.90.90</ip>
       </contributor>
-      <minor/>
-      <comment>/* International career */ rmv</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="42469">{{Redirect|Lovren|his brother|Davor Lovren}}
+      <text xml:space="preserve" bytes="42466">{{Redirect|Lovren|his brother|Davor Lovren}}
 {{Use dmy dates|date=June 2018}}
 {{Infobox football biography
 | name = Dejan Lovren
@@ -855,7 +854,7 @@ On 9 September 2018, he made his 50th appearance for the Netherlands in a 2–1 
 | nationalgoals5 = 3
 | nationalyears6 = 2009–
 | nationalteam6 = [[Croatia national football team|Croatia]]
-| nationalcaps6 = 50
+| nationalcaps6 = 51
 | nationalgoals6 = 2
 | medaltemplates = 
 {{Medal|Sport|Men's [[Association football|football]]}}
@@ -863,7 +862,7 @@ On 9 September 2018, he made his 50th appearance for the Netherlands in a 2–1 
 {{Medal|Comp|[[FIFA World Cup]]}}
 {{Medal|RU|[[2018 FIFA World Cup|2018 Russia]]|}}
 | club-update = 09:49, 11 February 2019 (UTC)
-| nationalteam-update = 17:44, 18 November 2018 (UTC)
+| nationalteam-update = 21:10, 24 March 2019 (UTC)
 }}
 '''Dejan Lovren''' ({{IPA-sh|dějan lǒʋren|hr}};&lt;ref&gt;{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&amp;id=f1lhXhQ%3D&amp;keyword=Dejan|title=Dèjan|quote=Dèjan|website=Hrvatski jezični portal|accessdate=17 March 2018|language=sh}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&amp;id=e15hWxQ%3D&amp;keyword=Sv. |title=Lóvro| quote=Lòvren| website=Hrvatski jezični portal|accessdate=17 March 2018|language=sh}}&lt;/ref&gt; born 5 July 1989) is a Croatian professional [[Association football|footballer]] who plays as a [[centre back]] for {{English football updater|Liverpoo}} club [[Liverpool F.C.|Liverpool]] and the [[Croatia national football team|Croatia national team]].
 
@@ -1160,7 +1159,7 @@ Source:&lt;ref&gt;{{Soccerway|dejan-lovren/55819|accessdate=12 July 2014}}&lt;/r
 [[Category:Croatian expatriate sportspeople in England]]
 [[Category:2014 FIFA World Cup players]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>g3g5byn5ajz5l4jvs38vbwsrz7rr82s</sha1>
+      <sha1>ps51aftkmznj4tsuxecpvowl3na6z2a</sha1>
     </revision>
   </page>
   <page>
@@ -1852,18 +1851,18 @@ Keita has been described as a dynamic, box-to-box central midfielder. He is able
     <ns>0</ns>
     <id>32445431</id>
     <revision>
-      <id>887208165</id>
-      <parentid>887163350</parentid>
-      <timestamp>2019-03-11T07:02:11Z</timestamp>
+      <id>889145154</id>
+      <parentid>887208165</parentid>
+      <timestamp>2019-03-23T19:55:59Z</timestamp>
       <contributor>
-        <username>Iggy the Swan</username>
-        <id>31885086</id>
+        <username>Inter&amp;anthro</username>
+        <id>18180119</id>
       </contributor>
       <minor/>
-      <comment>fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]] | match was played after 10:00 on 10 March</comment>
+      <comment>update</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="54640">{{pp|small=yes}}
+      <text xml:space="preserve" bytes="54652">{{pp|small=yes}}
 {{Portuguese name|Barbosa|de Oliveira}}
 {{Use dmy dates|date=February 2019}}
 {{Infobox football biography
@@ -1896,10 +1895,10 @@ Keita has been described as a dynamic, box-to-box central midfielder. He is able
 |goals3         = 47
 |nationalyears1 = 2014–
 |nationalteam1  = [[Brazil national football team|Brazil]]
-|nationalcaps1  = 27
+|nationalcaps1  = 30
 |nationalgoals1 = 8
 |club-update    = 07:01, 11 March 2019 (UTC)
-|nationalteam-update = 22:22, 16 October 2018 (UTC)
+|nationalteam-update = 19:55, 23 March 2019 (UTC)
 }}
 '''Roberto Firmino Barbosa de Oliveira''' (born 2 October 1991) is a Brazilian professional [[Association football|footballer]] who plays for {{English football updater|Liverpoo}} club [[Liverpool F.C.|Liverpool]] and the [[Brazil national football team|Brazil national team]] as an [[Midfielder#Attacking midfielder|attacking midfielder]], [[Forward (association football)|forward]] or [[Midfielder#Winger|winger]].
 
@@ -2054,7 +2053,7 @@ In December 2016, Firmino was arrested for drink driving. He was fined £20,000 
 {{notelist}}
 
 ===International===
-{{updated|16 October 2018}}&lt;ref&gt;{{NFT player|pid=57643|accessdate=15 June 2015}}&lt;/ref&gt;
+{{updated|23 March 2019}}&lt;ref&gt;{{NFT player|pid=57643|accessdate=15 June 2015}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align:center"
 |-
@@ -2070,9 +2069,11 @@ In December 2016, Firmino was arrested for drink driving. He was fined £20,000 
 |-
 |2017||5||0
 |-
-|2018||9||3
+|2018||11||3
 |-
-!Total!!27!!8
+|2019||1||0
+|-
+!Total!!30!!8
 |}
 
 ===International goals===
@@ -2152,7 +2153,7 @@ In December 2016, Firmino was arrested for drink driving. He was fined £20,000 
 [[Category:Brazil international footballers]]
 [[Category:2015 Copa América players]]
 [[Category:2018 FIFA World Cup players]]</text>
-      <sha1>e3bjvkk9e01ildu1ry1xw6d57cn0ck3</sha1>
+      <sha1>kaj4md3m550muadgnu3yn5afp2oeesg</sha1>
     </revision>
   </page>
   <page>
@@ -2160,40 +2161,59 @@ In December 2016, Firmino was arrested for drink driving. He was fined £20,000 
     <ns>0</ns>
     <id>34758489</id>
     <revision>
-      <id>888304997</id>
-      <parentid>888301025</parentid>
-      <timestamp>2019-03-18T08:14:59Z</timestamp>
+      <id>889294202</id>
+      <parentid>888304997</parentid>
+      <timestamp>2019-03-24T19:48:49Z</timestamp>
       <contributor>
-        <username>Daemonickangaroo2018</username>
-        <id>34033838</id>
+        <username>Ethan713</username>
+        <id>35363423</id>
       </contributor>
-      <comment>Undid revision 888301025 by [[Special:Contributions/Kusch78|Kusch78]] ([[User talk:Kusch78|talk]])</comment>
+      <minor/>
+      <comment>nt caps update</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="42814">{{pp|small=yes}}
+      <text xml:space="preserve" bytes="42709">{{pp|small=yes}}
 {{Use dmy dates|date=January 2019}}
 {{Infobox football biography
-| name           = Sadio Mané
-| image          = Sadio Mané Senegal.jpg
-| image_size     = 200
-| caption        = Mané playing for [[Senegal national football team|Senegal]] at the [[2018 FIFA World Cup]]
-| fullname       = Sadio Mané&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
-| birth_date     = {{birth date and age|1992|4|10|df=y}}
-| birth_place    = [[Sédhiou]], Senegal
-| height         = 1.75 m&lt;ref name="Southampton F.C."&gt;{{cite web |url=http://www.saintsfc.co.uk/team/player-profile/sadio-mane/10 |title= Sadio Mané: Southampton Player Profiles |publisher=Southampton F.C. |accessdate=7 March 2016}}&lt;/ref&gt;
-| position       = [[Midfielder#Winger|Winger]]&lt;ref&gt;{{cite web |url= http://www.premierleague.com/en-gb/players/profile.overview.html/sadio-mane |title= Premier League Player Profile Sadio Mané |author=&lt;!--Staff writer(s); no by-line.--&gt; |date= 2015 |website= Premier League |publisher= Barclays Premier League|accessdate= 12 January 2015}}&lt;/ref&gt;
-| currentclub    = [[Liverpool F.C.|Liverpool]]
-| clubnumber     = 10
-| youthyears1    = 
-| youthclubs1    = [[Génération Foot]]
-| years1         = 2011–2012 |clubs1 = [[FC Metz|Metz]] |caps1 = 22 |goals1 = 2
-| years2         = 2012–2014 |clubs2 = [[FC Red Bull Salzburg|Red Bull Salzburg]] |caps2 = 63 |goals2 = 31
-| years3         = 2014–2016 |clubs3 = [[Southampton F.C.|Southampton]] |caps3 = 67 |goals3 = 21
-| years4         = 2016–     |clubs4 = [[Liverpool F.C.|Liverpool]] |caps4 = 85 |goals4 = 40
-| nationalyears1 = 2012  |nationalteam1 = [[Senegal national under-23 football team|Senegal U23]] | nationalcaps1 = 4 |nationalgoals1 = 0
-| nationalyears2 = 2012– |nationalteam2 = [[Senegal national football team|Senegal]] | nationalcaps2 = 58 |nationalgoals2 = 15
-| pcupdate       = 17 March 2019
-| ntupdate       = 14:54, 16 October 2018
+| name = Sadio Mané
+| image = Sadio Mané Senegal.jpg
+| image_size = 200
+| caption = Mané playing for [[Senegal national football team|Senegal]] at the [[2018 FIFA World Cup]]
+| fullname = Sadio Mané&lt;ref&gt;{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |accessdate=11 February 2018}}&lt;/ref&gt;
+| birth_date = {{birth date and age|1992|4|10|df=y}}
+| birth_place = [[Sédhiou]], Senegal
+| height = 1.75 m&lt;ref name="Southampton F.C."&gt;{{cite web |url=http://www.saintsfc.co.uk/team/player-profile/sadio-mane/10 |title= Sadio Mané: Southampton Player Profiles |publisher=Southampton F.C. |accessdate=7 March 2016}}&lt;/ref&gt;
+| position = [[Midfielder#Winger|Winger]]&lt;ref&gt;{{cite web |url= http://www.premierleague.com/en-gb/players/profile.overview.html/sadio-mane |title= Premier League Player Profile Sadio Mané |author=&lt;!--Staff writer(s); no by-line.--&gt; |date= 2015 |website= Premier League |publisher= Barclays Premier League|accessdate= 12 January 2015}}&lt;/ref&gt;
+| currentclub = [[Liverpool F.C.|Liverpool]]
+| clubnumber = 10
+| youthyears1 = 
+| youthclubs1 = [[Génération Foot]]
+| years1 = 2011–2012
+| clubs1 = [[FC Metz|Metz]]
+| caps1 = 22
+| goals1 = 2
+| years2 = 2012–2014
+| clubs2 = [[FC Red Bull Salzburg|Red Bull Salzburg]]
+| caps2 = 63
+| goals2 = 31
+| years3 = 2014–2016
+| clubs3 = [[Southampton F.C.|Southampton]]
+| caps3 = 67
+| goals3 = 21
+| years4 = 2016–
+| clubs4 = [[Liverpool F.C.|Liverpool]]
+| caps4 = 85
+| goals4 = 40
+| nationalyears1 = 2012
+| nationalteam1 = [[Senegal national under-23 football team|Senegal U23]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2012–
+| nationalteam2 = [[Senegal national football team|Senegal]]
+| nationalcaps2 = 59
+| nationalgoals2 = 15
+| pcupdate = 17 March 2019
+| ntupdate = 22:00, 23 March 2019
 }}
 '''Sadio Mané''' (born 10 April 1992) is a Senegalese professional [[Association football|footballer]] who plays as a [[Midfielder#Winger|winger]] for {{English football updater|Liverpoo}} club [[Liverpool F.C.|Liverpool]] and the [[Senegal national football team|Senegal national team]].
 
@@ -2508,7 +2528,7 @@ Mané is a practising [[Muslim]] and often makes [[Dua|du'a]] before the start o
 [[Category:2018 FIFA World Cup players]]
 [[Category:People from Sédhiou Region]]
 [[Category:Génération Foot players]]</text>
-      <sha1>lz1pfvw5i5y4mfsa9zufc6caagl4ag8</sha1>
+      <sha1>kojwltt4m4m9h0wsox1bkz0apdvolgu</sha1>
     </revision>
   </page>
   <page>
@@ -5451,14 +5471,14 @@ Later that year, Brewster gained widespread press attention &lt;ref&gt;{{cite we
     <ns>0</ns>
     <id>40159932</id>
     <revision>
-      <id>888853120</id>
-      <parentid>888832878</parentid>
-      <timestamp>2019-03-21T20:36:44Z</timestamp>
+      <id>889163168</id>
+      <parentid>889156424</parentid>
+      <timestamp>2019-03-23T22:19:00Z</timestamp>
       <contributor>
         <username>Mattythewhite</username>
         <id>553121</id>
       </contributor>
-      <comment>I suspect it was his *partner* who gave birth...</comment>
+      <comment>Reverted 1 edit by [[Special:Contributions/2A02:C7F:9430:7D00:88E7:C301:910B:C2A6|2A02:C7F:9430:7D00:88E7:C301:910B:C2A6]] ([[User talk:2A02:C7F:9430:7D00:88E7:C301:910B:C2A6|talk]]): Per article title ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="25757">{{other uses}}
@@ -6441,17 +6461,18 @@ Release title / Record label / year
     <ns>0</ns>
     <id>52389974</id>
     <revision>
-      <id>889039002</id>
-      <parentid>888969484</parentid>
-      <timestamp>2019-03-23T00:50:09Z</timestamp>
+      <id>889154111</id>
+      <parentid>889061041</parentid>
+      <timestamp>2019-03-23T21:09:09Z</timestamp>
       <contributor>
-        <username>Swings and roundabouts really</username>
-        <id>36161009</id>
+        <username>DePiep</username>
+        <id>199625</id>
       </contributor>
-      <comment>Added citation</comment>
+      <minor/>
+      <comment>GA candidate, so check for typos &amp; MOS</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="31260">{{Use dmy dates|date=January 2019}}
+      <text xml:space="preserve" bytes="31457">{{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 | name = Ben Woodburn
 | image = Ben Woodburn.jpg
@@ -6506,7 +6527,7 @@ Woodburn became Liverpool's third-youngest player in history upon making his sen
 ===Liverpool===
 
 ====Early career====
-Born in [[Nottingham]], Woodburn was raised in [[Tattenhall]], [[Cheshire]] and played both [[cricket]] and football from a young age.&lt;ref name="LFCprofile"&gt;{{Cite web |url=http://www.liverpoolfc.com/team/first-team/player/ben-woodburn |title=Ben Woodburn |publisher=Liverpool F.C. |accessdate=2 October 2017}}&lt;/ref&gt;&lt;ref name="seniorcallup"&gt;{{cite news|url=https://www.theguardian.com/football/2017/mar/16/wales-liverpool-ben-woodburn-call-up-squad-republic-of-ireland|title=Chris Coleman denies trying to tie wonderkid Ben Woodburn to Wales|newspaper=The Guardian|first=Stuart|last=James|date=16 March 2017|accessdate=16 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.chesterchronicle.co.uk/sport/who-ben-woodburn-tattenhall-teenager-12250932|first=David|last=Triggs|title=Who is Ben Woodburn? The Tattenhall teenager who became a Liverpool FC record-breaker|newspaper=[[Chester Chronicle]]|date=30 November 2016|accessdate=4 December 2016}}&lt;/ref&gt; He joined [[Liverpool F.C. Reserves and Academy|Liverpool's academy]] at under-7 level where he steadily progressed through the youth ranks, leading to former academy director Frank McParland identifying him as one of the brightest prospects at the club.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/newsbeat/article/38154968/who-is-liverpool-record-breaker-ben-woodburn|first=Ben|last=Mundy|title=Who is Liverpool record-breaker Ben Woodburn?|publisher=[[Newsbeat]]|date=30 November 2016|accessdate=4 December 2016}}&lt;/ref&gt;&lt;ref name="seniorcallup"/&gt; During his schooling, Liverpool agreed to a request from Woodburn's parents that he should stay at home rather than in [[Rainhill]], which was closer to the academy in [[Kirkby]]. In order to facilitate his development, the club arranged for a driver to transport him every day from training back to his home in Tattenhall.&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/sport/football/fa-league-cups/liverpool-vs-leeds-match-report-efl-cup-ben-woodburn-divock-origi-a7446521.html|title=Liverpool vs Leeds match report: Ben Woodburn enjoys night to remember but Garry Monk's men go down fighting|newspaper=[[The Independent]]|first=Simon|last=Hughes|date=30 November 2016|accessdate=30 November 2016}}&lt;/ref&gt; When he was 15 years old, Woodburn was fast-tracked from Liverpool's under-16s to the under-18s and his rapid development saw him included in Liverpool's "Futures Group", a programme which afforded the club's most talented young players a weekly opportunity to train with then first-team [[Coach (sport)|coach]], Pep Lijnders.&lt;ref name="youth"&gt;{{cite news|url=http://www.liverpoolecho.co.uk/sport/football/football-news/who-liverpool-fc-teenager-ben-10801750|title=Who is Liverpool FC teenager Ben Woodburn?|newspaper=[[Liverpool Echo]]|publisher=Trinity Mirror|first=James|last=Pearce|date=28 January 2016|accessdate=26 November 2016}}&lt;/ref&gt;
+Born in [[Nottingham]], Woodburn was raised in [[Tattenhall]], [[Cheshire]] and played both [[cricket]] and football from a young age.&lt;ref name="LFCprofile"/&gt;&lt;ref name="seniorcallup"&gt;{{cite news|url=https://www.theguardian.com/football/2017/mar/16/wales-liverpool-ben-woodburn-call-up-squad-republic-of-ireland|title=Chris Coleman denies trying to tie wonderkid Ben Woodburn to Wales|newspaper=The Guardian|first=Stuart|last=James|date=16 March 2017|accessdate=16 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.chesterchronicle.co.uk/sport/who-ben-woodburn-tattenhall-teenager-12250932|first=David|last=Triggs|title=Who is Ben Woodburn? The Tattenhall teenager who became a Liverpool FC record-breaker|newspaper=[[Chester Chronicle]]|date=30 November 2016|accessdate=4 December 2016}}&lt;/ref&gt; He joined [[Liverpool F.C. Reserves and Academy|Liverpool's academy]] at under-7 level where he steadily progressed through the youth ranks, leading to former academy director Frank McParland identifying him as one of the brightest prospects at the club.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/newsbeat/article/38154968/who-is-liverpool-record-breaker-ben-woodburn|first=Ben|last=Mundy|title=Who is Liverpool record-breaker Ben Woodburn?|publisher=[[Newsbeat]]|date=30 November 2016|accessdate=4 December 2016}}&lt;/ref&gt;&lt;ref name="seniorcallup"/&gt; During his schooling, Liverpool agreed to a request from Woodburn's parents that he should stay at home rather than in [[Rainhill]], which was closer to the academy in [[Kirkby]]. In order to facilitate his development, the club arranged for a driver to transport him every day from training back to his home in Tattenhall.&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/sport/football/fa-league-cups/liverpool-vs-leeds-match-report-efl-cup-ben-woodburn-divock-origi-a7446521.html|title=Liverpool vs Leeds match report: Ben Woodburn enjoys night to remember but Garry Monk's men go down fighting|newspaper=[[The Independent]]|first=Simon|last=Hughes|date=30 November 2016|accessdate=30 November 2016}}&lt;/ref&gt; When he was 15 years old, Woodburn left his high school, [[Bishop Heber High School]] and was fast-tracked from Liverpool's under-16s to the under-18s where his rapid development saw him included in Liverpool's "Futures Group", a programme which afforded the club's most talented young players a weekly opportunity to train with then first-team [[Coach (sport)|coach]], Pep Lijnders.&lt;ref&gt;{{cite news|url=https://www.cheshire-live.co.uk/sport/who-ben-woodburn-tattenhall-teenager-12250932|title=Who is Ben Woodburn? The Tattenhall teenager who became a Liverpool FC record-breaker|publisher=Cheshire Live|last=Triggs|first=David|date=30 November 2016|accessdate=23 March 2019}}&lt;/ref&gt;&lt;ref name="youth"&gt;{{cite news|url=http://www.liverpoolecho.co.uk/sport/football/football-news/who-liverpool-fc-teenager-ben-10801750|title=Who is Liverpool FC teenager Ben Woodburn?|newspaper=[[Liverpool Echo]]|publisher=Trinity Mirror|first=James|last=Pearce|date=28 January 2016|accessdate=26 November 2016}}&lt;/ref&gt;
 
 ====2016–17 season====
 Having impressed first-team [[Manager (association football)|manager]] [[Jürgen Klopp]] during these training sessions, Woodburn was handed his non-competitive debut during the [[2016–17 Premier League|2016–17]] pre-season in a 1–0 win over [[Tranmere Rovers F.C.|Tranmere Rovers]].&lt;ref&gt;{{cite web|url=http://www.thisisanfield.com/2016/07/tranmere-rovers-0-1-liverpool-5-things-learned-pre-season-opener/|title=Tranmere Rovers 0–1 Liverpool: 5 things we learned from the pre-season opener|publisher=This is Anfield|first=Ben|last=Twelves|date=8 July 2016|accessdate=26 November 2016}}&lt;/ref&gt; He came off the bench in Liverpool's next match to score one and assist another for [[Roberto Firmino]] in a 5–0 [[Exhibition game#Association football|friendly]] win over [[Fleetwood Town F.C.|Fleetwood Town]].&lt;ref&gt;{{cite news|url=http://www.soccerladuma.co.za/news/articles/categories/english-premier-league/club-friendly-fleetwood-town-0-4-liverpool-13-july-2016/233675|title=Ruthless Reds Crush Fleetwood|work=Soccer Laduma|date=13 July 2016|accessdate=26 November 2016}}&lt;/ref&gt; Woodburn then, along with [[Kevin Stewart (footballer)|Kevin Stewart]] and fellow academy graduate [[Trent Alexander-Arnold]], signed his first professional contract with Liverpool on 8 November 2016.&lt;ref&gt;{{cite web|url=http://www.liverpoolfc.com/news/first-team/242420-trio-commit-long-term-futures-to-lfc-by-signing-new-deals|title=Trio commit long-term futures to LFC by signing new deals|publisher=Liverpool F.C.|first=James|last=Carroll|date=8 November 2016|accessdate=26 November 2016}}&lt;/ref&gt;
@@ -6532,7 +6553,7 @@ Prior to making his senior international debut, Woodburn was eligible to represe
 Woodburn has played for [[Wales national football team|Wales]] up to U19 level and was first called up to train at one of the nation's regional development centres at [[Dragon Park]] when he was 13.&lt;ref&gt;{{cite news|url=https://www.mirror.co.uk/sport/football/news/ben-woodburn-wales-international-england-10077350|title=Liverpool star Ben Woodburn's 'choice' to play for Wales, NOT England, shows how Welsh football is thriving|newspaper=[[Daily Mirror]]|last=Jones|first=Mark|date=23 March 2017|accessdate=13 May 2017}}&lt;/ref&gt; He played for Wales U15s in two games against Poland in March 2014, scored a [[hat-trick]] for the [[Wales national football team|U16 side]] against [[Northern Ireland national under-16 football team|Northern Ireland]] the following year and then captained the [[Wales national under-17 football team|U17]] team against Greece in 2016.&lt;ref name="youth"/&gt;&lt;ref name="WE"/&gt;&lt;ref&gt;{{cite web|url=http://www.faw.cymru/en/news/wales-u16-win-final-development-match/|title=Wales U16 win Final Development Match|publisher=[[Football Association of Wales]]|date=21 April 2015|accessdate=28 March 2017}}&lt;/ref&gt; Later that year, he represented the [[Wales national under-19 football team|U19]] side in their [[2016 UEFA European Under-19 Championship qualification|UEFA European Under-19 Championship qualification]] matches and scored a [[2#In sports|brace]] in a 6–2 win over [[Luxembourg national under-19 football team|Luxembourg]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/football/37997564|title=Ben Woodburn: Liverpool youngster inspired by Gareth Bale &amp; Aaron Ramsey|publisher=BBC Sport|date=16 November 2016|accessdate=28 November 2016}}&lt;/ref&gt;
 
 ===Senior===
-On 16 March 2017, Woodburn was called up by head coach [[Chris Coleman (footballer)|Chris Coleman]] to the [[Wales national football team|Wales senior team]] for the first time, aged 17, for the nation's [[2018 FIFA World Cup qualification|World Cup qualifier]] against the [[Republic of Ireland national football team|Republic of Ireland]].&lt;ref name="seniorcallup"/&gt; He remained an unused substitute, however, as Wales played out a 0–0 draw in [[Dublin]].&lt;ref&gt;{{cite web|url=https://www.vavel.com/en/football/premier-league/liverpool-fc/770023-liverpool-fc-international-round-up-alexander-arnold-nets-a-brace-as-england-u19s-seal-qualification.html|title=Liverpool FC international round-up: Alexander-Arnold nets a brace as England U19s seal qualification|publisher=Vavel|first=Charlie|last=Malam|date=24 March 2017|accessdate=28 March 2017}}&lt;/ref&gt; He made his senior debut on 2 September, coming on as a second-half substitute for [[Tom Lawrence]] and scoring a 25-yard strike in a 1–0 win against [[Austria national football team|Austria]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/live/football/40954822 |title=Wales 1–0 Austria |publisher=BBC Sport |date=2 September 2017 |accessdate=2 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2017/sep/02/wales-austria-world-cup-2018-qualifiers-match-report|first=Paul|last=MacInnes|title=Ben Woodburn's debut scorcher gives Wales vital victory against Austria|newspaper=The Guardian|date=2 September 2017|accessdate=2 September 2017}}&lt;/ref&gt; In doing so, he became Wales' second-youngest-ever goalscorer behind [[Gareth Bale]] and kept the nation within reach of qualification. Woodburn featured regularly from the bench towards the back end of the qualification campaign as Wales ultimately fell two points short of a [[2018 FIFA World Cup qualification – UEFA Second Round|play-off]] spot.&lt;ref&gt;{{cite web|url=http://www.goal.com/en-za/news/i-wont-sleep-tonight-woodburn-elated-with-debut-screamer-for/1pnpw0obxu1rg1fs4kb3lxmje5|title=Liverpool news: Ben Woodburn 'won't sleep' after stunning goal on debut|publisher=Goal.com|last=Dorman|first=Matt|date=3 September 2017|accessdate=3 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/41567439|title=Wales fail to qualify for 2018 World Cup: What next for Chris Coleman's side?|publisher=BBC Sport|last=Pritchard|first=Dafydd|date=10 October 2017|accessdate=6 May 2018}}&lt;/ref&gt; He then made his first start on 14 November in a 1–1 [[Exhibition game#Association football|friendly]] draw with [[Panama national football team|Panama]].&lt;ref name="Soccerway" /&gt; He scored his second goal for Wales on 20 March 2019 against [[Trinidad and Tobago national football team|Trinidad and Tobago]], scoring in the last minute to salvage a 1–0 win.&lt;ref&gt;{{cite web |url=http://www.0.freebasics.com/www.m.goal.com/e/en-za/news/4563/main/2019/03/20/52475272/wales-1-trinidad-and-tobago-0-woodburn-late-boosts?org_service_id_internal=1052544211440096%3BAfpomMNXqZskJcXx |title=Wales 1 Trinidad and Tobago 0: Woodburn late show boosts Giggs |date=20 March 2019 |publisher=Goal.com |accessdate=21 March 2019}}&lt;/ref &gt;
+On 16 March 2017, Woodburn was called up by head coach [[Chris Coleman (footballer)|Chris Coleman]] to the [[Wales national football team|Wales senior team]] for the first time, aged 17, for the nation's [[2018 FIFA World Cup qualification|World Cup qualifier]] against the [[Republic of Ireland national football team|Republic of Ireland]].&lt;ref name="seniorcallup"/&gt; He remained an unused substitute, however, as Wales played out a 0–0 draw in [[Dublin]].&lt;ref&gt;{{cite web|url=https://www.vavel.com/en/football/premier-league/liverpool-fc/770023-liverpool-fc-international-round-up-alexander-arnold-nets-a-brace-as-england-u19s-seal-qualification.html|title=Liverpool FC international round-up: Alexander-Arnold nets a brace as England U19s seal qualification|publisher=Vavel|first=Charlie|last=Malam|date=24 March 2017|accessdate=28 March 2017}}&lt;/ref&gt; He made his senior debut on 2 September, coming on as a second-half substitute for [[Tom Lawrence]] and scoring a 25-yard strike in a 1–0 win against [[Austria national football team|Austria]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/live/football/40954822 |title=Wales 1–0 Austria |publisher=BBC Sport |date=2 September 2017 |accessdate=2 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/2017/sep/02/wales-austria-world-cup-2018-qualifiers-match-report|first=Paul|last=MacInnes|title=Ben Woodburn's debut scorcher gives Wales vital victory against Austria|newspaper=The Guardian|date=2 September 2017|accessdate=2 September 2017}}&lt;/ref&gt; In doing so, he became Wales' second-youngest-ever goalscorer behind [[Gareth Bale]] and kept the nation within reach of qualification. Woodburn featured regularly from the bench towards the back end of the qualification campaign as Wales ultimately fell two points short of a [[2018 FIFA World Cup qualification – UEFA Second Round|play-off]] spot.&lt;ref&gt;{{cite web|url=http://www.goal.com/en-za/news/i-wont-sleep-tonight-woodburn-elated-with-debut-screamer-for/1pnpw0obxu1rg1fs4kb3lxmje5|title=Liverpool news: Ben Woodburn 'won't sleep' after stunning goal on debut|publisher=Goal.com|last=Dorman|first=Matt|date=3 September 2017|accessdate=3 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.bbc.com/sport/football/41567439|title=Wales fail to qualify for 2018 World Cup: What next for Chris Coleman's side?|publisher=BBC Sport|last=Pritchard|first=Dafydd|date=10 October 2017|accessdate=6 May 2018}}&lt;/ref&gt; He then made his first start on 14 November in a 1–1 [[Exhibition game#Association football|friendly]] draw with [[Panama national football team|Panama]].&lt;ref name="Soccerway" /&gt; He scored his second goal for Wales on 20 March 2019 against [[Trinidad and Tobago national football team|Trinidad and Tobago]], scoring in the last minute to salvage a 1–0 win.&lt;ref&gt;{{cite web |url=http://www.0.freebasics.com/www.m.goal.com/e/en-za/news/4563/main/2019/03/20/52475272/wales-1-trinidad-and-tobago-0-woodburn-late-boosts?org_service_id_internal=1052544211440096%3BAfpomMNXqZskJcXx |title=Wales 1 Trinidad and Tobago 0: Woodburn late show boosts Giggs |date=20 March 2019 |publisher=Goal.com |accessdate=21 March 2019}}&lt;/ref&gt;
 
 ==Career statistics==
 
@@ -6660,7 +6681,7 @@ On 16 March 2017, Woodburn was called up by head coach [[Chris Coleman (football
 [[Category:Wales international footballers]]
 [[Category:Sheffield United F.C. players]]
 [[Category:English Football League players]]</text>
-      <sha1>epyhp1mmukps3zratl3ex7tj0b3wycb</sha1>
+      <sha1>bjso69uuflu7svzmyg8d8vhxgb1z8uj</sha1>
     </revision>
   </page>
   <page>
@@ -6668,12 +6689,15 @@ On 16 March 2017, Woodburn was called up by head coach [[Chris Coleman (football
     <ns>0</ns>
     <id>59601061</id>
     <revision>
-      <id>888687720</id>
-      <parentid>888687428</parentid>
-      <timestamp>2019-03-20T18:57:24Z</timestamp>
+      <id>889178767</id>
+      <parentid>889175448</parentid>
+      <timestamp>2019-03-24T00:43:51Z</timestamp>
       <contributor>
-        <ip>105.112.106.18</ip>
+        <username>PlyrStar93</username>
+        <id>9997592</id>
       </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/140.0.203.190|140.0.203.190]] ([[User talk:140.0.203.190|talk]]) to last version by ClueBot NG</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="6224">{{Portuguese name|Soares|Camacho}}
@@ -7773,17 +7797,17 @@ Off the field, Ings has gained a reputation for charitable acts.&lt;ref&gt;{{cit
     <ns>0</ns>
     <id>24527795</id>
     <revision>
-      <id>888158293</id>
-      <parentid>886932236</parentid>
-      <timestamp>2019-03-17T09:05:29Z</timestamp>
+      <id>889071283</id>
+      <parentid>888158293</parentid>
+      <timestamp>2019-03-23T07:24:34Z</timestamp>
       <contributor>
         <username>Jmorrison230582</username>
         <id>1894081</id>
       </contributor>
-      <comment>app</comment>
+      <comment>/* Liverpool */ updated</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="22119">{{Use dmy dates|date=July 2013}}
+      <text xml:space="preserve" bytes="22655">{{Use dmy dates|date=July 2013}}
 {{Eastern name order|Bogdán Ádám}}
 {{Infobox football biography
 | name            = Ádám Bogdán
@@ -7842,7 +7866,7 @@ On the last match of the 2015–16 Premier League season, Bogdán was named in t
 
 On 20 July 2016, Bogdán joined Wigan Athletic on loan for the 2016–17 season.&lt;ref&gt;{{Cite news |title=Adam Bogdan joins Wigan on season-long loan |url=http://www.liverpoolfc.com/news/first-team/228317-adam-bogdan-joins-wigan-on-season-long-loan |publisher=Liverpool FC |date=20 July 2016 |accessdate=20 July 2016}}&lt;/ref&gt; Bogdán made 17 appearances for Wigan, keeping five clean sheets. In his final game, a 0–0 draw against [[Barnsley F.C.|Barnsley]] on 19 November, Bogdán suffered a tear in his [[anterior cruciate ligament]] and was substituted in the 59th minute. Bogdán then returned to his parent club Liverpool for rehabilitation.&lt;ref&gt;{{Cite news|url=http://www.liverpoolecho.co.uk/sport/football/football-news/adam-bogdan-returns-liverpool-after-12210823|title=Bogdan returns to Liverpool after loan deal cut short|last=Pearce|first=James|date=2016-11-22|work=liverpoolecho|accessdate=2017-04-17}}&lt;/ref&gt;
 
-On 2 July 2018, Bogdán moved on a season-long loan to [[Scottish Premiership]] club [[Hibernian F.C.|Hibernian]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/44686135 |title=Adam Bogdan: Liverpool goalkeeper joins Hibs on loan |work= |publisher=BBC Sport |date=2 July 2018 |accessdate=2 July 2018}}&lt;/ref&gt;
+On 2 July 2018, Bogdán moved on a season-long loan to [[Scottish Premiership]] club [[Hibernian F.C.|Hibernian]].&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/44686135 |title=Adam Bogdan: Liverpool goalkeeper joins Hibs on loan |work= |publisher=BBC Sport |date=2 July 2018 |accessdate=2 July 2018}}&lt;/ref&gt; Bogdán played regularly for Hibernian during the early part of the 2018&amp;ndash;19 season, but then missed several games due to concussion symptoms.&lt;ref&gt;{{cite news |url=https://www.edinburghnews.scotsman.com/sport/football/hibs/hibs-boss-explains-goalkeeper-adam-bogdan-s-prolonged-absence-from-first-team-squad-1-4894157 |title=Hibs boss explains goalkeeper Adam Bogdan’s prolonged absence from first-team squad |work=Edinburgh Evening News |publisher= |first=David |last=Hardie |date=23 March 2019 |accessdate=23 March 2019}}&lt;/ref&gt;
 
 ==International career==
 [[File:Bogdan2011.png|thumb|200px|Bogdán playing for [[Hungary national football team|Hungary]] in 2011]]
@@ -8006,7 +8030,7 @@ Bogdán received his first call up for [[Hungary national football team|Hungary]
 [[Category:Hungarian expatriate sportspeople in England]]
 [[Category:Hungarian expatriate sportspeople in Scotland]]
 [[Category:Scottish Professional Football League players]]</text>
-      <sha1>55ih5qdd3puhackxsh2ibzyc6qge4ms</sha1>
+      <sha1>5tskufpmqxw1410iq3pi3r4kf4uj69x</sha1>
     </revision>
   </page>
   <page>

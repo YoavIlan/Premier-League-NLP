@@ -721,17 +721,17 @@ Bong played one match for Cameroon in the [[2010 FIFA World Cup]] in Cameroon's 
     <ns>0</ns>
     <id>25281953</id>
     <revision>
-      <id>888500815</id>
-      <parentid>888500715</parentid>
-      <timestamp>2019-03-19T15:51:58Z</timestamp>
+      <id>889137709</id>
+      <parentid>889137430</parentid>
+      <timestamp>2019-03-23T18:54:27Z</timestamp>
       <contributor>
         <username>Beeney xx</username>
         <id>35180261</id>
       </contributor>
-      <comment>/* Individual */</comment>
+      <comment>/* International goals */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="31020">{{For|the Gaelic footballer of the same name|Shane Duffy (Gaelic footballer)}}
+      <text xml:space="preserve" bytes="31042">{{For|the Gaelic footballer of the same name|Shane Duffy (Gaelic footballer)}}
 {{Use British English|date=September 2015}}
 {{Use dmy dates|date=September 2015}}
 {{Infobox football biography
@@ -804,10 +804,10 @@ Bong played one match for Cameroon in the [[2010 FIFA World Cup]] in Cameroon's 
 | nationalgoals7 = 1
 | nationalyears8 = 2014–
 | nationalteam8 = [[Republic of Ireland national football team|Republic of Ireland]]
-| nationalcaps8 = 25
+| nationalcaps8 = 26
 | nationalgoals8 = 2
 | club-update = 14:30, 9 March 2019 (UTC)
-| nationalteam-update = 20:17, 1 December 2018 (UTC)
+| nationalteam-update = 18:50, 23 March 2019 (UTC)
 }}
 '''Shane Patrick Michael Duffy''' (born 1 January 1992) is an Irish professional [[association football|footballer]] who plays as a [[defender (association football)|defender]] for [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and the [[Republic of Ireland national football team|Republic of Ireland national team]].
 
@@ -966,14 +966,14 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
 {{notelist}}
 
 ===International===
-{{updated|match played 19 November 2018}}&lt;ref name="Duffy, Shane"&gt;{{NFT player |id=55712 |name=Duffy, Shane |accessdate=16 October 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://us.soccerway.com/players/shane-duffy/90884/ |title=S. Duffy |website=Soccerway |publisher=Perform Group |accessdate=17 October 2018}}&lt;/ref&gt;
+{{updated|match played 23 March 2019}}&lt;ref name="Duffy, Shane"&gt;{{NFT player |id=55712 |name=Duffy, Shane |accessdate=16 October 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://us.soccerway.com/players/shane-duffy/90884/ |title=S. Duffy |website=Soccerway |publisher=Perform Group |accessdate=17 October 2018}}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align: center;"
 |+ International statistics
 |-
 !National team!!Year!!Apps!!Goals
 |-
-| rowspan=4|[[Republic of Ireland national football team|Republic of Ireland]]
+| rowspan=5|[[Republic of Ireland national football team|Republic of Ireland]]
 |2014||1||0
 |-
 |2016||7||0
@@ -982,11 +982,13 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
 |-
 |2018||8||0
 |-
-! colspan=2|Total!!25!!2
+|2019||1||0
+|-
+! colspan=2|Total!!26!!2
 |}
 
 ===International goals===
-:''As of match played 23 March 2018. Republic of Ireland score listed first, score column indicates score after each Duffy goal.''&lt;ref name="Duffy, Shane"/&gt;
+:''As of match played 23 March 2019. Republic of Ireland score listed first, score column indicates score after each Duffy goal.''&lt;ref name="Duffy, Shane"/&gt;
 
 {| class="wikitable plainrowheaders"
 |+ International goals by date, venue, cap, opponent, score, result and competition
@@ -1005,7 +1007,7 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
 |2 September 2017||[[Boris Paichadze Dinamo Arena]], [[Tbilisi]], Georgia||align=center|12||{{fb|Georgia}}||align=center|1–0||align=center|1–1||[[2018 FIFA World Cup qualification – UEFA Group D|2018 FIFA World Cup qualification]]||&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/41083240 |title=Georgia 1–1 Republic of Ireland |last=Skelton |first=Jack |publisher=BBC Sport |date=2 September 2017 |accessdate=3 September 2017 }}&lt;/ref&gt;
 |-
 !scope=row|2
-|14 November 2017||[[Aviva Stadium]], [[Dublin]], Republic of Ireland||align=center|17||{{fb|Denmark}}||align=center|1–0||align=center|1–5||[[2018 FIFA World Cup qualification – UEFA Second Round|2018 FIFA World Cup qualification]]||&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/41884909 |title=Republic of Ireland 1–5 Denmark |last=Hafez |first=Shamoon |publisher=BBC Sport |date=14 November 2017 |accessdate=14 November 2017 }}&lt;/ref&gt;
+|14 November 2017||[[Aviva Stadium]], [[Dublin]], Republic of Ireland||align=center|17||{{fb|Denmark}}||align=center|1–0||align=center|1–5||[[2018 FIFA World Cup qualification – UEFA Second Round|2018 FIFA World Cup qualification]] (Play Offs)||&lt;ref&gt;{{cite web |url=https://www.bbc.co.uk/sport/football/41884909 |title=Republic of Ireland 1–5 Denmark |last=Hafez |first=Shamoon |publisher=BBC Sport |date=14 November 2017 |accessdate=14 November 2017 }}&lt;/ref&gt;
 |}
 
 ==Honours==
@@ -1057,7 +1059,7 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
 [[Category:Premier League players]]
 [[Category:UEFA Euro 2016 players]]
 [[Category:Doire Colmcille Gaelic footballers]]</text>
-      <sha1>k2qtdlmhhe0g4zd9s65o5gp5v6deedr</sha1>
+      <sha1>dasrwmubopmoj6k33zne26qyjrmrlpr</sha1>
     </revision>
   </page>
   <page>
@@ -1065,16 +1067,17 @@ He was called up for [[UEFA Euro 2016|Euro 2016]], but was an unused sub for the
     <ns>0</ns>
     <id>27907521</id>
     <revision>
-      <id>888492772</id>
-      <parentid>888228064</parentid>
-      <timestamp>2019-03-19T14:46:58Z</timestamp>
+      <id>889239399</id>
+      <parentid>888492772</parentid>
+      <timestamp>2019-03-24T12:11:17Z</timestamp>
       <contributor>
-        <username>HarrisonS4433</username>
-        <id>22451392</id>
+        <username>Beeney xx</username>
+        <id>35180261</id>
       </contributor>
+      <comment>/* International career */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="15352">{{EngvarB|date=March 2019}}
+      <text xml:space="preserve" bytes="15610">{{EngvarB|date=March 2019}}
 {{Use British English|date=February 2017}}
 {{Use dmy dates|date=March 2019}}
 {{Infobox football biography
@@ -1135,7 +1138,9 @@ Dunk played the full 90 minutes, and scored an own goal, in Brighton's first eve
 On 5 October 2018, Dunk, alongside [[centre back]] partner [[Shane Duffy]], signed a new contract with Brighton, with the pair signing five-year contracts that extended their stay at the club until June 2023.&lt;ref&gt;{{cite web |title=New deals for Dunk and Duffy |url=https://www.brightonandhovealbion.com/news/2018/october/new-deals-for-dunk-and-duffy/ |publisher=Brighton &amp; Hove Albion F.C. |date=5 October 2018 |accessdate=30 December 2018}}&lt;/ref&gt;
 
 ==International career==
-Dunk received a call-up to the [[England national under-21 football team|England under-21]] squad ahead of their [[2013 UEFA European Under-21 Championship qualification Group 8|European Championship qualifiers]] against [[Iceland national under-21 football team|Iceland]] and [[Belgium national under-21 football team|Belgium]] in November 2011,&lt;ref&gt;{{cite web |title=Squad named for Iceland and Belgium games |url=http://www.thefa.com/England/mens-under-21s/News/match-centre/2011/England-v-Iceland-Euro-2013/Match-Previews/squad-named-england-u21s-colchester/ |publisher=The Football Association |date=2 November 2011 |accessdate=2 November 2011}}&lt;/ref&gt; but did not take the field in either match. In October 2018, he was called up to replace the injured [[James Tarkowski]] in the [[England national football team|senior England squad]] for matches against [[Croatia national football team|Croatia]] and [[Spain national football team|Spain]].&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2018/oct/07/england-squad-update-071018 |title=Brighton defender Lewis Dunk to join England squad for Croatia and Spain trip |publisher=The Football Association |date=7 October 2018 |accessdate=9 October 2018}}&lt;/ref&gt; He made his debut on 15 November when starting England's 3–0 win over the [[United States men's national soccer team|United States]] at [[Wembley Stadium]] in a [[Exhibition game#Association football|friendly]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45174412 |title=England 3–0 USA |first=Phil |last=McNulty |publisher=BBC Sport |date=15 November 2018 |accessdate=15 November 2018}}&lt;/ref&gt;
+Dunk received a call-up to the [[England national under-21 football team|England under-21]] squad ahead of their [[2013 UEFA European Under-21 Championship qualification Group 8|European Championship qualifiers]] against [[Iceland national under-21 football team|Iceland]] and [[Belgium national under-21 football team|Belgium]] in November 2011,&lt;ref&gt;{{cite web |title=Squad named for Iceland and Belgium games |url=http://www.thefa.com/England/mens-under-21s/News/match-centre/2011/England-v-Iceland-Euro-2013/Match-Previews/squad-named-england-u21s-colchester/ |publisher=The Football Association |date=2 November 2011 |accessdate=2 November 2011}}&lt;/ref&gt; but did not take the field in either match.
+
+In October 2018, he was called up to replace the injured [[James Tarkowski]] in the [[England national football team|senior England squad]] for matches against [[Croatia national football team|Croatia]] and [[Spain national football team|Spain]] in the [[UEFA Nations League|Nations League]]. However, he did not make an appearance.&lt;ref&gt;{{cite web |url=http://www.thefa.com/news/2018/oct/07/england-squad-update-071018 |title=Brighton defender Lewis Dunk to join England squad for Croatia and Spain trip |publisher=The Football Association |date=7 October 2018 |accessdate=9 October 2018}}&lt;/ref&gt; In the next month Dunk was called up again for a [[Exhibition game#Association football|friendly]] against [[United States men's national soccer team|United States]] and a Nation's League game against Croatia. He made his debut on 15 November playing in the whole match in England's 3–0 win over the [[United States men's national soccer team|United States]] at [[Wembley Stadium]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/sport/football/45174412 |title=England 3–0 USA |first=Phil |last=McNulty |publisher=BBC Sport |date=15 November 2018 |accessdate=15 November 2018}}&lt;/ref&gt;
 
 ==Career statistics==
 ===Club===
@@ -1253,7 +1258,7 @@ Dunk received a call-up to the [[England national under-21 football team|England
 [[Category:Bristol City F.C. players]]
 [[Category:English Football League players]]
 [[Category:Premier League players]]</text>
-      <sha1>7hvkalfnqh5dcrkwzn6zkhrs1b8iwtr</sha1>
+      <sha1>e8uxqxd25hbm0kscjuem4ct4e2n8hv1</sha1>
     </revision>
   </page>
   <page>
@@ -1285,15 +1290,16 @@ Dunk received a call-up to the [[England national under-21 football team|England
     <ns>0</ns>
     <id>6180457</id>
     <revision>
-      <id>888872585</id>
-      <parentid>888866835</parentid>
-      <timestamp>2019-03-21T23:07:06Z</timestamp>
+      <id>889288293</id>
+      <parentid>889288237</parentid>
+      <timestamp>2019-03-24T19:06:38Z</timestamp>
       <contributor>
-        <ip>79.176.0.126</ip>
+        <username>Beeney xx</username>
+        <id>35180261</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="29876">{{Use dmy dates|date=January 2018}}
+      <text xml:space="preserve" bytes="29885">{{Use dmy dates|date=January 2018}}
 {{Infobox football biography
 | name = Beram Kayal
 | image = BHA v FC Nantes pre season 03 08 2018-18 (28915966987).jpg
@@ -1339,12 +1345,12 @@ Dunk received a call-up to the [[England national under-21 football team|England
 | nationalgoals4 = 1
 | nationalyears5 = 2008–
 | nationalteam5 = [[Israel national football team|Israel]]
-| nationalcaps5 = 39
+| nationalcaps5 = 40
 | nationalgoals5 = 2
-| nationalteam-update = 21 March 2019
+| nationalteam-update = 24 March 2019
 }}
 
-'''Beram Kayal''' (or Biram Keyal,&lt;ref&gt;[https://www.theguardian.com/football/2010/jul/29/celtic-transfer-israeli-midfielder-biram-kayal Celtic complete signing of Israeli midfielder Biram Kayal] guardian.co.uk, 29 July 2010&lt;/ref&gt; {{lang-ar|بيرم كيال}}, {{lang-he-n|בירם כיאל}}; born 2 May 1988) is an [[Arab-Israeli]] professional [[association football|footballer]] who plays as a [[Midfielder#Central midfielder|central midfielder]] for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and the [[Israel national football team|Israel national team]]. He has been a full international since 2008, and has 39 senior [[cap (sports)|caps]].
+'''Beram Kayal''' (or Biram Keyal,&lt;ref&gt;[https://www.theguardian.com/football/2010/jul/29/celtic-transfer-israeli-midfielder-biram-kayal Celtic complete signing of Israeli midfielder Biram Kayal] guardian.co.uk, 29 July 2010&lt;/ref&gt; {{lang-ar|بيرم كيال}}, {{lang-he-n|בירם כיאל}}; born 2 May 1988) is an [[Arab-Israeli]] professional [[association football|footballer]] who plays as a [[Midfielder#Central midfielder|central midfielder]] for [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and the [[Israel national football team|Israel national team]]. He has been a full international since 2008, and has 40 senior [[cap (sports)|caps]] to date. 
 
 Kayal joined [[Maccabi Haifa F.C.|Maccabi Haifa]] in 2002 and made his professional debut in 2006 at the age of 18. He made 125 appearances and scored eight goals before moving to Celtic in 2010. He has received plaudits from many Scottish football pundits and was named the [[Scottish Premier League monthly awards|SPL player of the month]] for January 2011.&lt;ref name=PoMJan11/&gt; In January 2015, he joined Brighton.
 
@@ -1575,7 +1581,7 @@ Kayal is [[Muslim]].&lt;ref&gt;{{cite web|url=https://www.theguardian.com/footba
 [[Category:English Football League players]]
 [[Category:Israeli expatriate sportspeople in Scotland]]
 [[Category:Israeli expatriate sportspeople in the United Kingdom]]</text>
-      <sha1>3rzjgtdf7vnch185kx8c2e7xupsv5tv</sha1>
+      <sha1>rtl30248q1ufxl13wlw36ivbvltenmq</sha1>
     </revision>
   </page>
   <page>
@@ -5405,17 +5411,15 @@ Born in [[Buenos Aires]],&lt;ref name=BDFutbol/&gt; Schelotto also holds an Ital
     <ns>0</ns>
     <id>6180602</id>
     <revision>
-      <id>888056006</id>
-      <parentid>888055993</parentid>
-      <timestamp>2019-03-16T16:56:27Z</timestamp>
+      <id>889316896</id>
+      <parentid>889314649</parentid>
+      <timestamp>2019-03-24T22:43:40Z</timestamp>
       <contributor>
-        <username>Beeney xx</username>
-        <id>35180261</id>
+        <ip>79.176.0.126</ip>
       </contributor>
-      <comment>/* Club */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="31103">{{BLP sources|date=September 2015}}
+      <text xml:space="preserve" bytes="31197">{{BLP sources|date=September 2015}}
 {{Use dmy dates|date=July 2013}}
 {{Infobox football biography
 | name = Tomer Hemed
@@ -5481,14 +5485,14 @@ Born in [[Buenos Aires]],&lt;ref name=BDFutbol/&gt; Schelotto also holds an Ital
 | nationalgoals4 = 3
 | nationalyears5 = 2011–
 | nationalteam5 = [[Israel national football team|Israel]]
-| nationalcaps5 = 35
+| nationalcaps5 = 37
 | nationalgoals5 = 17
 | pcupdate = 16 March 2019
-| ntupdate = 14 October 2018
+| ntupdate = 24 March 2019
 }}
 
 '''Tomer Hemed''' ({{lang-he|תומר חמד}}; born 2 May 1987) is an [[Israel]]i professional [[association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for [[Football League Championship|Championship]] club [[Queens Park Rangers F.C.|Queens Park Rangers]] on loan from [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]] and plays internationally for the [[Israel national football team|Israel national team]].
-
+[[File:Hemed.JPG|thumb|Hemed with [[Israel national football team|Israel]] in 2015]]
 ==Club career==
 ===Maccabi Haifa===
 Hemed was called up to [[Maccabi Haifa F.C.|Maccabi Haifa]]'s first-team in early 2006, after scoring regularly for the under-18 side. He appeared three times with the main squad, scoring once, before returning to the youth side. He made his debut in the campaign on 3 March 2007, coming on as a [[Substitute (association football)|substitute]] in a 1–2 home loss against [[Bnei Yehuda Tel Aviv F.C.|Bnei Yehuda Tel Aviv]].&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/LeagueGameDetails.aspx?GAME_ID=113612|title=Maccabi Haifa 1–2 Hakoach Maccabi Amidar Ramat Gan|publisher=[[Israel Football Association]]|date=3 March 2007|accessdate=30 June 2014}}&lt;/ref&gt; Hemed scored his first professional goals on 26 May, netting his side's both goals in a 2–0 win at [[Maccabi Herzliya F.C.|Maccabi Herzliya]].&lt;ref&gt;{{cite web|url=http://eng.football.org.il/Leagues/Pages/LeagueGameDetails.aspx?GAME_ID=113671|title=Maccabi Herzliya 0–2 Maccabi Haifa|publisher=Israel Football Association|date=26 May 2007|accessdate=30 June 2014}}&lt;/ref&gt; In 2007, he travelled with the Under-21 side to [[2007 Torneo di Viareggio|that year]]'s [[Torneo di Viareggio]]; he scored once as Haifa was knocked-out in the group stage.
@@ -5529,7 +5533,7 @@ In May 2011, Hemed was called up to train with the national team for a friendly 
 Hemed scored his first international goal on 6 September, but in a 1–3 loss against [[Croatia national football team|Croatia]].&lt;ref&gt;{{cite web|url=http://www.uefa.com/uefaeuro/season=2012/matches/round=15171/match=2002248/postmatch/report/index.html|title=Eduardo double against Israel sends Croatia top|publisher=[[UEFA]].com|date=6 September 2011|accessdate=1 July 2014}}&lt;/ref&gt; He also scored a [[hat-trick]] in a 6–0 routing against [[Luxembourg national football team|Luxembourg]] on 12 October of the following year.&lt;ref&gt;{{cite web|url=http://www.uefa.com/worldcup/season=2014/matches/round=2000294/match=2008675/postmatch/report/index.html|title=Hemed hat-trick helps Israel overwhelm Luxembourg|publisher=UEFA.com|date=12 October 2012|accessdate=1 July 2014}}&lt;/ref&gt;
 
 ===International goals===
-:''As of match played 14 October 2018. Israel score listed first, score column indicates score after each Hemed goal.''&lt;ref&gt;{{cite web |url=http://eu-football.info/_player.php?id=27375 |title=Tomer Hemed |website=European Football |accessdate=13 October 2016}}&lt;/ref&gt;
+:''As of match played 24 March 2019. Israel score listed first, score column indicates score after each Hemed goal.''&lt;ref&gt;{{cite web |url=http://eu-football.info/_player.php?id=27375 |title=Tomer Hemed |website=European Football |accessdate=13 October 2016}}&lt;/ref&gt;
 
 {| class="wikitable sortable plainrowheaders"
 |+ International goals by date, venue, cap, opponent, score, result and competition
@@ -5593,7 +5597,7 @@ Hemed scored his first international goal on 6 September, but in a 1–3 loss ag
 |24 March 2018||[[Netanya Stadium]], [[Netanya]], Israel||align=center|31||{{fb|Romania}}||align=center|1–0|| align=center|1–2||Friendly||
 |-
 !scope=row|17
-|14 October 2018||[[Turner Stadium]], [[Be'er Sheva]], Israel||align=center|34||{{fb|Albania}}||align=center|1–0||align=center|2–1||[[2018–19 UEFA Nations League C]]||
+|14 October 2018||[[Turner Stadium]], [[Be'er Sheva]], Israel||align=center|34||{{fb|Albania}}||align=center|1–0||align=center|2–0||[[2018–19 UEFA Nations League C]]||
 |}
 
 ==Personal life==
@@ -5698,13 +5702,13 @@ In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel c
 {{Notelist}}
 
 ===International===
-{{updated|14 October 2018}}&lt;ref&gt;{{cite web |url=http://eng.football.org.il/NationalTeam/Pages/NationalTeamPlayerDetails.aspx?PLAYER_ID=4531&amp;NATIONAL_TEAM_ID=499 |archive-url=https://web.archive.org/web/20110625160921/http://eng.football.org.il/NationalTeam/Pages/NationalTeamPlayerDetails.aspx?PLAYER_ID=4531&amp;NATIONAL_TEAM_ID=499 |dead-url=yes |archive-date=25 June 2011 |title=National team player's details: Hemed Tomer |publisher=The Israel Football Association |accessdate=20 December 2010 }}&lt;/ref&gt;&lt;ref&gt;{{NFT player|id=43388|accessdate= }}&lt;/ref&gt;
+{{updated|24 March 2019}}&lt;ref&gt;{{cite web |url=http://eng.football.org.il/NationalTeam/Pages/NationalTeamPlayerDetails.aspx?PLAYER_ID=4531&amp;NATIONAL_TEAM_ID=499 |archive-url=https://web.archive.org/web/20110625160921/http://eng.football.org.il/NationalTeam/Pages/NationalTeamPlayerDetails.aspx?PLAYER_ID=4531&amp;NATIONAL_TEAM_ID=499 |dead-url=yes |archive-date=25 June 2011 |title=National team player's details: Hemed Tomer |publisher=The Israel Football Association |accessdate=20 December 2010 }}&lt;/ref&gt;&lt;ref&gt;{{NFT player|id=43388|accessdate= }}&lt;/ref&gt;
 
 {| class="wikitable" style="text-align:center"
 |-
 !National team!!Year!!Apps!!Goals
 |-
-|rowspan="9"|[[Israel national football team|Israel]]
+|rowspan="10"|[[Israel national football team|Israel]]
 |-
 |2011||5||1
 |-
@@ -5720,9 +5724,11 @@ In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel c
 |-
 |2017||6||0
 |-
-|2018||4||2
+|2018||5||2
 |-
-!colspan=2|Total!!35!!17
+|2019||1||0
+|-
+!colspan=2|Total!!37!!17
 |}
 
 ==Honours==
@@ -5777,7 +5783,7 @@ In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel c
 [[Category:Israel international footballers]]
 [[Category:Premier League players]]
 [[Category:English Football League players]]</text>
-      <sha1>b5frioxsr5wd00uqw9uw14gqw91s6kn</sha1>
+      <sha1>mzqbpfhenztkohaa9ozu5h63g5calzb</sha1>
     </revision>
   </page>
   <page>
@@ -5785,15 +5791,17 @@ In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel c
     <ns>0</ns>
     <id>52691721</id>
     <revision>
-      <id>888352432</id>
-      <parentid>883935404</parentid>
-      <timestamp>2019-03-18T16:02:58Z</timestamp>
+      <id>889407702</id>
+      <parentid>889407400</parentid>
+      <timestamp>2019-03-25T14:23:59Z</timestamp>
       <contributor>
-        <ip>41.113.30.156</ip>
+        <username>Liam E. Bekker</username>
+        <id>18600810</id>
       </contributor>
+      <comment>/* Brighton &amp; Hove Albion */ updated page, fixed ref</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="14318">{{Infobox football biography
+      <text xml:space="preserve" bytes="16697">{{Infobox football biography
 | name = Percy Tau
 | image = 
 | image_size = 
@@ -5823,15 +5831,15 @@ In 2013, he married Israeli model Shunit Faragi, where she was the Miss Israel c
 | goals4 = 6
 | nationalyears1 = 2015–
 | nationalteam1 = [[South Africa national football team|South Africa]]
-| nationalcaps1 = 17
-| nationalgoals1 = 7
-| club-update =  9 October 2018 
-| ntupdate = 20 November 2018
+| nationalcaps1 = 18
+| nationalgoals1 = 9
+| club-update = 9 October 2018
+| ntupdate = 25 march 2019
 }}
 
 '''Percy Tau''' (born 13 May 1994) is a South African professional [[association football|footballer]] who plays for [[Royale Union Saint-Gilloise|Union SG]], on loan from [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]], and the [[South Africa national football team|South African national team]].
 
-Tau began his footballing career with [[Premier Soccer League]] side [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]] where he made 100 appearances either side of a loan to [[Witbank Spurs F.C.|Witbank Spurs]]. During his time with Sundowns, Tau won the league title twice and the [[CAF Champions League]] once and was named [[PSL Awards#Footballer of the Year|Footballer of the Year]] and joint-[[Lesley Manyathela Golden Boot|top-goalscorer]] in his final season with the
+Tau began his footballing career with [[Premier Soccer League]] side [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]] where he made 100 appearances either side of a loan to [[Witbank Spurs F.C.|Witbank Spurs]]. During his time with Sundowns, he won the league title twice and the [[CAF Champions League]] once and was named [[PSL Awards#Footballer of the Year|Footballer of the Year]] and joint-[[Lesley Manyathela Golden Boot|top-goalscorer]] in his final season with the
 
 ==Education==
 Percy Tau has earned a [BCom] at University of South Africa
@@ -5850,12 +5858,14 @@ https://www.sowetanlive.co.za/sport/soccer/2018-07-24-percy-taus-agent-thrilled-
 ===Brighton &amp; Hove Albion===
 On 20 July 2018, Tau signed a four-year contract with [[English football|English]] [[Premier League]] club [[Brighton &amp; Hove Albion F.C.|Brighton &amp; Hove Albion]],&lt;ref&gt;{{cite web|url=https://www.brightonandhovealbion.com/news/2018/july/albion-complete-striker-signing/|title=Albion complete striker signing|publisher=Brighton &amp; Hove Albion F.C.|accessdate=20 July 2018}}&lt;/ref&gt; for an undisclosed transfer fee,&lt;ref name=FS/&gt; reported to be in the region of [[South African Rand|R]]50 million ([[Pound sterling|UK£]]2.7 million), a South African record sale of a domestic player.&lt;ref name=FS/&gt; Brighton manager, [[Chris Hughton]], confirmed that Tau would be loaned out shortly after his transfer, after failing a [[UK work permit]], as well as him wanting the South African international to gain European football experience.&lt;ref&gt;{{cite web|url=https://www.brightonandhovealbion.com/news/2018/july/tau-excited-to-make-loan-impact/|title=Tau excited to make loan impact|publisher=Brighton &amp; Hove Albion F.C.|accessdate=20 July 2018}}&lt;/ref&gt;
 
-On 15 August, Tau joined [[Belgian First Division B|Belgian second division]] side [[Royale Union Saint-Gilloise|Union SG]], owned by Brighton chairman [[Tony Bloom]],&lt;ref&gt;https://www.theargus.co.uk/sport/16239606.done-deal-albion-chairman-tony-bloom-completes-takeover-of-belgian-club-saint-gilloise/&lt;/ref&gt; on a season-long loan.&lt;ref&gt;{{cite news|url=https://www.sport24.co.za/Soccer/PSL/breaking-percy-tau-joins-belgian-second-division-side-20180815|title=BREAKING: Percy Tau joins Belgian second division side|publisher=News 24|date=15 August 2018|accessdate=15 August 2018}}&lt;/ref&gt;
+====Loan to Union SG====
+
+On 15 August, Tau joined [[Belgian First Division B|Belgian second division]] side [[Royale Union Saint-Gilloise|Union SG]], owned by Brighton chairman [[Tony Bloom]], on a season-long loan.&lt;ref&gt;{{cite news|url=https://www.theargus.co.uk/sport/16239606.done-deal-albion-chairman-tony-bloom-completes-takeover-of-belgian-club-saint-gilloise/|title=Done deal: Albion chairman Tony Bloom completes takeover of Belgian club Saint Gilloise|publisher=The Argus|last=Naylor|first=Andy|date=21 May 2018|accessdate=25 March 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.sport24.co.za/Soccer/PSL/breaking-percy-tau-joins-belgian-second-division-side-20180815|title=BREAKING: Percy Tau joins Belgian second division side|publisher=News 24|date=15 August 2018|accessdate=15 August 2018}}&lt;/ref&gt; He was immediately introduced into the first and played a particularly important role in the [[Belgian Cup]] during the first half of the season, scoring four goals in six appearances to help the club reach the semi-finals after recording historic wins over both [[R.S.C. Anderlecht|Anderlecht]] and [[K.R.C. Genk|Genk]].&lt;ref&gt;{{cite news|url=https://www.soccerladuma.co.za/news/articles/local/categories/players-abroad/percy-tau-helped-union-saint-gilloise-to-another-giant-killing/507861|title=Red Hot Tau Leads Giant-Killing In Belgium|publisher=Soccer Laduma|last=Crann|first=Joe|date=20 December 2018|accessdate=25 March 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.soccerladuma.co.za/news/articles/local/categories/players-abroad/it-was-a-mixed-night-for-bafana-s-percy-tau-lebo-phiri-in-europe/509333|title=Joy &amp; Heartache – Phiri &amp; Tau’s Cup Fate Confirmed|publisher=Soccer Laduma|date=30 January 2019|accessdate=25 March 2019}}&lt;/ref&gt;
 
 ==International career==
-Tau made his debut for [[South Africa national football team|South Africa]] on 17 October 2015 in a 0–2 loss to [[Angola national football team|Angola]] in a [[2016 African Nations Championship qualification]] match.&lt;ref name="NFT"/&gt;
+Tau made his debut for [[South Africa national football team|South Africa]] on 17 October 2015 in a 0–2 loss to [[Angola national football team|Angola]] in a [[2016 African Nations Championship qualification]] match.&lt;ref name="NFT"/&gt; On 25 March 2017, he scored his first international goal in the 69th minute against [[Guinea-Bissau national football team|Guinea-Bissau]] after receiving a yellow card two minutes earlier.
 
-On Saturday, 25 March 2017, Tau scored his first international goal in the 69th minute against [[Guinea-Bissau national football team|Guinea-Bissau]] after receiving a yellow card two minutes earlier.
+On 24 March 2019, he scored twice in a 2–1 win over [[Libya national football team|Libya]] to secure South Africa's qualification for the [[2019 Africa Cup of Nations]].&lt;ref&gt;{{cite news|url=https://www.timeslive.co.za/sport/soccer/2019-03-24-percy-tau-scores-two-goals-as-bafana-bafana-qualify-for-afcon/|title=Percy Tau scores two goals as Bafana Bafana qualify for Afcon|publisher=Times Live|last=Said|first=Nick|date=24 March 2019|accessdate=25 March 2019}}&lt;/ref&gt; His brace took him to four goals for the qualifying campaign, ranking him among the highest goalscorers in qualification.&lt;ref&gt;{{cite news|url=https://www.soccerladuma.co.za/news/articles/international/categories/african-football/percy-tau-ex-kaizerchiefs-striker-among-top-goalscorers-in-afcon-qualification/652035|title=Tau &amp; Ex-Chiefs Striker Among Top Goalscorers In AFCON Qualification|publisher=Soccer Laduma|last=Kappel|first=David|date=25 March 2019|accessdate=25 March 2019}}&lt;/ref&gt;
 
 ==Career statistics==
 
@@ -5923,6 +5933,11 @@ On Saturday, 25 March 2017, Tau scored his first international goal in the 69th 
 | 6. || 14 October 2018|| FNB Stadium, Johannesburg, South Africa || {{fb|SEY}} || align=center | '''4'''–0 || align=center | 6–0 || 2019 Africa Cup of Nations qualification
 |-
 | 7. || 20 November 2018 || Moses Mabhida Stadium, Durban, South Africa || {{fb|PAR}} || align=center | '''1'''–1 || align=center | 1–1 || Friendly
+|-
+| 8. || rowspan=2| 24 March 2019 || rowspan=2| [[Stade Taïeb Mhiri]], [[Sfax]], [[Tunisia]] || rowspan=2| {{fb|LBY}} || align=center | '''1'''–0 || rowspan=2| 2–1 || rowspan=2| 2019 Africa Cup of Nations qualification 
+|-
+| 9. || align=center | '''2'''–1
+|-
 |}
 
 ==Honours==
@@ -5952,7 +5967,7 @@ On Saturday, 25 March 2017, Tau scored his first international goal in the 69th 
 [[Category:Association football midfielders]]
 [[Category:South African Premier Division players]]
 [[Category:South Africa international soccer players]]</text>
-      <sha1>rdlpjnyfjekk9mo4t6n9gdbott10jil</sha1>
+      <sha1>6wnxics6x5a6esqyfqktg0sfm9868qp</sha1>
     </revision>
   </page>
   <page>

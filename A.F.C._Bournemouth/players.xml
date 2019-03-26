@@ -997,18 +997,16 @@ Gosling was charged with misconduct under Rule E8(b) of the FA's regulations, wh
     <ns>0</ns>
     <id>38030731</id>
     <revision>
-      <id>888983110</id>
-      <parentid>888945552</parentid>
-      <timestamp>2019-03-22T17:23:32Z</timestamp>
+      <id>889184740</id>
+      <parentid>888983110</parentid>
+      <timestamp>2019-03-24T01:38:59Z</timestamp>
       <contributor>
-        <username>Iggy the Swan</username>
-        <id>31885086</id>
+        <username>The Original Statto</username>
+        <id>34344132</id>
       </contributor>
-      <minor/>
-      <comment>Reverted 1 edit by [[Special:Contributions/Topnanan|Topnanan]] ([[User talk:Topnanan|talk]]): Google.com urls does not work in Wikipedia ([[WP:TW|2019 Swan]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="25369">{{EngvarB|date=December 2018}}
+      <text xml:space="preserve" bytes="25361">{{EngvarB|date=December 2018}}
 {{Use dmy dates|date=December 2018}}
 {{Infobox football biography
 | name = Nathan Aké
@@ -1077,7 +1075,7 @@ Gosling was charged with misconduct under Rule E8(b) of the FA's regulations, wh
 | club-update = 07:45, 22 March 2019 (UTC)
 | nationalteam-update = 20:42, 16 November 2018 (UTC)
 }}
-'''Nathan Benjamin Aké''' (born 18 February 1995) is a Dutch professional [[Association football|footballer]] who plays for English {{English football updater|AFCBourn}} club [[AFC Bournemouth]] and the [[Netherlands national football team|Netherlands national team]]. Although he predominantly plays as a [[central defender]], he has also been deployed as a [[left back]].&lt;ref name="dailystar1"&gt;{{cite news |url=http://www.dailystar.co.uk/sport/football/526529/Chelsea-Transfer-News-Nathan-Ake-Eddie-Howe-Gossip |title=Premier League boss explains why he has signed this Chelsea defender |work=Daily Star |accessdate=14 July 2016}}&lt;/ref&gt;
+'''Nathan Benjamin Aké''' (born 18 February 1995) is a Dutch professional [[Association football|footballer]] who plays for {{English football updater|AFCBourn}} club [[AFC Bournemouth]] and the [[Netherlands national football team|Netherlands national team]]. Although he predominantly plays as a [[central defender]], he has also been deployed as a [[left back]].&lt;ref name="dailystar1"&gt;{{cite news |url=http://www.dailystar.co.uk/sport/football/526529/Chelsea-Transfer-News-Nathan-Ake-Eddie-Howe-Gossip |title=Premier League boss explains why he has signed this Chelsea defender |work=Daily Star |accessdate=14 July 2016}}&lt;/ref&gt;
 
 ==Club career==
 ===Chelsea===
@@ -1266,7 +1264,7 @@ Aké's father is from the Ivory Coast.&lt;ref&gt;{{cite news |url=https://www.th
 [[Category:Expatriate footballers in England]]
 [[Category:Dutch expatriate sportspeople in England]]
 [[Category:Dutch people of Ivorian descent]]</text>
-      <sha1>jmq27fqtwrfgn0qg20fh4e7zs4pw958</sha1>
+      <sha1>o01ljukh4amqbyyo2sqnovt2sl7iyrj</sha1>
     </revision>
   </page>
   <page>
@@ -1843,14 +1841,15 @@ Mousset was born in France to a Senegalese father and a French mother, and is el
     <ns>0</ns>
     <id>32700299</id>
     <revision>
-      <id>888924948</id>
-      <parentid>888924923</parentid>
-      <timestamp>2019-03-22T07:53:50Z</timestamp>
+      <id>889257371</id>
+      <parentid>889255793</parentid>
+      <timestamp>2019-03-24T15:02:25Z</timestamp>
       <contributor>
-        <username>Lubo-Iv-95</username>
-        <id>35556849</id>
+        <username>Struway2</username>
+        <id>4761363</id>
       </contributor>
-      <comment>/* Small fix on stats bio */</comment>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/5.238.249.184|5.238.249.184]] ([[User talk:5.238.249.184|talk]]) to last version by Lubo-Iv-95</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="29261">{{Use dmy dates|date=March 2013}}
@@ -4361,14 +4360,15 @@ Begović's younger brother Denis plays for [[Bristol City F.C.|Bristol City's]] 
     <ns>0</ns>
     <id>44174775</id>
     <revision>
-      <id>888926216</id>
-      <parentid>886925976</parentid>
-      <timestamp>2019-03-22T08:10:34Z</timestamp>
+      <id>889222266</id>
+      <parentid>889222204</parentid>
+      <timestamp>2019-03-24T08:43:36Z</timestamp>
       <contributor>
-        <username>Lubo-Iv-95</username>
-        <id>35556849</id>
+        <username>Serols</username>
+        <id>9929111</id>
       </contributor>
-      <comment>/* Small fix on stats bio */</comment>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/86.183.74.55|86.183.74.55]] ([[User talk:86.183.74.55|talk]]) ([[WP:HG|HG]]) (3.4.6)</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="28123">{{EngvarB|date=January 2019}}
@@ -4615,22 +4615,21 @@ Solanke primarily plays as a [[Striker (association football)|striker]], althoug
     <ns>0</ns>
     <id>55287705</id>
     <revision>
-      <id>888926661</id>
-      <parentid>887601191</parentid>
-      <timestamp>2019-03-22T08:12:59Z</timestamp>
+      <id>889278956</id>
+      <parentid>889274197</parentid>
+      <timestamp>2019-03-24T17:57:40Z</timestamp>
       <contributor>
-        <username>Lubo-Iv-95</username>
-        <id>35556849</id>
+        <ip>2A00:23C5:C06:CF01:C2:16B7:283D:1121</ip>
       </contributor>
-      <comment>/* Small fix on stats bio */</comment>
+      <comment>Changed place of birth</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="16049">{{Use dmy dates|date=January 2019}}
+      <text xml:space="preserve" bytes="16045">{{Use dmy dates|date=January 2019}}
 {{Infobox football biography
 | name = Chris Mepham
 | fullname = Christopher James Mepham&lt;ref&gt;{{cite web |url=https://www.efl.com/siteassets/efl-documents/efl-professional-retain-list--free-transfers---2017-18.pdf |title=Club list of registered players: As at 19th May 2018: Brentford |publisher=English Football League |format=PDF |page=8 |accessdate=16 June 2018}}&lt;/ref&gt;
 | birth_date = {{birth date and age|1997|11|5|df=y}}&lt;ref name="AFCBprofile" /&gt;
-| birth_place = [[Hammersmith]], England&lt;ref name="AFCBprofile"&gt;{{Cite web |url=https://www.afcb.co.uk/teams/first-team/chris-mepham |title=Chris Mepham |website=AFCB |accessdate=31 January 2019}}&lt;/ref&gt;
+| birth_place = [[Greenford]], England&lt;ref name="AFCBprofile"&gt;{{Cite web |url=https://www.afcb.co.uk/teams/first-team/chris-mepham |title=Chris Mepham |website=AFCB |accessdate=31 January 2019}}&lt;/ref&gt;
 | height = {{convert|1.91|m|order=flip}}&lt;ref name="AFCBprofile" /&gt;
 | position = [[Defender (association football)#Centre-back|Centre-back]]
 | currentclub = [[A.F.C. Bournemouth|Bournemouth]]
@@ -4657,10 +4656,10 @@ Solanke primarily plays as a [[Striker (association football)|striker]], althoug
 | nationalgoals2 = 0
 | nationalyears3 = 2018–
 | nationalteam3 = [[Wales national football team|Wales]]
-| nationalcaps3 = 4
+| nationalcaps3 = 5
 | nationalgoals3 = 0
 | club-update = 08:12, 22 March 2019 (UTC)
-| nationalteam-update = 21 October 2018 (UTC)
+| nationalteam-update = 24 March 2019 (UTC)
 }}
 '''Christopher James Mepham''' (born 5 November 1997) is a professional [[association football|football]] [[central defender]] who plays for [[A.F.C. Bournemouth|Bournemouth]]. He is a product of the [[Brentford F.C.|Brentford]] and [[Chelsea F.C.|Chelsea]] [[Football academy|academies]] and is a [[Wales national football team|Wales]] international.
 
@@ -4781,7 +4780,7 @@ Mepham attended [[Queensmead School]] in [[South Ruislip]] and is a [[Queens Par
 [[Category:Wales international footballers]]
 [[Category:English Football League players]]
 [[Category:Premier League players]]</text>
-      <sha1>cre73oicxmdzxw8um95cki4pk7fkohy</sha1>
+      <sha1>es1rbcilu5zk4c6w4n027ggtc03u4cv</sha1>
     </revision>
   </page>
   <page>
@@ -5259,9 +5258,9 @@ Pugh primarily plays as a [[Midfielder#Winger|winger]]&lt;ref name="AFC Bournemo
     <ns>0</ns>
     <id>52471236</id>
     <revision>
-      <id>888661252</id>
-      <parentid>888164330</parentid>
-      <timestamp>2019-03-20T16:11:04Z</timestamp>
+      <id>889156943</id>
+      <parentid>888661252</parentid>
+      <timestamp>2019-03-23T21:32:19Z</timestamp>
       <contributor>
         <username>Samuel J Walker</username>
         <id>19099414</id>
@@ -5298,7 +5297,7 @@ Pugh primarily plays as a [[Midfielder#Winger|winger]]&lt;ref name="AFC Bournemo
 | goals3 = 0
 | years4 = 2019–
 | clubs4 = → [[AFC Wimbledon]] (loan)
-| caps4 = 12
+| caps4 = 13
 | goals4 = 0
 | nationalyears1 = 2016
 | nationalteam1 = [[England national under-18 football team|England U18]]
@@ -5317,7 +5316,7 @@ Pugh primarily plays as a [[Midfielder#Winger|winger]]&lt;ref name="AFC Bournemo
 | nationalcaps4 = 1
 | nationalgoals4 = 0
 | medaltemplates = 
-| club-update = 16:10, 20 March 2019 (UTC)
+| club-update = 21:31, 23 March 2019 (UTC)
 | nationalteam-update = 12:32, 5 September 2018 (UTC)
 }}
 
@@ -5356,7 +5355,7 @@ On 18 May 2018, Ramsdale received a call up to [[England national under-21 footb
 Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing the full 90 minutes in a 4–0 win against Qatar.
 
 ==Career statistics==
-{{updated|match played 16 March 2019}}
+{{updated|match played 23 March 2019}}
 
 {| class="wikitable" style="text-align: center"
 |+ Appearances and goals by club, season and competition
@@ -5389,10 +5388,10 @@ Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing 
 |[[AFC Wimbledon|AFC Wimbledon]]
 |[[2018-19 AFC Wimbledon season|2018–19]]&lt;ref&gt;{{soccerbase season|91150|2018|accessdate=6 January 2019}}&lt;/ref&gt;
 |[[EFL League One|League One]]
-|12||0||3||0||0||0||0||0||15||0
+|13||0||3||0||0||0||0||0||16||0
 |-
 !colspan="3"|Career total
-!31!!0!!5!!0!!0!!0!!0!!0!!36!!0
+!32!!0!!5!!0!!0!!0!!0!!0!!37!!0
 |}
 
 {{reflist|group=lower-alpha}}
@@ -5427,7 +5426,7 @@ Ramsdale made his first cap for the England u21 squad on 1st June 2018, playing 
 [[Category:English Football League players]]
 [[Category:England youth international footballers]]
 [[Category:England under-21 international footballers]]</text>
-      <sha1>39d1ycsbg279gth4jpbggfqrbz11zai</sha1>
+      <sha1>cvsvuvqyn97sdftu3f3rpxn3i2t5wz5</sha1>
     </revision>
   </page>
   <page>
@@ -6433,15 +6432,15 @@ Born in [[Blackburn]], England, Mahoney attended [[Witton Park High School]].&lt
     <ns>0</ns>
     <id>13436010</id>
     <revision>
-      <id>889038463</id>
-      <parentid>889037779</parentid>
-      <timestamp>2019-03-23T00:44:45Z</timestamp>
+      <id>889342058</id>
+      <parentid>889341525</parentid>
+      <timestamp>2019-03-25T02:29:33Z</timestamp>
       <contributor>
         <username>Mattythewhite</username>
         <id>553121</id>
       </contributor>
       <minor/>
-      <comment>Reverted 1 edit by [[Special:Contributions/213.233.132.131|213.233.132.131]] ([[User talk:213.233.132.131|talk]]) to last revision by Mattythewhite ([[WP:TW|TW]])</comment>
+      <comment>Reverted 1 edit by [[Special:Contributions/213.233.150.96|213.233.150.96]] ([[User talk:213.233.150.96|talk]]) to last revision by Mattythewhite ([[WP:TW|TW]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="57716">{{good article}}
