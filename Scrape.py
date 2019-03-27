@@ -33,13 +33,13 @@ params = (
 )
 
 response = requests.get('https://en.wikipedia.org/w/index.php', params=params)
-with open("Premier_League.xml", "w") as f:
-    f.write(response.text)
+# with open("Premier_League.xml", "w") as f:
+#     f.write(response.text)
 
 response = requests.get('https://en.wikipedia.org/w/index.php?title=Special:Export&pages=' + '%0A'.join(prem_teams))
 f_name = 'teams.xml'
-with open(f_name, "w") as f:
-    f.write(response.text)
+# with open(f_name, "w") as f:
+#     f.write(response.text)
 
 tree = ET.parse(f_name)
 root = tree.getroot()
@@ -54,6 +54,9 @@ for ch in root:
         continue
     players = re.findall('player *\|.+name=(?:\[\[)?(\w*) ([\w \']*)', text)
     player_list = ['_'.join(player).replace('\'\'', '').strip() for player in players]
+    with open('stanford-corenlp-full-2018-10-05/ner.corp', 'a') as wf:
+        for player in player_list:
+            wf.write(player.replace('_', '\tPLAYER\n') + '\tPLAYER\n')
     response = requests.get('https://en.wikipedia.org/w/index.php?title=Special:Export&pages=' + '%0A'.join(player_list))
     f_name = team + '/players.xml'
     if not os.path.exists(os.path.dirname(f_name)):
@@ -62,12 +65,12 @@ for ch in root:
         except OSError as exc: # Guard against race condition
             if exc.errno != errno.EEXIST:
                 raise
-    with open(f_name, "w") as f:
-        f.write(response.text)
-    os.system('python wikiextractor/WikiExtractor.py -o ' + team + ' ' + team + '/players.xml')
-
-os.system('python wikiextractor/WikiExtractor.py -o league Premier_League.xml')
-os.system('python wikiextractor/WikiExtractor.py -o teams teams.xml')
+#     with open(f_name, "w") as f:
+#         f.write(response.text)
+#     os.system('python wikiextractor/WikiExtractor.py -o ' + team + ' ' + team + '/players.xml')
+#
+# os.system('python wikiextractor/WikiExtractor.py -o league Premier_League.xml')
+# os.system('python wikiextractor/WikiExtractor.py -o teams teams.xml')
 
 
 
