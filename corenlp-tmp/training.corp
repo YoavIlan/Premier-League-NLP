@@ -1,24 +1,24 @@
-0	PERSON	0	O	NNP/NNP	Petr/Čech	O	O	O
+0	Peop	0	O	NNP/NNP	Petr/Čech	O	O	O
 0	O	1	O	-LRB-	(	O	O	O
 0	O	2	O	:	;	O	O	O
 0	O	3	O	VBN	born	O	O	O
-0	DATE	4	O	CD	20	O	O	O
-0	DATE	5	O	NNP	May	O	O	O
-0	DATE	6	O	CD	1982	O	O	O
+0	other	4	O	CD	20	O	O	O
+0	other	5	O	NNP	May	O	O	O
+0	other	6	O	CD	1982	O	O	O
 0	O	7	O	-RRB-	)	O	O	O
 0	O	8	O	VBZ	is	O	O	O
 0	O	9	O	DT	a	O	O	O
-0	NATIONALITY	10	O	JJ	Czech	O	O	O
+0	loc	10	O	JJ	Czech	O	O	O
 0	O	11	O	JJ	professional	O	O	O
-0	TITLE	12	O	NN	footballer	O	O	O
+0	other	12	O	NN	footballer	O	O	O
 0	O	13	O	WP	who	O	O	O
 0	O	14	O	VBZ	plays	O	O	O
 0	O	15	O	IN	as	O	O	O
 0	O	16	O	DT	a	O	O	O
-0	TITLE	17	O	NN	goalkeeper	O	O	O
+0	other	17	O	NN	goalkeeper	O	O	O
 0	O	18	O	IN	for	O	O	O
 0	O	19	O	NN	club	O	O	O
-0	ORGANIZATION	20	O	NN	Arsenal	O	O	O
+0	org	20	O	NN	Arsenal	O	O	O
 0	O	21	O	.	.	O	O	O
 
 0   10  is
