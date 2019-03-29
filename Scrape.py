@@ -56,7 +56,7 @@ for ch in root:
     player_list = ['_'.join(player).replace('\'\'', '').strip() for player in players]
     with open('stanford-corenlp-full-2018-10-05/ner.corp', 'a') as wf:
         for player in player_list:
-            wf.write(player.replace('_', '\tPLAYER\n') + '\tPLAYER\n')
+            wf.write(player.replace('_', '\tPLAYER\n') + '\tPLAYER\n\n')
     response = requests.get('https://en.wikipedia.org/w/index.php?title=Special:Export&pages=' + '%0A'.join(player_list))
     f_name = team + '/players.xml'
     if not os.path.exists(os.path.dirname(f_name)):

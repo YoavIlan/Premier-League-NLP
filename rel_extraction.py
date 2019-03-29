@@ -15,26 +15,31 @@ def chunkstring(string, length):
 
 nlp = StanfordCoreNLP('http://localhost', port=9000)
 
-# sentence = "During his eleven year stay at the club, Čech registered 494 senior appearances, making him the club's highest overseas appearance maker, and sixth all-time. He also helped the club win four Premier League titles, four FA Cups, three League Cups, one UEFA Europa League title, and one UEFA Champions League title."
-# sentence = "In France, Čech starred in an under-performing team, and soon moved to Premier League side Chelsea for a fee of £7 million (€9.8 million) in 2004, which was then a club record transfer for a goalkeeper."
+# sentence = "Gonzalo Gerardo Higuaín (, born 10 December 1987) is an Argentine professional footballer who plays as a striker for English club Chelsea, on loan from Juventus, and the Argentina national team."
 # pos = nlp.pos_tag(sentence)
 # ner = nlp.ner(sentence)
-# with open('stanford-corenlp-full-2018-10-05/training.corp', 'w') as f:
-#     for i in range(len(pos)):
-#         sent = '0\t' + ner[i][1] + '\t' + str(i) + '\tO\t' + pos[i][1] + '\t' + pos[i][0] + '\tO\tO\tO'
-#         print(sent)
+# for i in range(len(pos)):
+#     sent = '0\t' + ner[i][1] + '\t' + str(i) + '\tO\t' + pos[i][1] + '\t' + pos[i][0] + '\tO\tO\tO'
+#     print(sent)
+pwd = os.getcwd() + '/Stanford_OpenIE_Python/corpus'
 
-info = []
-with open('Stanford_OpenIE_Python/corpus/Arsenal_F.C.txt') as file:
-    file_str = file.read()
+for f in os.listdir(pwd):
+    info = []
 
-    for sentence in chunkstring(file_str, 1000):
-        pros = {'annotators': 'relation', 'outputFormat': 'text'}
-        relations = nlp.annotate(sentence, properties=pros)
-        # print(relations)
-        info += re.findall('RelationMention \[type=(is).*\s.*type=PEOPLE.*value="(.*)".*\s.*type=NATIONALITY.*value="(.*)"', relations)
-        info += re.findall('RelationMention \[type=(plays_for).*\s.*type=PEOPLE.*value="(.*)".*\s.*type=ORGANIZATION.*value="(.*)"', relations)
-with open('Stanford_OpenIE_Python/relations/Arsenal_F.C.txt', 'w') as wf:
-    for triple in info:
-        wf.write(triple[1] + ' | ' + triple[0] + ' | ' + triple[2] + '\n')
+    with open('Stanford_OpenIE_Python/corpus/'+f) as file:
+        file_str = file.read()
+        num = len(file_str) // 1000 + 1
+        count = 1
+        for sentence in chunkstring(file_str, 1000):
+            print(f,'part', count, 'of', num)
+            count += 1
+            pros = {'annotators': 'relation', 'outputFormat': 'text'}
+            relations = nlp.annotate(sentence, properties=pros)
+            # if re.findall('RelationMention \[type=(plays_for).*\s.*type=PEOPLE.*value="(.*)".*\s.*type=ORGANIZATION.*value="(.*)"', relations):
+            # print(relations)
+            info += re.findall('RelationMention \[type=(is).*\s.*type=PEOPLE.*value="(.*)".*\s.*type=NATIONALITY.*value="(.*)"', relations)
+            info += re.findall('RelationMention \[type=(plays_for).*\s.*type=PEOPLE.*value="(.*)".*\s.*type=ORGANIZATION.*value="(.*)"', relations)
+    with open('Stanford_OpenIE_Python/relations/'+f, 'w') as wf:
+        for triple in info:
+            wf.write(triple[1] + ' | ' + triple[0] + ' | ' + triple[2] + '\n')
 nlp.close() # Do not forget to close! The backend server will consume a lot memery.
